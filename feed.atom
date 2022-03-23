@@ -1,491 +1,349 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-23T13:34:20.592Z</id>
-    <title>osmos::feed</title>
-    <updated>2022-03-23T13:34:20.592Z</updated>
+    <id>https://hashkeydx.github.io/jp-news/index.html</id>
+    <title>BlockChain::FlashNews</title>
+    <updated>2022-03-23T13:42:21.135Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
+    <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Is WordPress a Code or No-code Tool?]]></title>
-        <id>6236e318cdcd57069ddfbc09</id>
-        <link href="https://www.freecodecamp.org/news/is-wordpress-a-code-or-no-code-tool/"/>
-        <updated>2022-03-23T01:56:34.000Z</updated>
-        <summary type="html"><![CDATA[WordPress is an open-source content management system (CMS) for building any kind of website – an eCommerce site, a portfolio, a forum, and many more. WordPress started out as a simple platform for creating blogs, but today WordPress powers over 43% of the total websites on earth, and that number]]></summary>
+        <title type="html"><![CDATA[ポリゴン、Minaプロトコル統合でプライバシー強化と検証性向上を目指す]]></title>
+        <id>https://coinpost.jp/?p=275595</id>
+        <link href="https://coinpost.jp/?p=275595"/>
+        <updated>2022-03-23T09:36:46.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのスケーラビリティソリューションを提供するポリゴンは、9月9日、Polygon POS上で「Mina」プロトコルの実装に取り組むと発表した。]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>幸田直子</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Else-If in Python – Python If Statement Example Syntax]]></title>
-        <id>623848d7cdcd57069ddfc40d</id>
-        <link href="https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/"/>
-        <updated>2022-03-22T20:41:35.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution]]></summary>
+        <title type="html"><![CDATA[日ハムの新庄監督、最高額1,000万円の限定NFTなど販売へ]]></title>
+        <id>https://coinpost.jp/?p=332999</id>
+        <link href="https://coinpost.jp/?p=332999"/>
+        <updated>2022-03-23T09:31:30.000Z</updated>
+        <summary type="html"><![CDATA[プロ野球チーム「北海道日本ハムファイターズ」で監督を務める新庄剛志氏は22日、自身のNFT（非代替性トークン）を販売することを発表した。最高額は1,000万円、収益の一部は、「BIGBOSS基金」で活用される予定だ。]]></summary>
         <author>
-            <name>Zaira Hira</name>
+            <name>S.Inosita</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Go Programming by Building 11 Projects]]></title>
-        <id>623a17b2cdcd57069ddfd0b3</id>
-        <link href="https://www.freecodecamp.org/news/learn-go-by-building-11-projects/"/>
-        <updated>2022-03-22T18:50:22.000Z</updated>
-        <summary type="html"><![CDATA[The Go programming language is an open-source and compiled language designed by Google. Go is popular for cloud-based or server-side applications. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Go skills by teaching you how to create eleven projects. Akhil Sharma developed]]></summary>
+        <title type="html"><![CDATA[欧州中央銀行ラガルド総裁、仮想通貨の制裁回避利用を警戒]]></title>
+        <id>https://coinpost.jp/?p=333008</id>
+        <link href="https://coinpost.jp/?p=333008"/>
+        <updated>2022-03-23T09:07:43.000Z</updated>
+        <summary type="html"><![CDATA[クリスティーヌ・ラガルド氏は、仮想通貨（暗号資産）が対ロシア経済制裁を迂回する手段として使用される可能性について触れ、仮想通貨取引所などのサービス・プロバイダーが「共犯者」であると指摘した。]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Remove the Start Text from PowerShell]]></title>
-        <id>62358f0ccdcd57069ddfb8b4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-starting-text-from-powershell/"/>
-        <updated>2022-03-22T17:18:05.000Z</updated>
-        <summary type="html"><![CDATA[If you are using a Windows operating system, you have likely used the latest Windows PowerShell at least once.  Whenever you open the PowerShell, you get a text message inside the terminal which shows the terminal version, the link to download the latest PowerShell, and so on.  Sometimes]]></summary>
+        <title type="html"><![CDATA[米フロリダ州知事、ビットコインを使った納税対応に意欲]]></title>
+        <id>https://coinpost.jp/?p=333009</id>
+        <link href="https://coinpost.jp/?p=333009"/>
+        <updated>2022-03-23T08:44:25.000Z</updated>
+        <summary type="html"><![CDATA[米フロリダ州の知事は分散化された仮想通貨による企業の納税対応に向けて調整していると発言。昨年12月に続き、ビットコインでの納税に意欲的な姿勢を示した。]]></summary>
         <author>
-            <name>Md. Fahim Bin Amin</name>
+            <name>Noah Sakamaki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Good Design Is All About Good Timing]]></title>
-        <id>https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/</id>
-        <link href="https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/"/>
-        <updated>2022-03-22T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <title type="html"><![CDATA[LINE、NFTを本格展開──吉本興業やスクエニなどと100種類以上を出品【更新】]]></title>
+        <id>https://www.coindeskjapan.com/?p=144328</id>
+        <link href="https://www.coindeskjapan.com/144328/"/>
+        <updated>2022-03-23T08:01:53.000Z</updated>
+        <summary type="html"><![CDATA[LINEがNFT事業を本格展開する。LINE子会社のLVCを通じて、4月13日に、NFT総合マーケットプレイス「LINE NFT」のサービス提供を始める。LIN ...
+LINE、NFTを本格展開──吉本興業やスクエニなどと100種類以上を出品【更新】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>菊池友信</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Operator – Logical Operators in Python]]></title>
-        <id>62346eeacdcd57069ddfae72</id>
-        <link href="https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/"/>
-        <updated>2022-03-22T00:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn]]></summary>
+        <title type="html"><![CDATA[日本円ステーブルコインJPYCを用いた「第2回 日本円ハッカソン」共催のお知らせ]]></title>
+        <id>52bbe2e83f644ee1d5adacf0d9c5ddcc</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f2a36263df140f9365d168e0ca0c2350d667"/>
+        <updated>2022-03-23T08:00:03.000Z</updated>
+        <summary type="html"><![CDATA[JPYCのプレスリリース（2022年3月23日 17時00分）日本円ステーブルコインJPYCを用いた[第2回 日本円ハッカソン]共催のお知らせ]]></summary>
         <author>
-            <name>Suchandra Datta</name>
+            <name>JPYC</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Manage State in a React App – With Hooks, Redux, and More]]></title>
-        <id>62376c2ecdcd57069ddfbf7f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/"/>
-        <updated>2022-03-21T23:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also]]></summary>
+        <title type="html"><![CDATA[LINEのNFTマーケットプレイス、4月13日から提供へ　吉本興業など17コンテンツと提携]]></title>
+        <id>https://coinpost.jp/?p=332888</id>
+        <link href="https://coinpost.jp/?p=332888"/>
+        <updated>2022-03-23T07:58:59.000Z</updated>
+        <summary type="html"><![CDATA[メッセージアプリを提供するLINEは23日、NFTマーケットプレイス「LINE NFT」を4月13日から提供開始する。吉本興業ホールディングスなど17コンテンツと提携し、100種類以上のNFT販売を行う計画だ。]]></summary>
         <author>
-            <name>Germán Cocca</name>
+            <name>S.Inosita</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VS Code Extensions to Increase Developer Productivity]]></title>
-        <id>6238da58cdcd57069ddfc85e</id>
-        <link href="https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/"/>
-        <updated>2022-03-21T20:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code is one of the most popular code editors used by software developers. While it has many great features built-in, there are a lot of extensions you can install to increase your productivity.  We just published a video on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
+        <title type="html"><![CDATA[Astar Networkとdouble jumpが提携、IPを活⽤したNFTビジネス展開へ]]></title>
+        <id>https://coinpost.jp/?p=332781</id>
+        <link href="https://coinpost.jp/?p=332781"/>
+        <updated>2022-03-23T07:37:29.000Z</updated>
+        <summary type="html"><![CDATA[⽇本発パブリックブロックチェーンAstar Networkは23日、ブロックチェーンゲームなど手掛けるdouble jump.tokyo株式会社との提携を発表した。今後は協業して、IPを活用したNFT分野のエコシステムの拡大行っていく予定だ。]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>S.Inosita</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Write HTML, the HTML Way (Not the XHTML Way)]]></title>
-        <id>https://css-tricks.com/?p=363745</id>
-        <link href="https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/"/>
-        <updated>2022-03-21T20:08:38.000Z</updated>
-        <summary type="html"><![CDATA[You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
-What is the XHTML way of writing HTML, and what …
-Write HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[ゆるキャラに「リアル資産」を託すの？！　大胆すぎるAI投資サービス「マイメイト」が本格稼働]]></title>
+        <id>https://www.coindeskjapan.com/?p=140603</id>
+        <link href="https://www.coindeskjapan.com/140603/"/>
+        <updated>2022-03-23T07:00:41.000Z</updated>
+        <summary type="html"><![CDATA[こんな時代がやってくるとは……。かわいい見た目の「ゆるキャラAI」にリアルな資産を運用してもらうという、なんとも大胆すぎるサービス「マイメイト」が2022年1月 ...
+ゆるキャラに「リアル資産」を託すの？！　大胆すぎるAI投資サービス「マイメイト」が本格稼働 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>Jens Oliver Meiert</name>
+            <name>coindesk JAPAN 広告制作チーム</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Solve freeCodeCamp's Record Collection Challenge]]></title>
-        <id>6236cc8acdcd57069ddfba7a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-solve-the-record-collection-challenge/"/>
-        <updated>2022-03-21T18:14:42.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp's JavaScript certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/]  is filled with hundreds of interactive challenges. But one of the hardest ones to tackle for most beginners is the Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection] . In this article, I will walk you through Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-str]]></summary>
+        <title type="html"><![CDATA[仮想通貨取引所FTX、インディーゲーム「Storybook Brawl」開発会社を買収]]></title>
+        <id>https://coinpost.jp/?p=332880</id>
+        <link href="https://coinpost.jp/?p=332880"/>
+        <updated>2022-03-23T06:23:48.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所FTXは22日、デジタルカードゲーム「Storybook Brawl」の開発元である「Good Luck Games」の買収を発表した。FTXのゲーム部門FTX Gamingに統合されることになる。]]></summary>
         <author>
-            <name>Jessica Wilkins</name>
+            <name>幸田直子</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chmod Command – How to Change File Permissions in Linux]]></title>
-        <id>62375a8dcdcd57069ddfbec1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-file-permissions-with-the-chmod-command-on-linux/"/>
-        <updated>2022-03-21T15:33:36.000Z</updated>
-        <summary type="html"><![CDATA[One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created]]></summary>
+        <title type="html"><![CDATA[FRBのタカ派姿勢、ビットコインの下落圧力となるか]]></title>
+        <id>https://www.coindeskjapan.com/?p=144279</id>
+        <link href="https://www.coindeskjapan.com/144279/"/>
+        <updated>2022-03-23T06:00:59.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備理事会（FRB）が3年以上ぶりに利上げを実施すると発表してから約1週間が経過したが、ビットコイン（BTC）は依然として4万ドルの大台を上回っている。だ ...
+FRBのタカ派姿勢、ビットコインの下落圧力となるか first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>Daniel Rosa</name>
+            <name>Helene Braun</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get the Current Time in Python with Datetime]]></title>
-        <id>6236e160cdcd57069ddfbbbf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-current-time-in-python-with-datetime/"/>
-        <updated>2022-03-21T13:52:01.000Z</updated>
-        <summary type="html"><![CDATA[In your Python applications, you might want to work with time to add functionalities like timestamps, check the time of a user’s activity, and more. One of the modules that helps you work with date and time in Python is datetime. With the datetime module, you can get the current]]></summary>
+        <title type="html"><![CDATA[bitFlyer、24日よりシンボル（XYM）上場へ]]></title>
+        <id>https://coinpost.jp/?p=332949</id>
+        <link href="https://coinpost.jp/?p=332949"/>
+        <updated>2022-03-23T05:54:54.000Z</updated>
+        <summary type="html"><![CDATA[国内大手仮想通貨取引所を運営する株式会社bitFlyerは、3月24日より「シンボル（XYM）」の付与、及びアルトコイン販売所におけるXYMの取り扱い開始予定を発表した。]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties]]></title>
-        <id>https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/</id>
-        <link href="https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/"/>
-        <updated>2022-03-21T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.]]></summary>
+        <title type="html"><![CDATA[新規通貨「シンボル（XYM）」の付与と取り扱い開始のお知らせ]]></title>
+        <id>57960627c991a3720bd3856918f96e4c</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a76d63df140f9364d261e8c30c2350d667"/>
+        <updated>2022-03-23T05:30:13.000Z</updated>
+        <summary type="html"><![CDATA[株式会社bitFlyerのプレスリリース（2022年3月23日 14時30分）新規通貨[シンボル（XYM）]の付与と取り扱い開始のお知らせ]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+            <name>株式会社bitFlyer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing SVG Patterns to Their Smallest Size]]></title>
-        <id>https://css-tricks.com/?p=364090</id>
-        <link href="https://css-tricks.com/optimizing-svg-patterns/"/>
-        <updated>2022-03-18T22:31:22.000Z</updated>
-        <summary type="html"><![CDATA[I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …
-Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Jelurida、スイスの「ブロックチェーン技術協会」との提携を発表]]></title>
+        <id>https://coinpost.jp/?p=332827</id>
+        <link href="https://coinpost.jp/?p=332827"/>
+        <updated>2022-03-23T05:00:40.000Z</updated>
+        <summary type="html"><![CDATA[ジェルリダ（Jelurida）が18日、スイスのティチーノ州を拠点とするシンクタンク「Ticino Blockchain Technologies Association（ティチーノ・ブロックチェーン技術協会）」とのパートナーシップ締結を発表。また、Play-to-Earnゲームの新ロードマップも公開された。]]></summary>
         <author>
-            <name>Bence Szabó</name>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Make A Drag-and-Drop File Uploader With Vue.js 3]]></title>
-        <id>https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/</id>
-        <link href="https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/"/>
-        <updated>2022-03-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.]]></summary>
+        <title type="html"><![CDATA[おひとりさま・同性婚の相続をもっとかんたんに。オンライン相続支援サービス『サラス』正式版リリースのお知らせ]]></title>
+        <id>fb4c4acd4fe6a4666d0e0cbe2f5bc677</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36263df140f9363d06de9c60c2350d667"/>
+        <updated>2022-03-23T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[SAMURAI Security株式会社のプレスリリース（2022年3月23日 14時00分）おひとりさま・同性婚の相続をもっとかんたんに。オンライン相続支援サービス『サラス』正式版リリースのお知らせ]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Joseph Zimmerman)</name>
+            <name>SAMURAI Security株式会社</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claymorphism: Will It Stick Around?]]></title>
-        <id>https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/</id>
-        <link href="https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/"/>
-        <updated>2022-03-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.]]></summary>
+        <title type="html"><![CDATA[Minto、「LINE NFT」サービス開始に伴い人気キャラクター・クリエイターのNFTを販売開始]]></title>
+        <id>0c86ab2a62594bd9fee897608839fed0</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f2a26363df140f9362dc6ae6c60c2350d667"/>
+        <updated>2022-03-23T04:30:02.000Z</updated>
+        <summary type="html"><![CDATA[株式会社Mintoのプレスリリース（2022年3月23日 13時30分）Minto、[LINE NFT]サービス開始に伴い人気キャラクター・クリエイターのNFTを販売開始]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+            <name>株式会社Minto</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS-Tricks is joining DigitalOcean!]]></title>
-        <id>https://css-tricks.com/?p=365042</id>
-        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
-        <updated>2022-03-15T12:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Hey hey!
-I’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)
-CSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!
-You can hear …
-CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[ニューヨーク州議会、仮想通貨マイニング規制案の議論進む]]></title>
+        <id>https://coinpost.jp/?p=332884</id>
+        <link href="https://coinpost.jp/?p=332884"/>
+        <updated>2022-03-23T03:54:48.000Z</updated>
+        <summary type="html"><![CDATA[米ニューヨーク州の環境保全委員会は仮想通貨マイニングに関する規制案を可決。州議会の上院と下院でも審議が進む形となった一方で、採掘企業の新設に関する条項の一部は変更された。]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Noah Sakamaki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving The CI/CD Flow For Your Application]]></title>
-        <id>https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/</id>
-        <link href="https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/"/>
-        <updated>2022-03-14T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.]]></summary>
+        <title type="html"><![CDATA[Crypto.com、FIFAワールドカップ2022の公式スポンサーへ]]></title>
+        <id>https://coinpost.jp/?p=332790</id>
+        <link href="https://coinpost.jp/?p=332790"/>
+        <updated>2022-03-23T03:30:28.000Z</updated>
+        <summary type="html"><![CDATA[FIFAは、仮想通貨取引所などを運営するCrypto.comが、2022年カタールワールドカップの公式スポンサーを務めることを発表。パートナーシップの内容や関係者のコメントが公開されている。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Tom Hastjarjanto)</name>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Complete Guide To Mobile App Marketing]]></title>
-        <id>https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/</id>
-        <link href="https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/"/>
-        <updated>2022-03-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.]]></summary>
+        <title type="html"><![CDATA[OECD、仮想通貨の国際的な税務報告の枠組みを協議へ]]></title>
+        <id>https://coinpost.jp/?p=332749</id>
+        <link href="https://coinpost.jp/?p=332749"/>
+        <updated>2022-03-23T03:21:08.000Z</updated>
+        <summary type="html"><![CDATA[経済協力開発機構（OECD）はビットコインなど仮想通貨取引について、税務情報交換の枠組みを示す協議文書を発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Sona Dabaghyan)</name>
+            <name>A.Yamada</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Introduction To AWS Cloud Development Kit (CDK)]]></title>
-        <id>https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/</id>
-        <link href="https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/"/>
-        <updated>2022-03-10T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.]]></summary>
+        <title type="html"><![CDATA[【老舗画廊×NFT×メタバース】老舗画廊にてデジタルアートを取り入れた新たな試み]]></title>
+        <id>5213f58f66f463e034d3be044b8ec726</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26b63df140f9369dd68e5c60c2350d667"/>
+        <updated>2022-03-23T03:03:46.000Z</updated>
+        <summary type="html"><![CDATA[株式会社META ART MANAGEMENTのプレスリリース（2022年3月23日 12時03分） 老舗画廊×NFT×メタバース 老舗画廊にてデジタルアートを取り入れた新たな試み]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vivek Maskara)</name>
+            <name>株式会社META ART MANAGEMENT</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/</id>
-        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/"/>
-        <updated>2022-03-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <title type="html"><![CDATA[Worldcoin、a16zなどから約110億円を資金調達＝The Information]]></title>
+        <id>https://coinpost.jp/?p=332810</id>
+        <link href="https://coinpost.jp/?p=332810"/>
+        <updated>2022-03-23T02:59:28.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨プロジェクトWorldcoinは、a16zなどの投資家から新たに1億ドル（約110億円）を調達していると報じられた。同プロジェクトは全世界への仮想通貨の配布を計画している。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Performance Signals For Customizing Website UX]]></title>
-        <id>https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/</id>
-        <link href="https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/"/>
-        <updated>2022-03-07T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.]]></summary>
+        <title type="html"><![CDATA[【US市場】ビットコイン、回復傾向──一時、約3週間ぶりの高値]]></title>
+        <id>https://www.coindeskjapan.com/?p=144285</id>
+        <link href="https://www.coindeskjapan.com/144285/"/>
+        <updated>2022-03-23T02:45:48.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は22日、暗号資産トレーダーの強気センチメントが改善し、約3週間ぶりの高値となる4万3300ドルを記録した。日本時間23日11時30分時点 ...
+【US市場】ビットコイン、回復傾向──一時、約3週間ぶりの高値 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+            <name>Damanick Dantes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Create An Information Architecture That Is Easy To Use]]></title>
-        <id>https://smashingmagazine.com/2022/03/easy-information-architecture/</id>
-        <link href="https://smashingmagazine.com/2022/03/easy-information-architecture/"/>
-        <updated>2022-03-04T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.]]></summary>
+        <title type="html"><![CDATA[NFTスタジオYuga Labs、FTXやa16zから550億円超を資金調達]]></title>
+        <id>https://coinpost.jp/?p=332789</id>
+        <link href="https://coinpost.jp/?p=332789"/>
+        <updated>2022-03-23T02:12:07.000Z</updated>
+        <summary type="html"><![CDATA[NFTスタジオのYuga Labsは総額550億円以上の資金調達ラウンドの完了を発表。仮想通貨取引所FTXや大手VCa16z、ブロックチェーンゲームスタジオのAnimoca Brandsなどが出資に参加した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
+            <name>Noah Sakamaki</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Say Hello to selectmenu, a Fully Style-able select Element]]></title>
-        <id>https://css-tricks.com/?p=363972</id>
-        <link href="https://css-tricks.com/the-selectmenu-element/"/>
-        <updated>2022-03-03T15:35:32.000Z</updated>
-        <summary type="html"><![CDATA[I want to introduce you to a new, experimental form control called <selectmenu>. We’ll get deep into it, including how much easier it is to style than a traditional <select> element. But first, let’s fill in some context …
-Say Hello to selectmenu, a Fully Style-able select Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Bored ApesのNFTスタートアップYuga Labs、約4836億円のモンスター評価額でシードラウンドを調達]]></title>
+        <id>476794</id>
+        <link href="https://jp.techcrunch.com/2022/03/23/2022-03-22-bored-apes-nft-startup-yuga-labs-raises-at-monster-4-billion-valuation/"/>
+        <updated>2022-03-23T01:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Bored Apes Yacht Clubを運営するこのマイアミのNFT企業は、これまで資金調達を行っていなかったが、以前からNFTブームの主要企業を支援しようとするVCからの注目を集めていた。 Read More]]></summary>
         <author>
-            <name>Patrick Brosset</name>
+            <name>Lucas Matney,katsuyukiyasui</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build Membership Businesses with Memberful]]></title>
-        <id>https://css-tricks.com/?p=364001</id>
-        <link href="https://css-tricks.com/build-membership-businesses-with-memberful/"/>
-        <updated>2022-03-03T15:33:57.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-What would your business be like if you sold memberships? It might be more than fun to think about, in fact, it might just be transformative. With membership, would you include little add-ons or …
-Build Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[doublejump.tokyo、Astarと提携──NFTで⽇本発パブリックブロックチェーンを活用]]></title>
+        <id>https://www.coindeskjapan.com/?p=144307</id>
+        <link href="https://www.coindeskjapan.com/144307/"/>
+        <updated>2022-03-23T01:00:40.000Z</updated>
+        <summary type="html"><![CDATA[NFT事業を⽀援するdouble jump.tokyo（ダブルジャンプトウキョウ）は、⽇本発のパブリックブロックチェーンを開発するAstar Network（ア ...
+doublejump.tokyo、Astarと提携──NFTで⽇本発パブリックブロックチェーンを活用 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>菊池友信</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Web Layouts For Dual-Screen And Foldable Devices]]></title>
-        <id>https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
-        <link href="https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
-        <updated>2022-03-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.]]></summary>
+        <title type="html"><![CDATA[Crypto.comが「2022 FIFAワールドカップ」公式スポンサーに]]></title>
+        <id>https://www.coindeskjapan.com/?p=144288</id>
+        <link href="https://www.coindeskjapan.com/144288/"/>
+        <updated>2022-03-23T00:50:14.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のCrypto.comは22日、「2022 FIFAワールドカップ」の公式スポンサーになると発表した。ワールドカップの会場に同取引所の ...
+Crypto.comが「2022 FIFAワールドカップ」公式スポンサーに first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Stephanie Stimac)</name>
+            <name>Eli Tan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
-        <id>https://css-tricks.com/?p=364350</id>
-        <link href="https://css-tricks.com/performance-links-february-2022/"/>
-        <updated>2022-03-02T21:26:50.000Z</updated>
-        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
-The new WebPageTest website design
-From fonts to SVG: an icon migration strategy
-…
-7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[エルサルバドル、ビットコイン債の発行延期：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=144276</id>
+        <link href="https://www.coindeskjapan.com/144276/"/>
+        <updated>2022-03-23T00:25:08.000Z</updated>
+        <summary type="html"><![CDATA[エルサルバドルは、市場環境が好ましくないため、10億ドルのビットコイン債の発行を延期したとアレハンドロ・ゼラヤ（Alejandro Zelaya）財務大臣が22 ...
+エルサルバドル、ビットコイン債の発行延期：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Nelson Wang</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
-        <id>https://css-tricks.com/?p=363882</id>
-        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
-        <updated>2022-03-02T15:57:32.000Z</updated>
-        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
-Here’s an example where I …
-How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[エルサルバドル、ビットコイン債券の発行を延期へ]]></title>
+        <id>https://coinpost.jp/?p=332744</id>
+        <link href="https://coinpost.jp/?p=332744"/>
+        <updated>2022-03-22T23:55:56.000Z</updated>
+        <summary type="html"><![CDATA[エルサルバドルのAlejandro Zelaya財務大臣は、仮想通貨ビットコイン建の債券のリリースを延期すると発表。延期の理由や今後の予定が明らかになった。]]></summary>
         <author>
-            <name>Silvestar Bistrović</name>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
-        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
-        <updated>2022-03-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <title type="html"><![CDATA[米グレースケール、スマートコントラクト銘柄のファンドをローンチ]]></title>
+        <id>https://coinpost.jp/?p=332738</id>
+        <link href="https://coinpost.jp/?p=332738"/>
+        <updated>2022-03-22T23:25:07.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨運用企業グレースケールは、スマートコントラクトプラットフォームに特化したファンドをローンチ。エイダやソラナなど、イーサリアム以外のスマートコントラクト銘柄に分散投資する。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web]]></title>
-        <id>https://css-tricks.com/?p=363724</id>
-        <link href="https://css-tricks.com/css-custom-highlight-api-early-loo/"/>
-        <updated>2022-03-01T17:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…
-CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[イーサリアムの未来は、理想からは乖離しても明るい【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=144262</id>
+        <link href="https://www.coindeskjapan.com/144262/"/>
+        <updated>2022-03-22T21:30:10.000Z</updated>
+        <summary type="html"><![CDATA[テクノロジーエコシステムは、そのテクノロジーがユースケースとマッチし、本当に大切な問題を解決するときに、軌道に乗る傾向がある。テクノロジー自体が多少お粗末なもの ...
+イーサリアムの未来は、理想からは乖離しても明るい【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>Patrick Brosset</name>
+            <name>Paul Brody</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ahmad Shadeed: Use Cases For CSS fit-content]]></title>
-        <id>https://css-tricks.com/?p=364351</id>
-        <link href="https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/"/>
-        <updated>2022-03-01T15:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.
-The fit-content keyword is actually …
-Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Web3と人工知能の融合は可能だ【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=144031</id>
+        <link href="https://www.coindeskjapan.com/144031/"/>
+        <updated>2022-03-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウェブ3プラットフォームがネイティブ人工知能（AI）を組み込むようになるのは、自然な成り行きだろう。 AIはあらゆるソフトウェアカテゴリーに影響を与え、ウェブ3 ...
+Web3と人工知能の融合は可能だ【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>Jesus Rodriguez</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New CSS Features In 2022]]></title>
-        <id>https://smashingmagazine.com/2022/03/new-css-features-2022/</id>
-        <link href="https://smashingmagazine.com/2022/03/new-css-features-2022/"/>
-        <updated>2022-03-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.]]></summary>
+        <title type="html"><![CDATA[SEC、ビットコインETFの審査延期──ウィズダムツリーとワンリバーの申請で]]></title>
+        <id>https://www.coindeskjapan.com/?p=144245</id>
+        <link href="https://www.coindeskjapan.com/144245/"/>
+        <updated>2022-03-22T10:20:03.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）は21日、ウィズダムツリー・インベストメンツ（WisdomTree Investments）とワンリバー・アセット・マネジメント（On ...
+SEC、ビットコインETFの審査延期──ウィズダムツリーとワンリバーの申請で first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+            <name>Michael Bellusci</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
-        <id>https://css-tricks.com/?p=364346</id>
-        <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
-        <updated>2022-02-28T23:14:29.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …
-IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[なぜWeb3の富裕層は現金ではなく暗号通貨を寄付しているのか]]></title>
+        <id>476568</id>
+        <link href="https://jp.techcrunch.com/2022/03/22/2022-03-20-web3-charity-donate-crypto-cryptocurrency-nonprofit-cash/"/>
+        <updated>2022-03-21T23:30:01.000Z</updated>
+        <summary type="html"><![CDATA[… Read More]]></summary>
         <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
-        <id>https://smashingmagazine.com/2022/02/we-all-are-ukraine/</id>
-        <link href="https://smashingmagazine.com/2022/02/we-all-are-ukraine/"/>
-        <updated>2022-02-28T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=363929</id>
-        <link href="https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/"/>
-        <updated>2022-02-28T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …
-Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[March For Equality (2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/</id>
-        <link href="https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/"/>
-        <updated>2022-02-28T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Recipe For A Good Design System]]></title>
-        <id>https://smashingmagazine.com/2022/02/recipe-good-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/02/recipe-good-design-system/"/>
-        <updated>2022-02-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Maintaining a design system is a lot of work. In this article, Atila Fassina shares his lessons learned and how a platform such as Backlight can help put together a series of tools to speed up your architecture setup.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
-        <id>https://css-tricks.com/?p=364070</id>
-        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
-        <updated>2022-02-25T21:13:08.000Z</updated>
-        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
-1) https://website.com/foo/
-2) https://websites.com/foo
-The first option has a “trailing slash.” The second does not.
-I’ve always preferred this thinking: you use a trailing …
-Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
-        <id>https://css-tricks.com/?p=363619</id>
-        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
-        <updated>2022-02-25T15:28:33.000Z</updated>
-        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
-Let me demonstrate the usefulness of …
-When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
-        <id>https://css-tricks.com/?p=364152</id>
-        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
-        <updated>2022-02-25T15:27:19.000Z</updated>
-        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
-One of the ways to help get …
-Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
-        <id>https://css-tricks.com/?p=364138</id>
-        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
-        <updated>2022-02-24T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Nic Chan:
-[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
-…
-My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Benchmark And Improve Web Vitals With Real User Metrics]]></title>
-        <id>https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/</id>
-        <link href="https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/"/>
-        <updated>2022-02-24T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
-        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
-        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
-        <updated>2022-02-23T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
-        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
-        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
-        <updated>2022-02-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?]]></title>
-        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
-        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
-        <updated>2022-02-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Anita Ramaswamy,Nariko Mizoguchi</name>
         </author>
     </entry>
 </feed>
