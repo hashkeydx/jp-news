@@ -1,11 +1,11 @@
-#########################
-# Full reference
-# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
-#########################
-
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://hashkeydx.github.io/jp-news/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://rss.app/feeds/Gi5lP9ProAbP2UYd.xml
+  - href: https://www.coindeskjapan.com/feed/
+  - href: https://media.cryptocurrency-association.org/?feed=rss2
+  - href: https://coinpost.jp/?feed=rss2
+  - href: https://jp.techcrunch.com/news/blockchain/feed/
+#   - href: https://jp.cointelegraph.com/rss
+siteTitle: "BlockChain::FlashNews"
+timezone: Asia/Tokyo
+cacheMaxDays: 5
