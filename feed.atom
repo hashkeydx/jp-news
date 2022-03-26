@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-03-26T07:27:17.101Z</updated>
+    <updated>2022-03-26T08:31:40.596Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カルダノにEVM互換性をもたらすサイドチェーン「Milkomeda」、来週ローンチ予定]]></title>
+        <id>https://coinpost.jp/?p=334253</id>
+        <link href="https://coinpost.jp/?p=334253"/>
+        <updated>2022-03-26T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[カルダノにEVM互換性をもたらす「ミルコメダC1サイドチェーン」は3月28日にローンチする予定だ。カルダノとC1の間でERC20トークンの取引が可能になる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所Crypto.com、ウクライナ支援のために赤十字と提携]]></title>
         <id>https://coinpost.jp/?p=334221</id>
