@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-03-26T11:25:51.698Z</updated>
+    <updated>2022-03-26T12:44:19.656Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コスモスネットワークのDEX「Osmosis」とは【CONNECTV・動画解説】]]></title>
+        <id>https://coinpost.jp/?p=333485</id>
+        <link href="https://coinpost.jp/?p=333485"/>
+        <updated>2022-03-26T12:05:20.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、株式会社CauchyE代表 木村優氏をお招きして、コスモスネットワークに上で注目されている、DEXである「Osmosis」ついて、分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カルダノにEVM互換性をもたらすサイドチェーン「Milkomeda」、来週ローンチ予定]]></title>
         <id>https://coinpost.jp/?p=334253</id>
@@ -1068,16 +1078,6 @@ Web3と人工知能の融合は可能だ【オピニオン】 first appeared on 
 SEC、ビットコインETFの審査延期──ウィズダムツリーとワンリバーの申請で first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Michael Bellusci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜWeb3の富裕層は現金ではなく暗号通貨を寄付しているのか]]></title>
-        <id>476568</id>
-        <link href="https://jp.techcrunch.com/2022/03/22/2022-03-20-web3-charity-donate-crypto-cryptocurrency-nonprofit-cash/"/>
-        <updated>2022-03-21T23:30:01.000Z</updated>
-        <summary type="html"><![CDATA[… Read More]]></summary>
-        <author>
-            <name>Anita Ramaswamy,Nariko Mizoguchi</name>
         </author>
     </entry>
 </feed>

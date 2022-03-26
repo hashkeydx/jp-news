@@ -416,6 +416,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=333485",
+          "author": "CONNECTV 編集部",
+          "description": "今回のCONNECTVでは、株式会社CauchyE代表 木村優氏をお招きして、コスモスネットワークに上で注目されている、DEXである「Osmosis」ついて、分かりやすく解説する。",
+          "link": "https://coinpost.jp/?p=333485",
+          "publishedOn": "2022-03-26T12:05:20.000Z",
+          "wordCount": 343,
+          "title": "コスモスネットワークのDEX「Osmosis」とは【CONNECTV・動画解説】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/20220307_%EF%BC%9FOsmosis_A2-e1648102850750.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/20220307_%EF%BC%9FOsmosis_A2-e1648102850750.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=334253",
           "author": "AKIRA.H",
           "description": "カルダノにEVM互換性をもたらす「ミルコメダC1サイドチェーン」は3月28日にローンチする予定だ。カルダノとC1の間でERC20トークンの取引が可能になる。",
@@ -1376,16 +1391,6 @@
           "wordCount": 311,
           "title": "Bored ApesのNFTスタートアップYuga Labs、約4836億円のモンスター評価額でシードラウンドを調達",
           "imageUrl": "https://jp.techcrunch.com/wp-content/uploads/2022/03/nWay-BAYC-blockchain-game-1-e1647461653135.webp?w=1024"
-        },
-        {
-          "id": "476568",
-          "author": "Anita Ramaswamy,Nariko Mizoguchi",
-          "description": "… Read More",
-          "link": "https://jp.techcrunch.com/2022/03/22/2022-03-20-web3-charity-donate-crypto-cryptocurrency-nonprofit-cash/",
-          "publishedOn": "2022-03-21T23:30:01.000Z",
-          "wordCount": 334,
-          "title": "なぜWeb3の富裕層は現金ではなく暗号通貨を寄付しているのか",
-          "imageUrl": "https://jp.techcrunch.com/wp-content/uploads/2022/03/crypto.webp?w=1024"
         }
       ]
     }
