@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-03-28T20:29:34.007Z</updated>
+    <updated>2022-03-28T21:27:00.103Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイニングをめぐる議論が破綻している理由【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=144644</id>
+        <link href="https://www.coindeskjapan.com/144644/"/>
+        <updated>2022-03-28T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[元々のビットコインクライアントは、ノード、ウォレット、マイナーを区別しなかった。 初期の参加者たちは、ビットコインソフトウェアをダウンロードして、生まれて間もな ...
+ビットコインマイニングをめぐる議論が破綻している理由【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>William Foxley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムのステーキング量が計1,000万ETHの大台突破、クジラの保有量は引き続き増加]]></title>
         <id>https://coinpost.jp/?p=334584</id>
@@ -719,26 +730,6 @@ Web3ユーザーは何百ものトークンに投資はしない【コラム】 
         <summary type="html"><![CDATA[著名VCa16zの関係者は23日、Makerのトークン設計に関する新たな提案を提出。現状のバーンモデルが機能していないと述べ、エコシステムでより生産的に利用する方法を打診した。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAZN MOMENTS、サービス開始　NFT第一弾はJリーグの「BEST GOALS」]]></title>
-        <id>https://coinpost.jp/?p=333574</id>
-        <link href="https://coinpost.jp/?p=333574"/>
-        <updated>2022-03-24T09:23:45.000Z</updated>
-        <summary type="html"><![CDATA[スポーツ配信サービスDAZNと株式会社ミクシィは合同で手掛けるNFTマーケットプレイス「DAZN MOMENTS」のサービス開始を発表。NFT第一弾や今後の動向も明らかにした。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリエイターエコノミーを支援する「万物潮生」が、NFTアーティスト・ハルトと共同でデジタルアートを発行します]]></title>
-        <id>8762286b27c94bceeb05fec83724eb32</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26b63df140f9369dd69e6c50c2350d667"/>
-        <updated>2022-03-24T08:43:11.000Z</updated>
-        <summary type="html"><![CDATA[万物潮生日本株式会社のプレスリリース（2022年3月24日 17時43分）クリエイターエコノミーを支援する[万物潮生]が、NFTアーティスト・ハルトと共同でデジタルアートを発行します]]></summary>
-        <author>
-            <name>万物潮生日本株式会社</name>
         </author>
     </entry>
 </feed>

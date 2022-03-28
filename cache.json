@@ -124,16 +124,6 @@
           "wordCount": 44,
           "title": "新規暗号資産「シンボル（XYM）」の取り扱いを開始　対象者全員に100万円相当を山分けするキャンペーンも実施中",
           "imageUrl": null
-        },
-        {
-          "id": "8762286b27c94bceeb05fec83724eb32",
-          "author": "万物潮生日本株式会社",
-          "description": "万物潮生日本株式会社のプレスリリース（2022年3月24日 17時43分）クリエイターエコノミーを支援する[万物潮生]が、NFTアーティスト・ハルトと共同でデジタルアートを発行します",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26b63df140f9369dd69e6c50c2350d667",
-          "publishedOn": "2022-03-24T08:43:11.000Z",
-          "wordCount": 44,
-          "title": "クリエイターエコノミーを支援する「万物潮生」が、NFTアーティスト・ハルトと共同でデジタルアートを発行します",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=144644",
+          "author": "William Foxley",
+          "description": "元々のビットコインクライアントは、ノード、ウォレット、マイナーを区別しなかった。 初期の参加者たちは、ビットコインソフトウェアをダウンロードして、生まれて間もな ...\nビットコインマイニングをめぐる議論が破綻している理由【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/144644/",
+          "publishedOn": "2022-03-28T21:00:00.000Z",
+          "wordCount": 193,
+          "title": "ビットコインマイニングをめぐる議論が破綻している理由【コラム】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/03/shutterstock_1985279114-scaled.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=144715",
           "author": "Andres Engler",
@@ -919,21 +919,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/210830_maker-2.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/210830_maker-2.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=333574",
-          "author": "Noah Sakamaki",
-          "description": "スポーツ配信サービスDAZNと株式会社ミクシィは合同で手掛けるNFTマーケットプレイス「DAZN MOMENTS」のサービス開始を発表。NFT第一弾や今後の動向も明らかにした。",
-          "link": "https://coinpost.jp/?p=333574",
-          "publishedOn": "2022-03-24T09:23:45.000Z",
-          "wordCount": 403,
-          "title": "DAZN MOMENTS、サービス開始　NFT第一弾はJリーグの「BEST GOALS」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/DAZN_JLEAGUEMOMENTS-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/DAZN_JLEAGUEMOMENTS-1.png"
         }
       ]
     },
