@@ -301,16 +301,6 @@
           "wordCount": 223,
           "title": "ビットコインとS&P500の相関関係、約1年半ぶりの高水準に──安全資産かリスク資産か、長年の議論が過熱",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/03/shutterstock_573121573.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=144178",
-          "author": "Lex Sokolin",
-          "description": "2021年の主要投資テーマの1つは、分散型アプリケーションをめぐってイーサリアムと競合する、レイヤー1と呼ばれる各種代替ブロックチェーンネットワークであった。  ...\nソラナ、アバランチ……レイヤー1はテレコムバブルから何を学ぶ？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/144178/",
-          "publishedOn": "2022-03-23T21:00:00.000Z",
-          "wordCount": 237,
-          "title": "ソラナ、アバランチ……レイヤー1はテレコムバブルから何を学ぶ？【コラム】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/03/shutterstock_1300065274-scaled.jpg"
         }
       ]
     },
@@ -325,6 +315,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=334584",
+          "author": "CoinPost編集部",
+          "description": "3月第4週の仮想通貨市場。ロシア軍のウクライナ侵攻から1ヶ月を迎えた中、1,000ビットコイン（BTC）以上を保有するアドレス群の保有量は8.3%増加。上位10の大口イーサリアム（ETH）アドレスも総供給量の25％近くを占める。",
+          "link": "https://coinpost.jp/?p=334584",
+          "publishedOn": "2022-03-28T09:18:38.000Z",
+          "wordCount": 671,
+          "title": "イーサリアムのステーキング量が計1,000万ETHの大台突破、クジラの保有量は引き続き増加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/crypto-10.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/crypto-10.png"
+        },
         {
           "id": "https://coinpost.jp/?p=334576",
           "author": "S.Inosita",
@@ -1104,81 +1109,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/gamestop-july-nft-launch.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/gamestop-july-nft-launch.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=333267",
-          "author": "菊谷ルイス",
-          "description": "大手ビデオゲーム制作会社Kraftonは仮想通貨ソラナを開発するソラナラボと提携することを発表した。",
-          "link": "https://coinpost.jp/?p=333267",
-          "publishedOn": "2022-03-23T22:46:39.000Z",
-          "wordCount": 379,
-          "title": "PUBGの制作会社「Krafton」、ソラナラボとNFTゲーム共同開発へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/PUBG-krafton-solana-labs.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/PUBG-krafton-solana-labs.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=333253",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨テラの開発企業のDo Kwon共同創設者は、ステーブルコインUSTの準備金について、まずは約3,600億円を確保すると説明。先月、準備金にビットコインを活用する計画が発表されている。",
-          "link": "https://coinpost.jp/?p=333253",
-          "publishedOn": "2022-03-23T22:05:30.000Z",
-          "wordCount": 446,
-          "title": "テラのステーブルコイン「UST」、ビットコイン活用のために3600億円確保へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Terra-Luna-Reserve.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Terra-Luna-Reserve.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=333254",
-          "author": "菊谷ルイス",
-          "description": "英大手仮想通貨投資企業CoinSharesは23日にFTXと提携し、SOLの上場取引型金融商品をローンチすることを発表した。",
-          "link": "https://coinpost.jp/?p=333254",
-          "publishedOn": "2022-03-23T21:50:47.000Z",
-          "wordCount": 382,
-          "title": "ソラナETPをローンチ、英CoinSharesがFTXと提携",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=333251",
-          "author": "菊谷ルイス",
-          "description": "大手グローバル仮想通貨取引所FTXは23日、2銘柄の新規取扱予定を発表した。",
-          "link": "https://coinpost.jp/?p=333251",
-          "publishedOn": "2022-03-23T21:40:03.000Z",
-          "wordCount": 361,
-          "title": "仮想通貨取引所FTX、2銘柄の新規上場を実施",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/ftx-new-listing-vote.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/ftx-new-listing-vote.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=333249",
-          "author": "菊谷ルイス",
-          "description": "米最大手仮想通貨取引所コインベースは24日、2銘柄のトークンの新規取扱を発表した。",
-          "link": "https://coinpost.jp/?p=333249",
-          "publishedOn": "2022-03-23T21:18:28.000Z",
-          "wordCount": 369,
-          "title": "米コインベース、2銘柄の新規上場を発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_3.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_3.jpg"
         }
       ]
     },
