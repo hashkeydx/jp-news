@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-03-29T09:28:17.758Z</updated>
+    <updated>2022-03-29T10:36:05.854Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT市場の金融化とブルーオーシャン戦略（2）｜アンバーグループ寄稿]]></title>
+        <id>https://coinpost.jp/?p=333197</id>
+        <link href="https://coinpost.jp/?p=333197"/>
+        <updated>2022-03-29T10:00:33.000Z</updated>
+        <summary type="html"><![CDATA[国内取引所ディーカレットを運営する暗号資産（仮想通貨）企業「Amber Group（アンバーグループ）」の寄稿第2弾。ポストOpenSeaを狙う新しいプラットフォームの参入やマーケットプレイスのアグリゲーションサービスに注目する理由など解説。]]></summary>
+        <author>
+            <name>COINPOST</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスラボ、ディエム（旧リブラ）出身者が開発するブロックチェーン「Aptos」に出資]]></title>
+        <id>https://coinpost.jp/?p=335291</id>
+        <link href="https://coinpost.jp/?p=335291"/>
+        <updated>2022-03-29T09:42:13.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスラボはL1ブロックチェーンプロジェクト「Aptos Labs」への出資を発表した。Aptosはメタ（旧フェイスブック）社が発足したステーブルコインプロジェクト「ディエム」の元チームメンバーが中心となって立ち上げたプロジェクトだ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本発のメタバースNFT「Metaani」、きゃりーぱみゅぱみゅとのコラボで500体限定セールを発表]]></title>
+        <id>https://coinpost.jp/?p=335333</id>
+        <link href="https://coinpost.jp/?p=335333"/>
+        <updated>2022-03-29T09:14:15.000Z</updated>
+        <summary type="html"><![CDATA[BeyondConceptはメタバースキャラクター「Metaani」と、世界的アーティストきゃりーぱみゅぱみゅのコラボレーション「Metaani×Kyary Pamyu Pamyu」を発表した。4月20日に限定500体を販売予定。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT、インスタグラムのサポートで主流化が加速：ドイツ銀行]]></title>
         <id>https://www.coindeskjapan.com/?p=144922</id>
@@ -896,36 +926,6 @@ Web3ユーザーは何百ものトークンに投資はしない【コラム】 
         <summary type="html"><![CDATA[大手エネルギー企業エクソンモバイルがフレアガスを仮想通貨マイニング企業に提供していることがわかった。世界各地の油井拠点でも同様の試験プログラム実施を検討しているという。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コスモス基盤「Archway」、約26億円を調達]]></title>
-        <id>https://coinpost.jp/?p=333723</id>
-        <link href="https://coinpost.jp/?p=333723"/>
-        <updated>2022-03-24T22:30:25.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨コスモス（ATOM）基盤のプロジェクトArchwayは24日、戦略ファンディングラウンドで約26億円を調達したことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ブラックロックCEO「我々はデジタル通貨やステーブルコインの研究をしている」]]></title>
-        <id>https://coinpost.jp/?p=333716</id>
-        <link href="https://coinpost.jp/?p=333716"/>
-        <updated>2022-03-24T22:05:40.000Z</updated>
-        <summary type="html"><![CDATA[米資産運用最大手ブラックロックのCEOは、同社がデジタル通貨やステーブルコイン、その基盤技術の研究をしていると述べた。株主に宛てたメッセージの中で、デジタル通貨の可能性に言及している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所FTX、2銘柄の新規上場を発表]]></title>
-        <id>https://coinpost.jp/?p=333713</id>
-        <link href="https://coinpost.jp/?p=333713"/>
-        <updated>2022-03-24T21:30:57.000Z</updated>
-        <summary type="html"><![CDATA[大手グローバル仮想通貨取引所FTXは24日、銘柄の新規取扱予定を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
