@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-03-28T23:28:20.853Z</updated>
+    <updated>2022-03-29T02:01:01.351Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米議員ら、デジタルドル技術の開発と試験を求める法案提出]]></title>
+        <id>https://coinpost.jp/?p=334976</id>
+        <link href="https://coinpost.jp/?p=334976"/>
+        <updated>2022-03-29T01:37:27.000Z</updated>
+        <summary type="html"><![CDATA[米国議員らは今週デジタルドル技術の開発・試験運用を求める法案を提出した。CBDCとは別に電子形式のドルを模索しようとするものだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3.0ウォレットMetaMask、Apple Payに対応]]></title>
+        <id>https://coinpost.jp/?p=334977</id>
+        <link href="https://coinpost.jp/?p=334977"/>
+        <updated>2022-03-29T01:10:34.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ウォレット「メタマスク」は29日、モバイル版アプリMetaMask Mobile v4.3.1をリリース。Apple Payの対応を導入した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産ファンド、3カ月ぶりの大幅な流入超]]></title>
+        <id>https://www.coindeskjapan.com/?p=144812</id>
+        <link href="https://www.coindeskjapan.com/144812/"/>
+        <updated>2022-03-29T00:50:16.000Z</updated>
+        <summary type="html"><![CDATA[先週、暗号資産（仮想通貨）ファンドは、3カ月ぶりの大幅な流入超となり、2週連続の流出超から大きく反転した。流入はヨーロッパのファンドが牽引。先週、ビットコイン（ ...
+暗号資産ファンド、3カ月ぶりの大幅な流入超 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Angelique Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、証券ディーラーの定義拡大を提案　DeFiに悪影響を与えるとの指摘も]]></title>
+        <id>https://coinpost.jp/?p=334963</id>
+        <link href="https://coinpost.jp/?p=334963"/>
+        <updated>2022-03-29T00:40:45.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会は、証券ディーラーを再定義する提案文書を発表した。DeFiに悪影響を及ぼすのではないかとの懸念が専門家から上がっている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、サイドチェーンのローンチを計画]]></title>
+        <id>https://coinpost.jp/?p=334958</id>
+        <link href="https://coinpost.jp/?p=334958"/>
+        <updated>2022-03-28T23:50:36.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、独自のサイドチェーンのローンチを計画していることが分かった。開発の目的や特徴が明らかになっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニモカやUbisoft、NFTカードゲームに約15億円出資]]></title>
+        <id>https://coinpost.jp/?p=334957</id>
+        <link href="https://coinpost.jp/?p=334957"/>
+        <updated>2022-03-28T23:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Web3.0大手企業Animoca Brandsと大手ゲーム企業Ubisoftは28日、NFTカードゲーム「Cross the Ages」のシードラウンドで約15億円を出資した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大手取引所FTX、仮想通貨投資信託のローンチを検討か]]></title>
         <id>https://coinpost.jp/?p=334952</id>
@@ -741,16 +802,6 @@ Web3ユーザーは何百ものトークンに投資はしない【コラム】 
 ヴィタリック・ブテリンの父、暗号資産とウクライナを語る【インタビュー】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT総合マーケットLINE NFTが4月13日開始―吉本興業など17コンテンツと提携・Web3への入口を目指す]]></title>
-        <id>477107</id>
-        <link href="https://jp.techcrunch.com/2022/03/24/lvc/"/>
-        <updated>2022-03-24T12:25:59.000Z</updated>
-        <summary type="html"><![CDATA[LINEの暗号資産事業およびブロックチェーン関連事業を展開するLVCは3月23日、NFT総合マーケットプレイス「LINE… Read More]]></summary>
-        <author>
-            <name>Hisashi Shibata</name>
         </author>
     </entry>
 </feed>
