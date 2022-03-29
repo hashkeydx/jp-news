@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-03-29T22:29:13.698Z</updated>
+    <updated>2022-03-29T23:29:10.809Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米WisdomTree、ソラナやエイダのETPを欧州でローンチ]]></title>
+        <id>https://coinpost.jp/?p=335506</id>
+        <link href="https://coinpost.jp/?p=335506"/>
+        <updated>2022-03-29T23:20:48.000Z</updated>
+        <summary type="html"><![CDATA[米資産管理会社WisdomTreeは29日、3銘柄の仮想通貨ETP（上場取引型金融商品）を欧州でローンチしたことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英大手インターディーラーブローカー、BitGoなどと提携]]></title>
+        <id>https://coinpost.jp/?p=335498</id>
+        <link href="https://coinpost.jp/?p=335498"/>
+        <updated>2022-03-29T23:02:00.000Z</updated>
+        <summary type="html"><![CDATA[世界有数のインターディーラーブローカーのTP ICAP社は29日、仮想通貨カストディ・取引事業に参入するために、大手カストディ企業BitGoとKomainuと提携することを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、イーサリアムブロックチェーンとの接続拡充へ　「Binance Bridge 2.0」を発表]]></title>
         <id>https://coinpost.jp/?p=335484</id>
