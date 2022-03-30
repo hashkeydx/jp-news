@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-03-30T04:36:49.044Z</updated>
+    <updated>2022-03-30T05:26:19.703Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドバイに結集する大手仮想通貨取引所、BybitとCrypto.comが拠点を設置]]></title>
+        <id>https://coinpost.jp/?p=335584</id>
+        <link href="https://coinpost.jp/?p=335584"/>
+        <updated>2022-03-30T05:00:09.000Z</updated>
+        <summary type="html"><![CDATA[シンガポールを拠点とする大手仮想通貨取引所のCrypto.comとBybitが、アラブ首長国連邦のドバイに新たな事業拠点を構えることがわかった。UAEは仮想通貨に友好的な規制整備を促進していることで知られる。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポリゴン、ゼロ知識証明利用の分散型ID認証サービスを公表]]></title>
+        <id>https://coinpost.jp/?p=335556</id>
+        <link href="https://coinpost.jp/?p=335556"/>
+        <updated>2022-03-30T04:45:07.000Z</updated>
+        <summary type="html"><![CDATA[ポリゴンは29日、ゼロ知識証明を活用したユーザー識別サービス「Polygon ID」を発表した。ユーザーの匿名性を確保しながら、顧客確認を要求するdAppsへのアクセスが可能になる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米環境団体、ビットコインのPoS移行推奨キャンペーン開始]]></title>
         <id>https://coinpost.jp/?p=335565</id>
