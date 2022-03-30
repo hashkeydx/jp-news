@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-03-30T08:34:04.610Z</updated>
+    <updated>2022-03-30T10:31:24.534Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインがビットコインを裏付け資産とする意味とは──terraUSD（UST）が100億ドル以上のBTC購入へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=144987</id>
+        <link href="https://www.coindeskjapan.com/144987/"/>
+        <updated>2022-03-30T10:00:42.000Z</updated>
+        <summary type="html"><![CDATA[テラ（Terra）ブロックチェーンに取り組むNPO「Luna Foundation Guard（LFG）」が、ステーブルコイン「terraUSD（UST）」の準 ...
+ステーブルコインがビットコインを裏付け資産とする意味とは──terraUSD（UST）が100億ドル以上のBTC購入へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>George Kaloudis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自民党NFTチームのホワイトペーパーが部会で承認、NFTを「Web3の起爆剤」と定義]]></title>
+        <id>https://coinpost.jp/?p=335690</id>
+        <link href="https://coinpost.jp/?p=335690"/>
+        <updated>2022-03-30T09:47:34.000Z</updated>
+        <summary type="html"><![CDATA[自民党のNFTプロジェクトチームが作成を進めていたホワイトペーパーが部会で承認され、公開された。Web3.0を「デジタル経済圏の新たなフロンティア」と定義し、その起爆剤が暗号資産（仮想通貨）に関連するNFTと位置づけている。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、サイドチェーンの初期実装としてGameFi向けテストネットを公開]]></title>
+        <id>https://coinpost.jp/?p=335677</id>
+        <link href="https://coinpost.jp/?p=335677"/>
+        <updated>2022-03-30T09:34:04.000Z</updated>
+        <summary type="html"><![CDATA[最大手暗号資産（仮想通貨）取引所バイナンスが開発している独自のサイドチェーン「BNB Chain Application Sidechain（BAS）」について、GameFi向けテストネットがローンチされた。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VISA、NFTを使った事業拡大を支援する「クリエーター・プログラム」発表]]></title>
         <id>https://www.coindeskjapan.com/?p=145033</id>
@@ -909,47 +940,6 @@ SBI北尾社長、Web3.0時代のビジネスに注力──メタバースの�
         <summary type="html"><![CDATA[ジャネット・イエレン米財務長官は、仮想通貨に対する見解を語った。仮想通貨がもたらすメリットや課題、規制についても述べている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3ユーザーは何百ものトークンに投資はしない【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=144429</id>
-        <link href="https://www.coindeskjapan.com/144429/"/>
-        <updated>2022-03-25T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現代の平均的ソーシャルメディアユーザーは、ティックトックにインスタグラム、フェイスブック、ツイッター、ディスコード、ユーチューブなど、複数のプラットフォームを利 ...
-Web3ユーザーは何百ものトークンに投資はしない【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Kinjal Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナ政府、「NFTミュージアム」をローンチ]]></title>
-        <id>https://coinpost.jp/?p=334154</id>
-        <link href="https://coinpost.jp/?p=334154"/>
-        <updated>2022-03-25T21:55:51.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナ政府は資金を調達し今回の戦争歴史を残すためのNFTプロジェクト「MetaHistory NFT Museum」をローンチしたことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本を「Web3.0開国」へ　DeFi協会とBCCCがステーブルコインで提言]]></title>
-        <id>https://coinpost.jp/?p=333992</id>
-        <link href="https://coinpost.jp/?p=333992"/>
-        <updated>2022-03-25T21:26:58.000Z</updated>
-        <summary type="html"><![CDATA[DeFi協会とブロックチェーン推進協会は、共同提言として「日本社会のWeb3.0開国にむけたステーブルコインに関する提言」を公表した。日本円ステーブルコインの普及や税制度の改善、国家成長戦略としてWeb3.0に言及する。]]></summary>
-        <author>
-            <name>ShoKawano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ポーツマス市、市税がPayPal経由でビットコイン支払い可能に]]></title>
-        <id>https://coinpost.jp/?p=333875</id>
-        <link href="https://coinpost.jp/?p=333875"/>
-        <updated>2022-03-25T21:15:55.000Z</updated>
-        <summary type="html"><![CDATA[米国のポーツマス市は市の固定資産税などを仮想通貨ビットコインBTCで支払えるようになったと発表した。現時点では、支払いは決済サービスPayPalを通してのみ可能。直接の振り込みには対応していない。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>
