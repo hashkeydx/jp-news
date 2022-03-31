@@ -113,6 +113,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=145242",
+          "author": "菊池友信",
+          "description": "日本暗号資産ビジネス協会（JCBA）は3月31日、「NFT関連ビジネスに関するガイドライン」を改訂し、第2版を公表した。NFTの所有に関するサービス設計や顧客に ...\nJCBA、NFTビジネスのガイドライン改訂──“所有”の説明責任と賭博罪を追記 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145242/",
+          "publishedOn": "2022-03-31T07:54:15.000Z",
+          "wordCount": 184,
+          "title": "JCBA、NFTビジネスのガイドライン改訂──“所有”の説明責任と賭博罪を追記",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/03/jbcalogo.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=145226",
           "author": "菊池友信",
           "description": "テレビ朝日子会社のテレビ朝日メディアプレックスは3月31日、NFT情報サイト「epio（エピオ）」をオープンしたことを発表した。テレビ朝日グループは、手がけるN ...\nテレビ朝日、NFT情報サイトをオープン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -445,6 +455,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=335965",
+          "author": "AKIRA.H",
+          "description": "暗号資産（仮想通貨）取引所AscendEXに、Galaxy Blitz「MIT」が上場した。MITはガバナンストークンであり、ゲーム内トークンを売買する際の決済通貨としても使用される。",
+          "link": "https://coinpost.jp/?p=335965",
+          "publishedOn": "2022-03-31T08:14:46.000Z",
+          "wordCount": 379,
+          "title": "取引所AscendEX、NFTバトルゲームのトークン「Galaxy Blitz（MIT）」の取引を開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/ascendex096676027-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/ascendex096676027-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=336218",
+          "author": "AKIRA.H",
+          "description": "暗号資産（仮想通貨）分野で有名なTwitterアカウントが複数乗っ取られ、フォロワーをフィッシング詐欺へと誘い込む事案が発生。先週だけで90万ドル（約1億円）以上に相当する35点のNFTが盗まれた。",
+          "link": "https://coinpost.jp/?p=336218",
+          "publishedOn": "2022-03-31T08:07:24.000Z",
+          "wordCount": 405,
+          "title": "ApeCoinエアドロップなど偽装、有名Twitterアカウントを乗っ取るフィッシング詐欺が発生",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/liquid-global-hack-report-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/liquid-global-hack-report-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=336190",
+          "author": "Noah Sakamaki",
+          "description": "米大手ニュース誌のTIMEマガジンは2021年の「最も影響力のある企業100選」を発表。ブロックチェーン業界からもOpenSeaやThe Sandboxなどメタバース・NFT関連企業も名を連ねた。",
+          "link": "https://coinpost.jp/?p=336190",
+          "publishedOn": "2022-03-31T07:45:51.000Z",
+          "wordCount": 418,
+          "title": "TIME誌の「最も影響力のある企業100選」、メタバース・仮想通貨関連企業がランクイン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/time-bitcoin-cfo.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/time-bitcoin-cfo.png"
+        },
         {
           "id": "https://coinpost.jp/?p=330620",
           "author": "ShoKawano",
