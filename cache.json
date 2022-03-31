@@ -386,6 +386,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=335922",
+          "author": "A.Yamada",
+          "description": "米決済大手Visaは、アーティスト向けのNFT支援プログラムを正式に開始した。Visaが将来、NFT関連製品を開発することにも役立つ見込みだ。",
+          "link": "https://coinpost.jp/?p=335922",
+          "publishedOn": "2022-03-30T23:45:52.000Z",
+          "wordCount": 377,
+          "title": "米決済大手Visa、クリエイター向けNFT支援プログラムを開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/visa-token-launch-up.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/visa-token-launch-up.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=335920",
+          "author": "菊谷ルイス",
+          "description": "ウェブブラウザーOperaは30日、ソラナ（SOL）やポリゴン（MATIC）を含む8のブロックチェーンに対応していることを発表した。dAppsへのアクセスがより容易になる。",
+          "link": "https://coinpost.jp/?p=335920",
+          "publishedOn": "2022-03-30T23:10:17.000Z",
+          "wordCount": 382,
+          "title": "Operaブラウザー、ソラナやポリゴンなど8つのブロックチェーンに対応",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/opera-new-chains-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/opera-new-chains-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=335907",
+          "author": "菊谷ルイス",
+          "description": "異なるブロックチェーンに互換性ソリューションを提供するスタートアップLayerZeroラボは31日、1,200億円の評価価値としてシリーズA＋で約165億円を調達した。",
+          "link": "https://coinpost.jp/?p=335907",
+          "publishedOn": "2022-03-30T22:20:11.000Z",
+          "wordCount": 415,
+          "title": "ブロックチェーン互換性開発のLayerZero、a16zやセコイアなどから約165億円調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/layerzero-series-a-plus-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/layerzero-series-a-plus-1.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=335901",
           "author": "K.Kobayashi",
           "description": "日本政府は、ロシアへの制裁を巡り、仮想通貨が制裁回避に利用されることを防ぐための法案の枠組みを固めた。制裁対象者が資産を換えるなどして、制裁の抜け穴に仮想通貨を利用することを防ぐ狙い。",
@@ -1164,29 +1209,8 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=333485",
-          "author": "CONNECTV 編集部",
-          "description": "今回のCONNECTVでは、株式会社CauchyE代表 木村優氏をお招きして、コスモスネットワークに上で注目されている、DEXである「Osmosis」ついて、分かりやすく解説する。",
-          "link": "https://coinpost.jp/?p=333485",
-          "publishedOn": "2022-03-26T12:05:20.000Z",
-          "wordCount": 343,
-          "title": "コスモスネットワークのDEX「Osmosis」とは【CONNECTV・動画解説】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/20220307_%EF%BC%9FOsmosis_A2-e1648102850750.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/20220307_%EF%BC%9FOsmosis_A2-e1648102850750.jpg"
         }
       ]
-    },
-    {
-      "title": "ブロックチェーン – TechCrunch Japan",
-      "feedUrl": "https://jp.techcrunch.com/news/blockchain/feed/",
-      "siteUrl": "https://jp.techcrunch.com",
-      "articles": []
     }
   ],
   "cliVersion": "1.14.4"
