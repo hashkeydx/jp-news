@@ -163,6 +163,36 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=145285",
+          "author": "菊池友信",
+          "description": "日本取引所グループ（JPX）は、2024年度末までにデジタル証券市場の創設を目指す。同社が、3月31日に発表した中期経営計画で構想を明らかにした。 デジタル化や ...\nJPX、デジタル証券市場開設へ──2024年末までに first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145285/",
+          "publishedOn": "2022-04-01T02:14:15.000Z",
+          "wordCount": 166,
+          "title": "JPX、デジタル証券市場開設へ──2024年末までに",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/02/shutterstock_554756017-scaled.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=145268",
+          "author": "Damanick Dantes",
+          "description": "暗号資産（仮想通貨）市場は31日、多くが下落した。 ビットコイン（BTC）は4万7000ドルを割ったが、テクニカル指標を見ると、4万3000ドル付近のサポートが ...\n【US市場】暗号資産市場は下落──弱い3月を終え、強い4月へ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145268/",
+          "publishedOn": "2022-04-01T02:00:20.000Z",
+          "wordCount": 294,
+          "title": "【US市場】暗号資産市場は下落──弱い3月を終え、強い4月へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/CQBWKWSC4VDGXDIPIE5CUXJDKY.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=145274",
+          "author": "Zack Seward",
+          "description": "暗号資産（仮想通貨）取引所バイナンス（Binance）は、レッドカーペットの一角を占めたいと考えている。同社は31日、グラミー賞を主催するレコーディング・アカデ ...\nバイナンス、2022年グラミー賞のスポンサーに first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145274/",
+          "publishedOn": "2022-04-01T00:05:43.000Z",
+          "wordCount": 171,
+          "title": "バイナンス、2022年グラミー賞のスポンサーに",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_1428695414.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=145132",
           "author": "Andrew Thurman",
           "description": "ベンチャーキャピタルや個人投資家たちは、新興の暗号資産（仮想通貨）ゲームプロジェクトに資金をつぎ込み続けている。ブロックチェーンを活用してゲームと金融を組み合わ ...\nGameFiへの資金拡大、追いつかない開発現場 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -515,6 +545,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=336394",
+          "author": "A.Yamada",
+          "description": "米証券取引委員会は31日、ビットコインなど仮想通貨のカストディを行う事業のリスク開示について、ガイドラインを発行した。",
+          "link": "https://coinpost.jp/?p=336394",
+          "publishedOn": "2022-04-01T01:38:50.000Z",
+          "wordCount": 373,
+          "title": "米SEC、仮想通貨カストディ企業のリスク開示関連のガイドラインを発行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/USASECRED.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/USASECRED.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=336385",
+          "author": "K.Kobayashi",
+          "description": "バイナンスは、音楽のグラミー賞を主催するRecording Academyとパートナーシップを締結。今月開催の第64回グラミー賞で、仮想通貨取引所として初めて公式パートナーを務める。",
+          "link": "https://coinpost.jp/?p=336385",
+          "publishedOn": "2022-04-01T01:05:25.000Z",
+          "wordCount": 464,
+          "title": "バイナンス、グラミー賞の主催団体「Recording Academy」と提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/GRAMMY-Awards.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/GRAMMY-Awards.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=336380",
+          "author": "A.Yamada",
+          "description": "仮想通貨イーサリアムのチェーンを基盤にするAxie Infinityは、アップグレード版「Origin」を4月7日にリリースすると発表した。ハッキングを受け当初の予定から一週間延期された格好だ。",
+          "link": "https://coinpost.jp/?p=336380",
+          "publishedOn": "2022-04-01T00:20:22.000Z",
+          "wordCount": 419,
+          "title": "不正流出受けた「アクシーインフィニティ」、アップグレード版の発表を1週間延期",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/axie-dex-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/axie-dex-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=336375",
           "author": "菊谷ルイス",
