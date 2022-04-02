@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-02T11:24:13.949Z</updated>
+    <updated>2022-04-02T12:44:41.716Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFiで資金調達するには？「MakerDAO」「Compound」を操作しながら解説する【CONNECTV・動画解説】]]></title>
+        <id>https://coinpost.jp/?p=334779</id>
+        <link href="https://coinpost.jp/?p=334779"/>
+        <updated>2022-04-02T12:05:59.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、Kyber Network Japanのマネージャーである堀次泰介（hory）氏をお招きして、DeFiレンディングサービスの「「MakerDAO」やCompound」を操作しながら、DeFiレンディングサービスで資金調達方法について分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】bitFlyerHD、投資ファンドが買収か＝日経]]></title>
+        <id>https://coinpost.jp/?p=336809</id>
+        <link href="https://coinpost.jp/?p=336809"/>
+        <updated>2022-04-02T12:01:40.000Z</updated>
+        <summary type="html"><![CDATA[国内暗号資産取引所bitFlyerの親企業であるbitFlyerの投資ファンドによる買収案が浮上。特報として日本経済新聞が報じた一方、大株主の加納裕三氏は「敵対的買収」と称した。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astarネットワークが拡大　4月に多数プロジェクトがローンチへ]]></title>
         <id>https://coinpost.jp/?p=336755</id>
@@ -1279,36 +1299,6 @@ SBI北尾社長、Web3.0時代のビジネスに注力──メタバースの�
 暗号資産ファンド、3カ月ぶりの大幅な流入超 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Angelique Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、証券ディーラーの定義拡大を提案　DeFiに悪影響を与えるとの指摘も]]></title>
-        <id>https://coinpost.jp/?p=334963</id>
-        <link href="https://coinpost.jp/?p=334963"/>
-        <updated>2022-03-29T00:40:45.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会は、証券ディーラーを再定義する提案文書を発表した。DeFiに悪影響を及ぼすのではないかとの懸念が専門家から上がっている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、サイドチェーンのローンチを計画]]></title>
-        <id>https://coinpost.jp/?p=334958</id>
-        <link href="https://coinpost.jp/?p=334958"/>
-        <updated>2022-03-28T23:50:36.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、独自のサイドチェーンのローンチを計画していることが分かった。開発の目的や特徴が明らかになっている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニモカやUbisoft、NFTカードゲームに約15億円出資]]></title>
-        <id>https://coinpost.jp/?p=334957</id>
-        <link href="https://coinpost.jp/?p=334957"/>
-        <updated>2022-03-28T23:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Web3.0大手企業Animoca Brandsと大手ゲーム企業Ubisoftは28日、NFTカードゲーム「Cross the Ages」のシードラウンドで約15億円を出資した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
