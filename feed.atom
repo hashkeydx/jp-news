@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-03T20:29:24.314Z</updated>
+    <updated>2022-04-03T21:25:54.751Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムが歩まなかった道：ブテリン氏の手記]]></title>
+        <id>https://www.coindeskjapan.com/?p=145347</id>
+        <link href="https://www.coindeskjapan.com/145347/"/>
+        <updated>2022-04-03T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの生みの親ヴィタリック・ブテリン氏は先日、イーサリアムが進んでいたかもしれない方向性について考えるブログ記事を投稿した。「The roads not ...
+イーサリアムが歩まなかった道：ブテリン氏の手記 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スケーリング問題の打開策「ロールアップ」とは｜仕組みや注目点を詳しく解説]]></title>
         <id>https://coinpost.jp/?p=331076</id>
@@ -876,16 +887,6 @@ Operaの暗号資産対応ブラウザー、8つのブロックチェーンへ�
         <summary type="html"><![CDATA[最大手暗号資産（仮想通貨）取引所バイナンスが開発している独自のサイドチェーン「BNB Chain Application Sidechain（BAS）」について、GameFi向けテストネットがローンチされた。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国女子サッカー（サンディエゴ・パルセイロ・レディース）との業務提携]]></title>
-        <id>bb590ce364cf547f4c0cebb0db09c110</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26f63df140f9366dd6ae4c00c2350d667"/>
-        <updated>2022-03-30T09:02:22.000Z</updated>
-        <summary type="html"><![CDATA[xWIN株式会社のプレスリリース（2022年3月30日 18時02分）米国女子サッカー（サンディエゴ・パルセイロ・レディース）との業務提携]]></summary>
-        <author>
-            <name>xWIN株式会社</name>
         </author>
     </entry>
 </feed>
