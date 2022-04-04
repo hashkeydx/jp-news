@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-04T21:26:32.990Z</updated>
+    <updated>2022-04-04T22:29:14.940Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テスラ社のイーロン・マスクCEO、ツイッター社の筆頭株主に]]></title>
+        <id>https://coinpost.jp/?p=337381</id>
+        <link href="https://coinpost.jp/?p=337381"/>
+        <updated>2022-04-04T22:05:22.000Z</updated>
+        <summary type="html"><![CDATA[米テスラのイーロン・マスクCEOは、ツイッター社の株式を9.2%取得。同氏はこれでツイッター社の筆頭株主になったとみられている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英大蔵省「UKを仮想通貨技術と投資の世界的ハブに」]]></title>
+        <id>https://coinpost.jp/?p=337379</id>
+        <link href="https://coinpost.jp/?p=337379"/>
+        <updated>2022-04-04T21:55:57.000Z</updated>
+        <summary type="html"><![CDATA[英大蔵省は4日、仮想通貨ステーブルコインの規制・DeFiなどの税制及びNFT発行の計画を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカでビットコインの真の普及は起きていない【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=145276</id>
+        <link href="https://www.coindeskjapan.com/145276/"/>
+        <updated>2022-04-04T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[バイデン米大統領は3月9日、デジタル資産に関する大統領令に署名した。政権幹部はこの大統領令について話す中で、人口の16%に当たる約4000万人のアメリカ人が、暗 ...
+アメリカでビットコインの真の普及は起きていない【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Andy Edstrom</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マネックス、SBI、楽天、ポイントを暗号資産の入り口に──証券とクリプトの連携強化]]></title>
         <id>https://www.coindeskjapan.com/?p=144896</id>
@@ -660,16 +691,6 @@ GameFiへの資金拡大、追いつかない開発現場 first appeared on coin
         <summary type="html"><![CDATA[一般社団法人日本暗号資産ビジネス協会（JBCA）は、NFTビジネスガイドラインを改訂した。消費者保護に関する留意点を整理することで、仮想通貨関連事業者の円滑な参入と健全な市場育成を目指す。]]></summary>
         <author>
             <name>ShoKawano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT価格と市場評価の重要ポイントを解説、NFTマーケットの成長余地は（3）｜アンバーグループ寄稿]]></title>
-        <id>https://coinpost.jp/?p=333228</id>
-        <link href="https://coinpost.jp/?p=333228"/>
-        <updated>2022-03-31T10:00:54.000Z</updated>
-        <summary type="html"><![CDATA[国内取引所ディーカレットを運営する暗号資産（仮想通貨）企業「Amber Group（アンバーグループ）」の寄稿第3弾。NFT価格や価値の読み解き方について、具体例を交えながら解説。]]></summary>
-        <author>
-            <name>COINPOST</name>
         </author>
     </entry>
 </feed>

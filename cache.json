@@ -93,6 +93,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=145276",
+          "author": "Andy Edstrom",
+          "description": "バイデン米大統領は3月9日、デジタル資産に関する大統領令に署名した。政権幹部はこの大統領令について話す中で、人口の16%に当たる約4000万人のアメリカ人が、暗 ...\nアメリカでビットコインの真の普及は起きていない【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145276/",
+          "publishedOn": "2022-04-04T21:30:00.000Z",
+          "wordCount": 184,
+          "title": "アメリカでビットコインの真の普及は起きていない【オピニオン】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_2056492886-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=144896",
           "author": "菊池友信",
           "description": "国内の大手ネット証券各社が、個人投資家に付与するポイントを暗号資産（仮想通貨）投資を始める入り口として活用する動きを強めている。ポイントは、現預金と比べて気軽に ...\nマネックス、SBI、楽天、ポイントを暗号資産の入り口に──証券とクリプトの連携強化 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -265,6 +275,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=337381",
+          "author": "K.Kobayashi",
+          "description": "米テスラのイーロン・マスクCEOは、ツイッター社の株式を9.2%取得。同氏はこれでツイッター社の筆頭株主になったとみられている。",
+          "link": "https://coinpost.jp/?p=337381",
+          "publishedOn": "2022-04-04T22:05:22.000Z",
+          "wordCount": 434,
+          "title": "テスラ社のイーロン・マスクCEO、ツイッター社の筆頭株主に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/Elon_1141045604.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/Elon_1141045604.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=337379",
+          "author": "菊谷ルイス",
+          "description": "英大蔵省は4日、仮想通貨ステーブルコインの規制・DeFiなどの税制及びNFT発行の計画を発表した。",
+          "link": "https://coinpost.jp/?p=337379",
+          "publishedOn": "2022-04-04T21:55:57.000Z",
+          "wordCount": 440,
+          "title": "英大蔵省「UKを仮想通貨技術と投資の世界的ハブに」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/royal-mint-nft-exchequer.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/royal-mint-nft-exchequer.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=337191",
           "author": "S.Inosita",
@@ -864,21 +904,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/JCBA_NFT_business-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/JCBA_NFT_business-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=333228",
-          "author": "COINPOST",
-          "description": "国内取引所ディーカレットを運営する暗号資産（仮想通貨）企業「Amber Group（アンバーグループ）」の寄稿第3弾。NFT価格や価値の読み解き方について、具体例を交えながら解説。",
-          "link": "https://coinpost.jp/?p=333228",
-          "publishedOn": "2022-03-31T10:00:54.000Z",
-          "wordCount": 441,
-          "title": "NFT価格と市場評価の重要ポイントを解説、NFTマーケットの成長余地は（3）｜アンバーグループ寄稿",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/NFT-report-thumbnail.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/NFT-report-thumbnail.jpg"
         }
       ]
     }
