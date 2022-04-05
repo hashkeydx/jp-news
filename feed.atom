@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-05T03:02:38.410Z</updated>
+    <updated>2022-04-05T03:40:56.149Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金融包摂目指す「Celo（セロ）」、約25億円規模のパートナー支援ファンドを設立]]></title>
+        <id>https://coinpost.jp/?p=337470</id>
+        <link href="https://coinpost.jp/?p=337470"/>
+        <updated>2022-04-05T03:15:28.000Z</updated>
+        <summary type="html"><![CDATA[金融包摂の実現を目指すCelo Foundationは、セロのステーブルコインと法定通貨間の交換パートナーを支援するため、約25億円規模の開発ファンドを立ち上げた。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電通など6社、国内発の「Japan Open Chain」β版をローンチ]]></title>
+        <id>https://coinpost.jp/?p=337466</id>
+        <link href="https://coinpost.jp/?p=337466"/>
+        <updated>2022-04-05T03:05:07.000Z</updated>
+        <summary type="html"><![CDATA[国内ブロックチェーン企業G.U.TechnologiesはEVM互換バブリックチェーン「Japan Open Chain」のβ版ローンチを発表。法的に準拠した形でブロックチェーン利用が可能となる。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース、インドで仮想通貨・Web3.0のスタートアップを支援]]></title>
         <id>https://coinpost.jp/?p=337421</id>
