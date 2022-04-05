@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-04T23:29:24.252Z</updated>
+    <updated>2022-04-05T01:57:19.409Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インドネシア当局、仮想通貨取引への課税を開始へ＝報道]]></title>
+        <id>https://coinpost.jp/?p=337401</id>
+        <link href="https://coinpost.jp/?p=337401"/>
+        <updated>2022-04-05T01:15:50.000Z</updated>
+        <summary type="html"><![CDATA[インドネシア当局は、ビットコインなど仮想通貨取引への課税をまもなく開始すると発表した。付加価値税と所得税をそれぞれ0.1％徴収することになるという。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産ファンド、2週連続の流入超──欧州のファンドに集中]]></title>
+        <id>https://www.coindeskjapan.com/?p=145535</id>
+        <link href="https://www.coindeskjapan.com/145535/"/>
+        <updated>2022-04-05T00:30:25.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）ファンドは2週連続の流入超となった。資金流入のほとんどがヨーロッパのファンドに集中した。 コインシェアーズが4月4日に発表したレポートによる ...
+暗号資産ファンド、2週連続の流入超──欧州のファンドに集中 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Angelique Chen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米インテル、ビットコイン採掘ASIC機器の第2弾リリース]]></title>
+        <id>https://coinpost.jp/?p=337409</id>
+        <link href="https://coinpost.jp/?p=337409"/>
+        <updated>2022-04-05T00:30:02.000Z</updated>
+        <summary type="html"><![CDATA[米インテル社は新たな仮想通貨ビットコインのマイニング機器を発表。持続可能性の観点から、環境負荷を抑えながらハッシュレートの向上を図る。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SECゲンスラー委員長「仮想通貨取引所の監督はCFTCらと分担すべき」＝報道]]></title>
+        <id>https://coinpost.jp/?p=337396</id>
+        <link href="https://coinpost.jp/?p=337396"/>
+        <updated>2022-04-04T23:50:52.000Z</updated>
+        <summary type="html"><![CDATA[米SECのゲーリー・ゲンスラー委員長は、仮想通貨取引所の監督は、CFTCらの機関と分担すべきであるとの見解を示した。すでに協業を指示したことも明かしている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEAR基盤の分散型取引所、5.5億円調達]]></title>
         <id>https://coinpost.jp/?p=337392</id>
@@ -691,16 +732,6 @@ JPX、デジタル証券市場開設へ──2024年末までに first appeared 
 GameFiへの資金拡大、追いつかない開発現場 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Andrew Thurman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JCBA、「NFTビジネス」に関するガイドラインを改訂　健全な市場育成目指す]]></title>
-        <id>https://coinpost.jp/?p=336199</id>
-        <link href="https://coinpost.jp/?p=336199"/>
-        <updated>2022-03-31T11:55:25.000Z</updated>
-        <summary type="html"><![CDATA[一般社団法人日本暗号資産ビジネス協会（JBCA）は、NFTビジネスガイドラインを改訂した。消費者保護に関する留意点を整理することで、仮想通貨関連事業者の円滑な参入と健全な市場育成を目指す。]]></summary>
-        <author>
-            <name>ShoKawano</name>
         </author>
     </entry>
 </feed>
