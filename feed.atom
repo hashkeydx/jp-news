@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-06T22:29:14.877Z</updated>
+    <updated>2022-04-06T23:28:49.426Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSea、ソラナ基盤のNFTに対応開始]]></title>
+        <id>https://coinpost.jp/?p=338066</id>
+        <link href="https://coinpost.jp/?p=338066"/>
+        <updated>2022-04-06T23:18:50.000Z</updated>
+        <summary type="html"><![CDATA[大手NFT電子市場「OpenSea」は7日に、ソラナブロックチェーン基盤のNFTの取り扱いを正式に開始した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アバランチ（AVAX）やコスモス（ATOM）、グレースケールのバスケット型投資信託に採用]]></title>
+        <id>https://coinpost.jp/?p=338062</id>
+        <link href="https://coinpost.jp/?p=338062"/>
+        <updated>2022-04-06T22:55:59.000Z</updated>
+        <summary type="html"><![CDATA[米最大手仮想通貨投資企業グレースケールは6日、「Digital Large Cap Fund」にアバランチ（AVAX）、ポルカドット（DOT）、コスモス（ATOM）を新たに組み入れたことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near Protocol、430億円調達　 FTXベンチャーズなどが参加]]></title>
+        <id>https://coinpost.jp/?p=338054</id>
+        <link href="https://coinpost.jp/?p=338054"/>
+        <updated>2022-04-06T22:20:39.000Z</updated>
+        <summary type="html"><![CDATA[高速L1ブロックチェーンの「Near Protocol」は6日は、430億円以上を資金調達したことが明らかになった。1月に170億円を調達したばかりだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTゲーム「アクシーインフィニティ」開発企業、180億円超を資金調達　バイナンスが主導]]></title>
         <id>https://coinpost.jp/?p=338044</id>
@@ -877,16 +907,6 @@ bitFlyer、株主が事業売却で投資ファンドと大筋合意：日経 fi
         <summary type="html"><![CDATA[国内暗号資産取引所bitFlyerの親企業であるbitFlyerの投資ファンドによる買収案が浮上。特報として日本経済新聞が報じた一方、大株主の加納裕三氏は「敵対的買収」と称した。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astarネットワークが拡大　4月に多数プロジェクトがローンチへ]]></title>
-        <id>https://coinpost.jp/?p=336755</id>
-        <link href="https://coinpost.jp/?p=336755"/>
-        <updated>2022-04-02T10:35:57.000Z</updated>
-        <summary type="html"><![CDATA[日本発パブリックブロックチェーンのAstar Network（ASTR）は15以上の新規プロジェクトが4月中に同ネットワーク上で立ち上がることを発表。IDOイベントも控えるとして「Astarシーズンを迎える」と強調した。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
