@@ -133,6 +133,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=145627",
+          "author": "千野 剛司／Kraken Japan代表",
+          "description": "3月のNFTマーケットは、一部のコレクターによる高値での取引が活発だったことが明らかとなった。 クラーケン・インテリジェンスのマーケットレポートによると、同月の ...\nNFTの取引、一部のコレクターに絞られ始める？【Krakenリサーチ】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145627/",
+          "publishedOn": "2022-04-07T03:00:00.000Z",
+          "wordCount": 221,
+          "title": "NFTの取引、一部のコレクターに絞られ始める？【Krakenリサーチ】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/nftusd-scaled.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=145502",
+          "author": "菊池友信",
+          "description": "マネックスグループは3月、傘下で暗号資産取引サービスを運営するコインチェック（Coincheck）の上場計画を明らかにした。企業価値は2100億円を見込み、日本 ...\nマネックス松本CEO：コインチェックを米国上場させる覚悟と真の狙い【インタビュー】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145502/",
+          "publishedOn": "2022-04-07T02:30:00.000Z",
+          "wordCount": 301,
+          "title": "マネックス松本CEO：コインチェックを米国上場させる覚悟と真の狙い【インタビュー】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/monex-matsumotoceo001-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=145819",
           "author": "Helene Braun",
           "description": "米連邦準備理事会（FRB）は、およそ40年ぶりの高インフレを抑制するために、保有資産を毎月最大950億ドル（約11兆7000億円）削減する意向だ。FRBが6日公 ...\nFRB、保有資産を月11兆7000億円縮小へ：FOMC議事要旨 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -395,6 +415,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=338126",
+          "author": "Noah Sakamaki",
+          "description": "米国のジャネット・イエレン財務長官はロシア政府が制裁回避手段として仮想通貨を利用するのは難しいと指摘。引き続きロシアの仮想通貨利用を監視していく姿勢を強調した。",
+          "link": "https://coinpost.jp/?p=338126",
+          "publishedOn": "2022-04-07T02:50:58.000Z",
+          "wordCount": 452,
+          "title": "イエレン米財務長官「現時点でロシアは制裁回避で仮想通貨を利用していない」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/yellen-bitcoin-more-detailed.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/yellen-bitcoin-more-detailed.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=338106",
+          "author": "AKIRA.H",
+          "description": "LongHash Venturesは4日、仮想通貨テラの開発を主導するTerraform Labsとの提携により、テラ・ブロックチェーン向けのアクセラレータープログラムを立ち上げた。",
+          "link": "https://coinpost.jp/?p=338106",
+          "publishedOn": "2022-04-07T02:35:52.000Z",
+          "wordCount": 393,
+          "title": "テラ関連プロジェクトの育成プログラム、LongHash Venturesと共同で開催へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/terra-0407.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/terra-0407.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=338098",
+          "author": "A.Yamada",
+          "description": "英大手銀行HSBCは、シンガポールと香港の富裕層顧客向けに、メタバースへの投資に焦点を当てたファンドを立ち上げた。",
+          "link": "https://coinpost.jp/?p=338098",
+          "publishedOn": "2022-04-07T02:15:27.000Z",
+          "wordCount": 395,
+          "title": "英メガバンクHSBC、メタバース投資ファンドを立ち上げ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/hsbc-ban-ms-stock-buying.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/hsbc-ban-ms-stock-buying.png"
+        },
         {
           "id": "https://coinpost.jp/?p=338084",
           "author": "A.Yamada",
