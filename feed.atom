@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-08T10:32:20.620Z</updated>
+    <updated>2022-04-08T11:26:03.804Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Astar（ASTR）基盤の大手DEX・ArthSwap、IDO第一弾の詳細を明らかに]]></title>
+        <id>https://coinpost.jp/?p=338694</id>
+        <link href="https://coinpost.jp/?p=338694"/>
+        <updated>2022-04-08T11:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Astar Network基盤のDEX（分散型取引所）ArthSwapは、4月に予定しているIDOの詳細を発表。ネイティブトークンARSWのトークンセールを実施する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ基盤の次世代オラクル「Pyth Network」とは｜仕組みと特徴を解説]]></title>
         <id>https://coinpost.jp/?p=331630</id>
@@ -1320,16 +1330,6 @@ NFTとグラミー賞の夜：現地レポート first appeared on coindesk JAPA
         <summary type="html"><![CDATA[米国における仮想通貨の普及度に関するアンケートの調査結果をNBCニュースが公開。1,000名の回答者の内、21％が仮想通貨投資を行なったことがあると回答した。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サウナー必見！サウナグラビアの真奈さんがカード型NFTをオークション販売。どのサウナをコレクションする？]]></title>
-        <id>76df58aae50499ff821274ae7ec03932</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3aa6e63df140f9364d369e8c30c2350d667"/>
-        <updated>2022-04-03T23:10:01.000Z</updated>
-        <summary type="html"><![CDATA[メディアエクイティ株式会社のプレスリリース（2022年4月4日 08時10分）サウナー必見！サウナグラビアの真奈さんがカード型NFTをオークション販売。どのサウナをコレクションする？]]></summary>
-        <author>
-            <name>メディアエクイティ株式会社</name>
         </author>
     </entry>
 </feed>
