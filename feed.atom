@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-08T04:37:10.116Z</updated>
+    <updated>2022-04-08T05:26:27.433Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アーダーブロックチェーン新バージョン、メインネット実装を完了]]></title>
+        <id>https://coinpost.jp/?p=338349</id>
+        <link href="https://coinpost.jp/?p=338349"/>
+        <updated>2022-04-08T05:00:13.000Z</updated>
+        <summary type="html"><![CDATA[アーダー（Ardor）プラットフォームを開発するJeluridaは5日、アップグレード版「v.2.4.1」がメインネットへ実装されたことを発表。ロイヤリティ付加機能などの3つの新機能が使えるようになる。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フィリピン決済大手「PayMaya」、デジタルウォレットに仮想通貨サービス機能を統合]]></title>
         <id>https://coinpost.jp/?p=338564</id>
