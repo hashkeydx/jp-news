@@ -183,6 +183,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=145981",
+          "author": "Eliza Gkritsi",
+          "description": "メタバーステクノロジー会社の「Improbable（インプロバブル）」は4月7日、ソフトバンク・ビジョン・ファンド2と、アンドリーセン・ホロウィッツ（a16z） ...\nメタバース・スタートアップが190億円調達──ソフトバンクとa16zが主導 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145981/",
+          "publishedOn": "2022-04-08T01:30:28.000Z",
+          "wordCount": 176,
+          "title": "メタバース・スタートアップが190億円調達──ソフトバンクとa16zが主導",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/PXNBQUWJOVFKBON2R5LTTC2XGY.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=145983",
+          "author": "Will Canny",
+          "description": "米投資銀行のゴールドマン・サックスは2日のメモに、ブロックチェーン銘柄はS&P500を年初から平均8％下回り、S&P500の5％下落に対して13 ...\nブロックチェーン銘柄、2024年まで年16％取引増：ゴールドマン・サックス first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145983/",
+          "publishedOn": "2022-04-08T00:30:01.000Z",
+          "wordCount": 175,
+          "title": "ブロックチェーン銘柄、2024年まで年16％取引増：ゴールドマン・サックス",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_1617300952.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=145753",
           "author": "Sam Reynolds",
           "description": "メタバースは、ベンチャーキャピタル（VC）や世界の大手ブランドから高い関心を集めているが、ユーザー獲得に苦戦しており、トークン価格にもそうした状況が表れ始めてい ...\n人気メタバース、ユーザー数が伸びず──市場の期待を下回る first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -525,6 +545,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=338517",
+          "author": "A.Yamada",
+          "description": "米リップル社は、XRP台帳上で元NBA選手のマイケル・ジョーダン氏をテーマとしたNFTコレクションがリリースされることを報告した。",
+          "link": "https://coinpost.jp/?p=338517",
+          "publishedOn": "2022-04-08T01:50:28.000Z",
+          "wordCount": 396,
+          "title": "マイケル・ジョーダン氏のNFTコレクション、XRPLで発売へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/wrapped-xrp-launched.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/wrapped-xrp-launched.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=338498",
+          "author": "A.Yamada",
+          "description": "中米ホンジュラスの経済特区は、ビットコインなどの仮想通貨を事実上の法定通貨として認めることを発表した。ポルトガルやメキシコなどでも同様の取り組みが普及しつつある。",
+          "link": "https://coinpost.jp/?p=338498",
+          "publishedOn": "2022-04-08T01:31:42.000Z",
+          "wordCount": 436,
+          "title": "ホンジュラスの経済特区、ビットコイン債権を合法化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/honduras_bitcoin1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/honduras_bitcoin1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=338505",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨決済企業Strikeは、Shopifyの米小売店が同社のサービスを利用して、ビットコインによる支払いを受け付けられるようになったことを発表。決済の特徴や小売店のメリットを説明した。",
+          "link": "https://coinpost.jp/?p=338505",
+          "publishedOn": "2022-04-08T01:05:28.000Z",
+          "wordCount": 393,
+          "title": "eコマース大手Shopify、Strikeのビットコイン決済導入へ　ライトニングネットワークで処理を高速化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/bitcoin_lightningnetwork1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/bitcoin_lightningnetwork1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=338500",
+          "author": "菊谷ルイス",
+          "description": "米シカゴマーカンタイル取引所は7日、4月25日から11銘柄の仮想通貨指数を新たに提供する予定を発表した。",
+          "link": "https://coinpost.jp/?p=338500",
+          "publishedOn": "2022-04-08T00:30:36.000Z",
+          "wordCount": 373,
+          "title": "米CME、11銘柄の仮想通貨インデックス提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/cme_0326.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/cme_0326.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=338494",
+          "author": "菊谷ルイス",
+          "description": "スイスを拠点にする資産運用企業21Sharesは7日、仮想通貨「ザ・サンドボックス（SAND）」の上場取引型金融商品が上場したことを発表した。",
+          "link": "https://coinpost.jp/?p=338494",
+          "publishedOn": "2022-04-07T23:30:10.000Z",
+          "wordCount": 372,
+          "title": "資産運用企業21Shares、ザ・サンドボックス（SAND）のETPをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/sandbox2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/sandbox2.png"
+        },
         {
           "id": "https://coinpost.jp/?p=338491",
           "author": "菊谷ルイス",
