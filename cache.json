@@ -541,16 +541,6 @@
           "wordCount": 223,
           "title": "ビットコイン、S&P500と高い相関関係：1Q",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/ZVCWPEHDGZGNTNHBIGDR6PDVCE.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=145347",
-          "author": "Daniel Kuhn",
-          "description": "イーサリアムの生みの親ヴィタリック・ブテリン氏は先日、イーサリアムが進んでいたかもしれない方向性について考えるブログ記事を投稿した。「The roads not ...\nイーサリアムが歩まなかった道：ブテリン氏の手記 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/145347/",
-          "publishedOn": "2022-04-03T21:00:00.000Z",
-          "wordCount": 186,
-          "title": "イーサリアムが歩まなかった道：ブテリン氏の手記",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_471941339-scaled.jpg"
         }
       ]
     },
@@ -565,6 +555,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=331630",
+          "author": "CoinPost編集部",
+          "description": "PythNetworkとはPythNetworkはソラナ・ブロックチェーン上で機能する分散型のクロスチェーン型データオラクルです。開発者などにより正確な市場データの提供を目指しています。名称はギリシャ神話のデルファイ（Delphi）とDeF...",
+          "link": "https://coinpost.jp/?p=331630",
+          "publishedOn": "2022-04-08T09:00:47.000Z",
+          "wordCount": 485,
+          "title": "ソラナ基盤の次世代オラクル「Pyth Network」とは｜仕組みと特徴を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/pyth20220317a.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/pyth20220317a.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=338648",
+          "author": "Noah Sakamaki",
+          "description": "米財務省のジャネット・イエレン財務長官は米ワシントンDCの大学で仮想通貨関連の大統領令に関する演説を行なった。金融の歴史を背景に、イノベーションに関する姿勢や方針を語った。",
+          "link": "https://coinpost.jp/?p=338648",
+          "publishedOn": "2022-04-08T08:42:26.000Z",
+          "wordCount": 447,
+          "title": "イエレン米財務長官「責任のある仮想通貨（イノベーション）規制を」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/janet_yellen1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/janet_yellen1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=331539",
           "author": "CONNECTV 編集部",
