@@ -164,16 +164,6 @@
           "wordCount": 44,
           "title": "【東大発AIベンチャー】物流×ブロックチェーン技術の実用化に向けた研究開始",
           "imageUrl": null
-        },
-        {
-          "id": "b0835332eb1c508dfaa9f2be97034f0f",
-          "author": "株式会社FUWARI",
-          "description": "株式会社FUWARIのプレスリリース（2022年4月5日 19時00分）日本初！結婚証明書をNFTアート化。結婚の誓いを半永久的に残るデジタル証明書に。",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26f63df140f9369d668e7ca0c2350d667",
-          "publishedOn": "2022-04-05T10:00:02.000Z",
-          "wordCount": 44,
-          "title": "日本初！結婚証明書をNFTアート化。結婚の誓いを半永久的に残るデジタル証明書に。",
-          "imageUrl": null
         }
       ]
     },
@@ -182,6 +172,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=145726",
+          "author": "Bill Hughes",
+          "description": "米証券取引委員会（SEC）は、「コミュニケーション・プロトコル・システム（CPS）」のSECへの登録と、記録、取引監視、報告を義務づける提案を発表した。 ここで ...\n「取引所」の定義を広げる──SECの提案に懸念の声 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145726/",
+          "publishedOn": "2022-04-09T22:00:00.000Z",
+          "wordCount": 201,
+          "title": "「取引所」の定義を広げる──SECの提案に懸念の声",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_181756637-scaled.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=146112",
           "author": "coindesk JAPAN",
@@ -481,26 +481,6 @@
           "wordCount": 255,
           "title": "UAEでファッションNFTに挑む33才が日本を離れた理由",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/03/joifahirade001-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=145609",
-          "author": "Camomile Shumba",
-          "description": "イギリス政府は、暗号資産（仮想通貨）技術とその投資に関する「前向きなアプローチ」を示すために、NFTを発行すると発表した。 リシ・スナック財務大臣は、王立造幣局 ...\nイギリス政府、NFT発行を計画 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/145609/",
-          "publishedOn": "2022-04-05T09:45:25.000Z",
-          "wordCount": 206,
-          "title": "イギリス政府、NFT発行を計画",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_583939735.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=145546",
-          "author": "菊池友信",
-          "description": "ブロックチェーン関連スタートアップのG.U.Technologiesは4月5日、イーサリアム（Ethereum）に互換性をもつEVM互換ブロックチェーンを立ち上 ...\n日本発のイーサリアム互換チェーンを公開──電通、みんなの銀行、ピクシブが参画 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/145546/",
-          "publishedOn": "2022-04-05T09:30:13.000Z",
-          "wordCount": 169,
-          "title": "日本発のイーサリアム互換チェーンを公開──電通、みんなの銀行、ピクシブが参画",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/japanopenchain.jpg"
         }
       ]
     },
@@ -1534,21 +1514,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/20220402_1_A-e1649155454614.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/20220402_1_A-e1649155454614.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=337591",
-          "author": "CoinPost編集部",
-          "description": "暗号資産取引所AscendEXは仮想通貨WINkLink（WIN）の上場を発表した。テザー（USDT）建の取引ペアの取り扱いを開始する。",
-          "link": "https://coinpost.jp/?p=337591",
-          "publishedOn": "2022-04-05T09:43:35.000Z",
-          "wordCount": 370,
-          "title": "AscendEX、分散型オラクルWINkLink（WIN）トークンの取り扱い開始へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/wink040522.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/wink040522.png"
         }
       ]
     }
