@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-09T11:24:31.952Z</updated>
+    <updated>2022-04-09T12:45:26.666Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BaaSプロジェクトArdor（ARDR）とは　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=334799</id>
+        <link href="https://coinpost.jp/?p=334799"/>
+        <updated>2022-04-09T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、「Ardorとは何か？」「Ardorの独自の特徴」など、アーダー（ARDR）をまだ詳しく知らないという方に向けてアーダーARDR）の全体像を分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi大手Yearn.finance、新たなトークン規格「ERC-4626」に対応開始]]></title>
         <id>https://coinpost.jp/?p=338916</id>
@@ -1338,37 +1348,6 @@ NFTとグラミー賞の夜：現地レポート first appeared on coindesk JAPA
         <summary type="html"><![CDATA[インドネシア当局は、ビットコインなど仮想通貨取引への課税をまもなく開始すると発表した。付加価値税と所得税をそれぞれ0.1％徴収することになるという。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産ファンド、2週連続の流入超──欧州のファンドに集中]]></title>
-        <id>https://www.coindeskjapan.com/?p=145535</id>
-        <link href="https://www.coindeskjapan.com/145535/"/>
-        <updated>2022-04-05T00:30:25.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）ファンドは2週連続の流入超となった。資金流入のほとんどがヨーロッパのファンドに集中した。 コインシェアーズが4月4日に発表したレポートによる ...
-暗号資産ファンド、2週連続の流入超──欧州のファンドに集中 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Angelique Chen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米インテル、ビットコイン採掘ASIC機器の第2弾リリース]]></title>
-        <id>https://coinpost.jp/?p=337409</id>
-        <link href="https://coinpost.jp/?p=337409"/>
-        <updated>2022-04-05T00:30:02.000Z</updated>
-        <summary type="html"><![CDATA[米インテル社は新たな仮想通貨ビットコインのマイニング機器を発表。持続可能性の観点から、環境負荷を抑えながらハッシュレートの向上を図る。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SECゲンスラー委員長「仮想通貨取引所の監督はCFTCらと分担すべき」＝報道]]></title>
-        <id>https://coinpost.jp/?p=337396</id>
-        <link href="https://coinpost.jp/?p=337396"/>
-        <updated>2022-04-04T23:50:52.000Z</updated>
-        <summary type="html"><![CDATA[米SECのゲーリー・ゲンスラー委員長は、仮想通貨取引所の監督は、CFTCらの機関と分担すべきであるとの見解を示した。すでに協業を指示したことも明かしている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
