@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-09T06:34:16.258Z</updated>
+    <updated>2022-04-09T07:26:22.634Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi大手Yearn.finance、新たなトークン規格「ERC-4626」に対応開始]]></title>
+        <id>https://coinpost.jp/?p=338916</id>
+        <link href="https://coinpost.jp/?p=338916"/>
+        <updated>2022-04-09T06:38:11.000Z</updated>
+        <summary type="html"><![CDATA[分散型イールドアグリゲーター大手のYearn Financeは、新トークン規格「ERC-4626」に対応開始。互換性と安全性の向上が期待される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTXと旅行会社Travalaが提携、決済でFTTに対応]]></title>
         <id>https://coinpost.jp/?p=338870</id>
