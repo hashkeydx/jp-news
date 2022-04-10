@@ -154,16 +154,6 @@
           "wordCount": 44,
           "title": "ERC20事業者用自家型前払式支払手段ICB 払い戻し開始のお知らせ｜ICBから日本円への交換受付開始",
           "imageUrl": null
-        },
-        {
-          "id": "06fd148cada82950784b03bca3a26cd0",
-          "author": "SMITH ＆ FACTORY株式会社",
-          "description": "SMITH ＆ FACTORY株式会社のプレスリリース（2022年4月6日 08時31分） 東大発AIベンチャー 物流×ブロックチェーン技術の実用化に向けた研究開始",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06b63df140f9366d66ce4c30c2350d667",
-          "publishedOn": "2022-04-05T23:31:07.000Z",
-          "wordCount": 44,
-          "title": "【東大発AIベンチャー】物流×ブロックチェーン技術の実用化に向けた研究開始",
-          "imageUrl": null
         }
       ]
     },
@@ -471,16 +461,6 @@
           "wordCount": 275,
           "title": "【US市場】ビットコイン、FRB理事のコメントを受けて一時下落──ドージコイン、上昇",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/XUAGUZGDCBGS3CJVFRI4DY4XW4.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=145658",
-          "author": "Helene Braun",
-          "description": "イーロン・マスク氏がツイッター社の取締役に就任したことを受けて、ドージコイン（DOGE）が11％上昇した。マスク氏は就任に際し、自身の持ち株比率を現在の9.2% ...\nドージコインが上昇──マスク氏のツイッター取締役就任が好材料 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/145658/",
-          "publishedOn": "2022-04-06T00:40:27.000Z",
-          "wordCount": 237,
-          "title": "ドージコインが上昇──マスク氏のツイッター取締役就任が好材料",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/coindesk-DOGE-chart-2022-04-06.jpg"
         }
       ]
     },
@@ -495,6 +475,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=334784",
+          "author": "CONNECTV 編集部",
+          "description": "Secret Network（SCRT）は、イーサリアム（ETH）のようなスマートコントラクト、Moneroのようなプライバシー性能、Cosmosのインターオペラビリティが合わさったようなネットワークである。",
+          "link": "https://coinpost.jp/?p=334784",
+          "publishedOn": "2022-04-10T12:00:35.000Z",
+          "wordCount": 378,
+          "title": "「匿名性とスマートコントラクトを両立」Secret Networkとは　CONNECTV・動画解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/20220405_A-e1649384060643.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/20220405_A-e1649384060643.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=338961",
           "author": "A.Sakamoto",
@@ -1439,21 +1434,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/201102_usa_btc1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/201102_usa_btc1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=337713",
-          "author": "A.Yamada",
-          "description": "ライトニングラボは、仮想通貨ビットコインのネットワークでステーブルコインなどの資産を発行できるようにする「Taro」を発表。80億円超の資金調達を完了したことも報告している。",
-          "link": "https://coinpost.jp/?p=337713",
-          "publishedOn": "2022-04-05T23:50:47.000Z",
-          "wordCount": 439,
-          "title": "ライトニングネットワークの新プロトコル発表　ステーブルコイン発行を可能に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/lightning-132.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/lightning-132.jpg"
         }
       ]
     }

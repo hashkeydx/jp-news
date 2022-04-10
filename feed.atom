@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-10T11:25:13.221Z</updated>
+    <updated>2022-04-10T12:45:48.097Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「匿名性とスマートコントラクトを両立」Secret Networkとは　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=334784</id>
+        <link href="https://coinpost.jp/?p=334784"/>
+        <updated>2022-04-10T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Secret Network（SCRT）は、イーサリアム（ETH）のようなスマートコントラクト、Moneroのようなプライバシー性能、Cosmosのインターオペラビリティが合わさったようなネットワークである。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン反落で4.5万ドル水準割り込む、 足元では売り一巡サインも]]></title>
         <id>https://coinpost.jp/?p=338961</id>
@@ -1114,37 +1124,6 @@ HSBC、メタバースファンドを提供──対象はアジアの富裕層�
         <summary type="html"><![CDATA[米財務省は、外国資産管理局が世界最大規模のダークネット市場Hydra Marketと仮想通貨取引所Garantexを制裁対象に加えたと発表。ビットコインが悪用された事例も確認されている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドージコインが上昇──マスク氏のツイッター取締役就任が好材料]]></title>
-        <id>https://www.coindeskjapan.com/?p=145658</id>
-        <link href="https://www.coindeskjapan.com/145658/"/>
-        <updated>2022-04-06T00:40:27.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏がツイッター社の取締役に就任したことを受けて、ドージコイン（DOGE）が11％上昇した。マスク氏は就任に際し、自身の持ち株比率を現在の9.2% ...
-ドージコインが上昇──マスク氏のツイッター取締役就任が好材料 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ライトニングネットワークの新プロトコル発表　ステーブルコイン発行を可能に]]></title>
-        <id>https://coinpost.jp/?p=337713</id>
-        <link href="https://coinpost.jp/?p=337713"/>
-        <updated>2022-04-05T23:50:47.000Z</updated>
-        <summary type="html"><![CDATA[ライトニングラボは、仮想通貨ビットコインのネットワークでステーブルコインなどの資産を発行できるようにする「Taro」を発表。80億円超の資金調達を完了したことも報告している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【東大発AIベンチャー】物流×ブロックチェーン技術の実用化に向けた研究開始]]></title>
-        <id>06fd148cada82950784b03bca3a26cd0</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06b63df140f9366d66ce4c30c2350d667"/>
-        <updated>2022-04-05T23:31:07.000Z</updated>
-        <summary type="html"><![CDATA[SMITH ＆ FACTORY株式会社のプレスリリース（2022年4月6日 08時31分） 東大発AIベンチャー 物流×ブロックチェーン技術の実用化に向けた研究開始]]></summary>
-        <author>
-            <name>SMITH ＆ FACTORY株式会社</name>
         </author>
     </entry>
 </feed>
