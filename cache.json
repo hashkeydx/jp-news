@@ -123,6 +123,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=145856",
+          "author": "Helene Braun",
+          "description": "アメリカでのデジタルドル推進派は、金融包摂の拡大、政府による手当て給付の効率化、より安価で高速な海外送金など、多くのメリットを挙げている。 しかし、デジタルドル ...\nデジタルドル：議論に決着は着くのか？ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/145856/",
+          "publishedOn": "2022-04-10T21:30:00.000Z",
+          "wordCount": 211,
+          "title": "デジタルドル：議論に決着は着くのか？",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_417916573-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=143618",
           "author": "佐藤 茂",
           "description": "青森市で生まれ育ち、東北大学で経済学を学んだ後、次世代の新しい社会インフラを作ろうと日本最大の金融コングロマリットで働き続ける齊藤達哉さん。 日本では「失われた ...\n三菱UFJ 齊藤達哉──銀行で働く“起業家”はWeb3の日本の土台を作れるか？ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -391,16 +401,6 @@
           "wordCount": 200,
           "title": "アクシー・インフィニティが抱えるハッキングよりも大きな問題【コラム】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_2116165589-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=145741",
-          "author": "Will Canny",
-          "description": "英金融大手HSBCは、アジアの富裕層をターゲットにメタバース（仮想世界）に投資する運用サービスを開始する。今後10年のメタバース・エコシステムの世界的な成長機会 ...\nHSBC、メタバースファンドを提供──対象はアジアの富裕層顧客 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/145741/",
-          "publishedOn": "2022-04-06T09:30:51.000Z",
-          "wordCount": 174,
-          "title": "HSBC、メタバースファンドを提供──対象はアジアの富裕層顧客",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/MPQWNFWXAJFCDBX4H6MOK4WEL4.jpeg"
         }
       ]
     },
@@ -1209,51 +1209,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/bitcoin-code-ftx-donation.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/bitcoin-code-ftx-donation.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=337838",
-          "author": "CONNECTV 編集部",
-          "description": "今回のCONNECTVでは、SBINFT代表取締役 高長徳氏、SBINFTCMO中田宜明氏の2名に、NFT市場の2021年から2022の今までの経緯を1から解説していただく。",
-          "link": "https://coinpost.jp/?p=337838",
-          "publishedOn": "2022-04-06T10:05:43.000Z",
-          "wordCount": 344,
-          "title": "NFT市場の2021年から2022の今までを1から解説 CONNECTV・動画解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/20220402_3_C-e1649223899368.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/20220402_3_C-e1649223899368.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=337934",
-          "author": "Noah Sakamaki",
-          "description": "大手仮想通貨取引所バイナンスのVC部門「バイナンスラボ」が、運動で稼ぐ分散型アプリ「STEPN」への戦略的出資を発表。過去数か月で100倍の成長を遂げたSTEPNは、Move-to-Earnの提唱でWeb3.0の普及に貢献すると高く評価した。",
-          "link": "https://coinpost.jp/?p=337934",
-          "publishedOn": "2022-04-06T09:54:29.000Z",
-          "wordCount": 379,
-          "title": "バイナンスVC部門、運動で稼ぐNFTゲーム「STEPN」に戦略的投資へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/STEPN_BINANCE-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/STEPN_BINANCE-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=337186",
-          "author": "CONNECTV 編集部",
-          "description": "今回のCONNECTVゲストは、ブロックチェーン企業のKnot,inc.CEOで和組DAO創設者の小林 清剛氏。Web3.0の現状や2010年代のスマホビジネス勃興期との比較、そして今後の展望について語っていただいた。",
-          "link": "https://coinpost.jp/?p=337186",
-          "publishedOn": "2022-04-06T09:45:16.000Z",
-          "wordCount": 363,
-          "title": "Web3ビジネスを始める上で知っておくべきこと CONNECTV・動画解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/277030102_344506110985938_7355321092500759678_n-e1649047125689.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/277030102_344506110985938_7355321092500759678_n-e1649047125689.jpg"
         }
       ]
     }
