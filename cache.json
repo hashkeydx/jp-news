@@ -123,6 +123,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=146154",
+          "author": "coindesk JAPAN",
+          "description": "週末の注目ニュースをピックアップ。 DeFi大手ヤーン・ファイナンス、新規格「ERC-4626」をサポート DeFi（分散型金融）大手のヤーン・ファイナンス（Y ...\nテスラのソーラーパネルとバッテリーを使ったマイニング施設、米シティの元幹部が暗号資産投資会社【週末のトップストーリー】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/146154/",
+          "publishedOn": "2022-04-11T03:45:33.000Z",
+          "wordCount": 325,
+          "title": "テスラのソーラーパネルとバッテリーを使ったマイニング施設、米シティの元幹部が暗号資産投資会社【週末のトップストーリー】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_1344587312.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=146162",
           "author": "Shaurya Malwa",
           "description": "イーサリアム（Ethereum）ブロックチェーンのガス使用量は3月、DeFi分析会社HashExによると2月から13％増加した。イーサリアムブロックチェーンの需 ...\nイーサリアムのガス使用量、3月は前月比13％増──レイヤー2人気が後押し first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -425,6 +435,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=339264",
+          "author": "幸田直子",
+          "description": "国際通貨基金は最近の報告書で、仮想通貨の利用率は、政治的に腐敗していたり、厳しい資本規制のある国々で高い傾向にあると指摘。規制強化を呼びかけた。",
+          "link": "https://coinpost.jp/?p=339264",
+          "publishedOn": "2022-04-11T04:00:33.000Z",
+          "wordCount": 438,
+          "title": "IMF報告書「仮想通貨利用率と汚職・資本規制の度合に相関関係」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/IMF-1020.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/IMF-1020.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=339222",
+          "author": "S.Inosita",
+          "description": "データサルベージ業務を展開するブレイバーは、仮想通貨の遺品整理サービス、クリプトサルベージを発表した。故人所有のビットコインやイーサリアム、NFTなどを調査し救出する。",
+          "link": "https://coinpost.jp/?p=339222",
+          "publishedOn": "2022-04-11T03:49:18.000Z",
+          "wordCount": 384,
+          "title": "株式会社ブレイバー、仮想通貨の遺品整理サービスを開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/04/bitcoin-halving.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/04/bitcoin-halving.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=339223",
+          "author": "S.Ninomiya",
+          "description": "金融市場の地合い悪化に伴い、ビットコインやアルトコイン銘柄は軒並み冴えない。そんな中、日本人起業家である渡辺創太CEO率いるアスター（ASTR）が前週比で大幅高になった。",
+          "link": "https://coinpost.jp/?p=339223",
+          "publishedOn": "2022-04-11T03:18:45.000Z",
+          "wordCount": 430,
+          "title": "アルトコイン前週比で軒並み大幅安、好材料相次ぐアスター（ASTR）が逆行高に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/bear-trap-knife.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/bear-trap-knife.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=339225",
           "author": "A.Yamada",
