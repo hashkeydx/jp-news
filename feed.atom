@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-12T22:28:50.992Z</updated>
+    <updated>2022-04-12T23:28:39.422Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米消費者物価指数、8.5％上昇──40年ぶりの高水準]]></title>
+        <id>https://www.coindeskjapan.com/?p=146473</id>
+        <link href="https://www.coindeskjapan.com/146473/"/>
+        <updated>2022-04-12T23:10:02.000Z</updated>
+        <summary type="html"><![CDATA[米労働省は12日、3月の消費者物価指数（CPI）を発表。前年比8.5％上昇と予想を上回り、1981年12月以来となる40年ぶりの高水準となった。 アナリストらの ...
+米消費者物価指数、8.5％上昇──40年ぶりの高水準 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米フィデリティ、メタバース系を含む2つのETFを提供予定]]></title>
+        <id>https://coinpost.jp/?p=339886</id>
+        <link href="https://coinpost.jp/?p=339886"/>
+        <updated>2022-04-12T22:28:11.000Z</updated>
+        <summary type="html"><![CDATA[世界的大手金融機関フィデリティは12日、仮想通貨・ブロックチェーンに関連する2つのETFの提供を予定していることを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDC発行企業Circle、500億円を資金調達へ　ブラックロックら4社が出資]]></title>
         <id>https://coinpost.jp/?p=339879</id>
@@ -788,16 +809,6 @@ Web3にはアフリカが必要だ【コラム】 first appeared on coindesk JAP
         <summary type="html"><![CDATA[ブロックチェーン・セキュリティ企業のCertiKは、シリーズB3ラウンドで約110億円を資金調達したことを発表した。出資にはゴールドマン・サックスなどが参画。評価額は2,500億円に達した。]]></summary>
         <author>
             <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astar（ASTR）基盤の大手DEX・ArthSwap、IDO第一弾の詳細を明らかに]]></title>
-        <id>https://coinpost.jp/?p=338694</id>
-        <link href="https://coinpost.jp/?p=338694"/>
-        <updated>2022-04-08T11:06:26.000Z</updated>
-        <summary type="html"><![CDATA[Astar Network基盤のDEX（分散型取引所）ArthSwapは、4月に予定しているIDOの詳細を発表。ネイティブトークンARSWのトークンセールを実施する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
