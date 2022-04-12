@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-12T20:29:54.104Z</updated>
+    <updated>2022-04-12T21:27:52.973Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ロビンフッド、仮想通貨4銘柄の新規上場]]></title>
+        <id>https://coinpost.jp/?p=339872</id>
+        <link href="https://coinpost.jp/?p=339872"/>
+        <updated>2022-04-12T21:02:52.000Z</updated>
+        <summary type="html"><![CDATA[米大手投資アプリのロビンフッドは12日、ソラナやポリゴンなどの仮想通貨銘柄の新規上場を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26才Web3起業家・渡辺創太：世界で勝てば日本は変わる【脱・日本】]]></title>
+        <id>https://www.coindeskjapan.com/?p=146033</id>
+        <link href="https://www.coindeskjapan.com/146033/"/>
+        <updated>2022-04-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「日本人として負け続けるのはくやしい。失われた30年間を過ごした若者がこの国に希望が持てることをやっていきたい」。 こう話すのは、20代でシンガポールに渡り、世 ...
+26才Web3起業家・渡辺創太：世界で勝てば日本は変わる【脱・日本】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>菊池友信</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[賞金総額6億円のアバランチ（AVAX）ハッカソン、人気プロジェクトなど報告]]></title>
         <id>https://coinpost.jp/?p=337881</id>
@@ -746,37 +767,6 @@ Web3にはアフリカが必要だ【コラム】 first appeared on coindesk JAP
         <summary type="html"><![CDATA[Astar Network基盤のDEX（分散型取引所）ArthSwapは、4月に予定しているIDOの詳細を発表。ネイティブトークンARSWのトークンセールを実施する。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ基盤の次世代オラクル「Pyth Network」とは｜仕組みと特徴を解説]]></title>
-        <id>https://coinpost.jp/?p=331630</id>
-        <link href="https://coinpost.jp/?p=331630"/>
-        <updated>2022-04-08T09:00:47.000Z</updated>
-        <summary type="html"><![CDATA[PythNetworkとはPythNetworkはソラナ・ブロックチェーン上で機能する分散型のクロスチェーン型データオラクルです。開発者などにより正確な市場データの提供を目指しています。名称はギリシャ神話のデルファイ（Delphi）とDeF...]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イエレン米財務長官「責任のある仮想通貨（イノベーション）規制を」]]></title>
-        <id>https://coinpost.jp/?p=338648</id>
-        <link href="https://coinpost.jp/?p=338648"/>
-        <updated>2022-04-08T08:42:26.000Z</updated>
-        <summary type="html"><![CDATA[米財務省のジャネット・イエレン財務長官は米ワシントンDCの大学で仮想通貨関連の大統領令に関する演説を行なった。金融の歴史を背景に、イノベーションに関する姿勢や方針を語った。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大統領令は「ビットコインへのゴーサイン」：マイクロストラテジーCEO]]></title>
-        <id>https://www.coindeskjapan.com/?p=146048</id>
-        <link href="https://www.coindeskjapan.com/146048/"/>
-        <updated>2022-04-08T08:30:08.000Z</updated>
-        <summary type="html"><![CDATA[マイクロストラテジーのマイケル・セイラーCEOとアーク・インベストメント・マネジメントのキャシー・ウッドCEOは4月7日、マイアミで開催されたカンファレンス「B ...
-大統領令は「ビットコインへのゴーサイン」：マイクロストラテジーCEO first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Nelson Wang</name>
         </author>
     </entry>
 </feed>
