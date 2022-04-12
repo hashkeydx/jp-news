@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-12T10:32:58.572Z</updated>
+    <updated>2022-04-12T11:25:38.722Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[賞金総額6億円のアバランチ（AVAX）ハッカソン、人気プロジェクトなど報告]]></title>
+        <id>https://coinpost.jp/?p=337881</id>
+        <link href="https://coinpost.jp/?p=337881"/>
+        <updated>2022-04-12T10:26:39.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨投資企業Avatar Fundは、22年2月より開催中の高速ブロックチェーン「アバランチ（AVAX）」ハッカソンの現状を報告した。投票期限が控える中、人気を集めるプロジェクトを紹介した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人気NFTが映画に──制作は米コインベースの新設メディア部門]]></title>
         <id>https://www.coindeskjapan.com/?p=146359</id>
@@ -920,26 +930,6 @@ Web3にはアフリカが必要だ【コラム】 first appeared on coindesk JAP
         <summary type="html"><![CDATA[スイスを拠点にする資産運用企業21Sharesは7日、仮想通貨「ザ・サンドボックス（SAND）」の上場取引型金融商品が上場したことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ロビンフッド、仮想通貨ウォレット正式リリース]]></title>
-        <id>https://coinpost.jp/?p=338491</id>
-        <link href="https://coinpost.jp/?p=338491"/>
-        <updated>2022-04-07T23:15:06.000Z</updated>
-        <summary type="html"><![CDATA[米人気投資アプリのロビンフッドは8日、仮想通貨ウォレットの正式リリースを発表した。200万人の対象ユーザーが利用可能になる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリゴン、新プロダクト「Polygon Avail」のテストネットを22年2Qにローンチへ]]></title>
-        <id>https://coinpost.jp/?p=338479</id>
-        <link href="https://coinpost.jp/?p=338479"/>
-        <updated>2022-04-07T22:35:01.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムのスケーリングソリューションを提供するポリゴンは、Polygon Availのテストネットを、2022年2Qにローンチすると発表。新プロダクトの特徴やビジョンも説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
