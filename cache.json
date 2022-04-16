@@ -164,16 +164,6 @@
           "wordCount": 44,
           "title": "株式会社HashPort、バーチャルワールドYay!（イェイ）運営の株式会社ナナメウエとIEO支援に関するパートナーシップ契約を締結",
           "imageUrl": null
-        },
-        {
-          "id": "32a1094c84316fd06486256fbb71fb51",
-          "author": "弁護士法人GVA法律事務所",
-          "description": "弁護士法人GVA法律事務所のプレスリリース（2022年4月12日 19時12分）急速に発展するNFTビジネスについて、初学者・入門者の方にも分かりやすく解説する[60分でわかる！NFTビジネス超入門]をGVA法律事務所Web3.0チームが監修",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06f63df140f9361d16ce3c20c2350d667",
-          "publishedOn": "2022-04-12T10:12:09.000Z",
-          "wordCount": 44,
-          "title": "急速に発展するNFTビジネスについて、初学者・入門者の方にも分かりやすく解説する「60分でわかる！NFTビジネス超入門」をGVA法律事務所Web3.0チームが監修",
-          "imageUrl": null
         }
       ]
     },
@@ -182,6 +172,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=146695",
+          "author": "Sam Kessler",
+          "description": "イーサリアムブロックチェーンは4月12日、メインネットで初の「シャドーフォーク」、つまり、プルーフ・オブ・ステーク（PoS）への移行に向けたストレステストを実施 ...\nイーサリアム「The Merge」はスケーリング問題を解決しない──注目されるレイヤー2の役割 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/146695/",
+          "publishedOn": "2022-04-16T22:00:00.000Z",
+          "wordCount": 203,
+          "title": "イーサリアム「The Merge」はスケーリング問題を解決しない──注目されるレイヤー2の役割",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/UGBTCN6UNNFCBOGMUFWMISI5M4.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=146874",
           "author": "coindesk JAPAN",
@@ -1294,21 +1294,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/robinhood-breach.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/robinhood-breach.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=337881",
-          "author": "CoinPost編集部",
-          "description": "仮想通貨投資企業Avatar Fundは、22年2月より開催中の高速ブロックチェーン「アバランチ（AVAX）」ハッカソンの現状を報告した。投票期限が控える中、人気を集めるプロジェクトを紹介した。",
-          "link": "https://coinpost.jp/?p=337881",
-          "publishedOn": "2022-04-12T10:26:39.000Z",
-          "wordCount": 446,
-          "title": "賞金総額6億円のアバランチ（AVAX）ハッカソン、人気プロジェクトなど報告",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Avalanche_2022-01-31-17.37.31-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Avalanche_2022-01-31-17.37.31-1.png"
         }
       ]
     }

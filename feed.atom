@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-16T21:26:11.253Z</updated>
+    <updated>2022-04-16T22:28:08.766Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム「The Merge」はスケーリング問題を解決しない──注目されるレイヤー2の役割]]></title>
+        <id>https://www.coindeskjapan.com/?p=146695</id>
+        <link href="https://www.coindeskjapan.com/146695/"/>
+        <updated>2022-04-16T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーンは4月12日、メインネットで初の「シャドーフォーク」、つまり、プルーフ・オブ・ステーク（PoS）への移行に向けたストレステストを実施 ...
+イーサリアム「The Merge」はスケーリング問題を解決しない──注目されるレイヤー2の役割 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTStudioがPolygon Studiosとパートナーシップを発表。日本国内におけるクリエイター/IP事業者のNFT販売及びマーケティング支援を促進]]></title>
         <id>a1da26afe6f98aaab6c05eaf1f4884ab</id>
@@ -1023,26 +1034,6 @@ DEA、Astar Networkとパートナーシップ──GameFiコンテンツ拡大�
 26才Web3起業家・渡辺創太：世界で勝てば日本は変わる【脱・日本】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>菊池友信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賞金総額6億円のアバランチ（AVAX）ハッカソン、人気プロジェクトなど報告]]></title>
-        <id>https://coinpost.jp/?p=337881</id>
-        <link href="https://coinpost.jp/?p=337881"/>
-        <updated>2022-04-12T10:26:39.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨投資企業Avatar Fundは、22年2月より開催中の高速ブロックチェーン「アバランチ（AVAX）」ハッカソンの現状を報告した。投票期限が控える中、人気を集めるプロジェクトを紹介した。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[急速に発展するNFTビジネスについて、初学者・入門者の方にも分かりやすく解説する「60分でわかる！NFTビジネス超入門」をGVA法律事務所Web3.0チームが監修]]></title>
-        <id>32a1094c84316fd06486256fbb71fb51</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06f63df140f9361d16ce3c20c2350d667"/>
-        <updated>2022-04-12T10:12:09.000Z</updated>
-        <summary type="html"><![CDATA[弁護士法人GVA法律事務所のプレスリリース（2022年4月12日 19時12分）急速に発展するNFTビジネスについて、初学者・入門者の方にも分かりやすく解説する[60分でわかる！NFTビジネス超入門]をGVA法律事務所Web3.0チームが監修]]></summary>
-        <author>
-            <name>弁護士法人GVA法律事務所</name>
         </author>
     </entry>
 </feed>
