@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-17T20:29:16.774Z</updated>
+    <updated>2022-04-17T21:26:08.053Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トークン銀行の勃興、SWIFTの終わり──米JPモルガンの開発現場]]></title>
+        <id>https://www.coindeskjapan.com/?p=143163</id>
+        <link href="https://www.coindeskjapan.com/143163/"/>
+        <updated>2022-04-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[欧米、日本、シンガポールなどの大手銀行と、ボーダーレスに事業展開を進める新興のフィンテック企業が互いに既存の金融基盤をディスラプトしようとするなか、1970年代 ...
+トークン銀行の勃興、SWIFTの終わり──米JPモルガンの開発現場 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>佐藤 茂</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「誰もがアクセスできる真に自由な金融システムを」インジェクティブCEOインタビュー]]></title>
         <id>https://coinpost.jp/?p=341079</id>
@@ -774,37 +785,6 @@ DeFiは2008年金融危機の繰り返しではない【コラム】 first appea
         <summary type="html"><![CDATA[Prime Management株式会社のプレスリリース（2022年4月13日 20時15分）Japanese Culture toward the World　日本の文化をNFTの力で世界へ。[PRIMEZ（プライムズ）]NFTマーケットプレイス始動。]]></summary>
         <author>
             <name>Prime Management株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT市場「LINE NFT」が始動、約40,000個のNFTを提供へ]]></title>
-        <id>https://coinpost.jp/?p=340140</id>
-        <link href="https://coinpost.jp/?p=340140"/>
-        <updated>2022-04-13T08:51:31.000Z</updated>
-        <summary type="html"><![CDATA[LINEのNFTマーケットプレイス「LINE NFT」が正式にローンチされた。購入したNFTは、LINE BITMAX Walletに保管可能。よしもとNFTシアターなどの、累計4万個のNFTが順次展開される。]]></summary>
-        <author>
-            <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEA、Astar Networkとパートナーシップ──GameFiコンテンツ拡大で]]></title>
-        <id>https://www.coindeskjapan.com/?p=146596</id>
-        <link href="https://www.coindeskjapan.com/146596/"/>
-        <updated>2022-04-13T08:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Digital Entertainment Asset（DEA）は4月13日、パブリックブロックチェーン開発のAstar Networkとパートナーシップを締結 ...
-DEA、Astar Networkとパートナーシップ──GameFiコンテンツ拡大で first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>菊池友信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P2EのNFTゲーム「9Cat Saga」、アルファテストを開始]]></title>
-        <id>https://coinpost.jp/?p=337274</id>
-        <link href="https://coinpost.jp/?p=337274"/>
-        <updated>2022-04-13T08:40:22.000Z</updated>
-        <summary type="html"><![CDATA[Play-to-EarnのNFTゲーム「9Cat Saga」のアルファテストを開始した。NFTプロジェクト「9Cat」関連の作品で、遊ぶためには、トライアルパスか、同NFTを保有している必要がある。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>
