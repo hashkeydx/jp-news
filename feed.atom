@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-18T20:30:10.140Z</updated>
+    <updated>2022-04-18T21:26:20.868Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所FTX、銘柄の新規上場を発表]]></title>
+        <id>https://coinpost.jp/?p=341853</id>
+        <link href="https://coinpost.jp/?p=341853"/>
+        <updated>2022-04-18T21:05:35.000Z</updated>
+        <summary type="html"><![CDATA[大手グローバル仮想通貨取引所FTXは18日、銘柄の新規取扱予定を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産規制に動く欧米議員、そびえる世界の壁【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=146927</id>
+        <link href="https://www.coindeskjapan.com/146927/"/>
+        <updated>2022-04-18T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）の存在は、アメリカとヨーロッパの政治家の活動をより多忙なものにしている。 彼らは本当であれば、協力すべきなのだ。さらに言えば、世界中の政治家 ...
+暗号資産規制に動く欧米議員、そびえる世界の壁【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン長期保有率（1年以上）が過去最高を更新、NFT通算取引量は6兆円規模に]]></title>
         <id>https://coinpost.jp/?p=341459</id>
@@ -701,16 +722,6 @@
 イーロン・マスク氏、ツイッターに買収提案──金額は約5兆2000億円【更新】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Sheldon Reback</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTインフラ「Hokusai」、イーサリアムとArbitrumに対応へ]]></title>
-        <id>https://coinpost.jp/?p=340486</id>
-        <link href="https://coinpost.jp/?p=340486"/>
-        <updated>2022-04-14T09:05:17.000Z</updated>
-        <summary type="html"><![CDATA[モノバンドル株式会社が提供するNFTインフラ「Hokusai」は、マルチチェーン対応を実装した。すでに対応している仮想通貨ポリゴンに加え、イーサリアムとArbitrumに新しく対応する。]]></summary>
-        <author>
-            <name>ShoKawano</name>
         </author>
     </entry>
 </feed>
