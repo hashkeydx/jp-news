@@ -321,16 +321,6 @@
           "wordCount": 241,
           "title": "【US市場】ビットコイン、4万ドル台を回復",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/5EKPWFTGVRFNJDRECDQCS7REJI.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=146642",
-          "author": "Sandali Handagama",
-          "description": "ツイッター創業者、ジャック・ドーシー氏の史上初のツイートのNFTが、280ドル（約3万5000円）弱で売れるかもしれない。現在の所有者は先週、4800万ドル（約 ...\nドーシ氏の初ツイートNFT、60億円で出品──入札はわずか7件、最高3万5000円 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/146642/",
-          "publishedOn": "2022-04-13T23:55:20.000Z",
-          "wordCount": 226,
-          "title": "ドーシ氏の初ツイートNFT、60億円で出品──入札はわずか7件、最高3万5000円",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/OVC56Y6BENCN3NUOZU6XJKDOKM.jpeg"
         }
       ]
     },
@@ -345,6 +335,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=341459",
+          "author": "CoinPost編集部",
+          "description": "4月の仮想通貨市場。ビットコインを1年以上保有したウォレットの長期保有率は64％に到達。イーサリアムのバーン量は7,800億円を突破した。一方、NFTの通算取引量は6.8兆円に上るなど、継続した人気を見せている。",
+          "link": "https://coinpost.jp/?p=341459",
+          "publishedOn": "2022-04-18T11:49:04.000Z",
+          "wordCount": 885,
+          "title": "ビットコイン長期保有率（1年以上）が過去最高を更新、NFT通算取引量は6兆円規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/crypto-10.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/crypto-10.png"
+        },
         {
           "id": "https://coinpost.jp/?p=339655",
           "author": "CoinPost編集部",
@@ -1019,51 +1024,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/meta-new-custody.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/meta-new-custody.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=340305",
-          "author": "A.Yamada",
-          "description": "ブロックチェーン企業Socios.comは米アメリカンフットボールのプロリーグ「NFL」の13チームと提携することを発表した。ファントークンの発行は行われない見込みだ。",
-          "link": "https://coinpost.jp/?p=340305",
-          "publishedOn": "2022-04-14T00:30:58.000Z",
-          "wordCount": 389,
-          "title": "ブロックチェーン企業Socios.com、米NFLの13チームと提携へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/NFL-13-teams-socios.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/NFL-13-teams-socios.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=340299",
-          "author": "K.Kobayashi",
-          "description": "ソニーネットワークコミュニケーションズとSun Asteriskは、NFT企業をシンガポールに設立したことを発表。事業内容などの情報が明らかになった。",
-          "link": "https://coinpost.jp/?p=340299",
-          "publishedOn": "2022-04-13T23:34:47.000Z",
-          "wordCount": 398,
-          "title": "ソニーとSun Asterisk、NFT企業をシンガポールに設立",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/04/rebcsony.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/04/rebcsony.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=340302",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨テラの非営利組織である「Luna Foundation Guard」は13日、125億円に相当する2,510BTCのビットコインを買い増ししたことを公表した。",
-          "link": "https://coinpost.jp/?p=340302",
-          "publishedOn": "2022-04-13T23:26:29.000Z",
-          "wordCount": 417,
-          "title": "テラ関連のLFG、125億円のビットコインを買い増し",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/terra2.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/terra2.png"
         }
       ]
     }
