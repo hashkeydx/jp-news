@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-19T11:27:10.267Z</updated>
+    <updated>2022-04-19T12:57:15.329Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本発NFTマーケットプレイスtofuNFTの戦略　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=342177</id>
+        <link href="https://coinpost.jp/?p=342177"/>
+        <updated>2022-04-19T12:05:46.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVは、株式会社COINJINJA Co-founder&COOの沼崎悠氏に、日本発NFTマーケットプレイス「tofuNFT」のサービス戦略や今後の展望について語っていただいた。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【暗号資産 NFT Web3.0税制】自民党の藤末健三議員暗号資産分離課税導入にむけて提言・質疑（3/16財務金融委員会）]]></title>
         <id>https://media.cryptocurrency-association.org/?p=419</id>
@@ -871,26 +881,6 @@ NFTコレクション「Moonbirds」、鮮烈デビュー──週末に2億ド�
         <summary type="html"><![CDATA[犬のアートを題材としたNFTプロジェクト「Mad Dog Car Club」のパブリックセールを17日から開催する。先行して実施されるプレセールで残ったNFTが販売される。]]></summary>
         <author>
             <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスク氏、ツイッター社買収を提案した理由を語る]]></title>
-        <id>https://coinpost.jp/?p=340672</id>
-        <link href="https://coinpost.jp/?p=340672"/>
-        <updated>2022-04-15T00:20:14.000Z</updated>
-        <summary type="html"><![CDATA[米テスラのイーロン・マスクCEOは、ツイッター社の買収を提案した理由を語った。同氏はツイッターブルーの支払い手段に、仮想通貨ドージコインを導入すべきと投稿したこともある。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、Ronin資金流出の背景に北朝鮮のハッカー集団を特定]]></title>
-        <id>https://coinpost.jp/?p=340665</id>
-        <link href="https://coinpost.jp/?p=340665"/>
-        <updated>2022-04-14T23:55:05.000Z</updated>
-        <summary type="html"><![CDATA[米財務省は、Axie Infinityのハッキングに北朝鮮のハッカー集団が関与していたことを検知、該当する仮想通貨アドレスを新たに制裁対象に加えた。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
