@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-19T22:31:28.155Z</updated>
+    <updated>2022-04-19T23:26:21.561Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Framework Ventures、約52億円規模のWeb3.0ゲーム・DeFiファンドを発表]]></title>
+        <id>https://coinpost.jp/?p=342327</id>
+        <link href="https://coinpost.jp/?p=342327"/>
+        <updated>2022-04-19T22:35:29.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨分野の大手ベンチャーキャピタル企業Framework Venturesは19日、ブロックチェーンゲーム分野にフォーカスした52億円規模のファンを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ロビンフッド、英仮想通貨ウォレット企業Zigluを買収へ]]></title>
         <id>https://coinpost.jp/?p=342322</id>
@@ -778,16 +788,6 @@ NFTコレクション「Moonbirds」、鮮烈デビュー──週末に2億ド�
         <summary type="html"><![CDATA[日本銀行は第3回となるCBDCに関する連絡協議会を開催。実証実験のフェーズ1の結果報告書とフェーズ2の開始を発表した。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[株式会社OtaCuteがNext Chymia Consulting HKから出資受入、及びCure Holdings Limited(コスプレトークン（COT）)との業務提携締結を実施。]]></title>
-        <id>2c694642c8b9dab112c298007d7368e8</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26363df140f9367d769e7ca0c2350d667"/>
-        <updated>2022-04-15T11:15:02.000Z</updated>
-        <summary type="html"><![CDATA[OtaCute Philippines Inc.のプレスリリース（2022年4月15日 15時00分）株式会社OtaCuteがNext Chymia Consulting HKから出資受入、及びCure Holdings Limited(コスプレトークン（COT）)との業務提携締結を実施。]]></summary>
-        <author>
-            <name>OtaCute Philippines Inc.</name>
         </author>
     </entry>
 </feed>
