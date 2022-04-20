@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-19T23:26:21.561Z</updated>
+    <updated>2022-04-20T02:28:19.813Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Optimism」、1,400億円のガス代を削減　これまでの達成を報告]]></title>
+        <id>https://coinpost.jp/?p=342379</id>
+        <link href="https://coinpost.jp/?p=342379"/>
+        <updated>2022-04-20T02:05:58.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2ソリューションを開発するOptimismは、これまでの達成を振り返り、次のステップに言及する記事を発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所バイナンス、約180万BNBのバーンを発表]]></title>
+        <id>https://coinpost.jp/?p=342345</id>
+        <link href="https://coinpost.jp/?p=342345"/>
+        <updated>2022-04-20T01:00:39.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、BNBのバーンを実施したことを発表。19回目となる今回は、約180万枚をバーンした。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FATF「各国のコンプラ状況は改善」、ペーパーカンパニーなど課題も残る]]></title>
+        <id>https://coinpost.jp/?p=342340</id>
+        <link href="https://coinpost.jp/?p=342340"/>
+        <updated>2022-04-20T00:50:56.000Z</updated>
+        <summary type="html"><![CDATA[金融活動作業部会は、マネロン・テロ資金調達防止対策について、各国で国際基準がどの程度遵守されているか調査したレポートを発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大手仮想通貨取引所KuCoin、約130億円規模のNFTファンドをローンチ]]></title>
+        <id>https://coinpost.jp/?p=342335</id>
+        <link href="https://coinpost.jp/?p=342335"/>
+        <updated>2022-04-19T23:35:44.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所KuCoin傘下の投資企業KuCoin Labsは19日、129億円規模のNFT関連ファンドをローンチしたことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Framework Ventures、約52億円規模のWeb3.0ゲーム・DeFiファンドを発表]]></title>
         <id>https://coinpost.jp/?p=342327</id>
@@ -778,16 +818,6 @@ NFTコレクション「Moonbirds」、鮮烈デビュー──週末に2億ド�
         <summary type="html"><![CDATA[SBIホールディングス株式会社は15日、一般社団法人「日本デジタル空間経済連盟」を設立したことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本銀行、CBDCの実証実験「フェーズ2」開始]]></title>
-        <id>https://coinpost.jp/?p=341100</id>
-        <link href="https://coinpost.jp/?p=341100"/>
-        <updated>2022-04-15T12:06:38.000Z</updated>
-        <summary type="html"><![CDATA[日本銀行は第3回となるCBDCに関する連絡協議会を開催。実証実験のフェーズ1の結果報告書とフェーズ2の開始を発表した。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
