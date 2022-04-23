@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-22T23:29:11.878Z</updated>
+    <updated>2022-04-23T02:03:57.314Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポリゴン、個別ブロックチェーンを構築する「Supernets」に120億円の支援基金を設立]]></title>
+        <id>https://coinpost.jp/?p=343708</id>
+        <link href="https://coinpost.jp/?p=343708"/>
+        <updated>2022-04-23T01:18:29.000Z</updated>
+        <summary type="html"><![CDATA[ポリゴン（MATIC）は、アプリ専用のブロックチェーンを構築する「Polygon Supernets」を発表した。また、約120億円の導入支援ファンドを設立した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米財務省、北朝鮮ハッカー集団の仮想通貨アドレス3つを制裁対象に追加]]></title>
+        <id>https://coinpost.jp/?p=343699</id>
+        <link href="https://coinpost.jp/?p=343699"/>
+        <updated>2022-04-23T01:05:32.000Z</updated>
+        <summary type="html"><![CDATA[米財務省は、北朝鮮のハッカー集団ラザルスの仮想通貨アドレス3つを新たに制裁対象リストに加えた。ラザルスはNFTゲーム「アクシーインフィニティ」からの資金流出に関与したとされている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、アクシーインフィニティから流出した資金の一部を回収]]></title>
+        <id>https://coinpost.jp/?p=343686</id>
+        <link href="https://coinpost.jp/?p=343686"/>
+        <updated>2022-04-22T23:45:41.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは、NFTゲームAxie Infinityから不正流出した資金の一部を取り戻したと報告した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ザ・サンドボックス、仮想土地がL2に移行へ]]></title>
         <id>https://coinpost.jp/?p=343682</id>
@@ -1191,16 +1221,6 @@ NFTコレクション「Moonbirds」、鮮烈デビュー──週末に2億ド�
 暗号資産規制に動く欧米議員、そびえる世界の壁【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Michael J Casey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン長期保有率（1年以上）が過去最高を更新、NFT通算取引量は6兆円規模に]]></title>
-        <id>https://coinpost.jp/?p=341459</id>
-        <link href="https://coinpost.jp/?p=341459"/>
-        <updated>2022-04-18T11:49:04.000Z</updated>
-        <summary type="html"><![CDATA[4月の仮想通貨市場。ビットコインを1年以上保有したウォレットの長期保有率は64％に到達。イーサリアムのバーン量は7,800億円を突破した。一方、NFTの通算取引量は6.8兆円に上るなど、継続した人気を見せている。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
