@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-24T11:25:20.621Z</updated>
+    <updated>2022-04-24T12:47:11.668Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「NFT保存先へ」Akash Networkとは　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=343561</id>
+        <link href="https://coinpost.jp/?p=343561"/>
+        <updated>2022-04-24T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、「Akash Networkとは何か？」「Akash Networkの独自の特徴」など、Akash Network（AKT）をまだ詳しく知らないという方に向けてAkash Network（AKT）の全体像を分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初心者でもわかる仮想通貨企業Crypto.com（クリプトドットコム）とは]]></title>
         <id>https://coinpost.jp/?p=343019</id>
@@ -887,16 +897,6 @@ ApeCoin、メタバースをめぐるツイートで上昇 first appeared on coi
         <summary type="html"><![CDATA[金融活動作業部会は、マネロン・テロ資金調達防止対策について、各国で国際基準がどの程度遵守されているか調査したレポートを発表した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大手仮想通貨取引所KuCoin、約130億円規模のNFTファンドをローンチ]]></title>
-        <id>https://coinpost.jp/?p=342335</id>
-        <link href="https://coinpost.jp/?p=342335"/>
-        <updated>2022-04-19T23:35:44.000Z</updated>
-        <summary type="html"><![CDATA[大手仮想通貨取引所KuCoin傘下の投資企業KuCoin Labsは19日、129億円規模のNFT関連ファンドをローンチしたことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
