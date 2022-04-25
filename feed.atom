@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-25T10:33:39.508Z</updated>
+    <updated>2022-04-25T11:26:34.788Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[個人投資家、ビットコインへの関心低下：Googleトレンドが示唆]]></title>
+        <id>https://www.coindeskjapan.com/?p=147473</id>
+        <link href="https://www.coindeskjapan.com/147473/"/>
+        <updated>2022-04-25T10:45:24.000Z</updated>
+        <summary type="html"><![CDATA[昨年は6万9000ドルの史上最高値にまで達し、今年は4万ドル付近のレンジ相場となっているビットコイン（BTC）。「Googleトレンド」の検索データを見ると、多 ...
+個人投資家、ビットコインへの関心低下：Googleトレンドが示唆 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫画「左ききのエレン」NFT2点が計830万円で売却、落札者の1人はAstar渡辺氏]]></title>
         <id>https://coinpost.jp/?p=344225</id>
@@ -785,16 +796,6 @@ ApeCoin、メタバースをめぐるツイートで上昇 first appeared on coi
         <summary type="html"><![CDATA[DappRadarはブロックチェーンゲームについてのレポートを発表。2022年1－3月は前年比でユーザー活動が2,000％増加したという。その他、様々な角度からデータを報告した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分散型取引所DODOで不正トランザクション、提携チーム側の無断行為]]></title>
-        <id>https://coinpost.jp/?p=342558</id>
-        <link href="https://coinpost.jp/?p=342558"/>
-        <updated>2022-04-20T22:50:09.000Z</updated>
-        <summary type="html"><![CDATA[分散型取引所DODOは、「ICHI」の開発チームが、仮想通貨ステーブルコイン「oneDODO」に悪影響を及ぼす、不正なトランザクションを行なっていたと発表した。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>
