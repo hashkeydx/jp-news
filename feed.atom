@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-26T08:36:08.853Z</updated>
+    <updated>2022-04-26T09:30:13.307Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iron Bank、Olympus Proと連携して独自債券発行へ]]></title>
+        <id>https://coinpost.jp/?p=342213</id>
+        <link href="https://coinpost.jp/?p=342213"/>
+        <updated>2022-04-26T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[DeFiレンディングプロトコル「Iron Bank」は仮想通貨ラップド・ファントム（WFTM）の債券発行の開始を発表した。独自債券を発行することで、流動性強化を図る。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米フィデリティ、退職金口座（確定拠出年金）でビットコイン投資可能に＝WSJ報道]]></title>
+        <id>https://coinpost.jp/?p=344729</id>
+        <link href="https://coinpost.jp/?p=344729"/>
+        <updated>2022-04-26T08:55:19.000Z</updated>
+        <summary type="html"><![CDATA[米投資信託運用会社フィデリティ・インベストメンツが提供する401（k）プラン（確定拠出型企業年金）を通じて、暗号資産（仮想通貨）ビットコイン（BTC）に投資できるようになることが明らかになった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[國光氏率いるThirdverseグループ、KLab子会社「BLOCKSMITH&Co.」と提携]]></title>
         <id>https://coinpost.jp/?p=344719</id>
@@ -848,27 +868,6 @@ The post 【暗号資産 Web3.0】
         <summary type="html"><![CDATA[米資産管理企業のValkyrie社は21日、PoS（プルーフ・オブ・ステーク）系銘柄の投資信託をローンチしたことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、アスター（ASTR）など8つの通貨ペア追加]]></title>
-        <id>https://coinpost.jp/?p=343318</id>
-        <link href="https://coinpost.jp/?p=343318"/>
-        <updated>2022-04-21T21:12:29.000Z</updated>
-        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは21日、新たな通貨ペアの追加を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産は金利上昇の荒波に沈むか？【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=147209</id>
-        <link href="https://www.coindeskjapan.com/147209/"/>
-        <updated>2022-04-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ経済全体で、金利がじわじわと上がり始めている。高騰し始めているところもある。 金利はもちろん、ローンを借りる人たちに影響を与えるが、比較的安全な資産も含 ...
-暗号資産は金利上昇の荒波に沈むか？【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>David Morris</name>
         </author>
     </entry>
 </feed>
