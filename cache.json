@@ -113,6 +113,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=147814",
+          "author": "Eli Tan",
+          "description": "4月16日に発売が開始され、その週末だけで2億ドル以上のセールスを記録したNFTコレクション「Moonbirds」を手がけるPROOFの最高執行責任者（COO） ...\n1.5億円相当のNFTを手にCOOが退社──価格高騰前の入手に疑問の声も first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/147814/",
+          "publishedOn": "2022-04-26T12:50:20.000Z",
+          "wordCount": 286,
+          "title": "1.5億円相当のNFTを手にCOOが退社──価格高騰前の入手に疑問の声も",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/544DYMG5VZA7PEUUE3FDPDSGD4-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=147767",
           "author": "Eliza Gkritsi",
           "description": "イーサリアム（ETH）のマイニングに使われるGPU（Graphics Processing Unit）価格が下落している。イーサリアムはプルーフ・オブ・ワーク（ ...\nGPU価格、下落──イーサリアムのPoS移行控え first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -311,16 +321,6 @@
           "wordCount": 256,
           "title": "【US市場】ビットコイン、一時上昇も横ばい──FRB議長、0.5％の利上げ示唆",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/UXJOCICN7VDMVBV5NPHK76N6SI-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=147226",
-          "author": "菊池友信",
-          "description": "暗号資産（仮想通貨）取引サービス大手のクラーケン（Kraken）は4月22日、日本国内でポルカドット（DOT）の取り扱いとステーキングを開始したと発表した。発表 ...\nクラーケン、ポルカドットを日本で上場──年利12％でステーキングも first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/147226/",
-          "publishedOn": "2022-04-22T00:00:00.000Z",
-          "wordCount": 205,
-          "title": "クラーケン、ポルカドットを日本で上場──年利12％でステーキングも",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/12/krakenmobile-scaled.jpg"
         }
       ]
     },
@@ -1065,36 +1065,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase1_20210913.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase1_20210913.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=343407",
-          "author": "K.Kobayashi",
-          "description": "自民党の平井・前デジタル大臣やNFT政策検討プロジェクトチームの平将明座長らは、岸田総理にWeb3.0の戦略について説明。岸田総理の反応やその後の動きが明らかになった。",
-          "link": "https://coinpost.jp/?p=343407",
-          "publishedOn": "2022-04-22T00:20:10.000Z",
-          "wordCount": 389,
-          "title": "「Web3.0を岸田内閣の成長戦略へ」　自民党議員、首相官邸を訪問",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=343398",
-          "author": "A.Yamada",
-          "description": "米通貨監督庁は仮想通貨信託銀行Anchorage Digitalに対して、業務改善を要請する命令書を発行した。",
-          "link": "https://coinpost.jp/?p=343398",
-          "publishedOn": "2022-04-21T23:52:29.000Z",
-          "wordCount": 365,
-          "title": "米OCC、大手仮想通貨信託銀行Anchorageに改善命令",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/occ3495823-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/occ3495823-1.png"
         }
       ]
     }
