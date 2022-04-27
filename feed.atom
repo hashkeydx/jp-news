@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-27T08:34:39.264Z</updated>
+    <updated>2022-04-27T09:30:37.586Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーンインフラのGinco、SBIリクイディティ・マーケットと基本合意書を締結]]></title>
+        <id>https://coinpost.jp/?p=345201</id>
+        <link href="https://coinpost.jp/?p=345201"/>
+        <updated>2022-04-27T09:17:18.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン技術インフラを提供するGincoは、SBILMと基本合意書を締結したことを発表した。クラウド型のブロックチェーンインフラを提供し、サービスの共同開発を行う。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bitFlyer、ウクライナ支援プロジェクトを開始　ビットコインの寄付を募集]]></title>
+        <id>https://coinpost.jp/?p=345164</id>
+        <link href="https://coinpost.jp/?p=345164"/>
+        <updated>2022-04-27T08:45:36.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所ビットフライヤーは、「ビットコインで寄付しよう ウクライナ支援特別プロジェクト」を開始することを発表。BTC専用の寄付プラットフォーム「BITCOIN DONATIONS」を活用して実施する。]]></summary>
+        <author>
+            <name>ShoKawano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都やソフトバンクなど9団体が「デジタル通貨フォーラム」に参画]]></title>
+        <id>https://coinpost.jp/?p=345010</id>
+        <link href="https://coinpost.jp/?p=345010"/>
+        <updated>2022-04-27T08:29:44.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所を運営するディーカレットは、「デジタル通貨フォーラム」に東京都やソフトバンクなどが参加したことを発表した。参加企業・団体の総数は83に。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本日開始予定の豪「仮想通貨ETF」、ローンチ延期へ]]></title>
         <id>https://coinpost.jp/?p=345167</id>
@@ -921,16 +951,6 @@ LINE、“ゴジラ”で国内初のNFT──オリジナル特撮を発売 fir
 ドージコインが日本で再上場、コインベース vs. OpenSeaの戦いが始まった【4/16～4/22のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>coindesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨セキュリティ企業CertiK、ソフトバンクなどから77億円調達]]></title>
-        <id>https://coinpost.jp/?p=343668</id>
-        <link href="https://coinpost.jp/?p=343668"/>
-        <updated>2022-04-22T21:24:37.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン・サイバーセキュリティ企業のCertiKは22日、シリーズB3ラウンドに続き、さらに約77億円を資金調達したことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
