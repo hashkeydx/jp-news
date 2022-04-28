@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-28T11:24:30.346Z</updated>
+    <updated>2022-04-28T12:56:50.663Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マネックス22年3月期決算を発表、クリプトアセット事業の成長にNFT関連事業など貢献]]></title>
+        <id>https://coinpost.jp/?p=345567</id>
+        <link href="https://coinpost.jp/?p=345567"/>
+        <updated>2022-04-28T11:36:46.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所コインチェックを傘下に収めるマネックスグループは、2022年3月期の決算を発表した。NFT・メタバース事業なども背景に、クリプトアセット事業の営業収益は過去最高益を記録した。]]></summary>
+        <author>
+            <name>ShoKawano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ニューヨーク市長、ビットライセンス制度の廃止に意欲｜FTCrypto 2022]]></title>
         <id>https://coinpost.jp/?p=345551</id>
@@ -1152,17 +1162,6 @@ LINE、“ゴジラ”で国内初のNFT──オリジナル特撮を発売 fir
         <summary type="html"><![CDATA[今週はWeb3.0を巡る国内の動きが大きな注目を集めた。そのほか、仮想通貨市場でビットコインのリスクシグナルが再上昇したこと、バイナンスが180万BNBのバーンを発表したことなど、一週間分の情報をお届けする。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユーティリティNFT──熱帯雨林保護をゲーミファイする取り組みとは]]></title>
-        <id>https://www.coindeskjapan.com/?p=147312</id>
-        <link href="https://www.coindeskjapan.com/147312/"/>
-        <updated>2022-04-24T00:15:48.000Z</updated>
-        <summary type="html"><![CDATA[アマゾンの熱帯雨林保護を目指す1万枚のNFTコレクション「The AEternals」は一見すると、二酸化炭素（CO2）排出量を削減するための植林プロジェクトの ...
-ユーティリティNFT──熱帯雨林保護をゲーミファイする取り組みとは first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>
