@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-28T22:29:55.679Z</updated>
+    <updated>2022-04-28T23:29:55.046Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、不正取引防止の新規サービスを発表]]></title>
+        <id>https://coinpost.jp/?p=345767</id>
+        <link href="https://coinpost.jp/?p=345767"/>
+        <updated>2022-04-28T23:22:20.000Z</updated>
+        <summary type="html"><![CDATA[米最大手仮想通貨取引所コインベースは29日、不正取引などを防止するための新規プロダクトを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインとゴールドを組み合わせた世界初のETP、スイスで上場]]></title>
+        <id>https://www.coindeskjapan.com/?p=147958</id>
+        <link href="https://www.coindeskjapan.com/147958/"/>
+        <updated>2022-04-28T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）とゴールドを組み合わせた世界初のETP（上場取引型金融商品）がスイス証券取引所（SIX Swiss Exchange）に上場した。 「By ...
+ビットコインとゴールドを組み合わせた世界初のETP、スイスで上場 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゴールドマン・サックス、ビットコイン担保ローン提供か＝報道]]></title>
+        <id>https://coinpost.jp/?p=345764</id>
+        <link href="https://coinpost.jp/?p=345764"/>
+        <updated>2022-04-28T22:35:18.000Z</updated>
+        <summary type="html"><![CDATA[米金融大手ゴールドマン・サックスは仮想通貨ビットコインの担保ローンを提供するようだ。ウォール街金融大手の初事例になる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベースクラウドなど、ソラナ基盤のPythに対応]]></title>
         <id>https://coinpost.jp/?p=345757</id>
