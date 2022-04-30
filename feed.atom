@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-04-30T09:28:46.023Z</updated>
+    <updated>2022-04-30T10:31:33.862Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「金融庁認可を受けたP2Eトークン」DeapCoinとは　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=346209</id>
+        <link href="https://coinpost.jp/?p=346209"/>
+        <updated>2022-04-30T10:05:30.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、「DEAPcoinとは何か？」「DEAPcoinの特徴」など、DEAPcoin（DEP）をまだ詳しく知らないという方に向けてDEAPcoin（DEP）の全体像を分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大手NFT電子市場OpenSea、APE決済に対応開始]]></title>
         <id>https://coinpost.jp/?p=346208</id>
@@ -1304,26 +1314,6 @@ GPU価格、下落──イーサリアムのPoS移行控え first appeared on c
         <summary type="html"><![CDATA[L1ブロックチェーンのニア基盤の米ドルステーブルコイン「USN」は26日、メインネットでローンチした。テラのUSTのライバルになるか。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea、NFTプラットフォーム「Gem」を買収]]></title>
-        <id>https://coinpost.jp/?p=344452</id>
-        <link href="https://coinpost.jp/?p=344452"/>
-        <updated>2022-04-25T22:15:16.000Z</updated>
-        <summary type="html"><![CDATA[大手NFT電子市場「OpenSea」は25日に、NFTアグリゲータープラットフォーム「GEM」を買収したことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ツイッター社、イーロン・マスク氏の5.6兆円規模の買収提案に合意]]></title>
-        <id>https://coinpost.jp/?p=344440</id>
-        <link href="https://coinpost.jp/?p=344440"/>
-        <updated>2022-04-25T21:52:53.000Z</updated>
-        <summary type="html"><![CDATA[ツイッター社は、米電気自動車大手テスラのCEOなどを務めるイーロン・マスク氏による買収提案に正式に合意したと発表。マスク氏は今後の計画を説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
