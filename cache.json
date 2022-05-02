@@ -286,16 +286,6 @@
           "wordCount": 184,
           "title": "金融プロダクトとしてNFTを検討：ゴールドマン・サックス",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_2093438014.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=147856",
-          "author": "David Morris",
-          "description": "NFT投資家のマイケル・レビー（Michael Levy）氏は、暗号資産（仮想通貨）界の起業家でもある。現在は、NFTを担保にした貸付プラットフォーム「フローテ ...\nNFTをローンの担保に：貸付サービス「Flowty」を起業した理由【インタビュー】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/147856/",
-          "publishedOn": "2022-04-27T21:00:00.000Z",
-          "wordCount": 204,
-          "title": "NFTをローンの担保に：貸付サービス「Flowty」を起業した理由【インタビュー】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/EPX3AJAVOFFFNGA5DMUG3XK554.png"
         }
       ]
     },
@@ -310,6 +300,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=342941",
+          "author": "廃猫",
+          "description": "ブロックチェーンを使ったトレーディングカードゲーム「クリプトスペルズ」の魅力と始め方について、上位ランカーでもある廃猫が詳しく解説。NFT化されたデジタルカードは、OpenSeaなどゲーム外のマーケットプレイスでも売買可能です。",
+          "link": "https://coinpost.jp/?p=342941",
+          "publishedOn": "2022-05-02T09:00:12.000Z",
+          "wordCount": 488,
+          "title": "ブロックチェーンTCG「クリプトスペルズ」の始め方（入門編）｜ 廃猫",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/Crypto-Spells-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/Crypto-Spells-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=346613",
           "author": "Noah Sakamaki",
@@ -1134,36 +1139,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/gmo200911_1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/gmo200911_1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=345318",
-          "author": "菊谷ルイス",
-          "description": "国内の仮想通貨取引所Liquid by FTX（旧：Liquid by Quoine）は27日、銘柄の新規上場の予定を発表した。",
-          "link": "https://coinpost.jp/?p=345318",
-          "publishedOn": "2022-04-27T21:24:46.000Z",
-          "wordCount": 365,
-          "title": "国内取引所Liquid by FTX、銘柄の新規取扱を予定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/DOT-NEW-LISTING_220427-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/DOT-NEW-LISTING_220427-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=345313",
-          "author": "菊谷ルイス",
-          "description": "米最大手仮想通貨取引所コインベースは28日、今週二度目の銘柄の新規取扱を発表した。",
-          "link": "https://coinpost.jp/?p=345313",
-          "publishedOn": "2022-04-27T21:10:19.000Z",
-          "wordCount": 381,
-          "title": "米コインベース、STEPN銘柄の新規上場を発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/stepn1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/stepn1.png"
         }
       ]
     }
