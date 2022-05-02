@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-02T02:35:34.722Z</updated>
+    <updated>2022-05-02T04:18:27.290Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ（SOL）ブロックチェーンが一時クラッシュした背景、7時間にわたりネットワーク停止]]></title>
+        <id>https://coinpost.jp/?p=346526</id>
+        <link href="https://coinpost.jp/?p=346526"/>
+        <updated>2022-05-02T03:52:20.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナ（SOL）のネットワークが、日本時間1日の午前6時半ごろから稼働停止状態となった理由と背景について解説。約7時間後、バリデータコミュニティによるクラスタの再起動に成功した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン採掘速度が過去最高の220TH/s水準へ　LANDセールの影響でApeCoin（APE）が乱高下]]></title>
+        <id>https://coinpost.jp/?p=346480</id>
+        <link href="https://coinpost.jp/?p=346480"/>
+        <updated>2022-05-02T03:35:05.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダックなど伝統金融市場で大幅下落が続き、暗号資産（仮想通貨）も連れ安の展開が目立つ中、オンチェーンデータは複数の買いシグナルが点灯した。ビットコイン採掘速度は過去最高を更新。アルト市場ではApeCoin（APE）に資金が集中した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BAYCのメタバース「Otherside」、NFT売上400億円以上を記録]]></title>
         <id>https://coinpost.jp/?p=346474</id>

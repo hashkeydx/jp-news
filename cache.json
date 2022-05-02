@@ -311,6 +311,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=346526",
+          "author": "幸田直子",
+          "description": "仮想通貨ソラナ（SOL）のネットワークが、日本時間1日の午前6時半ごろから稼働停止状態となった理由と背景について解説。約7時間後、バリデータコミュニティによるクラスタの再起動に成功した。",
+          "link": "https://coinpost.jp/?p=346526",
+          "publishedOn": "2022-05-02T03:52:20.000Z",
+          "wordCount": 555,
+          "title": "ソラナ（SOL）ブロックチェーンが一時クラッシュした背景、7時間にわたりネットワーク停止",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/solana-creator-fund.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/solana-creator-fund.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=346480",
+          "author": "S.Ninomiya",
+          "description": "米ナスダックなど伝統金融市場で大幅下落が続き、暗号資産（仮想通貨）も連れ安の展開が目立つ中、オンチェーンデータは複数の買いシグナルが点灯した。ビットコイン採掘速度は過去最高を更新。アルト市場ではApeCoin（APE）に資金が集中した。",
+          "link": "https://coinpost.jp/?p=346480",
+          "publishedOn": "2022-05-02T03:35:05.000Z",
+          "wordCount": 583,
+          "title": "ビットコイン採掘速度が過去最高の220TH/s水準へ　LANDセールの影響でApeCoin（APE）が乱高下",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427f-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427f-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=346474",
           "author": "A.Yamada",
           "description": "人気NFTコレクション「Bored Ape Yacht Club」のメタバース「Otherside」のNFTがリリースされ、販売額は400億円以上に達した。販売時にはイーサリアムネットワークが混雑し、一時手数料が高騰した。",
