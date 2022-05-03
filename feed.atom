@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-03T21:28:34.573Z</updated>
+    <updated>2022-05-03T22:29:31.977Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米取引大手Jane Street、32億円USDC融資でDeFiに参入]]></title>
+        <id>https://coinpost.jp/?p=347030</id>
+        <link href="https://coinpost.jp/?p=347030"/>
+        <updated>2022-05-03T22:00:43.000Z</updated>
+        <summary type="html"><![CDATA[米取引大手のJane Street Capitalは3日、大型融資で分散型金融に参加する計画を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米クラーケン、NFT電子市場をローンチへ]]></title>
         <id>https://coinpost.jp/?p=347023</id>
@@ -523,17 +533,6 @@ GPIFはWeb3戦略のカギ、アメリカで暗号資産を利用する人の傾
         <summary type="html"><![CDATA[PR TIMESで配信されたjunca Holdingsのプレスリリース一覧です（最新配信日：2022年4月29日 17時23分）。junca Holdings｜juncaプラットフォームは、 全ての暗号通貨の初心者に適した、 操作が簡単な暗号通貨アプリとして設計されています。]]></summary>
         <author>
             <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エドワード・スノーデン氏、Zcashの開発に深く関与]]></title>
-        <id>https://www.coindeskjapan.com/?p=148012</id>
-        <link href="https://www.coindeskjapan.com/148012/"/>
-        <updated>2022-04-29T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米国家安全保障局（NSA）元職員で、内部告発によって、インターネット監視に関する議論を世界中で巻き起こすきっかけとなったエドワード・スノーデン氏が、プライバシー ...
-エドワード・スノーデン氏、Zcashの開発に深く関与 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Naomi Brockwell</name>
         </author>
     </entry>
 </feed>
