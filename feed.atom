@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-03T20:30:50.887Z</updated>
+    <updated>2022-05-03T21:28:34.573Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米クラーケン、NFT電子市場をローンチへ]]></title>
+        <id>https://coinpost.jp/?p=347023</id>
+        <link href="https://coinpost.jp/?p=347023"/>
+        <updated>2022-05-03T21:18:51.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨取引所クラーケンは3日、独自のNFT（非代替性トークン）の電子市場をローンチすることを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドバイ仮想通貨規制当局、ザ・サンドボックスにバーチャル本部を開設へ]]></title>
+        <id>https://coinpost.jp/?p=346941</id>
+        <link href="https://coinpost.jp/?p=346941"/>
+        <updated>2022-05-03T20:29:00.000Z</updated>
+        <summary type="html"><![CDATA[ドバイの仮想通貨規制当局（VARA）は3日、メタバース系NFTゲーム「ザ・サンドボックス」にバーチャル本部を開設する計画を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GameFiについて概要、今後注目プロジェクトを解説　CONNECTV・動画解説]]></title>
         <id>https://coinpost.jp/?p=346881</id>
@@ -514,16 +534,6 @@ GPIFはWeb3戦略のカギ、アメリカで暗号資産を利用する人の傾
 エドワード・スノーデン氏、Zcashの開発に深く関与 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Naomi Brockwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メルセデスF1NFT、落札者には本物の「リアウイング」プレゼントへ]]></title>
-        <id>https://coinpost.jp/?p=345860</id>
-        <link href="https://coinpost.jp/?p=345860"/>
-        <updated>2022-04-29T09:13:42.000Z</updated>
-        <summary type="html"><![CDATA[大手仮想通貨取引所のFTXは、メルセデスF1のNFTアートの詳細を発表した。マイアミGPがテーマになっており、5月6日から開始されるオークションに出品される。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>
