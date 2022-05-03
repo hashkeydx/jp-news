@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-02T23:30:13.061Z</updated>
+    <updated>2022-05-03T02:29:19.421Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル社1Q報告　仮想通貨XRP売却状況やXRPLの取引量など]]></title>
+        <id>https://coinpost.jp/?p=346787</id>
+        <link href="https://coinpost.jp/?p=346787"/>
+        <updated>2022-05-03T02:05:59.000Z</updated>
+        <summary type="html"><![CDATA[米リップル社は2022年第1四半期（1－3月）のレポートを発表。仮想通貨市場の動向、XRPの売却状況やXRP台帳の取引量などをまとめた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクエニ、390億円で一部海外スタジオとIPを売却へ]]></title>
+        <id>https://coinpost.jp/?p=346778</id>
+        <link href="https://coinpost.jp/?p=346778"/>
+        <updated>2022-05-03T00:05:21.000Z</updated>
+        <summary type="html"><![CDATA[スクウェア・エニックスは、スウェーデンのゲーム企業Embracerグループに、一部海外スタジオや知的財産権を譲渡する契約を締結したと発表。ブロックチェーンなど新規事業への投資などを目的としている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブロック報酬とは？【GWに考える暗号資産の基本】]]></title>
         <id>https://www.coindeskjapan.com/?p=141478</id>
@@ -597,16 +617,6 @@ GPIFはWeb3戦略のカギ、アメリカで暗号資産を利用する人の傾
         <summary type="html"><![CDATA[ウクライナ政府は28日、ロシア侵攻に対する抗戦でより多くの資金を調達するために、NFT（非代替性トークン）の寄付・購入サイトをローンチしたことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネックス22年3月期決算を発表、クリプトアセット事業の成長にNFT関連事業など貢献]]></title>
-        <id>https://coinpost.jp/?p=345567</id>
-        <link href="https://coinpost.jp/?p=345567"/>
-        <updated>2022-04-28T11:36:46.000Z</updated>
-        <summary type="html"><![CDATA[国内仮想通貨取引所コインチェックを傘下に収めるマネックスグループは、2022年3月期の決算を発表した。NFT・メタバース事業なども背景に、クリプトアセット事業の営業収益は過去最高益を記録した。]]></summary>
-        <author>
-            <name>ShoKawano</name>
         </author>
     </entry>
 </feed>
