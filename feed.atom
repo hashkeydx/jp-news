@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-03T09:29:46.584Z</updated>
+    <updated>2022-05-03T10:35:51.811Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GameFiについて概要、今後注目プロジェクトを解説　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=346881</id>
+        <link href="https://coinpost.jp/?p=346881"/>
+        <updated>2022-05-03T10:05:34.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、Digital Entertainment Asset Founder CEOの山田耕三氏が、GameFiとは何かについて分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブロックチェーンTCG「Splinterlands」の始め方（入門編）｜ 廃猫]]></title>
         <id>https://coinpost.jp/?p=343036</id>
@@ -636,37 +646,6 @@ GPIFはWeb3戦略のカギ、アメリカで暗号資産を利用する人の傾
 ビットコインとゴールドを組み合わせた世界初のETP、スイスで上場 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマン・サックス、ビットコイン担保ローン提供か＝報道]]></title>
-        <id>https://coinpost.jp/?p=345764</id>
-        <link href="https://coinpost.jp/?p=345764"/>
-        <updated>2022-04-28T22:35:18.000Z</updated>
-        <summary type="html"><![CDATA[米金融大手ゴールドマン・サックスは仮想通貨ビットコインの担保ローンを提供するようだ。ウォール街金融大手の初事例になる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースクラウドなど、ソラナ基盤のPythに対応]]></title>
-        <id>https://coinpost.jp/?p=345757</id>
-        <link href="https://coinpost.jp/?p=345757"/>
-        <updated>2022-04-28T22:00:54.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ基盤の次世代オラクル「Pyth Network」は28日、7社のブロックチェーンインフラプロバイダーが新規対応することを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインはリスク資産？【GWに考える暗号資産の基本】]]></title>
-        <id>https://www.coindeskjapan.com/?p=146942</id>
-        <link href="https://www.coindeskjapan.com/146942/"/>
-        <updated>2022-04-28T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「インフレ」とグーグル検索したら、「アメリカのインフレ率、3月は40年ぶりの高水準8.5%」といった見出しで、あらゆるメディアの記事が見つかるだろう。これは高い ...
-ビットコインはリスク資産？【GWに考える暗号資産の基本】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>George Kaloudis</name>
         </author>
     </entry>
 </feed>

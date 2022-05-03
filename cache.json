@@ -201,16 +201,6 @@
           "wordCount": 188,
           "title": "ビットコインとゴールドを組み合わせた世界初のETP、スイスで上場",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/N25Q4GFAAREK3KR7DUUM5N52PM.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=146942",
-          "author": "George Kaloudis",
-          "description": "「インフレ」とグーグル検索したら、「アメリカのインフレ率、3月は40年ぶりの高水準8.5%」といった見出しで、あらゆるメディアの記事が見つかるだろう。これは高い ...\nビットコインはリスク資産？【GWに考える暗号資産の基本】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/146942/",
-          "publishedOn": "2022-04-28T22:00:00.000Z",
-          "wordCount": 266,
-          "title": "ビットコインはリスク資産？【GWに考える暗号資産の基本】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_2051942426-scaled.jpg"
         }
       ]
     },
@@ -225,6 +215,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=346881",
+          "author": "CONNECTV 編集部",
+          "description": "今回のCONNECTVでは、Digital Entertainment Asset Founder CEOの山田耕三氏が、GameFiとは何かについて分かりやすく解説する。",
+          "link": "https://coinpost.jp/?p=346881",
+          "publishedOn": "2022-05-03T10:05:34.000Z",
+          "wordCount": 369,
+          "title": "GameFiについて概要、今後注目プロジェクトを解説　CONNECTV・動画解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/1-e1651571443296.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/1-e1651571443296.png"
+        },
         {
           "id": "https://coinpost.jp/?p=343036",
           "author": "廃猫",
@@ -869,36 +874,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_3.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_3.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=345764",
-          "author": "菊谷ルイス",
-          "description": "米金融大手ゴールドマン・サックスは仮想通貨ビットコインの担保ローンを提供するようだ。ウォール街金融大手の初事例になる。",
-          "link": "https://coinpost.jp/?p=345764",
-          "publishedOn": "2022-04-28T22:35:18.000Z",
-          "wordCount": 358,
-          "title": "ゴールドマン・サックス、ビットコイン担保ローン提供か＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/goldman-crypto-back.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/goldman-crypto-back.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=345757",
-          "author": "菊谷ルイス",
-          "description": "ソラナ基盤の次世代オラクル「Pyth Network」は28日、7社のブロックチェーンインフラプロバイダーが新規対応することを発表した。",
-          "link": "https://coinpost.jp/?p=345757",
-          "publishedOn": "2022-04-28T22:00:54.000Z",
-          "wordCount": 363,
-          "title": "コインベースクラウドなど、ソラナ基盤のPythに対応",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/pyth-7-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/pyth-7-1.jpeg"
         }
       ]
     }
