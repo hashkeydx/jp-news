@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-04T09:31:26.608Z</updated>
+    <updated>2022-05-04T10:33:23.951Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタバースについて詳しく10分で解説　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=346917</id>
+        <link href="https://coinpost.jp/?p=346917"/>
+        <updated>2022-05-04T10:05:22.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、Digital Entertainment Asset Founder CEOの山田耕三氏に、メタバースとは何かや、NFT×メタバースについて分かりやすく10分で解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[村上隆氏、NFTコレクション「Murakami Flowers」の開封スタート]]></title>
         <id>https://coinpost.jp/?p=347109</id>
@@ -613,27 +623,6 @@ GPIFはWeb3戦略のカギ、アメリカで暗号資産を利用する人の傾
 暗号資産企業、シンガポールからドバイに軒並み移転 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Tracy Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米西海岸のカニ漁に追跡デバイスを使う：消える捕獲カゴを追う]]></title>
-        <id>https://www.coindeskjapan.com/?p=147577</id>
-        <link href="https://www.coindeskjapan.com/147577/"/>
-        <updated>2022-04-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[サンフランシスコ在住のテック企業幹部ジェイムソン・バフマイアー（Jameson Buffmire）氏は、アメリカ西海岸で趣味のカニ漁を楽しんでいる。厄介なのは、 ...
-米西海岸のカニ漁に追跡デバイスを使う：消える捕獲カゴを追う first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Lyllah Ledesma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所Gate.ioのVC部門、260億円の新規ファンド調達中]]></title>
-        <id>https://coinpost.jp/?p=346132</id>
-        <link href="https://coinpost.jp/?p=346132"/>
-        <updated>2022-04-29T21:58:42.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所Gate.ioのベンチャー部門Gate Venturesは現在、新規ファンドのローンチを進めている模様。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
