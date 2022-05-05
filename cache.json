@@ -74,16 +74,6 @@
           "wordCount": 44,
           "title": "日本円ステーブルコインJPYW｜ホームページリニューアルのお知らせ",
           "imageUrl": null
-        },
-        {
-          "id": "b7d269a072fe05cab7b84434efb3030b",
-          "author": "株式会社農情人",
-          "description": "株式会社農情人のプレスリリース（2022年5月1日 00時02分） 次世代電子書籍 読者と共に創り上げる100冊限定の未完成本をNFTで予約販売開始！",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36863df140f9368d268e5c40c2350d667",
-          "publishedOn": "2022-04-30T15:02:33.000Z",
-          "wordCount": 44,
-          "title": "【次世代電子書籍】読者と共に創り上げる100冊限定の未完成本をNFTで予約販売開始！",
-          "imageUrl": null
         }
       ]
     },
@@ -185,6 +175,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=347264",
+          "author": "AKIRA.H",
+          "description": "テスラ創業者のイーロン・マスク氏がプロフィールに人気NFT（非代替性トークン）コレクション「BAYC」を使用。しかし、自身の所有物ではないことが分かり、仮想通貨Apecoinの価格が揺さぶられた。",
+          "link": "https://coinpost.jp/?p=347264",
+          "publishedOn": "2022-05-05T03:55:40.000Z",
+          "wordCount": 438,
+          "title": "イーロン・マスク氏、ツイッタープロフィールをNFTに変更　ApeCoin（APE）が乱高下",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/elonmusk1214211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/elonmusk1214211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=347283",
+          "author": "ShoKawano",
+          "description": "高級ファッションブランドのGucci（グッチ）は、ビットコインやイーサリアムなど10以上の仮想通貨支払いに対応することを発表。NFTやメタ―バスといったWeb3事業の強化を図る。",
+          "link": "https://coinpost.jp/?p=347283",
+          "publishedOn": "2022-05-05T03:46:45.000Z",
+          "wordCount": 379,
+          "title": "グッチ、仮想通貨決済を米国の一部店舗で導入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Gucci-1-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Gucci-1-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=347237",
+          "author": "S.Ninomiya",
+          "description": "警戒されていた米連邦公開市場委員会（FOMC）で0.75%の利上げに消極的な姿勢が示されたことで金融市場が一斉に反発。暗号資産（仮想通貨）市場ではビットコインなどアルトコインも全面高となった。",
+          "link": "https://coinpost.jp/?p=347237",
+          "publishedOn": "2022-05-05T03:23:08.000Z",
+          "wordCount": 545,
+          "title": "米FOMC通過でビットコインなど金融市場が一斉反発",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427g-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427g-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=347254",
+          "author": "A.Yamada",
+          "description": "米カリフォルニア州は仮想通貨やブロックチェーンについての知事命令を発表。規制を明確化し、消費者保護などを行いながらイノベーションを促進するものだ。",
+          "link": "https://coinpost.jp/?p=347254",
+          "publishedOn": "2022-05-05T02:50:53.000Z",
+          "wordCount": 383,
+          "title": "米カリフォルニア州知事、仮想通貨・ブロックチェーン関連の行政命令を署名",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/california_crypto1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/california_crypto1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=347229",
           "author": "AKIRA.H",
