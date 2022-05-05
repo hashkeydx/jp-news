@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-05T08:36:40.574Z</updated>
+    <updated>2022-05-05T09:29:57.164Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チリーズ運営のSocios.com、26のMLSチームと提携]]></title>
+        <id>https://coinpost.jp/?p=347360</id>
+        <link href="https://coinpost.jp/?p=347360"/>
+        <updated>2022-05-05T09:13:27.000Z</updated>
+        <summary type="html"><![CDATA[ファントークンなどを提供するスポーツ・プラットフォームSocios.comが米MLS（メジャーリーグサッカー）との提携を発表。ブロックチェーン技術を活用したファンとチームのエンゲージメント強化を行っていく。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トロン基盤のステーブルコイン「USDD」がローンチ　TRX前週比+35%に]]></title>
         <id>https://coinpost.jp/?p=347328</id>
