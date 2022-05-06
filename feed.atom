@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-06T02:06:59.325Z</updated>
+    <updated>2022-05-06T03:15:33.554Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英上場仮想通貨マイニング企業Argo、米テキサス州の新拠点完成]]></title>
+        <id>https://coinpost.jp/?p=347488</id>
+        <link href="https://coinpost.jp/?p=347488"/>
+        <updated>2022-05-06T03:05:28.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインのマイニングを行う英Argo Blockchainは、米テキサス州の新マイニング施設の完成を発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナペイがNFT特典の配布やトークン報酬に対応　店舗側のユースケース増やす]]></title>
+        <id>https://coinpost.jp/?p=347490</id>
+        <link href="https://coinpost.jp/?p=347490"/>
+        <updated>2022-05-06T02:30:21.000Z</updated>
+        <summary type="html"><![CDATA[ソラナブロックチェーンの決済システム「Solana Pay」は5日、新たな取引機能を実装したことを発表した。ポイント管理や後払い決済、NFTの特典付与など、商慣習に即した使い方が可能になった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3.0ゲーム企業「LootRush」、約15億円を資金調達　Paradigmやa16zらが出資]]></title>
         <id>https://coinpost.jp/?p=347476</id>
