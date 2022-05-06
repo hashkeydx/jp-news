@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-06T20:31:09.989Z</updated>
+    <updated>2022-05-06T21:27:34.461Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所バイナンス、通貨ペアを追加]]></title>
+        <id>https://coinpost.jp/?p=347881</id>
+        <link href="https://coinpost.jp/?p=347881"/>
+        <updated>2022-05-06T21:10:41.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは6日、新たに2つの通貨ペアの追加を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音楽NFTの可能性と考慮すべき法的論点とは｜Gamma Law寄稿]]></title>
         <id>https://coinpost.jp/?p=341496</id>
@@ -748,16 +758,6 @@ NFTビジネス：企業のための新戦略【コラム】 first appeared on c
         <summary type="html"><![CDATA[株式会社リードエッジコンサルティングのプレスリリース（2022年5月2日 18時31分）『アジア太平洋地域における急成長企業ランキング 』に100万社の中から株式会社リードエッジコンサルティングが選出]]></summary>
         <author>
             <name>株式会社リードエッジコンサルティング</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーンTCG「クリプトスペルズ」の始め方（入門編）｜ 廃猫]]></title>
-        <id>https://coinpost.jp/?p=342941</id>
-        <link href="https://coinpost.jp/?p=342941"/>
-        <updated>2022-05-02T09:00:12.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーンを使ったトレーディングカードゲーム「クリプトスペルズ」の魅力と始め方について、上位ランカーでもある廃猫が詳しく解説。NFT化されたデジタルカードは、OpenSeaなどゲーム外のマーケットプレイスでも売買可能です。]]></summary>
-        <author>
-            <name>廃猫</name>
         </author>
     </entry>
 </feed>
