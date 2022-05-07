@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-07T04:37:57.069Z</updated>
+    <updated>2022-05-07T05:26:58.304Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オントロジー、分散型ID用の開発キットをオープンソース化]]></title>
+        <id>https://coinpost.jp/?p=347977</id>
+        <link href="https://coinpost.jp/?p=347977"/>
+        <updated>2022-05-07T05:00:55.000Z</updated>
+        <summary type="html"><![CDATA[オントロジーは3日、分散型IDで用いられる認証システムのソフトウェア開発キットである「Verifiable Credentials SDK」のコードをオープンソース化したと発表。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スペイン規制当局、バイナンスにデリバティブ取引の提供停止を命令＝報道]]></title>
         <id>https://coinpost.jp/?p=347961</id>
