@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-07T02:01:21.605Z</updated>
+    <updated>2022-05-07T03:09:28.084Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所に対するユニスワップの優位性＝大手VC Paradigmレポート]]></title>
+        <id>https://coinpost.jp/?p=347962</id>
+        <link href="https://coinpost.jp/?p=347962"/>
+        <updated>2022-05-07T02:58:53.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨VCのParadigmは、イーサリアムの取引環境においてUniswap v3の優位性を示すレポートを公開。バイナンスやコインベースといった中央集権的な仮想通貨取引所より深い流動性を実現しているとまとめた。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マルチチェーンHop Protocol、初期ユーザーにエアドロップ実施へ]]></title>
+        <id>https://coinpost.jp/?p=347938</id>
+        <link href="https://coinpost.jp/?p=347938"/>
+        <updated>2022-05-07T02:30:51.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのマルチチェーンブリッジHop Protocolは、独自トークンHOP発行を発表。初期ユーザーに対して、エアドロップを行う計画を明かした。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SECとNVIDIA、7億円の罰金で和解　仮想通貨マイニングに関わる収益巡り]]></title>
+        <id>https://coinpost.jp/?p=347943</id>
+        <link href="https://coinpost.jp/?p=347943"/>
+        <updated>2022-05-07T01:55:26.000Z</updated>
+        <summary type="html"><![CDATA[米SECは大手半導体メーカーNVIDIAに罰金を科し和解した。同社が、仮想通貨マイニングへの需要が2018年の収益に貢献したことを開示していなかったと指摘している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THETAがソニーと提携、3D NFTを発売へ]]></title>
         <id>https://coinpost.jp/?p=347933</id>
