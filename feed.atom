@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-08T21:27:05.885Z</updated>
+    <updated>2022-05-08T22:29:12.600Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFiはWeb3でどう変化していくか【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=148203</id>
+        <link href="https://www.coindeskjapan.com/148203/"/>
+        <updated>2022-05-08T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[製品のライフサイクルを考えると、設計に関する決断は、意図されているユースケースやユーザーから隔絶された真空の中で下されるべきではない。開発者は製品開発という旅に ...
+DeFiはWeb3でどう変化していくか【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産はぜいたく品だ【オピニオン】]]></title>
         <id>https://www.coindeskjapan.com/?p=148181</id>
@@ -659,16 +670,6 @@ NFTビジネス：企業のための新戦略【コラム】 first appeared on c
         <summary type="html"><![CDATA[PR TIMESで配信されたKryptomon Companyのプレスリリース一覧です（最新配信日：2022年5月4日 11時00分）。Kryptomon Company｜次世代NFTゲーム[Kryptomon (クリプトモン)]タマゴから孵化したモンスターを育成、バトル、トレードして最強を目指す！]]></summary>
         <author>
             <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタバースについて詳しく10分で解説　CONNECTV・動画解説]]></title>
-        <id>https://coinpost.jp/?p=346917</id>
-        <link href="https://coinpost.jp/?p=346917"/>
-        <updated>2022-05-04T10:05:22.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、Digital Entertainment Asset Founder CEOの山田耕三氏に、メタバースとは何かや、NFT×メタバースについて分かりやすく10分で解説する。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
