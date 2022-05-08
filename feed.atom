@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-08T20:30:06.238Z</updated>
+    <updated>2022-05-08T21:27:05.885Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産はぜいたく品だ【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=148181</id>
+        <link href="https://www.coindeskjapan.com/148181/"/>
+        <updated>2022-05-08T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）界で人気の起業家サム・バンクマン-フリード氏は、ブルームバーグとの最新のインタビューが始まって20分ほどで、業界の実態を暴くような発言をした ...
+暗号資産はぜいたく品だ【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTを持つことで参加出来るDAO「Nouns」とは　CONNECTV・動画解説]]></title>
         <id>https://coinpost.jp/?p=348181</id>
@@ -658,26 +669,6 @@ NFTビジネス：企業のための新戦略【コラム】 first appeared on c
         <summary type="html"><![CDATA[今回のCONNECTVでは、Digital Entertainment Asset Founder CEOの山田耕三氏に、メタバースとは何かや、NFT×メタバースについて分かりやすく10分で解説する。]]></summary>
         <author>
             <name>CONNECTV 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[村上隆氏、NFTコレクション「Murakami Flowers」の開封スタート]]></title>
-        <id>https://coinpost.jp/?p=347109</id>
-        <link href="https://coinpost.jp/?p=347109"/>
-        <updated>2022-05-04T09:12:28.000Z</updated>
-        <summary type="html"><![CDATA[現代芸術家の村上隆氏が手掛けるNFTコレクション「Murakami Flowers」の開封が実施された。コレクションは合計11,664種類。公式サイトにウォレットを接続することで開封できる。]]></summary>
-        <author>
-            <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本発の人気ブロックチェーンゲーム8つを紹介｜廃猫]]></title>
-        <id>https://coinpost.jp/?p=342960</id>
-        <link href="https://coinpost.jp/?p=342960"/>
-        <updated>2022-05-04T09:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Play to Earn（P2E）要素で暗号資産（仮想通貨）を稼ぐことのできる、日本発の人気ブロックチェーンNFTゲーム8つを紹介。それぞれの内容について、ブロックチェーンゲームの上位ランカーでもある廃猫が紹介。]]></summary>
-        <author>
-            <name>廃猫</name>
         </author>
     </entry>
 </feed>
