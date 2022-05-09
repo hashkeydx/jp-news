@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-09T09:30:53.319Z</updated>
+    <updated>2022-05-09T10:34:31.257Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レイヤー2と分散型取引所、第1四半期に大きく成長]]></title>
+        <id>https://www.coindeskjapan.com/?p=148124</id>
+        <link href="https://www.coindeskjapan.com/148124/"/>
+        <updated>2022-05-09T09:30:37.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（Ethereum）ブロックチェーン上に構築された一部のアプリケーションとサービスは2022年第1四半期（1−3月期）、前年同期比で大幅な成長を見せ ...
+レイヤー2と分散型取引所、第1四半期に大きく成長 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[越境ECサイト「SBI Motor Japan」ビットコインとXRP決済に対応へ]]></title>
         <id>https://coinpost.jp/?p=348536</id>
@@ -803,17 +814,6 @@ DeFiはWeb3でどう変化していくか【コラム】 first appeared on coind
         <summary type="html"><![CDATA[大手仮想通貨取引所コインベースは独自のNFT電子市場ベータ版の一般利用を解禁した。今後も本格ローンチに向け、開発や機能の追加を行なっていく。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTビジネス：企業のための新戦略【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=147878</id>
-        <link href="https://www.coindeskjapan.com/147878/"/>
-        <updated>2022-05-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ゲームの小売販売を手がける米ゲームストップ（GameStop）が、振るわない事業モデルを転換し、NFTに参入することが、最終的に効果を生むか予測するのは不可能だ ...
-NFTビジネス：企業のための新戦略【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Eric Lam</name>
         </author>
     </entry>
 </feed>
