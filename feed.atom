@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-09T20:31:14.977Z</updated>
+    <updated>2022-05-09T21:28:13.044Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エルサルバドル政府、数ヶ月ぶりにビットコイン買い増しを実施]]></title>
+        <id>https://coinpost.jp/?p=348728</id>
+        <link href="https://coinpost.jp/?p=348728"/>
+        <updated>2022-05-09T21:10:23.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン続落の中、エルサルバドル政府は5月10日、BTCの買い増しを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5つのチャートで分かる暗号資産決済の現状]]></title>
+        <id>https://www.coindeskjapan.com/?p=148157</id>
+        <link href="https://www.coindeskjapan.com/148157/"/>
+        <updated>2022-05-09T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2009年に誕生したビットコイン（BTC）には、オンラインでのピアツーピア取引において、信頼できる第三者が必要なくなるという熱い期待が寄せられていた。ホワイトペ ...
+5つのチャートで分かる暗号資産決済の現状 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>George Kaloudis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本初、自治体での運用を想定したデジタルtoデジタルの社会実験を本格開始]]></title>
         <id>f476fb12c7bf4a3d61585bc99caf69c2</id>
@@ -724,16 +745,6 @@ DeFiはWeb3でどう変化していくか【コラム】 first appeared on coind
         <summary type="html"><![CDATA[今回のCONNECTVでは、Digital Entertainment Asset Founder CEOの山田耕三氏に、NFTコレクティブルとはについて分かりやすく解説する。]]></summary>
         <author>
             <name>CONNECTV 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チリーズ運営のSocios.com、26のMLSチームと提携]]></title>
-        <id>https://coinpost.jp/?p=347360</id>
-        <link href="https://coinpost.jp/?p=347360"/>
-        <updated>2022-05-05T09:13:27.000Z</updated>
-        <summary type="html"><![CDATA[ファントークンなどを提供するスポーツ・プラットフォームSocios.comが米MLS（メジャーリーグサッカー）との提携を発表。ブロックチェーン技術を活用したファンとチームのエンゲージメント強化を行っていく。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
