@@ -123,6 +123,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=148399",
+          "author": "Krisztian Sandor",
+          "description": "アンカー（Anchor）は、テラ（Terra）ブロックチェーン上に構築されたDeFi（分散型金融）プロジェクトで、ユーザーに高利回りを提供していたが、この数日間 ...\nテラのDeFi「アンカー」の預り金、急減──ステーブルコインUSTが再度ドルペッグを失い、投資家が資金引き上げ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/148399/",
+          "publishedOn": "2022-05-10T01:50:27.000Z",
+          "wordCount": 243,
+          "title": "テラのDeFi「アンカー」の預り金、急減──ステーブルコインUSTが再度ドルペッグを失い、投資家が資金引き上げ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/RJY7RTEEZFAOFDMJJZMHB4SOHAのコピー-2.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=148285",
           "author": "David Morris",
           "description": "人気NFTプロジェクト「Bored Ape Yacht Club」を手がけるユガ・ラボ（Yuga Labs）は4月30日、開発中のメタバースプロジェクト「Oth ...\nメタバースの土地がなぜ希少になるのか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -255,6 +265,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=348742",
+          "author": "A.Yamada",
+          "description": "インド当局は、まもなくビットコインなど仮想通貨のサービスに28%の間接税を課すことを検討する模様だ。",
+          "link": "https://coinpost.jp/?p=348742",
+          "publishedOn": "2022-05-10T00:25:54.000Z",
+          "wordCount": 373,
+          "title": "インド、仮想通貨サービスに28%の課税を検討中＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/India0610211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/India0610211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=348740",
           "author": "菊谷ルイス",
@@ -1019,21 +1044,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_03.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_03.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=347394",
-          "author": "Noah Sakamaki",
-          "description": "イーロン・マスク氏のツイッター買収に向けた資金調達に仮想通貨取引所バイナンスが参加したことがわかった。フィデリティやa16zなどの仮想通貨関連企業を含む18社が累計9,000億円以上の資金提供に合意した。",
-          "link": "https://coinpost.jp/?p=347394",
-          "publishedOn": "2022-05-05T13:18:23.000Z",
-          "wordCount": 402,
-          "title": "仮想通貨取引所バイナンス、マスク氏のツイッター買収に参加",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/twitter_elon_musk_buy1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/twitter_elon_musk_buy1.png"
         }
       ]
     }

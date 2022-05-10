@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-09T23:29:48.644Z</updated>
+    <updated>2022-05-10T01:52:26.812Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テラのDeFi「アンカー」の預り金、急減──ステーブルコインUSTが再度ドルペッグを失い、投資家が資金引き上げ]]></title>
+        <id>https://www.coindeskjapan.com/?p=148399</id>
+        <link href="https://www.coindeskjapan.com/148399/"/>
+        <updated>2022-05-10T01:50:27.000Z</updated>
+        <summary type="html"><![CDATA[アンカー（Anchor）は、テラ（Terra）ブロックチェーン上に構築されたDeFi（分散型金融）プロジェクトで、ユーザーに高利回りを提供していたが、この数日間 ...
+テラのDeFi「アンカー」の預り金、急減──ステーブルコインUSTが再度ドルペッグを失い、投資家が資金引き上げ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インド、仮想通貨サービスに28%の課税を検討中＝報道]]></title>
+        <id>https://coinpost.jp/?p=348742</id>
+        <link href="https://coinpost.jp/?p=348742"/>
+        <updated>2022-05-10T00:25:54.000Z</updated>
+        <summary type="html"><![CDATA[インド当局は、まもなくビットコインなど仮想通貨のサービスに28%の間接税を課すことを検討する模様だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインで住宅購入、米国の初事例]]></title>
         <id>https://coinpost.jp/?p=348740</id>
@@ -756,16 +777,6 @@ DeFiはWeb3でどう変化していくか【コラム】 first appeared on coind
         <summary type="html"><![CDATA[PR TIMESで配信されたno plan株式会社のプレスリリース一覧です（最新配信日：2022年5月5日 11時00分）。no plan株式会社]]></summary>
         <author>
             <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所バイナンス、マスク氏のツイッター買収に参加]]></title>
-        <id>https://coinpost.jp/?p=347394</id>
-        <link href="https://coinpost.jp/?p=347394"/>
-        <updated>2022-05-05T13:18:23.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏のツイッター買収に向けた資金調達に仮想通貨取引所バイナンスが参加したことがわかった。フィデリティやa16zなどの仮想通貨関連企業を含む18社が累計9,000億円以上の資金提供に合意した。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
