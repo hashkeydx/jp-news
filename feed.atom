@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-10T02:58:56.133Z</updated>
+    <updated>2022-05-10T03:38:39.565Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨市場で1000億円規模の大量ロスカット　ビットコイン3万ドル節目を割り込む]]></title>
+        <id>https://coinpost.jp/?p=348766</id>
+        <link href="https://coinpost.jp/?p=348766"/>
+        <updated>2022-05-10T03:32:42.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダック株式市場の暴落を受け、相関強める仮想通貨相場も全面安に。デリバティブ市場では大規模ロスカットが発生、ビットコイン価格は3万ドルの心理的節目を割り込んだ。ステーブルコインUSTのデペッグも懸念されている。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機関投資家向け「Compound Treasury」、S＆P信用格付けを受ける]]></title>
+        <id>https://coinpost.jp/?p=348805</id>
+        <link href="https://coinpost.jp/?p=348805"/>
+        <updated>2022-05-10T02:55:52.000Z</updated>
+        <summary type="html"><![CDATA[機関投資家向けのレンディング企業「Compound Treasury」は9日、米S&P Global Ratingsから信用格付けを受けたことを発表した。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米経済学者ルービニ氏、米ドルなどに裏付けされたトークン開発を検討]]></title>
         <id>https://coinpost.jp/?p=348783</id>
