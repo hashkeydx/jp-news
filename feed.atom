@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-11T21:27:11.322Z</updated>
+    <updated>2022-05-11T22:29:54.245Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3インフラ企業Moralis、コインベースなどから52億円調達]]></title>
+        <id>https://coinpost.jp/?p=349469</id>
+        <link href="https://coinpost.jp/?p=349469"/>
+        <updated>2022-05-11T22:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Web3のインフラプラットフォームMoralisが11日、シリーズAラウンドで52億円を調達したことを発表した。コインベースベンチャーズなども参加。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン続落：決断の時か【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=148639</id>
+        <link href="https://www.coindeskjapan.com/148639/"/>
+        <updated>2022-05-11T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は5日間にわたって続落し、価格は昨年7月以来の低水準に落ち込んだ。より広範な経済低迷の中、他の暗号資産（仮想通貨）も同様の状態だ。 ウォー ...
+ビットコイン続落：決断の時か【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラジルNubank、仮想通貨取引を提供へ]]></title>
+        <id>https://coinpost.jp/?p=349454</id>
+        <link href="https://coinpost.jp/?p=349454"/>
+        <updated>2022-05-11T21:20:40.000Z</updated>
+        <summary type="html"><![CDATA[ブラジルの新興銀行Nubankは11日、米仮想通貨関連企業Paxosと提携し、仮想通貨取引サービスを提供することを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベースの決算から分かる3つの戦略：北米市場を読み解く]]></title>
         <id>https://www.coindeskjapan.com/?p=148612</id>
@@ -857,16 +888,6 @@ DeFiはWeb3でどう変化していくか【コラム】 first appeared on coind
 ウォール街の相場操縦スキャンダル、クリプト界へ警鐘 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一回 ビットコイン相場勉強会　CONNECTV・動画解説]]></title>
-        <id>https://coinpost.jp/?p=348021</id>
-        <link href="https://coinpost.jp/?p=348021"/>
-        <updated>2022-05-07T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[今回の#CONNECTVでは、bitbankマーケット・アナリストの長谷川友哉氏をお呼びし、CoinPost代表各務貴仁氏と共に現在マーケットについてや来週注目イベントなどを解説していく。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
