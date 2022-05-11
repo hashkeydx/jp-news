@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-11T04:53:36.852Z</updated>
+    <updated>2022-05-11T05:37:18.789Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3時代のIDソリューション、ONT IDとは]]></title>
+        <id>https://coinpost.jp/?p=349014</id>
+        <link href="https://coinpost.jp/?p=349014"/>
+        <updated>2022-05-11T05:00:46.000Z</updated>
+        <summary type="html"><![CDATA[オントロジーのDID（分散型ID）製品である「ONT ID」について詳しく解説。DIDの詳細や関連技術、それが解決し得る課題、そして現時点におけるユースケースなどを紹介する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年初来安値更新のビットコイン、取引所へのインフローがコロナ・ショック以来の水準に]]></title>
         <id>https://coinpost.jp/?p=349151</id>
