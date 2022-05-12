@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-12T21:26:46.019Z</updated>
+    <updated>2022-05-12T22:32:25.739Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米チェイナリシスが220億円調達、評価額1兆1000億円──下落相場も懸念なし]]></title>
+        <id>https://www.coindeskjapan.com/?p=148774</id>
+        <link href="https://www.coindeskjapan.com/148774/"/>
+        <updated>2022-05-12T21:30:37.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析会社の米チェイナリシス（Chainalysis）は12日、シリーズFのラウンドで、1億7000万ドル（約220億円）を調達したと発表した。評 ...
+米チェイナリシスが220億円調達、評価額1兆1000億円──下落相場も懸念なし first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Danny Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、LUNAの証拠金取引を取扱廃止]]></title>
         <id>https://coinpost.jp/?p=349786</id>
@@ -1094,16 +1105,6 @@ DeFiはWeb3でどう変化していくか【コラム】 first appeared on coind
 暗号資産はぜいたく品だ【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTを持つことで参加出来るDAO「Nouns」とは　CONNECTV・動画解説]]></title>
-        <id>https://coinpost.jp/?p=348181</id>
-        <link href="https://coinpost.jp/?p=348181"/>
-        <updated>2022-05-08T10:05:23.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、Digital Entertainment Asset Founder CEOの山田耕三氏に、Nounsについて分かりやすく解説する。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
