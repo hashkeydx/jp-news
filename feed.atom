@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-12T09:30:29.170Z</updated>
+    <updated>2022-05-12T10:35:38.246Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリプトアーティストに聞くNFT市場　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=349584</id>
+        <link href="https://coinpost.jp/?p=349584"/>
+        <updated>2022-05-12T10:05:54.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、SBINFT CMO 中田宜明氏、クリプトアーティスト 浅田真理　marimosphere氏、クリプトアーティスト NY_氏の3名に、クリエイター視点で何を思うのかについて解説していただく。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テラ（LUNA）・UST問題をHashHub平野CEOが解説、ビットコイン急落の背景は｜CONNECTV・動画解説]]></title>
         <id>https://coinpost.jp/?p=349697</id>
@@ -1063,17 +1073,6 @@ DeFiはWeb3でどう変化していくか【コラム】 first appeared on coind
         <summary type="html"><![CDATA[人気NFTコレクション「BAYC（Bored Ape Yacht Club）」の所有者にエアドロップされ、ローンチ直後から大手仮想通貨取引所に上場した「エイプコイン（APE）」の特徴や仕組み、将来性について解説。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウォール街の相場操縦スキャンダル、クリプト界へ警鐘]]></title>
-        <id>https://www.coindeskjapan.com/?p=148148</id>
-        <link href="https://www.coindeskjapan.com/148148/"/>
-        <updated>2022-05-07T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先週、ファミリーオフィスのアルケゴス・キャピタル・マネジメント（Archegos Capital Management）の創業者ビル・フアン氏の劇的な逮捕、告発 ...
-ウォール街の相場操縦スキャンダル、クリプト界へ警鐘 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>David Morris</name>
         </author>
     </entry>
 </feed>
