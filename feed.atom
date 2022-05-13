@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-13T22:31:35.381Z</updated>
+    <updated>2022-05-13T23:32:46.689Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン「テラ」の崩壊：創業者クォン氏の運命【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=148712</id>
+        <link href="https://www.coindeskjapan.com/148712/"/>
+        <updated>2022-05-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アルゴリズム型ステーブルコイン「TerraUSD（UST）」のボラティリティのバランスを取るはずとなっていたテラ（LUNA）トークンが、暴落した。一方のUSTは ...
+ステーブルコイン「テラ」の崩壊：創業者クォン氏の運命【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>David Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスク氏、ツイッター社の買収を一時保留すると表明]]></title>
+        <id>https://coinpost.jp/?p=350184</id>
+        <link href="https://coinpost.jp/?p=350184"/>
+        <updated>2022-05-13T22:35:31.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏は、ツイッター社の買収を一時保留する意向を示した。ツイッター上のスパムや偽のアカウントの数を精査するためと説明したが、その後に買収は進めていくとも述べている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野村証券、アジアでビットコインデリバティブ提供開始]]></title>
         <id>https://coinpost.jp/?p=350190</id>
@@ -1133,16 +1154,6 @@ USTの回復に賭けるヘッジファンドArca、勝算はあるか？ first 
 5つのチャートで分かる暗号資産決済の現状 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>George Kaloudis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本初、自治体での運用を想定したデジタルtoデジタルの社会実験を本格開始]]></title>
-        <id>f476fb12c7bf4a3d61585bc99caf69c2</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06963df140f9366d568e4c20c2350d667"/>
-        <updated>2022-05-09T11:15:03.000Z</updated>
-        <summary type="html"><![CDATA[株式会社アイティフォーのプレスリリース（2022年5月9日 18時45分）日本初、自治体での運用を想定したデジタルtoデジタルの社会実験を本格開始]]></summary>
-        <author>
-            <name>株式会社アイティフォー</name>
         </author>
     </entry>
 </feed>
