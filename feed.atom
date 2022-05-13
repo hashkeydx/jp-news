@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-13T04:18:36.075Z</updated>
+    <updated>2022-05-13T05:51:59.320Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタ社の元開発責任者、新たなビットコイン事業を設立]]></title>
+        <id>https://coinpost.jp/?p=349938</id>
+        <link href="https://coinpost.jp/?p=349938"/>
+        <updated>2022-05-13T04:50:42.000Z</updated>
+        <summary type="html"><![CDATA[米メタ社（旧フェイスブック）を昨年11月に退任したデービッド・マーカス氏は12日、新たにビットコイン関連の開発を行う新会社「Lightspark」の設立を発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テラ（LUNA）暴落の影響か、Venus Protocolで約18億円の損失]]></title>
+        <id>https://coinpost.jp/?p=349946</id>
+        <link href="https://coinpost.jp/?p=349946"/>
+        <updated>2022-05-13T04:25:56.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨テラの連日の暴落は、DeFiシーンにも影響を及ぼしている。Venus Protocolでは、Chainlinkの価格フィードが停止したタイミングで18億円相当の資産が奪われた。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米下院の公聴会、FTXの商品取引員廃止案を議論]]></title>
+        <id>https://coinpost.jp/?p=349925</id>
+        <link href="https://coinpost.jp/?p=349925"/>
+        <updated>2022-05-13T04:10:06.000Z</updated>
+        <summary type="html"><![CDATA[米下院農業委員会は仮想通貨取引所FTXの先物取引業者（FCM）廃止案を議論。既存金融への影響などについて意見を交わした。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ANA、メタバースで損害保険ジャパンと提携──「世界初」の大規模実証実験]]></title>
         <id>https://www.coindeskjapan.com/?p=148860</id>
