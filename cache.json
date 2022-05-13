@@ -511,16 +511,6 @@
           "wordCount": 311,
           "title": "5つのチャートで分かる暗号資産決済の現状",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/shutterstock_667292656-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=148124",
-          "author": "Shaurya Malwa",
-          "description": "イーサリアム（Ethereum）ブロックチェーン上に構築された一部のアプリケーションとサービスは2022年第1四半期（1−3月期）、前年同期比で大幅な成長を見せ ...\nレイヤー2と分散型取引所、第1四半期に大きく成長 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/148124/",
-          "publishedOn": "2022-05-09T09:30:37.000Z",
-          "wordCount": 237,
-          "title": "レイヤー2と分散型取引所、第1四半期に大きく成長",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/DRVTUMPL3RB6FNLKMFCZ5QI6KEのコピー.jpeg"
         }
       ]
     },
@@ -535,6 +525,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=350190",
+          "author": "菊谷ルイス",
+          "description": "野村証券は13日、アジアで仮想通貨ビットコインのデリバティブ取引を提供開始したことを発表した。",
+          "link": "https://coinpost.jp/?p=350190",
+          "publishedOn": "2022-05-13T22:05:45.000Z",
+          "wordCount": 351,
+          "title": "野村証券、アジアでビットコインデリバティブ提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/nomura-bitcion.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/nomura-bitcion.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=350186",
+          "author": "菊谷ルイス",
+          "description": "世界的最大手仮想通貨取引所バイナンスは13日、3銘柄の通貨ペアの提供廃止を発表した。",
+          "link": "https://coinpost.jp/?p=350186",
+          "publishedOn": "2022-05-13T21:42:26.000Z",
+          "wordCount": 334,
+          "title": "バイナンス、3通貨ペアの取扱廃止を実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/binance1_20191114.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/binance1_20191114.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=350183",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所FTXとOKXは13日、テラ（LUNA）の無期限先物の取引中止を発表した。また、LUNAのETPも価格の急変を受け取引が一時停止となっている。",
+          "link": "https://coinpost.jp/?p=350183",
+          "publishedOn": "2022-05-13T21:30:33.000Z",
+          "wordCount": 352,
+          "title": "FTXなど、LUNA先物取引を提供中止",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/ftx4_20200901.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/ftx4_20200901.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=349938",
           "author": "幸田直子",
