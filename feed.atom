@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-14T04:48:48.703Z</updated>
+    <updated>2022-05-14T06:06:19.192Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[損保ジャパン、メタバース保険開発でANA系列会社と提携]]></title>
+        <id>https://coinpost.jp/?p=350248</id>
+        <link href="https://coinpost.jp/?p=350248"/>
+        <updated>2022-05-14T04:55:18.000Z</updated>
+        <summary type="html"><![CDATA[損保ジャパンとANA NEOは、メタバース向けの保険開発やサービス実証を目的とした提携を発表。「安心してデジタルツインなライフスタイルを享受していただくための取り組み」を推進する。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinGeckoやEtherscan、フィッシング攻撃が発生]]></title>
+        <id>https://coinpost.jp/?p=350229</id>
+        <link href="https://coinpost.jp/?p=350229"/>
+        <updated>2022-05-14T04:35:16.000Z</updated>
+        <summary type="html"><![CDATA[CoinGeckoやEtherscanといった、仮想通貨データサイトでフィッシング攻撃が発生。利用者のウォレットをスキャムウェブサイトへ接続を促すプロンプトを表示する。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テザー社、USDT準備金でコマーシャルペーパーの割合削減]]></title>
         <id>https://coinpost.jp/?p=350234</id>
