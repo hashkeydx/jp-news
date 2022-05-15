@@ -113,6 +113,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=148128",
+          "author": "佐藤 茂",
+          "description": "Orca（オルカ）は、東京・原宿のシェアハウスで出会った2人のプログラマーが共同で開発した分散型暗号資産取引所（DEX＝Decentralized Exchan ...\n原宿のシェアハウスで出会いソラナで起業したDEX：Web2から学ぶWeb3決済 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/148128/",
+          "publishedOn": "2022-05-15T21:00:00.000Z",
+          "wordCount": 285,
+          "title": "原宿のシェアハウスで出会いソラナで起業したDEX：Web2から学ぶWeb3決済",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/gracekwantop-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=148917",
           "author": "coindesk JAPAN",
           "description": "GWから13日までに公開したコラムやインタビューから、日曜日に読みたい10本を厳選。 ビットコイン続落：決断の時か 市場が低迷した時に、誰が最も損をするのかを見 ...\nビットコインは決断の時か、ステーブルコイン「JPYC」9カ月で10倍に拡大した理由【日曜日に読みたい厳選10本】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -311,16 +321,6 @@
           "wordCount": 307,
           "title": "コインベースの決算から分かる3つの戦略：北米市場を読み解く",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/02/shutterstock_2091302218.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=148594",
-          "author": "菊池友信",
-          "description": "5月11日～13日までの3日間、「第3回 ブロックチェーンEXPO【春】」が東京ビッグサイトで開催されている。三菱UFJフィナンシャルグループ系のリース会社が出 ...\nカルダノ、三菱UFJ系など250社が出展──JBA加納代表は講演【ブロックチェーンEXPO】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/148594/",
-          "publishedOn": "2022-05-11T08:52:27.000Z",
-          "wordCount": 213,
-          "title": "カルダノ、三菱UFJ系など250社が出展──JBA加納代表は講演【ブロックチェーンEXPO】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/Blockchainexpo2022051103-scaled.jpg"
         }
       ]
     },
@@ -994,51 +994,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/nubank.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/nubank.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=349229",
-          "author": "AKIRA.H",
-          "description": "仮想通貨取引所AscendEXは、NFT（非代替性トークン）ゲームインフラのネイティブトークンであるEnjin（ENJ）とEfinity（EFI）の取り扱いを開始した。",
-          "link": "https://coinpost.jp/?p=349229",
-          "publishedOn": "2022-05-11T09:00:16.000Z",
-          "wordCount": 362,
-          "title": "取引所AscendEX、NFTゲームインフラ「Enjin（ENJ）」と「Efinity（EFI）」の取り扱い開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/ENJ-EFIB-0511.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/ENJ-EFIB-0511.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=349163",
-          "author": "A.Yamada",
-          "description": "米ナスダック上場の仮想通貨マイニング企業Riot Blockchainは2022年1Q（1-3月）の業績報告を発表。ビットコインの採掘収益などで過去最高を記録した。",
-          "link": "https://coinpost.jp/?p=349163",
-          "publishedOn": "2022-05-11T08:57:57.000Z",
-          "wordCount": 370,
-          "title": "米上場マイニング企業Riot、過去最高の四半期収益を記録",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/mining-housyuu.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/mining-housyuu.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=349241",
-          "author": "幸田直子",
-          "description": "米大手仮想通貨取引所コインベースは10日、2022年第1四半期の決算を発表。560億円の純損失を計上したことがわかった。2021年4四半期は、1,095億円の純利益を記録していた。",
-          "link": "https://coinpost.jp/?p=349241",
-          "publishedOn": "2022-05-11T08:51:43.000Z",
-          "wordCount": 372,
-          "title": "米コインベース業績に市況悪化が直撃、22年Q1決算で損失560億円を計上",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/coinbase032221.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/coinbase032221.png"
         }
       ]
     }
