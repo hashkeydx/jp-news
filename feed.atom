@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-16T22:30:22.523Z</updated>
+    <updated>2022-05-16T23:30:21.218Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、イーサリアムdAppsへのアクセスを提供へ]]></title>
+        <id>https://coinpost.jp/?p=350863</id>
+        <link href="https://coinpost.jp/?p=350863"/>
+        <updated>2022-05-16T23:00:13.000Z</updated>
+        <summary type="html"><![CDATA[米最大手仮想通貨取引所コインベースは17日、コインベースの公式アプリからETH基盤のWeb3アプリにアクセスする機能を徐々に公開することを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス保有のテラ（LUNA）の価値、ピーク時は2,000億円相当に　CZ氏はユーザー保護の主導を宣言]]></title>
+        <id>https://coinpost.jp/?p=350845</id>
+        <link href="https://coinpost.jp/?p=350845"/>
+        <updated>2022-05-16T22:45:41.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスのCZ氏は、同社が出資で取得したテラ（LUNA）の数量は、1,500万枚だったと明かした。ピーク時は2,000億円相当の価値になっていたと述べている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米グレースケール、5つの仮想通貨投資信託がOTC新規上場]]></title>
         <id>https://coinpost.jp/?p=350849</id>
