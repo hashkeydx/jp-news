@@ -94,16 +94,6 @@
           "wordCount": 44,
           "title": "HEXAメタバース・ゲートウェイα版リリース！HEXA住民票NFT保有者は自分の家が持てる。無償でもらえる住民票NFTは5/16（月）23:59まで",
           "imageUrl": null
-        },
-        {
-          "id": "33c9bbe6fbca3c91daa0060d9abb6410",
-          "author": "ライバーハウス株式会社",
-          "description": "ライバーハウス株式会社のプレスリリース（2022年5月13日 18時00分） 特許 NFTチケットを使用した入場管理システムの特許出願のお知らせ",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26963df140f9368d26ce1ca0c2350d667",
-          "publishedOn": "2022-05-13T09:00:03.000Z",
-          "wordCount": 44,
-          "title": "【特許】NFTチケットを使用した入場管理システムの特許出願のお知らせ",
-          "imageUrl": null
         }
       ]
     },
@@ -112,6 +102,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=149076",
+          "author": "Daniel Kuhn",
+          "description": "アルゴリズム型ステーブルコインはもうお終いなのだろうか？ 1ドルの価値を持つはずだったデジタル資産「TerraUSD（UST）」は先週、派手に暴落。かつては時価 ...\nアルゴリズム型ステーブルコインはまだ終わりではない【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/149076/",
+          "publishedOn": "2022-05-17T21:00:00.000Z",
+          "wordCount": 215,
+          "title": "アルゴリズム型ステーブルコインはまだ終わりではない【コラム】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/shutterstock_2041962896-scaled.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=149034",
           "author": "Michael Bellusci",
@@ -316,6 +316,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=351164",
+          "author": "菊谷ルイス",
+          "description": "米大手投資アプリのロビンフッドは17日、年内にNFT・DeFiに対応した仮想通貨ウォレットを導入することを明らかにした。",
+          "link": "https://coinpost.jp/?p=351164",
+          "publishedOn": "2022-05-17T21:05:30.000Z",
+          "wordCount": 362,
+          "title": "米ロビンフッド、Web3ウォレット提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/robinhood-wallet-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/robinhood-wallet-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=351070",
           "author": "Noah Sakamaki",

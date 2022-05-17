@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-17T20:31:21.791Z</updated>
+    <updated>2022-05-17T21:26:45.246Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ロビンフッド、Web3ウォレット提供へ]]></title>
+        <id>https://coinpost.jp/?p=351164</id>
+        <link href="https://coinpost.jp/?p=351164"/>
+        <updated>2022-05-17T21:05:30.000Z</updated>
+        <summary type="html"><![CDATA[米大手投資アプリのロビンフッドは17日、年内にNFT・DeFiに対応した仮想通貨ウォレットを導入することを明らかにした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アルゴリズム型ステーブルコインはまだ終わりではない【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=149076</id>
+        <link href="https://www.coindeskjapan.com/149076/"/>
+        <updated>2022-05-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アルゴリズム型ステーブルコインはもうお終いなのだろうか？ 1ドルの価値を持つはずだったデジタル資産「TerraUSD（UST）」は先週、派手に暴落。かつては時価 ...
+アルゴリズム型ステーブルコインはまだ終わりではない【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S&Pグローバル・レーティング、DeFi戦略グループを設立]]></title>
         <id>https://www.coindeskjapan.com/?p=149034</id>
@@ -725,16 +746,6 @@ The post 【イベントレポート】
         <summary type="html"><![CDATA[仮想通貨取引所FTXとOKXは13日、テラ（LUNA）の無期限先物の取引中止を発表した。また、LUNAのETPも価格の急変を受け取引が一時停止となっている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【特許】NFTチケットを使用した入場管理システムの特許出願のお知らせ]]></title>
-        <id>33c9bbe6fbca3c91daa0060d9abb6410</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26963df140f9368d26ce1ca0c2350d667"/>
-        <updated>2022-05-13T09:00:03.000Z</updated>
-        <summary type="html"><![CDATA[ライバーハウス株式会社のプレスリリース（2022年5月13日 18時00分） 特許 NFTチケットを使用した入場管理システムの特許出願のお知らせ]]></summary>
-        <author>
-            <name>ライバーハウス株式会社</name>
         </author>
     </entry>
 </feed>
