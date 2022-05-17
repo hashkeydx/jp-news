@@ -103,6 +103,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=149078",
+          "author": "佐藤 茂",
+          "description": "野村ホールディングス（HD）は5月17日、暗号資産（仮想通貨）トレーディングとNFT、DeFi（分散型金融）事業を手がける子会社を海外に設立する計画を発表した。 ...\n野村がDeFi・NFT・暗号資産トレード事業──海外で子会社設立へ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/149078/",
+          "publishedOn": "2022-05-17T09:28:49.000Z",
+          "wordCount": 175,
+          "title": "野村がDeFi・NFT・暗号資産トレード事業──海外で子会社設立へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2020/07/nomuraikedai.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=149036",
           "author": "Damanick Dantes",
           "description": "ビットコイン（BTC）は16日、ほぼ横ばいで推移したが、一部のアルトコインは下落し、トレーダーのリスク意欲が低下していることを示した。 テラ（Terra）ブロッ ...\n【US市場】ビットコイン、3万ドル付近で横ばい──取引高増加は上昇サインか first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -311,16 +321,6 @@
           "wordCount": 174,
           "title": "米チェイナリシスが220億円調達、評価額1兆1000億円──下落相場も懸念なし",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/KQ2IPI56VVCDLC3MEADUFECDC4-scaled.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=148569",
-          "author": "Michael J Casey",
-          "description": "かつて「グレートモデレーション（大いなる安定期）」と呼ばれる時期があった。 米連邦準備制度理事会（FRB）のポール・ボルカー元議長が、1980年代にアメリカのイ ...\nインフレが生む政治不信：ビットコインには追い風か【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/148569/",
-          "publishedOn": "2022-05-12T21:00:00.000Z",
-          "wordCount": 202,
-          "title": "インフレが生む政治不信：ビットコインには追い風か【コラム】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/shutterstock_671976487-scaled.jpg"
         }
       ]
     },
@@ -346,6 +346,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=317446",
+          "author": "S.Inosita",
+          "description": "VCからの資金流入は300億ドル海外取引所大手Coinbaseのベンチャーキャピタル部門CoinbaseVenturesは1月27日、2021年の同部門動きと、暗号資産（仮想通貨）市場を総括するレポートを公開した。レポートの冒頭では、202...",
+          "link": "https://coinpost.jp/?p=317446",
+          "publishedOn": "2022-05-17T09:14:56.000Z",
+          "wordCount": 388,
+          "title": "米Coinbase、2021年の仮想通貨総括レポートを公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_4.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_4.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=351036",
+          "author": "Noah Sakamaki",
+          "description": "英ケンブリッジ大学傘下の独立プロジェクトが定期的に公開するビットコインのハッシュレートの世界的分布の最新データを公開。約10ヶ月ぶりに中国の仮想通貨採掘シェアの実態が明らかとなった。",
+          "link": "https://coinpost.jp/?p=351036",
+          "publishedOn": "2022-05-17T09:10:32.000Z",
+          "wordCount": 396,
+          "title": "ビットコインの世界採掘シェア、中国が2位に返り咲く＝英ケンブリッジ大学",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=350574",
+          "author": "CoinPost編集部",
+          "description": "相場全体に波紋を呼んだステーブルコインUSTとテラUSD急落。ビットコイン（BTC）やイーサリアム（ETH）は21年7月以来の最安値を下回った。オンチェーン・データを基にした底値考察は。",
+          "link": "https://coinpost.jp/?p=350574",
+          "publishedOn": "2022-05-17T08:31:52.000Z",
+          "wordCount": 965,
+          "title": "ビットコイン7週連続陰線は2014年以来、オンチェーンアナリストが探る相場の底は",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/crypto-10.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/crypto-10.png"
+        },
         {
           "id": "https://coinpost.jp/?p=350938",
           "author": "AKIRA.H",
@@ -1095,21 +1140,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/microstrategy-bitcoin-converted-note.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/microstrategy-bitcoin-converted-note.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=349786",
-          "author": "菊谷ルイス",
-          "description": "最大手仮想通貨取引所バイナンスは12日、テラ（LUNA）の証拠金取引の廃止について発表を行なった。",
-          "link": "https://coinpost.jp/?p=349786",
-          "publishedOn": "2022-05-12T21:15:13.000Z",
-          "wordCount": 363,
-          "title": "バイナンス、LUNAの証拠金取引を取扱廃止",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/binance1_20191112.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/binance1_20191112.jpg"
         }
       ]
     }
