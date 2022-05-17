@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-17T22:30:59.918Z</updated>
+    <updated>2022-05-17T23:28:51.954Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラジルB3取引所、ビットコイン先物取引をローンチ計画]]></title>
+        <id>https://coinpost.jp/?p=351184</id>
+        <link href="https://coinpost.jp/?p=351184"/>
+        <updated>2022-05-17T23:02:53.000Z</updated>
+        <summary type="html"><![CDATA[ブラジルの大手証券取引所B3は、約6ヶ月以内に仮想通貨ビットコインの先物取引をローンチする計画を明かした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大手会計事務所EYとポリゴン、サプライチェーン向けソリューション（ベータ版）をローンチ]]></title>
+        <id>https://coinpost.jp/?p=351173</id>
+        <link href="https://coinpost.jp/?p=351173"/>
+        <updated>2022-05-17T22:35:44.000Z</updated>
+        <summary type="html"><![CDATA[世界四大会計事務所の1つであるEYは、サプライチェーン向けソリューション（ベータ版）のローンチを発表。仮想通貨イーサリアムのスケーリングソリューションを提供するポリゴンのプロダクトを活用する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース、流動的ステーキング「Alluvial」を支援]]></title>
         <id>https://coinpost.jp/?p=351176</id>
