@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-18T09:30:54.559Z</updated>
+    <updated>2022-05-18T10:33:22.414Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エルサルバドル大統領、新興国にビットコイン採用を促す：金融包摂同盟の年次総会]]></title>
+        <id>https://www.coindeskjapan.com/?p=149185</id>
+        <link href="https://www.coindeskjapan.com/149185/"/>
+        <updated>2022-05-18T09:55:22.000Z</updated>
+        <summary type="html"><![CDATA[金融包摂同盟（Alliance for Financial Inclusion：AFI）の年次総会のホストとして、エルサルバドルのナイブ・ブケレ（Nayib B ...
+エルサルバドル大統領、新興国にビットコイン採用を促す：金融包摂同盟の年次総会 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Andres Engler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ザ・サンドボックスと韓国ドラマ制作会社Studio Dragonが提携、NFTなど展開へ]]></title>
         <id>https://coinpost.jp/?p=351377</id>
@@ -909,26 +920,6 @@ The post 【イベントレポート】
         <summary type="html"><![CDATA[イーロン・マスク氏は、ツイッター社の買収を一時保留する意向を示した。ツイッター上のスパムや偽のアカウントの数を精査するためと説明したが、その後に買収は進めていくとも述べている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野村証券、アジアでビットコインデリバティブ提供開始]]></title>
-        <id>https://coinpost.jp/?p=350190</id>
-        <link href="https://coinpost.jp/?p=350190"/>
-        <updated>2022-05-13T22:05:45.000Z</updated>
-        <summary type="html"><![CDATA[野村証券は13日、アジアで仮想通貨ビットコインのデリバティブ取引を提供開始したことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、3通貨ペアの取扱廃止を実施へ]]></title>
-        <id>https://coinpost.jp/?p=350186</id>
-        <link href="https://coinpost.jp/?p=350186"/>
-        <updated>2022-05-13T21:42:26.000Z</updated>
-        <summary type="html"><![CDATA[世界的最大手仮想通貨取引所バイナンスは13日、3銘柄の通貨ペアの提供廃止を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
