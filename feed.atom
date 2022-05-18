@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-18T10:33:22.414Z</updated>
+    <updated>2022-05-18T11:26:56.174Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[第1四半期の純利益90％減：ビットコインマイニングのアルゴ・ブロックチェーン]]></title>
+        <id>https://www.coindeskjapan.com/?p=149204</id>
+        <link href="https://www.coindeskjapan.com/149204/"/>
+        <updated>2022-05-18T10:50:27.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）マイニングを手がけるアルゴ・ブロックチェーン（Argo Blockchain）の2022年第1四半期（1-3月期）の純利益は160万ポンド ...
+第1四半期の純利益90％減：ビットコインマイニングのアルゴ・ブロックチェーン first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エルサルバドル大統領、新興国にビットコイン採用を促す：金融包摂同盟の年次総会]]></title>
         <id>https://www.coindeskjapan.com/?p=149185</id>
@@ -899,27 +910,6 @@ The post 【イベントレポート】
         <summary type="html"><![CDATA[カナダの大手ビットコイン上場投資信託Purpose Bitcoin ETFは12日、6,900BTC以上のビットコインが流入したことが確認された。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン「テラ」の崩壊：創業者クォン氏の運命【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=148712</id>
-        <link href="https://www.coindeskjapan.com/148712/"/>
-        <updated>2022-05-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アルゴリズム型ステーブルコイン「TerraUSD（UST）」のボラティリティのバランスを取るはずとなっていたテラ（LUNA）トークンが、暴落した。一方のUSTは ...
-ステーブルコイン「テラ」の崩壊：創業者クォン氏の運命【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスク氏、ツイッター社の買収を一時保留すると表明]]></title>
-        <id>https://coinpost.jp/?p=350184</id>
-        <link href="https://coinpost.jp/?p=350184"/>
-        <updated>2022-05-13T22:35:31.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏は、ツイッター社の買収を一時保留する意向を示した。ツイッター上のスパムや偽のアカウントの数を精査するためと説明したが、その後に買収は進めていくとも述べている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
