@@ -193,6 +193,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=149289",
+          "author": "Sage D. Young",
+          "description": "Lido（リド）は、NansenとEtherscanのデータによると、最も人気のステーキングサービスで、イーサリアム2.0の先行的なプルーフ・オブ・ステーク（P ...\nイーサリアムのPoS移行は集中化を招く？──人気ステーキングサービスの懸念と希望 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/149289/",
+          "publishedOn": "2022-05-19T22:00:54.000Z",
+          "wordCount": 210,
+          "title": "イーサリアムのPoS移行は集中化を招く？──人気ステーキングサービスの懸念と希望",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/スクリーンショット-2022-05-19-18.36.47-1.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=149246",
+          "author": "David Morris",
+          "description": "致命的な欠陥を抱えたテラブロックチェーンの崩壊と、無謀なまでの尊大さによってドー・クォン（Do Kwon）氏がもたらした損害と苦痛の全貌が、少しづつ明らかになり ...\nテラの再建に反対する【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/149246/",
+          "publishedOn": "2022-05-19T21:30:05.000Z",
+          "wordCount": 299,
+          "title": "テラの再建に反対する【オピニオン】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/shutterstock_2155806605-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=149280",
           "author": "JP Koning",
           "description": "暗号資産（仮想通貨）の強気相場が終わりを迎える中、投機家や投資家たちは大挙して、法定通貨に連動する「ステーブルコイン」を清算している。この混沌の中、世界最大のス ...\n世界最大のステーブルコイン、準備金レポートを近日公開──注目すべき点 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -486,6 +506,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=351813",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所FTXの米国部門FTX USは、株やETFの取引サービス（ベータ版）をローンチ。米国に上場する何百種類もの有価証券を取り扱う。",
+          "link": "https://coinpost.jp/?p=351813",
+          "publishedOn": "2022-05-19T22:02:09.000Z",
+          "wordCount": 440,
+          "title": "米国版FTX、株やETFの取引サービス（ベータ版）をローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/ftx-new-listing-vote.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/ftx-new-listing-vote.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=351810",
+          "author": "菊谷ルイス",
+          "description": "オーストラリアの大手銀行Commonwealth Bank of Australiaは仮想通貨の売買機能を停止したことが報じられた。",
+          "link": "https://coinpost.jp/?p=351810",
+          "publishedOn": "2022-05-19T21:50:14.000Z",
+          "wordCount": 387,
+          "title": "豪州大手銀、仮想通貨売買機能を提供停止",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/australia-post-office-bitcoin-buying.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/australia-post-office-bitcoin-buying.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=351807",
           "author": "菊谷ルイス",
