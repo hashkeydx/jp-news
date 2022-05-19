@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-18T23:29:56.508Z</updated>
+    <updated>2022-05-19T02:29:37.719Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、ドイツでも仮想通貨事業ライセンスを申請]]></title>
+        <id>https://coinpost.jp/?p=351524</id>
+        <link href="https://coinpost.jp/?p=351524"/>
+        <updated>2022-05-19T02:15:09.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは、ドイツで仮想通貨事業のライセンス取得に向けて動いている。バイナンスは欧州では初めて、フランスでライセンス登録したばかり。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、FLOWの新規上場を実施]]></title>
+        <id>https://coinpost.jp/?p=351555</id>
+        <link href="https://coinpost.jp/?p=351555"/>
+        <updated>2022-05-19T02:04:25.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所コインベースは仮想通貨Flow（FLOW）の新規上場を発表。流動性が基準に達し次第、20日午前1時より取引が開始する。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[770億円のゲーム向けファンド、アンドリーセン・ホロウィッツが設立]]></title>
+        <id>https://www.coindeskjapan.com/?p=149234</id>
+        <link href="https://www.coindeskjapan.com/149234/"/>
+        <updated>2022-05-19T01:55:16.000Z</updated>
+        <summary type="html"><![CDATA[米大手VCのアンドリーセン・ホロウィッツ（Andreessen Horowitz/a16z）が、初のゲーム向けファンドを立ち上げた。ゲーム開発会社、ゲーム関連の ...
+770億円のゲーム向けファンド、アンドリーセン・ホロウィッツが設立 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Brandy Betz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaveの分散型ソーシャルメディア「Lens Protocol」、ポリゴンのメインネットにローンチ]]></title>
+        <id>https://coinpost.jp/?p=351519</id>
+        <link href="https://coinpost.jp/?p=351519"/>
+        <updated>2022-05-19T00:45:22.000Z</updated>
+        <summary type="html"><![CDATA[DeFiプロジェクトAaveの分散型ソーシャルメディア向けのプラットフォームLens Protocolは、ポリゴンのメインネットにローンチした。創設者が開発の動機を説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ビットコイン、2万9000ドル割れ──トレーダーは下落継続のリスクをヘッジ]]></title>
+        <id>https://www.coindeskjapan.com/?p=149228</id>
+        <link href="https://www.coindeskjapan.com/149228/"/>
+        <updated>2022-05-19T00:35:45.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は18日、3万654ドルの高値から3％近く下落し、ダウ平均株価の1200ドル以上の下落、ナスダックとS&P500の4％以上の下落と ...
+【US市場】ビットコイン、2万9000ドル割れ──トレーダーは下落継続のリスクをヘッジ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Damanick Dantes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、独自のシンクタンクを発足　著名大学などと調査実施へ]]></title>
+        <id>https://coinpost.jp/?p=351514</id>
+        <link href="https://coinpost.jp/?p=351514"/>
+        <updated>2022-05-18T23:54:23.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所コインベースは独自のシンクタンク「Coinbase Institute」の設立を発表。エビデンスに基づいたクリプトやWeb3.0に関する調査やデータ分析を発信していく。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨イーサリアム、Ropstenテストネットで「The Merge」実行へ]]></title>
         <id>https://coinpost.jp/?p=351506</id>
@@ -870,16 +932,6 @@ The post 【イベントレポート】
 ブロックチェーン的発想で社会を救う【オードリー・タン氏】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jeff Wilser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有名ブランド参戦　NFTとの可能性を10分で解説　CONNECTV・動画解説]]></title>
-        <id>https://coinpost.jp/?p=350316</id>
-        <link href="https://coinpost.jp/?p=350316"/>
-        <updated>2022-05-14T12:05:30.000Z</updated>
-        <summary type="html"><![CDATA[動画コンテンツ紹介今回のCONNECTVでは、DigitalEntertainmentAssetFounderCEOの山田耕三氏に、NFT×ファッションについて分かりやすく解説していただきます。動画の目次今回の動画は、以下のような構成となっ...]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
