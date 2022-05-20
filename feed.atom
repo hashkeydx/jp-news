@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-20T20:31:48.991Z</updated>
+    <updated>2022-05-20T21:28:59.618Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、Optimismネットワークに対応開始]]></title>
+        <id>https://coinpost.jp/?p=352127</id>
+        <link href="https://coinpost.jp/?p=352127"/>
+        <updated>2022-05-20T21:13:50.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨業界最大手の取引所バイナンスは20日、イーサリアムのレイヤー2のOptimism Networkからの入金に対応開始したことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米リップル社、炭素市場（カーボンマーケット）に1億ドルの投資を発表]]></title>
         <id>https://coinpost.jp/?p=352030</id>
@@ -1126,17 +1136,6 @@ The post 【イベントレポート】
 残りは313ビットコイン──8万ビットコイン以上あったUSTの準備金 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Sam Kessler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インド中央銀行、暗号資産は経済の「ドル化」を招く：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=148994</id>
-        <link href="https://www.coindeskjapan.com/148994/"/>
-        <updated>2022-05-16T08:45:50.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）は経済の「ドル化」を招く可能性があり、国の主権的利益に反する恐れがあるとインドの中央銀行であるインド準備銀行（RBI）の高官らは同国議会で述 ...
-インド中央銀行、暗号資産は経済の「ドル化」を招く：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
         </author>
     </entry>
 </feed>
