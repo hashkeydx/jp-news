@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-20T08:36:27.455Z</updated>
+    <updated>2022-05-20T09:31:18.569Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「運動で仮想通貨を獲得してみたい人は8割以上」フィットネス情報サイトFitRated調査]]></title>
+        <id>https://coinpost.jp/?p=351898</id>
+        <link href="https://coinpost.jp/?p=351898"/>
+        <updated>2022-05-20T08:55:40.000Z</updated>
+        <summary type="html"><![CDATA[フィットネス関連サイトFitRatedは、1,001人のアメリカ人を対象に行った調査結果を発表した。仮想通貨やメタバースを「フィットネス目線」でどのように捉えているかを調べるのが目的だ。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テザー、コマーシャルペーパーの保有額を17％削減──1Qの準備金レポート発表]]></title>
         <id>https://www.coindeskjapan.com/?p=149396</id>
@@ -1229,28 +1239,6 @@ The post 【イベントレポート】
         <summary type="html"><![CDATA[メディアエクイティ株式会社のプレスリリース（2022年5月16日 09時10分）HEXAメタバース・ゲートウェイα版リリース！HEXA住民票NFT保有者は自分の家が持てる。無償でもらえる住民票NFTは5/16（月）23:59まで]]></summary>
         <author>
             <name>メディアエクイティ株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テラ崩壊から考えるWeb3移行の課題とリスク【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=148878</id>
-        <link href="https://www.coindeskjapan.com/148878/"/>
-        <updated>2022-05-15T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[価格発見のプロセスが続き、ビットコイン（BTC）をはじめとする暗号資産（仮想通貨）のトレーダーたちが、市場がどこで底を打つのかを見極めようとする中、なぜ暗号資産 ...
-テラ崩壊から考えるWeb3移行の課題とリスク【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原宿のシェアハウスで出会いソラナで起業したDEX：Web2から学ぶWeb3決済]]></title>
-        <id>https://www.coindeskjapan.com/?p=148128</id>
-        <link href="https://www.coindeskjapan.com/148128/"/>
-        <updated>2022-05-15T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Orca（オルカ）は、東京・原宿のシェアハウスで出会った2人のプログラマーが共同で開発した分散型暗号資産取引所（DEX＝Decentralized Exchan ...
-原宿のシェアハウスで出会いソラナで起業したDEX：Web2から学ぶWeb3決済 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>佐藤 茂</name>
         </author>
     </entry>
 </feed>
