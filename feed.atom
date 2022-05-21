@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-21T01:50:01.453Z</updated>
+    <updated>2022-05-21T03:00:16.419Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーン分析企業Elliptic、無担保型ステーブルコインについて見解]]></title>
+        <id>https://coinpost.jp/?p=352165</id>
+        <link href="https://coinpost.jp/?p=352165"/>
+        <updated>2022-05-21T01:55:14.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析企業Ellipticは、ステーブルコインUSTのディペッグ騒動に関する見解を披露。規制当局の間で規制を巡る議論が過熱するだろうと意見した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BAYCの差し止め命令、大手NFT市場OpenSeaが対応か]]></title>
         <id>https://coinpost.jp/?p=352161</id>
@@ -1187,17 +1197,6 @@ The post 【イベントレポート】
 テラ崩壊：サトシ・ナカモトのミッションの行く末は？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Nathan Thompson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[残りは313ビットコイン──8万ビットコイン以上あったUSTの準備金]]></title>
-        <id>https://www.coindeskjapan.com/?p=149005</id>
-        <link href="https://www.coindeskjapan.com/149005/"/>
-        <updated>2022-05-16T13:55:31.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン「TerraUSD（UST）」の準備金としてビットコインを購入していたLuna Foundation Guard（LFG）は16日に声明を発表、 ...
-残りは313ビットコイン──8万ビットコイン以上あったUSTの準備金 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Sam Kessler</name>
         </author>
     </entry>
 </feed>
