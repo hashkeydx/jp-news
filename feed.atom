@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-21T11:26:03.572Z</updated>
+    <updated>2022-05-21T12:49:34.661Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【実演あり】DEXの使用方法とappoveの管理について　Uniswap操作しながら解説する]]></title>
+        <id>https://coinpost.jp/?p=350992</id>
+        <link href="https://coinpost.jp/?p=350992"/>
+        <updated>2022-05-21T12:05:58.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、Kyber Network Japan Manager堀次泰介（hory）氏をお招きして、Uniswapを操作しながら、DEXの使用方法ついて分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新イーサリアムへのアップグレード、背景や改善点を解説]]></title>
         <id>https://coinpost.jp/?p=351925</id>
@@ -1101,37 +1111,6 @@ UST崩壊、次の懸念は“NFT”：モルガン・スタンレー first appe
         <summary type="html"><![CDATA[Terraform LabsのDo Kwon共同創設者は、仮想通貨テラ（LUNA）の復興プラン2を発表。アルゴリズム型ステーブルコインなしでチェーンをフォークすると提案している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産ファンド、年初来最大の資金流入──テラ崩壊による市場下落をチャンスと捉える動き]]></title>
-        <id>https://www.coindeskjapan.com/?p=149038</id>
-        <link href="https://www.coindeskjapan.com/149038/"/>
-        <updated>2022-05-17T00:45:48.000Z</updated>
-        <summary type="html"><![CDATA[先週、暗号資産（仮想通貨）ファンドは、投資家がTerra（テラ）崩壊による市場パニックに買いを入れたことで、2021年後半以降、最高の資金流入となった。 暗号資 ...
-暗号資産ファンド、年初来最大の資金流入──テラ崩壊による市場下落をチャンスと捉える動き first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨投資アプリVoyager Digital、77億円調達]]></title>
-        <id>https://coinpost.jp/?p=350884</id>
-        <link href="https://coinpost.jp/?p=350884"/>
-        <updated>2022-05-17T00:20:53.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨取引プラットフォームVoyager Digitalは16日、プライベートラウンドで77億円を調達したことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本円ステーブルコインJPYWとネット上のVisa加盟店で使える「Vプリカギフト」の交換を開始します]]></title>
-        <id>b3406bff0283a06bd0149c81e080fb20</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26d63df140f9369dd6de4c60c2350d667"/>
-        <updated>2022-05-17T00:00:03.000Z</updated>
-        <summary type="html"><![CDATA[PassPay株式会社のプレスリリース（2022年5月17日 09時00分）日本円ステーブルコインJPYWとネット上のVisa加盟店で使える[Vプリカギフト]の交換を開始します]]></summary>
-        <author>
-            <name>PassPay株式会社</name>
         </author>
     </entry>
 </feed>
