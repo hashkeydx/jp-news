@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-22T22:29:35.308Z</updated>
+    <updated>2022-05-22T23:29:52.156Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米製薬会社元CEOマーティン・シュクレリ、「獄中でUniswap（UNI）利用を開始」]]></title>
+        <id>https://coinpost.jp/?p=352396</id>
+        <link href="https://coinpost.jp/?p=352396"/>
+        <updated>2022-05-22T23:15:46.000Z</updated>
+        <summary type="html"><![CDATA[証券法違反で懲役7年の判決を受けていた米製薬会社「チューリング・ファーマシューティカルズ」のマーティン・シュクレリ元CEOが獄中で大手DEXのUniswap（UNI）利用を開始したとコメント。悪名高い投資家がDeFiに関心を示した。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産で台無しにしかけた人生：【元依存症患者インタビュー】]]></title>
         <id>https://www.coindeskjapan.com/?p=149354</id>
@@ -755,17 +765,6 @@
 アンドリーセン・ホロウィッツの暗号資産レポートを読み解く first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第1四半期の純利益90％減：ビットコインマイニングのアルゴ・ブロックチェーン]]></title>
-        <id>https://www.coindeskjapan.com/?p=149204</id>
-        <link href="https://www.coindeskjapan.com/149204/"/>
-        <updated>2022-05-18T10:50:27.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）マイニングを手がけるアルゴ・ブロックチェーン（Argo Blockchain）の2022年第1四半期（1-3月期）の純利益は160万ポンド ...
-第1四半期の純利益90％減：ビットコインマイニングのアルゴ・ブロックチェーン first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
         </author>
     </entry>
 </feed>
