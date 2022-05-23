@@ -123,6 +123,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=149518",
+          "author": "菊池友信",
+          "description": "暗号資産（仮想通貨）取引所を運営するbitFlyerは5月23日、利用額に応じてビットコイン（BTC）が貯まる専用クレジットカード「bitFlyerクレカ」のキ ...\nbitFlyer、クレジットカードでキャンペーン──利用額の10％を還元 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/149518/",
+          "publishedOn": "2022-05-23T12:54:59.000Z",
+          "wordCount": 195,
+          "title": "bitFlyer、クレジットカードでキャンペーン──利用額の10％を還元",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/bitflyercreditcard0523.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=149591",
           "author": "Jamie Crawley",
           "description": "仏銀大手のBNPパリバは、米銀大手JPモルガン・チェーンが開発したプライベートブロックチェーンネットワークを使って、レポ取引（国債を担保に資金を調達する取引）を ...\nBNPパリバ、レポ取引にJPモルガンのブロックチェーン使用：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -331,16 +341,6 @@
           "wordCount": 174,
           "title": "770億円のゲーム向けファンド、アンドリーセン・ホロウィッツが設立",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/ZKO2ZUSY35BAHCO5EE77X5TCYE.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=149228",
-          "author": "Damanick Dantes",
-          "description": "ビットコイン（BTC）は18日、3万654ドルの高値から3％近く下落し、ダウ平均株価の1200ドル以上の下落、ナスダックとS&P500の4％以上の下落と ...\n【US市場】ビットコイン、2万9000ドル割れ──トレーダーは下落継続のリスクをヘッジ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/149228/",
-          "publishedOn": "2022-05-19T00:35:45.000Z",
-          "wordCount": 238,
-          "title": "【US市場】ビットコイン、2万9000ドル割れ──トレーダーは下落継続のリスクをヘッジ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/3BV4WGPQPZG37A3UCHDPZGRFFI.jpeg"
         }
       ]
     },
@@ -1044,36 +1044,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_4.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_4.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=351519",
-          "author": "K.Kobayashi",
-          "description": "DeFiプロジェクトAaveの分散型ソーシャルメディア向けのプラットフォームLens Protocolは、ポリゴンのメインネットにローンチした。創設者が開発の動機を説明している。",
-          "link": "https://coinpost.jp/?p=351519",
-          "publishedOn": "2022-05-19T00:45:22.000Z",
-          "wordCount": 450,
-          "title": "Aaveの分散型ソーシャルメディア「Lens Protocol」、ポリゴンのメインネットにローンチ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/aave_20210630_1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/aave_20210630_1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=351514",
-          "author": "Noah Sakamaki",
-          "description": "大手仮想通貨取引所コインベースは独自のシンクタンク「Coinbase Institute」の設立を発表。エビデンスに基づいたクリプトやWeb3.0に関する調査やデータ分析を発信していく。",
-          "link": "https://coinpost.jp/?p=351514",
-          "publishedOn": "2022-05-18T23:54:23.000Z",
-          "wordCount": 381,
-          "title": "米コインベース、独自のシンクタンクを発足　著名大学などと調査実施へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/coinbase_institute.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/coinbase_institute.png"
         }
       ]
     }

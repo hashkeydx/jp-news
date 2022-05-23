@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-23T11:27:41.767Z</updated>
+    <updated>2022-05-23T12:55:56.332Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[bitFlyer、クレジットカードでキャンペーン──利用額の10％を還元]]></title>
+        <id>https://www.coindeskjapan.com/?p=149518</id>
+        <link href="https://www.coindeskjapan.com/149518/"/>
+        <updated>2022-05-23T12:54:59.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所を運営するbitFlyerは5月23日、利用額に応じてビットコイン（BTC）が貯まる専用クレジットカード「bitFlyerクレカ」のキ ...
+bitFlyer、クレジットカードでキャンペーン──利用額の10％を還元 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>菊池友信</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNPパリバ、レポ取引にJPモルガンのブロックチェーン使用：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=149591</id>
@@ -805,37 +816,6 @@ BNPパリバ、レポ取引にJPモルガンのブロックチェーン使用：
         <summary type="html"><![CDATA[株式会社アトノイのプレスリリース（2022年5月19日 10時00分） ブロックチェーン あらゆるモノやコトが個人へ帰属するWEB3.0型トークンエコノミーのソリューションサービスを開始]]></summary>
         <author>
             <name>株式会社アトノイ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaveの分散型ソーシャルメディア「Lens Protocol」、ポリゴンのメインネットにローンチ]]></title>
-        <id>https://coinpost.jp/?p=351519</id>
-        <link href="https://coinpost.jp/?p=351519"/>
-        <updated>2022-05-19T00:45:22.000Z</updated>
-        <summary type="html"><![CDATA[DeFiプロジェクトAaveの分散型ソーシャルメディア向けのプラットフォームLens Protocolは、ポリゴンのメインネットにローンチした。創設者が開発の動機を説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【US市場】ビットコイン、2万9000ドル割れ──トレーダーは下落継続のリスクをヘッジ]]></title>
-        <id>https://www.coindeskjapan.com/?p=149228</id>
-        <link href="https://www.coindeskjapan.com/149228/"/>
-        <updated>2022-05-19T00:35:45.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は18日、3万654ドルの高値から3％近く下落し、ダウ平均株価の1200ドル以上の下落、ナスダックとS&P500の4％以上の下落と ...
-【US市場】ビットコイン、2万9000ドル割れ──トレーダーは下落継続のリスクをヘッジ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Damanick Dantes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、独自のシンクタンクを発足　著名大学などと調査実施へ]]></title>
-        <id>https://coinpost.jp/?p=351514</id>
-        <link href="https://coinpost.jp/?p=351514"/>
-        <updated>2022-05-18T23:54:23.000Z</updated>
-        <summary type="html"><![CDATA[大手仮想通貨取引所コインベースは独自のシンクタンク「Coinbase Institute」の設立を発表。エビデンスに基づいたクリプトやWeb3.0に関する調査やデータ分析を発信していく。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
