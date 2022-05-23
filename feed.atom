@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-23T10:34:31.169Z</updated>
+    <updated>2022-05-23T11:27:41.767Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BNPパリバ、レポ取引にJPモルガンのブロックチェーン使用：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=149591</id>
+        <link href="https://www.coindeskjapan.com/149591/"/>
+        <updated>2022-05-23T10:40:35.000Z</updated>
+        <summary type="html"><![CDATA[仏銀大手のBNPパリバは、米銀大手JPモルガン・チェーンが開発したプライベートブロックチェーンネットワークを使って、レポ取引（国債を担保に資金を調達する取引）を ...
+BNPパリバ、レポ取引にJPモルガンのブロックチェーン使用：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタバース関連企業SynamonがAstar Networkと提携、NFT領域で協業へ]]></title>
         <id>https://coinpost.jp/?p=352539</id>
@@ -825,16 +836,6 @@
         <summary type="html"><![CDATA[大手仮想通貨取引所コインベースは独自のシンクタンク「Coinbase Institute」の設立を発表。エビデンスに基づいたクリプトやWeb3.0に関する調査やデータ分析を発信していく。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨イーサリアム、Ropstenテストネットで「The Merge」実行へ]]></title>
-        <id>https://coinpost.jp/?p=351506</id>
-        <link href="https://coinpost.jp/?p=351506"/>
-        <updated>2022-05-18T22:41:10.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムは6月8日、パブリックテストネットRopstenでThe Mergeを実行する。これに合わせ、EthHubの共同創設者はメインネットでの実装時期を予想した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
