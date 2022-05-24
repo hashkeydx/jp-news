@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-24T20:33:04.244Z</updated>
+    <updated>2022-05-24T21:28:50.428Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大手DEXユニスワップ、累計出来高が1兆ドル超え]]></title>
+        <id>https://coinpost.jp/?p=353031</id>
+        <link href="https://coinpost.jp/?p=353031"/>
+        <updated>2022-05-24T21:18:08.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨分散型取引所ユニスワップ（Uniswap）は24日、これまでの出来高が1兆ドルというマイルストーンを超えた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタバースの中核を担うのはゲームだ【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=149653</id>
+        <link href="https://www.coindeskjapan.com/149653/"/>
+        <updated>2022-05-24T21:00:50.000Z</updated>
+        <summary type="html"><![CDATA[作家アーネスト・クラインは小説『ゲームウォーズ（原題：Ready Player One）』の中で、社会、経済、政治的対立によってボロボロとなった現実からの逃避の ...
+メタバースの中核を担うのはゲームだ【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Janine Yorio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ダボス会議、暗号資産はもはやアウトサイダーではない：現地レポート]]></title>
         <id>https://www.coindeskjapan.com/?p=149763</id>
@@ -777,16 +798,6 @@ BNPパリバ、レポ取引にJPモルガンのブロックチェーン使用：
         <summary type="html"><![CDATA[オーケーコイン・ジャパン株式会社のプレスリリース（2022年5月20日 18時52分） 暗号資産取引所のOKCoinJapan iOS・Androidアプリリリース予定のお知らせ]]></summary>
         <author>
             <name>オーケーコイン・ジャパン株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「運動で仮想通貨を獲得してみたい人は8割以上」フィットネス情報サイトFitRated調査]]></title>
-        <id>https://coinpost.jp/?p=351898</id>
-        <link href="https://coinpost.jp/?p=351898"/>
-        <updated>2022-05-20T08:55:40.000Z</updated>
-        <summary type="html"><![CDATA[フィットネス関連サイトFitRatedは、1,001人のアメリカ人を対象に行った調査結果を発表した。仮想通貨やメタバースを「フィットネス目線」でどのように捉えているかを調べるのが目的だ。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>
