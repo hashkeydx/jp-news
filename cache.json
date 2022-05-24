@@ -124,16 +124,6 @@
           "wordCount": 44,
           "title": "渋谷駅構内に日本初の参加型NFT広告が掲載開始されます！",
           "imageUrl": null
-        },
-        {
-          "id": "911e5b4ab89390e273a3d488ec7e145b",
-          "author": "オーケーコイン・ジャパン株式会社",
-          "description": "オーケーコイン・ジャパン株式会社のプレスリリース（2022年5月20日 18時52分） 暗号資産取引所のOKCoinJapan iOS・Androidアプリリリース予定のお知らせ",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a16f63df140f9365d16ae3cb0c2350d667",
-          "publishedOn": "2022-05-20T09:52:32.000Z",
-          "wordCount": 44,
-          "title": "【暗号資産取引所のOKCoinJapan】iOS・Androidアプリリリース予定のお知らせ",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=149717",
+          "author": "Fran Velasquez",
+          "description": "分散型ステーブルコインのある創業者は、テラの破綻は、担保されていないアルゴリズム型ステーブルコインに内在するリスクに気づいていなかった人たちに対する警鐘だと考え ...\nメイカーダオ創設者、テラの破綻について語る first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/149717/",
+          "publishedOn": "2022-05-24T21:30:43.000Z",
+          "wordCount": 190,
+          "title": "メイカーダオ創設者、テラの破綻について語る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/AOB4CYHQOJFC7AKBAM2EMDJHI4.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=149653",
           "author": "Janine Yorio",
@@ -395,6 +395,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=353033",
+          "author": "K.Kobayashi",
+          "description": "米仮想通貨取引所コインベースは、フォーチュン誌の企業番付「フォーチュン500」に、仮想通貨企業として初めてランクインした。2021年の収益に基づいて企業がランク付けされている。",
+          "link": "https://coinpost.jp/?p=353033",
+          "publishedOn": "2022-05-24T22:08:06.000Z",
+          "wordCount": 376,
+          "title": "仮想通貨企業初、米コインベースが「フォーチュン500」にランクイン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/coinbase_0522.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/coinbase_0522.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=353036",
+          "author": "菊谷ルイス",
+          "description": "米大手金融機関フィデリティが運用するビットコイン指数ファンド「Wise Origin Bitcoin Index Fund」はローンチから約2年で約160億円を調達。ファンドの伸び悩みが続く。",
+          "link": "https://coinpost.jp/?p=353036",
+          "publishedOn": "2022-05-24T22:02:19.000Z",
+          "wordCount": 357,
+          "title": "伸び悩む米フィデリティのビットコインファンド、約2年で160億円弱を調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/fidelity-expanding-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/fidelity-expanding-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=353031",
           "author": "菊谷ルイス",
@@ -979,21 +1009,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/binance_20210913_kk2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/binance_20210913_kk2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=352030",
-          "author": "S.Inosita",
-          "description": "米リップル社は、環境問題対策を念頭に炭素市場（カーボンマーケット）へ1億ドルの投資方針を発表した。炭素除去企業や気候変動対策に取り組むフィンテックへの出資などが行われる。",
-          "link": "https://coinpost.jp/?p=352030",
-          "publishedOn": "2022-05-20T09:55:41.000Z",
-          "wordCount": 382,
-          "title": "米リップル社、炭素市場（カーボンマーケット）に1億ドルの投資を発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_2.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_2.jpg"
         }
       ]
     }

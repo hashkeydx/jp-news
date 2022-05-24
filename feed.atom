@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-24T21:28:50.428Z</updated>
+    <updated>2022-05-24T22:30:46.417Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨企業初、米コインベースが「フォーチュン500」にランクイン]]></title>
+        <id>https://coinpost.jp/?p=353033</id>
+        <link href="https://coinpost.jp/?p=353033"/>
+        <updated>2022-05-24T22:08:06.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所コインベースは、フォーチュン誌の企業番付「フォーチュン500」に、仮想通貨企業として初めてランクインした。2021年の収益に基づいて企業がランク付けされている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伸び悩む米フィデリティのビットコインファンド、約2年で160億円弱を調達]]></title>
+        <id>https://coinpost.jp/?p=353036</id>
+        <link href="https://coinpost.jp/?p=353036"/>
+        <updated>2022-05-24T22:02:19.000Z</updated>
+        <summary type="html"><![CDATA[米大手金融機関フィデリティが運用するビットコイン指数ファンド「Wise Origin Bitcoin Index Fund」はローンチから約2年で約160億円を調達。ファンドの伸び悩みが続く。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メイカーダオ創設者、テラの破綻について語る]]></title>
+        <id>https://www.coindeskjapan.com/?p=149717</id>
+        <link href="https://www.coindeskjapan.com/149717/"/>
+        <updated>2022-05-24T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[分散型ステーブルコインのある創業者は、テラの破綻は、担保されていないアルゴリズム型ステーブルコインに内在するリスクに気づいていなかった人たちに対する警鐘だと考え ...
+メイカーダオ創設者、テラの破綻について語る first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Fran Velasquez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大手DEXユニスワップ、累計出来高が1兆ドル超え]]></title>
         <id>https://coinpost.jp/?p=353031</id>
@@ -778,26 +809,6 @@ BNPパリバ、レポ取引にJPモルガンのブロックチェーン使用：
         <summary type="html"><![CDATA[仮想通貨業界最大手の取引所バイナンスは20日、イーサリアムのレイヤー2のOptimism Networkからの入金に対応開始したことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米リップル社、炭素市場（カーボンマーケット）に1億ドルの投資を発表]]></title>
-        <id>https://coinpost.jp/?p=352030</id>
-        <link href="https://coinpost.jp/?p=352030"/>
-        <updated>2022-05-20T09:55:41.000Z</updated>
-        <summary type="html"><![CDATA[米リップル社は、環境問題対策を念頭に炭素市場（カーボンマーケット）へ1億ドルの投資方針を発表した。炭素除去企業や気候変動対策に取り組むフィンテックへの出資などが行われる。]]></summary>
-        <author>
-            <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【暗号資産取引所のOKCoinJapan】iOS・Androidアプリリリース予定のお知らせ]]></title>
-        <id>911e5b4ab89390e273a3d488ec7e145b</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a16f63df140f9365d16ae3cb0c2350d667"/>
-        <updated>2022-05-20T09:52:32.000Z</updated>
-        <summary type="html"><![CDATA[オーケーコイン・ジャパン株式会社のプレスリリース（2022年5月20日 18時52分） 暗号資産取引所のOKCoinJapan iOS・Androidアプリリリース予定のお知らせ]]></summary>
-        <author>
-            <name>オーケーコイン・ジャパン株式会社</name>
         </author>
     </entry>
 </feed>
