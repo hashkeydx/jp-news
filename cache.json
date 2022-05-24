@@ -124,16 +124,6 @@
           "wordCount": 44,
           "title": "ブロックチェーン　カテゴリ別資金調達動向レポート",
           "imageUrl": null
-        },
-        {
-          "id": "a024678bc7778293cdc7f9215a9bdae7",
-          "author": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
-          "description": "PR TIMESで配信された株式会社デジタルホールディングスのプレスリリース一覧です（最新配信日：2022年5月19日 15時01分）。株式会社デジタルホールディングス",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca69e5ca1673",
-          "publishedOn": "2022-05-19T18:44:31.626Z",
-          "wordCount": 44,
-          "title": "株式会社デジタルホールディングスのプレスリリース｜PR TIMES",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=149507",
+          "author": "菊池友信",
+          "description": "暗号資産（仮想通貨）取引所のbitbankを運営するビットバンクは5月24日、三井住友トラスト・ホールディングスと提携したと発表した。年内にも、デジタル資産の信 ...\nビットバンク、三井住友THと提携──暗号資産の信託業務で新会社 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/149507/",
+          "publishedOn": "2022-05-24T06:59:18.000Z",
+          "wordCount": 191,
+          "title": "ビットバンク、三井住友THと提携──暗号資産の信託業務で新会社",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/JADATeyecatch.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=149633",
           "author": "Danny Nelson",
@@ -435,6 +435,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=352451",
+          "author": "S.Inosita",
+          "description": "ビンテージNFTの情報収集を行い、ブロックチェーン領域の歴史保存を目的としたRare Japanese NFTsがリニューアルした。日本作品の解説やアーティストの連絡先といった情報を提供する。",
+          "link": "https://coinpost.jp/?p=352451",
+          "publishedOn": "2022-05-24T06:40:14.000Z",
+          "wordCount": 399,
+          "title": "国内発ビンテージNFTの記録を残す、「Rare Japanese NFTs」がリニューアル",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/NFT1202211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/NFT1202211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=352831",
           "author": "AKIRA.H",
