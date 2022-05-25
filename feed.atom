@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-25T02:25:49.346Z</updated>
+    <updated>2022-05-25T03:55:50.920Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[決済サービス米Stripe社、ビットコイン決済対応を再開へ]]></title>
+        <id>https://coinpost.jp/?p=353102</id>
+        <link href="https://coinpost.jp/?p=353102"/>
+        <updated>2022-05-25T03:45:23.000Z</updated>
+        <summary type="html"><![CDATA[決済サービスを提供する米Stripe社は、仮想通貨ビットコイン（BTC）決済を再開することを発表した。OpenNodeと提携する形で行われ送金にはライトニングネットワークが使用される。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内取引所DMM Bitcoin、トロン（TRX）の現物取引など取り扱い開始]]></title>
+        <id>https://coinpost.jp/?p=353121</id>
+        <link href="https://coinpost.jp/?p=353121"/>
+        <updated>2022-05-25T03:32:04.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所DMM Bitcoinはトロン（TRX）の取り扱い開始を発表。合わせて3銘柄のレバレッジ取引も提供していく方針だ。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狭いレンジ内で方向感を欠くビットコイン、Bybit x NansenがNFT市場など市況分析]]></title>
+        <id>https://coinpost.jp/?p=353066</id>
+        <link href="https://coinpost.jp/?p=353066"/>
+        <updated>2022-05-25T03:18:33.000Z</updated>
+        <summary type="html"><![CDATA[史上初となる8週連続の下落となったビットコインは引き続き狭いレンジ内を推移する。暗号資産（仮想通貨）市場を取り巻く環境について、Bybit x Nansenが市況レポートを掲載した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ビットコイン、年平均成長率も下落傾向]]></title>
+        <id>https://www.coindeskjapan.com/?p=149812</id>
+        <link href="https://www.coindeskjapan.com/149812/"/>
+        <updated>2022-05-25T02:35:06.000Z</updated>
+        <summary type="html"><![CDATA[トレーダーのセンチメントは依然として弱気で、ビットコイン（BTC）は24日も下落した。 ビットコインの「Fear & Greed Index」はこの1カ ...
+【US市場】ビットコイン、年平均成長率も下落傾向 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Damanick Dantes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Optimism」、エアドロップ不正利用のアドレスを調査]]></title>
+        <id>https://coinpost.jp/?p=353074</id>
+        <link href="https://coinpost.jp/?p=353074"/>
+        <updated>2022-05-25T02:20:45.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2ソリューションOptimismは、エアドロップを不正利用しようとしている疑いのあるアドレスを調査し、配布対象リストから削除した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国金融当局、USTディペッグ騒動への対応方針明かす]]></title>
         <id>https://coinpost.jp/?p=353052</id>
