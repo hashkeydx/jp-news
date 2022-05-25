@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-25T08:37:04.649Z</updated>
+    <updated>2022-05-25T09:30:39.533Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、8000ドルまで下落と予想──グッゲンハイムCIOの発言を振り返る]]></title>
+        <id>https://www.coindeskjapan.com/?p=149906</id>
+        <link href="https://www.coindeskjapan.com/149906/"/>
+        <updated>2022-05-25T09:30:03.000Z</updated>
+        <summary type="html"><![CDATA[米投資会社グッゲンハイム・インベストメンツ（Guggenheim Investments）の最高投資責任者（CIO）スコット・マイナード（Scott Miner ...
+ビットコイン、8000ドルまで下落と予想──グッゲンハイムCIOの発言を振り返る first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Bradley Keoun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三井物産、ビットコインマイニング企業の第三者割当増資を引き受け]]></title>
+        <id>https://coinpost.jp/?p=353204</id>
+        <link href="https://coinpost.jp/?p=353204"/>
+        <updated>2022-05-25T08:51:43.000Z</updated>
+        <summary type="html"><![CDATA[三井物産は、仮想通貨ビットコイン（BTC）マイニングなどを行うCrusoe Energy Systemsの第三者割当増資を引き受けたことを発表。戦略パートナーとして、海外展開などで協業を進める。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの回復はマラソン：米ヴァルキリーのトップアナリスト]]></title>
         <id>https://www.coindeskjapan.com/?p=149810</id>
@@ -974,16 +995,6 @@ BNPパリバ、レポ取引にJPモルガンのブロックチェーン使用：
 暗号資産、他の金融システムと同じ基準を適用すべき：G7財務相・中央銀行総裁会議 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jack Schickler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、Optimismネットワークに対応開始]]></title>
-        <id>https://coinpost.jp/?p=352127</id>
-        <link href="https://coinpost.jp/?p=352127"/>
-        <updated>2022-05-20T21:13:50.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨業界最大手の取引所バイナンスは20日、イーサリアムのレイヤー2のOptimism Networkからの入金に対応開始したことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
