@@ -213,6 +213,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=150066",
+          "author": "Damanick Dantes",
+          "description": "暗号資産（仮想通貨）市場は26日、概ね下落。株式の上昇からは一時的に切り離された。 ビットコイン（BTC）は3万ドル割れで推移し、1週間で2％下落している。この ...\n【US市場】ビットコインのドミナンス、上昇──イーサリアムは低迷 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/150066/",
+          "publishedOn": "2022-05-27T00:25:16.000Z",
+          "wordCount": 281,
+          "title": "【US市場】ビットコインのドミナンス、上昇──イーサリアムは低迷",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/KWGKYQPN7REPZLPDL2MITIJ5VU-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=150064",
           "author": "Cameron Thompson",
           "description": "ソラナ（Solana）ブロックチェーンを基盤とした「move-to-earn（歩いて稼ぐ）ゲーム「STEPN」は5月26日、中国でのプレーを7月中旬に事実上禁止 ...\nSTEPN、中国でのプレー禁止へ──トークンは30％超下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -585,6 +595,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=353752",
+          "author": "AKIRA.H",
+          "description": "旧テラ・コミュニティのガバナンス投票により、13億のUSTをバーンすることが決定。",
+          "link": "https://coinpost.jp/?p=353752",
+          "publishedOn": "2022-05-27T02:05:22.000Z",
+          "wordCount": 358,
+          "title": "テラ、13億USTをバーン　復興プランの一部",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/ust_terra1-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/ust_terra1-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=353730",
+          "author": "K.Kobayashi",
+          "description": "イーロン・マスク氏は、ツイッター社買収のための資金調達方法を変更。新株発行調達分を合計4兆円まで増額した。",
+          "link": "https://coinpost.jp/?p=353730",
+          "publishedOn": "2022-05-27T01:15:54.000Z",
+          "wordCount": 354,
+          "title": "イーロン・マスク氏、ツイッター買収資金を増額",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/twitter_elon_musk_buy1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/twitter_elon_musk_buy1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=353726",
+          "author": "A.Yamada",
+          "description": "大手仮想通貨取引所バイナンスはバーレーンでビットコインなど仮想通貨を扱うサービス事業者として、より幅広いライセンスを取得したことを発表した。",
+          "link": "https://coinpost.jp/?p=353726",
+          "publishedOn": "2022-05-26T23:55:30.000Z",
+          "wordCount": 402,
+          "title": "バイナンス、中東バーレーンで事業ライセンスを拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/binance0701211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/binance0701211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=353724",
+          "author": "菊谷ルイス",
+          "description": "ステーブルコインを発行するテザー社は26日、メキシコペソにペッグするステーブルコインMXNTをローンチすることを発表した。",
+          "link": "https://coinpost.jp/?p=353724",
+          "publishedOn": "2022-05-26T23:35:35.000Z",
+          "wordCount": 351,
+          "title": "テザー、メキシコペソのステーブルコインをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/12/Mexico-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/12/Mexico-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=353720",
           "author": "菊谷ルイス",
@@ -1499,21 +1569,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/uniswap1109211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/uniswap1109211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=352320",
-          "author": "CONNECTV 編集部",
-          "description": "今夜のクリプトBARには、ホワイトッハッカーでもある、株式会社CauchyE代表 CEO 木村優氏が来店。クリプトBAR第11夜開店。",
-          "link": "https://coinpost.jp/?p=352320",
-          "publishedOn": "2022-05-22T12:05:12.000Z",
-          "wordCount": 377,
-          "title": "クリプトBAR第12夜　DAOの普及は確定した未来　株式会社CauchyE代表 CEO 木村優氏来店【CONNECTV】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/a-e1653211975138.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/a-e1653211975138.jpg"
         }
       ]
     }
