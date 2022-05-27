@@ -213,6 +213,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=150068",
+          "author": "Fran Velasquez",
+          "description": "アメリカで利上げが行われるなか、資産クラスは広く売り圧力を受けており、暗号資産（仮想通貨）も例外ではない。 さらに、ステーブルコインTerraUSD（UST）の ...\n「ビットコインはまもなく足元を固める」グレイスケールCEO first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/150068/",
+          "publishedOn": "2022-05-27T02:45:08.000Z",
+          "wordCount": 183,
+          "title": "「ビットコインはまもなく足元を固める」グレイスケールCEO",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/shutterstock_2099868400.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=150066",
           "author": "Damanick Dantes",
           "description": "暗号資産（仮想通貨）市場は26日、概ね下落。株式の上昇からは一時的に切り離された。 ビットコイン（BTC）は3万ドル割れで推移し、1週間で2％下落している。この ...\n【US市場】ビットコインのドミナンス、上昇──イーサリアムは低迷 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -595,6 +605,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=353757",
+          "author": "S.Ninomiya",
+          "description": "仮想通貨市況26日の米株式市場では、ダウ平均株価が前日比516.91ドル（1.6%）高、ナスダック指数が前日比305.91ドル（2.6%）高と続伸した。売られ過ぎ水準にあったことに加え、当日の決算では米景気の底堅さも確認され、小売り企業の業...",
+          "link": "https://coinpost.jp/?p=353757",
+          "publishedOn": "2022-05-27T03:21:00.000Z",
+          "wordCount": 398,
+          "title": "イーサリアム急落で1700ドルの節目迎える、BTC.Dにアルト市場からの資金抜けシグナルも",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ethereumbtc1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ethereumbtc1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=353804",
+          "author": "AKIRA.H",
+          "description": "大手暗号資産（仮想通貨）取引所バイナンスの元幹部らが、運用資産約130億円（1億ドル）のブロックチェーン関連投資会社を設立したことがわかった。",
+          "link": "https://coinpost.jp/?p=353804",
+          "publishedOn": "2022-05-27T03:02:19.000Z",
+          "wordCount": 372,
+          "title": "バイナンス投資部門の元幹部、130億円規模の投資ファンドを設立",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=353788",
+          "author": "S.Inosita",
+          "description": "米国タイム誌は、22年の「世界で最も影響力のある100人」の1人として、大手仮想通貨取引所FTXのサム・バンクマン・フリードCEOを選出した。",
+          "link": "https://coinpost.jp/?p=353788",
+          "publishedOn": "2022-05-27T02:40:40.000Z",
+          "wordCount": 362,
+          "title": "米TIMES誌、FTXのサムCEOを「影響力ある100人」に選出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=353773",
+          "author": "A.Yamada",
+          "description": "タイ政府はビットコインなど仮想通貨の送金へかかる付加価値税を免除する措置を施行した。",
+          "link": "https://coinpost.jp/?p=353773",
+          "publishedOn": "2022-05-27T02:32:37.000Z",
+          "wordCount": 363,
+          "title": "タイ政府、仮想通貨送金にかかる免税措置を施行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/TAT-coin-thailand-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/TAT-coin-thailand-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=353752",
           "author": "AKIRA.H",
