@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-28T05:28:49.951Z</updated>
+    <updated>2022-05-28T06:36:42.189Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[待望のPoSへ、イーサリアム大型アップグレード第一弾「The Merge」を詳細に解説]]></title>
+        <id>https://coinpost.jp/?p=352031</id>
+        <link href="https://coinpost.jp/?p=352031"/>
+        <updated>2022-05-28T06:00:25.000Z</updated>
+        <summary type="html"><![CDATA[コンセンサスアルゴリズムがPoWからPoSへ移行する予定になっている仮想通貨イーサリアム。アップグレードの第一段階である「The Merge」でPoSへ移行する理由や、その影響について詳細に解説。]]></summary>
+        <author>
+            <name>k.sato</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第四回　ビットコイン相場勉強会　雇用統計に立ち向かう]]></title>
         <id>https://coinpost.jp/?p=354154</id>
