@@ -113,6 +113,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=150202",
+          "author": "Nikhilesh De",
+          "description": "スイスのダボスで開かれた世界経済フォーラム（WEF）の年次総会、いわゆる「ダボス会議」の会場。イングランド銀行元総裁のマーク・カーニー（Mark Carney） ...\nダボス会議と暗号資産 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/150202/",
+          "publishedOn": "2022-05-30T21:30:00.000Z",
+          "wordCount": 187,
+          "title": "ダボス会議と暗号資産",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/3BQ6SKCZNFC4TPJG3IHY6BPZ3E-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=150121",
           "author": "Daniel Kuhn",
           "description": "CoinDeskでは、数多くのエンジニア、企業幹部、専門家たちに、メタバースが現状のインターネットにどのように統合されるか、それが経済的インセンティブをどのよう ...\nメタバースによって生まれる変化【専門家たちに聞く】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -285,6 +295,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=354757",
+          "author": "菊谷ルイス",
+          "description": "米大手送金企業マネーグラムはステーブルコインUSDCによる即時送金サービスのローンチに備えている。",
+          "link": "https://coinpost.jp/?p=354757",
+          "publishedOn": "2022-05-30T22:06:40.000Z",
+          "wordCount": 366,
+          "title": "送金大手マネーグラム、USDC送金サービスをローンチへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/moneygram-ripple-suit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/moneygram-ripple-suit.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=354759",
+          "author": "K.Kobayashi",
+          "description": "イタリアの高級ファッションブランド「プラダ」は、新しいNFTコレクションを発表。仮想通貨イーサリアムの技術を活用した企業向けブロックチェーンQuorum上で発行する。",
+          "link": "https://coinpost.jp/?p=354759",
+          "publishedOn": "2022-05-30T21:52:05.000Z",
+          "wordCount": 434,
+          "title": "プラダ、新たなNFTコレクションをリリースへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Prada-Logo.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Prada-Logo.png"
+        },
         {
           "id": "https://coinpost.jp/?p=354753",
           "author": "菊谷ルイス",
