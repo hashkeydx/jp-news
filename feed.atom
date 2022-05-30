@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-29T23:29:40.455Z</updated>
+    <updated>2022-05-30T02:30:24.140Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USTディペッグ騒動の引き金とは、ブロックチェーン分析企業Nansenの調査レポート]]></title>
+        <id>https://coinpost.jp/?p=354385</id>
+        <link href="https://coinpost.jp/?p=354385"/>
+        <updated>2022-05-30T02:02:46.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析企業Nansenは仮想通貨USTがディペッグした要因をオンチェーンデータから分析。単独の攻撃者の動きで発生したものではないと説明した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大手仮想通貨取引所FTXのCEO「さらなる買収も検討中」]]></title>
+        <id>https://coinpost.jp/?p=354395</id>
+        <link href="https://coinpost.jp/?p=354395"/>
+        <updated>2022-05-30T01:28:45.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所FTXのサム・バンクマン・フリードCEOはさらなる企業の買収も行う計画があるとコメント。直近数年の資金調達で得た資金を活用して事業拡大を図る方針だ。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは次なるナスダックか【オピニオン】]]></title>
         <id>https://www.coindeskjapan.com/?p=150089</id>
