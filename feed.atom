@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-31T05:33:52.748Z</updated>
+    <updated>2022-05-31T06:37:48.419Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -25,6 +25,16 @@ LINE、デジタル証券の販売開始──第1弾は個人向け社債 first
         <summary type="html"><![CDATA[仮想通貨イーサリアムテストネット「Ropsten」でビーコンチェーンがローンチされた。プルーフ・オブ・ステーク（PoS）導入「The Merge（ザ・マージ）」に向けた最初のリハーサルを迎えようとしている。]]></summary>
         <author>
             <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SushiSwapがコスモス基盤Kavaと提携、18億円規模の開発者プログラムに参加]]></title>
+        <id>https://coinpost.jp/?p=354905</id>
+        <link href="https://coinpost.jp/?p=354905"/>
+        <updated>2022-05-31T04:08:07.000Z</updated>
+        <summary type="html"><![CDATA[DeFiプラットフォーム「Kava」は30日、SushiSwapとの提携を発表。SushiがKavaの開発者インセンティブプログラムに参加し、合計18億円相当を開発者支援の資金として提供する。]]></summary>
+        <author>
+            <name>幸田直子</name>
         </author>
     </entry>
     <entry>
