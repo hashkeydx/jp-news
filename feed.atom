@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-30T23:30:29.719Z</updated>
+    <updated>2022-05-31T02:26:26.642Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テラ上のDeFiプラットフォーム「Mirror Protocol」、2億円以上の不正流出]]></title>
+        <id>https://coinpost.jp/?p=354778</id>
+        <link href="https://coinpost.jp/?p=354778"/>
+        <updated>2022-05-31T01:02:28.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨テラ（LUNA）のブロックチェーン上に構築されたDeFiプロジェクトMirror Protocolは、資産が不正に流出している可能性があることが報告された。最近の被害額は2.5億円超に上ると見られる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国検察、UST急落巡りTerraform Labsの全従業員を調査へ＝報道]]></title>
+        <id>https://coinpost.jp/?p=354769</id>
+        <link href="https://coinpost.jp/?p=354769"/>
+        <updated>2022-05-30T23:55:30.000Z</updated>
+        <summary type="html"><![CDATA[韓国の検察は、ステーブルコインUSTの急落を巡り本格的な捜査を開始。Terraform Labsの全従業員を調査対象としており、すでに聞き取りを行っている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは3万1000ドル、イーサリアムは2000ドルを回復]]></title>
         <id>https://www.coindeskjapan.com/?p=150289</id>
