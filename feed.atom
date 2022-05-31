@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-05-31T20:32:57.719Z</updated>
+    <updated>2022-05-31T21:29:02.129Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Optimism」、OPトークンをローンチ]]></title>
+        <id>https://coinpost.jp/?p=355102</id>
+        <link href="https://coinpost.jp/?p=355102"/>
+        <updated>2022-05-31T21:15:42.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアム（ETH）のL2ソリューションを開発するOptimismは1日、独自トークン「OP」を正式にローンチした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの「The Merge」とは？【基礎知識】]]></title>
+        <id>https://www.coindeskjapan.com/?p=150226</id>
+        <link href="https://www.coindeskjapan.com/150226/"/>
+        <updated>2022-05-31T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「The Merge（ザ・マージ）」によって、イーサリアム・ブロックチェーンのコンセンサスメカニズムは、プルーフ・オブ・ワーク（PoW）からプルーフ・オブ・ステ ...
+イーサリアムの「The Merge」とは？【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Mason Marcobello</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WEB3.0に特化したITフリーランスエージェント「クリプトエージェント　(CryptoAgent)」5月31日より正式リリース　新規登録エンジニア募集中]]></title>
         <id>bd6b127837e69c44711f16b232d22334</id>
@@ -651,17 +672,6 @@ a16zの巨大ファンドと収益力がものを言う時代【コラム】 fir
         <summary type="html"><![CDATA[セルガ株式会社のプレスリリース（2022年5月27日 18時31分）マンガ、アニメのWeb3進化系コンテンツによるAnimeFiプロジェクト始動]]></summary>
         <author>
             <name>セルガ株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産先物で5.2億ドル超の清算──イーサリアム先物が半分近く]]></title>
-        <id>https://www.coindeskjapan.com/?p=150152</id>
-        <link href="https://www.coindeskjapan.com/150152/"/>
-        <updated>2022-05-27T09:10:24.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）とイーサリアム（ETH）は、暗号資産（仮想通貨）市場全般のセンチメントが弱まるなか、過去24時間にきわめて重要なサポートレベルを失った。こ ...
-暗号資産先物で5.2億ドル超の清算──イーサリアム先物が半分近く first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
