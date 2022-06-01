@@ -113,6 +113,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=150399",
+          "author": "Sam Reynolds",
+          "description": "Financial Timesは、ステーブルコインのテザー（USDT）を発行するテザー社（Tether）の準備金730億ドル（約9兆4000億円）の一部が「Ca ...\nテザー社、銀行取引の詳細は非開示──USDTのドルペッグに影響するか first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/150399/",
+          "publishedOn": "2022-06-01T03:45:17.000Z",
+          "wordCount": 218,
+          "title": "テザー社、銀行取引の詳細は非開示──USDTのドルペッグに影響するか",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_1954213960.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=150395",
           "author": "Damanick Dantes",
           "description": "ビットコイン（BTC）は9週連続の下落を経て、回復の兆しを見せている。極端な弱気センチメントと売られすぎのサインが一部の買い手を様子見姿勢から戻したようだ。 ビ ...\n【US市場】ビットコイン、一時3万2000ドル超え first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -335,6 +345,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=355269",
+          "author": "幸田直子",
+          "description": "大手仮想通貨取引所バイナンスのChangpeng Zhao最高経営責任者は27日、米Fortune誌のインタビューに応じ、バイナンスが新チェーンの「テラ2.0」に対応した意図について語った。",
+          "link": "https://coinpost.jp/?p=355269",
+          "publishedOn": "2022-06-01T04:11:04.000Z",
+          "wordCount": 391,
+          "title": "なぜバイナンスは「テラ2.0」に対応したのか？　CZ氏が背景を語る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Terra-Luna-Reserve.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Terra-Luna-Reserve.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=355162",
+          "author": "S.Ninomiya",
+          "description": "ビットコイン（BTC）は31000ドル台まで反発するも、アルト市場は依然として軟調な展開が続く。CoinSharesのレポートによれば、先週の機関投資家資金フローは流入超過に転じた。",
+          "link": "https://coinpost.jp/?p=355162",
+          "publishedOn": "2022-06-01T03:19:14.000Z",
+          "wordCount": 433,
+          "title": "仮想通貨市場は上昇一服、機関投資家の資金フローは流入超過に転じる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/altcoin0724-1-e1563965895262.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/07/altcoin0724-1-e1563965895262.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=355228",
+          "author": "AKIRA.H",
+          "description": "エンターテイメントとブロックチェーン・メタバースの融合事業を展開する株式会社オーバースは、仮想通貨取引所DMM BitcoinでのIEO開催に向けて、準備を開始したことを発表した。",
+          "link": "https://coinpost.jp/?p=355228",
+          "publishedOn": "2022-06-01T03:12:29.000Z",
+          "wordCount": 375,
+          "title": "アイドルとメタバースの融合目指す「オーバース」、DMM BitcoinでIEO実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/ieo-offering-malaysia-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/ieo-offering-malaysia-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=355186",
+          "author": "A.Yamada",
+          "description": "バーゼル委員会は、銀行がビットコインなど仮想通貨を保有する際の規制について2回目の協議を行う準備を進めている。",
+          "link": "https://coinpost.jp/?p=355186",
+          "publishedOn": "2022-06-01T03:02:39.000Z",
+          "wordCount": 377,
+          "title": "バーゼル委員会、銀行の仮想通貨保有について協議進める",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bis-intersted-in-elsal-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bis-intersted-in-elsal-bitcoin.png"
+        },
         {
           "id": "https://coinpost.jp/?p=355209",
           "author": "Noah Sakamaki",
