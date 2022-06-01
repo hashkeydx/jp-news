@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-01T11:28:16.435Z</updated>
+    <updated>2022-06-01T13:05:15.995Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポリゴン、インドでの投資や助成金に対するKYC強化]]></title>
+        <id>https://www.coindeskjapan.com/?p=150481</id>
+        <link href="https://www.coindeskjapan.com/150481/"/>
+        <updated>2022-06-01T12:30:23.000Z</updated>
+        <summary type="html"><![CDATA[レイヤー2スケーリングソリューションのポリゴン（Polygon）は、インドの潜在的パートナーに資金や投資、助成金、あるいは財務支援を提供するために、詳細なKYC ...
+ポリゴン、インドでの投資や助成金に対するKYC強化 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Amitoj Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gate.io大規模リブランディング実施　新たなロゴやモバイルアプリを公開]]></title>
         <id>https://coinpost.jp/?p=353085</id>
@@ -774,16 +785,6 @@ a16zの巨大ファンドと収益力がものを言う時代【コラム】 fir
         <summary type="html"><![CDATA[株式会社スタートトゥデイの前澤友作 代表取締役は、Web3及びメタバース領域を専門とする、100億円規模の投資ファンド「MZ Web3ファンド」を組成したことを明らかにした。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、イタリアで仮想通貨事業ライセンスを取得]]></title>
-        <id>https://coinpost.jp/?p=354052</id>
-        <link href="https://coinpost.jp/?p=354052"/>
-        <updated>2022-05-27T23:55:16.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスはイタリアの規制機関にビットコインなどを取り扱う暗号資産サービスプロバイダーとしてライセンス登録したことを発表した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
