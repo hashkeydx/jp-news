@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-03T04:36:51.854Z</updated>
+    <updated>2022-06-03T05:26:36.822Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[改正資金決済法が参院本会議で可決、ステーブルコイン関連の規制導入へ]]></title>
+        <id>https://coinpost.jp/?p=356011</id>
+        <link href="https://coinpost.jp/?p=356011"/>
+        <updated>2022-06-03T04:50:10.000Z</updated>
+        <summary type="html"><![CDATA[参院本会議で、仮想通貨に関連する改正資金決済法が可決、成立した。ステーブルコインなどの規制を実施し、通貨の発行を銀行や資金移動業者、信託会社に限定等を規定する。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米VC大手「a16z」、DAOの米法的基盤確立について提案]]></title>
+        <id>https://coinpost.jp/?p=356041</id>
+        <link href="https://coinpost.jp/?p=356041"/>
+        <updated>2022-06-03T04:44:22.000Z</updated>
+        <summary type="html"><![CDATA[米著名VCアンドリーセン・ホロウィッツ（a16z）は2日、分散型自律組織（DAO）が、分散化の機能を維持しつつ、米国で事業体として法的基盤を確立する選択肢について、具体的な提案を発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン売却に動くマイナー──ライオット・ブロックチェーンの場合]]></title>
         <id>https://www.coindeskjapan.com/?p=150626</id>
