@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-03T21:24:37.991Z</updated>
+    <updated>2022-06-03T22:27:53.034Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ニューヨーク州、仮想通貨マイニングの規制法案を上院が可決]]></title>
+        <id>https://coinpost.jp/?p=356193</id>
+        <link href="https://coinpost.jp/?p=356193"/>
+        <updated>2022-06-03T22:15:48.000Z</updated>
+        <summary type="html"><![CDATA[米ニューヨーク州の上院議会は、仮想通貨ビットコインなどのマイニングに対する規制法案を可決。法制化に必要なプロセスは知事の署名のみとなった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインのテザー（USDT）について知っておくべきこと]]></title>
+        <id>https://www.coindeskjapan.com/?p=150597</id>
+        <link href="https://www.coindeskjapan.com/150597/"/>
+        <updated>2022-06-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テザー社は、暗号資産（仮想通貨）市場でも特に人気が高く、幅広く使われているステーブルコインのテザー（USDT）を発行している。 テザーというプロトコルは、暗号資 ...
+ステーブルコインのテザー（USDT）について知っておくべきこと first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com、ドバイで仮想通貨ライセンス取得]]></title>
+        <id>https://coinpost.jp/?p=356195</id>
+        <link href="https://coinpost.jp/?p=356195"/>
+        <updated>2022-06-03T21:50:44.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所などを運営するCrypto.comは3日、ドバイ仮想通貨規制当局から仮想通貨ライセンスを取得したことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中央アフリカ共和国、鉱物資源トークン化を計画]]></title>
+        <id>https://coinpost.jp/?p=356189</id>
+        <link href="https://coinpost.jp/?p=356189"/>
+        <updated>2022-06-03T21:35:39.000Z</updated>
+        <summary type="html"><![CDATA[中央アフリカ共和国は2日、デジタル化の次なる段階として同国の鉱物資源をトークン化する計画がわかった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二次元アートを扱うNFTマーケットプレイス「ANIFTY」がクリーク・アンド・リバー社の子会社に]]></title>
         <id>91b6685303b9a8991f20b44b30a7955a</id>
@@ -979,16 +1020,6 @@ LINE、デジタル証券の販売開始──第1弾は個人向け社債 first
         <summary type="html"><![CDATA[Shinwa Wise Holdings株式会社のプレスリリース（2022年5月30日 19時33分）Edoverse 土地NFT先行販売、Koban およびZeni発行は2022年7月7日に開始！ 説明会は6月6日に開催！]]></summary>
         <author>
             <name>Shinwa Wise Holdings株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トルビズオン、ドローン空路のデザイナー「スカイディベロッパー」の証明書をNFTにて運用する実証実験を開始]]></title>
-        <id>eddc1a2926a5e832664d0aa030751355</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a16c63df140f9364d36ee1c70c2350d667"/>
-        <updated>2022-05-30T09:40:01.000Z</updated>
-        <summary type="html"><![CDATA[トルビズオンのプレスリリース（2022年5月30日 18時40分）トルビズオン、ドローン空路のデザイナー[スカイディベロッパー]の証明書をNFTにて運用する実証実験を開始]]></summary>
-        <author>
-            <name>トルビズオン</name>
         </author>
     </entry>
 </feed>
