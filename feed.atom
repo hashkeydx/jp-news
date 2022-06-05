@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-05T11:23:57.827Z</updated>
+    <updated>2022-06-05T12:46:31.122Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「分散型ストレージネットワーク」Filecoinとは　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=355728</id>
+        <link href="https://coinpost.jp/?p=355728"/>
+        <updated>2022-06-05T12:05:15.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、「Filecoinとは何か？」「Filecoinの独自の特徴」など、フィル（FIL）をまだ詳しく知らないという方に向けてフィル（FIL）の全体像を分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース｜岸田首相の仮想通貨税制に対する姿勢に注目集まる、STEPNが「PR/マーケティングチーム」を発足など]]></title>
         <id>https://coinpost.jp/?p=356203</id>
@@ -751,27 +761,6 @@ FTX創業者が「ギビング・プレッジ」に署名──資産の半分�
         <summary type="html"><![CDATA[SUSHI TOP MARKETING株式会社のプレスリリース（2022年6月1日 10時00分）SUSHI TOP MARKETING、サミー株式会社がコラボするKEYTALK 15th Anniversaryライブツアー全国50本にてすべての会場でNFT無料配布を実施]]></summary>
         <author>
             <name>SUSHI TOP MARKETING株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シンガポール中銀、DeFiやデジタル資産の実現可能性を検証　JPモルガンらが協力へ]]></title>
-        <id>https://coinpost.jp/?p=355133</id>
-        <link href="https://coinpost.jp/?p=355133"/>
-        <updated>2022-06-01T00:42:47.000Z</updated>
-        <summary type="html"><![CDATA[シンガポール金融管理局は、ブロックチェーンやDeFi、デジタル資産の可能性やユースケースを探る共同イニシアチブを開始したことを発表。JPモルガンやDBS銀行らが協力する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaudiyがバンダイナムコ、KDDIなどから25億円を調達──Web3メタバース事業を加速]]></title>
-        <id>https://www.coindeskjapan.com/?p=150355</id>
-        <link href="https://www.coindeskjapan.com/150355/"/>
-        <updated>2022-06-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン技術を活用して、エンターテインメントのデジタル化を支援するGaudiy（ガウディ）が、25億円の資金を調達した。事業のグローバル化と、メタバース ...
-Gaudiyがバンダイナムコ、KDDIなどから25億円を調達──Web3メタバース事業を加速 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
         </author>
     </entry>
 </feed>
