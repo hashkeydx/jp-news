@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-04T23:28:13.556Z</updated>
+    <updated>2022-06-05T02:22:21.098Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週刊仮想通貨ニュース｜岸田首相の仮想通貨税制に対する姿勢に注目集まる、STEPNが「PR/マーケティングチーム」を発足など]]></title>
+        <id>https://coinpost.jp/?p=356203</id>
+        <link href="https://coinpost.jp/?p=356203"/>
+        <updated>2022-06-05T02:00:07.000Z</updated>
+        <summary type="html"><![CDATA[今週は、仮想通貨税制に対する岸田首相の姿勢を報じたニュースが最も多く読まれた。そのほか、「Move to Earn」の分散型ゲームアプリSTEPNに関する記事など、一週間分の情報をお届けする。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは次なるナスダックか、イーサリアムの「The Merge」とは？【日曜日に読みたい厳選10本】]]></title>
         <id>https://www.coindeskjapan.com/?p=150785</id>
@@ -834,16 +844,6 @@ Gaudiyがバンダイナムコ、KDDIなどから25億円を調達──Web3メ�
 イーサリアムの「The Merge」とは？【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Mason Marcobello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEB3.0に特化したITフリーランスエージェント「クリプトエージェント　(CryptoAgent)」5月31日より正式リリース　新規登録エンジニア募集中]]></title>
-        <id>bd6b127837e69c44711f16b232d22334</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36263df140f9367d66ee7c10c2350d667"/>
-        <updated>2022-05-31T11:31:58.000Z</updated>
-        <summary type="html"><![CDATA[株式会社無限の始まりのプレスリリース（2022年5月31日 20時31分）WEB3.0に特化したITフリーランスエージェント[クリプトエージェント　(CryptoAgent)]5月31日より正式リリース　新規登録エンジニア募集中]]></summary>
-        <author>
-            <name>株式会社無限の始まり</name>
         </author>
     </entry>
 </feed>
