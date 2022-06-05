@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-05T21:25:45.068Z</updated>
+    <updated>2022-06-05T22:27:00.839Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BAYCのディスコードがハッキング被害、200ETH相当のNFTが流出]]></title>
+        <id>https://coinpost.jp/?p=356421</id>
+        <link href="https://coinpost.jp/?p=356421"/>
+        <updated>2022-06-05T22:01:50.000Z</updated>
+        <summary type="html"><![CDATA[人気NFTコレクション「Bored Ape Yacht Club（BAYC）」は4日、公式のディスコードサーバーがハッキングされ、約200ETH（4,700万円）のNFTが流出した]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流動的ステーキングがETHにもたらすリスク、イーサリアム財団が警告]]></title>
         <id>https://coinpost.jp/?p=356254</id>
