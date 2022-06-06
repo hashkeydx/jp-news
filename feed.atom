@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-05T23:26:52.370Z</updated>
+    <updated>2022-06-06T02:22:35.347Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米FRB理事「一般人保護の仮想通貨規制が必要」]]></title>
+        <id>https://coinpost.jp/?p=356430</id>
+        <link href="https://coinpost.jp/?p=356430"/>
+        <updated>2022-06-06T01:32:13.000Z</updated>
+        <summary type="html"><![CDATA[米FRBのウォーラー理事はビットコインなどの仮想通貨市場をどのように規制すべきか見解を述べた。幅広い新規投資家を守るために規制が必要であると主張した形だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気NFT「BAYC」でまたハッキング被害、BTCマイナーの目標株価は65％ダウン【週末の注目ニュース】]]></title>
+        <id>https://www.coindeskjapan.com/?p=150827</id>
+        <link href="https://www.coindeskjapan.com/150827/"/>
+        <updated>2022-06-06T01:10:17.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインマイナーの目標株価、65％ダウン 米投資銀行BTIGは、ビットコイン（BTC）マイナー（マイニング事業者）の12カ月平均目標株価を65％引き下げた。 ...
+人気NFT「BAYC」でまたハッキング被害、BTCマイナーの目標株価は65％ダウン【週末の注目ニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BAYCのディスコードがハッキング被害、200ETH相当のNFTが流出]]></title>
         <id>https://coinpost.jp/?p=356421</id>
@@ -609,17 +630,6 @@ FTX創業者が「ギビング・プレッジ」に署名──資産の半分�
 暗号資産を上場する取引所の責任を考える【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリゴン、インドでの投資や助成金に対するKYC強化]]></title>
-        <id>https://www.coindeskjapan.com/?p=150481</id>
-        <link href="https://www.coindeskjapan.com/150481/"/>
-        <updated>2022-06-01T12:30:23.000Z</updated>
-        <summary type="html"><![CDATA[レイヤー2スケーリングソリューションのポリゴン（Polygon）は、インドの潜在的パートナーに資金や投資、助成金、あるいは財務支援を提供するために、詳細なKYC ...
-ポリゴン、インドでの投資や助成金に対するKYC強化 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
         </author>
     </entry>
 </feed>
