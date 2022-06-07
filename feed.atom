@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-07T04:40:58.941Z</updated>
+    <updated>2022-06-07T05:26:05.567Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[高速L1ブロックチェーンElrond、分散型取引所から不正流出]]></title>
+        <id>https://coinpost.jp/?p=356856</id>
+        <link href="https://coinpost.jp/?p=356856"/>
+        <updated>2022-06-07T05:05:59.000Z</updated>
+        <summary type="html"><![CDATA[高速L1のブロックチェーンElrond（EGLD）の主要な分散型取引所「Maiar Exchange」の脆弱性が突かれ、6日午前に仮想通貨160万EGLD（130億円相当）が奪われたようだ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3大手Animoca Brands、投資ポートフォリオは2,000億円相当]]></title>
         <id>https://coinpost.jp/?p=356797</id>
