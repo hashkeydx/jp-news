@@ -83,6 +83,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=150962",
+          "author": "Damanick Dantes",
+          "description": "ビットコイン（BTC）はボラティリティが低下し、24時間で4％上昇した。過去1カ月、狭いレンジで推移したが、5月12日以降、3万ドルを大きく割るようなことにはな ...\n【US市場】ビットコイン、上昇──ボラティリティ低下、センチメント改善 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/150962/",
+          "publishedOn": "2022-06-07T00:55:47.000Z",
+          "wordCount": 286,
+          "title": "【US市場】ビットコイン、上昇──ボラティリティ低下、センチメント改善",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/53RLCTBEKRAJ5JJHNYXNGJ2SHM.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=150960",
+          "author": "Nelson Wang",
+          "description": "米証券取引委員会（SEC）は、バイナンスが2017年に行ったバイナンスコイン（BNB）のICO（イニシャルコインオファリング）が無登録の有価証券販売に該当するか ...\n米SEC、2017年のバイナンスコインのICOを調査：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/150960/",
+          "publishedOn": "2022-06-06T23:55:14.000Z",
+          "wordCount": 175,
+          "title": "米SEC、2017年のバイナンスコインのICOを調査：報道",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/CQDT374KDVEFNA3TYZWDGBOMR4-710x4-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=150964",
           "author": "Krisztian Sandor",
           "description": "ビットコイン（BTC）ファンドは2週連続で資金流入となり、投資家が暗号資産（仮想通貨）市場の不透明な先行きに対処するなか、他の暗号資産ファンドを上回った。 コイ ...\n暗号資産ファンド、2週連続の資金流入──ビットコインファンドがけん引 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -275,6 +295,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=356705",
+          "author": "A.Yamada",
+          "description": "チェイナリシスは、分散型金融についてレポートを発表。分散型取引所での仮想通貨取引量が、初めて中央集権型取引所を上回ったと報告した。",
+          "link": "https://coinpost.jp/?p=356705",
+          "publishedOn": "2022-06-07T02:00:05.000Z",
+          "wordCount": 372,
+          "title": "DEXのオンチェーン取引量、CEXを上回る＝チェイナリシスレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/DeFi040921.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/DeFi040921.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=356711",
+          "author": "菊谷ルイス",
+          "description": "大手暗仮想通貨貸借サービスプラットフォームBlockFiは大幅に下方調整された評価価で資金を調達するようだ。",
+          "link": "https://coinpost.jp/?p=356711",
+          "publishedOn": "2022-06-07T01:10:11.000Z",
+          "wordCount": 359,
+          "title": "米BlockFiのダウン・ラウンド調達、1,300億円の評価価値で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/blockfi-downround-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/blockfi-downround-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=356701",
+          "author": "K.Kobayashi",
+          "description": "Web3ゲーム企業Gala Gamesは、これからブロックチェーンゲームをEpic Games Storeで販売していくと発表。第一弾として、米開拓時代のバトルロイヤルゲームGRITを販売するとした。",
+          "link": "https://coinpost.jp/?p=356701",
+          "publishedOn": "2022-06-06T23:50:52.000Z",
+          "wordCount": 436,
+          "title": "Gala Games、ブロックチェーンゲーム「GRIT」を「Epic Games Store」で販売へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/galagames20220303.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/galagames20220303.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=356697",
           "author": "菊谷ルイス",
