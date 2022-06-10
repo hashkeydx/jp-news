@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-10T09:28:57.980Z</updated>
+    <updated>2022-06-10T10:32:43.096Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン、そのリスクを考察　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=358132</id>
+        <link href="https://coinpost.jp/?p=358132"/>
+        <updated>2022-06-10T10:00:28.000Z</updated>
+        <summary type="html"><![CDATA[今回は、USDC・USDT・BUSD・DAI・FRAX・MIM、それぞれのステーブルコインに関して、そのリスクについて、HashHub CEO 平野淳也氏に考察いただいた。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3万ドル付近で揉み合い続くビットコイン──「底入れ」と言い切れない微妙な状況【bitbankレポート】]]></title>
+        <id>https://www.coindeskjapan.com/?p=151338</id>
+        <link href="https://www.coindeskjapan.com/151338/"/>
+        <updated>2022-06-10T09:30:08.000Z</updated>
+        <summary type="html"><![CDATA[5月のビットコイン（BTC）相場は16.62%安と2カ月続落し、490万円から400万円周辺まで下落。月初の米雇用統計で賃金が高止まりしたことを切っ掛けに米株が ...
+3万ドル付近で揉み合い続くビットコイン──「底入れ」と言い切れない微妙な状況【bitbankレポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>長谷川友哉／bitbankマーケット・アナリスト</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VeChain、米大手総合格闘技団体「UFC」と提携]]></title>
+        <id>https://coinpost.jp/?p=358062</id>
+        <link href="https://coinpost.jp/?p=358062"/>
+        <updated>2022-06-10T09:28:11.000Z</updated>
+        <summary type="html"><![CDATA[世界最大級の総合格闘技団体UFCは、ブロックチェーンVeChainが、同競技のグローバルスポンサーに就任したことを発表した]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタバースの原典小説の作者、ブロックチェーン「Lamina1」を立ち上げ]]></title>
         <id>https://coinpost.jp/?p=357886</id>
@@ -1444,16 +1475,6 @@ SPAC上場に逆風──低い評価額と規制に直面する暗号資産業�
         <summary type="html"><![CDATA[株式会社Art Sensorのプレスリリース（2022年6月6日 08時10分）NFTコレクション[FLOWERLOLITA]public SALEから2時間で用意されていた6,666体が完売。]]></summary>
         <author>
             <name>株式会社Art Sensor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAYCのディスコードがハッキング被害、200ETH相当のNFTが流出]]></title>
-        <id>https://coinpost.jp/?p=356421</id>
-        <link href="https://coinpost.jp/?p=356421"/>
-        <updated>2022-06-05T22:01:50.000Z</updated>
-        <summary type="html"><![CDATA[人気NFTコレクション「Bored Ape Yacht Club（BAYC）」は4日、公式のディスコードサーバーがハッキングされ、約200ETH（4,700万円）のNFTが流出した]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
