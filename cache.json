@@ -213,6 +213,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=151414",
+          "author": "Nelson Wang",
+          "description": "テキサス州オースティンで6月9日に開幕した米CoinDeskのイベント「コンセンサス 2022（Consensus 2022）」で、暗号資産投資会社のグレイスケ ...\nグレイスケールとビットワイズ、ビットコインETF承認に楽観的見通し【Consensus 2022】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/151414/",
+          "publishedOn": "2022-06-10T03:30:57.000Z",
+          "wordCount": 195,
+          "title": "グレイスケールとビットワイズ、ビットコインETF承認に楽観的見通し【Consensus 2022】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/XCZJUDAK5VBMDPEWDN3XGY2YCE.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=151387",
           "author": "Damanick Dantes",
           "description": "ビットコイン（BTC）は9日、ほぼ横ばいで推移した（日本時間10日10時30分頃には2万2900ドル付近となっている）。トレーダーが決定的なブレークアウトまたは ...\n【US市場】ビットコインは3万ドル付近で推移、資金調達率は中立が続く first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -586,6 +596,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=357950",
+          "author": "幸田直子",
+          "description": "オーストラリアの決済大手Novatti社は9日、米リップル社と提携し、XRPレジャー上で豪ドルのステーブルコイン「AUDC」を発行すると発表した。ステラネットワークに続き、二つ目のステーブルコイン発行となる。",
+          "link": "https://coinpost.jp/?p=357950",
+          "publishedOn": "2022-06-10T03:45:54.000Z",
+          "wordCount": 367,
+          "title": "豪決済企業Novatti、XRPレジャーで豪ドルのステーブルコイン発行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/wrapped-xrp-launched.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/wrapped-xrp-launched.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=357919",
+          "author": "S.Inosita",
+          "description": "Web3大手企業アニモカブランズは、スペインとオーストラリアで開催される「MotoGP」グランプリのタイトルスポンサーに就任した。23年には、さらに2つのグランプリで、タイトルスポンサーを務める予定だ",
+          "link": "https://coinpost.jp/?p=357919",
+          "publishedOn": "2022-06-10T03:38:19.000Z",
+          "wordCount": 381,
+          "title": "Web3大手アニモカ、「MotoGP」グランプリのタイトルスポンサーに就任",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/animoca20220311_1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/animoca20220311_1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=357868",
+          "author": "S.Ninomiya",
+          "description": "インフレ高進と金融引き締めへの警戒感からダウやナスダックが大幅下落。暗号資産（仮想通貨）市場ではビットコイン（BTC）の底入れシグナルについて、複数のアナリストが見解を出している。",
+          "link": "https://coinpost.jp/?p=357868",
+          "publishedOn": "2022-06-10T03:00:15.000Z",
+          "wordCount": 434,
+          "title": "ビットコインの「底入れシグナル」に慎重論、米株指数は大幅下落",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427k-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427k-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=357877",
+          "author": "A.Yamada",
+          "description": "米ブロック社ジャック・ドーシーCEOは、ラッパーのジェイ・Z氏と共同で、仮想通貨ビットコインについての教育プログラムに資金を提供すると発表した。",
+          "link": "https://coinpost.jp/?p=357877",
+          "publishedOn": "2022-06-10T02:36:51.000Z",
+          "wordCount": 471,
+          "title": "ブロック社ドーシーCEOとジェイ・Z氏、ビットコイン教育を提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/jayz-dorsey.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/jayz-dorsey.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=357879",
+          "author": "AKIRA.H",
+          "description": "テック系スタートアップ向けにオンラインスクールを提供するSoftBank Group Operator Schoolは、「Web3（分散型ウェブ）」の基礎と応用を学べる新シリーズを開始することを発表した。",
+          "link": "https://coinpost.jp/?p=357879",
+          "publishedOn": "2022-06-10T02:10:12.000Z",
+          "wordCount": 378,
+          "title": "ソフトバンクのビジネス塾、Web3にフォーカス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/tribal-credit-softbank.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/tribal-credit-softbank.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=357849",
           "author": "A.Yamada",
