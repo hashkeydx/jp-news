@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-10T21:25:54.518Z</updated>
+    <updated>2022-06-10T22:27:51.059Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Web5」プラットフォーム、ジャック・ドーシー氏のビットコイン事業「TBD」が発表]]></title>
+        <id>https://coinpost.jp/?p=358203</id>
+        <link href="https://coinpost.jp/?p=358203"/>
+        <updated>2022-06-10T22:18:14.000Z</updated>
+        <summary type="html"><![CDATA[ジャック・ドーシー氏が率いるブロック社に創設された、仮想通貨ビットコインに特化した事業部門TBDは、新しい分散型のウェブプラットフォーム「Web5」を発表。開発目的や特徴が明らかになった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハッカー、1,800万のOPトークンを返還]]></title>
+        <id>https://coinpost.jp/?p=358200</id>
+        <link href="https://coinpost.jp/?p=358200"/>
+        <updated>2022-06-10T21:45:51.000Z</updated>
+        <summary type="html"><![CDATA[今週発生したOptimismのOPトークン不正流出の事件で、ハッカーは1,800万のOPトークンを返還したことがわかった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マネーグラム、USDC送金サービスを開始]]></title>
         <id>https://coinpost.jp/?p=358197</id>
