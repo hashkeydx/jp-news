@@ -213,6 +213,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=151387",
+          "author": "Damanick Dantes",
+          "description": "ビットコイン（BTC）は9日、ほぼ横ばいで推移した（日本時間10日10時30分頃には2万2900ドル付近となっている）。トレーダーが決定的なブレークアウトまたは ...\n【US市場】ビットコインは3万ドル付近で推移、資金調達率は中立が続く first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/151387/",
+          "publishedOn": "2022-06-10T01:50:35.000Z",
+          "wordCount": 242,
+          "title": "【US市場】ビットコインは3万ドル付近で推移、資金調達率は中立が続く",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/coindesk-BTC-chart-2022-06-10.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=151356",
           "author": "Brandy Betz",
           "description": "米総合格闘技団体UFCは6月9日、ブロックチェーンをオフィシャルパートナーに加え、VeChainがUFC初の公式レイヤー1ブロックチェーンになったと発表した。  ...\nUFC、ブロックチェーンを公式パートナーに first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -576,6 +586,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=357849",
+          "author": "A.Yamada",
+          "description": "米証券取引委員会は、ディペッグを起こしたステーブルコインUSTについて、投資家保護規制に違反していたかどうかを調査している模様だ。",
+          "link": "https://coinpost.jp/?p=357849",
+          "publishedOn": "2022-06-10T01:15:49.000Z",
+          "wordCount": 388,
+          "title": "米SEC、UST巡りDo Kwon氏などを調査か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/USASECRED.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/USASECRED.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=357845",
+          "author": "K.Kobayashi",
+          "description": "Web3ゲームTatsumeekoは、シードラウンドで約10億円の資金を調達したことを発表。開発した資金を使い、仮想通貨イーサリアムとソラナのブロックチェーン上にゲームをローンチする計画だ。",
+          "link": "https://coinpost.jp/?p=357845",
+          "publishedOn": "2022-06-10T01:00:43.000Z",
+          "wordCount": 380,
+          "title": "Web3ゲーム「Tatsumeeko」、イーサリアムとソラナにローンチを計画　10億円を資金調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/onlinegame294234-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/onlinegame294234-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=357842",
+          "author": "菊谷ルイス",
+          "description": "米大手仮想通貨取引所コインベースは、東南アジア発の仮想通貨取引所Zipmexに投資する予定だ。",
+          "link": "https://coinpost.jp/?p=357842",
+          "publishedOn": "2022-06-09T23:40:03.000Z",
+          "wordCount": 356,
+          "title": "米コインベース、仮想通貨取引所Zipmexに出資へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase2_20210913.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase2_20210913.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=357837",
           "author": "菊谷ルイス",
@@ -1580,21 +1635,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/lido050922.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/lido050922.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=355728",
-          "author": "CONNECTV 編集部",
-          "description": "今回のCONNECTVでは、「Filecoinとは何か？」「Filecoinの独自の特徴」など、フィル（FIL）をまだ詳しく知らないという方に向けてフィル（FIL）の全体像を分かりやすく解説する。",
-          "link": "https://coinpost.jp/?p=355728",
-          "publishedOn": "2022-06-05T12:05:15.000Z",
-          "wordCount": 384,
-          "title": "「分散型ストレージネットワーク」Filecoinとは　CONNECTV・動画解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/20220601_3_A-e1654231929866.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/20220601_3_A-e1654231929866.jpg"
         }
       ]
     }

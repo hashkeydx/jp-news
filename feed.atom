@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-09T23:27:49.902Z</updated>
+    <updated>2022-06-10T02:24:21.952Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ビットコインは3万ドル付近で推移、資金調達率は中立が続く]]></title>
+        <id>https://www.coindeskjapan.com/?p=151387</id>
+        <link href="https://www.coindeskjapan.com/151387/"/>
+        <updated>2022-06-10T01:50:35.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は9日、ほぼ横ばいで推移した（日本時間10日10時30分頃には2万2900ドル付近となっている）。トレーダーが決定的なブレークアウトまたは ...
+【US市場】ビットコインは3万ドル付近で推移、資金調達率は中立が続く first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Damanick Dantes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、UST巡りDo Kwon氏などを調査か＝報道]]></title>
+        <id>https://coinpost.jp/?p=357849</id>
+        <link href="https://coinpost.jp/?p=357849"/>
+        <updated>2022-06-10T01:15:49.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会は、ディペッグを起こしたステーブルコインUSTについて、投資家保護規制に違反していたかどうかを調査している模様だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3ゲーム「Tatsumeeko」、イーサリアムとソラナにローンチを計画　10億円を資金調達]]></title>
+        <id>https://coinpost.jp/?p=357845</id>
+        <link href="https://coinpost.jp/?p=357845"/>
+        <updated>2022-06-10T01:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Web3ゲームTatsumeekoは、シードラウンドで約10億円の資金を調達したことを発表。開発した資金を使い、仮想通貨イーサリアムとソラナのブロックチェーン上にゲームをローンチする計画だ。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、仮想通貨取引所Zipmexに出資へ]]></title>
+        <id>https://coinpost.jp/?p=357842</id>
+        <link href="https://coinpost.jp/?p=357842"/>
+        <updated>2022-06-09T23:40:03.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースは、東南アジア発の仮想通貨取引所Zipmexに投資する予定だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マスターカード、複数電子市場でNFT購入に対応]]></title>
         <id>https://coinpost.jp/?p=357837</id>
@@ -1261,16 +1302,6 @@ SPAC上場に逆風──低い評価額と規制に直面する暗号資産業�
 ウェブ3がウクライナでの戦争犯罪記録に一役【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jonathan Dotan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「分散型ストレージネットワーク」Filecoinとは　CONNECTV・動画解説]]></title>
-        <id>https://coinpost.jp/?p=355728</id>
-        <link href="https://coinpost.jp/?p=355728"/>
-        <updated>2022-06-05T12:05:15.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、「Filecoinとは何か？」「Filecoinの独自の特徴」など、フィル（FIL）をまだ詳しく知らないという方に向けてフィル（FIL）の全体像を分かりやすく解説する。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
