@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-10T08:34:00.751Z</updated>
+    <updated>2022-06-10T09:28:57.980Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタバースの原典小説の作者、ブロックチェーン「Lamina1」を立ち上げ]]></title>
+        <id>https://coinpost.jp/?p=357886</id>
+        <link href="https://coinpost.jp/?p=357886"/>
+        <updated>2022-06-10T09:04:12.000Z</updated>
+        <summary type="html"><![CDATA[メタバースが初めて登場したとされる小説の作者、ニール・スティーブンソン氏は、オープンメタバース向けの仮想通貨ブロックチェーン「Lamina1」を発表した。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKCoinJapan、国内初のアバランチ（AVAX）上場へ]]></title>
+        <id>https://coinpost.jp/?p=358112</id>
+        <link href="https://coinpost.jp/?p=358112"/>
+        <updated>2022-06-10T08:49:50.000Z</updated>
+        <summary type="html"><![CDATA[オーケーコイン・ジャパン株式会社は10日、OKCoinJapan（暗号資産取引所）にて、『アバランチ（AVAX）』の取り扱い開始することを発表した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デジタルドルは「荒唐無稽なアイデア」：米サークル幹部【Consensus 2022】]]></title>
         <id>https://www.coindeskjapan.com/?p=151389</id>
@@ -1434,27 +1454,6 @@ SPAC上場に逆風──低い評価額と規制に直面する暗号資産業�
         <summary type="html"><![CDATA[人気NFTコレクション「Bored Ape Yacht Club（BAYC）」は4日、公式のディスコードサーバーがハッキングされ、約200ETH（4,700万円）のNFTが流出した]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流動的ステーキングがETHにもたらすリスク、イーサリアム財団が警告]]></title>
-        <id>https://coinpost.jp/?p=356254</id>
-        <link href="https://coinpost.jp/?p=356254"/>
-        <updated>2022-06-05T21:05:32.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団のDanny Ryanリサーチャーは、リキッドステーキングの問題点を指摘するレポートを公開。プロバイダーの寡占化により、仮想通貨イーサリアムに集権化リスクをもたらすとした。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウェブ3がウクライナでの戦争犯罪記録に一役【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=150632</id>
-        <link href="https://www.coindeskjapan.com/150632/"/>
-        <updated>2022-06-05T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[何百万台ものスマートフォンのカメラが日々、ロシアのウクライナ侵略の恐ろしさを私たちに伝えてくれる。一般市民がソーシャルメディアやメッセージアプリを通じて、残酷な ...
-ウェブ3がウクライナでの戦争犯罪記録に一役【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jonathan Dotan</name>
         </author>
     </entry>
 </feed>
