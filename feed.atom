@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-11T11:24:22.278Z</updated>
+    <updated>2022-06-11T12:46:51.485Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本国内ステーブルコイン規制強化？　日本国内でのステーブルコインの動向について　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=358363</id>
+        <link href="https://coinpost.jp/?p=358363"/>
+        <updated>2022-06-11T12:05:10.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、JPYC株式会社代表の岡部典孝氏をお招きし、今後日本国内でのステーブルコインの動向などについてお聞きした。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム関連「stETH」の価格乖離、その背景は]]></title>
         <id>https://coinpost.jp/?p=358345</id>
@@ -1358,38 +1368,6 @@ The post 【イベントレポート】
 【US市場】ビットコイン、上昇──ボラティリティ低下、センチメント改善 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Damanick Dantes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、2017年のバイナンスコインのICOを調査：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=150960</id>
-        <link href="https://www.coindeskjapan.com/150960/"/>
-        <updated>2022-06-06T23:55:14.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、バイナンスが2017年に行ったバイナンスコイン（BNB）のICO（イニシャルコインオファリング）が無登録の有価証券販売に該当するか ...
-米SEC、2017年のバイナンスコインのICOを調査：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Nelson Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gala Games、ブロックチェーンゲーム「GRIT」を「Epic Games Store」で販売へ]]></title>
-        <id>https://coinpost.jp/?p=356701</id>
-        <link href="https://coinpost.jp/?p=356701"/>
-        <updated>2022-06-06T23:50:52.000Z</updated>
-        <summary type="html"><![CDATA[Web3ゲーム企業Gala Gamesは、これからブロックチェーンゲームをEpic Games Storeで販売していくと発表。第一弾として、米開拓時代のバトルロイヤルゲームGRITを販売するとした。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産ファンド、2週連続の資金流入──ビットコインファンドがけん引]]></title>
-        <id>https://www.coindeskjapan.com/?p=150964</id>
-        <link href="https://www.coindeskjapan.com/150964/"/>
-        <updated>2022-06-06T23:25:49.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）ファンドは2週連続で資金流入となり、投資家が暗号資産（仮想通貨）市場の不透明な先行きに対処するなか、他の暗号資産ファンドを上回った。 コイ ...
-暗号資産ファンド、2週連続の資金流入──ビットコインファンドがけん引 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
