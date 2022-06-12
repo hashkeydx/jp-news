@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-12T21:25:09.514Z</updated>
+    <updated>2022-06-12T22:27:39.639Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンスCZ氏、SECのBNB調査についてコメント──「Consensus 2022」]]></title>
+        <id>https://coinpost.jp/?p=358533</id>
+        <link href="https://coinpost.jp/?p=358533"/>
+        <updated>2022-06-12T22:10:19.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスのCZ氏は13日、大型カンファレンス「Consensus 2022」にて先週報じられた米SECによるBNBトークンの調査についてコメントした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのドミナンスが40％台を回復【Krakenリサーチ】]]></title>
+        <id>https://www.coindeskjapan.com/?p=151501</id>
+        <link href="https://www.coindeskjapan.com/151501/"/>
+        <updated>2022-06-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5月の暗号資産（仮想通貨）マーケットは、全てのセクターにおいて下落幅が17%を超える大幅下落の月となりました。1つのきっかけとなったのは、テラUSD（UST）だ ...
+ビットコインのドミナンスが40％台を回復【Krakenリサーチ】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>千野 剛司／Kraken Japan代表</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トロンDAO、USDDの準備金として67億円相当のビットコインとTRXを購入]]></title>
+        <id>https://coinpost.jp/?p=358525</id>
+        <link href="https://coinpost.jp/?p=358525"/>
+        <updated>2022-06-12T21:30:19.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインUSDDの準備金を運用する組織「トロンDAOリザーブ」は11日、5,000万ドル相当のビットコインとTRXを購入したことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEXは暗号資産市場でなぜ重要か【基礎知識】]]></title>
+        <id>https://www.coindeskjapan.com/?p=151447</id>
+        <link href="https://www.coindeskjapan.com/151447/"/>
+        <updated>2022-06-12T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2012年、意欲満々の経済学部生として私は、ビットコイン（BTC） に投資をしたいと考えた。大型小売店のウォルマートに行き、送金サービスのマネーグラムを利用して ...
+DEXは暗号資産市場でなぜ重要か【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jackson Wood</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインをアメリカの中小企業の味方にする【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=151398</id>
@@ -877,27 +919,6 @@ GMO、Web3に特化したCVCを設立──ベンチャーが直面する課題�
 Web3で学歴社会は無効化される？──元MITメディアラボ所長・伊藤穰一氏に聞く first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>菊池友信</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インテルの新チップを使ったマイニングマシンを開発、英アルゴ・ブロックチェーン]]></title>
-        <id>https://www.coindeskjapan.com/?p=151109</id>
-        <link href="https://www.coindeskjapan.com/151109/"/>
-        <updated>2022-06-08T10:05:24.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）マイニングを手がけるアルゴ・ブロックチェーン（Argo Blockchain）は、カナダのブロックチェーン・ハードウェアメーカーのePIC ...
-インテルの新チップを使ったマイニングマシンを開発、英アルゴ・ブロックチェーン first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Eliza Gkritsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ウィスキー蒸留所、ディセントラランドに「バーチャル蒸留所」を展開へ]]></title>
-        <id>https://coinpost.jp/?p=357328</id>
-        <link href="https://coinpost.jp/?p=357328"/>
-        <updated>2022-06-08T09:30:37.000Z</updated>
-        <summary type="html"><![CDATA[米国のウィスキー蒸留所Angel’s Envyは、メタバースプラットフォーム「ディセントラランド（MANA）」に、バーチャル蒸留所を設置することを発表した。トークンやNFTの配布を行う予定だ。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>

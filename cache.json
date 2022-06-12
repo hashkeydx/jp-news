@@ -113,6 +113,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=151501",
+          "author": "千野 剛司／Kraken Japan代表",
+          "description": "5月の暗号資産（仮想通貨）マーケットは、全てのセクターにおいて下落幅が17%を超える大幅下落の月となりました。1つのきっかけとなったのは、テラUSD（UST）だ ...\nビットコインのドミナンスが40％台を回復【Krakenリサーチ】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/151501/",
+          "publishedOn": "2022-06-12T22:00:00.000Z",
+          "wordCount": 247,
+          "title": "ビットコインのドミナンスが40％台を回復【Krakenリサーチ】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/01/btcglobalgray-scaled.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=151447",
+          "author": "Jackson Wood",
+          "description": "2012年、意欲満々の経済学部生として私は、ビットコイン（BTC） に投資をしたいと考えた。大型小売店のウォルマートに行き、送金サービスのマネーグラムを利用して ...\nDEXは暗号資産市場でなぜ重要か【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/151447/",
+          "publishedOn": "2022-06-12T21:30:00.000Z",
+          "wordCount": 196,
+          "title": "DEXは暗号資産市場でなぜ重要か【基礎知識】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_1094314655-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=151398",
           "author": "Isaiah Douglass",
           "description": "アメリカの連邦小企業庁（Small Business Administration）によると、従業員が500人以下の小企業はアメリカの全企業の99.9%で、有給 ...\nビットコインをアメリカの中小企業の味方にする【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -341,16 +361,6 @@
           "wordCount": 248,
           "title": "Web3で学歴社会は無効化される？──元MITメディアラボ所長・伊藤穰一氏に聞く",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/Joiito0018-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=151109",
-          "author": "Eliza Gkritsi",
-          "description": "ビットコイン（BTC）マイニングを手がけるアルゴ・ブロックチェーン（Argo Blockchain）は、カナダのブロックチェーン・ハードウェアメーカーのePIC ...\nインテルの新チップを使ったマイニングマシンを開発、英アルゴ・ブロックチェーン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/151109/",
-          "publishedOn": "2022-06-08T10:05:24.000Z",
-          "wordCount": 184,
-          "title": "インテルの新チップを使ったマイニングマシンを開発、英アルゴ・ブロックチェーン",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/URBTCIFZABG5TLQOFKWFDOPDGE.jpeg"
         }
       ]
     },
@@ -365,6 +375,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=358533",
+          "author": "菊谷ルイス",
+          "description": "バイナンスのCZ氏は13日、大型カンファレンス「Consensus 2022」にて先週報じられた米SECによるBNBトークンの調査についてコメントした。",
+          "link": "https://coinpost.jp/?p=358533",
+          "publishedOn": "2022-06-12T22:10:19.000Z",
+          "wordCount": 355,
+          "title": "バイナンスCZ氏、SECのBNB調査についてコメント──「Consensus 2022」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/cz_20200120_4.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/cz_20200120_4.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=358525",
+          "author": "菊谷ルイス",
+          "description": "ステーブルコインUSDDの準備金を運用する組織「トロンDAOリザーブ」は11日、5,000万ドル相当のビットコインとTRXを購入したことを発表した。",
+          "link": "https://coinpost.jp/?p=358525",
+          "publishedOn": "2022-06-12T21:30:19.000Z",
+          "wordCount": 386,
+          "title": "トロンDAO、USDDの準備金として67億円相当のビットコインとTRXを購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=358146",
           "author": "CONNECTV 編集部",
@@ -1144,21 +1184,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/litecoin1_0422.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/litecoin1_0422.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=357328",
-          "author": "S.Inosita",
-          "description": "米国のウィスキー蒸留所Angel’s Envyは、メタバースプラットフォーム「ディセントラランド（MANA）」に、バーチャル蒸留所を設置することを発表した。トークンやNFTの配布を行う予定だ。",
-          "link": "https://coinpost.jp/?p=357328",
-          "publishedOn": "2022-06-08T09:30:37.000Z",
-          "wordCount": 380,
-          "title": "米ウィスキー蒸留所、ディセントラランドに「バーチャル蒸留所」を展開へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/AE_BrandHome_LincolnTastingRoom1_Compressed-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/AE_BrandHome_LincolnTastingRoom1_Compressed-1.jpeg"
         }
       ]
     }
