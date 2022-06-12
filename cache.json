@@ -431,16 +431,6 @@
           "wordCount": 162,
           "title": "個人向けマイニング、1万円から投資可能に：FUELHASH",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/fuelhashmining.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=151102",
-          "author": "Damanick Dantes",
-          "description": "ビットコイン（BTC）は6月7日、2万9200ドルに向けて下落した後、米東部時間の夜半に3万ドル付近まで上昇する急展開を見せた。日本時間8日9時には3万1000 ...\n【US市場】ビットコイン、下落から上昇の急展開──トレーダーは底値を探る動き first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/151102/",
-          "publishedOn": "2022-06-08T00:10:49.000Z",
-          "wordCount": 245,
-          "title": "【US市場】ビットコイン、下落から上昇の急展開──トレーダーは底値を探る動き",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/coindesk-BTC-chart-2022-06-08-1.jpg"
         }
       ]
     },
@@ -455,6 +445,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=358146",
+          "author": "CONNECTV 編集部",
+          "description": "今回の#CONNECTVでは、株式会社CauchyE代表木村優氏をお招きして、木村優氏のプロジェクトでもある「UnUniFi」ついて、分かりやすく解説する。",
+          "link": "https://coinpost.jp/?p=358146",
+          "publishedOn": "2022-06-12T12:05:44.000Z",
+          "wordCount": 362,
+          "title": "「NFTを担保に？」UnUniFiとは？　CONNECTV・動画解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/2022060_B-e1654854507380.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/2022060_B-e1654854507380.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=358154",
           "author": "A.Sakamoto",
@@ -1414,36 +1419,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/solana-south-koerea.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/solana-south-koerea.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=357050",
-          "author": "K.Kobayashi",
-          "description": "ソニー生命保険の海外子会社から約170億円の資金を不正送金した石井伶被告は、起訴内容を認めた。石井被告は犯罪収益を全て仮想通貨ビットコインに替えている。",
-          "link": "https://coinpost.jp/?p=357050",
-          "publishedOn": "2022-06-08T00:22:33.000Z",
-          "wordCount": 372,
-          "title": "犯罪収益170億円をビットコインに交換　ソニー生命元社員、起訴内容認める",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoincrime040121.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoincrime040121.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=357042",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨取引所などを運営するCrypto.com傘下のブロックチェーンプラットフォームCronosは7日、Web3やDeFiプロジェクトに1億ドル（130億円）を投資するプログラムを発表した。",
-          "link": "https://coinpost.jp/?p=357042",
-          "publishedOn": "2022-06-07T23:25:36.000Z",
-          "wordCount": 342,
-          "title": "Crypto.comのCronosブロックチェーンプラットフォーム、Web3やDeFiに130億円投資へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/c.com-accl-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/c.com-accl-1.png"
         }
       ]
     }
