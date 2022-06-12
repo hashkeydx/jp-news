@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-12T20:29:05.306Z</updated>
+    <updated>2022-06-12T21:25:09.514Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインをアメリカの中小企業の味方にする【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=151398</id>
+        <link href="https://www.coindeskjapan.com/151398/"/>
+        <updated>2022-06-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの連邦小企業庁（Small Business Administration）によると、従業員が500人以下の小企業はアメリカの全企業の99.9%で、有給 ...
+ビットコインをアメリカの中小企業の味方にする【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Isaiah Douglass</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「NFTを担保に？」UnUniFiとは？　CONNECTV・動画解説]]></title>
         <id>https://coinpost.jp/?p=358146</id>
@@ -887,26 +898,6 @@ Web3で学歴社会は無効化される？──元MITメディアラボ所長�
         <summary type="html"><![CDATA[米国のウィスキー蒸留所Angel’s Envyは、メタバースプラットフォーム「ディセントラランド（MANA）」に、バーチャル蒸留所を設置することを発表した。トークンやNFTの配布を行う予定だ。]]></summary>
         <author>
             <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル庁の管轄方針にWeb3を検討、平将明議員が明かす]]></title>
-        <id>https://coinpost.jp/?p=357168</id>
-        <link href="https://coinpost.jp/?p=357168"/>
-        <updated>2022-06-08T09:21:14.000Z</updated>
-        <summary type="html"><![CDATA[自民党の平将明議員は5月31日、自身が出演しているYouTube番組「木原・平の地上波いらず」で、Web3領域を、デジタル庁が管轄する方針を検討していることを明らかにした。]]></summary>
-        <author>
-            <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所CoinEx CEOが語る、UST騒動の余波]]></title>
-        <id>https://coinpost.jp/?p=355671</id>
-        <link href="https://coinpost.jp/?p=355671"/>
-        <updated>2022-06-08T09:00:15.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインのテラUSD（UST）が米ドルとディペッグを引き起こし、暗号資産（仮想通貨）市場に大きな影響を与えた。海外取引所CoinExのHaipo Yang CEOが、相場の現状と今後の課題点について語る。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
