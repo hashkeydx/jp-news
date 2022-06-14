@@ -64,16 +64,6 @@
           "wordCount": 44,
           "title": "フルオンチェーンゲーム『Isekai Saga』、パブリックセールでキャラクターNFTが30秒で完売",
           "imageUrl": null
-        },
-        {
-          "id": "d35bb289ebd6c557e094796fb304f654",
-          "author": "株式会社ナンバーワンソリューションズ",
-          "description": "株式会社ナンバーワンソリューションズのプレスリリース（2022年6月10日 17時00分）NFTの課題を解決するブロックチェーン[SYNCHAIN]のアルファ版を開発",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26863df140f9364d560e7ca0c2350d667",
-          "publishedOn": "2022-06-10T10:15:02.000Z",
-          "wordCount": 44,
-          "title": "NFTの課題を解決するブロックチェーン「SYNCHAIN」のアルファ版を開発",
-          "imageUrl": null
         }
       ]
     },
@@ -82,6 +72,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=151801",
+          "author": "Paul Brody",
+          "description": "暗号資産（仮想通貨）コミュニティ内で最もよく聞くメッセージの1つは、デフレはインフレより良いものであり、資産はデフレ的であればあるほど良いというものだ。 デフレ ...\n暗号資産にまつわるインフレの誤解を解く【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/151801/",
+          "publishedOn": "2022-06-14T21:30:00.000Z",
+          "wordCount": 204,
+          "title": "暗号資産にまつわるインフレの誤解を解く【コラム】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_752644789-scaled.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=151850",
           "author": "Will Canny",
@@ -321,16 +321,6 @@
           "wordCount": 199,
           "title": "ビットコインは量子技術の脅威にどう対応する？【コラム】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_1457191784-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=151338",
-          "author": "長谷川友哉／bitbankマーケット・アナリスト",
-          "description": "5月のビットコイン（BTC）相場は16.62%安と2カ月続落し、490万円から400万円周辺まで下落。月初の米雇用統計で賃金が高止まりしたことを切っ掛けに米株が ...\n3万ドル付近で揉み合い続くビットコイン──「底入れ」と言い切れない微妙な状況【bitbankレポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/151338/",
-          "publishedOn": "2022-06-10T09:30:08.000Z",
-          "wordCount": 272,
-          "title": "3万ドル付近で揉み合い続くビットコイン──「底入れ」と言い切れない微妙な状況【bitbankレポート】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/03/bitcoin-btc-chartshutterstock_1938604600-scaled.jpg"
         }
       ]
     },
@@ -345,6 +335,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=359179",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨貸借サービスプラットフォーム大手のBlockFiは14日、米アイオワ州で約1.3億円の罰金を科せられたことが明らかになった。",
+          "link": "https://coinpost.jp/?p=359179",
+          "publishedOn": "2022-06-14T22:20:37.000Z",
+          "wordCount": 343,
+          "title": "BlockFi、アイオワ州で1.2億円の罰金支払いへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/blockfi-new-fin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/blockfi-new-fin.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=359177",
+          "author": "K.Kobayashi",
+          "description": "米マイクロストラテジーCEOは、仮想通貨市場が低迷していても価格変動は想定済みとして、ビットコイン保有継続の意思を改めて示した。今後のビットコインのユースケースについてもコメントしている。",
+          "link": "https://coinpost.jp/?p=359177",
+          "publishedOn": "2022-06-14T21:50:22.000Z",
+          "wordCount": 423,
+          "title": "米マイクロストラテジーCEO「ビットコインの価格変動は想定済み」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=359173",
           "author": "菊谷ルイス",
@@ -989,36 +1009,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/interviewed_polkafantasy20220609-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/interviewed_polkafantasy20220609-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=358132",
-          "author": "CONNECTV 編集部",
-          "description": "今回は、USDC・USDT・BUSD・DAI・FRAX・MIM、それぞれのステーブルコインに関して、そのリスクについて、HashHub CEO 平野淳也氏に考察いただいた。",
-          "link": "https://coinpost.jp/?p=358132",
-          "publishedOn": "2022-06-10T10:00:28.000Z",
-          "wordCount": 362,
-          "title": "ステーブルコイン、そのリスクを考察　CONNECTV・動画解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/maxresdefault-e1654853752727.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/maxresdefault-e1654853752727.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=358062",
-          "author": "S.Inosita",
-          "description": "世界最大級の総合格闘技団体UFCは、ブロックチェーンVeChainが、同競技のグローバルスポンサーに就任したことを発表した",
-          "link": "https://coinpost.jp/?p=358062",
-          "publishedOn": "2022-06-10T09:28:11.000Z",
-          "wordCount": 383,
-          "title": "VeChain、米大手総合格闘技団体「UFC」と提携",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ufc23948234-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ufc23948234-1.png"
         }
       ]
     }
