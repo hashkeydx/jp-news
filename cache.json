@@ -123,6 +123,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=151752",
+          "author": "Bradley Keoun",
+          "description": "ビットコイン（BTC）は13日、過去1年で最大の下落となった。当記事執筆時点、ビットコインは2万3200ドル付近、過去24時間で約16％下落した（日本時間14日 ...\n【US市場】ビットコイン、2万1500ドル台──過去1年で最大の下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/151752/",
+          "publishedOn": "2022-06-14T01:20:42.000Z",
+          "wordCount": 235,
+          "title": "【US市場】ビットコイン、2万1500ドル台──過去1年で最大の下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/coindesk-BTC-chart-2022-06-14.png"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=151754",
+          "author": "Shaurya Malwa",
+          "description": "暗号資産（仮想通貨）の時価総額は協定世界時（UTC）13日午前中、CoinMarketCapのデータによると、24時間で約12％下落し、約9700億ドルになった ...\n暗号資産の時価総額、1兆ドル割れ──2021年1月以来 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/151754/",
+          "publishedOn": "2022-06-13T23:30:33.000Z",
+          "wordCount": 222,
+          "title": "暗号資産の時価総額、1兆ドル割れ──2021年1月以来",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/VKA24QIXEVCTRPACJJ55IKRTCA.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=151598",
           "author": "Amitoj Singh",
           "description": "ロシアのウクライナ侵攻で、貴重な建築物や博物館などの文化遺産が破壊される危険にさらされているなか、ウクライナは「芸術品や歴史的遺産の一つひとつ」をデジタル化して ...\nウクライナ、文化的DNA保存にNFT活用【Consensus 2022】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -395,6 +415,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=358849",
+          "author": "A.Yamada",
+          "description": "大手仮想通貨貸借プラットフォームBlockFiは人員削減を行うことを発表した。市場停滞を受けて、他に仮想通貨取引所Crypto.comなども同様の動きを見せている。",
+          "link": "https://coinpost.jp/?p=358849",
+          "publishedOn": "2022-06-14T00:55:37.000Z",
+          "wordCount": 395,
+          "title": "BlockFiとCrypto.comが人員削減、弱気相場を受けて",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/layoff-blockfi.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/layoff-blockfi.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=358844",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨トロンの創設者ジャスティン・サン氏は、ステーブルコインUSDDの価値を維持するため、トロンDAOリザーブが約2,600億円を使用したことを発表。また、準備金にUSDCも追加している。",
+          "link": "https://coinpost.jp/?p=358844",
+          "publishedOn": "2022-06-14T00:25:23.000Z",
+          "wordCount": 410,
+          "title": "トロンDAO、USDDの価格維持に2,600億円を使用　TRXの先物価格下落を受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/tronusd0304.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/tronusd0304.png"
+        },
         {
           "id": "https://coinpost.jp/?p=358839",
           "author": "菊谷ルイス",
