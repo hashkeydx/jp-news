@@ -123,6 +123,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=151758",
+          "author": "Krisztian Sandor",
+          "description": "トロン（Tron）ブロックチェーンのステーブルコイン、Decentralized USD（USDD）は13日、ドルペッグを逸脱し、91セントまで下落した。 トロ ...\nトロンのステーブルコインUSDD、一時0.91ドルまで下落──価格維持に20億ドル投入 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/151758/",
+          "publishedOn": "2022-06-14T03:35:06.000Z",
+          "wordCount": 278,
+          "title": "トロンのステーブルコインUSDD、一時0.91ドルまで下落──価格維持に20億ドル投入",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/RWESQYMBTFCJJFY7AJJLSD5TW4.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=151752",
           "author": "Bradley Keoun",
           "description": "ビットコイン（BTC）は13日、過去1年で最大の下落となった。当記事執筆時点、ビットコインは2万3200ドル付近、過去24時間で約16％下落した（日本時間14日 ...\n【US市場】ビットコイン、2万1500ドル台──過去1年で最大の下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -415,6 +425,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=358948",
+          "author": "幸田直子",
+          "description": "英国中央銀行のアンドリュー・ベイリー総裁は13日、英国議会で証言する中、「仮想通貨に本質的な価値はない」とこれまでの主張を繰り返し、仮想通貨を痛烈に批判した。",
+          "link": "https://coinpost.jp/?p=358948",
+          "publishedOn": "2022-06-14T04:03:23.000Z",
+          "wordCount": 362,
+          "title": "「仮想通貨に本質的な価値はない」英中銀総裁が批判",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/Bank-of-England0731.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/Bank-of-England0731.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=358864",
+          "author": "S.Ninomiya",
+          "description": "インフレ高止まりと米株指数の大幅下落を受け暗号資産相場は全面安。レンディング大手セルシウスやUSDD関連のFUDでも大荒れ模様となった。ビットコイン（BTC）は14日、2017年の仮想通貨バブルの最高値である2万ドル水準まで暴落した。",
+          "link": "https://coinpost.jp/?p=358864",
+          "publishedOn": "2022-06-14T03:45:41.000Z",
+          "wordCount": 537,
+          "title": "ビットコイン暴落止まらず、一時20000ドル台に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427a_jpg-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427a_jpg-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=358884",
+          "author": "AKIRA.H",
+          "description": "仮想通貨融資大手Celsius Networkが顧客資金の出金を停止したことを受けて、流動性危機への懸念が高まる中、競合他社が財務の健全性をアピールしている。",
+          "link": "https://coinpost.jp/?p=358884",
+          "publishedOn": "2022-06-14T03:10:50.000Z",
+          "wordCount": 415,
+          "title": "仮想通貨融資大手セルシウスの出金停止、競合他社の反応は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/Celsius-Network.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/Celsius-Network.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=358874",
+          "author": "A.Yamada",
+          "description": "メタバース開発企業Atmos Labsは、仮想ゲーム世界「Atmos」を構築するため、シードラウンドで約15億円を調達したと発表した。",
+          "link": "https://coinpost.jp/?p=358874",
+          "publishedOn": "2022-06-14T02:50:51.000Z",
+          "wordCount": 409,
+          "title": "メタバースゲーム「Atmos」、シードラウンドで15億円を調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/new-metaverse-fund.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/new-metaverse-fund.png"
+        },
         {
           "id": "https://coinpost.jp/?p=358849",
           "author": "A.Yamada",
