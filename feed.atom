@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-15T10:34:05.599Z</updated>
+    <updated>2022-06-15T11:27:25.262Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -45,6 +45,16 @@ NFTの落とし穴、ロシア・北朝鮮の実態は？　暗号資産犯罪�
         <summary type="html"><![CDATA[Yield Guild GamesとMerit Circleの投資契約の解消と、割り当てたトークンの買い戻しが決定した。DAO（分散型自律組織）間の摩擦は、投資家が10倍の投資リターンを得る形で決着している。]]></summary>
         <author>
             <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everscaleのネイティブトークン「EVER」、取引所KuCoinとHuobiに上場]]></title>
+        <id>https://coinpost.jp/?p=359344</id>
+        <link href="https://coinpost.jp/?p=359344"/>
+        <updated>2022-06-15T06:03:48.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンEverscaleは、同チェーンのネイティブトークン「EVER」が暗号資産取引所KuCoinとHuobiに上場したことを発表した。通貨ペアはEVER/USDTとなる。]]></summary>
+        <author>
+            <name>S.Inosita</name>
         </author>
     </entry>
     <entry>
@@ -873,26 +883,6 @@ DEXは暗号資産市場でなぜ重要か【基礎知識】 first appeared on c
 イーサリアム「The Merge」のリハーサル成功、STEPNにDDoS攻撃【6/4～6/10のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>coindesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米アメックス、仮想通貨還元のクレジットカードをローンチへ]]></title>
-        <id>https://coinpost.jp/?p=358215</id>
-        <link href="https://coinpost.jp/?p=358215"/>
-        <updated>2022-06-10T23:10:06.000Z</updated>
-        <summary type="html"><![CDATA[アメリカン・エクスプレス社は暗号資産リワードが付与されるクレジットカードをローンチする計画をしている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カイカエクスチェンジのIEO第一弾、「Skeb Coin」販売計画]]></title>
-        <id>https://coinpost.jp/?p=358211</id>
-        <link href="https://coinpost.jp/?p=358211"/>
-        <updated>2022-06-10T22:45:21.000Z</updated>
-        <summary type="html"><![CDATA[Zaifを運営する株式会社カイカエクスチェンジは10日、第一弾のIEOに向けた3社間覚書締結を発表した。9月頃の実施を目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
