@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-15T04:03:33.265Z</updated>
+    <updated>2022-06-15T04:49:41.285Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ginco、バリデータノードのホストサービスなど開始]]></title>
+        <id>https://coinpost.jp/?p=359281</id>
+        <link href="https://coinpost.jp/?p=359281"/>
+        <updated>2022-06-15T04:15:27.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン技術インフラを提供するGincoは、バリデータノードのホスティングサービスを開始することを発表。ステーキングにも対応することを明かした]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[正念場迎える仮想通貨市場、FOMC発表目前にリスク回避姿勢目立つ]]></title>
         <id>https://coinpost.jp/?p=359242</id>
