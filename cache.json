@@ -163,6 +163,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=152103",
+          "author": "真田雅幸／bitbankマーケット・アナリスト",
+          "description": "6月2週のビットコイン週足は15%程度下落しており大きな陰線を記録している。3週前に久々の陽線を記録していたが、下落トレンドが再び進み、現在は2週連続の陰線が濃 ...\nビットコイン、最悪のシナリオに備えよ【bitbankチャート分析】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152103/",
+          "publishedOn": "2022-06-17T09:30:00.000Z",
+          "wordCount": 265,
+          "title": "ビットコイン、最悪のシナリオに備えよ【bitbankチャート分析】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/btcjpy-scaled.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=152187",
+          "author": "coindesk JAPAN",
+          "description": "メルカリの子会社メルコイン（mercoin）が17日、暗号資産（仮想通貨）交換業者として登録された。 17日の発表によると、同社は2023年6月までに、「メルペ ...\nメルコイン、暗号資産交換業を登録──メルペイ残高でビットコイン取引 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152187/",
+          "publishedOn": "2022-06-17T09:01:42.000Z",
+          "wordCount": 197,
+          "title": "メルコイン、暗号資産交換業を登録──メルペイ残高でビットコイン取引",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/04/mercoin.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=152086",
           "author": "Oliver Knight",
           "description": "NFTゲームの開発を手がけ、NFTやメタバースに積極的に投資しているアニモカブランズ（Animoca Brands）は、教育コンテンツプラットフォームのタイニー ...\nアニモカブランズ、教育系UGCプラットフォームを買収 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -521,26 +541,6 @@
           "wordCount": 247,
           "title": "ビットコインのドミナンスが40％台を回復【Krakenリサーチ】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/01/btcglobalgray-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=151447",
-          "author": "Jackson Wood",
-          "description": "2012年、意欲満々の経済学部生として私は、ビットコイン（BTC） に投資をしたいと考えた。大型小売店のウォルマートに行き、送金サービスのマネーグラムを利用して ...\nDEXは暗号資産市場でなぜ重要か【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/151447/",
-          "publishedOn": "2022-06-12T21:30:00.000Z",
-          "wordCount": 196,
-          "title": "DEXは暗号資産市場でなぜ重要か【基礎知識】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_1094314655-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=151398",
-          "author": "Isaiah Douglass",
-          "description": "アメリカの連邦小企業庁（Small Business Administration）によると、従業員が500人以下の小企業はアメリカの全企業の99.9%で、有給 ...\nビットコインをアメリカの中小企業の味方にする【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/151398/",
-          "publishedOn": "2022-06-12T21:00:00.000Z",
-          "wordCount": 211,
-          "title": "ビットコインをアメリカの中小企業の味方にする【コラム】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_1277806516-scaled.jpg"
         }
       ]
     },
@@ -555,6 +555,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=360194",
+          "author": "CoinPost編集部",
+          "description": "メルカリ子会社のメルコインは17日、暗号資産（仮想通貨）交換業者の認可を受けたことがわかった。記載されている通貨は、ビットコイン（BTC）のみ。",
+          "link": "https://coinpost.jp/?p=360194",
+          "publishedOn": "2022-06-17T09:23:07.000Z",
+          "wordCount": 342,
+          "title": "メルコイン、暗号資産（仮想通貨）交換業者として認可される",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/mercoin.2021.7.28.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/mercoin.2021.7.28.png"
+        },
         {
           "id": "https://coinpost.jp/?p=360073",
           "author": "S.Inosita",
@@ -1574,21 +1589,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/cz_20200120_4.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/cz_20200120_4.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=358525",
-          "author": "菊谷ルイス",
-          "description": "ステーブルコインUSDDの準備金を運用する組織「トロンDAOリザーブ」は11日、5,000万ドル相当のビットコインとTRXを購入したことを発表した。",
-          "link": "https://coinpost.jp/?p=358525",
-          "publishedOn": "2022-06-12T21:30:19.000Z",
-          "wordCount": 386,
-          "title": "トロンDAO、USDDの準備金として67億円相当のビットコインとTRXを購入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
         }
       ]
     }
