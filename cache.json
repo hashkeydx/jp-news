@@ -163,6 +163,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=152107",
+          "author": "Helene Braun",
+          "description": "ビットコイン（BTC）は16日、2万755ドルまで下落した。前日の15日に米連邦準備理事会（FRB）が0.75%の利上げを発表した直後には、2万3000ドル付近 ...\n【US市場】ビットコイン、底打ちはまだか first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152107/",
+          "publishedOn": "2022-06-17T02:15:46.000Z",
+          "wordCount": 233,
+          "title": "【US市場】ビットコイン、底打ちはまだか",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/coindesk-BTC-chart-2022-06-17.png"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=152109",
+          "author": "Michael Bellusci",
+          "description": "イーロン・マスク氏は、デジタル決済をツイッターに統合することは「合理的」と述べた。 「お金は、現時点ですでに基本的にデジタル。お金を簡単にやり取りできるので、ツ ...\nツイッター、決済機能の統合は合理的：イーロン・マスク氏 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152109/",
+          "publishedOn": "2022-06-17T01:10:08.000Z",
+          "wordCount": 179,
+          "title": "ツイッター、決済機能の統合は合理的：イーロン・マスク氏",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_2055947921.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=152066",
           "author": "Sandali Handagama",
           "description": "米ドル連動型ステーブルコインのUSDコイン（USDC）の発行を手がける米サークル・インターネット・フィナンシャル（Circle Internet Financi ...\n米サークル、ユーロ連動型ステーブルコイン発行 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -525,6 +545,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=359988",
+          "author": "S.Inosita",
+          "description": "バンダイナムコエンターテインメントは、一般社団法人「日本デジタル空間経済連盟」への加盟を発表した。意見交換などで「IPメタバース」の構築に活用するとされる。",
+          "link": "https://coinpost.jp/?p=359988",
+          "publishedOn": "2022-06-17T02:12:38.000Z",
+          "wordCount": 370,
+          "title": "バンダイナムコ、日本デジタル空間経済連盟に加盟",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/bandai_namco1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/bandai_namco1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=359956",
+          "author": "A.Yamada",
+          "description": "イーロン・マスク氏は、同氏が仮想通貨ドージコインを誇大宣伝したとする訴訟に直面している。原告は約34兆円の賠償金を求めている。",
+          "link": "https://coinpost.jp/?p=359956",
+          "publishedOn": "2022-06-17T01:20:26.000Z",
+          "wordCount": 371,
+          "title": "イーロン、ドージコイン誇大宣伝で34兆円の訴訟を提起される",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/elon_doge_20210608_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/elon_doge_20210608_2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=359938",
+          "author": "K.Kobayashi",
+          "description": "イーロン・マスク氏は、ツイッターに仮想通貨決済機能を導入することについて自身の見解を示した。16日に同氏は、ツイッター社の従業員と質疑応答を行っている。",
+          "link": "https://coinpost.jp/?p=359938",
+          "publishedOn": "2022-06-17T00:20:35.000Z",
+          "wordCount": 381,
+          "title": "イーロン、ツイッターへの仮想通貨決済機能導入について見解示す　社員質疑応答で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/Elon-Musk-Twitter.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/Elon-Musk-Twitter.png"
+        },
         {
           "id": "https://coinpost.jp/?p=359923",
           "author": "K.Kobayashi",
@@ -1409,21 +1474,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/trx-okex-rollback.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=358146",
-          "author": "CONNECTV 編集部",
-          "description": "今回の#CONNECTVでは、株式会社CauchyE代表木村優氏をお招きして、木村優氏のプロジェクトでもある「UnUniFi」ついて、分かりやすく解説する。",
-          "link": "https://coinpost.jp/?p=358146",
-          "publishedOn": "2022-06-12T12:05:44.000Z",
-          "wordCount": 362,
-          "title": "「NFTを担保に？」UnUniFiとは？　CONNECTV・動画解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/2022060_B-e1654854507380.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/2022060_B-e1654854507380.jpg"
         }
       ]
     }
