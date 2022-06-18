@@ -163,6 +163,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=152207",
+          "author": "coindesk JAPAN",
+          "description": "ジャック・ドーシー氏はWeb3に対する不満を公言している。ドーシー氏の見解では、Web3はWeb2と同じくらい疑わしいものになった──今週のトップニュースをダイ ...\nドーシー氏「Web5」を発表、テザーで大規模な払い戻し【6/11～6/17のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152207/",
+          "publishedOn": "2022-06-18T00:00:00.000Z",
+          "wordCount": 287,
+          "title": "ドーシー氏「Web5」を発表、テザーで大規模な払い戻し【6/11～6/17のトップニュース】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_600126266.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=152174",
+          "author": "Krisztian Sandor",
+          "description": "暗号資産（仮想通貨）市場がここ数週間で急落するなか、アラメダ・リサーチ（Alameda Research）やスリー・アローズ・キャピタル（Three Arrow ...\n最大の「stETH」プール、ほぼ空に──売りはより困難に first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152174/",
+          "publishedOn": "2022-06-17T23:30:00.000Z",
+          "wordCount": 277,
+          "title": "最大の「stETH」プール、ほぼ空に──売りはより困難に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/SGSHNBVDJZC5ZD6INBMHUKTGWM.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=152051",
           "author": "Eli Tan",
           "description": "2週間前、ニューヨーク市のオフィスビルが2900万ドルで売りに出された。そこには、Web3のひねりが加えられていた。不動産購入の権利は、OpenSeaでNFT（ ...\nNFTで販売されたオフィスビル、イーサ暴落の道連れに first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -495,6 +515,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=360344",
+          "author": "A.Yamada",
+          "description": "リップル社はNFTプロジェクトFLUFWorldと提携して、NFTを鋳造・売買できるオープンなメタバースを構築することを発表した。",
+          "link": "https://coinpost.jp/?p=360344",
+          "publishedOn": "2022-06-18T01:10:48.000Z",
+          "wordCount": 427,
+          "title": "リップル社がFLUFWorldと提携、XRPL基盤のメタバースを構築へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/fluf-ripple.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/fluf-ripple.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=360337",
+          "author": "AKIRA.H",
+          "description": "香港に拠点を置く仮想通貨貸借プラットフォームのBabel Financeは17日、顧客資金の出金対応を停止することを発表した。業界大手がデフォルト状態に陥ったのに続き、市場は危機の連鎖に警戒を強めている。",
+          "link": "https://coinpost.jp/?p=360337",
+          "publishedOn": "2022-06-18T00:45:51.000Z",
+          "wordCount": 388,
+          "title": "相次ぐ出金停止の事例、仮想通貨融資大手Babel Finance",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/babel-bank-run-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/babel-bank-run-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=360333",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所大手FTXはカナダ市場に参入するために仮想通貨取引所「Bitvo」を買収する。",
+          "link": "https://coinpost.jp/?p=360333",
+          "publishedOn": "2022-06-17T23:35:41.000Z",
+          "wordCount": 370,
+          "title": "FTX、カナダの仮想通貨取引所を買収",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_03.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_03.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=360322",
           "author": "菊谷ルイス",
