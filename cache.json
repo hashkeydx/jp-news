@@ -124,16 +124,6 @@
           "wordCount": 44,
           "title": "​Twiterで募集「第三回#NFT買いますキャンペーン」開催！応募者には限定NFTも漏れなくプレゼント",
           "imageUrl": null
-        },
-        {
-          "id": "4dd7fdc5d802958cd185143ea1b032cc",
-          "author": "株式会社HashPort",
-          "description": "株式会社HashPortのプレスリリース（2022年6月15日 17時41分）HashPort代表取締役CEOの吉田 世博が、一般社団法人日本暗号資産ビジネス協会（JCBA）の理事に就任",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a66e63df140f9364d36ae9ca0c2350d667",
-          "publishedOn": "2022-06-15T08:41:05.000Z",
-          "wordCount": 44,
-          "title": "HashPort代表取締役CEOの吉田 世博が、一般社団法人日本暗号資産ビジネス協会（JCBA）の理事に就任",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=152121",
+          "author": "Andy Edstrom",
+          "description": "私は普段、資産価格について短期的予測を立てることはしない。しかし、金融市場は時折、予測しやすい要素を提供してくれる アーサー・ヘイエス（Arthur Hayes ...\n「The Merge」：ETH価格に好材料は本当か？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152121/",
+          "publishedOn": "2022-06-19T21:00:00.000Z",
+          "wordCount": 1774,
+          "title": "「The Merge」：ETH価格に好材料は本当か？【コラム】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2019/02/cropped-cropped-coindesk-new-favicon-32x32.png"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=152249",
           "author": "Tracy Wang",
@@ -371,16 +371,6 @@
           "wordCount": 183,
           "title": "セルシアスのトラブルとテラUSDの崩壊は長期的メリット：米リサーチ会社FSInsight",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/P2SZPG56DZA4HHRA27TIRVWPNI.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=151519",
-          "author": "coindesk JAPAN 広告制作チーム",
-          "description": "年間取引高が15兆8000億ドルに達した暗号資産（仮想通貨）が世界のインフラとなりつつある中、避けて通れないのが「犯罪対策」という難問だ。 専門家たちが、その世 ...\nNFTの落とし穴、ロシア・北朝鮮の実態は？　暗号資産犯罪の実情に迫る【イベントレポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/151519/",
-          "publishedOn": "2022-06-15T09:00:30.000Z",
-          "wordCount": 388,
-          "title": "NFTの落とし穴、ロシア・北朝鮮の実態は？　暗号資産犯罪の実情に迫る【イベントレポート】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/members25_sc_article_1.png"
         }
       ]
     },
@@ -395,6 +385,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=360529",
+          "author": "菊谷ルイス",
+          "description": "グローバル仮想通貨取引所大手FTXは19日、12銘柄のパーペチュアルの取り扱い廃止を実施する予定を発表した。",
+          "link": "https://coinpost.jp/?p=360529",
+          "publishedOn": "2022-06-19T21:18:17.000Z",
+          "wordCount": 1629,
+          "title": "FTX、12銘柄の先物取引を廃止へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/ftx-delist.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/ftx-delist.png"
+        },
         {
           "id": "https://coinpost.jp/?p=360324",
           "author": "K.Kobayashi",
