@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-20T02:22:45.234Z</updated>
+    <updated>2022-06-20T03:52:59.128Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米FRB、ステーブルコインを金融安定性へのリスクとして言及]]></title>
+        <id>https://coinpost.jp/?p=360573</id>
+        <link href="https://coinpost.jp/?p=360573"/>
+        <updated>2022-06-20T03:33:56.000Z</updated>
+        <summary type="html"><![CDATA[米連邦準備制度理事会は金融政策報告書を発行。金融安定性リスクの例として、裏付けのないステーブルコインなどのリスクを挙げた。UST（TerraUSD）騒動が念頭にあるものとみられる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン一時2万ドル回復、マイナー（採掘業者）の売り圧力は上昇傾向]]></title>
+        <id>https://coinpost.jp/?p=360566</id>
+        <link href="https://coinpost.jp/?p=360566"/>
+        <updated>2022-06-20T03:26:29.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場では一時17500ドルまで売り込まれたビットコインが反発し、一時2万ドルを回復した。一方、地合い悪化で採算コスト割れしたマイナー（採掘業者）が保有ポジションを売却する動きも確認された。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「クジラ」ウォレットの強制管理──清算の混乱を避ける手段か、DeFiを損なうものか]]></title>
+        <id>https://www.coindeskjapan.com/?p=152283</id>
+        <link href="https://www.coindeskjapan.com/152283/"/>
+        <updated>2022-06-20T02:45:23.000Z</updated>
+        <summary type="html"><![CDATA[ソラナブロックチェーン上のDeFiプロトコル、Solendは19日、同プロトコルで最大のアカウント、いわゆる「クジラ」を強制的に管理するための投票が行われた。関 ...
+「クジラ」ウォレットの強制管理──清算の混乱を避ける手段か、DeFiを損なうものか first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Danny Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース、USTの取扱巡り提訴される]]></title>
         <id>https://coinpost.jp/?p=360544</id>
