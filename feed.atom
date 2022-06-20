@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-19T23:27:00.728Z</updated>
+    <updated>2022-06-20T02:22:45.234Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、USTの取扱巡り提訴される]]></title>
+        <id>https://coinpost.jp/?p=360544</id>
+        <link href="https://coinpost.jp/?p=360544"/>
+        <updated>2022-06-20T01:05:24.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所大手のコインベースは、ステーブルコインUSTについて、投資家を誤解させるような内容で宣伝していたとして米カリフォルニア州で提訴された。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは2万ドル回復、イーサリアムは1100ドルまで上昇]]></title>
+        <id>https://www.coindeskjapan.com/?p=152272</id>
+        <link href="https://www.coindeskjapan.com/152272/"/>
+        <updated>2022-06-19T23:38:44.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は米東部時間19日午後（日本時間20日朝）、2万ドルを超えて急騰し、当記事執筆時点2万580ドル、前日の安値から16.9％上昇となった。前 ...
+ビットコインは2万ドル回復、イーサリアムは1100ドルまで上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Tracy Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリスティーズのNFT専門家、Yuga Labsに転職へ]]></title>
         <id>https://coinpost.jp/?p=360537</id>
@@ -819,17 +840,6 @@ Polygonがコンテンツ大国の日本で拡大する4つの利点【インタ
 イーサリアムを多く保有しているのは誰だ？再注目される資産の分散度 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セルシアスのトラブルとテラUSDの崩壊は長期的メリット：米リサーチ会社FSInsight]]></title>
-        <id>https://www.coindeskjapan.com/?p=151965</id>
-        <link href="https://www.coindeskjapan.com/151965/"/>
-        <updated>2022-06-15T12:15:30.000Z</updated>
-        <summary type="html"><![CDATA[厳しいマクロ経済環境と行き過ぎた利回り戦略の組み合わせによってこの数日、結果的に暗号資産（仮想通貨）は下落を強いられ、2000億ドル（約27兆円）以上の価値が失 ...
-セルシアスのトラブルとテラUSDの崩壊は長期的メリット：米リサーチ会社FSInsight first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>
