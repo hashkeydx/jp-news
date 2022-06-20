@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-20T22:28:11.002Z</updated>
+    <updated>2022-06-20T23:27:55.681Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ政府、CryptoPunksの売却益を抗戦の資金に]]></title>
+        <id>https://coinpost.jp/?p=360915</id>
+        <link href="https://coinpost.jp/?p=360915"/>
+        <updated>2022-06-20T22:50:58.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ政府は以前寄付された著名NFTコレクションCryptoPunksの1つを売却し、ロシア抗戦の資金に充てた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W3 FORTUNE PTE. LTD.のプレスリリース｜PR TIMES]]></title>
         <id>fa90db7de4e678e817df9ede0a9153d3</id>
@@ -746,17 +756,6 @@ Polygonがコンテンツ大国の日本で拡大する4つの利点【インタ
         <summary type="html"><![CDATA[セルガ株式会社のプレスリリース（2022年6月16日 23時12分）AnimeFiプロジェクトの第一弾作品[傀(kai)]公認DAOアンバサダーを募集]]></summary>
         <author>
             <name>セルガ株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所・販売所　キャンペーン更新情報まとめ（2022年6月-7月）]]></title>
-        <id>https://www.coindeskjapan.com/?p=152058</id>
-        <link href="https://www.coindeskjapan.com/152058/"/>
-        <updated>2022-06-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産の取引所・販売所7社で5月から引き続き開催しているキャンペーンと6月から開催されたキャンペーンをまとめた。 Coincheck bitflyer DMM ...
-暗号資産取引所・販売所　キャンペーン更新情報まとめ（2022年6月-7月） first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
         </author>
     </entry>
 </feed>
