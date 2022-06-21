@@ -73,6 +73,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=152416",
+          "author": "Anna Baydakova",
+          "description": "暗号資産（仮想通貨）の価格は上がることもあれば、下がることもある。しかし、国境を越えるというかけがえのない力は、損なわれることはない。戦時にはなおさらだ。 ロシ ...\nウクライナ、180億円超の暗号資産寄付の使い道──暗号資産が使えないケースも first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152416/",
+          "publishedOn": "2022-06-21T21:00:00.000Z",
+          "wordCount": 1797,
+          "title": "ウクライナ、180億円超の暗号資産寄付の使い道──暗号資産が使えないケースも",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2019/02/cropped-cropped-coindesk-new-favicon-32x32.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=152499",
           "author": "Shaurya Malwa",
           "description": "ソラナブロックチェーンのDeFi（分散型金融）プロトコル「Solend」でガバナンスをめぐる混乱を引き起こしているクジラ（大口保有者）のウォレットが21日午前中 ...\n問題のクジラが資金を移動、清算リスクは低下：ソラナのDeFi「Solend」がツイート first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -301,16 +311,6 @@
           "wordCount": 265,
           "title": "ビットコイン、最悪のシナリオに備えよ【bitbankチャート分析】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/04/btcjpy-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=152187",
-          "author": "coindesk JAPAN",
-          "description": "メルカリの子会社メルコイン（mercoin）が17日、暗号資産（仮想通貨）交換業者として登録された。 17日の発表によると、同社は2023年6月までに、「メルペ ...\nメルコイン、暗号資産交換業を登録──メルペイ残高でビットコイン取引 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/152187/",
-          "publishedOn": "2022-06-17T09:01:42.000Z",
-          "wordCount": 197,
-          "title": "メルコイン、暗号資産交換業を登録──メルペイ残高でビットコイン取引",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/04/mercoin.jpg"
         }
       ]
     },
@@ -336,6 +336,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=361260",
+          "author": "菊谷ルイス",
+          "description": "米最大手暗号資産取引所コインベースは22日、6銘柄の新規取扱を発表した。",
+          "link": "https://coinpost.jp/?p=361260",
+          "publishedOn": "2022-06-21T21:09:43.000Z",
+          "wordCount": 1601,
+          "title": "米コインベース、6銘柄の新規上場へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_3.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=361144",
           "author": "CoinPost編集部",
@@ -860,21 +875,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=360194",
-          "author": "CoinPost編集部",
-          "description": "メルカリ子会社のメルコインは17日、暗号資産（仮想通貨）交換業者の認可を受けたことがわかった。記載されている通貨は、ビットコイン（BTC）のみ。",
-          "link": "https://coinpost.jp/?p=360194",
-          "publishedOn": "2022-06-17T09:23:07.000Z",
-          "wordCount": 342,
-          "title": "メルコイン、暗号資産（仮想通貨）交換業者として認可される",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/mercoin.2021.7.28.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/mercoin.2021.7.28.png"
         }
       ]
     }

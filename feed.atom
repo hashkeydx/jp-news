@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-21T20:30:09.214Z</updated>
+    <updated>2022-06-21T21:26:32.280Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、6銘柄の新規上場へ]]></title>
+        <id>https://coinpost.jp/?p=361260</id>
+        <link href="https://coinpost.jp/?p=361260"/>
+        <updated>2022-06-21T21:09:43.000Z</updated>
+        <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは22日、6銘柄の新規取扱を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ、180億円超の暗号資産寄付の使い道──暗号資産が使えないケースも]]></title>
+        <id>https://www.coindeskjapan.com/?p=152416</id>
+        <link href="https://www.coindeskjapan.com/152416/"/>
+        <updated>2022-06-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）の価格は上がることもあれば、下がることもある。しかし、国境を越えるというかけがえのない力は、損なわれることはない。戦時にはなおさらだ。 ロシ ...
+ウクライナ、180億円超の暗号資産寄付の使い道──暗号資産が使えないケースも first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Anna Baydakova</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[問題のクジラが資金を移動、清算リスクは低下：ソラナのDeFi「Solend」がツイート]]></title>
         <id>https://www.coindeskjapan.com/?p=152499</id>
@@ -680,27 +701,6 @@ NFTで販売されたオフィスビル、イーサ暴落の道連れに first a
 ビットコイン、最悪のシナリオに備えよ【bitbankチャート分析】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>真田雅幸／bitbankマーケット・アナリスト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メルコイン、暗号資産（仮想通貨）交換業者として認可される]]></title>
-        <id>https://coinpost.jp/?p=360194</id>
-        <link href="https://coinpost.jp/?p=360194"/>
-        <updated>2022-06-17T09:23:07.000Z</updated>
-        <summary type="html"><![CDATA[メルカリ子会社のメルコインは17日、暗号資産（仮想通貨）交換業者の認可を受けたことがわかった。記載されている通貨は、ビットコイン（BTC）のみ。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メルコイン、暗号資産交換業を登録──メルペイ残高でビットコイン取引]]></title>
-        <id>https://www.coindeskjapan.com/?p=152187</id>
-        <link href="https://www.coindeskjapan.com/152187/"/>
-        <updated>2022-06-17T09:01:42.000Z</updated>
-        <summary type="html"><![CDATA[メルカリの子会社メルコイン（mercoin）が17日、暗号資産（仮想通貨）交換業者として登録された。 17日の発表によると、同社は2023年6月までに、「メルペ ...
-メルコイン、暗号資産交換業を登録──メルペイ残高でビットコイン取引 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
         </author>
     </entry>
 </feed>
