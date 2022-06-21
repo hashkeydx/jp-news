@@ -371,26 +371,6 @@
           "wordCount": 179,
           "title": "ツイッター、決済機能の統合は合理的：イーロン・マスク氏",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_2055947921.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=152066",
-          "author": "Sandali Handagama",
-          "description": "米ドル連動型ステーブルコインのUSDコイン（USDC）の発行を手がける米サークル・インターネット・フィナンシャル（Circle Internet Financi ...\n米サークル、ユーロ連動型ステーブルコイン発行 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/152066/",
-          "publishedOn": "2022-06-16T21:30:00.000Z",
-          "wordCount": 186,
-          "title": "米サークル、ユーロ連動型ステーブルコイン発行",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/C77UV3GDDNCB5GCJ5G2AHV47DU.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=149121",
-          "author": "佐藤 茂",
-          "description": "イーサリアムは、アプリケーションの数で世界一を誇るブロックチェーンだが、そのチェーンを拡張するためのレイヤー2チェーンとして注目を集めているのが、ソフトバンク・ ...\nPolygonがコンテンツ大国の日本で拡大する4つの利点【インタビュー】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/149121/",
-          "publishedOn": "2022-06-16T21:00:00.000Z",
-          "wordCount": 290,
-          "title": "Polygonがコンテンツ大国の日本で拡大する4つの利点【インタビュー】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/yorikobeali-scaled.jpg"
         }
       ]
     },
@@ -416,6 +396,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=361144",
+          "author": "CoinPost編集部",
+          "description": "株式会社Mintoは、ブロックチェーンベースのメタバース（仮想空間）NFTゲームのThe Sandbox上にて、人気サッカー漫画『キャプテン翼Land』のプロデュースを行なうことを発表した。主人公の大空翼や日向小次郎らがNFT化して販売される。",
+          "link": "https://coinpost.jp/?p=361144",
+          "publishedOn": "2022-06-21T08:46:06.000Z",
+          "wordCount": 1605,
+          "title": "The Sandboxが「キャプテン翼」と提携、Mintoと共同でLANDプロデュースへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/sandbox_0621.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/sandbox_0621.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=361099",
           "author": "AKIRA.H",
@@ -1105,36 +1100,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/BTC-Bitcoin_1731054583.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/BTC-Bitcoin_1731054583.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=359915",
-          "author": "菊谷ルイス",
-          "description": "財務再編などの可能性を探っている仮想通貨融資企業Celsius Networkに関しては、投資企業が救済資金を提供する可能性が低いと報じられている。",
-          "link": "https://coinpost.jp/?p=359915",
-          "publishedOn": "2022-06-16T21:35:01.000Z",
-          "wordCount": 376,
-          "title": "仮想通貨融資のセルシウス、出資企業が救済する可能性低いか",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/celsius_burning1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/celsius_burning1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=359913",
-          "author": "菊谷ルイス",
-          "description": "世界的最大手仮想通貨取引所バイナンスは16日、銘柄の通貨ペアの取り扱い追加を発表した。",
-          "link": "https://coinpost.jp/?p=359913",
-          "publishedOn": "2022-06-16T21:05:20.000Z",
-          "wordCount": 335,
-          "title": "バイナンス、5通貨ペアの追加を実施へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/binance-us-funding-.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/binance-us-funding-.png"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-21T08:37:03.462Z</updated>
+    <updated>2022-06-21T09:46:52.381Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Sandboxが「キャプテン翼」と提携、Mintoと共同でLANDプロデュースへ]]></title>
+        <id>https://coinpost.jp/?p=361144</id>
+        <link href="https://coinpost.jp/?p=361144"/>
+        <updated>2022-06-21T08:46:06.000Z</updated>
+        <summary type="html"><![CDATA[株式会社Mintoは、ブロックチェーンベースのメタバース（仮想空間）NFTゲームのThe Sandbox上にて、人気サッカー漫画『キャプテン翼Land』のプロデュースを行なうことを発表した。主人公の大空翼や日向小次郎らがNFT化して販売される。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ・ウォレットを革新するアプリのトークン化規格「xNFT」とは？]]></title>
         <id>https://coinpost.jp/?p=361099</id>
@@ -864,48 +874,6 @@ NFTで販売されたオフィスビル、イーサ暴落の道連れに first a
 は、BlockFiのビットコインのポジションを清算したことが分かった。情報筋の話としてFinancial Timesが報じている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨融資のセルシウス、出資企業が救済する可能性低いか]]></title>
-        <id>https://coinpost.jp/?p=359915</id>
-        <link href="https://coinpost.jp/?p=359915"/>
-        <updated>2022-06-16T21:35:01.000Z</updated>
-        <summary type="html"><![CDATA[財務再編などの可能性を探っている仮想通貨融資企業Celsius Networkに関しては、投資企業が救済資金を提供する可能性が低いと報じられている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米サークル、ユーロ連動型ステーブルコイン発行]]></title>
-        <id>https://www.coindeskjapan.com/?p=152066</id>
-        <link href="https://www.coindeskjapan.com/152066/"/>
-        <updated>2022-06-16T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米ドル連動型ステーブルコインのUSDコイン（USDC）の発行を手がける米サークル・インターネット・フィナンシャル（Circle Internet Financi ...
-米サークル、ユーロ連動型ステーブルコイン発行 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Sandali Handagama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、5通貨ペアの追加を実施へ]]></title>
-        <id>https://coinpost.jp/?p=359913</id>
-        <link href="https://coinpost.jp/?p=359913"/>
-        <updated>2022-06-16T21:05:20.000Z</updated>
-        <summary type="html"><![CDATA[世界的最大手仮想通貨取引所バイナンスは16日、銘柄の通貨ペアの取り扱い追加を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygonがコンテンツ大国の日本で拡大する4つの利点【インタビュー】]]></title>
-        <id>https://www.coindeskjapan.com/?p=149121</id>
-        <link href="https://www.coindeskjapan.com/149121/"/>
-        <updated>2022-06-16T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムは、アプリケーションの数で世界一を誇るブロックチェーンだが、そのチェーンを拡張するためのレイヤー2チェーンとして注目を集めているのが、ソフトバンク・ ...
-Polygonがコンテンツ大国の日本で拡大する4つの利点【インタビュー】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>佐藤 茂</name>
         </author>
     </entry>
 </feed>
