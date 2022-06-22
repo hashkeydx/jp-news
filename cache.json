@@ -351,26 +351,6 @@
           "wordCount": 213,
           "title": "ビットコインが2万ドル割れ、2020年12月以来──イーサリアムも一時、1000ドル割れ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/coindesk-BTC-chart-2022-06-18-2.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=152207",
-          "author": "coindesk JAPAN",
-          "description": "ジャック・ドーシー氏はWeb3に対する不満を公言している。ドーシー氏の見解では、Web3はWeb2と同じくらい疑わしいものになった──今週のトップニュースをダイ ...\nドーシー氏「Web5」を発表、テザーで大規模な払い戻し【6/11～6/17のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/152207/",
-          "publishedOn": "2022-06-18T00:00:00.000Z",
-          "wordCount": 287,
-          "title": "ドーシー氏「Web5」を発表、テザーで大規模な払い戻し【6/11～6/17のトップニュース】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_600126266.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=152174",
-          "author": "Krisztian Sandor",
-          "description": "暗号資産（仮想通貨）市場がここ数週間で急落するなか、アラメダ・リサーチ（Alameda Research）やスリー・アローズ・キャピタル（Three Arrow ...\n最大の「stETH」プール、ほぼ空に──売りはより困難に first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/152174/",
-          "publishedOn": "2022-06-17T23:30:00.000Z",
-          "wordCount": 277,
-          "title": "最大の「stETH」プール、ほぼ空に──売りはより困難に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/SGSHNBVDJZC5ZD6INBMHUKTGWM.jpeg"
         }
       ]
     },
@@ -396,6 +376,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=361008",
+          "author": "CoinPost編集部",
+          "description": "東証1部上場企業SBIホールディングス傘下の仮想通貨取引所SBI VCトレードは22日、新VCTRADEの現物取引において「取引所サービス」の提供を開始した。板取引形式で7銘柄が取引可能となっている。",
+          "link": "https://coinpost.jp/?p=361008",
+          "publishedOn": "2022-06-22T11:50:24.000Z",
+          "wordCount": 1647,
+          "title": "SBIの新VCTRADE 、取引所サービスのプレオープン提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/sbivctrade43463-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/sbivctrade43463-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=361493",
           "author": "CoinPost編集部",
@@ -1055,36 +1050,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/fluf-ripple.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/fluf-ripple.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=360337",
-          "author": "AKIRA.H",
-          "description": "香港に拠点を置く仮想通貨貸借プラットフォームのBabel Financeは17日、顧客資金の出金対応を停止することを発表した。業界大手がデフォルト状態に陥ったのに続き、市場は危機の連鎖に警戒を強めている。",
-          "link": "https://coinpost.jp/?p=360337",
-          "publishedOn": "2022-06-18T00:45:51.000Z",
-          "wordCount": 388,
-          "title": "相次ぐ出金停止の事例、仮想通貨融資大手Babel Finance",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/babel-bank-run-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/babel-bank-run-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=360333",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨取引所大手FTXはカナダ市場に参入するために仮想通貨取引所「Bitvo」を買収する。",
-          "link": "https://coinpost.jp/?p=360333",
-          "publishedOn": "2022-06-17T23:35:41.000Z",
-          "wordCount": 370,
-          "title": "FTX、カナダの仮想通貨取引所を買収",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_03.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_03.jpg"
         }
       ]
     }
