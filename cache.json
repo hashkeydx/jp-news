@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=152685",
+          "author": "coindesk JAPAN",
+          "description": "ゲームに特化したブロックチェーンの開発を進めるOasysは、世界で3000万人が利用する暗号資産ウォレットのメタマスク（Metamask）を手がけるコンセンシス ...\nOasysとConsenSysが戦略提携、ゲーム用ブロックチェーンとウォレットがコラボ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/152685/",
+          "publishedOn": "2022-06-23T03:31:56.000Z",
+          "wordCount": 1724,
+          "title": "OasysとConsenSysが戦略提携、ゲーム用ブロックチェーンとウォレットがコラボ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/oasysmetamask.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=152642",
           "author": "Krisztian Sandor",
           "description": "ビットコイン（BTC）は今週初めに上昇した後、個人投資家の売りにより22日は一時、再び2万ドルを割った。当記事執筆時点、1万9900ドル付近、過去24時間で4％ ...\n【US市場】ビットコイン下落、2万ドル付近で推移 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -476,6 +486,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=361702",
+          "author": "S.Ninomiya",
+          "description": "2万ドルの心理的節目を割り込み急落したビットコイン（BTC）は売られすぎ水準から反発するも、パウエル議長証言を控え手控えムードに。利上げペース加速の影響で、金融市場の下落トレンド長期化懸念は根強い。",
+          "link": "https://coinpost.jp/?p=361702",
+          "publishedOn": "2022-06-23T03:39:28.000Z",
+          "wordCount": 1767,
+          "title": "仮想通貨は買い一巡後に反落、景気後退見越した下落トレンド長期化懸念など根強く",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/shutterstock_670198525-scaled.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/shutterstock_670198525-scaled.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=361742",
+          "author": "幸田直子",
+          "description": "Citiは22日、スイスの仮想通貨カストディ企業MEACO社と提携し、機関投資家向けにデジタル資産のカストディプラットフォームの開発と試験運用を行うと発表した。",
+          "link": "https://coinpost.jp/?p=361742",
+          "publishedOn": "2022-06-23T03:29:39.000Z",
+          "wordCount": 1636,
+          "title": "金融大手Citi、仮想通貨企業METACOと提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/citi-bank-bitcoin-future.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/citi-bank-bitcoin-future.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=361706",
+          "author": "AKIRA.H",
+          "description": "仮想通貨デリバティブの分散型取引所dYdXは、コスモスの開発フレームワークを使用して、独自ブロックチェーンを新たに構築する計画を発表した。",
+          "link": "https://coinpost.jp/?p=361706",
+          "publishedOn": "2022-06-23T02:59:06.000Z",
+          "wordCount": 1610,
+          "title": "デリバティブ分散型取引所dYdX、コスモス上で独自チェーン構築へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/dydx-cosmos.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/dydx-cosmos.png"
+        },
         {
           "id": "https://coinpost.jp/?p=361269",
           "author": "Noah Sakamaki",
