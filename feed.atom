@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-24T07:27:34.802Z</updated>
+    <updated>2022-06-24T08:37:32.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人気DeFiサービスでフィッシング詐欺、ユーザーは再確認する姿勢を]]></title>
+        <id>https://coinpost.jp/?p=362250</id>
+        <link href="https://coinpost.jp/?p=362250"/>
+        <updated>2022-06-24T07:46:01.000Z</updated>
+        <summary type="html"><![CDATA[DeFi（分散型金融）イールドオプトマイザーConvex Financeは、フロントエンドの改ざんによるフィッシング詐欺の手口を検出したことを公表した。5つのアドレスがウェブサイト上で偽のコントラクトに署名したが、仮想通貨の不正流出などの被害は報告されていない。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CFTCの規制権限拡大の機運高まる──仮想通貨関連の公聴会]]></title>
         <id>https://coinpost.jp/?p=362125</id>
