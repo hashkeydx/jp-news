@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-24T23:28:00.628Z</updated>
+    <updated>2022-06-25T02:36:01.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FRB、米議会にCBDCについての勧告を行う計画]]></title>
+        <id>https://coinpost.jp/?p=362409</id>
+        <link href="https://coinpost.jp/?p=362409"/>
+        <updated>2022-06-25T01:29:50.000Z</updated>
+        <summary type="html"><![CDATA[米FRBのパウエル議長は、FRBが中央銀行デジタル通貨について、今後ある時点で議会に推奨事項を提示する計画だと述べた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アクシーインフィニティの「Roninブリッジ」再開へ]]></title>
+        <id>https://coinpost.jp/?p=362396</id>
+        <link href="https://coinpost.jp/?p=362396"/>
+        <updated>2022-06-25T00:26:07.000Z</updated>
+        <summary type="html"><![CDATA[NFTゲーム「Axie Infinity」の開発スタジオSky Mavisは、Roninブリッジを6月28日に再起動するとともに、不正流出していた仮想通貨の全量をユーザーに補償すると発表した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインが前サイクルの高値を下回る、世界最大NFTの祭典が開幕【6/18～6/24のトップニュース】]]></title>
         <id>https://www.coindeskjapan.com/?p=152824</id>
@@ -1241,27 +1261,6 @@ coindesk JAPAN フォロー＆リツイートキャンペーンペーン企画�
 Web3の規制で「技術的中立性」が重要だ【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Bradley Tusk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[引き続きダウンサイドに警戒、22〜23日のパウエル議長発言も注目｜bitbankアナリスト寄稿]]></title>
-        <id>https://coinpost.jp/?p=360823</id>
-        <link href="https://coinpost.jp/?p=360823"/>
-        <updated>2022-06-20T12:07:09.000Z</updated>
-        <summary type="html"><![CDATA[国内大手取引所bitbankのアナリストが、 大幅下落した今週のビットコインチャートを図解し今後の展望を読み解く。ビットコイン・オンチェーンデータも掲載。]]></summary>
-        <author>
-            <name>A.Sakamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産の厳しい状況：価格とマクロのリスク【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=152290</id>
-        <link href="https://www.coindeskjapan.com/152290/"/>
-        <updated>2022-06-20T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「暗号資産（仮想通貨）プロジェクトの99.9%は、おそらく何の問題も解決しない。いわゆる『ペテン』が蔓延している」 先日、米金融会社TDアメリトレードが提供する ...
-暗号資産の厳しい状況：価格とマクロのリスク【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>George Kaloudis</name>
         </author>
     </entry>
 </feed>
