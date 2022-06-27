@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-26T23:27:33.822Z</updated>
+    <updated>2022-06-27T02:30:53.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、Sepoliaでマージを実施予定]]></title>
+        <id>https://coinpost.jp/?p=362633</id>
+        <link href="https://coinpost.jp/?p=362633"/>
+        <updated>2022-06-27T00:50:28.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの開発者チームは、テストネットSepoliaでまもなくマージを行うことを計画している。同時に、関連する幾つかの問題を確認した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[価格下落に投資するショート・ビットコインETFが人気──米No.2のBTC関連ETFに]]></title>
+        <id>https://www.coindeskjapan.com/?p=152839</id>
+        <link href="https://www.coindeskjapan.com/152839/"/>
+        <updated>2022-06-27T00:45:02.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）の下落から利益を得ることを目的としたビットコインETF（上場投資信託）が人気を集めており、わずか数日で、ビットコイン関連のETFとしては、米 ...
+価格下落に投資するショート・ビットコインETFが人気──米No.2のBTC関連ETFに first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX、次のIEO予定を発表]]></title>
         <id>https://coinpost.jp/?p=362629</id>
@@ -798,16 +819,6 @@ SandboxがNYで開いた豪華パーティを覗いてみた──訪れた音�
 2022年と2018年はどう違う？──イノベーションの耐久力【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Lex Sokolin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBIの新VCTRADE 、取引所サービスのプレオープン提供開始]]></title>
-        <id>https://coinpost.jp/?p=361008</id>
-        <link href="https://coinpost.jp/?p=361008"/>
-        <updated>2022-06-22T11:50:24.000Z</updated>
-        <summary type="html"><![CDATA[東証1部上場企業SBIホールディングス傘下の仮想通貨取引所SBI VCトレードは22日、新VCTRADEの現物取引において「取引所サービス」の提供を開始した。板取引形式で7銘柄が取引可能となっている。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
