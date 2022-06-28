@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-28T20:31:42.704Z</updated>
+    <updated>2022-06-28T21:26:13.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ロビンフッド、銘柄の新規上場を実施]]></title>
+        <id>https://coinpost.jp/?p=363301</id>
+        <link href="https://coinpost.jp/?p=363301"/>
+        <updated>2022-06-28T21:12:55.000Z</updated>
+        <summary type="html"><![CDATA[米大手投資アプリのロビンフッドは28日、暗号資産（仮想通貨）の新規上場を実施した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナのDeFi「Solend」：危機回避の一部始終]]></title>
+        <id>https://www.coindeskjapan.com/?p=153040</id>
+        <link href="https://www.coindeskjapan.com/153040/"/>
+        <updated>2022-06-28T21:00:47.000Z</updated>
+        <summary type="html"><![CDATA[数百万ドルのマージンコールが発生して、誰もそれに応じなかったらどうなるのか？ このような不気味なシナリオが先週、Solendにとって悪夢のような現実になろうとし ...
+ソラナのDeFi「Solend」：危機回避の一部始終 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Danny Nelson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン、テラUSD崩壊後も金融システムを特徴づける：S&Pアナリスト]]></title>
+        <id>https://www.coindeskjapan.com/?p=152795</id>
+        <link href="https://www.coindeskjapan.com/152795/"/>
+        <updated>2022-06-28T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テラUSD（UST）の崩壊にもかかわらず、ステーブルコインは金融システムを特徴づけるものとなり得る。格付け会社S&Pグローバル・レーティングのアナリスト ...
+ステーブルコイン、テラUSD崩壊後も金融システムを特徴づける：S&Pアナリスト first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jack Schickler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォビ、人員の30％以上を削減か]]></title>
         <id>https://www.coindeskjapan.com/?p=153123</id>
@@ -622,36 +654,6 @@ FTX、BlockFiの株式取得に向け交渉中：報道 first appeared on coinde
 狙われるブリッジサービス、1億ドル（約135億円）が不正流出──4月には6億ドル以上が流出 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WrapTagがAvalancheのサブネットで独自ブロックチェーンを構築及びテスト運用開始]]></title>
-        <id>14544441bdc1068b5c4e086507936798</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26963df140f9368d260e5cb0c2350d667"/>
-        <updated>2022-06-24T09:10:01.000Z</updated>
-        <summary type="html"><![CDATA[WrapTag株式会社のプレスリリース（2022年6月24日 18時10分）WrapTagがAvalancheのサブネットで独自ブロックチェーンを構築及びテスト運用開始]]></summary>
-        <author>
-            <name>WrapTag株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[複数のデジタルIDを簡単管理できるウォレット「myDid」リリース]]></title>
-        <id>https://coinpost.jp/?p=360726</id>
-        <link href="https://coinpost.jp/?p=360726"/>
-        <updated>2022-06-24T09:07:20.000Z</updated>
-        <summary type="html"><![CDATA[「myDid」は複数のデジタルIDを、確認しやすい形式で管理できるデジタルウォレットです。個人情報がローカル保存されるのが特徴で、安全に互換性のあるサービスとの連携を設定できます。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国ブロックチェーンKlaytn、NFT電子市場「OpenSea」と提携]]></title>
-        <id>https://coinpost.jp/?p=362185</id>
-        <link href="https://coinpost.jp/?p=362185"/>
-        <updated>2022-06-24T08:32:49.000Z</updated>
-        <summary type="html"><![CDATA[韓国インターネット大手カカオのブロックチェーンKlaytnは、NFT電子市場「OpenSea」と提携したと発表。カンファレンスやエコシステム開発イニシアティブなどに取り組む。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>
