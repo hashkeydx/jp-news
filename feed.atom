@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-28T21:26:13.848Z</updated>
+    <updated>2022-06-28T22:31:23.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カナダ上場企業Cypherpunk、BTCとETHを全売却]]></title>
+        <id>https://coinpost.jp/?p=363310</id>
+        <link href="https://coinpost.jp/?p=363310"/>
+        <updated>2022-06-28T21:55:46.000Z</updated>
+        <summary type="html"><![CDATA[カナダ上場の投資企業Cypherpunk Holdingsは保有していたビットコインとイーサリアムを全部売却した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コイントレード、ADAやIOSTなど取り扱い予定]]></title>
+        <id>https://coinpost.jp/?p=363307</id>
+        <link href="https://coinpost.jp/?p=363307"/>
+        <updated>2022-06-28T21:28:57.000Z</updated>
+        <summary type="html"><![CDATA[国内暗号資産取引所CoinTrade（コイントレード）は28日、3銘柄の取り扱い予定を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ロビンフッド、銘柄の新規上場を実施]]></title>
         <id>https://coinpost.jp/?p=363301</id>
@@ -643,17 +663,6 @@ FTX、BlockFiの株式取得に向け交渉中：報道 first appeared on coinde
         <summary type="html"><![CDATA[株式会社バディインベストメントのプレスリリース（2022年6月24日 21時00分） 株式会社バディインベストメント NFTに特化した専門メディア[NFT LABO.Tokyo]にて文字とNFTを繋ぐ新プロジェクト《 Write to Earn 》6月25日（土）始動。]]></summary>
         <author>
             <name>株式会社バディインベストメント</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狙われるブリッジサービス、1億ドル（約135億円）が不正流出──4月には6億ドル以上が流出]]></title>
-        <id>https://www.coindeskjapan.com/?p=152804</id>
-        <link href="https://www.coindeskjapan.com/152804/"/>
-        <updated>2022-06-24T09:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Harmonyブロックチェーンのブリッジサービスから、1億ドル（約135億円）を超える暗号資産が不正アクセスを受けて流出した。 「Harmonyのチームは、Ho ...
-狙われるブリッジサービス、1億ドル（約135億円）が不正流出──4月には6億ドル以上が流出 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
