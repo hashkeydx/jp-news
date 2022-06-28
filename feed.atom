@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-28T11:25:38.813Z</updated>
+    <updated>2022-06-28T12:59:15.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォビ、人員の30％以上を削減か]]></title>
+        <id>https://www.coindeskjapan.com/?p=153123</id>
+        <link href="https://www.coindeskjapan.com/153123/"/>
+        <updated>2022-06-28T12:05:24.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所フォビ・グローバル（Huobi Global）は、中国人ユーザーをブロックしたことで収益が急落し、従業員の30％以上を削減する可能性が ...
+フォビ、人員の30％以上を削減か first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベースを「売り」に格下げ：ゴールドマン・サックス]]></title>
         <id>https://www.coindeskjapan.com/?p=153015</id>
@@ -784,26 +795,6 @@ FTX、BlockFiの株式取得に向け交渉中：報道 first appeared on coinde
         <summary type="html"><![CDATA[株式会社ルーラのプレスリリース（2022年6月24日 10時00分）観光特化型デジタル通貨[ルーラコイン]を提供する株式会社ルーラは、観光地の魅力を再発見できる日本初のローカライズされたNFTである[ルーラNFT]のテスト販売を開始します！]]></summary>
         <author>
             <name>株式会社ルーラ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース初、ビットコイン先物をローンチへ]]></title>
-        <id>https://coinpost.jp/?p=362028</id>
-        <link href="https://coinpost.jp/?p=362028"/>
-        <updated>2022-06-24T00:40:43.000Z</updated>
-        <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは24日、同社初のビットコイン先物を6月27日にローンチする予定を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z、NFTゲームプラットフォームの31億円調達を主導]]></title>
-        <id>https://coinpost.jp/?p=362013</id>
-        <link href="https://coinpost.jp/?p=362013"/>
-        <updated>2022-06-23T23:30:23.000Z</updated>
-        <summary type="html"><![CDATA[NFTゲームプラットフォーム「Cryptoys」は23日、資金調達ラウンドで31億円を調達したことを発表。a16zやDapper Labs、Animocaも参加した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
