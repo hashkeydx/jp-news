@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-29T02:36:52.565Z</updated>
+    <updated>2022-06-29T04:11:27.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[消費者指数悪化を受け米国株安、ビットコインなど仮想通貨市場も連れ安に]]></title>
+        <id>https://coinpost.jp/?p=363377</id>
+        <link href="https://coinpost.jp/?p=363377"/>
+        <updated>2022-06-29T03:25:59.000Z</updated>
+        <summary type="html"><![CDATA[28日に発表された米CB消費者信頼感指数の悪化で反発基調にあった米国株が大幅反落。ビットコインなど仮想通貨市場も連れ安となった。テザー（USDT）へのヘッジファンドの空売りが指摘されるほか、機関投資家も売却を進めるなど厳しい情勢が続く。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会計大手KPMG、メタバース内に「コラボ・ハブ」設立]]></title>
+        <id>https://coinpost.jp/?p=363384</id>
+        <link href="https://coinpost.jp/?p=363384"/>
+        <updated>2022-06-29T02:58:51.000Z</updated>
+        <summary type="html"><![CDATA[会計大手KPMGは21日、メタバース上にコラボレーション・ハブを開設したと発表。社員やクライアントなどを繋げ、業界やセクターを超えた成長機会を模索することを目的としている。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【US市場】ビットコイン、再び2万ドルに向け下落]]></title>
         <id>https://www.coindeskjapan.com/?p=153147</id>
@@ -15,6 +35,16 @@
 【US市場】ビットコイン、再び2万ドルに向け下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Bradley Keoun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コスモスでセキュリティ共有機能を実装へ、DeFi奨励プログラムを投票]]></title>
+        <id>https://coinpost.jp/?p=363390</id>
+        <link href="https://coinpost.jp/?p=363390"/>
+        <updated>2022-06-29T02:35:20.000Z</updated>
+        <summary type="html"><![CDATA[コスモス上で、3ヶ月以内に「インターチェーン・セキュリティ (ICS)」という新機能が導入されることが明らかになった。ICSのインセンティブプログラムの実施判断について投票が進行している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
