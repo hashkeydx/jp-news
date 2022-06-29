@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-06-29T15:16:14.486Z</updated>
+    <updated>2022-06-29T17:06:42.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スリー・アローズに清算の裁判所命令──債務超過の暗号資産ファンド]]></title>
+        <id>https://www.coindeskjapan.com/?p=153252</id>
+        <link href="https://www.coindeskjapan.com/153252/"/>
+        <updated>2022-06-29T16:50:54.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産ヘッジファンドのスリー・アローズ・キャピタル（Three Arrows Capital：3AC）は27日、英領バージン諸島の裁判所から清算を命じられたと ...
+スリー・アローズに清算の裁判所命令──債務超過の暗号資産ファンド first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米マイクロストラテジー、13億円分のビットコインを買い増し]]></title>
         <id>https://coinpost.jp/?p=363644</id>
@@ -866,16 +877,6 @@ FTX、BlockFiの株式取得に向け交渉中：報道 first appeared on coinde
         <summary type="html"><![CDATA[ナイキが起こしたスニーカーNFT訴訟。この訴訟における争点とその背景を、Gamma Law法律事務所代表のデイビット・ホッピ氏が解説。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、ブラジルで新たな入出金パートナーと提携]]></title>
-        <id>https://coinpost.jp/?p=362480</id>
-        <link href="https://coinpost.jp/?p=362480"/>
-        <updated>2022-06-25T04:29:33.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインなどを扱う仮想通貨取引所バイナンスは、ブラジルで決済プロバイダーLatam Gatewayと新たに提携すると発表。ブラジル当局認可の証券会社買収も検討しているところだ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
