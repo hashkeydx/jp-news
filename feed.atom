@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-02T04:07:06.009Z</updated>
+    <updated>2022-07-02T04:50:16.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、顧客データ販売を否定]]></title>
+        <id>https://coinpost.jp/?p=364506</id>
+        <link href="https://coinpost.jp/?p=364506"/>
+        <updated>2022-07-02T04:44:13.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所コインベースは、顧客データを販売することはないと強調。ブロックチェーン分析ツール提供について米ICEと結んだ契約を巡る報道に応じている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムスケーリング「AltLayer」、10億円調達]]></title>
         <id>https://coinpost.jp/?p=364483</id>
