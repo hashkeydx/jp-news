@@ -481,26 +481,6 @@
           "wordCount": 1766,
           "title": "【US市場】ビットコイン、4日連続下落",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/coindesk-BTC-chart-2022-06-30-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=153155",
-          "author": "Daniel Kuhn",
-          "description": "米証券取引委員会（SEC）のゲーリー・ゲンスラー委員長は、ビットコイン（BTC）はコモディティであるという考え方を改めて繰り返した。委員長の解釈は前例を元にした ...\n「ビットコインはコモディティ」SEC委員長の考えは正しいか？ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/153155/",
-          "publishedOn": "2022-06-29T21:30:00.000Z",
-          "wordCount": 1757,
-          "title": "「ビットコインはコモディティ」SEC委員長の考えは正しいか？",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2019/12/100663713-Gary-Gensler-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=153088",
-          "author": "Paul J. Ennis",
-          "description": "弱気相場において、ブロックチェーン文化はその実態を目の当たりにさせられる。レンディングプロトコル、セルシウス（Celsius）の引き出し停止に端を発した先日の暴 ...\nイーサリアムは何のためにあるのか【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/153088/",
-          "publishedOn": "2022-06-29T21:00:42.000Z",
-          "wordCount": 1751,
-          "title": "イーサリアムは何のためにあるのか【オピニオン】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_1527808853-scaled.jpg"
         }
       ]
     },
@@ -526,6 +506,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=364752",
+          "author": "S.Inosita",
+          "description": "中東クウェートのイスラム銀行Warba Bankは、メタバース「ディセントラランド」と「ザ・サンドボックス」参入を発表した。若年層の顧客との関係強化が目的とされる。",
+          "link": "https://coinpost.jp/?p=364752",
+          "publishedOn": "2022-07-04T08:49:41.000Z",
+          "wordCount": 1642,
+          "title": "中東クウェートのWarba Bank、メタバースゲーム領域参入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/new-metaverse-fund.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/new-metaverse-fund.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=364838",
+          "author": "AKIRA.H",
+          "description": "イギリス軍隊のTwitterアカウントとYoutubeチャネルがハッキングされて、暗号資産（仮想通貨）やNFT（非代替性トークン）などを宣伝する事態が発生した。",
+          "link": "https://coinpost.jp/?p=364838",
+          "publishedOn": "2022-07-04T08:36:15.000Z",
+          "wordCount": 1661,
+          "title": "イギリス軍隊のツイッター乗っ取り、仮想通貨やNFTを喧伝",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/twitter-btc-address.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/twitter-btc-address.png"
+        },
         {
           "id": "https://coinpost.jp/?p=364882",
           "author": "AKIRA.H",
@@ -1320,21 +1330,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/netgear-metamask-1.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/netgear-metamask-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=363667",
-          "author": "菊谷ルイス",
-          "description": "米大手暗号資産取引所コインベースは30日、ソラナ（SOL）のステーキングサービスを提供開始した。",
-          "link": "https://coinpost.jp/?p=363667",
-          "publishedOn": "2022-06-29T21:20:21.000Z",
-          "wordCount": 1592,
-          "title": "米コインベース、ソラナのステーキングに対応",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
         }
       ]
     }
