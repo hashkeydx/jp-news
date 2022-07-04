@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=153671",
+          "author": "coindesk JAPAN",
+          "description": "暗号資産（仮想通貨）販売所のCoinTrade（コイントレード）は、7月14日から4種類の暗号資産を対象とするステーキングサービスを開始する。 CoinTrad ...\nCoinTrade、ステーキングサービスを開始──ADA、DOT、IOST、PLTが対象 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/153671/",
+          "publishedOn": "2022-07-04T03:56:36.000Z",
+          "wordCount": 1736,
+          "title": "CoinTrade、ステーキングサービスを開始──ADA、DOT、IOST、PLTが対象",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/cointradestake.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=153625",
           "author": "Shaurya Malwa",
           "description": "ビットコイン（BTC）は6月、約37％下落し、2009年のスタート以来2番目の月間損失となった。CoinGeckoのデータによると、6月1日には3万1000ドル ...\nビットコインは11年ぶりの月間下落率、トレーダーの反応は？ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -516,6 +526,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=364699",
+          "author": "S.Inosita",
+          "description": "米大手暗号資産取引所のコインベースは、欧州での展開を強化する計画を発表した。今後、フランス、イタリア、スペイン、オランダにも注力していく予定だ。",
+          "link": "https://coinpost.jp/?p=364699",
+          "publishedOn": "2022-07-04T03:52:08.000Z",
+          "wordCount": 1612,
+          "title": "米コインベース、欧州進出の強化方針を明かす",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_4.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_4.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=364718",
+          "author": "A.Yamada",
+          "description": "ビットコインなどを扱う仮想通貨取引所KuCoinのCEOは、同取引所が出金停止する予定はないとして噂を否定した。",
+          "link": "https://coinpost.jp/?p=364718",
+          "publishedOn": "2022-07-04T03:43:13.000Z",
+          "wordCount": 1687,
+          "title": "仮想通貨取引所KuCoin CEO、出金停止懸念などの「FUD」を全面否定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/payment343424-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/payment343424-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=364690",
+          "author": "A.Yamada",
+          "description": "中央アフリカ共和国は、同国独自の仮想通貨サンゴ・コインをリリースした。メタバースや天然資源投資などのプロジェクトで活用していく見込みだ。",
+          "link": "https://coinpost.jp/?p=364690",
+          "publishedOn": "2022-07-04T03:35:01.000Z",
+          "wordCount": 1702,
+          "title": "中央アフリカ共和国、独自通貨「サンゴ・コイン」をローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/centralafrican_republic-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/centralafrican_republic-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=364698",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）市場では大手ヘッジファンドThree Arrows Capital（3AC）が破産が伝わり、連鎖的な破綻リスクが懸念される。ビットコインやイーサリアムのマイナー収益率の悪化の影響で、「プエルマルチプル」は過去最低水準を推移する。",
+          "link": "https://coinpost.jp/?p=364698",
+          "publishedOn": "2022-07-04T03:20:31.000Z",
+          "wordCount": 1640,
+          "title": "低迷続く仮想通貨市場、マイナー収益率悪化で「プエルマルチプル」は過去最低水準を推移",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin-mining-hashrate-sales.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin-mining-hashrate-sales.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=364437",
           "author": "A.Sakamoto",
@@ -1235,21 +1305,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=363644",
-          "author": "Noah Sakamaki",
-          "description": "米国の投資企業マイクロストラテジー社は29日、1000万ドル（約13億円）相当の仮想通貨ビットコイン（BTC）の追加購入を発表。約3ヶ月ぶりの買い増しとなった。",
-          "link": "https://coinpost.jp/?p=363644",
-          "publishedOn": "2022-06-29T15:01:40.000Z",
-          "wordCount": 1687,
-          "title": "米マイクロストラテジー、13億円分のビットコインを買い増し",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/microstrategy439528.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/microstrategy439528.jpg"
         }
       ]
     }
