@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-05T20:31:20.869Z</updated>
+    <updated>2022-07-05T21:27:07.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3にもオフライン交流が必要な理由【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=153681</id>
+        <link href="https://www.coindeskjapan.com/153681/"/>
+        <updated>2022-07-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[分散型金融（DeFi）の話題はもう十分。私たちが体験している分散化とは、仕事の質の変化なのだ。 デスクに座って、同僚に囲まれて働くために、信じられないほど早くに ...
+Web3にもオフライン交流が必要な理由【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jennifer Sanasie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米仮想通貨マイニング企業、6月度に230億円相当のビットコインを売却]]></title>
+        <id>https://coinpost.jp/?p=365303</id>
+        <link href="https://coinpost.jp/?p=365303"/>
+        <updated>2022-07-05T20:44:56.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場を果たしている仮想通貨マイニングCore Sceintific社は6月における月間レポートを公開。230億円相当のビットコインを売却したことを報告した。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨企業Nexo、出金停止中のVauldに融資提供へ]]></title>
         <id>https://coinpost.jp/?p=365290</id>
@@ -803,16 +824,6 @@ FTX.US、BlockFiを最大2億4000万ドルで買収する権利に合意 first a
         <summary type="html"><![CDATA[株式会社セレスのプレスリリース（2022年7月1日 19時20分）セレスの子会社マーキュリーが運営する暗号資産販売所[CoinTrade]～本日より新規通貨PLT・IOST・ADAの取扱いを開始～]]></summary>
         <author>
             <name>株式会社セレス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huobi元幹部設立のVC、デジタル資産に注力する投資ビークル「OP FOF I」をローンチ]]></title>
-        <id>https://coinpost.jp/?p=364245</id>
-        <link href="https://coinpost.jp/?p=364245"/>
-        <updated>2022-07-01T08:50:16.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨にフォーカスしたベンチャーキャピタルOP Cryptoは、デジタル資産投資を主な目的とした、投資ビークル「OP FOF I」を発表した。同分野に携わるファンドマネージャーに投資を行う。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>
