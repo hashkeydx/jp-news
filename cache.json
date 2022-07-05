@@ -94,16 +94,6 @@
           "wordCount": 347,
           "title": "日本初?!メディアインキュベートが『企業ロゴ』をNFT化。NFTにクリエイティブ以外の価値付けも行い、会員権や寄付/CSR活動、クリエイターエコノミーの実証実験事業とし...",
           "imageUrl": null
-        },
-        {
-          "id": "7399a0aa16393a06c7f070a07ba62394",
-          "author": "株式会社セレス",
-          "description": "株式会社セレスのプレスリリース（2022年7月1日 19時20分）セレスの子会社マーキュリーが運営する暗号資産販売所[CoinTrade]～本日より新規通貨PLT・IOST・ADAの取扱いを開始～",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a66a63df140f9362d46de1c60c2350d667",
-          "publishedOn": "2022-07-01T10:20:06.000Z",
-          "wordCount": 347,
-          "title": "セレスの子会社マーキュリーが運営する暗号資産販売所「CoinTrade」～本日より新規通貨PLT・IOST・ADAの取扱いを開始～",
-          "imageUrl": null
         }
       ]
     },
@@ -112,6 +102,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=153799",
+          "author": "Michael J Casey",
+          "description": "暗号資産（仮想通貨）業界に危機的状況が波及し、ドミノが倒れたり、揺らいだりする中、とりわけ厳しい教訓の1つは、新しいテクノロジーのポテンシャルがどれほどあったと ...\n暗号資産が歴史に学ぶ教訓：ドットコムバブル崩壊、リーマンショック…… first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/153799/",
+          "publishedOn": "2022-07-05T21:30:00.000Z",
+          "wordCount": 1776,
+          "title": "暗号資産が歴史に学ぶ教訓：ドットコムバブル崩壊、リーマンショック……",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_737278987-scaled.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=153681",
           "author": "Jennifer Sanasie",
@@ -415,6 +415,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=365309",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨などの取引サービスを提供するeToroは、SPACと合併してナスダックへ上場する計画を撤回。撤回理由の説明や両社トップのコメントが発表された。",
+          "link": "https://coinpost.jp/?p=365309",
+          "publishedOn": "2022-07-05T22:08:24.000Z",
+          "wordCount": 1629,
+          "title": "eToro、ナスダックへのSPAC上場計画を撤回",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/etoro-copytrader.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/etoro-copytrader.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=365307",
+          "author": "菊谷ルイス",
+          "description": "セルシウスネットワークは6日、DeFiプロトコルのMakerに、55億円相当のステーブルコイン「DAI」を返済。昨日も返済を行っていた。",
+          "link": "https://coinpost.jp/?p=365307",
+          "publishedOn": "2022-07-05T21:35:14.000Z",
+          "wordCount": 1610,
+          "title": "セルシウス、55億円相当のDAIをMakerにさらに返済",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/factom-debt.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/factom-debt.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=365303",
           "author": "Noah Sakamaki",
