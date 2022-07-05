@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-05T09:38:58.227Z</updated>
+    <updated>2022-07-05T10:32:48.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[bitFlyerがOasysに参画、ゲームブロックチェーンの初期バリデータで]]></title>
+        <id>https://www.coindeskjapan.com/?p=153862</id>
+        <link href="https://www.coindeskjapan.com/153862/"/>
+        <updated>2022-07-05T10:16:15.000Z</updated>
+        <summary type="html"><![CDATA[bitFlyer Blockchain（ビットフライヤー・ブロックチェーン）は5日、ゲームに特化したブロックチェーンとして開発が進められているプロジェクトの「O ...
+bitFlyerがOasysに参画、ゲームブロックチェーンの初期バリデータで first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygonのハッカソン：日本の受賞者のアイディアとビジョン]]></title>
         <id>https://www.coindeskjapan.com/?p=153733</id>
@@ -1020,37 +1031,6 @@ FTX、BlockFiを2500万ドルで買収か──昨年3月には30億ドルの評
         <summary type="html"><![CDATA[ブロックチェーン・仮想通貨分析ツールNansenは30日、ソラナブロックチェーンのNFTデータに対応開始した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産広告の違反の92％はインフルエンサー絡み：インドの自主規制団体]]></title>
-        <id>https://www.coindeskjapan.com/?p=153268</id>
-        <link href="https://www.coindeskjapan.com/153268/"/>
-        <updated>2022-06-30T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産広告での違反の92％以上にはセレブではなくインフルエンサーが関わっていたとインド広告基準評議会（Advertising Standards Counci ...
-暗号資産広告の違反の92％はインフルエンサー絡み：インドの自主規制団体 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX、BlockFiを割安価格で買収か]]></title>
-        <id>https://coinpost.jp/?p=364021</id>
-        <link href="https://coinpost.jp/?p=364021"/>
-        <updated>2022-06-30T22:26:31.000Z</updated>
-        <summary type="html"><![CDATA[FTXは財務的困難に陥った仮想通貨金融サービス企業BlockFiを評価額以下の価格で買収することを進めている模様だ。BlockFiは2,500万ドル買収価格を否定した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所FTX、セルシウスの救済は見送りか＝The Block]]></title>
-        <id>https://coinpost.jp/?p=364017</id>
-        <link href="https://coinpost.jp/?p=364017"/>
-        <updated>2022-06-30T21:50:24.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所FTXは、セルシウスを救済しないと決断したことが分かった。The Blockの情報筋の話から、セルシウスのバランスシートの状況が明らかになっている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
