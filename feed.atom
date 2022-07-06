@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-06T09:31:31.911Z</updated>
+    <updated>2022-07-06T10:34:26.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[プレーする価値のあるWeb3ゲームはあるか？]]></title>
+        <id>https://www.coindeskjapan.com/?p=153908</id>
+        <link href="https://www.coindeskjapan.com/153908/"/>
+        <updated>2022-07-06T10:00:12.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム企業のPoliumは7月3日、Web3ゲームのための家庭用ゲーム機「Polium One」を発表した。だがこの試みには多くの問題点がある。「ニンテンドーゲ ...
+プレーする価値のあるWeb3ゲームはあるか？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トルコのインフレ指数が24年ぶり高水準に、ビットコインP2P取引量は増加傾向]]></title>
+        <id>https://coinpost.jp/?p=365522</id>
+        <link href="https://coinpost.jp/?p=365522"/>
+        <updated>2022-07-06T09:31:08.000Z</updated>
+        <summary type="html"><![CDATA[トルコ統計局は、6月の消費者物価指数（CPI）上昇率が前年同月比78.6%だったと発表した。インフレ率が歴史的なものになりつつある一方、同国での仮想通貨取引量は増加傾向にある。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界レベルのチェスプレイヤーが競い合う「FTX Crypto Cup」、米マイアミで開催へ]]></title>
         <id>https://coinpost.jp/?p=365408</id>
@@ -1060,47 +1081,6 @@ FTX.US、BlockFiを最大2億4000万ドルで買収する権利に合意 first a
         <summary type="html"><![CDATA[BlockFiは、米仮想通貨取引所FTX USと最終契約を締結。財政難に直面するBlockFiにとって救済となる、新しい契約の内容が明らかになった。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利上げそのものが重要なのか？：FRBの「フォワードガイダンス」]]></title>
-        <id>https://www.coindeskjapan.com/?p=153376</id>
-        <link href="https://www.coindeskjapan.com/153376/"/>
-        <updated>2022-07-01T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[前回インフレ率が今ほど高かった1980年代、米連邦準備制度理事会（FRB）の議長はポール・ボルカー（Paul Volcker）氏、米大統領はロナルド・レーガン氏 ...
-利上げそのものが重要なのか？：FRBの「フォワードガイダンス」 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米VanEck、ビットコインETFに再挑戦]]></title>
-        <id>https://coinpost.jp/?p=364453</id>
-        <link href="https://coinpost.jp/?p=364453"/>
-        <updated>2022-07-01T22:05:17.000Z</updated>
-        <summary type="html"><![CDATA[米資産管理大手VanEck社は再び現物ビットコインETFの申請をSECに提出した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーンノードAnkr、DNSハイジャック受ける]]></title>
-        <id>https://coinpost.jp/?p=364342</id>
-        <link href="https://coinpost.jp/?p=364342"/>
-        <updated>2022-07-01T21:50:32.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーンノードのホスティングソリューションAnkrは、DNSハイジャックを受けていることを報告。ポリゴンや、ファントムのRPCエンドポイントに影響が出ている。]]></summary>
-        <author>
-            <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨アプリVoyager、入出金や取引を停止]]></title>
-        <id>https://coinpost.jp/?p=364446</id>
-        <link href="https://coinpost.jp/?p=364446"/>
-        <updated>2022-07-01T21:38:22.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引プラットフォームVoyager Digitalは1日、顧客の入手金、取引、リワード機能及びデビットカードを一時停止することを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
