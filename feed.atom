@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-06T20:29:57.709Z</updated>
+    <updated>2022-07-06T21:26:58.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムSepolia、マージ実装完了]]></title>
+        <id>https://coinpost.jp/?p=365692</id>
+        <link href="https://coinpost.jp/?p=365692"/>
+        <updated>2022-07-06T21:15:29.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのテストネット「Sepolia」は日本時間7日未明、大型アップグレード「The Merge」の実装を完了した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今回の暗号資産暴落はこれまでとは違う【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=153834</id>
+        <link href="https://www.coindeskjapan.com/153834/"/>
+        <updated>2022-07-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[分散型金融（DeFi）と中央集権型金融（CeFi）のバブルが崩壊し、NFT（ノン・ファンジブル・トークン）ブームは燃え尽き、アルゴリズム型ステーブルコインは暴落 ...
+今回の暗号資産暴落はこれまでとは違う【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Frances Coppola</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米バージニア州の公的年金基金、VanEckの仮想通貨ファンドに470億円投資へ]]></title>
         <id>https://coinpost.jp/?p=365688</id>
