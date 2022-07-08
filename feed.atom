@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-08T21:27:50.521Z</updated>
+    <updated>2022-07-08T22:28:31.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン、ツイッターの買収撤回に]]></title>
+        <id>https://coinpost.jp/?p=366308</id>
+        <link href="https://coinpost.jp/?p=366308"/>
+        <updated>2022-07-08T22:16:42.000Z</updated>
+        <summary type="html"><![CDATA[テスラのCEOイーロン・マスク氏は8日、ツイッターを買収することを撤回する決定を同社に知らせた。スパムアカウントの情報開示に関する違反などを主張。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グレースケール、投資信託からDOTやBCHなど7銘柄を売却]]></title>
         <id>https://coinpost.jp/?p=366296</id>
@@ -1125,27 +1135,6 @@ EU、NFTプラットフォームへの規制強化の動き first appeared on co
 BlockFiの財務危機に見るウーバー的ビジネスモデル【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セルシウス、約150人を解雇：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=153717</id>
-        <link href="https://www.coindeskjapan.com/153717/"/>
-        <updated>2022-07-04T10:15:22.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産レンディングのセルシウス（Celsius）が約150人の従業員を解雇した。週末、イスラエルのメディア「Calcalist」が伝えた。同社は先月、顧客の資 ...
-セルシウス、約150人を解雇：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7月に注目したい仮想通貨ニュース・イベント　CONNECTV 7月号]]></title>
-        <id>https://coinpost.jp/?p=364834</id>
-        <link href="https://coinpost.jp/?p=364834"/>
-        <updated>2022-07-04T10:05:56.000Z</updated>
-        <summary type="html"><![CDATA[6月のアクセスの多かった仮想通貨ニュース・ブロックチェーンニュースと7月に注目したいニュースやイベントについてCoinPost代表 各務貴仁とあたらしい経済 竹田匡宏の2人でお届けする。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
