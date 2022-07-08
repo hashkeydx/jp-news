@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-08T08:37:34.771Z</updated>
+    <updated>2022-07-08T09:31:04.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Konvoy Ventures、Web3関連の新ファンド立ち上げ]]></title>
+        <id>https://coinpost.jp/?p=366211</id>
+        <link href="https://coinpost.jp/?p=366211"/>
+        <updated>2022-07-08T08:51:25.000Z</updated>
+        <summary type="html"><![CDATA[ベンチャーキャピタルのKonvoy Venturesは、Web3などにフォーカスする新ファンド「Konvoy Fund III (KFIII)」を発表した。プレシードラウンドやシードラウンド、シリーズAの資金調達に焦点を当てる。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFiレンディングAave、独自ステーブルコインGHOの導入検討]]></title>
         <id>https://coinpost.jp/?p=366212</id>
@@ -1249,17 +1259,6 @@ CoinTrade、ステーキングサービスを開始──ADA、DOT、IOST、PLT�
 ビットコイン、6月は37％強の下落──2011年以来の下落幅 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jimmy He</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「最高メタバース責任者」という仕事]]></title>
-        <id>https://www.coindeskjapan.com/?p=153428</id>
-        <link href="https://www.coindeskjapan.com/153428/"/>
-        <updated>2022-07-03T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[私と同じ年代の人にメタバースの話をすると、たいていの場合困惑した顔つきで、メタバースが何なのかまったくわからないと言われる。 会計事務所プレーガー・メティス（P ...
-「最高メタバース責任者」という仕事 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jerry Eitel</name>
         </author>
     </entry>
 </feed>
