@@ -173,6 +173,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=154163",
+          "author": "Jimmy He",
+          "description": "ビットコイン（BTC）は7日、1週間以上ぶりに2万1000ドルを超え、24時間で7.2％上昇した（日本時間8日11時頃には、2万2000ドルを超えている）。 主 ...\n【US市場】ビットコイン、1週間ぶりの2万1000ドル超え──ETH2.0のステーキングは損失状態 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/154163/",
+          "publishedOn": "2022-07-08T02:05:58.000Z",
+          "wordCount": 1786,
+          "title": "【US市場】ビットコイン、1週間ぶりの2万1000ドル超え──ETH2.0のステーキングは損失状態",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/coindesk-BTC-chart-2022-07-08-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=153948",
           "author": "Jesus Rodriguez",
           "description": "分散型金融（DeFi）は、ここ最近の市場低迷に最も影響を受けている暗号資産（仮想通貨）分野の1つである。 テラネットワークのアンカー（Anchor）を始めとする ...\n「DeFiで手軽に高利回り」の時代の終焉【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -515,6 +525,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=366078",
+          "author": "AKIRA.H",
+          "description": "DeFi（分散型金融）レンディング大手のMakerDAOが、米国ペンシルバニア州の銀行ハンティンドン・バレー・バンクと共同融資事業を開始する。",
+          "link": "https://coinpost.jp/?p=366078",
+          "publishedOn": "2022-07-08T01:55:42.000Z",
+          "wordCount": 1619,
+          "title": "MakerDAO、米老舗銀行との共同融資が可決",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/us-occ-bank-proposal.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/us-occ-bank-proposal.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=366048",
+          "author": "S.Inosita",
+          "description": "メッセージアプリを提供するLINEのNFTマーケットプレイス「LINE NFT」は、新機能「プロフィールNFT」の体験版の提供を開始した。LINEのプロフィールなどにNFTを設定可能となる。",
+          "link": "https://coinpost.jp/?p=366048",
+          "publishedOn": "2022-07-08T01:30:10.000Z",
+          "wordCount": 1634,
+          "title": "LINE NFT、「プロフィールNFT」体験版を実装",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/LINE-NFT-070822.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/LINE-NFT-070822.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=366024",
+          "author": "A.Yamada",
+          "description": "米財務省は、バイデン政権の仮想通貨関連大統領令にもとづき、デジタル資産をめぐる国際協力の枠組みを提示した。",
+          "link": "https://coinpost.jp/?p=366024",
+          "publishedOn": "2022-07-08T01:02:27.000Z",
+          "wordCount": 1605,
+          "title": "米財務省、仮想通貨をめぐる国際協力の枠組み示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/yellen-2.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/yellen-2.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=366016",
           "author": "菊谷ルイス",
