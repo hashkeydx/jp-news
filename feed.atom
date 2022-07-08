@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-08T20:33:38.903Z</updated>
+    <updated>2022-07-08T21:27:50.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グレースケール、投資信託からDOTやBCHなど7銘柄を売却]]></title>
+        <id>https://coinpost.jp/?p=366296</id>
+        <link href="https://coinpost.jp/?p=366296"/>
+        <updated>2022-07-08T21:15:05.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨投資大手グレースケールは第2四半期の終了に際し、投資信託ファンドの再編成を発表。ビットコインキャッシュ（BCH）やポルカドット（DOT）、ヤーンファイナンス（YFI）など7銘柄の売却を報告した。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、スペインで仮想通貨ライセンスを取得]]></title>
+        <id>https://coinpost.jp/?p=366284</id>
+        <link href="https://coinpost.jp/?p=366284"/>
+        <updated>2022-07-08T21:10:55.000Z</updated>
+        <summary type="html"><![CDATA[大手取引所バイナンスの子会社がスペイン銀行から仮想通貨サービスプロバイダー（VASP）ライセンスを取得。欧州地域におけるライセンス取得は3ヵ国目となった。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米財務省、暗号資産に対する国際的連携のフレームワークを発表]]></title>
         <id>https://www.coindeskjapan.com/?p=154165</id>
@@ -1126,26 +1146,6 @@ BlockFiの財務危機に見るウーバー的ビジネスモデル【オピニ�
         <summary type="html"><![CDATA[6月のアクセスの多かった仮想通貨ニュース・ブロックチェーンニュースと7月に注目したいニュースやイベントについてCoinPost代表 各務貴仁とあたらしい経済 竹田匡宏の2人でお届けする。]]></summary>
         <author>
             <name>CONNECTV 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中東クウェートのWarba Bank、メタバースゲーム領域参入へ]]></title>
-        <id>https://coinpost.jp/?p=364752</id>
-        <link href="https://coinpost.jp/?p=364752"/>
-        <updated>2022-07-04T08:49:41.000Z</updated>
-        <summary type="html"><![CDATA[中東クウェートのイスラム銀行Warba Bankは、メタバース「ディセントラランド」と「ザ・サンドボックス」参入を発表した。若年層の顧客との関係強化が目的とされる。]]></summary>
-        <author>
-            <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イギリス軍隊のツイッター乗っ取り、仮想通貨やNFTを喧伝]]></title>
-        <id>https://coinpost.jp/?p=364838</id>
-        <link href="https://coinpost.jp/?p=364838"/>
-        <updated>2022-07-04T08:36:15.000Z</updated>
-        <summary type="html"><![CDATA[イギリス軍隊のTwitterアカウントとYoutubeチャネルがハッキングされて、暗号資産（仮想通貨）やNFT（非代替性トークン）などを宣伝する事態が発生した。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
