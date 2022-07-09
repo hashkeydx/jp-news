@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-09T11:24:25.001Z</updated>
+    <updated>2022-07-09T12:49:51.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「新たなTerra」Terra2.0とは　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=365469</id>
+        <link href="https://coinpost.jp/?p=365469"/>
+        <updated>2022-07-09T12:05:34.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、「Terra2.0とは何か？」「Terra2.0の今後の動き」など、Terra2.0をまだ詳しく知らないという方に向けてTerra2.0の全体像を分かりやすく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインチェックIEO第2弾予定、フィナンシェトークンとは｜主な特徴とメリットを解説]]></title>
         <id>https://coinpost.jp/?p=359214</id>
@@ -1194,17 +1204,6 @@ EU、NFTプラットフォームへの規制強化の動き first appeared on co
         <summary type="html"><![CDATA[仮想通貨融資企業セルシウスは、7月4日から5日にかけてDeFiプロトコルのMakerに、160億円相当のステーブルコインDAIを返済。清算ラインのビットコインの価格など、現在のポジションが明らかになった。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは2万ドルを回復、野村證券が景気後退を警告]]></title>
-        <id>https://www.coindeskjapan.com/?p=153785</id>
-        <link href="https://www.coindeskjapan.com/153785/"/>
-        <updated>2022-07-05T00:00:49.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は7月4日、ほぼ横ばいで推移した週末を経て、ヨーロッパの取引時間に1万9000ドル超まで回復した（日本時間7月5日8時45分頃には、2万ド ...
-ビットコインは2万ドルを回復、野村證券が景気後退を警告 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
