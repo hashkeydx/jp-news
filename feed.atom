@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-11T20:30:21.354Z</updated>
+    <updated>2022-07-11T21:27:04.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[浮かび上がるセルシウスの実態：DeFi界の大物による提訴]]></title>
+        <id>https://www.coindeskjapan.com/?p=154339</id>
+        <link href="https://www.coindeskjapan.com/154339/"/>
+        <updated>2022-07-11T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）での預け入れに対して、年利18%を提供しようとすると、なんと複雑なことになってしまうのだろう。 7日、ニューヨーク州最高裁で起こされた訴訟で ...
+浮かび上がるセルシウスの実態：DeFi界の大物による提訴 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>David Morris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融安定理事会「国際的な仮想通貨・ステーブルコイン規制枠組みは必要」]]></title>
+        <id>https://coinpost.jp/?p=366826</id>
+        <link href="https://coinpost.jp/?p=366826"/>
+        <updated>2022-07-11T20:35:35.000Z</updated>
+        <summary type="html"><![CDATA[金融安定理事会（FSB）は仮想通貨やステーブルコインの国際的な規制が必要であるとする声明を発表。10月のG20財務大臣・中央銀行総裁会議でも法的枠組みの策定に向けた政策提言を公開する見込みだ。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オランダ銀行大手、仮想通貨カストディ子会社を売却へ]]></title>
         <id>https://coinpost.jp/?p=366821</id>
@@ -730,17 +751,6 @@ NFTのユニコーン Magic Eden：9カ月で16億ドル企業に成長させた
         <summary type="html"><![CDATA[米政府は仮想通貨規制に関与する全ての政府公務員の仮想通貨保有を制限する勧告を発令。ステーブルコインの保有なども利益相反に該当する判断を下した。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5800台のマイニングマシンを追加──カナダのHut 8、ビットコイン保有を継続]]></title>
-        <id>https://www.coindeskjapan.com/?p=154028</id>
-        <link href="https://www.coindeskjapan.com/154028/"/>
-        <updated>2022-07-07T08:45:33.000Z</updated>
-        <summary type="html"><![CDATA[カナダの暗号資産マイニング企業Hut 8は、5800台のビットコイン（BTC）マイニングマシンを新たに稼働させた。多くのマイニング企業がビットコインを売却して事 ...
-5800台のマイニングマシンを追加──カナダのHut 8、ビットコイン保有を継続 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Eliza Gkritsi</name>
         </author>
     </entry>
 </feed>
