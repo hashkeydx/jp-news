@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-11T19:23:54.338Z</updated>
+    <updated>2022-07-11T20:30:21.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オランダ銀行大手、仮想通貨カストディ子会社を売却へ]]></title>
+        <id>https://coinpost.jp/?p=366821</id>
+        <link href="https://coinpost.jp/?p=366821"/>
+        <updated>2022-07-11T20:00:46.000Z</updated>
+        <summary type="html"><![CDATA[国際金融大手のINGグループは傘下の仮想通貨企業PyctorをGMEXグループに売却。Pyctorとの関係自体は今後も自社のブロックチェーン部門を通じて継続する。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[取引高TOP10のデジタル資産プラットフォーム、MEXCの強み]]></title>
         <id>https://coinpost.jp/?p=364144</id>
@@ -731,37 +741,6 @@ NFTのユニコーン Magic Eden：9カ月で16億ドル企業に成長させた
 5800台のマイニングマシンを追加──カナダのHut 8、ビットコイン保有を継続 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Eliza Gkritsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3は能動的な「表現者経済」をつくる｜Ontology寄稿]]></title>
-        <id>https://coinpost.jp/?p=365867</id>
-        <link href="https://coinpost.jp/?p=365867"/>
-        <updated>2022-07-07T08:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Web2時代の「関心経済」という課題を解消し、Web3においてクリエイターが自身の表現力を存分に発揮できる「表現者経済」とは？オントロジー主任研究員による考察。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初心者でもわかる仮想通貨ヘッジファンド「Three Arrows Capital」とは｜企業の特徴や運用実態を解説]]></title>
-        <id>https://coinpost.jp/?p=365822</id>
-        <link href="https://coinpost.jp/?p=365822"/>
-        <updated>2022-07-07T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場が低迷し、財政難で動向が注視されるヘッジファンド「Three Arrows Capital」の特徴や運用実態について解説。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柴犬コイン、ステーブルコインやコレクティブル・カードゲームなどを計画]]></title>
-        <id>https://www.coindeskjapan.com/?p=154043</id>
-        <link href="https://www.coindeskjapan.com/154043/"/>
-        <updated>2022-07-07T07:45:26.000Z</updated>
-        <summary type="html"><![CDATA[柴犬コイン（SHIB）の開発者は7月6日、エコシステムを拡大する計画を明らかにした。ステーブルコイン、「TREAT」と名付けられたリワード（報酬）トークン、独自 ...
-柴犬コイン、ステーブルコインやコレクティブル・カードゲームなどを計画 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
