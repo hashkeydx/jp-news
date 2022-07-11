@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-11T08:38:48.731Z</updated>
+    <updated>2022-07-11T09:41:28.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[取引高TOP10のデジタル資産プラットフォーム、MEXCの強み]]></title>
+        <id>https://coinpost.jp/?p=364144</id>
+        <link href="https://coinpost.jp/?p=364144"/>
+        <updated>2022-07-11T09:24:51.000Z</updated>
+        <summary type="html"><![CDATA[ドバイクリプトエキスポで「アジア最高の暗号資産（仮想通貨）取引所」として高評価を受けたMEXCインタビュー。長引く弱気相場の影響や市場の発展で注目しているポイントで見解を聞いた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スリー・アローズの創業者、所在不明──清算手続きに協力せず]]></title>
+        <id>https://www.coindeskjapan.com/?p=154361</id>
+        <link href="https://www.coindeskjapan.com/154361/"/>
+        <updated>2022-07-11T09:05:41.000Z</updated>
+        <summary type="html"><![CDATA[スリー・アローズ・キャピタルの2人の創業者はどこにいるのだろう？ 同社が英領バージン諸島に保有するファンドの清算手続きに携わる弁護士は、2人の創業者スー・チュー ...
+スリー・アローズの創業者、所在不明──清算手続きに協力せず first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テラ基盤の48以上のプロジェクト、ポリゴン移行へ]]></title>
+        <id>https://coinpost.jp/?p=366656</id>
+        <link href="https://coinpost.jp/?p=366656"/>
+        <updated>2022-07-11T08:36:49.000Z</updated>
+        <summary type="html"><![CDATA[ゲームとNFTに特化した「Polygon Studios」のRyan Wyatt CEOは、テラ（LUNA）を基盤としていた48のブロックチェーンプロジェクトが、ポリゴンに移行することを発表した。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨企業が数百億円の債務返済、マーケットメイカーのデレバレッジが進行]]></title>
         <id>https://coinpost.jp/?p=366683</id>
@@ -834,27 +865,6 @@ NFTのユニコーン Magic Eden：9カ月で16億ドル企業に成長させた
         <summary type="html"><![CDATA[仮想通貨取引所バイナンスは6日、13ペアのビットコイン現物取引の手数料をゼロにすることを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムSepolia、マージ実装完了]]></title>
-        <id>https://coinpost.jp/?p=365692</id>
-        <link href="https://coinpost.jp/?p=365692"/>
-        <updated>2022-07-06T21:15:29.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムのテストネット「Sepolia」は日本時間7日未明、大型アップグレード「The Merge」の実装を完了した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今回の暗号資産暴落はこれまでとは違う【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=153834</id>
-        <link href="https://www.coindeskjapan.com/153834/"/>
-        <updated>2022-07-06T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[分散型金融（DeFi）と中央集権型金融（CeFi）のバブルが崩壊し、NFT（ノン・ファンジブル・トークン）ブームは燃え尽き、アルゴリズム型ステーブルコインは暴落 ...
-今回の暗号資産暴落はこれまでとは違う【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Frances Coppola</name>
         </author>
     </entry>
 </feed>
