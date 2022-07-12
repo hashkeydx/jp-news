@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-12T07:27:40.473Z</updated>
+    <updated>2022-07-12T08:38:00.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米オンライン証券会社「M1ファイナンス」、仮想通貨対応を表明]]></title>
+        <id>https://coinpost.jp/?p=367008</id>
+        <link href="https://coinpost.jp/?p=367008"/>
+        <updated>2022-07-12T07:29:47.000Z</updated>
+        <summary type="html"><![CDATA[オンライン証券口座とロボアドバイザーを提供するM1 Financeは11日、暗号資産（仮想通貨）への投資機能をサービスに追加する計画を発表した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクリ開発メンバー中心に設立のBOBG（ボブジー）、5000万円規模のシードラウンド実施へ]]></title>
         <id>https://coinpost.jp/?p=366968</id>
@@ -945,16 +955,6 @@ NFTのユニコーン Magic Eden：9カ月で16億ドル企業に成長させた
         <link href="https://coinpost.jp/?p=365994"/>
         <updated>2022-07-07T20:45:36.000Z</updated>
         <summary type="html"><![CDATA[カナダの大手証券取引所は破産申請を提出したばかりの仮想通貨取引プラットフォームVoyagerの上場廃止を検討中。VOYG株の取引は既に完全に停止している。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米政府倫理課、公務員の仮想通貨保有を制限へ]]></title>
-        <id>https://coinpost.jp/?p=365990</id>
-        <link href="https://coinpost.jp/?p=365990"/>
-        <updated>2022-07-07T20:22:02.000Z</updated>
-        <summary type="html"><![CDATA[米政府は仮想通貨規制に関与する全ての政府公務員の仮想通貨保有を制限する勧告を発令。ステーブルコインの保有なども利益相反に該当する判断を下した。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
         </author>
