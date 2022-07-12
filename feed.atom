@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-12T21:27:27.704Z</updated>
+    <updated>2022-07-12T22:29:07.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Arbitrum」、新ブロックチェーンをローンチへ]]></title>
+        <id>https://coinpost.jp/?p=367118</id>
+        <link href="https://coinpost.jp/?p=367118"/>
+        <updated>2022-07-12T22:10:36.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2開発企業Offchain Labsは、新ブロックチェーンArbitrum Novaを、開発者向けにローンチしたことを発表。用途や今後の計画が明らかになった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カリフォルニア州、仮想通貨融資企業を調査]]></title>
+        <id>https://coinpost.jp/?p=367117</id>
+        <link href="https://coinpost.jp/?p=367117"/>
+        <updated>2022-07-12T21:40:42.000Z</updated>
+        <summary type="html"><![CDATA[米カリフォルニア州の金融保護イノベーション局は12日、仮想通貨有利子口座を提供する複数の企業に対して調査を行なっていると発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTを担保にお金を貸す“NFT-Fi”：法的保護を考える【米国編】]]></title>
+        <id>https://www.coindeskjapan.com/?p=154453</id>
+        <link href="https://www.coindeskjapan.com/154453/"/>
+        <updated>2022-07-12T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[個人的にどう感じているかは別として、NFT（ノン・ファンジブル・トークン）を無視することは、ほぼ不可能になってきている。最近の低調にもかかわらず、NFTの総売上 ...
+NFTを担保にお金を貸す“NFT-Fi”：法的保護を考える【米国編】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jeff Karas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multicoin Capital、弱気相場で過去最大規模の新ファンドをローンチ]]></title>
         <id>https://coinpost.jp/?p=367109</id>
@@ -763,17 +794,6 @@ NFT市場は踊り場、資金調達は好調【Krakenリサーチ】 first appe
         <summary type="html"><![CDATA[大手取引所バイナンスの子会社がスペイン銀行から仮想通貨サービスプロバイダー（VASP）ライセンスを取得。欧州地域におけるライセンス取得は3ヵ国目となった。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、暗号資産に対する国際的連携のフレームワークを発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=154165</id>
-        <link href="https://www.coindeskjapan.com/154165/"/>
-        <updated>2022-07-08T10:00:28.000Z</updated>
-        <summary type="html"><![CDATA[米財務省は7月7日、暗号資産（仮想通貨）に対する海外の規制当局との連携について概説したファクトシート（概況報告書）をバイデン大統領に提出した。 ファクトシートは ...
-米財務省、暗号資産に対する国際的連携のフレームワークを発表 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Nikhilesh De</name>
         </author>
     </entry>
 </feed>
