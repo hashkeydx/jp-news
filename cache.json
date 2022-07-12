@@ -133,6 +133,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=154385",
+          "author": "Jimmy He",
+          "description": "ビットコイン（BTC）は11日、先週の上昇分を逆にたどり続け、心理的に重要な2万ドルに向け、4日連続で下落。24時間で1.8％下落し、2万500ドル付近となった ...\n【US市場】ビットコイン、先週の上昇分を失う first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/154385/",
+          "publishedOn": "2022-07-12T02:15:12.000Z",
+          "wordCount": 1781,
+          "title": "【US市場】ビットコイン、先週の上昇分を失う",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/coindesk-BTC-chart-2022-07-12.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=154391",
+          "author": "Shaurya Malwa",
+          "description": "ステーブルコイン「テラUSD（UST）」壊滅的な下落に端を発したテラ（Terra）ブロックチェーンの崩壊から約2カ月、テラ上で稼働していた48以上のプロジェクト ...\nテラからポリゴンへ、48以上のプロジェクトが移行開始 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/154391/",
+          "publishedOn": "2022-07-12T01:05:32.000Z",
+          "wordCount": 1834,
+          "title": "テラからポリゴンへ、48以上のプロジェクトが移行開始",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_2158950909.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=154383",
           "author": "Michael Bellusci",
           "description": "米ビデオゲーム販売大手ゲームストップ（GameStop）のNFTマーケットプレイスがオープンした。準備は昨年から進められ、7月末までの立ち上げを目指していた。  ...\nゲームストップのNFTマーケットプレイス、オープン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -335,6 +355,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=366893",
+          "author": "AKIRA.H",
+          "description": "米国で破産申請を出した仮想通貨投資プラットフォームVoyager Digitalは、顧客資産の米ドルと仮想通貨の返済計画について一部公表した。",
+          "link": "https://coinpost.jp/?p=366893",
+          "publishedOn": "2022-07-12T02:20:01.000Z",
+          "wordCount": 1630,
+          "title": "破産申請したVoyager、顧客資産の返済について暫定案を公表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/Voyager-Digital.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/Voyager-Digital.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=366855",
+          "author": "K.Kobayashi",
+          "description": "米テキサス州の仮想通貨採掘企業の多くは事業を一時停止。熱波の影響で、電力の需給が逼迫している。",
+          "link": "https://coinpost.jp/?p=366855",
+          "publishedOn": "2022-07-12T01:50:12.000Z",
+          "wordCount": 1707,
+          "title": "米テキサス州、仮想通貨採掘企業が事業を一時停止　電力需給が逼迫",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/renewablecleanbitcoinmining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/renewablecleanbitcoinmining1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=366853",
+          "author": "A.Yamada",
+          "description": "リップル社は、ビットコインなど仮想通貨とNFTのプラットフォームCrossTowerとの提携を発表。CrossTowerは、XRP台帳で作成したNFTを新たに取り扱うことになる。",
+          "link": "https://coinpost.jp/?p=366853",
+          "publishedOn": "2022-07-12T01:15:50.000Z",
+          "wordCount": 1666,
+          "title": "リップル社、NFTプラットフォームCross Towerと提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/ripple-crosstower.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/ripple-crosstower.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=366843",
           "author": "菊谷ルイス",
