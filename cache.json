@@ -104,16 +104,6 @@
           "wordCount": 404,
           "title": "OZworld発足のプロジェクトNiLLANDとパートナーシップを締結 | Suishow株式会社",
           "imageUrl": null
-        },
-        {
-          "id": "7388a015c2d8c60e2df46e6f2ac47e4f",
-          "author": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
-          "description": "PR TIMESで配信されたHAKUTO. DAOのプレスリリース一覧です（最新配信日：2022年7月9日 11時38分）。HAKUTO. DAO",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca69e1c6147d15",
-          "publishedOn": "2022-07-10T13:33:20.790Z",
-          "wordCount": 404,
-          "title": "HAKUTO. DAOのプレスリリース｜PR TIMES",
-          "imageUrl": null
         }
       ]
     },
@@ -122,6 +112,36 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=154740",
+          "author": "Michael Bellusci",
+          "description": "ビットコイン（BTC）の生産コストは、米銀最大手のJPモルガン・チェースによると、弱気相場とマイニング効率の向上によって6月はじめの2万ドル付近から約1万300 ...\nビットコインの生産コスト、約1万3000ドルに低下：JPモルガン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/154740/",
+          "publishedOn": "2022-07-15T02:30:31.000Z",
+          "wordCount": 1747,
+          "title": "ビットコインの生産コスト、約1万3000ドルに低下：JPモルガン",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/EJWJUYLSINBZTFGJMZSSS7SNPU.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=154732",
+          "author": "Jimmy He",
+          "description": "ビットコイン（BTC）は14日、FRB（米連邦準備理事会）のクリストファー・ウォーラー理事が0.75％の利上げを支持すると発言し、1%の利上げに対する懸念が緩和 ...\n【US市場】ビットコイン上昇、1％利上げの懸念緩和 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/154732/",
+          "publishedOn": "2022-07-15T01:10:08.000Z",
+          "wordCount": 1761,
+          "title": "【US市場】ビットコイン上昇、1％利上げの懸念緩和",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/EODQGHQU5NGPXFY3JP4A2UX76E.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=154734",
+          "author": "Nelson Wang",
+          "description": "NFTマーケットプレイスのOpenSea（オープンシー）は約20％のスタッフをレイオフしている。デビン・フィンザー（Devin Finzer）CEOが14日、ツ ...\nオープンシー、約20％のスタッフをレイオフ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/154734/",
+          "publishedOn": "2022-07-14T23:45:27.000Z",
+          "wordCount": 1737,
+          "title": "オープンシー、約20％のスタッフをレイオフ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/FJKPJ2UH6RHFZOYMD6PUVI3CGY.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=154698",
           "author": "Omkar Godbole",
@@ -425,6 +445,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=367770",
+          "author": "S.Inosita",
+          "description": "米商品先物取引委員会は、新たに34の外国企業体を登録不備リストに登録したことを発表した。複数の仮想通貨関連企業も含まれる。",
+          "link": "https://coinpost.jp/?p=367770",
+          "publishedOn": "2022-07-15T02:32:28.000Z",
+          "wordCount": 1628,
+          "title": "米CFTC、登録不備リストに複数の仮想通貨企業を追加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/usa_crypto1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/usa_crypto1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=367768",
+          "author": "AKIRA.H",
+          "description": "仮想通貨イーサリアム（ETH）のコンセンサスアルゴリズムをプルーフ・オブ・ステーク（PoS）へ移行する「The Merge（マージ）」の実施予定日が9月19日に設定された。",
+          "link": "https://coinpost.jp/?p=367768",
+          "publishedOn": "2022-07-15T02:25:35.000Z",
+          "wordCount": 1668,
+          "title": "イーサリアム開発者、「マージ」実施目標を9月に設置",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=367733",
+          "author": "A.Yamada",
+          "description": "仮想通貨融資企業セルシウスネットワークは破産申請に関わる書類を提出。約1,650億円の赤字が判明した。",
+          "link": "https://coinpost.jp/?p=367733",
+          "publishedOn": "2022-07-15T01:12:38.000Z",
+          "wordCount": 1647,
+          "title": "破産申請したセルシウス、1,600億円の赤字が判明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/celsius-much-debt.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/celsius-much-debt.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=367734",
+          "author": "菊谷ルイス",
+          "description": "英大手暗号資産投資企業CoinSharesは新たにアルゴランドのETP（上場取引型金融商品）をドイツの株式電子取引所に上場させた。",
+          "link": "https://coinpost.jp/?p=367734",
+          "publishedOn": "2022-07-15T00:35:40.000Z",
+          "wordCount": 1605,
+          "title": "英CoinShares、アルゴランドの利回りETPをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/algorand_20210525_02.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/algorand_20210525_02.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=367728",
           "author": "菊谷ルイス",
