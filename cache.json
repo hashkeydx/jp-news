@@ -113,6 +113,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=154736",
+          "author": "Krisztian Sandor",
+          "description": "ステーブルコインのUSDコイン（USDC）を手がけるサークル・インターナショナル・ファイナンシャル（Circle Internet Financial）は7月1 ...\n米サークル、USDコイン準備金の詳細を公表──業界に広がる信用不安に対処 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/154736/",
+          "publishedOn": "2022-07-15T03:45:31.000Z",
+          "wordCount": 1756,
+          "title": "米サークル、USDコイン準備金の詳細を公表──業界に広がる信用不安に対処",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/PFBKERQN3JHBJKTU5ZEFFPHU4E.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=154740",
           "author": "Michael Bellusci",
           "description": "ビットコイン（BTC）の生産コストは、米銀最大手のJPモルガン・チェースによると、弱気相場とマイニング効率の向上によって6月はじめの2万ドル付近から約1万300 ...\nビットコインの生産コスト、約1万3000ドルに低下：JPモルガン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -445,6 +455,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=367816",
+          "author": "幸田直子",
+          "description": "米サークル社）は14日、同社が発行するステーブルコイン「USDC」の準備資産の内訳及び全カストディアンのリストを公開した。現金と短期国債で構成されていることが明らかになった。",
+          "link": "https://coinpost.jp/?p=367816",
+          "publishedOn": "2022-07-15T03:55:50.000Z",
+          "wordCount": 1686,
+          "title": "米サークル社がUSDC準備資産の内訳など開示、透明性の強化を図る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/usdc-blacklist.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/usdc-blacklist.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=367744",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）ではビットコインが続伸するも悲観的な見方が大勢を占める。個別銘柄では好材料に反応するケースも見受けられ、UniSwap（UNI）は前日比+15.0%と高騰した。",
+          "link": "https://coinpost.jp/?p=367744",
+          "publishedOn": "2022-07-15T03:23:10.000Z",
+          "wordCount": 1690,
+          "title": "ビットコイン一時21000ドル付近まで続伸、UNIが前日比+15.0%に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/altcoin_2021d-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/altcoin_2021d-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=367788",
+          "author": "A.Yamada",
+          "description": "米証券取引委員会のゲンスラー委員長は、ビットコインなど仮想通貨規制のあり方について語り、情報開示やステーブルコイン規制について見解を示した。",
+          "link": "https://coinpost.jp/?p=367788",
+          "publishedOn": "2022-07-15T03:10:48.000Z",
+          "wordCount": 1617,
+          "title": "米SEC委員長、仮想通貨の情報開示や規制のあり方を語る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/SECUSAFLAG.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/SECUSAFLAG.png"
+        },
         {
           "id": "https://coinpost.jp/?p=367770",
           "author": "S.Inosita",
