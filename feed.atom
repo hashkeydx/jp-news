@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-16T22:28:29.093Z</updated>
+    <updated>2022-07-16T23:27:32.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インフレはFRBだけの問題ではない【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=154633</id>
+        <link href="https://www.coindeskjapan.com/154633/"/>
+        <updated>2022-07-16T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[7月13日に発表されたアメリカのインフレ率の数字は、ウォール街のエコノミストたちの予想より高いものだった。消費者物価指数（CPI）は前年同月比で9.1%の上昇と ...
+インフレはFRBだけの問題ではない【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>David Morris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再建に取り組むVoyager、顧客資産500億円の出金許可を裁判所に要請]]></title>
         <id>https://coinpost.jp/?p=368095</id>
@@ -956,17 +967,6 @@ DEX大手のdYdXがイーサリアムに別れを告げた理由 first appeared 
         <summary type="html"><![CDATA[香港のWeb3大手Animoca Brandsが総額7,500万ドル（約100億円）の追加資金調達の完了を発表。半年前のシードラウンドの続きとなっており、企業評価額は6ヶ月前より1,000億円以上も増加した。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、1万9600ドル台まで下落──景気後退懸念が広がる]]></title>
-        <id>https://www.coindeskjapan.com/?p=154474</id>
-        <link href="https://www.coindeskjapan.com/154474/"/>
-        <updated>2022-07-12T10:40:38.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は12日、金融市場全般が下落するなかで、主要なサポートレベルを割り、1万9600ドル台まで下落している。 ビットコインは週末は2万500ド ...
-ビットコイン、1万9600ドル台まで下落──景気後退懸念が広がる first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
