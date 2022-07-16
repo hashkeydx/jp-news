@@ -113,6 +113,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=154838",
+          "author": "coindesk JAPAN",
+          "description": "暗号資産レンディングのセルシウスがチャプター11を申請。だが市場の驚きは少なかったようだ──今週のトップニュースをダイジェストで振り返ります。 バイナンス、手数 ...\nSTEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/154838/",
+          "publishedOn": "2022-07-15T23:30:55.000Z",
+          "wordCount": 1858,
+          "title": "STEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16のトップニュース】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_600126266-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=154211",
           "author": "Sage D. Young",
           "description": "伝統的企業において、報酬水準を決定する時は普通、従業員と管理職の間で話し合いがもたれる。一方の自律分散型組織（DAO）の中でも、報酬決定の輪は、かなり小さなもの ...\n報酬は誰がどう決めるべきか？報酬制度の非中央集権化に挑むコーディネイプ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -415,6 +425,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=368068",
+          "author": "A.Yamada",
+          "description": "米FRBは銀行に対する意見調査を実施。ビットコインなど仮想通貨や分散型台帳技術に対する意識や投資状況などについて回答を得た。",
+          "link": "https://coinpost.jp/?p=368068",
+          "publishedOn": "2022-07-16T02:14:31.000Z",
+          "wordCount": 1622,
+          "title": "米FRB、銀行の仮想通貨とDLTに対する姿勢を調査",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/bank-crypto-oco.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/bank-crypto-oco.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=368042",
+          "author": "S.Inosita",
+          "description": "マイニング企業CleanSparkは仮想通貨ビットコイン用のマイニングマシンを1,061台購入したことを発表。2カ月連続での大量購入だ。",
+          "link": "https://coinpost.jp/?p=368042",
+          "publishedOn": "2022-07-16T01:29:03.000Z",
+          "wordCount": 1622,
+          "title": "米上場のマイナー、ビットコインマイニング機器を大量購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=368044",
+          "author": "AKIRA.H",
+          "description": "米連邦破産法11条の適用を申請した仮想通貨融資企業セルシウスの公聴会は7月19日に行われる予定だ。",
+          "link": "https://coinpost.jp/?p=368044",
+          "publishedOn": "2022-07-16T00:55:04.000Z",
+          "wordCount": 1657,
+          "title": "セルシウス、再建に関する公聴会は来週開催へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/Celsius-Network.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/Celsius-Network.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=368035",
+          "author": "A.Yamada",
+          "description": "中央アフリカ共和国は間もなく、国家プロジェクトとして仮想通貨ビットコインのサイドチェーン「Sango」を立ち上げる予定だ。",
+          "link": "https://coinpost.jp/?p=368035",
+          "publishedOn": "2022-07-16T00:12:46.000Z",
+          "wordCount": 1673,
+          "title": "中央アフリカ、ビットコインのサイドチェーン立ち上げへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/bitcoinenergy1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/bitcoinenergy1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=368004",
           "author": "菊谷ルイス",
