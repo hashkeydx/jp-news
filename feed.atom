@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-18T02:34:53.944Z</updated>
+    <updated>2022-07-18T04:13:28.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンスCZ氏「株取引を提供する予定は当面ない」]]></title>
+        <id>https://coinpost.jp/?p=368261</id>
+        <link href="https://coinpost.jp/?p=368261"/>
+        <updated>2022-07-18T03:40:05.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインなどを扱う仮想通貨取引所バイナンスのCEOは、同社がWeb3サービスに専念し、当面株式取引を提供する予定はないと発言した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BAYCのメタバース「Otherside」、ライトペーパーを公開]]></title>
         <id>https://coinpost.jp/?p=368260</id>
@@ -814,17 +824,6 @@ Polygon、ディズニーの「アクセラレーター・プログラム」に�
         <summary type="html"><![CDATA[米ジャネット・イエレン財務長官は今週末バリで開催予定のG20財務相・中央銀行総裁会議に先駆けて来日訪問。金融庁や財務省幹部らと対談し、仮想通貨やステーブルコイン規制などについても議論した。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6月の米消費者物価指数は9.1％上昇──ビットコインは一時1万9000ドルまで下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=154600</id>
-        <link href="https://www.coindeskjapan.com/154600/"/>
-        <updated>2022-07-13T15:10:08.000Z</updated>
-        <summary type="html"><![CDATA[6月の米消費者物価指数（CPI）は前年同期比9.1％上昇となり、5月の8.6％から加速して40年ぶりの高水準となった。エコノミストの事前予想も上回った。 ビット ...
-6月の米消費者物価指数は9.1％上昇──ビットコインは一時1万9000ドルまで下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>
