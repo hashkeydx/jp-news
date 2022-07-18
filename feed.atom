@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-18T10:35:40.082Z</updated>
+    <updated>2022-07-18T11:26:08.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリプトBAR第13夜　web3と税務、専門税理士の思考法　柳澤国際税務会計事務所　代表・税理士　柳澤賢仁氏来店]]></title>
+        <id>https://coinpost.jp/?p=368346</id>
+        <link href="https://coinpost.jp/?p=368346"/>
+        <updated>2022-07-18T10:35:01.000Z</updated>
+        <summary type="html"><![CDATA[税理士でもある、柳澤国際税務会計事務所代表・税理士　柳澤賢仁氏が来店。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英大臣が仮想通貨企業トップと会合＝1Q資料　バイナンスやサークルなど]]></title>
         <id>https://coinpost.jp/?p=368297</id>
@@ -783,16 +793,6 @@ Polygon、ディズニーの「アクセラレーター・プログラム」に�
         <summary type="html"><![CDATA[アスタミューゼ株式会社のプレスリリース（2022年7月14日 08時30分）グラント・特許・論文におけるキーワード出現頻度からみた[メタバース]、すでに基礎研究段階は過ぎ、社会実装段階へシフト]]></summary>
         <author>
             <name>アスタミューゼ株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムL2「StarkNet」、独自トークンを発行　運営を分散化へ]]></title>
-        <id>https://coinpost.jp/?p=367462</id>
-        <link href="https://coinpost.jp/?p=367462"/>
-        <updated>2022-07-13T23:10:39.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2技術を開発するStarkWareは、StarkNetの分散化計画を発表。独自トークンを発行することも正式に公表した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
