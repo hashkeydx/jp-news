@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-18T22:30:27.365Z</updated>
+    <updated>2022-07-18T23:28:54.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、イタリアで事業登録完了]]></title>
+        <id>https://coinpost.jp/?p=368428</id>
+        <link href="https://coinpost.jp/?p=368428"/>
+        <updated>2022-07-18T23:15:26.000Z</updated>
+        <summary type="html"><![CDATA[大手暗号資産取引所コインベースは18日、イタリアの規制機関に暗号資産サービスプロバイダーとしてライセンス登録したことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流動的ステーキングのLido、イーサリアムのL2に対応へ]]></title>
+        <id>https://coinpost.jp/?p=368419</id>
+        <link href="https://coinpost.jp/?p=368419"/>
+        <updated>2022-07-18T22:30:06.000Z</updated>
+        <summary type="html"><![CDATA[流動的ステーキングのDeFiプラットフォームLidoは、仮想通貨イーサリアムのL2にサービスを拡大する計画を発表。Lidoは将来的に、L2のステーキング需要が増えていくと見ている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老舗オークションハウスChristie's、Web3関連ファンドをローンチ]]></title>
         <id>https://coinpost.jp/?p=368418</id>
