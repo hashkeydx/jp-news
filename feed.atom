@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-18T20:30:53.213Z</updated>
+    <updated>2022-07-18T21:27:20.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTX、銘柄の新規上場を実施へ]]></title>
+        <id>https://coinpost.jp/?p=368411</id>
+        <link href="https://coinpost.jp/?p=368411"/>
+        <updated>2022-07-18T21:12:06.000Z</updated>
+        <summary type="html"><![CDATA[グローバルな暗号資産取引所大手FTXは18日、銘柄の上場予定を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play-to-Earnゲームの犯罪利用に警戒を【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=154783</id>
+        <link href="https://www.coindeskjapan.com/154783/"/>
+        <updated>2022-07-18T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲームをして稼ぐことができるPlay-to-Earn（P2E）は、ブロックチェーンのユースケースの中でも人気のあるものの1つだが、詐欺やマネーロンダリングのリス ...
+Play-to-Earnゲームの犯罪利用に警戒を【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Yaya Fanusie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PassPay株式会社のプレスリリース｜PR TIMES]]></title>
         <id>fb5a4f416c0db7c08b3755a5f48383d6</id>
@@ -629,26 +650,6 @@ STEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16の
         <summary type="html"><![CDATA[福岡ソフトバンクホークス株式会社のプレスリリース（2022年7月14日 16時13分）ホークスと協業するスタートアップ企業募集開始について]]></summary>
         <author>
             <name>福岡ソフトバンクホークス株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウクライナ当局、ロシアのために資金を流した仮想通貨OTC業者を摘発]]></title>
-        <id>https://coinpost.jp/?p=367496</id>
-        <link href="https://coinpost.jp/?p=367496"/>
-        <updated>2022-07-14T08:58:02.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナ検察庁は仮想通貨の店頭取引事業者を捜査し資産を押収したと発表した。ロシアに資金を流していた疑いが持たれている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国際決済銀行CPMIとIOSCO、ステーブルコインに関するガイダンス発行]]></title>
-        <id>https://coinpost.jp/?p=367484</id>
-        <link href="https://coinpost.jp/?p=367484"/>
-        <updated>2022-07-14T08:55:56.000Z</updated>
-        <summary type="html"><![CDATA[国際決済銀行の決済・市場インフラ委員会と証券監督者国際機構は、仮想通貨ステーブルコインに対する規制ガイダンスを発表した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
