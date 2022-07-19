@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-19T02:47:25.884Z</updated>
+    <updated>2022-07-19T04:40:16.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米サークル社、ステーブルコイン政策の基本原則を発表]]></title>
+        <id>https://coinpost.jp/?p=368573</id>
+        <link href="https://coinpost.jp/?p=368573"/>
+        <updated>2022-07-19T04:15:25.000Z</updated>
+        <summary type="html"><![CDATA[米サークル社は18日、法制化の議論が高まるステーブルコインについて、政策立案のための19の基本原則を提示した。2019年からステーブルコイン「USDC」の発行と運営をおこなってきた同社の「実体験を反映」したものだという。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨大幅続伸、イーサリアム一時前週比46.8%高に]]></title>
+        <id>https://coinpost.jp/?p=368463</id>
+        <link href="https://coinpost.jp/?p=368463"/>
+        <updated>2022-07-19T03:56:54.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は前週末から大幅反発し、ビットコイン（BTC）は一時23000ドル付近まで上昇。イーサリアムなど主要アルトが買われた。一方、月末のFOMCに向け警戒感が強まりそうだ。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米政府倫理課、NFTを保有する公務員に開示要請]]></title>
+        <id>https://coinpost.jp/?p=368540</id>
+        <link href="https://coinpost.jp/?p=368540"/>
+        <updated>2022-07-19T03:44:44.000Z</updated>
+        <summary type="html"><![CDATA[米政府の政府倫理課（OGE）は、コレクタブルNFTの保有に関する情報開示を要求する、新しいガイダンスを発表した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セルシウス、事業再建計画の概要を提示]]></title>
+        <id>https://coinpost.jp/?p=368487</id>
+        <link href="https://coinpost.jp/?p=368487"/>
+        <updated>2022-07-19T02:40:43.000Z</updated>
+        <summary type="html"><![CDATA[破産した仮想通貨融資企業Celsius Networkは、事業の現状や再建計画について概要を説明する資料を公開した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlockFi、希望退職を募集]]></title>
         <id>https://coinpost.jp/?p=368476</id>
