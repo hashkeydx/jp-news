@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-19T07:27:49.693Z</updated>
+    <updated>2022-07-19T08:35:34.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所Gemini、さらなるレイオフ実施で人件費削減へ]]></title>
+        <id>https://coinpost.jp/?p=368616</id>
+        <link href="https://coinpost.jp/?p=368616"/>
+        <updated>2022-07-19T07:56:32.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所のGeminiが、新たに人員削減を実施した。同取引所は6月に10%の人員をレイオフしており、2ヶ月連続で従業員数を削減した形。CoinPost提携メディアのThe Blockなど複数メディアが報じた]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セルシウス、マイニング頼みの再建案──個人投資家への返済は後回しか？]]></title>
         <id>https://www.coindeskjapan.com/?p=154931</id>
@@ -773,26 +783,6 @@ STEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16の
 ボイジャー破綻の一部始終：崩壊のドミノはこうして始まった【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Danny Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、仮想通貨3銘柄のETH建取引ペアを追加]]></title>
-        <id>https://coinpost.jp/?p=367704</id>
-        <link href="https://coinpost.jp/?p=367704"/>
-        <updated>2022-07-14T20:25:26.000Z</updated>
-        <summary type="html"><![CDATA[新規取引ペア大手暗号資産（仮想通貨）取引所バイナンスは14日、イーサリアム（ETH）建の新規通貨ペアを追加する方針を発表した。新たな通貨ペアは以下の通り。日本時間15日19時より取引は開始する予定だ。バーガートークン（BURGER）／イーサ...]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名門ヤンキース、職員のビットコイン給与受け取り制度を導入]]></title>
-        <id>https://coinpost.jp/?p=367697</id>
-        <link href="https://coinpost.jp/?p=367697"/>
-        <updated>2022-07-14T19:55:54.000Z</updated>
-        <summary type="html"><![CDATA[米大リーグの強豪チーム・ニューヨーク・ヤンキースは仮想通貨企業NYDIGと連携して従業員の給与をビットコインでも受取ることが可能な新プランを導入。MLB球団での採択は初の事例となった。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
