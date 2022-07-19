@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-18T23:28:54.391Z</updated>
+    <updated>2022-07-19T02:47:25.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlockFi、希望退職を募集]]></title>
+        <id>https://coinpost.jp/?p=368476</id>
+        <link href="https://coinpost.jp/?p=368476"/>
+        <updated>2022-07-19T02:12:24.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨融資サービス大手のBlockFiが、市場環境に合わせて組織サイズをアジャストするため、希望退職者を募集していることが分かった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ビットコイン、1カ月以上ぶりの高値]]></title>
+        <id>https://www.coindeskjapan.com/?p=154912</id>
+        <link href="https://www.coindeskjapan.com/154912/"/>
+        <updated>2022-07-19T01:20:14.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は18日朝、2万2500ドル超えまで上昇し、1カ月以上ぶりの高値となった。当記事執筆時点には24時間で3.1％上昇し、2万1696ドルとな ...
+【US市場】ビットコイン、1カ月以上ぶりの高値 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jimmy He</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の冬はいつ終わるか、グレースケールが分析]]></title>
+        <id>https://coinpost.jp/?p=368433</id>
+        <link href="https://coinpost.jp/?p=368433"/>
+        <updated>2022-07-19T01:14:27.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨運用企業グレースケールは、現在の弱気相場に関するレポートを公開。ビットコインを購入するチャンスは6月13日に始まっているとし、その期間がいつまで続くかなどを分析した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スリーアローズの債務は4,800億円、債権者リストが明らかに]]></title>
+        <id>https://coinpost.jp/?p=368434</id>
+        <link href="https://coinpost.jp/?p=368434"/>
+        <updated>2022-07-19T00:40:10.000Z</updated>
+        <summary type="html"><![CDATA[破産した仮想通貨ヘッジファンドThree Arrows Capitalは、27の企業に合計約4,800億円の借金を負っていたことが明らかになった。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース、イタリアで事業登録完了]]></title>
         <id>https://coinpost.jp/?p=368428</id>
@@ -681,26 +722,6 @@ STEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16の
         <summary type="html"><![CDATA[米大リーグの強豪チーム・ニューヨーク・ヤンキースは仮想通貨企業NYDIGと連携して従業員の給与をビットコインでも受取ることが可能な新プランを導入。MLB球団での採択は初の事例となった。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNBチェーン、新プラットフォームDappBayをローンチ]]></title>
-        <id>https://coinpost.jp/?p=367654</id>
-        <link href="https://coinpost.jp/?p=367654"/>
-        <updated>2022-07-14T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[BNBチェーンは新たなdAppsツールDappBayのローンチを発表。DeFiやNFTなど多数の領域における最新プロジェクトの情報や市場トレンド、そしてプロジェクトのリスク情報に関する通知などをユーザーに届ける。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホークスと協業するスタートアップ企業募集開始について]]></title>
-        <id>c747df12e5bbdfceb74900f61b35a64a</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f1a26263df140f9361d769e4c40c2350d667"/>
-        <updated>2022-07-14T12:45:03.000Z</updated>
-        <summary type="html"><![CDATA[福岡ソフトバンクホークス株式会社のプレスリリース（2022年7月14日 16時13分）ホークスと協業するスタートアップ企業募集開始について]]></summary>
-        <author>
-            <name>福岡ソフトバンクホークス株式会社</name>
         </author>
     </entry>
 </feed>
