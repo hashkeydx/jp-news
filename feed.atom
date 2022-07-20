@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-20T08:37:22.691Z</updated>
+    <updated>2022-07-20T09:29:58.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BNPパリバ、暗号資産カストディ参入：関係者]]></title>
+        <id>https://www.coindeskjapan.com/?p=155053</id>
+        <link href="https://www.coindeskjapan.com/155053/"/>
+        <updated>2022-07-20T09:05:09.000Z</updated>
+        <summary type="html"><![CDATA[仏銀大手BNPパリバがスイスの暗号資産（仮想通貨）カストディ企業のメタコ（Metaco）と提携し、カストディ事業に参入する。この件に詳しい3人の関係者が語った。 ...
+BNPパリバ、暗号資産カストディ参入：関係者 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内取引所Bitgate、「Himalaya Exchange Japan」に改名へ]]></title>
+        <id>https://coinpost.jp/?p=368993</id>
+        <link href="https://coinpost.jp/?p=368993"/>
+        <updated>2022-07-20T08:59:55.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所のBitgateを運営するBitgate社は、社名を「Himalaya Japan株式会社」変更すると発表。取引所の名称も「Himalaya Exchange Japan」に改名される。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『コミュニティ拡大のカギは』イーサリアム財団 宮口あや氏とデジガレ伊藤穰一氏が対談]]></title>
+        <id>https://coinpost.jp/?p=369063</id>
+        <link href="https://coinpost.jp/?p=369063"/>
+        <updated>2022-07-20T08:56:17.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム財団のエグゼクティブ・ディレクターを務める宮口あや氏と、株式会社デジタルガレージの共同創業者である伊藤穰一氏の対談イベントが東京で開催された。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、4月以来の50日移動平均線超え]]></title>
         <id>https://www.coindeskjapan.com/?p=155036</id>
@@ -730,16 +761,6 @@ STEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16の
         <summary type="html"><![CDATA[ロシアのプーチン大統領は、デジタル資産の決済利用を禁止する法案に署名。同国では仮想通貨の決済利用はすでに禁止されていた。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スリーアローズ清算人、シンガポールで権限申立てる]]></title>
-        <id>https://coinpost.jp/?p=368002</id>
-        <link href="https://coinpost.jp/?p=368002"/>
-        <updated>2022-07-15T21:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Three Arrowsの清算人である米コンサルティング企業Teneoはシンガポールの裁判所に、英領ヴァージン諸島の清算手続きを認めるよう申し立てた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
