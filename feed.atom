@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-20T20:33:19.069Z</updated>
+    <updated>2022-07-20T21:25:50.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[速報　テスラ社、保有するビットコインの75％を売却＝2Qレポート]]></title>
+        <id>https://coinpost.jp/?p=369268</id>
+        <link href="https://coinpost.jp/?p=369268"/>
+        <updated>2022-07-20T21:02:13.000Z</updated>
+        <summary type="html"><![CDATA[米最大手EVメーカーのテスラ社は20日、22年2Qに保有する暗号資産ビットコインの75%を売却したことを発表した。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内取引所bitbank、ソラナ基盤の次世代オラクルPyth Networkと提携]]></title>
+        <id>https://coinpost.jp/?p=369251</id>
+        <link href="https://coinpost.jp/?p=369251"/>
+        <updated>2022-07-20T21:00:42.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所bitbankはソラナ基盤の次世代オラクルPyth Networkとの提携を発表。DeFiに市場データを提供するインフラにbitbankのデータを提供していく。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CeFiが崩壊した。DeFiにも問題はある【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=154930</id>
+        <link href="https://www.coindeskjapan.com/154930/"/>
+        <updated>2022-07-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近の暴落を受けた暗号資産（仮想通貨）界隈では、希望に満ちたメッセージが出回っている。 分散型金融（DeFi）に関するニュースレターを手がける「Bankless ...
+CeFiが崩壊した。DeFiにも問題はある【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポリゴン（MATIC）、ZKロールアップに特化した新たなL2をリリース]]></title>
         <id>https://coinpost.jp/?p=369233</id>
