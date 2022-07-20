@@ -83,6 +83,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=155067",
+          "author": "Sandali Handagama",
+          "description": "ドバイのリーダーたちは、ドバイを世界トップ10に入るメタバース経済圏にしようとしている。 7月18日、WAM（国営エミレーツ通信社）で発表された「ドバイ・メタバ ...\nドバイ、メタバース戦略を発表──1000社超の企業誘致を目指す first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/155067/",
+          "publishedOn": "2022-07-20T11:30:01.000Z",
+          "wordCount": 1774,
+          "title": "ドバイ、メタバース戦略を発表──1000社超の企業誘致を目指す",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_1814044199.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=155053",
           "author": "Ian Allison",
           "description": "仏銀大手BNPパリバがスイスの暗号資産（仮想通貨）カストディ企業のメタコ（Metaco）と提携し、カストディ事業に参入する。この件に詳しい3人の関係者が語った。 ...\nBNPパリバ、暗号資産カストディ参入：関係者 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -231,16 +241,6 @@
           "wordCount": 1808,
           "title": "インフレはFRBだけの問題ではない【オピニオン】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_2158825133-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=154838",
-          "author": "coindesk JAPAN",
-          "description": "暗号資産レンディングのセルシウスがチャプター11を申請。だが市場の驚きは少なかったようだ──今週のトップニュースをダイジェストで振り返ります。 バイナンス、手数 ...\nSTEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/154838/",
-          "publishedOn": "2022-07-15T23:30:55.000Z",
-          "wordCount": 1858,
-          "title": "STEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16のトップニュース】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_600126266-1.jpg"
         }
       ]
     },
@@ -959,36 +959,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=368044",
-          "author": "AKIRA.H",
-          "description": "米連邦破産法11条の適用を申請した仮想通貨融資企業セルシウスの公聴会は7月19日に行われる予定だ。",
-          "link": "https://coinpost.jp/?p=368044",
-          "publishedOn": "2022-07-16T00:55:04.000Z",
-          "wordCount": 1657,
-          "title": "セルシウス、再建に関する公聴会は来週開催へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/Celsius-Network.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/Celsius-Network.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=368035",
-          "author": "A.Yamada",
-          "description": "中央アフリカ共和国は間もなく、国家プロジェクトとして仮想通貨ビットコインのサイドチェーン「Sango」を立ち上げる予定だ。",
-          "link": "https://coinpost.jp/?p=368035",
-          "publishedOn": "2022-07-16T00:12:46.000Z",
-          "wordCount": 1673,
-          "title": "中央アフリカ、ビットコインのサイドチェーン立ち上げへ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/bitcoinenergy1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/bitcoinenergy1.png"
         }
       ]
     }
