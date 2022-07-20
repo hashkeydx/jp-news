@@ -133,6 +133,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=155007",
+          "author": "Daniel Kuhn",
+          "description": "時価総額で世界2位の暗号資産（仮想通貨）イーサ（ETH）がここ1週間、45%値上がりしている。これは、投資できる他の資産の大半を凌ぐパフォーマンスである。この理 ...\nイーサの値上がり：「The Merge」が牽引？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/155007/",
+          "publishedOn": "2022-07-20T22:00:00.000Z",
+          "wordCount": 1768,
+          "title": "イーサの値上がり：「The Merge」が牽引？【コラム】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_2054766317-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=154930",
           "author": "Michael J Casey",
           "description": "最近の暴落を受けた暗号資産（仮想通貨）界隈では、希望に満ちたメッセージが出回っている。 分散型金融（DeFi）に関するニュースレターを手がける「Bankless ...\nCeFiが崩壊した。DeFiにも問題はある【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -315,6 +325,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=369278",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムのL2ソリューションを開発するMatter Labsは、zkSync 2.0を11月にローンチすることを発表。今後のロードマップを公表した。",
+          "link": "https://coinpost.jp/?p=369278",
+          "publishedOn": "2022-07-20T22:18:25.000Z",
+          "wordCount": 1706,
+          "title": "イーサリアムL2「zkSync 2.0」、22年11月にローンチへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=369277",
+          "author": "菊谷ルイス",
+          "description": "暗号資産取引所大手のFTXは企業買収を目的に、資金調達の交渉を行なっていると報じられた。",
+          "link": "https://coinpost.jp/?p=369277",
+          "publishedOn": "2022-07-20T22:00:02.000Z",
+          "wordCount": 1616,
+          "title": "FTX、更なる資金調達を計画か　企業買収目的で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/ftx2_20200901.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/ftx2_20200901.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=369263",
+          "author": "Noah Sakamaki",
+          "description": "シンガポールの金融当局MASは8月までに仮想通貨に関する規制方針を明確化すると表明。「仮想通貨のハブになる」との発言が前向きに捉えられている。",
+          "link": "https://coinpost.jp/?p=369263",
+          "publishedOn": "2022-07-20T21:38:46.000Z",
+          "wordCount": 1683,
+          "title": "シンガポール当局「仮想通貨のハブとなる」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/singapore_sunrise1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/singapore_sunrise1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=369248",
+          "author": "Noah Sakamaki",
+          "description": "大手仮想通貨取引所コインベースは新たに5銘柄の上場を発表。流動性が一定量に達し次第、22日未明より取り扱いを開始する。",
+          "link": "https://coinpost.jp/?p=369248",
+          "publishedOn": "2022-07-20T21:26:49.000Z",
+          "wordCount": 1677,
+          "title": "コインベース、仮想通貨5銘柄の上場実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase2_20210913.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase2_20210913.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=369268",
           "author": "Noah Sakamaki",
