@@ -241,16 +241,6 @@
           "wordCount": 1858,
           "title": "STEPNの2Q利益は約170億円、セルシウスが破産申請【7/9～7/16のトップニュース】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_600126266-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=154211",
-          "author": "Sage D. Young",
-          "description": "伝統的企業において、報酬水準を決定する時は普通、従業員と管理職の間で話し合いがもたれる。一方の自律分散型組織（DAO）の中でも、報酬決定の輪は、かなり小さなもの ...\n報酬は誰がどう決めるべきか？報酬制度の非中央集権化に挑むコーディネイプ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/154211/",
-          "publishedOn": "2022-07-15T22:30:00.000Z",
-          "wordCount": 1809,
-          "title": "報酬は誰がどう決めるべきか？報酬制度の非中央集権化に挑むコーディネイプ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_1520982458-scaled.jpg"
         }
       ]
     },
@@ -265,6 +255,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=369053",
+          "author": "S.Inosita",
+          "description": "ビットコインマイニング評議会は、22年Q2レポートを発表。マイニングにおける再生可能エネルギーの利用率が59.5%に達したことを報告した。21年Q4と比較して約1%の上昇となる。",
+          "link": "https://coinpost.jp/?p=369053",
+          "publishedOn": "2022-07-20T09:56:36.000Z",
+          "wordCount": 1631,
+          "title": "BTC採掘評議会レポート「マイニングの再生可能エネルギー率が約60%に到達」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/bitcoin_oil_mining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/bitcoin_oil_mining1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=368993",
           "author": "S.Inosita",
@@ -999,21 +1004,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=368005",
-          "author": "K.Kobayashi",
-          "description": "ロシアのプーチン大統領は、デジタル資産の決済利用を禁止する法案に署名。同国では仮想通貨の決済利用はすでに禁止されていた。",
-          "link": "https://coinpost.jp/?p=368005",
-          "publishedOn": "2022-07-15T22:05:58.000Z",
-          "wordCount": 1626,
-          "title": "露プーチン大統領、デジタル資産の決済利用を禁じる法案に署名",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/Russia-Vladimir-Putin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/Russia-Vladimir-Putin.jpg"
         }
       ]
     }
