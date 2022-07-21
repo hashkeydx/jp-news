@@ -133,6 +133,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=155103",
+          "author": "Shaurya Malwa",
+          "description": "ソラナ（Solana）ブロックチェーンのアクティブウォレットは年初から58％増加し、市場全体が落ち込むなかで他のブロックチェーンを大きく上回っている。 またソラ ...\nソラナ、新規デイリーアドレスが増加──暗号資産ソラナも上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/155103/",
+          "publishedOn": "2022-07-21T01:25:42.000Z",
+          "wordCount": 1766,
+          "title": "ソラナ、新規デイリーアドレスが増加──暗号資産ソラナも上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/YWCEJRKFORB7FMNYX2BLGFP2DY.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=155084",
+          "author": "Jimmy He",
+          "description": "ビットコイン（BTC）は20日も上昇し、1カ月ぶりの高値2万4265ドルを記録した。当記事執筆時点、24時間で0.5％上昇、2万3700ドル付近となっている。1 ...\n【US市場】ビットコイン、1カ月ぶりの高値──50日SMAに近づく first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/155084/",
+          "publishedOn": "2022-07-21T00:05:22.000Z",
+          "wordCount": 1861,
+          "title": "【US市場】ビットコイン、1カ月ぶりの高値──50日SMAに近づく",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/QQUB5Q2FWNAZJBFDADDGQUCLMM.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=155007",
           "author": "Daniel Kuhn",
           "description": "時価総額で世界2位の暗号資産（仮想通貨）イーサ（ETH）がここ1週間、45%値上がりしている。これは、投資できる他の資産の大半を凌ぐパフォーマンスである。この理 ...\nイーサの値上がり：「The Merge」が牽引？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -325,6 +345,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=369360",
+          "author": "A.Yamada",
+          "description": "金融庁が昨年12月に日本暗号資産取引業協会にマネロン防止対策の遅れについて警告を行ったと海外メディアによって報道された。",
+          "link": "https://coinpost.jp/?p=369360",
+          "publishedOn": "2022-07-21T02:28:28.000Z",
+          "wordCount": 1628,
+          "title": "金融庁、日本暗号資産取引業協会に警告か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/fsa-new.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/fsa-new.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=369355",
+          "author": "AKIRA.H",
+          "description": "米仮想通貨取引所大手コインベースは、破産を申請した複数の仮想通貨企業に対して「融資エクスポージャーがない」ことを表明した。",
+          "link": "https://coinpost.jp/?p=369355",
+          "publishedOn": "2022-07-21T02:05:26.000Z",
+          "wordCount": 1627,
+          "title": "米コインベース、破産企業への融資関係はないと表明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/coinbase_institute.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/coinbase_institute.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=369340",
+          "author": "A.Yamada",
+          "description": "英国財務省は、金融サービス・市場法案を発表。仮想通貨ステーブルコインを決済手段として規制する計画が盛り込まれている。",
+          "link": "https://coinpost.jp/?p=369340",
+          "publishedOn": "2022-07-21T01:22:32.000Z",
+          "wordCount": 1617,
+          "title": "英国財務省、ステーブルコイン法案を提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/uk-new-stablecoin-regulation.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/uk-new-stablecoin-regulation.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=369335",
+          "author": "K.Kobayashi",
+          "description": "人気ゲームのマインクラフトは、NFTの発行や導入を許可しない意向を示した。一方でブロックチェーンの発展には注目しているとも説明している。",
+          "link": "https://coinpost.jp/?p=369335",
+          "publishedOn": "2022-07-21T01:00:19.000Z",
+          "wordCount": 1675,
+          "title": "マインクラフト「現在はゲームにNFTを導入する計画はない」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/Minecraft.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/Minecraft.png"
+        },
         {
           "id": "https://coinpost.jp/?p=369286",
           "author": "菊谷ルイス",
