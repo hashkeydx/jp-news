@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-22T22:30:06.079Z</updated>
+    <updated>2022-07-22T23:29:22.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSea、ソラナNFTのローンチパッドを開始]]></title>
+        <id>https://coinpost.jp/?p=370040</id>
+        <link href="https://coinpost.jp/?p=370040"/>
+        <updated>2022-07-22T22:35:27.000Z</updated>
+        <summary type="html"><![CDATA[大手NFT電子市場OpenSeaは19日、ソラナ基盤NFTの一次販売を開始した。一方、第一弾の「Zoonies」は未だ売り切れていない。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熱波が襲うパリで開かれたイーサリアム会議【レポート】]]></title>
+        <id>https://www.coindeskjapan.com/?p=155091</id>
+        <link href="https://www.coindeskjapan.com/155091/"/>
+        <updated>2022-07-22T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[パリで開かれたヨーロッパ最大のイーサリアムイベント「イーサリアム・コミュニテイ・カンファレンス（EthCC）」に、何百人もの開発者たちが集まった。年次イベントで ...
+熱波が襲うパリで開かれたイーサリアム会議【レポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Lyllah Ledesma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX、破産したVoyagerの顧客出金を支援へ]]></title>
         <id>https://coinpost.jp/?p=370036</id>
@@ -1138,16 +1159,6 @@ Play-to-Earnゲームの犯罪利用に警戒を【コラム】 first appeared o
         <summary type="html"><![CDATA[PR TIMESで配信されたPassPay株式会社のプレスリリース一覧です（最新配信日：2022年7月18日 09時00分）。PassPay株式会社｜PassPay株式会社は2022年2月に創業し、2022年3月22日よりERC20自家型前払式支払手段として日本円連動ステーブルコイン[JPYW(JPYWorld)]を発行、販売しています。我々はステーブルコインを実生活で利用する上での[バーチャルとリアルの壁][国境の壁][現在と未来の壁]という3つの壁を“Pass(解決)”するソリューションを提供していきます。]]></summary>
         <author>
             <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリプトBAR第13夜　web3と税務、専門税理士の思考法　柳澤国際税務会計事務所　代表・税理士　柳澤賢仁氏来店]]></title>
-        <id>https://coinpost.jp/?p=368346</id>
-        <link href="https://coinpost.jp/?p=368346"/>
-        <updated>2022-07-18T10:35:01.000Z</updated>
-        <summary type="html"><![CDATA[税理士でもある、柳澤国際税務会計事務所代表・税理士　柳澤賢仁氏が来店。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
