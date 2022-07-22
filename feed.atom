@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-22T02:38:42.800Z</updated>
+    <updated>2022-07-22T04:15:22.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム共同創業者ブテリン、マージ後の「4部構成アップデート」構想を語る]]></title>
+        <id>https://coinpost.jp/?p=369774</id>
+        <link href="https://coinpost.jp/?p=369774"/>
+        <updated>2022-07-22T04:06:15.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの共同創設者ヴィタリック・ブテリン氏は、大型アップグレード「マージ」完了後の重要アップグレード構想に言及。ネットワークは急激な変化期に突入すると語った。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン採掘難度は前回比-5%（3連続下落）、ETH/BTCでは潮目の変化も]]></title>
+        <id>https://coinpost.jp/?p=369691</id>
+        <link href="https://coinpost.jp/?p=369691"/>
+        <updated>2022-07-22T03:25:42.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場では、ビットコインのディフィカルティが1年ぶり水準の下落幅を記録した。アルト市場ではETH/BTCで潮目の変化も見受けられる。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFTゲーム「スターアトラス」、POLISトークンのステーキング開始へ]]></title>
+        <id>https://coinpost.jp/?p=369696</id>
+        <link href="https://coinpost.jp/?p=369696"/>
+        <updated>2022-07-22T02:50:44.000Z</updated>
+        <summary type="html"><![CDATA[SF系NFTゲームスターアトラスは「スターアトラスDAO」の初期ガバナンス実装を発表。ガバナンストークン「POLIS」のステーキングサービスを開始することを明かした。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi大手Curve、独自ステーブルコインを開発中]]></title>
+        <id>https://coinpost.jp/?p=369702</id>
+        <link href="https://coinpost.jp/?p=369702"/>
+        <updated>2022-07-22T02:38:12.000Z</updated>
+        <summary type="html"><![CDATA[DeFiプラットフォーム大手「Curve Finance」が、独自のステーブルコインを発行する計画が明らかになった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米仮想通貨マイニング大手Core Scientific、100億円超の資金枠を獲得]]></title>
         <id>https://coinpost.jp/?p=369697</id>
