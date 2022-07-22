@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-22T09:30:02.631Z</updated>
+    <updated>2022-07-22T10:35:14.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HashPort社、SMBCグループとNFTビジネスの基本合意書締結]]></title>
+        <id>https://coinpost.jp/?p=369887</id>
+        <link href="https://coinpost.jp/?p=369887"/>
+        <updated>2022-07-22T09:26:55.000Z</updated>
+        <summary type="html"><![CDATA[HashPortは、SMBCグループと三井住友銀行との間で、NFTビジネスの基本合意書を締結したことを発表。「トークンビジネスラボ」を設置し、ビジネスの推進に係る調査・研究および実証実験が行われる予定だ。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブテリン氏、「Merge」と「Surge」を語る：パリのイーサリアム会議]]></title>
         <id>https://www.coindeskjapan.com/?p=155185</id>
@@ -1129,27 +1139,6 @@ Play-to-Earnゲームの犯罪利用に警戒を【コラム】 first appeared o
 分散型取引所（DEX）とは？【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Benedict George</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高校卒業してビットコイン開発に夢中：ダニエラさんが選んだエンジニアライフ]]></title>
-        <id>https://www.coindeskjapan.com/?p=154752</id>
-        <link href="https://www.coindeskjapan.com/154752/"/>
-        <updated>2022-07-17T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ダニエラ・ブロッゾーニ（Daniela Brozzoni）さんは、より良いビットコイン（BTC）ウォレットを開発しようとしているエンジニアを支援している。 わず ...
-高校卒業してビットコイン開発に夢中：ダニエラさんが選んだエンジニアライフ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Frederick Munawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パラグアイ大統領、可決された仮想通貨法案に署名へ]]></title>
-        <id>https://coinpost.jp/?p=368247</id>
-        <link href="https://coinpost.jp/?p=368247"/>
-        <updated>2022-07-17T22:20:37.000Z</updated>
-        <summary type="html"><![CDATA[南米パラグアイ共和国の上院議会は14日、仮想通貨規制法案の可決を承認し、大統領の元に送付された。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

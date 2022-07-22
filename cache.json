@@ -431,16 +431,6 @@
           "wordCount": 1757,
           "title": "分散型取引所（DEX）とは？【基礎知識】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_1025655025.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=154752",
-          "author": "Frederick Munawa",
-          "description": "ダニエラ・ブロッゾーニ（Daniela Brozzoni）さんは、より良いビットコイン（BTC）ウォレットを開発しようとしているエンジニアを支援している。 わず ...\n高校卒業してビットコイン開発に夢中：ダニエラさんが選んだエンジニアライフ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/154752/",
-          "publishedOn": "2022-07-17T22:30:00.000Z",
-          "wordCount": 1794,
-          "title": "高校卒業してビットコイン開発に夢中：ダニエラさんが選んだエンジニアライフ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/daniela.jpg"
         }
       ]
     },
@@ -455,6 +445,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=369887",
+          "author": "S.Inosita",
+          "description": "HashPortは、SMBCグループと三井住友銀行との間で、NFTビジネスの基本合意書を締結したことを発表。「トークンビジネスラボ」を設置し、ビジネスの推進に係る調査・研究および実証実験が行われる予定だ。",
+          "link": "https://coinpost.jp/?p=369887",
+          "publishedOn": "2022-07-22T09:26:55.000Z",
+          "wordCount": 1632,
+          "title": "HashPort社、SMBCグループとNFTビジネスの基本合意書締結",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/nft394587-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/nft394587-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=369810",
           "author": "S.Inosita",
@@ -1474,21 +1479,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/congress-house-hearing.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/congress-house-hearing.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=368247",
-          "author": "菊谷ルイス",
-          "description": "南米パラグアイ共和国の上院議会は14日、仮想通貨規制法案の可決を承認し、大統領の元に送付された。",
-          "link": "https://coinpost.jp/?p=368247",
-          "publishedOn": "2022-07-17T22:20:37.000Z",
-          "wordCount": 1601,
-          "title": "パラグアイ大統領、可決された仮想通貨法案に署名へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/paraguay0607211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/paraguay0607211.png"
         }
       ]
     }
