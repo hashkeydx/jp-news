@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-24T09:29:02.072Z</updated>
+    <updated>2022-07-24T10:32:00.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TradiFiとの違い　DeFiとは　CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=370190</id>
+        <link href="https://coinpost.jp/?p=370190"/>
+        <updated>2022-07-24T10:05:44.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、Kyber Network Japan Manager堀次泰介（hory）氏をお招きして、DeFiについて一から詳しく解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース｜テスラ社のビットコイン売却に注目集まる、ブテリン氏が語るイーサリアムの構想など]]></title>
         <id>https://coinpost.jp/?p=370069</id>
@@ -956,36 +966,6 @@ BNPパリバ、暗号資産カストディ参入：関係者 first appeared on c
         <summary type="html"><![CDATA[フランスの金融大手BNPパリバはスイスの仮想通貨インフラ企業Metacoと提携し、仮想通貨のカストディサービスを提供することを検討。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインやFTXに投資する米大手ファンド、償還を一時停止]]></title>
-        <id>https://coinpost.jp/?p=368828</id>
-        <link href="https://coinpost.jp/?p=368828"/>
-        <updated>2022-07-19T22:15:43.000Z</updated>
-        <summary type="html"><![CDATA[米ヘッジファンドLegion Strategiesは仮想通貨企業・銘柄に投資するファンドで顧客の償還を停止中。強制清算のリスクはゼロと説明した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto.com、イタリアの事業ライセンスを取得]]></title>
-        <id>https://coinpost.jp/?p=368791</id>
-        <link href="https://coinpost.jp/?p=368791"/>
-        <updated>2022-07-19T21:55:29.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨プラットフォームCrypto.comがイタリアでのライセンス取得を完了。イタリア居住者向けにさらなる仮想通貨取引やウォレットサービスの提供が可能となる。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドバイのメタバース戦略「5年後には5,000億円以上の市場規模まで成長」]]></title>
-        <id>https://coinpost.jp/?p=368808</id>
-        <link href="https://coinpost.jp/?p=368808"/>
-        <updated>2022-07-19T21:30:15.000Z</updated>
-        <summary type="html"><![CDATA[中東ドバイのハムダン皇太子は同国のメタバース戦略を表明。今後5年間でメタバース業界の市場規模を現在の8倍にまで成長させ雇用創出を支援する計画を打ち出した。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
