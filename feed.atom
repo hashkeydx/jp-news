@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-25T22:28:35.361Z</updated>
+    <updated>2022-07-25T23:29:53.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lido DAO、1,000万トークンの販売提案を非承認]]></title>
+        <id>https://coinpost.jp/?p=370651</id>
+        <link href="https://coinpost.jp/?p=370651"/>
+        <updated>2022-07-25T22:55:24.000Z</updated>
+        <summary type="html"><![CDATA[DeFiプラットフォーム「Lido Finance」を管理するLido DAOは25日、ガバナンストークンLDOの販売による資金調達の提案についてオンチェーン投票で非承認する結果になった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テザー社とBitfinex、P2Pビデオ通話アプリのアルファ版をローンチ]]></title>
         <id>https://coinpost.jp/?p=370641</id>
@@ -701,17 +711,6 @@ HashPortと三井住友、NFT事業連携で協議 first appeared on coindesk JA
 トップブランドがWeb3から学ぶコミュニティ形成【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Davis Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム「マージトレード」、市場関係者の反応はさまざま]]></title>
-        <id>https://www.coindeskjapan.com/?p=155147</id>
-        <link href="https://www.coindeskjapan.com/155147/"/>
-        <updated>2022-07-21T11:10:35.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）は、9月に実行が期待されている「Merge（マージ）」を前に投資家センチメントが強気に転じ、過去1週間で約48％上昇した。いわゆる「マージ ...
-イーサリアム「マージトレード」、市場関係者の反応はさまざま first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>

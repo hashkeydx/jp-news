@@ -301,16 +301,6 @@
           "wordCount": 1749,
           "title": "トップブランドがWeb3から学ぶコミュニティ形成【オピニオン】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_1305033613-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=155147",
-          "author": "Shaurya Malwa",
-          "description": "イーサリアム（ETH）は、9月に実行が期待されている「Merge（マージ）」を前に投資家センチメントが強気に転じ、過去1週間で約48％上昇した。いわゆる「マージ ...\nイーサリアム「マージトレード」、市場関係者の反応はさまざま first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/155147/",
-          "publishedOn": "2022-07-21T11:10:35.000Z",
-          "wordCount": 1765,
-          "title": "イーサリアム「マージトレード」、市場関係者の反応はさまざま",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/coindesk-ETH-chart-2022-07-21.jpg"
         }
       ]
     },
@@ -325,6 +315,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=370651",
+          "author": "菊谷ルイス",
+          "description": "DeFiプラットフォーム「Lido Finance」を管理するLido DAOは25日、ガバナンストークンLDOの販売による資金調達の提案についてオンチェーン投票で非承認する結果になった。",
+          "link": "https://coinpost.jp/?p=370651",
+          "publishedOn": "2022-07-25T22:55:24.000Z",
+          "wordCount": 1606,
+          "title": "Lido DAO、1,000万トークンの販売提案を非承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/voted-no-to-ldo-sales.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/voted-no-to-ldo-sales.png"
+        },
         {
           "id": "https://coinpost.jp/?p=370641",
           "author": "K.Kobayashi",
