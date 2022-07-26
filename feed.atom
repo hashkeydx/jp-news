@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-26T07:27:56.987Z</updated>
+    <updated>2022-07-26T08:34:37.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、コインベースの未登録証券提供を捜査か＝報道]]></title>
+        <id>https://coinpost.jp/?p=370874</id>
+        <link href="https://coinpost.jp/?p=370874"/>
+        <updated>2022-07-26T08:00:02.000Z</updated>
+        <summary type="html"><![CDATA[米SECが証券法違反の疑いで大手仮想通貨取引所コインベースを捜査している可能性が浮上している。関係筋の話としてブルームバーグが報じた。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル社、シンガポールの決済機関FOMO Payと提携]]></title>
+        <id>https://coinpost.jp/?p=370837</id>
+        <link href="https://coinpost.jp/?p=370837"/>
+        <updated>2022-07-26T07:29:37.000Z</updated>
+        <summary type="html"><![CDATA[リップル社は、シンガポールの決済機関FOMO Payとの提携を発表。仮想通貨関連の技術を使用して、国際間取引におけるトレジャリーフロー改善を実施することを明かした。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散型音楽ストリーミング「Audius」は業界のパワーバランスを変える：バンカメ]]></title>
         <id>https://www.coindeskjapan.com/?p=155393</id>
