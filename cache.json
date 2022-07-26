@@ -321,16 +321,6 @@
           "wordCount": 1749,
           "title": "個人投資家の需要回復、極端なデレバレッジは終了：JPモルガン",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/CTQHZP4PNBGGHHW3F3ZCQJQTVY.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=155141",
-          "author": "真田雅幸／bitbankマーケット・アナリスト",
-          "description": "ビットコイン週足は、足元で上昇し約2カ月間の平均線となる8EMA（指数平滑移動平均線）近辺まで上昇している。先週は1.1%の小幅な上昇となり2週連続の陽線を記録 ...\n短期上昇のビットコイン、330万円回復でも戻り売りに注意【bitbankチャート分析】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/155141/",
-          "publishedOn": "2022-07-21T21:30:36.000Z",
-          "wordCount": 1779,
-          "title": "短期上昇のビットコイン、330万円回復でも戻り売りに注意【bitbankチャート分析】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/05/shutterstock_637378462-scaled.jpg"
         }
       ]
     },
@@ -345,6 +335,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=370865",
+          "author": "S.Inosita",
+          "description": "大手メキシコ料理チェーンのChipotleは、仮想通貨を得られるキャンペーンを期間限定で提供することを発表した。ビットコイン（BTC）やイーサリアム、ソラナなどを獲得できる。",
+          "link": "https://coinpost.jp/?p=370865",
+          "publishedOn": "2022-07-26T09:27:09.000Z",
+          "wordCount": 1618,
+          "title": "米メキシコ料理チェーン、総額3700万円分の仮想通貨を配布へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/chipotle-btc-promotion.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/chipotle-btc-promotion.png"
+        },
         {
           "id": "https://coinpost.jp/?p=370874",
           "author": "Noah Sakamaki",
@@ -1094,21 +1099,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/coinbase-new-3-again-8_3.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/coinbase-new-3-again-8_3.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=369614",
-          "author": "菊谷ルイス",
-          "description": "アルトコイントレーダー愛用の仮想通貨取引所KuCoinは21日、13.7億円を資金調達したことを発表した。",
-          "link": "https://coinpost.jp/?p=369614",
-          "publishedOn": "2022-07-21T22:05:48.000Z",
-          "wordCount": 1616,
-          "title": "仮想通貨取引所KuCoin、13億円調達",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/kucoin-new-funding.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/kucoin-new-funding.jpeg"
         }
       ]
     }
