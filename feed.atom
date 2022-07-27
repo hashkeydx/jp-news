@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-26T23:28:31.301Z</updated>
+    <updated>2022-07-27T02:45:15.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ランサムウェア攻撃数が世界的に減少　仮想通貨価格低迷も一因か]]></title>
+        <id>https://coinpost.jp/?p=371117</id>
+        <link href="https://coinpost.jp/?p=371117"/>
+        <updated>2022-07-27T02:35:50.000Z</updated>
+        <summary type="html"><![CDATA[サイバーセキュリティ企業SonicWallは、2022年上半期にランサムウェア攻撃が世界的に減少傾向にあると報告。その理由の一つとしてビットコインなど仮想通貨価格の低迷を挙げた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットポイントジャパン、ADAステーキングを開始]]></title>
+        <id>https://coinpost.jp/?p=371143</id>
+        <link href="https://coinpost.jp/?p=371143"/>
+        <updated>2022-07-27T02:30:13.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所ビットポイントジャパンは27日、エイダ（ADA）のステーキング開始を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインチェック、メタバースのOthersideに都市「Oasis MARS」を制作]]></title>
+        <id>https://www.coindeskjapan.com/?p=155522</id>
+        <link href="https://www.coindeskjapan.com/155522/"/>
+        <updated>2022-07-27T02:12:31.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）とNFT（非代替性トークン）の取引サービスを運営するコインチェックが、メタバース（仮想空間）のOthersideに「Oasis MARS」と ...
+コインチェック、メタバースのOthersideに都市「Oasis MARS」を制作 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF、「仮想通貨市場の劇的な投げ売りは世界の金融安定に影響しない」]]></title>
+        <id>https://coinpost.jp/?p=371120</id>
+        <link href="https://coinpost.jp/?p=371120"/>
+        <updated>2022-07-27T02:02:08.000Z</updated>
+        <summary type="html"><![CDATA[国際通貨基金は、仮想通貨市場の相場急落は、世界の金融安定に影響を与える程の影響はないと述べている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【市場動向】ビットコイン、2万500ドルのサポートに近づく]]></title>
+        <id>https://www.coindeskjapan.com/?p=155513</id>
+        <link href="https://www.coindeskjapan.com/155513/"/>
+        <updated>2022-07-27T01:55:13.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は26日、6％下落して2万500ドル付近のサポートレベルに近づき、200日移動平均の3万2000ドルを約36％下回った。 RSI（相対力指 ...
+【市場動向】ビットコイン、2万500ドルのサポートに近づく first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Glenn Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米仮想通貨マイナー、68億円のホスティング契約締結]]></title>
+        <id>https://coinpost.jp/?p=371092</id>
+        <link href="https://coinpost.jp/?p=371092"/>
+        <updated>2022-07-27T00:55:42.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインなどを採掘する米仮想通貨マイニング企業Core Scientificは、年間68億円相当のコロケーション契約を締結したことを発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米クラーケン、対イランの制裁違反で米財務省が調査か＝報道]]></title>
+        <id>https://coinpost.jp/?p=371093</id>
+        <link href="https://coinpost.jp/?p=371093"/>
+        <updated>2022-07-27T00:30:57.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所クラーケンは、イランに対する制裁ルールに違反したとして、米財務省の調査を受けていることが報じられた。担当者のコメントも明らかになっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経済産業省、「大臣官房Web3.0政策推進室」を設置]]></title>
         <id>https://coinpost.jp/?p=371045</id>
@@ -720,16 +792,6 @@ BlockFiのリスク額は6億ドル、シルバーゲートは2Q好調【週末�
         <summary type="html"><![CDATA[cryptomall japan株式会社のプレスリリース（2022年7月22日 23時54分） 地方創生展示会出展 クリプトモールジャパン株式会社が地方創生の専門家が最新の解決策を提供するオンライン展示会で特許取得済み[鑑定証明システム（R）]を紹介！]]></summary>
         <author>
             <name>cryptomall japan株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Web3 Startups」一期生募集開始]]></title>
-        <id>dd1073443d5acbed0da2f4f284d238a4</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a76d63df140f9364d76ee4c40c2350d667"/>
-        <updated>2022-07-22T11:32:01.000Z</updated>
-        <summary type="html"><![CDATA[株式会社gumiのプレスリリース（2022年7月22日 20時32分）[Web3 Startups]一期生募集開始]]></summary>
-        <author>
-            <name>株式会社gumi</name>
         </author>
     </entry>
 </feed>
