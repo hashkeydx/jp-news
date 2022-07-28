@@ -154,16 +154,6 @@
           "wordCount": 404,
           "title": "Skyland Ventures、共同運営するNFTプロジェクト「OhayaStudio/Skyland Collection」のライセンス許諾に関する規約を公開",
           "imageUrl": null
-        },
-        {
-          "id": "0e4418a87196e9aef7d1bb16876b0586",
-          "author": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
-          "description": "PR TIMESで配信されたcryptomall japan株式会社のプレスリリース一覧です（最新配信日：2022年7月22日 23時54分）。cryptomall japan株式会社",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6ce5ca1373",
-          "publishedOn": "2022-07-23T15:31:13.524Z",
-          "wordCount": 404,
-          "title": "cryptomall japan株式会社のプレスリリース｜PR TIMES",
-          "imageUrl": null
         }
       ]
     },
@@ -172,6 +162,26 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=155637",
+          "author": "Nelson Wang",
+          "description": "メタ・プラットフォームズ（旧フェイスブック）においてAR/VR技術を担い、いわゆるメタバースを推進するFRL（Facebook Reality Labs）部門は ...\nメタバース部門、28億ドルの損失：米メタの第2四半期決算 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/155637/",
+          "publishedOn": "2022-07-28T03:10:50.000Z",
+          "wordCount": 1792,
+          "title": "メタバース部門、28億ドルの損失：米メタの第2四半期決算",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_2060465957.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=155635",
+          "author": "Glenn Williams",
+          "description": "ビットコイン（BTC）は27日、早朝の取引で2％上昇し、0.75％の利上げというFRB（米連邦準備理事会）の発表を受けて10％以上上昇した。 金利は年末までに3 ...\n【US市場】ビットコイン、上昇──FRBの金利引き上げは予想通り first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/155635/",
+          "publishedOn": "2022-07-28T02:50:08.000Z",
+          "wordCount": 1799,
+          "title": "【US市場】ビットコイン、上昇──FRBの金利引き上げは予想通り",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/63NO2JRQXFHC7BKCKJENXIIU3E.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=155413",
           "author": "David Morris",
@@ -395,6 +405,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=371469",
+          "author": "S.Ninomiya",
+          "description": "相場の重要局面として注視された7月FOMCにて0.75%の利上げが発表されたが織り込み済み。パウエル議長の会見内容を市場は好感し、リスク資産が一斉に買われた。仮想通貨市場ではビットコインが23000ドルを回復したほか、マージの材料を控えるイーサリアムが大幅高となった。",
+          "link": "https://coinpost.jp/?p=371469",
+          "publishedOn": "2022-07-28T03:41:33.000Z",
+          "wordCount": 1615,
+          "title": "重要局面の7月FOMC通過で仮想通貨全面高、買い戻し優勢に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin04045-1-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin04045-1-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=371502",
+          "author": "A.Yamada",
+          "description": "エルサルバドルのブケレ大統領は国債を買い戻す計画を発表。ビットコイン購入により同国財政がひっ迫しているのではないかと伝えられる中での動きとなった。",
+          "link": "https://coinpost.jp/?p=371502",
+          "publishedOn": "2022-07-28T03:10:38.000Z",
+          "wordCount": 1680,
+          "title": "エルサルバドル、国債の買戻しを計画",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/elsalvador1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/elsalvador1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=371471",
+          "author": "AKIRA.H",
+          "description": "6月にブリッジングサービス「Horizon Bridge」から総額135億円相当の仮想通貨が不正流出した件について、Harmony開発チームが補償プランを提案した。",
+          "link": "https://coinpost.jp/?p=371471",
+          "publishedOn": "2022-07-28T02:46:54.000Z",
+          "wordCount": 1626,
+          "title": "Harmonyブリッジ資金流出、被害者への補償にONEトークンの発行を提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bridgge239823-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bridgge239823-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=371484",
           "author": "Noah Sakamaki",
