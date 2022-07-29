@@ -213,6 +213,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=155760",
+          "author": "Glenn Williams",
+          "description": "ビットコイン（BTC）は28日、4−6月の米GDP（国内総生産）がマイナスとなったにもかかわわらず、4％上昇した。 GDPは0.5％増の予想に反して0.9％減と ...\n【US市場】ビットコイン上昇──米経済は景気後退ではなく、緩やかに減速か first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/155760/",
+          "publishedOn": "2022-07-29T02:50:50.000Z",
+          "wordCount": 1838,
+          "title": "【US市場】ビットコイン上昇──米経済は景気後退ではなく、緩やかに減速か",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/RGMDQNIQVJEIPAXM3FUARMH6AQ-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=155754",
           "author": "佐藤 茂",
           "description": "東京ドームが、ブロックチェーンを基盤にしたデジタルトークン技術を活用して、ホテルとスパの宿泊券と利用券を初めてNFT（非代替性トークン）として発行する。三菱UF ...\n東京ドーム、ホテルとスパの利用券をNFTで発行──三菱UFJの技術を採用 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -505,6 +515,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=371962",
+          "author": "Noah Sakamaki",
+          "description": "大手商業銀行のサンタンゲール銀ブラジル支部が年内に仮想通貨取引機能の提供を行う方針が明らかになった。10月頃までに開始する予定だ。",
+          "link": "https://coinpost.jp/?p=371962",
+          "publishedOn": "2022-07-29T03:55:43.000Z",
+          "wordCount": 1626,
+          "title": "サンタンデール銀行、ブラジルで仮想通貨取引提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/santander1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/santander1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=371865",
+          "author": "S.Ninomiya",
+          "description": "米連邦公開市場委員会（FOMC）通過とFRBの軟化示唆でによる安堵感で、リスク資産が総じて強い。暗号資産（仮想通貨）ではビットコインが24000ドル付近まで続伸したほか、マージを控えるイーサリアムは1800ドル水準まで反騰した。",
+          "link": "https://coinpost.jp/?p=371865",
+          "publishedOn": "2022-07-29T03:48:59.000Z",
+          "wordCount": 1740,
+          "title": "ビットコイン続伸、マージ控えるイーサリアムは1800ドル目前まで反騰",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/bitcoin-fluctuation.2021.7.21.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/bitcoin-fluctuation.2021.7.21.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=371942",
+          "author": "Noah Sakamaki",
+          "description": "国内仮想通貨取引所bitbankは来週3日よりポルカドット（DOT）とドージコイン（DOGE）の上場を開始する方針を発表した。これにより同取引所の取扱い銘柄は18種類となる。",
+          "link": "https://coinpost.jp/?p=371942",
+          "publishedOn": "2022-07-29T03:17:18.000Z",
+          "wordCount": 1657,
+          "title": "bitbank、ポルカドット（DOT）とドージコイン（DOGE）上場へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitbank_20210913_02.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitbank_20210913_02.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=371913",
+          "author": "AKIRA.H",
+          "description": "SBI VCトレードは、XRP国際送金サービス「ODL」の送金元の資金移動業者として、アジアンネットが参画したことを発表した。",
+          "link": "https://coinpost.jp/?p=371913",
+          "publishedOn": "2022-07-29T03:02:06.000Z",
+          "wordCount": 1631,
+          "title": "リップル社の「ODL」拡張へ、SBI VCトレードがリニューアルを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/ripple_20200305_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/ripple_20200305_2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=371879",
           "author": "A.Yamada",
