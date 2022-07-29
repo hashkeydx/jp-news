@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-29T22:29:27.886Z</updated>
+    <updated>2022-07-29T23:29:17.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エイダ「Vasil」アップグレード、再び延期]]></title>
+        <id>https://coinpost.jp/?p=372229</id>
+        <link href="https://coinpost.jp/?p=372229"/>
+        <updated>2022-07-29T22:30:36.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨エイダの次期大型ハードフォーク「Vasil（バシル）」の実装は再び延期が決定された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのロールアップ競争：「真の」zkEVMとは？]]></title>
+        <id>https://www.coindeskjapan.com/?p=155653</id>
+        <link href="https://www.coindeskjapan.com/155653/"/>
+        <updated>2022-07-29T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[スクロール（Scroll）、マター・ラボ（Matter Labs）、ポリゴン（Polygon）が先週行った3件の発表には、共通点があった。各社が、市場に最初にz ...
+イーサリアムのロールアップ競争：「真の」zkEVMとは？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ブローカー最大手Schwab、仮想通貨関連ETFをローンチへ]]></title>
         <id>https://coinpost.jp/?p=372220</id>
