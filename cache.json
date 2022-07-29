@@ -213,6 +213,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=155754",
+          "author": "佐藤 茂",
+          "description": "東京ドームが、ブロックチェーンを基盤にしたデジタルトークン技術を活用して、ホテルとスパの宿泊券と利用券を初めてNFT（非代替性トークン）として発行する。三菱UF ...\n東京ドーム、ホテルとスパの利用券をNFTで発行──三菱UFJの技術を採用 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/155754/",
+          "publishedOn": "2022-07-29T01:00:00.000Z",
+          "wordCount": 1730,
+          "title": "東京ドーム、ホテルとスパの利用券をNFTで発行──三菱UFJの技術を採用",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/tokyodomecity-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=155769",
           "author": "Oliver Knight",
           "description": "人気NFTコレクション「Bored Ape Yacht Club（BAYC）」を手がけるYuga Labsと、APE DAOを対象にしたニュースサイト「Bore ...\n人気NFT「Bored Ape Yacht Club」関連のニュースサイト開設 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -495,6 +505,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=371879",
+          "author": "A.Yamada",
+          "description": "ビットコインなどを扱う仮想通貨取引所Zipmexは、シンガポールの破産法に基づき、法的手続きからの保護を申請した。",
+          "link": "https://coinpost.jp/?p=371879",
+          "publishedOn": "2022-07-29T02:15:52.000Z",
+          "wordCount": 1630,
+          "title": "仮想通貨取引所Zipmex、破産法に基づき法的保護を申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/ziplex-badloan-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/ziplex-badloan-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=371878",
+          "author": "AKIRA.H",
+          "description": "大手NFT電子市場OpenSeaは28日、「クリエイター収益」の分配機能を実装したことを発表した。",
+          "link": "https://coinpost.jp/?p=371878",
+          "publishedOn": "2022-07-29T01:40:25.000Z",
+          "wordCount": 1619,
+          "title": "OpenSea、ロイヤリティの自動分配機能を実装",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/sol-opensea-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/sol-opensea-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=371868",
+          "author": "Noah Sakamaki",
+          "description": "米連邦準備制度理事会と連邦預金保険公社が仮想通貨企業Voyager Digitalに共同声明を発令。同社の顧客資産が預金保険の対象になると虚偽に掲載した点を批判した。",
+          "link": "https://coinpost.jp/?p=371868",
+          "publishedOn": "2022-07-29T01:05:21.000Z",
+          "wordCount": 1683,
+          "title": "米連銀、Voyagerの預金保険に関する声明を批判",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=371834",
+          "author": "A.Yamada",
+          "description": "人気NFT「BAYC」関連の財団Ape Foundationは、BAYCについてのニュースメディアに資金提供する案が承認されたと発表した。",
+          "link": "https://coinpost.jp/?p=371834",
+          "publishedOn": "2022-07-29T00:30:43.000Z",
+          "wordCount": 1754,
+          "title": "Ape Foundation、BAYCのニュースメディアに資金提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/apecoin-news-media-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/apecoin-news-media-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=371199",
           "author": "S.Inosita",
