@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-07-30T02:36:57.740Z</updated>
+    <updated>2022-07-30T04:10:02.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs、NFTコレクション「Meebits」にロイヤリティ手数料を設置]]></title>
+        <id>https://coinpost.jp/?p=372287</id>
+        <link href="https://coinpost.jp/?p=372287"/>
+        <updated>2022-07-30T03:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Bored Ape Yacht Clubなど高級NFTコレクションを手掛けるYuga Labsは、「Meebits」の流通市場に5％のロイヤリティフィーを設置することを発表した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米FDIC、「仮想通貨企業は保険適用外」と強調]]></title>
+        <id>https://coinpost.jp/?p=372273</id>
+        <link href="https://coinpost.jp/?p=372273"/>
+        <updated>2022-07-30T02:29:17.000Z</updated>
+        <summary type="html"><![CDATA[米連邦預金保険公社は、ビットコインなど仮想通貨を扱う企業は、連邦保険の対象外だと再確認する文書を発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東京ドーム、ホテルやスパを利用できるユーティリティトークン発行]]></title>
         <id>https://coinpost.jp/?p=372253</id>
