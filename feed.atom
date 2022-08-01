@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-01T20:33:57.863Z</updated>
+    <updated>2022-08-01T21:28:04.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、2銘柄の新規取扱を実施へ]]></title>
+        <id>https://coinpost.jp/?p=372874</id>
+        <link href="https://coinpost.jp/?p=372874"/>
+        <updated>2022-08-01T21:12:26.000Z</updated>
+        <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは2日、2銘柄の新規取扱を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産界のスポーツオールスター10人]]></title>
+        <id>https://www.coindeskjapan.com/?p=155899</id>
+        <link href="https://www.coindeskjapan.com/155899/"/>
+        <updated>2022-08-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「米連邦準備制度理事会（FRB）は紙幣を増刷し続けている」と、あるビットコイン支持者は語った。そして、「インフレに対する最善の防御策はビットコインだと思う」と。 ...
+暗号資産界のスポーツオールスター10人 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>George Kaloudis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BDLC NFT コレクションが OpenSea に上場しました]]></title>
         <id>8084641349a5cf2e533850180b0c9483</id>
@@ -700,17 +721,6 @@ SBI VC：ソラナ、ドージ、カルダノなど5種類の取り扱い開始�
 アスリートによる暗号資産の宣伝は禁止するべきだ【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Arthur Solomon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX.US、株式取引を提供]]></title>
-        <id>https://www.coindeskjapan.com/?p=155739</id>
-        <link href="https://www.coindeskjapan.com/155739/"/>
-        <updated>2022-07-28T09:05:08.000Z</updated>
-        <summary type="html"><![CDATA[FTX.USはアメリカ全50州で株式取引の提供を開始したと、同社バレット・ハリソン（Brett Harrisonn）社長が7月27日にツイートした。 今後、ユー ...
-FTX.US、株式取引を提供 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Cameron Thompson</name>
         </author>
     </entry>
 </feed>
