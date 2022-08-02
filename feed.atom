@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-02T09:28:58.387Z</updated>
+    <updated>2022-08-02T10:36:29.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NOT A HOTEL、豪華別荘の宿泊権と会員権付与の「メンバーシップNFT」をリリース　約1時間で完売]]></title>
+        <id>https://coinpost.jp/?p=373152</id>
+        <link href="https://coinpost.jp/?p=373152"/>
+        <updated>2022-08-02T09:33:34.000Z</updated>
+        <summary type="html"><![CDATA[NOT A HOTELは、予告していたNFTメンバーシップ「MEMBERSHIP S」と「MEMBERSHIP X」の第一弾リリースを発表。すでに3億円の販売分が完売したことを公表した。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナの大手NFT市場「Magic Eden」利用上のリスク、コミュニティが警告]]></title>
         <id>https://coinpost.jp/?p=373126</id>
@@ -907,26 +917,6 @@ SBI VC：ソラナ、ドージ、カルダノなど5種類の取り扱い開始�
 米アップル、Web3に詳しいコンテンツ・ディレクターを募集 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Eli Tan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Spaces、ソラナの実店舗がNYでオープン]]></title>
-        <id>https://coinpost.jp/?p=371806</id>
-        <link href="https://coinpost.jp/?p=371806"/>
-        <updated>2022-07-28T22:05:59.000Z</updated>
-        <summary type="html"><![CDATA[ソラナブロックチェーンに関連する公式ストアは28日、米ニューヨークで正式にオープンした。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米アップルがWeb3進出か、関連求人を実施]]></title>
-        <id>https://coinpost.jp/?p=371803</id>
-        <link href="https://coinpost.jp/?p=371803"/>
-        <updated>2022-07-28T21:33:20.000Z</updated>
-        <summary type="html"><![CDATA[米アップル社はWeb3（分散型ウェブ）分野に関するリーダーを募集している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
