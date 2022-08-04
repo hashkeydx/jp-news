@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=156479",
+          "author": "Eli Tan",
+          "description": "ソラナ（Solana）ブロックチェーンの開発者は、デジタルウォレット「Slope（スロープ）」が、9000以上のホットウォレットから数百万ドル相当の暗号資産が盗 ...\nソラナのハッキング、原因は「Slope」ウォレットの可能性 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/156479/",
+          "publishedOn": "2022-08-04T01:40:54.000Z",
+          "wordCount": 1770,
+          "title": "ソラナのハッキング、原因は「Slope」ウォレットの可能性",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/BPD3SSSPHBGBRKFLGHV54GH3VA.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=156205",
           "author": "Marcus Blasche",
           "description": "米スポーツ誌『スポーツ・イラストレイテッド』の2009年の報道によれば、元NBAプレイヤーの約60%は、引退後5年以内に破産する。この問題は、NBAだけに限った ...\nNBAスターが世代を超えた富を築くためにWeb3を使う first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -465,6 +475,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=373724",
+          "author": "AKIRA.H",
+          "description": "韓国の仮想通貨ヘッジファンドHashedは、テラ（LUNA）の暴落で4000億円以上の損失を被ったことを認めた。ただWeb3ファンドを来年設立するなど、強気姿勢を維持している。",
+          "link": "https://coinpost.jp/?p=373724",
+          "publishedOn": "2022-08-04T02:08:38.000Z",
+          "wordCount": 1633,
+          "title": "韓国仮想通貨ファンド大手Hashed、ルナ暴落で4,000億円の損失認める",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/terra_skyfall1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/terra_skyfall1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=373692",
+          "author": "A.Yamada",
+          "description": "米国上院議員らは超党派で、商品に相当するビットコインなどの仮想通貨について、米商品先物取引委員会に監督権限を与える法案を提出した。",
+          "link": "https://coinpost.jp/?p=373692",
+          "publishedOn": "2022-08-04T01:36:31.000Z",
+          "wordCount": 1616,
+          "title": "米議員、CFTCの仮想通貨監督権を拡大する法案提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/sec-cftc_0509.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/sec-cftc_0509.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=373688",
+          "author": "K.Kobayashi",
+          "description": "テクノロジー特化の投資企業Aglaé Venturesは、仮想通貨企業を対象にした約136億円規模のファンドをローンチすることが分かった。Aglaéは、LVMHの会長が支援している。",
+          "link": "https://coinpost.jp/?p=373688",
+          "publishedOn": "2022-08-04T00:56:34.000Z",
+          "wordCount": 1628,
+          "title": "LVMH会長後援のVC、130億円規模のWeb3ファンドをローンチか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/investment_fund1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/investment_fund1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=373685",
+          "author": "Noah Sakamaki",
+          "description": "仮想通貨取引所コインベースは新規2銘柄の取扱い開始を発表。ERC-20規格のスターゲート・ファイナンス（STG）とリーグ・オブ・キングダム・エリア（LOKA）の取引を早くて5日未明から行う。",
+          "link": "https://coinpost.jp/?p=373685",
+          "publishedOn": "2022-08-03T23:59:28.000Z",
+          "wordCount": 1647,
+          "title": "米コインベース、新規2銘柄の上場実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_3.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=373677",
           "author": "K.Kobayashi",
