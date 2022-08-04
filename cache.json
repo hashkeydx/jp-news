@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=156481",
+          "author": "Glenn Williams",
+          "description": "ビットコイン（BTC）は3日、1.7％上昇して2万3300ドルを超え、5日連続の下落に終止符を打った。50日指数平滑移動平均（EMA）である2万3214.50ド ...\n【US市場】ビットコイン上昇、5日連続の下落から反転 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/156481/",
+          "publishedOn": "2022-08-04T02:50:11.000Z",
+          "wordCount": 1800,
+          "title": "【US市場】ビットコイン上昇、5日連続の下落から反転",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/5T5NDE5RYNBPNP4I2EHN6IAW3E.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=156479",
           "author": "Eli Tan",
           "description": "ソラナ（Solana）ブロックチェーンの開発者は、デジタルウォレット「Slope（スロープ）」が、9000以上のホットウォレットから数百万ドル相当の暗号資産が盗 ...\nソラナのハッキング、原因は「Slope」ウォレットの可能性 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -475,6 +485,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=373819",
+          "author": "Noah Sakamaki",
+          "description": "中華系の大手仮想通貨ZB.comはメンテナンスを理由に、顧客資産の入出金停止を表明。その後、オンチェーン上のデータから同取引所が6億円相当のハッキング被害に遭った可能性が浮上している。",
+          "link": "https://coinpost.jp/?p=373819",
+          "publishedOn": "2022-08-04T03:59:36.000Z",
+          "wordCount": 1728,
+          "title": "仮想通貨取引所ZB、総額6億円以上の資金流出が発生か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=373707",
+          "author": "S.Ninomiya",
+          "description": "台湾情勢を巡り米中対立が先鋭化するなど地政学リスクが高まる中、暗号資産（仮想通貨）市場ではソラナ（SOL）エコシステムのハッキング事件などセキュリティ・インシデントが続く。",
+          "link": "https://coinpost.jp/?p=373707",
+          "publishedOn": "2022-08-04T03:35:53.000Z",
+          "wordCount": 1784,
+          "title": "仮想通貨市場でセキュリティ・インシデント相次ぐ、台湾情勢を巡る地政学リスクにも注視",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2017/07/bitcoin23423498-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2017/07/bitcoin23423498-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=373790",
+          "author": "Noah Sakamaki",
+          "description": "国内仮想通貨取引所ビットポイントジャパンはクレイ（KLAY）の取り扱いを本日より開始。KLAYの上場は国内初の事例となる。",
+          "link": "https://coinpost.jp/?p=373790",
+          "publishedOn": "2022-08-04T03:07:41.000Z",
+          "wordCount": 1622,
+          "title": "ビットポイントジャパン、国内初のクレイトン（KLAY）上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/klay_bitpoint.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/klay_bitpoint.png"
+        },
         {
           "id": "https://coinpost.jp/?p=373724",
           "author": "AKIRA.H",

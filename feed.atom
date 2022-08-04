@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-04T02:27:49.221Z</updated>
+    <updated>2022-08-04T04:04:07.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所ZB、総額6億円以上の資金流出が発生か]]></title>
+        <id>https://coinpost.jp/?p=373819</id>
+        <link href="https://coinpost.jp/?p=373819"/>
+        <updated>2022-08-04T03:59:36.000Z</updated>
+        <summary type="html"><![CDATA[中華系の大手仮想通貨ZB.comはメンテナンスを理由に、顧客資産の入出金停止を表明。その後、オンチェーン上のデータから同取引所が6億円相当のハッキング被害に遭った可能性が浮上している。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨市場でセキュリティ・インシデント相次ぐ、台湾情勢を巡る地政学リスクにも注視]]></title>
+        <id>https://coinpost.jp/?p=373707</id>
+        <link href="https://coinpost.jp/?p=373707"/>
+        <updated>2022-08-04T03:35:53.000Z</updated>
+        <summary type="html"><![CDATA[台湾情勢を巡り米中対立が先鋭化するなど地政学リスクが高まる中、暗号資産（仮想通貨）市場ではソラナ（SOL）エコシステムのハッキング事件などセキュリティ・インシデントが続く。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットポイントジャパン、国内初のクレイトン（KLAY）上場]]></title>
+        <id>https://coinpost.jp/?p=373790</id>
+        <link href="https://coinpost.jp/?p=373790"/>
+        <updated>2022-08-04T03:07:41.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所ビットポイントジャパンはクレイ（KLAY）の取り扱いを本日より開始。KLAYの上場は国内初の事例となる。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ビットコイン上昇、5日連続の下落から反転]]></title>
+        <id>https://www.coindeskjapan.com/?p=156481</id>
+        <link href="https://www.coindeskjapan.com/156481/"/>
+        <updated>2022-08-04T02:50:11.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は3日、1.7％上昇して2万3300ドルを超え、5日連続の下落に終止符を打った。50日指数平滑移動平均（EMA）である2万3214.50ド ...
+【US市場】ビットコイン上昇、5日連続の下落から反転 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Glenn Williams</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国仮想通貨ファンド大手Hashed、ルナ暴落で4,000億円の損失認める]]></title>
         <id>https://coinpost.jp/?p=373724</id>
