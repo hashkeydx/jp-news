@@ -204,16 +204,6 @@
           "wordCount": 412,
           "title": "Suishow、ピアズグループのマックスプロデュースへ技術提供 〜XR・メタバースイベント開発を支援～",
           "imageUrl": null
-        },
-        {
-          "id": "8084641349a5cf2e533850180b0c9483",
-          "author": "ELSOUL LABO B.V.",
-          "description": "ELSOUL LABO B.V.のプレスリリース（2022年8月1日 19時04分）BDLC NFT コレクションが OpenSea に上場しました",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26b63df140f9260d061e7c00c2350d667",
-          "publishedOn": "2022-08-01T10:04:41.000Z",
-          "wordCount": 412,
-          "title": "BDLC NFT コレクションが OpenSea に上場しました",
-          "imageUrl": null
         }
       ]
     },
@@ -585,6 +575,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=374419",
+          "author": "K.Kobayashi",
+          "description": "米SECは、米国の全ての仮想通貨取引所とバイナンス本体の調査を行なっていることが分かった。米議員のオフィスのスタッフから情報を入手したフォーブスが報じている。",
+          "link": "https://coinpost.jp/?p=374419",
+          "publishedOn": "2022-08-05T22:15:57.000Z",
+          "wordCount": 1660,
+          "title": "米SEC、米国の全仮想通貨取引所を調査か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/secusa43362-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/secusa43362-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=374417",
+          "author": "菊谷ルイス",
+          "description": "破産申請中の米暗号資産投資プラットフォームVoyager Digitalは5日に、顧客による現金の出金を来週再開する予定を発表した。",
+          "link": "https://coinpost.jp/?p=374417",
+          "publishedOn": "2022-08-05T21:45:09.000Z",
+          "wordCount": 1618,
+          "title": "Voyager、顧客の現金引き出しを来週再開予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/voyager-reopens-cash-out.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/voyager-reopens-cash-out.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=374414",
+          "author": "菊谷ルイス",
+          "description": "ソラナ基盤のNFT電子市場大手「Magic Eden」は6日、イーサリアムで購入できるソラナ系NFTコレクションを発表した。",
+          "link": "https://coinpost.jp/?p=374414",
+          "publishedOn": "2022-08-05T21:22:29.000Z",
+          "wordCount": 1698,
+          "title": "Magic Eden、ETHで購入できるソラナ系NFTを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/magic-ethen.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/magic-ethen.png"
+        },
         {
           "id": "https://coinpost.jp/?p=374229",
           "author": "S.Inosita",
