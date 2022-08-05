@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-05T08:34:52.403Z</updated>
+    <updated>2022-08-05T09:29:47.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国内ブロックチェーン企業フィナンシェ、7億円超の資金調達を完了]]></title>
+        <id>https://coinpost.jp/?p=374229</id>
+        <link href="https://coinpost.jp/?p=374229"/>
+        <updated>2022-08-05T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン活用のクラウドファンディングプラットフォームを手掛けるフィナンシェは、約7億7,000万円を資金調達したことを発表。同社の累計資金調達額が約13億円に達した。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bitbank、仮想通貨の信用（レバレッジ）取引提供へ]]></title>
+        <id>https://coinpost.jp/?p=374304</id>
+        <link href="https://coinpost.jp/?p=374304"/>
+        <updated>2022-08-05T08:26:42.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所bitbankは信用取引を開始する方針を発表した。開始時期などの詳細を発表するティーザーサイトも公開している。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニア（NEAR）ウォレット、秘密鍵情報の流出もホワイトハッカーが予防]]></title>
         <id>https://coinpost.jp/?p=374281</id>
@@ -1312,17 +1332,6 @@ SBI VC：ソラナ、ドージ、カルダノなど5種類の取り扱い開始�
 暗号資産が値上がりしたらセルシウスの債権者はどうなる？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Ian Allison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナがNYに実店舗、アップルの後追いか？【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=155875</id>
-        <link href="https://www.coindeskjapan.com/155875/"/>
-        <updated>2022-07-31T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ソラナブロックチェーンは、ニューヨークシティに「大使館」を開設中だ。大使に外交官、国旗の揃った普通の大使館ではなく、特に何かを売ろうと計画している訳でもないらし ...
-ソラナがNYに実店舗、アップルの後追いか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
