@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-05T07:27:47.027Z</updated>
+    <updated>2022-08-05T08:34:52.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニア（NEAR）ウォレット、秘密鍵情報の流出もホワイトハッカーが予防]]></title>
+        <id>https://coinpost.jp/?p=374281</id>
+        <link href="https://coinpost.jp/?p=374281"/>
+        <updated>2022-08-05T07:43:54.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ニアプロトコル（NEAR）のエコシステムを支援するNEAR財団は、NEAR Walletで対処済みのセキュリティ上のバグについて報告。ホワイトハッカーの支援により被害は出ていない。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20億ドルがクロスチェーン・ブリッジから流出：チェイナリシス]]></title>
         <id>https://www.coindeskjapan.com/?p=156674</id>
