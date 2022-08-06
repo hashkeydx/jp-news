@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-06T03:51:42.994Z</updated>
+    <updated>2022-08-06T04:40:21.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハッキングされたNomad、仮想通貨返還に10％の報奨金を提供]]></title>
+        <id>https://coinpost.jp/?p=374491</id>
+        <link href="https://coinpost.jp/?p=374491"/>
+        <updated>2022-08-06T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DeFiクロスチェーンブリッジNomadは、ハッキングにより流出した仮想通貨を返還した場合、その10％の報奨金を与えると呼びかけた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ関連の不正流出事件、Slopeウォレットが犯人に返金要請]]></title>
         <id>https://coinpost.jp/?p=374485</id>
