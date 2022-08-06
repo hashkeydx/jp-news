@@ -561,26 +561,6 @@
           "wordCount": 1747,
           "title": "アメックス、NFTプラットフォームに12億円出資",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/スクリーンショット-2022-08-02-8.49.40.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=156109",
-          "author": "Will Canny",
-          "description": "イーサリアムブロックチェーンのプルーフ・オブ・ワーク（PoW）からプルーフ・オブ・ステーク（PoS）への移行は間近なようで、イーサリアム財団のメンバーが移行は暫 ...\nイーサリアム、シェア維持にはスケーラビリティ改善が不可欠：バンカメ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/156109/",
-          "publishedOn": "2022-08-01T22:30:50.000Z",
-          "wordCount": 1741,
-          "title": "イーサリアム、シェア維持にはスケーラビリティ改善が不可欠：バンカメ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/QCTJI2LUTBATDH75EPCMP7VCO4.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=156066",
-          "author": "佐藤 茂",
-          "description": "暗号資産（仮想通貨）のデリバティブ取引サービスを中心に展開する分散型取引所（DEX）のdYdXが、一般ユーザー向けの取引手数料をゼロにする。世界No.1のDEX ...\ndYdX、一般ユーザー向け取引手数料をゼロ──No.1のDEXを目指す first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/156066/",
-          "publishedOn": "2022-08-01T21:30:00.000Z",
-          "wordCount": 1746,
-          "title": "dYdX、一般ユーザー向け取引手数料をゼロ──No.1のDEXを目指す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/cryptotradeimage-scaled.jpg"
         }
       ]
     },
@@ -595,6 +575,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=373757",
+          "author": "CONNECTV 編集部",
+          "description": "7月のアクセスの多かった仮想通貨ニュース・ブロックチェーンニュースと8月に注目したいニュースやイベントについてCoinPost代表 各務貴仁とあたらしい経済の竹田匡宏2人でお届けする。",
+          "link": "https://coinpost.jp/?p=373757",
+          "publishedOn": "2022-08-06T10:05:41.000Z",
+          "wordCount": 1651,
+          "title": "8月に注目したい仮想通貨ニュース・イベント　CONNECTV8月号",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/20220729_2A-e1659579045280.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/20220729_2A-e1659579045280.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=374547",
           "author": "AKIRA.H",
@@ -1674,36 +1669,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/eth-multidimentional-1.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/eth-multidimentional-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=372884",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所バイナンスは、新トークンBinance Account Boundを発行することが分かった。このトークンは、譲渡不可能なNFT「Soulboundトークン」をBNBチェーン上で発行するものだ。",
-          "link": "https://coinpost.jp/?p=372884",
-          "publishedOn": "2022-08-01T22:05:44.000Z",
-          "wordCount": 1633,
-          "title": "バイナンス、SoulboundトークンをBNBチェーンで発行か＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/hk-binance.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/hk-binance.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=372882",
-          "author": "菊谷ルイス",
-          "description": "米国の仮想通貨取引所Binance.USは銘柄の上場廃止を実施する予定を発表した。SECの最近の有価証券指摘が理由になっている。",
-          "link": "https://coinpost.jp/?p=372882",
-          "publishedOn": "2022-08-01T21:37:00.000Z",
-          "wordCount": 1608,
-          "title": "米国版バイナンス、AMP上場廃止へ　SECの有価証券指摘を受け",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/binance_20190920.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/binance_20190920.jpg"
         }
       ]
     }
