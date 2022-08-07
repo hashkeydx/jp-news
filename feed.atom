@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-06T23:28:32.676Z</updated>
+    <updated>2022-08-07T02:33:18.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週刊仮想通貨ニュース｜ソラナエコシステムの不正流出に注目集まる、ティファニーがNFTコレクションをリリースなど]]></title>
+        <id>https://coinpost.jp/?p=374430</id>
+        <link href="https://coinpost.jp/?p=374430"/>
+        <updated>2022-08-07T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[今週は、仮想通貨ソラナのエコシステムにおける不正流出について、ソラナ財団が原因特定に成功したニュースが多く読まれた。そのほか、ティファニーのNFTコレクションのリリースなど、一週間分の情報をお届けする。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スポーツ業界にNFTチケットが必要な理由【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=156554</id>
@@ -1084,17 +1094,6 @@ DeFiのアーベとカーブが独自ステーブルコイン発行を狙う理�
 資産運用のPGIM：機関投資家はビットコインをどう扱うべきか【インタビュー】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>佐藤 茂</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタバースは夢か？──メタバーストークンも大幅下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=156222</id>
-        <link href="https://www.coindeskjapan.com/156222/"/>
-        <updated>2022-08-02T14:05:02.000Z</updated>
-        <summary type="html"><![CDATA[投資家は、メタバースの夢から覚めつつある。 「我々は基本的に約10億人の人々にメタバースにアクセスすると考えている。それぞれが数百ドルのeコマースを行い、デジタ ...
-メタバースは夢か？──メタバーストークンも大幅下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Bradley Keoun</name>
         </author>
     </entry>
 </feed>
