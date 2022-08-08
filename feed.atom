@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-08T11:26:02.436Z</updated>
+    <updated>2022-08-08T13:00:43.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本業界団体・税制改正要望提出へ　コインポストニュース解説]]></title>
+        <id>https://coinpost.jp/?p=375004</id>
+        <link href="https://coinpost.jp/?p=375004"/>
+        <updated>2022-08-08T12:05:15.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost代表各務貴仁と編集部渋谷詠太が現状のマーケットや注目視されている事例やニュースを解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タイ中央銀行、年内にリテール向けCBDCの試験運用を実施へ]]></title>
         <id>https://coinpost.jp/?p=374801</id>
@@ -835,26 +845,6 @@ Alchemy、Astar Networkと提携──ポルカドットでのWeb3開発をサ�
         <summary type="html"><![CDATA[米国上院議員らは超党派で、商品に相当するビットコインなどの仮想通貨について、米商品先物取引委員会に監督権限を与える法案を提出した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LVMH会長後援のVC、130億円規模のWeb3ファンドをローンチか]]></title>
-        <id>https://coinpost.jp/?p=373688</id>
-        <link href="https://coinpost.jp/?p=373688"/>
-        <updated>2022-08-04T00:56:34.000Z</updated>
-        <summary type="html"><![CDATA[テクノロジー特化の投資企業Aglaé Venturesは、仮想通貨企業を対象にした約136億円規模のファンドをローンチすることが分かった。Aglaéは、LVMHの会長が支援している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、新規2銘柄の上場実施へ]]></title>
-        <id>https://coinpost.jp/?p=373685</id>
-        <link href="https://coinpost.jp/?p=373685"/>
-        <updated>2022-08-03T23:59:28.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所コインベースは新規2銘柄の取扱い開始を発表。ERC-20規格のスターゲート・ファイナンス（STG）とリーグ・オブ・キングダム・エリア（LOKA）の取引を早くて5日未明から行う。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
