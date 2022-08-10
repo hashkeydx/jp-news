@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-10T21:27:30.052Z</updated>
+    <updated>2022-08-10T22:29:27.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産、回復に必要なのは新たなストーリー【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=157084</id>
+        <link href="https://www.coindeskjapan.com/157084/"/>
+        <updated>2022-08-10T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今のような厳しい時期には、歴史を振り返ることが役に立つ。マウントゴックス（Mt. Gox）について考えてみよう。 東京にあったビットコイン取引所マウントゴックス ...
+暗号資産、回復に必要なのは新たなストーリー【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所Hotbit、取引と出金を停止]]></title>
+        <id>https://coinpost.jp/?p=375995</id>
+        <link href="https://coinpost.jp/?p=375995"/>
+        <updated>2022-08-10T21:55:43.000Z</updated>
+        <summary type="html"><![CDATA[海外仮想通貨取引所Hotbitは10日、取引・入出金サービスを停止することを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル社、セルシウスの資産売却に関心か]]></title>
+        <id>https://coinpost.jp/?p=375993</id>
+        <link href="https://coinpost.jp/?p=375993"/>
+        <updated>2022-08-10T21:38:33.000Z</updated>
+        <summary type="html"><![CDATA[リップル社は、米国で破産申請した仮想通貨融資企業セルシウスの資産を買収することに関心を示しているようだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース、ニアの新規取扱予定を表明]]></title>
         <id>https://coinpost.jp/?p=375991</id>
@@ -732,16 +763,6 @@ Mergeでイーサリアムはフォークするのか──リスクフリーで
 スポーツ業界にNFTチケットが必要な理由【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Josh Katz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8月に注目したい仮想通貨ニュース・イベント　CONNECTV8月号]]></title>
-        <id>https://coinpost.jp/?p=373757</id>
-        <link href="https://coinpost.jp/?p=373757"/>
-        <updated>2022-08-06T10:05:41.000Z</updated>
-        <summary type="html"><![CDATA[7月のアクセスの多かった仮想通貨ニュース・ブロックチェーンニュースと8月に注目したいニュースやイベントについてCoinPost代表 各務貴仁とあたらしい経済の竹田匡宏2人でお届けする。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
