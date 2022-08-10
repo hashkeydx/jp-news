@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-10T04:38:13.720Z</updated>
+    <updated>2022-08-10T05:27:24.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オントロジーによるマルチチェーン対応の分散型IDウォレット「ONTOウォレット」を解説]]></title>
+        <id>https://coinpost.jp/?p=375671</id>
+        <link href="https://coinpost.jp/?p=375671"/>
+        <updated>2022-08-10T05:00:50.000Z</updated>
+        <summary type="html"><![CDATA[オントロジーが開発するWeb3向けの仮想通貨ウォレット「ONTOウォレット」の機能と役割について、その活用法なども踏まえて詳しく解説。分散型IDやマルチチェーン対応により、ユーザーにとってのシームレスなWeb3領域へのアクセスを実現するその機能とは。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CreatorDAOが約27億円を資金調達、a16zやパリス・ヒルトン氏などが出資]]></title>
+        <id>https://coinpost.jp/?p=375720</id>
+        <link href="https://coinpost.jp/?p=375720"/>
+        <updated>2022-08-10T04:40:41.000Z</updated>
+        <summary type="html"><![CDATA[自律分散型組織CreatorDAOは、シードラウンドで約27億円を資金調達したことを発表した。出資者には、著名VCのa16zや実業家のパリス・ヒルトン氏などが含まれる。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース22年Q2決算、想定超える売上悪化で1400億円超の赤字に]]></title>
         <id>https://coinpost.jp/?p=375737</id>
