@@ -183,6 +183,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=156973",
+          "author": "Frederick Munawa",
+          "description": "市場アナリストたちが、暗号資産の冬についてパニックに陥いるなか、ビットコイン（BTC）開発者たちは、静かにアプリ開発を続けている。 デジタル資産に関するリサーチ ...\nビットコイン+ライトニングは、イーサリアム+レイヤー2に対抗できるか──ライトニングでのアプリ開発とは first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/156973/",
+          "publishedOn": "2022-08-11T22:00:29.000Z",
+          "wordCount": 1835,
+          "title": "ビットコイン+ライトニングは、イーサリアム+レイヤー2に対抗できるか──ライトニングでのアプリ開発とは",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/RUAS2A6O2BBGJNKQ6H3MSEDZK4_3.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=157028",
           "author": "Daniel Kuhn",
           "description": "待望の大型アップデート「Merge（マージ）」を前に、イーサリアムブロックチェーンの取引手数料がここ2年間で最低水準まで低下している。ちなみにMergeは、イー ...\nMergeを前に取引手数料が低下したイーサリアム、問題点も？ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -385,6 +395,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=376287",
+          "author": "菊谷ルイス",
+          "description": "米資産運用大手ブラックロックは10日、機関投資家向けにビットコイン投資信託を提供開始したことを発表した。",
+          "link": "https://coinpost.jp/?p=376287",
+          "publishedOn": "2022-08-11T21:45:04.000Z",
+          "wordCount": 1607,
+          "title": "米ブラックロック初、ビットコイン投資信託を提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=376282",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨イーサリアムの「マージ」の実施予定日はより明確に設定された。",
+          "link": "https://coinpost.jp/?p=376282",
+          "publishedOn": "2022-08-11T21:22:03.000Z",
+          "wordCount": 1652,
+          "title": "イーサリアム「マージ」、暫定実施予定日が明確に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/eth-burn-higher-than-mine.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/eth-burn-higher-than-mine.png"
+        },
         {
           "id": "https://coinpost.jp/?p=376123",
           "author": "Noah Sakamaki",
