@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-12T05:29:40.427Z</updated>
+    <updated>2022-08-12T06:37:48.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ基盤ウォレット「Slope」が不正流出に関する見解を公表]]></title>
+        <id>https://coinpost.jp/?p=376371</id>
+        <link href="https://coinpost.jp/?p=376371"/>
+        <updated>2022-08-12T05:30:14.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナ基盤のウォレット「Slope」は、資産の流出問題について、ハッキングとウォレットセキュリティ上の欠陥を結びつける「決定的な証拠」はないと発表した。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「バリデーター分散化が向上」ソラナ財団の8月報告]]></title>
         <id>https://coinpost.jp/?p=376412</id>
