@@ -183,6 +183,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=157279",
+          "author": "Glenn Williams",
+          "description": "ビットコイン（BTC）は11日、2％上昇し、24,000ドルを超えた（日本時間12日9時45分頃には2万4000ドルをわずかに割っている）。イーサリアム（ETH ...\n【US市場】Mergeを前に、イーサリアムはビットコインを上回るパフォーマンス first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/157279/",
+          "publishedOn": "2022-08-12T00:55:48.000Z",
+          "wordCount": 1792,
+          "title": "【US市場】Mergeを前に、イーサリアムはビットコインを上回るパフォーマンス",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/I47B5CFR3FCORACZQSAGYLMRTY-1.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=157277",
+          "author": "Margaux Nijkerk",
+          "description": "イーサリアム（ETH）ブロックチェーンがプルーフ・オブ・ワーク（PoW）からプルーフ・オブ・ステーク（PoS）に移行する前の、3回目にして最後の最終リハーサルが ...\nイーサリアム、Merge前の最後のテストも無事完了 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/157277/",
+          "publishedOn": "2022-08-11T23:50:57.000Z",
+          "wordCount": 1732,
+          "title": "イーサリアム、Merge前の最後のテストも無事完了",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/4MQRAJIWVRCJXBWPLQ27HRJVNI-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=156973",
           "author": "Frederick Munawa",
           "description": "市場アナリストたちが、暗号資産の冬についてパニックに陥いるなか、ビットコイン（BTC）開発者たちは、静かにアプリ開発を続けている。 デジタル資産に関するリサーチ ...\nビットコイン+ライトニングは、イーサリアム+レイヤー2に対抗できるか──ライトニングでのアプリ開発とは first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -395,6 +415,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=376333",
+          "author": "AKIRA.H",
+          "description": "分散型取引所dYdXは、仮想通貨ミキシングサービスTornado Cashが制裁対象とされた関係で、\r\nサービスからユーザーが不当にブロックされる事例が生じた旨を報告した。",
+          "link": "https://coinpost.jp/?p=376333",
+          "publishedOn": "2022-08-12T01:50:42.000Z",
+          "wordCount": 1751,
+          "title": "Tornado Cash制裁措置の影響、dYdXでブロックユーザーが急増",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/dydx-cosmos.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/dydx-cosmos.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=376314",
+          "author": "K.Kobayashi",
+          "description": "DeFiプロジェクトMakerDAOの共同創設者は、ステーブルコインDAIの担保資産からUSDCを除外することを検討する考えを示した。メリットやリスクが説明されている。",
+          "link": "https://coinpost.jp/?p=376314",
+          "publishedOn": "2022-08-12T01:05:57.000Z",
+          "wordCount": 1687,
+          "title": "MakerDAO共同創設者、DAIの担保資産からUSDCを除外する考え示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/DAI-MakerDAO.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/DAI-MakerDAO.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=376310",
+          "author": "A.Yamada",
+          "description": "米マイアミ州連邦地裁は、ビットコイン取引なども提供する米ロビンフッドに対して起こされた集団訴訟を進めることを認めた。",
+          "link": "https://coinpost.jp/?p=376310",
+          "publishedOn": "2022-08-12T00:55:51.000Z",
+          "wordCount": 1645,
+          "title": "米ロビンフッドが集団訴訟に直面　ミーム株の取引制限めぐり",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/robinhood-preipo-ftx.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/robinhood-preipo-ftx.png"
+        },
         {
           "id": "https://coinpost.jp/?p=376307",
           "author": "菊谷ルイス",
