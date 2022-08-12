@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-12T07:27:36.017Z</updated>
+    <updated>2022-08-12T08:35:16.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ginco社が仮想通貨ウォレット関連特許を取得、金融機関での利用を想定]]></title>
+        <id>https://coinpost.jp/?p=376475</id>
+        <link href="https://coinpost.jp/?p=376475"/>
+        <updated>2022-08-12T08:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Web3関連企業のGincoは、仮想通貨ウォレット関連特許を取得したことを発表。仮想通貨を取り扱う金融機関が、安全かつ高い費用対効果で業務を構築可能にする技術だ。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ基盤ウォレット「Slope」が不正流出に関する見解を公表]]></title>
         <id>https://coinpost.jp/?p=376371</id>
