@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-12T23:28:39.606Z</updated>
+    <updated>2022-08-13T02:23:52.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インド当局、破産申請した仮想通貨企業Vauldの資産を凍結]]></title>
+        <id>https://coinpost.jp/?p=376590</id>
+        <link href="https://coinpost.jp/?p=376590"/>
+        <updated>2022-08-13T01:30:45.000Z</updated>
+        <summary type="html"><![CDATA[インド当局は、ビットコインなどを扱う仮想通貨取引プラットフォームVauldが所有する約61億円相当の資産を凍結したと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスなど、DeFiユーザーから奪われた8,600万円以上の仮想通貨を回収]]></title>
+        <id>https://coinpost.jp/?p=376587</id>
+        <link href="https://coinpost.jp/?p=376587"/>
+        <updated>2022-08-13T00:32:59.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、分散型取引所CurveのフロントエンドのDNSハッキングにより盗まれた6,000万円相当の資産を差し押さえた。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mergeでイーサリアムはフォークするのか、米消費者は来年のインフレ率低下を予想【8/6～8/12のトップニュース】]]></title>
+        <id>https://www.coindeskjapan.com/?p=157333</id>
+        <link href="https://www.coindeskjapan.com/157333/"/>
+        <updated>2022-08-12T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーンはフォーク、つまり2つに分裂し、新しいPoSチェーンはイーサリアムをそのままネイティブトークンとし、これまでのPoWチェーンは独自の ...
+Mergeでイーサリアムはフォークするのか、米消費者は来年のインフレ率低下を予想【8/6～8/12のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オランダの捜査機関、Tornado Cash関与の開発者を逮捕　業界の反応は]]></title>
         <id>https://coinpost.jp/?p=376565</id>
@@ -1017,16 +1048,6 @@ Mergeでイーサリアムはフォークするのか──リスクフリーで
         <summary type="html"><![CDATA[PR TIMESで配信されたWowoo Technologies Co., Ltd.のプレスリリース一覧です（最新配信日：2022年8月8日 17時00分）。Wowoo Technologies Co., Ltd.｜Wowoo Technologies is a Korea based Blockchain solution company, with a mission to create new values through technologies empowered by the people's goodwill.]]></summary>
         <author>
             <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本業界団体・税制改正要望提出へ　コインポストニュース解説]]></title>
-        <id>https://coinpost.jp/?p=375004</id>
-        <link href="https://coinpost.jp/?p=375004"/>
-        <updated>2022-08-08T12:05:15.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost代表各務貴仁と編集部渋谷詠太が現状のマーケットや注目視されている事例やニュースを解説する。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
