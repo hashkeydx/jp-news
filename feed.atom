@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-13T05:26:46.975Z</updated>
+    <updated>2022-08-13T06:34:48.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フィリピン中央銀行、仮想通貨取引所の新規ライセンス申請を3年間停止]]></title>
+        <id>https://coinpost.jp/?p=376689</id>
+        <link href="https://coinpost.jp/?p=376689"/>
+        <updated>2022-08-13T05:30:01.000Z</updated>
+        <summary type="html"><![CDATA[フィリピン中央銀行は12日、来月から3年間、新規の仮想資産サービスプロバイダーのライセンス申請を停止すると発表した。同行の監督下にある既存の金融機関にのみ、新規ライセンスを付与するという。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[著名投資家スティーブ・コーエン氏、仮想通貨に特化した新会社計画か＝報道]]></title>
         <id>https://coinpost.jp/?p=376641</id>
@@ -1068,16 +1078,6 @@ Mergeでイーサリアムはフォークするのか──リスクフリーで
 ビットコイン暴落でCEO退任のセイラー氏が狙う復活劇 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Michael Bellusci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wowoo Technologies Co., Ltd.のプレスリリース｜PR TIMES]]></title>
-        <id>3e4427994365f028213ad7be697d2d6e</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca61e9ca1078"/>
-        <updated>2022-08-08T17:34:31.354Z</updated>
-        <summary type="html"><![CDATA[PR TIMESで配信されたWowoo Technologies Co., Ltd.のプレスリリース一覧です（最新配信日：2022年8月8日 17時00分）。Wowoo Technologies Co., Ltd.｜Wowoo Technologies is a Korea based Blockchain solution company, with a mission to create new values through technologies empowered by the people's goodwill.]]></summary>
-        <author>
-            <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
         </author>
     </entry>
 </feed>
