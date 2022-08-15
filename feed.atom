@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-15T21:28:35.526Z</updated>
+    <updated>2022-08-15T22:31:22.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi大手Aave、分散型の運営継続を強調　米国のTornado Cash制裁受け]]></title>
+        <id>https://coinpost.jp/?p=377059</id>
+        <link href="https://coinpost.jp/?p=377059"/>
+        <updated>2022-08-15T22:20:17.000Z</updated>
+        <summary type="html"><![CDATA[DeFi大手のAaveは、政府による制裁等を理由にウォレットの監視などをスマートコントラクトレベルで行う場合は、コミュニティの同意を必ず得ると説明。この説明の背景には、米国によるTornado Cashの制裁がある。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トルネード・キャッシュ開発者逮捕──プログラマの責任とは？【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=157454</id>
+        <link href="https://www.coindeskjapan.com/157454/"/>
+        <updated>2022-08-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[強盗犯が使ったスマートフォンを製造したと、アップルのティム・クックCEOを逮捕するべきだろうか？ 爆弾として使えるからといって、圧力鍋の発明者を罪に問うべきだろ ...
+トルネード・キャッシュ開発者逮捕──プログラマの責任とは？【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquid by FTX、QASHとXLMを上場廃止へ]]></title>
+        <id>https://coinpost.jp/?p=377058</id>
+        <link href="https://coinpost.jp/?p=377058"/>
+        <updated>2022-08-15T21:50:16.000Z</updated>
+        <summary type="html"><![CDATA[国内暗号資産取引所Liquid by FTXは15日、2銘柄の上場廃止予定を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グローバル版FTX、イーサリアムPoWフォークの対応方針を表明]]></title>
+        <id>https://coinpost.jp/?p=377054</id>
+        <link href="https://coinpost.jp/?p=377054"/>
+        <updated>2022-08-15T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所大手FTXは15日、イーサリアム「マージ」およびPoWフォーク（ETHPoW）への対応方針を表明した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース、銘柄の新規取扱を実施へ]]></title>
         <id>https://coinpost.jp/?p=377051</id>
