@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-14T23:28:30.983Z</updated>
+    <updated>2022-08-15T02:44:34.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、16億円以上の仮想通貨投資詐欺を提訴]]></title>
+        <id>https://coinpost.jp/?p=376875</id>
+        <link href="https://coinpost.jp/?p=376875"/>
+        <updated>2022-08-15T01:39:18.000Z</updated>
+        <summary type="html"><![CDATA[米商品先物取引委員会は、オハイオ州の仮想通貨関連企業とその経営者に対して訴訟を起こした。顧客からビットコインを含め資産を騙し取った疑いが持たれている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分散型取引所Velodrome、元チームメンバーが4600万円を着服]]></title>
+        <id>https://coinpost.jp/?p=376855</id>
+        <link href="https://coinpost.jp/?p=376855"/>
+        <updated>2022-08-15T00:33:25.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所Velodromeは、プラットフォームの仮想通貨ウォレットから資金を盗んだのは元チームメンバーだったと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機関投資家のオプション取引、弱気相場の中で増加]]></title>
+        <id>https://www.coindeskjapan.com/?p=157386</id>
+        <link href="https://www.coindeskjapan.com/157386/"/>
+        <updated>2022-08-15T00:25:31.000Z</updated>
+        <summary type="html"><![CDATA[現状の弱気市場において暗号資産（仮想通貨）オプション取引は、数少ない明るい話題となっている。 多くの暗号資産取引所では、今年前半に低水準を記録したあと、取引高が ...
+機関投資家のオプション取引、弱気相場の中で増加 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael Bellusci</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産と伝統的金融の境界線は消えつつある──ウォール街のBarのハッピーアワー]]></title>
         <id>https://www.coindeskjapan.com/?p=157398</id>
@@ -629,16 +660,6 @@ Mergeを前に取引手数料が低下したイーサリアム、問題点も？
         <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは10日、銘柄の上場方針を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム大型アップデート専門家はどう見る　コインポストニュース解説]]></title>
-        <id>https://coinpost.jp/?p=375858</id>
-        <link href="https://coinpost.jp/?p=375858"/>
-        <updated>2022-08-10T12:05:06.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost代表各務貴仁と編集部渋谷詠太が現状のマーケットや注目視されている事例やニュースを解説する。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
