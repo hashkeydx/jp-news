@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-15T02:44:34.300Z</updated>
+    <updated>2022-08-15T04:33:15.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーンゲーム企業Murasaki、約2億円を資金調達]]></title>
+        <id>https://coinpost.jp/?p=376893</id>
+        <link href="https://coinpost.jp/?p=376893"/>
+        <updated>2022-08-15T03:57:34.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンゲーム企業のMurasakiは、シードラウンドで約2億円（150万円）を資金調達しファーストクローズしたことを発表した。資金はゲーム開発などに使用される予定だ。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポルカドット基盤のAcalaネットワーク、1600億円相当の「aUSD」が不正発行]]></title>
+        <id>https://coinpost.jp/?p=376901</id>
+        <link href="https://coinpost.jp/?p=376901"/>
+        <updated>2022-08-15T03:50:27.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ポルカドット上の分散型金融プロジェクト「Acala」ネットワークで14日、脆弱性を利用し1,600億円相当のステーブルコイン「Acala USD」が不正に発行されるという事件が発生した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨テラ（LUNA）創設者、ディペッグ騒動後初のメディア出演]]></title>
+        <id>https://coinpost.jp/?p=376895</id>
+        <link href="https://coinpost.jp/?p=376895"/>
+        <updated>2022-08-15T02:38:45.000Z</updated>
+        <summary type="html"><![CDATA[価格が99％以上も暴落したアルゴリズム型ステーブルコイン「UST」などの共同創設者であるDo Kwon氏がブロックチェーンメディアの取材に出演することがわかった。5月のディペッグ騒動以降では初のメディア出演となる。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CFTC、16億円以上の仮想通貨投資詐欺を提訴]]></title>
         <id>https://coinpost.jp/?p=376875</id>
