@@ -114,16 +114,6 @@
           "wordCount": 412,
           "title": "GALLERY HENZAが8月23日にリアルNFTギャラリーのオープニングイベントをオンライン配信",
           "imageUrl": null
-        },
-        {
-          "id": "53feb6559ef11906396bea231379d5fe",
-          "author": "株式会社クリーク・アンド・リバー社",
-          "description": "株式会社クリーク・アンド・リバー社のプレスリリース（2022年8月12日 20時00分） クリエイター向け Web3.0とNFTのキホンと最新情報をお届け！8/31（水）大好評につきNFTアーティストおねんねさんがセミナーに再登壇!!",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de6af6aa6963df140f9360d66ee6c20c2350d667",
-          "publishedOn": "2022-08-12T11:00:01.000Z",
-          "wordCount": 412,
-          "title": "【クリエイター向け】Web3.0とNFTのキホンと最新情報をお届け！8/31（水）大好評につきNFTアーティストおねんねさんがセミナーに再登壇!!",
-          "imageUrl": null
         }
       ]
     },
@@ -132,6 +122,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=157663",
+          "author": "Will Canny",
+          "description": "イーサリアム（ETH）は今後1年でビットコイン（BTC）の時価総額を超える可能性があると、調査会社FSInsightは8月12日、レポートで述べた。イーサリアム ...\nイーサリアムの時価総額、1年でビットコインを超える可能性：FSInsight first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/157663/",
+          "publishedOn": "2022-08-16T23:25:16.000Z",
+          "wordCount": 1742,
+          "title": "イーサリアムの時価総額、1年でビットコインを超える可能性：FSInsight",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/AMZUF62RKZCPBK7BQQ3BAKBIZQ.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=157553",
           "author": "George Kaloudis",
@@ -325,6 +325,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=377498",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨投資大手デジタル・カレンシー・グループは独自のロビー活動を開始するようだ。",
+          "link": "https://coinpost.jp/?p=377498",
+          "publishedOn": "2022-08-16T22:50:53.000Z",
+          "wordCount": 1660,
+          "title": "米仮想通貨投資大手DCG、ロビー活動開始へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/DCG-lobbying.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/DCG-lobbying.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=377483",
+          "author": "K.Kobayashi",
+          "description": "Web3インフラ開発企業Jump Cryptoとソラナ財団は、仮想通貨ソラナの安定性向上のために、新しいクライアントを開発すると発表。協業内容が明らかになっている。",
+          "link": "https://coinpost.jp/?p=377483",
+          "publishedOn": "2022-08-16T22:30:23.000Z",
+          "wordCount": 1675,
+          "title": "ソラナ安定性向上へ　VC大手「Jump Crypto」がクライアントを開発",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=377487",
           "author": "菊谷ルイス",
