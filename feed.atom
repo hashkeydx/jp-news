@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-16T02:40:42.131Z</updated>
+    <updated>2022-08-16T04:09:39.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EU、新たなマネロン防止機関設立に向け前進　仮想通貨企業の監督も視野に]]></title>
+        <id>https://coinpost.jp/?p=377174</id>
+        <link href="https://coinpost.jp/?p=377174"/>
+        <updated>2022-08-16T03:58:43.000Z</updated>
+        <summary type="html"><![CDATA[欧州連合理事会は資金洗浄とテロ資金供与防止の取り組みを監督するマネーロンダリング防止局（AMLA）の設立に対する見解を発表。EU全域を対象とした中央機関の設立が一歩前進した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン25000ドル、イーサリアム2000ドル台到達後に反落]]></title>
+        <id>https://coinpost.jp/?p=377099</id>
+        <link href="https://coinpost.jp/?p=377099"/>
+        <updated>2022-08-16T03:50:51.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場ではビットコインが一時25000ドル台まで回復。イーサリアム（ETH）は2000ドル台に達するも、16日にかけて調整した。足元では、中央集権型ステーブルコイン瞳孔にも関連してボラティリティ（価格変動性）が強まっている。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、カザフスタン規制機関から仮ライセンス取得]]></title>
+        <id>https://coinpost.jp/?p=377120</id>
+        <link href="https://coinpost.jp/?p=377120"/>
+        <updated>2022-08-16T02:55:36.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは中央アジアのカザフスタンで原則的なライセンス取得を発表。同国における仮想通貨取引とカストディサービスの提供が可能となる見込み。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大手仮想通貨カストディ企業BitGo、買収撤回巡りGalaxy Digitalを訴える意向]]></title>
+        <id>https://coinpost.jp/?p=377091</id>
+        <link href="https://coinpost.jp/?p=377091"/>
+        <updated>2022-08-16T02:50:20.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨カストディ企業BitGoは、Galaxy Digitalが同社に対する買収提案を取りやめたことに関して、法的な手段に訴える意向だと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StarkWareが暗号証明の集約技術をリリース、L2のスケーラビリティ向上へ]]></title>
+        <id>https://coinpost.jp/?p=377106</id>
+        <link href="https://coinpost.jp/?p=377106"/>
+        <updated>2022-08-16T02:40:25.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのスケーリングを開発するStarkWare社、「Recursive Proofs」をリリースしたことを発表。暗号証明の集約化により「StarkNet」を含む複数のL2のスケーラビリティを改善する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【US市場】ビットコイン、2万5000ドルを維持できず]]></title>
         <id>https://www.coindeskjapan.com/?p=157554</id>
