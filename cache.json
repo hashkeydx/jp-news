@@ -311,16 +311,6 @@
           "wordCount": 1835,
           "title": "ビットコイン+ライトニングは、イーサリアム+レイヤー2に対抗できるか──ライトニングでのアプリ開発とは",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/RUAS2A6O2BBGJNKQ6H3MSEDZK4_3.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=157028",
-          "author": "Daniel Kuhn",
-          "description": "待望の大型アップデート「Merge（マージ）」を前に、イーサリアムブロックチェーンの取引手数料がここ2年間で最低水準まで低下している。ちなみにMergeは、イー ...\nMergeを前に取引手数料が低下したイーサリアム、問題点も？ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/157028/",
-          "publishedOn": "2022-08-11T21:00:00.000Z",
-          "wordCount": 1809,
-          "title": "Mergeを前に取引手数料が低下したイーサリアム、問題点も？",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_2154218493.jpg"
         }
       ]
     },
@@ -335,6 +325,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=375461",
+          "author": "CoinPost編集部",
+          "description": "日本に拠点を置くクリプトおよびWeb3業界に特化したリサーチ・投資会社である「Cryptogram Venture（CGV）」のファンドパートナーにインタビューを実施。日本市場の展望を語っていただいた。",
+          "link": "https://coinpost.jp/?p=375461",
+          "publishedOn": "2022-08-16T09:00:21.000Z",
+          "wordCount": 1713,
+          "title": "Web3特化型投資企業CGVファンドパートナーが語る、グローバル戦略と投資戦略",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/web3-a16z-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/web3-a16z-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=377279",
           "author": "AKIRA.H",
@@ -1084,21 +1089,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=376282",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨イーサリアムの「マージ」の実施予定日はより明確に設定された。",
-          "link": "https://coinpost.jp/?p=376282",
-          "publishedOn": "2022-08-11T21:22:03.000Z",
-          "wordCount": 1652,
-          "title": "イーサリアム「マージ」、暫定実施予定日が明確に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/eth-burn-higher-than-mine.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/eth-burn-higher-than-mine.png"
         }
       ]
     }

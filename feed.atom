@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-16T08:30:35.458Z</updated>
+    <updated>2022-08-16T09:25:22.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3特化型投資企業CGVファンドパートナーが語る、グローバル戦略と投資戦略]]></title>
+        <id>https://coinpost.jp/?p=375461</id>
+        <link href="https://coinpost.jp/?p=375461"/>
+        <updated>2022-08-16T09:00:21.000Z</updated>
+        <summary type="html"><![CDATA[日本に拠点を置くクリプトおよびWeb3業界に特化したリサーチ・投資会社である「Cryptogram Venture（CGV）」のファンドパートナーにインタビューを実施。日本市場の展望を語っていただいた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米インフレ減速でもビットコインはブレイクアウト失敗【bitbankレポート】]]></title>
         <id>https://www.coindeskjapan.com/?p=157446</id>
@@ -825,27 +835,6 @@ Mergeでイーサリアムはフォークするのか、米消費者は来年の
         <summary type="html"><![CDATA[米資産運用大手ブラックロックは10日、機関投資家向けにビットコイン投資信託を提供開始したことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム「マージ」、暫定実施予定日が明確に]]></title>
-        <id>https://coinpost.jp/?p=376282</id>
-        <link href="https://coinpost.jp/?p=376282"/>
-        <updated>2022-08-11T21:22:03.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムの「マージ」の実施予定日はより明確に設定された。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mergeを前に取引手数料が低下したイーサリアム、問題点も？]]></title>
-        <id>https://www.coindeskjapan.com/?p=157028</id>
-        <link href="https://www.coindeskjapan.com/157028/"/>
-        <updated>2022-08-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[待望の大型アップデート「Merge（マージ）」を前に、イーサリアムブロックチェーンの取引手数料がここ2年間で最低水準まで低下している。ちなみにMergeは、イー ...
-Mergeを前に取引手数料が低下したイーサリアム、問題点も？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
