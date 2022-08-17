@@ -104,16 +104,6 @@
           "wordCount": 412,
           "title": "ブロックチェーンゲーム開発会社のMurasaki B.V.、シードラウンドで€1.5mの資金調達をファーストクローズ",
           "imageUrl": null
-        },
-        {
-          "id": "11216e6b8f4fd25bc8314795398c1c21",
-          "author": "株式会社HENZA",
-          "description": "株式会社HENZAのプレスリリース（2022年8月12日 21時00分）GALLERY HENZAが8月23日にリアルNFTギャラリーのオープニングイベントをオンライン配信",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36a63df140f9366d16be1c60c2350d667",
-          "publishedOn": "2022-08-12T12:00:01.000Z",
-          "wordCount": 412,
-          "title": "GALLERY HENZAが8月23日にリアルNFTギャラリーのオープニングイベントをオンライン配信",
-          "imageUrl": null
         }
       ]
     },
@@ -122,6 +112,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=157656",
+          "author": "Glenn Williams",
+          "description": "ビットコイン（BTC）は16日、1％下落して2日連続の下落となった。イーサリアム（ETH）も1.1％下落し、過去1週間おおむね維持していた1900ドルを割った。 ...\n【US市場】ビットコインはトレンドライン下抜け、イーサリアムも1900ドルを割る first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/157656/",
+          "publishedOn": "2022-08-17T02:05:37.000Z",
+          "wordCount": 1813,
+          "title": "【US市場】ビットコインはトレンドライン下抜け、イーサリアムも1900ドルを割る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/VCERHP64CJGTXEQNLLFI5DUUKI.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=157663",
           "author": "Will Canny",
@@ -325,6 +325,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=377542",
+          "author": "菊谷ルイス",
+          "description": "国内暗号資産取引所bitbankは17日、販売所で3銘柄を新たに取扱開始した。",
+          "link": "https://coinpost.jp/?p=377542",
+          "publishedOn": "2022-08-17T02:20:29.000Z",
+          "wordCount": 1617,
+          "title": "bitbank、MATICやDOGEの販売所取扱を開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/bitbank-3-coins.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/bitbank-3-coins.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=377504",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨融資企業セルシウスネットワークは破産前の数カ月間、CEOが投資戦略を指揮していたことが分かった。情報筋の話をまとめたFinancial Timesが報じている。",
+          "link": "https://coinpost.jp/?p=377504",
+          "publishedOn": "2022-08-17T01:30:43.000Z",
+          "wordCount": 1659,
+          "title": "セルシウス、破産前の期間はCEOが投資を指揮か＝FT報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/celsius-bank-risk.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/celsius-bank-risk.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=377503",
+          "author": "A.Yamada",
+          "description": "米ナスダック上場の仮想通貨マイニング企業Riot Blockchainは、2022年第2四半期の業績を発表。保有するビットコインや買収関連の減損を報告した。",
+          "link": "https://coinpost.jp/?p=377503",
+          "publishedOn": "2022-08-17T00:55:58.000Z",
+          "wordCount": 1666,
+          "title": "米BTCマイニング大手Riot、買収関連の減損400億円規模　2Q決算報告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/riot-big-loss.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/riot-big-loss.png"
+        },
         {
           "id": "https://coinpost.jp/?p=377498",
           "author": "菊谷ルイス",
