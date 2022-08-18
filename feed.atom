@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-18T06:39:25.324Z</updated>
+    <updated>2022-08-18T07:28:03.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[bitflyer、FLRトークン取り扱いへ]]></title>
+        <id>https://coinpost.jp/?p=378106</id>
+        <link href="https://coinpost.jp/?p=378106"/>
+        <updated>2022-08-18T07:04:39.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所bitFlyerはFLRトークンを取り扱う方針を発表した。トークン付与を行う方針も改めて強調している。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国、無許可で仮想通貨取引を提供した疑い　16社が調査対象に]]></title>
+        <id>https://coinpost.jp/?p=378068</id>
+        <link href="https://coinpost.jp/?p=378068"/>
+        <updated>2022-08-18T06:41:37.000Z</updated>
+        <summary type="html"><![CDATA[韓国で仮想通貨取引所を監督する韓国金融情報分析院は、無登録で営業した疑いで、仮想通貨取引所16社を捜査機関に通知したことが明らかになった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yuga LabsはPoS版ETHにのみ対応、イーサリアム分岐のリスクとは？]]></title>
         <id>https://coinpost.jp/?p=378052</id>
