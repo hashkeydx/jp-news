@@ -213,6 +213,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=157895",
+          "author": "Krisztian Sandor",
+          "description": "今月初め、一部の暗号資産（仮想通貨）取引所は、ETHPOWの上場を急いだ。ETHPOWは、イーサリアムブロックチェーンがプルーフ・オブ・ステーク（PoS）に移行 ...\nイーサリアム、フォーク後のトークンに対する期待薄れる── ETHPOWは140ドルから50ドルに下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/157895/",
+          "publishedOn": "2022-08-19T01:30:29.000Z",
+          "wordCount": 1780,
+          "title": "イーサリアム、フォーク後のトークンに対する期待薄れる── ETHPOWは140ドルから50ドルに下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_1294978339.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=157893",
+          "author": "Cameron Thompson",
+          "description": "ソラナ基盤のmove-to-earn（歩いて稼ぐ）ゲーム「STEPN」は8月18日、スペインのサッカークラブ「アトレティコ・マドリード」および暗号資産（仮想通貨 ...\nSTEPN、アトレティコ・マドリードと提携──NFTスニーカーを発表 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/157893/",
+          "publishedOn": "2022-08-19T00:15:21.000Z",
+          "wordCount": 1750,
+          "title": "STEPN、アトレティコ・マドリードと提携──NFTスニーカーを発表",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_359568020.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=157871",
           "author": "Jamie Crawley",
           "description": "ビットコイン（BTC）マイニング機器大手のカナン・クリエイティブ（Canaan Creative：嘉楠耘智信息科技）は、困難な第2四半期（4−6月期）の後、厳し ...\n「長期的な逆風」を予想：マイニング機器大手カナン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -485,6 +505,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=378310",
+          "author": "Noah Sakamaki",
+          "description": "ブロックチェーン分析企業のチェイナリシスは2022年の上半期における仮想通貨犯罪レポートを公開。相場の下落に伴い犯罪被害額も減少している。",
+          "link": "https://coinpost.jp/?p=378310",
+          "publishedOn": "2022-08-19T02:34:07.000Z",
+          "wordCount": 1641,
+          "title": "仮想通貨犯罪の被害額、過去3年間下回るペース＝チェイナリシス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/cryptocrime030821.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/cryptocrime030821.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=378286",
+          "author": "AKIRA.H",
+          "description": "米国の主要な仮想通貨取引所CoinbaseのBrian Armstrong CEOは、イーサリアムのステーキングプロバイダーの立場から、当局の制裁措置への対応方針について言及した。",
+          "link": "https://coinpost.jp/?p=378286",
+          "publishedOn": "2022-08-19T02:33:14.000Z",
+          "wordCount": 1803,
+          "title": "制裁準拠かステーキング事業停止か、コインベースCEOがPoS版イーサリアムへの葛藤示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=378256",
+          "author": "S.Inosita",
+          "description": "米リップル社は、トラベレックスとの提携を発表。XRPベースの決済ソリューション「ODL」のブラジルでの提供を、同社が開始することを発表した。",
+          "link": "https://coinpost.jp/?p=378256",
+          "publishedOn": "2022-08-19T02:22:23.000Z",
+          "wordCount": 1644,
+          "title": "リップル社がトラベレックスと提携、同社ブラジル支部にODL導入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=378243",
+          "author": "A.Yamada",
+          "description": "人気NFTコレクションCryptoPunksは、保有者向けのIPライセンス規約を公開した。NFTを利用した商権ライセンスが付与され、アートやグッズの商業利用が認められる。",
+          "link": "https://coinpost.jp/?p=378243",
+          "publishedOn": "2022-08-19T00:48:25.000Z",
+          "wordCount": 1708,
+          "title": "CryptoPunks、NFT保有者に商権ライセンスを付与へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/cryptopunks1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/cryptopunks1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=378236",
           "author": "菊谷ルイス",
