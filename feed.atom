@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-20T05:29:30.790Z</updated>
+    <updated>2022-08-20T06:35:13.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインJPYCがイーサリアムの「マージ」に対応、「JPYCv2」に移行へ]]></title>
+        <id>https://coinpost.jp/?p=378643</id>
+        <link href="https://coinpost.jp/?p=378643"/>
+        <updated>2022-08-20T06:00:05.000Z</updated>
+        <summary type="html"><![CDATA[日本円連動ステーブルコイン「JPYC」を発行するJPYC社は、仮想通貨イーサリアムの次期アップグレード「The Merge」支持を発表。「JPYCv2」への移行を公表した。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「負の連鎖」に警戒感、NFT担保融資で清算のリスク高まる]]></title>
         <id>https://coinpost.jp/?p=378653</id>
@@ -1163,16 +1173,6 @@ Merge後のフォークに向け、マイナーを組織化──ETHWの強気�
 暗号資産ニュースレターがメールサービスから排除──ウェブ2の破壊を叫ぶだけでいいのか【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Murasaki B.V.のプレスリリース｜PR TIMES]]></title>
-        <id>43387876387846954873ae822d937c36</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca61e8c0157c"/>
-        <updated>2022-08-15T17:35:19.220Z</updated>
-        <summary type="html"><![CDATA[PR TIMESで配信されたMurasaki B.V.のプレスリリース一覧です（最新配信日：2022年8月15日 08時00分）。Murasaki B.V.｜Murasaki B.V.はオランダを拠点に日本のゲーム開発チームとヨーロッパ・アジアのビジネスチームによって構成されたゲームスタジオです。現在ブロックチェーンゲーム[Cyberstella]の開発を行っております。事業領域はGameFiと呼ばれ、Fungible tokenやNon-fungible token（NFT）を活用しプレイヤーを中心とした経済圏を創出するゲーム全般を指します。]]></summary>
-        <author>
-            <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
         </author>
     </entry>
 </feed>
