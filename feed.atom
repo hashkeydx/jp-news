@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-23T21:27:43.658Z</updated>
+    <updated>2022-08-23T22:29:49.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所Bitfinex、ETHチェーン分岐トークンの取引を提供開始]]></title>
+        <id>https://coinpost.jp/?p=379528</id>
+        <link href="https://coinpost.jp/?p=379528"/>
+        <updated>2022-08-23T21:52:51.000Z</updated>
+        <summary type="html"><![CDATA[海外暗号資産取引所Bitfinexは23日、イーサリアムのマージアップグレードに先んじてハードフォーク版トークンの取引をユーザーに提供することを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テイラー・スウィフトがNFT化アルバムをリリースする日は来るか？【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=158248</id>
+        <link href="https://www.coindeskjapan.com/158248/"/>
+        <updated>2022-08-23T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[テイラー・スウィフト初の再録盤アルバム『Fearless （Taylor’s Version）』が、NFT（ノン・ファンジブル・トークン）化されてリ ...
+テイラー・スウィフトがNFT化アルバムをリリースする日は来るか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Aziz Alangari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベースウォレット、ソラナdAppsに対応開始]]></title>
+        <id>https://coinpost.jp/?p=379524</id>
+        <link href="https://coinpost.jp/?p=379524"/>
+        <updated>2022-08-23T21:25:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ウォレット「コインベースウォレット」のエクステンションは23日より、ソラナブロックチェーンのdAppsに対応開始した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mergeとイーサリアムが抱えるMEV問題]]></title>
         <id>https://www.coindeskjapan.com/?p=158112</id>
