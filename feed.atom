@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-24T09:29:56.181Z</updated>
+    <updated>2022-08-24T10:34:35.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウォール街の静かなる巨人DTCC、株式取引決済用プライベートブロックチェーンをローンチ──TradFiの大きなマイルストーン]]></title>
+        <id>https://www.coindeskjapan.com/?p=158384</id>
+        <link href="https://www.coindeskjapan.com/158384/"/>
+        <updated>2022-08-24T09:55:43.000Z</updated>
+        <summary type="html"><![CDATA[DTCC（Depository Trust & Clearing Corp.：米国証券保管振替機関）は、40兆ドル（約5500兆円）を超える米株式市場の ...
+ウォール街の静かなる巨人DTCC、株式取引決済用プライベートブロックチェーンをローンチ──TradFiの大きなマイルストーン first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gala Filmが映画制作を発表　アカデミー賞ノミネート歴を持つ制作会社と提携]]></title>
         <id>https://coinpost.jp/?p=375301</id>
@@ -858,27 +869,6 @@ a16zが前のめり投資するミシカル・ゲームズ──ゲーム×NFT�
         <summary type="html"><![CDATA[米FDICは、仮想通貨取引所FTX.USを含む5社に対し、中止通告書を発出。預金保険について誤った説明を行わないように是正処置を求めた。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mergeについて投資家が知っておくべきこと【イーサリアム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=157920</id>
-        <link href="https://www.coindeskjapan.com/157920/"/>
-        <updated>2022-08-19T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[最も幅広く使われているブロックチェーンのイーサリアムでは9月、プルーフ・オブ・ワーク（PoW）からプルーフ・オブ・ステーク（PoS）に移行するための、大規模なア ...
-Mergeについて投資家が知っておくべきこと【イーサリアム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jackson Wood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所バイナンス、新規銘柄を上場]]></title>
-        <id>https://coinpost.jp/?p=378573</id>
-        <link href="https://coinpost.jp/?p=378573"/>
-        <updated>2022-08-19T21:30:30.000Z</updated>
-        <summary type="html"><![CDATA[大手暗号資産取引所バイナンスは19日、Stargateの新規取り扱いを開始した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
