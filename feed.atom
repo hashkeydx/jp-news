@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-24T11:27:00.061Z</updated>
+    <updated>2022-08-24T12:56:52.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムマージ前準備　コインポストニュース解説]]></title>
+        <id>https://coinpost.jp/?p=379701</id>
+        <link href="https://coinpost.jp/?p=379701"/>
+        <updated>2022-08-24T12:05:13.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost代表各務貴仁と編集部渋谷詠太が現状のマーケットや注目視されている事例やニュースを解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウォール街の静かなる巨人DTCC、株式取引決済用プライベートブロックチェーンをローンチ──TradFiの大きなマイルストーン]]></title>
         <id>https://www.coindeskjapan.com/?p=158384</id>
@@ -838,27 +848,6 @@ a16zが前のめり投資するミシカル・ゲームズ──ゲーム×NFT�
 米ブラックロックのビットコイン私募投信：ビットコインを正当化するか、終わりの始まりか【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Zac Colbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBIホールディングス、ロシアにおける仮想通貨マイニング事業撤退]]></title>
-        <id>https://coinpost.jp/?p=378626</id>
-        <link href="https://coinpost.jp/?p=378626"/>
-        <updated>2022-08-20T00:35:16.000Z</updated>
-        <summary type="html"><![CDATA[SBIホールディングスは、ロシアで行っていた仮想通貨マイニング事業を停止しており、今後撤退することを明かした。背景にはロシアへの経済制裁がある。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの時価総額がビットコインを超える可能性、フォビ売却報道【8/13～8/19のトップニュース】]]></title>
-        <id>https://www.coindeskjapan.com/?p=158023</id>
-        <link href="https://www.coindeskjapan.com/158023/"/>
-        <updated>2022-08-19T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[PoS移行「Merge（マージ）」が完了すれば、「供給のインフレ率は低下し」、マイナーからの売り圧力は「ゼロに固定される」という。CoinDeskのデータによる ...
-イーサリアムの時価総額がビットコインを超える可能性、フォビ売却報道【8/13～8/19のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
         </author>
     </entry>
 </feed>
