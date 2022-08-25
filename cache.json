@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=158434",
+          "author": "Helene Braun",
+          "description": "ビットコイン（BTC）をはじめとする暗号資産（仮想通貨）は24日、投資家のリスク意欲が戻るなか、株式市場とともに上昇した。 「ビットコインは、ウォール街のわずか ...\n【US市場】ビットコイン、株式市場とともにわずかに上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/158434/",
+          "publishedOn": "2022-08-25T03:10:41.000Z",
+          "wordCount": 1755,
+          "title": "【US市場】ビットコイン、株式市場とともにわずかに上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/coindesk-BTC-chart-2022-08-25.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=158442",
           "author": "Jamie Crawley",
           "description": "アバターやプロファイル画像、アニメ、漫画、動画などをブロックチェーンでトークン化したNFT（非代替性トークン）の利用ケースが世界的に急増する中、過去1年間で盗難 ...\nNFTの盗難被害、年間1億ドル超：エリプティック first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -445,6 +455,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=380005",
+          "author": "AKIRA.H",
+          "description": "DeFiレンディング大手のMakerDAOは、米国の老舗銀行ハンティンドン・バレー・バンクと共同融資事業を開始することを正式に発表した。",
+          "link": "https://coinpost.jp/?p=380005",
+          "publishedOn": "2022-08-25T03:42:15.000Z",
+          "wordCount": 1679,
+          "title": "ダイ（DAI）を米老舗銀行の協調融資で運用、MakerDAOが正式発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/DAI-MakerDAO.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/DAI-MakerDAO.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=379915",
+          "author": "A.Yamada",
+          "description": "仮想通貨ヘッジファンドThree Arrows Capitalの清算人企業Teneoは、シンガポールにおける清算権限を取得した。",
+          "link": "https://coinpost.jp/?p=379915",
+          "publishedOn": "2022-08-25T03:33:28.000Z",
+          "wordCount": 1675,
+          "title": "スリーアローズ清算企業、シンガポールでの清算権限を取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/3ac-yacht-club.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/3ac-yacht-club.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=379877",
+          "author": "S.Ninomiya",
+          "description": "ジャクソンホール会議を控え金融市場の手控えムードが強くある中、イーサリアム（ETH）はThe Mergeへの順調な進捗を好感して反発した。投資家心理は冷え込んでおり、難しい局面が続く。",
+          "link": "https://coinpost.jp/?p=379877",
+          "publishedOn": "2022-08-25T03:31:05.000Z",
+          "wordCount": 1745,
+          "title": "仮想通貨の市場心理「Extreme Fear」水準に再転落、ETH反発はThe Merge進捗を好感か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/btc_eth0121221.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/btc_eth0121221.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=380003",
+          "author": "Noah Sakamaki",
+          "description": "大手仮想通貨取引所バイナンスは新たな通貨ペアの取り扱いを発表した。26日17時よりアンカーのリラ建ペアなどの提供を開始する。",
+          "link": "https://coinpost.jp/?p=380003",
+          "publishedOn": "2022-08-25T03:23:59.000Z",
+          "wordCount": 1643,
+          "title": "バイナンス、アンカー（ANKR）など5つの仮想通貨ペアを追加へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/binance_20210913_kk1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/binance_20210913_kk1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=379904",
           "author": "AKIRA.H",
