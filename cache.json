@@ -214,16 +214,6 @@
           "wordCount": 412,
           "title": "【8月限定2組】高速で低コストなSolanaブロックチェーンを活用して、NFTマーケットプレイス等、新しいWeb3サービスを始めませんか？",
           "imageUrl": null
-        },
-        {
-          "id": "e6e067bfae1ae2e59ccdef28250fc195",
-          "author": "woof株式会社",
-          "description": "woof株式会社のプレスリリース（2022年8月22日 17時40分）ブロックチェーンゲーム開発に特化した案件マッチングサービス[エージェント桃太郎]開始のお知らせ",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26263df140f9367d76ce9cb0c2350d667",
-          "publishedOn": "2022-08-22T11:40:02.000Z",
-          "wordCount": 412,
-          "title": "ブロックチェーンゲーム開発に特化した案件マッチングサービス「エージェント桃太郎」開始のお知らせ",
-          "imageUrl": null
         }
       ]
     },
@@ -531,16 +521,6 @@
           "wordCount": 1763,
           "title": "来るべきプライバシー戦争【コラム】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_1291158244-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=158152",
-          "author": "Will Canny",
-          "description": "機関投資家がステーブルコインの払い戻しを止めたため、暗号資産市場の流動性の指標であるステーブルコインの時価総額は下げ止まっている。それでも、ポジション再構築の需 ...\n暗号資産市場の引き締めは一服：モルガン・スタンレー first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/158152/",
-          "publishedOn": "2022-08-22T12:55:34.000Z",
-          "wordCount": 1768,
-          "title": "暗号資産市場の引き締めは一服：モルガン・スタンレー",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_295848935-1.jpg"
         }
       ]
     },
@@ -555,6 +535,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=381294",
+          "author": "S.Inosita",
+          "description": "大手DeFiプラットフォームCompoundは、第3バージョン「Compound III」をリリースしたことを公表した。DAO内によってローンチが承認され、担保の仕組みなどが変更された。",
+          "link": "https://coinpost.jp/?p=381294",
+          "publishedOn": "2022-08-27T02:29:37.000Z",
+          "wordCount": 1670,
+          "title": "DeFi大手Compound、第3バージョン「Compound III」リリース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/Compound-3-082722.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/Compound-3-082722.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=381304",
+          "author": "AKIRA.H",
+          "description": "国内仮想通貨取引所DMM Bitcoinは、イーサリアムの大型アップグレード「マージ」に関する対応方針を発表した。",
+          "link": "https://coinpost.jp/?p=381304",
+          "publishedOn": "2022-08-27T01:35:29.000Z",
+          "wordCount": 1675,
+          "title": "国内取引所DMM Bitcoin、イーサリアムマージとPoWフォークの対応方針を表明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/PoW-fork-eth-binance-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/PoW-fork-eth-binance-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=381282",
+          "author": "A.Yamada",
+          "description": "ビットコインなどを扱う大手仮想通貨取引所バイナンスは、法執行機関の要請によりテゾスステーキング関連サービス企業Baking Badのアカウントを制限したと述べた。",
+          "link": "https://coinpost.jp/?p=381282",
+          "publishedOn": "2022-08-27T01:29:32.000Z",
+          "wordCount": 1707,
+          "title": "バイナンス、ステーキング関連サービスのアカウントを凍結",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=381283",
+          "author": "AKIRA.H",
+          "description": "ドイツのクラウドホスティング大手Hetzner社が、イーサリアムを含む仮想通貨のマイニングやステーキングを目的とした利用を禁止していることを確認した。",
+          "link": "https://coinpost.jp/?p=381283",
+          "publishedOn": "2022-08-27T00:42:27.000Z",
+          "wordCount": 1676,
+          "title": "大手クラウドサービスHetzner、イーサリアムノードなどに警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/cloudcomputing0119211.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/cloudcomputing0119211.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=380768",
+          "author": "S.Inosita",
+          "description": "ブロックチェーン企業Alókiは、2023年Q4のリリースを目標に独自メタバースの開発を進行中。NFTが売れると、実際のコスタリカで植林される、ユニークなシステムが特徴だ。",
+          "link": "https://coinpost.jp/?p=380768",
+          "publishedOn": "2022-08-27T00:15:54.000Z",
+          "wordCount": 1707,
+          "title": "ブロックチェーン企業Alóki、「現実で植林される」メタバースを開発中",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/metaverse1115211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/metaverse1115211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=381265",
           "author": "K.Kobayashi",

@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-26T23:29:45.022Z</updated>
+    <updated>2022-08-27T02:48:05.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi大手Compound、第3バージョン「Compound III」リリース]]></title>
+        <id>https://coinpost.jp/?p=381294</id>
+        <link href="https://coinpost.jp/?p=381294"/>
+        <updated>2022-08-27T02:29:37.000Z</updated>
+        <summary type="html"><![CDATA[大手DeFiプラットフォームCompoundは、第3バージョン「Compound III」をリリースしたことを公表した。DAO内によってローンチが承認され、担保の仕組みなどが変更された。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内取引所DMM Bitcoin、イーサリアムマージとPoWフォークの対応方針を表明]]></title>
+        <id>https://coinpost.jp/?p=381304</id>
+        <link href="https://coinpost.jp/?p=381304"/>
+        <updated>2022-08-27T01:35:29.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所DMM Bitcoinは、イーサリアムの大型アップグレード「マージ」に関する対応方針を発表した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、ステーキング関連サービスのアカウントを凍結]]></title>
+        <id>https://coinpost.jp/?p=381282</id>
+        <link href="https://coinpost.jp/?p=381282"/>
+        <updated>2022-08-27T01:29:32.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインなどを扱う大手仮想通貨取引所バイナンスは、法執行機関の要請によりテゾスステーキング関連サービス企業Baking Badのアカウントを制限したと述べた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大手クラウドサービスHetzner、イーサリアムノードなどに警告]]></title>
+        <id>https://coinpost.jp/?p=381283</id>
+        <link href="https://coinpost.jp/?p=381283"/>
+        <updated>2022-08-27T00:42:27.000Z</updated>
+        <summary type="html"><![CDATA[ドイツのクラウドホスティング大手Hetzner社が、イーサリアムを含む仮想通貨のマイニングやステーキングを目的とした利用を禁止していることを確認した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーン企業Alóki、「現実で植林される」メタバースを開発中]]></title>
+        <id>https://coinpost.jp/?p=380768</id>
+        <link href="https://coinpost.jp/?p=380768"/>
+        <updated>2022-08-27T00:15:54.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン企業Alókiは、2023年Q4のリリースを目標に独自メタバースの開発を進行中。NFTが売れると、実際のコスタリカで植林される、ユニークなシステムが特徴だ。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、2万600ドル台──パウエルFRB議長のタカ派発言で下落]]></title>
         <id>https://www.coindeskjapan.com/?p=158644</id>
@@ -1194,27 +1244,6 @@ FTX、2021年の売上高は10億ドル超え──前年の10倍以上に：報
         <summary type="html"><![CDATA[ELSOUL LABO B.V.のプレスリリース（2022年8月23日 01時09分） 8月限定2組 高速で低コストなSolanaブロックチェーンを活用して、NFTマーケットプレイス等、新しいWeb3サービスを始めませんか？]]></summary>
         <author>
             <name>ELSOUL LABO B.V.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産市場の引き締めは一服：モルガン・スタンレー]]></title>
-        <id>https://www.coindeskjapan.com/?p=158152</id>
-        <link href="https://www.coindeskjapan.com/158152/"/>
-        <updated>2022-08-22T12:55:34.000Z</updated>
-        <summary type="html"><![CDATA[機関投資家がステーブルコインの払い戻しを止めたため、暗号資産市場の流動性の指標であるステーブルコインの時価総額は下げ止まっている。それでも、ポジション再構築の需 ...
-暗号資産市場の引き締めは一服：モルガン・スタンレー first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーンゲーム開発に特化した案件マッチングサービス「エージェント桃太郎」開始のお知らせ]]></title>
-        <id>e6e067bfae1ae2e59ccdef28250fc195</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26263df140f9367d76ce9cb0c2350d667"/>
-        <updated>2022-08-22T11:40:02.000Z</updated>
-        <summary type="html"><![CDATA[woof株式会社のプレスリリース（2022年8月22日 17時40分）ブロックチェーンゲーム開発に特化した案件マッチングサービス[エージェント桃太郎]開始のお知らせ]]></summary>
-        <author>
-            <name>woof株式会社</name>
         </author>
     </entry>
 </feed>
