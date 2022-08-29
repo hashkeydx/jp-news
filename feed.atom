@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-29T08:39:18.796Z</updated>
+    <updated>2022-08-29T09:31:03.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、大手クラウドから排除されるリスク──ノードの約10％が稼働]]></title>
+        <id>https://www.coindeskjapan.com/?p=158699</id>
+        <link href="https://www.coindeskjapan.com/158699/"/>
+        <updated>2022-08-29T09:05:19.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーンは、ノードの約10％が稼働しているクラウドサービスから排除されるリスクがある。 ドイツのクラウドサービス企業Hetznerは8月23 ...
+イーサリアム、大手クラウドから排除されるリスク──ノードの約10％が稼働 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gunzilla Games、NFT導入の新作バトロワゲーム「Off The Grid」の予告編公開]]></title>
+        <id>https://coinpost.jp/?p=381633</id>
+        <link href="https://coinpost.jp/?p=381633"/>
+        <updated>2022-08-29T08:47:22.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンゲーム企業Gunzilla Gamesは、NFTを用いたバトルロイヤルゲーム「Off The Grid」の予告編映像を公開した。基盤ブロックチェーンにはアバランチ（AVAX）を採用予定。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kepple Africa Ventures、アフリカのWeb3企業に対する支援事業立ち上げへ]]></title>
         <id>https://coinpost.jp/?p=381686</id>
@@ -824,28 +845,6 @@ Mergeの日程、イーサリアム財団が正式発表 first appeared on coind
         <summary type="html"><![CDATA[イーサリアム財団は、仮想通貨イーサリアムのメインネットにおけるマージの実施日程を正式発表。ノード運営者の注意事項も説明している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mergeはイーサ価格に織り込み済みか？]]></title>
-        <id>https://www.coindeskjapan.com/?p=158241</id>
-        <link href="https://www.coindeskjapan.com/158241/"/>
-        <updated>2022-08-24T21:30:22.000Z</updated>
-        <summary type="html"><![CDATA[投資会社Arcaのリサーチディレクター、ケイティ・タラティ（Katie Talati）氏は、伝統的金融機関が、10年に1度のトレーディングチャンスを逃すかもしれ ...
-Mergeはイーサ価格に織り込み済みか？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユーラシア最大と謳われたイベントの内幕【現地レポート】]]></title>
-        <id>https://www.coindeskjapan.com/?p=158388</id>
-        <link href="https://www.coindeskjapan.com/158388/"/>
-        <updated>2022-08-24T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イスタンブール空港では、エレベーターを降りると、荷物のターンテーブルがあるエリアや、出口のところには、暗号資産（仮想通貨）界の有名人が登場する大きな広告が、あち ...
-ユーラシア最大と謳われたイベントの内幕【現地レポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
         </author>
     </entry>
 </feed>
