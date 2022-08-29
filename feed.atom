@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-28T23:29:26.959Z</updated>
+    <updated>2022-08-29T03:01:46.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マージ、DeFiとステーブルコインに悪影響の可能性：レポート]]></title>
+        <id>https://www.coindeskjapan.com/?p=158682</id>
+        <link href="https://www.coindeskjapan.com/158682/"/>
+        <updated>2022-08-29T02:40:49.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーンのMerge（マージ）は、DeFi（分散型金融）プロトコルに大きな影響を与える可能性がある。DappRadarが8月26日に発表した ...
+マージ、DeFiとステーブルコインに悪影響の可能性：レポート first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Elizabeth Napolitano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eth.linkが期限切れ──管理者が刑務所にいるため更新できず]]></title>
+        <id>https://www.coindeskjapan.com/?p=158657</id>
+        <link href="https://www.coindeskjapan.com/158657/"/>
+        <updated>2022-08-29T00:05:06.000Z</updated>
+        <summary type="html"><![CDATA[ENS DAOのメンバーが、eth.linkにアクセスしても、今表示されるのは、上部にある緑色のドメイン期限切れを知らせるバナーと広告だけだ。 こんな事態になっ ...
+eth.linkが期限切れ──管理者が刑務所にいるため更新できず first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Elizabeth Napolitano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブロックチェーンの用途は暗号資産だけに留まらない【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=158620</id>
@@ -733,16 +755,6 @@ Mergeはイーサ価格に織り込み済みか？ first appeared on coindesk JA
 ユーラシア最大と謳われたイベントの内幕【現地レポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Amitoj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムマージ前準備　コインポストニュース解説]]></title>
-        <id>https://coinpost.jp/?p=379701</id>
-        <link href="https://coinpost.jp/?p=379701"/>
-        <updated>2022-08-24T12:05:13.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost代表各務貴仁と編集部渋谷詠太が現状のマーケットや注目視されている事例やニュースを解説する。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
