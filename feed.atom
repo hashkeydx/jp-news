@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-29T09:31:03.431Z</updated>
+    <updated>2022-08-29T10:35:25.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン2万ドル割れ　要因は？　コインポストニュース解説]]></title>
+        <id>https://coinpost.jp/?p=381908</id>
+        <link href="https://coinpost.jp/?p=381908"/>
+        <updated>2022-08-29T09:55:52.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost代表各務貴仁と編集部渋谷詠太が現状のマーケットや注目視されている事例やニュースを解説する。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、大手クラウドから排除されるリスク──ノードの約10％が稼働]]></title>
         <id>https://www.coindeskjapan.com/?p=158699</id>
@@ -835,16 +845,6 @@ Mergeの日程、イーサリアム財団が正式発表 first appeared on coind
         <summary type="html"><![CDATA[大手仮想通貨取引所コインベースは独自のイーサリアム（ETH）のリキッド・ステーキングトークン「cbETH」をローンチ。早くて26日未明より取引を開始する。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、「マージ」の実施日程を正式発表]]></title>
-        <id>https://coinpost.jp/?p=379846</id>
-        <link href="https://coinpost.jp/?p=379846"/>
-        <updated>2022-08-24T22:28:41.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団は、仮想通貨イーサリアムのメインネットにおけるマージの実施日程を正式発表。ノード運営者の注意事項も説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
