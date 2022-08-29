@@ -104,26 +104,6 @@
           "wordCount": 412,
           "title": "株式会社マプリィ、「​東芝オープンイノベーションプログラム2022」に採択　森林カーボン・クレジットや木材サプライチェーンにおける「森林情報プラットフォーム」を構築",
           "imageUrl": null
-        },
-        {
-          "id": "3487c3b13bd28d3422052e2b76cd90a3",
-          "author": "株式会社GameWith",
-          "description": "株式会社GameWithのプレスリリース（2022年8月25日 19時00分）株式会社GameWith NFT、新経営体制のお知らせ",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3ab6863df140f9363d56ce2c30c2350d667",
-          "publishedOn": "2022-08-25T10:00:10.000Z",
-          "wordCount": 412,
-          "title": "株式会社GameWith NFT、新経営体制のお知らせ",
-          "imageUrl": null
-        },
-        {
-          "id": "cfbfa175b0f73f67734fb9da4dbbc98b",
-          "author": "D-media株式会社",
-          "description": "D-media株式会社のプレスリリース（2022年8月25日 18時46分）NFTイベント[DART's]（ダーツバース）が渋谷モディにオープンしました。",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26e63df140f9260d268e0c60c2350d667",
-          "publishedOn": "2022-08-25T09:46:58.000Z",
-          "wordCount": 412,
-          "title": "NFTイベント「DART's」（ダーツバース）が渋谷モディにオープンしました。",
-          "imageUrl": null
         }
       ]
     },
@@ -325,6 +305,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=381985",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインで、5,000BTCが移動した事例が報告された。このビットコインは7年前から9年前に発行されたもので、7年以上移動していなかったという。",
+          "link": "https://coinpost.jp/?p=381985",
+          "publishedOn": "2022-08-29T22:20:01.000Z",
+          "wordCount": 1693,
+          "title": "休眠状態だったビットコイン、5,000BTCの移動を確認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoin2021.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoin2021.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=381988",
+          "author": "菊谷ルイス",
+          "description": "予定通りローンチ米大手デリバティブ取引所CME（シカゴマーカンタイル取引所）は29日、ユーロ建のビットコイン（BTC）とイーサリアム（ETH）先物取引をローンチした。BTCとETHのユーロ建先物取引を提供する予定が発表されたのは今月4日で、...",
+          "link": "https://coinpost.jp/?p=381988",
+          "publishedOn": "2022-08-29T21:45:34.000Z",
+          "wordCount": 1656,
+          "title": "米デリバティブ大手CME、 ユーロ建の仮想通貨先物を提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/BTCETH20211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/BTCETH20211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=381984",
+          "author": "菊谷ルイス",
+          "description": "暗号資産取引所大手FTXのサムCEOも取引所Huobiへの買収を検討しているという報道を否定した。",
+          "link": "https://coinpost.jp/?p=381984",
+          "publishedOn": "2022-08-29T21:32:12.000Z",
+          "wordCount": 1663,
+          "title": "FTXのサムCEO、Huobi株式購入の報道を否定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=381982",
           "author": "菊谷ルイス",
