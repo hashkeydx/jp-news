@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-29T03:01:46.930Z</updated>
+    <updated>2022-08-29T04:57:35.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックス債権者、ビットコイン弁済に関するFUDを否定]]></title>
+        <id>https://coinpost.jp/?p=381603</id>
+        <link href="https://coinpost.jp/?p=381603"/>
+        <updated>2022-08-29T03:51:06.000Z</updated>
+        <summary type="html"><![CDATA[経営破綻した仮想通貨取引所マウントゴックスの債権者らは、ビットコイン弁済に関わる噂を否定した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイニングプールAntPool、「ETHマージ」後のサポートを廃止する方針]]></title>
+        <id>https://coinpost.jp/?p=381648</id>
+        <link href="https://coinpost.jp/?p=381648"/>
+        <updated>2022-08-29T03:28:55.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨マイニングプール大手AntPoolは27日、セキュリティの観点から、イーサリアムの次期大型アップグレード「マージ」完了後は、PoSチェーン上でユーザーのETH資産を管理しない方針を発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融市場リスクオフ加速でビットコイン2万ドル割れ、パウエルFRB議長講演の余波残る]]></title>
+        <id>https://coinpost.jp/?p=381613</id>
+        <link href="https://coinpost.jp/?p=381613"/>
+        <updated>2022-08-29T03:19:29.000Z</updated>
+        <summary type="html"><![CDATA[ジャクソンホール会議のパウエルFRB議長講演を受け、株や暗号資産（仮想通貨）などのリスク資産が窮地に追い込まれている。市場想定よりもタカ派のメッセージが発せられ、金融引き締め長期化を懸念するリスク回避姿勢が強まった。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マージ、DeFiとステーブルコインに悪影響の可能性：レポート]]></title>
         <id>https://www.coindeskjapan.com/?p=158682</id>
