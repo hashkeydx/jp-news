@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-29T06:17:46.487Z</updated>
+    <updated>2022-08-29T07:33:58.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、グレースケールの仮想通貨投資信託を調査]]></title>
+        <id>https://coinpost.jp/?p=381634</id>
+        <link href="https://coinpost.jp/?p=381634"/>
+        <updated>2022-08-29T07:07:46.000Z</updated>
+        <summary type="html"><![CDATA[米資産運用企業グレースケールは、3つの仮想通貨投資信託について米SECから質問を受けていると報告した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suiブロックチェーン、公式ディスコードでハッキング被害か]]></title>
+        <id>https://coinpost.jp/?p=381618</id>
+        <link href="https://coinpost.jp/?p=381618"/>
+        <updated>2022-08-29T07:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Web3企業Mysten Labsが開発中のブロックチェーン「Sui」の公式ディスコードがハッキング被害を受けたことが判明。同社の公式Twitterで注意喚起が行われた。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シンガポール金融管理局（MAS）、仮想通貨の個人投資家に対する規制強化方針を示す]]></title>
+        <id>https://coinpost.jp/?p=381766</id>
+        <link href="https://coinpost.jp/?p=381766"/>
+        <updated>2022-08-29T06:47:38.000Z</updated>
+        <summary type="html"><![CDATA[シンガポール金融管理局（MAS）長官は29日、暗号資産（仮想通貨）規制の強化方針を示した。レバレッジ（証拠金取引）・信用枠の利用制限も含まれる。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国超党派議員らが起案した責任ある金融革新法（RFIA）とは]]></title>
         <id>https://coinpost.jp/?p=379896</id>
