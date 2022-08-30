@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-30T11:28:06.457Z</updated>
+    <updated>2022-08-30T13:01:10.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI、DeFiプラットフォームにセキュリティ強化を要請──投資家には脆弱性を警告]]></title>
+        <id>https://www.coindeskjapan.com/?p=158913</id>
+        <link href="https://www.coindeskjapan.com/158913/"/>
+        <updated>2022-08-30T12:30:01.000Z</updated>
+        <summary type="html"><![CDATA[FBI（米連邦捜査局）は、DeFi（分散型金融）プラットフォームにセキュリティ対策の強化を求め、投資家にはその脆弱性を警告した。 DeFiプラットフォームは1月 ...
+FBI、DeFiプラットフォームにセキュリティ強化を要請──投資家には脆弱性を警告 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Parikshit Mishra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CoinExチャリティー、タイの児童支援施設を訪問]]></title>
         <id>https://coinpost.jp/?p=381689</id>
@@ -833,26 +844,6 @@ NFTとメタバース関連の暗号資産、下落 first appeared on coindesk J
         <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスやFTXも、破産申請したVoyager Digitalの買収を検討している模様だ。関係筋の情報として伝えられた。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、へデラの新規取扱予定を表明]]></title>
-        <id>https://coinpost.jp/?p=380585</id>
-        <link href="https://coinpost.jp/?p=380585"/>
-        <updated>2022-08-26T00:10:26.000Z</updated>
-        <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは26日、へデラの上場方針を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリゴン創設者らによる新規VC、68億調達]]></title>
-        <id>https://coinpost.jp/?p=380579</id>
-        <link href="https://coinpost.jp/?p=380579"/>
-        <updated>2022-08-25T23:40:13.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムのスケーリングソリューションを提供する「ポリゴン」とCere Networkの創設者らによる新たなWeb3ベンチャーキャピタル企業「Symbolic Capital」は新規VCファンドで5,000万ドルを調達した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
