@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-30T13:01:10.085Z</updated>
+    <updated>2022-08-30T13:52:08.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シンガポール政府系投資会社、アニモカブランズに出資：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=158933</id>
+        <link href="https://www.coindeskjapan.com/158933/"/>
+        <updated>2022-08-30T13:15:47.000Z</updated>
+        <summary type="html"><![CDATA[世界最大級の資産規模を持つシンガポール政府系投資会社テマセク（Temasek）は、NFTとメタバースに積極的に投資している香港のアニモカブランズ（Animoca ...
+シンガポール政府系投資会社、アニモカブランズに出資：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI、DeFiプラットフォームにセキュリティ強化を要請──投資家には脆弱性を警告]]></title>
         <id>https://www.coindeskjapan.com/?p=158913</id>
@@ -823,27 +834,6 @@ Mergeについて知っておくべきこと、米ブラックロックのビッ
         <summary type="html"><![CDATA[Web3関連企業「Animoca Brands株式会社」は26日、株式会社三菱UFJ銀行およびAnimoca Brands Corporation Limitedから4,500万ドルを調達したことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTとメタバース関連の暗号資産、下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=158567</id>
-        <link href="https://www.coindeskjapan.com/158567/"/>
-        <updated>2022-08-26T01:10:53.000Z</updated>
-        <summary type="html"><![CDATA[NFTとメタバースに関連した暗号資産（仮想通貨）は、NFT市場に対するセンチメントが悪化しているなか、この1週間低迷した。 ウェブ3プラットフォーム上でNFTや ...
-NFTとメタバース関連の暗号資産、下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jimmy He</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンスやFTX、Voyagerの資産買収を検討か＝報道]]></title>
-        <id>https://coinpost.jp/?p=380589</id>
-        <link href="https://coinpost.jp/?p=380589"/>
-        <updated>2022-08-26T01:02:18.000Z</updated>
-        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスやFTXも、破産申請したVoyager Digitalの買収を検討している模様だ。関係筋の情報として伝えられた。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
