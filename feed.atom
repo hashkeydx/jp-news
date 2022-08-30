@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-30T20:31:34.776Z</updated>
+    <updated>2022-08-30T21:28:21.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、2銘柄の新規取扱を実施へ]]></title>
+        <id>https://coinpost.jp/?p=382366</id>
+        <link href="https://coinpost.jp/?p=382366"/>
+        <updated>2022-08-30T21:12:27.000Z</updated>
+        <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは31日、2銘柄の新規取扱を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産の投機は悪ではない。潰すべきは他にある【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=158737</id>
+        <link href="https://www.coindeskjapan.com/158737/"/>
+        <updated>2022-08-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[はっきりさせておきたいことがある。投機は汚らわしい言葉ではない。 他の多くの人たちと同様、私も最近、暗号資産コミュニティに対し、実世界でのユースケー ...
+暗号資産の投機は悪ではない。潰すべきは他にある【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gooopress Newswire Officially Launches Blockchain Content Marketing Service]]></title>
         <id>9d37c32d36d8bb55dd9e54c3d3f8a07e</id>
@@ -672,16 +693,6 @@ Mergeについて知っておくべきこと、米ブラックロックのビッ
 世界で強まる暗号資産規制：技術革新の抑圧か、それとも新規参入者を呼び込むか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Zac Colbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT活用による映画業界の未来｜SSFF & ASIA 2022イベントレポート]]></title>
-        <id>https://coinpost.jp/?p=380728</id>
-        <link href="https://coinpost.jp/?p=380728"/>
-        <updated>2022-08-26T09:00:06.000Z</updated>
-        <summary type="html"><![CDATA[アジア最大級の国際短編映画祭「ショートショート フィルムフェスティバル & アジアは、「NFTと映画」をテーマにしたオンラインセミナーを開催した。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
