@@ -311,16 +311,6 @@
           "wordCount": 1908,
           "title": "NFT価格を吊り上げるウォッシュトレードとは【基礎知識】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_1932205373-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=158395",
-          "author": "Margaux Nijkerk",
-          "description": "イーサリアムの次なる段階にとって非常に重要なソフトウェア「MEV-Boost」を手がける開発者チームのフラッシュボッツ（Flashbots）は、イーサリアムコミ ...\n取引の検閲問題に揺れるイーサリアム開発者たち first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/158395/",
-          "publishedOn": "2022-08-25T21:00:32.000Z",
-          "wordCount": 1772,
-          "title": "取引の検閲問題に揺れるイーサリアム開発者たち",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_1933400162-scaled.jpg"
         }
       ]
     },
@@ -335,6 +325,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=382194",
+          "author": "S.Inosita",
+          "description": "ナイキ傘下のバーチャルアパレルブランド「RTFKT」は、新NFTコレクション「Clone X Forging」を発表した。",
+          "link": "https://coinpost.jp/?p=382194",
+          "publishedOn": "2022-08-30T08:29:44.000Z",
+          "wordCount": 1766,
+          "title": "ナイキ傘下のRTFKT、NFTコレクション「Clone X Forging」SZN 1を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/nft_2021a-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/nft_2021a-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=382165",
           "author": "菊谷ルイス",
@@ -1144,21 +1149,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_05.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_05.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=380242",
-          "author": "菊谷ルイス",
-          "description": "米最大手暗号資産取引所コインベースは26日、同社初のイーサリアム先物を8月29日にローンチする予定を発表した。",
-          "link": "https://coinpost.jp/?p=380242",
-          "publishedOn": "2022-08-25T21:25:59.000Z",
-          "wordCount": 1620,
-          "title": "米コインベース、イーサリアム先物取引を提供予定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase2_20210913.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase2_20210913.jpg"
         }
       ]
     }
