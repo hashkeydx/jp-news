@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-08-31T08:36:51.058Z</updated>
+    <updated>2022-08-31T09:32:33.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2部構成のイーサリアムマージ｜9月6日予定の「Bellatrix」アップグレードとは]]></title>
+        <id>https://coinpost.jp/?p=382591</id>
+        <link href="https://coinpost.jp/?p=382591"/>
+        <updated>2022-08-31T08:36:57.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの大型アップグレード「マージ」は、「ベラトリックス」と「パリ」の2部構成で実行される。この記事では9月6日に予定されるベラトリックスについて解説。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[釜山市、グローバル・ハブを目指してFTXと合意──先週はバイナンスと合意]]></title>
         <id>https://www.coindeskjapan.com/?p=159045</id>
@@ -909,17 +919,6 @@ Mergeについて知っておくべきこと、米ブラックロックのビッ
         <summary type="html"><![CDATA[再建計画を進めている仮想通貨投資プラットフォームVoyager Digitalは資産売却に関する入札期限を延長したことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界で強まる暗号資産規制：技術革新の抑圧か、それとも新規参入者を呼び込むか？【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=158493</id>
-        <link href="https://www.coindeskjapan.com/158493/"/>
-        <updated>2022-08-26T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[オーストラリア政府が8月22日、新しい暗号資産（仮想通貨）規制体制を発表した。今年4月には、イギリス政府がステーブルコインに対する新しい規制を導入する計画が報じ ...
-世界で強まる暗号資産規制：技術革新の抑圧か、それとも新規参入者を呼び込むか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Zac Colbert</name>
         </author>
     </entry>
 </feed>
