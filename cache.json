@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=159080",
+          "author": "Eli Tan",
+          "description": "大物俳優のビル・マーレイ氏とビールを飲むためのNFTが8月31日、チャリティーオークションに出品され、119.2イーサリアム（ETH）、約18万5000ドル（約 ...\n「ビル・マーレイ氏とビールを飲む」 NFT、18万5000ドルで落札 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/159080/",
+          "publishedOn": "2022-09-01T00:05:44.000Z",
+          "wordCount": 1759,
+          "title": "「ビル・マーレイ氏とビールを飲む」 NFT、18万5000ドルで落札",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/R2QDGGFMTZAYFEXOBX5DRXPF2A.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=159084",
           "author": "Nelson Wang",
           "description": "米ワシントン・コロンビア特別区は、ビットコイン（BTC）への積極的な投資で知られるソフトウェア企業マイクロストラテジー（MicroStrategy）の創業者で執 ...\n米コロンビア特別区、マイクロストラテジー創業者のセイラー氏を脱税で提訴 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -435,6 +445,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=382828",
+          "author": "Noah Sakamaki",
+          "description": "米FBIはDeFiプロトコルにおけるスマートコントラクトの脆弱性を突くハッキング事例の増加を注意喚起。コード監査の必要性やユーザーの警戒を呼びかけた。",
+          "link": "https://coinpost.jp/?p=382828",
+          "publishedOn": "2022-09-01T02:25:41.000Z",
+          "wordCount": 1632,
+          "title": "米FBI、DeFiプロトコル対象のハッキングに注意喚起",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/fbi24835462-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/fbi24835462-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=382801",
+          "author": "A.Yamada",
+          "description": "大手金融グループのクレディ・スイスは、2022年第2四半期（4－6月）の決算報告でデジタル資産を保有していることを公表した。",
+          "link": "https://coinpost.jp/?p=382801",
+          "publishedOn": "2022-09-01T01:50:03.000Z",
+          "wordCount": 1660,
+          "title": "クレディ・スイス、顧客のデジタル資産保管額を公表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/credit-suisse-satoshi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/credit-suisse-satoshi.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=382747",
+          "author": "K.Kobayashi",
+          "description": "2014年に経営破綻した仮想通貨取引所マウントゴックスは、再生債権の譲渡等の禁止に関する案内を掲載。譲渡等禁止基準期間を設定したことを報告した。",
+          "link": "https://coinpost.jp/?p=382747",
+          "publishedOn": "2022-09-01T00:44:10.000Z",
+          "wordCount": 1632,
+          "title": "マウントゴックス、再生債権の譲渡等に関する案内を掲載",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/mt.gox-dec-delay.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/mt.gox-dec-delay.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=382743",
+          "author": "A.Yamada",
+          "description": "仮想通貨取引所バイナンスは、ロシアのために資金を集めていた銃製造業者のアカウントを凍結した。このアカウントはビットコインやイーサリアムなどで寄付金を募っていた。",
+          "link": "https://coinpost.jp/?p=382743",
+          "publishedOn": "2022-09-01T00:30:51.000Z",
+          "wordCount": 1629,
+          "title": "バイナンス、ロシアへの寄付金を集めていた仮想通貨ウォレットを凍結",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/binance1_20191112.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/binance1_20191112.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=382739",
           "author": "菊谷ルイス",
