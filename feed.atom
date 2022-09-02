@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-02T21:27:12.190Z</updated>
+    <updated>2022-09-02T22:30:47.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エイダ「Vasil」アップグレード、実施日確定]]></title>
+        <id>https://coinpost.jp/?p=383564</id>
+        <link href="https://coinpost.jp/?p=383564"/>
+        <updated>2022-09-02T21:50:41.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産カルダノ「エイダ」のVasilアップグレードについてメインネット実施日が確定された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ロビンフッド、ポリゴン入出金可能に]]></title>
+        <id>https://coinpost.jp/?p=383562</id>
+        <link href="https://coinpost.jp/?p=383562"/>
+        <updated>2022-09-02T21:30:35.000Z</updated>
+        <summary type="html"><![CDATA[米国の投資アプリ「ロビンフッド」は31日より、仮想通貨ポリゴン（MATIC）の入出金が可能になった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[内閣官房、NFTを活用　自治体のデジタル化競う「夏のDigi田甲子園」]]></title>
         <id>https://coinpost.jp/?p=383428</id>
@@ -1165,16 +1185,6 @@ FTXのサム・バンクマン-フリード氏、フォビ買収を否定 first 
 インフレとビットコインを考えると、BTCの真の価値が見えてくる【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>George Kaloudis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン2万ドル割れ　要因は？　コインポストニュース解説]]></title>
-        <id>https://coinpost.jp/?p=381908</id>
-        <link href="https://coinpost.jp/?p=381908"/>
-        <updated>2022-08-29T09:55:52.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost代表各務貴仁と編集部渋谷詠太が現状のマーケットや注目視されている事例やニュースを解説する。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
