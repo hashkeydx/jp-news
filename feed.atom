@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-03T08:35:27.308Z</updated>
+    <updated>2022-09-03T09:29:27.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビル・マーレイ氏がハッキング被害──NFTオークションの収益18万5000ドルを奪われる]]></title>
+        <id>https://www.coindeskjapan.com/?p=159387</id>
+        <link href="https://www.coindeskjapan.com/159387/"/>
+        <updated>2022-09-03T09:15:25.000Z</updated>
+        <summary type="html"><![CDATA[俳優ビル・マーレイ氏のNFTチャリティーオークションは119.2イーサリアム（ETH）、約18万5000ドル（約2570万円）を集めて終了したが、数時間後、ハッ ...
+ビル・マーレイ氏がハッキング被害──NFTオークションの収益18万5000ドルを奪われる first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Eli Tan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヴィタリックが語る　イーサリアムがPoSに移行する理由]]></title>
         <id>https://coinpost.jp/?p=383753</id>
@@ -1266,27 +1277,6 @@ FTXのサム・バンクマン-フリード氏、フォビ買収を否定 first 
         <summary type="html"><![CDATA[暗号資産取引所大手FTXのサムCEOも取引所Huobiへの買収を検討しているという報道を否定した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、銘柄の新規取扱を実施へ]]></title>
-        <id>https://coinpost.jp/?p=381982</id>
-        <link href="https://coinpost.jp/?p=381982"/>
-        <updated>2022-08-29T21:15:07.000Z</updated>
-        <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは30日、先日上場方針を表明した銘柄の取り扱いを実施する予定だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インフレとビットコインを考えると、BTCの真の価値が見えてくる【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=158708</id>
-        <link href="https://www.coindeskjapan.com/158708/"/>
-        <updated>2022-08-29T21:00:26.000Z</updated>
-        <summary type="html"><![CDATA[久しぶりに、暗号資産（仮想通貨）以外の話題で騒がしい1週間だった。 多くが話題にしていたのは、次のようなこと。 ・バイデン大統領が、公職者ローン返済免除プログラ ...
-インフレとビットコインを考えると、BTCの真の価値が見えてくる【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>George Kaloudis</name>
         </author>
     </entry>
 </feed>
