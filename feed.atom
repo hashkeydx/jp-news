@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-05T08:35:43.066Z</updated>
+    <updated>2022-09-05T09:31:22.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[取引所AscendEX、Mogul Productions（STARS）トークンの取り扱い開始]]></title>
+        <id>https://coinpost.jp/?p=383963</id>
+        <link href="https://coinpost.jp/?p=383963"/>
+        <updated>2022-09-05T09:00:15.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所AscendEXは、 Mogul Productions（STARS）の上場を発表した。すでに取引は開始されており、推定APR20%のステーキングサービスも提供されている。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム先物の建玉、ビットコインを上回る──その理由は？]]></title>
         <id>https://www.coindeskjapan.com/?p=159470</id>
@@ -879,27 +889,6 @@ NFTのロイヤリティ支払いは強制できるのか──任意制にし�
         <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは9月1日、再び銘柄の新規取扱を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン採掘難易度、1月以来の上昇率に]]></title>
-        <id>https://coinpost.jp/?p=382720</id>
-        <link href="https://coinpost.jp/?p=382720"/>
-        <updated>2022-08-31T21:30:42.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産ビットコインは8月31日に、ブロック高＃751,968で+9.26%と採掘難易度が上昇したことが確認された。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産業界が米国のプライバシー保護法案を支持すべき理由【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=158888</id>
-        <link href="https://www.coindeskjapan.com/158888/"/>
-        <updated>2022-08-31T21:00:01.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産業界ではプライバシーの面で多くの進展が起こっているが、それと同時に、本質的な真の消費者プライバシーは、暗号化ツールへのアクセスの高まりだけに依存すること ...
-暗号資産業界が米国のプライバシー保護法案を支持すべき理由【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
