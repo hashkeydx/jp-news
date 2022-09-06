@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-06T10:34:51.082Z</updated>
+    <updated>2022-09-06T11:27:34.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オーストラリア連邦警察、暗号資産ユニットを結成：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=159514</id>
+        <link href="https://www.coindeskjapan.com/159514/"/>
+        <updated>2022-09-06T10:45:36.000Z</updated>
+        <summary type="html"><![CDATA[オーストラリア連邦警察（AFP）は、マネーロンダリングや海外送金の手段としての暗号資産（仮想通貨）の使用に対処するユニットを結成した。Australian Fi ...
+オーストラリア連邦警察、暗号資産ユニットを結成：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[逆風のマクロ環境のなか、ビットコイン保有者の残高は増加]]></title>
         <id>https://www.coindeskjapan.com/?p=159506</id>
@@ -815,16 +826,6 @@ FIFA、W杯のゴールシーンなどを集めたNFTコレクション「FIFA+ 
         <summary type="html"><![CDATA[キャップジェミニのレポートによると、2021年時点の富裕層人口について日本が世界2位であった。また、世界の富裕層の7割がデジタル資産に投資していたとも報告している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea、PoS版イーサリアムにのみ対応と表明]]></title>
-        <id>https://coinpost.jp/?p=383181</id>
-        <link href="https://coinpost.jp/?p=383181"/>
-        <updated>2022-09-01T23:00:13.000Z</updated>
-        <summary type="html"><![CDATA[OpenSeaもマージに対応へNFT電子市場大手OpenSeaは来たるイーサリアムの「マージ」アップグレードに向けて、PoS版イーサリアムにのみ対応すると表明した。2/First,andmostimportantly,wearecommit...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
