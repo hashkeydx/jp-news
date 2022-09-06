@@ -124,16 +124,6 @@
           "wordCount": 412,
           "title": "フィーダ株式会社の『RED TOKEN』。世界トップ10の暗号資産取引所「Gate.io」に上場決定！RED° TOKYO TOWERと メタバース をかけ合わせたトークンエコノミーの創出へ",
           "imageUrl": null
-        },
-        {
-          "id": "1254ea96715c7965a6d07f4d1df84381",
-          "author": "JAIC",
-          "description": "JAICのプレスリリース（2022年9月2日 17時42分） ＩＴキャリア推進協会（JAIC） アスターネットワーク渡辺創太様、自由民主党デジタル社会推進本部Web3PT座長 衆議院議員平将明先生を迎え第10回研究会を実施いたしました。",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36a63df140f9368d76be8cb0c2350d667",
-          "publishedOn": "2022-09-02T08:42:12.000Z",
-          "wordCount": 412,
-          "title": "【ＩＴキャリア推進協会（JAIC）】アスターネットワーク渡辺創太様、自由民主党デジタル社会推進本部Web3PT座長 衆議院議員平将明先生を迎え第10回研究会を実施いたしま...",
-          "imageUrl": null
         }
       ]
     },
@@ -142,6 +132,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=159446",
+          "author": "Michael J Casey",
+          "description": "イーサリアムのプルーフ・オブ・ワーク（PoW）コンセンサスメカニズムからプルーフ・オブ・ステーク（PoS）への移行という待望のアップグレードが遂に、今月実施され ...\n機関投資家と「Merge」の親和性【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/159446/",
+          "publishedOn": "2022-09-06T21:00:30.000Z",
+          "wordCount": 1767,
+          "title": "機関投資家と「Merge」の親和性【コラム】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_2196437923.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=159627",
           "author": "Margaux Nijkerk",
@@ -365,6 +365,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=384593",
+          "author": "菊谷ルイス",
+          "description": "暗号資産イーサリアムの大型アップグレード「マージ」における第一段階「Bellatrix」は日本時間9月6日20時34分に起動成功。",
+          "link": "https://coinpost.jp/?p=384593",
+          "publishedOn": "2022-09-06T21:20:29.000Z",
+          "wordCount": 1645,
+          "title": "イーサリアム「マージ」第一段階、Bellatrix起動成功",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/fide-eth.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/fide-eth.png"
+        },
         {
           "id": "https://coinpost.jp/?p=384382",
           "author": "S.Inosita",
