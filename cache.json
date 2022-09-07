@@ -133,6 +133,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=159659",
+          "author": "Glenn Williams",
+          "description": "ビットコイン（BTC）はレイバー・デーの祝日だった6日、2万ドルをやや下回る水準で推移していたが、午後に大きく下落。1万9000を割り、24時間で4％を超える下 ...\n【US市場】ビットコインは1万8000ドル台、イーサリアムもマージを前に下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/159659/",
+          "publishedOn": "2022-09-07T00:55:10.000Z",
+          "wordCount": 1774,
+          "title": "【US市場】ビットコインは1万8000ドル台、イーサリアムもマージを前に下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/coindesk-ETH-chart-2022-09-07.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=159657",
           "author": "Jocelyn Yang",
           "description": "ビットコイン（BTC）は10日ほど2万ドル前後で推移していたが大きく下落し、1万9000ドルを割った。 一時、6月30日以来の安値1万8680ドルまで下落したが ...\nビットコイン、1万9000ドル割れ──一時、2カ月ぶりの安値 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -375,6 +385,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=384699",
+          "author": "A.Yamada",
+          "description": "上場仮想通貨マイニング企業HIVEは、イーサリアムの「マージ」を念頭にイーサリアム採掘に代わるリソース活用方法を検討しているところだと明かした。",
+          "link": "https://coinpost.jp/?p=384699",
+          "publishedOn": "2022-09-07T02:30:06.000Z",
+          "wordCount": 1643,
+          "title": "カナダHIVE、ETHマージに備えマイニング戦略を変更へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/btc-eth-trust-wealthfront.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/btc-eth-trust-wealthfront.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=384695",
+          "author": "Noah Sakamaki",
+          "description": "米国の大手仮想通貨取引所コインベースは6銘柄を新たに上場予定リストに追加。DeFi関連銘柄の取り扱いを今後行う計画を明らかにした。",
+          "link": "https://coinpost.jp/?p=384695",
+          "publishedOn": "2022-09-07T02:15:17.000Z",
+          "wordCount": 1673,
+          "title": "米コインベース、6銘柄を上場予定リストに追加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=384617",
+          "author": "A.Yamada",
+          "description": "XRPL Labsの開発者は、仮想通貨XRPのウォレットについて新たな決済機能開発を明かした。",
+          "link": "https://coinpost.jp/?p=384617",
+          "publishedOn": "2022-09-07T01:44:51.000Z",
+          "wordCount": 1692,
+          "title": "XRPウォレットXummの新たな決済機能発表へ　XRPL開発者サミットで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/xrp-new-new.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/xrp-new-new.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=384614",
+          "author": "K.Kobayashi",
+          "description": "米投資企業Bernsteinは、仮想通貨市場を再燃させる可能性のある7つの要因を公表。イーサリアムのアップグレード「マージ」の成功などを挙げている。",
+          "link": "https://coinpost.jp/?p=384614",
+          "publishedOn": "2022-09-07T01:10:41.000Z",
+          "wordCount": 1732,
+          "title": "仮想通貨市場を再燃させる「7つの要因」とは＝Bernstein報告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/bitcoin-bull-glassnode.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/bitcoin-bull-glassnode.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=384608",
           "author": "菊谷ルイス",
@@ -974,21 +1044,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/polygon_20210630_01.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/polygon_20210630_01.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=383428",
-          "author": "S.Inosita",
-          "description": "内閣官房は2日、主催した全国の自治体がデジタル技術を活用した地方活性化の取り組みを競う「令和4年度夏のDigi田甲子園」の表彰式で、副賞にデジタル証明となるNFT技術を活用。表彰式には岸田総理大臣も出席した。",
-          "link": "https://coinpost.jp/?p=383428",
-          "publishedOn": "2022-09-02T13:28:45.000Z",
-          "wordCount": 1631,
-          "title": "内閣官房、NFTを活用　自治体のデジタル化競う「夏のDigi田甲子園」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/japanweb3-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/japanweb3-1.png"
         }
       ]
     }
