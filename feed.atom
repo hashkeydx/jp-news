@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-08T12:57:47.798Z</updated>
+    <updated>2022-09-08T13:43:27.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、独自のSBT保有者向けの特典を付与へ]]></title>
+        <id>https://coinpost.jp/?p=385274</id>
+        <link href="https://coinpost.jp/?p=385274"/>
+        <updated>2022-09-08T13:05:23.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは独自のSBT「BAB（Binance Account Bound）トークン」の保有者に向けた特典付与を開始。14のWeb3プロジェクトにおいて限定NFTやトークンのエアドロップを行う。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、ZKロールアップを採用──BNBブロックチェーン強化]]></title>
         <id>https://www.coindeskjapan.com/?p=159747</id>
