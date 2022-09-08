@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-08T03:07:19.448Z</updated>
+    <updated>2022-09-08T04:49:42.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GYEN発行企業、アルゴリズム型ステーブルコインの脆弱性を指摘]]></title>
+        <id>https://coinpost.jp/?p=385290</id>
+        <link href="https://coinpost.jp/?p=385290"/>
+        <updated>2022-09-08T03:58:18.000Z</updated>
+        <summary type="html"><![CDATA[米GMO-Z.com Trust社は、アルゴリズム基盤とする無担保型ステーブルコインに関して「TerraUSD（UST）」崩壊の背景を中心に、無担保型の脆弱性を指摘した。365409,283900,217357,281304]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン反発、ドミナンスは4年半ぶり低水準に]]></title>
+        <id>https://coinpost.jp/?p=385227</id>
+        <link href="https://coinpost.jp/?p=385227"/>
+        <updated>2022-09-08T03:25:59.000Z</updated>
+        <summary type="html"><![CDATA[長期金利低下と原油価格下落を伴う米株指数の反発を受け、暗号資産（仮想通貨）も反発した。イーサリアムの大型アップグレード「マージ」を控え、ビットコインのドミナンスは4年ぶり水準の39%台前半まで低下している。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国の州金融当局が指摘、セルシウスは投資家に偽情報を提供していたか]]></title>
         <id>https://coinpost.jp/?p=385236</id>
