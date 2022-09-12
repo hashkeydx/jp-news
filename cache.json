@@ -271,26 +271,6 @@
           "wordCount": 1777,
           "title": "【US市場】ビットコインはわずかに上昇、取引高は低迷",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/coindesk-BTC-chart-2022-09-08-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=159686",
-          "author": "Daniel Kuhn",
-          "description": "取引高で世界最大の暗号資産（仮想通貨）取引所バイナンス（Binance）は9月5日、自社のドル連動型ステーブルコイン「バイナンスUSD（BUSD）」と競合する3 ...\nバイナンスのUSDCサポート停止で得をするのは誰だ【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/159686/",
-          "publishedOn": "2022-09-07T21:30:22.000Z",
-          "wordCount": 1752,
-          "title": "バイナンスのUSDCサポート停止で得をするのは誰だ【コラム】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_2031493265-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=159566",
-          "author": "Stephan Roth",
-          "description": "インターネット初期の頃、コンピューターサイエンティストたちが直面していた中心的な課題の1つは、ドメイン名とIPアドレスが紐付けられていなかったため、一般的なユー ...\nイーサリアム・ネーム・サービス（ENS）とは？【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/159566/",
-          "publishedOn": "2022-09-07T21:00:00.000Z",
-          "wordCount": 1760,
-          "title": "イーサリアム・ネーム・サービス（ENS）とは？【基礎知識】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_2177053235-scaled.jpg"
         }
       ]
     },
@@ -305,6 +285,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=384911",
+          "author": "CoinPost編集部",
+          "description": "暗号資産取引所AscendEXは独自の収益プログラム「AscendEX Earn」のリブランディングを発表。検索やワンクリックでの購入など、様々な新機能を追加した。",
+          "link": "https://coinpost.jp/?p=384911",
+          "publishedOn": "2022-09-12T09:00:08.000Z",
+          "wordCount": 1652,
+          "title": "AscendEX、独自のEarnプラットフォームのリブランディング実施",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/ascendex_earn.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/ascendex_earn.png"
+        },
         {
           "id": "https://coinpost.jp/?p=386513",
           "author": "Noah Sakamaki",
@@ -1069,36 +1064,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/eth2_20210828-1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/eth2_20210828-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=385108",
-          "author": "菊谷ルイス",
-          "description": "米ゲームソフト小売大手「ゲームストップ」は7日、米仮想通貨取引所FTX USと提携することを発表。",
-          "link": "https://coinpost.jp/?p=385108",
-          "publishedOn": "2022-09-07T21:35:06.000Z",
-          "wordCount": 1622,
-          "title": "米ゲームストップ、FTX USと提携",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_05.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/ftx_20201223_05.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=385106",
-          "author": "菊谷ルイス",
-          "description": "米最大手暗号資産取引所コインベースは8日、2銘柄の新規取扱を発表した。",
-          "link": "https://coinpost.jp/?p=385106",
-          "publishedOn": "2022-09-07T21:10:32.000Z",
-          "wordCount": 1639,
-          "title": "米コインベース、2銘柄の新規取扱を実施へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
         }
       ]
     }

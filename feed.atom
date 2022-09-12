@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-12T08:46:06.512Z</updated>
+    <updated>2022-09-12T09:36:00.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AscendEX、独自のEarnプラットフォームのリブランディング実施]]></title>
+        <id>https://coinpost.jp/?p=384911</id>
+        <link href="https://coinpost.jp/?p=384911"/>
+        <updated>2022-09-12T09:00:08.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所AscendEXは独自の収益プログラム「AscendEX Earn」のリブランディングを発表。検索やワンクリックでの購入など、様々な新機能を追加した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米議員ら、メタ社の仮想通貨広告問題を批判]]></title>
         <id>https://coinpost.jp/?p=386513</id>
@@ -790,48 +800,6 @@ NFTでつながるスポーツファンコミュニティ first appeared on coin
         <summary type="html"><![CDATA[仮想通貨取引所米国版バイナンスやスイスの仮想通貨銀行SEBAは相次いでイーサリアムのステーキングサービスの提供を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ゲームストップ、FTX USと提携]]></title>
-        <id>https://coinpost.jp/?p=385108</id>
-        <link href="https://coinpost.jp/?p=385108"/>
-        <updated>2022-09-07T21:35:06.000Z</updated>
-        <summary type="html"><![CDATA[米ゲームソフト小売大手「ゲームストップ」は7日、米仮想通貨取引所FTX USと提携することを発表。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンスのUSDCサポート停止で得をするのは誰だ【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=159686</id>
-        <link href="https://www.coindeskjapan.com/159686/"/>
-        <updated>2022-09-07T21:30:22.000Z</updated>
-        <summary type="html"><![CDATA[取引高で世界最大の暗号資産（仮想通貨）取引所バイナンス（Binance）は9月5日、自社のドル連動型ステーブルコイン「バイナンスUSD（BUSD）」と競合する3 ...
-バイナンスのUSDCサポート停止で得をするのは誰だ【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、2銘柄の新規取扱を実施へ]]></title>
-        <id>https://coinpost.jp/?p=385106</id>
-        <link href="https://coinpost.jp/?p=385106"/>
-        <updated>2022-09-07T21:10:32.000Z</updated>
-        <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは8日、2銘柄の新規取扱を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム・ネーム・サービス（ENS）とは？【基礎知識】]]></title>
-        <id>https://www.coindeskjapan.com/?p=159566</id>
-        <link href="https://www.coindeskjapan.com/159566/"/>
-        <updated>2022-09-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[インターネット初期の頃、コンピューターサイエンティストたちが直面していた中心的な課題の1つは、ドメイン名とIPアドレスが紐付けられていなかったため、一般的なユー ...
-イーサリアム・ネーム・サービス（ENS）とは？【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Stephan Roth</name>
         </author>
     </entry>
 </feed>
