@@ -120,7 +120,7 @@
           "publishedOn": "2022-09-12T03:10:17.000Z",
           "wordCount": 1767,
           "title": "ブテリン氏、キエフ・テックサミットにサプライズ登壇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/DHS7GSIHKFGBNPVRZN3T6EQMFQ.jpeg"
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/GKLBJATTCBF7HANOP6IJLURNLU-1-scaled-e1662953450303.jpeg"
         },
         {
           "id": "https://www.coindeskjapan.com/?p=159899",
@@ -296,12 +296,72 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=386384",
+          "author": "S.Inosita",
+          "description": "ゲーム特化ブロックチェーンOasysは、初期バリデータの1つとして国内大手ゲーム企業のスクウェア・エニックスが参加することを発表した。チェーン上取引を検証する初期ノードとなる。",
+          "link": "https://coinpost.jp/?p=386384",
+          "publishedOn": "2022-09-12T03:48:25.000Z",
+          "wordCount": 1638,
+          "title": "スクウェア・エニックス、ゲーム特化ブロックチェーン「Oasys」の初期バリデータに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Oasys%C3%97Square-Enix-091222.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Oasys%C3%97Square-Enix-091222.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=386410",
+          "author": "幸田直子",
+          "description": "アルゴランド財団は、現在暫定司法管理下に置かれている仮想通貨レンディング企業Hodlnautに対して、USDCで約50億円のエクスポージャーがあると発表した。",
+          "link": "https://coinpost.jp/?p=386410",
+          "publishedOn": "2022-09-12T03:45:23.000Z",
+          "wordCount": 1632,
+          "title": "アルゴランド財団、出金停止中のHodlnautに50億円相当のエクスポージャー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/algorand_20210525_01.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/algorand_20210525_01.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=386348",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）では前週末にビットコインが急騰、3億ドル相当のショートポジションがロスカットされた。イーサリアム（ETH）のマージに向けカウントダウンが進む中、明日に控えたCPI（米消費者物価指数）が意識される。",
+          "link": "https://coinpost.jp/?p=386348",
+          "publishedOn": "2022-09-12T03:30:56.000Z",
+          "wordCount": 1740,
+          "title": "ビットコイン一時22000ドル台回復、13日にはCPI（米消費者物価指数）控える",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427e_jpg-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427e_jpg-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=386431",
+          "author": "Noah Sakamaki",
+          "description": "イーサリアムのレイヤー2プロジェクトであるポリゴン（MATIC）が今後数ヶ月で約200人を採用する方針を立てていることが判明。弱気相場でも人員補強を継続できる要因とは。",
+          "link": "https://coinpost.jp/?p=386431",
+          "publishedOn": "2022-09-12T03:20:03.000Z",
+          "wordCount": 1649,
+          "title": "Web3プロジェクトのポリゴン（MATIC）、40％の人員増強へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitwise-polygon-new.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitwise-polygon-new.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=386370",
           "author": "S.Inosita",
           "description": "SMBCグループは、メタバースの実証実験場「virtual hoops link」を開設したと発表。使用プラットフォームは「cluster」で、世の中のニーズを捉えたビジネスモデルの構築を目指す。",
           "link": "https://coinpost.jp/?p=386370",
           "publishedOn": "2022-09-12T02:41:40.000Z",
-          "wordCount": 1656,
+          "wordCount": 1652,
           "title": "SMBCグループ、メタバース上の実証実験場を開設",
           "enclosure": {
             "length": "0",
@@ -316,7 +376,7 @@
           "description": "ビットコインなど仮想通貨の関連サービスを提供するBlockchain.comは、アラブ首長国連邦ドバイで事業ライセンスを取得すると発表した。",
           "link": "https://coinpost.jp/?p=386355",
           "publishedOn": "2022-09-12T01:51:51.000Z",
-          "wordCount": 1672,
+          "wordCount": 1667,
           "title": "Blockchain.com、ドバイで仮想通貨事業ライセンス取得へ",
           "enclosure": {
             "length": "0",
@@ -331,7 +391,7 @@
           "description": "東南アジア最大手のDBS銀行は、NFTゲームThe Sandboxと提携して、メタバース事業に参入すると発表した。ESGに関する啓蒙活動に焦点を置く。",
           "link": "https://coinpost.jp/?p=386325",
           "publishedOn": "2022-09-12T00:50:12.000Z",
-          "wordCount": 1662,
+          "wordCount": 1657,
           "title": "東南アジア最大手銀DBS、The Sandbox（SAND）と提携",
           "enclosure": {
             "length": "0",
