@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-12T20:33:58.624Z</updated>
+    <updated>2022-09-12T21:30:52.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スタバがNFTのポイントサービスを開始へ──ポリゴンを採用]]></title>
+        <id>https://www.coindeskjapan.com/?p=160080</id>
+        <link href="https://www.coindeskjapan.com/160080/"/>
+        <updated>2022-09-12T21:15:05.000Z</updated>
+        <summary type="html"><![CDATA[スターバックスがNFTを活用したポイントプログラムを開始する。基盤となるブロックチェーンは、イーサリアムのレイヤー2ソリューションであるポリゴン（Polygon ...
+スタバがNFTのポイントサービスを開始へ──ポリゴンを採用 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO投資ブームに潜む新たなリスク【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=159933</id>
+        <link href="https://www.coindeskjapan.com/159933/"/>
+        <updated>2022-09-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[弱気相場にも関わらず、ベンチャーキャピタルの暗号資産（仮想通貨）への関心は衰えないが、試される時を迎えているのかもしれない。 トルネード・キャッシュ（Torna ...
+DAO投資ブームに潜む新たなリスク【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Tanvi Ratna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AscendEX、独自のEarnプラットフォームのリブランディング実施]]></title>
         <id>https://coinpost.jp/?p=384911</id>
@@ -545,37 +567,6 @@ NFTでつながるスポーツファンコミュニティ first appeared on coin
         <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは独自のSBT「BAB（Binance Account Bound）トークン」の保有者に向けた特典付与を開始。14のWeb3プロジェクトにおいて限定NFTやトークンのエアドロップを行う。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、ZKロールアップを採用──BNBブロックチェーン強化]]></title>
-        <id>https://www.coindeskjapan.com/?p=159747</id>
-        <link href="https://www.coindeskjapan.com/159747/"/>
-        <updated>2022-09-08T09:15:27.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所バイナンス（Binance）は、自社のBNBブロックチェーンの取引時間の高速化と手数料の削減を目指して、ゼロ知識照明（ZK）ロールアップを採用する ...
-バイナンス、ZKロールアップを採用──BNBブロックチェーン強化 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Elizabeth Napolitano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCマイニング会社の採算価格とは　コインポストニュース解説]]></title>
-        <id>https://coinpost.jp/?p=385317</id>
-        <link href="https://coinpost.jp/?p=385317"/>
-        <updated>2022-09-08T09:00:05.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost代表各務貴仁とCONNECTV編集長渋谷詠太が現状のマーケットや注目視されている事例やニュースを解説する。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube総再生回数3.4億回のJ-popユニットGARNiDELiAがNFTを発行！]]></title>
-        <id>16df0fa7a07fe4a8f3d175c26b17c7bd</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26963df140f9260d26de7c00c2350d667"/>
-        <updated>2022-09-08T08:42:45.000Z</updated>
-        <summary type="html"><![CDATA[株式会社ユニスマのプレスリリース（2022年9月8日 17時42分）YouTube総再生回数3.4億回のJ-popユニットGARNiDELiAがNFTを発行！]]></summary>
-        <author>
-            <name>株式会社ユニスマ</name>
         </author>
     </entry>
 </feed>
