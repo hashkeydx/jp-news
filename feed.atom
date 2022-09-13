@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-13T16:49:51.747Z</updated>
+    <updated>2022-09-13T17:40:44.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チャールズ・シュワブ、シタデル、フィデリティ…伝統的金融大手が暗号資産取引所開設へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=160205</id>
+        <link href="https://www.coindeskjapan.com/160205/"/>
+        <updated>2022-09-13T17:15:10.000Z</updated>
+        <summary type="html"><![CDATA[チャールズ・シュワブ、シタデル・セキュリティーズ、フィデリティ・インベストメンツなどの金融大手は、暗号資産（仮想通貨）取引所EDX Marketsを開設すると発 ...
+チャールズ・シュワブ、シタデル、フィデリティ…伝統的金融大手が暗号資産取引所開設へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Parikshit Mishra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、PoWフォークはMergeの24時間後]]></title>
         <id>https://www.coindeskjapan.com/?p=160182</id>
@@ -660,16 +671,6 @@ DAO投資ブームに潜む新たなリスク【オピニオン】 first appeare
         <summary type="html"><![CDATA[iMAMIRAi株式会社のプレスリリース（2022年9月9日 15時00分）NFT専用デジタルフレーム[iMAMIRAi]発売開始のお知らせ]]></summary>
         <author>
             <name>iMAMIRAi株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DMM、新メタバースプロジェクト「Mid Mega City」立ち上げ]]></title>
-        <id>https://coinpost.jp/?p=385681</id>
-        <link href="https://coinpost.jp/?p=385681"/>
-        <updated>2022-09-09T05:40:03.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所DMM Bitcoinを展開するDMMは、新メタバース「Mid Mega City」立ち上げを発表。Unreal Engine5が使用され、元スクウェア・エニックスの本橋大佐氏が開発を主導する。]]></summary>
-        <author>
-            <name>S.Inosita</name>
         </author>
     </entry>
 </feed>
