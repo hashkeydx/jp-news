@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-14T09:34:26.006Z</updated>
+    <updated>2022-09-14T10:35:37.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テラ共同創業者らに逮捕状]]></title>
+        <id>https://www.coindeskjapan.com/?p=160321</id>
+        <link href="https://www.coindeskjapan.com/160321/"/>
+        <updated>2022-09-14T10:30:15.000Z</updated>
+        <summary type="html"><![CDATA[韓国・大検察庁金融犯罪課によると、韓国の裁判所はTerraform Labs（現在はすでに消滅している）の共同創業者ドー・クォン（Do Kwon）氏に逮捕状を出 ...
+テラ共同創業者らに逮捕状 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Parikshit Mishra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mergeを仲間と楽しみたい？ ウォッチ・パーティーをチェック]]></title>
         <id>https://www.coindeskjapan.com/?p=160293</id>
@@ -877,37 +888,6 @@ DAO投資ブームに潜む新たなリスク【オピニオン】 first appeare
         <summary type="html"><![CDATA[金融庁は、2022事務年度の行政方針の中で仮想通貨やブロックチェーンに言及。デジタル社会の実現に向けて、Web3やメタバース等の発展に向けた動きを金融面から推進するとした。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破綻したセルシウスはポンジスキームと呼ぶべきだ──州金融規制局の書類が明かした衝撃の事実【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=159779</id>
-        <link href="https://www.coindeskjapan.com/159779/"/>
-        <updated>2022-09-09T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）レンディングのセルシウス・ネットワーク（Celsius Network）の破産申請手続きの中で、米バーモント州金融規制局が提出した新たな書類 ...
-破綻したセルシウスはポンジスキームと呼ぶべきだ──州金融規制局の書類が明かした衝撃の事実【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米マイクロストラテジー、ビットコイン買い増しの資金を調達へ]]></title>
-        <id>https://coinpost.jp/?p=385956</id>
-        <link href="https://coinpost.jp/?p=385956"/>
-        <updated>2022-09-09T22:10:32.000Z</updated>
-        <summary type="html"><![CDATA[米マイクロストラテジーは9日、株式オファーリングで5億ドルを調達することに関する書類をSECに提出した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTXベンチャーズ、米VC大手SkyBridgeの株式30%を取得へ]]></title>
-        <id>https://coinpost.jp/?p=385951</id>
-        <link href="https://coinpost.jp/?p=385951"/>
-        <updated>2022-09-09T21:45:55.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所大手FTXの投資部門「FTXベンチャーズ」は、米大手ヘッジファンドSkyBridge Capitalの株式の30%を取得する予定だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
