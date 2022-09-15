@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-15T05:39:02.654Z</updated>
+    <updated>2022-09-15T06:54:51.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム大型アップグレード「マージ」実装完了]]></title>
+        <id>https://coinpost.jp/?p=387263</id>
+        <link href="https://coinpost.jp/?p=387263"/>
+        <updated>2022-09-15T06:38:26.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）イーサリアムの大型アップグレード「マージ」が完了した。合意形成アルゴリズムが従来のプルーフ・オブ・ワークからプルーフオブステークへと移行した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バーゼル委員会、銀行の仮想通貨保有に関する資本要件を策定]]></title>
         <id>https://coinpost.jp/?p=387717</id>
