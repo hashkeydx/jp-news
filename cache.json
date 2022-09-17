@@ -204,16 +204,6 @@
           "wordCount": 412,
           "title": "経営者らの有志団体「Web3․JP」が、Web3の国家戦略について自民党へ提言、その解説を公開",
           "imageUrl": null
-        },
-        {
-          "id": "4ef81cb4efc584fa3634fb6363949e87",
-          "author": "株式会社SoudanNFT",
-          "description": "株式会社SoudanNFTのプレスリリース（2022年9月12日 22時16分）NinjaDAO発ジェネラティブNFTコレクション『Very long CNP』コラボ店舗募集！！",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26c63df140f9260d36de7c10c2350d667",
-          "publishedOn": "2022-09-12T13:16:07.000Z",
-          "wordCount": 412,
-          "title": "NinjaDAO発ジェネラティブNFTコレクション『Very long CNP』コラボ店舗募集！！",
-          "imageUrl": null
         }
       ]
     },
@@ -222,6 +212,26 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=160650",
+          "author": "Shaurya Malwa",
+          "description": "プルーフ・オブ・ワーク（PoW）で稼働するEthereum PoWの1日目は、悲惨な1日となった。 一部のユーザーは、Ethereum PoWの公式ツイッターが ...\nイーサリアムPoW、1日目は苦情が殺到──価格も大幅下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/160650/",
+          "publishedOn": "2022-09-17T00:55:37.000Z",
+          "wordCount": 1792,
+          "title": "イーサリアムPoW、1日目は苦情が殺到──価格も大幅下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/スクリーンショット-2022-09-17-9.29.18.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=160475",
+          "author": "Eliza Gkritsi",
+          "description": "イーサリアム（ETH）マイナーはMerge（マージ）後、他のアルトコインのマイニングにシフトしているが、収益を上げることがますます難しくなっている。あまりにも多 ...\nGPUマイナー、Merge後24時間で消え去った first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/160475/",
+          "publishedOn": "2022-09-17T00:30:41.000Z",
+          "wordCount": 1752,
+          "title": "GPUマイナー、Merge後24時間で消え去った",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/DJLLHM4JPVGMNBFBJ3AII7PYIY.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=160601",
           "author": "coindesk JAPAN",
@@ -585,6 +595,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=388537",
+          "author": "AKIRA.H",
+          "description": "仮想通貨エイプコインが3月17日に公開されてから6か月後、利害関係者に割り当てられた2,500万APEのリリース予定日が迫っている。",
+          "link": "https://coinpost.jp/?p=388537",
+          "publishedOn": "2022-09-17T02:30:21.000Z",
+          "wordCount": 1725,
+          "title": "エイプコイン（APE）、160億円相当のロックアップトークンを放出へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/apecoin-news-media-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/apecoin-news-media-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=388528",
+          "author": "A.Yamada",
+          "description": "米ホワイトハウスはビットコインなど仮想通貨含め、デジタル資産についての包括的な開発枠組みを発表した。",
+          "link": "https://coinpost.jp/?p=388528",
+          "publishedOn": "2022-09-17T01:30:46.000Z",
+          "wordCount": 1657,
+          "title": "米バイデン政権、仮想通貨やNFTについての包括的な開発枠組み示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/whitehouse_usa1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/whitehouse_usa1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=388516",
+          "author": "S.Inosita",
+          "description": "オーバースは、同社のアイドルとメタバースの融合目指すプロジェクトの総合プロデューサーに、AKB48で知られる秋元康氏が就任したと発表。2023年初頭のIEOを実施予定を明かした。",
+          "link": "https://coinpost.jp/?p=388516",
+          "publishedOn": "2022-09-17T01:00:15.000Z",
+          "wordCount": 1670,
+          "title": "メタバースアイドルの「オーバース」、秋元康氏が総合プロデューサーに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/shutterstock_1386164201.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/shutterstock_1386164201.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=388490",
           "author": "K.Kobayashi",
