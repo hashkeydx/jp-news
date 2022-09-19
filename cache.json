@@ -123,6 +123,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=160463",
+          "author": "Eliza Gkritsi",
+          "description": "複数の環境保護団体はオンライン広告に新たに100万ドル（約1億4000万円）を費やす。エネルギー消費を減らすためにコードを変更するようビットコイン（BTC）コミ ...\n環境保護団体、オンライン広告に100万ドル──ビットコインのPoSへの変更求める first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/160463/",
+          "publishedOn": "2022-09-19T02:45:00.000Z",
+          "wordCount": 1748,
+          "title": "環境保護団体、オンライン広告に100万ドル──ビットコインのPoSへの変更求める",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/FLUCLVJCVFBFDJ4MHDCOVHJD6A.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=160502",
           "author": "Christopher Robbins",
           "description": "イーサリアムは「Merge（マージ）」に向けた準備を整える中、暗号資産（仮想通貨）市場に一時的な混乱を生じさせたり、投資家に新しいチャンスを生み出したりしてきた ...\nMergeでイーサリアムはどう変わる？【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -365,6 +375,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=388725",
+          "author": "A.Yamada",
+          "description": "仮想通貨の分散型取引所GMXは、価格操作の報告を受けていると通知。アバランチ／米ドルのペアがユーザーによる価格操作の被害を受けた形だ。",
+          "link": "https://coinpost.jp/?p=388725",
+          "publishedOn": "2022-09-19T02:45:35.000Z",
+          "wordCount": 1750,
+          "title": "分散型取引所GMXで価格操作か　アバランチ（AVAX）のUSDペアが被害",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/DEX_crypto1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/DEX_crypto1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=388715",
+          "author": "AKIRA.H",
+          "description": "仮想通貨イーサリアムから分岐して誕生した「EthereumPoW」ブロックチェーンで、メッセージを複製して資産を盗む攻撃「リプレイアタック」が確認された。",
+          "link": "https://coinpost.jp/?p=388715",
+          "publishedOn": "2022-09-19T02:12:10.000Z",
+          "wordCount": 1662,
+          "title": "イーサリアムPoWフォーク（ETHW）でリプレイ攻撃、前日比47%の急落",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Replay_0919.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Replay_0919.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=384871",
+          "author": "AKIRA.H",
+          "description": "dAppsを利用するために、メタマスクを初めとする暗号資産ウォレットを接続し、権限を付与する必要があります。この記事では権限の管理方法を含む、メタマスクのセキュリティ対策についてご紹介します。",
+          "link": "https://coinpost.jp/?p=384871",
+          "publishedOn": "2022-09-19T01:00:44.000Z",
+          "wordCount": 2016,
+          "title": "Web3ウォレットMetamask　利用上の注意点を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/netgear-metamask-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/netgear-metamask-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=388708",
+          "author": "A.Yamada",
+          "description": "ビットコインなどを扱う仮想通貨取引所FTXの欧州部門はキプロスでライセンスを取得。これにより欧州経済領域で広くサービスを提供できるようになった。",
+          "link": "https://coinpost.jp/?p=388708",
+          "publishedOn": "2022-09-19T00:40:40.000Z",
+          "wordCount": 1662,
+          "title": "FTX EU、欧州でライセンス取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=384809",
           "author": "CoinPost編集部",

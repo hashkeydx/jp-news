@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-18T23:32:44.947Z</updated>
+    <updated>2022-09-19T03:12:39.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分散型取引所GMXで価格操作か　アバランチ（AVAX）のUSDペアが被害]]></title>
+        <id>https://coinpost.jp/?p=388725</id>
+        <link href="https://coinpost.jp/?p=388725"/>
+        <updated>2022-09-19T02:45:35.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨の分散型取引所GMXは、価格操作の報告を受けていると通知。アバランチ／米ドルのペアがユーザーによる価格操作の被害を受けた形だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[環境保護団体、オンライン広告に100万ドル──ビットコインのPoSへの変更求める]]></title>
+        <id>https://www.coindeskjapan.com/?p=160463</id>
+        <link href="https://www.coindeskjapan.com/160463/"/>
+        <updated>2022-09-19T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[複数の環境保護団体はオンライン広告に新たに100万ドル（約1億4000万円）を費やす。エネルギー消費を減らすためにコードを変更するようビットコイン（BTC）コミ ...
+環境保護団体、オンライン広告に100万ドル──ビットコインのPoSへの変更求める first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Eliza Gkritsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムPoWフォーク（ETHW）でリプレイ攻撃、前日比47%の急落]]></title>
+        <id>https://coinpost.jp/?p=388715</id>
+        <link href="https://coinpost.jp/?p=388715"/>
+        <updated>2022-09-19T02:12:10.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムから分岐して誕生した「EthereumPoW」ブロックチェーンで、メッセージを複製して資産を盗む攻撃「リプレイアタック」が確認された。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3ウォレットMetamask　利用上の注意点を解説]]></title>
+        <id>https://coinpost.jp/?p=384871</id>
+        <link href="https://coinpost.jp/?p=384871"/>
+        <updated>2022-09-19T01:00:44.000Z</updated>
+        <summary type="html"><![CDATA[dAppsを利用するために、メタマスクを初めとする暗号資産ウォレットを接続し、権限を付与する必要があります。この記事では権限の管理方法を含む、メタマスクのセキュリティ対策についてご紹介します。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX EU、欧州でライセンス取得]]></title>
+        <id>https://coinpost.jp/?p=388708</id>
+        <link href="https://coinpost.jp/?p=388708"/>
+        <updated>2022-09-19T00:40:40.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインなどを扱う仮想通貨取引所FTXの欧州部門はキプロスでライセンスを取得。これにより欧州経済領域で広くサービスを提供できるようになった。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mergeでイーサリアムはどう変わる？【基礎知識】]]></title>
         <id>https://www.coindeskjapan.com/?p=160502</id>
