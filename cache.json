@@ -261,16 +261,6 @@
           "wordCount": 1784,
           "title": "【US市場】Merge成功、だがイーサリアムは下落",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/coindesk-ETH-chart-2022-09-16.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=160477",
-          "author": "Danny Nelson",
-          "description": "米SEC（証券取引委員会）のゲーリー・ゲンスラー委員長は9月15日、ステーキングされた暗号資産（仮想通貨）は連邦証券規制の対象となる可能性があると述べ、イーサリ ...\n米SEC委員長、PoS暗号資産への監視強化示唆：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/160477/",
-          "publishedOn": "2022-09-15T23:00:16.000Z",
-          "wordCount": 1781,
-          "title": "米SEC委員長、PoS暗号資産への監視強化示唆：報道",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_765574717.jpg"
         }
       ]
     },
@@ -285,6 +275,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=389292",
+          "author": "CoinPost編集部",
+          "description": "暗号資産（仮想通貨）マーケットメーカーのWintermuteが、1億6000万ドル規模のハッキング被害に遭った。",
+          "link": "https://coinpost.jp/?p=389292",
+          "publishedOn": "2022-09-20T10:34:52.000Z",
+          "wordCount": 1751,
+          "title": "仮想通貨マーケットメーカーWintermute、1億6000万ドル規模のハッキング被害か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=389249",
           "author": "AKIRA.H",
@@ -929,36 +934,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/singapore0930211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/singapore0930211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=388001",
-          "author": "菊谷ルイス",
-          "description": "Binanceのバイナンスラボは15日、新レイヤー1ブロックチェーンプロジェクト「Aptos Labs」に2回目の出資を行ったことを発表した。Aptosのメインネットローンチは3Q予定だ。",
-          "link": "https://coinpost.jp/?p=388001",
-          "publishedOn": "2022-09-15T23:12:04.000Z",
-          "wordCount": 1667,
-          "title": "バイナンスラボ、新ブロックチェーン「Aptos」に2回目の出資",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/binance-aptos-new-round.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/binance-aptos-new-round.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=387996",
-          "author": "菊谷ルイス",
-          "description": "フォートナイトなどを運営する大手ゲーム企業Epic Games社は16日、Epic Games StoreにNFTゲーム「Blankos Block Party」を掲載した。同社初のNFTゲーム掲載だ。",
-          "link": "https://coinpost.jp/?p=387996",
-          "publishedOn": "2022-09-15T22:38:43.000Z",
-          "wordCount": 1729,
-          "title": "Epic Games初、NFTゲーム「Blankos Block Party」に対応",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/BBP-fortnite.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/BBP-fortnite.jpeg"
         }
       ]
     }
