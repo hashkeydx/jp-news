@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-21T03:15:18.554Z</updated>
+    <updated>2022-09-21T05:43:39.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrumでバグ検出、報奨金400ETHを支払い]]></title>
+        <id>https://coinpost.jp/?p=389623</id>
+        <link href="https://coinpost.jp/?p=389623"/>
+        <updated>2022-09-21T04:50:39.000Z</updated>
+        <summary type="html"><![CDATA[レイヤー2スケーリングソリューションのArbitrumと、仮想通貨イーサリアム（ETH）のブロックチェーン間のブリッジに「バグ（脆弱性）」が検出された。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタバース結婚式、「ザ・サンドボックス」上で開催　アバターで誓いのキス]]></title>
+        <id>https://coinpost.jp/?p=389553</id>
+        <link href="https://coinpost.jp/?p=389553"/>
+        <updated>2022-09-21T03:53:15.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンゲーム「ザ・サンドボックス」で、「メタバース結婚式」が開催。メタバースと現実世界の双方で永遠の愛を誓った。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国際通貨基金（IMF）「仮想通貨規制には、国際的に一貫した対応が必要不可欠」]]></title>
+        <id>https://coinpost.jp/?p=389594</id>
+        <link href="https://coinpost.jp/?p=389594"/>
+        <updated>2022-09-21T03:51:05.000Z</updated>
+        <summary type="html"><![CDATA[国際通貨基金（IMF）は、機関紙の最新刊で、仮想通貨規制について論じ、包括的で一貫したグローバルな規制の枠組みの必要性を強調した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DMM Bitcoin、国内初のチリーズ（CHZ）取り扱い開始]]></title>
+        <id>https://coinpost.jp/?p=389608</id>
+        <link href="https://coinpost.jp/?p=389608"/>
+        <updated>2022-09-21T03:35:50.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所DMM Bitcoinはチリーズ（CHZ）とアバランチ（AVAX）の新規上場を開始した。この内、チリーズの国内上場は今回が初事例となる。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOMC控え様子見基調の仮想通貨市場、XRPなど一部銘柄は続伸]]></title>
+        <id>https://coinpost.jp/?p=389446</id>
+        <link href="https://coinpost.jp/?p=389446"/>
+        <updated>2022-09-21T03:31:05.000Z</updated>
+        <summary type="html"><![CDATA[米連邦公開市場委員会（FOMC）を目前に控え様子見基調の金融市場。暗号資産（仮想通貨）では、ビットコインが下落する中、裁判の進展が見られたXRP（リップル）が続伸した。どのような背景があるのか解説。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FUELHASH、カナダでビットコインマイニング開始──水力発電を利用]]></title>
         <id>https://www.coindeskjapan.com/?p=160689</id>
