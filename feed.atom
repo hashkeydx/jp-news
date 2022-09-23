@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-23T03:10:28.469Z</updated>
+    <updated>2022-09-23T05:40:02.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米決済企業Stripe、フリーランス向けのUSDC送金に対応]]></title>
+        <id>https://coinpost.jp/?p=390543</id>
+        <link href="https://coinpost.jp/?p=390543"/>
+        <updated>2022-09-23T04:50:34.000Z</updated>
+        <summary type="html"><![CDATA[米大手オンライン決済サービス企業Stripe社は22日、米ドルステーブルコインUSDCによる送金に対応開始したことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気NFT「Azuki」、42億円規模の資金調達を実施か＝報道]]></title>
+        <id>https://coinpost.jp/?p=390459</id>
+        <link href="https://coinpost.jp/?p=390459"/>
+        <updated>2022-09-23T03:57:12.000Z</updated>
+        <summary type="html"><![CDATA[NFTAzukiの発行元Chiru Labsが、シリーズAラウンドで約42億円を調達予定であることが判明。調達後の評価額は最大570億円になるとされる。CoinPost提携メディアのThe Blockが報じた。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、自己勘定取引疑惑を否定　WSJ報道に反論]]></title>
+        <id>https://coinpost.jp/?p=390485</id>
+        <link href="https://coinpost.jp/?p=390485"/>
+        <updated>2022-09-23T03:44:30.000Z</updated>
+        <summary type="html"><![CDATA[ウォール・ストリートジャーナル紙は、大手仮想通貨取引所コインベースが熟練したトレーダーを雇用し、142億円規模の投機的な自己勘定取引を行ったと報道。コインベースはブログで反論し、プロップトレード疑惑を否定した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨市場にも影響する「ドル高」の背景は　相関性や円安要因についても解説]]></title>
+        <id>https://coinpost.jp/?p=389780</id>
+        <link href="https://coinpost.jp/?p=389780"/>
+        <updated>2022-09-23T03:00:50.000Z</updated>
+        <summary type="html"><![CDATA[主要国通貨に対する米ドルの強さを示す「米ドル指数（DXY）」は過去20年ぶりの高水準にある。この記事では、暗号資産（仮想通貨）市場にも大きく影響するドル高の要因や影響、リスク資産との関係性について解説。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英政府、仮想通貨マネロンの取締りを強化する法案を提出]]></title>
         <id>https://coinpost.jp/?p=390467</id>
