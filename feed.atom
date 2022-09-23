@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-23T09:35:41.286Z</updated>
+    <updated>2022-09-23T10:36:31.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本の「Web3」国家戦略は今後どうなる｜Web3PT座長平将明議員とデジタルガレージ伊藤穣一氏が対談]]></title>
+        <id>https://coinpost.jp/?p=389558</id>
+        <link href="https://coinpost.jp/?p=389558"/>
+        <updated>2022-09-23T10:03:11.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVはWeb3プロジェクトチーム座長の平将明議員とデジタルガレージの伊藤穣一氏に今後の日本のweb3国家戦略はどうなるか、またお二人のWeb3の世界観について対談していただいた。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YGGとDJT、ブロックチェーンゲーム表彰式を開催]]></title>
         <id>https://coinpost.jp/?p=390567</id>
@@ -1098,17 +1108,6 @@ DeFiにも例外なし、のびる規制の触手【Krakenリサーチ】 first 
         <summary type="html"><![CDATA[ビットコインなどを扱う仮想通貨取引所FTXの欧州部門はキプロスでライセンスを取得。これにより欧州経済領域で広くサービスを提供できるようになった。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mergeでイーサリアムはどう変わる？【基礎知識】]]></title>
-        <id>https://www.coindeskjapan.com/?p=160502</id>
-        <link href="https://www.coindeskjapan.com/160502/"/>
-        <updated>2022-09-18T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムは「Merge（マージ）」に向けた準備を整える中、暗号資産（仮想通貨）市場に一時的な混乱を生じさせたり、投資家に新しいチャンスを生み出したりしてきた ...
-Mergeでイーサリアムはどう変わる？【基礎知識】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Christopher Robbins</name>
         </author>
     </entry>
 </feed>
