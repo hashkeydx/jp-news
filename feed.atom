@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-23T05:40:02.158Z</updated>
+    <updated>2022-09-23T06:59:28.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨リサーチ企業Messari、約50億円の資金調達]]></title>
+        <id>https://coinpost.jp/?p=390517</id>
+        <link href="https://coinpost.jp/?p=390517"/>
+        <updated>2022-09-23T05:52:53.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨分析企業のMessariは、シリーズBラウンドで約50億円資金調達したことを発表。調達資金は、新プロダクトなどの開発に使用される。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米決済企業Stripe、フリーランス向けのUSDC送金に対応]]></title>
         <id>https://coinpost.jp/?p=390543</id>
