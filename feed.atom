@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-24T21:29:59.261Z</updated>
+    <updated>2022-09-24T22:31:57.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの歴史的転換：何がどう変化したのか？【解説】]]></title>
+        <id>https://www.coindeskjapan.com/?p=160980</id>
+        <link href="https://www.coindeskjapan.com/160980/"/>
+        <updated>2022-09-24T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムは今月、プルーフ・オブ・ワーク（PoW）からプルーフ・オブ・ステーク（PoS）へと歴史的な転換を完了させた。分散型台帳に取引を追加するために利用して ...
+イーサリアムの歴史的転換：何がどう変化したのか？【解説】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[負債総額700億円　仮想通貨マイニングのCompute North社、米破産法の適用申請]]></title>
         <id>https://coinpost.jp/?p=390872</id>
@@ -934,17 +945,6 @@ DeFiにも例外なし、のびる規制の触手【Krakenリサーチ】 first 
         <summary type="html"><![CDATA[暗号資産（仮想通貨）マーケットメーカーのWintermuteが、1億6000万ドル規模のハッキング被害に遭った。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマン・サックス、米国債実質利回りの上昇を予想──ビットコインにはマイナスか]]></title>
-        <id>https://www.coindeskjapan.com/?p=160695</id>
-        <link href="https://www.coindeskjapan.com/160695/"/>
-        <updated>2022-09-20T09:45:17.000Z</updated>
-        <summary type="html"><![CDATA[米国物価連動国債（TIPS）の利回りは8月上旬以降、1％上昇して暗号資産をはじめとするリスク資産に新たな動揺を与えている。さらに、いわゆる実質利回りが今後数カ月 ...
-ゴールドマン・サックス、米国債実質利回りの上昇を予想──ビットコインにはマイナスか first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
