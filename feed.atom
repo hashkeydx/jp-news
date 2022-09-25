@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-25T20:33:13.692Z</updated>
+    <updated>2022-09-25T21:30:14.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国のトルネード・キャッシュ禁止は中国のAI戦略を利する【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=160898</id>
+        <link href="https://www.coindeskjapan.com/160898/"/>
+        <updated>2022-09-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米政府がAI（人工知能）分野における中国の前進を恐れているとしたら、機械学習モデルのトレーニングに使える極めて価値の高い暗号資産（仮想通貨）データという宝の山を ...
+米国のトルネード・キャッシュ禁止は中国のAI戦略を利する【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン大幅下落、目先の底堅さに期待も｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=387839</id>
@@ -668,17 +679,6 @@ Merge後の強気予想をかく乱──イーサリアムとナスダックの
 ポストMergeのイーサ、機関投資家が躊躇する理由 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Lawrence Lewitinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの資金調達率、Mergeを経て通常レベルに]]></title>
-        <id>https://www.coindeskjapan.com/?p=160932</id>
-        <link href="https://www.coindeskjapan.com/160932/"/>
-        <updated>2022-09-21T09:20:59.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）先物の資金調達率はMerge（マージ）から約1週間で通常レベルに戻った。マージに向けて、多くのトレーダーはポジションを維持するために非常に ...
-イーサリアムの資金調達率、Mergeを経て通常レベルに first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
