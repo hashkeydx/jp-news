@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-26T22:34:52.026Z</updated>
+    <updated>2022-09-26T23:41:26.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨オプション大手Deribit、約58億円調達か]]></title>
+        <id>https://coinpost.jp/?p=391425</id>
+        <link href="https://coinpost.jp/?p=391425"/>
+        <updated>2022-09-26T22:55:55.000Z</updated>
+        <summary type="html"><![CDATA[業界最大手の仮想通貨オプション取引所Deribitは既存の投資家から約58億円を調達したようだ。情報筋の内容として報じられている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハッカーが1億円相当の仮想通貨を盗難か　「Vanity Address」の脆弱性が原因の可能性]]></title>
+        <id>https://coinpost.jp/?p=391416</id>
+        <link href="https://coinpost.jp/?p=391416"/>
+        <updated>2022-09-26T22:26:01.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム上のVanity Addressから、1億円相当の仮想通貨が盗難された可能性が浮上。対象のアドレスはProfanityで生成されている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野村やみずほ、ブロックチェーン決済企業Fnalityの調達ラウンドに参加]]></title>
         <id>https://coinpost.jp/?p=391414</id>
@@ -81,6 +101,46 @@ Merge後のGPUマイニング、稼げる可能性はあるか？ first appeared
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ホットリンク、モバイルファクトリーとNFT領域で業務提携]]></title>
+        <id>59a184d93819d224bfa5b52fc4fe3dd4</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f1ab6363df140f9360d76ae2c70c2350d667"/>
+        <updated>2022-09-26T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[ホットリンクのプレスリリース（2022年9月26日 15時00分）ホットリンク、モバイルファクトリーとNFT領域で業務提携]]></summary>
+        <author>
+            <name>ホットリンク</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホットリンクとモバイルファクトリーが業務提携 NFT販売に加え、SNSプロモーションも提案可能に]]></title>
+        <id>393b3b458b07ce9ef8ad8e564c0c6a67</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a66d63df140f9362d16be1c40c2350d667"/>
+        <updated>2022-09-26T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[モバファクのプレスリリース（2022年9月26日 15時00分）ホットリンクとモバイルファクトリーが業務提携 NFT販売に加え、SNSプロモーションも提案可能に]]></summary>
+        <author>
+            <name>モバファク</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博報堂・博報堂コンサルティング、BIPROGYと開発した、ブロックチェーン技術を活用して職場コミュニティの活性化を支援するアプリサービス「PRAISE CARD」を全面リニュ...]]></title>
+        <id>ef84d29032887cb08fbef01600eef049</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f5a36263df140f9360dd68e7c00c2350d667"/>
+        <updated>2022-09-26T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[株式会社博報堂のプレスリリース（2022年9月26日 14時00分）博報堂・博報堂コンサルティング、BIPROGYと開発した、ブロックチェーン技術を活用して職場コミュニティの活性化を支援するアプリサービス[PRAISE CARD]を全面リニューアル]]></summary>
+        <author>
+            <name>株式会社博報堂</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株式会社フィナンシェ、「Web3 × スポーツ」の支援実績を活用し、スポーツ団体に対してブロックチェーン上のトークン発行とその後の流通やグローバル展開までの総合的な...]]></title>
+        <id>5264d46fffae7c012548dc06c1439c2c</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f1a06263df140f9364d76ee7c70c2350d667"/>
+        <updated>2022-09-26T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[株式会社フィナンシェのプレスリリース（2022年9月26日 14時00分）株式会社フィナンシェ、[Web3 × スポーツ]の支援実績を活用し、スポーツ団体に対してブロックチェーン上のトークン発行とその後の流通やグローバル展開までの総合的な支援を開始]]></summary>
+        <author>
+            <name>株式会社フィナンシェ</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DEA、東京ゲームショウ2022でP2Eゲーム体験ブースを出展]]></title>
         <id>https://coinpost.jp/?p=391087</id>
         <link href="https://coinpost.jp/?p=391087"/>
@@ -108,6 +168,16 @@ Merge後のGPUマイニング、稼げる可能性はあるか？ first appeared
         <summary type="html"><![CDATA[米Apple社はApp StoreでNFTを販売可能なアプリ配信を許可した。しかしその実態は開発者やスタートアップにとって大きな負担が課されるもので、さまざまな議論を巻き起こしている。]]></summary>
         <author>
             <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3ベンチャー支援特化型CVC・GMO Web3　取締役に藤本真衣氏、顧問に首藤一幸教授・渡辺創太氏が新たに就任]]></title>
+        <id>274dbdde743e5b14e02ab57e01449ea6</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de6bf4a06363df140f9360d569e2c40c2350d667"/>
+        <updated>2022-09-26T04:00:22.000Z</updated>
+        <summary type="html"><![CDATA[GMOインターネットグループのプレスリリース（2022年9月26日 13時00分）Web3ベンチャー支援特化型CVC・GMO Web3　取締役に藤本真衣氏、顧問に首藤一幸教授・渡辺創太氏が新たに就任]]></summary>
+        <author>
+            <name>GMOインターネットグループ</name>
         </author>
     </entry>
     <entry>
@@ -610,16 +680,6 @@ Mergeで世界の電力消費0.2%削減は本当か？ first appeared on coindes
         <summary type="html"><![CDATA[米仮想通貨取引所大手のコインベースは22日、オランダの中央銀行への事業登録を完成したことを公表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MediBang、TVアニメ『4人はそれぞれウソをつく』の製作委員会に参画 アニメ放送開始を記念して4,444枚のNFTを無料配布]]></title>
-        <id>eb3448acd65363f40524619e87e298ac</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36863df140f9367d361e0cb0c2350d667"/>
-        <updated>2022-09-22T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[株式会社MediBangのプレスリリース（2022年9月22日 20時00分）MediBang、TVアニメ『4人はそれぞれウソをつく』の製作委員会に参画 アニメ放送開始を記念して4,444枚のNFTを無料配布]]></summary>
-        <author>
-            <name>株式会社MediBang</name>
         </author>
     </entry>
 </feed>
