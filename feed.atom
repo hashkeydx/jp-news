@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-26T11:30:22.693Z</updated>
+    <updated>2022-09-26T13:06:26.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産は引き続きリスク資産として取引：バンカメ]]></title>
+        <id>https://www.coindeskjapan.com/?p=161285</id>
+        <link href="https://www.coindeskjapan.com/161285/"/>
+        <updated>2022-09-26T11:45:32.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）は依然としてリスク資産として取引され、世界的な金利上昇を受けて下落していると、バンク・オブ・アメリカは9月23日、レポートに記した。 だが回 ...
+暗号資産は引き続きリスク資産として取引：バンカメ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファイルコイン、ストレージ提供者が年初から7倍に]]></title>
         <id>https://www.coindeskjapan.com/?p=161266</id>
@@ -721,27 +732,6 @@ Merge後の強気予想をかく乱──イーサリアムとナスダックの
         <summary type="html"><![CDATA[L2のボバネットワークは、仮想通貨アバランチのブロックチェーンに対応。ボバネットワークはアバランチに対応した最初のL2ソリューションだという。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EUの仮想通貨規制法案MiCA、ステーブルコイン制限を緩和か]]></title>
-        <id>https://coinpost.jp/?p=390015</id>
-        <link href="https://coinpost.jp/?p=390015"/>
-        <updated>2022-09-22T01:05:20.000Z</updated>
-        <summary type="html"><![CDATA[欧州連合は、仮想通貨規制法案「MiCA」の議論を終えた。最終版となる見込みの草案では、米ドルに紐づけられたステーブルコインの使用に関する制限が取り除かれていることが示された。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米クラーケン共同創業者、CEO退任へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=160959</id>
-        <link href="https://www.coindeskjapan.com/160959/"/>
-        <updated>2022-09-22T00:45:03.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所クラーケン（Kraken）の共同創業者兼COE、ジェシー・パウエル（Jesse Powell）氏がCEOを退任する。後任CEOには、最 ...
-米クラーケン共同創業者、CEO退任へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Nelson Wang</name>
         </author>
     </entry>
 </feed>
