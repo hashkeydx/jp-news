@@ -93,6 +93,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=161266",
+          "author": "Shaurya Malwa",
+          "description": "分散型ファイル共有プロトコルのファイルコイン（Filecoin/FIL）は、2023年はじめの大規模アップグレートを前に、年初からストレージ供給者が約7倍に増加 ...\nファイルコイン、ストレージ提供者が年初から7倍に first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/161266/",
+          "publishedOn": "2022-09-26T09:30:29.000Z",
+          "wordCount": 1740,
+          "title": "ファイルコイン、ストレージ提供者が年初から7倍に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/O2K6VLOAY5DJHA66HP6UQ2YQCY.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=161210",
           "author": "Sam Reynolds",
           "description": "イーサリアムブロックチェーンの大規模アップグレード、Merge（マージ）が完了し、GPUマイニングは終わりを迎えた。マージの数日後、あるグラフィックカードメーカ ...\nMerge後のGPUマイニング、稼げる可能性はあるか？ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -261,16 +271,6 @@
           "wordCount": 1745,
           "title": "米クラーケン共同創業者、CEO退任へ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/スクリーンショット-2022-09-22-9.28.59.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=160700",
-          "author": "Lawrence Lewitinn",
-          "description": "「Merge（マージ）」が遂に完了した。機関投資家好みの暗号資産（仮想通貨）はいまだにビットコイン（BTC）だが、新しいコンセンサスメカニズムと、それに伴って生 ...\nポストMergeのイーサ、機関投資家が躊躇する理由 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/160700/",
-          "publishedOn": "2022-09-21T21:00:00.000Z",
-          "wordCount": 1840,
-          "title": "ポストMergeのイーサ、機関投資家が躊躇する理由",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_1112195555-scaled.jpg"
         }
       ]
     },
@@ -1019,36 +1019,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Societe-Generale-makerdao-loan.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Societe-Generale-makerdao-loan.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=389981",
-          "author": "菊谷ルイス",
-          "description": "野村ホールディングスは21日、暗号資産事業「Laser Digital」をローンチしたことを発表した。",
-          "link": "https://coinpost.jp/?p=389981",
-          "publishedOn": "2022-09-21T21:35:41.000Z",
-          "wordCount": 1647,
-          "title": "野村、仮想通貨ベンチャーキャピタルをローンチ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/nomura-bitcion.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/nomura-bitcion.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=389971",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨取引所大手FTX（グローバル版）は21日、銘柄の新規取扱を発表した。",
-          "link": "https://coinpost.jp/?p=389971",
-          "publishedOn": "2022-09-21T21:15:25.000Z",
-          "wordCount": 1636,
-          "title": "グローバルFTX、銘柄の新規取扱を実施予定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/ftx-fund-of-un-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/ftx-fund-of-un-1.jpeg"
         }
       ]
     }

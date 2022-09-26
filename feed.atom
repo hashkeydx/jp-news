@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-26T08:45:51.922Z</updated>
+    <updated>2022-09-26T09:36:45.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ファイルコイン、ストレージ提供者が年初から7倍に]]></title>
+        <id>https://www.coindeskjapan.com/?p=161266</id>
+        <link href="https://www.coindeskjapan.com/161266/"/>
+        <updated>2022-09-26T09:30:29.000Z</updated>
+        <summary type="html"><![CDATA[分散型ファイル共有プロトコルのファイルコイン（Filecoin/FIL）は、2023年はじめの大規模アップグレートを前に、年初からストレージ供給者が約7倍に増加 ...
+ファイルコイン、ストレージ提供者が年初から7倍に first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge後のGPUマイニング、稼げる可能性はあるか？]]></title>
         <id>https://www.coindeskjapan.com/?p=161210</id>
@@ -761,37 +772,6 @@ Merge後の強気予想をかく乱──イーサリアムとナスダックの
         <summary type="html"><![CDATA[フランスのメガバンク「Societe Generale」は先週、投資顧問会社向けに仮想通貨の関連サービスを提供することを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野村、仮想通貨ベンチャーキャピタルをローンチ]]></title>
-        <id>https://coinpost.jp/?p=389981</id>
-        <link href="https://coinpost.jp/?p=389981"/>
-        <updated>2022-09-21T21:35:41.000Z</updated>
-        <summary type="html"><![CDATA[野村ホールディングスは21日、暗号資産事業「Laser Digital」をローンチしたことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グローバルFTX、銘柄の新規取扱を実施予定]]></title>
-        <id>https://coinpost.jp/?p=389971</id>
-        <link href="https://coinpost.jp/?p=389971"/>
-        <updated>2022-09-21T21:15:25.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所大手FTX（グローバル版）は21日、銘柄の新規取扱を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポストMergeのイーサ、機関投資家が躊躇する理由]]></title>
-        <id>https://www.coindeskjapan.com/?p=160700</id>
-        <link href="https://www.coindeskjapan.com/160700/"/>
-        <updated>2022-09-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「Merge（マージ）」が遂に完了した。機関投資家好みの暗号資産（仮想通貨）はいまだにビットコイン（BTC）だが、新しいコンセンサスメカニズムと、それに伴って生 ...
-ポストMergeのイーサ、機関投資家が躊躇する理由 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Lawrence Lewitinn</name>
         </author>
     </entry>
 </feed>
