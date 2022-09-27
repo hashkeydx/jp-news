@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-27T14:07:19.173Z</updated>
+    <updated>2022-09-27T14:46:12.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国当局、テラ共同創業者関連の100億円弱のビットコインを凍結へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=161409</id>
+        <link href="https://www.coindeskjapan.com/161409/"/>
+        <updated>2022-09-27T14:40:18.000Z</updated>
+        <summary type="html"><![CDATA[韓国当局は暗号資産（仮想通貨）取引所のOKXとKuCoinに、Terraform Labs共同設立者ドー・クォン（Do Kwon）氏に関連した3313ビットコイ ...
+韓国当局、テラ共同創業者関連の100億円弱のビットコインを凍結へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sandali Handagama</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グリー、ブロックチェーンゲーム開発とWeb3事業参入を発表]]></title>
         <id>https://coinpost.jp/?p=391750</id>
@@ -711,16 +722,6 @@ GPUマイナーは消え去った、暗号資産ATMが都内で稼働開始【9/
         <summary type="html"><![CDATA[英国政府は「経済犯罪および企業の透明性に関する法案」を議会に提出。ビットコインなど仮想通貨の押収、凍結、回収を容易にする内容も盛り込まれている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーン企業Chain、ニューイングランド・ペイトリオッツとWeb3スポンサー契約]]></title>
-        <id>https://coinpost.jp/?p=390463</id>
-        <link href="https://coinpost.jp/?p=390463"/>
-        <updated>2022-09-23T02:15:49.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン開発企業ChainはNFLの強豪ニューイングランド・ペイトリオッツの親企業Kraft Sports + Entertainmentとの提携を発表。NFLやMLSにおけるWeb3体験の提供を支援していく。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
