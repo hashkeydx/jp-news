@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-27T04:51:11.270Z</updated>
+    <updated>2022-09-27T06:13:10.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DAOと分散型IDの「金融化」とは｜Ontology寄稿]]></title>
+        <id>https://coinpost.jp/?p=391463</id>
+        <link href="https://coinpost.jp/?p=391463"/>
+        <updated>2022-09-27T05:00:11.000Z</updated>
+        <summary type="html"><![CDATA[DAO、そして分散型IDは、DeFiやNFTと比べてまだまだ普及しているとは言い難いです。本記事では、NFTやDeFiの過去の事例を元に、DAOや分散型IDが広く普及するためのヒントが解説されています。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル社CEO、SECと裁判の見通しについて語る]]></title>
+        <id>https://coinpost.jp/?p=391537</id>
+        <link href="https://coinpost.jp/?p=391537"/>
+        <updated>2022-09-27T04:50:31.000Z</updated>
+        <summary type="html"><![CDATA[米リップル社のブラッド・ガーリングハウス最高経営責任者は、米CNBCのインタビューで、米SECとの法廷闘争と今後の見通しについて考えを述べる中、SECは業界をいじめていると痛烈に批判した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コスモス（ATOM）のリニューアル構想「ATOM 2.0」が公開]]></title>
         <id>https://coinpost.jp/?p=391513</id>
