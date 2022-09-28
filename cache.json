@@ -143,6 +143,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=161423",
+          "author": "Glenn Williams",
+          "description": "ビットコイン（BTC）は28日を2万ドル超えで迎えたが、米東部時間午後には反落し、当記事執筆時点では週明けの水準とほぼ同じ1万9100ドル付近となっている。イー ...\n【US市場】ビットコインは反落、2万ドルを維持できず first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/161423/",
+          "publishedOn": "2022-09-28T01:05:42.000Z",
+          "wordCount": 1788,
+          "title": "【US市場】ビットコインは反落、2万ドルを維持できず",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/coindesk-BTC-chart-2022-09-28.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=161339",
           "author": "Lawrence Lewitinn",
           "description": "米ドルが強くなれば、暗号資産（仮想通貨）などの資産の価値は下がると一般的には考えられている。しかし、それは本当だろうか？ 米連邦準備制度理事会（FRB）は先週、 ...\nトークンの種類で異なるドル高のインパクト【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -355,6 +365,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=391951",
+          "author": "AKIRA.H",
+          "description": "仮想通貨テラの非営利組織である「Luna Foundation Guard」は、関連するウォレットから3,313 ビットコインが移動したとする報道を否定した。",
+          "link": "https://coinpost.jp/?p=391951",
+          "publishedOn": "2022-09-28T02:45:56.000Z",
+          "wordCount": 1775,
+          "title": "テラ非営利組織、ビットコイン大量移動の疑惑を否定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Terra_downbad2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Terra_downbad2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=391932",
+          "author": "A.Yamada",
+          "description": "欧州中央銀行のラガルド総裁、米連邦準備制度のパウエル議長、国際決済銀行のカルステンス総支配人らは、仮想通貨への対応方針について議論した。",
+          "link": "https://coinpost.jp/?p=391932",
+          "publishedOn": "2022-09-28T02:00:49.000Z",
+          "wordCount": 1660,
+          "title": "米パウエル議長ら、DeFiやステーブルコインへの対応を語る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/fed-now-2023.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/fed-now-2023.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=391917",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムのスケーリングソリューションを開発するポリゴンは、ブロックチェーン業界のスタートアップを支援するプログラムの1回目の対象企業を発表した。",
+          "link": "https://coinpost.jp/?p=391917",
+          "publishedOn": "2022-09-28T00:50:28.000Z",
+          "wordCount": 1776,
+          "title": "ポリゴン、スタートアップ支援の対象企業を発表　Web3プロジェクトの育成へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Polygon-Accelerator-Launches.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Polygon-Accelerator-Launches.png"
+        },
         {
           "id": "https://coinpost.jp/?p=391910",
           "author": "菊谷ルイス",

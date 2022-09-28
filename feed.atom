@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-27T23:41:12.951Z</updated>
+    <updated>2022-09-28T03:06:22.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テラ非営利組織、ビットコイン大量移動の疑惑を否定]]></title>
+        <id>https://coinpost.jp/?p=391951</id>
+        <link href="https://coinpost.jp/?p=391951"/>
+        <updated>2022-09-28T02:45:56.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨テラの非営利組織である「Luna Foundation Guard」は、関連するウォレットから3,313 ビットコインが移動したとする報道を否定した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米パウエル議長ら、DeFiやステーブルコインへの対応を語る]]></title>
+        <id>https://coinpost.jp/?p=391932</id>
+        <link href="https://coinpost.jp/?p=391932"/>
+        <updated>2022-09-28T02:00:49.000Z</updated>
+        <summary type="html"><![CDATA[欧州中央銀行のラガルド総裁、米連邦準備制度のパウエル議長、国際決済銀行のカルステンス総支配人らは、仮想通貨への対応方針について議論した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ビットコインは反落、2万ドルを維持できず]]></title>
+        <id>https://www.coindeskjapan.com/?p=161423</id>
+        <link href="https://www.coindeskjapan.com/161423/"/>
+        <updated>2022-09-28T01:05:42.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は28日を2万ドル超えで迎えたが、米東部時間午後には反落し、当記事執筆時点では週明けの水準とほぼ同じ1万9100ドル付近となっている。イー ...
+【US市場】ビットコインは反落、2万ドルを維持できず first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Glenn Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポリゴン、スタートアップ支援の対象企業を発表　Web3プロジェクトの育成へ]]></title>
+        <id>https://coinpost.jp/?p=391917</id>
+        <link href="https://coinpost.jp/?p=391917"/>
+        <updated>2022-09-28T00:50:28.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのスケーリングソリューションを開発するポリゴンは、ブロックチェーン業界のスタートアップを支援するプログラムの1回目の対象企業を発表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナVM利用のロールアップを開発する企業Eclipse、13億円調達]]></title>
         <id>https://coinpost.jp/?p=391910</id>
