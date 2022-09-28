@@ -381,16 +381,6 @@
           "wordCount": 1798,
           "title": "GPUマイナーは消え去った、暗号資産ATMが都内で稼働開始【9/17～9/23のトップニュース】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_205067683.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=160963",
-          "author": "Margaux Nijkerk",
-          "description": "伝説的投資家として知られるウォーレン・バフェット氏は、いまだに暗号資産（仮想通貨）を忌み嫌っているかもしれない。しかし、伝統的金融機関（TradFi）の大物たち ...\nナスダック、ブラックロック……弱気相場で相次ぐ金融機関の暗号資産参入 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/160963/",
-          "publishedOn": "2022-09-23T22:30:14.000Z",
-          "wordCount": 1770,
-          "title": "ナスダック、ブラックロック……弱気相場で相次ぐ金融機関の暗号資産参入",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_146839337-scaled.jpg"
         }
       ]
     },
@@ -405,6 +395,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=391592",
+          "author": "S.Inosita",
+          "description": "暗号資産取引所KuCoinは、5周年を記念し、ビットコイン（BTC）の割引購入が行えるキャンペーンなどを開始。同時に、今後数年間の拡張・運営計画を明かした。",
+          "link": "https://coinpost.jp/?p=391592",
+          "publishedOn": "2022-09-28T10:00:27.000Z",
+          "wordCount": 1659,
+          "title": "仮想通貨取引所KuCoin5周年、ビットコイン割引キャンペーンなど実施",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Photoleap.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Photoleap.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=392123",
           "author": "S.Inosita",
@@ -1154,36 +1159,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/data-ftx-dcg.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/data-ftx-dcg.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=390785",
-          "author": "K.Kobayashi",
-          "description": "デジタル資産分析企業Inca Digitalは、米国防総省の機関と契約を締結。仮想通貨の安全保障に対する影響を分析する。",
-          "link": "https://coinpost.jp/?p=390785",
-          "publishedOn": "2022-09-23T22:25:00.000Z",
-          "wordCount": 1659,
-          "title": "米国防総省、仮想通貨分析企業Inca Digitalと契約　安全保障への影響を調査へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/darpa-new-crypto-strate.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/darpa-new-crypto-strate.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=390783",
-          "author": "菊谷ルイス",
-          "description": "イタリアプロサッカー強豪のACミランは23日、ソラナのNFTゲーム「Monkey League」と提携し、NFTコレクションを発行することを発表した。",
-          "link": "https://coinpost.jp/?p=390783",
-          "publishedOn": "2022-09-23T22:05:48.000Z",
-          "wordCount": 1690,
-          "title": "ACミラン、ソラナでデジタルコレクションをローンチへ　Monkey Leagueと提携",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/ac-milan-monkey-league.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/ac-milan-monkey-league.png"
         }
       ]
     }
