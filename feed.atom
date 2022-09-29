@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-09-29T22:35:30.469Z</updated>
+    <updated>2022-09-29T23:44:24.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ブラックロック、欧州でブロックチェーンETF提供開始]]></title>
+        <id>https://coinpost.jp/?p=392806</id>
+        <link href="https://coinpost.jp/?p=392806"/>
+        <updated>2022-09-29T23:00:35.000Z</updated>
+        <summary type="html"><![CDATA[米資産運用大手ブラックロックは29日、欧州でブロックチェーン関連のETFを提供開始した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米CFTC委員長「仮想通貨の規制整備でビットコイン価格は2倍になる可能性」]]></title>
+        <id>https://coinpost.jp/?p=392798</id>
+        <link href="https://coinpost.jp/?p=392798"/>
+        <updated>2022-09-29T22:45:37.000Z</updated>
+        <summary type="html"><![CDATA[米CFTCの委員長は、CFTCが仮想通貨の規制を主導すれば、業界に大きなメリットをもたらすことができる可能性があると語った。ビットコイン価格が2倍になる可能性もあると主張している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Star Atlas、デモ版ゲームがEpic Gamesに登場]]></title>
         <id>https://coinpost.jp/?p=392796</id>
@@ -35,6 +55,16 @@
 米国のデジタルネイティブ世代と暗号資産、新たな相互信頼システムの探求【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Matthew Homer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Reuse×Tech Conference】リユース業界にもWeb3.0の波！ クリプトモールジャパンがオンライン展示会にて特許取得済み「鑑定証明システム（R）」を利活用した「模倣品」...]]></title>
+        <id>c00302e5e68dc83af7b990e32e03a4a1</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3ab6863df140f9364d160e0ca0c2350d667"/>
+        <updated>2022-09-29T12:53:06.000Z</updated>
+        <summary type="html"><![CDATA[cryptomall japan株式会社のプレスリリース（2022年9月29日 21時53分） Reuse×Tech Conference リユース業界にもWeb3.0の波！ クリプトモールジャパンがオンライン展示会にて特許取得済み[鑑定証明システム（R）]を利活用した[模倣品]対策をご紹介！]]></summary>
+        <author>
+            <name>cryptomall japan株式会社</name>
         </author>
     </entry>
     <entry>
@@ -70,6 +100,26 @@ SWIFT、暗号資産と伝統的資産を扱えるネットワーク構築へ─
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[C&R社のWeb3事業・NFT事業のパートナーに　Digital Entertainment Asset Pte.Ltd.へ追加出資]]></title>
+        <id>d1644cbfd4076f9e8c1771f6a720f4a3</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de6af5a16e63df140f9360d66ee6c20c2350d667"/>
+        <updated>2022-09-29T07:31:51.000Z</updated>
+        <summary type="html"><![CDATA[株式会社クリーク・アンド・リバー社のプレスリリース（2022年9月29日 16時31分）C&R社のWeb3事業・NFT事業のパートナーに　Digital Entertainment Asset Pte.Ltd.へ追加出資]]></summary>
+        <author>
+            <name>株式会社クリーク・アンド・リバー社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『RED TOKEN』海外暗号資産取引所「BitMart」「KuCoin」に上場決定！RED° TOKYO TOWERを起点にREDトークンエコノミー が世界へ拡大]]></title>
+        <id>f1a7b51ac8e7777dd13fe457f3e6cc6a</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26f63df140f9369dc6be8cb0c2350d667"/>
+        <updated>2022-09-29T07:00:08.000Z</updated>
+        <summary type="html"><![CDATA[フィーダ株式会社のプレスリリース（2022年9月29日 16時00分）『RED TOKEN』海外暗号資産取引所[BitMart][KuCoin]に上場決定！RED° TOKYO TOWERを起点にREDトークンエコノミー が世界へ拡大]]></summary>
+        <author>
+            <name>フィーダ株式会社</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[米サークル、USDCのクロスチェーン機能をリリースへ]]></title>
         <id>https://coinpost.jp/?p=392589</id>
         <link href="https://coinpost.jp/?p=392589"/>
@@ -90,6 +140,16 @@ SWIFT、暗号資産と伝統的資産を扱えるネットワーク構築へ─
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[開催告知] デジタル競争力・世界29位の日本。私たちが目指すべきDXとは？【Nextech Week2022秋】]]></title>
+        <id>48037d5f2056305f8a754cdb874a21ae</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68faa46a63df140f9362d369e4c50c2350d667"/>
+        <updated>2022-09-29T04:30:01.000Z</updated>
+        <summary type="html"><![CDATA[RX Japan株式会社のプレスリリース（2022年9月29日 13時30分）[開催告知] デジタル競争力・世界29位の日本。私たちが目指すべきDXとは？ Nextech Week2022秋]]></summary>
+        <author>
+            <name>RX Japan株式会社</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[仮想通貨ウォレットのメタマスク、新機能「Portfolio Dapp（ベータ版）」を公開]]></title>
         <id>https://coinpost.jp/?p=392497</id>
         <link href="https://coinpost.jp/?p=392497"/>
@@ -107,6 +167,16 @@ SWIFT、暗号資産と伝統的資産を扱えるネットワーク構築へ─
         <summary type="html"><![CDATA[米資産運用会社WisdomTree社は米国の短期国債に投資するデジタルファンド「WTSY」が規制当局より承認され、有効となった。WTSYはステラまたはイーサリアムブロックチェーン上に、ファンドの株式所有権の二次記録を保持する。]]></summary>
         <author>
             <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI主催のピッチイベント「KDDI∞Labo」登壇のお知らせ｜Suishow株式会社]]></title>
+        <id>a630b5086fac024dbab8846282ecf9eb</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a66e63df140f9368d16de4c20c2350d667"/>
+        <updated>2022-09-29T03:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Suishow株式会社のプレスリリース（2022年9月29日 12時50分）KDDI主催のピッチイベント[KDDI∞Labo]登壇のお知らせ｜Suishow株式会社]]></summary>
+        <author>
+            <name>Suishow株式会社</name>
         </author>
     </entry>
     <entry>
