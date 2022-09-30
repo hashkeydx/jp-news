@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=161553",
+          "author": "David Morris",
+          "description": "アメリカでは、ドルの国内での購買力の低下が連日見出しを飾っているが、アメリカのインフレは、世界中で驚くような影響をもたらしている。ここ半年で、ほぼすべての主要通 ...\nなぜドル独歩高は続くのか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/161553/",
+          "publishedOn": "2022-09-30T22:30:55.000Z",
+          "wordCount": 1782,
+          "title": "なぜドル独歩高は続くのか？【コラム】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_1886856457-710x458-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=161642",
           "author": "Omkar Godbole",
           "description": "BitstampやBitfinexなどの大手暗号資産取引所に上場されているビットコイン/英ポンド（BTC/GBP）ペアの動きが、かつてないほど活発になっている。 ...\nビットコイン/英ポンドの取引高が上昇、その要因は？──リスクヘッジか投機か first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -425,6 +435,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=393218",
+          "author": "K.Kobayashi",
+          "description": "河野デジタル大臣は、デジタル庁にWeb3研究会を設置することを発表。設置の目的や今後の計画を説明した。",
+          "link": "https://coinpost.jp/?p=393218",
+          "publishedOn": "2022-09-30T22:15:08.000Z",
+          "wordCount": 1680,
+          "title": "日本のデジタル庁、Web3研究会を設置",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=393216",
+          "author": "菊谷ルイス",
+          "description": "米マイクロストラテジーはライトニングネットワーク関連のサービスについて開発者を募集している。",
+          "link": "https://coinpost.jp/?p=393216",
+          "publishedOn": "2022-09-30T22:02:06.000Z",
+          "wordCount": 1643,
+          "title": "米マイクロストラテジー、ライトニングネットワークSaaSを開発へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/MS-btc-lightning.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/MS-btc-lightning.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=393211",
+          "author": "菊谷ルイス",
+          "description": "Uniswap Labsが1,400億円の評価額で140億円〜300億円を調達することを目論んでいる模様だ。",
+          "link": "https://coinpost.jp/?p=393211",
+          "publishedOn": "2022-09-30T21:20:39.000Z",
+          "wordCount": 1651,
+          "title": "Uniswap Labs、最大300億円調達か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/uniswap1109211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/uniswap1109211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=393042",
           "author": "S.Inosita",
