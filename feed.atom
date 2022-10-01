@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-01T09:36:48.236Z</updated>
+    <updated>2022-10-01T10:36:40.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[業界有識者が語る、国内取引所に上場して欲しい銘柄とは｜CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=391552</id>
+        <link href="https://coinpost.jp/?p=391552"/>
+        <updated>2022-10-01T10:05:07.000Z</updated>
+        <summary type="html"><![CDATA[HashHubの平野淳也CEOとやさしいDeFiの堀次泰介氏が日本の上場銘柄について議論。国内取引所に取り扱いを開始して欲しい銘柄や日本政府の国家戦略について見解を交わした。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[銀行の暗号資産投資、リスク資産投資の0.01%：バーゼル銀行監督委員会]]></title>
         <id>https://www.coindeskjapan.com/?p=161721</id>
@@ -1198,26 +1208,6 @@ Best Universities for Blockchain 2022──トップ10大学に2校入った国�
         <link href="https://coinpost.jp/?p=391425"/>
         <updated>2022-09-26T22:55:55.000Z</updated>
         <summary type="html"><![CDATA[業界最大手の仮想通貨オプション取引所Deribitは既存の投資家から約58億円を調達したようだ。情報筋の内容として報じられている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハッカーが1億円相当の仮想通貨を盗難か　「Vanity Address」の脆弱性が原因の可能性]]></title>
-        <id>https://coinpost.jp/?p=391416</id>
-        <link href="https://coinpost.jp/?p=391416"/>
-        <updated>2022-09-26T22:26:01.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム上のVanity Addressから、1億円相当の仮想通貨が盗難された可能性が浮上。対象のアドレスはProfanityで生成されている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野村やみずほ、ブロックチェーン決済企業Fnalityの調達ラウンドに参加]]></title>
-        <id>https://coinpost.jp/?p=391414</id>
-        <link href="https://coinpost.jp/?p=391414"/>
-        <updated>2022-09-26T21:50:56.000Z</updated>
-        <summary type="html"><![CDATA[デジタル資産基盤のブロックチェーン決済業者Fnality InternationalはシリーズBラウンドで野村や三菱UFJ銀行、三井住友銀行から調達していることが明らかになった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
