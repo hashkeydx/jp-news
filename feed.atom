@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-01T03:22:49.161Z</updated>
+    <updated>2022-10-01T05:36:29.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チェーンリンク（LINK）、ステーキング実装に注目高まる]]></title>
+        <id>https://coinpost.jp/?p=393364</id>
+        <link href="https://coinpost.jp/?p=393364"/>
+        <updated>2022-10-01T05:00:22.000Z</updated>
+        <summary type="html"><![CDATA[チェーンリンクにステーキングが導入される拡大計画「Economics 2.0」に関連して、「SCALE」と「BUILD」という2つのプログラムが開始された。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニモカのBCゲーム「Benji Bananas」、ユーザー数が昨月の15倍に]]></title>
+        <id>https://coinpost.jp/?p=393266</id>
+        <link href="https://coinpost.jp/?p=393266"/>
+        <updated>2022-10-01T04:00:58.000Z</updated>
+        <summary type="html"><![CDATA[アニモカブランズが展開するNFTブロックチェーンゲーム「Benji Bananas」のユーザー数が急増。執筆時点で42万人に達している。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、DeFiプラットフォームDigitexを規制違反で訴える]]></title>
+        <id>https://coinpost.jp/?p=393284</id>
+        <link href="https://coinpost.jp/?p=393284"/>
+        <updated>2022-10-01T03:15:19.000Z</updated>
+        <summary type="html"><![CDATA[米商品先物取引委員会は、仮想通貨先物・現物を提供していたDeFiプラットフォームDigitexを商品取引法違反で訴えた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米司法省、セルシウスのカストディ口座出金申請に異議]]></title>
         <id>https://coinpost.jp/?p=393264</id>
