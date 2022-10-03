@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-03T13:08:06.913Z</updated>
+    <updated>2022-10-03T14:10:10.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー社、コマーシャルペーパー保有額を5000万ドル以下に──米国債を増やす]]></title>
+        <id>https://www.coindeskjapan.com/?p=161861</id>
+        <link href="https://www.coindeskjapan.com/161861/"/>
+        <updated>2022-10-03T13:15:03.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン発行元のテザー（Tether）社は、コマーシャルペーパーの保有額を5000万ドル以下まで減らしたと同社最高技術責任者（CTO）のパオロ・アルディ ...
+テザー社、コマーシャルペーパー保有額を5000万ドル以下に──米国債を増やす first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Parikshit Mishra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTXとNBAスターのカリー選手、都内でチャリティイベント──暗号資産×スポーツのブランド戦略]]></title>
         <id>https://www.coindeskjapan.com/?p=161302</id>
@@ -771,27 +782,6 @@ SWIFT、暗号資産と伝統的資産を扱えるネットワーク構築へ─
 なぜロシアは制裁回避で暗号資産に依存しないのか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Mark Lurie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、マージ後ブロックの約2割が米国制裁を遵守]]></title>
-        <id>https://coinpost.jp/?p=392396</id>
-        <link href="https://coinpost.jp/?p=392396"/>
-        <updated>2022-09-29T01:55:28.000Z</updated>
-        <summary type="html"><![CDATA[マージ後の仮想通貨イーサリアムにおいて生成されるブロックが、トルネードキャッシュの米制裁に準拠しているか調査結果が公表された。現在、23%超が米国の制裁を遵守している模様だ。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインブロックチェーンでステーブルコイン発行が可能に──ライトニングラボがソフトウェアのテスト版公開]]></title>
-        <id>https://www.coindeskjapan.com/?p=161546</id>
-        <link href="https://www.coindeskjapan.com/161546/"/>
-        <updated>2022-09-29T01:30:39.000Z</updated>
-        <summary type="html"><![CDATA[ライトニングネットワーク（Lightning Network）のインフラ開発を手がけるライトニングラボ（Lightning Labs）は9月28日、ビットコイン ...
-ビットコインブロックチェーンでステーブルコイン発行が可能に──ライトニングラボがソフトウェアのテスト版公開 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Frederick Munawa</name>
         </author>
     </entry>
 </feed>
