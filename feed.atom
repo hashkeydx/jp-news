@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-04T11:31:43.788Z</updated>
+    <updated>2022-10-04T13:10:30.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ミンカブ・ジ・インフォノイド、ブロックチェーン基盤メディア運営のALISを買収]]></title>
+        <id>https://coinpost.jp/?p=394040</id>
+        <link href="https://coinpost.jp/?p=394040"/>
+        <updated>2022-10-04T12:02:01.000Z</updated>
+        <summary type="html"><![CDATA[大手金融メディアを運営する国内上場企業ミンカブ・ジ・インフォノイドは株式会社ALISの完全買収（M&A）を発表した。これにより同社はミンカブの完全子会社となる運びとなる。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEX（分散型取引所）は中央集権型取引所からシェアを奪っている：シティ]]></title>
         <id>https://www.coindeskjapan.com/?p=161876</id>
@@ -835,26 +845,6 @@ NFTが持つ大きなポテンシャルとは【コラム】 first appeared on c
         <summary type="html"><![CDATA[米仮想通貨投資プラットフォームVoyager Digitalの弁護士は、FTX USへの売却を承認する命令書案を提出。落札額の詳細や今後の顧客対応についても説明している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スペイン通信大手Telefónica、仮想通貨決済を導入＝報道]]></title>
-        <id>https://coinpost.jp/?p=392813</id>
-        <link href="https://coinpost.jp/?p=392813"/>
-        <updated>2022-09-30T00:30:17.000Z</updated>
-        <summary type="html"><![CDATA[スペインの大手通信企業Telefónicaは、ショッピングサイトに仮想通貨決済を導入。仮想通貨決済は、同国で事業ライセンスを持つBit2Meとの協業で実現した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emurgo、カルダノのエコシステムに288億円投資へ]]></title>
-        <id>https://coinpost.jp/?p=392808</id>
-        <link href="https://coinpost.jp/?p=392808"/>
-        <updated>2022-09-29T23:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Emurgoは今後3年間にわたって、カルダノのエコシステムに288億円を投資する計画を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
