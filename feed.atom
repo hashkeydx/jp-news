@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-05T09:39:43.791Z</updated>
+    <updated>2022-10-05T10:41:19.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインチェック、ポリゴンチェーンのザ・サンドボックス（LAND）販売開始へ]]></title>
+        <id>https://coinpost.jp/?p=394457</id>
+        <link href="https://coinpost.jp/?p=394457"/>
+        <updated>2022-10-05T10:14:20.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所コインチェックのNFTマーケットプレイス「Coincheck NFT（β版）」はポリゴンチェーン上のLANDを取り扱う計画を発表。ポリゴンチェーンのNFTも今後対応していく方針だ。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キム・カーダシアン氏の事例はSECへの「贈り物」]]></title>
         <id>https://www.coindeskjapan.com/?p=162021</id>
@@ -919,37 +929,6 @@ NFTが持つ大きなポテンシャルとは【コラム】 first appeared on c
 セガの「三国志大戦」をもとにしたブロックチェーンゲーム、三菱UFJがステーブルコインとデジタル証券のクロスチェーン決済を商業化へ【9/24～9/30のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>coindesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜドル独歩高は続くのか？【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=161553</id>
-        <link href="https://www.coindeskjapan.com/161553/"/>
-        <updated>2022-09-30T22:30:55.000Z</updated>
-        <summary type="html"><![CDATA[アメリカでは、ドルの国内での購買力の低下が連日見出しを飾っているが、アメリカのインフレは、世界中で驚くような影響をもたらしている。ここ半年で、ほぼすべての主要通 ...
-なぜドル独歩高は続くのか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本のデジタル庁、Web3研究会を設置]]></title>
-        <id>https://coinpost.jp/?p=393218</id>
-        <link href="https://coinpost.jp/?p=393218"/>
-        <updated>2022-09-30T22:15:08.000Z</updated>
-        <summary type="html"><![CDATA[河野デジタル大臣は、デジタル庁にWeb3研究会を設置することを発表。設置の目的や今後の計画を説明した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米マイクロストラテジー、ライトニングネットワークSaaSを開発へ]]></title>
-        <id>https://coinpost.jp/?p=393216</id>
-        <link href="https://coinpost.jp/?p=393216"/>
-        <updated>2022-09-30T22:02:06.000Z</updated>
-        <summary type="html"><![CDATA[米マイクロストラテジーはライトニングネットワーク関連のサービスについて開発者を募集している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

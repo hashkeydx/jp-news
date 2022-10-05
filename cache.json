@@ -391,16 +391,6 @@
           "wordCount": 1851,
           "title": "セガの「三国志大戦」をもとにしたブロックチェーンゲーム、三菱UFJがステーブルコインとデジタル証券のクロスチェーン決済を商業化へ【9/24～9/30のトップニュース】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_205067683.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=161553",
-          "author": "David Morris",
-          "description": "アメリカでは、ドルの国内での購買力の低下が連日見出しを飾っているが、アメリカのインフレは、世界中で驚くような影響をもたらしている。ここ半年で、ほぼすべての主要通 ...\nなぜドル独歩高は続くのか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/161553/",
-          "publishedOn": "2022-09-30T22:30:55.000Z",
-          "wordCount": 1782,
-          "title": "なぜドル独歩高は続くのか？【コラム】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/09/shutterstock_1886856457-710x458-1.jpg"
         }
       ]
     },
@@ -415,6 +405,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=394457",
+          "author": "Noah Sakamaki",
+          "description": "国内仮想通貨取引所コインチェックのNFTマーケットプレイス「Coincheck NFT（β版）」はポリゴンチェーン上のLANDを取り扱う計画を発表。ポリゴンチェーンのNFTも今後対応していく方針だ。",
+          "link": "https://coinpost.jp/?p=394457",
+          "publishedOn": "2022-10-05T10:14:20.000Z",
+          "wordCount": 1639,
+          "title": "コインチェック、ポリゴンチェーンのザ・サンドボックス（LAND）販売開始へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/sand_matic100522.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/sand_matic100522.png"
+        },
         {
           "id": "https://coinpost.jp/?p=393936",
           "author": "S.Inosita",
@@ -1179,36 +1184,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/security0930-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/security0930-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=393218",
-          "author": "K.Kobayashi",
-          "description": "河野デジタル大臣は、デジタル庁にWeb3研究会を設置することを発表。設置の目的や今後の計画を説明した。",
-          "link": "https://coinpost.jp/?p=393218",
-          "publishedOn": "2022-09-30T22:15:08.000Z",
-          "wordCount": 1680,
-          "title": "日本のデジタル庁、Web3研究会を設置",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=393216",
-          "author": "菊谷ルイス",
-          "description": "米マイクロストラテジーはライトニングネットワーク関連のサービスについて開発者を募集している。",
-          "link": "https://coinpost.jp/?p=393216",
-          "publishedOn": "2022-09-30T22:02:06.000Z",
-          "wordCount": 1643,
-          "title": "米マイクロストラテジー、ライトニングネットワークSaaSを開発へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/MS-btc-lightning.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/MS-btc-lightning.jpeg"
         }
       ]
     }
