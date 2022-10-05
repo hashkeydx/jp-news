@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-05T14:48:36.861Z</updated>
+    <updated>2022-10-05T15:33:45.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ミシカル・ゲームズ：「MYTH」トークン、DAOを開始――ツイッター元幹部、アニモカが顧問に選任]]></title>
+        <id>https://www.coindeskjapan.com/?p=161633</id>
+        <link href="https://www.coindeskjapan.com/161633/"/>
+        <updated>2022-10-05T15:04:39.000Z</updated>
+        <summary type="html"><![CDATA[アンドリーセン・ホロウィッツ（a16z）などから大型資金を調達し、次世代ゲームの開発を行う米ミシカルゲームズが、ブロックチェーンゲームのエコシステムを運営するた ...
+米ミシカル・ゲームズ：「MYTH」トークン、DAOを開始――ツイッター元幹部、アニモカが顧問に選任 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>佐藤 茂</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産保有の「禁止的」な上限はイノベーションを損なう：伝統的金融機関のロビー団体]]></title>
         <id>https://www.coindeskjapan.com/?p=162003</id>
@@ -859,16 +870,6 @@ NFTが持つ大きなポテンシャルとは【コラム】 first appeared on c
         <summary type="html"><![CDATA[アニモカブランズが展開するNFTブロックチェーンゲーム「Benji Bananas」のユーザー数が急増。執筆時点で42万人に達している。]]></summary>
         <author>
             <name>S.Inosita</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CFTC、DeFiプラットフォームDigitexを規制違反で訴える]]></title>
-        <id>https://coinpost.jp/?p=393284</id>
-        <link href="https://coinpost.jp/?p=393284"/>
-        <updated>2022-10-01T03:15:19.000Z</updated>
-        <summary type="html"><![CDATA[米商品先物取引委員会は、仮想通貨先物・現物を提供していたDeFiプラットフォームDigitexを商品取引法違反で訴えた。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
