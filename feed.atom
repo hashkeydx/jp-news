@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-06T21:32:54.866Z</updated>
+    <updated>2022-10-06T22:36:01.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックス、債権者が弁済情報を登録する新機能をリリース]]></title>
+        <id>https://coinpost.jp/?p=394772</id>
+        <link href="https://coinpost.jp/?p=394772"/>
+        <updated>2022-10-06T21:50:51.000Z</updated>
+        <summary type="html"><![CDATA[2014年に経営破綻した仮想通貨取引所マウントゴックスは、債権者が弁済方法の選択と弁済先情報の登録を行う機能をリリースしたことを発表。手続きの期限も記載している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、2銘柄を上場予定に追加]]></title>
+        <id>https://coinpost.jp/?p=394780</id>
+        <link href="https://coinpost.jp/?p=394780"/>
+        <updated>2022-10-06T21:45:02.000Z</updated>
+        <summary type="html"><![CDATA[米国の大手暗号資産取引所コインベースは5日、新規上場を念頭にしたロードマップに2銘柄を追加したことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX、トルコ・リラ通貨ペアを提供]]></title>
         <id>https://coinpost.jp/?p=394773</id>
