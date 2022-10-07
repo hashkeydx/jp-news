@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-07T08:44:11.495Z</updated>
+    <updated>2022-10-07T09:42:18.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンススマートチェーン、再開]]></title>
+        <id>https://www.coindeskjapan.com/?p=162312</id>
+        <link href="https://www.coindeskjapan.com/162312/"/>
+        <updated>2022-10-07T09:41:56.000Z</updated>
+        <summary type="html"><![CDATA[BNBスマートチェーン（BSC）は、協定世界時（UTC）10月7日6時40分（日本時間16時40分）頃に運用が再開された。チェーンのバリデーターは、ハッカーが悪 ...
+バイナンススマートチェーン、再開 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAZN MOMENTS、二次流通市場の実装開始]]></title>
+        <id>https://coinpost.jp/?p=395057</id>
+        <link href="https://coinpost.jp/?p=395057"/>
+        <updated>2022-10-07T09:33:56.000Z</updated>
+        <summary type="html"><![CDATA[スポーツ動画配信サービス「DAZN」と株式会社ミクシィは、共同で運用するスポーツ特化型NFTマーケットプレイス「DAZN MOMENTS」における二次流通機能の開始を発表。ユーザー間のNFT売買が可能となる。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインとゴールドの相関関係、1年ぶりの高水準]]></title>
         <id>https://www.coindeskjapan.com/?p=162244</id>
@@ -1197,17 +1218,6 @@ FTXとNBAスターのカリー選手、都内でチャリティイベント─�
 セルシウス元CEO、資金引き出し停止の前に1000万ドルを移動：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>James Rubin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTが持つ大きなポテンシャルとは【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=161594</id>
-        <link href="https://www.coindeskjapan.com/161594/"/>
-        <updated>2022-10-02T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[道端で通りかかりの人を呼び止めて、NFT（ノン・ファンジブル・トークン）についてどう思うかを聞いてみたら、どんな答えが返ってくるだろう？ 猿のイラストに信じられ ...
-NFTが持つ大きなポテンシャルとは【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Ari Juels</name>
         </author>
     </entry>
 </feed>
