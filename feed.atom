@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-07T20:36:29.035Z</updated>
+    <updated>2022-10-07T21:32:21.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、5通貨ペアの取扱廃止を実施へ]]></title>
+        <id>https://coinpost.jp/?p=395084</id>
+        <link href="https://coinpost.jp/?p=395084"/>
+        <updated>2022-10-07T21:10:09.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは6日、銘柄の通貨ペアの提供廃止を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10月に注目したい仮想通貨ニュース・イベント　CONNECTV10月号]]></title>
         <id>https://coinpost.jp/?p=395013</id>
@@ -1095,27 +1105,6 @@ DEX（分散型取引所）は中央集権型取引所からシェアを奪っ�
 FTXとNBAスターのカリー選手、都内でチャリティイベント──暗号資産×スポーツのブランド戦略 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>佐藤 茂</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クルーズの100%子会社であるCROOZ Blockchain Labが参画する『PROJECT XENO（プロジェクトゼノ）』のトークン（GXE）が暗号資産取引所『LBank』に上場決定]]></title>
-        <id>bf1b0ab2c0bd1dbf68769494e109ac32</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68faa56d63df140f9360d36be3c60c2350d667"/>
-        <updated>2022-10-03T09:01:15.000Z</updated>
-        <summary type="html"><![CDATA[CROOZのプレスリリース（2022年10月3日 18時01分）クルーズの100%子会社であるCROOZ Blockchain Labが参画する『PROJECT XENO（プロジェクトゼノ）』のトークン（GXE）が暗号資産取引所『LBank』に上場決定]]></summary>
-        <author>
-            <name>CROOZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所・販売所　キャンペーン更新情報まとめ（2022年10月）]]></title>
-        <id>https://www.coindeskjapan.com/?p=161834</id>
-        <link href="https://www.coindeskjapan.com/161834/"/>
-        <updated>2022-10-03T09:00:33.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産の取引所・販売所5社で9月から引き続き開催しているキャンペーンと10月から開催されたキャンペーンをまとめた。 Coincheck DMM Bitcoin ...
-暗号資産取引所・販売所　キャンペーン更新情報まとめ（2022年10月） first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
         </author>
     </entry>
 </feed>
