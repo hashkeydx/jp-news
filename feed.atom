@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-07T04:18:42.992Z</updated>
+    <updated>2022-10-07T05:48:35.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jeluridaのパーミッションレス型ブロックチェーン「Ignis（イグニス）」とは]]></title>
+        <id>https://coinpost.jp/?p=394834</id>
+        <link href="https://coinpost.jp/?p=394834"/>
+        <updated>2022-10-07T05:00:43.000Z</updated>
+        <summary type="html"><![CDATA[IgnisはスイスのJelurida社によるパーミッションレス型ブロックチェーンで、企業だけでなく、個人もIgnisを利用してその豊富な機能をベースとしたアプリケーションを構築することが可能。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大規模ハッキングでBSCのチェーン緊急停止、ゴールドとビットコインの相関は年間最大に]]></title>
         <id>https://coinpost.jp/?p=394808</id>
