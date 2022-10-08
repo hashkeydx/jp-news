@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-08T13:00:49.284Z</updated>
+    <updated>2022-10-08T13:53:17.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォビ、投資会社が買収]]></title>
+        <id>https://www.coindeskjapan.com/?p=162389</id>
+        <link href="https://www.coindeskjapan.com/162389/"/>
+        <updated>2022-10-08T13:45:09.000Z</updated>
+        <summary type="html"><![CDATA[アジアの大手暗号資産（仮想通貨）取引所の1つ、フォビ・グローバル（Huobi Global）は10月7日遅く、香港の投資会社About Capital Mana ...
+フォビ、投資会社が買収 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Danny Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セルシウス、全ユーザーの取引履歴が赤裸々に]]></title>
         <id>https://coinpost.jp/?p=395189</id>
@@ -1132,27 +1143,6 @@ DEX（分散型取引所）は中央集権型取引所からシェアを奪っ�
         <summary type="html"><![CDATA[仮想通貨のレバレッジ取引を提供する分散型取引所「bZeroを管理するDAO「Ooki DAO」を相手取り、米商品先物取引委員会（CFTC）が起こしていた裁判に進展があった。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、ブラジルとカザフスタンで事業拡大]]></title>
-        <id>https://coinpost.jp/?p=393834</id>
-        <link href="https://coinpost.jp/?p=393834"/>
-        <updated>2022-10-04T01:22:53.000Z</updated>
-        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスはブラジルでの事業を拡大。ラテンアメリカ地域でビットコインなど仮想通貨の普及を進めたいとしている。またカザフスタン政府とも覚書を締結した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キム・カーダシアン氏、1.8億円支払い──暗号資産プロモーション投稿についてSECと和解]]></title>
-        <id>https://www.coindeskjapan.com/?p=161878</id>
-        <link href="https://www.coindeskjapan.com/161878/"/>
-        <updated>2022-10-04T01:05:53.000Z</updated>
-        <summary type="html"><![CDATA[米人気タレントのキム・カーダシアン氏は、SEC（米証券取引委員会）に126万ドル（約1億8000万円）を支払い、EthereumMaxの宣伝について和解した。  ...
-キム・カーダシアン氏、1.8億円支払い──暗号資産プロモーション投稿についてSECと和解 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
         </author>
     </entry>
 </feed>
