@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=162395",
+          "author": "Stephen Alpher",
+          "description": "暗号資産（仮想通貨）取引所FTXのサム・バンクマン-フリード（Sam Bankman-Fried）CEOは、破綻した暗号資産企業の資産を買収しようとしており、少 ...\nバイナンス、FTXとは異なる買収戦略 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/162395/",
+          "publishedOn": "2022-10-09T00:30:00.000Z",
+          "wordCount": 1736,
+          "title": "バイナンス、FTXとは異なる買収戦略",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/KX72TAFHYBHVDIKIRAZVBIECI4.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=162364",
           "author": "coindesk JAPAN",
           "description": "NFTははるかに大きな意味を持つことができるし、そうなるだろう。実際、表面だけでなく、もっと掘り下げてみれば、すでにそうなり始めているのだ──この1週間に公開さ ...\nリップルはSECとの訴訟で一歩前進、NFTが持つポテンシャルとは【日曜日に読みたい厳選10本】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -445,6 +455,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=395163",
+          "author": "A.Sakamoto",
+          "description": "国内大手取引所bitbankのアナリストが、小確りと推移した今週のビットコインチャートを図解し今後の展望を読み解く。ビットコイン・オンチェーンデータも掲載。",
+          "link": "https://coinpost.jp/?p=395163",
+          "publishedOn": "2022-10-09T02:30:18.000Z",
+          "wordCount": 1634,
+          "title": "小確り推移したビットコイン、リスクオフ時のロングの投げに警戒を｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=395116",
+          "author": "K.Kobayashi",
+          "description": "今週は、バイナンススマートチェーンが一時停止したニュースが最も多く読まれた。そのほか、仮想通貨取引所マウントゴックスの弁済手続きが進展したことなど、一週間分の情報をお届けする。",
+          "link": "https://coinpost.jp/?p=395116",
+          "publishedOn": "2022-10-09T02:00:04.000Z",
+          "wordCount": 1649,
+          "title": "週刊仮想通貨ニュース｜バイナンススマートチェーンの一時停止に注目集まる、マウントゴックスの弁済手続きで進展など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=395189",
           "author": "AKIRA.H",
@@ -1239,21 +1279,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/ftx_20210913_kk1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=394040",
-          "author": "Noah Sakamaki",
-          "description": "大手金融メディアを運営する国内上場企業ミンカブ・ジ・インフォノイドは株式会社ALISの完全買収（M&A）を発表した。これにより同社はミンカブの完全子会社となる運びとなる。",
-          "link": "https://coinpost.jp/?p=394040",
-          "publishedOn": "2022-10-04T12:02:01.000Z",
-          "wordCount": 1643,
-          "title": "ミンカブ・ジ・インフォノイド、ブロックチェーン基盤メディア運営のALISを買収",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/mergeracquisition_ma1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/mergeracquisition_ma1.jpg"
         }
       ]
     }
