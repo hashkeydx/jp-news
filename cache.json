@@ -351,16 +351,6 @@
           "wordCount": 1748,
           "title": "リップル、SECとの訴訟で一歩前進──暗号資産業界に与える影響",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_659041903-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=161633",
-          "author": "佐藤 茂",
-          "description": "アンドリーセン・ホロウィッツ（a16z）などから大型資金を調達し、次世代ゲームの開発を行う米ミシカルゲームズが、ブロックチェーンゲームのエコシステムを運営するた ...\n米ミシカル・ゲームズ：「MYTH」トークン、DAOを開始――ツイッター元幹部、アニモカが顧問に選任 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/161633/",
-          "publishedOn": "2022-10-05T15:04:39.000Z",
-          "wordCount": 1905,
-          "title": "米ミシカル・ゲームズ：「MYTH」トークン、DAOを開始――ツイッター元幹部、アニモカが顧問に選任",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/johnlindeni.jpg"
         }
       ]
     },
@@ -375,6 +365,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=395371",
+          "author": "幸田直子",
+          "description": "仮想通貨カルダノの創設者であるチャールズ・ホスキンソン氏は、XRPの有価証券問題をめぐる裁判に関し、XRPは証券に該当しないとの考えを強調。弁護団はSEC職員への個人攻撃ではなく、現在の規制の不条理を追求すべきだと主張した。",
+          "link": "https://coinpost.jp/?p=395371",
+          "publishedOn": "2022-10-10T04:28:53.000Z",
+          "wordCount": 1703,
+          "title": "カルダノ創設者ホスキンソン、XRP有価証券問題で独自の見解　新たな法規制のメリットを強調",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ripple_xrp_judgment_1_20190906.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ripple_xrp_judgment_1_20190906.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=395361",
+          "author": "A.Yamada",
+          "description": "メタバースプラットフォーム「Decentraland」はアクティブユーザー数について誤った情報が報告されていることがあると指摘。より正確な利用データを発表した。",
+          "link": "https://coinpost.jp/?p=395361",
+          "publishedOn": "2022-10-10T04:10:02.000Z",
+          "wordCount": 1696,
+          "title": "メタバースゲームDecentraland、一部ウェブサイトのアクティブユーザー数について誤りを指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/decentraland-mana-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/decentraland-mana-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=395339",
           "author": "A.Yamada",
