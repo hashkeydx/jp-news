@@ -123,6 +123,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=162456",
+          "author": "Paulo Alves",
+          "description": "ブラジルでは単月で初めて、8月に1万2000社以上の企業が暗号資産（仮想通貨）を購入したと同国の連邦国税庁（Receita Federal）が発表した。 8月に ...\nブラジル、暗号資産を購入した企業数が過去最高に first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/162456/",
+          "publishedOn": "2022-10-11T00:25:49.000Z",
+          "wordCount": 1756,
+          "title": "ブラジル、暗号資産を購入した企業数が過去最高に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1283691793.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=162460",
+          "author": "Lyllah Ledesma",
+          "description": "暗号資産（仮想通貨）ファンドはコインシェアーズ（CoinShares）によると、先週は500万ドル（約7億3000万円）の流出超となった。ショート、つまり価格下 ...\n暗号資産ファンド、小規模な流出超だがセンチメントは依然強気 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/162460/",
+          "publishedOn": "2022-10-10T23:45:16.000Z",
+          "wordCount": 1763,
+          "title": "暗号資産ファンド、小規模な流出超だがセンチメントは依然強気",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/3RI54CCHONHC7C5KUNJ2DT447E.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=162180",
           "author": "Stephanie Hurder",
           "description": "ウェブ3にちょっと足を踏み入れてみようか、あるいは大いに飛び込んでみようかと思っている企業にとって、どこから始めるのかを見極めるのは時に難しい。 プロトコル、ウ ...\nスタバのNFT戦略を大手企業が注目する理由【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -295,6 +315,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=395792",
+          "author": "AKIRA.H",
+          "description": "シンガポール金融管理局/中央銀行のラビ・メノン長官はSWIFT主催の会議「Sibos 2022」で、国境間決済の効率化に向けて分散型台帳技術が役立つと指摘。USDCoin（USDC）を例示した。",
+          "link": "https://coinpost.jp/?p=395792",
+          "publishedOn": "2022-10-11T02:27:41.000Z",
+          "wordCount": 1662,
+          "title": "シンガポール金融当局「ステーブルコインがクロスボーダー決済効率化に貢献」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/singapore-mas-new-aml.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/singapore-mas-new-aml.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=395768",
+          "author": "A.Yamada",
+          "description": "仮想通貨クロスチェーン取引プラットフォーム「Transit Swap」は、ハッカーの一人が不正取得したバイナンスコインを返却することに合意したと発表した。",
+          "link": "https://coinpost.jp/?p=395768",
+          "publishedOn": "2022-10-11T01:20:22.000Z",
+          "wordCount": 1692,
+          "title": "DeFiプラットフォームTransit Swapのハッキング犯　流出額の7割以上を返還",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/white_hat_hacker1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/white_hat_hacker1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=395767",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムのスケーリングソリューションを提供するポリゴンは、Polygon zkEVMのパブリックテストネットをローンチ。DeFiなどのプロジェクトが参加し、テストを行う。",
+          "link": "https://coinpost.jp/?p=395767",
+          "publishedOn": "2022-10-11T00:59:50.000Z",
+          "wordCount": 1732,
+          "title": "ポリゴン、L2「Polygon zkEVM」のパブリックテストネットをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/Polygon-zkEVM-10-11.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/Polygon-zkEVM-10-11.png"
+        },
         {
           "id": "https://coinpost.jp/?p=395763",
           "author": "Noah Sakamaki",
