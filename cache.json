@@ -104,16 +104,6 @@
           "wordCount": 412,
           "title": "ジョージアNFT 記者説明会のご案内",
           "imageUrl": null
-        },
-        {
-          "id": "b8388a6f8b15825896e93fe00a85e0a3",
-          "author": "ココネ株式会社",
-          "description": "ココネ株式会社のプレスリリース（2022年10月7日 18時30分）第2回 Cocone web3 event - How to build a blockchain ecosystem、10月26日（水）開催決定＆参加受付開始",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f1a76263df140f9360d76de1c70c2350d667",
-          "publishedOn": "2022-10-07T09:30:01.000Z",
-          "wordCount": 412,
-          "title": "第2回 Cocone web3 event - How to build a blockchain ecosystem、10月26日（水）開催決定＆参加受付開始",
-          "imageUrl": null
         }
       ]
     },
@@ -305,6 +295,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=396139",
+          "author": "菊谷ルイス",
+          "description": "国内暗号資産取引所GMOコインは11日、ソラナの現物取引を開始する予定を発表した。",
+          "link": "https://coinpost.jp/?p=396139",
+          "publishedOn": "2022-10-11T21:15:55.000Z",
+          "wordCount": 1634,
+          "title": "GMOコイン、ソラナ（SOL）取り扱う予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/gmocoin20200615_1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/gmocoin20200615_1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=395830",
           "author": "幸田直子",
@@ -709,21 +714,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/aaa.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/aaa.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=395057",
-          "author": "Noah Sakamaki",
-          "description": "スポーツ動画配信サービス「DAZN」と株式会社ミクシィは、共同で運用するスポーツ特化型NFTマーケットプレイス「DAZN MOMENTS」における二次流通機能の開始を発表。ユーザー間のNFT売買が可能となる。",
-          "link": "https://coinpost.jp/?p=395057",
-          "publishedOn": "2022-10-07T09:33:56.000Z",
-          "wordCount": 1678,
-          "title": "DAZN MOMENTS、二次流通市場の実装開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/dazn_secondary1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/dazn_secondary1.png"
         }
       ]
     }
