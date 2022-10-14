@@ -516,6 +516,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=397008",
+          "author": "AKIRA.H",
+          "description": "仮想通貨イーサリアムは、「マージ」実装から約1か月が経過。マージ後の新規発行量は6,946.16 ETHとなり、従来比で2割程に減少するも、デフレ資産化には至っていない。",
+          "link": "https://coinpost.jp/?p=397008",
+          "publishedOn": "2022-10-14T05:00:51.000Z",
+          "wordCount": 1712,
+          "title": "マージ後1か月、イーサリアムのデフレ資産化に寄与しているXEN Cryptoとは？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/ETH_Merge_0915.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/ETH_Merge_0915.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=396946",
+          "author": "S.Ninomiya",
+          "description": "米株指数がCPI発表直後に急落、その後大幅反発したことを受け、ビットコイン（BTC）など暗号資産（仮想通貨）市場も一夜明けて全面高に。",
+          "link": "https://coinpost.jp/?p=396946",
+          "publishedOn": "2022-10-14T03:28:50.000Z",
+          "wordCount": 1691,
+          "title": "ビットコイン大幅反発、CPI前後に金融相場が乱高下",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/bitcoin-unrealized-profit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/bitcoin-unrealized-profit.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=396963",
           "author": "AKIRA.H",
           "description": "異なるブロックチェーンの相互運用実現を目指すコスモスにて、ブロックチェーン間通信プロトコル「IBC（Inter-Blockchain Communication）」に重要な脆弱性が検出された。",

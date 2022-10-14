@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-14T03:16:29.930Z</updated>
+    <updated>2022-10-14T05:41:43.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マージ後1か月、イーサリアムのデフレ資産化に寄与しているXEN Cryptoとは？]]></title>
+        <id>https://coinpost.jp/?p=397008</id>
+        <link href="https://coinpost.jp/?p=397008"/>
+        <updated>2022-10-14T05:00:51.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムは、「マージ」実装から約1か月が経過。マージ後の新規発行量は6,946.16 ETHとなり、従来比で2割程に減少するも、デフレ資産化には至っていない。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン大幅反発、CPI前後に金融相場が乱高下]]></title>
+        <id>https://coinpost.jp/?p=396946</id>
+        <link href="https://coinpost.jp/?p=396946"/>
+        <updated>2022-10-14T03:28:50.000Z</updated>
+        <summary type="html"><![CDATA[米株指数がCPI発表直後に急落、その後大幅反発したことを受け、ビットコイン（BTC）など暗号資産（仮想通貨）市場も一夜明けて全面高に。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【US市場】ビットコインとイーサリアム、CPI発表で急落もすぐに反発]]></title>
         <id>https://www.coindeskjapan.com/?p=162841</id>
