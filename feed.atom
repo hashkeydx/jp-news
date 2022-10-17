@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-17T08:53:35.205Z</updated>
+    <updated>2022-10-17T09:48:53.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインと株価の相関関係：よくある誤解を解く【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=163015</id>
+        <link href="https://www.coindeskjapan.com/163015/"/>
+        <updated>2022-10-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ビットコインは相関関係を持っている！」 こんなセリフを、会話の中でよく耳にする。本当は「代替」資産などではなく、広範な経済とは関係無いなどというのはたわ言で、 ...
+ビットコインと株価の相関関係：よくある誤解を解く【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Noelle Acheson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[弱気相場はWeb3開発の好機、データも証明]]></title>
         <id>https://www.coindeskjapan.com/?p=162849</id>
@@ -904,59 +915,6 @@ GoogleとCoinbaseの提携は暗号資産業界の「バリデーション」：
         <summary type="html"><![CDATA[10月13日朝の金融動向：米株式相場などはCPI発表を控えて反落するモード。9月のPPIは市場予想を上回った。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOKEN2049で見えた業界の変化とパラダイムシフトの兆し【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=162636</id>
-        <link href="https://www.coindeskjapan.com/162636/"/>
-        <updated>2022-10-12T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Web3の世界中のリーダー達が集まるプレミアムなクリプトイベント「TOKEN2049 Singapore」が9月27日と28日の2日間、シンガポールで開かれ、コ ...
-TOKEN2049で見えた業界の変化とパラダイムシフトの兆し【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>中川 陽／コインチェック 執行役員</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムL2「Arbitrum」の開発企業、Prysmatic Labsを買収]]></title>
-        <id>https://coinpost.jp/?p=396529</id>
-        <link href="https://coinpost.jp/?p=396529"/>
-        <updated>2022-10-12T21:30:16.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムレイヤー2ブロックチェーン「Arbitrum」の開発企業であるOffchain Labsは12日、ETHノードの重鎮Prysmatic Labsを買収したことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産ローン、中南米で広がる──高インフレと利上げで需要増]]></title>
-        <id>https://www.coindeskjapan.com/?p=162651</id>
-        <link href="https://www.coindeskjapan.com/162651/"/>
-        <updated>2022-10-12T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[中南米の人たちにとって、金利が極めて高く、容赦ないインフレが続く状況において、伝統的銀行からお金を借りるのは簡単ではない。そんな中、暗号資産（仮想通貨）による貸 ...
-暗号資産ローン、中南米で広がる──高インフレと利上げで需要増 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Marina Lammertyn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、ゲーム関連銘柄の新規取扱を実施へ]]></title>
-        <id>https://coinpost.jp/?p=396526</id>
-        <link href="https://coinpost.jp/?p=396526"/>
-        <updated>2022-10-12T21:12:33.000Z</updated>
-        <summary type="html"><![CDATA[米最大手暗号資産取引所コインベースは13日、AAA級ゲーム関連銘柄の新規取扱を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米規制当局、取り締まり強化シーズン到来【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=162572</id>
-        <link href="https://www.coindeskjapan.com/162572/"/>
-        <updated>2022-10-12T21:00:02.000Z</updated>
-        <summary type="html"><![CDATA[秋がやって来た。アメリカの金融規制当局は、犯罪に対する執行行為において、過去最悪の季節にしようとしているようだ。毎年この時期には、予算上の理由やノルマからか、証 ...
-米規制当局、取り締まり強化シーズン到来【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
