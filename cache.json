@@ -153,6 +153,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=163058",
+          "author": "Margaux Nijkerk",
+          "description": "リップル（Ripple）は、イーサリアムブロックチェーン向けに作られたスマートコントラクトをわずかな労力で同社のXRP Ledger（エックスアールピーレッジャ ...\nリップル、イーサリアム互換サイドチェーンのテスト開始 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/163058/",
+          "publishedOn": "2022-10-17T21:30:21.000Z",
+          "wordCount": 1782,
+          "title": "リップル、イーサリアム互換サイドチェーンのテスト開始",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1227211027.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=163002",
+          "author": "David Morris",
+          "description": "資産市場にとって10月13日は、最近記憶に残る中でも、とりわけ奇妙な1日となった。広範な急落を引き起こし、当然のインフレに関する暗いニュースにも関わらず、株式、 ...\nインフレの悪い知らせを受けて暗号資産が値上がりした理由【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/163002/",
+          "publishedOn": "2022-10-17T21:00:17.000Z",
+          "wordCount": 1836,
+          "title": "インフレの悪い知らせを受けて暗号資産が値上がりした理由【コラム】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1888907947.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=163045",
           "author": "Oliver Knight",
           "description": "10月17日、ビットコイン（BTC）ブロックのマイニングに1時間以上かかり、数千ものトランザクションが確認待ちとなった。 複数のブロック情報サイトによると、Fo ...\nビットコイン、マイニングが1時間以上の遅延 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -331,16 +351,6 @@
           "wordCount": 1809,
           "title": "10月、ハッキング被害額が過去最悪に──2週間を残して7億1800万ドル以上の被害",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1069415450.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=162703",
-          "author": "Oliver Knight",
-          "description": "ロシアのウクライナ侵攻以来、東欧では「ハイリスク」あるいは「違法」と判断される暗号資産取引が急増している。ブロックチェーン分析企業Chainalysis（チェイ ...\n「ハイリスク」取引、東欧で急増：チェイナリシス first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/162703/",
-          "publishedOn": "2022-10-13T09:05:23.000Z",
-          "wordCount": 1728,
-          "title": "「ハイリスク」取引、東欧で急増：チェイナリシス",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_404016577.jpg"
         }
       ]
     },
@@ -879,36 +889,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/mango_market_solana1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/mango_market_solana1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=396710",
-          "author": "AKIRA.H",
-          "description": "仮想通貨取引所XT.comは、Bizverse（BIVE）トークンの上場を発表した。",
-          "link": "https://coinpost.jp/?p=396710",
-          "publishedOn": "2022-10-13T09:25:23.000Z",
-          "wordCount": 1653,
-          "title": "取引所XT.com、Bizverseの独自トークンBIVE上場",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/BIVE_xtcom_1013.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/BIVE_xtcom_1013.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=396783",
-          "author": "Noah Sakamaki",
-          "description": "カリブ海の島国ドミニカ国は仮想通貨トロン（TRX）など7銘柄を国家通貨として承認。また、トロンプロトコルを国家のブロックチェーン・インフレとして認定した。",
-          "link": "https://coinpost.jp/?p=396783",
-          "publishedOn": "2022-10-13T09:17:42.000Z",
-          "wordCount": 1759,
-          "title": "ドミニカ国、トロン（TRX）など国家通貨として承認　ビットコイン以外では初",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/trx-tron-surging.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/trx-tron-surging.png"
         }
       ]
     }
