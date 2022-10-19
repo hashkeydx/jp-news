@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-19T13:13:13.333Z</updated>
+    <updated>2022-10-19T14:45:57.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラジルのデジタル銀行Nubank、7000万ユーザーに向け「Nucoin」発行へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=163275</id>
+        <link href="https://www.coindeskjapan.com/163275/"/>
+        <updated>2022-10-19T13:25:26.000Z</updated>
+        <summary type="html"><![CDATA[世界最大のデジタル銀行といわれるブラジルの「Nubank」は来年、ブラジル、コロンビア、メキシコで独自トークン「Nucoin」を発行する。10月19日に同行が発 ...
+ブラジルのデジタル銀行Nubank、7000万ユーザーに向け「Nucoin」発行へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Paulo Alves</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Women in Web3」Web3業界の最前線で活躍する女性たち｜CONNECTV動画]]></title>
         <id>https://coinpost.jp/?p=397558</id>
@@ -873,16 +884,6 @@ NFT市場のMagic Eden、業界トレンドに逆らえず──ロイヤリテ�
         <summary type="html"><![CDATA[イーサリアムのアドレスを簡略化するENSネームの登録者が2022年に急増した。高額取引される背景を詳しく解説。仮想通貨取引所コインチェックが運営するNFT市場「Coincheck NFT（β版）」でも取扱いが開始された。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上場ビットコインマイニング企業、キャッシュフロー改善策を実施]]></title>
-        <id>https://coinpost.jp/?p=397269</id>
-        <link href="https://coinpost.jp/?p=397269"/>
-        <updated>2022-10-15T02:00:27.000Z</updated>
-        <summary type="html"><![CDATA[米ビットコインマイニング企業Strongholdはキャッシュフロー改善策を実施している。Northern DataとのホスティングやNYDIGに対する債務を解消する契約を結んだ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
