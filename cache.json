@@ -391,16 +391,6 @@
           "wordCount": 1822,
           "title": "10月はハッキング被害額が過去最悪に、CoinbaseがGoogleと提携【10/8～10/14のトップニュース】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_205067683-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=162861",
-          "author": "Daniel Kuhn",
-          "description": "米銀最大手のJPモルガン・チェースは、ラッパーのカニエ・ウェストとの関係を断つことになった。カニエ・ウェストは過去数週間、ソーシャルメディアや、アメリカで高い人 ...\nJPモルガン、カニエ・ウェストとの関係断絶：クリプト的視点 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/162861/",
-          "publishedOn": "2022-10-14T22:00:00.000Z",
-          "wordCount": 1810,
-          "title": "JPモルガン、カニエ・ウェストとの関係断絶：クリプト的視点",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_686801140.jpg"
         }
       ]
     },
@@ -415,6 +405,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=397558",
+          "author": "CONNECTV 編集部",
+          "description": "米リップル社の吉川絵美氏と株式会社デジタルガレージの伊藤穰一氏の「海外の最新のWeb3の動きを話し合う」セッショントークに始まり、吉川氏のモデレーションによる日本のクリプト業界で活躍する女性達をお呼びしたセッションへ。",
+          "link": "https://coinpost.jp/?p=397558",
+          "publishedOn": "2022-10-19T10:05:38.000Z",
+          "wordCount": 1661,
+          "title": "「Women in Web3」Web3業界の最前線で活躍する女性たち｜CONNECTV動画",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/308558356_502427471328628_550840104300893336_n-scaled-e1665972414150.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/308558356_502427471328628_550840104300893336_n-scaled-e1665972414150.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=398412",
           "author": "Noah Sakamaki",
@@ -1194,21 +1199,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/Astar-Network-Logo.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/Astar-Network-Logo.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=397227",
-          "author": "菊谷ルイス",
-          "description": "不正流出を受けたDeFi Mango Marketsで、MNGOトークン保有者コミュニティはハッカーに大部分の資産を返却してもらうよう提案を検討している。",
-          "link": "https://coinpost.jp/?p=397227",
-          "publishedOn": "2022-10-14T22:30:11.000Z",
-          "wordCount": 1635,
-          "title": "巨額流出のMango Markets、ハッカーに70億円のバウンティー支払うか",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/mango_market_solana1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/mango_market_solana1.jpg"
         }
       ]
     }

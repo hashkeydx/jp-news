@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-19T09:44:16.990Z</updated>
+    <updated>2022-10-19T10:45:05.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Women in Web3」Web3業界の最前線で活躍する女性たち｜CONNECTV動画]]></title>
+        <id>https://coinpost.jp/?p=397558</id>
+        <link href="https://coinpost.jp/?p=397558"/>
+        <updated>2022-10-19T10:05:38.000Z</updated>
+        <summary type="html"><![CDATA[米リップル社の吉川絵美氏と株式会社デジタルガレージの伊藤穰一氏の「海外の最新のWeb3の動きを話し合う」セッショントークに始まり、吉川氏のモデレーションによる日本のクリプト業界で活躍する女性達をお呼びしたセッションへ。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Com2uS Japan]]></title>
         <id>ada11e925880c51c46751d50e168a239</id>
@@ -924,27 +934,6 @@ NFT市場のMagic Eden、業界トレンドに逆らえず──ロイヤリテ�
         <summary type="html"><![CDATA[福岡市は、自治体として初めてアスタージャパンラボに参加することがわかった。日本発のパブリックブロックチェーン「アスターネットワーク」の創設者である渡辺氏が明らかにした。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨額流出のMango Markets、ハッカーに70億円のバウンティー支払うか]]></title>
-        <id>https://coinpost.jp/?p=397227</id>
-        <link href="https://coinpost.jp/?p=397227"/>
-        <updated>2022-10-14T22:30:11.000Z</updated>
-        <summary type="html"><![CDATA[不正流出を受けたDeFi Mango Marketsで、MNGOトークン保有者コミュニティはハッカーに大部分の資産を返却してもらうよう提案を検討している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン、カニエ・ウェストとの関係断絶：クリプト的視点]]></title>
-        <id>https://www.coindeskjapan.com/?p=162861</id>
-        <link href="https://www.coindeskjapan.com/162861/"/>
-        <updated>2022-10-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米銀最大手のJPモルガン・チェースは、ラッパーのカニエ・ウェストとの関係を断つことになった。カニエ・ウェストは過去数週間、ソーシャルメディアや、アメリカで高い人 ...
-JPモルガン、カニエ・ウェストとの関係断絶：クリプト的視点 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
