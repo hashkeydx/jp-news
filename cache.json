@@ -114,16 +114,6 @@
           "wordCount": 412,
           "title": "『RED TOKEN』海外暗号資産取引所「Coinstore」「LBank」「XT.com」に上場決定！RED゜TOKYO TOWERを起点にREDトークンエコノミー が世界へ拡大",
           "imageUrl": null
-        },
-        {
-          "id": "4e08661c44b5561e7e0fc0e7735904c1",
-          "author": "cryptomall japan株式会社",
-          "description": "cryptomall japan株式会社のプレスリリース（2022年10月14日 21時26分） 速報 クリプトモールジャパンが運営する[クリプトモール]がクレジットカード決済に対応！ ”Web3.0型”[鑑定証明システム（R）]を利活用した世界初[ハイブリッドNFTマーケットプレイス（R）]",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3ab6c63df140f9364d160e0ca0c2350d667",
-          "publishedOn": "2022-10-14T12:26:21.000Z",
-          "wordCount": 412,
-          "title": "【速報】クリプトモールジャパンが運営する「クリプトモール」がクレジットカード決済に対応！ ”Web3.0型”「鑑定証明システム（R）」を利活用した世界初「ハイブリッドN...",
-          "imageUrl": null
         }
       ]
     },
@@ -132,6 +122,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=163192",
+          "author": "Marina Lammertyn",
+          "description": "南米の暗号資産（仮想通貨）取引所Lemonは、トークン化された旅行商品のマーケットプレイスTravelXと統合、ユーザーは航空券を購入できるようになったと同社が ...\n航空券の購入が可能に──南米の取引所Lemon first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/163192/",
+          "publishedOn": "2022-10-19T00:15:36.000Z",
+          "wordCount": 1794,
+          "title": "航空券の購入が可能に──南米の取引所Lemon",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/QHKHGGYQFVC43OFE355IFE44CQ.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=163122",
           "author": "Cameron Thompson",
@@ -345,6 +345,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=398270",
+          "author": "A.Yamada",
+          "description": "米国のジム・ハイムス下院議員は超党派ステーブルコイン法案の成立見通しについて話した。米国では包括的な仮想通貨法案RFIAも進められているところだ。",
+          "link": "https://coinpost.jp/?p=398270",
+          "publishedOn": "2022-10-19T02:45:33.000Z",
+          "wordCount": 1650,
+          "title": "米ステーブルコイン法案提出、来年に持ち越しか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/congress-stable-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/congress-stable-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=398242",
+          "author": "A.Yamada",
+          "description": "欧州委員会は、EUのエネルギーシステムをデジタル化する行動計画を発表。その一環として、ビットコインなど仮想通貨のエネルギー消費に関しても方針を示した。",
+          "link": "https://coinpost.jp/?p=398242",
+          "publishedOn": "2022-10-19T01:30:43.000Z",
+          "wordCount": 1650,
+          "title": "EU委員会、仮想通貨マイニングを停止する措置に言及",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/eu_europe9032849348.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/eu_europe9032849348.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=398236",
+          "author": "K.Kobayashi",
+          "description": "米サウスカロライナ州にある住宅は、NFTに紐づけられ、仮想通貨ステーブルコインUSDCで購入されたことがわかった。Web3企業Roofstock onChainがサービスを提供している。",
+          "link": "https://coinpost.jp/?p=398236",
+          "publishedOn": "2022-10-19T00:35:59.000Z",
+          "wordCount": 1670,
+          "title": "NFT化した米住宅、2,600万円相当のUSDCで取引完了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/USA-House-NFT.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/USA-House-NFT.png"
+        },
         {
           "id": "https://coinpost.jp/?p=398228",
           "author": "菊谷ルイス",

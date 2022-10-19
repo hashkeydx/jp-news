@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-18T23:42:30.174Z</updated>
+    <updated>2022-10-19T03:07:27.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ステーブルコイン法案提出、来年に持ち越しか]]></title>
+        <id>https://coinpost.jp/?p=398270</id>
+        <link href="https://coinpost.jp/?p=398270"/>
+        <updated>2022-10-19T02:45:33.000Z</updated>
+        <summary type="html"><![CDATA[米国のジム・ハイムス下院議員は超党派ステーブルコイン法案の成立見通しについて話した。米国では包括的な仮想通貨法案RFIAも進められているところだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU委員会、仮想通貨マイニングを停止する措置に言及]]></title>
+        <id>https://coinpost.jp/?p=398242</id>
+        <link href="https://coinpost.jp/?p=398242"/>
+        <updated>2022-10-19T01:30:43.000Z</updated>
+        <summary type="html"><![CDATA[欧州委員会は、EUのエネルギーシステムをデジタル化する行動計画を発表。その一環として、ビットコインなど仮想通貨のエネルギー消費に関しても方針を示した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT化した米住宅、2,600万円相当のUSDCで取引完了]]></title>
+        <id>https://coinpost.jp/?p=398236</id>
+        <link href="https://coinpost.jp/?p=398236"/>
+        <updated>2022-10-19T00:35:59.000Z</updated>
+        <summary type="html"><![CDATA[米サウスカロライナ州にある住宅は、NFTに紐づけられ、仮想通貨ステーブルコインUSDCで購入されたことがわかった。Web3企業Roofstock onChainがサービスを提供している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[航空券の購入が可能に──南米の取引所Lemon]]></title>
+        <id>https://www.coindeskjapan.com/?p=163192</id>
+        <link href="https://www.coindeskjapan.com/163192/"/>
+        <updated>2022-10-19T00:15:36.000Z</updated>
+        <summary type="html"><![CDATA[南米の暗号資産（仮想通貨）取引所Lemonは、トークン化された旅行商品のマーケットプレイスTravelXと統合、ユーザーは航空券を購入できるようになったと同社が ...
+航空券の購入が可能に──南米の取引所Lemon first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Marina Lammertyn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GMOコイン、IEO第三弾の実施を検討　「駅メモ！」で利用可能に]]></title>
         <id>https://coinpost.jp/?p=398228</id>
@@ -794,16 +835,6 @@ JPモルガン、カニエ・ウェストとの関係断絶：クリプト的視
         <summary type="html"><![CDATA[14日の米株式市場でダウ工業株30種平均は反落。10月のミシガン大学消費者信頼感指数速報値が9月の予想を上回り株式相場の重荷となった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】クリプトモールジャパンが運営する「クリプトモール」がクレジットカード決済に対応！ ”Web3.0型”「鑑定証明システム（R）」を利活用した世界初「ハイブリッドN...]]></title>
-        <id>4e08661c44b5561e7e0fc0e7735904c1</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3ab6c63df140f9364d160e0ca0c2350d667"/>
-        <updated>2022-10-14T12:26:21.000Z</updated>
-        <summary type="html"><![CDATA[cryptomall japan株式会社のプレスリリース（2022年10月14日 21時26分） 速報 クリプトモールジャパンが運営する[クリプトモール]がクレジットカード決済に対応！ ”Web3.0型”[鑑定証明システム（R）]を利活用した世界初[ハイブリッドNFTマーケットプレイス（R）]]]></summary>
-        <author>
-            <name>cryptomall japan株式会社</name>
         </author>
     </entry>
 </feed>
