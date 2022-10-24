@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-23T23:40:27.087Z</updated>
+    <updated>2022-10-24T03:20:26.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルゼンチン当局、違法な仮想通貨マイニング事業を摘発]]></title>
+        <id>https://coinpost.jp/?p=399840</id>
+        <link href="https://coinpost.jp/?p=399840"/>
+        <updated>2022-10-24T03:07:31.000Z</updated>
+        <summary type="html"><![CDATA[アルゼンチンの当局は、違法に運営されていた仮想通貨マイニング事業を摘発したと発表した。70件の家宅捜索を行い、40人を逮捕している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内決済大手JCB、年内にCBDCの実証検証を開始＝報道]]></title>
+        <id>https://coinpost.jp/?p=399809</id>
+        <link href="https://coinpost.jp/?p=399809"/>
+        <updated>2022-10-24T02:25:14.000Z</updated>
+        <summary type="html"><![CDATA[JCBが、中央銀行デジタル通貨の導入を想定した実証試験の準備を進めていることが判明。22年内に開始予定で、CBDC決済の安全性を検証する。日経新聞が報じた。]]></summary>
+        <author>
+            <name>S.Inosita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨プラットフォームFreeway、出金機能の停止でトークン急落]]></title>
+        <id>https://coinpost.jp/?p=399790</id>
+        <link href="https://coinpost.jp/?p=399790"/>
+        <updated>2022-10-24T01:11:59.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨投資プラットフォームFreewayは利回りサービスと顧客資産の出金機能を急遽停止。一部からは詐欺プロジェクトだったとの疑惑も浮上している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゴールドマンのドル高予想はビットコインの悪材料か]]></title>
+        <id>https://www.coindeskjapan.com/?p=163581</id>
+        <link href="https://www.coindeskjapan.com/163581/"/>
+        <updated>2022-10-24T00:30:39.000Z</updated>
+        <summary type="html"><![CDATA[ドル高のピークは「数四半期先だろう」とゴールドマン・サックスのストラテジスト、カマクシャ・トリベディ（Kamakshya Trivedi）氏は顧客向けメモで述べ ...
+ゴールドマンのドル高予想はビットコインの悪材料か first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Stephen Alpher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナイキが仕かけたウェブ3戦略：技術だけでは勝てない【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=163429</id>
@@ -775,17 +816,6 @@ BTCマイニング機器：多くが使われずに未開封のまま first appe
 ウェブ3はまだ終わりではない【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jesse Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジルのデジタル銀行Nubank、7000万ユーザーに向け「Nucoin」発行へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=163275</id>
-        <link href="https://www.coindeskjapan.com/163275/"/>
-        <updated>2022-10-19T13:25:26.000Z</updated>
-        <summary type="html"><![CDATA[世界最大のデジタル銀行といわれるブラジルの「Nubank」は来年、ブラジル、コロンビア、メキシコで独自トークン「Nucoin」を発行する。10月19日に同行が発 ...
-ブラジルのデジタル銀行Nubank、7000万ユーザーに向け「Nucoin」発行へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Paulo Alves</name>
         </author>
     </entry>
 </feed>
