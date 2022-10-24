@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-10-24T08:54:34.365Z</updated>
+    <updated>2022-10-24T09:46:21.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル、チーフエンジニアが退社]]></title>
+        <id>https://www.coindeskjapan.com/?p=163654</id>
+        <link href="https://www.coindeskjapan.com/163654/"/>
+        <updated>2022-10-24T09:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Ripple（リップル）のチーフエンジニア、ニック・ブーガリス（Nik Bougalis）氏は週末、新たな可能性に向けて同社を退社すると述べた。 「10年にわた ...
+リップル、チーフエンジニアが退社 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロビンフッド、仮想通貨関連の求人拡大　コンプラ体制を強化へ]]></title>
         <id>https://coinpost.jp/?p=399988</id>
@@ -905,28 +916,6 @@ Redditユーザー、250万超のウォレット開設──7月にマーケッ�
         <summary type="html"><![CDATA[米19日の金融市場は長期金利の上昇などが影響して反落。好感されていた決算ではテスラが予想を下回る結果に。仮想通貨マイニング関連銘柄も軒並み下落を見せた。]]></summary>
         <author>
             <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCマイニング機器：多くが使われずに未開封のまま]]></title>
-        <id>https://www.coindeskjapan.com/?p=163247</id>
-        <link href="https://www.coindeskjapan.com/163247/"/>
-        <updated>2022-10-19T21:30:02.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）のマイニングに使える何十万台もの新品のマイニング機器が、使われないまま眠っている。ビットコインをはじめとする暗号資産（仮想通貨）の価格低迷 ...
-BTCマイニング機器：多くが使われずに未開封のまま first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Eliza Gkritsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウェブ3はまだ終わりではない【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=163223</id>
-        <link href="https://www.coindeskjapan.com/163223/"/>
-        <updated>2022-10-19T21:00:53.000Z</updated>
-        <summary type="html"><![CDATA[「ウェブ3（Web3.0）」は、メディアに登場するご意見番やテック伝道者たちが、テック発展の至高目標と考えるもののリストに新しく仲間入りした言葉だ。「新しいイン ...
-ウェブ3はまだ終わりではない【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jesse Morris</name>
         </author>
     </entry>
 </feed>
