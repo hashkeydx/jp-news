@@ -381,26 +381,6 @@
           "wordCount": 1780,
           "title": "米コインベース、USDコインの手数料を無料に──グローバルな普及を促進",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1231334704.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=163399",
-          "author": "長谷川友哉／bitbankマーケット・アナリスト",
-          "description": "ビットコイン（BTC）は8月の米消費者物価指数（CPI）上振れによるサプライズで2万ドルを割って以降、本稿執筆時点まで概ね1.8万ドル〜20.5万ドルの狭いレン ...\nBTCは売り手も買い手も不在か──レンジ相場はいつまで続く？【bitbankレポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/163399/",
-          "publishedOn": "2022-10-20T21:30:11.000Z",
-          "wordCount": 1808,
-          "title": "BTCは売り手も買い手も不在か──レンジ相場はいつまで続く？【bitbankレポート】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_2166707489-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=163344",
-          "author": "Paul Brody",
-          "description": "ブロックチェーンの分野で開発をしていて度々直面する難題の1つは、どのブロックチェーンが自分の時間と労力に値するかを見極めることだ。ビットコインは「元祖」だが、複 ...\nイーサリアムキラーはいまやゾンビ【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/163344/",
-          "publishedOn": "2022-10-20T21:00:00.000Z",
-          "wordCount": 1793,
-          "title": "イーサリアムキラーはいまやゾンビ【オピニオン】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1839366100.jpg"
         }
       ]
     },
@@ -415,6 +395,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=400338",
+          "author": "AKIRA.H",
+          "description": "掲示板大手のRedditのマスコットキャラクター「Snoo」をモチーフにした限定版のPFPNFTコレクション「コレクタブル・アバター」の売れ行きが好調だ。",
+          "link": "https://coinpost.jp/?p=400338",
+          "publishedOn": "2022-10-25T09:16:05.000Z",
+          "wordCount": 1653,
+          "title": "大手掲示板RedditのNFT「コレクタブル・アバター」、OpenSeaで取引量が急増",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/RedditAvator_1025.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/RedditAvator_1025.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=400333",
+          "author": "S.Inosita",
+          "description": "国内仮想通貨取引所Coinbase Japanは、ガバナンストークン「メイカー」の新規取り扱い開始を発表。取扱銘柄は合計12種類となった。現在、すでに取引は開始されている",
+          "link": "https://coinpost.jp/?p=400333",
+          "publishedOn": "2022-10-25T08:58:46.000Z",
+          "wordCount": 1662,
+          "title": "Coinbase Japan、「メイカー（MKR）」の取り扱いを開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
+        },
         {
           "id": "https://coinpost.jp/?p=400285",
           "author": "S.Inosita",
@@ -1224,21 +1234,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase2_20210913.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/coinbase2_20210913.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=399035",
-          "author": "菊谷ルイス",
-          "description": "20日のイギリスは、トラス英首相の辞意表明が好感され株価や通貨ポンドの相場が上昇。一方、NY株式相場は、米国の長期金利の続伸が嫌気され続落した。",
-          "link": "https://coinpost.jp/?p=399035",
-          "publishedOn": "2022-10-20T21:35:36.000Z",
-          "wordCount": 1632,
-          "title": "21日朝の金融市場短観｜NYダウ続落　米長期金利が08年以来の水準",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/new-week-new-pic.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/new-week-new-pic.png"
         }
       ]
     }
