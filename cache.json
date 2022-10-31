@@ -143,6 +143,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=164310",
+          "author": "Brandy Betz",
+          "description": "分散型ファイル共有プロトコルのファイルコイン（Filecoin/FIL）を手がけるProtocol Labsは10月31日、企業のWeb2からWeb3への移行を ...\nファイルコインのProtocol Labs、Web3移行支援のアライアンス設立──AMD、シーゲート、EYが参加 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/164310/",
+          "publishedOn": "2022-10-31T21:30:27.000Z",
+          "wordCount": 1741,
+          "title": "ファイルコインのProtocol Labs、Web3移行支援のアライアンス設立──AMD、シーゲート、EYが参加",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/O2K6VLOAY5DJHA66HP6UQ2YQCY.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=164211",
           "author": "George Kaloudis",
           "description": "昨年2021年7月25日夜（米東部時間）、ビットコイン（BTC）は魔法のような値動きを始め、夜中なのに5%も値上がり（下記チャートで黄色の矢印部分）した。価格は ...\nアマゾン、メタに比べるとビットコインが安定して見える【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -351,16 +361,6 @@
           "wordCount": 1734,
           "title": "FTX、ステーブルコインを検討：報道",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/MV2TR7NJMRAV7HO3RKAOTC2BUU.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=163973",
-          "author": "Cameron Thompson",
-          "description": "ノルウェー政府は、メタバース税務署を開設する。10月26日に開催された電子政府に関するカンファレンス「Nokios」で、ノルウェー政府の公的データを担うBrøn ...\nノルウェー政府、Decentralandに税務署を開設 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/163973/",
-          "publishedOn": "2022-10-27T09:30:24.000Z",
-          "wordCount": 1735,
-          "title": "ノルウェー政府、Decentralandに税務署を開設",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/KF6H4F3QEVAIRE5KUIU3YZKC7A.jpeg"
         }
       ]
     },
@@ -375,6 +375,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=402849",
+          "author": "K.Kobayashi",
+          "description": "英上場の仮想通貨マイニング企業Argo Blockchainは、10月発表の資金調達を完了できない可能性が高いと発表。事業終了の可能性にも言及した。",
+          "link": "https://coinpost.jp/?p=402849",
+          "publishedOn": "2022-10-31T22:05:40.000Z",
+          "wordCount": 1679,
+          "title": "仮想通貨採掘企業の経営難続く　英上場Argo、事業終了の可能性に言及",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/bitcoin-mining-new-virus.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/bitcoin-mining-new-virus.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=402848",
+          "author": "菊谷ルイス",
+          "description": "週明けのニューヨークダウ平均は反落。米時間明日からのFOMCへの警戒感が強まった格好だ。また、アルゴ・ブロックチェーンは財政難に陥って株価が暴落した。",
+          "link": "https://coinpost.jp/?p=402848",
+          "publishedOn": "2022-10-31T21:42:38.000Z",
+          "wordCount": 1683,
+          "title": "1日朝の金融市場短観｜NYダウ反落　BTCマイニングArgoの株価は暴落",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/stock-market-10_12.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/stock-market-10_12.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=402717",
           "author": "Noah Sakamaki",
