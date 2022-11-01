@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-01T09:37:00.829Z</updated>
+    <updated>2022-11-01T10:36:20.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産が関連したテロ攻撃は4倍に：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=164351</id>
+        <link href="https://www.coindeskjapan.com/164351/"/>
+        <updated>2022-11-01T10:30:10.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）で資金調達したテロ攻撃は、過去数年で約4倍に増加したと国連関係者はブルームバーグに語った。 国連テロ対策委員会執行事務局（United Na ...
+暗号資産が関連したテロ攻撃は4倍に：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Amitoj Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto.comがACT Gamesと提携、クロノスチェーンで「ゾイド」のNFTカードゲーム提供へ]]></title>
         <id>https://coinpost.jp/?p=403132</id>
@@ -956,26 +967,6 @@ Google、イーサリアムノード運用サービスをクラウドで提供�
         <summary type="html"><![CDATA[米仮想通貨マイニング企業Core Scientificは、財務状況が悪化していることがわかった。SECに提出した書類では破産の可能性にも言及している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ツイッター、ツイートからのNFT売買機能を実装へ]]></title>
-        <id>https://coinpost.jp/?p=401733</id>
-        <link href="https://coinpost.jp/?p=401733"/>
-        <updated>2022-10-27T22:35:53.000Z</updated>
-        <summary type="html"><![CDATA[MagicEdenなどと提携米ツイッターは28日、ツイートからNFTを売買できる機能を実装することを発表した。Nowtesting:NFTTweetTilesSomelinkstoNFTson@rarible,@MagicEden,@dap...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28日朝の金融市場短観｜アマゾン株時間外で約20%急落　米GDPは3期ぶりのプラス成長]]></title>
-        <id>https://coinpost.jp/?p=401727</id>
-        <link href="https://coinpost.jp/?p=401727"/>
-        <updated>2022-10-27T21:40:42.000Z</updated>
-        <summary type="html"><![CDATA[今日のニューヨーク株式相場も続伸。米長期金利が続落し、第3四半期の米GDP速報値＋2.6%が予想（2.4%増）を上回り、3期ぶりにプラスに転換。一方、アマゾンは業績軟調で時間外で一時約20%急落した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
