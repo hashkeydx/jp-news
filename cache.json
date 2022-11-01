@@ -174,16 +174,6 @@
           "wordCount": 412,
           "title": "月額8,400円からの法人向けWeb3リサーチ「Ozon Labs」がリリース決定、事前登録を本日より開始。",
           "imageUrl": null
-        },
-        {
-          "id": "e080577e49e7400b33772d56fa6d0f81",
-          "author": "一般社団法人ジャパン・コンテンツ・ブロックチェーン・イニシアティブ",
-          "description": "一般社団法人ジャパン・コンテンツ・ブロックチェーン・イニシアティブのプレスリリース（2022年10月28日 09時00分）一般社団法人JCBI著作権流通部会が自民党のWeb3PTで発表",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a66b63df140f9366d66ee0cb0c2350d667",
-          "publishedOn": "2022-10-28T00:00:23.000Z",
-          "wordCount": 412,
-          "title": "一般社団法人JCBI著作権流通部会が自民党のWeb3PTで発表",
-          "imageUrl": null
         }
       ]
     },
@@ -411,16 +401,6 @@
           "wordCount": 1778,
           "title": "【US市場】ビットコインは2万ドルを維持",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/price_1028.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=164027",
-          "author": "Margaux Nijkerk",
-          "description": "Google（グーグル）は10月27日、イーサリアムプロジェクト向けのクラウドベースのノードサービスの提供を開始すると発表した。 「Google Cloud B ...\nGoogle、イーサリアムノード運用サービスをクラウドで提供へ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/164027/",
-          "publishedOn": "2022-10-28T00:03:01.000Z",
-          "wordCount": 1781,
-          "title": "Google、イーサリアムノード運用サービスをクラウドで提供へ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1933087403.jpg"
         }
       ]
     },
@@ -435,6 +415,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=403165",
+          "author": "Noah Sakamaki",
+          "description": "仙台市が日本発ブロックチェーンアスター（ASTR）のコンソーシアム組織「アスタージャパンラボ」への参加を発表。自治体としての参加は2例目となる。",
+          "link": "https://coinpost.jp/?p=403165",
+          "publishedOn": "2022-11-01T11:55:44.000Z",
+          "wordCount": 2336,
+          "title": "仙台市、Astar Japan Labに参画｜自治体の参加は2例目",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/astar_network1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/astar_network1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=403132",
           "author": "Noah Sakamaki",
@@ -1169,36 +1164,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/visa-token-launch-up.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/visa-token-launch-up.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=401760",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所FTXのサムCEOは、同社独自のステーブルコインの開発に取り組んでいることを明かした。欧州メディアのインタビューで、他にも様々な話題ついて語っている。",
-          "link": "https://coinpost.jp/?p=401760",
-          "publishedOn": "2022-10-28T01:00:04.000Z",
-          "wordCount": 1711,
-          "title": "仮想通貨取引所FTX、独自ステーブルコイン発行の可能性＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/FTX0601211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/FTX0601211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=401765",
-          "author": "A.Yamada",
-          "description": "英サッカー団体プレミアリーグは、NFT関連でオンラインゲームを提供するSorareと複数年契約を結ぶことを検討している。",
-          "link": "https://coinpost.jp/?p=401765",
-          "publishedOn": "2022-10-28T00:40:51.000Z",
-          "wordCount": 1672,
-          "title": "英プレミアリーグ、SorareとNFT関連の契約締結を検討か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/premier-league.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/premier-league.png"
         }
       ]
     }

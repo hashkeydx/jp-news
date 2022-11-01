@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-01T11:28:17.876Z</updated>
+    <updated>2022-11-01T13:10:42.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仙台市、Astar Japan Labに参画｜自治体の参加は2例目]]></title>
+        <id>https://coinpost.jp/?p=403165</id>
+        <link href="https://coinpost.jp/?p=403165"/>
+        <updated>2022-11-01T11:55:44.000Z</updated>
+        <summary type="html"><![CDATA[仙台市が日本発ブロックチェーンアスター（ASTR）のコンソーシアム組織「アスタージャパンラボ」への参加を発表。自治体としての参加は2例目となる。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産が関連したテロ攻撃は4倍に：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=164351</id>
@@ -906,47 +916,6 @@ LINEの暗号資産「LINK」、Huobi Globalへの上場を11月8日に延期 fi
         <summary type="html"><![CDATA[株式会社woorthのプレスリリース（2022年10月28日 10時30分）月額8,400円からの法人向けWeb3リサーチ[Ozon Labs]がリリース決定、事前登録を本日より開始。]]></summary>
         <author>
             <name>株式会社woorth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所FTX、独自ステーブルコイン発行の可能性＝報道]]></title>
-        <id>https://coinpost.jp/?p=401760</id>
-        <link href="https://coinpost.jp/?p=401760"/>
-        <updated>2022-10-28T01:00:04.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所FTXのサムCEOは、同社独自のステーブルコインの開発に取り組んでいることを明かした。欧州メディアのインタビューで、他にも様々な話題ついて語っている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英プレミアリーグ、SorareとNFT関連の契約締結を検討か]]></title>
-        <id>https://coinpost.jp/?p=401765</id>
-        <link href="https://coinpost.jp/?p=401765"/>
-        <updated>2022-10-28T00:40:51.000Z</updated>
-        <summary type="html"><![CDATA[英サッカー団体プレミアリーグは、NFT関連でオンラインゲームを提供するSorareと複数年契約を結ぶことを検討している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、イーサリアムノード運用サービスをクラウドで提供へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=164027</id>
-        <link href="https://www.coindeskjapan.com/164027/"/>
-        <updated>2022-10-28T00:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Google（グーグル）は10月27日、イーサリアムプロジェクト向けのクラウドベースのノードサービスの提供を開始すると発表した。 「Google Cloud B ...
-Google、イーサリアムノード運用サービスをクラウドで提供へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般社団法人JCBI著作権流通部会が自民党のWeb3PTで発表]]></title>
-        <id>e080577e49e7400b33772d56fa6d0f81</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a66b63df140f9366d66ee0cb0c2350d667"/>
-        <updated>2022-10-28T00:00:23.000Z</updated>
-        <summary type="html"><![CDATA[一般社団法人ジャパン・コンテンツ・ブロックチェーン・イニシアティブのプレスリリース（2022年10月28日 09時00分）一般社団法人JCBI著作権流通部会が自民党のWeb3PTで発表]]></summary>
-        <author>
-            <name>一般社団法人ジャパン・コンテンツ・ブロックチェーン・イニシアティブ</name>
         </author>
     </entry>
 </feed>
