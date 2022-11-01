@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-01T08:38:56.396Z</updated>
+    <updated>2022-11-01T09:37:00.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto.comがACT Gamesと提携、クロノスチェーンで「ゾイド」のNFTカードゲーム提供へ]]></title>
+        <id>https://coinpost.jp/?p=403132</id>
+        <link href="https://coinpost.jp/?p=403132"/>
+        <updated>2022-11-01T08:58:14.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所Crypto.comは韓国のゲーム企業ACT Gamesとの覚書締結を発表。ゾイドのNFTカードゲームをクロノスブロックチェーン上で運用していく。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最大手NFTマーケットプレイスOpenSea、コピーミント防止機能を大幅強化]]></title>
+        <id>https://coinpost.jp/?p=403082</id>
+        <link href="https://coinpost.jp/?p=403082"/>
+        <updated>2022-11-01T08:41:18.000Z</updated>
+        <summary type="html"><![CDATA[最大手NFTマーケットプレイスOpenSeaは1日、NFT（非代替性トークン）コピーミント防止機能のアップデートを発表した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産取引所・販売所　キャンペーン更新情報まとめ（2022年11月）]]></title>
         <id>https://www.coindeskjapan.com/?p=164432</id>
@@ -956,28 +976,6 @@ Google、イーサリアムノード運用サービスをクラウドで提供�
         <summary type="html"><![CDATA[今日のニューヨーク株式相場も続伸。米長期金利が続落し、第3四半期の米GDP速報値＋2.6%が予想（2.4%増）を上回り、3期ぶりにプラスに転換。一方、アマゾンは業績軟調で時間外で一時約20%急落した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの暴落トップ5を振り返る]]></title>
-        <id>https://www.coindeskjapan.com/?p=163986</id>
-        <link href="https://www.coindeskjapan.com/163986/"/>
-        <updated>2022-10-27T21:30:25.000Z</updated>
-        <summary type="html"><![CDATA[約1世紀前の10月24日に起こったことを実際に体験した人は、数少ない。そしてその数少ない人たちはおそらく、そんなことは体験しないで済んだら良かったのにと思ってい ...
-ビットコインの暴落トップ5を振り返る first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパービットコイン化はグローバルサウスから]]></title>
-        <id>https://www.coindeskjapan.com/?p=163854</id>
-        <link href="https://www.coindeskjapan.com/163854/"/>
-        <updated>2022-10-27T21:00:32.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインの生みの親サトシ・ナカモトは、「ビットコインはクレジットカードを持たない人にとって便利だろう」と語ったという。 世界銀行によれば、クレジットカードを ...
-ハイパービットコイン化はグローバルサウスから first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Frederick Munawa</name>
         </author>
     </entry>
 </feed>
