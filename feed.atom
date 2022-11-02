@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-02T11:29:05.652Z</updated>
+    <updated>2022-11-02T13:08:00.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BitMEX、レイオフ──再びデリバティブに注力]]></title>
+        <id>https://www.coindeskjapan.com/?p=164628</id>
+        <link href="https://www.coindeskjapan.com/164628/"/>
+        <updated>2022-11-02T11:50:35.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のBitMEXは、再度デリバティブ取引に軸足を移すためにスタッフを削減したと広報担当者はCoinDeskに語った。レイオフの程度は明ら ...
+BitMEX、レイオフ──再びデリバティブに注力 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deribit、ハッキングで2800万ドル流出──引き出しを一時停止]]></title>
         <id>https://www.coindeskjapan.com/?p=164616</id>
@@ -906,37 +917,6 @@ VISAが暗号資産ウォレットとNFT、メタバースに関連する商標�
         <summary type="html"><![CDATA[グーグルクラウドはWeb3ノードのホスティングサービス「ブロックチェーン・ノード・サービス」をリリースした。最初に仮想通貨イーサリアムのブロックチェーンをサポートしている。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、ツイッターのボット対策でマスク氏を支援へ]]></title>
-        <id>https://coinpost.jp/?p=402209</id>
-        <link href="https://coinpost.jp/?p=402209"/>
-        <updated>2022-10-29T00:40:22.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、ボットアカウントを抑制する取り組みでツイッター社を支援するため、内部チームを結成していると明かした。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムL2「zkSync v2」 　Baby Alphaメインネット稼働開始]]></title>
-        <id>https://coinpost.jp/?p=402198</id>
-        <link href="https://coinpost.jp/?p=402198"/>
-        <updated>2022-10-28T23:30:49.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムのレイヤー2ソリューションである「zkSync」のv2版は予定通り10月29日にBaby Alphaメインネットをローンした。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の暗号資産オンチェーン取引が1年間で倍増、NFTにも30％の「アップル税」]]></title>
-        <id>https://www.coindeskjapan.com/?p=164153</id>
-        <link href="https://www.coindeskjapan.com/164153/"/>
-        <updated>2022-10-28T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[2021年7月～2022年6月までの1年間で記録した日本のオンチェーン取引額は、前年同期から113.2％増加。年間の成長ペースとしては東アジアでは最大となった─ ...
-日本の暗号資産オンチェーン取引が1年間で倍増、NFTにも30％の「アップル税」 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
         </author>
     </entry>
 </feed>

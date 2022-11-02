@@ -173,6 +173,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=164628",
+          "author": "Oliver Knight",
+          "description": "暗号資産（仮想通貨）取引所のBitMEXは、再度デリバティブ取引に軸足を移すためにスタッフを削減したと広報担当者はCoinDeskに語った。レイオフの程度は明ら ...\nBitMEX、レイオフ──再びデリバティブに注力 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/164628/",
+          "publishedOn": "2022-11-02T11:50:35.000Z",
+          "wordCount": 1729,
+          "title": "BitMEX、レイオフ──再びデリバティブに注力",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/6UQ2SF5VWNDURDUHMJP75S2KZQ.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=164616",
           "author": "Oliver Knight",
           "description": "暗号資産（仮想通貨）オプションおよび先物取引所のDeribit（デリビット）がハッキングされ、ホットウォレットから2800万ドル（約41億円）が流出した。 顧客 ...\nDeribit、ハッキングで2800万ドル流出──引き出しを一時停止 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -391,16 +401,6 @@
           "wordCount": 1818,
           "title": "暗号資産をテーマにしたハロウィーン仮装アイディア集",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_707743060.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=164153",
-          "author": "coindesk JAPAN",
-          "description": "2021年7月～2022年6月までの1年間で記録した日本のオンチェーン取引額は、前年同期から113.2％増加。年間の成長ペースとしては東アジアでは最大となった─ ...\n日本の暗号資産オンチェーン取引が1年間で倍増、NFTにも30％の「アップル税」 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/164153/",
-          "publishedOn": "2022-10-28T23:30:00.000Z",
-          "wordCount": 1831,
-          "title": "日本の暗号資産オンチェーン取引が1年間で倍増、NFTにも30％の「アップル税」",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_205067683-1.jpg"
         }
       ]
     },
@@ -1164,36 +1164,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Google-Logo-Web3.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Google-Logo-Web3.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=402209",
-          "author": "A.Yamada",
-          "description": "仮想通貨取引所バイナンスは、ボットアカウントを抑制する取り組みでツイッター社を支援するため、内部チームを結成していると明かした。",
-          "link": "https://coinpost.jp/?p=402209",
-          "publishedOn": "2022-10-29T00:40:22.000Z",
-          "wordCount": 1692,
-          "title": "バイナンス、ツイッターのボット対策でマスク氏を支援へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/twitter-poison-pills.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/twitter-poison-pills.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=402198",
-          "author": "菊谷ルイス",
-          "description": "イーサリアムのレイヤー2ソリューションである「zkSync」のv2版は予定通り10月29日にBaby Alphaメインネットをローンした。",
-          "link": "https://coinpost.jp/?p=402198",
-          "publishedOn": "2022-10-28T23:30:49.000Z",
-          "wordCount": 1726,
-          "title": "イーサリアムL2「zkSync v2」 　Baby Alphaメインネット稼働開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
         }
       ]
     }
