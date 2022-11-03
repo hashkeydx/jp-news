@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-03T02:27:24.101Z</updated>
+    <updated>2022-11-03T04:01:46.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[デジタル庁のWeb3研究会、独自のDAO設立へ]]></title>
+        <id>https://coinpost.jp/?p=403861</id>
+        <link href="https://coinpost.jp/?p=403861"/>
+        <updated>2022-11-03T03:47:41.000Z</updated>
+        <summary type="html"><![CDATA[行政がDAOを設立へデジタル庁は2日、第5回のWeb3.0研究会にて独自のDAO（分散型自律組織）を設立する方針を明らかにした。実際にDAOに参加することで「課題や可能性を認識」していく。1時間半に及んだ会合では、Web3に関連する暗号資産...]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSea、NFTの盗難防止システムを2つ導入]]></title>
+        <id>https://coinpost.jp/?p=403837</id>
+        <link href="https://coinpost.jp/?p=403837"/>
+        <updated>2022-11-03T03:00:14.000Z</updated>
+        <summary type="html"><![CDATA[最大手NFTマーケットプレイスOpenSeaは、NFTの盗難防止システムを2つ導入したと発表。不正URLの検出や、盗難されたNFTの再販売防止などの機能を取り入れた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1,000台以上のソラナノードのホスティングを停止　大手クラウドサービス]]></title>
         <id>https://coinpost.jp/?p=403822</id>
