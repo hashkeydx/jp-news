@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-03T23:31:45.613Z</updated>
+    <updated>2022-11-04T02:34:00.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米Bakkt、仮想通貨企業を最大300億円で買収へ]]></title>
+        <id>https://coinpost.jp/?p=404195</id>
+        <link href="https://coinpost.jp/?p=404195"/>
+        <updated>2022-11-04T02:15:06.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨企業Bakktはフィンテック系のApex Crypto社を最大300億円相当で買収する方針を発表。既存事業のカストディ強化以外にも、NFTやステーキングなどの提供を拡大する。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベースの3Q決算報告　仮想通貨取引収益は44%減]]></title>
+        <id>https://coinpost.jp/?p=404168</id>
+        <link href="https://coinpost.jp/?p=404168"/>
+        <updated>2022-11-04T01:40:02.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースは2022年第3四半期（7～9月）の決算報告を行った。取引収益は前四半期から44％減少している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ブロック、好調な第3四半期決算──ビットコイン売上高は減少]]></title>
+        <id>https://www.coindeskjapan.com/?p=164672</id>
+        <link href="https://www.coindeskjapan.com/164672/"/>
+        <updated>2022-11-04T00:40:31.000Z</updated>
+        <summary type="html"><![CDATA[フィンテック企業のBlock（ブロック、旧スクエア）は第3四半期決算を発表。Cash App部門のビットコイン（BTC）売上高は17億6000万ドル、前年同期比 ...
+米ブロック、好調な第3四半期決算──ビットコイン売上高は減少 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael Bellusci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクウェア・エニックス、新NFTプロジェクト「SYMBIOGENESIS」を発表]]></title>
+        <id>https://coinpost.jp/?p=404152</id>
+        <link href="https://coinpost.jp/?p=404152"/>
+        <updated>2022-11-04T00:25:46.000Z</updated>
+        <summary type="html"><![CDATA[スクウェア・エニックスは、新規IPによる同社初のNFTコレクティブルアートプロジェクトSYMBIOGENESISを発表。仮想通貨イーサリアムのブロックチェーンに対応する予定だとしている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米フィデリティ、個人投資家向けにBTC・ETH取引提供へ]]></title>
+        <id>https://coinpost.jp/?p=404156</id>
+        <link href="https://coinpost.jp/?p=404156"/>
+        <updated>2022-11-03T23:30:34.000Z</updated>
+        <summary type="html"><![CDATA[個人投資家向けてのビットコイン取引提供の競争は白熱化。米大手金融機関フィデリティも個人向けにビットコインとイーサリアムの取引サービスを提供する予定だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ゴールドマン・サックスら、仮想通貨分類システムをローンチ]]></title>
         <id>https://coinpost.jp/?p=404151</id>
@@ -152,6 +203,16 @@
         <link href="https://coinpost.jp/?p=403822"/>
         <updated>2022-11-03T01:58:22.000Z</updated>
         <summary type="html"><![CDATA[ドイツのクラウドホスティング大手Hetzner社が、同社のホスティングサービスを利用している全ての仮想通貨ソラナのノードへのネット接続を遮断した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9月にETHマージに乗じた詐欺で1.7億円の被害＝チェイナリシス]]></title>
+        <id>https://coinpost.jp/?p=403951</id>
+        <link href="https://coinpost.jp/?p=403951"/>
+        <updated>2022-11-03T01:00:14.000Z</updated>
+        <summary type="html"><![CDATA[チェイナリシスによると、仮想通貨イーサリアムが9月15日に迎えた大型アップグレード「マージ」を悪用して、詐欺師は通常よりも能率的に資金を稼いだ。]]></summary>
         <author>
             <name>AKIRA.H</name>
         </author>
