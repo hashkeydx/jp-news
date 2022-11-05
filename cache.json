@@ -461,16 +461,6 @@
           "wordCount": 1862,
           "title": "アマゾン、メタに比べるとビットコインが安定して見える【コラム】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_724659571.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=164296",
-          "author": "Omkar Godbole",
-          "description": "イーサリアムブロックチェーンの技術的な大改革、いわゆるMerge（マージ）は、ネイティブ暗号資産イーサリアム（ETH）価格に意図通りの強気効果を与え始めている。 ...\nイーサリアム、1週間で16％上昇──3カ月ぶりの上昇率 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/164296/",
-          "publishedOn": "2022-10-31T11:45:43.000Z",
-          "wordCount": 1811,
-          "title": "イーサリアム、1週間で16％上昇──3カ月ぶりの上昇率",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/Z4BQW6U7VBFP5L7MFRX5MYIT6E.jpeg"
         }
       ]
     },
@@ -485,6 +475,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=404605",
+          "author": "A.Yamada",
+          "description": "米内国歳入庁は、ビットコインなど仮想通貨関連の課税について、現在数百件の調査事例に取り組んでいると述べた。",
+          "link": "https://coinpost.jp/?p=404605",
+          "publishedOn": "2022-11-05T02:00:50.000Z",
+          "wordCount": 2258,
+          "title": "米IRS、仮想通貨納税について数百件を捜査",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/CryptoTax0806211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/CryptoTax0806211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=404600",
+          "author": "AKIRA.H",
+          "description": "米ドルに連動するステーブルコイン「USDC」の準備金が、米資産運用最大手ブラックロックが管理する投資信託に置かれることが明らかになった。",
+          "link": "https://coinpost.jp/?p=404600",
+          "publishedOn": "2022-11-05T00:55:35.000Z",
+          "wordCount": 2246,
+          "title": "米ブラックロック、USDCの準備金専用のファンドを組成",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/bank-usdc.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/bank-usdc.png"
+        },
         {
           "id": "https://coinpost.jp/?p=404592",
           "author": "菊谷ルイス",
