@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-06T20:30:11.509Z</updated>
+    <updated>2022-11-06T21:27:01.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グーグルは本気で暗号資産に参入するのか？──コインベースとの戦略連携を読み解く]]></title>
+        <id>https://www.coindeskjapan.com/?p=164709</id>
+        <link href="https://www.coindeskjapan.com/164709/"/>
+        <updated>2022-11-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ニュースの見出しや発表文から判断すると、グーグルはいよいよ暗号資産の世界に飛び込もうとしていると考えたくなる。しかし、パートナーにコインベースを選んだことが、グ ...
+グーグルは本気で暗号資産に参入するのか？──コインベースとの戦略連携を読み解く first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Lawrence Lewitinn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTゲーム「Mythical Beings」、Simplexと戦略的提携]]></title>
         <id>https://coinpost.jp/?p=404279</id>
@@ -716,16 +727,6 @@ Deribit、ハッキングで2800万ドル流出──引き出しを一時停止
         <summary type="html"><![CDATA[動画コンテンツ紹介（収録日：7月28日）今回の「CONNECTV」では、下落相場で続く中有識者はどのように資金管理または、次のトレンド発生時のために何を備えているのか、CoinPost各務が有識者との対談を行った。ゲストには、ブロックチェー...]]></summary>
         <author>
             <name>CONNECTV 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「CoinPostの初期メンバーが映画事業に踏み出した理由」コインポスト社員インタビューVol.1]]></title>
-        <id>https://coinpost.jp/?p=390227</id>
-        <link href="https://coinpost.jp/?p=390227"/>
-        <updated>2022-11-02T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[メディアでキャリア形成する意義とは数年ぶりとなる社員インタビューでは、営業部の中辻諒に再登場いただきました。海外営業のエースでもありながら、CoinPostの新規事業の一つである「映画部門」の責任者を務めることになった中辻に、営業部として求...]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
