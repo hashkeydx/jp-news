@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-07T09:30:51.003Z</updated>
+    <updated>2022-11-07T10:36:42.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ディーカレット親会社、150億円規模の資金調達実施中＝報道]]></title>
+        <id>https://coinpost.jp/?p=404990</id>
+        <link href="https://coinpost.jp/?p=404990"/>
+        <updated>2022-11-07T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨投資企業Amber Groupは追加の資金調達を実施している事が判明。低迷する相場の地合いを考慮して、年末から2023年初頭をメドに複数回に分けて資金調達を図っている。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海外取引所XT.com、仮想通貨Big Point（BIGP）上場]]></title>
+        <id>https://coinpost.jp/?p=404484</id>
+        <link href="https://coinpost.jp/?p=404484"/>
+        <updated>2022-11-07T09:55:17.000Z</updated>
+        <summary type="html"><![CDATA[海外仮想通貨取引所XT.comはビッグポイント（BIGP）の上場を発表。タイを拠点に置く物々交換プラットフォームのガバナンストークンのテザー（USDT）建ペアが取引可能となる。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT活用クラウドファンディング、1分で2,000万円を調達。web3で人気のIP"CryptoNinja"のアニメ化プロジェクト]]></title>
         <id>e2ad6492f361290db0c6a2aeb288579f</id>
@@ -785,37 +805,6 @@ USDコインは長期的に「エキサイティング」、事実上のCBDCに�
 バイナンス、銀行の買収を検討：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Nelson Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロンへの手紙：ツイッターを分散化する方法【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=164427</id>
-        <link href="https://www.coindeskjapan.com/164427/"/>
-        <updated>2022-11-02T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[親愛なるイーロン様 ツイッターの買収おめでとう！あなたは常々、分散化の大切さを口にしてきたので、買収劇をワクワクしながら見守ってきました。あなたとあなたのチーム ...
-イーロンへの手紙：ツイッターを分散化する方法【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>David Sneider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、銀行の買収を検討か]]></title>
-        <id>https://coinpost.jp/?p=403801</id>
-        <link href="https://coinpost.jp/?p=403801"/>
-        <updated>2022-11-02T22:25:37.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは銀行の買収を検討している。ツイッターへの投資に続き、伝統金融への進出も目論んでいる格好だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3日朝の金融市場短観｜FOMC金利発表　ビットコイン・株式市場乱高下]]></title>
-        <id>https://coinpost.jp/?p=403795</id>
-        <link href="https://coinpost.jp/?p=403795"/>
-        <updated>2022-11-02T21:55:27.000Z</updated>
-        <summary type="html"><![CDATA[今日のニューヨークダウ平均や仮想通貨市場はFOMCの利上げ発表とパウエルFRB議長の発言を受けて乱高下し続落した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
