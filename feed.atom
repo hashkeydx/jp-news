@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-08T20:32:54.595Z</updated>
+    <updated>2022-11-08T21:28:08.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産革命の転換期【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=164879</id>
+        <link href="https://www.coindeskjapan.com/164879/"/>
+        <updated>2022-11-08T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カーロータ・ペリッツ（Carlota Perez）著『Technological Revolutions and Financial Capital（技術革新と ...
+暗号資産革命の転換期【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Noelle Acheson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインとイーサリアムが下落──FTXトークンの下落で不安広がる]]></title>
         <id>https://www.coindeskjapan.com/?p=164950</id>
@@ -648,45 +659,6 @@ USDコインは長期的に「エキサイティング」、事実上のCBDCに�
         <summary type="html"><![CDATA[10月の米雇用統計と失業率の結果はFRBのタカ派姿勢を正当化する内容だったが、今日のニューヨークダウ平均は今週の5日ぶりに反発した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、次のアップデートに期待すること]]></title>
-        <id>https://www.coindeskjapan.com/?p=164649</id>
-        <link href="https://www.coindeskjapan.com/164649/"/>
-        <updated>2022-11-04T09:05:47.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムブロックチェーンの大規模アップデート「Merge（マージ）」は、マイナーへの依存をなくし、エネルギーコストを劇的に削減することで、イーサリアムブロッ ...
-イーサリアム、次のアップデートに期待すること first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Sam Kessler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所OKCoinJapan、国内初のジリカ（ZIL）上場へ]]></title>
-        <id>https://coinpost.jp/?p=404431</id>
-        <link href="https://coinpost.jp/?p=404431"/>
-        <updated>2022-11-04T08:43:27.000Z</updated>
-        <summary type="html"><![CDATA[国内初上場国内暗号資産（仮想通貨）取引所のOKCoinJapanを運営するオーケーコイン・ジャパン株式会社は4日、ジリカ（ZIL）取り扱い開始を発表した。国内での上場は初事例だ。取り扱い日時は11月10日（木）17時を予定。販売所での提供と...]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知見者が集い議論するトークンエコノミクス最前線！「Web3 Development MTG Vol.3」を11/24（木）に開催]]></title>
-        <id>90e5793ccefc58e17598067be7fb4421</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a76c63df140f9363d468e2c10c2350d667"/>
-        <updated>2022-11-04T08:40:53.109Z</updated>
-        <author>
-            <name>rss.app</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[株式会社デジタルガレージ]]></title>
-        <id>3505c5c133f90bd3ac04f8f3c86a357d</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6ae2c11b78"/>
-        <updated>2022-11-04T08:40:53.098Z</updated>
-        <author>
-            <name>rss.app</name>
         </author>
     </entry>
 </feed>
