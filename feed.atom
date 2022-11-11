@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-11T21:28:20.184Z</updated>
+    <updated>2022-11-11T22:31:52.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーンはウォール街を倒すことが目的ではない【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=165196</id>
+        <link href="https://www.coindeskjapan.com/165196/"/>
+        <updated>2022-11-11T22:30:10.000Z</updated>
+        <summary type="html"><![CDATA[史上最大級のショートスクイーズから約2年、学んだ教訓もあれば、あまり活かされていないものもある。投資家たちが、マクロと市場のニュースの容赦無く過酷な流れについて ...
+ブロックチェーンはウォール街を倒すことが目的ではない【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Frederik Gregaard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12日朝の金融市場短観｜FTX破産法申請　仮想通貨市場乱高下]]></title>
+        <id>https://coinpost.jp/?p=406611</id>
+        <link href="https://coinpost.jp/?p=406611"/>
+        <updated>2022-11-11T21:48:26.000Z</updated>
+        <summary type="html"><![CDATA[今日のビットコイン相場は大幅安。仮想通貨取引所FTXが米連邦破産法11条の適用を申請したことにショック。顧客資産の行方が焦点になる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鈴木金融相、FTX Japan顧客資産の国外流出に警戒感示す]]></title>
         <id>https://coinpost.jp/?p=406713</id>
@@ -1106,26 +1127,6 @@ FTXのサム・バンクマン-フリードCEO、支払い能力に関する憶�
 テック業界の人員削減を景気後退と見誤るな【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディーカレット親会社、150億円規模の資金調達実施中＝報道]]></title>
-        <id>https://coinpost.jp/?p=404990</id>
-        <link href="https://coinpost.jp/?p=404990"/>
-        <updated>2022-11-07T10:00:17.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨投資企業Amber Groupは追加の資金調達を実施している事が判明。低迷する相場の地合いを考慮して、年末から2023年初頭をメドに複数回に分けて資金調達を図っている。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海外取引所XT.com、仮想通貨Big Point（BIGP）上場]]></title>
-        <id>https://coinpost.jp/?p=404484</id>
-        <link href="https://coinpost.jp/?p=404484"/>
-        <updated>2022-11-07T09:55:17.000Z</updated>
-        <summary type="html"><![CDATA[海外仮想通貨取引所XT.comはビッグポイント（BIGP）の上場を発表。タイを拠点に置く物々交換プラットフォームのガバナンストークンのテザー（USDT）建ペアが取引可能となる。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
