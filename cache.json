@@ -556,6 +556,66 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=406549",
+          "author": "S.Ninomiya",
+          "description": "警戒されたCPI（米消費者物価指数）結果が市場予想を下回ったことを受けダウや日経平均が高騰。前日まで暴落していたビットコインなど仮想通貨相場も反発したが、アラメダリサーチやFTX騒動の影響は各方面に波及し、予断を許さない。",
+          "link": "https://coinpost.jp/?p=406549",
+          "publishedOn": "2022-11-11T03:35:58.000Z",
+          "wordCount": 2356,
+          "title": "CPI好感で日米株大幅高、仮想通貨反発もアラメダ（FTX）騒動は各方面に飛び火",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bitcoin-up_0522.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bitcoin-up_0522.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=406562",
+          "author": "A.Yamada",
+          "description": "仮想通貨スタートアップAptosとグーグルクラウドはパートナーシップを締結した。グーグルクラウドはAptosブロックチェーンのノード検証などを行う予定だ。",
+          "link": "https://coinpost.jp/?p=406562",
+          "publishedOn": "2022-11-11T03:02:37.000Z",
+          "wordCount": 2337,
+          "title": "Aptos、グーグルクラウドとパートナーシップ締結",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/aptos-token-econ.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/aptos-token-econ.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=406603",
+          "author": "菊谷ルイス",
+          "description": "ポリゴンは11日、ウォルト・ディズニー・カンパニーと協業しデジタルコレクタブル分野で概念実証を行うことを発表した。",
+          "link": "https://coinpost.jp/?p=406603",
+          "publishedOn": "2022-11-11T02:50:01.000Z",
+          "wordCount": 2223,
+          "title": "ポリゴン、デジタルグッズ開発でディズニーと協業",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/disney1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/disney1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=406591",
+          "author": "菊谷ルイス",
+          "description": "LayerZeroラボは11日、投資家であるFTXから自社のエクイティ（株主資本）やトークンなどの関連資産を買い取ることを発表した。",
+          "link": "https://coinpost.jp/?p=406591",
+          "publishedOn": "2022-11-11T02:40:38.000Z",
+          "wordCount": 2249,
+          "title": "LayerZero、FTXからトークンやエクイティを買い戻し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=406573",
           "author": "菊谷ルイス",
           "description": "ソラナの主要ウォレットPhantomは11日、ソラナNFTプロジェクトをサポートするためにコミュニティに向けて意見を募集開始した。",
