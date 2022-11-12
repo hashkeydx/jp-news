@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-12T11:25:38.665Z</updated>
+    <updated>2022-11-12T12:50:59.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTXでハッキングか──被害軽減のために資金をコールドストレージに移動]]></title>
+        <id>https://www.coindeskjapan.com/?p=165415</id>
+        <link href="https://www.coindeskjapan.com/165415/"/>
+        <updated>2022-11-12T12:45:35.000Z</updated>
+        <summary type="html"><![CDATA[FTX USの法務担当、ライン・ミラー（Ryne Miller）氏は、一連の「不正取引」を受けて、資金を移動させたと述べた。 11日遅く、FTXから6億ドル以上 ...
+FTXでハッキングか──被害軽減のために資金をコールドストレージに移動 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CryptoGames株式会社のプレスリリース｜PR TIMES]]></title>
         <id>7199952fc9b050c6855d375e952d5f74</id>
@@ -1156,27 +1167,6 @@ NFTアーティストはロイヤリティに期待するべきではない【�
         <summary type="html"><![CDATA[米地方裁判所は、LBRY社が仮想通貨LBCの販売で証券法に違反したという米SECの主張を認めた。裁判の今後の計画も明らかになっている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTXのサム・バンクマン-フリードCEO、支払い能力に関する憶測を否定]]></title>
-        <id>https://www.coindeskjapan.com/?p=164864</id>
-        <link href="https://www.coindeskjapan.com/164864/"/>
-        <updated>2022-11-08T00:03:52.000Z</updated>
-        <summary type="html"><![CDATA[週末、サム・バンクマン-フリード氏が率いる暗号資産（仮想通貨）取引所FTXの支払い能力について憶測が広がるなか、同氏は11月7日朝に「FTXは大丈夫。資産も問題 ...
-FTXのサム・バンクマン-フリードCEO、支払い能力に関する憶測を否定 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アバランチ、GMXに約6億円のAVAXインセンティブ提供へ]]></title>
-        <id>https://coinpost.jp/?p=405200</id>
-        <link href="https://coinpost.jp/?p=405200"/>
-        <updated>2022-11-07T23:35:25.000Z</updated>
-        <summary type="html"><![CDATA[アバランチ財団は、現在注目される分散型取引所GMXに約6億円のAVAXインセンティブを付与する予定だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
