@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-14T04:50:58.725Z</updated>
+    <updated>2022-11-14T05:35:59.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3の「信用システム」構築に関する課題とは｜Ontology寄稿]]></title>
+        <id>https://coinpost.jp/?p=406790</id>
+        <link href="https://coinpost.jp/?p=406790"/>
+        <updated>2022-11-14T05:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Web3市場で話題となっている「信用システム」について、信用（レピュテーション）の定義、信用システムの開発状況、既存システムの問題点、および解決策を議論します。Ontologyによる寄稿記事。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米財務長官、FTXの顧客資産乱用を非難　今後の規制への影響は]]></title>
         <id>https://coinpost.jp/?p=407268</id>
