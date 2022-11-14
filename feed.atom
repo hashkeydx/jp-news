@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-14T09:30:38.849Z</updated>
+    <updated>2022-11-14T10:35:24.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、業界支援で事業再生ファンド設立へ]]></title>
+        <id>https://coinpost.jp/?p=407355</id>
+        <link href="https://coinpost.jp/?p=407355"/>
+        <updated>2022-11-14T10:00:29.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨最大手バイナンスのCZは、負の連鎖を食い止め流動性危機に陥った有望プロジェクトを救うべく、「リカバリー（事業再生）ファンド」の設立を発表した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX、アリーナ命名権の取り消しでマイアミ・デイド郡に約23億円の支払い義務]]></title>
         <id>https://www.coindeskjapan.com/?p=165533</id>
@@ -880,38 +890,6 @@ FTXのCEO、投資家に破綻を警告：ブルームバーグ first appeared o
         <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、FTXの買収は行わないと正式発表。買収しないと決めた理由も説明している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破綻懸念が広がるなか、暗号資産取引所は「プルーフ・オブ・リザーブ（第三者による残高確認）」を急ぐ]]></title>
-        <id>https://www.coindeskjapan.com/?p=165097</id>
-        <link href="https://www.coindeskjapan.com/165097/"/>
-        <updated>2022-11-09T22:30:13.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所は今、準備金の検証と公表に向けて奔走している。FTXの流動性問題の影響を受けて、投資家の間に取引所の破綻懸念が広がっているためだ。 過 ...
-破綻懸念が広がるなか、暗号資産取引所は「プルーフ・オブ・リザーブ（第三者による残高確認）」を急ぐ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10日朝の金融市場短観｜NYダウ下落　ビットコイン年初来安値を更新]]></title>
-        <id>https://coinpost.jp/?p=405709</id>
-        <link href="https://coinpost.jp/?p=405709"/>
-        <updated>2022-11-09T21:48:23.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスのFTX買収は「ノーディール」。仮想通貨市場は暴落を継続し、ビットコインは年初来安値を更新している。米国では中間選挙の結果と明日発表のCPIを控えている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX買収は「我々の勝利」ではない：バイナンスCEO]]></title>
-        <id>https://www.coindeskjapan.com/?p=165115</id>
-        <link href="https://www.coindeskjapan.com/165115/"/>
-        <updated>2022-11-09T21:30:53.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所バイナンス（Binance）のチャンポン・ジャオCEOは11月9日、FTX買収に合意したことは「我々の勝利ではない」とスタッフに宛てた ...
-FTX買収は「我々の勝利」ではない：バイナンスCEO first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
         </author>
     </entry>
 </feed>
