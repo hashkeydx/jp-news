@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-14T10:35:24.484Z</updated>
+    <updated>2022-11-14T11:27:17.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイナーの保有残高が減少、10カ月ぶりの低水準に]]></title>
+        <id>https://www.coindeskjapan.com/?p=165543</id>
+        <link href="https://www.coindeskjapan.com/165543/"/>
+        <updated>2022-11-14T11:05:11.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）マイナーは、FTX崩壊による市場パニックのなかで保有資産を使い果たしているようだ。 ブロックチェーン分析企業グラスノード（Glassnod ...
+ビットコインマイナーの保有残高が減少、10カ月ぶりの低水準に first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、業界支援で事業再生ファンド設立へ]]></title>
         <id>https://coinpost.jp/?p=407355</id>
@@ -858,38 +869,6 @@ FTXのウェブサイトが一時ダウン──出金停止と入金につい�
 韓国銀行、CBDCでのクロスボーダー決済とNFT取引をテスト：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Camomile Shumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTXのCEO、投資家に破綻を警告：ブルームバーグ]]></title>
-        <id>https://www.coindeskjapan.com/?p=165142</id>
-        <link href="https://www.coindeskjapan.com/165142/"/>
-        <updated>2022-11-09T23:10:24.000Z</updated>
-        <summary type="html"><![CDATA[FTXの投資家は、同取引所が現金支援を受けられない場合、破綻保護を申請せざるを得ない可能性があると警告されている。ブルームバーグが11月9日に報じた。 FTXの ...
-FTXのCEO、投資家に破綻を警告：ブルームバーグ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Danny Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、FTX買収を撤回──問題は我々のコントロールや能力を超えている]]></title>
-        <id>https://www.coindeskjapan.com/?p=165126</id>
-        <link href="https://www.coindeskjapan.com/165126/"/>
-        <updated>2022-11-09T22:42:02.000Z</updated>
-        <summary type="html"><![CDATA[バイナンス（Binance）はFTX買収に向けた趣意書を破棄した。 「デューデリジェンスの結果、また、顧客資金の誤った取り扱いと米当局による調査の可能性に関する ...
-バイナンス、FTX買収を撤回──問題は我々のコントロールや能力を超えている first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Kevin Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、FTXの買収は行わないと正式発表]]></title>
-        <id>https://coinpost.jp/?p=406056</id>
-        <link href="https://coinpost.jp/?p=406056"/>
-        <updated>2022-11-09T22:40:35.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、FTXの買収は行わないと正式発表。買収しないと決めた理由も説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
