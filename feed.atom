@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-15T02:18:54.763Z</updated>
+    <updated>2022-11-15T03:52:47.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分散型取引所がFTXの後釜に、GMXやDYDXの関連トークンが高騰]]></title>
+        <id>https://coinpost.jp/?p=407659</id>
+        <link href="https://coinpost.jp/?p=407659"/>
+        <updated>2022-11-15T03:12:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所FTXの経営破綻により顧客資産の流用が明らかになり、全体的な中央集権型取引所（CEX）に対する警戒感が高まる中、DeFi（分散型金融）の利用が加速しているようだ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、3月にFTXへのノーアクションレター発行を拒否]]></title>
+        <id>https://coinpost.jp/?p=407636</id>
+        <link href="https://coinpost.jp/?p=407636"/>
+        <updated>2022-11-15T02:48:30.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所FTXは3月、米SECに執行措置免除について相談していた。SECはノーアクションレター発行を拒否した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINE、NFTのグローバルサイトでユーザー間取引を開始──イーサ決済スタート]]></title>
+        <id>https://www.coindeskjapan.com/?p=165611</id>
+        <link href="https://www.coindeskjapan.com/165611/"/>
+        <updated>2022-11-15T02:47:37.000Z</updated>
+        <summary type="html"><![CDATA[LINEがグループ会社を通じて運営するNFTのグローバル取引プラットフォームは、ユーザー間で取引できるサービスをスタートさせ、イーサリアムブロックチェーンのネイ ...
+LINE、NFTのグローバルサイトでユーザー間取引を開始──イーサ決済スタート first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナイキ、Web3プラットフォーム「.SWOOSH」発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=165575</id>
+        <link href="https://www.coindeskjapan.com/165575/"/>
+        <updated>2022-11-15T02:30:40.000Z</updated>
+        <summary type="html"><![CDATA[ナイキ（Nike）は、デジタルウェアラブルのコミュニティ構築を目的とした新プラットフォーム「.SWOOSH」の発表、Web3にさらなる一歩を踏み出したと14日に ...
+ナイキ、Web3プラットフォーム「.SWOOSH」発表 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Cameron Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン反発、投資信託などの資金フローは4200 万ドルの流入超過に転じる]]></title>
+        <id>https://coinpost.jp/?p=407587</id>
+        <link href="https://coinpost.jp/?p=407587"/>
+        <updated>2022-11-15T02:27:49.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場では、バイナンスの事業再生ファンド設立発表の影響もありビットコインが反発。資金フローで4200 万ドルの流入超過に転じたほか、CoinGlassのデータでも史上2番目の純残高増を記録した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【US市場】ビットコインとイーサリアムは比較的安定、ソラナに売り圧力]]></title>
         <id>https://www.coindeskjapan.com/?p=165593</id>
@@ -789,17 +841,6 @@ FTX崩壊を引き起こした驚愕の8日間 first appeared on coindesk JAPAN 
 DeFiを語る言葉選びを再考しよう【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Rebecca Rettig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ、記録的なボラティリティと強い下落圧力]]></title>
-        <id>https://www.coindeskjapan.com/?p=165208</id>
-        <link href="https://www.coindeskjapan.com/165208/"/>
-        <updated>2022-11-10T15:20:33.000Z</updated>
-        <summary type="html"><![CDATA[しばらく動きの乏しかった暗号資産市場に大きなボラティリティが戻り、ソラナ（SOL）には強い下落圧力が加わっている。 デジタル資産データプロバイダーのアンバーデー ...
-ソラナ、記録的なボラティリティと強い下落圧力 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

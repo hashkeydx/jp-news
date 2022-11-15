@@ -133,6 +133,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=165611",
+          "author": "coindesk JAPAN",
+          "description": "LINEがグループ会社を通じて運営するNFTのグローバル取引プラットフォームは、ユーザー間で取引できるサービスをスタートさせ、イーサリアムブロックチェーンのネイ ...\nLINE、NFTのグローバルサイトでユーザー間取引を開始──イーサ決済スタート first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/165611/",
+          "publishedOn": "2022-11-15T02:47:37.000Z",
+          "wordCount": 1731,
+          "title": "LINE、NFTのグローバルサイトでユーザー間取引を開始──イーサ決済スタート",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/linedosi.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=165575",
+          "author": "Cameron Thompson",
+          "description": "ナイキ（Nike）は、デジタルウェアラブルのコミュニティ構築を目的とした新プラットフォーム「.SWOOSH」の発表、Web3にさらなる一歩を踏み出したと14日に ...\nナイキ、Web3プラットフォーム「.SWOOSH」発表 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/165575/",
+          "publishedOn": "2022-11-15T02:30:40.000Z",
+          "wordCount": 1737,
+          "title": "ナイキ、Web3プラットフォーム「.SWOOSH」発表",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/JYVF7OGG3BDM7IYC4XGGDCPTNQ.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=165593",
           "author": "James Rubin",
           "description": "ビットコイン、イーサリアムおよび他のほとんどの主要暗号資産（仮想通貨）は、投資家がFTX崩壊の影響と格闘するなか、安定的に推移した。 ビットコイン（BTC）は過 ...\n【US市場】ビットコインとイーサリアムは比較的安定、ソラナに売り圧力 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -381,16 +401,6 @@
           "wordCount": 1762,
           "title": "DeFiを語る言葉選びを再考しよう【コラム】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/shutterstock_299891633.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=165208",
-          "author": "Omkar Godbole",
-          "description": "しばらく動きの乏しかった暗号資産市場に大きなボラティリティが戻り、ソラナ（SOL）には強い下落圧力が加わっている。 デジタル資産データプロバイダーのアンバーデー ...\nソラナ、記録的なボラティリティと強い下落圧力 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/165208/",
-          "publishedOn": "2022-11-10T15:20:33.000Z",
-          "wordCount": 1758,
-          "title": "ソラナ、記録的なボラティリティと強い下落圧力",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/スクリーンショット-2022-11-11-0.07.56.jpg"
         }
       ]
     },
@@ -405,6 +415,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=407659",
+          "author": "AKIRA.H",
+          "description": "仮想通貨取引所FTXの経営破綻により顧客資産の流用が明らかになり、全体的な中央集権型取引所（CEX）に対する警戒感が高まる中、DeFi（分散型金融）の利用が加速しているようだ。",
+          "link": "https://coinpost.jp/?p=407659",
+          "publishedOn": "2022-11-15T03:12:40.000Z",
+          "wordCount": 2302,
+          "title": "分散型取引所がFTXの後釜に、GMXやDYDXの関連トークンが高騰",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/DEX1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/DEX1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=407636",
+          "author": "A.Yamada",
+          "description": "仮想通貨取引所FTXは3月、米SECに執行措置免除について相談していた。SECはノーアクションレター発行を拒否した。",
+          "link": "https://coinpost.jp/?p=407636",
+          "publishedOn": "2022-11-15T02:48:30.000Z",
+          "wordCount": 2265,
+          "title": "米SEC、3月にFTXへのノーアクションレター発行を拒否",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/ftx-bankrupt-sec.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/ftx-bankrupt-sec.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=407587",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）市場では、バイナンスの事業再生ファンド設立発表の影響もありビットコインが反発。資金フローで4200 万ドルの流入超過に転じたほか、CoinGlassのデータでも史上2番目の純残高増を記録した。",
+          "link": "https://coinpost.jp/?p=407587",
+          "publishedOn": "2022-11-15T02:27:49.000Z",
+          "wordCount": 2353,
+          "title": "ビットコイン反発、投資信託などの資金フローは4200 万ドルの流入超過に転じる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/BTC-Bitcoin_1660515424.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/BTC-Bitcoin_1660515424.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=407589",
           "author": "A.Yamada",
