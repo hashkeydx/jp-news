@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-16T10:31:41.283Z</updated>
+    <updated>2022-11-16T11:25:09.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「暗号資産の冬」は2023年末まで長引く：米コインベース]]></title>
+        <id>https://www.coindeskjapan.com/?p=165795</id>
+        <link href="https://www.coindeskjapan.com/165795/"/>
+        <updated>2022-11-16T10:55:54.000Z</updated>
+        <summary type="html"><![CDATA[FTXの破綻は、5月から6月にかけての大幅なレバレッジ解消後に出現したポジティブな状況を脱線させた。暗号資産取引大手コインベース（Coinbase）は11月15 ...
+「暗号資産の冬」は2023年末まで長引く：米コインベース first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTXのハッカー、盗んだ資産をイーサリアム（ETH）に集約か]]></title>
         <id>https://coinpost.jp/?p=408194</id>
@@ -880,16 +891,6 @@ FTXの保有残高、5日間で87%減少：データ first appeared on coindesk 
 バイナンスがFTX買収を撤回、FTXのCEOは一晩で2兆円以上を失う【11/5～11/11のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>coindesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX、破産法適用を申請　対象はFTX Japan含む130社超]]></title>
-        <id>https://coinpost.jp/?p=406827</id>
-        <link href="https://coinpost.jp/?p=406827"/>
-        <updated>2022-11-11T22:42:23.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所FTXは、米チャプターイレブンにもとづいた破産申請を行ったことを発表。対象はFTX Japanを含む130社超に上る。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
