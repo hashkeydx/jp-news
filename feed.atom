@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-16T22:28:46.242Z</updated>
+    <updated>2022-11-16T23:28:40.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、中東・アブダビでカストディライセンス取得]]></title>
+        <id>https://coinpost.jp/?p=408361</id>
+        <link href="https://coinpost.jp/?p=408361"/>
+        <updated>2022-11-16T23:18:35.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨最大手バイナンスはアブダビ首長国から仮想通貨カストディのライセンスを取得した。バイナンスNFTや事業再生ファンドに関するアップデートもあった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、イーサリアムステーキング関連銘柄を上場予定]]></title>
+        <id>https://coinpost.jp/?p=408357</id>
+        <link href="https://coinpost.jp/?p=408357"/>
+        <updated>2022-11-16T22:45:34.000Z</updated>
+        <summary type="html"><![CDATA[米国の大手暗号資産取引所コインベースは17日、銘柄の新規取り扱い予定及び今後の上場検討銘柄を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の法人課税改正案を提出　財務省、令和5年度税制改正要望を公開]]></title>
+        <id>https://coinpost.jp/?p=408343</id>
+        <link href="https://coinpost.jp/?p=408343"/>
+        <updated>2022-11-16T22:30:06.000Z</updated>
+        <summary type="html"><![CDATA[財務省は、各府省庁からの令和5年度税制改正要望を公開。仮想通貨の期末時価評価課税に係る見直しも盛り込まれている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17日朝の金融市場短観｜NYダウ横ばい　Genesis仮想通貨融資部門の出金停止など]]></title>
         <id>https://coinpost.jp/?p=407604</id>
@@ -831,16 +861,6 @@ FTX危機に米規制当局が果たした役割【オピニオン】 first appe
 FTXでハッキングか──被害軽減のために資金をコールドストレージに移動 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoGames株式会社のプレスリリース｜PR TIMES]]></title>
-        <id>7199952fc9b050c6855d375e952d5f74</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6ce0c0147f"/>
-        <updated>2022-11-12T10:31:39.580Z</updated>
-        <summary type="html"><![CDATA[PR TIMESで配信されたCryptoGames株式会社のプレスリリース一覧です（最新配信日：2022年11月11日 21時00分）。CryptoGames株式会社]]></summary>
-        <author>
-            <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
         </author>
     </entry>
 </feed>
