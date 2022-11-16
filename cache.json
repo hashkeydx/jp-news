@@ -114,16 +114,6 @@
           "wordCount": 412,
           "title": "CryptoGames株式会社のプレスリリース｜PR TIMES",
           "imageUrl": null
-        },
-        {
-          "id": "45d167eb0a1e3a0b7ffcc5fc9110fbab",
-          "author": "CryptoGames株式会社",
-          "description": "CryptoGames株式会社のプレスリリース（2022年11月11日 21時00分）新作ブロックチェーンカードゲーム[Kyrie & Terra]が、OasysのL2チェーンTCGVerseとのパートナーシップを締結",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f1a06963df140f9364d46ae7c60c2350d667",
-          "publishedOn": "2022-11-11T12:00:01.000Z",
-          "wordCount": 412,
-          "title": "新作ブロックチェーンカードゲーム「Kyrie & Terra」が、OasysのL2チェーンTCGVerseとのパートナーシップを締結",
-          "imageUrl": null
         }
       ]
     },
@@ -132,6 +122,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=165702",
+          "author": "Jamie Crawley",
+          "description": "大手銀行とニューヨーク連邦準備銀行は、デジタルトークンを銀行と中央銀行との決済に活用するためのテストを開始する。 シティグループ、HSBC、BNYメロン、ウェル ...\nニューヨーク連銀と大手銀行、ホールセールCBDCをテスト first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/165702/",
+          "publishedOn": "2022-11-16T00:40:33.000Z",
+          "wordCount": 1734,
+          "title": "ニューヨーク連銀と大手銀行、ホールセールCBDCをテスト",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/5G5SL6RG6VHNXNBZLJLQRR6NEI.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=165691",
           "author": "Michael Bellusci",
@@ -375,6 +375,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=408006",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨レンディング企業BlockFiが米チャプターイレブンの破産申請の準備をしていることがわかった。FTX破綻の波紋が引き続き業界全体に及んでいる。",
+          "link": "https://coinpost.jp/?p=408006",
+          "publishedOn": "2022-11-16T01:15:38.000Z",
+          "wordCount": 2313,
+          "title": "FTX破綻が波及、BlockFiも破産準備中＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/BlockFi.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/BlockFi.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=408011",
+          "author": "A.Yamada",
+          "description": "リップル社は英国で仮想通貨を規制する方法を提案するレポートを発表した。英国では現在、仮想通貨を金融商品として監督する法案が進められている。",
+          "link": "https://coinpost.jp/?p=408011",
+          "publishedOn": "2022-11-16T01:00:53.000Z",
+          "wordCount": 2284,
+          "title": "リップル社、仮想通貨規制で英政府に3つの提言",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/uk_parliament1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/uk_parliament1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=408017",
+          "author": "Noah Sakamaki",
+          "description": "先週破産申請を開始した大手仮想通貨取引所FTXの前CEOサム・バンクマン＝フリード氏が破綻前のアラメダは保有資産が負債を上回っていたと釈明。顧客への対応を優先していると述べた。",
+          "link": "https://coinpost.jp/?p=408017",
+          "publishedOn": "2022-11-16T00:47:32.000Z",
+          "wordCount": 2468,
+          "title": "FTX前CEO「顧客対応が最優先」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/ftx-delist.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/ftx-delist.png"
+        },
         {
           "id": "https://coinpost.jp/?p=407981",
           "author": "K.Kobayashi",

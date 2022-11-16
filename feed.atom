@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-15T23:28:59.922Z</updated>
+    <updated>2022-11-16T02:20:02.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTX破綻が波及、BlockFiも破産準備中＝報道]]></title>
+        <id>https://coinpost.jp/?p=408006</id>
+        <link href="https://coinpost.jp/?p=408006"/>
+        <updated>2022-11-16T01:15:38.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨レンディング企業BlockFiが米チャプターイレブンの破産申請の準備をしていることがわかった。FTX破綻の波紋が引き続き業界全体に及んでいる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル社、仮想通貨規制で英政府に3つの提言]]></title>
+        <id>https://coinpost.jp/?p=408011</id>
+        <link href="https://coinpost.jp/?p=408011"/>
+        <updated>2022-11-16T01:00:53.000Z</updated>
+        <summary type="html"><![CDATA[リップル社は英国で仮想通貨を規制する方法を提案するレポートを発表した。英国では現在、仮想通貨を金融商品として監督する法案が進められている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX前CEO「顧客対応が最優先」]]></title>
+        <id>https://coinpost.jp/?p=408017</id>
+        <link href="https://coinpost.jp/?p=408017"/>
+        <updated>2022-11-16T00:47:32.000Z</updated>
+        <summary type="html"><![CDATA[先週破産申請を開始した大手仮想通貨取引所FTXの前CEOサム・バンクマン＝フリード氏が破綻前のアラメダは保有資産が負債を上回っていたと釈明。顧客への対応を優先していると述べた。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニューヨーク連銀と大手銀行、ホールセールCBDCをテスト]]></title>
+        <id>https://www.coindeskjapan.com/?p=165702</id>
+        <link href="https://www.coindeskjapan.com/165702/"/>
+        <updated>2022-11-16T00:40:33.000Z</updated>
+        <summary type="html"><![CDATA[大手銀行とニューヨーク連邦準備銀行は、デジタルトークンを銀行と中央銀行との決済に活用するためのテストを開始する。 シティグループ、HSBC、BNYメロン、ウェル ...
+ニューヨーク連銀と大手銀行、ホールセールCBDCをテスト first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブロックファイ、破産申請を準備か：WSJ]]></title>
         <id>https://www.coindeskjapan.com/?p=165691</id>
@@ -717,16 +758,6 @@ FTXの保有残高、5日間で87%減少：データ first appeared on coindesk 
         <summary type="html"><![CDATA[今日のビットコイン相場は大幅安。仮想通貨取引所FTXが米連邦破産法11条の適用を申請したことにショック。顧客資産の行方が焦点になる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新作ブロックチェーンカードゲーム「Kyrie & Terra」が、OasysのL2チェーンTCGVerseとのパートナーシップを締結]]></title>
-        <id>45d167eb0a1e3a0b7ffcc5fc9110fbab</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f1a06963df140f9364d46ae7c60c2350d667"/>
-        <updated>2022-11-11T12:00:01.000Z</updated>
-        <summary type="html"><![CDATA[CryptoGames株式会社のプレスリリース（2022年11月11日 21時00分）新作ブロックチェーンカードゲーム[Kyrie & Terra]が、OasysのL2チェーンTCGVerseとのパートナーシップを締結]]></summary>
-        <author>
-            <name>CryptoGames株式会社</name>
         </author>
     </entry>
 </feed>
