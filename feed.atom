@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-16T07:26:05.998Z</updated>
+    <updated>2022-11-16T08:37:27.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTXのハッカー、盗んだ資産をイーサリアム（ETH）に集約か]]></title>
+        <id>https://coinpost.jp/?p=408194</id>
+        <link href="https://coinpost.jp/?p=408194"/>
+        <updated>2022-11-16T08:17:04.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所FTXの破産申請後に不正流出した資産に関する追跡調査により、ハッカーが約400億円相当のイーサリアムを保持していることが明らかになった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTXの「規制独占」戦略、全容解明求める意見書が4千件集まる]]></title>
         <id>https://coinpost.jp/?p=408106</id>
