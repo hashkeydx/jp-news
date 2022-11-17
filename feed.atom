@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-16T23:28:40.086Z</updated>
+    <updated>2022-11-17T02:17:23.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ジェネシスが引き出しを一時停止──FTX崩壊の影響止まらず]]></title>
+        <id>https://www.coindeskjapan.com/?p=165831</id>
+        <link href="https://www.coindeskjapan.com/165831/"/>
+        <updated>2022-11-17T01:55:23.000Z</updated>
+        <summary type="html"><![CDATA[トップニュース ジェネシス・グローバル・トレーディング（Genesis Global Trading）の融資部門、ジェネシス・グローバル・キャピタル（Genes ...
+【US市場】ジェネシスが引き出しを一時停止──FTX崩壊の影響止まらず first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>James Rubin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米Genesis Capital、償還とローン組成のサービスを停止]]></title>
+        <id>https://coinpost.jp/?p=408365</id>
+        <link href="https://coinpost.jp/?p=408365"/>
+        <updated>2022-11-17T01:00:14.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨貸借サービス企業Genesis Capitalは、償還とローンを組成するためのサービスを停止することを発表。FTX破綻の影響が波及した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、中東・アブダビでカストディライセンス取得]]></title>
         <id>https://coinpost.jp/?p=408361</id>
@@ -850,17 +871,6 @@ FTX崩壊を引き起こした8日間とバハマのペントハウス、暗号�
 FTX危機に米規制当局が果たした役割【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTXでハッキングか──被害軽減のために資金をコールドストレージに移動]]></title>
-        <id>https://www.coindeskjapan.com/?p=165415</id>
-        <link href="https://www.coindeskjapan.com/165415/"/>
-        <updated>2022-11-12T12:45:35.000Z</updated>
-        <summary type="html"><![CDATA[FTX USの法務担当、ライン・ミラー（Ryne Miller）氏は、一連の「不正取引」を受けて、資金を移動させたと述べた。 11日遅く、FTXから6億ドル以上 ...
-FTXでハッキングか──被害軽減のために資金をコールドストレージに移動 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
