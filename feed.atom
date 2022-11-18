@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-18T21:26:05.164Z</updated>
+    <updated>2022-11-18T22:29:55.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[19日朝の金融市場短観｜W杯関連ファントークン全面高]]></title>
+        <id>https://coinpost.jp/?p=408916</id>
+        <link href="https://coinpost.jp/?p=408916"/>
+        <updated>2022-11-18T21:50:59.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場はW杯の開催への思惑からサッカーチームファントークンが高騰。米株式市場では仮想通貨企業に融資する米シルバーゲート銀の株価が大幅安。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カナダの年金基金、FTX破綻の影響で約130億円を損失計上]]></title>
         <id>https://coinpost.jp/?p=408973</id>
@@ -940,16 +950,6 @@ FTX破綻が証明したビットコイン・マキシマリストの正当性�
 ビットコインマイナーの保有残高が減少、10カ月ぶりの低水準に first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、業界支援で事業再生ファンド設立へ]]></title>
-        <id>https://coinpost.jp/?p=407355</id>
-        <link href="https://coinpost.jp/?p=407355"/>
-        <updated>2022-11-14T10:00:29.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨最大手バイナンスのCZは、負の連鎖を食い止め流動性危機に陥った有望プロジェクトを救うべく、「リカバリー（事業再生）ファンド」の設立を発表した。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
         </author>
     </entry>
 </feed>
