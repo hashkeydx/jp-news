@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-18T22:29:55.395Z</updated>
+    <updated>2022-11-18T23:28:43.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界的ヘッジファンドMan Group、仮想通貨ファンドをローンチへ]]></title>
+        <id>https://coinpost.jp/?p=409069</id>
+        <link href="https://coinpost.jp/?p=409069"/>
+        <updated>2022-11-18T23:15:13.000Z</updated>
+        <summary type="html"><![CDATA[約1,380億ドルの資産を運用する英ヘッジファンドMan Groupは年内に仮想通貨ヘッジファンドをローンチする準備を進めている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX騒動から学ぶ4つのこと【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=165833</id>
+        <link href="https://www.coindeskjapan.com/165833/"/>
+        <updated>2022-11-18T22:30:05.000Z</updated>
+        <summary type="html"><![CDATA[人によっては、FTXの破綻は元祖ビットコイン取引所マウントゴックスが2014年に破綻した時よりも衝撃的だったと感じているかもしれない。あるいは、2016年のTh ...
+FTX騒動から学ぶ4つのこと【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルダノ商業部門EMURGO、ステーブルコイン「USDA」をローンチへ]]></title>
+        <id>https://coinpost.jp/?p=409060</id>
+        <link href="https://coinpost.jp/?p=409060"/>
+        <updated>2022-11-18T22:25:54.000Z</updated>
+        <summary type="html"><![CDATA[カルダノの商業部門EMURGOは、米ドルステーブルコインUSDAをローンチすると発表。エイダやビットコインなどの仮想通貨との交換実現など、今後の計画を説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19日朝の金融市場短観｜W杯関連ファントークン全面高]]></title>
         <id>https://coinpost.jp/?p=408916</id>
@@ -939,17 +970,6 @@ LINE、NFTのグローバルサイトでユーザー間取引を開始──イ�
 FTX破綻が証明したビットコイン・マキシマリストの正当性【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Will Szamosszegi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインマイナーの保有残高が減少、10カ月ぶりの低水準に]]></title>
-        <id>https://www.coindeskjapan.com/?p=165543</id>
-        <link href="https://www.coindeskjapan.com/165543/"/>
-        <updated>2022-11-14T11:05:11.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）マイナーは、FTX崩壊による市場パニックのなかで保有資産を使い果たしているようだ。 ブロックチェーン分析企業グラスノード（Glassnod ...
-ビットコインマイナーの保有残高が減少、10カ月ぶりの低水準に first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
