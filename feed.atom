@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-19T04:34:40.057Z</updated>
+    <updated>2022-11-19T05:26:53.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMM型NFTマーケットプレイスの仕組みとは]]></title>
+        <id>https://coinpost.jp/?p=408914</id>
+        <link href="https://coinpost.jp/?p=408914"/>
+        <updated>2022-11-19T05:00:45.000Z</updated>
+        <summary type="html"><![CDATA[22年以降NFT分野で見られるようになったAMM（自動マーケットメイカー）基盤のマーケットプレイス。イーサリアムのsudoswapを初め、様々なブロックチェーン上で展開されている。従来の市場とは異なる仕組み、メリットおよびリスクを持つAMM型市場について詳細に解説。]]></summary>
+        <author>
+            <name>k.sato</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港の大手仮想通貨OTC事業者Genesis Block　サービス停止へ]]></title>
+        <id>https://coinpost.jp/?p=409109</id>
+        <link href="https://coinpost.jp/?p=409109"/>
+        <updated>2022-11-19T05:00:29.000Z</updated>
+        <summary type="html"><![CDATA[香港の仮想通貨OTC事業者Genesis BlockHKが、トレーディング事業を停止することを顧客に通知したことが明らかになった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米リップル社、アイルランドでライセンス取得へ]]></title>
         <id>https://coinpost.jp/?p=409100</id>
