@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-20T21:25:28.175Z</updated>
+    <updated>2022-11-20T22:28:06.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産における「中央集権化の時代」の終焉【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=165973</id>
+        <link href="https://www.coindeskjapan.com/165973/"/>
+        <updated>2022-11-20T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[後になって2022年11月を振り返った時に、暗号資産の世界における「中央集権化の時代」の終わりと思うかもしれない。 教訓 中央集権型暗号資産取引所は消費者に、魅 ...
+暗号資産における「中央集権化の時代」の終焉【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shingo Lavine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[返り咲きを狙う暗号資産起業家たち【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=165962</id>
@@ -621,26 +632,6 @@ FTX崩壊とビットコイン相場の行方【bitbankチャート分析】 fir
 「暗号資産の冬」は2023年末まで長引く：米コインベース first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産に関する税制改正要望（2023年度）]]></title>
-        <id>dc87e13f62619e521cbeeaa77f68c145</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06a63df140f9368d46fe6c70c2350d667"/>
-        <updated>2022-11-16T09:59:55.000Z</updated>
-        <summary type="html"><![CDATA[JBAのプレスリリース（2022年11月16日 18時59分）暗号資産に関する税制改正要望（2023年度）]]></summary>
-        <author>
-            <name>JBA</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonstake、CMOのPietro Curtoの就任により経営体制を強化]]></title>
-        <id>665b3f98052e1886e5fd967d11e39683</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a56863df140f9366d660e7ca0c2350d667"/>
-        <updated>2022-11-16T09:43:28.000Z</updated>
-        <summary type="html"><![CDATA[Blockstake株式会社のプレスリリース（2022年11月16日 18時43分）Moonstake、CMOのPietro Curtoの就任により経営体制を強化]]></summary>
-        <author>
-            <name>Blockstake株式会社</name>
         </author>
     </entry>
 </feed>
