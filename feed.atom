@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-21T06:36:18.185Z</updated>
+    <updated>2022-11-21T07:26:33.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ（SOL）、ノードのアップデート完了]]></title>
+        <id>https://coinpost.jp/?p=409413</id>
+        <link href="https://coinpost.jp/?p=409413"/>
+        <updated>2022-11-21T07:08:22.000Z</updated>
+        <summary type="html"><![CDATA[L1ブロックチェーンソラナ（SOL）の開発を行うSolana Labsは19日、ノードのアップデート更新を発表。FTXおよびアラメダの破綻で厳しい状況に置かれる中、スケーラビティ問題解消などの狙いがある。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX、上位50位までの債権総額は約4400億円──最大の債権者は約320億円]]></title>
         <id>https://www.coindeskjapan.com/?p=166105</id>
