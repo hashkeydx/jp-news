@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-21T03:55:06.169Z</updated>
+    <updated>2022-11-21T04:39:37.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTXハッカーの売り圧力懸念強まり、ETHの下落率が顕著に]]></title>
+        <id>https://coinpost.jp/?p=409345</id>
+        <link href="https://coinpost.jp/?p=409345"/>
+        <updated>2022-11-21T03:56:10.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）相場では、破綻した大手取引所FTXからハッキングされた大量のイーサリアム（ETH）の送金・売却（変換）が確認され、売り圧力懸念が強まった。グレースケールのGBTCやデジタルカレンシーグループへの影響も懸念される。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クロスチェーンプロトコルRen、アラメダ破綻後の独立化を表明]]></title>
         <id>https://coinpost.jp/?p=409351</id>
