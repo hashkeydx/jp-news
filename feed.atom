@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-21T22:29:28.031Z</updated>
+    <updated>2022-11-21T23:30:47.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、DeFi関連銘柄を上場候補に]]></title>
+        <id>https://coinpost.jp/?p=409588</id>
+        <link href="https://coinpost.jp/?p=409588"/>
+        <updated>2022-11-21T23:00:42.000Z</updated>
+        <summary type="html"><![CDATA[米国の大手仮想通貨取引所コインベースは21日、上場候補のロードマップに2銘柄を追加した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX Japan幹部「出金再開時期の目標は年内」＝報道]]></title>
+        <id>https://coinpost.jp/?p=409572</id>
+        <link href="https://coinpost.jp/?p=409572"/>
+        <updated>2022-11-21T22:30:18.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所FTX Japanは、年内に顧客が資産の引き出しを再開できるよう準備を進めていることがわかった。現在出金を停止している理由についても説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22日朝の金融市場短観｜NYダウ小幅安　コインベースがGBTC資産証明を開示]]></title>
         <id>https://coinpost.jp/?p=409102</id>
@@ -579,17 +599,6 @@ FTX騒動から学ぶ4つのこと【コラム】 first appeared on coindesk JAP
 FTX破綻が証明したDeFiの必要性【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Amanda Cassatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エルサルバドル大統領とトロンのサン氏、11月17日から1日1ビットコイン購入]]></title>
-        <id>https://www.coindeskjapan.com/?p=165913</id>
-        <link href="https://www.coindeskjapan.com/165913/"/>
-        <updated>2022-11-17T10:35:05.000Z</updated>
-        <summary type="html"><![CDATA[エルサルバドルのナジブ・ブケレ大統領と、トロン（Tron/TRX）創設者のジャスティン・サン（Justin Sun）氏は11月17日から1日1ビットコイン（BT ...
-エルサルバドル大統領とトロンのサン氏、11月17日から1日1ビットコイン購入 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
