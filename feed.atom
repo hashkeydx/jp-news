@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-21T08:35:41.075Z</updated>
+    <updated>2022-11-21T09:29:17.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海外取引所XT.com、仮想通貨WeSendit（WSI）上場へ]]></title>
+        <id>https://coinpost.jp/?p=408372</id>
+        <link href="https://coinpost.jp/?p=408372"/>
+        <updated>2022-11-21T08:30:38.000Z</updated>
+        <summary type="html"><![CDATA[海外仮想通貨取引所XT.comはWeSendit（WSI）の上場計画を発表。スイスを拠点に置くストレージプラットフォームのネイティブトークンのテザー建ペアが取引可能となる。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ（SOL）、ノードのアップデート完了]]></title>
         <id>https://coinpost.jp/?p=409413</id>
@@ -693,27 +703,6 @@ FTX崩壊とビットコイン相場の行方【bitbankチャート分析】 fir
 バンクマン-フリード氏の栄枯盛衰とNYTのインタビュー記事【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Breakpoint 2022 in Lisbon まとめ]]></title>
-        <id>0604697482fef3b3704fbd1e99c13c2b</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36f63df140f9260d061e7c00c2350d667"/>
-        <updated>2022-11-16T21:11:46.000Z</updated>
-        <summary type="html"><![CDATA[ELSOUL LABO B.V.のプレスリリース（2022年11月17日 06時11分）Solana Breakpoint 2022 in Lisbon まとめ]]></summary>
-        <author>
-            <name>ELSOUL LABO B.V.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産の役割を果たすために信頼をどう取り戻す？ポストFTX危機を考える【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=165595</id>
-        <link href="https://www.coindeskjapan.com/165595/"/>
-        <updated>2022-11-16T21:00:05.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産の歴史の中でも最大級に劇的な1週間が過ぎ去った。信頼されていた大手取引プラットフォームが不適切な資産管理を行い、数十億ドルにも及ぶバランスシートの穴を抱 ...
-暗号資産の役割を果たすために信頼をどう取り戻す？ポストFTX危機を考える【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Noelle Acheson</name>
         </author>
     </entry>
 </feed>
