@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-21T04:39:37.640Z</updated>
+    <updated>2022-11-21T05:27:43.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック氏「仮想通貨取引所が信頼を取り戻す方法」]]></title>
+        <id>https://coinpost.jp/?p=409365</id>
+        <link href="https://coinpost.jp/?p=409365"/>
+        <updated>2022-11-21T05:00:45.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの共同創設者ヴィタリック・ブテリン氏は、中央集権型の仮想通貨取引所が信頼を取り戻す方法を提案。ゼロ知識証明を応用した「ZK-SNARK」を活用し、プライバシーと堅牢性を向上させる方法を考察した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTXハッカーの売り圧力懸念強まり、ETHの下落率が顕著に]]></title>
         <id>https://coinpost.jp/?p=409345</id>
