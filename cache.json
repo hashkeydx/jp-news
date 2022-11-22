@@ -113,6 +113,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=166165",
+          "author": "Jocelyn Yang",
+          "description": "暗号資産（仮想通貨）市場は21日下落し、主要暗号資産はFTX破綻の影響の広がりに神経質な反応を示している。 トップニュース 暗号資産取引大手の米コインベース（C ...\n【US市場】ビットコイン、一時1万5500ドル付近まで下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/166165/",
+          "publishedOn": "2022-11-22T02:03:23.000Z",
+          "wordCount": 1809,
+          "title": "【US市場】ビットコイン、一時1万5500ドル付近まで下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/スクリーンショット-2022-11-22-10.50.43のコピー.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=166169",
+          "author": "Helene Braun",
+          "description": "暗号資産（仮想通貨）投資家は先週、資産の大部分をショート・ファンドに割り当て、FTX破綻の影響が広がるなかで暗号資産に対する「強いネガティブな」センチメントを示 ...\nショート・ファンドに資金流入：コインシェアーズ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/166169/",
+          "publishedOn": "2022-11-22T00:40:37.000Z",
+          "wordCount": 1756,
+          "title": "ショート・ファンドに資金流入：コインシェアーズ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/63NC6C7THVFXNLKI5TKHBN7A5A.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=166120",
           "author": "Omkar Godbole",
           "description": "ビットコイン（BTC）を保有しているアドレスの過半数が損失となっている。2020年3月の新型コロナウイルス感染拡大による下落以来のことだ。 ブロックチェーン分析 ...\nビットコイン保有アドレス、50％以上が損失 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -275,6 +295,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=409610",
+          "author": "A.Yamada",
+          "description": "JPモルガンは米国特許商標庁から仮想通貨関連の商標登録を認可された。デジタルウォレットを用いる仮想通貨決済サービスなどに対する商標である。",
+          "link": "https://coinpost.jp/?p=409610",
+          "publishedOn": "2022-11-22T01:05:54.000Z",
+          "wordCount": 2256,
+          "title": "JPモルガン、仮想通貨ウォレットの商標を取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=409598",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所バイナンスのVC部門バイナンスラボは、デジタル資産のセキュリティサービス企業NGRAVEへの出資を発表。セルフカストディ型サービスを推進していく。",
+          "link": "https://coinpost.jp/?p=409598",
+          "publishedOn": "2022-11-22T00:20:56.000Z",
+          "wordCount": 2348,
+          "title": "バイナンスラボ、仮想通貨ウォレット開発企業NGRAVEに出資",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/Binance-Labs-NGRAVE-11-22.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/Binance-Labs-NGRAVE-11-22.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=409591",
+          "author": "菊谷ルイス",
+          "description": "ブラジル・ラテンアメリカの最大手銀行Itaú Unibanco Holding S.Aは来年2Qにビットコイン（BTC）のカストディサービスを提供する予定だ。",
+          "link": "https://coinpost.jp/?p=409591",
+          "publishedOn": "2022-11-21T23:30:43.000Z",
+          "wordCount": 2247,
+          "title": "ブラジル最大手銀、来年にもビットコイン保管へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/itau-bank-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/itau-bank-bitcoin.png"
+        },
         {
           "id": "https://coinpost.jp/?p=409588",
           "author": "菊谷ルイス",
