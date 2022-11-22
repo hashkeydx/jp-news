@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-22T10:31:58.495Z</updated>
+    <updated>2022-11-22T11:25:04.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは今後数カ月、イーサリアムを上回る：アナリスト]]></title>
+        <id>https://www.coindeskjapan.com/?p=166248</id>
+        <link href="https://www.coindeskjapan.com/166248/"/>
+        <updated>2022-11-22T10:50:12.000Z</updated>
+        <summary type="html"><![CDATA[FTX破綻の影響でビットコイン（BTC）とイーサリアム（ETH）が下落しているなか、あるチャートアナリストはビットコインは比較的回復力を保つと予想している。 「 ...
+ビットコインは今後数カ月、イーサリアムを上回る：アナリスト first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX、グループ全体での現金残高は12億ドル──上位50位までの債権総額31億ドルを大きく下回る]]></title>
         <id>https://www.coindeskjapan.com/?p=166224</id>
@@ -680,16 +691,6 @@ FTX騒動から学ぶ4つのこと【コラム】 first appeared on coindesk JAP
         <summary type="html"><![CDATA[エルサルバドルのブケレ大統領は、仮想通貨ビットコインを毎日1BTC購入していくと宣言。同国政府は、これまで合計2,381BTCを購入している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bitbank、ETHF相当額の日本円交付を実施]]></title>
-        <id>https://coinpost.jp/?p=408775</id>
-        <link href="https://coinpost.jp/?p=408775"/>
-        <updated>2022-11-17T23:10:19.000Z</updated>
-        <summary type="html"><![CDATA[bitbankは17日、ハードフォーク銘柄Ethereum Fair（ETHF）相当額の日本円を交付すると発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
