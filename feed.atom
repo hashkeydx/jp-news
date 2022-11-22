@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-22T08:37:37.570Z</updated>
+    <updated>2022-11-22T09:28:43.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTX、グループ全体での現金残高は12億ドル──上位50位までの債権総額31億ドルを大きく下回る]]></title>
+        <id>https://www.coindeskjapan.com/?p=166224</id>
+        <link href="https://www.coindeskjapan.com/166224/"/>
+        <updated>2022-11-22T09:25:39.000Z</updated>
+        <summary type="html"><![CDATA[サム・バンクマン-フリード氏が率いる100社あまりの企業は11月20日時点、12億ドル（約1700億円）の現金を保有していることが裁判所への提出文書で明らかにな ...
+FTX、グループ全体での現金残高は12億ドル──上位50位までの債権総額31億ドルを大きく下回る first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Eliza Gkritsi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大手DEXユニスワップ、ユーザーデータの取得方針掲げる]]></title>
         <id>https://coinpost.jp/?p=409813</id>
@@ -721,17 +732,6 @@ FTX騒動から学ぶ4つのこと【コラム】 first appeared on coindesk JAP
 暗号資産ハッキング被害額、10月は今年最大に first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX破綻が証明したDeFiの必要性【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=165739</id>
-        <link href="https://www.coindeskjapan.com/165739/"/>
-        <updated>2022-11-17T21:00:50.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産コミュニティは、分散化の教訓を辛い目に遭いながら学び続けている。セルシウス・ネットワーク（Celsius Network）にブロックファイ（BlockF ...
-FTX破綻が証明したDeFiの必要性【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Amanda Cassatt</name>
         </author>
     </entry>
 </feed>
