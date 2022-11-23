@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-23T03:09:46.379Z</updated>
+    <updated>2022-11-23T03:42:21.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi融資大手Aave、設計が悪用されて約2.4億円の貸し倒れ]]></title>
+        <id>https://coinpost.jp/?p=410010</id>
+        <link href="https://coinpost.jp/?p=410010"/>
+        <updated>2022-11-23T03:30:07.000Z</updated>
+        <summary type="html"><![CDATA[主要なDeFiレンディングプロトコルAaveが、その基本構造の隙を付く攻撃により約2.4億円の不良債権を抱える事態が発生した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース、「仮想通貨の冬」で投資家意識を調査]]></title>
         <id>https://coinpost.jp/?p=409995</id>
