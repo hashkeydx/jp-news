@@ -113,6 +113,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=166293",
+          "author": "Jocelyn Yang",
+          "description": "トップニュース 2014年に起きた暗号資産（仮想通貨）取引所マウントゴックス（Mt.Gox）のハッキング事件に関与したとされる取引所BTC-e（すでに閉鎖）関連 ...\n【US市場】ビットコイン、FMOC議事要旨を受け上昇──閉鎖した取引所関連のウォレットから1万BTCが移動 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/166293/",
+          "publishedOn": "2022-11-24T03:40:49.000Z",
+          "wordCount": 1755,
+          "title": "【US市場】ビットコイン、FMOC議事要旨を受け上昇──閉鎖した取引所関連のウォレットから1万BTCが移動",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/スクリーンショット-2022-11-24-12.30.12.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=166298",
           "author": "Lavender Au",
           "description": "日本銀行が国内のメガバンク3行や地方銀行とデジタル円に関する実証実験を計画していると日経新聞は11月23日に報じた。 2023年春から民間銀行などと協力して、入 ...\n日銀、デジタル円の実証実験へ──3メガや地銀が参加：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -325,6 +335,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=410370",
+          "author": "幸田直子",
+          "description": "データ分析企業Glassnodeは「FTXの没落」と題したレポートを公開。大手仮想通貨取引所FTXの破綻が不可避となる前兆は、今年5月から6月のオンチェーンデータから読み取ることができると述べた。",
+          "link": "https://coinpost.jp/?p=410370",
+          "publishedOn": "2022-11-24T03:46:59.000Z",
+          "wordCount": 2271,
+          "title": "Glassnode「FTX崩壊の予兆は5〜6月のオンチェーンデータが示唆」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/ftt_red1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/ftt_red1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=410307",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）市場ではビットコインが2連騰するなど反発局面に。アルトコインではバイナンスIEOの材料でBNBをが高騰したほか、ソラナ（SOL）、ライトコイン（LTC）が大幅反発した。",
+          "link": "https://coinpost.jp/?p=410307",
+          "publishedOn": "2022-11-24T03:33:25.000Z",
+          "wordCount": 2407,
+          "title": "仮想通貨相場は揺り戻し、BNBやSOLが大幅反発した背景",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/altcoin0629211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/altcoin0629211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=410358",
+          "author": "Noah Sakamaki",
+          "description": "国内仮想通貨取引所ビットポイントジャパンはシバイヌ（SHIB）トークンの上場を発表。国内での取り扱いは初事例。これにより、ビットポイントの取り扱い銘柄は15種類となる。",
+          "link": "https://coinpost.jp/?p=410358",
+          "publishedOn": "2022-11-24T03:32:20.000Z",
+          "wordCount": 2112,
+          "title": "ビットポイント、国内初のSHIBトークン取り扱い開始へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/shibainu1007211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/shibainu1007211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=410333",
           "author": "A.Yamada",
