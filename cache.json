@@ -113,6 +113,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=166298",
+          "author": "Lavender Au",
+          "description": "日本銀行が国内のメガバンク3行や地方銀行とデジタル円に関する実証実験を計画していると日経新聞は11月23日に報じた。 2023年春から民間銀行などと協力して、入 ...\n日銀、デジタル円の実証実験へ──3メガや地銀が参加：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/166298/",
+          "publishedOn": "2022-11-24T00:40:02.000Z",
+          "wordCount": 1750,
+          "title": "日銀、デジタル円の実証実験へ──3メガや地銀が参加：報道",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/shutterstock_1821236915.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=166300",
+          "author": "Jamie Crawley",
+          "description": "シンガポール大手銀行のDBS銀行は、ゴールドマン・サックスやBNPパリバなどの国際的大手銀行に続いて、JPモルガン・チェースのブロックチェーン基盤ネットワーク「 ...\nシンガポールのDBS銀行、JPモルガンのブロックチェーンネットワーク「Onyx」に参加 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/166300/",
+          "publishedOn": "2022-11-24T00:15:17.000Z",
+          "wordCount": 1779,
+          "title": "シンガポールのDBS銀行、JPモルガンのブロックチェーンネットワーク「Onyx」に参加",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/shutterstock_1495994384.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=166218",
           "author": "Daniel Kuhn",
           "description": "暗号資産を基盤にした予測市場ポリマーケット（Polymarket）では、ユーザーたちはツイッターの新オーナー、イーロン・マスク氏を好意的に見ているようだ。 12 ...\n分散型ソーシャルメディア時代の到来か？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -305,6 +325,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=410297",
+          "author": "A.Yamada",
+          "description": "米国の上院議員らはFTX破綻を受けて米司法省に書簡を提出。FTXの幹部に「法の及ぶ最大限の範囲で」責任を負わせるよう求めている。",
+          "link": "https://coinpost.jp/?p=410297",
+          "publishedOn": "2022-11-24T01:45:07.000Z",
+          "wordCount": 2242,
+          "title": "米上院議員ら、FTX幹部に「最大限の責任を負わせる」ことを要請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/liz-ftx.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/liz-ftx.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=410287",
+          "author": "K.Kobayashi",
+          "description": "エルサルバドルの経済大臣は、デジタル証券に関する法案を議会に提出。この法案は、同国政府が仮想通貨ビットコインの債券を発行できるようにするためのルールを定めている。",
+          "link": "https://coinpost.jp/?p=410287",
+          "publishedOn": "2022-11-24T01:00:34.000Z",
+          "wordCount": 2280,
+          "title": "エルサルバドル、ビットコイン債発行に向け法案提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/elsalvadorbtc1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/elsalvadorbtc1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=410291",
+          "author": "菊谷ルイス",
+          "description": "世界的大手暗号資産取引所バイナンスは新たなローンチパッド（トークン販売）プロジェクトの実施予定を発表した。BNBの価格が発表を受け急騰した。",
+          "link": "https://coinpost.jp/?p=410291",
+          "publishedOn": "2022-11-24T00:35:22.000Z",
+          "wordCount": 2235,
+          "title": "バイナンス、29回目のローンチパッド実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance-bnb-burn-biggest.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance-bnb-burn-biggest.png"
+        },
         {
           "id": "https://coinpost.jp/?p=410278",
           "author": "菊谷ルイス",
