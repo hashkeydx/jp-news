@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-25T03:11:11.636Z</updated>
+    <updated>2022-11-25T04:33:03.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ConsenSys、批判集まるMetamaskのユーザーデータ取得目的について説明]]></title>
+        <id>https://coinpost.jp/?p=410785</id>
+        <link href="https://coinpost.jp/?p=410785"/>
+        <updated>2022-11-25T04:02:26.000Z</updated>
+        <summary type="html"><![CDATA[米大手ブロックチェーン開発企業ConsenSysが、同社のプライバシーポリシーについて補足。MetaMask＋Infuraのユーザーデータ取得は、規制当局の問い合わせへの対応を目的としたものではないと述べた。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン小幅反落、オンチェーン分析では10000BTCの不審なアクティビティに関心]]></title>
+        <id>https://coinpost.jp/?p=410703</id>
+        <link href="https://coinpost.jp/?p=410703"/>
+        <updated>2022-11-25T03:49:01.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は米株式市場休場の影響もあり方向感定まらず反落傾向。Mt.Goxハッキング事件に関連する可能性のある休眠状態のウォレット送金では、計10000BTCの不審なアクティビティが検出された。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東南アジア最大手銀DBS、JPモルガンのOnyxネットワークに参加]]></title>
         <id>https://coinpost.jp/?p=410752</id>
