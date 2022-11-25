@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-25T02:02:11.921Z</updated>
+    <updated>2022-11-25T03:11:11.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東南アジア最大手銀DBS、JPモルガンのOnyxネットワークに参加]]></title>
+        <id>https://coinpost.jp/?p=410752</id>
+        <link href="https://coinpost.jp/?p=410752"/>
+        <updated>2022-11-25T02:40:06.000Z</updated>
+        <summary type="html"><![CDATA[東南アジア・シンガポール最大手の銀行DBSは、JPモルガンのOnyx Digital Assetsネットワークに参加。ブロックチェーン上でレポ取引を実行したと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、L2手数料を最大100倍削減する「EIP-4844」を実装へ]]></title>
         <id>https://coinpost.jp/?p=410736</id>
