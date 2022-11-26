@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-26T07:23:34.872Z</updated>
+    <updated>2022-11-26T08:31:24.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO、アラメダ支援のrenBTCをDAI担保から除外]]></title>
+        <id>https://coinpost.jp/?p=411134</id>
+        <link href="https://coinpost.jp/?p=411134"/>
+        <updated>2022-11-26T07:35:29.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAOでステーブルコインDAIの担保資産からrenBTCを除外する提案がコミュニティ投票により可決された。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米マイクロストラテジー、ビットコイン担保融資の清算ラインは？]]></title>
         <id>https://coinpost.jp/?p=411107</id>
