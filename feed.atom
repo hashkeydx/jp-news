@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-26T23:26:09.866Z</updated>
+    <updated>2022-11-27T02:06:45.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTX騒動から学ぶ4つのこと、ウェブ3の世界に広がるワールドカップ【日曜日に読みたい厳選10本】]]></title>
+        <id>https://www.coindeskjapan.com/?p=166492</id>
+        <link href="https://www.coindeskjapan.com/166492/"/>
+        <updated>2022-11-26T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[FTXとその姉妹企業アラメダ・リサーチは、ブロックチェーンや暗号資産を使っていたが、昔ながらの詐欺に身を滅ぼした旧態依然とした企業に過ぎなかった──今週公開され ...
+FTX騒動から学ぶ4つのこと、ウェブ3の世界に広がるワールドカップ【日曜日に読みたい厳選10本】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産と自然回帰【オピニオン】]]></title>
         <id>https://www.coindeskjapan.com/?p=166185</id>
@@ -697,24 +708,6 @@ FTXの元CEO、従業員に謝罪──社内Slackで文書を共有 first appea
         <summary type="html"><![CDATA[カタールW杯のアルゼンチンvsサウジアラビアの試合でアルゼンチンが逆転負け。ファントークンが一時30%急落した。メタ社のザッカーバーグCEOの辞任の噂があったが、フェイクニュースだった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Very long CNP』BCGのサウンド製作を、『DIR EN GREY』『hide with spread beaver』のマニピュレーターでもあるsukekiyo 匠（たくみ）氏が担当！]]></title>
-        <id>ec448a3908ddfb4339b7d69cc99a8586</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36863df140f9260d36de7c10c2350d667"/>
-        <updated>2022-11-22T13:39:42.272Z</updated>
-        <author>
-            <name>rss.app</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[株式会社Fanplus]]></title>
-        <id>237fb8e96fba8df90c4b02a21a8cae16</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6ae9c61a"/>
-        <updated>2022-11-22T13:39:42.268Z</updated>
-        <author>
-            <name>rss.app</name>
         </author>
     </entry>
 </feed>
