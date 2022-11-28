@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-28T03:38:51.485Z</updated>
+    <updated>2022-11-28T04:32:54.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カナダ大手取引所Coinsquareで顧客の個人情報漏洩か]]></title>
+        <id>https://coinpost.jp/?p=411271</id>
+        <link href="https://coinpost.jp/?p=411271"/>
+        <updated>2022-11-28T04:01:31.000Z</updated>
+        <summary type="html"><![CDATA[カナダの大手仮想通貨取引所「Coinsquare」の顧客データベースが侵害され、個人情報が流出した可能性があることがわかった。パスワードは流出していない。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン上抜けならず反落、アルト相場も売り優勢]]></title>
         <id>https://coinpost.jp/?p=411260</id>
