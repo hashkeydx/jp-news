@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-28T16:32:30.844Z</updated>
+    <updated>2022-11-28T17:27:48.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックファイ、破産申請──FTX破綻から連鎖]]></title>
+        <id>https://www.coindeskjapan.com/?p=166602</id>
+        <link href="https://www.coindeskjapan.com/166602/"/>
+        <updated>2022-11-28T17:19:06.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）レンディング大手のブロックファイ（BlockFi）が11月28日、米連邦破産法11条（チャプター11）の適用を申請した。 リストラを進め、当 ...
+ブロックファイ、破産申請──FTX破綻から連鎖 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Nikhilesh De</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインチェック株式会社のプレスリリース｜PR TIMES]]></title>
         <id>42733838ec02dd82a7d18a11a5e6287d</id>
@@ -546,26 +557,6 @@ FTX、親密なインナーサークルのメンバーとは？ first appeared o
 FTXの元CEO、従業員に謝罪──社内Slackで文書を共有 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTメタバース企業Anifie、XRPレジャーを採用]]></title>
-        <id>https://coinpost.jp/?p=410430</id>
-        <link href="https://coinpost.jp/?p=410430"/>
-        <updated>2022-11-24T05:21:16.000Z</updated>
-        <summary type="html"><![CDATA[米メタバース企業Anifie, Inc.は、同社が開発しているNFTマーケットプレイス及びメタバースの基盤として、XRPレジャーの実装を完了したことを発表した。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「あらゆるモノを資産に変える」リードエッジコンサルティング、伊藤匡平氏がCTO並びNFT事業責任者に就任]]></title>
-        <id>92e4b4ee8a891588aa8bc5d3c8f69f49</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a76963df140f9362dc6be5cb0c2350d667"/>
-        <updated>2022-11-24T04:47:13.000Z</updated>
-        <summary type="html"><![CDATA[株式会社リードエッジコンサルティングのプレスリリース（2022年11月24日 13時47分）[あらゆるモノを資産に変える]リードエッジコンサルティング、伊藤匡平氏がCTO並びNFT事業責任者に就任]]></summary>
-        <author>
-            <name>株式会社リードエッジコンサルティング</name>
         </author>
     </entry>
 </feed>
