@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-29T20:26:45.791Z</updated>
+    <updated>2022-11-29T21:24:00.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインは終わりだ」論を考える【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=166641</id>
+        <link href="https://www.coindeskjapan.com/166641/"/>
+        <updated>2022-11-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）をはじめとする暗号資産の情報サイト「99 Bitcoins」は、ビットコインに対する「死亡宣告」の数を集計している。それによると、ビットコ ...
+「ビットコインは終わりだ」論を考える【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT×アバターアプリ『PKCL Twins』、11月29日よりグローバルでサービス開始]]></title>
         <id>b44135652d868c25f737914ff36d3338</id>
@@ -557,16 +568,6 @@ FTX破綻を引き起こした取引所トークンとは何か？【コラム�
         <updated>2022-11-25T14:25:25.230Z</updated>
         <author>
             <name>rss.app</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoGames社が、マイクロソフト社のスタートアップ支援プログラム「Microsoft for Startups Founders Hub」に採択されました]]></title>
-        <id>8a522dbccea021d163cc19a15a4e1e7c</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f1a06c63df140f9364d46ae7c60c2350d667"/>
-        <updated>2022-11-25T09:00:01.000Z</updated>
-        <summary type="html"><![CDATA[CryptoGames株式会社のプレスリリース（2022年11月25日 18時00分）CryptoGames社が、マイクロソフト社のスタートアップ支援プログラム[Microsoft for Startups Founders Hub]に採択されました]]></summary>
-        <author>
-            <name>CryptoGames株式会社</name>
         </author>
     </entry>
 </feed>
