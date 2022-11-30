@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-30T01:59:15.432Z</updated>
+    <updated>2022-11-30T02:58:20.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ビットコイン、1万7000ドル付近に上昇]]></title>
+        <id>https://www.coindeskjapan.com/?p=166731</id>
+        <link href="https://www.coindeskjapan.com/166731/"/>
+        <updated>2022-11-30T02:50:19.000Z</updated>
+        <summary type="html"><![CDATA[トップニュース フォビ・グローバル（Huobi Global）が発行する暗号資産（仮想通貨）のフォビトークン（HT）が、同取引所がカリブ海の島国ドミニカ共和国が ...
+【US市場】ビットコイン、1万7000ドル付近に上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jocelyn Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国上院議員、FTX破綻受けて複数の仮想通貨取引所に書簡]]></title>
+        <id>https://coinpost.jp/?p=412023</id>
+        <link href="https://coinpost.jp/?p=412023"/>
+        <updated>2022-11-30T02:22:03.000Z</updated>
+        <summary type="html"><![CDATA[米国のRon Wyden上院議員は、バイナンスやコインベースなど6つの大手仮想通貨取引所に宛てて書簡を提出した。FTXの破綻を受けて消費者保護について問い合わせる内容だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウクライナ中銀、CBDCの構想案を公開　仮想通貨関連機能も]]></title>
         <id>https://coinpost.jp/?p=411976</id>
@@ -653,24 +674,6 @@ FTX破綻を引き起こした取引所トークンとは何か？【コラム�
         <summary type="html"><![CDATA[今日のニューヨークダウ平均は3日続伸。来週はパウエルFRB議長の講演などがある。仮想通貨市場ではDOGECOINが大幅上昇した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoGames株式会社]]></title>
-        <id>7199952fc9b050c6855d375e952d5f74</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6ce0c0147f"/>
-        <updated>2022-11-25T14:25:25.234Z</updated>
-        <author>
-            <name>rss.app</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[株式会社COINJINJA]]></title>
-        <id>803e9b0d11b12a5a8b7d519a37521558</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6be7c41078"/>
-        <updated>2022-11-25T14:25:25.230Z</updated>
-        <author>
-            <name>rss.app</name>
         </author>
     </entry>
 </feed>

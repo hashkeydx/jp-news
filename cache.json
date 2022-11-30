@@ -74,26 +74,6 @@
           "wordCount": 412,
           "title": "GameFi等NFTプロジェクトのIEO・INO案件の募集を開始",
           "imageUrl": null
-        },
-        {
-          "id": "7199952fc9b050c6855d375e952d5f74",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6ce0c0147f",
-          "publishedOn": "2022-11-25T14:25:25.234Z",
-          "wordCount": 412,
-          "title": "CryptoGames株式会社",
-          "imageUrl": null
-        },
-        {
-          "id": "803e9b0d11b12a5a8b7d519a37521558",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6be7c41078",
-          "publishedOn": "2022-11-25T14:25:25.230Z",
-          "wordCount": 412,
-          "title": "株式会社COINJINJA",
-          "imageUrl": null
         }
       ]
     },
@@ -102,6 +82,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=166731",
+          "author": "Jocelyn Yang",
+          "description": "トップニュース フォビ・グローバル（Huobi Global）が発行する暗号資産（仮想通貨）のフォビトークン（HT）が、同取引所がカリブ海の島国ドミニカ共和国が ...\n【US市場】ビットコイン、1万7000ドル付近に上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/166731/",
+          "publishedOn": "2022-11-30T02:50:19.000Z",
+          "wordCount": 1784,
+          "title": "【US市場】ビットコイン、1万7000ドル付近に上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/スクリーンショット-2022-11-30-11.45.01.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=166735",
           "author": "Jack Schickler",
@@ -305,6 +295,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=412023",
+          "author": "A.Yamada",
+          "description": "米国のRon Wyden上院議員は、バイナンスやコインベースなど6つの大手仮想通貨取引所に宛てて書簡を提出した。FTXの破綻を受けて消費者保護について問い合わせる内容だ。",
+          "link": "https://coinpost.jp/?p=412023",
+          "publishedOn": "2022-11-30T02:22:03.000Z",
+          "wordCount": 2282,
+          "title": "米国上院議員、FTX破綻受けて複数の仮想通貨取引所に書簡",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/ftx_collapse1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/ftx_collapse1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=411976",
           "author": "A.Yamada",
