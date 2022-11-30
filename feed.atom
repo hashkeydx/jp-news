@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-30T09:27:14.326Z</updated>
+    <updated>2022-11-30T10:30:42.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アラメダ破綻の影響でソラナ基盤のDEX「Serum」閉鎖へ、新たにOpenbookをローンチ]]></title>
+        <id>https://coinpost.jp/?p=412153</id>
+        <link href="https://coinpost.jp/?p=412153"/>
+        <updated>2022-11-30T10:05:49.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ基盤のDEXインフラプロジェクト「Project Serum」は、Serum コードのフォークによりローンチされた新たなDEX「Openbook」を発表した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田政権、Web3スタートアップ育成の環境整備に向けたロードマップ示す]]></title>
+        <id>https://coinpost.jp/?p=412115</id>
+        <link href="https://coinpost.jp/?p=412115"/>
+        <updated>2022-11-30T09:33:11.000Z</updated>
+        <summary type="html"><![CDATA[岸田政権による「スタートアップ育成5か年計画」の内容が決定した。ブロックチェーン技術とWeb3の税制を含む環境整備が含まれている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、日本市場参入──サクラエクスチェンジを完全子会社化]]></title>
         <id>https://www.coindeskjapan.com/?p=166814</id>
@@ -735,27 +755,6 @@ FTX騒動から学ぶ4つのこと、ウェブ3の世界に広がるワールド
         <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、資産証明システムをリリースする計画を新たに発表。ビットコインからリリースを開始し、今後数週間でイーサリアムなど他の銘柄も追加していく。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX破綻を引き起こした取引所トークンとは何か？【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=166346</id>
-        <link href="https://www.coindeskjapan.com/166346/"/>
-        <updated>2022-11-25T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[取引所トークンのFTTは、暗号資産取引所のFTXと姉妹企業であるアラメダ・リサーチ（Alameda Research）の崩壊に大切な役割を果たした。両社のバラン ...
-FTX破綻を引き起こした取引所トークンとは何か？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26日朝の金融市場短観｜感謝祭明けNYダウ続伸　DOGECOINなども上昇]]></title>
-        <id>https://coinpost.jp/?p=410374</id>
-        <link href="https://coinpost.jp/?p=410374"/>
-        <updated>2022-11-25T22:00:25.000Z</updated>
-        <summary type="html"><![CDATA[今日のニューヨークダウ平均は3日続伸。来週はパウエルFRB議長の講演などがある。仮想通貨市場ではDOGECOINが大幅上昇した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
