@@ -306,6 +306,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=412244",
+          "author": "Noah Sakamaki",
+          "description": "ブラジル下院は29日、ビットコイン（BTC）などの仮想通貨を決済手段として認定する法案を可決した。今後は大統領の署名次第で施行されることとなる。",
+          "link": "https://coinpost.jp/?p=412244",
+          "publishedOn": "2022-11-30T10:30:45.000Z",
+          "wordCount": 2337,
+          "title": "ブラジル議会、決済手段としてのビットコイン（BTC）などを承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/bitcoin_brazil_digital_asset1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/bitcoin_brazil_digital_asset1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=412153",
           "author": "AKIRA.H",
           "description": "ソラナ基盤のDEXインフラプロジェクト「Project Serum」は、Serum コードのフォークによりローンチされた新たなDEX「Openbook」を発表した。",
@@ -949,36 +964,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/emurgo-cardano-new-fund.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/emurgo-cardano-new-fund.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=411066",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨取引所バイナンスは16の通貨ペアの提供を廃止する予定だ。セラムやネムが含まれた。",
-          "link": "https://coinpost.jp/?p=411066",
-          "publishedOn": "2022-11-25T22:50:12.000Z",
-          "wordCount": 2315,
-          "title": "バイナンス、16通貨ペアを廃止へ　ネムやセラムなど",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/binance1_20191112.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/binance1_20191112.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=411058",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所バイナンスは、資産証明システムをリリースする計画を新たに発表。ビットコインからリリースを開始し、今後数週間でイーサリアムなど他の銘柄も追加していく。",
-          "link": "https://coinpost.jp/?p=411058",
-          "publishedOn": "2022-11-25T22:35:01.000Z",
-          "wordCount": 2419,
-          "title": "バイナンス、資産証明はビットコインから開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/binance_20200108.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/binance_20200108.jpg"
         }
       ]
     }

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-11-30T10:30:42.526Z</updated>
+    <updated>2022-11-30T11:24:11.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラジル議会、決済手段としてのビットコイン（BTC）などを承認]]></title>
+        <id>https://coinpost.jp/?p=412244</id>
+        <link href="https://coinpost.jp/?p=412244"/>
+        <updated>2022-11-30T10:30:45.000Z</updated>
+        <summary type="html"><![CDATA[ブラジル下院は29日、ビットコイン（BTC）などの仮想通貨を決済手段として認定する法案を可決した。今後は大統領の署名次第で施行されることとなる。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アラメダ破綻の影響でソラナ基盤のDEX「Serum」閉鎖へ、新たにOpenbookをローンチ]]></title>
         <id>https://coinpost.jp/?p=412153</id>
@@ -735,26 +745,6 @@ FTX騒動から学ぶ4つのこと、ウェブ3の世界に広がるワールド
 ビットコイン保有アドレスの50％以上が損失、 FIFAワールドカップでファントークン上昇【今週のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>coindesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、16通貨ペアを廃止へ　ネムやセラムなど]]></title>
-        <id>https://coinpost.jp/?p=411066</id>
-        <link href="https://coinpost.jp/?p=411066"/>
-        <updated>2022-11-25T22:50:12.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは16の通貨ペアの提供を廃止する予定だ。セラムやネムが含まれた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、資産証明はビットコインから開始]]></title>
-        <id>https://coinpost.jp/?p=411058</id>
-        <link href="https://coinpost.jp/?p=411058"/>
-        <updated>2022-11-25T22:35:01.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、資産証明システムをリリースする計画を新たに発表。ビットコインからリリースを開始し、今後数週間でイーサリアムなど他の銘柄も追加していく。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
