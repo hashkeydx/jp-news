@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-02T09:24:46.576Z</updated>
+    <updated>2022-12-02T10:29:09.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NFT市場のMagic Eden、ロイヤリティ支払いを必須とする新プロトコル導入──オープンシーもオプション制に反対表明]]></title>
+        <id>https://www.coindeskjapan.com/?p=167079</id>
+        <link href="https://www.coindeskjapan.com/167079/"/>
+        <updated>2022-12-02T09:30:13.000Z</updated>
+        <summary type="html"><![CDATA[NFTマーケットプレイスのマジックエデン（Magic Eden）は、ロイヤリティ（クリエーターに支払われる2次流通の手数料）に関する方針を変更。新ツールの使用を ...
+NFT市場のMagic Eden、ロイヤリティ支払いを必須とする新プロトコル導入──オープンシーもオプション制に反対表明 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Rosie Perper</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三菱UFJ信託銀行ら、ステーブルコインの導入・普及に向けた実証検証へ]]></title>
         <id>https://coinpost.jp/?p=413069</id>
@@ -1130,17 +1141,6 @@ LINE、米暗号資産取引所BITFRONTを閉鎖 first appeared on coindesk JAPA
         <summary type="html"><![CDATA[ロシアのプーチン大統領は、デジタル通貨と分散型台帳の技術を使用した、新たな国際決済ネットワークの必要性を呼びかけた。ロシアは仮想通貨などデジタル資産の環境整備を進めている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX崩壊で再注目される暗号資産の保管方法【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=166432</id>
-        <link href="https://www.coindeskjapan.com/166432/"/>
-        <updated>2022-11-27T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ここ数週間は、暗号資産市場の歴史の中でも最も波瀾万丈なものとなった。サム・バンクマン-フリード氏が創業し、かつては信頼されていた暗号資産取引所FTX（とその関連 ...
-FTX崩壊で再注目される暗号資産の保管方法【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jackson Wood</name>
         </author>
     </entry>
 </feed>
