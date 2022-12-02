@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-02T21:22:51.665Z</updated>
+    <updated>2022-12-02T22:26:05.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3日朝の金融市場短観｜NYダウ小幅高　ArbitrumのDeFi銘柄が続伸]]></title>
+        <id>https://coinpost.jp/?p=413035</id>
+        <link href="https://coinpost.jp/?p=413035"/>
+        <updated>2022-12-02T22:12:09.000Z</updated>
+        <summary type="html"><![CDATA[今日のニューヨークダウ平均横ばいで仮想通貨・ブロックチェーン関連株は全面高。昨夜発表の11月の米雇用統計結果などの指標はFRBの利上げの効果を示さなかった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT市場のMagic Eden、ロイヤリティ支払いを必須とする新プロトコル導入──オープンシーもオプション制に反対表明]]></title>
         <id>https://www.coindeskjapan.com/?p=167079</id>
@@ -1109,17 +1119,6 @@ LINE、米暗号資産取引所BITFRONTを閉鎖 first appeared on coindesk JAPA
         <summary type="html"><![CDATA[PR TIMESで配信されたコインチェック株式会社のプレスリリース一覧です（最新配信日：2022年11月28日 15時05分）。コインチェック株式会社｜コインチェック株式会社は、アプリダウンロード数3年連続国内No.1、累計ダウンロード数520万の暗号資産取引サービス[Coincheck]を運営しています。[新しい価値交換を、もっと身近に]をミッションに掲げ、最新のテクノロジーと高度なセキュリティを基盤として、暗号資産やブロックチェーンにより生まれる[新しい価値交換]を身近に感じられるように、より良いサービスの創出を目指しています。]]></summary>
         <author>
             <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム下落、クジラが7万3000ETHをバイナンスに移動]]></title>
-        <id>https://www.coindeskjapan.com/?p=166582</id>
-        <link href="https://www.coindeskjapan.com/166582/"/>
-        <updated>2022-11-28T10:10:21.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）は米東部時間11月28日朝、暗号資産（仮想通貨）取引所バイナンス（Binance）への大量の流入が伝えられるなか、下落した。 CoinDe ...
-イーサリアム下落、クジラが7万3000ETHをバイナンスに移動 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
