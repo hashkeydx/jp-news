@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-03T01:46:23.500Z</updated>
+    <updated>2022-12-03T02:43:22.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTX US前CEO、新たな仮想通貨事業で資金調達か＝報道]]></title>
+        <id>https://coinpost.jp/?p=413303</id>
+        <link href="https://coinpost.jp/?p=413303"/>
+        <updated>2022-12-03T02:30:29.000Z</updated>
+        <summary type="html"><![CDATA[FTX USのブレット・ハリソン前CEOは新たな仮想通貨トレーディング関連のソフトウェア企業のために資金調達を始めたようだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米司法省、FTXを調査する独立審査官の任命を要請]]></title>
+        <id>https://coinpost.jp/?p=413292</id>
+        <link href="https://coinpost.jp/?p=413292"/>
+        <updated>2022-12-03T02:00:35.000Z</updated>
+        <summary type="html"><![CDATA[米国司法省の連邦管財官事務所は、仮想通貨取引所FTXの破綻に関して審査官を任命することを申し立てた。独立した立場から、FTXの不正行為疑惑などを調査する必要があるとしている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ankrプロトコルへのハッキング、20億円の二次被害]]></title>
         <id>https://coinpost.jp/?p=413288</id>
@@ -1172,16 +1192,6 @@ LINE、米暗号資産取引所BITFRONTを閉鎖 first appeared on coindesk JAPA
 ブロックファイ、破産申請──FTX破綻から連鎖 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインチェック株式会社のプレスリリース｜PR TIMES]]></title>
-        <id>42733838ec02dd82a7d18a11a5e6287d</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca6ae0c71778"/>
-        <updated>2022-11-28T14:26:11.952Z</updated>
-        <summary type="html"><![CDATA[PR TIMESで配信されたコインチェック株式会社のプレスリリース一覧です（最新配信日：2022年11月28日 15時05分）。コインチェック株式会社｜コインチェック株式会社は、アプリダウンロード数3年連続国内No.1、累計ダウンロード数520万の暗号資産取引サービス[Coincheck]を運営しています。[新しい価値交換を、もっと身近に]をミッションに掲げ、最新のテクノロジーと高度なセキュリティを基盤として、暗号資産やブロックチェーンにより生まれる[新しい価値交換]を身近に感じられるように、より良いサービスの創出を目指しています。]]></summary>
-        <author>
-            <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
         </author>
     </entry>
 </feed>
