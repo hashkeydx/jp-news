@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-05T03:27:19.365Z</updated>
+    <updated>2022-12-05T04:31:53.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[運営停止中の仮想通貨取引所AAX、業務再開は困難か]]></title>
+        <id>https://coinpost.jp/?p=413553</id>
+        <link href="https://coinpost.jp/?p=413553"/>
+        <updated>2022-12-05T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[運営停止中の仮想通貨取引所 Atom Asset Exchangeが、FTX破綻後の次なる犠牲となるのか憶測が広まっている。11月末に辞任したコミュニケーション担当責任者は、同取引所が通常業務を再開するよりも、「法的手続きに移行する」可能性の方が高いと指摘した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[みずほやSBI、Datachainと相互運用性に関する技術連携を開始]]></title>
+        <id>https://coinpost.jp/?p=413560</id>
+        <link href="https://coinpost.jp/?p=413560"/>
+        <updated>2022-12-05T03:54:21.000Z</updated>
+        <summary type="html"><![CDATA[株式会社Datachainはみずほリサーチ&テクノロジーズ株式会社とSBI R3 Japan株式会社とのクロスチェーン技術における技術連携の開始を発表。相互運用性のユースケースを検討していく。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドル指数続落で仮想通貨にも追い風、好材料のアバランチ（AVAX）など上昇]]></title>
+        <id>https://coinpost.jp/?p=413490</id>
+        <link href="https://coinpost.jp/?p=413490"/>
+        <updated>2022-12-05T03:25:38.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）ではドル指数（DXY）の続落を受けビットコインやイーサリアムが反発。アルトコイン相場では好材料の出たアバランチ（AVAX）やアプトス（APT）が上昇した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ギャラクシーデジタル、セルシウス傘下企業を買収]]></title>
         <id>https://coinpost.jp/?p=413528</id>
