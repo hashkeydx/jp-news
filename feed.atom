@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-04T23:24:59.101Z</updated>
+    <updated>2022-12-05T01:51:36.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジェネシスとDCG、ジェミナイに1,000億円超の債務＝報道]]></title>
+        <id>https://coinpost.jp/?p=413493</id>
+        <link href="https://coinpost.jp/?p=413493"/>
+        <updated>2022-12-05T01:12:20.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨仲介事業者ジェネシスとその親会社DCGは、仮想通貨取引所ジェミナイに約1,200億円の債務を負っている。ジェミナイは資金回収について両社と交渉中だと伝えられる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲーム業界はWeb3を必要としているのか、ゲーマーはどうか？【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=166543</id>
@@ -771,17 +781,6 @@ LINE、NFT保有者限定のコンテンツ配信 first appeared on coindesk JAP
         <updated>2022-11-30T14:26:32.533Z</updated>
         <author>
             <name>rss.app</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニモカブランズ、20億ドルのメタバース投資ファンド：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=166845</id>
-        <link href="https://www.coindeskjapan.com/166845/"/>
-        <updated>2022-11-30T13:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Web3領域でグローバルに投資する香港のアニモカブランズ（Animoca Brands）は、メタバースビジネスに投資するために20億ドル（約2800億円）規模の ...
-アニモカブランズ、20億ドルのメタバース投資ファンド：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
         </author>
     </entry>
 </feed>
