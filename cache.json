@@ -104,16 +104,6 @@
           "wordCount": 412,
           "title": "Jリーグ・大宮アルディージャが、「地域密着」の推進を目的としたファントークンを発行",
           "imageUrl": null
-        },
-        {
-          "id": "288557ec39029e0206d67c94fa43bcad",
-          "author": "Zweispace / Zweichain / Zweicoin",
-          "description": "Zweispace / Zweichain / Zweicoinのプレスリリース（2022年12月1日 18時04分）給与、士業報酬のトークン支払い、国の制度変更に先んじて開始",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3aa6363df140f9362dc68e7ca0c2350d667",
-          "publishedOn": "2022-12-01T13:40:02.000Z",
-          "wordCount": 412,
-          "title": "給与、士業報酬のトークン支払い、国の制度変更に先んじて開始",
-          "imageUrl": null
         }
       ]
     },
@@ -122,6 +112,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=167432",
+          "author": "Lyllah Ledesma",
+          "description": "暗号資産（仮想通貨）取引所Crypto.comの暗号資産クロノス（CRO）は、同取引所がコカ・コーラと提携して「FIFAワールドカップ カタール2022」を記念 ...\nCrypto.comの暗号資産CRO、コカ・コーラとのサッカーW杯記念NFT発行で上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/167432/",
+          "publishedOn": "2022-12-06T01:35:44.000Z",
+          "wordCount": 1737,
+          "title": "Crypto.comの暗号資産CRO、コカ・コーラとのサッカーW杯記念NFT発行で上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/BH2NUM2E6FFQXOPJWI24M5UCRQ.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=167406",
           "author": "Shaurya Malwa",
@@ -325,6 +325,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=413816",
+          "author": "K.Kobayashi",
+          "description": "米リップル社とSECは、仮想通貨XRPの有価証券問題を巡る裁判で、略式判決の動議書に対する回答を提出。約2年継続した裁判は、最終局面に入ったとみられる。",
+          "link": "https://coinpost.jp/?p=413816",
+          "publishedOn": "2022-12-06T01:00:33.000Z",
+          "wordCount": 2323,
+          "title": "米リップル社とSEC、裁判所に最終書類を提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ripple_xrp_judgment_20190906.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ripple_xrp_judgment_20190906.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=413793",
+          "author": "K.Kobayashi",
+          "description": "米ツイッター社は、独自通貨Twitter Coinを開発している可能性が浮上。仮想通貨に対応した投げ銭機能で使用されるとみられ、ツイッターコインは仮想通貨である可能性がある。",
+          "link": "https://coinpost.jp/?p=413793",
+          "publishedOn": "2022-12-06T00:32:49.000Z",
+          "wordCount": 2273,
+          "title": "米ツイッター社、独自仮想通貨「Twitter Coin」開発か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/twitter-btc-address.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/twitter-btc-address.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=413800",
+          "author": "A.Yamada",
+          "description": "仮想通貨融資企業Nexoは、米国から数か月をかけて段階的に撤退すると発表した。米国の州および連邦規制当局との対話に行き詰まったことを理由としている。",
+          "link": "https://coinpost.jp/?p=413800",
+          "publishedOn": "2022-12-06T00:30:49.000Z",
+          "wordCount": 2258,
+          "title": "仮想通貨レンディング企業Nexo、米国から撤退へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/nexo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/nexo.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=413643",
           "author": "Noah Sakamaki",
