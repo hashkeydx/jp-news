@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-06T08:31:00.751Z</updated>
+    <updated>2022-12-06T09:25:07.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゴールドマンサックス、仮想通貨企業の買収に意欲＝報道]]></title>
+        <id>https://coinpost.jp/?p=413978</id>
+        <link href="https://coinpost.jp/?p=413978"/>
+        <updated>2022-12-06T09:03:01.000Z</updated>
+        <summary type="html"><![CDATA[金融大手ゴールドマンサックスが不特定多数の仮想通貨関連企業の買収を検討していることがわかった。デジタル資産部門の責任者は、インタビューで長期視点では将来性を評価する姿勢を崩していないと語った。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maple Finance、FTX破綻の余波で42億円の不良債権]]></title>
         <id>https://coinpost.jp/?p=413955</id>
@@ -816,17 +826,6 @@ LINE、NFT保有者限定のコンテンツ配信 first appeared on coindesk JAP
         <summary type="html"><![CDATA[今日のニューヨークダウ平均は昨日の利上げ減速期待上げから一転し米景気後退のリスクが意識されている形で反落。バイナンスのIEO銘柄HOOKは高騰している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弁護士から、バンクマン-フリード氏へ10の質問]]></title>
-        <id>https://www.coindeskjapan.com/?p=166882</id>
-        <link href="https://www.coindeskjapan.com/166882/"/>
-        <updated>2022-12-01T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[30年以上も証券関連の訴訟に携わってきた私は、多数の詐欺師たちに反対尋問を行ってきた。担当した訴訟の大半は、ウォール街、証券会社、銀行、株式やデリバティブ取引所 ...
-弁護士から、バンクマン-フリード氏へ10の質問 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>James Murphy</name>
         </author>
     </entry>
 </feed>
