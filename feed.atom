@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-07T08:31:01.853Z</updated>
+    <updated>2022-12-07T09:25:28.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ledger、仮想通貨の次世代ハードウォレット「Ledger Stax」公開]]></title>
+        <id>https://coinpost.jp/?p=414330</id>
+        <link href="https://coinpost.jp/?p=414330"/>
+        <updated>2022-12-07T08:48:51.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨ウォレット企業Ledgerは、iPodやiPhoneの開発に携わったTony Fadell氏がデザインした最新モデルのハードウォレット「Ledger Stax」のリリースを発表。2023年3月に販売開始する。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「iPodの父」を起用したハードウェアウォレット、Ledgerが発表]]></title>
         <id>https://www.coindeskjapan.com/?p=167589</id>
