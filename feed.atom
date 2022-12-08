@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-08T22:25:24.745Z</updated>
+    <updated>2022-12-08T23:27:16.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スターバックスNFT、ベータテスト開始]]></title>
+        <id>https://coinpost.jp/?p=414932</id>
+        <link href="https://coinpost.jp/?p=414932"/>
+        <updated>2022-12-08T23:05:47.000Z</updated>
+        <summary type="html"><![CDATA[米スターバックスは8日、「Starbucks Odyssey」というWeb3体験プログラムのベータ版テストを米国で開始した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、ステーキング引き出し機能の実装は来年3月が目標]]></title>
+        <id>https://coinpost.jp/?p=414918</id>
+        <link href="https://coinpost.jp/?p=414918"/>
+        <updated>2022-12-08T22:38:33.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのコア開発者は、次期アップグレードShanghaiは23年3月頃に実施できるよう目指すことで合意。Shanghaiでは、ステーキングしたイーサリアムの引き出しが可能になる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9日朝の金融市場短観｜テスラ4日続落　米FTCがマイクロソフトのゲーム大手買収阻止へ]]></title>
         <id>https://coinpost.jp/?p=414621</id>
