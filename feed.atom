@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-10T11:21:15.409Z</updated>
+    <updated>2022-12-10T12:43:30.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株式会社THE BATTLEのプレスリリース｜PR TIMES]]></title>
+        <id>9ac5023e13078c7c55b7dab77a80d600</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca60e7c31079"/>
+        <updated>2022-12-10T12:43:22.710Z</updated>
+        <summary type="html"><![CDATA[PR TIMESで配信された株式会社THE BATTLEのプレスリリース一覧です（最新配信日：2022年12月9日 21時00分）。株式会社THE BATTLE｜「従来の常識と戦う、web3組織」として設立。コアメンバーは2018年からブロックチェーン領域で活動、様々なクリエイティブを手掛けています。現在はweb3型アニメ制作委員会「CryptoAnime Labs」にて人気NFT「CryptoNinja」のアニメ化プロジェクト、ブロックチェーンゲーム「Isekai Battle」の企画開発など、エンタメ領域で複数プロジェクトを推進。東京都支援事業社。]]></summary>
+        <author>
+            <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海外仮想通貨取引所Bybit、分散型取引所「ApeX」を統合]]></title>
         <id>https://coinpost.jp/?p=415490</id>
@@ -144,6 +154,16 @@
         <updated>2022-12-09T12:45:13.749Z</updated>
         <author>
             <name>rss.app</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フルオンチェーンゲーム『Isekai Battle』メインネットで探索モードが解禁。未公開の新キャラが貰える「種」集めランキングイベント開催]]></title>
+        <id>10a32eccc868dd11b278ef21e4bfe447</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06863df140f9368d369e3c00c2350d667"/>
+        <updated>2022-12-09T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[株式会社THE BATTLEのプレスリリース（2022年12月9日 21時00分）フルオンチェーンゲーム『Isekai Battle』メインネットで探索モードが解禁。未公開の新キャラが貰える[種]集めランキングイベント開催]]></summary>
+        <author>
+            <name>株式会社THE BATTLE</name>
         </author>
     </entry>
     <entry>
@@ -1030,26 +1050,6 @@ Crypto.comの暗号資産CRO、コカ・コーラとのサッカーW杯記念NFT
         <summary type="html"><![CDATA[米リップル社とSECは、仮想通貨XRPの有価証券問題を巡る裁判で、略式判決の動議書に対する回答を提出。約2年継続した裁判は、最終局面に入ったとみられる。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ツイッター社、独自仮想通貨「Twitter Coin」開発か]]></title>
-        <id>https://coinpost.jp/?p=413793</id>
-        <link href="https://coinpost.jp/?p=413793"/>
-        <updated>2022-12-06T00:32:49.000Z</updated>
-        <summary type="html"><![CDATA[米ツイッター社は、独自通貨Twitter Coinを開発している可能性が浮上。仮想通貨に対応した投げ銭機能で使用されるとみられ、ツイッターコインは仮想通貨である可能性がある。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨レンディング企業Nexo、米国から撤退へ]]></title>
-        <id>https://coinpost.jp/?p=413800</id>
-        <link href="https://coinpost.jp/?p=413800"/>
-        <updated>2022-12-06T00:30:49.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨融資企業Nexoは、米国から数か月をかけて段階的に撤退すると発表した。米国の州および連邦規制当局との対話に行き詰まったことを理由としている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
