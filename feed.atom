@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-11T20:25:37.667Z</updated>
+    <updated>2022-12-11T21:22:32.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不適切な顧客資産の管理、バンクマン-フリード氏がついに認めた？]]></title>
+        <id>https://www.coindeskjapan.com/?p=167955</id>
+        <link href="https://www.coindeskjapan.com/167955/"/>
+        <updated>2022-12-11T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[壊滅的な破綻によってFTXに大きな注目が集まっているにもかかわらず、FTXとその姉妹企業アラメダ・リサーチ（Alameda Research）が実際、どのように ...
+不適切な顧客資産の管理、バンクマン-フリード氏がついに認めた？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI関連の暗号資産が上昇：12月5日週のCoinDesk Market Index]]></title>
         <id>https://www.coindeskjapan.com/?p=168047</id>
@@ -701,16 +712,6 @@ Oasys、ネイティブ暗号資産OASを5つの海外取引所に同時上場 f
         <updated>2022-12-07T12:46:07.098Z</updated>
         <author>
             <name>rss.app</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ledger、仮想通貨の次世代ハードウォレット「Ledger Stax」公開]]></title>
-        <id>https://coinpost.jp/?p=414330</id>
-        <link href="https://coinpost.jp/?p=414330"/>
-        <updated>2022-12-07T08:48:51.000Z</updated>
-        <summary type="html"><![CDATA[大手仮想通貨ウォレット企業Ledgerは、iPodやiPhoneの開発に携わったTony Fadell氏がデザインした最新モデルのハードウォレット「Ledger Stax」のリリースを発表。2023年3月に販売開始する。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
