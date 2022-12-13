@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-13T10:29:48.062Z</updated>
+    <updated>2022-12-13T11:22:25.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンスからの引き出しは続き、BNBは8％下落──きっかけとなったサン氏は沈静化を図る]]></title>
+        <id>https://www.coindeskjapan.com/?p=168350</id>
+        <link href="https://www.coindeskjapan.com/168350/"/>
+        <updated>2022-12-13T11:10:25.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所バイナンス（Binance）の健全性に対する漠然とした不安が12月13日、アジアの取引時間に市場に広がっていた。 不安の一部は、トロン ...
+バイナンスからの引き出しは続き、BNBは8％下落──きっかけとなったサン氏は沈静化を図る first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CFTC、OokiDAOに対する訴訟プロセスが覆る]]></title>
         <id>https://coinpost.jp/?p=415991</id>
@@ -722,26 +733,6 @@ OKCoinJapan、柴犬コインを取り扱いへ first appeared on coindesk JAPAN
 11月の暗号資産オプション取引高、過去最高に：Deribit first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スターバックスNFT、ベータテスト開始]]></title>
-        <id>https://coinpost.jp/?p=414932</id>
-        <link href="https://coinpost.jp/?p=414932"/>
-        <updated>2022-12-08T23:05:47.000Z</updated>
-        <summary type="html"><![CDATA[米スターバックスは8日、「Starbucks Odyssey」というWeb3体験プログラムのベータ版テストを米国で開始した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、ステーキング引き出し機能の実装は来年3月が目標]]></title>
-        <id>https://coinpost.jp/?p=414918</id>
-        <link href="https://coinpost.jp/?p=414918"/>
-        <updated>2022-12-08T22:38:33.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムのコア開発者は、次期アップグレードShanghaiは23年3月頃に実施できるよう目指すことで合意。Shanghaiでは、ステーキングしたイーサリアムの引き出しが可能になる。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
