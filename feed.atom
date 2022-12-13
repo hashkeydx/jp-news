@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-13T20:26:56.316Z</updated>
+    <updated>2022-12-13T21:23:32.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTは検索に支配されたWeb2を倒し、Web3への道を開く【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=168184</id>
+        <link href="https://www.coindeskjapan.com/168184/"/>
+        <updated>2022-12-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェアのリリースにテックコミュニティがこれほど夢中になったのは久しぶり。イーロン・マスク氏が立ち上げたAIスタートアップ、OpenAIの「ChatGPT」 ...
+ChatGPTは検索に支配されたWeb2を倒し、Web3への道を開く【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC、バンクマン-フリード前CEOを詐欺で告訴]]></title>
         <id>https://www.coindeskjapan.com/?p=168387</id>
@@ -670,16 +681,6 @@ OKCoinJapan、柴犬コインを取り扱いへ first appeared on coindesk JAPAN
         <summary type="html"><![CDATA[Zweispace / Zweichain / Zweicoinのプレスリリース（2022年12月9日 17時47分） メタバース光速建築トークン[ビルドトークン]を発表。　特許取得みのAIアプリトークンと、近未来のユーティリティー。]]></summary>
         <author>
             <name>Zweispace / Zweichain / Zweicoin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、ステーブルコインUSDCへの乗り換えキャンペーン実施]]></title>
-        <id>https://coinpost.jp/?p=415204</id>
-        <link href="https://coinpost.jp/?p=415204"/>
-        <updated>2022-12-09T08:43:13.000Z</updated>
-        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースは、ステーブルコインUSDTからUSDCへの取引手数料をゼロにしたことを発表した。安全資産としてUSDCを打ち出しているが、仮想通貨ユーザーから批判も集めている。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
