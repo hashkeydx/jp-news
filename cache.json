@@ -154,16 +154,6 @@
           "wordCount": 412,
           "title": "フルオンチェーンゲーム『Isekai Battle』メインネットで探索モードが解禁。未公開の新キャラが貰える「種」集めランキングイベント開催",
           "imageUrl": null
-        },
-        {
-          "id": "0d391b231715f22613e76278a384ce80",
-          "author": "Zweispace / Zweichain / Zweicoin",
-          "description": "Zweispace / Zweichain / Zweicoinのプレスリリース（2022年12月9日 17時47分） メタバース光速建築トークン[ビルドトークン]を発表。　特許取得みのAIアプリトークンと、近未来のユーティリティー。",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3ab6b63df140f9362dc68e7ca0c2350d667",
-          "publishedOn": "2022-12-09T10:15:02.000Z",
-          "wordCount": 412,
-          "title": "​メタバース光速建築トークン「ビルドトークン」を発表。　特許取得みのAIアプリトークンと、近未来のユーティリティー。",
-          "imageUrl": null
         }
       ]
     },
@@ -172,6 +162,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=168376",
+          "author": "Will Canny",
+          "description": "ビットコイン（BTC）の価値提案は、その潜在的な有用性に基づいている。したがって将来の普及レベルは、ゴールドよりも金利の変化に影響される、あるいは長いデュレーシ ...\nゴールド、長期的にビットコインを上回る：ゴールドマン・サックス first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/168376/",
+          "publishedOn": "2022-12-13T22:25:30.000Z",
+          "wordCount": 1736,
+          "title": "ゴールド、長期的にビットコインを上回る：ゴールドマン・サックス",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/GOLD.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=168184",
           "author": "Michael J Casey",
@@ -385,6 +385,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=415857",
+          "author": "菊谷ルイス",
+          "description": "米株式市場は米11月のCPIを好感しほぼ全面高。ビットコインは一時18,000ドルにまで急上昇した。",
+          "link": "https://coinpost.jp/?p=415857",
+          "publishedOn": "2022-12-13T22:05:35.000Z",
+          "wordCount": 2388,
+          "title": "14日朝の金融市場短観｜米11月CPIが予想下回る　明日はFOMC金利発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=415991",
           "author": "AKIRA.H",
