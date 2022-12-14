@@ -114,46 +114,6 @@
           "wordCount": 412,
           "title": "株式会社THE BATTLEのプレスリリース｜PR TIMES",
           "imageUrl": null
-        },
-        {
-          "id": "71957c56622c17ca1b6fe65265f88ece",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca69e2c4",
-          "publishedOn": "2022-12-09T12:45:13.760Z",
-          "wordCount": 412,
-          "title": "GMOインターネットグループ",
-          "imageUrl": null
-        },
-        {
-          "id": "cd0bea18a7fa36bd0263b22913147615",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca69e0c0167a1d",
-          "publishedOn": "2022-12-09T12:45:13.757Z",
-          "wordCount": 412,
-          "title": "株式会社むらかみかいぞく",
-          "imageUrl": null
-        },
-        {
-          "id": "e1d298d52e918ef33fe338c57548b6ee",
-          "author": "rss.app",
-          "description": "",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de6bfba06863df140f9360d569e2c40c2350d667",
-          "publishedOn": "2022-12-09T12:45:13.749Z",
-          "wordCount": 412,
-          "title": "Web3サービスのセキュリティリスクを設計・実装段階で評価「NFT・ブロックチェーン脆弱性診断」を提供開始【GMOサイバーセキュリティ byイエラエ】",
-          "imageUrl": null
-        },
-        {
-          "id": "10a32eccc868dd11b278ef21e4bfe447",
-          "author": "株式会社THE BATTLE",
-          "description": "株式会社THE BATTLEのプレスリリース（2022年12月9日 21時00分）フルオンチェーンゲーム『Isekai Battle』メインネットで探索モードが解禁。未公開の新キャラが貰える[種]集めランキングイベント開催",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06863df140f9368d369e3c00c2350d667",
-          "publishedOn": "2022-12-09T12:00:01.000Z",
-          "wordCount": 412,
-          "title": "フルオンチェーンゲーム『Isekai Battle』メインネットで探索モードが解禁。未公開の新キャラが貰える「種」集めランキングイベント開催",
-          "imageUrl": null
         }
       ]
     },
@@ -162,6 +122,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=168429",
+          "author": "Cheyenne Ligon",
+          "description": "FTXのサム・バンクマン-フリード前CEOは12月13日、バハマの裁判官に対して、アメリカへの身柄引き渡しに反対する権利を放棄するつもりはないと述べた。 前CE ...\nサム・バンクマン-フリード前CEO、バハマの裁判所に出廷【現地レポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/168429/",
+          "publishedOn": "2022-12-14T00:30:42.000Z",
+          "wordCount": 1781,
+          "title": "サム・バンクマン-フリード前CEO、バハマの裁判所に出廷【現地レポート】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/X775QKYOOZEM5LQPVXFFYG5EW4.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=168376",
           "author": "Will Canny",
@@ -375,6 +345,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=416169",
+          "author": "A.Yamada",
+          "description": "米国の捜査当局は、破綻した仮想通貨取引所FTXの前CEOを起訴した。詐欺、マネロン、選挙資金違反など様々な容疑を挙げている。",
+          "link": "https://coinpost.jp/?p=416169",
+          "publishedOn": "2022-12-14T01:45:38.000Z",
+          "wordCount": 2238,
+          "title": "米捜査当局、FTXのサム前CEOを起訴　詐欺やマネロンの疑いで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/doj-framework.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/doj-framework.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=416112",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムのソフトウェア企業ConsenSysは、zkEVMのプライベートベータ版テストネットをローンチすることを発表。今後の計画について説明している。",
+          "link": "https://coinpost.jp/?p=416112",
+          "publishedOn": "2022-12-14T01:15:33.000Z",
+          "wordCount": 2266,
+          "title": "米ConsenSys、イーサリアムL2「zkEVM」のテストネットをローンチへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/rb-zkevm-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/rb-zkevm-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=416108",
+          "author": "菊谷ルイス",
+          "description": "カナダ証券管理局（CSA）はFTXの破綻など今年の業界不祥事を受けて仮想通貨取引所を含む業者に対してルールの引き締めを発表した。",
+          "link": "https://coinpost.jp/?p=416108",
+          "publishedOn": "2022-12-13T23:22:28.000Z",
+          "wordCount": 2220,
+          "title": "カナダ、仮想通貨証拠金取引を禁止へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/canadabtc1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/canadabtc1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=416096",
           "author": "K.Kobayashi",
