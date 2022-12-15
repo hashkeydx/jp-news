@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-15T21:21:55.492Z</updated>
+    <updated>2022-12-15T22:24:59.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[16日朝の金融市場短観｜NYダウ急落　米利上げ長期化懸念か]]></title>
+        <id>https://coinpost.jp/?p=416752</id>
+        <link href="https://coinpost.jp/?p=416752"/>
+        <updated>2022-12-15T21:45:58.000Z</updated>
+        <summary type="html"><![CDATA[今日のニューヨークダウは一時900ドル以上安。株式・仮想通貨市場はほぼ全面安。ネットフリックスとコア・サイエンティフィックの値動きが目立つ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バンクマン-フリード氏の起訴内容を理解する【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=168560</id>
@@ -958,17 +968,6 @@ SMBCグループと業務提携、HashPortが譲渡できないNFT「ソウル�
 不適切な顧客資産の管理、バンクマン-フリード氏がついに認めた？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI関連の暗号資産が上昇：12月5日週のCoinDesk Market Index]]></title>
-        <id>https://www.coindeskjapan.com/?p=168047</id>
-        <link href="https://www.coindeskjapan.com/168047/"/>
-        <updated>2022-12-11T10:15:02.000Z</updated>
-        <summary type="html"><![CDATA[AI（人工知能）に焦点を当てたブロックチェーンベースのプロジェクト「フェッチAI（Fetch.ai）」の暗号資産フェッチAI（FET）は、12月5日の週、Coi ...
-AI関連の暗号資産が上昇：12月5日週のCoinDesk Market Index first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jocelyn Yang</name>
         </author>
     </entry>
 </feed>
