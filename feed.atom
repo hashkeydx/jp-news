@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-15T02:54:50.457Z</updated>
+    <updated>2022-12-15T03:30:45.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、イーサリアムなどをコモディティと改めて定義]]></title>
+        <id>https://coinpost.jp/?p=416561</id>
+        <link href="https://coinpost.jp/?p=416561"/>
+        <updated>2022-12-15T03:00:32.000Z</updated>
+        <summary type="html"><![CDATA[米商品先物取引委員会は、FTXが商品取引法に違反したと申し立てる裁判書類を提出。その中で、仮想通貨イーサリアムを「コモディティ」と位置付けている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米BitGo、FTX破綻直前にアラメダから出金要請を拒否]]></title>
         <id>https://coinpost.jp/?p=416548</id>
