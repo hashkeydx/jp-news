@@ -204,16 +204,6 @@
           "wordCount": 412,
           "title": "HIP HOPアーティストPESが参加するユニット「Charlie（チャーリー）」の新曲をNFT限定でリリース！更に、NFT保有者が参加できるコミュニティ“チャリミナティ”をオープン！",
           "imageUrl": null
-        },
-        {
-          "id": "8b47c4867c53e91c6c499852766f53a3",
-          "author": "株式会社トレードワルツ",
-          "description": "株式会社トレードワルツのプレスリリース（2022年12月12日 15時00分）貿易情報電子化プラットフォーム[TradeWaltz(R)]と連携　中小物流企業向け案件サービス[Beyond TheBook(R)]Premiumプラン提供開始",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a56b63df140f9366dc6ce4c30c2350d667",
-          "publishedOn": "2022-12-12T11:15:02.000Z",
-          "wordCount": 412,
-          "title": "貿易情報電子化プラットフォーム「TradeWaltz®」と連携　中小物流企業向け案件サービス「Beyond TheBook®」Premiumプラン提供開始",
-          "imageUrl": null
         }
       ]
     },
@@ -222,6 +212,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=168757",
+          "author": "Daniel Kuhn",
+          "description": "FTX破綻の余波の中、多くの人たちが暗号資産（仮想通貨）取引所の支払い能力について懸念を抱いていることは無理もない。米当局の起訴状によると、FTXの顧客資産、約 ...\nジャオCEOがセルフカストディを攻撃しても、バイナンスにプラスにはならない【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/168757/",
+          "publishedOn": "2022-12-16T22:30:00.000Z",
+          "wordCount": 1804,
+          "title": "ジャオCEOがセルフカストディを攻撃しても、バイナンスにプラスにはならない【オピニオン】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/FU36HQ5QQZEI7FCZNR3SAX7NKI-1.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=168808",
           "author": "coindesk JAPAN",
@@ -485,6 +485,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=417213",
+          "author": "K.Kobayashi",
+          "description": "11月に破産申請した仮想通貨取引所FTXは、FTX Japanのサービスなど4つの事業を売却する申し立てを行った。売却の方法や今後のスケジュールを説明している。",
+          "link": "https://coinpost.jp/?p=417213",
+          "publishedOn": "2022-12-16T22:55:52.000Z",
+          "wordCount": 2112,
+          "title": "FTX、日本の仮想通貨取引所など4事業の売却を申し立て",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/ftx-bankrupt-sec.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/ftx-bankrupt-sec.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=416861",
+          "author": "菊谷ルイス",
+          "description": "今日のニューヨークダウや仮想通貨市場は続落。金融市場では来年の景気後退リスク、仮想通貨セクターでは米監査企業Mazarsの撤退やRaydiumのハッキングが悪材料となった。",
+          "link": "https://coinpost.jp/?p=416861",
+          "publishedOn": "2022-12-16T22:10:49.000Z",
+          "wordCount": 2317,
+          "title": "17日朝の金融市場短観｜米国株・仮想通貨全面安",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=417105",
           "author": "Noah Sakamaki",
