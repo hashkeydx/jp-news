@@ -144,16 +144,6 @@
           "wordCount": 412,
           "title": "自民党web3PTの中間提言におけるSanpō-Blockchainを活用したコンテンツに係る権利情報の記録を中心とする一般社団法人JCBIの取組みの取り上げ",
           "imageUrl": null
-        },
-        {
-          "id": "5dd2758214b69e237badce3e9b273c50",
-          "author": "株式会社COINJINJA",
-          "description": "株式会社COINJINJAのプレスリリース（2022年12月15日 20時31分）NFTマーケットプレイスtofuNFT、Astar Network初のメタバースプロジェクト COSMIZEと戦略的パートナーシップを締結",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36363df140f9363d36ee3c10c2350d667",
-          "publishedOn": "2022-12-15T11:31:43.000Z",
-          "wordCount": 412,
-          "title": "NFTマーケットプレイスtofuNFT、Astar Network初のメタバースプロジェクト COSMIZEと戦略的パートナーシップを締結",
-          "imageUrl": null
         }
       ]
     },
@@ -162,6 +152,26 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=169075",
+          "author": "Jocelyn Yang",
+          "description": "トップニュース 破産した暗号資産レンディングのボイジャー・デジタル（Voyager Digital）は12月19日、同社資産をバイナンスUS（Binance.U ...\n【US市場】ビットコイン、1万6500ドル付近──バイナンス、破綻したボイジャーの資産購入 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/169075/",
+          "publishedOn": "2022-12-20T01:15:54.000Z",
+          "wordCount": 1846,
+          "title": "【US市場】ビットコイン、1万6500ドル付近──バイナンス、破綻したボイジャーの資産購入",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/スクリーンショット-2022-12-20-10.02.09.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=169063",
+          "author": "Oliver Knight",
+          "description": "グレイスケール・インベストメンツ（Grayscale Investments）は、SEC（証券取引委員会）がビットコインETF（上場投資信託）への転換を拒否した ...\nグレイスケール・ビットコイン・トラスト、資本の一部返却を検討──SECはビットコインETFへの転換申請を拒否 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/169063/",
+          "publishedOn": "2022-12-19T23:45:24.000Z",
+          "wordCount": 1795,
+          "title": "グレイスケール・ビットコイン・トラスト、資本の一部返却を検討──SECはビットコインETFへの転換申請を拒否",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/スクリーンショット-2022-12-20-8.25.11.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=169000",
           "author": "Linda Adami",
@@ -365,6 +375,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=417674",
+          "author": "A.Yamada",
+          "description": "米決済大手Visaは、ブロックチェーンを利用した定期的な自動支払を実現する方法を提示した。デジタルウォレットからも公共料金などの自動支払いを実現できるものだ。",
+          "link": "https://coinpost.jp/?p=417674",
+          "publishedOn": "2022-12-20T01:30:36.000Z",
+          "wordCount": 2226,
+          "title": "米決済大手Visa、デジタルウォレットの自動支払いを提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/visa-wallet.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/visa-wallet.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=417667",
+          "author": "K.Kobayashi",
+          "description": "BAYCなどのNFTを手掛けるYuga Labsは、米大手ゲーム企業Activision Blizzardのトップを新CEOに任命。着任は2023年上半期の予定である。",
+          "link": "https://coinpost.jp/?p=417667",
+          "publishedOn": "2022-12-20T00:35:14.000Z",
+          "wordCount": 2321,
+          "title": "Yuga Labs、ゲーム大手Activision BlizzardのトップをCEOに任命",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/bayc-mint-revoke.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/bayc-mint-revoke.png"
+        },
         {
           "id": "https://coinpost.jp/?p=417652",
           "author": "菊谷ルイス",
