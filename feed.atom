@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-20T07:22:17.797Z</updated>
+    <updated>2022-12-20T08:29:49.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ソラナ（SOL）、ステーキングの手数料詐欺に警戒]]></title>
+        <id>https://coinpost.jp/?p=417766</id>
+        <link href="https://coinpost.jp/?p=417766"/>
+        <updated>2022-12-20T08:09:54.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナのブロックチェーン基盤を維持する「バリデーター」について、一部集団によるコミッションフィーの詐欺行為が検出された。直近で41のバリデーターが報酬配布期日直前に条件を変更した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨決済の「Slash」、国内仮想通貨取引所Zaifと提携]]></title>
         <id>https://coinpost.jp/?p=417720</id>
