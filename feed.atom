@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-20T21:22:32.714Z</updated>
+    <updated>2022-12-20T22:25:23.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[21日朝の金融市場短観｜NYダウ反発　日銀事実上の利上げ]]></title>
+        <id>https://coinpost.jp/?p=417737</id>
+        <link href="https://coinpost.jp/?p=417737"/>
+        <updated>2022-12-20T21:55:21.000Z</updated>
+        <summary type="html"><![CDATA[株式市場などでサンタクロースラリーへの期待は後退した格好だ。21日のニューヨークダウの反発は方向感なく限定的。昨日の日銀利上げ発表はネガティブサプライズになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨ソラナ（SOL）、ステーキングの手数料詐欺に警戒]]></title>
         <id>https://coinpost.jp/?p=417766</id>
@@ -559,16 +569,6 @@ SECがFTX前CEOを詐欺で告訴、トランプ前大統領のNFTカード【12
         <summary type="html"><![CDATA[ジャスミー株式会社のプレスリリース（2022年12月16日 15時00分）ナチュラルキャピタルクレジットコンソーシアムへの参画について]]></summary>
         <author>
             <name>ジャスミー株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ディーカレット親会社Amber Group、410億円の資金調達完了]]></title>
-        <id>https://coinpost.jp/?p=417105</id>
-        <link href="https://coinpost.jp/?p=417105"/>
-        <updated>2022-12-16T09:43:48.000Z</updated>
-        <summary type="html"><![CDATA[ディーカレット親会社で大手仮想通貨投資企業Amber GroupはシリーズCの資金調達ラウンド完了を発表した。FTX破綻など相場環境悪化を受け事業縮小を迫られる中、再起を図る。]]></summary>
-        <author>
-            <name>Noah Sakamaki</name>
         </author>
     </entry>
 </feed>
