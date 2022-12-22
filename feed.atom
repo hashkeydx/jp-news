@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-22T02:43:31.863Z</updated>
+    <updated>2022-12-22T03:25:41.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン相場は小動き、TwitterがBTCとETHのチャート表示機能を提供]]></title>
+        <id>https://coinpost.jp/?p=418275</id>
+        <link href="https://coinpost.jp/?p=418275"/>
+        <updated>2022-12-22T03:21:51.000Z</updated>
+        <summary type="html"><![CDATA[米12月消費者信頼感指数を受けて市場心理が緩和されたことでビットコイン相場も下げ止まったが小動きに留まる。イーロン・マスク氏が退任を示唆したTwitterは、BTCとETHのチャート表示機能を提供開始した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナDEX「Raydium」、ハッキング被害の補償案を投票へ]]></title>
+        <id>https://coinpost.jp/?p=418293</id>
+        <link href="https://coinpost.jp/?p=418293"/>
+        <updated>2022-12-22T03:00:09.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ基盤の分散型取引所「Raydium」で発生した仮想通貨の不正流出について、被害者への補償案が提出された。被害総額は約5.8億円の穴埋めはトレジャリーから捻出される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所ジェミナイ、利回りサービス償還に向け解決案を提出]]></title>
         <id>https://coinpost.jp/?p=418260</id>
