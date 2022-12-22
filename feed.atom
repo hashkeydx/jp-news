@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-22T04:29:50.045Z</updated>
+    <updated>2022-12-22T05:24:02.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東証、SMBC日興証券に売買停止処分と3億円の過怠金]]></title>
+        <id>https://coinpost.jp/?p=418346</id>
+        <link href="https://coinpost.jp/?p=418346"/>
+        <updated>2022-12-22T05:00:28.000Z</updated>
+        <summary type="html"><![CDATA[東京証券取引所は、相場操縦事件を起こしたSMBC日興証券に対し自己勘定による有価証券の売買停止処分と過怠金の3億円を科すことを発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アラメダの元CEOエリソン氏ら、刑事責任を認める]]></title>
+        <id>https://coinpost.jp/?p=418353</id>
+        <link href="https://coinpost.jp/?p=418353"/>
+        <updated>2022-12-22T04:30:46.000Z</updated>
+        <summary type="html"><![CDATA[破綻したFTXの共同設立者Wang氏と、Alameda Researchの元CEO Ellison氏が刑事責任を認めたことが明らかになった。検察は両名の協力を受けて、関係者について告発していく構えだ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、2018年にICOで資金調達したThor Technologiesを証券法違反で提訴]]></title>
         <id>https://coinpost.jp/?p=418303</id>
