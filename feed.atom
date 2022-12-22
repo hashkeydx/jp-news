@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-22T03:25:41.350Z</updated>
+    <updated>2022-12-22T04:29:50.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、2018年にICOで資金調達したThor Technologiesを証券法違反で提訴]]></title>
+        <id>https://coinpost.jp/?p=418303</id>
+        <link href="https://coinpost.jp/?p=418303"/>
+        <updated>2022-12-22T03:40:42.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）はThor Technologiesとその創業者らに対し、2018年に実施したICOによる資金調達が証券法違反だとして提訴した。利益返還や民事罰を求めている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン相場は小動き、TwitterがBTCとETHのチャート表示機能を提供]]></title>
         <id>https://coinpost.jp/?p=418275</id>
