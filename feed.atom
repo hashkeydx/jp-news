@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-21T23:25:46.870Z</updated>
+    <updated>2022-12-22T01:46:19.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【US市場】ビットコイン、イーサリアムは横ばい]]></title>
+        <id>https://www.coindeskjapan.com/?p=169303</id>
+        <link href="https://www.coindeskjapan.com/169303/"/>
+        <updated>2022-12-22T01:25:26.000Z</updated>
+        <summary type="html"><![CDATA[トップニュース FTXのサム・バンクマン-フリード前CEOは21日にアメリカに引き渡されることになったと、バハマの司法長官ライアン・ピンダー（Ryan Pind ...
+【US市場】ビットコイン、イーサリアムは横ばい first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Jocelyn Yang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、アイルランドでライセンス取得]]></title>
+        <id>https://coinpost.jp/?p=418266</id>
+        <link href="https://coinpost.jp/?p=418266"/>
+        <updated>2022-12-22T01:12:21.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所コインベースは、アイルランドで仮想通貨企業としてのライセンスを取得。欧州でサービス提供を続けていくことが可能になった。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイニング大手のコア・サイエンティフィック、破産を申請]]></title>
         <id>https://www.coindeskjapan.com/?p=169265</id>
@@ -704,16 +725,6 @@ coindesk JAPAN、LINE公式アカウント開設 first appeared on coindesk JAPA
 アイ,トレーディング・ボット【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Nathan Thompson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PassPay株式会社のプレスリリース｜PR TIMES]]></title>
-        <id>fb5a4f416c0db7c08b3755a5f48383d6</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca61e9c7177f"/>
-        <updated>2022-12-17T12:40:14.861Z</updated>
-        <summary type="html"><![CDATA[PR TIMESで配信されたPassPay株式会社のプレスリリース一覧です（最新配信日：2022年12月17日 07時58分）。PassPay株式会社｜PassPay株式会社は2022年2月に創業し、2022年3月22日よりERC20自家型前払式支払手段として日本円連動ステーブルコイン「JPYW(JPYWorld)」を発行、販売しています。我々はステーブルコインを実生活で利用する上での「バーチャルとリアルの壁」「国境の壁」「現在と未来の壁」という3つの壁を“Pass(解決)”するソリューションを提供していきます。]]></summary>
-        <author>
-            <name>プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES</name>
         </author>
     </entry>
 </feed>

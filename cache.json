@@ -154,16 +154,6 @@
           "wordCount": 412,
           "title": "ニッセイ情報テクノロジーと日立、Web3時代に向けてブロックチェーン技術を用いた顧客主権型データ連携システムの共同検証を開始",
           "imageUrl": null
-        },
-        {
-          "id": "fb5a4f416c0db7c08b3755a5f48383d6",
-          "author": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
-          "description": "PR TIMESで配信されたPassPay株式会社のプレスリリース一覧です（最新配信日：2022年12月17日 07時58分）。PassPay株式会社｜PassPay株式会社は2022年2月に創業し、2022年3月22日よりERC20自家型前払式支払手段として日本円連動ステーブルコイン「JPYW(JPYWorld)」を発行、販売しています。我々はステーブルコインを実生活で利用する上での「バーチャルとリアルの壁」「国境の壁」「現在と未来の壁」という3つの壁を“Pass(解決)”するソリューションを提供していきます。",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca61e9c7177f",
-          "publishedOn": "2022-12-17T12:40:14.861Z",
-          "wordCount": 412,
-          "title": "PassPay株式会社のプレスリリース｜PR TIMES",
-          "imageUrl": null
         }
       ]
     },
@@ -172,6 +162,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=169303",
+          "author": "Jocelyn Yang",
+          "description": "トップニュース FTXのサム・バンクマン-フリード前CEOは21日にアメリカに引き渡されることになったと、バハマの司法長官ライアン・ピンダー（Ryan Pind ...\n【US市場】ビットコイン、イーサリアムは横ばい first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/169303/",
+          "publishedOn": "2022-12-22T01:25:26.000Z",
+          "wordCount": 1845,
+          "title": "【US市場】ビットコイン、イーサリアムは横ばい",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/TRKBNLLZO5F3JEND73OQ43DRK4.jpeg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=169265",
           "author": "Aoyon Ashraf",
@@ -385,6 +385,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=418266",
+          "author": "A.Yamada",
+          "description": "大手仮想通貨取引所コインベースは、アイルランドで仮想通貨企業としてのライセンスを取得。欧州でサービス提供を続けていくことが可能になった。",
+          "link": "https://coinpost.jp/?p=418266",
+          "publishedOn": "2022-12-22T01:12:21.000Z",
+          "wordCount": 2251,
+          "title": "コインベース、アイルランドでライセンス取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/one-more-coinbase.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/one-more-coinbase.png"
+        },
         {
           "id": "https://coinpost.jp/?p=418255",
           "author": "菊谷ルイス",
