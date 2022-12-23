@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-23T21:21:43.352Z</updated>
+    <updated>2022-12-23T22:25:00.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[24日朝の金融市場短観｜クリスマス相場で様子見ムード　gumi前日比+20%]]></title>
+        <id>https://coinpost.jp/?p=418761</id>
+        <link href="https://coinpost.jp/?p=418761"/>
+        <updated>2022-12-23T21:50:52.000Z</updated>
+        <summary type="html"><![CDATA[2つ経済指標を受けて今日のニューヨークダウは小幅反発。明日から米国でクリスマス休暇が始まり相場は様子見ムードに。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「パーミッションレス型ステーブルコイン」の健全な導入・普及に向けた中間整理：デジタルアセット共創コンソーシアム]]></title>
         <id>https://www.coindeskjapan.com/?p=169536</id>
@@ -937,27 +947,6 @@ FTX破綻で露呈した資本主義の限界【コラム】 first appeared on c
 ReFi：Web3の次なるステップ【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Linda Adami</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slash Fintech Limitedと株式会社CAICA DIGITAL（2315 東証スタンダード）が日本国内におけるWeb3社会実装の普及促進に向けて業務提携を締結]]></title>
-        <id>6e8850b04dc45406a1a198931d065927</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26b63df140f9261d661e2ca0c2350d667"/>
-        <updated>2022-12-19T10:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Slash Fintech Limited のプレスリリース（2022年12月19日 19時00分）Slash Fintech Limitedと株式会社CAICA DIGITAL（2315 東証スタンダード）が日本国内におけるWeb3社会実装の普及促進に向けて業務提携を締結]]></summary>
-        <author>
-            <name>Slash Fintech Limited</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファイルコインとストージ、大規模な空売りで下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=169041</id>
-        <link href="https://www.coindeskjapan.com/169041/"/>
-        <updated>2022-12-19T09:45:31.000Z</updated>
-        <summary type="html"><![CDATA[分散型ファイル共有プロトコルのファイルコイン（Filecoin/FIL）とストージ（Storj/STORJ）に週末、空売りが執拗に仕掛けられ、ファイルコインには ...
-ファイルコインとストージ、大規模な空売りで下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
         </author>
     </entry>
 </feed>

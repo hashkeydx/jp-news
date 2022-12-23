@@ -204,16 +204,6 @@
           "wordCount": 412,
           "title": "株式会社GeNEE、「高速で企業のDX化」を支援する実証実験を開始。業務システム、Webシステムなどのスクラッチ開発を3倍速まで高める。",
           "imageUrl": null
-        },
-        {
-          "id": "6e8850b04dc45406a1a198931d065927",
-          "author": "Slash Fintech Limited",
-          "description": "Slash Fintech Limited のプレスリリース（2022年12月19日 19時00分）Slash Fintech Limitedと株式会社CAICA DIGITAL（2315 東証スタンダード）が日本国内におけるWeb3社会実装の普及促進に向けて業務提携を締結",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26b63df140f9261d661e2ca0c2350d667",
-          "publishedOn": "2022-12-19T10:00:01.000Z",
-          "wordCount": 412,
-          "title": "Slash Fintech Limitedと株式会社CAICA DIGITAL（2315 東証スタンダード）が日本国内におけるWeb3社会実装の普及促進に向けて業務提携を締結",
-          "imageUrl": null
         }
       ]
     },
@@ -451,16 +441,6 @@
           "wordCount": 1827,
           "title": "ReFi：Web3の次なるステップ【オピニオン】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/shutterstock_2126710844.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=169041",
-          "author": "Sam Reynolds",
-          "description": "分散型ファイル共有プロトコルのファイルコイン（Filecoin/FIL）とストージ（Storj/STORJ）に週末、空売りが執拗に仕掛けられ、ファイルコインには ...\nファイルコインとストージ、大規模な空売りで下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/169041/",
-          "publishedOn": "2022-12-19T09:45:31.000Z",
-          "wordCount": 1845,
-          "title": "ファイルコインとストージ、大規模な空売りで下落",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/JJWMBPWVNNBBPOFORMCT5B5LTA.jpeg"
         }
       ]
     },
@@ -475,6 +455,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=418761",
+          "author": "菊谷ルイス",
+          "description": "2つ経済指標を受けて今日のニューヨークダウは小幅反発。明日から米国でクリスマス休暇が始まり相場は様子見ムードに。",
+          "link": "https://coinpost.jp/?p=418761",
+          "publishedOn": "2022-12-23T21:50:52.000Z",
+          "wordCount": 2410,
+          "title": "24日朝の金融市場短観｜クリスマス相場で様子見ムード　gumi前日比+20%",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=418607",
           "author": "CoinPost編集部",
