@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-23T02:44:18.863Z</updated>
+    <updated>2022-12-23T03:26:07.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アバランチ「Banff5」アップグレード、サブネット間の相互運用可能に]]></title>
+        <id>https://coinpost.jp/?p=418545</id>
+        <link href="https://coinpost.jp/?p=418545"/>
+        <updated>2022-12-23T03:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Banff5アップグレード高速ブロックチェーンのアバランチ（AVAX）は23日、Banff5アップグレードを完了した。サブネット間の直接通信機能「AvalancheWarpMessaging（AWM）」が実装された。Banff5アップグレー...]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【US市場】ビットコイン、1万6800ドル付近──1万6500ドル台に急落から回復]]></title>
         <id>https://www.coindeskjapan.com/?p=169436</id>
