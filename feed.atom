@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-27T22:25:18.146Z</updated>
+    <updated>2022-12-27T23:25:07.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アバランチ基盤DEX「Trader Joe」、Arbitrumを採用]]></title>
+        <id>https://coinpost.jp/?p=419521</id>
+        <link href="https://coinpost.jp/?p=419521"/>
+        <updated>2022-12-27T23:02:34.000Z</updated>
+        <summary type="html"><![CDATA[アバランチ基盤の大手DEX「Trader Joe」はイーサリアムL2のArbitrumでも稼働開始。マルチチェーン展開の第一歩となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米司法省、FTXから不正流出した仮想通貨の調査を開始＝報道]]></title>
+        <id>https://coinpost.jp/?p=419508</id>
+        <link href="https://coinpost.jp/?p=419508"/>
+        <updated>2022-12-27T22:35:32.000Z</updated>
+        <summary type="html"><![CDATA[米司法省は、FTXから不正流出した仮想通貨の調査を開始したことがわかった。まだほんの一部だが、米当局はすでに流出した資産を凍結したという。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「クリプト・ツイッター」は終わりか──開かれた議論の場はどうなる？【オピニオン】]]></title>
         <id>https://www.coindeskjapan.com/?p=169827</id>
