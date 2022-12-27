@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-27T02:40:44.489Z</updated>
+    <updated>2022-12-27T03:25:49.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧米休場でビットコイン動意せず、投資家心理改善の糸口見えぬ中]]></title>
+        <id>https://coinpost.jp/?p=419343</id>
+        <link href="https://coinpost.jp/?p=419343"/>
+        <updated>2022-12-27T03:06:57.000Z</updated>
+        <summary type="html"><![CDATA[欧米など株式市場がクリスマス休暇にある中、ビットコインなど暗号資産（仮想通貨）のボラティリティは低い。FTX破綻で投資家心理の悪化は著しく、Crypto Fear & Greed Indexは30未満の低水準を維持する。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ツイッターから4億人超のユーザーデータ流出か]]></title>
+        <id>https://coinpost.jp/?p=419357</id>
+        <link href="https://coinpost.jp/?p=419357"/>
+        <updated>2022-12-27T02:58:39.000Z</updated>
+        <summary type="html"><![CDATA[サイバーセキュリティ企業Hudson Rockは、Twitterから個人情報が大量に流出しブラックマーケットで販売されていると報告。ハッカーとみられる人物は身代金交渉を持ちかけている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NEARの「Octopus Network」、4割人員削減へ]]></title>
         <id>https://coinpost.jp/?p=419351</id>
