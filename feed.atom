@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2022-12-28T23:24:02.363Z</updated>
+    <updated>2022-12-29T01:48:09.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自動取引APIの3Commas、ユーザーデータの大規模漏洩を認める]]></title>
+        <id>https://coinpost.jp/?p=419874</id>
+        <link href="https://coinpost.jp/?p=419874"/>
+        <updated>2022-12-29T01:30:55.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引ソフトウェアを提供する3Commasは、ハッキングにより、ユーザーのAPIキーが流出していたことを確認した。ユーザーは10月より被害を報告していた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アラメダから不穏な資金移動、1億円がビットコインに集約か]]></title>
+        <id>https://coinpost.jp/?p=419871</id>
+        <link href="https://coinpost.jp/?p=419871"/>
+        <updated>2022-12-29T00:38:45.000Z</updated>
+        <summary type="html"><![CDATA[破綻した投資会社アラメダに関連する仮想通貨ウォレットに保持されたトークンが、外部に送付されたことが明らかになった。4つのウォレットで計1億円のビットコインを保持されている模様だ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国、初の国家NFTマーケットプレイスを開設──1月1日に記念式典]]></title>
+        <id>https://www.coindeskjapan.com/?p=170019</id>
+        <link href="https://www.coindeskjapan.com/170019/"/>
+        <updated>2022-12-29T00:00:08.000Z</updated>
+        <summary type="html"><![CDATA[中国は、国が支援する初のNFTマーケットプレイスを立ち上げる。暗号資産（仮想通貨）に対する厳しい規制のなか、NFTにも法的にグレーな部分が多いがNFTを受け入れ ...
+中国、初の国家NFTマーケットプレイスを開設──1月1日に記念式典 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Eli Tan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米インフレ減速もビットコインは上値重く、景気後退懸念で八方塞がり【bitbankレポート】]]></title>
+        <id>https://www.coindeskjapan.com/?p=169987</id>
+        <link href="https://www.coindeskjapan.com/169987/"/>
+        <updated>2022-12-28T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[FTXショックの余波が尾を引くなか、16,000ドルを割った11月のビットコイン（BTC）対ドルは、来年の夏に半減期を迎えるライトコイン（LTC）相場の上昇に連 ...
+米インフレ減速もビットコインは上値重く、景気後退懸念で八方塞がり【bitbankレポート】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>長谷川友哉／bitbankマーケット・アナリスト</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年、私を怒らせた5つのこと【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=169717</id>
