@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-03T21:22:42.215Z</updated>
+    <updated>2023-01-03T22:25:42.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン生誕14周年、主な歴史を振り返る]]></title>
+        <id>https://coinpost.jp/?p=416364</id>
+        <link href="https://coinpost.jp/?p=416364"/>
+        <updated>2023-01-03T22:00:45.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月4日、サトシ・ナカモトが考案した暗号資産（仮想通貨）ビットコイン最初のジェネシス・ブロック生成から14周年を迎えた。BTCの主な歴史を振り返る。]]></summary>
+        <author>
+            <name>Noah Sakamaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4日朝の金融市場短観｜年明けのNYダウは下落　ソラナ前日比15%高]]></title>
+        <id>https://coinpost.jp/?p=420424</id>
+        <link href="https://coinpost.jp/?p=420424"/>
+        <updated>2023-01-03T21:45:52.000Z</updated>
+        <summary type="html"><![CDATA[本日年明けのニューヨークダウは続落。米国のIT・ハイテク株でテスラとアップルが下げを主導した。ビットコインやイーサリアムも連れ安だったが、ソラナは前日比15%高となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム共同創業者ヴィタリック氏、2023年はロールアップに強気]]></title>
         <id>https://coinpost.jp/?p=420517</id>
