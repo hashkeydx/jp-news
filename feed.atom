@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-05T02:47:30.090Z</updated>
+    <updated>2023-01-05T03:25:56.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イラン、没収した仮想通貨採掘マシンを返却へ]]></title>
+        <id>https://coinpost.jp/?p=421059</id>
+        <link href="https://coinpost.jp/?p=421059"/>
+        <updated>2023-01-05T02:45:22.000Z</updated>
+        <summary type="html"><![CDATA[イラン当局は、没収した仮想通貨マイニングマシンの一部を、裁判所命令を受けて所有者に返却すると述べた。イランは輸入代金の支払い手段としても仮想通貨を導入している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、ビットコインのスポット取引高シェア92%：リサーチ]]></title>
         <id>https://www.coindeskjapan.com/?p=170209</id>
@@ -394,16 +404,6 @@ EVM（イーサリアム・バーチャル・マシン）の2023年は？【コ�
 2023年の暗号資産：10の予測 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jeff Wilser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ひろしまDAOより 年賀状NFT配布のご案内【技術提供：株式会社CodeFox】]]></title>
-        <id>fe7d678ccfabc83cd1db832c1f50e061</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26963df140f9260d26de8c30c2350d667"/>
-        <updated>2022-12-31T14:50:01.000Z</updated>
-        <summary type="html"><![CDATA[株式会社CodeFoxのプレスリリース（2022年12月31日 23時50分）ひろしまDAOより 年賀状NFT配布のご案内 技術提供：株式会社CodeFox]]></summary>
-        <author>
-            <name>株式会社CodeFox</name>
         </author>
     </entry>
 </feed>

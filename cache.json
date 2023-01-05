@@ -34,16 +34,6 @@
           "wordCount": 412,
           "title": "web3リサーチ2023の公開について",
           "imageUrl": null
-        },
-        {
-          "id": "fe7d678ccfabc83cd1db832c1f50e061",
-          "author": "株式会社CodeFox",
-          "description": "株式会社CodeFoxのプレスリリース（2022年12月31日 23時50分）ひろしまDAOより 年賀状NFT配布のご案内 技術提供：株式会社CodeFox",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26963df140f9260d26de8c30c2350d667",
-          "publishedOn": "2022-12-31T14:50:01.000Z",
-          "wordCount": 412,
-          "title": "ひろしまDAOより 年賀状NFT配布のご案内【技術提供：株式会社CodeFox】",
-          "imageUrl": null
         }
       ]
     },
@@ -165,6 +155,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=421059",
+          "author": "A.Yamada",
+          "description": "イラン当局は、没収した仮想通貨マイニングマシンの一部を、裁判所命令を受けて所有者に返却すると述べた。イランは輸入代金の支払い手段としても仮想通貨を導入している。",
+          "link": "https://coinpost.jp/?p=421059",
+          "publishedOn": "2023-01-05T02:45:22.000Z",
+          "wordCount": 2266,
+          "title": "イラン、没収した仮想通貨採掘マシンを返却へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/bitcoin-natural-gas-mining.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/bitcoin-natural-gas-mining.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=421021",
           "author": "A.Yamada",
