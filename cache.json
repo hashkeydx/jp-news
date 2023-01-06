@@ -114,16 +114,6 @@
           "wordCount": 412,
           "title": "【協業】NFT日本酒「雷鳥」と日本初のNFT引換券販売プラットフォーム「TicketMe Goods」を提供するチケミー社が協業を開始",
           "imageUrl": null
-        },
-        {
-          "id": "02056cda437981ae5580aae7db9db06f",
-          "author": "プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES",
-          "description": "PR TIMESで配信された株式会社CodeFoxのプレスリリース一覧です（最新配信日：2022年12月31日 23時50分）。株式会社CodeFox｜私たちはWeb3が社会やビジネスにおける課題解決の選択肢となる事を確信し、研究開発を通じて新たな価値を生み出す基盤(インフラ)を構築します。現在は、「Web3のビジネス適用コンサルティングおよび研究開発支援」「Web3のビジネス実装支援」のサービスを提供しております。",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca9562c6f01cad4e3598c13bacff2a2c815d60ca34ca69e1c5177215",
-          "publishedOn": "2023-01-02T11:21:02.050Z",
-          "wordCount": 412,
-          "title": "株式会社CodeFoxのプレスリリース｜PR TIMES",
-          "imageUrl": null
         }
       ]
     },
@@ -132,6 +122,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=170410",
+          "author": "Christopher Robbins",
+          "description": "暗号資産価格のボラティリティは、投資家たちがこの14カ月間、悩まされてきた問題。だが、問題がすぐになくなることはないだろう。暗号資産投資を積極的に行っている人、 ...\n年頭の価格予測に惑わされない【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/170410/",
+          "publishedOn": "2023-01-06T22:30:00.000Z",
+          "wordCount": 1822,
+          "title": "年頭の価格予測に惑わされない【オピニオン】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/shutterstock_2101516369.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=170574",
           "author": "Jack Schickler",
@@ -325,6 +325,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=421509",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所マウントゴックスは、債権者が弁済方法の選択と弁済先情報の登録を行う期限を、2023年1月10日から同年3月10日に変更したと公表。その他の期限日も変更している。",
+          "link": "https://coinpost.jp/?p=421509",
+          "publishedOn": "2023-01-06T22:40:26.000Z",
+          "wordCount": 2115,
+          "title": "マウントゴックス、債権者の弁済情報の登録期限を延長",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/mt-gox-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/mt-gox-new.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=421055",
+          "author": "菊谷ルイス",
+          "description": "本日のニューヨークダウは大幅反発し700ドル超えの上げ幅を記録。昨夜発表の2つの米経済指標が材料視された格好だ。",
+          "link": "https://coinpost.jp/?p=421055",
+          "publishedOn": "2023-01-06T22:20:01.000Z",
+          "wordCount": 2359,
+          "title": "7日朝の金融市場短観｜NYダウ大幅反発　米10年債利回りは急低下",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=421343",
           "author": "AKIRA.H",
