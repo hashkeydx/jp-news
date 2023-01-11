@@ -93,6 +93,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=170786",
+          "author": "Jocelyn Yang",
+          "description": "トップニュース 米暗号資産（仮想通貨）取引サービス大手のコインベース（Coinbase）は1月9日、2023年第2四半期末までに完了する予定のリストラの一環とし ...\n【US市場】ビットコイン、1カ月ぶりの水準まで上昇──コインベース、コンセンシスはレイオフ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/170786/",
+          "publishedOn": "2023-01-11T01:15:31.000Z",
+          "wordCount": 1802,
+          "title": "【US市場】ビットコイン、1カ月ぶりの水準まで上昇──コインベース、コンセンシスはレイオフ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/ESKHQS3BG5BZDNIDDL3HWBXLL4のコピー.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=170788",
+          "author": "Ian Allison",
+          "description": "暗号資産ウォレットのメタマスク（MetaMask）など、イーサリアムブロックチェーンのアプリケーションとインフラの開発を手がけるコンセンシス（ConsenSys ...\n米コンセンシス、100人以上をレイオフか first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/170788/",
+          "publishedOn": "2023-01-11T00:00:13.000Z",
+          "wordCount": 1733,
+          "title": "米コンセンシス、100人以上をレイオフか",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/ODY52EAANJAABC3ATASWG4F7SM.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=170764",
           "author": "Jamie Crawley",
           "description": "米暗号資産（仮想通貨）取引サービス大手のコインベース（Coinbase）は、2023年第2四半期末までに完了する予定のリストラの一環として、従業員を約950人削 ...\n米コインベース、約20％の人員削減 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -251,16 +271,6 @@
           "wordCount": 1822,
           "title": "年頭の価格予測に惑わされない【オピニオン】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/shutterstock_2101516369.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=170574",
-          "author": "Jack Schickler",
-          "description": "時価総額で18番目の暗号資産（仮想通貨）であるトロン（TRX）の価格は1月6日、暗号資産市場全体が堅調に推移しているにもかかわらず、フォビ（Huobi）に起因す ...\nトロン（TRX）が8％下落──サン氏がアドバイザーを務めるフォビの騒動を受けて first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/170574/",
-          "publishedOn": "2023-01-06T13:30:22.000Z",
-          "wordCount": 1756,
-          "title": "トロン（TRX）が8％下落──サン氏がアドバイザーを務めるフォビの騒動を受けて",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/000001.jpeg"
         }
       ]
     },
@@ -275,6 +285,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=422162",
+          "author": "A.Yamada",
+          "description": "仮想通貨取引所大手バイナンスは、インサイダー取引についてガイドラインを設定していることを改めて認めた。内部関係者の短期取引について制限を設けている形だ。",
+          "link": "https://coinpost.jp/?p=422162",
+          "publishedOn": "2023-01-11T01:10:52.000Z",
+          "wordCount": 2313,
+          "title": "バイナンス共同創設者、インサイダー取引のガイドラインを開示",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/binance0701211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/binance0701211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=422155",
+          "author": "K.Kobayashi",
+          "description": "ツイッターの独自通貨とみられるCoinのサンプル画面を、セキュリティリサーチャーのJane Manchun Wong氏が公開。Coinは仮想通貨コミュニティからも多くの関心を集めている。",
+          "link": "https://coinpost.jp/?p=422155",
+          "publishedOn": "2023-01-11T00:15:48.000Z",
+          "wordCount": 2288,
+          "title": "ツイッター、独自通貨「Coin」の開発を継続か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/twitter-crypto.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/twitter-crypto.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=422152",
           "author": "菊谷ルイス",
