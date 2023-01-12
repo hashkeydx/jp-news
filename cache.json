@@ -193,6 +193,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=171001",
+          "author": "coindesk JAPAN",
+          "description": "サッカーW杯出場選手にも人気の日本を代表するサッカー漫画「キャプテン翼」のIPを活用したブロックチェーンゲーム「キャプテン翼 -RIVALS-」がサービス開始し ...\nブロックチェーンゲーム「キャプテン翼 -RIVALS-」サービス開始 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/171001/",
+          "publishedOn": "2023-01-12T08:30:35.000Z",
+          "wordCount": 1733,
+          "title": "ブロックチェーンゲーム「キャプテン翼 -RIVALS-」サービス開始",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/20230112_captain_tsubasa.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=170977",
           "author": "Elizabeth Napolitano",
           "description": "米コインベース（Coinbase）は「暗号資産の冬」でアメリカ市場が冷え込むなか、ヨーロッパに新たな可能性を見出そうとしている。しかし、ヨーロッパへの拡大は同社 ...\n米コインベース、ヨーロッパに注力する戦略とは──日本での事業は大半を停止 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -445,6 +455,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=422653",
+          "author": "AKIRA.H",
+          "description": "ポケットモンスターのNFTカードゲームを装った偽サイト上で、ユーザーPCの乗っ取りを目的にリモートツールが仕掛けられた事例が確認された。マルウェアと異なり、通常のプログラムとみなされるケースが多いという。",
+          "link": "https://coinpost.jp/?p=422653",
+          "publishedOn": "2023-01-12T07:34:07.000Z",
+          "wordCount": 2242,
+          "title": "偽のポケモンNFTサイトで遠隔ソフトウェア拡散、仮想通貨詐欺の事例発覚",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/hacking2_0508.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/hacking2_0508.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=422641",
+          "author": "AKIRA.H",
+          "description": "サムスンアセットマネジメント香港支社は1月12日、独自のビットコイン先物ETFをローンチした。1月13日から香港証券取引所で取引が開始される。",
+          "link": "https://coinpost.jp/?p=422641",
+          "publishedOn": "2023-01-12T07:27:01.000Z",
+          "wordCount": 2245,
+          "title": "サムスンアセットマネジメント、香港株式市場に「ビットコイン先物ETF」上場へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/new-btc-future-etf.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/new-btc-future-etf.png"
+        },
         {
           "id": "https://coinpost.jp/?p=422600",
           "author": "AKIRA.H",
