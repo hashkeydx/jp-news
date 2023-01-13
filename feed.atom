@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-13T03:27:57.994Z</updated>
+    <updated>2023-01-13T04:30:49.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポリゴン（MATIC）、開発者がハードフォークを提案]]></title>
+        <id>https://coinpost.jp/?p=422895</id>
+        <link href="https://coinpost.jp/?p=422895"/>
+        <updated>2023-01-13T03:57:55.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのスケーリングソリューション「ポリゴン（MATIC）」が、近くハードフォークする可能性が浮上。承認された場合、1月17日にアップグレードが行われる。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPI発表を受け金融相場反発、ビットコインは一時19000ドル台を回復]]></title>
+        <id>https://coinpost.jp/?p=422810</id>
+        <link href="https://coinpost.jp/?p=422810"/>
+        <updated>2023-01-13T03:51:14.000Z</updated>
+        <summary type="html"><![CDATA[CPI（米消費者物価指数）でインフレ鈍化が確認されたことで暗号資産（仮想通貨）市場ではビットコインが前日比3.4%高に。一時19000ドル台を回復した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウクライナ銀行、ステラのブロックチェーンで電子マネー検証]]></title>
         <id>https://coinpost.jp/?p=422858</id>
