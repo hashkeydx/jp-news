@@ -224,16 +224,6 @@
           "wordCount": 412,
           "title": "NFT/WEB3特化イベント『PARDEY BASE SHIBUYA〜WEB3プロモーション見本市〜』 の開催が決定",
           "imageUrl": null
-        },
-        {
-          "id": "8c6e649e96030d6463b77a7c77eaeb6f",
-          "author": "Horizon株式会社",
-          "description": "Horizon株式会社のプレスリリース（2023年1月9日 04時23分）匂いのNFT、実業家グラドルのヴァネッサ・パン氏がアンバサダーに就任",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26f63df140f9260d769e5c40c2350d667",
-          "publishedOn": "2023-01-08T19:23:24.000Z",
-          "wordCount": 412,
-          "title": "匂いのNFT、実業家グラドルのヴァネッサ・パン氏がアンバサダーに就任",
-          "imageUrl": null
         }
       ]
     },
@@ -525,6 +515,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=422951",
+          "author": "AKIRA.H",
+          "description": "イーサリアムの拡張ソリューションを開発するStarkWare社は、ZKロールアップ「StarkNet」におけるフルノードクライアント「Papyrus」を公開した。分散化とパフォーマンス向上が期待される。",
+          "link": "https://coinpost.jp/?p=422951",
+          "publishedOn": "2023-01-13T07:22:27.000Z",
+          "wordCount": 2298,
+          "title": "イーサリアムL2「StarkNet」、ノードクライアント「Papyrus」をリリース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=422912",
           "author": "AKIRA.H",

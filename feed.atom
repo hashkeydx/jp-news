@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-13T07:22:36.844Z</updated>
+    <updated>2023-01-13T08:30:54.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -13,6 +13,16 @@
         <updated>2023-01-13T07:22:30.911Z</updated>
         <author>
             <name>rss.app</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「StarkNet」、ノードクライアント「Papyrus」をリリース]]></title>
+        <id>https://coinpost.jp/?p=422951</id>
+        <link href="https://coinpost.jp/?p=422951"/>
+        <updated>2023-01-13T07:22:27.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの拡張ソリューションを開発するStarkWare社は、ZKロールアップ「StarkNet」におけるフルノードクライアント「Papyrus」を公開した。分散化とパフォーマンス向上が期待される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
@@ -990,16 +1000,6 @@ Web3スタートアップへのVC投資は堅調──2022年の暗号資産VC�
 2023年、ReFiがメインストリームに【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Boyd Cohen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[匂いのNFT、実業家グラドルのヴァネッサ・パン氏がアンバサダーに就任]]></title>
-        <id>8c6e649e96030d6463b77a7c77eaeb6f</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26f63df140f9260d769e5c40c2350d667"/>
-        <updated>2023-01-08T19:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Horizon株式会社のプレスリリース（2023年1月9日 04時23分）匂いのNFT、実業家グラドルのヴァネッサ・パン氏がアンバサダーに就任]]></summary>
-        <author>
-            <name>Horizon株式会社</name>
         </author>
     </entry>
 </feed>
