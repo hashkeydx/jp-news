@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-13T02:51:50.002Z</updated>
+    <updated>2023-01-13T03:27:57.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ銀行、ステラのブロックチェーンで電子マネー検証]]></title>
+        <id>https://coinpost.jp/?p=422858</id>
+        <link href="https://coinpost.jp/?p=422858"/>
+        <updated>2023-01-13T02:55:35.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナのTASCOMBANKは、仮想通貨ステラのチェーン上で電子マネーを発行する実験の結果を発表。ブロックチェーンの様々な利点を見出している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムのステーキング、1600万超（3兆円弱）──集中化懸念も強まる]]></title>
         <id>https://www.coindeskjapan.com/?p=171076</id>
