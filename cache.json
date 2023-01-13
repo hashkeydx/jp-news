@@ -193,6 +193,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=171072",
+          "author": "Jocelyn Yang",
+          "description": "トップニュース FTXのサム・バンクマン-フリード前CEOは12日、ニュースレターサービス「Substack」に長文を記し、数十億ドルを隠蔽したことを否定、FT ...\n【US市場】ビットコイン、一時1万9000ドル超え──米CPIは鈍化 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/171072/",
+          "publishedOn": "2023-01-13T01:10:09.000Z",
+          "wordCount": 1797,
+          "title": "【US市場】ビットコイン、一時1万9000ドル超え──米CPIは鈍化",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/スクリーンショット-2023-01-13-9.46.29.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=171039",
           "author": "Ian Allison",
           "description": "暗号資産金融サービスを手がけるBlockchain.comは全従業員の28%にあたる約110人を解雇すると発表し、疲弊した暗号資産（仮想通貨）業界全体で大流血の ...\nBlockchain.com、全従業員の28%にあたる110人をレイオフ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -455,6 +465,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=422812",
+          "author": "A.Yamada",
+          "description": "上場仮想通貨マイニング企業ハイブ・ブロックチェーンテクノロジーズは最新の業績報告でIntelのプロセッサを搭載した独自マイニングマシンを稼働していると報告。仮想通貨・株式市場の続伸などの好材料を受け株価が大幅高になった。",
+          "link": "https://coinpost.jp/?p=422812",
+          "publishedOn": "2023-01-13T01:30:18.000Z",
+          "wordCount": 2244,
+          "title": "ハイブ、独自のマイニングマシンで効率性上昇へ　株価35%高騰",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/mining-struggle.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/mining-struggle.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=422806",
+          "author": "K.Kobayashi",
+          "description": "米SECは、仮想通貨の大手取引所ジェミナイと融資企業ジェネシスを証券法違反で提訴。提訴の理由やジェミナイ側のコメントが明らかになっている。",
+          "link": "https://coinpost.jp/?p=422806",
+          "publishedOn": "2023-01-13T00:55:48.000Z",
+          "wordCount": 2320,
+          "title": "米SEC、証券法違反でジェミナイとジェネシスを提訴",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/secusa43362-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/secusa43362-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=422802",
+          "author": "菊谷ルイス",
+          "description": "カナダの大手仮想通貨取引所両社CoinsquareとWonderFiは合併することについて交渉しているようだ。WonderFiの株価はニュースを受けて約30%高騰。",
+          "link": "https://coinpost.jp/?p=422802",
+          "publishedOn": "2023-01-12T23:20:15.000Z",
+          "wordCount": 2212,
+          "title": "カナダ最大の仮想通貨取引所へ　CoinsquareとWonderFiが合併について交渉",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/canada-custody.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/canada-custody.png"
+        },
         {
           "id": "https://coinpost.jp/?p=422790",
           "author": "K.Kobayashi",
