@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-16T11:21:40.602Z</updated>
+    <updated>2023-01-16T12:48:20.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[23年1月の仮想通貨注目ニュース・イベント｜CONNECTV1月号]]></title>
+        <id>https://coinpost.jp/?p=423387</id>
+        <link href="https://coinpost.jp/?p=423387"/>
+        <updated>2023-01-16T12:05:38.000Z</updated>
+        <summary type="html"><![CDATA[毎月配信の「月刊 CONNECTV」。12月の重要仮想通貨ニュースと来月の注目イベントについて、CoinPost代表各務貴仁とあたらしい経済の竹田匡宏氏の2名が解説]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【週末の動き】ビットコイン、2万1000ドル超え]]></title>
         <id>https://www.coindeskjapan.com/?p=171303</id>
@@ -782,27 +792,6 @@ Blockchain.com、全従業員の28%にあたる110人をレイオフ first appea
         <summary type="html"><![CDATA[エルサルバドルの議会は、デジタル資産に関する法案を可決。施行されれば、仮想通貨ビットコインに関連した債券も発行可能になるが、懸念の声も上がっている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、アバランチと提携──企業、政府機関へのブロックチェーン導入促進]]></title>
-        <id>https://www.coindeskjapan.com/?p=170948</id>
-        <link href="https://www.coindeskjapan.com/170948/"/>
-        <updated>2023-01-12T00:25:38.000Z</updated>
-        <summary type="html"><![CDATA[クラウドプラットフォームのAWS（Amazon Web Services）は、アバラボ（Ava Labs）と提携し、企業や政府機関などに対するブロックチェーン技 ...
-AWS、アバランチと提携──企業、政府機関へのブロックチェーン導入促進 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アマゾンAWS、アバランチ（AVAX）に対応]]></title>
-        <id>https://coinpost.jp/?p=422490</id>
-        <link href="https://coinpost.jp/?p=422490"/>
-        <updated>2023-01-11T23:30:51.000Z</updated>
-        <summary type="html"><![CDATA[AVAX価格が高騰。AWSは12日、Ava Labsと提携しノードやdAppsなどアバランチのインフラやエコシステムに対応することを開始した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

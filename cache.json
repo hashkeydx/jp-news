@@ -371,16 +371,6 @@
           "wordCount": 1799,
           "title": "【US市場】ビットコイン、1万8200ドル超まで上昇",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/スクリーンショット-2023-01-12-11.30.18.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=170948",
-          "author": "Helene Braun",
-          "description": "クラウドプラットフォームのAWS（Amazon Web Services）は、アバラボ（Ava Labs）と提携し、企業や政府機関などに対するブロックチェーン技 ...\nAWS、アバランチと提携──企業、政府機関へのブロックチェーン導入促進 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/170948/",
-          "publishedOn": "2023-01-12T00:25:38.000Z",
-          "wordCount": 1760,
-          "title": "AWS、アバランチと提携──企業、政府機関へのブロックチェーン導入促進",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/WC52ZJDDPVEUBPSIMT2DGTZYMM.jpeg"
         }
       ]
     },
@@ -395,6 +385,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=423387",
+          "author": "CONNECTV 編集部",
+          "description": "毎月配信の「月刊 CONNECTV」。12月の重要仮想通貨ニュースと来月の注目イベントについて、CoinPost代表各務貴仁とあたらしい経済の竹田匡宏氏の2名が解説",
+          "link": "https://coinpost.jp/?p=423387",
+          "publishedOn": "2023-01-16T12:05:38.000Z",
+          "wordCount": 2263,
+          "title": "23年1月の仮想通貨注目ニュース・イベント｜CONNECTV1月号",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/202-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/202-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=423406",
           "author": "幸田直子",
@@ -994,21 +999,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/elsalvador-e-colone-1.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/elsalvador-e-colone-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=422490",
-          "author": "菊谷ルイス",
-          "description": "AVAX価格が高騰。AWSは12日、Ava Labsと提携しノードやdAppsなどアバランチのインフラやエコシステムに対応することを開始した。",
-          "link": "https://coinpost.jp/?p=422490",
-          "publishedOn": "2023-01-11T23:30:51.000Z",
-          "wordCount": 2265,
-          "title": "アマゾンAWS、アバランチ（AVAX）に対応",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/avax-aws.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/avax-aws.jpeg"
         }
       ]
     }
