@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-17T05:24:31.041Z</updated>
+    <updated>2023-01-17T06:29:44.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、リキッドステーキングRocket Poolと提携か]]></title>
+        <id>https://coinpost.jp/?p=425467</id>
+        <link href="https://coinpost.jp/?p=425467"/>
+        <updated>2023-01-17T05:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase Venturesがリキッドステーキングプロトコル「Rocket Pool」の運営にかかわるDAOに参加することが明らかになった。仮想通貨イーサリアムのステーキング環境の分散化につながる可能性がある。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Optimistic」のテストネット、「Bedrock」移行完了]]></title>
+        <id>https://coinpost.jp/?p=425250</id>
+        <link href="https://coinpost.jp/?p=425250"/>
+        <updated>2023-01-17T05:36:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのL2ネットワークOptimismは第1四半期中に実施予定の大型アップグレード「Bedrock」に向けて順調に開発を進めている。13日にはテストネットのBedrockへの移行が成功した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨関連政策などに対応　米下院が「デジタル資産小委員会」を新設]]></title>
         <id>https://coinpost.jp/?p=425317</id>
