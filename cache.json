@@ -381,16 +381,6 @@
           "wordCount": 1797,
           "title": "【US市場】ビットコイン、一時1万9000ドル超え──米CPIは鈍化",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/スクリーンショット-2023-01-13-9.46.29.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=171039",
-          "author": "Ian Allison",
-          "description": "暗号資産金融サービスを手がけるBlockchain.comは全従業員の28%にあたる約110人を解雇すると発表し、疲弊した暗号資産（仮想通貨）業界全体で大流血の ...\nBlockchain.com、全従業員の28%にあたる110人をレイオフ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/171039/",
-          "publishedOn": "2023-01-12T21:30:37.000Z",
-          "wordCount": 1751,
-          "title": "Blockchain.com、全従業員の28%にあたる110人をレイオフ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/btc2.jpg"
         }
       ]
     },
@@ -405,6 +395,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=425125",
+          "author": "A.Yamada",
+          "description": "イーサリアム系の仮想通貨ウォレット「メタマスク」は、新たな詐欺が発生しているとしてユーザーに注意を促した。偽のアドレスに送金させようとする手口だ。",
+          "link": "https://coinpost.jp/?p=425125",
+          "publishedOn": "2023-01-17T09:19:46.000Z",
+          "wordCount": 2304,
+          "title": "メタマスク、新手の詐欺「アドレスポイズニング」について注意喚起",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/shutterstock_2072943968.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/shutterstock_2072943968.png"
+        },
         {
           "id": "https://coinpost.jp/?p=425995",
           "author": "AKIRA.H",
@@ -959,21 +964,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/Digital-Currency-Group-DCG-Portfolio.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/Digital-Currency-Group-DCG-Portfolio.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=422548",
-          "author": "菊谷ルイス",
-          "description": "本日のニューヨークダウやナスダックは昨夜の米CPI（消費者物価指数）発表を受けて続伸。ビットコインは一時19,000ドルに達した。",
-          "link": "https://coinpost.jp/?p=422548",
-          "publishedOn": "2023-01-12T22:25:30.000Z",
-          "wordCount": 2308,
-          "title": "13日朝の金融市場短観｜CPI鈍化傾向　仮想通貨マイニング株高騰　ドル円大幅安",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
         }
       ]
     }

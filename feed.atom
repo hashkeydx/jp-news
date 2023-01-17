@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-17T09:24:30.368Z</updated>
+    <updated>2023-01-17T10:28:31.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタマスク、新手の詐欺「アドレスポイズニング」について注意喚起]]></title>
+        <id>https://coinpost.jp/?p=425125</id>
+        <link href="https://coinpost.jp/?p=425125"/>
+        <updated>2023-01-17T09:19:46.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム系の仮想通貨ウォレット「メタマスク」は、新たな詐欺が発生しているとしてユーザーに注意を促した。偽のアドレスに送金させようとする手口だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3の未来はポータビリティにある：アクセンチュア幹部【ダボス会議2023】]]></title>
         <id>https://www.coindeskjapan.com/?p=171449</id>
@@ -763,27 +773,6 @@ NFT販売の利益は「雑所得」または「事業所得」──国税庁�
         <summary type="html"><![CDATA[仮想通貨融資企業ジェネシスは、債権者に3,880億円超の債務を負っていることがわかった。親会社のデジタルカレンシーグループ（DCG）がジェネシスのために、資産の一部売却を検討しているという。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13日朝の金融市場短観｜CPI鈍化傾向　仮想通貨マイニング株高騰　ドル円大幅安]]></title>
-        <id>https://coinpost.jp/?p=422548</id>
-        <link href="https://coinpost.jp/?p=422548"/>
-        <updated>2023-01-12T22:25:30.000Z</updated>
-        <summary type="html"><![CDATA[本日のニューヨークダウやナスダックは昨夜の米CPI（消費者物価指数）発表を受けて続伸。ビットコインは一時19,000ドルに達した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blockchain.com、全従業員の28%にあたる110人をレイオフ]]></title>
-        <id>https://www.coindeskjapan.com/?p=171039</id>
-        <link href="https://www.coindeskjapan.com/171039/"/>
-        <updated>2023-01-12T21:30:37.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産金融サービスを手がけるBlockchain.comは全従業員の28%にあたる約110人を解雇すると発表し、疲弊した暗号資産（仮想通貨）業界全体で大流血の ...
-Blockchain.com、全従業員の28%にあたる110人をレイオフ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>
