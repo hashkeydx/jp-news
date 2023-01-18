@@ -123,6 +123,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=170680",
+          "author": "George Kaloudis",
+          "description": "CoinDesk Researchは『2022 アニュアル・クリプト・レビュー（2022 Annual Crypto Review）』を発行。2022年は弱気相 ...\n『2022 アニュアル・クリプト・レビュー』発行：CoinDesk Research first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/170680/",
+          "publishedOn": "2023-01-18T01:05:23.000Z",
+          "wordCount": 1782,
+          "title": "『2022 アニュアル・クリプト・レビュー』発行：CoinDesk Research",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/スクリーンショット-2023-01-18-2.25.40.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=171532",
           "author": "Will Canny",
           "description": "暗号資産（仮想通貨）取引所FTXの崩壊により、規制されたカストディアンの利用に注目が集まっており、カストディアンの収益機会は現在の3億ドル（約386億円）未満か ...\n暗号資産カストディサービス、今後10年で80億ドルの市場に成長：調査報告 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -321,16 +331,6 @@
           "wordCount": 1781,
           "title": "市場の新しい哲学：テクノロジーを具現化した資産",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/shutterstock_1329447017.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=171143",
-          "author": "Shaurya Malwa",
-          "description": "ビットコインキャッシュ（BCH）の価格は、2023年5月のハードフォークを前に、トレーダーらがこのネットワークの可能性に期待して、過去24時間で10%近く急騰し ...\nビットコインキャッシュ、10％急騰──5月のハードフォークに期待が高まる first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/171143/",
-          "publishedOn": "2023-01-13T12:00:11.000Z",
-          "wordCount": 1778,
-          "title": "ビットコインキャッシュ、10％急騰──5月のハードフォークに期待が高まる",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/bch.jpeg"
         }
       ]
     },
@@ -345,6 +345,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=426291",
+          "author": "A.Yamada",
+          "description": "米証券取引委員会は、ブロックチェーン企業Greenの調査にあたって仮想通貨マイナーの個人情報を流出させた。関係者はハッキングのリスクにさらされていると申し立てている。",
+          "link": "https://coinpost.jp/?p=426291",
+          "publishedOn": "2023-01-18T00:50:51.000Z",
+          "wordCount": 2251,
+          "title": "米SEC、仮想通貨マイナーの個人情報を流出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/sec-new-virtual-meetup.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/sec-new-virtual-meetup.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=426283",
+          "author": "K.Kobayashi",
+          "description": "BCゲームSynergy Landは、仮想通貨ソラナからポリゴンのブロックチェーンに基盤を移行すると発表。移行の目的やポリゴンを選んだ理由を説明している。",
+          "link": "https://coinpost.jp/?p=426283",
+          "publishedOn": "2023-01-18T00:30:45.000Z",
+          "wordCount": 2294,
+          "title": "ソラナ基盤のブロックチェーンゲーム「Synergy Land」、ポリゴンに移行へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/Synergy-Land-Solana-Polygon.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/Synergy-Land-Solana-Polygon.png"
+        },
         {
           "id": "https://coinpost.jp/?p=426256",
           "author": "K.Kobayashi",

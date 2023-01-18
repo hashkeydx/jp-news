@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-17T23:25:40.263Z</updated>
+    <updated>2023-01-18T01:54:01.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『2022 アニュアル・クリプト・レビュー』発行：CoinDesk Research]]></title>
+        <id>https://www.coindeskjapan.com/?p=170680</id>
+        <link href="https://www.coindeskjapan.com/170680/"/>
+        <updated>2023-01-18T01:05:23.000Z</updated>
+        <summary type="html"><![CDATA[CoinDesk Researchは『2022 アニュアル・クリプト・レビュー（2022 Annual Crypto Review）』を発行。2022年は弱気相 ...
+『2022 アニュアル・クリプト・レビュー』発行：CoinDesk Research first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>George Kaloudis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、仮想通貨マイナーの個人情報を流出]]></title>
+        <id>https://coinpost.jp/?p=426291</id>
+        <link href="https://coinpost.jp/?p=426291"/>
+        <updated>2023-01-18T00:50:51.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会は、ブロックチェーン企業Greenの調査にあたって仮想通貨マイナーの個人情報を流出させた。関係者はハッキングのリスクにさらされていると申し立てている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ基盤のブロックチェーンゲーム「Synergy Land」、ポリゴンに移行へ]]></title>
+        <id>https://coinpost.jp/?p=426283</id>
+        <link href="https://coinpost.jp/?p=426283"/>
+        <updated>2023-01-18T00:30:45.000Z</updated>
+        <summary type="html"><![CDATA[BCゲームSynergy Landは、仮想通貨ソラナからポリゴンのブロックチェーンに基盤を移行すると発表。移行の目的やポリゴンを選んだ理由を説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融庁参事官「仮想通貨交換業には銀行並みの国際ルールが必要」]]></title>
         <id>https://coinpost.jp/?p=426256</id>
@@ -624,17 +655,6 @@ NFT販売の利益は「雑所得」または「事業所得」──国税庁�
 市場の新しい哲学：テクノロジーを具現化した資産 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Noelle Acheson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインキャッシュ、10％急騰──5月のハードフォークに期待が高まる]]></title>
-        <id>https://www.coindeskjapan.com/?p=171143</id>
-        <link href="https://www.coindeskjapan.com/171143/"/>
-        <updated>2023-01-13T12:00:11.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインキャッシュ（BCH）の価格は、2023年5月のハードフォークを前に、トレーダーらがこのネットワークの可能性に期待して、過去24時間で10%近く急騰し ...
-ビットコインキャッシュ、10％急騰──5月のハードフォークに期待が高まる first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
