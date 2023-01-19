@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=171766",
+          "author": "Jocelyn Yang",
+          "description": "トップニュース FTX破綻の余波で、レンディング部門が引き出しを停止している暗号資産ブローカーのジェネシス・キャピタル・グローバル（Genesis Global ...\n【US市場】ビットコイン、2万1000ドル割れ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/171766/",
+          "publishedOn": "2023-01-19T02:05:13.000Z",
+          "wordCount": 1805,
+          "title": "【US市場】ビットコイン、2万1000ドル割れ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/スクリーンショット-2023-01-19-10.37.51.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=171751",
           "author": "Nikhilesh De",
           "description": "世界経済フォーラム（WEF）の年次大会（ダボス会議）2日目は、気候変動対策からウクライナへの人道支援、FTXの衝撃的な破綻からの脱却まで、暗号資産（仮想通貨）そ ...\n【ダボス会議 2日目】暗号資産を超えたユースケースに注目 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -445,6 +455,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=426694",
+          "author": "A.Yamada",
+          "description": "仮想通貨コングロマリット企業DCG傘下のメディア「コインデスク」は事業売却の可能性を探っている。DCGの他の子会社ジェネシスも破産申請を行う可能性が伝えられているところだ。",
+          "link": "https://coinpost.jp/?p=426694",
+          "publishedOn": "2023-01-19T02:20:05.000Z",
+          "wordCount": 2237,
+          "title": "DCG傘下のCoinDesk、事業売却の可能性を検討",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/coindesk-sell.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/coindesk-sell.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=426688",
+          "author": "AKIRA.H",
+          "description": "ポルカドット（DOT）はネットワーク間の通信プロトコル「XCM」のアップデートを完了した。「XCM Ver.3」の実装によりエコシステム内の仮想通貨やNFTの相互運用性が強化される。",
+          "link": "https://coinpost.jp/?p=426688",
+          "publishedOn": "2023-01-19T01:55:10.000Z",
+          "wordCount": 2274,
+          "title": "ポルカドット、クロスチェーン機能を強化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/polka-gavin-ceo.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/polka-gavin-ceo.png"
+        },
         {
           "id": "https://coinpost.jp/?p=426674",
           "author": "A.Yamada",
