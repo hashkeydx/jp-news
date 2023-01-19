@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-19T03:28:18.729Z</updated>
+    <updated>2023-01-19T04:31:26.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スペイン中銀、ユーロ建ステーブルコインの試験運用を許可]]></title>
+        <id>https://coinpost.jp/?p=426755</id>
+        <link href="https://coinpost.jp/?p=426755"/>
+        <updated>2023-01-19T03:41:18.000Z</updated>
+        <summary type="html"><![CDATA[スペイン銀行（中央銀行）は、フィンテック企業Monei社にユーロ建のステーブルコイン「EURM」の試験運用を許可した。EURMはスペイン中銀のサンドボックスの枠組みで開発したデジタル通貨で、欧州中央銀行が計画中のデジタルユーロの予備実験となることを目指す。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨シバイヌ、イーサリアムクジラが大量保有]]></title>
+        <id>https://coinpost.jp/?p=426741</id>
+        <link href="https://coinpost.jp/?p=426741"/>
+        <updated>2023-01-19T03:36:50.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨シバイヌについてイーサリアムのクジラが大量に保有していることが明らかになった。シバイヌはレイヤー2「Shibarium」の実装を予定しており、L2の利用量が増加するとSHIBトークンがバーンされる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKCoinJapan、エフィニティトークン（EFI）の取り扱いを開始]]></title>
+        <id>https://www.coindeskjapan.com/?p=171781</id>
+        <link href="https://www.coindeskjapan.com/171781/"/>
+        <updated>2023-01-19T03:30:57.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所OKCoinJapanを運営するオーケーコイン・ジャパン株式会社は1月18日、エフィニティトークン（EFI）の取り扱いを開始すると発表した。取り扱 ...
+OKCoinJapan、エフィニティトークン（EFI）の取り扱いを開始 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨市場反落、米司法省めぐる懸念も押し下げ要因に]]></title>
         <id>https://coinpost.jp/?p=426684</id>
