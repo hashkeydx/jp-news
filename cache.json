@@ -163,6 +163,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=171751",
+          "author": "Nikhilesh De",
+          "description": "世界経済フォーラム（WEF）の年次大会（ダボス会議）2日目は、気候変動対策からウクライナへの人道支援、FTXの衝撃的な破綻からの脱却まで、暗号資産（仮想通貨）そ ...\n【ダボス会議 2日目】暗号資産を超えたユースケースに注目 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/171751/",
+          "publishedOn": "2023-01-19T01:30:44.000Z",
+          "wordCount": 1786,
+          "title": "【ダボス会議 2日目】暗号資産を超えたユースケースに注目",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/I4OSQVMERBHGHAADJBHYTUG7GU.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=171739",
           "author": "Nelson Wang",
           "description": "FTX破綻の余波で、レンディング部門が引き出しを停止している暗号資産ブローカーのジェネシス・キャピタル・グローバル（Genesis Global Capital ...\nジェネシス、破産申請に向け準備：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -435,6 +445,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=426674",
+          "author": "A.Yamada",
+          "description": "米国の当局は、国際的な仮想通貨取引所Bitzlatoの創業者を起訴した。不正資金の移動事業を行い、マネーロンダリング防止要件に準拠していなかった疑いがある。",
+          "link": "https://coinpost.jp/?p=426674",
+          "publishedOn": "2023-01-19T01:30:39.000Z",
+          "wordCount": 2242,
+          "title": "米当局、国際協力で仮想通貨取引所を取り締まり",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/doj-framework.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/doj-framework.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=426472",
+          "author": "AKIRA.H",
+          "description": "国内発のゲーム特化型ブロックチェーンOasysは、ガバナンスを立ち上げたことを発表した。プロジェクトの分散化を図るとともに、NFT相互運用の標準規格などブロックチェーンゲーム業界の発展に向けて議論していく。",
+          "link": "https://coinpost.jp/?p=426472",
+          "publishedOn": "2023-01-19T01:01:14.000Z",
+          "wordCount": 2248,
+          "title": "Oasys、2028年までの完全DAO化に向けガバナンス機構開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/OASY_0119.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/OASY_0119.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=426668",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨融資企業ジェネシスは、破産申請を行う可能性があることが改めて報じられた。今週にも申請を行う可能性があることや、プレパッケージ型のチャプターイレブンに基づいた申請を行う可能性が報じられている。",
+          "link": "https://coinpost.jp/?p=426668",
+          "publishedOn": "2023-01-19T01:00:01.000Z",
+          "wordCount": 2247,
+          "title": "仮想通貨融資企業ジェネシス、今週にも破産申請か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/genesis-more-problems.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/genesis-more-problems.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=426673",
+          "author": "菊谷ルイス",
+          "description": "米国の大手暗号資産取引所コインベースは19日、コスモス基盤Kavaの新規上場を実施する予定だ。",
+          "link": "https://coinpost.jp/?p=426673",
+          "publishedOn": "2023-01-19T00:20:33.000Z",
+          "wordCount": 2268,
+          "title": "米コインベース、銘柄の新規取扱を実施予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_4.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/coinbase20211217_4.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=426665",
+          "author": "菊谷ルイス",
+          "description": "大手暗号資産取引所バイナンスは18日、Rocket Pool（RPL）の新規取り扱いを開始した。",
+          "link": "https://coinpost.jp/?p=426665",
+          "publishedOn": "2023-01-18T23:25:07.000Z",
+          "wordCount": 2229,
+          "title": "バイナンス、流動的ステーキング系銘柄の新規上場を実施",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance-bnb-burn-biggest.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance-bnb-burn-biggest.png"
+        },
         {
           "id": "https://coinpost.jp/?p=426649",
           "author": "K.Kobayashi",
