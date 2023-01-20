@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-20T08:30:30.912Z</updated>
+    <updated>2023-01-20T09:25:06.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「大企業が続々と参入するWeb3.0とは？」CoinPostが1/25（水）に企業向けセミナーを開催]]></title>
+        <id>https://coinpost.jp/?p=427187</id>
+        <link href="https://coinpost.jp/?p=427187"/>
+        <updated>2023-01-20T08:30:26.000Z</updated>
+        <summary type="html"><![CDATA[CoinPostが「大企業が続々と参入するWeb3.0とは？」をテーマにセミナーを1月25日（水）開催。国内事業者向けにWeb3に関する連続セミナーを毎月開催する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジェネシス、上位50の債権者に35億ドル（約4500億円）超の負債]]></title>
         <id>https://www.coindeskjapan.com/?p=171997</id>
@@ -1181,17 +1191,6 @@ NFT販売の利益は「雑所得」または「事業所得」──国税庁�
         <summary type="html"><![CDATA[SBINFT株式会社のプレスリリース（2023年1月16日 10時00分）SBINFT株式会社が、SBINFT Marketとコーポレートサイトをリニューアル。今まで以上にNFTを購入しやすいデザインに]]></summary>
         <author>
             <name>SBINFT株式会社</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嫌われる暗号資産用語──マイニング企業も社名変更]]></title>
-        <id>https://www.coindeskjapan.com/?p=170946</id>
-        <link href="https://www.coindeskjapan.com/170946/"/>
-        <updated>2023-01-15T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この数年間、自社に注目を集めるには、社名に暗号資産（仮想通貨）に関連した用語を加えたり、暗号資産関連の新しい取り組みをアピールすれば十分だった。 「ロングアイラ ...
-嫌われる暗号資産用語──マイニング企業も社名変更 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Aoyon Ashraf</name>
         </author>
     </entry>
 </feed>
