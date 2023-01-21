@@ -213,6 +213,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=172038",
+          "author": "coindesk JAPAN",
+          "description": "ジェネシスの破産申請の影響で、GBTCが保有する60万超のビットコインが何らかの形で清算されるのではないかとの懸念もある──今週のトップニュースをダイジェストで ...\nジェネシスが破産申請、今後10年間は「黄金時代」【1/14～1/20のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/172038/",
+          "publishedOn": "2023-01-20T23:30:45.000Z",
+          "wordCount": 1821,
+          "title": "ジェネシスが破産申請、今後10年間は「黄金時代」【1/14～1/20のトップニュース】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/shutterstock_205067683-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=171616",
           "author": "Jared Gdanski",
           "description": "第2のFTXを防ぐためには、新しい、どのような規制が必要かについて、お決まりの議論が繰り広げられている。何かが必要なことは明らかだが、これまでの経験から考えると ...\nFTX破綻で明確に、保険義務化の必要性【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -585,6 +595,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=427384",
+          "author": "A.Yamada",
+          "description": "米SECは、仮想通貨デリバティブ取引所Mango Marketsへの攻撃を指揮したとしてアブラハム・アイゼンバーグ被告を提訴した。米司法省と米CFTCもすでに同被告を訴えている。",
+          "link": "https://coinpost.jp/?p=427384",
+          "publishedOn": "2023-01-21T00:45:20.000Z",
+          "wordCount": 2277,
+          "title": "米SEC、Mango Marketsハッカーを提訴",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/payback-victims-mango.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/payback-victims-mango.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=427345",
+          "author": "K.Kobayashi",
+          "description": "国税庁は、仮想通貨の法人税法上の取り扱いについて、期末時価評価に関する質疑応答事例を公表。この時期での公表に、新ルールの法案の内容がほぼ固まったとの見方が上がっている。",
+          "link": "https://coinpost.jp/?p=427345",
+          "publishedOn": "2023-01-20T23:40:22.000Z",
+          "wordCount": 2291,
+          "title": "国税庁、仮想通貨法人税の期末時価評価に関する質疑応答事例を公表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/crypto-tax-new-return.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/crypto-tax-new-return.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=427219",
+          "author": "菊谷ルイス",
+          "description": "本日のニューヨークダウは4日ぶりに反発。仮想通貨ビットコインは年初来高値をを更新した。ドル円は1ドル=129.57円。",
+          "link": "https://coinpost.jp/?p=427219",
+          "publishedOn": "2023-01-20T23:10:22.000Z",
+          "wordCount": 2406,
+          "title": "ビットコイン年初来高値を更新　NYダウ・仮想通貨関連株全面高｜21日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=427187",
           "author": "AKIRA.H",
@@ -1304,21 +1359,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/08/monex0822.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/08/monex0822.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=423387",
-          "author": "CONNECTV 編集部",
-          "description": "毎月配信の「月刊 CONNECTV」。12月の重要仮想通貨ニュースと来月の注目イベントについて、CoinPost代表各務貴仁とあたらしい経済の竹田匡宏氏の2名が解説",
-          "link": "https://coinpost.jp/?p=423387",
-          "publishedOn": "2023-01-16T12:05:38.000Z",
-          "wordCount": 2263,
-          "title": "23年1月の仮想通貨注目ニュース・イベント｜CONNECTV1月号",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/202-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/202-1.jpeg"
         }
       ]
     }

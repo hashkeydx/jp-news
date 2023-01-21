@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-20T23:24:31.097Z</updated>
+    <updated>2023-01-21T01:48:55.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、Mango Marketsハッカーを提訴]]></title>
+        <id>https://coinpost.jp/?p=427384</id>
+        <link href="https://coinpost.jp/?p=427384"/>
+        <updated>2023-01-21T00:45:20.000Z</updated>
+        <summary type="html"><![CDATA[米SECは、仮想通貨デリバティブ取引所Mango Marketsへの攻撃を指揮したとしてアブラハム・アイゼンバーグ被告を提訴した。米司法省と米CFTCもすでに同被告を訴えている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国税庁、仮想通貨法人税の期末時価評価に関する質疑応答事例を公表]]></title>
+        <id>https://coinpost.jp/?p=427345</id>
+        <link href="https://coinpost.jp/?p=427345"/>
+        <updated>2023-01-20T23:40:22.000Z</updated>
+        <summary type="html"><![CDATA[国税庁は、仮想通貨の法人税法上の取り扱いについて、期末時価評価に関する質疑応答事例を公表。この時期での公表に、新ルールの法案の内容がほぼ固まったとの見方が上がっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジェネシスが破産申請、今後10年間は「黄金時代」【1/14～1/20のトップニュース】]]></title>
+        <id>https://www.coindeskjapan.com/?p=172038</id>
+        <link href="https://www.coindeskjapan.com/172038/"/>
+        <updated>2023-01-20T23:30:45.000Z</updated>
+        <summary type="html"><![CDATA[ジェネシスの破産申請の影響で、GBTCが保有する60万超のビットコインが何らかの形で清算されるのではないかとの懸念もある──今週のトップニュースをダイジェストで ...
+ジェネシスが破産申請、今後10年間は「黄金時代」【1/14～1/20のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン年初来高値を更新　NYダウ・仮想通貨関連株全面高｜21日金融短観]]></title>
+        <id>https://coinpost.jp/?p=427219</id>
+        <link href="https://coinpost.jp/?p=427219"/>
+        <updated>2023-01-20T23:10:22.000Z</updated>
+        <summary type="html"><![CDATA[本日のニューヨークダウは4日ぶりに反発。仮想通貨ビットコインは年初来高値をを更新した。ドル円は1ドル=129.57円。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX破綻で明確に、保険義務化の必要性【オピニオン】]]></title>
         <id>https://www.coindeskjapan.com/?p=171616</id>
@@ -1080,16 +1121,6 @@ NFT販売の利益は「雑所得」または「事業所得」──国税庁�
 アート界はNFTを過小評価している【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Magnus Resch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23年1月の仮想通貨注目ニュース・イベント｜CONNECTV1月号]]></title>
-        <id>https://coinpost.jp/?p=423387</id>
-        <link href="https://coinpost.jp/?p=423387"/>
-        <updated>2023-01-16T12:05:38.000Z</updated>
-        <summary type="html"><![CDATA[毎月配信の「月刊 CONNECTV」。12月の重要仮想通貨ニュースと来月の注目イベントについて、CoinPost代表各務貴仁とあたらしい経済の竹田匡宏氏の2名が解説]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
