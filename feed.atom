@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-23T12:46:49.753Z</updated>
+    <updated>2023-01-23T13:30:27.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中央アフリカ、暗号資産の法的枠組みの検討を開始]]></title>
+        <id>https://www.coindeskjapan.com/?p=172215</id>
+        <link href="https://www.coindeskjapan.com/172215/"/>
+        <updated>2023-01-23T13:00:29.000Z</updated>
+        <summary type="html"><![CDATA[中央アフリカ共和国は暗号資産（仮想通貨）関連の法律の草案を作成するため、複数の政府省庁の専門家からなる委員会を設置したと同国のフォースタン＝アルシャンジュ・トゥ ...
+中央アフリカ、暗号資産の法的枠組みの検討を開始 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Camomile Shumba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DMM Bitcoin、「Nippon Idol Token（NIDT）」のIEO実施を発表]]></title>
         <id>https://www.coindeskjapan.com/?p=172171</id>
@@ -808,46 +819,6 @@ OKCoinJapan、エフィニティトークン（EFI）の取り扱いを開始 fi
         <summary type="html"><![CDATA[米国の当局は、国際的な仮想通貨取引所Bitzlatoの創業者を起訴した。不正資金の移動事業を行い、マネーロンダリング防止要件に準拠していなかった疑いがある。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Digital Platformer、Liquid・サイバートラストと連携し、福井県へサービス提供開始]]></title>
-        <id>59245058ed6b3d4f6c9e1280360882a7</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06963df140f9365dc60e4c70c2350d667"/>
-        <updated>2023-01-19T01:10:01.000Z</updated>
-        <summary type="html"><![CDATA[DPのプレスリリース（2023年1月19日 10時10分）Digital Platformer、Liquid・サイバートラストと連携し、福井県へサービス提供開始]]></summary>
-        <author>
-            <name>DP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oasys、2028年までの完全DAO化に向けガバナンス機構開始]]></title>
-        <id>https://coinpost.jp/?p=426472</id>
-        <link href="https://coinpost.jp/?p=426472"/>
-        <updated>2023-01-19T01:01:14.000Z</updated>
-        <summary type="html"><![CDATA[国内発のゲーム特化型ブロックチェーンOasysは、ガバナンスを立ち上げたことを発表した。プロジェクトの分散化を図るとともに、NFT相互運用の標準規格などブロックチェーンゲーム業界の発展に向けて議論していく。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oasys、ガバナンスを立ち上げDAO化に向けた分散型意思決定プロセスを開始]]></title>
-        <id>602ceca20ccbdf7a8e2db2b9b63bc9bb</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36263df140f9260d661e2c60c2350d667"/>
-        <updated>2023-01-19T01:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Oasys Pte. Ltd.のプレスリリース（2023年1月19日 10時00分）Oasys、ガバナンスを立ち上げDAO化に向けた分散型意思決定プロセスを開始]]></summary>
-        <author>
-            <name>Oasys Pte. Ltd.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨融資企業ジェネシス、今週にも破産申請か＝報道]]></title>
-        <id>https://coinpost.jp/?p=426668</id>
-        <link href="https://coinpost.jp/?p=426668"/>
-        <updated>2023-01-19T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨融資企業ジェネシスは、破産申請を行う可能性があることが改めて報じられた。今週にも申請を行う可能性があることや、プレパッケージ型のチャプターイレブンに基づいた申請を行う可能性が報じられている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
