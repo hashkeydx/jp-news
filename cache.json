@@ -143,6 +143,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=172238",
+          "author": "Lyllah Ledesma",
+          "description": "暗号資産（仮想通貨）ファンドは先週、3700万ドルの純流入となり、その半分以上は「ショート」ファンド、つまり価格下落から利益を得ることを目的としたファンドに流入 ...\nビットコイン・ショートファンドに資金流入：コインシェアーズ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/172238/",
+          "publishedOn": "2023-01-24T00:05:52.000Z",
+          "wordCount": 1730,
+          "title": "ビットコイン・ショートファンドに資金流入：コインシェアーズ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/スクリーンショット-2023-01-24-8.54.04.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=172223",
           "author": "Will Canny",
           "description": "最近の暗号資産（仮想通貨）市場の強さは、おそらく平均値への回帰によるものだと投資会社のバーンスタイン（Bernstein）は1月23日のレポートで述べ、時価総額 ...\n最近の暗号資産市場の上昇は、平均値への回帰：レポート first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -405,6 +415,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=427728",
+          "author": "A.Yamada",
+          "description": "仮想通貨分散型取引所大手ユニスワップは、BNBチェーンに展開するという提案を準備投票で承認した。次に正式なガバナンス投票にかけられる予定だ。",
+          "link": "https://coinpost.jp/?p=427728",
+          "publishedOn": "2023-01-24T01:15:47.000Z",
+          "wordCount": 2283,
+          "title": "Uniswap、BNBチェーンへの展開を準備投票で承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=427724",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所bitFlyerは23日午後、フレア（FLR）の新規上場を実施。ユーザーへのフレア付与も完了した。",
+          "link": "https://coinpost.jp/?p=427724",
+          "publishedOn": "2023-01-23T23:20:58.000Z",
+          "wordCount": 2264,
+          "title": "bitFlyer、フレア（FLR）取り扱い開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/flarenetworks_20210127_3_1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/flarenetworks_20210127_3_1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=427711",
           "author": "K.Kobayashi",
