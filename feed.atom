@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-24T20:25:17.984Z</updated>
+    <updated>2023-01-24T21:22:03.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産とAI──対立する信念、権威主義的な悪夢【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=170975</id>
+        <link href="https://www.coindeskjapan.com/170975/"/>
+        <updated>2023-01-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ここ半年、AI (人工知能）の開発はとりわけ目覚ましい進展を見せている。Midjourneyなどの画像生成AIや、ChatGPTなどのテキスト生成AIは多くの人 ...
+暗号資産とAI──対立する信念、権威主義的な悪夢【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>David Morris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブテリン氏「ステルスアドレス」を提案──プライバシー保護を強化]]></title>
         <id>https://www.coindeskjapan.com/?p=172244</id>
@@ -573,16 +584,6 @@ FTX破綻で明確に、保険義務化の必要性【オピニオン】 first a
 ジェネシスの破産申請後もビットコイン、イーサリアムは堅調に推移 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「大企業が続々と参入するWeb3.0とは？」CoinPostが1/25（水）に企業向けセミナーを開催]]></title>
-        <id>https://coinpost.jp/?p=427187</id>
-        <link href="https://coinpost.jp/?p=427187"/>
-        <updated>2023-01-20T08:30:26.000Z</updated>
-        <summary type="html"><![CDATA[CoinPostが「大企業が続々と参入するWeb3.0とは？」をテーマにセミナーを1月25日（水）開催。国内事業者向けにWeb3に関する連続セミナーを毎月開催する。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
