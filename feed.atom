@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-24T23:23:58.387Z</updated>
+    <updated>2023-01-25T01:48:34.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blockstream社がマイニング施設拡充へ、約160億円を資金調達]]></title>
+        <id>https://coinpost.jp/?p=427934</id>
+        <link href="https://coinpost.jp/?p=427934"/>
+        <updated>2023-01-25T00:50:52.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインやブロックチェーンのインフラを提供するBlockstreamは、約160億円の資金を調達したことを発表。今回調達した資金で、マイニング施設を拡充する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、取引高がわずかに増加──ライバルは減少が続く： JPMorgan]]></title>
+        <id>https://www.coindeskjapan.com/?p=172399</id>
+        <link href="https://www.coindeskjapan.com/172399/"/>
+        <updated>2023-01-25T00:45:57.000Z</updated>
+        <summary type="html"><![CDATA[米暗号資産（仮想通貨）取引大手コインベース（Coinbase）の取引高は、JPモルガン・チェースがまとめたデータを見ると、他の取引所が引き続き減少している一方で ...
+米コインベース、取引高がわずかに増加──ライバルは減少が続く： JPMorgan first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、自社で発行する「Bトークン」の担保状況について説明]]></title>
         <id>https://coinpost.jp/?p=427916</id>
@@ -676,17 +697,6 @@ DMM Bitcoin、「Nippon Idol Token（NIDT）」のIEO実施を発表 first appea
 FTX破綻で明確に、保険義務化の必要性【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jared Gdanski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジェネシスの破産申請後もビットコイン、イーサリアムは堅調に推移]]></title>
-        <id>https://www.coindeskjapan.com/?p=172030</id>
-        <link href="https://www.coindeskjapan.com/172030/"/>
-        <updated>2023-01-20T12:30:55.000Z</updated>
-        <summary type="html"><![CDATA[「ビットコイン（BTC）のジェネシス（Genesis）倒産のニュースへの反応は信じられないものだった」と有名な暗号資産オブザーバーは、最大の機関投資家の暗号資産 ...
-ジェネシスの破産申請後もビットコイン、イーサリアムは堅調に推移 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

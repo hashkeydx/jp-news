@@ -143,6 +143,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=172399",
+          "author": "Helene Braun",
+          "description": "米暗号資産（仮想通貨）取引大手コインベース（Coinbase）の取引高は、JPモルガン・チェースがまとめたデータを見ると、他の取引所が引き続き減少している一方で ...\n米コインベース、取引高がわずかに増加──ライバルは減少が続く： JPMorgan first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/172399/",
+          "publishedOn": "2023-01-25T00:45:57.000Z",
+          "wordCount": 1756,
+          "title": "米コインベース、取引高がわずかに増加──ライバルは減少が続く： JPMorgan",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/6LHT6MUEENGIZLCGCM3HB4H7RE.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=172377",
           "author": "Jack Schickler",
           "description": "欧州議会の議員は、欧州圏の年間予算約1700億ユーロ（約24兆520億円）を賄うため、暗号資産（仮想通貨）への課税を提案した。 1月16日に公開された欧州議会予 ...\n欧州議会、暗号資産取引やマイニングなどへの課税を検討へ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -361,16 +371,6 @@
           "wordCount": 1782,
           "title": "FTX破綻で明確に、保険義務化の必要性【オピニオン】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/shutterstock_2224048131.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=172030",
-          "author": "Omkar Godbole",
-          "description": "「ビットコイン（BTC）のジェネシス（Genesis）倒産のニュースへの反応は信じられないものだった」と有名な暗号資産オブザーバーは、最大の機関投資家の暗号資産 ...\nジェネシスの破産申請後もビットコイン、イーサリアムは堅調に推移 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/172030/",
-          "publishedOn": "2023-01-20T12:30:55.000Z",
-          "wordCount": 1754,
-          "title": "ジェネシスの破産申請後もビットコイン、イーサリアムは堅調に推移",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/coin.jpg"
         }
       ]
     },
@@ -385,6 +385,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=427934",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインやブロックチェーンのインフラを提供するBlockstreamは、約160億円の資金を調達したことを発表。今回調達した資金で、マイニング施設を拡充する。",
+          "link": "https://coinpost.jp/?p=427934",
+          "publishedOn": "2023-01-25T00:50:52.000Z",
+          "wordCount": 2282,
+          "title": "Blockstream社がマイニング施設拡充へ、約160億円を資金調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/Blockstream.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/Blockstream.png"
+        },
         {
           "id": "https://coinpost.jp/?p=427916",
           "author": "K.Kobayashi",
