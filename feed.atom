@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-27T12:44:16.269Z</updated>
+    <updated>2023-01-27T13:29:26.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分散型デリバティブ取引所のゲインズ・ネットワーク、1カ月で15億ドル超の取引高を記録]]></title>
+        <id>https://www.coindeskjapan.com/?p=172857</id>
+        <link href="https://www.coindeskjapan.com/172857/"/>
+        <updated>2023-01-27T13:15:53.000Z</updated>
+        <summary type="html"><![CDATA[デリバティブの分散型取引所（DEX）ゲインズ・ネットワーク（Gains Network）は、アービトラム（Arbitrum）ブロックチェーンへの展開後、約1カ月 ...
+分散型デリバティブ取引所のゲインズ・ネットワーク、1カ月で15億ドル超の取引高を記録 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、2013年以来最高の1月に──アメリカの機関投資家が牽引]]></title>
         <id>https://www.coindeskjapan.com/?p=172836</id>
@@ -1061,37 +1072,6 @@ DMM Bitcoin、「Nippon Idol Token（NIDT）」のIEO実施を発表 first appea
         <summary type="html"><![CDATA[合同会社DMM.comのプレスリリース（2023年1月23日 11時00分）DMM.com、web3事業への本格的な参入を見据え新会社[株式会社DM2C Studio]を設立]]></summary>
         <author>
             <name>合同会社DMM.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米仮想通貨銀行の巨額借り入れが判明　流動性対応で＝報道]]></title>
-        <id>https://coinpost.jp/?p=427559</id>
-        <link href="https://coinpost.jp/?p=427559"/>
-        <updated>2023-01-23T01:25:05.000Z</updated>
-        <summary type="html"><![CDATA[米国の仮想通貨銀行シルバーゲートとシグネチャーは、米国連邦住宅貸付銀行から数千億円規模の融資を受けていることがわかった。顧客資金の流出に対応することが目的だ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pacific Metaが暗号資産取引所Huobiとパートナーシップを締結]]></title>
-        <id>b2303f359de11145395591801d78b8e8</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36a63df140f9261d46be6cb0c2350d667"/>
-        <updated>2023-01-23T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[株式会社Pacific Metaのプレスリリース（2023年1月23日 10時00分）Pacific Metaが暗号資産取引所Huobiとパートナーシップを締結]]></summary>
-        <author>
-            <name>株式会社Pacific Meta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アバランチ上のビットコイン（BTC.b）、ライトニングネットワークを超える]]></title>
-        <id>https://www.coindeskjapan.com/?p=171856</id>
-        <link href="https://www.coindeskjapan.com/171856/"/>
-        <updated>2023-01-23T00:45:48.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（Bitcoin）ブロックチェーンからアバランチ（Avalanche）ブロックチェーンにブリッジされたビットコイン（BTC）は、ビットコインのスケー ...
-アバランチ上のビットコイン（BTC.b）、ライトニングネットワークを超える first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>

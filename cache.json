@@ -174,16 +174,6 @@
           "wordCount": 412,
           "title": "DMM.com、web3事業への本格的な参入を見据え新会社「株式会社DM2C Studio」を設立",
           "imageUrl": null
-        },
-        {
-          "id": "b2303f359de11145395591801d78b8e8",
-          "author": "株式会社Pacific Meta",
-          "description": "株式会社Pacific Metaのプレスリリース（2023年1月23日 10時00分）Pacific Metaが暗号資産取引所Huobiとパートナーシップを締結",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36a63df140f9261d46be6cb0c2350d667",
-          "publishedOn": "2023-01-23T01:00:01.000Z",
-          "wordCount": 412,
-          "title": "Pacific Metaが暗号資産取引所Huobiとパートナーシップを締結",
-          "imageUrl": null
         }
       ]
     },
@@ -192,6 +182,16 @@
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=172857",
+          "author": "Shaurya Malwa",
+          "description": "デリバティブの分散型取引所（DEX）ゲインズ・ネットワーク（Gains Network）は、アービトラム（Arbitrum）ブロックチェーンへの展開後、約1カ月 ...\n分散型デリバティブ取引所のゲインズ・ネットワーク、1カ月で15億ドル超の取引高を記録 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/172857/",
+          "publishedOn": "2023-01-27T13:15:53.000Z",
+          "wordCount": 1765,
+          "title": "分散型デリバティブ取引所のゲインズ・ネットワーク、1カ月で15億ドル超の取引高を記録",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/HRURSJ6M4VANJP4DI2UNKY3TEI-1.png"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=172836",
           "author": "Omkar Godbole",
@@ -561,16 +561,6 @@
           "wordCount": 1804,
           "title": "アクシー・インフィニティ、アンロックを前に40％上昇",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/スクリーンショット-2023-01-23-18.08.11.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=171856",
-          "author": "Omkar Godbole",
-          "description": "ビットコイン（Bitcoin）ブロックチェーンからアバランチ（Avalanche）ブロックチェーンにブリッジされたビットコイン（BTC）は、ビットコインのスケー ...\nアバランチ上のビットコイン（BTC.b）、ライトニングネットワークを超える first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/171856/",
-          "publishedOn": "2023-01-23T00:45:48.000Z",
-          "wordCount": 1774,
-          "title": "アバランチ上のビットコイン（BTC.b）、ライトニングネットワークを超える",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/BLRQBZYTO5GBZKC7EXRRXXM2WA.jpeg"
         }
       ]
     },
@@ -1304,21 +1294,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/altcoin2102053.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/altcoin2102053.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=427559",
-          "author": "A.Yamada",
-          "description": "米国の仮想通貨銀行シルバーゲートとシグネチャーは、米国連邦住宅貸付銀行から数千億円規模の融資を受けていることがわかった。顧客資金の流出に対応することが目的だ。",
-          "link": "https://coinpost.jp/?p=427559",
-          "publishedOn": "2023-01-23T01:25:05.000Z",
-          "wordCount": 2290,
-          "title": "米仮想通貨銀行の巨額借り入れが判明　流動性対応で＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/Silvergate-Capital.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/Silvergate-Capital.png"
         }
       ]
     }
