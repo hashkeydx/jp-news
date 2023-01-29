@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-29T21:21:07.329Z</updated>
+    <updated>2023-01-29T22:24:36.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本のWeb3の現状と将来──米CoinDeskエグゼクティブディレクターはどう見たか]]></title>
+        <id>https://www.coindeskjapan.com/?p=172769</id>
+        <link href="https://www.coindeskjapan.com/172769/"/>
+        <updated>2023-01-29T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[昨年12月、米CoinDeskエグゼクティブディレクターのエミリー・パーカー氏が来日、日本の暗号資産業界の現状と、Web3戦略やその取り組みをその目で確認した。 ...
+日本のWeb3の現状と将来──米CoinDeskエグゼクティブディレクターはどう見たか first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Emily Parker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グアテマラのビットコイン・レイクに行ってみた｜体験記寄稿2]]></title>
         <id>https://coinpost.jp/?p=428507</id>
@@ -719,26 +730,6 @@ DMM Bitcoinがポリゴン（MATIC）の取扱いを開始 first appeared on coi
 Web3の未来にはシームレスなインフラが不可欠【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Friedrich Zwanzger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gincoの提供するインフラ、Web3 Cloudを採用した「SBI Web3 ウォレット」がサービス開始]]></title>
-        <id>5001e55c491dc8cbd7432ebd02852e1b</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a46e63df140f9363d468e2c10c2350d667"/>
-        <updated>2023-01-25T09:41:58.000Z</updated>
-        <summary type="html"><![CDATA[株式会社Gincoのプレスリリース（2023年1月25日 18時41分）Gincoの提供するインフラ、Web3 Cloudを採用した[SBI Web3 ウォレット]がサービス開始]]></summary>
-        <author>
-            <name>株式会社Ginco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBINFT、WebAPIによる様々なNFT関連機能を提供する「TOKEN CONNECT」および、SBI VCトレードが当社・Gincoと共同開発する「SBI Web3ウォレット」の提供を開始]]></title>
-        <id>2be4f1cfe7a491e51785ed72cc9a710d</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a56d63df140f9361d661e2c30c2350d667"/>
-        <updated>2023-01-25T09:32:10.000Z</updated>
-        <summary type="html"><![CDATA[SBINFT株式会社のプレスリリース（2023年1月25日 18時32分）SBINFT、WebAPIによる様々なNFT関連機能を提供する[TOKEN CONNECT]および、SBI VCトレードが当社・Gincoと共同開発する[SBI Web3ウォレット]の提供を開始]]></summary>
-        <author>
-            <name>SBINFT株式会社</name>
         </author>
     </entry>
 </feed>
