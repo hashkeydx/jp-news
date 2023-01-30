@@ -103,6 +103,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=173054",
+          "author": "Omkar Godbole",
+          "description": "イーサリアム（ETH）は2週間前にデフレに転じ、純増数が1カ月以上ぶりにマイナスになった。 ultrasound.moneyによると、資産総額第2位の暗号資産（ ...\n発行量が減少したイーサリアム、パフォーマンスがビットコインを下回る──その3つの理由 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/173054/",
+          "publishedOn": "2023-01-30T22:30:42.000Z",
+          "wordCount": 1775,
+          "title": "発行量が減少したイーサリアム、パフォーマンスがビットコインを下回る──その3つの理由",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/eth.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=173034",
           "author": "Shaurya Malwa",
           "description": "スマートコントラクト技術を市場に提供するプラットフォームのファントム（Fantom）はビルダー、パートナー、ユーザーに、予測可能で予算に見合ったシステムを提供す ...\nファントム、fUSDのv2をリリースへ──v1は清算を実施 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -311,16 +321,6 @@
           "wordCount": 1837,
           "title": "残念なポルシェのNFTデビュー：Web3参入を目論む大手企業への教訓【コラム】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/3VFNH3AH3ZEUHGMZ3RMCXCUGI4.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=172561",
-          "author": "Cameron Thompson",
-          "description": "ナイキのNFTプラットフォーム「.SWOOSH」は1月25日、自身のスニーカーをデザインするユーザーを募集していると発表した。 .SWOOSHコミュニティのメン ...\nナイキ、デジタルスニーカーのデザインコンテスト first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/172561/",
-          "publishedOn": "2023-01-26T11:15:31.000Z",
-          "wordCount": 1786,
-          "title": "ナイキ、デジタルスニーカーのデザインコンテスト",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/shutterstock_2117753072.jpg"
         }
       ]
     },
@@ -335,6 +335,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=429149",
+          "author": "K.Kobayashi",
+          "description": "ツイッターは、決済機能の導入に向けてソフトウェアを開発をしていることがわかった。Elon Musk氏は、仮想通貨機能を追加できるようにしたいと考えているという。",
+          "link": "https://coinpost.jp/?p=429149",
+          "publishedOn": "2023-01-30T22:45:14.000Z",
+          "wordCount": 2253,
+          "title": "ツイッター、仮想通貨の決済機能を導入か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/twitter-exodus.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/twitter-exodus.png"
+        },
         {
           "id": "https://coinpost.jp/?p=428732",
           "author": "菊谷ルイス",
