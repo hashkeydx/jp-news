@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-30T08:30:42.343Z</updated>
+    <updated>2023-01-30T09:24:54.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YGG Japanが約4億円を調達、累計調達額は約7.5億円に]]></title>
+        <id>https://www.coindeskjapan.com/?p=172991</id>
+        <link href="https://www.coindeskjapan.com/172991/"/>
+        <updated>2023-01-30T08:30:19.000Z</updated>
+        <summary type="html"><![CDATA[ForN（フォーン）は1月30日、同社がパートナーシップを結ぶブロックチェーンゲームプラットフォーマーのYGG Japanがプライベートラウンドで約4億円相当の ...
+YGG Japanが約4億円を調達、累計調達額は約7.5億円に first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YGG Japan、プライベートラウンドで4億円相当を資金調達]]></title>
         <id>https://coinpost.jp/?p=429009</id>
@@ -830,17 +841,6 @@ DMM Bitcoinがポリゴン（MATIC）の取扱いを開始 first appeared on coi
 バイナンス、APIユーザーに 不正取引防止機能を提供 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3の未来にはシームレスなインフラが不可欠【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=169969</id>
-        <link href="https://www.coindeskjapan.com/169969/"/>
-        <updated>2023-01-25T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[私が勤める暗号資産インフラ企業のブロックデーモン（Blockdaemon）は、Web3の未来はシームレスなユーザーエクスペリエンス（UX）を基盤にして構築される ...
-Web3の未来にはシームレスなインフラが不可欠【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Friedrich Zwanzger</name>
         </author>
     </entry>
 </feed>
