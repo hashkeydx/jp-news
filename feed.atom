@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-31T20:25:50.497Z</updated>
+    <updated>2023-01-31T21:22:23.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界中の“草の根プロジェクト”が暗号資産の回復をリードする【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=171464</id>
+        <link href="https://www.coindeskjapan.com/171464/"/>
+        <updated>2023-01-31T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[FTXをめぐり先月開かれた米下院金融サービス委員会の公聴会で、民主党のへスース・ガルシア（Jesus Garcia）下院議員は暗号資産について、「業界全体が自ら ...
+世界中の“草の根プロジェクト”が暗号資産の回復をリードする【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sorare、サッカー最高峰「英プレミアリーグ」と複数年パートナーシップ締結]]></title>
         <id>https://coinpost.jp/?p=429373</id>
@@ -585,26 +596,6 @@ Oasis TOKYO × The Sandbox「実験解放区」クリエイターコンテスト
         <summary type="html"><![CDATA[チケミーのプレスリリース（2023年1月27日 19時06分）チケミー社と株式会社マウンテンビューが協業を発表。カーボンクレジットSTOで温室効果ガス削減を目指す。]]></summary>
         <author>
             <name>チケミー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEAのNFTマーケットプレイス、法定通貨での購入が可能に]]></title>
-        <id>https://coinpost.jp/?p=428471</id>
-        <link href="https://coinpost.jp/?p=428471"/>
-        <updated>2023-01-27T09:00:22.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーンゲームを展開するDEAは、NFTマーケットプレイスで法定通貨による決済を導入すると発表。株式会社イオレとの提携により新たなゲームプレイヤーの拡大も目指す。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuzzFeed株が119%急騰、OpenAIのコンテンツ強化策を受けて]]></title>
-        <id>https://coinpost.jp/?p=428544</id>
-        <link href="https://coinpost.jp/?p=428544"/>
-        <updated>2023-01-27T08:51:40.000Z</updated>
-        <summary type="html"><![CDATA[BuzzFeedの株価高騰米デジタルメディア企業BuzzFeedが米OpenAIのAI（人工知能）技術を使ったコンテンツ提供を計画しているとの報道を受けて、同社の株価（BZFD）は26日（米国時間）に前日比119%高騰した。一時は2.45ド...]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
