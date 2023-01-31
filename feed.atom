@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-01-31T03:27:27.202Z</updated>
+    <updated>2023-01-31T04:29:39.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米サークル社、USDC準備金の監査済「担保資産」の保有を強調]]></title>
+        <id>https://coinpost.jp/?p=429255</id>
+        <link href="https://coinpost.jp/?p=429255"/>
+        <updated>2023-01-31T04:09:51.000Z</updated>
+        <summary type="html"><![CDATA[米ドル連動型ステーブルコインUSDCを発行する米サークル社は、2022年12月の準備金レポートを公開。流通しているUSDCを約1.4億ドル上回る準備金を保有していることがわかった。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFTの分散型取引所「Sudoswap」、ガバナンストークン配布を開始]]></title>
         <id>https://coinpost.jp/?p=429214</id>
