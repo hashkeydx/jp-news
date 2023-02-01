@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-01T06:30:40.731Z</updated>
+    <updated>2023-02-01T07:23:01.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨イーサリアム、1月に供給量が純減]]></title>
+        <id>https://coinpost.jp/?p=429709</id>
+        <link href="https://coinpost.jp/?p=429709"/>
+        <updated>2023-02-01T06:30:39.000Z</updated>
+        <summary type="html"><![CDATA[1月にかけて仮想通貨イーサリアムの供給量が10,466 ETH（20億円）の純減となった。ネットワーク利用の増加に基づいてETHのバーン数が増加し、ステーキング報酬による新規発行量を上回っている状況だ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「web3・ブロックチェーン技術の実装手法」と題してHorizon株式会社 代表取締役 蔡 念佐氏のセミナーを2023年2月27日（月）に開催!!]]></title>
         <id>5ce6b4a57733466b705d29b5481c5ebd</id>
