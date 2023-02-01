@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-01T03:33:56.076Z</updated>
+    <updated>2023-02-01T04:30:13.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分散型取引所Uniswap、トークンブリッジ「Wormhole」をサポートへ]]></title>
+        <id>https://coinpost.jp/?p=429575</id>
+        <link href="https://coinpost.jp/?p=429575"/>
+        <updated>2023-02-01T03:30:56.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所UniswapをBNBチェーンで展開する計画で、Wormholeのトークンブリッジを採用する方針が明らかになった。他DEXによるコピーを防ぐライセンスが期限を迎える前に多チェーン展開を目指す。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港当局、仮想通貨とステーブルコインの規制方針決定]]></title>
         <id>https://coinpost.jp/?p=429553</id>
