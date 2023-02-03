@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-02T23:25:25.099Z</updated>
+    <updated>2023-02-03T01:56:19.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米連邦地裁、コインベースに対する集団訴訟を却下　株価大幅高]]></title>
+        <id>https://coinpost.jp/?p=430330</id>
+        <link href="https://coinpost.jp/?p=430330"/>
+        <updated>2023-02-03T01:20:10.000Z</updated>
+        <summary type="html"><![CDATA[米ニューヨーク南部地裁は、仮想通貨取引所コインベースに対する集団訴訟を却下した。訴訟は、コインベースが未登録証券を取り扱っていると申し立てるものだった。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アマゾンウェブサービス、Web3の人材を募集]]></title>
+        <id>https://coinpost.jp/?p=430322</id>
+        <link href="https://coinpost.jp/?p=430322"/>
+        <updated>2023-02-03T00:55:45.000Z</updated>
+        <summary type="html"><![CDATA[アマゾンのクラウドサービス部門AWSは現在、Web3チームの人材を募集。また、ebayは仮想通貨やNFTに関する職種など、複数のポジションでWeb3関連の求人を行っている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーンデータ、弱気相場でのビットコイン長期保有を明らかに]]></title>
+        <id>https://www.coindeskjapan.com/?p=173512</id>
+        <link href="https://www.coindeskjapan.com/173512/"/>
+        <updated>2023-02-03T00:35:37.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産関連のツイートを見ていると、昨年の弱気相場の間、ビットコイン（BTC）を保有し続けたと一部の投資家がツイートしているのを目にしたことがあるだろう。実際、 ...
+ブロックチェーンデータ、弱気相場でのビットコイン長期保有を明らかに first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epics DAOの$EPCTトークンがDEX(分散型取引所)に上場しました]]></title>
+        <id>b0d179c136137ef55212c12df97afa07</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06863df140f9260d061e7c00c2350d667"/>
+        <updated>2023-02-03T00:15:02.000Z</updated>
+        <summary type="html"><![CDATA[ELSOUL LABO B.V.のプレスリリース（2023年2月3日 01時05分）Epics DAOの＄EPCTトークンがDEX(分散型取引所)に上場しました]]></summary>
+        <author>
+            <name>ELSOUL LABO B.V.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Optimism」、初のアップグレード「Bedrock」は3月実施を提案]]></title>
+        <id>https://coinpost.jp/?p=430308</id>
+        <link href="https://coinpost.jp/?p=430308"/>
+        <updated>2023-02-02T23:30:39.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2「Optimism」のOptimism Foundationは、ネットワーク初となるアップグレードBedrockの実施時期を3月にすると提案した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アラメダのウォレット、一晩で1000万ドル以上のステーブルコインを受け取る──その理由は不明]]></title>
         <id>https://www.coindeskjapan.com/?p=173478</id>
@@ -62,6 +113,26 @@ FTXに投資したVCの責任は？【コラム】 first appeared on coindesk JA
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[法人向けweb3リサーチ事業「Research for business」が正式リリース！！]]></title>
+        <id>79ab17622258f273256d35d638739e7c</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06a63df140f9365d160e0c20c2350d667"/>
+        <updated>2023-02-02T08:51:39.000Z</updated>
+        <summary type="html"><![CDATA[株式会社demmpaのプレスリリース（2023年2月2日 17時51分）法人向けweb3リサーチ事業[Research for business]が正式リリース！！]]></summary>
+        <author>
+            <name>株式会社demmpa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタートバーン、株式会社読売巨人軍の春季キャンプ期間のNFTイベントにWebアプリ「FUN FAN NFT」を提供]]></title>
+        <id>d53cab61e2071667cf6cfd8eaaba119e</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a66263df140f9361d36fe2c20c2350d667"/>
+        <updated>2023-02-02T08:24:10.000Z</updated>
+        <summary type="html"><![CDATA[スタートバーン株式会社のプレスリリース（2023年2月2日 17時24分）スタートバーン、株式会社読売巨人軍の春季キャンプ期間のNFTイベントにWebアプリ[FUN FAN NFT]を提供]]></summary>
+        <author>
+            <name>スタートバーン株式会社</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenSeaの牙城を崩せるか？　プロトレーダー向けNFT市場「Blur」の戦略とは]]></title>
         <id>https://coinpost.jp/?p=430102</id>
         <link href="https://coinpost.jp/?p=430102"/>
@@ -79,6 +150,26 @@ FTXに投資したVCの責任は？【コラム】 first appeared on coindesk JA
         <summary type="html"><![CDATA[自民党web3 PT座長の平将明議員は、衆院予算委員会にてデジタル分野における国家課題（政府のweb3政策）について質問を行い、岸田総理は前向きな見解を示した。web3には暗号資産（仮想通貨）・ブロックチェーン、NFT、メタバース、DAOなどが含まれる。]]></summary>
         <author>
             <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｊリーグオフィシャルライセンス許諾デジタルトレーディングカードサービス「Ｊリーグ エールトレカ」サガン鳥栖 プリセール開始]]></title>
+        <id>e15dcb761ceb10cf441a19aebda0f818</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a16e63df140f9368d16de2c10c2350d667"/>
+        <updated>2023-02-02T06:02:02.000Z</updated>
+        <summary type="html"><![CDATA[株式会社OneSportsのプレスリリース（2023年2月2日 15時02分）Ｊリーグオフィシャルライセンス許諾デジタルトレーディングカードサービス[Ｊリーグ エールトレカ]サガン鳥栖 プリセール開始]]></summary>
+        <author>
+            <name>株式会社OneSports</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｊリーグオフィシャルライセンス許諾デジタルトレーディングカードサービス「Ｊリーグ エールトレカ」アビスパ福岡 プリセール開始]]></title>
+        <id>dd8e02344ac5e7cd7f7131bb946d42fd</id>
+        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a16963df140f9368d16de2c10c2350d667"/>
+        <updated>2023-02-02T06:01:00.000Z</updated>
+        <summary type="html"><![CDATA[株式会社OneSportsのプレスリリース（2023年2月2日 15時01分）Ｊリーグオフィシャルライセンス許諾デジタルトレーディングカードサービス[Ｊリーグ エールトレカ]アビスパ福岡 プリセール開始]]></summary>
+        <author>
+            <name>株式会社OneSports</name>
         </author>
     </entry>
     <entry>
