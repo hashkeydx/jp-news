@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-03T03:29:42.575Z</updated>
+    <updated>2023-02-03T04:30:22.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ウォレット「メタマスク」、プライバシー機能を拡張]]></title>
+        <id>https://coinpost.jp/?p=430398</id>
+        <link href="https://coinpost.jp/?p=430398"/>
+        <updated>2023-02-03T03:33:48.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ウォレット最大手Metamaskは、RPCネットワークの変更機能を設置した。また、フィッシング詐欺の検出や着信トランザクション通知などを行うサードパーティサービスを使用するトグル機能を追加した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抵抗線で揉み合うビットコイン、移動平均線のゴールデンクロス迫る]]></title>
         <id>https://coinpost.jp/?p=430380</id>
@@ -947,16 +957,6 @@ YGG Japanが約4億円を調達、累計調達額は約7.5億円に first appear
 日本のWeb3の現状と将来──米CoinDeskエグゼクティブディレクターはどう見たか first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Emily Parker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epics DAOが$EPCTのトークンバーンプランを発表しました]]></title>
-        <id>fcc20f11fbfe2baa8a13f364fb17c4da</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06a63df140f9260d061e7c00c2350d667"/>
-        <updated>2023-01-29T15:42:51.000Z</updated>
-        <summary type="html"><![CDATA[ELSOUL LABO B.V.のプレスリリース（2023年1月30日 00時42分）Epics DAOが＄EPCTのトークンバーンプランを発表しました]]></summary>
-        <author>
-            <name>ELSOUL LABO B.V.</name>
         </author>
     </entry>
 </feed>

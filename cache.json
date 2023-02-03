@@ -134,16 +134,6 @@
           "wordCount": 412,
           "title": "bb DAOコミュニティにて「Epics AMA」が開催されます",
           "imageUrl": null
-        },
-        {
-          "id": "fcc20f11fbfe2baa8a13f364fb17c4da",
-          "author": "ELSOUL LABO B.V.",
-          "description": "ELSOUL LABO B.V.のプレスリリース（2023年1月30日 00時42分）Epics DAOが＄EPCTのトークンバーンプランを発表しました",
-          "link": "https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a06a63df140f9260d061e7c00c2350d667",
-          "publishedOn": "2023-01-29T15:42:51.000Z",
-          "wordCount": 412,
-          "title": "Epics DAOが$EPCTのトークンバーンプランを発表しました",
-          "imageUrl": null
         }
       ]
     },
@@ -495,6 +485,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=430398",
+          "author": "AKIRA.H",
+          "description": "仮想通貨ウォレット最大手Metamaskは、RPCネットワークの変更機能を設置した。また、フィッシング詐欺の検出や着信トランザクション通知などを行うサードパーティサービスを使用するトグル機能を追加した。",
+          "link": "https://coinpost.jp/?p=430398",
+          "publishedOn": "2023-02-03T03:33:48.000Z",
+          "wordCount": 2358,
+          "title": "仮想通貨ウォレット「メタマスク」、プライバシー機能を拡張",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/Metamask_1125.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/Metamask_1125.png"
+        },
         {
           "id": "https://coinpost.jp/?p=430380",
           "author": "S.Ninomiya",
