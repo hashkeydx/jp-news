@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-03T02:54:53.957Z</updated>
+    <updated>2023-02-03T03:29:42.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[抵抗線で揉み合うビットコイン、移動平均線のゴールデンクロス迫る]]></title>
+        <id>https://coinpost.jp/?p=430380</id>
+        <link href="https://coinpost.jp/?p=430380"/>
+        <updated>2023-02-03T03:15:53.000Z</updated>
+        <summary type="html"><![CDATA[ダウ反落を受け3日にかけて暗号資産（仮想通貨）市場も反落。ビットコインは50MA（中期移動平均線）と200MA（長期移動平均線）のゴールデンクロスが迫っている。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米マイクロストラテジー、ビットコイン保有で250億円の減損計上]]></title>
+        <id>https://coinpost.jp/?p=430388</id>
+        <link href="https://coinpost.jp/?p=430388"/>
+        <updated>2023-02-03T02:50:14.000Z</updated>
+        <summary type="html"><![CDATA[米上場企業マイクロストラテジーは2022年第4四半期の決算を報告。財務資産として保有する仮想通貨ビットコインについて約254億円の減損を計上している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1月の暗号資産市場：アプトス、メタバーストークンが上昇]]></title>
         <id>https://www.coindeskjapan.com/?p=173348</id>
