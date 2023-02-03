@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-03T11:22:09.013Z</updated>
+    <updated>2023-02-03T12:45:02.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは過去14カ月で最も強気──米雇用統計に注目]]></title>
+        <id>https://www.coindeskjapan.com/?p=173574</id>
+        <link href="https://www.coindeskjapan.com/173574/"/>
+        <updated>2023-02-03T11:45:30.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は現在、2021年後半に比べて大幅に価格が下がっている。それでも、市場の雰囲気は当時と同じようにポジティブだ。 それは、ビットコインの永久 ...
+ビットコインは過去14カ月で最も強気──米雇用統計に注目 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、上海アップグレードのテスト実装を計3回予定]]></title>
         <id>https://coinpost.jp/?p=430514</id>
@@ -967,16 +978,6 @@ YGG Japanが約4億円を調達、累計調達額は約7.5億円に first appear
         <summary type="html"><![CDATA[株式会社Pacific Metaのプレスリリース（2023年1月30日 10時00分）Pacific MetaとCryptoGamesがパートナーシップを締結。開発とマーケティングで相互支援拡充。]]></summary>
         <author>
             <name>株式会社Pacific Meta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[web3エンジニアコミュニティUNCHAIN、6ヶ月で3,000万円を給付するweb3開発助成金プログラム”進捗2Earn”を独自開発]]></title>
-        <id>56118c1ea68a4693a3460180809fa7b4</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a26c63df140f9369d060e1c30c2350d667"/>
-        <updated>2023-01-30T00:00:01.000Z</updated>
-        <summary type="html"><![CDATA[shiftbaseのプレスリリース（2023年1月30日 09時00分）web3エンジニアコミュニティUNCHAIN、6ヶ月で3,000万円を給付するweb3開発助成金プログラム”進捗2Earn”を独自開発]]></summary>
-        <author>
-            <name>shiftbase</name>
         </author>
     </entry>
 </feed>
