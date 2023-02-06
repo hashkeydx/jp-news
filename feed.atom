@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-06T08:30:53.960Z</updated>
+    <updated>2023-02-06T09:25:17.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラミツ、ラオス中央銀行とCBDC実証実験]]></title>
+        <id>https://www.coindeskjapan.com/?p=173769</id>
+        <link href="https://www.coindeskjapan.com/173769/"/>
+        <updated>2023-02-06T08:55:51.000Z</updated>
+        <summary type="html"><![CDATA[ソラミツは2月6日、ラオス中央銀行決済機構局と中央銀行デジタル通貨（CBDC）の実証実験（PoC）に向けた覚書（MOU）を締結したと発表した。 ラオス中央銀行は ...
+ソラミツ、ラオス中央銀行とCBDC実証実験 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Fujitsu Web3 Acceleration Platform」をグローバルに提供：富士通]]></title>
         <id>https://www.coindeskjapan.com/?p=173759</id>
@@ -739,17 +750,6 @@ FTXに投資したVCの責任は？【コラム】 first appeared on coindesk JA
 アメリカ空軍、ブロックチェーン企業への投資を大幅に増額 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銀行はステーブルコインを発行できる？【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=172258</id>
-        <link href="https://www.coindeskjapan.com/172258/"/>
-        <updated>2023-02-01T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン規制は、暗号資産でも特に議論のテーマになっている。アメリカの規制当局やバイデン政権からのレポートは、ステーブルコインは金融の安定性を脅かす可能性 ...
-銀行はステーブルコインを発行できる？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Thomas Hogan</name>
         </author>
     </entry>
 </feed>
