@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-07T20:25:53.520Z</updated>
+    <updated>2023-02-07T21:22:40.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FRBの成功はビットコインのウォール街ストーリーを傷つける──真の価値を知るには？【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=173727</id>
+        <link href="https://www.coindeskjapan.com/173727/"/>
+        <updated>2023-02-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金融市場の上向きなムードをはじめ、経済データや他の指標は、米連邦準備制度理事会（FRB）が当初の予想に反して、アメリカ経済のソフトランディングに成功するかもしれ ...
+FRBの成功はビットコインのウォール街ストーリーを傷つける──真の価値を知るには？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DCG、グレイスケールの投資商品を売却：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=173897</id>
@@ -556,16 +567,6 @@ ICOは再考に値する【オピニオン】 first appeared on coindesk JAPAN |
         <summary type="html"><![CDATA[Social Finance Limitedのプレスリリース（2023年2月3日 18時57分）GuildQBは2023年2月18日に如月-KISARAGI-のローンチを記念して、[QB conference]を代官山で開催]]></summary>
         <author>
             <name>Social Finance Limited</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーン上でアプリケーションを簡単に、効率よく構築できるCurvegridが、サービスの機能や利用方法を学べるポータルサイト「Curvegrid Docs（ユーザーガイド）...]]></title>
-        <id>87c2032ed1caf8e89f70e4946ce0b7c9</id>
-        <link href="https://rss.app/articles/cb4e791f6f6d729c03464c4b72d3a6c5010e5f2c1e36bcaecaf68a16ca946388f250f50c69d8de68f3a36a63df140f9369dd6ee1c00c2350d667"/>
-        <updated>2023-02-03T08:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Curvegrid株式会社のプレスリリース（2023年2月3日 17時28分）ブロックチェーン上でアプリケーションを簡単に、効率よく構築できるCurvegridが、サービスの機能や利用方法を学べるポータルサイト[Curvegrid Docs（ユーザーガイド）]を公開]]></summary>
-        <author>
-            <name>Curvegrid株式会社</name>
         </author>
     </entry>
 </feed>
