@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-08T05:25:44.583Z</updated>
+    <updated>2023-02-08T06:30:10.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ETHステーキング大手Lido、V2で出金機能など実装へ]]></title>
+        <id>https://coinpost.jp/?p=431722</id>
+        <link href="https://coinpost.jp/?p=431722"/>
+        <updated>2023-02-08T05:42:21.000Z</updated>
+        <summary type="html"><![CDATA[リキッドステーキングの最大手プロトコルLido Financeは、次期アップグレード「Lido V2」の計画について発表した。仮想通貨イーサリアムの出金機能、及びネットワーク分散化に向けた重要な機能更新が予定される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国際決済銀行、ステーブルコインの監視システムを開発]]></title>
         <id>https://coinpost.jp/?p=431637</id>
