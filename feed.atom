@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-09T22:27:43.702Z</updated>
+    <updated>2023-02-09T23:27:20.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、ポリゴン基盤のゲーム銘柄の新規取扱を実施]]></title>
+        <id>https://coinpost.jp/?p=432188</id>
+        <link href="https://coinpost.jp/?p=432188"/>
+        <updated>2023-02-09T23:15:15.000Z</updated>
+        <summary type="html"><![CDATA[米国の大手暗号資産取引所コインベースは9日、ゲーム銘柄の新規上場を実施した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老舗P2P仮想通貨取引所LocalBitcoins、10年超続けたサービスを終了へ]]></title>
+        <id>https://coinpost.jp/?p=432174</id>
+        <link href="https://coinpost.jp/?p=432174"/>
+        <updated>2023-02-09T22:40:02.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインのP2P取引所LocalBitcoinsは、サービス提供を終了することを発表。サービス終了の理由や今後の流れを説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナスダック・仮想通貨全面安　コインベース株大幅下落｜10日金融短観]]></title>
         <id>https://coinpost.jp/?p=431977</id>
