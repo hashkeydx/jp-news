@@ -173,6 +173,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=174242",
+          "author": "Nikhilesh De",
+          "description": "暗号資産（仮想通貨）取引所クラーケン（Kraken）は2月9日、米顧客向けの暗号資産ステーキングサービスを「直ちに」停止し、未登録の証券を提供したとするSEC（ ...\nクラーケン、米顧客へのステーキングサービスを停止──SECに和解金約39億円 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/174242/",
+          "publishedOn": "2023-02-10T00:10:19.000Z",
+          "wordCount": 1732,
+          "title": "クラーケン、米顧客へのステーキングサービスを停止──SECに和解金約39億円",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/02/スクリーンショット-2023-02-10-9.01.31.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=174228",
           "author": "Will Canny",
           "description": "3月中旬に予定されているイーサリアムの「シャンハイ」アップグレードにより、ステーキング比率が中期的に上昇すると、JPモルガン（JPMorgan）は2月8日のレポ ...\nイーサリアムの「シャンハイ」アップグレードはステーキング比率を上昇させる：JPモルガン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -525,6 +535,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=432209",
+          "author": "A.Yamada",
+          "description": "ステーブルコインUSDTを発行する米テザー社は、準備資産の証明に関する最新の報告書を公開した。担保付きローンを削減しており、発行トークンを支えるのに充分な準備金を保持している。",
+          "link": "https://coinpost.jp/?p=432209",
+          "publishedOn": "2023-02-10T01:10:16.000Z",
+          "wordCount": 2268,
+          "title": "テザー社、準備資産の最新報告　担保付ローン削減",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/tether-blocks-coindesk.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/tether-blocks-coindesk.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=432195",
+          "author": "K.Kobayashi",
+          "description": "米SECは、仮想通貨取引所クラーケンを証券法違反で起訴したことを発表。同社のステーキングサービスが投資契約に相当すると主張している。",
+          "link": "https://coinpost.jp/?p=432195",
+          "publishedOn": "2023-02-10T01:00:40.000Z",
+          "wordCount": 2305,
+          "title": "米SEC「クラーケンの仮想通貨ステーキングサービスは証券法違反」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/kraken_20210915_1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/kraken_20210915_1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=432188",
           "author": "菊谷ルイス",
