@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-10T03:33:18.764Z</updated>
+    <updated>2023-02-10T04:31:13.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3投資家を装った対面式詐欺に注意、トラストウォレットが解説]]></title>
+        <id>https://coinpost.jp/?p=432282</id>
+        <link href="https://coinpost.jp/?p=432282"/>
+        <updated>2023-02-10T04:18:42.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ウォレットTrust Walletは、あるユーザーが対面式詐欺により5.2億円相当のトークンが盗まれた事例について説明した。犯人が手渡したPDFファイルにマルウェアが含まれていた可能性が高いと見られている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン急落で調整局面入りか、ステーキング可能なPoS通貨に新たな試練]]></title>
         <id>https://coinpost.jp/?p=432218</id>
