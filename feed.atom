@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-11T03:26:36.108Z</updated>
+    <updated>2023-02-11T04:30:23.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、上海アップグレードの次のテストを2月末に設定]]></title>
+        <id>https://coinpost.jp/?p=432617</id>
+        <link href="https://coinpost.jp/?p=432617"/>
+        <updated>2023-02-11T03:30:54.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのブロックチェーンの次期アップグレード「上海」について、テストスケジュールが更新された。まずはSepoliaで2月28日の上海実装を予定している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SECのクラーケン起訴をどう見るか、イーサリアムステーキングへの影響を考察]]></title>
         <id>https://coinpost.jp/?p=432600</id>
