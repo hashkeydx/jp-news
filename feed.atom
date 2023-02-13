@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-13T03:31:08.553Z</updated>
+    <updated>2023-02-13T04:31:06.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【週末の動き】ビットコイン、2万ドルを試す動きとなるか]]></title>
+        <id>https://www.coindeskjapan.com/?p=174447</id>
+        <link href="https://www.coindeskjapan.com/174447/"/>
+        <updated>2023-02-13T04:15:09.000Z</updated>
+        <summary type="html"><![CDATA[価格：ビットコイン（BTC）は2万ドル以下を試すかもしれないが、まだ強気な理由がある。 インサイト：SEC（米証券取引委員会）のクラーケンのステーキングサービス ...
+【週末の動き】ビットコイン、2万ドルを試す動きとなるか first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNBチェーン、無限鋳造リスクのある「深刻な脆弱性」を修正]]></title>
+        <id>https://coinpost.jp/?p=432821</id>
+        <link href="https://coinpost.jp/?p=432821"/>
+        <updated>2023-02-13T03:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Web3企業Jump Cryptoは、大手仮想通貨取引所バイナンスの提供するBNB チェーン上に発見された脆弱性について報告。トークンを無際限に鋳造可能とするバグだった。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPI控えビットコイン様子見基調、「成行売り」急増はイーサリアムの投資家心理を示唆]]></title>
+        <id>https://coinpost.jp/?p=432819</id>
+        <link href="https://coinpost.jp/?p=432819"/>
+        <updated>2023-02-13T03:38:54.000Z</updated>
+        <summary type="html"><![CDATA[株やビットコインなど金融相場のターニングポイントとなり得る次回CPI（米消費者物価指数）を控え、仮想通貨市場でも様子見基調が強まった。アルト市場ではSECが提訴したクラーケンのステーキング問題の影響で、イーサリアムなどPoS通貨売りが先行している。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国際通貨基金（IMF）が調査報告「エルサルバドルはビットコイン債の導入を見直すべき」]]></title>
         <id>https://coinpost.jp/?p=432811</id>
