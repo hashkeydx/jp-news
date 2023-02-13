@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-13T09:26:30.268Z</updated>
+    <updated>2023-02-13T10:30:12.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[23年2月の仮想通貨注目ニュース・イベント｜CONNECTV2月号]]></title>
+        <id>https://coinpost.jp/?p=432003</id>
+        <link href="https://coinpost.jp/?p=432003"/>
+        <updated>2023-02-13T10:01:59.000Z</updated>
+        <summary type="html"><![CDATA[毎月配信の「月刊 CONNECTV」。1月の重要仮想通貨ニュースと来月の注目イベントについて、CoinPost代表各務貴仁とあたらしい経済の竹田匡宏氏の2名が解説]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ニューヨーク当局、パクソスにステーブルコイン「BUSD」の新規発行停止を命じる]]></title>
         <id>https://coinpost.jp/?p=432948</id>
@@ -638,38 +648,6 @@ AIトークン、価格も検索数も上昇 first appeared on coindesk JAPAN | 
         <summary type="html"><![CDATA[株式会社ＤＥＳＯＵＬのプレスリリース（2023年2月9日 08時00分）株式会社Desoul、シードラウンドの資金調達を実施]]></summary>
         <author>
             <name>株式会社ＤＥＳＯＵＬ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナスダック反落　FOMC委員発言の影響などで｜9日金融短観]]></title>
-        <id>https://coinpost.jp/?p=431563</id>
-        <link href="https://coinpost.jp/?p=431563"/>
-        <updated>2023-02-08T22:25:29.000Z</updated>
-        <summary type="html"><![CDATA[本日のニューヨークダウやナスダックは反落。グーグルの親会社アルファベットの下げが目立った。消費者向けAI分野での競争にはマイクロソフトやグーグルの他、アリババなども参戦してきた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドバイ、暗号資産に関する新ルール制定──プライバシーコインを禁止]]></title>
-        <id>https://www.coindeskjapan.com/?p=174080</id>
-        <link href="https://www.coindeskjapan.com/174080/"/>
-        <updated>2023-02-08T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[ドバイでは、ジーキャッシュ（ZEC）やモネロ（XMR）といった匿名性を高める暗号資産（仮想通貨）の発行とそれに関連するすべての活動が、2月7日に発表された新しい ...
-ドバイ、暗号資産に関する新ルール制定──プライバシーコインを禁止 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Sandali Handagama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファントークンのチリーズ、独自のレイヤー1ブロックチェーンをリリース──CHZは発表直後に20%上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=174063</id>
-        <link href="https://www.coindeskjapan.com/174063/"/>
-        <updated>2023-02-08T21:30:22.000Z</updated>
-        <summary type="html"><![CDATA[ファンがスポーツチームと結びついたブロックチェーンベースのトークンを所有できるチリーズ（CHZ）は、新しいレイヤー1ブロックチェーンの生成ブロックを検証したとブ ...
-ファントークンのチリーズ、独自のレイヤー1ブロックチェーンをリリース──CHZは発表直後に20%上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
         </author>
     </entry>
 </feed>
