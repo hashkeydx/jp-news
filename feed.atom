@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-13T08:32:01.033Z</updated>
+    <updated>2023-02-13T09:26:30.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ニューヨーク当局、パクソスにステーブルコイン「BUSD」の新規発行停止を命じる]]></title>
+        <id>https://coinpost.jp/?p=432948</id>
+        <link href="https://coinpost.jp/?p=432948"/>
+        <updated>2023-02-13T09:04:15.000Z</updated>
+        <summary type="html"><![CDATA[米ニューヨーク州金融サービス局は、業界3位の米ドル連動型ステーブルコイン「Binance USD（BUSD）」の新規発行停止をPaxos（パクソス）に命じた。BUSDは最大手暗号資産（仮想通貨）取引所バイナンスを中心に普及していた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC、バイナンスUSDの件でパクソスを提訴の意向：WSJ]]></title>
         <id>https://www.coindeskjapan.com/?p=174445</id>
@@ -660,17 +670,6 @@ AIトークン、価格も検索数も上昇 first appeared on coindesk JAPAN | 
 ファントークンのチリーズ、独自のレイヤー1ブロックチェーンをリリース──CHZは発表直後に20%上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ReFi」の夜明け──アパートの玄関に貼られた付箋から]]></title>
-        <id>https://www.coindeskjapan.com/?p=173862</id>
-        <link href="https://www.coindeskjapan.com/173862/"/>
-        <updated>2023-02-08T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[社会が崩壊した時、人々は立ち上がった──2020年、新型コロナウイルスの感染が広がるなか、バルセロナに引っ越ししたマニュエル・アルズール（Manuel Alzu ...
-「ReFi」の夜明け──アパートの玄関に貼られた付箋から first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jeff Wilser</name>
         </author>
     </entry>
 </feed>
