@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-15T10:29:54.453Z</updated>
+    <updated>2023-02-15T11:22:27.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[独シーメンス、デジタル社債発行──ポリゴンを使用]]></title>
+        <id>https://www.coindeskjapan.com/?p=174732</id>
+        <link href="https://www.coindeskjapan.com/174732/"/>
+        <updated>2023-02-15T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[独テクノロジー大手のシーメンス（Siemens）は2月14日、同社初となるデジタル社債をポリゴン（Polygon）ブロックチェーンを使って発行したと発表した。  ...
+独シーメンス、デジタル社債発行──ポリゴンを使用 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Lyllah Ledesma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古臭いデザインに込められた意味──単4乾電池で動く、キーボード搭載ハードウェアウォレット]]></title>
         <id>https://www.coindeskjapan.com/?p=174764</id>
@@ -638,27 +649,6 @@ SECが個人投資家のステーキングを禁止との噂、ビットコイ�
         <summary type="html"><![CDATA[米SECのGary Gensler委員長は、CNBCの番組に出演し、仮想通貨取引所クラーケンのステーキングサービスを証券法違反とみなしたことについて説明を行った。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次期日銀総裁が明らかに、来週は米CPI｜11日金融短観]]></title>
-        <id>https://coinpost.jp/?p=432257</id>
-        <link href="https://coinpost.jp/?p=432257"/>
-        <updated>2023-02-10T23:05:50.000Z</updated>
-        <summary type="html"><![CDATA[本日のニューヨークダウは反発したが、IT株などの売り先行でナスダックは続落した。次期日銀総裁については日銀の元審議委員で経済学者の植田和男氏を起用する意向が固められた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIトークン上昇、だがリアルな事例が必要だ【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=174106</id>
-        <link href="https://www.coindeskjapan.com/174106/"/>
-        <updated>2023-02-10T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米銀最大手のJPモルガン・チェースは、皆がすでに知っていることを再確認した。すなわち、AI（人工知能）は、2023年のトップトレンドになっている。 機関投資家8 ...
-AIトークン上昇、だがリアルな事例が必要だ【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
