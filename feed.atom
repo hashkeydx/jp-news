@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-15T15:27:54.538Z</updated>
+    <updated>2023-02-15T16:36:53.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パクソス、7億ドルのバイナンスUSDを焼却]]></title>
+        <id>https://www.coindeskjapan.com/?p=174730</id>
+        <link href="https://www.coindeskjapan.com/174730/"/>
+        <updated>2023-02-15T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインのバイナンスUSD（BUSD）の発行を手がけるパクソス（Paxos）は2月13日以降、当記事執筆時点までに7億ドル（910億円、1ドル=130円 ...
+パクソス、7億ドルのバイナンスUSDを焼却 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[独シーメンス、デジタル社債発行──ポリゴンを使用]]></title>
         <id>https://www.coindeskjapan.com/?p=174732</id>
@@ -587,16 +598,6 @@ NFT in リアルライフ：実世界での幅広い活用事例 first appeared 
         <summary type="html"><![CDATA[仮想通貨の分散型取引所ユニスワップのコミュニティは、BNBチェーンに展開するという提案を賛成多数で承認した。大手VCのa16zが反対にまわったことで注目されていた。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、上海アップグレードの次のテストを2月末に設定]]></title>
-        <id>https://coinpost.jp/?p=432617</id>
-        <link href="https://coinpost.jp/?p=432617"/>
-        <updated>2023-02-11T03:30:54.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムのブロックチェーンの次期アップグレード「上海」について、テストスケジュールが更新された。まずはSepoliaで2月28日の上海実装を予定している。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
