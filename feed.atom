@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-16T07:23:25.331Z</updated>
+    <updated>2023-02-16T08:31:21.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース「上海アップグレード後のイーサリアム売り圧力は限定的」]]></title>
+        <id>https://coinpost.jp/?p=433650</id>
+        <link href="https://coinpost.jp/?p=433650"/>
+        <updated>2023-02-16T07:52:14.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所コインベースはイーサリアムの上海アップグレード後の売り圧に関する分析レポートを発表した。ステーキングから解放されるETHの売り圧力が、1日の出金制限と購入需要によって相殺されるとの見解を示している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、罰金支払いなど米規制当局の司法取引に応じる構え]]></title>
         <id>https://coinpost.jp/?p=433586</id>
