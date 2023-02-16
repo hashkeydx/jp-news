@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-16T02:54:27.581Z</updated>
+    <updated>2023-02-16T03:29:22.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン高騰で25000ドルに迫る、上昇の背景は]]></title>
+        <id>https://coinpost.jp/?p=433518</id>
+        <link href="https://coinpost.jp/?p=433518"/>
+        <updated>2023-02-16T02:56:18.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場ではビットコインが高騰した。上昇の背景としてハッシュレートが過去最高値を更新し、Ordinal Punks（Bitcoin Punks）需要でチェーンが活性化していることなどが挙げられる。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、仮想通貨の保管めぐる新ルール提案]]></title>
+        <id>https://coinpost.jp/?p=433551</id>
+        <link href="https://coinpost.jp/?p=433551"/>
+        <updated>2023-02-16T02:45:06.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会は、登録投資アドバイザー企業に対して、ビットコインなど仮想通貨を適格カストディアンで保管することを義務付ける規則を提案した。関係者から賛否両論が上がっている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東映アニメがThe Sandboxと提携、Mintoと共同でLAND制作へ]]></title>
         <id>https://coinpost.jp/?p=433548</id>
