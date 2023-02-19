@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-19T04:30:18.667Z</updated>
+    <updated>2023-02-19T05:24:56.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グアテマラのビットコイン・レイクに行ってみた｜体験記寄稿5]]></title>
+        <id>https://coinpost.jp/?p=432025</id>
+        <link href="https://coinpost.jp/?p=432025"/>
+        <updated>2023-02-19T05:00:39.000Z</updated>
+        <summary type="html"><![CDATA[ビジネスへのビットコイン導入支援が積極的に行われている、グアテマラのビットコイン・レイク。現地でライトニング決済を試して得られた知見を、「ビットコイン・スタンダード」翻訳者の練木照子氏が寄稿。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン上のトークン発行プロトコルとその背景にある思想を考える｜ビットコイン研究所寄稿]]></title>
         <id>https://coinpost.jp/?p=435119</id>
