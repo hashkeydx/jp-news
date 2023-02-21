@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-21T21:23:29.672Z</updated>
+    <updated>2023-02-21T22:27:25.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マイニング企業のハイブ、Mergeの影響で赤字に──25倍の収益性があるクラウド事業を立ち上げ]]></title>
+        <id>https://www.coindeskjapan.com/?p=175609</id>
+        <link href="https://www.coindeskjapan.com/175609/"/>
+        <updated>2023-02-21T22:00:13.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）マイニング企業のハイブ・ブロックチェーン（Hive Blockchain）は、イーサリアム・ブロックチェーンのプルーフ・オブ・ステーク（Po ...
+マイニング企業のハイブ、Mergeの影響で赤字に──25倍の収益性があるクラウド事業を立ち上げ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Eliza Gkritsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港規制当局のアプローチ、資本と人材をアジアに呼び込む可能性：調査報告]]></title>
+        <id>https://www.coindeskjapan.com/?p=175594</id>
+        <link href="https://www.coindeskjapan.com/175594/"/>
+        <updated>2023-02-21T21:30:02.000Z</updated>
+        <summary type="html"><![CDATA[香港証券先物取引委員会（SFC）は暗号資産（仮想通貨）に対して、アメリカにおける最近の高圧的な規制とは対照的に、「保護のための規制」というアプローチを取っている ...
+香港規制当局のアプローチ、資本と人材をアジアに呼び込む可能性：調査報告 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ordinals Protocol、暗号資産エコシステム全体を押し上げる【コラム】]]></title>
         <id>https://www.coindeskjapan.com/?p=175460</id>
@@ -429,27 +451,6 @@ SECの暗号資産規制強化は、存亡の危機ではない：レポート f
         <summary type="html"><![CDATA[本日のニューヨークダウは反発したが、ナスダックやS&P500は続落予想上振れの経済指標や連銀高官の発言を受けて市場参加者は一喜一憂している格好だ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日銀、4月から中央銀行デジタル通貨のパイロット実験]]></title>
-        <id>https://www.coindeskjapan.com/?p=175275</id>
-        <link href="https://www.coindeskjapan.com/175275/"/>
-        <updated>2023-02-17T10:15:28.000Z</updated>
-        <summary type="html"><![CDATA[日本銀行は2月17日、中央銀行デジタル通貨（CBDC）に関する実証実験を実施すると発表した。 日本銀行は、2020年10月に公表した「中央銀行デジタル通貨に関す ...
-日銀、4月から中央銀行デジタル通貨のパイロット実験 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[障害者福祉におけるGameFiの社会実装例とは｜CONNECTV・動画解説]]></title>
-        <id>https://coinpost.jp/?p=433050</id>
-        <link href="https://coinpost.jp/?p=433050"/>
-        <updated>2023-02-17T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPostとWellsTechの合同会社「株式会社WAVE 3」の代表取締役の近藤貴司氏とWellsTech所属の石田諭一氏にGameFiの社会実装について伺った。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
