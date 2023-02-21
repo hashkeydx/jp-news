@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-20T23:25:01.167Z</updated>
+    <updated>2023-02-21T01:57:17.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム4,000万円相当を盗難か　新たな仮想通貨詐欺が発生]]></title>
+        <id>https://coinpost.jp/?p=435643</id>
+        <link href="https://coinpost.jp/?p=435643"/>
+        <updated>2023-02-21T01:05:56.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨のセキュリティサービスを提供するBlockfenceは、ETHDenverの偽物のウェブサイトが作られていたことを発表。合計でイーサリアム4,000万円超相当が盗難された可能性がある。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「GM Radio」　次回はETH・SOLロールアップのプロジェクトEclipseが参加]]></title>
+        <id>https://coinpost.jp/?p=434304</id>
+        <link href="https://coinpost.jp/?p=434304"/>
+        <updated>2023-02-21T00:40:57.000Z</updated>
+        <summary type="html"><![CDATA[グローバル版CoinPostが主催するGM Radioの8回目の放送は、2月24日の12:30からツイッタースペースで配信予定。ゲストにロールアッププロジェクトEclipseのNeel Somani創設者を招待する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港当局、個人投資家の仮想通貨取引再開を検討]]></title>
         <id>https://coinpost.jp/?p=435617</id>
