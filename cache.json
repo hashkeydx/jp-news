@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=175556",
+          "author": "coindesk JAPAN",
+          "description": "オーケーコイン・ジャパンは2月20日、同社が運営する暗号資産（仮想通貨）取引所OKCoinJapanで2月27日17時からザ・サンドボックス（SAND）の取り扱 ...\nOKCoinJapan、ザ・サンドボックス（SAND）の取り扱い開始を発表 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/175556/",
+          "publishedOn": "2023-02-21T02:00:44.000Z",
+          "wordCount": 1771,
+          "title": "OKCoinJapan、ザ・サンドボックス（SAND）の取り扱い開始を発表",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/20230125-SAND.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=175490",
           "author": "Will Canny",
           "description": "アービトラム（Arbitrum）は主要なブロックチェーンの中で最も急速にユーザー数を伸ばしていると、投資会社のバーンスタイン（Bernstein）は2月20日の ...\nアービトラムのユーザーベースが急成長中──DeFiとゲームが牽引：レポート first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -264,6 +274,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=435665",
+          "author": "AKIRA.H",
+          "description": "分散型無線通信ネットワークHeliumは、3月27日からソラナブロックチェーンに完全に移行する計画を明らかにした。Heliumは米大手通信事業者T-Mobileの5Gカバレッジを活かしたMVNOサービスのローンチを控えている。",
+          "link": "https://coinpost.jp/?p=435665",
+          "publishedOn": "2023-02-21T02:25:14.000Z",
+          "wordCount": 2265,
+          "title": "分散型5Gネットワークを目指すHelium、ソラナに移行へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Solana_mobile_0910.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/Solana_mobile_0910.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=435646",
+          "author": "A.Yamada",
+          "description": "国際決済銀行は、2022年の仮想通貨市場混乱とリテール投資家の損失を分析したレポートを発表。主にビットコインの事例を調査しており、仮想通貨のリスクに応じる政策の必要性を唱えた。",
+          "link": "https://coinpost.jp/?p=435646",
+          "publishedOn": "2023-02-21T01:55:52.000Z",
+          "wordCount": 2263,
+          "title": "国際決済銀行、仮想通貨市場の波乱と小口投資家の損失を分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bis-intersted-in-elsal-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bis-intersted-in-elsal-bitcoin.png"
+        },
         {
           "id": "https://coinpost.jp/?p=435643",
           "author": "K.Kobayashi",
