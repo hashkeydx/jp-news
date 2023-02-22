@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-22T09:26:26.266Z</updated>
+    <updated>2023-02-22T10:30:07.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Web3 × 障害者福祉」の現在とこれから｜CONNECTV・動画解説]]></title>
+        <id>https://coinpost.jp/?p=433039</id>
+        <link href="https://coinpost.jp/?p=433039"/>
+        <updated>2023-02-22T10:00:44.000Z</updated>
+        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost社とWellsTech社の合同会社「株式会社WAVE 3」の近藤貴司氏とCoinPost取締役の原口勇樹氏に、現在と今後の福祉業界について伺った。]]></summary>
+        <author>
+            <name>CONNECTV 編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本はステーブルコインにどう向き合うべきか？──btokyo membersがクローズドイベント開催]]></title>
         <id>https://www.coindeskjapan.com/?p=175229</id>
@@ -608,16 +618,6 @@ SECの暗号資産規制強化は、存亡の危機ではない：レポート f
 パクソスとバイナンスをめぐる状況を分析 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NYダウ反発もナスダック続落　FRB高官発言などに一喜一憂の展開が続く｜18日金融短観]]></title>
-        <id>https://coinpost.jp/?p=435009</id>
-        <link href="https://coinpost.jp/?p=435009"/>
-        <updated>2023-02-17T22:20:00.000Z</updated>
-        <summary type="html"><![CDATA[本日のニューヨークダウは反発したが、ナスダックやS&P500は続落予想上振れの経済指標や連銀高官の発言を受けて市場参加者は一喜一憂している格好だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
