@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-23T22:27:32.690Z</updated>
+    <updated>2023-02-23T23:26:27.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、イーサリアムの独自L2ネットワーク「Base」をローンチへ]]></title>
+        <id>https://coinpost.jp/?p=436911</id>
+        <link href="https://coinpost.jp/?p=436911"/>
+        <updated>2023-02-23T23:02:20.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所コインベースは、イーサリアムの独自L2ネットワークBaseを発表。すでにテストネットをローンチしているとし、独自トークンや開発目的などについて説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYダウ・ナスダック反発、米四半期GDPや個人消費支出の改定値発表など｜24日金融短観]]></title>
+        <id>https://coinpost.jp/?p=436666</id>
+        <link href="https://coinpost.jp/?p=436666"/>
+        <updated>2023-02-23T22:25:51.000Z</updated>
+        <summary type="html"><![CDATA[2/24（金）朝の相場動向（前日比）伝統金融NYダウ：33,153ドル+0.3%ナスダック：11,590ドル+0.7%日経平均：休場米ドル/円：134.7-0.07%米ドル指数：104.5-0.02%米国債10年：年利回り3.88-0.8%...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googleクラウド、テゾスのバリデーターに──ネットワーク上でWeb3アプリ開発が可能に]]></title>
         <id>https://www.coindeskjapan.com/?p=175811</id>
