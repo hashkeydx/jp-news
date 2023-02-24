@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-24T09:25:38.938Z</updated>
+    <updated>2023-02-24T10:30:03.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベースのレイヤー2ブロックチェーン「Base」、波乱のスタート]]></title>
+        <id>https://www.coindeskjapan.com/?p=175912</id>
+        <link href="https://www.coindeskjapan.com/175912/"/>
+        <updated>2023-02-24T09:30:10.000Z</updated>
+        <summary type="html"><![CDATA[米暗号資産取引大手コインベース（Coinbase）は2月23日、新規ユーザー獲得を目指して、レイヤー2ブロックチェーン「Base」のテストネットの運用を開始した ...
+コインベースのレイヤー2ブロックチェーン「Base」、波乱のスタート first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Elizabeth Napolitano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナVM利用のロールアップEclipse、「Polygon SVM」リリースへ]]></title>
         <id>https://coinpost.jp/?p=437112</id>
@@ -646,28 +657,6 @@ OKCoinJapan、ザ・サンドボックス（SAND）の取り扱い開始を発�
         <summary type="html"><![CDATA[上海アップグレードの主な目的はバリデーターの出金機能のロックを解除すること。ロックアップされた仮想通貨イーサリアムと報酬分が初めて市場に放出可能になる。この記事では「上海アップグレード」に関する概要と各社見解ついてまとめる。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea、手数料を一時撤廃──Blurとの競争過熱]]></title>
-        <id>https://www.coindeskjapan.com/?p=175367</id>
-        <link href="https://www.coindeskjapan.com/175367/"/>
-        <updated>2023-02-19T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人気NFTマーケットプレイスのOpenSeaは2月17日、手数料を一時的に撤廃すると発表、手数料無料を掲げて人気を集めているBlurとのシェア争いを過熱させた。 ...
-OpenSea、手数料を一時撤廃──Blurとの競争過熱 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Cameron Thompson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coins of War：制裁をくぐり抜け、ロシア軍支援に使われる暗号資産]]></title>
-        <id>https://www.coindeskjapan.com/?p=174558</id>
-        <link href="https://www.coindeskjapan.com/174558/"/>
-        <updated>2023-02-19T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「制裁は良いことだ。私たちの正しさが証明される」 アレクサンダー・リュビモフ（Alexander Lyubimov）氏に国際制裁リストに載ることを恐れているかと ...
-Coins of War：制裁をくぐり抜け、ロシア軍支援に使われる暗号資産 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Anna Baydakova</name>
         </author>
     </entry>
 </feed>
