@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-25T04:30:45.785Z</updated>
+    <updated>2023-02-25T05:25:20.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米サークル社、USDC準備金をマイノリティバンクに保管]]></title>
+        <id>https://coinpost.jp/?p=437328</id>
+        <link href="https://coinpost.jp/?p=437328"/>
+        <updated>2023-02-25T04:40:44.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインUSDCを発行する米サークル社は、マイノリティ経営の米シチズンズ・トラスト・バンクとの提携を発表。USDC準備金の一部を同行で保有し、金融包摂プログラムを行うとしている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スリーアローズ清算企業、推定20億円相当のNFTを売却へ]]></title>
         <id>https://coinpost.jp/?p=437317</id>
