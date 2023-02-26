@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-26T21:22:03.835Z</updated>
+    <updated>2023-02-26T22:26:03.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベースがレイヤー2の激戦に参入、勝ち目はあるか？【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=175853</id>
+        <link href="https://www.coindeskjapan.com/175853/"/>
+        <updated>2023-02-26T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[コインベース（Coinbase）は、最近発表したイーサリアムのレイヤー2ブロックチェーンに関して、壮大な計画を持っている。 レイヤー2のオプティミズム（Opti ...
+コインベースがレイヤー2の激戦に参入、勝ち目はあるか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産が「業界」ではない理由【オピニオン】]]></title>
         <id>https://www.coindeskjapan.com/?p=173716</id>
@@ -421,16 +432,6 @@ SECの取り締まり、本当に的外れなのか？【オピニオン】 firs
 わずかな企業が富の大半を生み出す「ファット・テール」と技術革新が暗号資産にもたらす意味とは【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jennifer Murphy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Web3 × 障害者福祉」の現在とこれから｜CONNECTV・動画解説]]></title>
-        <id>https://coinpost.jp/?p=433039</id>
-        <link href="https://coinpost.jp/?p=433039"/>
-        <updated>2023-02-22T10:00:44.000Z</updated>
-        <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost社とWellsTech社の合同会社「株式会社WAVE 3」の近藤貴司氏とCoinPost取締役の原口勇樹氏に、現在と今後の福祉業界について伺った。]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
         </author>
     </entry>
 </feed>
