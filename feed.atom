@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-26T20:25:30.556Z</updated>
+    <updated>2023-02-26T21:22:03.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産が「業界」ではない理由【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=173716</id>
+        <link href="https://www.coindeskjapan.com/173716/"/>
+        <updated>2023-02-26T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新しいコンセプトは、議論が複雑になる。難しい用語を使うからではなく、長年使われてきた用語では不十分で、かといって適切な用語がまだ存在していないからだ。その例の1 ...
+暗号資産が「業界」ではない理由【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Noelle Acheson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン高値圏維持失敗だと全値押しシナリオにも注意｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=437342</id>
@@ -420,17 +431,6 @@ SECの取り締まり、本当に的外れなのか？【オピニオン】 firs
         <summary type="html"><![CDATA[今回のCONNECTVでは、CoinPost社とWellsTech社の合同会社「株式会社WAVE 3」の近藤貴司氏とCoinPost取締役の原口勇樹氏に、現在と今後の福祉業界について伺った。]]></summary>
         <author>
             <name>CONNECTV 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本はステーブルコインにどう向き合うべきか？──btokyo membersがクローズドイベント開催]]></title>
-        <id>https://www.coindeskjapan.com/?p=175229</id>
-        <link href="https://www.coindeskjapan.com/175229/"/>
-        <updated>2023-02-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年6月、改正資金決済法が成立し、日本での「ステーブルコイン」の発行・流通に向けての法的な枠組みが整備された。改正資金決済法の施行は公布から1年以内となっ ...
-日本はステーブルコインにどう向き合うべきか？──btokyo membersがクローズドイベント開催 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>btokyo members</name>
         </author>
     </entry>
 </feed>
