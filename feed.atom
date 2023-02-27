@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-27T05:25:25.863Z</updated>
+    <updated>2023-02-27T06:32:28.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alchemy、分散型アプリ開発のツールキットを公開]]></title>
+        <id>https://coinpost.jp/?p=437703</id>
+        <link href="https://coinpost.jp/?p=437703"/>
+        <updated>2023-02-27T05:45:12.000Z</updated>
+        <summary type="html"><![CDATA[Web3開発ソリューションを提供するアルケミーは、分散型アプリを開発するためのツールキット「Create Web3 Dapp（CW3D）」を発表した。イーサリアムなど複数チェーンで使うことができる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ソラナが再興を果たす可能性は十分」米コインベースがレポートで評価]]></title>
         <id>https://coinpost.jp/?p=437749</id>
