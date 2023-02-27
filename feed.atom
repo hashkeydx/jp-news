@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-27T12:49:36.589Z</updated>
+    <updated>2023-02-27T13:33:05.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ordinalsの魅力が資金をSTXに向かわせる──暗号資産ファンドが注目]]></title>
+        <id>https://www.coindeskjapan.com/?p=176148</id>
+        <link href="https://www.coindeskjapan.com/176148/"/>
+        <updated>2023-02-27T13:10:52.000Z</updated>
+        <summary type="html"><![CDATA[暗号投資ファンドのノースロック（North Rock）は、ビットコイン（BTC）の成長に期待し、スタックス（Stacks）のトークンSTXに注目している。スタッ ...
+Ordinalsの魅力が資金をSTXに向かわせる──暗号資産ファンドが注目 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国内10社が「ジャパン・メタバース経済圏」創出に向けた基本合意書を締結]]></title>
         <id>https://www.coindeskjapan.com/?p=176095</id>
@@ -495,16 +506,6 @@ SECの取り締まり、本当に的外れなのか？【オピニオン】 firs
         <summary type="html"><![CDATA[仮想通貨イーサリアムの次期アップグレード「上海」について、テストネット「Sepolia」での実装予定日が設定された。正式に発表されていないが、本番環境での上海実装は3月末～4月頃に起動される可能性がある。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米地裁、NBA Top Shot MomentsのNFTを「有価証券」と判断]]></title>
-        <id>https://coinpost.jp/?p=436507</id>
-        <link href="https://coinpost.jp/?p=436507"/>
-        <updated>2023-02-23T01:30:32.000Z</updated>
-        <summary type="html"><![CDATA[米国の地方裁判所は、Dapper Labsの発売したNFT「NBA Top Shot Moments」が有価証券であるとの判断をくだした。プライベートチェーンで展開されていたことなどを理由としている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
