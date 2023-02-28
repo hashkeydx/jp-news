@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-02-28T22:27:51.252Z</updated>
+    <updated>2023-02-28T23:25:54.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[gumiなども参加、Mangrove DAOがシリーズAで10億円調達]]></title>
+        <id>https://coinpost.jp/?p=438392</id>
+        <link href="https://coinpost.jp/?p=438392"/>
+        <updated>2023-02-28T23:05:15.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所Mangrove DAOは28日、シリーズAラウンドで10億円調達したと発表した。CumberlandとGreenfield Capitalが主導し、Gumi Crypto CapitalとCMTも参加。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、ETH担保ステーブルコイン関連銘柄の上場を実施]]></title>
+        <id>https://coinpost.jp/?p=438389</id>
+        <link href="https://coinpost.jp/?p=438389"/>
+        <updated>2023-02-28T22:40:41.000Z</updated>
+        <summary type="html"><![CDATA[大手暗号資産取引所バイナンスは2月28日、Liquityの新規取り扱いを実施した。発表を受けてLQTYは急騰していた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、Sepoliaテストネットで上海アップグレードの実装を完了]]></title>
+        <id>https://coinpost.jp/?p=438384</id>
+        <link href="https://coinpost.jp/?p=438384"/>
+        <updated>2023-02-28T22:25:37.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムはSepoliaテストネットで、次期アップグレード上海を実施。上海はこの後、パブリックテストネットGoerliでの実施を経て、イーサリアムのメインネットで行う計画である。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインとイーサリアム、流動性低下が続く──トレーダーは急激なボラティリティ上昇を懸念]]></title>
         <id>https://www.coindeskjapan.com/?p=176228</id>
@@ -477,28 +507,6 @@ Ordinalsの魅力が資金をSTXに向かわせる──暗号資産ファンド
 開発に取り組むとき、再び【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミズノ、初のNFTコレクション──OpenSeaで発売]]></title>
-        <id>https://www.coindeskjapan.com/?p=175960</id>
-        <link href="https://www.coindeskjapan.com/175960/"/>
-        <updated>2023-02-24T11:20:59.000Z</updated>
-        <summary type="html"><![CDATA[ミズノは、「MIZUNO NFT COLLECTION」を大手NFTマーケットプレイスのOpenSeaで2月24日から販売した。NFTの発売は同社にとって初の取 ...
-ミズノ、初のNFTコレクション──OpenSeaで発売 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「LINE BITMAX Wallet」を「DOSI Wallet」に統合]]></title>
-        <id>https://www.coindeskjapan.com/?p=175929</id>
-        <link href="https://www.coindeskjapan.com/175929/"/>
-        <updated>2023-02-24T10:45:47.000Z</updated>
-        <summary type="html"><![CDATA[LINEの暗号資産事業およびブロックチェーン関連事業を展開するLINE Xenesisは2月24日、「LINE BITMAX Wallet」をグローバルNFTプ ...
-「LINE BITMAX Wallet」を「DOSI Wallet」に統合 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
         </author>
     </entry>
 </feed>
