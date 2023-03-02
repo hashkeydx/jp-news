@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-02T07:23:57.776Z</updated>
+    <updated>2023-03-02T08:32:06.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海外取引所XT.com、Philcoin（PHL）上場]]></title>
+        <id>https://coinpost.jp/?p=438426</id>
+        <link href="https://coinpost.jp/?p=438426"/>
+        <updated>2023-03-02T07:39:56.000Z</updated>
+        <summary type="html"><![CDATA[海外仮想通貨取引所XT.comは、Web3技術へのアクセスの民主化を目指すPhilcoinのネイティブトークンであるPHLの取り扱い計画を発表した。1日17時（日本時間）よりテザー（USDT）建ペアが取引可能となる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分散型ID開発のオントロジー、2023年のロードマップを発表]]></title>
+        <id>https://coinpost.jp/?p=438121</id>
+        <link href="https://coinpost.jp/?p=438121"/>
+        <updated>2023-03-02T07:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Web3プラットフォームを開発するOntologyは2023年のロードマップを公開した。技術、分散型アイデンティティ、エコシステムの3領域で、それぞれ計画を示している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3国内ニュース【2023年2月】]]></title>
         <id>https://www.coindeskjapan.com/?p=176423</id>
