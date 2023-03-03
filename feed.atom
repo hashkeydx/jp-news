@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-03T09:25:40.953Z</updated>
+    <updated>2023-03-03T10:29:55.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3カンファレンス「WebX」 プロモーションムービー公開]]></title>
+        <id>https://coinpost.jp/?p=439435</id>
+        <link href="https://coinpost.jp/?p=439435"/>
+        <updated>2023-03-03T09:34:06.000Z</updated>
+        <summary type="html"><![CDATA[アジア最大級の国際Web3カンファレンス「WebX」がプロモーションムービーを公開した。東京国際フォーラムにて2023年7月25日（火）26日（水）に開催する。]]></summary>
+        <author>
+            <name>COINPOST</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、マトリックス法によるテクニカル分析（2023/3/3）：楽天ウォレット]]></title>
         <id>https://www.coindeskjapan.com/?p=176601</id>
@@ -859,17 +869,6 @@ Ordinalsの魅力が資金をSTXに向かわせる──暗号資産ファンド
 グローバルな暗号資産規制はIMFとFSBの共同文書がベースとなる：インド財務相 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Amitoj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースがレイヤー2の激戦に参入、勝ち目はあるか？【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=175853</id>
-        <link href="https://www.coindeskjapan.com/175853/"/>
-        <updated>2023-02-26T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[コインベース（Coinbase）は、最近発表したイーサリアムのレイヤー2ブロックチェーンに関して、壮大な計画を持っている。 レイヤー2のオプティミズム（Opti ...
-コインベースがレイヤー2の激戦に参入、勝ち目はあるか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
