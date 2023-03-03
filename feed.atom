@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-03T08:30:44.240Z</updated>
+    <updated>2023-03-03T09:25:40.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、マトリックス法によるテクニカル分析（2023/3/3）：楽天ウォレット]]></title>
+        <id>https://www.coindeskjapan.com/?p=176601</id>
+        <link href="https://www.coindeskjapan.com/176601/"/>
+        <updated>2023-03-03T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...
+ビットコイン、マトリックス法によるテクニカル分析（2023/3/3）：楽天ウォレット first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>松田康生</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「顧客資産の返還について」FTX Japan COO セス・メラメド氏インタビュー]]></title>
+        <id>https://coinpost.jp/?p=438445</id>
+        <link href="https://coinpost.jp/?p=438445"/>
+        <updated>2023-03-03T08:59:53.000Z</updated>
+        <summary type="html"><![CDATA[FTX破綻から3ヶ月半。顧客への資産返還を実現したFTX Japanのセス・メラメド代表取締役に対し、暗号資産（仮想通貨）や法定通貨の返却プロセスについて尋ねた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOST、アマゾンウェブサービス（AWS）と提携]]></title>
         <id>https://coinpost.jp/?p=439369</id>
@@ -849,17 +870,6 @@ Ordinalsの魅力が資金をSTXに向かわせる──暗号資産ファンド
 コインベースがレイヤー2の激戦に参入、勝ち目はあるか？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産が「業界」ではない理由【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=173716</id>
-        <link href="https://www.coindeskjapan.com/173716/"/>
-        <updated>2023-02-26T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新しいコンセプトは、議論が複雑になる。難しい用語を使うからではなく、長年使われてきた用語では不十分で、かといって適切な用語がまだ存在していないからだ。その例の1 ...
-暗号資産が「業界」ではない理由【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Noelle Acheson</name>
         </author>
     </entry>
 </feed>
