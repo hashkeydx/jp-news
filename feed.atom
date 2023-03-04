@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-04T04:30:57.732Z</updated>
+    <updated>2023-03-04T05:25:10.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC弁護士「Binance.USが未登録の証券取引所に該当する可能性」指摘]]></title>
+        <id>https://coinpost.jp/?p=439686</id>
+        <link href="https://coinpost.jp/?p=439686"/>
+        <updated>2023-03-04T05:00:39.000Z</updated>
+        <summary type="html"><![CDATA[米国の仮想通貨取引所Binance.USによるVoyager Digitalの資産買収に向けた取引について審問が開かれた。SEC側はBinance USやVoyagerの規制違反のリスクを主張するも、連邦判事は根拠を示していないと否定的だ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セルシウス、一部ユーザー対象に出金再開]]></title>
         <id>https://coinpost.jp/?p=439678</id>
