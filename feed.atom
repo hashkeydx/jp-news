@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-04T02:51:35.738Z</updated>
+    <updated>2023-03-04T03:27:19.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi大手Aave、「Polygon zkEVM」メインネットβ版へ準備か＝報道]]></title>
+        <id>https://coinpost.jp/?p=439662</id>
+        <link href="https://coinpost.jp/?p=439662"/>
+        <updated>2023-03-04T03:00:35.000Z</updated>
+        <summary type="html"><![CDATA[AaveがzkEVM展開を検討主要なDeFi（分散型金融）レンディングプロトコルAaveが、3月末にリリース予定のスケーリングソリューション「PolygonzkEVM」への展開について、検討を開始したことが3日にわかった。Aaveのインテグ...]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散型取引所Uniswap、モバイルウォレットのリリース計画を発表]]></title>
         <id>https://coinpost.jp/?p=439652</id>
