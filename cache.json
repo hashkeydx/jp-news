@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=176634",
+          "author": "coindesk JAPAN",
+          "description": "ビットコイン価格については「ハイヤーハイとハイヤーローのリズム（＝上昇トレンド）はまだ続いており、最近の安値2万2800ドルを下方に抜けるまで続く。下抜けすれば ...\nビットコイン急落、テストネット用イーサリアム急騰【2/25～3/3のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/176634/",
+          "publishedOn": "2023-03-04T00:30:47.000Z",
+          "wordCount": 1860,
+          "title": "ビットコイン急落、テストネット用イーサリアム急騰【2/25～3/3のトップニュース】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/03/shutterstock_205067683.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=176669",
+          "author": "Will Canny",
+          "description": "暗号資産（仮想通貨）取引所とレンディングプラットフォームのMatrixportは、12月中旬から暗号資産に強気だったが、アメリカ経済からのシグナルで慎重にならざ ...\n注意は必要だが、ビットコインで弱気になるのはまだ早い：レポート first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/176669/",
+          "publishedOn": "2023-03-03T23:30:08.000Z",
+          "wordCount": 1836,
+          "title": "注意は必要だが、ビットコインで弱気になるのはまだ早い：レポート",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/03/btc0302.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=176302",
           "author": "Noelle Acheson",
           "description": "米中の緊張が高まるなか、政治の専門家は外交の行方に注目しているが、金融規制においては、静かな戦いが始まろうとしている。今のところは局地的だが、グローバル市場では ...\n暗号資産市場の未来、アジアでの展開が牽引する【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -310,16 +330,6 @@
           "wordCount": 1790,
           "title": "アメリカ人の私が、アメリカで暗号資産スタートアップを起業しない理由【コラム】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/02/5YCURZZFGBETJARYPTPUQUL7GI.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=176148",
-          "author": "Shaurya Malwa",
-          "description": "暗号投資ファンドのノースロック（North Rock）は、ビットコイン（BTC）の成長に期待し、スタックス（Stacks）のトークンSTXに注目している。スタッ ...\nOrdinalsの魅力が資金をSTXに向かわせる──暗号資産ファンドが注目 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/176148/",
-          "publishedOn": "2023-02-27T13:10:52.000Z",
-          "wordCount": 1905,
-          "title": "Ordinalsの魅力が資金をSTXに向かわせる──暗号資産ファンドが注目",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/02/NFTs.jpg"
         }
       ]
     },
@@ -334,6 +344,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=439656",
+          "author": "A.Yamada",
+          "description": "米大手仮想通貨取引所コインベースは、デジタル資産運用会社One River Digital Asset Managementを買収したと発表した。機関投資家向けサービスを拡大していく姿勢だ。",
+          "link": "https://coinpost.jp/?p=439656",
+          "publishedOn": "2023-03-04T01:12:54.000Z",
+          "wordCount": 2278,
+          "title": "米コインベース、資産運用会社を買収　機関投資家サービス拡大へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/base-one-river.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/base-one-river.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=438856",
+          "author": "CoinPost編集部",
+          "description": "グローバル版CoinPostが主催するGM Radioの11回目の放送は、3月8日の21:00からツイッタースペースで配信予定。ゲストにブロックチェーン特化のVCのFenbushi Capitalを招待する。",
+          "link": "https://coinpost.jp/?p=438856",
+          "publishedOn": "2023-03-04T00:00:21.000Z",
+          "wordCount": 2356,
+          "title": "「GM Radio」 次回はブロックチェーン特化のVC「Fenbushi Capital」が参加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/fenbushi-gm-wp1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/fenbushi-gm-wp1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=439629",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムのソフトウェア企業ConsenSysは、zkEVMの一般向けテストネットを3月28日にローンチすることを発表。zkEVMの特徴についても説明している。",
+          "link": "https://coinpost.jp/?p=439629",
+          "publishedOn": "2023-03-03T23:20:38.000Z",
+          "wordCount": 2315,
+          "title": "米ConsenSys、zkEVMの一般向けテストネットを3月28日にローンチへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/ConsenSys-zkEVM-Public-Testnet.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/ConsenSys-zkEVM-Public-Testnet.png"
+        },
         {
           "id": "https://coinpost.jp/?p=438975",
           "author": "菊谷ルイス",
