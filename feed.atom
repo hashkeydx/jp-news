@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-04T03:27:19.740Z</updated>
+    <updated>2023-03-04T04:30:57.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[セルシウス、一部ユーザー対象に出金再開]]></title>
+        <id>https://coinpost.jp/?p=439678</id>
+        <link href="https://coinpost.jp/?p=439678"/>
+        <updated>2023-03-04T04:00:46.000Z</updated>
+        <summary type="html"><![CDATA[経営破綻した仮想通貨融資企業Celsius Networkは、一部カストディユーザーに向けた出金を再開したと発表した。同社は2月、投資企業NovaWulfを企業再建のスポンサーに選定したところだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi大手Aave、「Polygon zkEVM」メインネットβ版へ準備か＝報道]]></title>
         <id>https://coinpost.jp/?p=439662</id>
