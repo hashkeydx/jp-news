@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-07T20:27:20.357Z</updated>
+    <updated>2023-03-07T21:24:37.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのコールオプションが魅力的に見える：レポート]]></title>
+        <id>https://www.coindeskjapan.com/?p=176973</id>
+        <link href="https://www.coindeskjapan.com/176973/"/>
+        <updated>2023-03-07T21:00:13.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）を取引することは今、非常に難しい。暗号資産に特化した銀行のシルバーゲート（Silvergate）問題、主要な取引所の運用上のボトルネック、イ ...
+イーサリアムのコールオプションが魅力的に見える：レポート first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナのトレーダー向けNFT市場Tensor、報酬採掘・第2弾を開始]]></title>
         <id>https://coinpost.jp/?p=440380</id>
@@ -462,27 +473,6 @@ DeFiトークンのヤーンファイナンス（YFI）が7%上昇──市場�
         <summary type="html"><![CDATA[アジア最大級の国際Web3カンファレンス「WebX」がプロモーションムービーを公開した。東京国際フォーラムにて2023年7月25日（火）26日（水）に開催する。]]></summary>
         <author>
             <name>COINPOST</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、マトリックス法によるテクニカル分析（2023/3/3）：楽天ウォレット]]></title>
-        <id>https://www.coindeskjapan.com/?p=176601</id>
-        <link href="https://www.coindeskjapan.com/176601/"/>
-        <updated>2023-03-03T09:00:03.000Z</updated>
-        <summary type="html"><![CDATA[本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...
-ビットコイン、マトリックス法によるテクニカル分析（2023/3/3）：楽天ウォレット first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>松田康生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「顧客資産の返還について」FTX Japan COO セス・メラメド氏インタビュー]]></title>
-        <id>https://coinpost.jp/?p=438445</id>
-        <link href="https://coinpost.jp/?p=438445"/>
-        <updated>2023-03-03T08:59:53.000Z</updated>
-        <summary type="html"><![CDATA[FTX破綻から3ヶ月半。顧客への資産返還を実現したFTX Japanのセス・メラメド代表取締役に対し、暗号資産（仮想通貨）や法定通貨の返却プロセスについて尋ねた。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
