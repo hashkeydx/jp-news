@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-10T03:35:31.706Z</updated>
+    <updated>2023-03-10T04:31:43.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3業界で2023年に注目すべき技術トレンド5選＝レポート]]></title>
+        <id>https://coinpost.jp/?p=441372</id>
+        <link href="https://coinpost.jp/?p=441372"/>
+        <updated>2023-03-10T03:54:46.000Z</updated>
+        <summary type="html"><![CDATA[アジア最大の仮想通貨に特化した資産運用会社HashKey Capitalは、2023年に注目すべき技術トレンドについてのレポートを発表。イーサリアムのアップグレードやステーキング関連技術の発展など五つの動きに焦点を当てた。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン一時2万ドル割れ、複数の悪材料が下押し圧力に]]></title>
+        <id>https://coinpost.jp/?p=441328</id>
+        <link href="https://coinpost.jp/?p=441328"/>
+        <updated>2023-03-10T03:44:04.000Z</updated>
+        <summary type="html"><![CDATA[米雇用統計を控え警戒感募る中、暗号資産（仮想通貨）市場ではビットコインがサポートラインを割り込み急落。米規制当局の取引所提訴やイーサリアムの有価証券性指摘。政府機関のBTC巨額送金など、複数の悪材料も下押し圧力となった。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SWIFT、CBDC間取引の実験結果を報告]]></title>
         <id>https://coinpost.jp/?p=441332</id>
