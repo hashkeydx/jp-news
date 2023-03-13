@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-13T08:31:09.764Z</updated>
+    <updated>2023-03-13T09:25:39.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HSBC、シリコンバレー銀行のイギリス法人を約160円で買収]]></title>
+        <id>https://www.coindeskjapan.com/?p=177549</id>
+        <link href="https://www.coindeskjapan.com/177549/"/>
+        <updated>2023-03-13T08:59:00.000Z</updated>
+        <summary type="html"><![CDATA[英金融大手HSBCホールディングス（HSBC Holdings Plc）は、シリコンバレー銀行のイギリス法人、Silicon Valley Bank（SVB）U ...
+HSBC、シリコンバレー銀行のイギリス法人を約160円で買収 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DMM Bitcoinとcoinbook、3月29日に「Nippon Idol Token」のIEO購入申込を開始]]></title>
         <id>https://coinpost.jp/?p=442105</id>
@@ -695,17 +706,6 @@ JPモルガン、ジェミナイとの取引を停止か：報道 first appeared
 英FCA、違法な暗号資産ATMをロンドンでも摘発へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインマイニング、電力と環境にメリット【オピニオン】]]></title>
-        <id>https://www.coindeskjapan.com/?p=176939</id>
-        <link href="https://www.coindeskjapan.com/176939/"/>
-        <updated>2023-03-08T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米上院環境公共事業委員会は今週、デジタル資産と環境に関する公聴会を開催する。公聴会は、ビットコイン（BTC）のプルーフ・オブ・ワーク（PoW）によるマイニングプ ...
-ビットコインマイニング、電力と環境にメリット【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Dennis Porter</name>
         </author>
     </entry>
 </feed>
