@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-14T02:39:59.484Z</updated>
+    <updated>2023-03-14T03:26:34.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイデン米大統領、銀行システムの安全性を強調]]></title>
+        <id>https://coinpost.jp/?p=442405</id>
+        <link href="https://coinpost.jp/?p=442405"/>
+        <updated>2023-03-14T02:45:31.000Z</updated>
+        <summary type="html"><![CDATA[米バイデン大統領は、SVB破綻を受けて、米国の銀行システムは安全だと強調する演説を行った。今後は原因究明や、銀行に対する規制強化が必要になるとも話している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラジルのスタートアップJungle、Web3ゲーム開発へ8億円の資金調達]]></title>
         <id>https://coinpost.jp/?p=442380</id>
