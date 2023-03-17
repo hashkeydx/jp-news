@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-17T02:43:36.049Z</updated>
+    <updated>2023-03-17T03:25:27.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米銀行問題の最中、トークン化されたダイヤモンドへの関心が増加]]></title>
+        <id>https://coinpost.jp/?p=443826</id>
+        <link href="https://coinpost.jp/?p=443826"/>
+        <updated>2023-03-17T02:55:46.000Z</updated>
+        <summary type="html"><![CDATA[先週末にかけて、トークン化されたダイヤモンドの取引量が300%急増したことが明らかになった。ステーブルコインUSDCのディペッグが生じる中、安全な資産の逃避先を求める仮想通貨投資家の関心を集めたようだ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポリゴンのモジュール型ブロックチェーンAvail、独立へ]]></title>
+        <id>https://coinpost.jp/?p=443781</id>
+        <link href="https://coinpost.jp/?p=443781"/>
+        <updated>2023-03-17T02:40:30.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのスケーリングソリューションを提供するポリゴンは、カスタマイズ可能ブロックチェーンのプロジェクト「Avail」が独立すると発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GMOコイン、AstarEVM初対応]]></title>
         <id>https://coinpost.jp/?p=443743</id>
