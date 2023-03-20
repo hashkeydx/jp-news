@@ -260,16 +260,6 @@
           "wordCount": 1802,
           "title": "ビットコインのドミナンス、9カ月ぶりの高水準",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/03/JCYA6SBWANE5JP2VJM4J55FKQA.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=177877",
-          "author": "Will Canny",
-          "description": "アメリカの銀行に対する懸念が高まっているが、これはビットコイン（BTC）の 「輝ける瞬間」 であるべきであり、プライベートウォレット最大の仮想通貨の保有者はカウ ...\nビットコインは通貨としてではなく、投機的資産として取引されている：モルガン・スタンレー first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/177877/",
-          "publishedOn": "2023-03-15T22:30:20.000Z",
-          "wordCount": 1850,
-          "title": "ビットコインは通貨としてではなく、投機的資産として取引されている：モルガン・スタンレー",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/03/btc0302-710x458-1.jpg"
         }
       ]
     },
@@ -284,6 +274,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=444638",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所大手バイナンスは、イーサリアム（ETH）のL2「Arbitrum（アービトラム・ARB）」の新規上場予定を決定した。",
+          "link": "https://coinpost.jp/?p=444638",
+          "publishedOn": "2023-03-20T11:00:32.000Z",
+          "wordCount": 2392,
+          "title": "バイナンス、Arbitrum（ARB）上場予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-arb.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-arb.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=444516",
           "author": "A.Yamada",
@@ -838,51 +843,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/fidelity-expanding-1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/fidelity-expanding-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=443231",
-          "author": "菊谷ルイス",
-          "description": "米ヘッジファンド大手のArk Investは新たな仮想通貨ファンドで1,600万ドル調達。銀行破綻によって仮想通貨への需要は高まるか。",
-          "link": "https://coinpost.jp/?p=443231",
-          "publishedOn": "2023-03-15T23:18:26.000Z",
-          "wordCount": 2482,
-          "title": "Ark Invest、新たな仮想通貨ファンドで1,600万ドル調達",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/ark-invest-spac-circle.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/ark-invest-spac-circle.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=443221",
-          "author": "K.Kobayashi",
-          "description": "ユーロポールは、ドイツと米国の当局が仮想通貨ミキサーChipMixerを解体したことを発表。ChipMixerから、ビットコイン62億円相当が押収された。",
-          "link": "https://coinpost.jp/?p=443221",
-          "publishedOn": "2023-03-15T22:50:29.000Z",
-          "wordCount": 2475,
-          "title": "米当局ら、ビットコイン62億円相当を押収　仮想通貨ミキサー「ChipMixer」を閉鎖",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/bitcoin0514211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/bitcoin0514211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=442829",
-          "author": "菊谷ルイス",
-          "description": "本日のニューヨークダウは反落し-280ドルで取引を終えた。15日に報道されたスイスのクレディ・スイスへの信用不安が市場の重石となった。",
-          "link": "https://coinpost.jp/?p=442829",
-          "publishedOn": "2023-03-15T22:40:53.000Z",
-          "wordCount": 2544,
-          "title": "米国株一進一退　米PPI鈍化やクレディ・スイスの信用不安拡大で｜16日金融短観",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/new-market.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/new-market.png"
         }
       ]
     }
