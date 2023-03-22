@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-22T02:38:30.388Z</updated>
+    <updated>2023-03-22T03:24:05.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Magic Eden、ビットコイン版NFT「Ordinals」のサポートを開始]]></title>
+        <id>https://coinpost.jp/?p=445276</id>
+        <link href="https://coinpost.jp/?p=445276"/>
+        <updated>2023-03-22T03:09:52.000Z</updated>
+        <summary type="html"><![CDATA[クロスチェーンNFT電子市場Magic Edenは、ビットコイン・ブロックチェーン版のNFT（非代替性トークン）である「Ordinals」の取引市場をオープンした。ユーザーエクスペリエンスが改善され、Ordinalsの一般ユーザーへの普及に期待がかかる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所Bitrue、Arbitrum（ARB）上場へ]]></title>
+        <id>https://coinpost.jp/?p=445254</id>
+        <link href="https://coinpost.jp/?p=445254"/>
+        <updated>2023-03-22T03:07:49.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所Bitrueは、イーサリアムのL2「Arbitrum」の新規上場計画を発表した。同社は取扱い開始を記念して独自にARBトークンのエアドロップを実施予定。賞金として総額100,000 ARBが用意されている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散型取引所GMX、コインベースのL2「Base」で展開を検討]]></title>
         <id>https://coinpost.jp/?p=445240</id>
