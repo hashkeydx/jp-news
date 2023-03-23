@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-23T06:28:28.840Z</updated>
+    <updated>2023-03-23T07:21:26.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタバースゲーム「Aavegotchi」、ポリゴンでカスタムチェーン構築へ]]></title>
+        <id>https://coinpost.jp/?p=445746</id>
+        <link href="https://coinpost.jp/?p=445746"/>
+        <updated>2023-03-23T07:05:48.000Z</updated>
+        <summary type="html"><![CDATA[メタバースゲーム「Aavegotchi」、独自ブロックチェーン「Gotchichain」の開発計画を発表した。カスタム可能なブロックチェーン構築ツール「Polygon Supernets」で専用のブロックチェーン「Gotchichain」が構築される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、2万7400ドル付近──0.25％利上げを受けて下落]]></title>
         <id>https://www.coindeskjapan.com/?p=178573</id>
