@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-25T03:23:44.030Z</updated>
+    <updated>2023-03-25T04:28:00.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask、ウォレットアドレス使ったウェブサービスのログイン機能に対応]]></title>
+        <id>https://coinpost.jp/?p=446510</id>
+        <link href="https://coinpost.jp/?p=446510"/>
+        <updated>2023-03-25T04:00:04.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨の自己管理型ウォレット「MetaMask」は、EIP-4361を実装したことを発表した。Gmailなどの中央集権的なIDに代わり、自己管理型のIDとしてウォレットアドレスを使用可能になった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ナスダック、仮想通貨カストディサービスを間もなく開始へ]]></title>
         <id>https://coinpost.jp/?p=446506</id>
