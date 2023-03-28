@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-28T20:25:17.003Z</updated>
+    <updated>2023-03-28T21:21:17.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインにゼロ知識証明を──3人のドイツ人研究者が非営利団体設立]]></title>
+        <id>https://www.coindeskjapan.com/?p=179122</id>
+        <link href="https://www.coindeskjapan.com/179122/"/>
+        <updated>2023-03-28T21:00:29.000Z</updated>
+        <summary type="html"><![CDATA[3人のドイツ人コンピューター科学者が、ライバルのイーサリアムで爆発的に普及した暗号技術であるゼロ知識（ZK）証明を使ってビットコインの規模拡大を支援する非営利団 ...
+ビットコインにゼロ知識証明を──3人のドイツ人研究者が非営利団体設立 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Frederick Munawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CFTC、バイナンスにアメリカでの業務停止を求める可能性：バーンスタイン]]></title>
         <id>https://www.coindeskjapan.com/?p=179111</id>
@@ -568,17 +579,6 @@ SECの場当たり的なアプローチ、その弱点を露呈【コラム】 f
 【4月21日 ハイブリットイベント 無料開催】「DeFi meets TradFi」―Web3が変える金融の未来 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>btokyo members</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2023/3/24）ビットコイン、上昇トレンド継続か？：楽天ウォレット]]></title>
-        <id>https://www.coindeskjapan.com/?p=178772</id>
-        <link href="https://www.coindeskjapan.com/178772/"/>
-        <updated>2023-03-24T09:00:09.000Z</updated>
-        <summary type="html"><![CDATA[本稿ではビットコイン相場をパターン分析・移動平均線（9MA・25MA）・一目均衡表・ボリンジャーバンド・MACD・RSIの代表的な6種類のテクニカル分析で5段階 ...
-マトリックス法によるテクニカル分析（2023/3/24）ビットコイン、上昇トレンド継続か？：楽天ウォレット first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>松田康生</name>
         </author>
     </entry>
 </feed>
