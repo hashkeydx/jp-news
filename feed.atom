@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-29T07:22:06.544Z</updated>
+    <updated>2023-03-29T08:29:24.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日銀黒田総裁、フィンサム2023の挨拶で「シン個人」のための決済システムに言及]]></title>
+        <id>https://coinpost.jp/?p=447841</id>
+        <link href="https://coinpost.jp/?p=447841"/>
+        <updated>2023-03-29T07:36:10.000Z</updated>
+        <summary type="html"><![CDATA[日本銀行の黒田東彦総裁は、CBDCについて「今後実現していかなければならないし、実現していく」との見解を示した。具体的なCBDCの実装時期や手段について、あらゆる選択肢を準備しておくことが「中央銀行の責務」だと語った。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リキッドステーキング大手Lido、イーサリアム出金量管理にNFTを活用]]></title>
         <id>https://coinpost.jp/?p=447764</id>
