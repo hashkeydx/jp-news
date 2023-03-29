@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-03-29T04:29:07.024Z</updated>
+    <updated>2023-03-29T05:25:09.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リキッドステーキング大手Lido、イーサリアム出金量管理にNFTを活用]]></title>
+        <id>https://coinpost.jp/?p=447764</id>
+        <link href="https://coinpost.jp/?p=447764"/>
+        <updated>2023-03-29T04:29:54.000Z</updated>
+        <summary type="html"><![CDATA[リキッドステーキングの最大手プロトコルLido Financeは、仮想通貨イーサリアムの出金プロセスで、NFTを活用する計画を明らかにした。取得したNFTは転送できるため、ETHステーキング報酬の請求権が譲渡・売買可能になる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大手取引所OKX、香港で仮想通貨ライセンス申請へ]]></title>
+        <id>https://coinpost.jp/?p=447755</id>
+        <link href="https://coinpost.jp/?p=447755"/>
+        <updated>2023-03-29T04:26:06.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所OKXは、香港での仮想通貨取引サービスの提供に向け、現地法人を設立し、仮想通貨サービスプロバイダーのライセンス申請を行う意向であると発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン相場に市場の迷い、バイナンス訴訟の影響懸念も]]></title>
         <id>https://coinpost.jp/?p=447676</id>
