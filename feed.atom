@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-03T20:23:03.669Z</updated>
+    <updated>2023-04-03T21:20:11.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米銀行危機がビットコインの一人勝ちに拍車：コインベース]]></title>
+        <id>https://www.coindeskjapan.com/?p=179776</id>
+        <link href="https://www.coindeskjapan.com/179776/"/>
+        <updated>2023-04-03T21:00:26.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は、アメリカの銀行システムが混乱に直面した中でも回復力を示し、特にビットコイン（BTC）は他の仮想通貨をアウトパフォームしているとコイン ...
+米銀行危機がビットコインの一人勝ちに拍車：コインベース first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4月、ビットコインと米国株は強い月]]></title>
         <id>https://www.coindeskjapan.com/?p=179761</id>
@@ -525,27 +536,6 @@ XRP取引高、韓国の取引所で急増 first appeared on coindesk JAPAN | �
 NEC、エンターテインメントを起点としたWeb3領域で香港のアニモカブランズ、Gryfynと協業 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>coindesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウォーホル作品をセキュリティ・トークンとして分割保有]]></title>
-        <id>https://www.coindeskjapan.com/?p=179344</id>
-        <link href="https://www.coindeskjapan.com/179344/"/>
-        <updated>2023-03-30T09:00:24.000Z</updated>
-        <summary type="html"><![CDATA[ファインアートに投資できるブロックチェーンベースのプラットフォームをまもなく立ち上げるFreeportは、アンディ・ウォーホルの作品4点をセキュリティトークン（ ...
-ウォーホル作品をセキュリティ・トークンとして分割保有 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Rosie Perper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メジャーSQ前のビットコインデリバティブ相場をプロが分析｜寄稿：仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=448287</id>
-        <link href="https://coinpost.jp/?p=448287"/>
-        <updated>2023-03-30T08:51:27.000Z</updated>
-        <summary type="html"><![CDATA[メジャーSQを前にCFTCによるバイナンス提訴を受け一時急落したビットコイン（BTC）デリバティブ市場を金融のプロが分析。暗号資産取引所SBI VCトレードのクリプトアナリスト「仮想NISHI」氏が市場動向を解説。]]></summary>
-        <author>
-            <name>A.Sakamoto</name>
         </author>
     </entry>
 </feed>
