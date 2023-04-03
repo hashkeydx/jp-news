@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-03T09:23:00.078Z</updated>
+    <updated>2023-04-03T10:26:28.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4月、ビットコインと米国株は強い月]]></title>
+        <id>https://www.coindeskjapan.com/?p=179761</id>
+        <link href="https://www.coindeskjapan.com/179761/"/>
+        <updated>2023-04-03T09:55:54.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）と米国株は、1年で季節的に最も強い月に入った。 暗号資産サービスプロバイダーのMatrixportのデータによると、4月にビットコインは過 ...
+4月、ビットコインと米国株は強い月 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「GM Radio」 次回はBTCとETHの技術を活用する「CoreDAO」らが参加]]></title>
         <id>https://coinpost.jp/?p=448580</id>
@@ -690,17 +701,6 @@ XRPが10カ月ぶりの高値、建玉は2021年12月以来の8億ドル超え�
 ビットコインのレイヤー2「スタックス」好調 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Lyllah Ledesma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーキングサービスのリド、ポルカドットとクサマの取り扱いを終了]]></title>
-        <id>https://www.coindeskjapan.com/?p=179310</id>
-        <link href="https://www.coindeskjapan.com/179310/"/>
-        <updated>2023-03-29T21:30:47.000Z</updated>
-        <summary type="html"><![CDATA[分散型金融（DeFi）ステーキングサービスを提供するリド（Lido）の開発者であるMixBytesのブログ投稿によると、リドは8月1日にポルカドット（DOT）と ...
-ステーキングサービスのリド、ポルカドットとクサマの取り扱いを終了 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
         </author>
     </entry>
 </feed>
