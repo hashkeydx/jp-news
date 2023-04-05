@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=179946",
+          "author": "Lyllah Ledesma",
+          "description": "暗号資産（仮想通貨）の時価総額は、ビットコイン（BTC）の年初からの70%という大幅な上昇に後押しされ、2022年6月以来の高水準まで上昇した。 上昇は、業界が ...\nビットコイン上昇で暗号資産の時価総額は1.19兆ドルに──2022年6月以来の高水準 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/179946/",
+          "publishedOn": "2023-04-05T00:30:56.000Z",
+          "wordCount": 1801,
+          "title": "ビットコイン上昇で暗号資産の時価総額は1.19兆ドルに──2022年6月以来の高水準",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/スクリーンショット-2023-04-05-9.21.21.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=179938",
+          "author": "Cameron Thompson",
+          "description": "トランプ前大統領が4日、ニューヨーク市の州裁判所に出廷したことを受けて、同前大統領のNFTコレクションの売上が急増した。 NFTマーケットプレイスのOpenSe ...\nトランプ前大統領のNFT、ニューヨークでの罪状認否後に売上が急増 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/179938/",
+          "publishedOn": "2023-04-04T23:25:34.000Z",
+          "wordCount": 1774,
+          "title": "トランプ前大統領のNFT、ニューヨークでの罪状認否後に売上が急増",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/4FBUDO23QZDAJBDF25CDUUUBSQ.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=179917",
           "author": "Cameron Thompson",
           "description": "NFTプラットフォームのワンオブ（OneOf）は、大企業がWeb3で消費者とつながることを支援するため、ブロックチェーンのリワード企業Tap Networkを買 ...\nNFTプラットフォームのワンオブ、ブロックチェーンリワード企業を買収 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -244,6 +264,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=449955",
+          "author": "A.Yamada",
+          "description": "仮想通貨の米ドルステーブルコインUSDTを発行するテザー社は、シグネチャー銀行を介して、米国からバハマに米ドル資金を送金していたと伝えられる。",
+          "link": "https://coinpost.jp/?p=449955",
+          "publishedOn": "2023-04-05T01:00:44.000Z",
+          "wordCount": 2238,
+          "title": "テザー社、シグネチャー銀行を介してバハマに送金経路か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/tether202005d-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/tether202005d-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=449949",
+          "author": "K.Kobayashi",
+          "description": "ビットコインの取引サービスを提供していたP2P仮想通貨取引所Paxfulは、事業終了を発表。終了の理由についても説明している。",
+          "link": "https://coinpost.jp/?p=449949",
+          "publishedOn": "2023-04-05T00:35:16.000Z",
+          "wordCount": 2227,
+          "title": "P2P仮想通貨取引所Paxful、サービス提供終了を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Paxful.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Paxful.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=449941",
+          "author": "菊谷ルイス",
+          "description": "NFT取引所大手OpenSeaはBlurと対抗し「OpenSea Pro」を公開した。Blurから市場シェアを奪い返せるか。",
+          "link": "https://coinpost.jp/?p=449941",
+          "publishedOn": "2023-04-04T23:25:08.000Z",
+          "wordCount": 2247,
+          "title": "OpenSea、NFTプロトレーダー向けに「OpenSea Pro」を公開　Blurに対抗へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/pro-opensea.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/pro-opensea.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=449930",
           "author": "K.Kobayashi",
