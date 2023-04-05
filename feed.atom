@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-05T04:27:28.747Z</updated>
+    <updated>2023-04-05T05:23:42.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3CXサプライチェーン攻撃で仮想通貨企業がターゲットに　バックドアが仕込まれる]]></title>
+        <id>https://coinpost.jp/?p=450055</id>
+        <link href="https://coinpost.jp/?p=450055"/>
+        <updated>2023-04-05T05:00:59.000Z</updated>
+        <summary type="html"><![CDATA[情報セキュリティ企業カスペルスキー社は、3月末に報告された大規模なソフトウェアサプライチェーン攻撃を独自に分析した結果、少数の仮想通貨企業がターゲットにされ、バックドアが仕込まれていることを発見したと発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Delphi Labs、18億円の資金調達でWeb3アクセラレータを設立]]></title>
         <id>https://coinpost.jp/?p=450000</id>
