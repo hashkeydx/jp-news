@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=180228",
+          "author": "Omkar Godbole",
+          "description": "アメリカの複数の銀行が破綻し、景気後退懸念が強まったため、ビットコイン（BTC）の価格は3月に23%上昇した。 複数のアナリストは、この上昇をセーフヘイブン（安 ...\nビットコインは避難所ではない──ナスダック/S&P500比と密接な相関 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/180228/",
+          "publishedOn": "2023-04-06T22:30:50.000Z",
+          "wordCount": 1816,
+          "title": "ビットコインは避難所ではない──ナスダック/S&P500比と密接な相関",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/QNE3YOEXABAKHJJN5PUWR54YDY.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=180218",
           "author": "Amitoj Singh",
           "description": "インドのリテール中央銀行デジタル通貨（CBDC-R）の設計者は、デジタルルピーの使用を100万人のユーザーに拡大することを目指しており、オフライン決済という課題 ...\nインドのCBDC、3カ月で利用者100万人を目指す first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -364,6 +374,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=450597",
+          "author": "K.Kobayashi",
+          "description": "自民党web3プロジェクトチームは、「web3ホワイトペーパー（案）」を公開。仮想通貨取引に関する税制など、web3について幅広く提言を行っている。",
+          "link": "https://coinpost.jp/?p=450597",
+          "publishedOn": "2023-04-06T22:55:07.000Z",
+          "wordCount": 2219,
+          "title": "自民党web3PT、仮想通貨取引の税制などに関する提言を公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=450598",
+          "author": "菊谷ルイス",
+          "description": "本日のナスダックはIT・ハイテク株の買い戻しが入りプラス圏に浮上した。NYダウは小幅な動きにとどまった。明日はグッドフライデーで米国の株式市場は休場となる。",
+          "link": "https://coinpost.jp/?p=450598",
+          "publishedOn": "2023-04-06T22:45:48.000Z",
+          "wordCount": 2211,
+          "title": "ナスダック・AI株反発　明日は休場｜7日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/new-morning-market-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/new-morning-market-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=450362",
           "author": "幸田直子",
@@ -963,21 +1003,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=449460",
-          "author": "各務貴仁",
-          "description": "Links関連サービス停止のお知らせ22年9月1日にTwitter上で表明しておりました、2023年8月31日に「Links」アプリを停止する決定に伴い、「ビットコメント」機能やCoinPostアカウント等、Links関連のサービスを停止す...",
-          "link": "https://coinpost.jp/?p=449460",
-          "publishedOn": "2023-04-02T11:15:25.000Z",
-          "wordCount": 2168,
-          "title": "Links関連サービス停止についてのお知らせ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/d70345-5-949030-0.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/d70345-5-949030-0.jpg"
         }
       ]
     }
