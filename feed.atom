@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-06T02:36:22.733Z</updated>
+    <updated>2023-04-06T03:23:14.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金融機関向け分散型インフラの「M^ZERO」、29億円を調達]]></title>
+        <id>https://coinpost.jp/?p=450325</id>
+        <link href="https://coinpost.jp/?p=450325"/>
+        <updated>2023-04-06T02:50:18.000Z</updated>
+        <summary type="html"><![CDATA[機関顧客向けの分散型金融インフラを開発する「M^ZERO」は5日、シード投資ラウンドで約29億円を調達したと発表した。Pantera Capitalが主導している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datachain、Interchain Foundationの助成金に2度目の採択──IBCによるインターオペラビリティを本番環境で実現へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=180095</id>
+        <link href="https://www.coindeskjapan.com/180095/"/>
+        <updated>2023-04-06T02:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Datachainは4月6日、Cosmos/IBCエコシステム（※）を推進するInterchain Foundationの助成金に採択されたと発表した。2021 ...
+Datachain、Interchain Foundationの助成金に2度目の採択──IBCによるインターオペラビリティを本番環境で実現へ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アバランチ、韓国のSK Planetと提携──Web3エコシステム構築へ]]></title>
         <id>https://www.coindeskjapan.com/?p=180107</id>
