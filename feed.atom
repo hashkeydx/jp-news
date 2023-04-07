@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-07T02:34:58.318Z</updated>
+    <updated>2023-04-07T03:23:11.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドイツ財務省、ブロックチェーンによる証券デジタル化など支援計画]]></title>
+        <id>https://coinpost.jp/?p=450629</id>
+        <link href="https://coinpost.jp/?p=450629"/>
+        <updated>2023-04-07T03:00:33.000Z</updated>
+        <summary type="html"><![CDATA[ドイツの財務省は、スタートアップ企業や中小企業を支援する「未来資金法」を発表。ブロックチェーン技術によるデジタル化証券発行なども念頭に置かれている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カナダ当局　「ChatGPT」開発会社OpenAIを調査]]></title>
+        <id>https://coinpost.jp/?p=450623</id>
+        <link href="https://coinpost.jp/?p=450623"/>
+        <updated>2023-04-07T02:40:26.000Z</updated>
+        <summary type="html"><![CDATA[カナダの個人情報保護委員会（CPC）は、AI言語モデル「ChatGPT」を開発した米国OpenAI社に対して調査を開始したことを発表した。この調査は「ChatGPTが同意のない個人情報の収集、使用、開示している」との苦情を受けての対応となる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ、データ保存の新技術「State Compression」を発表　NFT発行費用を最大24,000倍安価に]]></title>
         <id>https://coinpost.jp/?p=450606</id>
