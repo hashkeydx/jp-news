@@ -415,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=450933",
+          "author": "AKIRA.H",
+          "description": "分散型SNSプロトコルNostrに関するコミュニティイベント、「Nostr Unconference」が2023年11月に東京で開催される計画が進行している。NostrはTwitterの創業者ジャック・ドーシー氏が14 BTC寄付したことでも知られるプロジェクトだ。",
+          "link": "https://coinpost.jp/?p=450933",
+          "publishedOn": "2023-04-08T07:50:18.000Z",
+          "wordCount": 2228,
+          "title": "分散型SNS基盤Nostrの会合「Unconference」が東京で開催へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/resorttokyo_1225.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/resorttokyo_1225.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=450923",
           "author": "AKIRA.H",
           "description": "Web3プロジェクトのPush Protocolがウォレットアドレスを用いて対話が可能な「Push Chat」に、AIチャットボットを追加した。データはIPFSとPush Nodeに保存されるが、暗号化および署名されるため、関与しているアドレスのみがメッセージの解読ができる。",

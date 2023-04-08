@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-08T07:19:10.361Z</updated>
+    <updated>2023-04-08T08:25:23.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分散型SNS基盤Nostrの会合「Unconference」が東京で開催へ]]></title>
+        <id>https://coinpost.jp/?p=450933</id>
+        <link href="https://coinpost.jp/?p=450933"/>
+        <updated>2023-04-08T07:50:18.000Z</updated>
+        <summary type="html"><![CDATA[分散型SNSプロトコルNostrに関するコミュニティイベント、「Nostr Unconference」が2023年11月に東京で開催される計画が進行している。NostrはTwitterの創業者ジャック・ドーシー氏が14 BTC寄付したことでも知られるプロジェクトだ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Push ProtocolがAIチャットボットを搭載、プライバシー保護を重視]]></title>
         <id>https://coinpost.jp/?p=450923</id>
