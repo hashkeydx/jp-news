@@ -415,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=450923",
+          "author": "AKIRA.H",
+          "description": "Web3プロジェクトのPush Protocolがウォレットアドレスを用いて対話が可能な「Push Chat」に、AIチャットボットを追加した。データはIPFSとPush Nodeに保存されるが、暗号化および署名されるため、関与しているアドレスのみがメッセージの解読ができる。",
+          "link": "https://coinpost.jp/?p=450923",
+          "publishedOn": "2023-04-08T06:00:44.000Z",
+          "wordCount": 2265,
+          "title": "Push ProtocolがAIチャットボットを搭載、プライバシー保護を重視",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Chatbot_0408.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Chatbot_0408.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=450907",
           "author": "AKIRA.H",
           "description": "日本発のコレクション「BadgerCapsule」日本発のコレクション「BadgerCapsule」が、Ordinalsを活用し、ビットコイン（BTC）ブロックチェーン上でフルオンチェーンNFTとして記録・公開された。出典：RareJapa...",
