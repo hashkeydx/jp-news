@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-08T01:35:00.806Z</updated>
+    <updated>2023-04-08T02:31:46.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサ「再ステーキング」、EigenLayerがテストネットローンチ]]></title>
+        <id>https://coinpost.jp/?p=450896</id>
+        <link href="https://coinpost.jp/?p=450896"/>
+        <updated>2023-04-08T01:45:19.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの“再ステーキング”プロトコルEigenLayerは、最初のテストネットを立ち上げたことを発表した。EigenLayerはステーキングされたETHからデリバティブトークンを生成し、他のプロトコルで再ステーキング可能にするプロトコル。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨デリバティブ取引所dYdX、カナダでのサービス提供終了へ]]></title>
         <id>https://coinpost.jp/?p=450881</id>
