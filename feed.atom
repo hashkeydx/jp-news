@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-09T03:22:37.996Z</updated>
+    <updated>2023-04-09T04:26:29.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[信用取引の「追証」とは、投資リスクや対応方法を解説]]></title>
+        <id>https://coinpost.jp/?p=446756</id>
+        <link href="https://coinpost.jp/?p=446756"/>
+        <updated>2023-04-09T04:00:50.000Z</updated>
+        <summary type="html"><![CDATA[追証とは信用取引や株価指数先物取引、FXを含む保証金を担保として行う取引にて発生する仕組みです。保証金の維持率が規定値より下回った際に、保証金を追加で預け入れる必要があります。追証が発生する取引では自己資金を上回る金額の取引が可能なため、大きな利益が狙える取引だといえます。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン相場、来週は週央から大きく動く可能性｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=450753</id>
