@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-10T20:23:05.027Z</updated>
+    <updated>2023-04-10T21:19:10.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[現実資産（RWA）のトークン化、ついに来たか？【オピニオン】]]></title>
+        <id>https://www.coindeskjapan.com/?p=177058</id>
+        <link href="https://www.coindeskjapan.com/177058/"/>
+        <updated>2023-04-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CoinDeskのベテランの同僚に「Real World Asset（RWA：実世界の資産、現実資産）」のトークン化の話をするとうんざりされる。もう聞き飽きてい ...
+現実資産（RWA）のトークン化、ついに来たか？【オピニオン】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Michael J Casey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニモカブランズジャパンの新CEOに岩瀬大輔氏が就任]]></title>
         <id>https://www.coindeskjapan.com/?p=180508</id>
@@ -557,26 +568,6 @@ MIXI、Oasysにバリデータとして参加 first appeared on coindesk JAPAN |
         <summary type="html"><![CDATA[GameFiプラットフォーム事業をグローバルに展開するDigital Entertainment Asset Pte. Ltd. は、NFTを取り入れた新ゲームタイトル「ロストアーカイブプラス」のローンチ及びNFTのプレセールを発表した。]]></summary>
         <author>
             <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ontologyのインキュベーションを経て誕生したL2、リワードキャンペーンを実施]]></title>
-        <id>https://coinpost.jp/?p=449756</id>
-        <link href="https://coinpost.jp/?p=449756"/>
-        <updated>2023-04-06T08:30:20.000Z</updated>
-        <summary type="html"><![CDATA[分散型アイデンティティソリューションおよびデータ特化型のオープンソースプラットフォームを開発するオントロジーは、レイヤー２ソリューション「Goshen Network」のアーリーアダプター向けリワードキャンペーンを発表した。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アービトラム財団が透明性向上を約束、DAOで再投票を実施へ]]></title>
-        <id>https://coinpost.jp/?p=450459</id>
-        <link href="https://coinpost.jp/?p=450459"/>
-        <updated>2023-04-06T08:24:01.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムのL2「Arbitrum」は、反対多数となっている特別助成金予算案（AIP-1）の修正提案と、透明性レポートを発表した。Arbitrum財団が一部トークンを売却していたことが判明し、コミュニティの信頼を失った経緯を受けての対応だ。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
