@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-10T21:19:10.867Z</updated>
+    <updated>2023-04-10T22:24:31.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは年初から70％上昇、だが清算による価格変動リスクは低い]]></title>
+        <id>https://www.coindeskjapan.com/?p=180548</id>
+        <link href="https://www.coindeskjapan.com/180548/"/>
+        <updated>2023-04-10T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は年初から70％上昇し、一時9カ月ぶりの高値2万9000ドル超を記録した。価格上昇でデリバティブ市場は活気を取り戻したが全体的に落ち着いて ...
+ビットコインは年初から70％上昇、だが清算による価格変動リスクは低い first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現実資産（RWA）のトークン化、ついに来たか？【オピニオン】]]></title>
         <id>https://www.coindeskjapan.com/?p=177058</id>
@@ -558,16 +569,6 @@ MIXI、Oasysにバリデータとして参加 first appeared on coindesk JAPAN |
 ドージコインを再び上昇させたマスク氏、何がしたい？【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEA、NFTカードを活用した戦略ボードゲームをローンチへ]]></title>
-        <id>https://coinpost.jp/?p=450362</id>
-        <link href="https://coinpost.jp/?p=450362"/>
-        <updated>2023-04-06T09:25:49.000Z</updated>
-        <summary type="html"><![CDATA[GameFiプラットフォーム事業をグローバルに展開するDigital Entertainment Asset Pte. Ltd. は、NFTを取り入れた新ゲームタイトル「ロストアーカイブプラス」のローンチ及びNFTのプレセールを発表した。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>
