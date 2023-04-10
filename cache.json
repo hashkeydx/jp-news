@@ -335,6 +335,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=451295",
+          "author": "A.Yamada",
+          "description": "分散型の仮想通貨取引所SushiSwapから、ハッキングにより不正に資金が流出した。Sushiのチームはユーザーに対して、不正なコントラクトを承認した場合取り消すように呼びかけている。",
+          "link": "https://coinpost.jp/?p=451295",
+          "publishedOn": "2023-04-10T00:38:52.000Z",
+          "wordCount": 2391,
+          "title": "分散型取引所SushiSwapで4億円相当のハッキング",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=450171",
           "author": "AKIRA.H",
           "description": "レイヤー2は取引処理をオフチェーンで行うことで効率化を図る技術。負荷が軽減され、全体のスケーラビリティが向上する。レイヤー2の概要やイーサリアムの関連プロジェクトについて解説する。",
