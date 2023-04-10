@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-10T03:23:14.103Z</updated>
+    <updated>2023-04-10T04:27:28.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米アーカンソー州、仮想通貨マイニング企業を保護する法案可決]]></title>
+        <id>https://coinpost.jp/?p=451311</id>
+        <link href="https://coinpost.jp/?p=451311"/>
+        <updated>2023-04-10T03:25:17.000Z</updated>
+        <summary type="html"><![CDATA[米国アーカンソー州下院は、ビットコインなど仮想通貨のマイニングについて規制を明確化する法案を可決した。マイニング企業を差別的待遇から保護する内容も盛り込んでいる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのオンチェーンデータに複数の強気シグナル、相場は均衡状態]]></title>
+        <id>https://coinpost.jp/?p=451293</id>
+        <link href="https://coinpost.jp/?p=451293"/>
+        <updated>2023-04-10T03:21:45.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）相場では、大手分散型取引所SushiSwapでハッキング被害が発生、リボーグ勧告が発令された。ビットコインのオンチェーンデータでは複数の強気シグナルが確認されている。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[注目の米Web3ニュース：OpenSea Pro/ラルフ ローレン/長寿研究]]></title>
         <id>https://www.coindeskjapan.com/?p=180486</id>
