@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-11T13:26:10.645Z</updated>
+    <updated>2023-04-11T14:24:10.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -620,16 +620,6 @@ MIXI、Oasysにバリデータとして参加 first appeared on coindesk JAPAN |
         <summary type="html"><![CDATA[カナダの個人情報保護委員会（CPC）は、AI言語モデル「ChatGPT」を開発した米国OpenAI社に対して調査を開始したことを発表した。この調査は「ChatGPTが同意のない個人情報の収集、使用、開示している」との苦情を受けての対応となる。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ、データ保存の新技術「State Compression」を発表　NFT発行費用を最大24,000倍安価に]]></title>
-        <id>https://coinpost.jp/?p=450606</id>
-        <link href="https://coinpost.jp/?p=450606"/>
-        <updated>2023-04-07T01:45:42.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナのプロジェクトは、データ保存に使用する新たな技術State Compressionを発表。この技術は、NFT発行費用を最大24,000倍安価にできるという。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
