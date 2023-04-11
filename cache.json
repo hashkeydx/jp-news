@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=180711",
+          "author": "Jack Schickler",
+          "description": "フランスの中央銀行が発表した報告書によると、分散型金融（DeFi）のプロジェクトは、ガバナンスとセキュリティの基準を満たすことを証明するか、法人化することを余儀 ...\nDeFi、法人化や認証を求められる可能性──仏中央銀行が指摘 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/180711/",
+          "publishedOn": "2023-04-11T22:30:45.000Z",
+          "wordCount": 1776,
+          "title": "DeFi、法人化や認証を求められる可能性──仏中央銀行が指摘",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/07/shutterstock_1976868902-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=180695",
           "author": "Shaurya Malwa",
           "description": "柴犬コイン（SHIB）のエコシステムの実用性を拡大するメタバースプロジェクト「SHIB：The Metaverse」が今年12月までに一部オープンする予定だと、 ...\n柴犬コインのメタバース、2023年末までに一部オープン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -260,16 +270,6 @@
           "wordCount": 1785,
           "title": "メンバー選出の最終審査はNIDT購入申込者による投票──秋元康氏プロデュースの新アイドルプロジェクト",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/03/20230313-NIDT.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=180405",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場をパターン分析・移動平均線（9MA・25MA）・一目均衡表・ボリンジャーバンド・MACD・RSIの代表的な6種類のテクニカル分析で5段階 ...\nマトリックス法によるテクニカル分析（2023/4/7）ビットコイン、テクニカルはまちまち first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/180405/",
-          "publishedOn": "2023-04-07T11:00:16.000Z",
-          "wordCount": 1924,
-          "title": "マトリックス法によるテクニカル分析（2023/4/7）ビットコイン、テクニカルはまちまち",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/tr-thumb_230407.jpeg"
         }
       ]
     },
@@ -284,6 +284,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=451693",
+          "author": "K.Kobayashi",
+          "description": "大手ベンチャーキャピタルa16zは、新たな仮想通貨指標「State of Crypto Index」を紹介。指標の内容を説明し、2023年版のレポートを公開した。",
+          "link": "https://coinpost.jp/?p=451693",
+          "publishedOn": "2023-04-11T22:50:12.000Z",
+          "wordCount": 2262,
+          "title": "大手VCのa16z crypto、新たな仮想通貨指標を紹介",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/a16z-State-of-Crypto-Index.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/a16z-State-of-Crypto-Index.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=451573",
+          "author": "菊谷ルイス",
+          "description": "本日のNYダウは小幅に+98.2ドルで取引を終えた。今夜の米3月のCPI（消費者物価指数）発表を控えており、投資家は様子見の雰囲気が強かった。",
+          "link": "https://coinpost.jp/?p=451573",
+          "publishedOn": "2023-04-11T22:15:12.000Z",
+          "wordCount": 2273,
+          "title": "NYダウ小幅続伸　仮想通貨関連株上昇、今夜はCPI発表｜12日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/new-morning-market-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/new-morning-market-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=451520",
           "author": "AKIRA.H",
