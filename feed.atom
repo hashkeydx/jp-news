@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-12T03:23:14.436Z</updated>
+    <updated>2023-04-12T04:27:07.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国際通貨基金（IMF）がステーブルコインに焦点、一貫した規制と監督の必要性強調]]></title>
+        <id>https://coinpost.jp/?p=451777</id>
+        <link href="https://coinpost.jp/?p=451777"/>
+        <updated>2023-04-12T03:39:37.000Z</updated>
+        <summary type="html"><![CDATA[国際通貨基金は11日に発表した世界金融安定報告書で、昨年来相次いだ複数の事業体の破綻に言及し、仮想通貨分野における「包括的で一貫した規制と適切な監督」の必要性を強調した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの重要アップグレード「上海」迫る、BTCは3万ドル水準で推移]]></title>
+        <id>https://coinpost.jp/?p=451735</id>
+        <link href="https://coinpost.jp/?p=451735"/>
+        <updated>2023-04-12T03:35:30.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）相場では、イーサリアム（ETH）のバリデーターがロックアップした資産を引き出し可能になる重要アップグレード「上海（Shapella）」ハードフォークまでおよそ20時間まで迫った。若干売りが先行している。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グローバルWeb3カンファレンス「WebX」、岸田文雄総理大臣がビデオ登壇予定]]></title>
         <id>https://coinpost.jp/?p=451752</id>
@@ -639,17 +659,6 @@ Cash Appの犯罪利用に関するレポートから考える「決済の自由
 「シャンハイ」アップグレードがETHの流動性に与える影響とは──新たな成長が始まるか first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Kevin de Patoul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネロンの抜け道、業界で防ぐ──国内暗号資産取引所、グローバル取引所が語る“ロシア制裁”と“犯罪捜査”]]></title>
-        <id>https://www.coindeskjapan.com/?p=144474</id>
-        <link href="https://www.coindeskjapan.com/144474/"/>
-        <updated>2023-04-07T16:06:03.000Z</updated>
-        <summary type="html"><![CDATA[クラーケン日本代表、ロシアに対する制裁回避防止で連携深める。 千野代表は金融庁の要請に呼応した動きとして、「日本暗号資産取引業協会（JVCEA）では、取引所間で ...
-マネロンの抜け道、業界で防ぐ──国内暗号資産取引所、グローバル取引所が語る“ロシア制裁”と“犯罪捜査” first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>菊池友信</name>
         </author>
     </entry>
 </feed>
