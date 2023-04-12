@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-12T12:42:24.237Z</updated>
+    <updated>2023-04-12T13:27:02.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】  米3月CPI（消費者物価指数）データ発表]]></title>
+        <id>https://coinpost.jp/?p=451904</id>
+        <link href="https://coinpost.jp/?p=451904"/>
+        <updated>2023-04-12T12:45:52.000Z</updated>
+        <summary type="html"><![CDATA[今回の結果発表【速報】米3月CPIデータ発表・CPI（前月比）：今回+0.1%　前回+0.4%　予想+0.3%・CPI（前年比）：今回+5.0%　前回+6.0%　予想+5.1%・コア（前月比）：今回+0.4%　前回+0.5%　予想+0.4%...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カルビーが「NFTチップスキャンペーン」を実施　対象商品の複数購入でNFTを受け取れる]]></title>
         <id>https://www.coindeskjapan.com/?p=180755</id>
@@ -627,16 +637,6 @@ Cash Appの犯罪利用に関するレポートから考える「決済の自由
         <summary type="html"><![CDATA[仮想通貨イーサリアムの“再ステーキング”プロトコルEigenLayerは、最初のテストネットを立ち上げたことを発表した。EigenLayerはステーキングされたETHからデリバティブトークンを生成し、他のプロトコルで再ステーキング可能にするプロトコル。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨デリバティブ取引所dYdX、カナダでのサービス提供終了へ]]></title>
-        <id>https://coinpost.jp/?p=450881</id>
-        <link href="https://coinpost.jp/?p=450881"/>
-        <updated>2023-04-08T00:50:05.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨デリバティブの分散型取引所dYdXは、カナダでのサービス提供を終了すると発表した。カナダの金融当局は、２月にも仮想通貨セクターへの規制強化を発表していた。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
