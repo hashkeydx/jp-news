@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-12T14:24:17.060Z</updated>
+    <updated>2023-04-12T15:23:56.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「シャンハイ」はイーサリアムへの売り圧力か──アナリストの予想は？]]></title>
+        <id>https://www.coindeskjapan.com/?p=180760</id>
+        <link href="https://www.coindeskjapan.com/180760/"/>
+        <updated>2023-04-12T14:43:23.000Z</updated>
+        <summary type="html"><![CDATA[協定世界時4月12日22時27分（日本時間13日7時27分）頃に予定されているイーサリアム・ブロックチェーンの「シャンハイ」アップグレードで、イーサリアム（ET ...
+「シャンハイ」はイーサリアムへの売り圧力か──アナリストの予想は？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】  米3月CPI（消費者物価指数）データ発表]]></title>
         <id>https://coinpost.jp/?p=451904</id>
@@ -617,16 +628,6 @@ Cash Appの犯罪利用に関するレポートから考える「決済の自由
         <summary type="html"><![CDATA[仮想通貨イーサリアムのL2プロジェクト「zkSync」は、スマートコントラクト内に閉じ込められたGemholicECOの資金を回収するソリューションを考案したと発表した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トレード初心者おすすめ「FX用語集」]]></title>
-        <id>https://coinpost.jp/?p=447682</id>
-        <link href="https://coinpost.jp/?p=447682"/>
-        <updated>2023-04-08T03:00:54.000Z</updated>
-        <summary type="html"><![CDATA[FXの初心者が知っておくべき専門用語を紹介します。注文時や注文方法、分析方法カテゴリ別に用語とその意味を説明。参入書記は定期的に確認し、よりスムーズな取引を実現しましょう。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
