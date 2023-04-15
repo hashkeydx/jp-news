@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-15T03:22:57.580Z</updated>
+    <updated>2023-04-15T04:27:00.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米リップル社、仮想通貨の流動性サービスを正式開始]]></title>
+        <id>https://coinpost.jp/?p=452661</id>
+        <link href="https://coinpost.jp/?p=452661"/>
+        <updated>2023-04-15T03:30:46.000Z</updated>
+        <summary type="html"><![CDATA[米リップル社は、企業がビットコインなど仮想通貨の流動性を確保するためのサービス「Liquidity Hub」を正式に提供開始。規制が明確化した際にはXRPを取り扱うことも検討していると述べた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初心者でもわかる、株式投資のバイブル「四季報」の活用方法]]></title>
         <id>https://coinpost.jp/?p=446747</id>
