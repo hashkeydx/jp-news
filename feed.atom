@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-18T08:27:49.161Z</updated>
+    <updated>2023-04-18T09:22:50.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CoinPostが4/28（金）にセミナーを開催「DeFi・web3技術を既存事業に活用するポイント」を解説]]></title>
+        <id>https://coinpost.jp/?p=453273</id>
+        <link href="https://coinpost.jp/?p=453273"/>
+        <updated>2023-04-18T09:00:29.000Z</updated>
+        <summary type="html"><![CDATA[CoinPostが「DeFi（分散型金融）など、web3独自の仕組みを既存事業に活用するポイント」をテーマとするセミナーを4月28日（金）開催。国内外のトレンド解説に加え、企業が既存事業にweb3の仕組みを取り入れるときの注意点なども解説する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shapella実装後のイーサリアムステーキング解除、総量100万ETHを超える]]></title>
         <id>https://coinpost.jp/?p=453192</id>
@@ -702,17 +712,6 @@ zkSync Eraにロックされたバリューは2.5億ドルに──公開以来�
 eToro、ツイッターユーザーに暗号資産等の取引を提供 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「シャンハイ」はETHエコノミクスを永久に変える【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=180741</id>
-        <link href="https://www.coindeskjapan.com/180741/"/>
-        <updated>2023-04-13T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムブロックチェーンの大型アップグレード「シャンハイ」が完了した。シャンハイはいずれ、イーサリアム（ETH）にとってプラスの出来事だったと記憶されるよう ...
-「シャンハイ」はETHエコノミクスを永久に変える【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>James Hodges</name>
         </author>
     </entry>
 </feed>
