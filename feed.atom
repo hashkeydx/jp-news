@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-18T04:27:23.463Z</updated>
+    <updated>2023-04-18T05:23:55.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shapella実装後のイーサリアムステーキング解除、総量100万ETHを超える]]></title>
+        <id>https://coinpost.jp/?p=453192</id>
+        <link href="https://coinpost.jp/?p=453192"/>
+        <updated>2023-04-18T04:40:41.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの大型アップグレードShapella実装後、ステーキングコントラクトからの仮想通貨ETH引き出し総量が100万ETHを突破した。一方、リキッドステーキングの分野では過去7日間でステーキングETH総量が増加傾向となり、トップシェアLidoは1.45%（83,696.8ETH）増加している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナイキ、NFTスニーカー「Our Force 1」を5月に発売──価格は19.82ドル、エアフォース1の販売開始年をイメージ]]></title>
         <id>https://www.coindeskjapan.com/?p=181300</id>
