@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-19T11:20:09.205Z</updated>
+    <updated>2023-04-19T12:42:25.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、2万9000ドル近くまで急落──バイナンスで大規模な売り注文発生の後]]></title>
+        <id>https://www.coindeskjapan.com/?p=181580</id>
+        <link href="https://www.coindeskjapan.com/181580/"/>
+        <updated>2023-04-19T11:30:16.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）はヨーロッパ時間の4月19日朝に、わずか15分で3％以上も下落し、この時価総額で最大の暗号資産（仮想通貨）は3万ドルを下回った。米Coin ...
+ビットコイン、2万9000ドル近くまで急落──バイナンスで大規模な売り注文発生の後 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBI VCトレード、フレアの取り扱いを開始]]></title>
         <id>https://www.coindeskjapan.com/?p=181554</id>
@@ -734,28 +745,6 @@ SBI VCトレード、フレアの取り扱いを開始 first appeared on coindes
         <summary type="html"><![CDATA[UniswapがPolygonzkEVMへ分散型取引所（DEX）の大手であるUniswap（ユニスワップ）は14日、コミュニティによる投票の結果、Uniswapv3をPolygonzkEVMに展開することが決定された。反対票はゼロだった。P...]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync Eraにロックされたバリューは2.5億ドルに──公開以来、700万件の取引を処理]]></title>
-        <id>https://www.coindeskjapan.com/?p=181083</id>
-        <link href="https://www.coindeskjapan.com/181083/"/>
-        <updated>2023-04-15T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム・スケーリング・ブロックチェーンの「zkSync Era」は、投資家が新進のネットワーク上に構築された新しいプロジェクトへ期待していることから、リリ ...
-zkSync Eraにロックされたバリューは2.5億ドルに──公開以来、700万件の取引を処理 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナのWeb3スマホ「Saga」、5月8日販売開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=180952</id>
-        <link href="https://www.coindeskjapan.com/180952/"/>
-        <updated>2023-04-14T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ソラナモバイル（Solana Mobile）は4月14日、暗号資産対応スマートフォン「Saga」の一般販売を5月8日に開始すると発表した。事前予約分は現在出荷中 ...
-ソラナのWeb3スマホ「Saga」、5月8日販売開始 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Danny Nelson</name>
         </author>
     </entry>
 </feed>
