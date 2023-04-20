@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-20T22:24:15.782Z</updated>
+    <updated>2023-04-20T23:22:33.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EVM互換の新L1ブロックチェーン「Berachain」、SAFTで約56億円を調達]]></title>
+        <id>https://coinpost.jp/?p=453990</id>
+        <link href="https://coinpost.jp/?p=453990"/>
+        <updated>2023-04-20T22:50:49.000Z</updated>
+        <summary type="html"><![CDATA[L1ブロックチェーンBerachainは、約56億円の資金を調達。Berachainはコスモスの開発キットで構築され、仮想通貨イーサリアムの仮想マシンと互換性を持つ。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラ・仮想通貨関連株大幅安　景気後退懸念高まる｜21日金融短観]]></title>
+        <id>https://coinpost.jp/?p=453733</id>
+        <link href="https://coinpost.jp/?p=453733"/>
+        <updated>2023-04-20T22:35:57.000Z</updated>
+        <summary type="html"><![CDATA[本日のNYダウは−110.ドルと続落。ナスダックは−97.6ドルで取引を終えた。前日のテスラの決算発表や、新規失業保険申請件数など悪い材料を受けて景気後退への懸念が広がった模様だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧州議会、暗号資産規制法案を可決──2024年に発効]]></title>
         <id>https://www.coindeskjapan.com/?p=181780</id>
