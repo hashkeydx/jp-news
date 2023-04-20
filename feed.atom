@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-20T05:24:38.371Z</updated>
+    <updated>2023-04-20T06:28:35.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ウォレットで原因不明の資産流出か、被害総額は推定13億円（5,000ETH）]]></title>
+        <id>https://coinpost.jp/?p=453850</id>
+        <link href="https://coinpost.jp/?p=453850"/>
+        <updated>2023-04-20T05:20:22.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの大量ホルダーのウォレットが、ハッキングによる不正流出被害のターゲットとなっているようだ。22年12月以降に総額5,000 ETH以上（約１３億円）が不正流出したことが報告されている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米下院　ステーブルコイン草案の公聴会開催]]></title>
         <id>https://coinpost.jp/?p=453828</id>
