@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=181796",
+          "author": "Jocelyn Yang",
+          "description": "ビットコイン（BTC）は20日、一時2万8000ドルを割り、2日続けて下落した。 CoinDeskのデータによると、ビットコインは当記事執筆時点に2万8325ド ...\nビットコイン、コインベースで一時2万8000ドル割れ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/181796/",
+          "publishedOn": "2023-04-21T00:01:22.000Z",
+          "wordCount": 1804,
+          "title": "ビットコイン、コインベースで一時2万8000ドル割れ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/35ZYFAZA6FHVHBPRRXWQCQEKL4.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=181780",
           "author": "Jack Schickler",
           "description": "欧州連合（EU）の議員たちは4月20日、新しい暗号資産ライセンス制度である「暗号資産市場規制法案（Markets in Crypto-Assets Act：Mi ...\n欧州議会、暗号資産規制法案を可決──2024年に発効 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -384,6 +394,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=454010",
+          "author": "A.Yamada",
+          "description": "金融大手ソシエテ・ジェネラルの仮想通貨子会社フォージは、ステーブルコイン「EUR CoinVertible」を発行すると発表した。ユーロ建てで、イーサリアムのブロックチェーン上で展開される。",
+          "link": "https://coinpost.jp/?p=454010",
+          "publishedOn": "2023-04-21T01:15:28.000Z",
+          "wordCount": 2175,
+          "title": "ソシエテ・ジェネラル子会社、ユーロ建てステーブルコインを発行へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Societe-Generale-makerdao-loan.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Societe-Generale-makerdao-loan.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=454005",
+          "author": "K.Kobayashi",
+          "description": "DeFiの1inchは、仮想通貨イーサリアムのL2「zkSync Era」にプロトコルをデプロイしたことを発表。具体的には、アグリゲーションと指値注文のプロトコルをデプロイした。",
+          "link": "https://coinpost.jp/?p=454005",
+          "publishedOn": "2023-04-20T23:50:22.000Z",
+          "wordCount": 2254,
+          "title": "DeFiの1inch、イーサリアムL2「zkSync Era」にプロトコルをデプロイ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/1inch-network.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/1inch-network.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=453990",
           "author": "K.Kobayashi",
