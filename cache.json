@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=181871",
+          "author": "coindesk JAPAN",
+          "description": "全数引き出しも処理されているが、市場への影響は「バリデーターエントリーキューの健全な数の新規参入者」によって一部相殺されている──今週のトップニュースをダイジェ ...\nイーサリアムの好調は4月末まで続くと予想／ナイキ、NFTスニーカーを5月に発売【4/15～4/21のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/181871/",
+          "publishedOn": "2023-04-22T00:30:26.000Z",
+          "wordCount": 1856,
+          "title": "イーサリアムの好調は4月末まで続くと予想／ナイキ、NFTスニーカーを5月に発売【4/15～4/21のトップニュース】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/shutterstock_205067683-1.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=181852",
+          "author": "Omkar Godbole",
+          "description": "ビットコイン（BTC）のドミナンス（暗号資産市場全体でビットコインの時価総額が占める割合）の上昇が止まり、今後、アルトコインがアウトパフォームする可能性が示唆さ ...\nビットコインのドミナンスが抵抗線に遭遇──アルトコインのブーム再来か first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/181852/",
+          "publishedOn": "2023-04-21T23:30:00.000Z",
+          "wordCount": 1827,
+          "title": "ビットコインのドミナンスが抵抗線に遭遇──アルトコインのブーム再来か",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/GHMS7DQUCNAV5F4B2VK5IRKPYI.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=181684",
           "author": "Todd Groth",
           "description": "「ChatGPTはあなたの仕事を奪うと思う？」と、レイオフが続くIT大手に勤めるデータサイエンティストの友人に聞いてみた。 「NO。私の仕事は特定のコンテクスト ...\nChatGPTに暗号資産について聞いてみた first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -320,16 +340,6 @@
           "wordCount": 1804,
           "title": "シャンハイ後、取引所に大量のイーサリアムが移動──売り圧力が強まる可能性",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/I4BOR7545FDXPNBX5AZG3EASKM.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=181245",
-          "author": "Jamie Crawley",
-          "description": "暗号資産レンディングを手がけるアンバー・グループ（Amber Group）は、個人顧客よりも機関投資家により注力する計画の一環として、日本でのビジネスの売却を検 ...\nアンバーグループ、日本事業の売却を検討──昨年、ディーカレットを買収：ブルームバーグ first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/181245/",
-          "publishedOn": "2023-04-17T11:33:46.000Z",
-          "wordCount": 1777,
-          "title": "アンバーグループ、日本事業の売却を検討──昨年、ディーカレットを買収：ブルームバーグ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/スクリーンショット-2023-04-17-20.16.34.jpg"
         }
       ]
     },
@@ -344,6 +354,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=454292",
+          "author": "A.Yamada",
+          "description": "米証券取引委員会は、スタッフ向けの通知を発表。金融アドバイザーが、ビットコインなど仮想通貨含む、複雑またはリスクの高い商品を消費者に推奨するに際しては精査が必要だと述べた。",
+          "link": "https://coinpost.jp/?p=454292",
+          "publishedOn": "2023-04-22T01:25:44.000Z",
+          "wordCount": 2173,
+          "title": "米SEC、「仮想通貨証券」などを個人投資家に勧めることに注意喚起",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/secusa43362-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/secusa43362-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=454288",
+          "author": "AKIRA.H",
+          "description": "Aptosブロックチェーンが委任型ステーキングを導入した。これにより、ユーザーは信頼できるバリデータにステーキング権限を委任し、自分自身がバリデータにならずに仮想通貨APTで報酬を得られるようになった。",
+          "link": "https://coinpost.jp/?p=454288",
+          "publishedOn": "2023-04-22T00:35:16.000Z",
+          "wordCount": 2182,
+          "title": "高速L1チェーンAptos、委任型ステーキングを導入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/aptos_APT1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/aptos_APT1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=454273",
           "author": "K.Kobayashi",

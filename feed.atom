@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-21T23:21:56.340Z</updated>
+    <updated>2023-04-22T01:40:28.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、「仮想通貨証券」などを個人投資家に勧めることに注意喚起]]></title>
+        <id>https://coinpost.jp/?p=454292</id>
+        <link href="https://coinpost.jp/?p=454292"/>
+        <updated>2023-04-22T01:25:44.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会は、スタッフ向けの通知を発表。金融アドバイザーが、ビットコインなど仮想通貨含む、複雑またはリスクの高い商品を消費者に推奨するに際しては精査が必要だと述べた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高速L1チェーンAptos、委任型ステーキングを導入]]></title>
+        <id>https://coinpost.jp/?p=454288</id>
+        <link href="https://coinpost.jp/?p=454288"/>
+        <updated>2023-04-22T00:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Aptosブロックチェーンが委任型ステーキングを導入した。これにより、ユーザーは信頼できるバリデータにステーキング権限を委任し、自分自身がバリデータにならずに仮想通貨APTで報酬を得られるようになった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの好調は4月末まで続くと予想／ナイキ、NFTスニーカーを5月に発売【4/15～4/21のトップニュース】]]></title>
+        <id>https://www.coindeskjapan.com/?p=181871</id>
+        <link href="https://www.coindeskjapan.com/181871/"/>
+        <updated>2023-04-22T00:30:26.000Z</updated>
+        <summary type="html"><![CDATA[全数引き出しも処理されているが、市場への影響は「バリデーターエントリーキューの健全な数の新規参入者」によって一部相殺されている──今週のトップニュースをダイジェ ...
+イーサリアムの好調は4月末まで続くと予想／ナイキ、NFTスニーカーを5月に発売【4/15～4/21のトップニュース】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>coindesk JAPAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのドミナンスが抵抗線に遭遇──アルトコインのブーム再来か]]></title>
+        <id>https://www.coindeskjapan.com/?p=181852</id>
+        <link href="https://www.coindeskjapan.com/181852/"/>
+        <updated>2023-04-21T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）のドミナンス（暗号資産市場全体でビットコインの時価総額が占める割合）の上昇が止まり、今後、アルトコインがアウトパフォームする可能性が示唆さ ...
+ビットコインのドミナンスが抵抗線に遭遇──アルトコインのブーム再来か first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9年超動かなかったビットコインが移動　2日間で合計90億円相当]]></title>
         <id>https://coinpost.jp/?p=454273</id>
@@ -785,17 +827,6 @@ SBI VCトレード、フレアの取り扱いを開始 first appeared on coindes
 シャンハイ後、取引所に大量のイーサリアムが移動──売り圧力が強まる可能性 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンバーグループ、日本事業の売却を検討──昨年、ディーカレットを買収：ブルームバーグ]]></title>
-        <id>https://www.coindeskjapan.com/?p=181245</id>
-        <link href="https://www.coindeskjapan.com/181245/"/>
-        <updated>2023-04-17T11:33:46.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産レンディングを手がけるアンバー・グループ（Amber Group）は、個人顧客よりも機関投資家により注力する計画の一環として、日本でのビジネスの売却を検 ...
-アンバーグループ、日本事業の売却を検討──昨年、ディーカレットを買収：ブルームバーグ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
         </author>
     </entry>
 </feed>
