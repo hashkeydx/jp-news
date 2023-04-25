@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-24T23:22:28.036Z</updated>
+    <updated>2023-04-25T01:42:33.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、イーサリアムのWBETHリキッドステーキングを開始]]></title>
+        <id>https://coinpost.jp/?p=454830</id>
+        <link href="https://coinpost.jp/?p=454830"/>
+        <updated>2023-04-25T01:05:49.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは、新たにイーサリアムのリキッドステーキングトークン「WBETH」を導入した。ユーザーはステーキング報酬を受け取りながらDeFiにも参加できるようになる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスアカデミー、AIチャットボット「Binance Sensei」を導入　ChatGPTの技術活用]]></title>
+        <id>https://coinpost.jp/?p=454824</id>
+        <link href="https://coinpost.jp/?p=454824"/>
+        <updated>2023-04-25T00:20:12.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、バイナンスアカデミーにAIチャットボットBinance Senseiを導入。開発には、ChatGPTの技術を活用した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産ファンド、5週ぶりの純流出]]></title>
         <id>https://www.coindeskjapan.com/?p=182102</id>
