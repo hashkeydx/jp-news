@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-26T07:21:07.785Z</updated>
+    <updated>2023-04-26T08:27:52.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zksync上の分散型取引所Merlin、約2.5億円の不正流出]]></title>
+        <id>https://coinpost.jp/?p=455249</id>
+        <link href="https://coinpost.jp/?p=455249"/>
+        <updated>2023-04-26T07:19:41.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所Merlinがハッキングされ、約2.5億円以上の資金が盗まれたことがわかった。Merlinは仮想通貨イーサリアムのL2プロジェクト「zkSync」上のプロトコルの一つだ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、最新のmacOSからビットコインのホワイトペーパーを削除]]></title>
         <id>https://coinpost.jp/?p=455205</id>
