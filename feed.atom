@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-27T03:23:41.740Z</updated>
+    <updated>2023-04-27T04:27:11.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米高裁、アップルのアプリ外決済誘導禁止を違法判断]]></title>
+        <id>https://coinpost.jp/?p=455542</id>
+        <link href="https://coinpost.jp/?p=455542"/>
+        <updated>2023-04-27T04:07:06.000Z</updated>
+        <summary type="html"><![CDATA[米国連邦控訴裁判所は、米アップル社が「App Store」で利用者の外部決済システムへの誘導を制限する行為は、カリフォルニア州の不正競争防止法（UCL）に違反するとの判断を下した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zaif、ゲンソキシメタバース（MV）とロンドコイン（ROND）の取扱いを開始]]></title>
+        <id>https://coinpost.jp/?p=455523</id>
+        <link href="https://coinpost.jp/?p=455523"/>
+        <updated>2023-04-27T03:41:25.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所のZaifは、ゲンソキシメタバースとロンドコインの取扱いを開始した。どちらも「元素騎士オンライン ~META WORLD~」のネイティブトークンだ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン急落の背景は　国内4例目のIEO「NIDT」は公募価格を大きく割り込む]]></title>
+        <id>https://coinpost.jp/?p=455480</id>
+        <link href="https://coinpost.jp/?p=455480"/>
+        <updated>2023-04-27T03:34:37.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）相場では大口アラートの影響でビットコイン（BTC）が乱高下した。国内4例目のIEOでニッポンアイドルトークン（NIDT）がcoinbookとDMM Bitcoinに新規上場を果たした。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TradFi（伝統的金融機関）は暗号資産にチャンスを見出している【Consensus 2023】]]></title>
         <id>https://www.coindeskjapan.com/?p=182362</id>
