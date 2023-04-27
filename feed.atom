@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-26T23:23:05.896Z</updated>
+    <updated>2023-04-27T01:42:17.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン「USDC」の新クロスチェーン送金プロトコル、メインネットにローンチ]]></title>
+        <id>https://coinpost.jp/?p=455466</id>
+        <link href="https://coinpost.jp/?p=455466"/>
+        <updated>2023-04-27T00:50:09.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインUSDCを運営するサークル社は、新しいクロスチェーン送金プロトコルが、メインネットで利用可能になったと発表。まずは仮想通貨イーサリアムとアバランチのブロックチェーンに対応した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランクリン・テンプルトン、米国政府マネーファンドをポリゴンに展開]]></title>
+        <id>https://coinpost.jp/?p=455471</id>
+        <link href="https://coinpost.jp/?p=455471"/>
+        <updated>2023-04-27T00:35:50.000Z</updated>
+        <summary type="html"><![CDATA[米大手資産運用企業フランクリン・テンプルトンは、投資信託「オンチェーン米国政府マネーファンド」をポリゴンのブロックチェーンに展開したと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aaveのソーシャルグラフプロジェクト「Lens Protocol」、スケーリングソリューションを発表]]></title>
+        <id>https://coinpost.jp/?p=455450</id>
+        <link href="https://coinpost.jp/?p=455450"/>
+        <updated>2023-04-26T23:15:15.000Z</updated>
+        <summary type="html"><![CDATA[ソーシャルグラフプロジェクトLens Protocolは、スケーリングソリューションのベータ版を開発者向けにローンチ。仮想通貨イーサリアムのネットワークをL1、ポリゴンをL2とし、L3として稼働する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NYダウ・ファースト・リパブリック続落　メタ好決算で大幅高｜27日金融短観]]></title>
         <id>https://coinpost.jp/?p=455225</id>
