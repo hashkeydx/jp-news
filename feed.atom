@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-28T02:38:34.440Z</updated>
+    <updated>2023-04-28T03:23:35.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ロビンフッド、仮想通貨ウォレットとDeFiの連携機能提供へ]]></title>
+        <id>https://coinpost.jp/?p=455862</id>
+        <link href="https://coinpost.jp/?p=455862"/>
+        <updated>2023-04-28T02:48:41.000Z</updated>
+        <summary type="html"><![CDATA[米大手投資アプリのロビンフッドは、同社の仮想通貨ウォレットとDeFiアプリを連携させる「Robinhood Connect」を提供開始すると発表。同社は自己管理型Web3ウォレットを本格リリースしている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[相互運用プロトコルLayerZero、イーサリアムL2のzkSyncをサポート]]></title>
+        <id>https://coinpost.jp/?p=455851</id>
+        <link href="https://coinpost.jp/?p=455851"/>
+        <updated>2023-04-28T02:35:53.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンの相互運用を実現するためのプロトコルLayerZeroは、イーサリアムのL2プロジェクト「zkSync」のサポートを開始した。LayerZero上で開発されているdAppsがzkSyncへのクロスチェーン取引を実現できるようになる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化は伝統的金融の「キラーアプリ」： JPモルガン]]></title>
         <id>https://www.coindeskjapan.com/?p=182542</id>
