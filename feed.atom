@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-29T03:22:42.488Z</updated>
+    <updated>2023-04-29T04:26:38.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、ビットコイン投資詐欺で4,000億円超の支払い命令]]></title>
+        <id>https://coinpost.jp/?p=456207</id>
+        <link href="https://coinpost.jp/?p=456207"/>
+        <updated>2023-04-29T03:30:22.000Z</updated>
+        <summary type="html"><![CDATA[米商品先物取引委員会は、仮想通貨ビットコイン関連の投資詐欺について、裁判所が被告に約4,600億円の罰金支払いを命じたと発表した。被告は南アフリカから逃亡しブラジルで拘束されている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カーク船長、NFTへ“ワープ”──シャトナー氏がNFTコレクション発表【Consensus 2023】]]></title>
         <id>https://www.coindeskjapan.com/?p=182610</id>
