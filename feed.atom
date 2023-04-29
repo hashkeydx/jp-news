@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-04-29T04:26:38.039Z</updated>
+    <updated>2023-04-29T05:22:56.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポリゴン上の融資プロトコル0vix、不正利用で約2.7億円相当の資産が流出]]></title>
+        <id>https://coinpost.jp/?p=456210</id>
+        <link href="https://coinpost.jp/?p=456210"/>
+        <updated>2023-04-29T04:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Polygon PoSのDeFi融資プロトコルの0vixが、約200万ドル相当の不正利用被害を受けたことが判明した。このプロトコルでは、仮想通貨イーサリアムやポリゴン、ステーブルコイン、およびAavegotchiのステークトークンvGHSTを担保に使用できる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CFTC、ビットコイン投資詐欺で4,000億円超の支払い命令]]></title>
         <id>https://coinpost.jp/?p=456207</id>
