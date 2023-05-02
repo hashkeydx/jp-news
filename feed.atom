@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-02T03:23:33.220Z</updated>
+    <updated>2023-05-02T04:26:15.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SECが仮想通貨ATM企業Coinmeに5.5億円の罰金を科す、ICOを証券詐欺と判断]]></title>
+        <id>https://coinpost.jp/?p=456730</id>
+        <link href="https://coinpost.jp/?p=456730"/>
+        <updated>2023-05-02T04:12:34.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会は、未登録で誤解を招くような証券募集及び販売を行なったとして、仮想通貨ATMの運営企業「Coinme」と関係者に対して、5億5,000万円相当の罰金を科したと発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1年を切った次回ビットコイン半減期へのカウントダウン、市場動向と専門家の予測は？]]></title>
+        <id>https://coinpost.jp/?p=456732</id>
+        <link href="https://coinpost.jp/?p=456732"/>
+        <updated>2023-05-02T04:06:02.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインの次の半減期まで1年を切った。2024年4月28日予想される5度目の半減期を迎えると、採掘報酬は3.125 BTCとなる。一部の市場アナリストは、半減期に向けて価格がさらに上昇する可能性があると考えている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン続落、ファースト・リパブリック銀行破綻でFOMCの注目度高まる]]></title>
         <id>https://coinpost.jp/?p=456686</id>
