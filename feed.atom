@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-02T02:38:44.196Z</updated>
+    <updated>2023-05-02T03:23:33.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン続落、ファースト・リパブリック銀行破綻でFOMCの注目度高まる]]></title>
+        <id>https://coinpost.jp/?p=456686</id>
+        <link href="https://coinpost.jp/?p=456686"/>
+        <updated>2023-05-02T03:10:22.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）相場ではビットコインが26000ドル台まで続落した。ファースト・リパブリック銀行破綻に伴い、5月のFOMCおよびパウエル議長の会見内容で「利上げサイクル」の停止に言及するかどうか注目度が高まっている。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロストラテジー1Q決算発表、「ビットコイン戦略に自信」]]></title>
+        <id>https://coinpost.jp/?p=456705</id>
+        <link href="https://coinpost.jp/?p=456705"/>
+        <updated>2023-05-02T02:50:27.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロストラテジーは、2023年第1四半期の業績を報告した。仮想通貨ビットコインを1Qに買い増したことや、関連の減損損失が大幅に減少したことなどを説明している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リキッドステーキング（LSD）がDeFi市場でトップに、ETHステーキング需要の増加]]></title>
+        <id>https://coinpost.jp/?p=456683</id>
+        <link href="https://coinpost.jp/?p=456683"/>
+        <updated>2023-05-02T02:35:08.000Z</updated>
+        <summary type="html"><![CDATA[ロックアップされた総資産価値（TVL）のカテゴリー別ランキングで、DEXやレンディングを抑えてリキッドステーキングがトップとなっている。出金された仮想通貨イーサリアム（ETH）が、LSD関連プロトコルでの再ステーキングに回されたものと推測される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、2.5%上昇にとどまる：4月の振り返り]]></title>
         <id>https://www.coindeskjapan.com/?p=182980</id>
