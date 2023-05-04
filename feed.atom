@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-04T02:36:43.694Z</updated>
+    <updated>2023-05-04T03:23:11.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tenet、リキッドステーキングのハブを目指すレイヤー1ブロックチェーンを発表]]></title>
+        <id>https://coinpost.jp/?p=457122</id>
+        <link href="https://coinpost.jp/?p=457122"/>
+        <updated>2023-05-04T02:49:05.000Z</updated>
+        <summary type="html"><![CDATA[リキッドステーキングデリバティブ（LSD）のハブを目指すレイヤー1ブロックチェーン「Tenet」は、テストネットを公開したことを発表した。Tenetはブロックチェーンの相互運用を実現するコスモスの技術をベースにしたイーサリアム互換チェーンとなる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国ゲーム大手Neowiz、ポリゴン基盤のWeb3ゲーム育成へ　10億円規模の助成金提供]]></title>
+        <id>https://coinpost.jp/?p=457118</id>
+        <link href="https://coinpost.jp/?p=457118"/>
+        <updated>2023-05-04T02:33:10.000Z</updated>
+        <summary type="html"><![CDATA[韓国の大手ゲーム会社Neowizの子会社Intella Xは、仮想通貨ポリゴンのネットワークで構築するWeb3ゲームへの助成金プログラムを立ち上げた。合計約13億円を支給する予定だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フレアネットワーク、Google Cloud MarketplaceにAPI統合]]></title>
         <id>https://coinpost.jp/?p=457097</id>
