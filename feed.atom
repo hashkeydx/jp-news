@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-05T05:23:48.842Z</updated>
+    <updated>2023-05-05T06:27:43.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、投資顧問会社の報告様式改正　「デジタル資産」の定義削除]]></title>
+        <id>https://coinpost.jp/?p=457353</id>
+        <link href="https://coinpost.jp/?p=457353"/>
+        <updated>2023-05-05T05:30:12.000Z</updated>
+        <summary type="html"><![CDATA[米SECは、投資顧問事業者のための報告書「Form PF」の改正を採択した。最終案では、ビットコインなど仮想通貨含む「デジタル資産」の定義を用語集から削除している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alibaba Cloud、メタバース構築プラットフォーム「Cloudverse」をリリース]]></title>
         <id>https://coinpost.jp/?p=457358</id>
