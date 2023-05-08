@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-07T23:20:57.633Z</updated>
+    <updated>2023-05-08T01:41:01.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ぺぺコイン、数万円で約5億円の利益──500万％の上昇]]></title>
+        <id>https://www.coindeskjapan.com/?p=183235</id>
+        <link href="https://www.coindeskjapan.com/183235/"/>
+        <updated>2023-05-08T00:30:50.000Z</updated>
+        <summary type="html"><![CDATA[ペペコイン（PEPE）の目眩がするような急上昇──ほんの数週間前に登場し、すでに時価総額が10億ドル（約135億円）を超える──は、悪い結果に終わる一時的な流行 ...
+ぺぺコイン、数万円で約5億円の利益──500万％の上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインブロックチェーン混雑──バイナンスは一時引き出し停止]]></title>
         <id>https://www.coindeskjapan.com/?p=183233</id>
@@ -389,16 +400,6 @@ Revolut、ブラジルで暗号資産投資サービスを提供 first appeared 
 BTCマイニングの環境負荷軽減に取り組む6つのプロジェクト first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Eliza Gkritsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suiブロックチェーン、メインネットローンチ　トークンの新規上場も]]></title>
-        <id>https://coinpost.jp/?p=456931</id>
-        <link href="https://coinpost.jp/?p=456931"/>
-        <updated>2023-05-03T12:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Sui財団は、高速L1ブロックチェーン「Sui Network」のメインネットが稼働を開始したことを発表した。今後数週間から数ヶ月にかけて、新しいプロジェクトが着実に立ち上げられる目論みだ。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
