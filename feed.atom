@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-10T02:36:41.335Z</updated>
+    <updated>2023-05-10T03:23:15.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米マイニング企業Marathon、アブダビで大型施設立ち上げへ]]></title>
+        <id>https://coinpost.jp/?p=458594</id>
+        <link href="https://coinpost.jp/?p=458594"/>
+        <updated>2023-05-10T02:55:28.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場の米仮想通貨マイニング企業Marathonは、UAEのWeb3企業Zero Twoと提携して、アブダビで大型ビットコインマイニング施設を立ち上げると発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ライトコインの取引数、過去最高を記録──BRC-20トークン人気によるビットコインの取引手数料高騰が影響]]></title>
         <id>https://www.coindeskjapan.com/?p=184440</id>
@@ -15,6 +25,16 @@
 ライトコインの取引数、過去最高を記録──BRC-20トークン人気によるビットコインの取引手数料高騰が影響 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのステーキング報酬率が上昇、ミームコインブーム取引が要因か]]></title>
+        <id>https://coinpost.jp/?p=458584</id>
+        <link href="https://coinpost.jp/?p=458584"/>
+        <updated>2023-05-10T02:30:53.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアム（ETH）のステーキング報酬率が上昇し、マージ後の最高値である8.6%に達した。ミームコインのブームが影響してガス料金が急増し、その結果としてバリデーターの手数料収益が大幅に増加したと考えられる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
