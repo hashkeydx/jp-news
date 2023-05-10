@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=184421",
+          "author": "Glenn Williams",
+          "description": "ビットコイン（BTC）とイーサリアム（ETH）が5月9日、4日連続で下落し、それぞれ年初来の上昇率66%と53%の一部を損なう一方で、あまり知られていない複数の ...\nビットコインとイーサリアム、4日連続で下落──アルトコインは取引高上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/184421/",
+          "publishedOn": "2023-05-10T00:15:30.000Z",
+          "wordCount": 1805,
+          "title": "ビットコインとイーサリアム、4日連続で下落──アルトコインは取引高上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/05/H4CCJVX4GNEQHLC3WFIILPP47A.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=184401",
           "author": "Eliza Gkritsi",
           "description": "カナダのHut 8 マイニング社は、アルバータ州ドラムヘラーのマイニング施設が、電気的な問題のために設定されたハッシュレートの15％で稼働しており、10～12週 ...\nHut 8のマイニング施設、電気的な問題で想定ハッシュレートの15%で稼働中 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
@@ -284,6 +294,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=458570",
+          "author": "A.Yamada",
+          "description": "米送金大手PayPalは、2023年第1四半期の業績を報告。ビットコインやイーサリアムなど約1280億円の仮想通貨を保管していると述べた。同社はデジタルウォレットサービスを拡大しているところだ。",
+          "link": "https://coinpost.jp/?p=458570",
+          "publishedOn": "2023-05-10T01:15:37.000Z",
+          "wordCount": 2143,
+          "title": "PayPal、千億円超の仮想通貨を保管　BTC価格上昇を受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/paypal0426211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/paypal0426211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=458565",
+          "author": "K.Kobayashi",
+          "description": "JR九州とPRO社は、NFTプロジェクトを開始することを発表。基盤には仮想通貨ASTRのブロックチェーン「アスターネットワーク」を採用する。",
+          "link": "https://coinpost.jp/?p=458565",
+          "publishedOn": "2023-05-10T00:40:58.000Z",
+          "wordCount": 2142,
+          "title": "JR九州、NFTプロジェクトを開始へ　基盤にはアスターネットワークを採用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/JR-Kyushu-NFT.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/JR-Kyushu-NFT.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=458556",
+          "author": "菊谷ルイス",
+          "description": "バイナンス運営のNFTマーケットプレイス「Binance NFT Marketplace」は、ビットコイン上のNFTである「Bitcoin Ordinals」に対応する計画を発表した。",
+          "link": "https://coinpost.jp/?p=458556",
+          "publishedOn": "2023-05-09T23:15:41.000Z",
+          "wordCount": 2170,
+          "title": "バイナンスNFT、Bitcoin Ordinals対応へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/binance-ordinals.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/binance-ordinals.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=458547",
           "author": "K.Kobayashi",
