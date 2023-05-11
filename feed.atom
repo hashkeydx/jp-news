@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-11T01:40:51.258Z</updated>
+    <updated>2023-05-11T02:36:37.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米テザー社、ゴールドとビットコインの保有量を初公開]]></title>
+        <id>https://coinpost.jp/?p=458953</id>
+        <link href="https://coinpost.jp/?p=458953"/>
+        <updated>2023-05-11T01:58:55.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨の米ドルステーブルコイン「USDT」などを発行するテザー社は準備資産に関する最新状況を報告。ゴールドやビットコインの保有量についても初めて詳細を開示した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7、仮想通貨の個人間取引の規制検討をFATFに要請へ＝日経]]></title>
+        <id>https://coinpost.jp/?p=458947</id>
+        <link href="https://coinpost.jp/?p=458947"/>
+        <updated>2023-05-11T01:45:29.000Z</updated>
+        <summary type="html"><![CDATA[G7は、仮想通貨の個人間取引の規制整備を検討するよう、FATFに要請する意向であることがわかった。マネーロンダリング対策などの目的で、個人間取引にも規制を広げることが目的である。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ぺぺコイン、価格下落後にクジラが買い集め──取引はバイナンスにシフト]]></title>
         <id>https://www.coindeskjapan.com/?p=184588</id>
