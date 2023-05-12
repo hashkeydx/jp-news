@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-12T03:22:51.337Z</updated>
+    <updated>2023-05-12T04:25:55.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Worldcoin、イーサリアムL2「Optimism」との連携を発表]]></title>
+        <id>https://coinpost.jp/?p=459330</id>
+        <link href="https://coinpost.jp/?p=459330"/>
+        <updated>2023-05-12T04:10:51.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨プロジェクト「Worldcoin」は、イーサリアムのL2ネットワーク「Optimism」と提携し、「スーパーチェーン」構想の実現に向けて協力していくと発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『新時代における国家戦略を』自民党AI・web3PTが岸田総理に提言]]></title>
+        <id>https://coinpost.jp/?p=459318</id>
+        <link href="https://coinpost.jp/?p=459318"/>
+        <updated>2023-05-12T03:52:44.000Z</updated>
+        <summary type="html"><![CDATA[新時代における国家戦略策定のため、自民党デジタル社会推進本部の「AIの進化と実装に関するPT」と「web3PT」は、議論を取りまとめたホワイトペーパーを岸田文雄総理に申し入れた。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、ブロックのファイナライズに約30分間の遅延]]></title>
         <id>https://coinpost.jp/?p=459284</id>
@@ -204,6 +224,16 @@ EU規制当局、大規模なステーブルコインに拒否権発動の可能
         <summary type="html"><![CDATA[Web3ゲームのエコシステム開発に取り組むGala Gamesで、「チャンピオンズ・アリーナ」による3週間限定の公開プレイテストが実施中。アイテムであるネクサスバンドルとエステート販売の限定割引が開始されている。]]></summary>
         <author>
             <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン26500ドル台まで続落、イーサリアムのファイナライズ一時停止]]></title>
+        <id>https://coinpost.jp/?p=459080</id>
+        <link href="https://coinpost.jp/?p=459080"/>
+        <updated>2023-05-11T03:45:52.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は軟調な展開でビットコイン（BTC）は26600ドル台まで下落した。イーサリアムのビーコンチェーン上で原因不明のエラーによりトランザクションが一時停止した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
         </author>
     </entry>
     <entry>
