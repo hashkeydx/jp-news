@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-12T02:35:26.408Z</updated>
+    <updated>2023-05-12T03:22:51.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、ブロックのファイナライズに約30分間の遅延]]></title>
+        <id>https://coinpost.jp/?p=459284</id>
+        <link href="https://coinpost.jp/?p=459284"/>
+        <updated>2023-05-12T03:04:34.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのコンセンサスレイヤー（合意形成層）で、一時的にファイナライズ（確定）の停止、あるいは遅延する事態が発生した。この状況は、5月12日3時頃に発生し、約30分後に回復している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トップトレーダー、ペペコインから撤退か──保有残高は24時間で約4億円減]]></title>
+        <id>https://www.coindeskjapan.com/?p=184803</id>
+        <link href="https://www.coindeskjapan.com/184803/"/>
+        <updated>2023-05-12T02:45:55.000Z</updated>
+        <summary type="html"><![CDATA[高いパフォーマンスをあげる個人トレーダーや機関投資家（「スマートマネー」と呼ばれる）は、直近24時間でペペコイン（PEPE）の保有残高を300万ドル（約4億10 ...
+トップトレーダー、ペペコインから撤退か──保有残高は24時間で約4億円減 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>石崎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散型取引所ユニスワップの取引高、コインベースを4カ月連続で上回る]]></title>
         <id>https://www.coindeskjapan.com/?p=184796</id>
@@ -15,6 +36,16 @@
 分散型取引所ユニスワップの取引高、コインベースを4カ月連続で上回る first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタマスク、米国でPayPalによるイーサリアム購入機能立ち上げ]]></title>
+        <id>https://coinpost.jp/?p=459277</id>
+        <link href="https://coinpost.jp/?p=459277"/>
+        <updated>2023-05-12T02:20:07.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨自己管理型ウォレットMetaMaskは、米国ユーザーがPayPalアカウントを利用して簡単にイーサリアムを購入できるようにしたと発表した。その他にも提携や機能追加を進めている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
         </author>
     </entry>
     <entry>
