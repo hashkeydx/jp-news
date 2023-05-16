@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-16T04:26:57.296Z</updated>
+    <updated>2023-05-16T05:23:45.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのファイナライズ停止問題解消へ、クライアント「Prysm v4.0.4」が公開]]></title>
+        <id>https://coinpost.jp/?p=460236</id>
+        <link href="https://coinpost.jp/?p=460236"/>
+        <updated>2023-05-16T04:50:59.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのブロックチェーンの主要なクライアントPrysmは、新バージョン「Prysm v4.0.4」をリリースした。これは、最近発生したファイナライズの停止問題に対応したフルバージョンとなる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7財務相・中銀総裁会議、CBDC開発と仮想通貨の国際的な規制整備を奨励]]></title>
+        <id>https://coinpost.jp/?p=460232</id>
+        <link href="https://coinpost.jp/?p=460232"/>
+        <updated>2023-05-16T04:45:46.000Z</updated>
+        <summary type="html"><![CDATA[G7財務相・中央銀行総裁会議は共同声明で、グローバルな決済システムにおける中央銀行デジタル通貨（CBDC）の果たす役割の重要性や、仮想通貨の国際的な規制整備と監視を奨励する意向を示した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimism、大型アップグレード「Bedrock」が6月に実施予定]]></title>
         <id>https://coinpost.jp/?p=460222</id>
