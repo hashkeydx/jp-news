@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-16T01:44:09.841Z</updated>
+    <updated>2023-05-16T02:37:55.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイナーの売り圧力が増加、Lido V2稼働でイーサリアムの出金機能実装へ]]></title>
+        <id>https://coinpost.jp/?p=460203</id>
+        <link href="https://coinpost.jp/?p=460203"/>
+        <updated>2023-05-16T02:17:36.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）相場では、オンチェーンデータ上でビットコインマイナー（採掘業者）の売り圧力が示唆された。Lido V2のメインネットローンチでイーサリアムの出金機能が実装され、初期段階ではイーサリアムの売り圧力が上昇する可能性がある。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国当局、国会議員の疑惑めぐりUpbitとBithumbを捜査]]></title>
         <id>https://coinpost.jp/?p=460180</id>
