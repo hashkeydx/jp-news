@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-16T03:22:59.163Z</updated>
+    <updated>2023-05-16T04:26:57.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism、大型アップグレード「Bedrock」が6月に実施予定]]></title>
+        <id>https://coinpost.jp/?p=460222</id>
+        <link href="https://coinpost.jp/?p=460222"/>
+        <updated>2023-05-16T03:15:49.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのレイヤー2ネットワークOptimismは、大型アップグレード「Bedrock」を6月7日1:00に実施予定であると発表した。アップグレードの実施に際し、Optimismのメインネットでは2～4時間のダウンタイムが発生する予定。この間、取引や入出金が一時的に停止する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[データセンター企業Soluna、米国で新たな仮想通貨マイニング施設を開発へ]]></title>
         <id>https://coinpost.jp/?p=460207</id>
