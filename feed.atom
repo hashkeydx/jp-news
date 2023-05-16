@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-16T09:21:42.521Z</updated>
+    <updated>2023-05-16T10:26:24.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BNBチェーンの分散型取引所（DEX）取引高、過去1年の最高水準に]]></title>
+        <id>https://www.coindeskjapan.com/?p=185230</id>
+        <link href="https://www.coindeskjapan.com/185230/"/>
+        <updated>2023-05-16T09:55:38.000Z</updated>
+        <summary type="html"><![CDATA[BNBチェーンのDEX（分散型取引所）の取引高（週次）がDefiLlamaのデータによると、過去1年の最高水準に達した。 5月7日からの週、BNBのDEX取引高 ...
+BNBチェーンの分散型取引所（DEX）取引高、過去1年の最高水準に first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Lyllah Ledesma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムのファイナライズ停止問題解消へ、クライアント「Prysm v4.0.4」が公開]]></title>
         <id>https://coinpost.jp/?p=460236</id>
@@ -632,28 +643,6 @@ EUの暗号資産税法案、NFTプラットフォームや外国企業も登録
 イーサリアム、取引を25分間完了できず first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU規制当局、大規模なステーブルコインに拒否権発動の可能性を示唆]]></title>
-        <id>https://www.coindeskjapan.com/?p=184721</id>
-        <link href="https://www.coindeskjapan.com/184721/"/>
-        <updated>2023-05-11T22:00:14.000Z</updated>
-        <summary type="html"><![CDATA[欧州銀行監督機構（EBA）の議長は、許可不要のブロックチェーン使用が財政不健全性を招くという懸念を理由に、中央銀行は金融政策を覆す恐れがある場合は大規模なステー ...
-EU規制当局、大規模なステーブルコインに拒否権発動の可能性を示唆 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jack Schickler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニスワップのスマートコントラクトをビットコインに導入してDeFiエコシステムを開発──BRC-20人気に乗じて]]></title>
-        <id>https://www.coindeskjapan.com/?p=184701</id>
-        <link href="https://www.coindeskjapan.com/184701/"/>
-        <updated>2023-05-11T21:30:37.000Z</updated>
-        <summary type="html"><![CDATA[ある開発者グループは、BRC-20トークンの台頭に乗じて分散型金融（DeFi）エコシステムを発展させるため、ユニスワップ（Uniswap）のスマートコントラクト ...
-ユニスワップのスマートコントラクトをビットコインに導入してDeFiエコシステムを開発──BRC-20人気に乗じて first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
