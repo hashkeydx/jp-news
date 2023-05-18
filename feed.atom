@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-18T02:37:07.780Z</updated>
+    <updated>2023-05-18T03:22:32.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米株指数上昇でビットコイン反発、交錯する買い圧力と売り圧力]]></title>
+        <id>https://coinpost.jp/?p=460805</id>
+        <link href="https://coinpost.jp/?p=460805"/>
+        <updated>2023-05-18T03:02:57.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場では、ビットコイン（BTC）が株式市場反発に伴い反発。企業による買い圧力と資産売却に伴う売り圧力の双方が意識される展開に。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple App Store初の試み、Axie InfinityがiOSで外部NFTを活用]]></title>
+        <id>https://coinpost.jp/?p=460816</id>
+        <link href="https://coinpost.jp/?p=460816"/>
+        <updated>2023-05-18T03:00:58.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンゲーム「Axie Infinity: Origins」のiOS版が、一部地域のApple App Storeでリストされた。米Apple社が外部で購入したNFT（非代替可能トークン）の使用を許可する初めての試みとなる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散型台帳技術（DLT）は年間約14兆円のコスト削減に：金融業界のロビー団体]]></title>
         <id>https://www.coindeskjapan.com/?p=185500</id>
