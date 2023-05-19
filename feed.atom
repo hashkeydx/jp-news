@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-19T05:24:03.199Z</updated>
+    <updated>2023-05-19T06:27:04.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cosmosエコシステムに再ステーキングを導入、「Mesh Security」を共同開発へ]]></title>
+        <id>https://coinpost.jp/?p=461107</id>
+        <link href="https://coinpost.jp/?p=461107"/>
+        <updated>2023-05-19T05:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos（ATOM）エコシステムで、仮想通貨の「再ステーキング」の導入に向けた取り組みがスタートした。「Mesh Security」は、CosmosSDKで構築された各ブロックチェーン間での相互保護を可能にすることで各チェーンのセキュリティを強化するねらい。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨「Worldcoin」の虹彩スキャン、不正取引の防止策に言及]]></title>
         <id>https://coinpost.jp/?p=461100</id>
