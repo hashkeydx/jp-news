@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-19T03:22:55.779Z</updated>
+    <updated>2023-05-19T04:26:20.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨「Worldcoin」の虹彩スキャン、不正取引の防止策に言及]]></title>
+        <id>https://coinpost.jp/?p=461100</id>
+        <link href="https://coinpost.jp/?p=461100"/>
+        <updated>2023-05-19T03:54:30.000Z</updated>
+        <summary type="html"><![CDATA[中国の仮想通貨メディア「BlockBeats」は、仮想通貨プロジェクト「Worldcoin」のトークン受け取りの条件である、目の虹彩スキャンによる個人認証コードがブラックマーケットで販売されているとツイートした。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン採掘難易度が過去最高値に、ハッシュレートの上昇止まらず]]></title>
+        <id>https://coinpost.jp/?p=461067</id>
+        <link href="https://coinpost.jp/?p=461067"/>
+        <updated>2023-05-19T03:36:56.000Z</updated>
+        <summary type="html"><![CDATA[東京株式市場では日経平均株価が30892円まで上昇、バブル崩壊後の最高値を33年ぶりに更新した。暗号資産（仮想通貨）市場ではビットコインの採掘難易度（ディルカルティー）が過去最高を更新した。ハッシュレート上昇の背景を探る。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAIのChatGPT、iOSアプリをリリース]]></title>
         <id>https://coinpost.jp/?p=461079</id>
