@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-20T04:25:40.709Z</updated>
+    <updated>2023-05-20T05:23:08.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大手取引所OKX、ビットコインのライトニングネットワーク開発を支援]]></title>
+        <id>https://coinpost.jp/?p=461413</id>
+        <link href="https://coinpost.jp/?p=461413"/>
+        <updated>2023-05-20T05:02:45.000Z</updated>
+        <summary type="html"><![CDATA[海外の大手仮想通貨取引所OKXは、ビットコインエコシステムの構築に取り組む開発者を支援するため、Okcoinのオープンソース開発者補助金プログラムに参加した。Lightning Networkの管理能力を向上させる機能「Splicing」の開発者に資金提供を行った。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップル、従業員のChatGPT利用制限か＝報道]]></title>
         <id>https://coinpost.jp/?p=461383</id>
