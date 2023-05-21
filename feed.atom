@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-21T22:23:21.045Z</updated>
+    <updated>2023-05-21T23:21:14.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジャック・ドーシー氏のブロック、「Web5」用ツールキット発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=185840</id>
+        <link href="https://www.coindeskjapan.com/185840/"/>
+        <updated>2023-05-21T22:35:52.000Z</updated>
+        <summary type="html"><![CDATA[ジャック・ドーシー氏率いる金融テクノロジー企業ブロック（Block）の一部門であるTBDは5月18日、同社が提唱する「Web5」プロジェクト用のオープンソースツ ...
+ジャック・ドーシー氏のブロック、「Web5」用ツールキット発表 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Frederick Munawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT、5月は取引高が10億ドルを割る見込み──だが、そもそも重要な指標か]]></title>
         <id>https://www.coindeskjapan.com/?p=185666</id>
@@ -600,17 +611,6 @@ Consensusのピッチコンテスト優勝：暗号資産での給与支払い�
 アクシー・インフィニティのゲーム、App Storeに登場──トークンが12%急上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドージコインの取引数、過去最高に──DRC-20の登場で一時、ビットコインを超える]]></title>
-        <id>https://www.coindeskjapan.com/?p=185384</id>
-        <link href="https://www.coindeskjapan.com/185384/"/>
-        <updated>2023-05-17T10:30:23.000Z</updated>
-        <summary type="html"><![CDATA[ドージコイン（DOGE）の1日あたりの取引数は5月14日、ドージコインブロックチェーン上でトークン発行を可能にする新しい仕組みが導入されたことを受けて、通常の約 ...
-ドージコインの取引数、過去最高に──DRC-20の登場で一時、ビットコインを超える first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
