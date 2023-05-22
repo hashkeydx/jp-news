@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-22T11:19:09.865Z</updated>
+    <updated>2023-05-22T12:40:58.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BTC10万円分当たる：ビットコイン・ピザ・デー記念特別キャンペーン開催]]></title>
+        <id>https://coinpost.jp/?p=461692</id>
+        <link href="https://coinpost.jp/?p=461692"/>
+        <updated>2023-05-22T11:31:27.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）やブロックチェーンに関するニュースを専門に扱うオンラインメディア「CoinPost」を運営する株式会社CoinPost（本社：東京都荒川区、代表取締役CEO：各務 貴仁）は、ＷebX開催と「ビットコイン・ピザ・デー」を記念して、5月22日よりBTC10万円分が当たる特別キャンペーンを開催します。]]></summary>
+        <author>
+            <name>COINPOST</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの値幅、ここ数カ月で最小に──高いボラティリティの前兆か]]></title>
         <id>https://www.coindeskjapan.com/?p=185941</id>
@@ -642,16 +652,6 @@ Consensus 2023、テーマ別に振り返る first appeared on coindesk JAPAN | 
         <summary type="html"><![CDATA[リップル社は、仮想通貨カストディ企業Metacoを約344億円で買収したことを発表した。エンタープライズ向けにトークンの保管や発行などのサービスを提供していく構えだ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、SUIを上場]]></title>
-        <id>https://coinpost.jp/?p=460787</id>
-        <link href="https://coinpost.jp/?p=460787"/>
-        <updated>2023-05-17T23:30:55.000Z</updated>
-        <summary type="html"><![CDATA[SUIの新規上場仮想通貨取引所大手の米コインベースは18日、Sui（SUI）の新規上場を発表した。CoinbasewilladdsupportforSui(SUI)ontheSUInetwork.Donotsendthisassetover...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
