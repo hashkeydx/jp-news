@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-22T03:25:57.315Z</updated>
+    <updated>2023-05-22T04:26:36.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keyp、ゲームボーイをハードウェアウォレット化する｢Game Wallet｣を発表]]></title>
+        <id>https://coinpost.jp/?p=461582</id>
+        <link href="https://coinpost.jp/?p=461582"/>
+        <updated>2023-05-22T04:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Web3関連企業Keypは、任天堂の旧携帯ゲーム機「ゲームボーイ」を、ビットコインなど仮想通貨のコールドウォレット｢Game Wallet｣として再利用できるサービスを発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン相場はジリ貧継続、米債務上限問題なども重石に]]></title>
+        <id>https://coinpost.jp/?p=461578</id>
+        <link href="https://coinpost.jp/?p=461578"/>
+        <updated>2023-05-22T03:21:37.000Z</updated>
+        <summary type="html"><![CDATA[「米債務上限問題」の合意を巡る期待後退とデフォルト懸念が重石となり、暗号資産（仮想通貨）市場ではビットコイン価格が続落。テクニカル分析では厳しい状況にあり、下値目処についての考察も活性化しつつある。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化米国債の需要が急増──暗号資産投資家がTradFiの利回りに注目]]></title>
         <id>https://www.coindeskjapan.com/?p=185802</id>
