@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-21T23:21:14.233Z</updated>
+    <updated>2023-05-22T01:48:45.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「GM Radio」 次回はDAOの運営を効率化する「Hats Protocol」が参加]]></title>
+        <id>https://coinpost.jp/?p=461064</id>
+        <link href="https://coinpost.jp/?p=461064"/>
+        <updated>2023-05-22T00:00:21.000Z</updated>
+        <summary type="html"><![CDATA[CoinPost Globalの第25回GM Radioは、5月24日の10:00からツイッタースペースで配信予定。ゲストにDAOの運営の効率化を目指すHats Protocolを招待する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャック・ドーシー氏のブロック、「Web5」用ツールキット発表]]></title>
         <id>https://www.coindeskjapan.com/?p=185840</id>
@@ -600,17 +610,6 @@ Consensus 2023、テーマ別に振り返る first appeared on coindesk JAPAN | 
 Consensusのピッチコンテスト優勝：暗号資産での給与支払いを手がける「Rise」 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Anna Baydakova</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アクシー・インフィニティのゲーム、App Storeに登場──トークンが12%急上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=185407</id>
-        <link href="https://www.coindeskjapan.com/185407/"/>
-        <updated>2023-05-17T11:45:02.000Z</updated>
-        <summary type="html"><![CDATA[P2E（Play to Earn：遊んで稼ぐ）ゲームのアクシー・インフィニティ（Axie Infinity）の暗号資産アクシー・インフィニティ（AXS）は、Co ...
-アクシー・インフィニティのゲーム、App Storeに登場──トークンが12%急上昇 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
