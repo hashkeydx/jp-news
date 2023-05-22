@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-22T04:26:36.513Z</updated>
+    <updated>2023-05-22T05:24:43.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米大統領候補、仮想通貨ビットコインの寄付金受け入れへ]]></title>
+        <id>https://coinpost.jp/?p=461574</id>
+        <link href="https://coinpost.jp/?p=461574"/>
+        <updated>2023-05-22T04:39:13.000Z</updated>
+        <summary type="html"><![CDATA[米国の大統領候補2人は、仮想通貨ビットコインによる選挙活動への寄付を受け付けると発表した。また、仮想通貨業界にとってより良い規制環境の整備を行っていきたいとの政策方針を示した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keyp、ゲームボーイをハードウェアウォレット化する｢Game Wallet｣を発表]]></title>
         <id>https://coinpost.jp/?p=461582</id>
