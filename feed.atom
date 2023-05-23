@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-23T10:26:54.812Z</updated>
+    <updated>2023-05-23T11:19:15.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーキングされたイーサリアム、過去最高に──シャペラ後に440万増]]></title>
+        <id>https://www.coindeskjapan.com/?p=186100</id>
+        <link href="https://www.coindeskjapan.com/186100/"/>
+        <updated>2023-05-23T11:15:07.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムが4月12日にシャペラあるいはシャンハイと呼ばれるアップグレードを実施して以来、イーサリアム（ETH）のステーキング、つまりコインをイーサリアムネッ ...
+ステーキングされたイーサリアム、過去最高に──シャペラ後に440万増 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップル社が香港のCBDC試験運用プログラムに参画、不動産資産トークン化の可能性追求]]></title>
         <id>https://coinpost.jp/?p=461993</id>
@@ -640,27 +651,6 @@ NFT、5月は取引高が10億ドルを割る見込み──だが、そもそ�
         <summary type="html"><![CDATA[仮想通貨取引所バイナンスの豪州部門Binance Australiaは、PayIDを使った入金が行えなくなったと発表。理由や今後の対応について説明した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国株続伸　ドル円は年初来高値更新｜19日金融短観]]></title>
-        <id>https://coinpost.jp/?p=461047</id>
-        <link href="https://coinpost.jp/?p=461047"/>
-        <updated>2023-05-18T23:10:44.000Z</updated>
-        <summary type="html"><![CDATA[本日のNYダウは+115ドルと続伸。序盤では米ダラス連銀総裁のタカ派的な発言が市場に圧力をかけたが、「Xデー」の前に米債務上限問題が解決できる期待感が相場を支えた格好だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ApeCoin DAO、NFTやエコシステムの成長を後押しするプロジェクト支援の提案を承認]]></title>
-        <id>https://www.coindeskjapan.com/?p=185576</id>
-        <link href="https://www.coindeskjapan.com/185576/"/>
-        <updated>2023-05-18T22:30:40.000Z</updated>
-        <summary type="html"><![CDATA[ApeCoin DAOは、発展途上のエコシステムを強化するために、ApeCoin（APE）を利用したプロジェクトのインキュベーションを支援するアクセラレーターを ...
-ApeCoin DAO、NFTやエコシステムの成長を後押しするプロジェクト支援の提案を承認 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
