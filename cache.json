@@ -270,16 +270,6 @@
           "wordCount": 1836,
           "title": "ビットコイン、2万7000ドル割れ──投資家の注目は2024年の半減期に移るか",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/05/Z3O5PY3PZZEFPIRDYLJWX3GDJM.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=185613",
-          "author": "増田 隆幸",
-          "description": "リップル（Ripple）は、中央銀行、政府、金融機関が独自のデジタル通貨を発行できる中央銀行デジタル通貨（CBDC）プラットフォームを開始する。 リップルのプラ ...\nリップル、中央銀行デジタル通貨向けプラットフォーム開始 first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/185613/",
-          "publishedOn": "2023-05-18T23:30:55.000Z",
-          "wordCount": 1789,
-          "title": "リップル、中央銀行デジタル通貨向けプラットフォーム開始",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/05/2R7VMGX33ZDV7OTMEJ5XUOBJX4.jpeg"
         }
       ]
     },
@@ -294,6 +284,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=462021",
+          "author": "西原碧",
+          "description": "WebX開催と「ビットコイン・ピザ・デー」を記念して、WebXチケット購入者100人当たり1人ビットコイン10万円が当たる特別キャンペーンを開催しております。WebX 20%offクーポン配布中！",
+          "link": "https://coinpost.jp/?p=462021",
+          "publishedOn": "2023-05-23T10:50:13.000Z",
+          "wordCount": 2222,
+          "title": "WebX、ビットコイン10万円分当たるキャンペーン開催",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/pizza-doubleup2_y.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/pizza-doubleup2_y.png"
+        },
         {
           "id": "https://coinpost.jp/?p=461993",
           "author": "AKIRA.H",
@@ -788,36 +793,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_3.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_3.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=461052",
-          "author": "K.Kobayashi",
-          "description": "NFTフィットネスアプリSTEPNは、日本の人気アニメ「攻殻機動隊 SAC_2045」とコラボすることを発表。共同ブランドのデジタルスニーカーを販売し、仮想通貨GMTで支払いを受け付ける。",
-          "link": "https://coinpost.jp/?p=461052",
-          "publishedOn": "2023-05-19T00:25:15.000Z",
-          "wordCount": 2255,
-          "title": "STEPN、日本アニメ「攻殻機動隊 SAC_2045」とコラボ　デジタルスニーカーを販売",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/stepn1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/stepn1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=461042",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所バイナンスの豪州部門Binance Australiaは、PayIDを使った入金が行えなくなったと発表。理由や今後の対応について説明した。",
-          "link": "https://coinpost.jp/?p=461042",
-          "publishedOn": "2023-05-18T23:25:58.000Z",
-          "wordCount": 2233,
-          "title": "バイナンスの豪州部門、銀行送金による入金受付を停止",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/binance_20210913_kk1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/binance_20210913_kk1.jpg"
         }
       ]
     }
