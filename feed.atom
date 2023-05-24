@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-23T23:21:14.304Z</updated>
+    <updated>2023-05-24T01:46:41.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、SECに反論の裁判文書提出]]></title>
+        <id>https://coinpost.jp/?p=462138</id>
+        <link href="https://coinpost.jp/?p=462138"/>
+        <updated>2023-05-24T01:20:30.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースは、米証券取引委員会との裁判で、新たにSECに対する反論を提出した。SECは規制明確化を求める請願に対して回答する必要があると申し立てている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの長期保有、過去最高に]]></title>
+        <id>https://www.coindeskjapan.com/?p=186181</id>
+        <link href="https://www.coindeskjapan.com/186181/"/>
+        <updated>2023-05-24T00:55:10.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）を長期保有──業界用語で言えば「HODL（ホドル）」──する投資家がかつてないほど増えている。 グラスノード（Glassnode）のデータ ...
+ビットコインの長期保有、過去最高に first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Lyllah Ledesma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、ChatGPTをブロックチェーンに導入　AIの活用を推進]]></title>
+        <id>https://coinpost.jp/?p=462133</id>
+        <link href="https://coinpost.jp/?p=462133"/>
+        <updated>2023-05-24T00:45:20.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ財団は、生成AI「ChatGPT」のプラグインをローンチしたことを発表。このプラグインで、仮想通貨ソラナのブロックチェーンでChatGPTを利用できるようになる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港、仮想通貨取引所の新ルールを6月から施行　上場可能な銘柄などを規定]]></title>
         <id>https://coinpost.jp/?p=462124</id>
