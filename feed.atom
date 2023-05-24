@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-24T03:23:57.307Z</updated>
+    <updated>2023-05-24T04:26:41.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米Prometheum、デジタル資産証券のカストディアンとして米当局が初認可]]></title>
+        <id>https://coinpost.jp/?p=462142</id>
+        <link href="https://coinpost.jp/?p=462142"/>
+        <updated>2023-05-24T04:12:37.000Z</updated>
+        <summary type="html"><![CDATA[米Prometheum Ember Capitalは、金融取引業規制機構から、デジタル資産証券のための特別目的ブローカーディーラーとして、業界で初の認可を取得したと発表。同社は規制に準拠したカストディアンとして、デジタル資産証券の保管サービスを提供することが可能になる。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狭いレンジで推移するビットコイン、オンチェーンデータは長期保有者の蓄積加速を観測]]></title>
+        <id>https://coinpost.jp/?p=462156</id>
+        <link href="https://coinpost.jp/?p=462156"/>
+        <updated>2023-05-24T03:31:23.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場ではビットコイン（BTC）が狭いレンジで推移。Glassnodeのオンチェーンデータは長期保有者（LTH）の蓄積加速を観測した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger、オープンソース化計画を前倒し　信頼性回復を図る]]></title>
         <id>https://coinpost.jp/?p=462166</id>
