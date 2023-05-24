@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-24T13:25:30.852Z</updated>
+    <updated>2023-05-24T14:24:40.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トレンドインジケーター、ビットコインとイーサリアムの下落継続を示唆]]></title>
+        <id>https://www.coindeskjapan.com/?p=186207</id>
+        <link href="https://www.coindeskjapan.com/186207/"/>
+        <updated>2023-05-24T14:00:58.000Z</updated>
+        <summary type="html"><![CDATA[5月も残りあと1週間、ビットコイン（BTC）は2023年初めての下落で5月を終える可能性があり、当記事執筆時点6.8％下落となっている。イーサリアム（ETH）も ...
+トレンドインジケーター、ビットコインとイーサリアムの下落継続を示唆 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>石崎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イギリス、1992年以来の高インフレに──BTC、ETHなど主要コインが下落]]></title>
         <id>https://www.coindeskjapan.com/?p=186252</id>
@@ -630,16 +641,6 @@ NFT、5月は取引高が10億ドルを割る見込み──だが、そもそ�
         <summary type="html"><![CDATA[スイスのツーク州は、仮想通貨ビットコインとイーサリアムによる納税上限額を、約2.3億円にまで引き上げた。隣国リヒテンシュタインも仮想通貨による公的サービス支払い受付を計画している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starknetが急成長、NFTイベントやバージョンアップへの期待か]]></title>
-        <id>https://coinpost.jp/?p=461366</id>
-        <link href="https://coinpost.jp/?p=461366"/>
-        <updated>2023-05-20T01:30:52.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムのL2ネットワーク「Starknet」は、ロックアップされた総資産価値が約13億円を超えており、過去2か月間で10倍に拡大した。ユーザーの利用率を高めるため、「Starknet Journey Map」といったNFTイベントも行われている。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
