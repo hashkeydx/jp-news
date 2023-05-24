@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-24T10:26:55.624Z</updated>
+    <updated>2023-05-24T11:19:06.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イギリス、1992年以来の高インフレに──BTC、ETHなど主要コインが下落]]></title>
+        <id>https://www.coindeskjapan.com/?p=186252</id>
+        <link href="https://www.coindeskjapan.com/186252/"/>
+        <updated>2023-05-24T11:00:19.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは、アジアの日中の取引で2万7000ドルを下回り、より広い株式市場のトレーダーがイギリスのインフレ率に反応したため、主要暗号資産（仮想通貨）も市場全 ...
+イギリス、1992年以来の高インフレに──BTC、ETHなど主要コインが下落 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BOBG、エイチームエンターテインメント開発のBCG『Crypt Busters』で独自トークン発行へ]]></title>
         <id>https://coinpost.jp/?p=462357</id>
@@ -661,27 +672,6 @@ NFT、5月は取引高が10億ドルを割る見込み──だが、そもそ�
 暗号資産市場の回復は、ステーブルコインの縮小が止まるまで見込めない：JPモルガン first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャック・ドーシー氏の「TBD」、Web5向けのツールキットを発表]]></title>
-        <id>https://coinpost.jp/?p=461341</id>
-        <link href="https://coinpost.jp/?p=461341"/>
-        <updated>2023-05-19T23:00:54.000Z</updated>
-        <summary type="html"><![CDATA[ジャック・ドーシー氏のTBDは、Web5プロジェクト向けのオープンソースのツールキットを発表。これから仮想通貨ビットコインを使った決済アプリなどがローンチされる予定だ。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取引のファイナライズが一時停止したイーサリアム、何が起こったのか？]]></title>
-        <id>https://www.coindeskjapan.com/?p=185527</id>
-        <link href="https://www.coindeskjapan.com/185527/"/>
-        <updated>2023-05-19T22:30:24.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムブロックチェーンは先日、2度も短時間、ブロックをファイナライズできない事態が発生した。ブロックチェーンの安全性にリスクをもたらす、不安定で好ましくな ...
-取引のファイナライズが一時停止したイーサリアム、何が起こったのか？ first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
         </author>
     </entry>
 </feed>
