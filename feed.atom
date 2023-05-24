@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-24T04:26:41.189Z</updated>
+    <updated>2023-05-24T05:24:06.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[有料版ChatGPTが「Bing」検索エンジンを統合、最新情報を使用可能に]]></title>
+        <id>https://coinpost.jp/?p=462228</id>
+        <link href="https://coinpost.jp/?p=462228"/>
+        <updated>2023-05-24T04:40:08.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、ChatGPTのデフォルトの検索エンジンとしてBingが使用可能になることを発表した。有料版「ChatGPT Plus」の利用者は、同日からプラグインを有効にすることでBing検索を追加できる。無料サービスでも近日中に同様のことが可能になるという。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米Prometheum、デジタル資産証券のカストディアンとして米当局が初認可]]></title>
         <id>https://coinpost.jp/?p=462142</id>
