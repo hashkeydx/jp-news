@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-25T02:38:17.668Z</updated>
+    <updated>2023-05-25T03:22:42.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米フロリダ州知事、大統領選出馬とビットコイン支持を表明]]></title>
+        <id>https://coinpost.jp/?p=462559</id>
+        <link href="https://coinpost.jp/?p=462559"/>
+        <updated>2023-05-25T02:25:53.000Z</updated>
+        <summary type="html"><![CDATA[米国フロリダ州のデサンティス知事は、米大統領選に向けて出馬表明。大統領に当選した暁には仮想通貨ビットコインを擁護していくと述べた。CBDCには批判的な姿勢を示している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベースの L2「Base」、メインネットローンチに向けた課題と目標公開]]></title>
         <id>https://coinpost.jp/?p=462557</id>
