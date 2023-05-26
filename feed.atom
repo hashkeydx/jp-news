@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-26T10:26:52.505Z</updated>
+    <updated>2023-05-26T11:19:24.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[取引所のイーサリアム残高、過去最低に迫る──ステーキング急増の影響]]></title>
+        <id>https://www.coindeskjapan.com/?p=186548</id>
+        <link href="https://www.coindeskjapan.com/186548/"/>
+        <updated>2023-05-26T11:15:03.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所におけるイーサリアム（ETH）の数は、ステーキングによって利用可能なイーサリアムが吸い上げられ、2016年7月以来の低水準になっている ...
+取引所のイーサリアム残高、過去最低に迫る──ステーキング急増の影響 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2023/5/26）ビットコイン、いよいよレンジブレークが近づく：楽天ウォレット]]></title>
         <id>https://www.coindeskjapan.com/?p=186533</id>
@@ -932,17 +943,6 @@ DEXのマングローブ、ポリゴンのテストネット上で稼働開始�
         <summary type="html"><![CDATA[CoinPost Globalの第25回GM Radioは、5月24日の10:00からツイッタースペースで配信予定。ゲストにDAOの運営の効率化を目指すHats Protocolを招待する。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジャック・ドーシー氏のブロック、「Web5」用ツールキット発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=185840</id>
-        <link href="https://www.coindeskjapan.com/185840/"/>
-        <updated>2023-05-21T22:35:52.000Z</updated>
-        <summary type="html"><![CDATA[ジャック・ドーシー氏率いる金融テクノロジー企業ブロック（Block）の一部門であるTBDは5月18日、同社が提唱する「Web5」プロジェクト用のオープンソースツ ...
-ジャック・ドーシー氏のブロック、「Web5」用ツールキット発表 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Frederick Munawa</name>
         </author>
     </entry>
 </feed>
