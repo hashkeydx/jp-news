@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-26T22:23:57.337Z</updated>
+    <updated>2023-05-26T23:21:43.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、23年4Qにタイにデジタル資産取引所をローンチへ　事業認可取得を発表]]></title>
+        <id>https://coinpost.jp/?p=463190</id>
+        <link href="https://coinpost.jp/?p=463190"/>
+        <updated>2023-05-26T23:00:43.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、タイで開設予定のデジタル資産取引所Gulf Binanceが、事業認可を取得したことを発表。取引所の開設は23年4Qを予定する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F1、モナコGPからNFTチケットを導入]]></title>
+        <id>https://www.coindeskjapan.com/?p=186573</id>
+        <link href="https://www.coindeskjapan.com/186573/"/>
+        <updated>2023-05-26T22:30:26.000Z</updated>
+        <summary type="html"><![CDATA[フォーミュラ1（F1）のチケット発行会社であるプラチナム・グループ（Platinium Group）は、今週末のモナコグランプリから、NFT（非代替性トークン） ...
+F1、モナコGPからNFTチケットを導入 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Cameron Thompson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[取引所のイーサリアム残高、過去最低に迫る──ステーキング急増の影響]]></title>
         <id>https://www.coindeskjapan.com/?p=186548</id>
@@ -827,17 +848,6 @@ DEXのマングローブ、ポリゴンのテストネット上で稼働開始�
         <summary type="html"><![CDATA[暗号資産（仮想通貨）やブロックチェーンに関するニュースを専門に扱うオンラインメディア「CoinPost」を運営する株式会社CoinPost（本社：東京都荒川区、代表取締役CEO：各務 貴仁）は、ＷebX開催と「ビットコイン・ピザ・デー」を記念して、5月22日よりBTC10万円分が当たる特別キャンペーンを開催します。]]></summary>
         <author>
             <name>COINPOST</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの値幅、ここ数カ月で最小に──高いボラティリティの前兆か]]></title>
-        <id>https://www.coindeskjapan.com/?p=185941</id>
-        <link href="https://www.coindeskjapan.com/185941/"/>
-        <updated>2023-05-22T11:00:57.000Z</updated>
-        <summary type="html"><![CDATA[アメリカの地方銀行の安定性や国の債務上限に対する懸念が残る中、時価総額で世界最大の暗号資産（仮想通貨）であるビットコイン（BTC）が数カ月間で最も狭い価格帯に落 ...
-ビットコインの値幅、ここ数カ月で最小に──高いボラティリティの前兆か first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
