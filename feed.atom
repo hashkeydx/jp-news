@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-26T03:22:23.482Z</updated>
+    <updated>2023-05-26T04:26:04.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米Stablyが「BRC-20」標準のステーブルコインをローンチ　ビットコインネットワーク初]]></title>
+        <id>https://coinpost.jp/?p=462966</id>
+        <link href="https://coinpost.jp/?p=462966"/>
+        <updated>2023-05-26T03:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Web 3.0の決済インフラを提供する米Stablyは、ビットコインネットワーク上で米ドル建のステーブルコイン 「Stably USD」(＃USD）の提供を開始。＃USDはビットコインブロックチェーンのトークン規格「BRC-20」で作成される初のステーブルコインとなる。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨VC大手Paradigm、AI含むフロンティア技術へ投資領域を拡大]]></title>
+        <id>https://coinpost.jp/?p=462927</id>
+        <link href="https://coinpost.jp/?p=462927"/>
+        <updated>2023-05-26T03:46:56.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨に焦点を当てたベンチャーキャピタルのParadigmが、AIを含む「フロンティア技術」に投資領域を広げている。同社ウェブサイトのトップページからは、仮想通貨やWeb3（分散型ウェブ）に関する記述が削除された。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[様子見基調のビットコイン、Deribitでは36億ドルの暗号資産オプション契約が満期迎える]]></title>
+        <id>https://coinpost.jp/?p=462905</id>
+        <link href="https://coinpost.jp/?p=462905"/>
+        <updated>2023-05-26T03:26:58.000Z</updated>
+        <summary type="html"><![CDATA[規制強化に伴う流動性の低下や米国の債務上限問題が懸念され、暗号資産（仮想通貨）市場ではビットコイン（BTC）の軟調な値動きが続く。大手デリバティブ取引所Deribitでは、36億ドルのオプション契約が本日満期を迎える。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DCG、機関投資家向け取引サービスを閉鎖へ]]></title>
         <id>https://coinpost.jp/?p=462910</id>
