@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-27T22:23:11.800Z</updated>
+    <updated>2023-05-27T23:21:32.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「良い経済ニュース＝暗号資産価格下落」の関係に変化のサイン]]></title>
+        <id>https://www.coindeskjapan.com/?p=186466</id>
+        <link href="https://www.coindeskjapan.com/186466/"/>
+        <updated>2023-05-27T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今週発表されたアメリカの新規失業保険申請件数やGDP（国内総生産）は堅調に推移したが、暗号資産（仮想通貨）市場の値動きに大きな影響はなかった。これまでは「良い経 ...
+「良い経済ニュース＝暗号資産価格下落」の関係に変化のサイン first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>石崎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次のミリオンユーザーを探る──「Fabric Tokyo」3章｜CONNECTV・イベント配信]]></title>
         <id>https://coinpost.jp/?p=462550</id>
@@ -702,27 +713,6 @@ FATF「暗号資産禁止を求めているわけではない」──パキス�
 米債務上限問題が合意すれば、ビットコインにはマイナスの影響か【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーキングされたイーサリアム、過去最高に──シャペラ後に440万増]]></title>
-        <id>https://www.coindeskjapan.com/?p=186100</id>
-        <link href="https://www.coindeskjapan.com/186100/"/>
-        <updated>2023-05-23T11:15:07.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムが4月12日にシャペラあるいはシャンハイと呼ばれるアップグレードを実施して以来、イーサリアム（ETH）のステーキング、つまりコインをイーサリアムネッ ...
-ステーキングされたイーサリアム、過去最高に──シャペラ後に440万増 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebX、ビットコイン10万円分当たるキャンペーン開催]]></title>
-        <id>https://coinpost.jp/?p=462021</id>
-        <link href="https://coinpost.jp/?p=462021"/>
-        <updated>2023-05-23T10:50:13.000Z</updated>
-        <summary type="html"><![CDATA[WebX開催と「ビットコイン・ピザ・デー」を記念して、WebXチケット購入者100人当たり1人ビットコイン10万円が当たる特別キャンペーンを開催しております。WebX 20%offクーポン配布中！]]></summary>
-        <author>
-            <name>西原碧</name>
         </author>
     </entry>
 </feed>
