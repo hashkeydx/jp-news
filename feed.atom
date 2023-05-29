@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-29T20:22:26.735Z</updated>
+    <updated>2023-05-29T21:19:39.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープンAI創業者が取り組むWorldcoinへの深刻な疑問【コラム】]]></title>
+        <id>https://www.coindeskjapan.com/?p=186797</id>
+        <link href="https://www.coindeskjapan.com/186797/"/>
+        <updated>2023-05-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンAI（OpenAI）のCEOとして、今、世界中から注目を集めているサム・アルトマン（Sam Altman）氏は、生成AIのみならず、「Worldcoin ...
+オープンAI創業者が取り組むWorldcoinへの深刻な疑問【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの短期保有者が利益確定売り──目先の値動きにとってはポジティブ]]></title>
         <id>https://www.coindeskjapan.com/?p=186877</id>
@@ -538,17 +549,6 @@ EUの監督当局、暗号資産レンディングやステーキングも規制
 ビットコイン価格、一目均衡表の雲の中へ──2万4000ドルまで下落の可能性 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ava LabがノーコードのWeb3ローンチパッド「AvaCloud」を発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=186384</id>
-        <link href="https://www.coindeskjapan.com/186384/"/>
-        <updated>2023-05-25T08:45:38.000Z</updated>
-        <summary type="html"><![CDATA[レイヤー1ブロックチェーンAvalancheの開発で知られるAva Labsは5月25日、ノーコードでブロックチェーンエコシステムを構築できる企業向けのWeb3 ...
-Ava LabがノーコードのWeb3ローンチパッド「AvaCloud」を発表 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>coindesk JAPAN</name>
         </author>
     </entry>
 </feed>
