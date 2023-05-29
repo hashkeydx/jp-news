@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-29T22:24:05.190Z</updated>
+    <updated>2023-05-29T23:21:08.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[デジタル円、日銀がパイロット実験　概念実証では分散型台帳技術との連携も想定]]></title>
+        <id>https://coinpost.jp/?p=463817</id>
+        <link href="https://coinpost.jp/?p=463817"/>
+        <updated>2023-05-29T22:30:38.000Z</updated>
+        <summary type="html"><![CDATA[日銀は、CBDCに関する実証実験の概念実証フェーズ2の結果報告書を公開。概念実証では、分散型台帳技術との連携も想定している。一般的に分散型台帳技術には、ブロックチェーンが含まれる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[柴犬をテーマにしたコイン「Floki」の取引高が急増──投資家は中国での普及に賭けている]]></title>
         <id>https://www.coindeskjapan.com/?p=186909</id>
@@ -560,17 +570,6 @@ EUの監督当局、暗号資産レンディングやステーキングも規制
 機関投資家、暗号資産の長期的見通しに強気：Consensus調査 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Angelo Calvello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン価格、一目均衡表の雲の中へ──2万4000ドルまで下落の可能性]]></title>
-        <id>https://www.coindeskjapan.com/?p=186389</id>
-        <link href="https://www.coindeskjapan.com/186389/"/>
-        <updated>2023-05-25T11:20:35.000Z</updated>
-        <summary type="html"><![CDATA[投資会社ヴァルキリー・インベストメント（Valkyrie Investments）のテクニカル分析によると、ビットコイン（BTC）の最近の価格下落はまだ先がある ...
-ビットコイン価格、一目均衡表の雲の中へ──2万4000ドルまで下落の可能性 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
