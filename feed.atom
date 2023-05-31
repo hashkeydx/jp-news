@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-31T04:25:41.203Z</updated>
+    <updated>2023-05-31T05:23:20.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムからビットコインへのNFT移行を実現する規格「BRC-721E」がローンチ]]></title>
+        <id>https://coinpost.jp/?p=464175</id>
+        <link href="https://coinpost.jp/?p=464175"/>
+        <updated>2023-05-31T05:00:31.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム上で流通するNFTを、ビットコイン・ブロックチェーン上に移行可能にする新トークン規格「BRC-721E」がローンチされた。トークンブリッジプロトコル「Bridge any NFT to Ordinals」も同時に提供されている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米デジタル商工会議所、テキサス州の反ビットコイン的なエネルギー法案成立を阻止]]></title>
+        <id>https://coinpost.jp/?p=464164</id>
+        <link href="https://coinpost.jp/?p=464164"/>
+        <updated>2023-05-31T04:17:39.000Z</updated>
+        <summary type="html"><![CDATA[米デジタル商工会議所はテキサス州議会に提出された「反ビットコインマイニング法案」が法制化に至らなかったと発表した。マイニング企業の収益に大きな影響を与える「電力クレジット」の取得制限に関連する法案は成立しなかった。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの採掘難易度、過去最高値更新へ]]></title>
+        <id>https://coinpost.jp/?p=464130</id>
+        <link href="https://coinpost.jp/?p=464130"/>
+        <updated>2023-05-31T04:12:24.000Z</updated>
+        <summary type="html"><![CDATA[翌年に「半減期」を控えるビットコインマイニングの採掘難易度が過去最高値を更新する見込み。Ordinals プロトコルおよびBRC-20トークン需要やAI（人工知能）流行に伴う半導体企業の成長などを受け、マイナー間の争奪戦が激化している。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メルセデス・ベンツのWeb3部門、NFTコレクションをリリース──デジタルアートDAOとコラボ]]></title>
         <id>https://www.coindeskjapan.com/?p=187105</id>
