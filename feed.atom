@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-05-31T07:20:24.507Z</updated>
+    <updated>2023-05-31T08:26:32.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6月1日施行の改正資金決済法で国内ステーブルコイン発行可能に、多国籍企業にメリットも]]></title>
+        <id>https://coinpost.jp/?p=464215</id>
+        <link href="https://coinpost.jp/?p=464215"/>
+        <updated>2023-05-31T08:22:00.000Z</updated>
+        <summary type="html"><![CDATA[改正資金決済法施行により、法定通貨を裏付けとするステーブルコインが発行可能になることへの関心が急上昇している。海外発行のステーブルコインについては、発行者ではなく流通業者が資産を保全するよう義務付けられる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所SBI VCトレード、エックスディーシー（XDC）を国内初上場]]></title>
+        <id>https://coinpost.jp/?p=464213</id>
+        <link href="https://coinpost.jp/?p=464213"/>
+        <updated>2023-05-31T07:59:45.000Z</updated>
+        <summary type="html"><![CDATA[SBIグループにて暗号資産（仮想通貨）交換業を運営するSBI VCトレード株式会社は31日、国内初となる「エックスディーシー（XDC）」の取扱い開始を発表した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムからビットコインへのNFT移行を実現する規格「BRC-721E」がローンチ]]></title>
         <id>https://coinpost.jp/?p=464175</id>
