@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-02T03:23:17.577Z</updated>
+    <updated>2023-06-02T04:26:00.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米Circle社、ステーブルコインUSDCのアービトラムサポートを発表]]></title>
+        <id>https://coinpost.jp/?p=464779</id>
+        <link href="https://coinpost.jp/?p=464779"/>
+        <updated>2023-06-02T04:02:41.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン「USD Coin（USDC）」を発行する米Circle社は、アービトラムのサポートを開始することを発表した。アービトラム上でUSDCが直接発行されることにより、裏付け資産の確保が約束され、いつでも1対1で米ドルと交換可能になる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メイカーダオ（MKR）、米国債に約1,800億円の追加投資を検討]]></title>
+        <id>https://coinpost.jp/?p=464762</id>
+        <link href="https://coinpost.jp/?p=464762"/>
+        <updated>2023-06-02T03:25:21.000Z</updated>
+        <summary type="html"><![CDATA[分散型金融プロジェクトの「MakerDAO」は、米国債への投資として新たに1,780億円の配分を目指す提案書の投票を開始したと発表した。0～6ヶ月間の各種満期を持つ米国短期国債の購入に充てられる目論みである。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコインのパブリックチェーン間の取引を可能に──三菱UFJ信託銀行、Datachain、TOKIが技術提携]]></title>
         <id>https://www.coindeskjapan.com/?p=187581</id>
