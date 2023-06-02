@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-02T04:26:00.107Z</updated>
+    <updated>2023-06-02T05:23:42.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オリーブオイル生産業者、DeFiプラットフォームでステーブルコイン建債券を発行]]></title>
+        <id>https://coinpost.jp/?p=464780</id>
+        <link href="https://coinpost.jp/?p=464780"/>
+        <updated>2023-06-02T04:13:26.000Z</updated>
+        <summary type="html"><![CDATA[オリーブオイル生産業者ラマ・オリーブオイルは、分散型金融プラットフォーム「Obligate」を利用して、オンチェーン債券を発行した。この社債は、ユーロ連動のステーブルコイン「 EUROe」建で発行された。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米Circle社、ステーブルコインUSDCのアービトラムサポートを発表]]></title>
         <id>https://coinpost.jp/?p=464779</id>
