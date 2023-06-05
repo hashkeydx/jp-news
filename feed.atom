@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-05T02:55:59.756Z</updated>
+    <updated>2023-06-05T03:24:58.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三菱UFJ信託銀行ら3社、ステーブルコインのクロスチェーン基盤構築へ]]></title>
+        <id>https://coinpost.jp/?p=465269</id>
+        <link href="https://coinpost.jp/?p=465269"/>
+        <updated>2023-06-05T03:01:17.000Z</updated>
+        <summary type="html"><![CDATA[三菱UFJ信託銀行は2日、DatachainおよびTOKIと提携して、ステーブルコインのクロスチェーンインフラを構築していくと発表した。「Progmat Coin」を利用するトークンを対象とする。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのボラティリティ、30日間変動率が過去最低水準に]]></title>
+        <id>https://coinpost.jp/?p=465275</id>
+        <link href="https://coinpost.jp/?p=465275"/>
+        <updated>2023-06-05T02:58:43.000Z</updated>
+        <summary type="html"><![CDATA[米債務上限問題をめぐるデフォルト回避や利上げ停止観測で米株指数や日経平均株価が上昇する中、ビットコイン価格は今ひとつ冴えない。ボラティリティの30日間変動率は過去最低水準まで低下した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、週末も2万7000ドルを維持──アナリストはレジスタンス継続を予想]]></title>
         <id>https://www.coindeskjapan.com/?p=187938</id>
