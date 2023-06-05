@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-05T09:22:09.651Z</updated>
+    <updated>2023-06-05T10:27:54.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5月の詐欺被害は5400万ドル、前月から半減──ブロックチェーンセキュリティ会社De.Fi]]></title>
+        <id>https://www.coindeskjapan.com/?p=187923</id>
+        <link href="https://www.coindeskjapan.com/187923/"/>
+        <updated>2023-06-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年5月、詐欺やハッキングによる被害は5400万ドル（約75億6000万円、1ドル140円換算）を超えた。ブロックチェーンセキュリティ会社De.Fiのレポ ...
+5月の詐欺被害は5400万ドル、前月から半減──ブロックチェーンセキュリティ会社De.Fi first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>石崎</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスのWeb3起業家コンテスト、「zkPass」が優勝]]></title>
         <id>https://coinpost.jp/?p=465282</id>
@@ -677,38 +688,6 @@ SBI VCトレード、XDCの取り扱いを開始 first appeared on coindesk JAPA
         <summary type="html"><![CDATA[バイナンスは5月31日、欧州市場でプライバシー関連銘柄の取引提供を中止する予定を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンスCZ氏「人員削減に関する報道はFUD」]]></title>
-        <id>https://coinpost.jp/?p=464425</id>
-        <link href="https://coinpost.jp/?p=464425"/>
-        <updated>2023-05-31T22:10:02.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、従業員の解雇を実施したことが報じられた。人員の20%を削減したとの報道もあるが、同社CEOのCZ氏は「解雇に関する報道は悪い噂（FUD）である」と説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシアは暗号資産を強化すべきか、禁止すべきか【コラム】]]></title>
-        <id>https://www.coindeskjapan.com/?p=187125</id>
-        <link href="https://www.coindeskjapan.com/187125/"/>
-        <updated>2023-05-31T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーンについて煮え切らない態度を取っている国がもうひとつある。ロシアだ。 ツイッターに投稿された現地レポートによると、病的に自己中心的なリーダーが率い ...
-ロシアは暗号資産を強化すべきか、禁止すべきか【コラム】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オフショア人民元・香港ドルに連動するステーブルコインの開発チームが中国警察に拘束される：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=187253</id>
-        <link href="https://www.coindeskjapan.com/187253/"/>
-        <updated>2023-05-31T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[オフショア人民元にペッグされたステーブルコインであるCNHCと、香港ドルに結びついたHKDCの開発チームが上海警察に拘束されたとPANewsが5月31日に報じた ...
-オフショア人民元・香港ドルに連動するステーブルコインの開発チームが中国警察に拘束される：報道 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Camomile Shumba</name>
         </author>
     </entry>
 </feed>
