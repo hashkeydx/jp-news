@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=188210",
+          "author": "Ian Allison",
+          "description": "取引高で世界第2位の暗号資産（仮想通貨）取引所であるOKXは、カストディサービスの「Komainu」（コマイヌ）を利用し、機関投資家が暗号資産を野村ホールディン ...\nOKX、野村HDが出資するカストディサービス「Komainu」を採用 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/188210/",
+          "publishedOn": "2023-06-06T22:30:00.000Z",
+          "wordCount": 914,
+          "title": "OKX、野村HDが出資するカストディサービス「Komainu」を採用",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_2189746641.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=188262",
           "author": "増田 隆幸",
           "description": "米証券取引委員会（SEC）は多くの暗号資産を証券と位置づけたいようだが、市場は違う考えを持っているようで、暗号資産をコモディティとして扱っている。 SECは6月 ...\nなぜ、ビットコインは回復しているのか？──暗号資産は証券ではなく、コモディティのような値動きに first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -300,26 +310,6 @@
           "wordCount": 878,
           "title": "ボラティリティは最低水準、ドル指数は上昇、この先の行方は？【コラム】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/AY4YBRP53VDXTPLWWBSKZDAPAI.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=187718",
-          "author": "Will Canny",
-          "description": "ビットコイン（BTC）は2万8000ドルの価格水準で売り圧力を受けており、マイニング業者が損失を背負っている可能性があると暗号資産サービスプロバイダーのMatr ...\nマイナーは採掘したビットコインの清算を強いられている：レポート first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/187718/",
-          "publishedOn": "2023-06-02T11:00:00.000Z",
-          "wordCount": 826,
-          "title": "マイナーは採掘したビットコインの清算を強いられている：レポート",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/YCPQCPI5NFF5FG57A2AAE5RWL4.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=187693",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場をパターン分析・移動平均線（9MA・25MA）・一目均衡表・ボリンジャーバンド・MACD・RSIの代表的な6種類のテクニカル分析で5段階 ...\nマトリックス法によるテクニカル分析（2023/6/2）ビットコイン、レンジ下抜けも、思ったほど悪くない：楽天ウォレット first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/187693/",
-          "publishedOn": "2023-06-02T10:30:00.000Z",
-          "wordCount": 1037,
-          "title": "マトリックス法によるテクニカル分析（2023/6/2）ビットコイン、レンジ下抜けも、思ったほど悪くない：楽天ウォレット",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/tr-thumb_230602.jpeg"
         }
       ]
     },
@@ -334,6 +324,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=465969",
+          "author": "K.Kobayashi",
+          "description": "米SECは、前日のバイナンスに続き、仮想通貨取引所コインベースを提訴。証券法違反を主張し、ソラナなどの銘柄を有価証券であると指摘している。",
+          "link": "https://coinpost.jp/?p=465969",
+          "publishedOn": "2023-06-06T22:40:22.000Z",
+          "wordCount": 2246,
+          "title": "米SEC、コインベースを提訴　前日のバイナンスに続き",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/coinbase-new-3-again-8_3.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/coinbase-new-3-again-8_3.png"
+        },
         {
           "id": "https://coinpost.jp/?p=465783",
           "author": "CoinPost編集部",
