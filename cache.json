@@ -7,10 +7,20 @@
       "articles": []
     },
     {
-      "title": "coindesk JAPAN | コインデスク・ジャパン",
+      "title": "CoinDesk JAPAN | コインデスク・ジャパン",
       "feedUrl": "https://www.coindeskjapan.com/feed/",
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
+        {
+          "id": "https://www.coindeskjapan.com/?p=188083",
+          "author": "増田 隆幸",
+          "description": "Volcano Energyは、エルサルバドルでのビットコインマイニング施設建設に10億ドル（約1400億円、1ドル140円換算）を投資する。同社が6月5日にツ ...\nエルサルバドルの再生可能エネルギーマイニング施設、10億ドルを投資──テザーも参加 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/188083/",
+          "publishedOn": "2023-06-06T06:30:00.000Z",
+          "wordCount": 860,
+          "title": "エルサルバドルの再生可能エネルギーマイニング施設、10億ドルを投資──テザーも参加",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_1326833981-scaled.jpg"
+        },
         {
           "id": "https://www.coindeskjapan.com/?p=188124",
           "author": "yoshidaizumi",
@@ -364,6 +374,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=465783",
+          "author": "CoinPost編集部",
+          "description": "ゲーム特化型ブロックチェーンOasys（OAS）は、革新的なゲームを求め、Japan Blockchain Weekに賞金総額賞金65000ドル（約900万円）のハッカソン「Oasys TOKYO HACKJAM」の開催を発表した。",
+          "link": "https://coinpost.jp/?p=465783",
+          "publishedOn": "2023-06-06T07:08:52.000Z",
+          "wordCount": 2329,
+          "title": "革新的な次世代ゲーム求む、賞金65000ドル（900万円）のハッカソン「Oasys TOKYO HACKJAM」開催へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Oasys0606b-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Oasys0606b-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=465637",
           "author": "幸田直子",
