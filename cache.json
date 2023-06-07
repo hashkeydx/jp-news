@@ -12,6 +12,36 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=186228",
+          "author": "CoinDesk JAPAN",
+          "description": "暗号資産（仮想通貨）の自動損益計算サービス「クリプタクト」を運営するpafinは6月5日、保有する暗号資産の数量や時価などを可視化するWeb3サービス「defi ...\nWeb3のポートフォリオ可視化サービス「defitact」が公式ローンチ first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/186228/",
+          "publishedOn": "2023-06-07T01:50:00.000Z",
+          "wordCount": 842,
+          "title": "Web3のポートフォリオ可視化サービス「defitact」が公式ローンチ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/05/230605-defitact.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=188236",
+          "author": "増田 隆幸",
+          "description": "アメリカにはデジタル通貨は必要ない──米証券取引委員会（SEC）のゲンスラー委員長は6月6日、CNBCのインタビューで述べた。 「デジタル通貨は必要ない…（中略 ...\nアメリカにはデジタル通貨は不要、すでにドルがある──FTXとバイナンスの類似性も示唆：ゲンスラーSEC委員長 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/188236/",
+          "publishedOn": "2023-06-07T00:36:22.000Z",
+          "wordCount": 881,
+          "title": "アメリカにはデジタル通貨は不要、すでにドルがある──FTXとバイナンスの類似性も示唆：ゲンスラーSEC委員長",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/100663713-Gary-Gensler-1-840x430-1.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=188243",
+          "author": "増田 隆幸",
+          "description": "米証券取引委員会（SEC）は6月6日、バイナンスUS（Binance.US）に関連する資産を凍結するための一時的な差し止め命令を裁判所に要請した。具体的には、バ ...\nSEC、バイナンスUSの資産凍結を要求 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/188243/",
+          "publishedOn": "2023-06-06T23:30:53.000Z",
+          "wordCount": 923,
+          "title": "SEC、バイナンスUSの資産凍結を要求",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/DHC5LX2M75DTDEQUC2Q3WNSU3U.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=188210",
           "author": "Ian Allison",
           "description": "取引高で世界第2位の暗号資産（仮想通貨）取引所であるOKXは、カストディサービスの「Komainu」（コマイヌ）を利用し、機関投資家が暗号資産を野村ホールディン ...\nOKX、野村HDが出資するカストディサービス「Komainu」を採用 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -324,6 +354,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=466000",
+          "author": "K.Kobayashi",
+          "description": "米SECは、仮想通貨取引所バイナンスやCZ氏らに対する訴訟について、地方裁判所に緊急の申し立てを行なった。SECは、バイナンスUSの資産凍結などを要求している。",
+          "link": "https://coinpost.jp/?p=466000",
+          "publishedOn": "2023-06-07T02:10:56.000Z",
+          "wordCount": 2220,
+          "title": "米SEC、バイナンスUSの資産凍結を要求",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/08/binance-us2_20190820.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/08/binance-us2_20190820.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=465987",
+          "author": "A.Yamada",
+          "description": "大手仮想通貨取引所OKXは、デジタル資産のカストディサービスを提供する「Komainu」と提携し、機関投資家向け預かり資産の安全な取引を24時間年中無休で実現すると発表した。",
+          "link": "https://coinpost.jp/?p=465987",
+          "publishedOn": "2023-06-07T00:45:56.000Z",
+          "wordCount": 2175,
+          "title": "仮想通貨取引所OKX、野村HDら設立のKomainuと提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/okx-kom.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/okx-kom.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=465977",
+          "author": "菊谷ルイス",
+          "description": "イーサリアム（ETH）のレイヤー2（L2）ネットワークOptimismは7日、大型アップグレード「Bedrock」を実施完了したと発表した。OPトークンの価格は前日比+8.3%上昇している。",
+          "link": "https://coinpost.jp/?p=465977",
+          "publishedOn": "2023-06-06T23:15:03.000Z",
+          "wordCount": 2193,
+          "title": "Optimismの大型アップグレード「Bedrock」、実装完了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/uUrceLJJ.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/uUrceLJJ.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=465969",
           "author": "K.Kobayashi",
