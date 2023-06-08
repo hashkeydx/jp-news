@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-08T11:19:34.096Z</updated>
+    <updated>2023-06-08T12:40:17.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SECがトークンを証券と見なしてもDeFiは動じない──ロックされたバリューは横ばい]]></title>
+        <id>https://www.coindeskjapan.com/?p=188606</id>
+        <link href="https://www.coindeskjapan.com/188606/"/>
+        <updated>2023-06-08T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ証券取引委員会（SEC）が有価証券とみなすトークンのブロックチェーン上で動作する分散型金融（DeFi）アプリケーションにロックされたバリューは、進行中の ...
+SECがトークンを証券と見なしてもDeFiは動じない──ロックされたバリューは横ばい first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融庁キーマンに聞く、グローバルなステーブルコイン規制の行方──G7とG20で異なるスタンス]]></title>
         <id>https://www.coindeskjapan.com/?p=188516</id>
@@ -764,28 +775,6 @@ RWAトークン：より安全な選択肢になるか first appeared on coindes
         <summary type="html"><![CDATA[今週は、JPモルガンのアナリストによるビットコイン価格分析について書いた記事が最も多く読まれた。このほか、国内仮想通貨取引所のトラベルルール対応など、一週間分の情報をお届けする。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産は今がチャンスか、「嵐の前の静けさ」か【日曜日に読みたい厳選9本】]]></title>
-        <id>https://www.coindeskjapan.com/?p=187844</id>
-        <link href="https://www.coindeskjapan.com/187844/"/>
-        <updated>2023-06-04T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産が進化の初期段階にあると考えると（実際、確かにそうだ）、暗号資産は飛躍的に成長する、他には類を見ない潜在能力を秘めている──今週公開されたコラムやインタ ...
-暗号資産は今がチャンスか、「嵐の前の静けさ」か【日曜日に読みたい厳選9本】 first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス・オーストラリアが豪ドル決済を停止──決済プロバイダーの決定で]]></title>
-        <id>https://www.coindeskjapan.com/?p=187749</id>
-        <link href="https://www.coindeskjapan.com/187749/"/>
-        <updated>2023-06-03T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[バイナンス・オーストラリア（Binance Australia）は、5月に発表した通り、銀行送金によるオーストラリアドル（AUD）の入出金を停止したと6月1日に ...
-バイナンス・オーストラリアが豪ドル決済を停止──決済プロバイダーの決定で first appeared on coindesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
         </author>
     </entry>
 </feed>
