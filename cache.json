@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=188555",
+          "author": "David Morris",
+          "description": "米証券取引委員会（SEC）による、バイナンス（Binance）とコインベース（Coinbase）に対する連日の提訴は、青天の霹靂ではなかった。暗号資産（仮想通貨 ...\nSEC、提訴は焦りの裏返しか──FTXでの不手際の払拭を図る first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/188555/",
+          "publishedOn": "2023-06-09T22:30:00.000Z",
+          "wordCount": 1029,
+          "title": "SEC、提訴は焦りの裏返しか──FTXでの不手際の払拭を図る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_1128745538.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=188868",
           "author": "Shaurya Malwa",
           "description": "カルダノ（Cardano）ブロックチェーンを開発するInput Output Global（IOG）は、ネイティブトークンであるADAを証券と見なすことができる ...\nカルダノの開発企業IOG、ADAを証券とみなしたSECの主張を否定 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -440,16 +450,6 @@
           "wordCount": 914,
           "title": "アップルとゴールドマン・サックス、新しい預金サービスの顧客を信じていない",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_2021049527.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=187977",
-          "author": "Will Canny",
-          "description": "ビットコイン（BTC）の需要は、世界最大の暗号資産（仮想通貨）であるこのトークンの次の半減期を前に、今後1年間は堅調に推移する可能性が高いと、JPモルガン（JP ...\nビットコイン、今後1年間は堅調に推移する可能性が高い：JPモルガン first appeared on coindesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/187977/",
-          "publishedOn": "2023-06-05T11:00:00.000Z",
-          "wordCount": 904,
-          "title": "ビットコイン、今後1年間は堅調に推移する可能性が高い：JPモルガン",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_1325157863.jpg"
         }
       ]
     },
@@ -464,6 +464,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=466871",
+          "author": "菊谷ルイス",
+          "description": "価格続落米大手投資アプリのロビンフッドは9日、ソラナ（SOL）・ポリゴン（MATIC）・エイダ（ADA）の上場廃止予定を発表した。具体的には、米時間6月27日6:59PMETにてディリストされるという。この動きは今週バイナンスおよびコインベ...",
+          "link": "https://coinpost.jp/?p=466871",
+          "publishedOn": "2023-06-09T22:50:40.000Z",
+          "wordCount": 2189,
+          "title": "米ロビンフッド、ソラナ・ポリゴン・エイダを上場廃止へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/robinhood-ada-sol-matic.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/robinhood-ada-sol-matic.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=466862",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムのL2「Optimism」は、アップグレードBedrockを実行した後、ガス代を56%削減。Bedrockは、ガス代を下げることを1つの目標にしていた。",
+          "link": "https://coinpost.jp/?p=466862",
+          "publishedOn": "2023-06-09T22:25:02.000Z",
+          "wordCount": 2204,
+          "title": "大型アップグレード「Bedrock」実施後のOptimism、ガス代を56%削減",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Optimism-0504.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Optimism-0504.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=466711",
           "author": "AKIRA.H",
