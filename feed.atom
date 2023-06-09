@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-09T02:01:38.205Z</updated>
+    <updated>2023-06-09T03:01:05.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの次期アップグレード「Dencun」、重要性とメリットとは？]]></title>
+        <id>https://coinpost.jp/?p=466654</id>
+        <link href="https://coinpost.jp/?p=466654"/>
+        <updated>2023-06-09T02:35:51.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのブロックチェーン開発者は、次期アップグレード「Dencun」に向けて、改善提案（EIPs）のリストをまとめた。予定される最も大きな変更はEIP-4844で、L2のトランザクション手数料を大幅に低下させる目的を持つ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲンスラー委員長の主張「SECはすでに規制ガイドラインを提供済み」]]></title>
         <id>https://coinpost.jp/?p=466629</id>
