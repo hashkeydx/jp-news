@@ -370,26 +370,6 @@
           "wordCount": 842,
           "title": "三井物産デジタル・アセットマネジメントとソニー銀行、デジタル証券による資産運用サービス「ALTERNA」での連携を開始",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/20230609-mdm-sony.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=188698",
-          "author": "増田 隆幸",
-          "description": "イーサリアム開発者たちは6月8日、「デンクン（Dencun）」と呼ばれる次のアップグレードの範囲について合意した。 今年後半に予定されているアップグレード（ハー ...\nイーサリアム、次のアップグレード「デンクン」の範囲決定 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/188698/",
-          "publishedOn": "2023-06-09T00:30:00.000Z",
-          "wordCount": 899,
-          "title": "イーサリアム、次のアップグレード「デンクン」の範囲決定",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/EV6S5FHV5VFTLNSQXF3OEE434U.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=188703",
-          "author": "増田 隆幸",
-          "description": "暗号資産（仮想通貨）投資家は、米証券取引委員会（SEC）によるバイナンスとコインベースの提訴によって動揺していたが、6月8日には、ポジティブな可能性を示す雇用デ ...\n米労働市場データ、暗号資産にかすかな希望を提示 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/188703/",
-          "publishedOn": "2023-06-08T23:30:00.000Z",
-          "wordCount": 934,
-          "title": "米労働市場データ、暗号資産にかすかな希望を提示",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/FyGbZv6WAAATPDz-scaled.jpeg"
         }
       ]
     },
@@ -404,6 +384,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=467265",
+          "author": "菊谷ルイス",
+          "description": "米国の5月消費者物価指数（CPI）が発表された。総合CPIが前月比で大幅鈍化。",
+          "link": "https://coinpost.jp/?p=467265",
+          "publishedOn": "2023-06-13T12:32:59.000Z",
+          "wordCount": 2199,
+          "title": "【速報】米5月CPI（消費者物価指数）データ発表　大幅鈍化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/Consumer-Price-Index-CPI.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/Consumer-Price-Index-CPI.png"
+        },
         {
           "id": "https://coinpost.jp/?p=467347",
           "author": "AKIRA.H",
@@ -898,21 +893,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/SECUSAFLAG.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/SECUSAFLAG.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=466624",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨イーサリアムのスケーリングソリューション「ZK-EVM」を開発するTaikoは、2回のラウンドで合計約30億円の資金を調達。24年1Qにメインネットローンチを計画している。",
-          "link": "https://coinpost.jp/?p=466624",
-          "publishedOn": "2023-06-09T00:35:03.000Z",
-          "wordCount": 2244,
-          "title": "イーサリアムとの等価性実現へ　ZK-EVM開発プロジェクト「Taiko」が30億円を調達",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Taiko-Fundraise.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Taiko-Fundraise.jpeg"
         }
       ]
     }
