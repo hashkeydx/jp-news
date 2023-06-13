@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-13T22:25:20.521Z</updated>
+    <updated>2023-06-13T23:20:14.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CPI、21年3月以来の低い伸び　米国株続伸｜14日金融短観]]></title>
+        <id>https://coinpost.jp/?p=467279</id>
+        <link href="https://coinpost.jp/?p=467279"/>
+        <updated>2023-06-13T23:00:28.000Z</updated>
+        <summary type="html"><![CDATA[本日のNYダウは+145ドルと6日続伸。ナスダックも+111ドル高で取引を終えた。昨夜発表の米CPIがインフレの鈍化傾向を示し、明日結果が発表されるFOMCの利上げ休止は確実になりそうだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、イーサリアム、ステーブルコインが暗号資産の時価総額の80％を占める──投資家はアルトコインから逃避]]></title>
+        <id>https://www.coindeskjapan.com/?p=189441</id>
+        <link href="https://www.coindeskjapan.com/189441/"/>
+        <updated>2023-06-13T22:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）、イーサリアム（ETH）、ステーブルコインのドミナンス（暗号資産市場全体の時価総額に対するシェア）が2021年2月以来の高水準に急上昇した ...
+ビットコイン、イーサリアム、ステーブルコインが暗号資産の時価総額の80％を占める──投資家はアルトコインから逃避 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRBの金利発表に伴うビットコイン価格の動きをAIで予測──香港の分析会社がツールを開発中]]></title>
+        <id>https://www.coindeskjapan.com/?p=189424</id>
+        <link href="https://www.coindeskjapan.com/189424/"/>
+        <updated>2023-06-13T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[人工知能（AI）ブームの波に乗り、投資データ分析会社のChain of Demandは、6月14日（現地時間）の連邦準備制度理事会（FRB）の金利発表を前に、ア ...
+FRBの金利発表に伴うビットコイン価格の動きをAIで予測──香港の分析会社がツールを開発中 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP、元SECディレクターのメール公表で一時上昇]]></title>
         <id>https://www.coindeskjapan.com/?p=189451</id>
@@ -680,17 +712,6 @@ SEC、提訴は焦りの裏返しか──FTXでの不手際の払拭を図る f
         <summary type="html"><![CDATA[仮想通貨イーサリアムのL2「Optimism」は、アップグレードBedrockを実行した後、ガス代を56%削減。Bedrockは、ガス代を下げることを1つの目標にしていた。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノの開発企業IOG、ADAを証券とみなしたSECの主張を否定]]></title>
-        <id>https://www.coindeskjapan.com/?p=188868</id>
-        <link href="https://www.coindeskjapan.com/188868/"/>
-        <updated>2023-06-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[カルダノ（Cardano）ブロックチェーンを開発するInput Output Global（IOG）は、ネイティブトークンであるADAを証券と見なすことができる ...
-カルダノの開発企業IOG、ADAを証券とみなしたSECの主張を否定 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
