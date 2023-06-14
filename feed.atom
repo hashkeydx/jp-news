@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-14T09:21:25.722Z</updated>
+    <updated>2023-06-14T10:26:56.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTX Japan 最高執行責任者のセス・メラメド氏、WebX登壇へ]]></title>
+        <id>https://coinpost.jp/?p=467562</id>
+        <link href="https://coinpost.jp/?p=467562"/>
+        <updated>2023-06-14T09:34:28.000Z</updated>
+        <summary type="html"><![CDATA[FTX破綻後の対応はFTXJapan株式会社のセス・メラメド氏が、CoinPost主催の国際Web3カンファレンス「WebX」に登壇することが決まった。FTX破綻後の対応やFTXJPの今後についてインタビューを実施予定で、登壇日時などの詳細...]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイナー、2週間で240億円相当のビットコインを取引所に送金]]></title>
         <id>https://www.coindeskjapan.com/?p=189447</id>
@@ -826,16 +836,6 @@ SECのバイナンス、コインベース提訴は「ヨーロッパのチャ�
 SEC、提訴は焦りの裏返しか──FTXでの不手際の払拭を図る first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>David Morris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型アップグレード「Bedrock」実施後のOptimism、ガス代を56%削減]]></title>
-        <id>https://coinpost.jp/?p=466862</id>
-        <link href="https://coinpost.jp/?p=466862"/>
-        <updated>2023-06-09T22:25:02.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2「Optimism」は、アップグレードBedrockを実行した後、ガス代を56%削減。Bedrockは、ガス代を下げることを1つの目標にしていた。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
