@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-14T03:22:56.184Z</updated>
+    <updated>2023-06-14T04:26:40.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新たな開発計画「Polygon 2.0」を発表、ZK技術活用のレイヤー2ネットワーク]]></title>
+        <id>https://coinpost.jp/?p=467528</id>
+        <link href="https://coinpost.jp/?p=467528"/>
+        <updated>2023-06-14T04:00:16.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ポリゴンのネットワークを開発・普及を推進するPolygon Labsは、新たなレイヤー2スケーリングソリューション「Polygon 2.0」の開発計画を公表した。クロスチェーン機能を備え、無限のスケーラビリティと一体化した流動性を提供する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPI通過で株指数上昇もビットコイン冴えず、大幅下落のBNBは急反発]]></title>
+        <id>https://coinpost.jp/?p=467505</id>
+        <link href="https://coinpost.jp/?p=467505"/>
+        <updated>2023-06-14T03:46:37.000Z</updated>
+        <summary type="html"><![CDATA[CPI（米消費者物価指数）ではインフレ鈍化が確認され米国主要株指数は上に反応するも、ビットコインなど暗号資産（仮想通貨）相場は冴えない。ヒンマン文章開示を受けたXRP上昇や大幅下落のBNBが急反発する場面があった。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プーマ、独自のWeb3メタバースの最新版リリース　渋谷モデルの仮想空間も]]></title>
         <id>https://coinpost.jp/?p=467521</id>
