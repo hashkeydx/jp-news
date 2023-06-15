@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-15T03:23:04.760Z</updated>
+    <updated>2023-06-15T04:26:12.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Astar Network上のNFT運用支援、サンカがweb3マーケティングソリューション提供]]></title>
+        <id>https://coinpost.jp/?p=467815</id>
+        <link href="https://coinpost.jp/?p=467815"/>
+        <updated>2023-06-15T03:24:44.000Z</updated>
+        <summary type="html"><![CDATA[SNS運用の自動化・効率化サービスを手掛けるサンカは、日本発のパブリックブロックチェーンAstar Network上でNFTの運用を支援する「web3マーケティングソリューション」の提供を開始した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOMC後のビットコイン、支持線割り込み24000ドル台に　市場心理は恐怖水準へ]]></title>
+        <id>https://coinpost.jp/?p=467764</id>
+        <link href="https://coinpost.jp/?p=467764"/>
+        <updated>2023-06-15T03:22:03.000Z</updated>
+        <summary type="html"><![CDATA[米FOMC後の暗号資産（仮想通貨）相場はビットコインが下値支持線の25300ドルを下回り大幅下落。Crypto Fear & Greed Indexは3ヶ月ぶりに「恐怖」水準へ転落した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再ステーキング「EigenLayer」メインネット公開、ETHのリキッドステーキングに追加利回りの機会]]></title>
         <id>https://coinpost.jp/?p=467788</id>
