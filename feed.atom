@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-14T23:22:55.839Z</updated>
+    <updated>2023-06-15T01:50:46.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、SECによる分散型取引所規制案に異議]]></title>
+        <id>https://coinpost.jp/?p=467748</id>
+        <link href="https://coinpost.jp/?p=467748"/>
+        <updated>2023-06-15T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所コインベースは、米証券取引委員会に書簡を提出。分散型取引所を中央集権型取引所と同様に規制するSECの提案は、遵守不可能なものであるとして反対した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、一時2万5000ドルを下回る]]></title>
+        <id>https://www.coindeskjapan.com/?p=189692</id>
+        <link href="https://www.coindeskjapan.com/189692/"/>
+        <updated>2023-06-15T00:55:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は米東部時間14日、一時2万5000ドルを割った（日本時間15日9時時点では、2万5100ドル付近）。主要アルトコインも午後遅くに下落した ...
+ビットコイン、一時2万5000ドルを下回る first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米アップル社、ビットコインウォレット「Zeus」のアップデートを非承認]]></title>
+        <id>https://coinpost.jp/?p=467743</id>
+        <link href="https://coinpost.jp/?p=467743"/>
+        <updated>2023-06-15T00:40:51.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインのウォレットZeusの創設者は、Zeusの新しいヴァージョンが米アップル社に認可されなかったことを公表。アップル社の要求が明らかになっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SECとバイナンスUS、資産凍結を巡り協議を開始]]></title>
+        <id>https://coinpost.jp/?p=467730</id>
+        <link href="https://coinpost.jp/?p=467730"/>
+        <updated>2023-06-14T23:30:15.000Z</updated>
+        <summary type="html"><![CDATA[米SECと仮想通貨取引所バイナンスとバイナンスUSは、14日に調停会議に行なっていることがわかった。バイナンスUSの資産凍結について協議している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP、8%下落──ヒンマン文書での上昇分失う]]></title>
         <id>https://www.coindeskjapan.com/?p=189699</id>
