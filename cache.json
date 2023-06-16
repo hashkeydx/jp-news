@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=189696",
+          "author": "増田 隆幸",
+          "description": "ネイティブトークンを持ち、ブリッジとして機能するレイヤー2は、スケーリングソリューションとしてブロックチェーンの問題を解決することよりも、多くの問題をもたらすか ...\nビットコイン、レイヤー2不足は不幸中の幸い first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/189696/",
+          "publishedOn": "2023-06-16T22:30:00.000Z",
+          "wordCount": 917,
+          "title": "ビットコイン、レイヤー2不足は不幸中の幸い",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_2295095427.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=190091",
           "author": "Shaurya Malwa",
           "description": "世界最大の資産運用会社ブラックロック（BlackRock）によるアメリカでのビットコイン（BTC）ETF（上場投資信託）申請への期待が、6月16日の早い時間に市 ...\nブラックロックのビットコインETF申請でショートトレーダーは1600万ドル失う first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -410,16 +420,6 @@
           "wordCount": 1005,
           "title": "SEC、暗号資産に対する全面戦争──我々は何をなすべきか",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_758005396.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=189193",
-          "author": "Omkar Godbole",
-          "description": "Coinglassのデータによると、バイナンスコイン（BNB）のオープンインタレスト（BNBに結びついた未決済およびアクティブな先物契約の数）は上昇を続けている ...\nバイナンスコイン先物の建玉が年初来最高に──市場にショートが流入か first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/189193/",
-          "publishedOn": "2023-06-12T11:20:00.000Z",
-          "wordCount": 929,
-          "title": "バイナンスコイン先物の建玉が年初来最高に──市場にショートが流入か",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/05/shutterstock_1903290607-1-1.jpg"
         }
       ]
     },
@@ -434,6 +434,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=468122",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所バイナンスとCZ氏は、同社がフランスの規制当局から調査を受けているという報道にコメント。また、同社はオランダ市場から撤退することも発表している。",
+          "link": "https://coinpost.jp/?p=468122",
+          "publishedOn": "2023-06-16T23:00:20.000Z",
+          "wordCount": 2286,
+          "title": "バイナンス、仏規制機関の調査に関する報道に反論　オランダでは事業認可取得できず",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/binance-new-pic-2022.png"
+        },
         {
           "id": "https://coinpost.jp/?p=468000",
           "author": "AKIRA.H",

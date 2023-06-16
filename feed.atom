@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-16T22:24:42.193Z</updated>
+    <updated>2023-06-16T23:21:34.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、仏規制機関の調査に関する報道に反論　オランダでは事業認可取得できず]]></title>
+        <id>https://coinpost.jp/?p=468122</id>
+        <link href="https://coinpost.jp/?p=468122"/>
+        <updated>2023-06-16T23:00:20.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスとCZ氏は、同社がフランスの規制当局から調査を受けているという報道にコメント。また、同社はオランダ市場から撤退することも発表している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、レイヤー2不足は不幸中の幸い]]></title>
+        <id>https://www.coindeskjapan.com/?p=189696</id>
+        <link href="https://www.coindeskjapan.com/189696/"/>
+        <updated>2023-06-16T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ネイティブトークンを持ち、ブリッジとして機能するレイヤー2は、スケーリングソリューションとしてブロックチェーンの問題を解決することよりも、多くの問題をもたらすか ...
+ビットコイン、レイヤー2不足は不幸中の幸い first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックのビットコインETF申請でショートトレーダーは1600万ドル失う]]></title>
         <id>https://www.coindeskjapan.com/?p=190091</id>
@@ -854,17 +875,6 @@ NFTレンディングの人気が上昇中──プラットフォームのや�
 SEC、暗号資産に対する全面戦争──我々は何をなすべきか first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Michael J Casey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンスコイン先物の建玉が年初来最高に──市場にショートが流入か]]></title>
-        <id>https://www.coindeskjapan.com/?p=189193</id>
-        <link href="https://www.coindeskjapan.com/189193/"/>
-        <updated>2023-06-12T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinglassのデータによると、バイナンスコイン（BNB）のオープンインタレスト（BNBに結びついた未決済およびアクティブな先物契約の数）は上昇を続けている ...
-バイナンスコイン先物の建玉が年初来最高に──市場にショートが流入か first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
