@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-16T08:26:11.163Z</updated>
+    <updated>2023-06-16T09:21:53.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインチェック、DaiとMakerの取り扱い開始]]></title>
+        <id>https://www.coindeskjapan.com/?p=190030</id>
+        <link href="https://www.coindeskjapan.com/190030/"/>
+        <updated>2023-06-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所のコインチェックは6月16日、Dai（DAI）およびMaker（MKR）の取り扱いを6月20日から開始予定と発表した。 Dai（DAI）は、1 D ...
+コインチェック、DaiとMakerの取り扱い開始 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>yoshida izumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロンビア中銀、高額送金の実証実験にリップル社のプラットフォームを採用]]></title>
+        <id>https://coinpost.jp/?p=468000</id>
+        <link href="https://coinpost.jp/?p=468000"/>
+        <updated>2023-06-16T08:54:13.000Z</updated>
+        <summary type="html"><![CDATA[米リップル社は、コロンビア中央銀行と情報通信技術省と提携し、高額送金システムにおけるブロックチェーン技術の実証試験を進めることを公表した。リップル社のプラットフォーム「Ripple CBDC Platform」を活用する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Labs、ブロックチェーンのユースケースを集めたデータベース開設]]></title>
         <id>https://www.coindeskjapan.com/?p=189965</id>
@@ -960,17 +981,6 @@ bitbank、ザ・グラフ（GRT）の取り扱い開始 first appeared on CoinDe
 ブロックチェーン × 債券：スマート債券が資本市場の長年の課題を解決 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>山口 晶子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、生き残れるか？]]></title>
-        <id>https://www.coindeskjapan.com/?p=188838</id>
-        <link href="https://www.coindeskjapan.com/188838/"/>
-        <updated>2023-06-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）が世界最大の暗号資産（仮想通貨）取引所バイナンス（Binance）を提訴するというニュースが流れた後、チャンポン・ジャオ（Changp ...
-バイナンス、生き残れるか？ first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
