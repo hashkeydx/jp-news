@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-18T21:19:21.569Z</updated>
+    <updated>2023-06-18T22:24:18.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オフライン決済を含む30以上のCBDCユースケースのテストに成功──BISとイングランド銀行]]></title>
+        <id>https://www.coindeskjapan.com/?p=190122</id>
+        <link href="https://www.coindeskjapan.com/190122/"/>
+        <updated>2023-06-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[中央銀行等によるデジタル通貨の共同実験が行われ、金融当局と民間セクターを結びつけ、デジタル通貨の小売決済を促進する方法が検証された。 この実験では、世界の中央銀 ...
+オフライン決済を含む30以上のCBDCユースケースのテストに成功──BISとイングランド銀行 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Camomile Shumba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックのビットコインETF申請、これまでとの違い]]></title>
         <id>https://www.coindeskjapan.com/?p=190165</id>
@@ -604,16 +615,6 @@ XRP、8%下落──ヒンマン文書での上昇分失う first appeared on Co
 アナリストは「タカ派的な利上げ休止」を予想──ビットコインは弱気に傾く first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX Japan 最高執行責任者のセス・メラメド氏、WebX登壇へ]]></title>
-        <id>https://coinpost.jp/?p=467562</id>
-        <link href="https://coinpost.jp/?p=467562"/>
-        <updated>2023-06-14T09:34:28.000Z</updated>
-        <summary type="html"><![CDATA[FTX破綻後の対応はFTXJapan株式会社のセス・メラメド氏が、CoinPost主催の国際Web3カンファレンス「WebX」に登壇することが決まった。FTX破綻後の対応やFTXJPの今後についてインタビューを実施予定で、登壇日時などの詳細...]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
