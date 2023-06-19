@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=190313",
+          "author": "Will Canny",
+          "description": "米証券取引委員会（SEC）のリップルに対する訴訟で「ヒンマン文書」が公開されたことは、イーサリアム（ETH）を後押しし、暗号資産（仮想通貨）市場でより分散化する ...\n主要暗号通貨はイーサリアムを目指す：JPモルガン first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/190313/",
+          "publishedOn": "2023-06-19T22:00:00.000Z",
+          "wordCount": 904,
+          "title": "主要暗号通貨はイーサリアムを目指す：JPモルガン",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/willamhinman.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=190286",
+          "author": "山口 晶子",
+          "description": "アメリカにおける暗号資産（仮想通貨）規制と弱気相場の復活をめぐる不安のなか、大手国際投資銀行のデジタル資産チームからのEメールは、私に逆張り的な指標と、業界をア ...\n「暗号資産の冬」もどこ吹く風：機関投資家の見解は予想以上に明るい first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/190286/",
+          "publishedOn": "2023-06-19T21:30:00.000Z",
+          "wordCount": 933,
+          "title": "「暗号資産の冬」もどこ吹く風：機関投資家の見解は予想以上に明るい",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_2298871557.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=190282",
           "author": "George Kaloudis",
           "description": "世界最大の資産運用会社ブラックロック（BlackRock）が暗号資産（仮想通貨）取引サービスを計画していると初めて報じられたのは2022年2月のこと。そして先週 ...\nブラックロックのビットコインETF申請は一大事 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -294,6 +314,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=468397",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所バイナンスのエコシステムで稼働するBNBチェーンは、EVM互換の新たなL2「opBNB」のテストネットを同日にローンチすると発表。opBNBの特徴や今後の計画が明らかになった。",
+          "link": "https://coinpost.jp/?p=468397",
+          "publishedOn": "2023-06-19T22:05:38.000Z",
+          "wordCount": 2214,
+          "title": "BNBチェーン、EVM互換のL2「opBNB」のテストネットをローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/BNB-Chain-opBMB.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/BNB-Chain-opBMB.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=468355",
           "author": "CoinPost編集部",
@@ -608,21 +643,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/new-morning-market-.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/new-morning-market-.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=467858",
-          "author": "CoinPost編集部",
-          "description": "国際Web3カンファレンス「WebX」にて、経済産業大臣、文部科学大臣などを歴任した自由⺠の萩生田光一 主党政務調査会⻑の登壇が決定した。岸田総理もビデオ登壇する。",
-          "link": "https://coinpost.jp/?p=467858",
-          "publishedOn": "2023-06-15T09:23:06.000Z",
-          "wordCount": 2231,
-          "title": "Web3カンファレンス「WebX」、自由⺠の萩生田光一政調会長が登壇へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/koichi_hagiuda.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/koichi_hagiuda.png"
         }
       ]
     }

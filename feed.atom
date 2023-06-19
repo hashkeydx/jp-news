@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-19T21:20:29.254Z</updated>
+    <updated>2023-06-19T22:25:20.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BNBチェーン、EVM互換のL2「opBNB」のテストネットをローンチ]]></title>
+        <id>https://coinpost.jp/?p=468397</id>
+        <link href="https://coinpost.jp/?p=468397"/>
+        <updated>2023-06-19T22:05:38.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスのエコシステムで稼働するBNBチェーンは、EVM互換の新たなL2「opBNB」のテストネットを同日にローンチすると発表。opBNBの特徴や今後の計画が明らかになった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主要暗号通貨はイーサリアムを目指す：JPモルガン]]></title>
+        <id>https://www.coindeskjapan.com/?p=190313</id>
+        <link href="https://www.coindeskjapan.com/190313/"/>
+        <updated>2023-06-19T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）のリップルに対する訴訟で「ヒンマン文書」が公開されたことは、イーサリアム（ETH）を後押しし、暗号資産（仮想通貨）市場でより分散化する ...
+主要暗号通貨はイーサリアムを目指す：JPモルガン first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「暗号資産の冬」もどこ吹く風：機関投資家の見解は予想以上に明るい]]></title>
+        <id>https://www.coindeskjapan.com/?p=190286</id>
+        <link href="https://www.coindeskjapan.com/190286/"/>
+        <updated>2023-06-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカにおける暗号資産（仮想通貨）規制と弱気相場の復活をめぐる不安のなか、大手国際投資銀行のデジタル資産チームからのEメールは、私に逆張り的な指標と、業界をア ...
+「暗号資産の冬」もどこ吹く風：機関投資家の見解は予想以上に明るい first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックのビットコインETF申請は一大事]]></title>
         <id>https://www.coindeskjapan.com/?p=190282</id>
@@ -511,16 +543,6 @@ Polygon Labs、ブロックチェーンのユースケースを集めたデー�
 XRP、ADAが主要暗号資産の下落をリード first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3カンファレンス「WebX」、自由⺠の萩生田光一政調会長が登壇へ]]></title>
-        <id>https://coinpost.jp/?p=467858</id>
-        <link href="https://coinpost.jp/?p=467858"/>
-        <updated>2023-06-15T09:23:06.000Z</updated>
-        <summary type="html"><![CDATA[国際Web3カンファレンス「WebX」にて、経済産業大臣、文部科学大臣などを歴任した自由⺠の萩生田光一 主党政務調査会⻑の登壇が決定した。岸田総理もビデオ登壇する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
