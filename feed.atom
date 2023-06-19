@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-19T22:25:20.470Z</updated>
+    <updated>2023-06-19T23:22:29.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バフェット氏率いるバークシャー　日本5大商社の株式保有比率を増やす]]></title>
+        <id>https://coinpost.jp/?p=468401</id>
+        <link href="https://coinpost.jp/?p=468401"/>
+        <updated>2023-06-19T22:55:34.000Z</updated>
+        <summary type="html"><![CDATA[著名投資家ウォーレン・バフェット氏が率いる米大手投資会社バークシャー・ハサウェイは19日、日本の5大商社の持ち株比率を引き上げたことを明かした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[規制の不確実性がブロックチェーン技術の発展を妨げる： バンク・オブ・アメリカ]]></title>
+        <id>https://www.coindeskjapan.com/?p=190360</id>
+        <link href="https://www.coindeskjapan.com/190360/"/>
+        <updated>2023-06-19T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[リスク資産の上昇は続いているが、暗号資産（仮想通貨）は年初から52%上昇した後、5月初めからナスダック指数を24%アンダーパフォームしていると、バンク・オブ・ア ...
+規制の不確実性がブロックチェーン技術の発展を妨げる： バンク・オブ・アメリカ first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>inoue</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNBチェーン、EVM互換のL2「opBNB」のテストネットをローンチ]]></title>
         <id>https://coinpost.jp/?p=468397</id>
@@ -532,17 +553,6 @@ Polygon Labs、ブロックチェーンのユースケースを集めたデー�
 ビットコインマイナー、将来は自らの手で切り拓く first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Sam Tabar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP、ADAが主要暗号資産の下落をリード]]></title>
-        <id>https://www.coindeskjapan.com/?p=189862</id>
-        <link href="https://www.coindeskjapan.com/189862/"/>
-        <updated>2023-06-15T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が2万5000ドルを割り込み、エックス・アール・ピー（XRP）とカルダノ（ADA）は24時間の下落幅を7.4％まで拡大させるなど、暗号資産 ...
-XRP、ADAが主要暗号資産の下落をリード first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
