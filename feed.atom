@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-19T11:19:52.180Z</updated>
+    <updated>2023-06-19T12:43:48.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[zkSync Eraにロックされたバリューは5億ドルを突破──1週間で12%増加]]></title>
+        <id>https://www.coindeskjapan.com/?p=190332</id>
+        <link href="https://www.coindeskjapan.com/190332/"/>
+        <updated>2023-06-19T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[マターラボ（Matter Labs）のzkSync Eraは、イーサリアムのスケーリングを目的としたゼロ知識（ZK）ロールアップで、活発なペースで資本を集め続け ...
+zkSync Eraにロックされたバリューは5億ドルを突破──1週間で12%増加 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKCoinJapan、ファイルコイン（FIL）を国内初上場へ]]></title>
         <id>https://coinpost.jp/?p=468355</id>
@@ -613,26 +624,6 @@ XRP、ADAが主要暗号資産の下落をリード first appeared on CoinDesk J
 ビットコイン、一時2万5000ドルを下回る first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米アップル社、ビットコインウォレット「Zeus」のアップデートを非承認]]></title>
-        <id>https://coinpost.jp/?p=467743</id>
-        <link href="https://coinpost.jp/?p=467743"/>
-        <updated>2023-06-15T00:40:51.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインのウォレットZeusの創設者は、Zeusの新しいヴァージョンが米アップル社に認可されなかったことを公表。アップル社の要求が明らかになっている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SECとバイナンスUS、資産凍結を巡り協議を開始]]></title>
-        <id>https://coinpost.jp/?p=467730</id>
-        <link href="https://coinpost.jp/?p=467730"/>
-        <updated>2023-06-14T23:30:15.000Z</updated>
-        <summary type="html"><![CDATA[米SECと仮想通貨取引所バイナンスとバイナンスUSは、14日に調停会議に行なっていることがわかった。バイナンスUSの資産凍結について協議している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
