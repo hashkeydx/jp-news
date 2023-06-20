@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-20T03:22:57.002Z</updated>
+    <updated>2023-06-20T04:26:24.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sui、日本で開発者・起業家イベント開催へ]]></title>
+        <id>https://coinpost.jp/?p=468427</id>
+        <link href="https://coinpost.jp/?p=468427"/>
+        <updated>2023-06-20T04:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Meta（旧Facebook）のブロックチェーン研究開発組織の元幹部らが立ち上げたミステンラボが開発を主導するSui（スイ）が、日本で開発者・起業家向けイベントを開催する。]]></summary>
+        <author>
+            <name>COINPOST</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン反転攻勢、ドミナンスは2年ぶり水準の50%上回る]]></title>
+        <id>https://coinpost.jp/?p=468426</id>
+        <link href="https://coinpost.jp/?p=468426"/>
+        <updated>2023-06-20T03:22:30.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場では最大手資産運用会社ブラックロックのビットコインETF申請が材料視されBTCが急反発。BTCドミナンスは21年5月以来、約2年ぶりに50%超に達した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引プラットフォームINX、資産トークン化でRepublicと提携]]></title>
         <id>https://coinpost.jp/?p=468448</id>
