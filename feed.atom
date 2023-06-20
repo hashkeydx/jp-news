@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-20T01:47:06.799Z</updated>
+    <updated>2023-06-20T02:42:28.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sui、バグを発見したセキュリティ企業に50万ドルを付与──メインネット稼働前に対策]]></title>
+        <id>https://www.coindeskjapan.com/?p=190424</id>
+        <link href="https://www.coindeskjapan.com/190424/"/>
+        <updated>2023-06-20T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Sui財団（Sui Foundation）は、スマートコントラクト監査会社CertiKに報奨金50万ドル（約7000万円）を付与した。CertiKは、Suiネッ ...
+Sui、バグを発見したセキュリティ企業に50万ドルを付与──メインネット稼働前に対策 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>石崎</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[32ETHから2,048ETHへ　イーサリアムの改善案、最大ステーキング量引き上げでネットワーク効率向上目指す]]></title>
+        <id>https://coinpost.jp/?p=468424</id>
+        <link href="https://coinpost.jp/?p=468424"/>
+        <updated>2023-06-20T02:15:53.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーンのコア開発者会議で、ETHバリデーターが保有可能な最大ステーキング量を引き上げるという新たな提案について議論された。イーサリアムネットワーク全体に様々なメリットがもたらされると主張されている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF、新たな多国間決済システムの構想を発表]]></title>
+        <id>https://coinpost.jp/?p=468416</id>
+        <link href="https://coinpost.jp/?p=468416"/>
+        <updated>2023-06-20T01:45:47.000Z</updated>
+        <summary type="html"><![CDATA[国際通貨基金は新たな国際決済システム「XCプラットフォーム」の構想を発表した。CBDC導入の有無にかかわらず、各国が多国間決済を円滑で利便性が高いものにできるシステムである。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム開発者ら、バリデーターの条件引き上げを提案──32ETHから64倍の2048ETHに]]></title>
         <id>https://www.coindeskjapan.com/?p=190414</id>

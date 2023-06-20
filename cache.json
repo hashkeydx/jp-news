@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=190424",
+          "author": "石崎",
+          "description": "Sui財団（Sui Foundation）は、スマートコントラクト監査会社CertiKに報奨金50万ドル（約7000万円）を付与した。CertiKは、Suiネッ ...\nSui、バグを発見したセキュリティ企業に50万ドルを付与──メインネット稼働前に対策 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/190424/",
+          "publishedOn": "2023-06-20T02:30:00.000Z",
+          "wordCount": 931,
+          "title": "Sui、バグを発見したセキュリティ企業に50万ドルを付与──メインネット稼働前に対策",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/TV53FNFGR5B7VOKJCF37NRIYJQ.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=190414",
           "author": "増田 隆幸",
           "description": "イーサリアムブロックチェーンのバリデーターになることへの関心が高まり、設定までの待ち時間が長くなっていることから、開発者らは現在の条件を大幅に引き上げることを検 ...\nイーサリアム開発者ら、バリデーターの条件引き上げを提案──32ETHから64倍の2048ETHに first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -344,6 +354,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=468424",
+          "author": "AKIRA.H",
+          "description": "イーサリアムブロックチェーンのコア開発者会議で、ETHバリデーターが保有可能な最大ステーキング量を引き上げるという新たな提案について議論された。イーサリアムネットワーク全体に様々なメリットがもたらされると主張されている。",
+          "link": "https://coinpost.jp/?p=468424",
+          "publishedOn": "2023-06-20T02:15:53.000Z",
+          "wordCount": 2176,
+          "title": "32ETHから2,048ETHへ　イーサリアムの改善案、最大ステーキング量引き上げでネットワーク効率向上目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/pos-dev.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/pos-dev.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=468416",
+          "author": "A.Yamada",
+          "description": "国際通貨基金は新たな国際決済システム「XCプラットフォーム」の構想を発表した。CBDC導入の有無にかかわらず、各国が多国間決済を円滑で利便性が高いものにできるシステムである。",
+          "link": "https://coinpost.jp/?p=468416",
+          "publishedOn": "2023-06-20T01:45:47.000Z",
+          "wordCount": 2167,
+          "title": "IMF、新たな多国間決済システムの構想を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/imf-new-cross-border.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/imf-new-cross-border.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=468412",
           "author": "K.Kobayashi",
