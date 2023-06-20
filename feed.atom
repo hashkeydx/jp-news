@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-20T08:26:39.152Z</updated>
+    <updated>2023-06-20T09:22:02.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインチェック、OMG Network（OMG）を上場廃止へ]]></title>
+        <id>https://coinpost.jp/?p=468542</id>
+        <link href="https://coinpost.jp/?p=468542"/>
+        <updated>2023-06-20T08:42:33.000Z</updated>
+        <summary type="html"><![CDATA[マネックスグループ傘下の国内大手暗号資産（仮想通貨）取引所コインチェックは20日、OMG Network（OMG）の取扱廃止を発表した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sui、日本で開発者・起業家イベント開催へ]]></title>
         <id>https://coinpost.jp/?p=468427</id>
@@ -646,17 +656,6 @@ Polygon Labs、ブロックチェーンのユースケースを集めたデー�
 ビットコインの半減期、前例は判断基準にならない：コインベース first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインマイナー、将来は自らの手で切り拓く]]></title>
-        <id>https://www.coindeskjapan.com/?p=182860</id>
-        <link href="https://www.coindeskjapan.com/182860/"/>
-        <updated>2023-06-15T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）マイニング難易度がまだ数十億という数値で（現在は約50兆）、これからマイニングできるビットコインが流通している数と同じくらい残っていて、身 ...
-ビットコインマイナー、将来は自らの手で切り拓く first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Sam Tabar</name>
         </author>
     </entry>
 </feed>
