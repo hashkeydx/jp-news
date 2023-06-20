@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-20T02:42:28.548Z</updated>
+    <updated>2023-06-20T03:22:57.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引プラットフォームINX、資産トークン化でRepublicと提携]]></title>
+        <id>https://coinpost.jp/?p=468448</id>
+        <link href="https://coinpost.jp/?p=468448"/>
+        <updated>2023-06-20T03:05:33.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引プラットフォームを提供するINXに、金融会社Republicが7億円超出資する。両者は提携してブロックチェーンベースのインフラを構築しトークン化資産の市場を後押ししていく。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sui、バグを発見したセキュリティ企業に50万ドルを付与──メインネット稼働前に対策]]></title>
         <id>https://www.coindeskjapan.com/?p=190424</id>
