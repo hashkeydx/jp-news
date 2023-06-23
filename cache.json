@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=190868",
+          "author": "yoshida izumi",
+          "description": "ゲーム特化型ブロックチェーンOasysは6月23日、NTTドコモの子会社である新領域企画準備株式会社が、新たにOasysのバリデータとして参画すると発表した。  ...\nOasysにNTTドコモ子会社がバリデータとして参画 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/190868/",
+          "publishedOn": "2023-06-23T01:45:00.000Z",
+          "wordCount": 825,
+          "title": "OasysにNTTドコモ子会社がバリデータとして参画",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/20230623-oasys-nttdocomo.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=190836",
           "author": "Ian Allison",
           "description": "クレジットカード会社のマスターカード（Mastercard）は、暗号資産（仮想通貨）カードプログラムの市場投入を支援するため、潜在的なカード発行者と適切な技術的 ...\nマスターカード、エンゲージプログラムを暗号資産にフォーカス first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -414,6 +424,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=469125",
+          "author": "AKIRA.H",
+          "description": "自民党員になることで取得できるデジタル会員証「SBTの配布が期間限定で開始された。「タイラくん SBT」は、自民党Web3プロジェクトチーム座長の平将明衆議院議員の応援団会員証として機能する。",
+          "link": "https://coinpost.jp/?p=469125",
+          "publishedOn": "2023-06-23T01:15:38.000Z",
+          "wordCount": 2181,
+          "title": "日本初の試み、自民党の平将明議員　党員への会員証「タイラくん SBT」配布開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/SBT_0623.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/SBT_0623.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=469106",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムのL2アービトラムを開発するOffchain Labsは、開発者向けのツールをリリース。開発者はこのツールを利用することで、これまでよりも容易にOrbitチェーンを作れるようになる。",
+          "link": "https://coinpost.jp/?p=469106",
+          "publishedOn": "2023-06-23T01:00:45.000Z",
+          "wordCount": 2236,
+          "title": "イーサリアムL2「Arbitrum」、Orbitチェーンの開発者向けツールをリリース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Arbitrum-Orbit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Arbitrum-Orbit.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=469115",
+          "author": "A.Yamada",
+          "description": "米国ネバダ州金融機関局は、仮想通貨カストディ企業Prime Trustの財政状況が悪化しているとして停止命令を出した。複数企業が、出金停止の影響を受けて対応を進めている。",
+          "link": "https://coinpost.jp/?p=469115",
+          "publishedOn": "2023-06-23T00:40:56.000Z",
+          "wordCount": 2233,
+          "title": "米カストディ企業Prime Trustに停止命令　出金対応できず",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/fed-now-released.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/fed-now-released.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=469090",
+          "author": "K.Kobayashi",
+          "description": "大手金融企業CACEISの銀行部門が、フランスでデジタル資産のカストディサービスを提供するために規制機関に登録。仮想通貨を含めたサービスを提供するとみられる。",
+          "link": "https://coinpost.jp/?p=469090",
+          "publishedOn": "2023-06-22T23:30:46.000Z",
+          "wordCount": 2180,
+          "title": "大手金融企業CACEIS、仮想通貨のカストディサービスをフランスで提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/france-new-regu-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/france-new-regu-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=469012",
           "author": "菊谷ルイス",
