@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-24T04:30:07.380Z</updated>
+    <updated>2023-06-24T05:27:16.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロック社手掛けるライトニング開発キット（LDK）が進化、ノード運用効率化へ]]></title>
+        <id>https://coinpost.jp/?p=469322</id>
+        <link href="https://coinpost.jp/?p=469322"/>
+        <updated>2023-06-24T04:35:07.000Z</updated>
+        <summary type="html"><![CDATA[ライトニングネットワークの開発者向けキットLightning Dev Kitに、新たなソフトウェアライブラリ「LDK Node」が導入された。LDKの開発は、米国の大手決済企業であるブロック社（旧スクエア）の仮想通貨部門スパイラルが手掛けている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米最高裁、コインベースに対する集団訴訟2件を却下]]></title>
         <id>https://coinpost.jp/?p=469315</id>
