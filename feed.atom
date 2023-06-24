@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-23T23:24:37.088Z</updated>
+    <updated>2023-06-24T02:02:35.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインキャッシュ、4カ月ぶりの高値──EDX Markets上場が後押し]]></title>
+        <id>https://www.coindeskjapan.com/?p=191042</id>
+        <link href="https://www.coindeskjapan.com/191042/"/>
+        <updated>2023-06-24T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインキャッシュ（BCH）は、フィデリティ、シュワブ、シタデルが支援する暗号資産（仮想通貨）取引所EDX Marketsが20日にスタートし、ビットコイン ...
+ビットコインキャッシュ、4カ月ぶりの高値──EDX Markets上場が後押し first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matter Labsが示す「ZK信条」、ゼロ知識証明の新たなビジョン]]></title>
+        <id>https://coinpost.jp/?p=469309</id>
+        <link href="https://coinpost.jp/?p=469309"/>
+        <updated>2023-06-24T01:28:07.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのレイヤー2スケーリングソリューションzkSyncの開発を手掛けるMatter Labsは23日、「ZKクレド（信条）」と名付けた新たなビジョンを公開した。ゼロ知識証明技術がWeb3における分散化、プライバシー、とセキュリティをいかに促進するかを示した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガン、デジタル通貨「JPMコイン」でユーロ建て取引開始]]></title>
+        <id>https://coinpost.jp/?p=469301</id>
+        <link href="https://coinpost.jp/?p=469301"/>
+        <updated>2023-06-24T00:50:43.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンは、ブロックチェーンベースの独自デジタル通貨「JPMコイン」で企業顧客向けのユーロ建て取引を開始した。JPモルガンは仮想通貨に関する取り組みも行っているところだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QCPキャピタルとSBIアルファ・トレーディング、ビットコインを担保にした非清算取引]]></title>
+        <id>https://www.coindeskjapan.com/?p=190902</id>
+        <link href="https://www.coindeskjapan.com/190902/"/>
+        <updated>2023-06-24T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[シンガポールのQCPキャピタル（QCP Capital）と日本のSBIアルファ・トレーディングは22日、清算機関を介さずに規制されたプラットフォームで暗号資産（ ...
+QCPキャピタルとSBIアルファ・トレーディング、ビットコインを担保にした非清算取引 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電力コストが低く、持続可能な構成のマイナーだけが生き残る：JPモルガン]]></title>
+        <id>https://www.coindeskjapan.com/?p=190981</id>
+        <link href="https://www.coindeskjapan.com/190981/"/>
+        <updated>2023-06-23T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[電気代が安く、持続可能なエネルギーミックスの高いビットコイン（BTC）マイナーが、競争の激化する環境下で生き残る可能性が高い唯一の事業者だとJPモルガン（JPM ...
+電力コストが低く、持続可能な構成のマイナーだけが生き残る：JPモルガン first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC初承認　レバレッジ型ビットコイン先物ETF]]></title>
         <id>https://coinpost.jp/?p=469285</id>
@@ -904,17 +957,6 @@ Sui、バグを発見したセキュリティ企業に50万ドルを付与──
 ブラックロックのビットコインETF申請は一大事 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>George Kaloudis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync Eraにロックされたバリューは5億ドルを突破──1週間で12%増加]]></title>
-        <id>https://www.coindeskjapan.com/?p=190332</id>
-        <link href="https://www.coindeskjapan.com/190332/"/>
-        <updated>2023-06-19T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[マターラボ（Matter Labs）のzkSync Eraは、イーサリアムのスケーリングを目的としたゼロ知識（ZK）ロールアップで、活発なペースで資本を集め続け ...
-zkSync Eraにロックされたバリューは5億ドルを突破──1週間で12%増加 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
