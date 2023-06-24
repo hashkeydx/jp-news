@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-24T03:35:07.134Z</updated>
+    <updated>2023-06-24T04:30:07.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米最高裁、コインベースに対する集団訴訟2件を却下]]></title>
+        <id>https://coinpost.jp/?p=469315</id>
+        <link href="https://coinpost.jp/?p=469315"/>
+        <updated>2023-06-24T03:30:20.000Z</updated>
+        <summary type="html"><![CDATA[米国の最高裁判所は、大手仮想通貨取引所コインベースに対する2件の集団訴訟を却下した。今後、これらの件は法廷ではなく民間仲裁の形で進められることになる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベースは「スーパーアプリ」になる：アームストロングCEO]]></title>
         <id>https://www.coindeskjapan.com/?p=190900</id>
