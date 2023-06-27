@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-27T11:21:45.999Z</updated>
+    <updated>2023-06-27T12:49:10.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クジラの動きで、BTCとETHのボラティリティ指標が異例の状態に]]></title>
+        <id>https://www.coindeskjapan.com/?p=191461</id>
+        <link href="https://www.coindeskjapan.com/191461/"/>
+        <updated>2023-06-27T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[23億ドル（約3306億円）相当のイーサリアム（ETH）絡みのオプション契約が、6月30日に大手暗号資産（仮想通貨）デリバティブ取引所のデリビット（Deribi ...
+クジラの動きで、BTCとETHのボラティリティ指標が異例の状態に first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3企業のパイオニア、Consensysが初のリブランディングへ]]></title>
+        <id>https://coinpost.jp/?p=469629</id>
+        <link href="https://coinpost.jp/?p=469629"/>
+        <updated>2023-06-27T12:01:33.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ウォレット「メタマスク」など手掛ける、米国のWeb3開発企業コンセンシスが、Web3と暗号資産エコシステムに対する一般人の認識度や理解度、それらが国によってどのように異なるのかを探求する調査結果を公開した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「6人の侍」がテラ・クラシックのリバイバル計画]]></title>
         <id>https://www.coindeskjapan.com/?p=191414</id>
@@ -737,26 +758,6 @@ OasysにNTTドコモ子会社がバリデータとして参画 first appeared on
         <link href="https://coinpost.jp/?p=469106"/>
         <updated>2023-06-23T01:00:45.000Z</updated>
         <summary type="html"><![CDATA[仮想通貨イーサリアムのL2アービトラムを開発するOffchain Labsは、開発者向けのツールをリリース。開発者はこのツールを利用することで、これまでよりも容易にOrbitチェーンを作れるようになる。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米カストディ企業Prime Trustに停止命令　出金対応できず]]></title>
-        <id>https://coinpost.jp/?p=469115</id>
-        <link href="https://coinpost.jp/?p=469115"/>
-        <updated>2023-06-23T00:40:56.000Z</updated>
-        <summary type="html"><![CDATA[米国ネバダ州金融機関局は、仮想通貨カストディ企業Prime Trustの財政状況が悪化しているとして停止命令を出した。複数企業が、出金停止の影響を受けて対応を進めている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大手金融企業CACEIS、仮想通貨のカストディサービスをフランスで提供へ]]></title>
-        <id>https://coinpost.jp/?p=469090</id>
-        <link href="https://coinpost.jp/?p=469090"/>
-        <updated>2023-06-22T23:30:46.000Z</updated>
-        <summary type="html"><![CDATA[大手金融企業CACEISの銀行部門が、フランスでデジタル資産のカストディサービスを提供するために規制機関に登録。仮想通貨を含めたサービスを提供するとみられる。]]></summary>
         <author>
             <name>K.Kobayashi</name>
         </author>
