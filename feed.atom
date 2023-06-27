@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-27T22:28:13.297Z</updated>
+    <updated>2023-06-27T23:24:29.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジャック・ドーシー氏、アップルペイのビットコイン対応をティム・クックCEOに要求]]></title>
+        <id>https://coinpost.jp/?p=469798</id>
+        <link href="https://coinpost.jp/?p=469798"/>
+        <updated>2023-06-27T22:50:49.000Z</updated>
+        <summary type="html"><![CDATA[ジャック・ドーシー氏は、アップル社のティム・クックCEOに対し、なぜアップルペイは仮想通貨ビットコインに対応しないのかと訴えた。背景には、分散型SNSアプリDamusに対するアップル社の対応がある。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインキャッシュ、1週間で価格が2倍に]]></title>
+        <id>https://www.coindeskjapan.com/?p=191467</id>
+        <link href="https://www.coindeskjapan.com/191467/"/>
+        <updated>2023-06-27T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインキャッシュ（Bitcoin Cash、BCH）を追跡する先物の建玉は、このビットコインから分派したネットワークが活動と価値の復活を見せているため、2 ...
+ビットコインキャッシュ、1週間で価格が2倍に first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米フィデリティが現物型ビットコインETF申請へ　Sui財団がステーキング報酬の売却を否定｜28日朝の重要速報まとめ]]></title>
         <id>https://coinpost.jp/?p=469702</id>
@@ -658,17 +679,6 @@ QCPキャピタルとSBIアルファ・トレーディング、ビットコイ�
         <summary type="html"><![CDATA[米Volatility Sharesは米時間23日、申請したレバレッジビットコイン先物ETF「BITX」がSECに承認されたと発表した。また、ベルギーの金融サービス機構はバイナンスに対し、同国内での仮想通貨サービスの提供を直ちに停止するよう命じた。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの上昇は一時停止──Greed & Fear指数が90%超]]></title>
-        <id>https://www.coindeskjapan.com/?p=190962</id>
-        <link href="https://www.coindeskjapan.com/190962/"/>
-        <updated>2023-06-23T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は6月15日から20％以上の価格上昇を記録した。この高揚した上昇相場は今、お決まりのように一息つくかもしれない。 これは、暗号資産（仮想通 ...
-ビットコインの上昇は一時停止──Greed & Fear指数が90%超 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
