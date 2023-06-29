@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-06-29T03:00:51.543Z</updated>
+    <updated>2023-06-29T03:32:30.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CBDCとDeFi環境の融合　国際決済銀行が外国為替市場の効率化を検証]]></title>
+        <id>https://coinpost.jp/?p=470108</id>
+        <link href="https://coinpost.jp/?p=470108"/>
+        <updated>2023-06-29T03:00:14.000Z</updated>
+        <summary type="html"><![CDATA[国際決済銀行トークン化されたホールセール中央銀行デジタル通貨（wCBDC）を活用した外国為替市場の発展可能性を模索する共同プロジェクトの中間報告書を公開。Curve Financeの技術を採用することがわかった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧州中銀、デジタルユーロの法案を協議へ]]></title>
         <id>https://coinpost.jp/?p=470098</id>
