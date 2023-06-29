@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=191721",
+          "author": "増田 隆幸",
+          "description": "マスターカード（Mastercard）は「マルチトークン・ネットワーク（Multi-Token Network：MTN）」と名付けたテスト環境を立ち上げた。銀行 ...\nマスターカード、銀行預金のトークン化をテスト──今夏、イギリスでベータ版を展開予定 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/191721/",
+          "publishedOn": "2023-06-29T01:55:00.000Z",
+          "wordCount": 934,
+          "title": "マスターカード、銀行預金のトークン化をテスト──今夏、イギリスでベータ版を展開予定",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/BFGZGVLVG5HP5KQQSO3P6I7C7E.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=191700",
+          "author": "増田 隆幸",
+          "description": "ビットコイン（BTC）は28日、3万ドルを割ったことで、午後にはアルトコインも下落した。 CoinDesk Indicesのデータによると、ビットコインは一時2 ...\nビットコインは一時3万ドル割れ──だがアルトコイン下落でドミナンスは26カ月ぶりの高水準 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/191700/",
+          "publishedOn": "2023-06-29T00:30:00.000Z",
+          "wordCount": 990,
+          "title": "ビットコインは一時3万ドル割れ──だがアルトコイン下落でドミナンスは26カ月ぶりの高水準",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/coindesk-BTC-chart-2023-06-29.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=191661",
           "author": "長谷川友哉／bitbankマーケット・アナリスト",
           "description": "6月のビットコイン（BTC）対ドルは、中旬から堅調な推移となり、2カ月ぶりに3万ドル台を回復している。 5月末の米債務上限問題解消で28,000ドルを回復したビ ...\n年初来高値を更新したビットコイン──TradFi参入の波で期待が先行し過ぎか？【bitbank月次レポート】 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -414,6 +434,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=470083",
+          "author": "A.Yamada",
+          "description": "投資顧問会社Superstateは、トークン化された国債ファンドを立ち上げる目論見書を米SECに提出した。株主がイーサリアムなど仮想通貨のブロックチェーン上で所有権を保持できるものだ。",
+          "link": "https://coinpost.jp/?p=470083",
+          "publishedOn": "2023-06-29T01:25:39.000Z",
+          "wordCount": 2215,
+          "title": "Compound Labsの創設者、米国債トークン化ファンドを計画",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/bond-compound.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/bond-compound.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=470078",
+          "author": "K.Kobayashi",
+          "description": "破産した仮想通貨取引所FTXは、グローバル取引所の再開に向けて、投資家と話し合いを開始したことがわかった。今後の計画について情報が一部、明らかになっている。",
+          "link": "https://coinpost.jp/?p=470078",
+          "publishedOn": "2023-06-29T00:45:51.000Z",
+          "wordCount": 2184,
+          "title": "FTX、仮想通貨取引所の再開に向けて投資家と協議を開始＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/ftx-delist.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/ftx-delist.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=470060",
+          "author": "K.Kobayashi",
+          "description": "ゲーム特化型ブロックチェーンのOasysは、世界遺産の京都二条城でOasys Special Eventを開催。UbisoftのOasys採用など、合計13社から発表が行われた。",
+          "link": "https://coinpost.jp/?p=470060",
+          "publishedOn": "2023-06-28T23:30:40.000Z",
+          "wordCount": 2218,
+          "title": "UbisoftのOasys採用などを発表　世界遺産「京都二条城」でBCGイベント開催",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Oasys-Special-Event-main.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Oasys-Special-Event-main.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=469706",
+          "author": "菊谷ルイス",
+          "description": "本日のNYダウは−74.ドルと小幅安。ナスダックは+36ドルで取引を終えた。パウエル米FRB議長がECBフォーラムであと2回の利上げの可能性を排除しないとの姿勢を示したが、2週間前のFOMC後にも同様の発言をしていたため、米株式市場のネガティブ反応は限定的だった。",
+          "link": "https://coinpost.jp/?p=469706",
+          "publishedOn": "2023-06-28T23:10:02.000Z",
+          "wordCount": 2214,
+          "title": "米アップルが高値更新続ける　米半導体の対中輸出制限強化でAI関連銘柄に影響｜29日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/new-morning-market-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/new-morning-market-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=470059",
           "author": "菊谷ルイス",
