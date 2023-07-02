@@ -390,36 +390,6 @@
           "wordCount": 962,
           "title": "ビットコインキャッシュ、1週間で価格が2倍に",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/bch-710x458-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=191445",
-          "author": "Helene Braun",
-          "description": "暗号資産のカストディ（管理・保管）サービスなどを手がけるファイアブロックス（Fireblocks）は、クラウドサービスのAmazon Web Services（ ...\n暗号資産インフラのファイアブロックス、AWSやGoogle Cloudなどのサポートを開始 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/191445/",
-          "publishedOn": "2023-06-27T22:00:00.000Z",
-          "wordCount": 958,
-          "title": "暗号資産インフラのファイアブロックス、AWSやGoogle Cloudなどのサポートを開始",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/Fireblocks.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=191506",
-          "author": "増田 隆幸",
-          "description": "ビットコイン（BTC）は、資産運用大手のフィデリティ（Fidelity）が早ければ27日にビットコインETF（上場投資信託）を申請する準備を進めているとWebメ ...\nビットコイン、一時3万1000ドル──フィデリティがビットコインETF申請との報道で first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/191506/",
-          "publishedOn": "2023-06-27T21:45:00.000Z",
-          "wordCount": 916,
-          "title": "ビットコイン、一時3万1000ドル──フィデリティがビットコインETF申請との報道で",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/coindesk-BTC-chart-2023-06-28.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=190911",
-          "author": "Eric Ervin",
-          "description": "私たちは、暗号資産（仮想通貨）の歴史を作り続けている。規制当局は最近、暗号資産分野において大きな動きを積極的に進めている。最近の進展は全体として、暗号資産の未来 ...\n激動の暗号資産、賢く投資するために必要なこと first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/190911/",
-          "publishedOn": "2023-06-27T21:30:00.000Z",
-          "wordCount": 1030,
-          "title": "激動の暗号資産、賢く投資するために必要なこと",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_1554835973.jpg"
         }
       ]
     },
@@ -434,6 +404,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=468287",
+          "author": "CoinPost編集部",
+          "description": "PBR（株価純資産倍率）とは「株価÷1株当たりの純資産（BPS）」により算出される株価指標です。企業の株価が割安か割高かを判断できます。株式投資では、PBRなどの株価指標を活用することが非常に大事です。本記事ではPBRの概要や、株式投資にどのように活かすか、よく比較される株価指標のPERとの違いについても解説します。",
+          "link": "https://coinpost.jp/?p=468287",
+          "publishedOn": "2023-07-02T10:00:56.000Z",
+          "wordCount": 2259,
+          "title": "PBR（株価純資産倍率）を株式投資に活用する方法・注意点を網羅して解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/pbr-o.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/pbr-o.png"
+        },
         {
           "id": "https://coinpost.jp/?p=468092",
           "author": "CoinPost編集部",
@@ -1138,21 +1123,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/06/apple0618.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/06/apple0618.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=469702",
-          "author": "菊谷ルイス",
-          "description": "米金融大手フィデリティは現物型ビットコインETFの申請を進めている模様。Sui財団はロックされているSUIトークンのステーキング報酬をバイナンスで売却しているとの指摘を否定した。",
-          "link": "https://coinpost.jp/?p=469702",
-          "publishedOn": "2023-06-27T22:10:03.000Z",
-          "wordCount": 2252,
-          "title": "米フィデリティが現物型ビットコインETF申請へ　Sui財団がステーキング報酬の売却を否定｜28日朝の重要速報まとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
         }
       ]
     }
