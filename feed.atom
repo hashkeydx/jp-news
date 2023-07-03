@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-03T22:28:55.721Z</updated>
+    <updated>2023-07-03T23:25:27.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス　「LSDfi」関連銘柄が新規上場]]></title>
+        <id>https://coinpost.jp/?p=470830</id>
+        <link href="https://coinpost.jp/?p=470830"/>
+        <updated>2023-07-03T23:00:30.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは3日に、LSDfi関連銘柄のPendle（PENDLE）の新規上場を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港、Web3開発促進タスクフォース]]></title>
+        <id>https://www.coindeskjapan.com/?p=192535</id>
+        <link href="https://www.coindeskjapan.com/192535/"/>
+        <updated>2023-07-03T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[香港政府は、Web3開発促進のためのタスクフォースを設立すると6月30日に発表した。 タスクフォースはポール・チャン（Paul Chan）財政官が議長を務め、関 ...
+香港、Web3開発促進タスクフォース first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国初　仮想通貨ATM運営企業がナスダックにSPAC上場]]></title>
+        <id>https://coinpost.jp/?p=470819</id>
+        <link href="https://coinpost.jp/?p=470819"/>
+        <updated>2023-07-03T22:35:47.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ATMサービスを提供するBitcoin Depotは、ナスダックに株式を上場。初日の株価は7%上昇し、取引を終えた。仮想通貨ATM企業が、米主要市場に株式を上場するのは初の事例。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックのビットコインETF、申請を再提出──コインベースを監視共有協定のパートナーとして明示]]></title>
+        <id>https://www.coindeskjapan.com/?p=192517</id>
+        <link href="https://www.coindeskjapan.com/192517/"/>
+        <updated>2023-07-03T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック（Nasdaq）は、ブラックロック（BlackRock）のビットコインETF（上場投信信託）についての申請書類を再提出し、いわゆる「監視共有協定」のパ ...
+ブラックロックのビットコインETF、申請を再提出──コインベースを監視共有協定のパートナーとして明示 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SECは最終的にビットコインETFを承認する可能性が高い：バーンスタイン]]></title>
         <id>https://www.coindeskjapan.com/?p=192499</id>
@@ -676,17 +718,6 @@ NFTコレクションAzuki、アニメ制作と作品更新を予定──新コ
 ツーク：イーサリアムが生まれ、暗号資産が大人になるところ【クリプト・ハブ】第1位 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Jeff Wilser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サム・アルトマン氏のWorldcoin、Oktaと統合して生体認証を導入]]></title>
-        <id>https://www.coindeskjapan.com/?p=191862</id>
-        <link href="https://www.coindeskjapan.com/191862/"/>
-        <updated>2023-06-29T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAIの二人によって設立されたブロックチェーン・アイデンティティ・プロジェクトである「Worldcoin」は、Oktaと統合し、そのアイデンティティ・プロ ...
-サム・アルトマン氏のWorldcoin、Oktaと統合して生体認証を導入 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Eliza Gkritsi</name>
         </author>
     </entry>
 </feed>
