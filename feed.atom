@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-04T22:28:42.111Z</updated>
+    <updated>2023-07-04T23:25:31.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界の法定通貨の流動性が低下──暗号資産に逆風か]]></title>
+        <id>https://www.coindeskjapan.com/?p=192689</id>
+        <link href="https://www.coindeskjapan.com/192689/"/>
+        <updated>2023-07-04T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年の最終四半期以降、金融市場にリスクテイクが強く戻ってきている。コンセンサスはこのまま続くというものだが、一部のオブザーバーは法定通貨の流動性圧力が控え ...
+世界の法定通貨の流動性が低下──暗号資産に逆風か first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港の有識者、政府にステーブルコイン「HKDG」を発行するよう提言]]></title>
         <id>https://coinpost.jp/?p=471059</id>
@@ -653,17 +664,6 @@ NFTコレクションAzuki、アニメ制作と作品更新を予定──新コ
 暗号資産の期末時価評価課税の見直しが正式に実現、ビットコインキャッシュが上昇【Weekly Review：6/24～6/30】 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインキャッシュ、韓国での取引高が急増──過去24時間で5億ドル以上]]></title>
-        <id>https://www.coindeskjapan.com/?p=192111</id>
-        <link href="https://www.coindeskjapan.com/192111/"/>
-        <updated>2023-06-30T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインキャッシュ（BCH）は、フィデリティ・デジタル・アセッツ（Fidelity Digital Assets）、チャールズ・シュワブ（Charles S ...
-ビットコインキャッシュ、韓国での取引高が急増──過去24時間で5億ドル以上 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
