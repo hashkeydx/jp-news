@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-04T03:35:39.176Z</updated>
+    <updated>2023-07-04T04:30:38.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国の国会、「仮想資産ユーザー保護法」を承認]]></title>
+        <id>https://coinpost.jp/?p=470871</id>
+        <link href="https://coinpost.jp/?p=470871"/>
+        <updated>2023-07-04T03:50:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国の国会は、ビットコインなど仮想通貨に特化した法的枠組みとして「仮想資産ユーザー保護法」を承認した。不正行為の防止や、消費者保護、それに関する罰則などを規定している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTCトレンド転換の節目に再突入、香港「仮想通貨ETF」は需要急増]]></title>
+        <id>https://coinpost.jp/?p=470852</id>
+        <link href="https://coinpost.jp/?p=470852"/>
+        <updated>2023-07-04T03:43:21.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場では、ビットコイン（BTC）が2021年の強気相場における主要ラインである31000〜32000ドル水準の攻防に再び移行した。香港の「仮想通貨ETF」は取引高が急増している。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7月の大型トークンアンロック　Optimism、Aptos、ApeCoinの配布計画と影響は？]]></title>
         <id>https://coinpost.jp/?p=470869</id>
