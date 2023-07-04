@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-03T23:25:27.159Z</updated>
+    <updated>2023-07-04T02:05:43.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シンガポール当局、仮想通貨企業に投資家保護措置を義務付けへ]]></title>
+        <id>https://coinpost.jp/?p=470842</id>
+        <link href="https://coinpost.jp/?p=470842"/>
+        <updated>2023-07-04T01:55:44.000Z</updated>
+        <summary type="html"><![CDATA[シンガポール金融管理局は、ビットコインなど仮想通貨のサービス事業者に対して、新たな投資家保護措置を義務付けると発表した。顧客資産の分別管理やリスク開示などを挙げている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Labs共同創設者「イーサリアムはソラナのL2として機能する可能性がある」]]></title>
+        <id>https://coinpost.jp/?p=470837</id>
+        <link href="https://coinpost.jp/?p=470837"/>
+        <updated>2023-07-04T01:05:13.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナのAnatoly Yakovenko氏は、イーサリアムのブロックチェーンがソラナのL2になりうるとの見解を示した。必要な仕組みや課題を考察している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス　「LSDfi」関連銘柄が新規上場]]></title>
         <id>https://coinpost.jp/?p=470830</id>
