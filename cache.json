@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=192916",
+          "author": "増田 隆幸",
+          "description": "分散型ファイル共有プロトコルのストージ（Storj/STORJ）がこの2日で上昇、取引高も増え、時価総額は2倍近くになっている。 TradingViewのデータ ...\nストレージトークンのストージ（STORJ）が連日上昇、4日は43%上昇 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/192916/",
+          "publishedOn": "2023-07-06T01:30:00.000Z",
+          "wordCount": 888,
+          "title": "ストレージトークンのストージ（STORJ）が連日上昇、4日は43%上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_2249752957-scaled.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=192922",
+          "author": "増田 隆幸",
+          "description": "シンガポール最大手のDBS銀行は5日、中国において中央銀行デジタル通貨（CBDC）のe-CNY、いわゆるデジタル人民元を使って支払いを回収できるサービスを開始、 ...\nシンガポール最大手のDBS銀行、中国でデジタル人民元を使った決済サービス first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/192922/",
+          "publishedOn": "2023-07-06T00:30:00.000Z",
+          "wordCount": 929,
+          "title": "シンガポール最大手のDBS銀行、中国でデジタル人民元を使った決済サービス",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1169067745.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=192867",
           "author": "Amitoj Singh",
           "description": "デンマークの金融監督当局は7月5日、同国の銀行Saxo Bankに保有する暗号資産（仮想通貨）の売却を命じたと発表した。 デンマーク金融監督庁は、現在の制度では ...\nデンマーク金融当局、Saxo Bankに対して保有する暗号資産の売却を命令 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -370,16 +390,6 @@
           "wordCount": 1021,
           "title": "NFTコレクションAzuki、アニメ制作と作品更新を予定──新コレクション発行時の批判に対応",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/S3SVKJ7AHZH3NNA2NM74M25YLI.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=192284",
-          "author": "林 理南",
-          "description": "6月に最も上昇率が高かった暗号資産（仮想通貨）はビットコインキャッシュ（BCH）。上昇の理由は、フィデリティ・デジタル・アセッツ（Fidelity Digita ...\n6月の急騰銘柄はビットコインキャッシュ、FTXトークン、コンパウンド first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/192284/",
-          "publishedOn": "2023-07-01T13:05:58.000Z",
-          "wordCount": 942,
-          "title": "6月の急騰銘柄はビットコインキャッシュ、FTXトークン、コンパウンド",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1492451693-scaled.jpg"
         }
       ]
     },
@@ -394,6 +404,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=471245",
+          "author": "AKIRA.H",
+          "description": "イングランド銀行が、一般利用向けCBDCの運用におけるプライバシーリスクを調査していることが明らかになった。Web3技術と決済サービスを手がける英国企業Nuggetsが、ゼロ知識証明技術を提供する。",
+          "link": "https://coinpost.jp/?p=471245",
+          "publishedOn": "2023-07-06T01:45:55.000Z",
+          "wordCount": 2164,
+          "title": "イングランド銀行、CBDCのリテール運用のプライバシー問題を調査",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/CBDC1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/CBDC1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=471240",
+          "author": "K.Kobayashi",
+          "description": "欧州委員会は、European Blockchain Sandboxの対象になる20のユースケースを発表。この取り組みの目標は、ブロックチェーンプロジェクトと規制機関の対話を促進することである。",
+          "link": "https://coinpost.jp/?p=471240",
+          "publishedOn": "2023-07-06T01:20:10.000Z",
+          "wordCount": 2164,
+          "title": "欧州のブロックチェーン・サンドボックス制度、対象の20プロジェクトを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/eu_europe9032849348.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/eu_europe9032849348.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=471229",
           "author": "K.Kobayashi",
