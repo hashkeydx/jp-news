@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-08T12:44:01.286Z</updated>
+    <updated>2023-07-08T13:27:27.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインめぐるブラックロックCEOの翻意、歓迎と懐疑を引き起こす]]></title>
+        <id>https://www.coindeskjapan.com/?p=193279</id>
+        <link href="https://www.coindeskjapan.com/193279/"/>
+        <updated>2023-07-08T13:12:14.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の資産運用会社ブラックロック（BlackRock）のラリー・フィンク（Larry Fink）CEOは5日、暗号資産（仮想通貨）は「金融に革命を起こす」こ ...
+ビットコインめぐるブラックロックCEOの翻意、歓迎と懐疑を引き起こす first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[進化し続けるバークシャーの投資ポートフォリオ、ウォーレン・バフェット成功の秘訣を探る]]></title>
         <id>https://coinpost.jp/?p=470582</id>
@@ -814,16 +825,6 @@ Bored Ape Yacht Club、20カ月ぶりの安値──NFT市場の冷え込みと�
         <summary type="html"><![CDATA[シンガポール金融管理局は、ビットコインなど仮想通貨のサービス事業者に対して、新たな投資家保護措置を義務付けると発表した。顧客資産の分別管理やリスク開示などを挙げている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Labs共同創設者「イーサリアムはソラナのL2として機能する可能性がある」]]></title>
-        <id>https://coinpost.jp/?p=470837</id>
-        <link href="https://coinpost.jp/?p=470837"/>
-        <updated>2023-07-04T01:05:13.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナのAnatoly Yakovenko氏は、イーサリアムのブロックチェーンがソラナのL2になりうるとの見解を示した。必要な仕組みや課題を考察している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
