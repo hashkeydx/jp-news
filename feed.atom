@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-10T22:27:57.752Z</updated>
+    <updated>2023-07-10T23:24:06.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインは24年末までに12万ドルまで上昇しうる」スタンダードチャータード銀が予想を上方修正]]></title>
+        <id>https://coinpost.jp/?p=471988</id>
+        <link href="https://coinpost.jp/?p=471988"/>
+        <updated>2023-07-10T22:35:53.000Z</updated>
+        <summary type="html"><![CDATA[スタンダードチャータード銀行は、仮想通貨ビットコインの価格が2023年末までに5万ドル、2024年末までに12万ドルまで上昇する可能性があると予想。4月の予想を上方修正している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスがArkhamのIEOを開始へ　Stepn開発企業が新しいMMOゲームを年内リリース予定｜11日朝の重要速報まとめ]]></title>
         <id>https://coinpost.jp/?p=471987</id>
@@ -521,17 +531,6 @@ Bittrex、破産を前にフロリダ州当局からの告発に直面 first app
 ユニスワップCEO、DeFiの未来や規制について語る【インタビュー】 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Sam Kessler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州委員会、メタバース戦略を来週発表──「EUの価値観とルールの尊重を」]]></title>
-        <id>https://www.coindeskjapan.com/?p=193020</id>
-        <link href="https://www.coindeskjapan.com/193020/"/>
-        <updated>2023-07-06T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[リークされた欧州委員会の文書によると、メタバースはオープンで合法的であり続けるために、新しい種類のグローバル・ガバナンスを必要としている。 米CoinDeskが ...
-欧州委員会、メタバース戦略を来週発表──「EUの価値観とルールの尊重を」 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Jack Schickler</name>
         </author>
     </entry>
 </feed>
