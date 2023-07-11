@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=193497",
+          "author": "Jack Schickler",
+          "description": "国際決済銀行（BIS）は、世界の経済大国20カ国（G20）の財務大臣に送った報告書の中で、暗号資産（仮想通貨）には「本質的な構造的欠陥」があるため、通貨としては ...\n暗号資産は「本質的な欠陥」があるため、通貨としては不適切：BIS first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/193497/",
+          "publishedOn": "2023-07-11T23:00:00.000Z",
+          "wordCount": 862,
+          "title": "暗号資産は「本質的な欠陥」があるため、通貨としては不適切：BIS",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/BIS.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=193598",
+          "author": "増田 隆幸",
+          "description": "ポリゴン（MATIC）は、まもなく予定されているアップグレード「Polygon 2.0」への期待を受けて11日、前日の安値0.67ドルから10%上昇した。 Co ...\nポリゴン、アップデート期待で10%上昇 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/193598/",
+          "publishedOn": "2023-07-11T22:30:00.000Z",
+          "wordCount": 887,
+          "title": "ポリゴン、アップデート期待で10%上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/coindesk-MATIC-chart-2023-07-12.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=193481",
           "author": "Omkar Godbole",
           "description": "「インスクリプション（Inscription）」と呼ばれるプロセスを通じてビットコインのNFT（非代替性トークン）を生成するOrdinalsの活動が、BRC-6 ...\nビットコインNFT、再び注目を集める──Ordinalsは1日の鋳造が35万件に first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -260,16 +280,6 @@
           "wordCount": 1008,
           "title": "SEC、ビットコインETF申請は不十分と語ったが最終的には承認するのか【Weekly Review：7/1～7/7】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1230901522-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=193180",
-          "author": "Omkar Godbole",
-          "description": "7月7日、ビットコイン（BTC）は反発し、アジア株は下落した。6日のADPのレポートが世界最大の経済における民間部門の雇用が予想を上回ったことを示した後、投資家 ...\nビットコインが3万ドルを回復──米雇用統計発表を前にアジア株は5週間ぶりの安値に first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/193180/",
-          "publishedOn": "2023-07-07T11:00:00.000Z",
-          "wordCount": 970,
-          "title": "ビットコインが3万ドルを回復──米雇用統計発表を前にアジア株は5週間ぶりの安値に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/2GMRDDYXORFRBPEEGULA3L3XCE.png"
         }
       ]
     },
@@ -284,6 +294,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=472232",
+          "author": "K.Kobayashi",
+          "description": "Consensysは、L2ネットワークLineaのアルファ版を仮想通貨イーサリアムのメインネットにローンチした。特徴や今後の計画を説明している。",
+          "link": "https://coinpost.jp/?p=472232",
+          "publishedOn": "2023-07-11T23:00:20.000Z",
+          "wordCount": 2197,
+          "title": "Consensys、イーサリアムのzkEVM「Linea」のアルファ版をメインネットにローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Consensys-Linea-Mainnet-Alpha.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Consensys-Linea-Mainnet-Alpha.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=472236",
+          "author": "菊谷ルイス",
+          "description": "本日のコインベース株価は前日比9.78%高。また、破綻したFTXは顧客請求ポータルを開設した。さらに、米大手資産運用会社バンガードのビットコインマイニング株の投資総額が5.6億ドルに達した。",
+          "link": "https://coinpost.jp/?p=472236",
+          "publishedOn": "2023-07-11T22:30:18.000Z",
+          "wordCount": 2266,
+          "title": "FTXが顧客請求ポータルを公開、今夜米6月CPI結果発表｜12日朝の重要速報まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
+        },
         {
           "id": "https://coinpost.jp/?p=472085",
           "author": "CoinPost編集部",
