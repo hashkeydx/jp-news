@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-12T12:49:50.312Z</updated>
+    <updated>2023-07-12T13:32:01.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】米6月CPI（消費者物価指数）データ発表　コアが5%割れ]]></title>
+        <id>https://coinpost.jp/?p=472355</id>
+        <link href="https://coinpost.jp/?p=472355"/>
+        <updated>2023-07-12T12:35:37.000Z</updated>
+        <summary type="html"><![CDATA[今回の結果発表6月の米CPI（消費者物価指数）は総合・コアともに予想を下回った。なお、コアCPIは鈍化し続けている。【速報】米6月CPIデータ発表CPI（前月比）：今回+0.2%　前回+0.1%　予想+0.3%CPI（前年比）：今回+3.0...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCのチャートにボラティリティ急上昇の兆し──米CPI発表を前に]]></title>
         <id>https://www.coindeskjapan.com/?p=193679</id>
@@ -623,27 +633,6 @@ web3を推進する子会社の名称は「株式会社NTT Digital」　NTTド�
         <summary type="html"><![CDATA[BitMEXの共同創業者であるアーサー・ヘイズ氏は、「仮想通貨ビットコインがAIにとって最も好ましい通貨になるだろう」との見解を示した。分散化されている特性、エネルギーと直結した価値、証明可能な希少性、そして人間の管理を超越した持続性を根拠に挙げた。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セガ、ブロックチェーンゲーム開発計画を見直し：ブルームバーグ]]></title>
-        <id>https://www.coindeskjapan.com/?p=193258</id>
-        <link href="https://www.coindeskjapan.com/193258/"/>
-        <updated>2023-07-08T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[かつてブロックチェーンの活用を積極的にアピールしていたセガは、GameFi（ゲーミファイ）とブロックチェーンゲーム（BCG）から手を引こうとしていると、ブルーム ...
-セガ、ブロックチェーンゲーム開発計画を見直し：ブルームバーグ first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC、「コインベースは証券法違反のリスクを認識していた」と反論]]></title>
-        <id>https://coinpost.jp/?p=471679</id>
-        <link href="https://coinpost.jp/?p=471679"/>
-        <updated>2023-07-08T01:05:29.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会は、米大手仮想通貨取引所コインベースに対する訴訟で新たに書類を提出。コインベースは証券法違反のリスクを認識していたと主張。ハウィーテストの解釈でも異論を唱えた。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
