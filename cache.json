@@ -12,6 +12,36 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=193966",
+          "author": "増田 隆幸",
+          "description": "リップル（Ripple）社はSEC（米証券取引委員会）との裁判で部分的な勝利を収め、業界にわずかながらも規制の明確さをもたらした。 取引所やアルゴリズムを通した ...\nリップル vs SEC、判決内容を解説──リップルが一部勝訴 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/193966/",
+          "publishedOn": "2023-07-14T02:00:00.000Z",
+          "wordCount": 1147,
+          "title": "リップル vs SEC、判決内容を解説──リップルが一部勝訴",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1976930807.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=193999",
+          "author": "林 理南",
+          "description": "アメリカの連邦裁判所が13日、リップル（Ripple）社と米証券取引委員会（SEC）の訴訟において、暗号資産（仮想通貨）取引所やアルゴリズムを通じたエックス・ア ...\nコインベースなどの暗号資産取引所でXRP採用が相次ぐ──SECとの訴訟で一部勝訴 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/193999/",
+          "publishedOn": "2023-07-14T01:23:28.000Z",
+          "wordCount": 901,
+          "title": "コインベースなどの暗号資産取引所でXRP採用が相次ぐ──SECとの訴訟で一部勝訴",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1306247059-scaled.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=193930",
+          "author": "Krisztian Sandor",
+          "description": "暗号資産データ会社CCDataの調査によると、機関投資家に向けた暗号資産（仮想通貨）ESGランキングでイーサリアム（ETH）がトップとなり、ソラナ（SOL）とカ ...\n暗号資産ESGランキング、イーサリアムがトップ──ビットコインはエネルギー大量使用で評価を落とす first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/193930/",
+          "publishedOn": "2023-07-13T23:30:00.000Z",
+          "wordCount": 916,
+          "title": "暗号資産ESGランキング、イーサリアムがトップ──ビットコインはエネルギー大量使用で評価を落とす",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/PFE5GZTHDFDDFPDVSYJ6P553PA.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=193964",
           "author": "増田 隆幸",
           "description": "暗号資産市場は、裁判所がリップル社によるXRPの取引所およびアルゴリズムを使った販売は連邦証券法に違反しないとの判決を下したことで、暗号資産関連銘柄とともに広く ...\nビットコインと暗号資産関連株が上昇──XRPの判決で楽観広がる first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -434,6 +464,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=472598",
+          "author": "K.Kobayashi",
+          "description": "Polygon Labsは、仮想通貨MATICを新通貨POLにアップグレードする提案を発表。POLのメリットや今後の予定などについて説明した。",
+          "link": "https://coinpost.jp/?p=472598",
+          "publishedOn": "2023-07-14T01:40:09.000Z",
+          "wordCount": 2205,
+          "title": "ポリゴン、仮想通貨「MATIC」を「POL」にアップグレードする提案を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Polygon-MATIC-POL.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Polygon-MATIC-POL.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=472594",
+          "author": "A.Yamada",
+          "description": "米司法省やSEC、CFTC、FTCなど米当局は、破綻した仮想通貨融資企業セルシウスを価格操作や詐欺などで訴えた。マシンスキー共同設立者は刑事告発に伴い逮捕・起訴されている。",
+          "link": "https://coinpost.jp/?p=472594",
+          "publishedOn": "2023-07-14T01:20:48.000Z",
+          "wordCount": 2143,
+          "title": "SECら米当局がセルシウスを提訴　マシンスキーCEOが逮捕",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/celsius-bank-risk.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/celsius-bank-risk.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=472579",
+          "author": "K.Kobayashi",
+          "description": "米地裁は、2020年12月の米SECによる訴訟から始まったXRP裁判について判決を下した。仮想通貨XRP自体は有価証券ではないと認定している。",
+          "link": "https://coinpost.jp/?p=472579",
+          "publishedOn": "2023-07-13T23:10:01.000Z",
+          "wordCount": 2342,
+          "title": "「仮想通貨XRP自体は有価証券ではない」米地裁、裁判で判決下す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ripple_xrp_judgment_20190906.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ripple_xrp_judgment_20190906.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=472484",
           "author": "菊谷ルイス",
