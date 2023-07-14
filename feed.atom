@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-14T03:33:52.281Z</updated>
+    <updated>2023-07-14T04:29:14.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米Ondo Finance、トークン化された米国債ファンドをポリゴンに拡大]]></title>
+        <id>https://coinpost.jp/?p=472641</id>
+        <link href="https://coinpost.jp/?p=472641"/>
+        <updated>2023-07-14T03:49:08.000Z</updated>
+        <summary type="html"><![CDATA[機関投資家向けにブロックチェーン対応の投資商品を提供するOndo Financeは、仮想通貨ポリゴンのネットワーク開発と普及を推進するPolygon Labsとの戦略的提携を発表。その一環として、Polygon PoSブロックチェーン上に、トークン化された米短期国債ファンド「OUSG」をローンチした。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインの公平な格付け目指すサービス「Bluechip」立ち上げ]]></title>
+        <id>https://coinpost.jp/?p=472622</id>
+        <link href="https://coinpost.jp/?p=472622"/>
+        <updated>2023-07-14T03:30:53.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインの安全性を評価する非営利団体Bluechipは、主要なステーブルコインの公平な格付けを提供するサービスを開始。BUSD、USDT、USDCなどの評価を公開している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインとイーサリアム、従来の金融商品からのデカップリングを維持]]></title>
         <id>https://www.coindeskjapan.com/?p=194029</id>
