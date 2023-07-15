@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-15T05:27:49.872Z</updated>
+    <updated>2023-07-15T06:29:37.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不正流出のあった「Multichain」のCEO逮捕、プロトコル閉鎖へ]]></title>
+        <id>https://coinpost.jp/?p=472802</id>
+        <link href="https://coinpost.jp/?p=472802"/>
+        <updated>2023-07-15T06:00:08.000Z</updated>
+        <summary type="html"><![CDATA[不正流出のあったクロスチェーンルータープロトコル「Multichain」のチームは、同プロトコルのCEOが逮捕され、運営資金が不足しているためにプラットフォームを閉鎖すると発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨ソラナのリキッドステーキング需要、急増の背後に何が?]]></title>
         <id>https://coinpost.jp/?p=472791</id>
