@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-15T14:25:24.799Z</updated>
+    <updated>2023-07-15T15:23:55.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、数週間で従業員1000人を削減：WSJ]]></title>
+        <id>https://www.coindeskjapan.com/?p=194259</id>
+        <link href="https://www.coindeskjapan.com/194259/"/>
+        <updated>2023-07-15T14:29:41.000Z</updated>
+        <summary type="html"><![CDATA[ウォール・ストリート・ジャーナル（WSJ）は情報筋の話として、大手暗号資産（暗号資産）取引所のバイナンス（Binance）がここ数週間のうちに全世界で1000人 ...
+バイナンス、数週間で従業員1000人を削減：WSJ first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不正流出のあった「Multichain」のCEO逮捕、プロトコル閉鎖へ]]></title>
         <id>https://coinpost.jp/?p=472802</id>
@@ -867,37 +878,6 @@ web3を推進する子会社の名称は「株式会社NTT Digital」　NTTド�
         <summary type="html"><![CDATA[米スターバックスは、Web3リワードプログラム「スターバックス・オデッセイ」で、元メジャーリーガーのミカ・ジョンソン氏と提携してNFTをリリースすると発表した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン3万ドル台を維持　仮想通貨ファンドは3週連続の大幅買い越し]]></title>
-        <id>https://coinpost.jp/?p=472026</id>
-        <link href="https://coinpost.jp/?p=472026"/>
-        <updated>2023-07-11T03:17:30.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場ではビットコイン（BTC）狭いレンジで乱高下しつつも3万ドルをキープ。仮想通貨ファンドの投資商品は3週連続の大幅買い越し（純流入）となり、過去9週間分の売り越し分を打ち消した。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electric Capitalレポート「仮想通貨開発者の数は3年前の2倍に」]]></title>
-        <id>https://coinpost.jp/?p=472031</id>
-        <link href="https://coinpost.jp/?p=472031"/>
-        <updated>2023-07-11T02:55:15.000Z</updated>
-        <summary type="html"><![CDATA[2023年6月1日現在で、仮想通貨に継続的に関与しているオープンソース開発者の総数は前年比で22%減少したものの、長期的な視点では成長トレンドが続いていることが明らかとなった。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最低1BTCを保有するウォレット、100万を超えて過去最高を更新中]]></title>
-        <id>https://www.coindeskjapan.com/?p=193443</id>
-        <link href="https://www.coindeskjapan.com/193443/"/>
-        <updated>2023-07-11T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）はアジア取引時間7月11日、3万366ドルで取引を開始し、3万ドル超えの強いプレゼンスを維持している。 市場が流動性の低下に苦しむなかでこ ...
-最低1BTCを保有するウォレット、100万を超えて過去最高を更新中 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
