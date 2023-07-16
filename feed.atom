@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-16T22:26:56.051Z</updated>
+    <updated>2023-07-16T23:23:23.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産における真の消費者保護は、分散型と中央集権型の間にある]]></title>
+        <id>https://www.coindeskjapan.com/?p=182286</id>
+        <link href="https://www.coindeskjapan.com/182286/"/>
+        <updated>2023-07-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産の規制とコンプライアンス、あるいはその欠如についての議論はますます核心を見失っている。金融規制の一般的な目的は、消費者保護を最大化し、詐欺や悪用を防ぎ、 ...
+暗号資産における真の消費者保護は、分散型と中央集権型の間にある first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、現フェーズの最後のマイルストーン「分散型バリデーター・テクノロジー」]]></title>
         <id>https://www.coindeskjapan.com/?p=191223</id>
@@ -691,17 +702,6 @@ EU規制当局、MiCAに基づく暗号資産関連規則の第一弾を発表 f
         <summary type="html"><![CDATA[今回の結果発表6月の米CPI（消費者物価指数）は総合・コアともに予想を下回った。なお、コアCPIは鈍化し続けている。【速報】米6月CPIデータ発表CPI（前月比）：今回+0.2%　前回+0.1%　予想+0.3%CPI（前年比）：今回+3.0...]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCのチャートにボラティリティ急上昇の兆し──米CPI発表を前に]]></title>
-        <id>https://www.coindeskjapan.com/?p=193679</id>
-        <link href="https://www.coindeskjapan.com/193679/"/>
-        <updated>2023-07-12T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ボリンジャーバンドと呼ばれるテクニカル分析指標は、ビットコイン（BTC）のボラティリティの爆発を示唆しており、6月のアメリカのインフレ率の報告を前に、暗号資産（ ...
-BTCのチャートにボラティリティ急上昇の兆し──米CPI発表を前に first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
