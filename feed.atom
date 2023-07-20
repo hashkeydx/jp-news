@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-19T23:21:15.947Z</updated>
+    <updated>2023-07-20T01:43:57.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナスダック、暗号資産カストディサービス計画を中止──ビジネス・規制環境の変化で]]></title>
+        <id>https://www.coindeskjapan.com/?p=194684</id>
+        <link href="https://www.coindeskjapan.com/194684/"/>
+        <updated>2023-07-20T01:32:11.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック証券取引所を運営するナスダック社は、2023年第2四半期に開始予定だった暗号資産（仮想通貨）カストディサービスの計画を中止する。アデナ・フリードマン（ ...
+ナスダック、暗号資産カストディサービス計画を中止──ビジネス・規制環境の変化で first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC委員長、約150億円の予算増額を要請　仮想通貨への対応含む]]></title>
+        <id>https://coinpost.jp/?p=473413</id>
+        <link href="https://coinpost.jp/?p=473413"/>
+        <updated>2023-07-20T01:30:33.000Z</updated>
+        <summary type="html"><![CDATA[米SECのゲンスラー委員長は、上院に出席し来年度予算の増額を要請した。増額分には、ビットコインなど仮想通貨市場を監督するための費用も組み込んでいる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Starknet」、アプリ特化のブロックチェーン開発ツールを提供へ]]></title>
+        <id>https://coinpost.jp/?p=473409</id>
+        <link href="https://coinpost.jp/?p=473409"/>
+        <updated>2023-07-20T00:30:25.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのスケーリングソリューションを開発するStarkWareは、L2「Starknet」の技術を活用して、アプリに特化したチェーンが作れるようになることを発表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポリゴン、新たなガバナンスの仕組みを提案　「Polygon 2.0」の4つ目の発表]]></title>
         <id>https://coinpost.jp/?p=473395</id>
