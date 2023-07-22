@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-22T02:36:47.483Z</updated>
+    <updated>2023-07-22T03:22:16.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港マクドナルド、The Sandboxに仮想土地「マックナゲッツランド」を開設]]></title>
+        <id>https://coinpost.jp/?p=473855</id>
+        <link href="https://coinpost.jp/?p=473855"/>
+        <updated>2023-07-22T02:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Web3メタバースゲームを提供するザ・サンドボックスは、香港のマクドナルドが、サンドボックス内の仮想土地で「マックナゲッツランド」を開設したと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港で中国デジタル人民元のショッピング実験開催]]></title>
+        <id>https://coinpost.jp/?p=473839</id>
+        <link href="https://coinpost.jp/?p=473839"/>
+        <updated>2023-07-22T02:35:55.000Z</updated>
+        <summary type="html"><![CDATA[中華人民共和国を拠点とする中国銀行の香港部門は、中国のCBDCであるデジタル人民元によるショッピングフェスティバルを行うと発表した。観光客の多い7月から8月にかけて開催する。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMaskが新プロトコル「Snaps」を導入へ、ウォレットのカスタマイズが可能に]]></title>
         <id>https://coinpost.jp/?p=473828</id>
