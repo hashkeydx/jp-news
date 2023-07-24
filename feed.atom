@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-07-24T10:28:38.268Z</updated>
+    <updated>2023-07-24T11:19:22.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[セルシウス、破産めぐる裁判で重要な和解に到達]]></title>
+        <id>https://coinpost.jp/?p=474028</id>
+        <link href="https://coinpost.jp/?p=474028"/>
+        <updated>2023-07-24T11:00:09.000Z</updated>
+        <summary type="html"><![CDATA[経営破綻した仮想通貨融資企業セルシウス・ネットワークは、破産をめぐる裁判で重要な和解に達した。セルシウスが資産を顧客に返還する計画が一歩前進する可能性がある。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サム・アルトマンのWorldcoinが主要取引所に上場──初日に20％以上急騰]]></title>
+        <id>https://www.coindeskjapan.com/?p=195108</id>
+        <link href="https://www.coindeskjapan.com/195108/"/>
+        <updated>2023-07-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のバイナンス（Binance）、Huobi、Bybit、OKXは、7月24日に公開されたWorldcoin（ワールドコイン、WLD）を ...
+サム・アルトマンのWorldcoinが主要取引所に上場──初日に20％以上急騰 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>Eliza Gkritsi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインチェック、Polygon（MATIC）の取り扱い開始を決定]]></title>
         <id>https://www.coindeskjapan.com/?p=195102</id>
@@ -609,27 +630,6 @@ XRPが一目均衡表の「雲」を上抜け──ビットコインにとっ�
         <summary type="html"><![CDATA[仮想通貨イーサリアムのスケーリングソリューションを開発するStarkWareは、L2「Starknet」の技術を活用して、アプリに特化したチェーンが作れるようになることを発表した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリゴン、新たなガバナンスの仕組みを提案　「Polygon 2.0」の4つ目の発表]]></title>
-        <id>https://coinpost.jp/?p=473395</id>
-        <link href="https://coinpost.jp/?p=473395"/>
-        <updated>2023-07-19T23:08:35.000Z</updated>
-        <summary type="html"><![CDATA[Polygon Labsは、仮想通貨ポリゴンの新しいガバナンスの仕組みを発表。Polygon 2.0において、3つの柱に基づいて運営を行なっていく仕組みを提案している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Threads」がユーザー1億人を獲得できた理由]]></title>
-        <id>https://www.coindeskjapan.com/?p=194469</id>
-        <link href="https://www.coindeskjapan.com/194469/"/>
-        <updated>2023-07-19T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ツイッターはもう長年、ディスラプションの機が熟している。多くの人が、ツイッターに文句を言ったり、ツイッターがどれほどひどいものになったかに抗議するためにツイッタ ...
-「Threads」がユーザー1億人を獲得できた理由 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Emily Parker</name>
         </author>
     </entry>
 </feed>
