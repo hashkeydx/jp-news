@@ -285,6 +285,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=474078",
+          "author": "菊谷ルイス",
+          "description": "サム・アルトマンCEOらが進める仮想通貨プロジェクト「Worldcoin」は本日、メインネットをローンチした。",
+          "link": "https://coinpost.jp/?p=474078",
+          "publishedOn": "2023-07-24T11:35:34.000Z",
+          "wordCount": 2174,
+          "title": "【速報】仮想通貨「Worldcoin」、メインネットローンチ　取引所上場相次ぐ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/Worldcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/Worldcoin.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=474028",
           "author": "A.Yamada",
           "description": "経営破綻した仮想通貨融資企業セルシウス・ネットワークは、破産をめぐる裁判で重要な和解に達した。セルシウスが資産を顧客に返還する計画が一歩前進する可能性がある。",
@@ -778,21 +793,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=473409",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨イーサリアムのスケーリングソリューションを開発するStarkWareは、L2「Starknet」の技術を活用して、アプリに特化したチェーンが作れるようになることを発表した。",
-          "link": "https://coinpost.jp/?p=473409",
-          "publishedOn": "2023-07-20T00:30:25.000Z",
-          "wordCount": 2163,
-          "title": "イーサリアムL2「Starknet」、アプリ特化のブロックチェーン開発ツールを提供へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Starknet_0425-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Starknet_0425-1.jpg"
         }
       ]
     }
