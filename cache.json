@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=195150",
+          "author": "Will Canny",
+          "description": "バンク・オブ・アメリカ（Bank of America）は7月21日の調査報告書で、機関投資家の参加と暗号資産（仮想通貨）の採用の主流化には包括的な規制の枠組み ...\nXRPはユニークなので、判決の影響を判断するのは難しい：バンク・オブ・アメリカ first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/195150/",
+          "publishedOn": "2023-07-24T23:30:00.000Z",
+          "wordCount": 913,
+          "title": "XRPはユニークなので、判決の影響を判断するのは難しい：バンク・オブ・アメリカ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/2R7VMGX33ZDV7OTMEJ5XUOBJX4.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=195126",
           "author": "Omkar Godbole",
           "description": "ブラックロック（BlackRock）が6月にスポットビットコイン上場投資信託（ETF）の申請を行ったことで、暗号資産（仮想通貨）市場に新たな楽観的な見方がもたら ...\nビットコイントレーダーはスポットETFの楽観論にも慎重──レバレッジ指標が示唆 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -230,16 +240,6 @@
           "wordCount": 970,
           "title": "ビットコインETFは300億ドルの新規需要をもたらす可能性がある：NYDIG",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_2061685115-710x458-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=194697",
-          "author": "林 理南",
-          "description": "米証券取引委員会（SEC）のゲーリー・ゲンスラー（Gary Gensler）委員長は19日の米上院歳出委員会で、SECの23億6400万ドル（約3309億600 ...\nSECのゲンスラー委員長、予算増額を要求──暗号資産は「開拓時代の西部」 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/194697/",
-          "publishedOn": "2023-07-20T13:21:07.000Z",
-          "wordCount": 917,
-          "title": "SECのゲンスラー委員長、予算増額を要求──暗号資産は「開拓時代の西部」",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1625495629.png"
         }
       ]
     },
@@ -254,6 +254,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=473897",
+          "author": "AKIRA.H",
+          "description": "CoinPost株式会社が企画・運営し、 日本国内外の主要プレイヤー、スタートアップ、企業、投資 家、政府関係者、メディア、一般来場者が一堂に会するアジア最大規模のグローバルカンファレンス「WebX」がついに開幕した。",
+          "link": "https://coinpost.jp/?p=473897",
+          "publishedOn": "2023-07-25T01:32:53.000Z",
+          "wordCount": 2150,
+          "title": "WebX開幕　岸田文雄 内閣総理大臣がビデオ登壇｜WebXカンファレンス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Webx_0412.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Webx_0412.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=474191",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所バイナンスUSにおけるローンチ直後の取引は、同社内部による仮装売買だった可能性が浮上。同社ではローンチ後の最初の1時間で7万ドル相当のビットコインが取引されていた。",
+          "link": "https://coinpost.jp/?p=474191",
+          "publishedOn": "2023-07-25T01:00:43.000Z",
+          "wordCount": 2143,
+          "title": "バイナンスUS、仮装売買でビットコイン取引量を水増しか　バイナンス側は否定＝WSJ報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/08/binance-us_20190820.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/08/binance-us_20190820.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=474186",
           "author": "K.Kobayashi",
