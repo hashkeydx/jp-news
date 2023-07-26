@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=195366",
+          "author": "林 理南",
+          "description": "イーサリアムブロックチェーンのレイヤー2ソリューション「zkSync」上で最大のレンディングプロトコルであるエラレンド（EraLend）が、340万ドル（約4億 ...\nZkSyncのレンディングプロトコルで340万ドル規模の流出──読み取り専用リエントランシー攻撃で first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
+          "link": "https://www.coindeskjapan.com/195366/",
+          "publishedOn": "2023-07-26T01:36:11.000Z",
+          "wordCount": 887,
+          "title": "ZkSyncのレンディングプロトコルで340万ドル規模の流出──読み取り専用リエントランシー攻撃で",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/image-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=195305",
           "author": "Sam Reynolds",
           "description": "アメリカ下院金融サービス委員会のマキシン・ウォーターズ（Maxine Waters）議員（カリフォルニア州選出・民主党）とスティーブン・リンチ（Stephen  ...\n暗号資産に対する権限を持つ機関が必要：アメリカ会計検査院が勧告 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
@@ -270,16 +280,6 @@
           "wordCount": 1085,
           "title": "マトリックス法によるテクニカル分析（2023/7/21）ビットコイン、来週がヤマ場、425万円が焦点か：楽天ウォレット",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/tr-thumb_230721.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=194907",
-          "author": "Shaurya Malwa",
-          "description": "ビットコイン（BTC）が横ばいを続け、分散型金融（DeFi）セクターが弱気相場から完全に脱却できない中、暗号資産（仮想通貨）トレーダーはリターンを生み出す斬新な ...\n暗号資産トレーダー、リターンを求めてハムスターレースにベット first appeared on CoinDesk JAPAN | コインデスク・ジャパン.",
-          "link": "https://www.coindeskjapan.com/194907/",
-          "publishedOn": "2023-07-21T11:45:16.000Z",
-          "wordCount": 926,
-          "title": "暗号資産トレーダー、リターンを求めてハムスターレースにベット",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/FZW4ICBTAJEJXFGA6NX3RCNTJ4.jpg"
         }
       ]
     },
@@ -294,6 +294,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=474354",
+          "author": "AKIRA.H",
+          "description": "CoinPost株式会社が企画・運営するアジア最大規模のグローバルカンファレンス「WebX」のDAY2が開幕。経済産業省西村 康稔大臣が来賓挨拶を行った。「生成AI」への注目が高まる中、ブロックチェーンがデータの透明性と信頼性の向上を担うと語った。",
+          "link": "https://coinpost.jp/?p=474354",
+          "publishedOn": "2023-07-26T01:17:28.000Z",
+          "wordCount": 2165,
+          "title": "西村経済産業大臣、AIとWeb3相乗効果による社会変革の可能性を強調｜WebXカンファレンス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/webx-press0.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/webx-press0.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=474364",
+          "author": "K.Kobayashi",
+          "description": "電通は、Suiブロックチェーン上で、クリエイターエコノミー形成に向けたプロジェクトを開始。Suiの開発企業Mysten Labsには、電通ベンチャーズが出資している。",
+          "link": "https://coinpost.jp/?p=474364",
+          "publishedOn": "2023-07-26T00:15:14.000Z",
+          "wordCount": 2161,
+          "title": "電通、Suiブロックチェーン上で新プロジェクト開始　クリエイターエコノミー形成へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Dentsu-Group.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Dentsu-Group.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=474356",
           "author": "K.Kobayashi",
