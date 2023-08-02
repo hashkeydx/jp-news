@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-02T02:31:20.629Z</updated>
+    <updated>2023-08-02T03:21:47.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フィナンシェがセレッソ大阪とWeb3パートナーシップ契約を締結]]></title>
+        <id>https://www.coindeskjapan.com/?p=196211</id>
+        <link href="https://www.coindeskjapan.com/196211/"/>
+        <updated>2023-08-02T03:15:39.000Z</updated>
+        <summary type="html"><![CDATA[トークン発行型クラウドファンディングサービスなどで知られるフィナンシェは8月1日、プロサッカーチームのセレッソ大阪とWeb3パートナーシップ契約を締結したと発表 ...
+フィナンシェがセレッソ大阪とWeb3パートナーシップ契約を締結 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
+        <author>
+            <name>yoshida izumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トヨタGRカップ、ポリゴン（MATIC）でデジタル・トロフィー授与へ]]></title>
+        <id>https://coinpost.jp/?p=475433</id>
+        <link href="https://coinpost.jp/?p=475433"/>
+        <updated>2023-08-02T02:45:34.000Z</updated>
+        <summary type="html"><![CDATA[自動車大手トヨタグループのモータースポーツイベント「Toyota Gazoo Racingカップ」で、仮想通貨ポリゴンのブロックチェーンを活用したデジタル・トロフィーが発行される。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consensys、スマートコントラクトの脆弱性検出ツール発表]]></title>
+        <id>https://coinpost.jp/?p=475402</id>
+        <link href="https://coinpost.jp/?p=475402"/>
+        <updated>2023-08-02T02:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Web3開発企業コンセンシスは、イーサリアムのスマートコントラクトの脆弱性を検出する自動分析ツール「Diligence Fuzzing」をアップデートした。一部の機能が無料で利用可能となった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米マイクロストラテジー、2Q決算発表　ビットコイン購入継続]]></title>
         <id>https://coinpost.jp/?p=475391</id>
