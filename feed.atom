@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-05T08:23:48.429Z</updated>
+    <updated>2023-08-05T09:19:06.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[急成長するテレグラムボットのトークン市場、リスクと可能性について──バイナンス・リサーチ]]></title>
+        <id>https://coinpost.jp/?p=476013</id>
+        <link href="https://coinpost.jp/?p=476013"/>
+        <updated>2023-08-05T08:15:03.000Z</updated>
+        <summary type="html"><![CDATA[DeFiにおける取引、スナイピング、エアドロップファーミング等の活動を効率化する目的でTelegramボットが急速に普及している。急成長する関連トークンの市場について、バイナンスのリサーチ部門が分析した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米Ondo Finance、米国債と銀行預金担保のUSDY発行　ステーブルコインに対抗]]></title>
         <id>https://coinpost.jp/?p=475998</id>
@@ -806,17 +816,6 @@ Web3は気候変動対策の資金調達に変革をもたらす first appeared 
 コインベースのレイヤー2ネットワーク上のミームコインが急騰──500ドルが100万ドルになったトレーダーも first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エイリアンは存在する。暗号資産を使っている]]></title>
-        <id>https://www.coindeskjapan.com/?p=195850</id>
-        <link href="https://www.coindeskjapan.com/195850/"/>
-        <updated>2023-07-31T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[エイリアンは存在する。彼らは暗号資産（仮想通貨）を使っている。 これは必ずしも証明できることではないが、もしかしたらビットコイン（BTC）は地球外生命体からの贈 ...
-エイリアンは存在する。暗号資産を使っている first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
