@@ -455,6 +455,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=475990",
+          "author": "AKIRA.H",
+          "description": "イーサリアムのレイヤー2ソリューション「アービトラム」の開発を手がけるOffChain Labsは、パーミッションレス検証プロトコル「Bounded Liquidity Delay（BoLD）」を公表した。将来的にシークエンサーを無許可型に移行するためのステップとなる。",
+          "link": "https://coinpost.jp/?p=475990",
+          "publishedOn": "2023-08-05T04:00:57.000Z",
+          "wordCount": 2132,
+          "title": "アービトラム、無許可型の検証プロトコルを発表、分散化に向け一歩",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Arbitrum-Orbit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/Arbitrum-Orbit.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=475809",
           "author": "AKIRA.H",
           "description": "Web3のクロスチェーンパワーハウスをビジョンに掲げるOntology（オントロジー）は、エコシステムを構成する主要インフラについて解説した。ウォレット、分散型アイデンティティ（DID）などのネイティブ機能を活かしたDeFi製品をベースに、イーサリアムなどの外部ネットワークとの連携を強化する。",
