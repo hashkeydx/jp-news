@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-07T03:21:47.241Z</updated>
+    <updated>2023-08-07T04:25:18.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CertiK、今年5月にWorldCoinのオペレータ審査プロセスの脆弱性を報告]]></title>
+        <id>https://coinpost.jp/?p=476137</id>
+        <link href="https://coinpost.jp/?p=476137"/>
+        <updated>2023-08-07T03:19:02.000Z</updated>
+        <summary type="html"><![CDATA[サイバーセキュリティ企業CertiKは今年5月、WorldCoinの脆弱性を発見し報告していたと発表した。脆弱性についてはすでに修正プログラムが適用されている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve Finance、ハッキング犯特定に報奨金]]></title>
+        <id>https://coinpost.jp/?p=476128</id>
+        <link href="https://coinpost.jp/?p=476128"/>
+        <updated>2023-08-07T03:15:09.000Z</updated>
+        <summary type="html"><![CDATA[DeFiサービス大手Curve Financeは、ハッキング事件の犯人に呼びかけた全額返金が完了していないことを受けた措置として、ハッキング犯を特定できた者に報奨金を与えると発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン29000ドルで推移、バイナンスのテザー（USDT）売りに複数の見方]]></title>
         <id>https://coinpost.jp/?p=476126</id>
