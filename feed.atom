@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-07T22:24:09.417Z</updated>
+    <updated>2023-08-07T23:20:25.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MakerDAOのステーブルコイン「DAI」、金利引き上げで入金が急増]]></title>
+        <id>https://coinpost.jp/?p=476281</id>
+        <link href="https://coinpost.jp/?p=476281"/>
+        <updated>2023-08-07T23:00:41.000Z</updated>
+        <summary type="html"><![CDATA[DeFiのMakerプロトコルの仮想通貨ステーブルコインDAIは、金利が引き上げられたことで入金が急増。DSRの仕組みによってDAIをロックすることで最大8%の金利を獲得できるルールが7日から適用された。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米PayPalがステーブルコイン「PYUSD」をローンチ｜8日朝の重要速報まとめ]]></title>
+        <id>https://coinpost.jp/?p=476285</id>
+        <link href="https://coinpost.jp/?p=476285"/>
+        <updated>2023-08-07T22:20:38.000Z</updated>
+        <summary type="html"><![CDATA[米送金大手PayPalは独自のERC-20ステーブルコイン「PayPal USD（PYUSD）」をローンチすると発表した。アフリカ国ケニアの警察は週末にWorldcoinのナイロビ倉庫を捜査し書類や機械を押収したと報じられた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ケニア当局、ワールドコインのナイロビオフィスを家宅捜索：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=196772</id>
@@ -500,17 +520,6 @@ AIへの投資は2025年までに世界で約2000億ドル規模に：ゴール�
 DeFiは終わった。我々は気づいてさえいなかった first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トレーダーはイーサリアムの「スリッページ」に注目──トレンドの変化と同調]]></title>
-        <id>https://www.coindeskjapan.com/?p=196374</id>
-        <link href="https://www.coindeskjapan.com/196374/"/>
-        <updated>2023-08-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トレーダーは、スピーディでリスクの高い暗号資産（仮想通貨）市場のナビゲーターとして、いくつかのテクニカルおよびファンダメンタル指標を使っている。 そのリストに、 ...
-トレーダーはイーサリアムの「スリッページ」に注目──トレンドの変化と同調 first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
