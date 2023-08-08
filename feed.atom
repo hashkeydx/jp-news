@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-08T10:26:33.237Z</updated>
+    <updated>2023-08-08T11:18:27.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[休眠ビットコイン数が増加──流通量の69%は1年以上活動を停止]]></title>
+        <id>https://www.coindeskjapan.com/?p=196884</id>
+        <link href="https://www.coindeskjapan.com/196884/"/>
+        <updated>2023-08-08T10:47:07.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析会社グラスノード（Glassnode）が追跡したデータによると、3887億ドル（約55兆3700億円）相当の1330万ビットコイン（BTC） ...
+休眠ビットコイン数が増加──流通量の69%は1年以上活動を停止 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カンボジアのCBDCと日本のステーブルコインで、日本と東南アジアの越境決済を実現──ソラミツ、VIVIT、多摩大学大学院ルール形成戦略研究所が連携]]></title>
         <id>https://www.coindeskjapan.com/?p=196871</id>
@@ -561,27 +572,6 @@ GMOコイン、ドージコイン（DOGE）とソラナ（SOL）の取り扱い�
 バイナンス、ステーブルコイン施策を強化──FDUSDでのBTCとETCの取引を無料に first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIへの投資は2025年までに世界で約2000億ドル規模に：ゴールドマン・サックス]]></title>
-        <id>https://www.coindeskjapan.com/?p=196415</id>
-        <link href="https://www.coindeskjapan.com/196415/"/>
-        <updated>2023-08-03T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人工知能（AI）への投資は急成長しており、電気の発見やパソコンの登場よりも、アメリカの国内総生産（GDP）に大きな影響を与える可能性があるとゴールドマン・サック ...
-AIへの投資は2025年までに世界で約2000億ドル規模に：ゴールドマン・サックス first appeared on CoinDesk JAPAN | コインデスク・ジャパン.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースのL2「Base」、9日にメインネットをパブリックローンチへ]]></title>
-        <id>https://coinpost.jp/?p=475713</id>
-        <link href="https://coinpost.jp/?p=475713"/>
-        <updated>2023-08-03T22:55:57.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所コインベースは、L2「Base」に関する新しい情報を公表。来週9日に全てのユーザー向けにBaseのメインネットをローンチし、コカ・コーラらが参加するイベントを開催する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
