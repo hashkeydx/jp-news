@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-11T01:18:00.485Z</updated>
+    <updated>2023-08-11T02:24:06.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインOrdinalsウォレット「Xverse」、シード投資で7.2億円を調達]]></title>
+        <id>https://coinpost.jp/?p=476868</id>
+        <link href="https://coinpost.jp/?p=476868"/>
+        <updated>2023-08-11T01:40:03.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインのユースケースに最適化されたウォレット「Xverse」は、Jump Crypto主導のシードラウンドで7.2億円を調達したことを発表した。Xverseはトークン発行プロトコル「Ordinals Protocol（オーディナル）」を完全にサポートし、エコシステムへのゲートウェイとして位置づけられている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散型ソーシャルグラフ「CyberConnect」がBaseチェーンへ拡張、ネイティブトークンをローンチへ]]></title>
         <id>https://coinpost.jp/?p=476712</id>
