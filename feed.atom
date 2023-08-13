@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-13T08:22:43.931Z</updated>
+    <updated>2023-08-13T09:18:51.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[現実資産（RWA）トークン化が暗号資産市場に及ぼすインパクトとは｜WebXレポート]]></title>
+        <id>https://coinpost.jp/?p=476590</id>
+        <link href="https://coinpost.jp/?p=476590"/>
+        <updated>2023-08-13T09:00:59.000Z</updated>
+        <summary type="html"><![CDATA[WebXカンファレンスにて、「モノのトークン化：RWAトークンが暗号資産市場の次のステップか？」というテーマでのパネルディスカッションが開催された。Hyperledger FoundationやKlaytnなど業界の重要プロジェクトの幹部が参加した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインNFT管理ウォレット「Xverse」開発会社インタビュー｜WebXカンファレンス]]></title>
         <id>https://coinpost.jp/?p=473633</id>
@@ -707,17 +717,6 @@ PayPalのステーブルコインに100万個の疑問、まず5つ first appear
 イングランド銀行、ステーブルコインの発行体制構築を継続 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Camomile Shumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エルサルバドルでの2カ月間：ビットコイン普及の実験場]]></title>
-        <id>https://www.coindeskjapan.com/?p=196855</id>
-        <link href="https://www.coindeskjapan.com/196855/"/>
-        <updated>2023-08-08T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[エルサルバドルは2021年9月、米ドルと並ぶ2番目の法定通貨としてビットコイン（BTC）を採用した。同国は書籍『ビットコイン・スタンダード お金が変わると世界が ...
-エルサルバドルでの2カ月間：ビットコイン普及の実験場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>山口 晶子</name>
         </author>
     </entry>
 </feed>
