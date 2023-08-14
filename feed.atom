@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-14T10:26:29.765Z</updated>
+    <updated>2023-08-14T11:18:00.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ミームコインBALDの開発者、1200万ドルをイーサリアムネットワークに送金]]></title>
+        <id>https://www.coindeskjapan.com/?p=197561</id>
+        <link href="https://www.coindeskjapan.com/197561/"/>
+        <updated>2023-08-14T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[ここ数カ月で最もバイラルなトークンの1つであるBALDの背後にいる謎の開発者は、昨日、イーサリアムネットワークに1200万ドル（約17億4000万円）のイーサリ ...
+ミームコインBALDの開発者、1200万ドルをイーサリアムネットワークに送金 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米名門大法学者ら、対SEC裁判でコインベース支持の法廷助言書提出]]></title>
         <id>https://coinpost.jp/?p=477144</id>
@@ -590,27 +601,6 @@ web3推進にレバレッジ改正は大きな役割：小田玄紀・JVCEA新�
 MUFGとNTTデータが提携──デジタル社債向け「標準化インフラ」構築 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECがリップル裁判で上訴へ、Baseチェーンがフルオープン実施｜10日朝の重要速報まとめ]]></title>
-        <id>https://coinpost.jp/?p=476668</id>
-        <link href="https://coinpost.jp/?p=476668"/>
-        <updated>2023-08-09T22:45:37.000Z</updated>
-        <summary type="html"><![CDATA[米SECはリップル社との裁判をめぐり仮上訴を求める。コインベースの「Baseブロックチェーン」はフルオープンとなった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインに特化した「ChatGPT」：ハルシネーション（幻覚）のない信頼性の高い回答を提供]]></title>
-        <id>https://www.coindeskjapan.com/?p=197043</id>
-        <link href="https://www.coindeskjapan.com/197043/"/>
-        <updated>2023-08-09T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）について質問がある？ チェーンコード・ラボがリリースしたばかりの新しく、専門的なAI（人工知能）ツールは、信頼できる情報を提供することを目 ...
-ビットコインに特化した「ChatGPT」：ハルシネーション（幻覚）のない信頼性の高い回答を提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Frederick Munawa</name>
         </author>
     </entry>
 </feed>
