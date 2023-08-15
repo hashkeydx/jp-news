@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-15T01:18:55.194Z</updated>
+    <updated>2023-08-15T02:24:54.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、カナダ事業を正式に立ち上げ]]></title>
+        <id>https://coinpost.jp/?p=477230</id>
+        <link href="https://coinpost.jp/?p=477230"/>
+        <updated>2023-08-15T01:55:20.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所コインベースはカナダ事業を正式に立ち上げた。背景として、カナダでビットコインなど仮想通貨に対する意識が高いことを挙げた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米中銀の即時決済システム「FedNow」、へデラ活用の「Dropp」をサービス提供企業に追加]]></title>
+        <id>https://coinpost.jp/?p=477220</id>
+        <link href="https://coinpost.jp/?p=477220"/>
+        <updated>2023-08-15T01:15:27.000Z</updated>
+        <summary type="html"><![CDATA[米中銀は、即時決済システムFedNowのサービスプロバイダーを紹介するウェブページに、Hederaの分散型台帳技術（DLT）を活用するDroppを追加。このウェブページを提供する目的も説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヘデラ、上昇──FedNowがヘデラ基盤の少額決済ツール「Dropp」採用]]></title>
         <id>https://www.coindeskjapan.com/?p=197630</id>
