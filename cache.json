@@ -230,16 +230,6 @@
           "wordCount": 984,
           "title": "ワールドコイン設立秘話：Orbの内幕／テザー社、驚愕の四半期利益【週末に読みたい厳選11本】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/GO7ZOKRMBZF3LNIRVSHLP2VJYA.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=197307",
-          "author": "増田 隆幸",
-          "description": "7番目の規模を誇るスマートコントラクト・プラットフォーム、アバランチ（Avalanche）の利用は第2四半期、ユーザーが投入する資金は減少したものの、2倍以上に ...\nアバランチ、第2四半期は利用増加：ナンセン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/197307/",
-          "publishedOn": "2023-08-11T01:00:00.000Z",
-          "wordCount": 918,
-          "title": "アバランチ、第2四半期は利用増加：ナンセン",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/shutterstock_2300755541.jpg"
         }
       ]
     },
@@ -254,6 +244,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=477353",
+          "author": "菊谷ルイス",
+          "description": "新レイヤー1ネットワーク「Sei」はネイティブトークン『SEI』をリリース。Web3ソーシャルグラフ・プロトコルの「CyberConnect」も同日に『CYBER』をリリースしバイナンスへの上場を実現。",
+          "link": "https://coinpost.jp/?p=477353",
+          "publishedOn": "2023-08-15T13:00:51.000Z",
+          "wordCount": 2173,
+          "title": "【速報】新L1「Sei」メインネットローンチ、バイナンスやコインベースに上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=475072",
           "author": "CoinPost編集部",
@@ -718,21 +723,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/F3LAcLqWAAMgdrt.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/F3LAcLqWAAMgdrt.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=476712",
-          "author": "AKIRA.H",
-          "description": "Web3ソーシャル・ネットワーク基盤「CyberConnect」は、新しいL2ネットワーク「Base」への拡張を公表した。また、CyberConnectのネイティブトークンである「CYBER」についてBinance Launchpoolで8月2日からファーミングが開始された。",
-          "link": "https://coinpost.jp/?p=476712",
-          "publishedOn": "2023-08-11T01:00:47.000Z",
-          "wordCount": 2207,
-          "title": "分散型ソーシャルグラフ「CyberConnect」がBaseチェーンへ拡張、ネイティブトークンをローンチへ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/CyberConnect_0810.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/CyberConnect_0810.jpg"
         }
       ]
     }
