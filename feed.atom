@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-17T01:17:12.008Z</updated>
+    <updated>2023-08-17T02:23:45.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、対SEC訴訟で秘密保持命令を要請]]></title>
+        <id>https://coinpost.jp/?p=477481</id>
+        <link href="https://coinpost.jp/?p=477481"/>
+        <updated>2023-08-17T01:35:33.000Z</updated>
+        <summary type="html"><![CDATA[大手仮想通貨取引所バイナンスは、対SECの訴訟において、SECの過剰な開示要求から同社を守るための秘密保持命令を裁判所に要請している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本最大級、web3の国際カンファレンス「WebX」レポート]]></title>
+        <id>https://coinpost.jp/?p=475113</id>
+        <link href="https://coinpost.jp/?p=475113"/>
+        <updated>2023-08-17T01:19:31.000Z</updated>
+        <summary type="html"><![CDATA[2023年7月25日〜26日にかけて東京国際フォーラムで開催され、多くのweb3ファンを動員した国際カンファレンス「WebX」の現地レポート。暗号資産（仮想通貨）メディアCoinPostが企画・運営に携わり、国内外の主要プレイヤーなどが一堂に会した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アービトラム、2024年3月に10億ドル以上のトークンを凍結解除]]></title>
         <id>https://www.coindeskjapan.com/?p=197814</id>
