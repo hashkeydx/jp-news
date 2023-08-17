@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-17T02:23:45.827Z</updated>
+    <updated>2023-08-17T03:21:12.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PayPal、英国ユーザー向けの仮想通貨購入サービス一時停止へ]]></title>
+        <id>https://coinpost.jp/?p=477518</id>
+        <link href="https://coinpost.jp/?p=477518"/>
+        <updated>2023-08-17T02:55:21.000Z</updated>
+        <summary type="html"><![CDATA[送金サービス大手PayPalは、英国で同社プラットフォームを通じたビットコインなど仮想通貨の購入サービスを一時停止すると通知した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G20、国際的な暗号資産ルール具体化を目指す]]></title>
+        <id>https://www.coindeskjapan.com/?p=197788</id>
+        <link href="https://www.coindeskjapan.com/197788/"/>
+        <updated>2023-08-17T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[主要な経済当局者たちは、G20の会議中に行われた円卓会議で暗号資産規制における世界的な協調を求めた。 国際通貨基金（IMF）のクリスタリナ・ゲオルギエバ（Kri ...
+G20、国際的な暗号資産ルール具体化を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Amitoj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース支援「BASE」のDeFiで詐欺続出、SwirlLendから7,000万円流出]]></title>
+        <id>https://coinpost.jp/?p=477511</id>
+        <link href="https://coinpost.jp/?p=477511"/>
+        <updated>2023-08-17T02:40:40.000Z</updated>
+        <summary type="html"><![CDATA[コインベースが支援するイーサリアムのレイヤー2ネットワーク「BASE」において、詐欺およびハッキング事例が相次いでいる。その中で、DeFiプロトコル「SwirlLend」では7,000万円相当の資産が持ち逃げされ、出口詐欺が確認された。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、対SEC訴訟で秘密保持命令を要請]]></title>
         <id>https://coinpost.jp/?p=477481</id>
