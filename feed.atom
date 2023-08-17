@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-17T07:19:04.971Z</updated>
+    <updated>2023-08-17T08:24:51.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ConsenSys、zkEVM型イーサリアムL2「Linea」をメインネットローンチ]]></title>
+        <id>https://coinpost.jp/?p=477613</id>
+        <link href="https://coinpost.jp/?p=477613"/>
+        <updated>2023-08-17T07:37:03.000Z</updated>
+        <summary type="html"><![CDATA[米国のWeb3大手開発企業ConsenSysが開発する、イーサリアムのL2スケーリングソリューション「Linea」が、メインネットローンチを完了した。ゼロ知識証明を取り入れたLineaはイーサリアムとの完全互換性を備える「zkEVM」を導入。開発者の作業負担を軽減する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBI VCトレード、アバランチ開発元Ava Labsとの業務提携を発表]]></title>
+        <id>https://coinpost.jp/?p=477549</id>
+        <link href="https://coinpost.jp/?p=477549"/>
+        <updated>2023-08-17T07:18:22.000Z</updated>
+        <summary type="html"><![CDATA[SBI VCトレード株式会社は16日、レイヤー1ブロックチェーン「アバランチ」の開発元であるAva Labs Inc.との業務提携を発表し、Avalanche ネットワークの国内普及に向けた取り組みについて合意した。]]></summary>
+        <author>
+            <name>j.nagasawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国通信大手SKテレコムがポリゴンラボと提携、Web3事業を強化]]></title>
         <id>https://coinpost.jp/?p=477543</id>
