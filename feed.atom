@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-18T04:25:17.892Z</updated>
+    <updated>2023-08-18T05:23:34.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨シバイヌのL2「Shibarium」で取引滞留、2.5億円相当のイーサリアムに影響]]></title>
+        <id>https://coinpost.jp/?p=477849</id>
+        <link href="https://coinpost.jp/?p=477849"/>
+        <updated>2023-08-18T04:50:36.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨シバイヌトークンの、独自L2プロジェクト「シバリウム（Shibarium）」で、イーサリアムが滞留している。開発チームが状況を報告した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNBチェーンのレイヤー2「opBNB」、メインネット公開へ進展]]></title>
         <id>https://coinpost.jp/?p=477830</id>
