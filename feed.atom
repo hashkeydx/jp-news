@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-19T02:21:50.181Z</updated>
+    <updated>2023-08-19T03:21:04.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[決済企業Checkout.com、バイナンスとの提携を終了]]></title>
+        <id>https://coinpost.jp/?p=477992</id>
+        <link href="https://coinpost.jp/?p=477992"/>
+        <updated>2023-08-19T03:00:54.000Z</updated>
+        <summary type="html"><![CDATA[決済企業Checkout.comは、仮想通貨取引所バイナンスとの提携関係を一方的に終了した。マネロン対策やコンプライアンス面での懸念を理由としている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2アービトラム、ファイナリティが約一時間停止]]></title>
+        <id>https://coinpost.jp/?p=477978</id>
+        <link href="https://coinpost.jp/?p=477978"/>
+        <updated>2023-08-19T02:30:21.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのレイヤー2ソリューション「アービトラム（ARB）」で約1時間、トランザクション処理に異常が生じた。開発元のOffchain Labsは、アービトラム自体がダウンしているわけではなく、一時的に決済完了性を得られない状況が生じたと説明した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスク氏、X（旧ツイッター）のブロック機能廃止の意向か]]></title>
         <id>https://coinpost.jp/?p=477981</id>
