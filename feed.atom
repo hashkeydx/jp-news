@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-19T23:19:01.071Z</updated>
+    <updated>2023-08-20T01:21:34.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[現実資産（RWA）のトークン化：その仕組みとメリット【基礎知識】]]></title>
+        <id>https://www.coindeskjapan.com/?p=197879</id>
+        <link href="https://www.coindeskjapan.com/197879/"/>
+        <updated>2023-08-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アンディ・ウォーホルの作品を買いたいとする。マリリン・モンローの絵に1億9500万ドル（約273億円、1ドル140円換算）、エリザベス女王の絵に85万ドルなどと ...
+現実資産（RWA）のトークン化：その仕組みとメリット【基礎知識】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Toby Bochan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインETF、カナダでの先行事例から学ぶこと]]></title>
         <id>https://www.coindeskjapan.com/?p=198078</id>
@@ -653,16 +664,6 @@ Lamina1のベータネット・ローンチ：「メタバース」生みの親�
 ペイパルのステーブルコインはリブラとは違う──4年前との状況の違い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Michael J Casey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】新L1「Sei」メインネットローンチ、バイナンスやコインベースに上場]]></title>
-        <id>https://coinpost.jp/?p=477353</id>
-        <link href="https://coinpost.jp/?p=477353"/>
-        <updated>2023-08-15T13:00:51.000Z</updated>
-        <summary type="html"><![CDATA[新レイヤー1ネットワーク「Sei」はネイティブトークン『SEI』をリリース。Web3ソーシャルグラフ・プロトコルの「CyberConnect」も同日に『CYBER』をリリースしバイナンスへの上場を実現。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
