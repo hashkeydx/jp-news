@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-21T09:23:03.509Z</updated>
+    <updated>2023-08-21T10:26:37.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[単一のトレーダーがイーサリアム取引で80億円の損失]]></title>
+        <id>https://www.coindeskjapan.com/?p=198148</id>
+        <link href="https://www.coindeskjapan.com/198148/"/>
+        <updated>2023-08-21T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[8月17日深夜、暗号資産（仮想通貨）市場が急落したため、暗号資産取引所バイナンスで、1人のトレーダーあるいは1つの事業体が、バイナンスUSD（BUSD）とイーサ ...
+単一のトレーダーがイーサリアム取引で80億円の損失 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1BTC採掘にかかる家庭用電力コスト（世界平均）は46291ドル＝CoinGecko]]></title>
         <id>https://coinpost.jp/?p=478150</id>
@@ -546,27 +557,6 @@ DeFiの成長には現実資産（RWA）が不可欠 first appeared on CoinDesk 
 ビットコイン、2万9000ドル割れ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースが米国でビットコイン先物提供へ、リップル社がSECの上訴申し出に反対｜17日朝の重要速報まとめ]]></title>
-        <id>https://coinpost.jp/?p=477472</id>
-        <link href="https://coinpost.jp/?p=477472"/>
-        <updated>2023-08-16T22:10:00.000Z</updated>
-        <summary type="html"><![CDATA[リップル社はSECによる先週の上訴申請について反対すると表明した。仮想通貨取引所コインベースは規制当局から承認を受けて米国内で適格な顧客にビットコインとイーサリアム先物取引を提供できるようになった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI、Web3、ヒトが連携──グローバルで複雑な課題を解決するために]]></title>
-        <id>https://www.coindeskjapan.com/?p=196215</id>
-        <link href="https://www.coindeskjapan.com/196215/"/>
-        <updated>2023-08-16T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現在のカルチャーや規制に関する世界中での議論からは、AI（人工知能）に対して、数多くの恐怖が存在していることがわかる。AIが世界を征服する。AIが仕事を奪う。A ...
-AI、Web3、ヒトが連携──グローバルで複雑な課題を解決するために first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Illia Polosukhin</name>
         </author>
     </entry>
 </feed>
