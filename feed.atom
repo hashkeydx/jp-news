@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-21T05:23:43.481Z</updated>
+    <updated>2023-08-21T06:26:41.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1BTC採掘にかかる家庭用電力コスト（世界平均）は46291ドル＝CoinGecko]]></title>
+        <id>https://coinpost.jp/?p=478150</id>
+        <link href="https://coinpost.jp/?p=478150"/>
+        <updated>2023-08-21T05:53:45.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨データサイトCoinGeckoは、1BTC（ビットコイン）のマイニングにかかる電気料金を世界147カ国で比較したレポートを発表。地域ごとの格差が際立っており、ソロマイニングの収益性を大きく左右することが明らかになった。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人マイナーがビットコインのブロック生成に成功、採掘報酬6.25BTCを手に入れる]]></title>
         <id>https://coinpost.jp/?p=478164</id>
