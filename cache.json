@@ -220,16 +220,6 @@
           "wordCount": 991,
           "title": "誤ったトークン化の方法（とそれを正す方法）",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/shutterstock_1042111717.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=197918",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場をパターン分析・移動平均線（9MA・25MA）・一目均衡表・ボリンジャーバンド・MACD・RSIの代表的な6種類のテクニカル分析で5段階 ...\nマトリックス法によるテクニカル分析（2023/8/17）ビットコイン、相場好転は空振り？：楽天ウォレット first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/197918/",
-          "publishedOn": "2023-08-17T11:45:00.000Z",
-          "wordCount": 1047,
-          "title": "マトリックス法によるテクニカル分析（2023/8/17）ビットコイン、相場好転は空振り？：楽天ウォレット",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/tr-thumb_230817.jpg"
         }
       ]
     },
@@ -237,13 +227,39 @@
       "title": "日本暗号資産ビジネス協会（JCBA） – メディア特設サイト",
       "feedUrl": "https://media.cryptocurrency-association.org/?feed=rss2",
       "siteUrl": "https://media.cryptocurrency-association.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://media.cryptocurrency-association.org/?p=491",
+          "author": "media-master",
+          "description": "2024年度 税制改正要望書 記者レク開催レポート 当会および一般社団法人日本暗号資産取引業協会（JVCEA）と共同での2024年度税制改正要望書を政府、関係省庁へ2023年7月31日（月）に提出し、同日記者レクを開催い […]\nThe post 2024年度 税制改正要望書 記者レク開催レポート first appeared on 日本暗号資産ビジネス協会（JCBA） - メディア特設サイト.",
+          "link": "https://media.cryptocurrency-association.org/?p=491",
+          "publishedOn": "2023-08-21T23:45:11.000Z",
+          "wordCount": 2237,
+          "title": "2024年度 税制改正要望書 記者レク開催レポート",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=478353",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所コインベースは、ステーブルコインUSDCの発行と運営はサークルが単独で行うことに両社が合意したことを発表。また、USDCが新たに6つのブロックチェーンに対応する計画も明かした。",
+          "link": "https://coinpost.jp/?p=478353",
+          "publishedOn": "2023-08-22T00:30:00.000Z",
+          "wordCount": 2205,
+          "title": "米コインベース、サークルの株式を取得　USDCの運営共同企業体「Centre」は解体へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/Coinbase-Circle-USDC.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/Coinbase-Circle-USDC.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=478336",
           "author": "K.Kobayashi",
