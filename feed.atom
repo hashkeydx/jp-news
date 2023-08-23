@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-23T05:23:33.115Z</updated>
+    <updated>2023-08-23T06:26:05.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[X（旧ツイッター）と連動するソーシャルFi「friend tech」、魅力とリスクを分析]]></title>
+        <id>https://coinpost.jp/?p=478441</id>
+        <link href="https://coinpost.jp/?p=478441"/>
+        <updated>2023-08-23T06:00:14.000Z</updated>
+        <summary type="html"><![CDATA[「friend.tech」はソーシャルファイの新星アプリとして急成長。ツイッター（X）アカウントと連携し、独自のソーシャルトークン「Keys」を発行・取引可能。著名人の参加や規制に関する議論も巻き起こっている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインチェック新サービス「Coincheck INO」、Wizardry BCのNFTコレクション先行販売へ]]></title>
+        <id>https://coinpost.jp/?p=478611</id>
+        <link href="https://coinpost.jp/?p=478611"/>
+        <updated>2023-08-23T05:53:51.000Z</updated>
+        <summary type="html"><![CDATA[コインチェック株式会社が、8月中に新たなNFTコレクションの発表プラットフォーム「Coincheck INO」の提供を開始する。ドリコムのIPを活用するブロックチェーンゲーム『Eternal Crypt - Wizardry BC』のNFTコレクションの先行販売を予定する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムL2ネットワーク「Starknet」、暗号証明技術「Prover」をオープンソース化へ]]></title>
         <id>https://coinpost.jp/?p=478592</id>
