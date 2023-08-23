@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-23T03:21:10.001Z</updated>
+    <updated>2023-08-23T04:26:04.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2ネットワーク「Starknet」、暗号証明技術「Prover」をオープンソース化へ]]></title>
+        <id>https://coinpost.jp/?p=478592</id>
+        <link href="https://coinpost.jp/?p=478592"/>
+        <updated>2023-08-23T04:12:52.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのL2ネットワーク「Starknet」は、暗号証明を生成する「Prover」のソースコードを公開する予定だと明らかにした。商用利用も可能なApache 2.0のライセンス下で利用可能になる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BaseのTPS、競合レイヤー2を上回る──Friend.Techの人気急騰で]]></title>
+        <id>https://www.coindeskjapan.com/?p=198431</id>
+        <link href="https://www.coindeskjapan.com/198431/"/>
+        <updated>2023-08-23T03:31:59.000Z</updated>
+        <summary type="html"><![CDATA[米暗号資産取引大手のコインベース（Coinbase）が支援するレイヤー2ブロックチェーン「Base」が、直近24時間で過去最高の平均15.88トランザクション/ ...
+BaseのTPS、競合レイヤー2を上回る──Friend.Techの人気急騰で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米共和党の大統領選討論会、仮想通貨支持の2人も登壇へ]]></title>
+        <id>https://coinpost.jp/?p=478581</id>
+        <link href="https://coinpost.jp/?p=478581"/>
+        <updated>2023-08-23T03:30:46.000Z</updated>
+        <summary type="html"><![CDATA[米共和党は、大統領選討論会に8人の候補者が登壇すると発表した。ビットコインなど仮想通貨を支持する候補2人も登壇する。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初めてのNFT販売を取り扱う「Coincheck INO」開始──第1号案件はドリコムのBCGで使えるNFTコレクション]]></title>
         <id>https://www.coindeskjapan.com/?p=198370</id>

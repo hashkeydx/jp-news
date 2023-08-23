@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=198431",
+          "author": "林 理南",
+          "description": "米暗号資産取引大手のコインベース（Coinbase）が支援するレイヤー2ブロックチェーン「Base」が、直近24時間で過去最高の平均15.88トランザクション/ ...\nBaseのTPS、競合レイヤー2を上回る──Friend.Techの人気急騰で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/198431/",
+          "publishedOn": "2023-08-23T03:31:59.000Z",
+          "wordCount": 884,
+          "title": "BaseのTPS、競合レイヤー2を上回る──Friend.Techの人気急騰で",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/N24YILL5YE2JFSHEYAZLVKHSPHBQ.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=198370",
           "author": "CoinDesk JAPAN",
           "description": "コインチェックは8月23日、初めて販売されるNFTコレクションを取り扱う「Coincheck INO」の提供を開始し、第1号案件として、ドリコムとチューリンガム ...\n初めてのNFT販売を取り扱う「Coincheck INO」開始──第1号案件はドリコムのBCGで使えるNFTコレクション first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -285,6 +295,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=478592",
+          "author": "AKIRA.H",
+          "description": "イーサリアムのL2ネットワーク「Starknet」は、暗号証明を生成する「Prover」のソースコードを公開する予定だと明らかにした。商用利用も可能なApache 2.0のライセンス下で利用可能になる。",
+          "link": "https://coinpost.jp/?p=478592",
+          "publishedOn": "2023-08-23T04:12:52.000Z",
+          "wordCount": 2139,
+          "title": "イーサリアムL2ネットワーク「Starknet」、暗号証明技術「Prover」をオープンソース化へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Starknet_0425-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Starknet_0425-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=478581",
+          "author": "A.Yamada",
+          "description": "米共和党は、大統領選討論会に8人の候補者が登壇すると発表した。ビットコインなど仮想通貨を支持する候補2人も登壇する。",
+          "link": "https://coinpost.jp/?p=478581",
+          "publishedOn": "2023-08-23T03:30:46.000Z",
+          "wordCount": 2171,
+          "title": "米共和党の大統領選討論会、仮想通貨支持の2人も登壇へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/shutterstock_2204998435.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/shutterstock_2204998435.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=478559",
           "author": "S.Ninomiya",
