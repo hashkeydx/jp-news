@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-25T04:26:36.721Z</updated>
+    <updated>2023-08-25T05:23:47.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタ社、AIコーディングソフトをリリース　 オープンソース化でOpenAIに対抗]]></title>
+        <id>https://coinpost.jp/?p=478958</id>
+        <link href="https://coinpost.jp/?p=478958"/>
+        <updated>2023-08-25T04:50:24.000Z</updated>
+        <summary type="html"><![CDATA[米IT大手メタ社は2、ソフトウェアのコードを生成する人工知能（AI）ツール「Code Llama」をリリースした。Code Llamaは同社開発の大規模言語モデル（LLM）「Llama 2」上に構築されており、オープンソースで公開され、研究及び商用利用は無料となっている。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、Baseブロックチェーンの運営で中立性を約束──上場企業として手探り]]></title>
         <id>https://www.coindeskjapan.com/?p=198774</id>
