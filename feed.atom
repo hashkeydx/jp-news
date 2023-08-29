@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-29T11:18:09.866Z</updated>
+    <updated>2023-08-29T12:40:16.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、新たなオプション取引の提供を開始]]></title>
+        <id>https://www.coindeskjapan.com/?p=199256</id>
+        <link href="https://www.coindeskjapan.com/199256/"/>
+        <updated>2023-08-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所バイナンス（Binance）は、同社の取引部門であるバイナンス・オプション（Binance Options）が、取引所と密接な関係にあ ...
+バイナンス、新たなオプション取引の提供を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プライバシーインフラ「Nym」が必要な理由、ゼロ知識証明の可能性を探る｜WebX]]></title>
         <id>https://coinpost.jp/?p=475641</id>
@@ -644,17 +655,6 @@ Centrifugeのトークン化ローンデフォルト危機、MakerDAOへのリ�
         <summary type="html"><![CDATA[仮想通貨イーサリアムのOSを開発するethOSは、このOSをプレインストールしたスマートフォンの先行予約を開始したことを発表。一般販売は2023年秋の予定である。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBI子会社のB2C2、フランスの競合を買収──EUへの拡大を視野]]></title>
-        <id>https://www.coindeskjapan.com/?p=198753</id>
-        <link href="https://www.coindeskjapan.com/198753/"/>
-        <updated>2023-08-25T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[ロンドンを拠点とする流動性プロバイダーのB2C2は、プレスリリースによると、フランスのマーケットメ−カーWoortonを買収、Woortonが持つ規制ライセンス ...
-SBI子会社のB2C2、フランスの競合を買収──EUへの拡大を視野 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
