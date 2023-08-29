@@ -350,26 +350,6 @@
           "wordCount": 903,
           "title": "バイナンス、ラテンアメリカと中東でデビットカードを廃止",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/05/shutterstock_1903290607-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=198684",
-          "author": "Sam Reynolds",
-          "description": "Nansen.aiのデータによると、最も有名な「ブルーチップ」NFT（非代替性トークン）のいくつかが、直近1カ月で25％以上下落した。 NFTは、所有者に実物ま ...\n主要なNFTコレクション、フロア価格が1カ月で20％以上下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/198684/",
-          "publishedOn": "2023-08-24T22:00:00.000Z",
-          "wordCount": 1019,
-          "title": "主要なNFTコレクション、フロア価格が1カ月で20％以上下落",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/shutterstock_1955775856.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=198143",
-          "author": "Lex Sokolin",
-          "description": "何十億ドルという価値と何百万人というユーザーを抱えているもかかわらず、多くの人々はいまだに暗号資産（仮想通貨）の「キラーユースケース」を探しており、唯一無二のソ ...\nWeb3、AI、フィンテックの融合と、マシンエコノミーという新しい時代 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/198143/",
-          "publishedOn": "2023-08-24T21:30:00.000Z",
-          "wordCount": 893,
-          "title": "Web3、AI、フィンテックの融合と、マシンエコノミーという新しい時代",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/shutterstock_2242943135.jpg"
         }
       ]
     },
@@ -384,6 +364,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=475641",
+          "author": "CoinPost編集部",
+          "description": "国際カンファレンス「WebX」で、ゼロ知識証明（ZKP）にフォーカスしたパネルディスカッションが行われ、最先端のZKPプロジェクトで活躍する4人のパネリストが登壇。ZKPがもたらす恩恵と課題、規制との関係についての現状を語った。",
+          "link": "https://coinpost.jp/?p=475641",
+          "publishedOn": "2023-08-29T10:00:39.000Z",
+          "wordCount": 2205,
+          "title": "プライバシーインフラ「Nym」が必要な理由、ゼロ知識証明の可能性を探る｜WebX",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/nym-webx-report1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/nym-webx-report1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=479477",
           "author": "AKIRA.H",
@@ -848,21 +843,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/Base-Decentralization.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/Base-Decentralization.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=478915",
-          "author": "菊谷ルイス",
-          "description": "マスターカードが提供するバイナンスの仮想通貨デビットカードは4か国でサービス停止することになる。米国でイーサリアム（ETH）先物ETFを申請する企業は続出している。",
-          "link": "https://coinpost.jp/?p=478915",
-          "publishedOn": "2023-08-24T22:10:21.000Z",
-          "wordCount": 2265,
-          "title": "Arkも仮想通貨イーサリアム先物ETF申請、バイナンスカードが南米などで利用停止へ｜25日朝の重要速報まとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
         }
       ]
     }
