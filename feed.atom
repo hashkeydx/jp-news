@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-30T20:22:23.524Z</updated>
+    <updated>2023-08-30T21:18:52.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ロビンフッド管理のイーサリアムが世界5位か、コインベースがPayPalステーブルコイン上場実施へ｜31日朝の重要速報まとめ]]></title>
+        <id>https://coinpost.jp/?p=479874</id>
+        <link href="https://coinpost.jp/?p=479874"/>
+        <updated>2023-08-30T21:00:16.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨・株投資アプリの米ロビンフッドがイーサリアム（ETH）保有額で世界5位。米仮想通貨取引所大手コインベースはPayPal発行のステーブルコイン「PayPal USD（PYUSD）」の新規上場を実施予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グレイスケールの判決が重要な本当の理由]]></title>
+        <id>https://www.coindeskjapan.com/?p=199420</id>
+        <link href="https://www.coindeskjapan.com/199420/"/>
+        <updated>2023-08-30T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの暗号資産業界は、念願のビットコイン現物ETF（上場投資信託）の実現に一歩近づいた。29日、米連邦控訴裁判所の3人の裁判官は、グレイスケール・ビットコイ ...
+グレイスケールの判決が重要な本当の理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスジャパン、暗号資産取扱数100を目指す──ステーブルコインは「伝統的な金融分野」との融合を想定]]></title>
         <id>https://www.coindeskjapan.com/?p=199390</id>
@@ -594,16 +615,6 @@ Centrifugeのトークン化ローンデフォルト危機、MakerDAOへのリ�
 イーサリアム取引で80億円の損失、ビットコインはFTX崩壊以来の週間下落【Weekly Review：8/19〜8/25】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米PayPalのステーブルコイン「PYUSD」、立ち上がり3週間の伸びは苦戦か]]></title>
-        <id>https://coinpost.jp/?p=479133</id>
-        <link href="https://coinpost.jp/?p=479133"/>
-        <updated>2023-08-26T08:30:12.000Z</updated>
-        <summary type="html"><![CDATA[決済大手ペイパルの支援するステーブルコイン「PYUSD」が普及に苦戦。発行枚数の多くが流通していないことがオンチェーンデータから明らかになった。]]></summary>
-        <author>
-            <name>SuzukiTatsuya</name>
         </author>
     </entry>
 </feed>
