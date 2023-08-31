@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-08-31T10:27:10.287Z</updated>
+    <updated>2023-08-31T11:18:17.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクのX、アメリカの複数の州で暗号資産を含む決済ライセンスを取得]]></title>
+        <id>https://www.coindeskjapan.com/?p=199535</id>
+        <link href="https://www.coindeskjapan.com/199535/"/>
+        <updated>2023-08-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク（Elon Musk）氏が所有するソーシャルメディアプラットフォームのX（以前はツイッターと呼ばれていた）は、今週初めにロードアイランド州で取得 ...
+イーロン・マスクのX、アメリカの複数の州で暗号資産を含む決済ライセンスを取得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sandali Handagama</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フィナンシェ、三菱UFJ信託銀行と暗号資産ビジネスの共同検討]]></title>
         <id>https://www.coindeskjapan.com/?p=199522</id>
@@ -761,17 +772,6 @@ Centrifugeのトークン化ローンデフォルト危機、MakerDAOへのリ�
 盛り上がるブロックチェーン予測市場、米共和党の有力大統領候補にラマスワミ氏──トランプ前大統領は討論会を欠席 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Kessler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[犯罪捜査網に巻き込まれたトルネード・キャッシュ開発者たち──開発者の責任とは]]></title>
-        <id>https://www.coindeskjapan.com/?p=198766</id>
-        <link href="https://www.coindeskjapan.com/198766/"/>
-        <updated>2023-08-26T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[私は、制裁対象になっているトルネード・キャッシュ（Tornado Cash）を開発したことについて、ロマン・ストーム（Roman Storm）氏とロマン・セメノ ...
-犯罪捜査網に巻き込まれたトルネード・キャッシュ開発者たち──開発者の責任とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
