@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-01T08:26:07.443Z</updated>
+    <updated>2023-09-01T09:21:20.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グレースケールの投資信託「GBTC」とは　ビットコイン現物との価格乖離が注目される理由]]></title>
+        <id>https://coinpost.jp/?p=480144</id>
+        <link href="https://coinpost.jp/?p=480144"/>
+        <updated>2023-09-01T08:39:41.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨の資産管理会社グレースケール・インベストメンツは、同社が管理するビットコイン投資ファンド「GBTC」を巡る米SEC（証券取引委員会）との裁判で有利な判決を受けました。同社だけでなくビットコイン現物ETFの承認判断にも影響する部分があるため、重要視されています。GBTCの概要、その影響力について詳細に解説します。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スイスの暗号資産銀行セバ、香港での営業の原則認可取得]]></title>
         <id>https://www.coindeskjapan.com/?p=199496</id>
@@ -917,17 +927,6 @@ Centrifugeのトークン化ローンデフォルト危機、MakerDAOへのリ�
 「ビットコインの夢」がアルゼンチンとトルコで現実に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Todd Groth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決済は暗号資産の差別化要因ではない──FedNowのローンチで再認識]]></title>
-        <id>https://www.coindeskjapan.com/?p=198456</id>
-        <link href="https://www.coindeskjapan.com/198456/"/>
-        <updated>2023-08-27T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[決済、特に国境を越えた決済（クロスボーダー決済）は、ブロックチェーンにとって重要なユースケースであり、価値提案であるとしばしばアピールされる。しかし残念ながら、 ...
-決済は暗号資産の差別化要因ではない──FedNowのローンチで再認識 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Paul Brody</name>
         </author>
     </entry>
 </feed>
