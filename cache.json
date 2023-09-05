@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=200124",
+          "author": "Camomile Shumba",
+          "description": "金融安定理事会（FSB）と国際通貨基金（IMF）は、世界の暗号資産（仮想通貨）政策に関する共同文書を発表する予定だと、FSBのクラース・クノット（Klaas K ...\nFSBとIMF、G20サミットで暗号資産政策に関して世界的な協調を求める文書を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/200124/",
+          "publishedOn": "2023-09-05T21:00:00.000Z",
+          "wordCount": 1042,
+          "title": "FSBとIMF、G20サミットで暗号資産政策に関して世界的な協調を求める文書を発表",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_2174989425-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=200108",
           "author": "増田 隆幸",
           "description": "ステーブルコインのユースケースとして期待される企業間決済の実現に向けて、三菱UFJフィナンシャル・グループ（MUFG）とみずほファイナンシャルグループ（みずほF ...\nステーブルコインでの企業間決済へ──MUFG、みずほFGが連携：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -284,6 +294,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=480664",
+          "author": "菊谷ルイス",
+          "description": "米決済大手Visaは、加盟店契約会社へのソラナUSDC決済機能の拡大を発表した。ソラナ（SOL）は年初来+105%高だった。また、米仮想通貨取引所大手コインベースは機関投資家向けに新たなレンディングサービスを立ち上げた",
+          "link": "https://coinpost.jp/?p=480664",
+          "publishedOn": "2023-09-05T20:50:47.000Z",
+          "wordCount": 2263,
+          "title": "米Visaがソラナ（SOL）でUSDC決済対応へ、コインベースが機関投資家向けの仮想通貨貸し借りサービス設立｜6日朝の重要速報まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=480265",
           "author": "AKIRA.H",
@@ -628,21 +653,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=480144",
-          "author": "AKIRA.H",
-          "description": "仮想通貨の資産管理会社グレースケール・インベストメンツは、同社が管理するビットコイン投資ファンド「GBTC」を巡る米SEC（証券取引委員会）との裁判で有利な判決を受けました。同社だけでなくビットコイン現物ETFの承認判断にも影響する部分があるため、重要視されています。GBTCの概要、その影響力について詳細に解説します。",
-          "link": "https://coinpost.jp/?p=480144",
-          "publishedOn": "2023-09-01T08:39:41.000Z",
-          "wordCount": 2175,
-          "title": "グレースケールの投資信託「GBTC」とは　ビットコイン現物との価格乖離が注目される理由",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/grayscale-bitcoin-1m.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/grayscale-bitcoin-1m.jpg"
         }
       ]
     }

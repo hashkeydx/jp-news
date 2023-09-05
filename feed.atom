@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-05T20:21:14.717Z</updated>
+    <updated>2023-09-05T21:19:26.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FSBとIMF、G20サミットで暗号資産政策に関して世界的な協調を求める文書を発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=200124</id>
+        <link href="https://www.coindeskjapan.com/200124/"/>
+        <updated>2023-09-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[金融安定理事会（FSB）と国際通貨基金（IMF）は、世界の暗号資産（仮想通貨）政策に関する共同文書を発表する予定だと、FSBのクラース・クノット（Klaas K ...
+FSBとIMF、G20サミットで暗号資産政策に関して世界的な協調を求める文書を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Camomile Shumba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米Visaがソラナ（SOL）でUSDC決済対応へ、コインベースが機関投資家向けの仮想通貨貸し借りサービス設立｜6日朝の重要速報まとめ]]></title>
+        <id>https://coinpost.jp/?p=480664</id>
+        <link href="https://coinpost.jp/?p=480664"/>
+        <updated>2023-09-05T20:50:47.000Z</updated>
+        <summary type="html"><![CDATA[米決済大手Visaは、加盟店契約会社へのソラナUSDC決済機能の拡大を発表した。ソラナ（SOL）は年初来+105%高だった。また、米仮想通貨取引所大手コインベースは機関投資家向けに新たなレンディングサービスを立ち上げた]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコインでの企業間決済へ──MUFG、みずほFGが連携：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=200108</id>
@@ -520,16 +541,6 @@ SWIFTとチェーンリンクのトークン化実験、複数のブロックチ
 マトリックス法によるテクニカル分析（2023/9/1）ビットコイン、まだ下値余地残すか？【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>松田康生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケールの投資信託「GBTC」とは　ビットコイン現物との価格乖離が注目される理由]]></title>
-        <id>https://coinpost.jp/?p=480144</id>
-        <link href="https://coinpost.jp/?p=480144"/>
-        <updated>2023-09-01T08:39:41.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨の資産管理会社グレースケール・インベストメンツは、同社が管理するビットコイン投資ファンド「GBTC」を巡る米SEC（証券取引委員会）との裁判で有利な判決を受けました。同社だけでなくビットコイン現物ETFの承認判断にも影響する部分があるため、重要視されています。GBTCの概要、その影響力について詳細に解説します。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
