@@ -310,16 +310,6 @@
           "wordCount": 948,
           "title": "暗号資産取引所でのビットコイン保有数が2018年1月以来最少に",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/H5PEYM3QDBB77C3WSNCAE4UXP4.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=199554",
-          "author": "Will Canny",
-          "description": "ドイツの投資銀行ベレンベルク（Berenberg）は、アメリカ証券取引委員会（SEC）がビットコイン（BTC）現物市場への懸念を理由に、ビットコイン現物上場投資 ...\nSECはビットコイン現物ETFを拒否するための別の論拠を探すかもしれない──独投資銀行が指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/199554/",
-          "publishedOn": "2023-08-31T21:00:00.000Z",
-          "wordCount": 893,
-          "title": "SECはビットコイン現物ETFを拒否するための別の論拠を探すかもしれない──独投資銀行が指摘",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/36VE2YYH4ZHF7C4JOMMWCFTEXY.jpeg"
         }
       ]
     },
@@ -334,6 +324,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=480265",
+          "author": "AKIRA.H",
+          "description": "StarkNetは、イーサリアムのレイヤー2スケーリングソリューションの一種です。多くの開発者が集まり、L2の中でも特に活発なエコシステムが形成されています。この記事では、StarkNetの技術的な背景、エコシステムの状況、今後のロードマップまで網羅的に解説します。",
+          "link": "https://coinpost.jp/?p=480265",
+          "publishedOn": "2023-09-05T09:00:28.000Z",
+          "wordCount": 2306,
+          "title": "StarkNetとは｜zkロールアップのレイヤー2として注目を集める理由、開発計画を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Starknet_0425-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/04/Starknet_0425-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=480569",
           "author": "A.Yamada",
@@ -813,21 +818,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/shutterstock_79462060.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/shutterstock_79462060.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=480054",
-          "author": "菊谷ルイス",
-          "description": "株式会社マーキュリー運営の仮想通貨販売所「CoinTrade（コイントレード）」はニア（NEAR）の新規上場を実施した。「シャーディング」の仕組みがニアの最大の特徴の1つだ。",
-          "link": "https://coinpost.jp/?p=480054",
-          "publishedOn": "2023-08-31T21:00:19.000Z",
-          "wordCount": 2130,
-          "title": "仮想通貨ニア（NEAR）日本初上場、マーキュリーのCoinTradeが実施",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/near2.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/near2.png"
         }
       ]
     }

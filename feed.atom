@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-05T08:26:25.825Z</updated>
+    <updated>2023-09-05T09:21:50.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[StarkNetとは｜zkロールアップのレイヤー2として注目を集める理由、開発計画を解説]]></title>
+        <id>https://coinpost.jp/?p=480265</id>
+        <link href="https://coinpost.jp/?p=480265"/>
+        <updated>2023-09-05T09:00:28.000Z</updated>
+        <summary type="html"><![CDATA[StarkNetは、イーサリアムのレイヤー2スケーリングソリューションの一種です。多くの開発者が集まり、L2の中でも特に活発なエコシステムが形成されています。この記事では、StarkNetの技術的な背景、エコシステムの状況、今後のロードマップまで網羅的に解説します。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カシオ計算機が「VIRTUAL G-SHOCK」プロジェクトを開始　会員権となるNFTを限定配布]]></title>
         <id>https://www.coindeskjapan.com/?p=200092</id>
@@ -654,27 +664,6 @@ SEC、すべてのビットコインETF申請に対する決定を延期 first a
 暗号資産取引所でのビットコイン保有数が2018年1月以来最少に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ニア（NEAR）日本初上場、マーキュリーのCoinTradeが実施]]></title>
-        <id>https://coinpost.jp/?p=480054</id>
-        <link href="https://coinpost.jp/?p=480054"/>
-        <updated>2023-08-31T21:00:19.000Z</updated>
-        <summary type="html"><![CDATA[株式会社マーキュリー運営の仮想通貨販売所「CoinTrade（コイントレード）」はニア（NEAR）の新規上場を実施した。「シャーディング」の仕組みがニアの最大の特徴の1つだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECはビットコイン現物ETFを拒否するための別の論拠を探すかもしれない──独投資銀行が指摘]]></title>
-        <id>https://www.coindeskjapan.com/?p=199554</id>
-        <link href="https://www.coindeskjapan.com/199554/"/>
-        <updated>2023-08-31T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドイツの投資銀行ベレンベルク（Berenberg）は、アメリカ証券取引委員会（SEC）がビットコイン（BTC）現物市場への懸念を理由に、ビットコイン現物上場投資 ...
-SECはビットコイン現物ETFを拒否するための別の論拠を探すかもしれない──独投資銀行が指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>
