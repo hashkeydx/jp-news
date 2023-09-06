@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-06T12:40:29.915Z</updated>
+    <updated>2023-09-06T13:25:17.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HashPortグループとKDDI、Web3領域における業務提携契約を締結]]></title>
+        <id>https://www.coindeskjapan.com/?p=200311</id>
+        <link href="https://www.coindeskjapan.com/200311/"/>
+        <updated>2023-09-06T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[HashPortと連結子会社のHashPalette（以下、HashPortグループ）は、KDDIとの間でWeb3時代の新たな日常体験の創出とブロックチェーン技 ...
+HashPortグループとKDDI、Web3領域における業務提携契約を締結 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>CoinDesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインはデスクロス、ドル指数はゴールデンクロスをまもなく形成]]></title>
         <id>https://www.coindeskjapan.com/?p=200224</id>
@@ -631,37 +642,6 @@ SECがビットコインETF申請の判断を延期／ロビンフッドは第3�
 アジアの富裕層がターゲット──1億ドルのファンド、アルトコインに分散投資 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi中央銀行MakerDAO、ソラナ（SOL）ベースの新チェーン構築を検討]]></title>
-        <id>https://coinpost.jp/?p=480221</id>
-        <link href="https://coinpost.jp/?p=480221"/>
-        <updated>2023-09-02T01:20:55.000Z</updated>
-        <summary type="html"><![CDATA[DeFi大手MakerDAOの共同設立者であるRune Christensen氏は、ソラナのコードベースを用いて新たなネイティブブロックチェーンを構築する旨の提案を行った。「ソラナは、技術的品質、強固なエコシステム、そしてフォークの成功例がある点で、NewChainの基盤として最も適している」と述べた。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWIFTとチェーンリンクのトークン化実験、複数のブロックチェーン間での価値移転に成功]]></title>
-        <id>https://www.coindeskjapan.com/?p=199654</id>
-        <link href="https://www.coindeskjapan.com/199654/"/>
-        <updated>2023-09-02T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[銀行間の国際決済をサポートするSWIFT（スイフト：国際銀行間通信協会）と、Web3サービスプラットフォームのチェーンリンク（Chainlink）は31日、複数 ...
-SWIFTとチェーンリンクのトークン化実験、複数のブロックチェーン間での価値移転に成功 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>柳迫 万紀子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「米SECはビットコイン現物ETFの承認を避けられない」クレイトン前委員長が見解示す]]></title>
-        <id>https://coinpost.jp/?p=480212</id>
-        <link href="https://coinpost.jp/?p=480212"/>
-        <updated>2023-09-02T00:50:40.000Z</updated>
-        <summary type="html"><![CDATA[米SEC前委員長のジェイ・クレイトン氏は、米SECが仮想通貨ビットコインの現物ETFを承認することは避けられないとの見解を示した。その理由も説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
