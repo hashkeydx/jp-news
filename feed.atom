@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-06T10:27:33.629Z</updated>
+    <updated>2023-09-06T11:18:35.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインはデスクロス、ドル指数はゴールデンクロスをまもなく形成]]></title>
+        <id>https://www.coindeskjapan.com/?p=200224</id>
+        <link href="https://www.coindeskjapan.com/200224/"/>
+        <updated>2023-09-06T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[主要暗号資産（仮想通貨）の50日単純移動平均線（SMA）は200日SMAを下回り、2022年1月以来のいわゆるデスクロスを確認する勢いだ。世界の主要通貨に対する ...
+ビットコインはデスクロス、ドル指数はゴールデンクロスをまもなく形成 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3推進における会計処理を後押しするためのレポート、JCBAとJVCEAが公表]]></title>
         <id>https://www.coindeskjapan.com/?p=200204</id>
@@ -662,17 +673,6 @@ SWIFTとチェーンリンクのトークン化実験、複数のブロックチ
 シバリウムのウォレットが60万を突破、一方でクジラが約55億円分のSHIBを移管 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーンとビューティ業界の親和性：3つの理由]]></title>
-        <id>https://www.coindeskjapan.com/?p=188167</id>
-        <link href="https://www.coindeskjapan.com/188167/"/>
-        <updated>2023-09-01T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[美容やファッションの世界は、クリエイティブなコラボレーションがすべてだ。ニューヨークのメトロポリタン美術館がその良い例。長年にわたって、いくつもの美容ブランドと ...
-ブロックチェーンとビューティ業界の親和性：3つの理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Megan DeMatteo</name>
         </author>
     </entry>
 </feed>
