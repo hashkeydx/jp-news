@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-07T06:26:30.403Z</updated>
+    <updated>2023-09-07T07:19:35.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フィッシング詐欺で36億円相当のイーサリアム盗難、単独被害では過去最大規模か]]></title>
+        <id>https://coinpost.jp/?p=480974</id>
+        <link href="https://coinpost.jp/?p=480974"/>
+        <updated>2023-09-07T06:44:17.000Z</updated>
+        <summary type="html"><![CDATA[詐欺防止専門のプラットフォーム「Scam Sniffer」による調査で、特定のウォレットアドレスから約2,423万ドル分のイーサリアム（ETH）関連トークンが不正に移されたことが明らかになった。仮想通貨に関する単独の詐欺としては過去最大の被害額である可能性が高い。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visaが描く決済の未来とは　従来型とWeb3型が共存する時代へ]]></title>
+        <id>https://coinpost.jp/?p=480920</id>
+        <link href="https://coinpost.jp/?p=480920"/>
+        <updated>2023-09-07T06:25:43.000Z</updated>
+        <summary type="html"><![CDATA[決済大手Visaの仮想通貨部門のトップCuy Sheffield氏は、ブロックチェーン技術は今、インターネットの「ブロードバンド時代」を迎えようとしていると述べ、今後大きく発展する可能性を強く確信していると語った。また、同社が想定している将来像を紹介した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FASB、公正価値での会計基準を検討中──企業のビットコイン導入の障害撤廃へ]]></title>
         <id>https://www.coindeskjapan.com/?p=200378</id>
