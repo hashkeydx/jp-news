@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-07T02:26:13.221Z</updated>
+    <updated>2023-09-07T03:21:31.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「アバランチ」が日本企業のWeb3サービス基盤に採用、Ponta（ポンタ）のロイヤリティマーケティングら]]></title>
+        <id>https://coinpost.jp/?p=480899</id>
+        <link href="https://coinpost.jp/?p=480899"/>
+        <updated>2023-09-07T02:50:55.000Z</updated>
+        <summary type="html"><![CDATA[企業のWeb3進出を支援するプレイシンクと、共通ポイントサービス「Ponta（ポンタ）」を運営するロイヤリティ マーケティング（LM）が、コンソーシアムブロックチェーンを構築する計画を明らかにした。米国Ava Labs社が開発したAvalancheサブネットを採用する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上場マイニング企業マラソン、ビットコイン生産量前月比9％減少　テキサス熱波の影響で]]></title>
+        <id>https://coinpost.jp/?p=480877</id>
+        <link href="https://coinpost.jp/?p=480877"/>
+        <updated>2023-09-07T02:30:28.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場の米大手仮想通貨マイニング企業マラソンは8月のビットコイン生産量を報告した。熱波の影響で7月より減少している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブリテン氏、犯罪者排除目指し「プライバシープール」の論文を発表]]></title>
         <id>https://www.coindeskjapan.com/?p=200364</id>
