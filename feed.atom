@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-08T02:26:53.612Z</updated>
+    <updated>2023-09-08T03:21:35.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、Linus Financialと和解　仮想通貨有利子口座で]]></title>
+        <id>https://coinpost.jp/?p=481107</id>
+        <link href="https://coinpost.jp/?p=481107"/>
+        <updated>2023-09-08T03:00:13.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会は、仮想通貨USDC関連の利子付き口座を提供していたLinus Financialと和解した。未登録証券の販売を行っていたとしている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baseエコシステム支援ファンド、6プロジェクトに投資]]></title>
+        <id>https://coinpost.jp/?p=481103</id>
+        <link href="https://coinpost.jp/?p=481103"/>
+        <updated>2023-09-08T02:50:22.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所コインベースベンチャーズが主導するBaseチェーンのエコシステムファンド「Baseエコシステム支援ファンド」は6つの投資を実施したと発表した。金額については明らかではない。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム最高裁判所：「コードは法」に代わる提案とは]]></title>
+        <id>https://www.coindeskjapan.com/?p=200489</id>
+        <link href="https://www.coindeskjapan.com/200489/"/>
+        <updated>2023-09-08T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンのイデオロギーとして「コードは法」という言葉がよく繰り返される。つまり、ネットワークの基礎となるプログラムは神聖であるべきで、深刻な緊急事態や存 ...
+イーサリアム最高裁判所：「コードは法」に代わる提案とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JPモルガン、ビットコインの推定生産コスト引き下げ　半減期にも見解]]></title>
         <id>https://coinpost.jp/?p=481092</id>
