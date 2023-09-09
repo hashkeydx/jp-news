@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=200379",
+          "author": "柳迫 万紀子",
+          "description": "シーボーBZX取引所（Cboe BZX Exchange）は、アメリカ初のイーサリアム（ETH）現物ETF（上場投資信託）の発売を目指し、アーク21シェアーズ（ ...\nシーボーBZX取引所、アーク21シェアーズとヴァンエクのイーサリアム現物ETFを申請 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/200379/",
+          "publishedOn": "2023-09-09T00:00:00.000Z",
+          "wordCount": 1082,
+          "title": "シーボーBZX取引所、アーク21シェアーズとヴァンエクのイーサリアム現物ETFを申請",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/shutterstock_1295229865-scaled-e1694069508837.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=200637",
           "author": "増田 隆幸",
           "description": "米暗号資産（仮想通貨）取引所のコインベース（Coinbase）は、暗号資産業界向けに「明確なルールを制定している」主要な国・地域でのライセンス取得に焦点を当てた ...\nコインベース、規制の明確さに焦点を当てた海外展開計画 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -410,26 +420,6 @@
           "wordCount": 1036,
           "title": "暗号資産先物取引でビットコインを証拠金とする取引が増加",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/LU3QA4UVRZDCZDH7Z5XMR2EO5U.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=199978",
-          "author": "増田 隆幸",
-          "description": "マネックスグループは9月4日、事業戦略説明会を開催。まずグループの全体戦略を代表取締役CEOの清明祐子氏が語り、その後、グループの中核企業であるマネックス証券、 ...\n「コインチェックの機能を開放していく」──マネックスグループが事業戦略説明会を開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/199978/",
-          "publishedOn": "2023-09-04T12:00:00.000Z",
-          "wordCount": 902,
-          "title": "「コインチェックの機能を開放していく」──マネックスグループが事業戦略説明会を開催",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/IMG_8943.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=199985",
-          "author": "Will Canny",
-          "description": "アメリカ証券取引委員会（SEC）は、グレイスケール（Grayscale）がグレイスケール・ビットコイン・トラスト（GBTC）を上場投資信託（ETF）に転換する試 ...\nビットコイン現物ETFを却下するには、先物ETFの承認を撤回しなければならない：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/199985/",
-          "publishedOn": "2023-09-04T11:30:00.000Z",
-          "wordCount": 896,
-          "title": "ビットコイン現物ETFを却下するには、先物ETFの承認を撤回しなければならない：JPモルガン",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/67VX44SKCVBD5KEN7MEHSF4RFM.jpg"
         }
       ]
     },
@@ -444,6 +434,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=481217",
+          "author": "AKIRA.H",
+          "description": "米国証券取引委員会は、リップル社の先週の主張に反論した。リップル社が行っているXRPの一般投資家向けのプログラム販売等が「投資契約」に該当するかどうか\"法的な争点\"であると強調。中間控訴によってその点についての議論をする狙い。",
+          "link": "https://coinpost.jp/?p=481217",
+          "publishedOn": "2023-09-09T00:50:34.000Z",
+          "wordCount": 2173,
+          "title": "SEC、リップル社裁判で中間控訴の必要性訴える",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=481197",
+          "author": "K.Kobayashi",
+          "description": "デジタルコンテンツ向け電子市場のネットワークLBRYを開発するLBRY社は、米SECとの裁判で上訴を求めると伝えた。この裁判は、仮想通貨ライブラリークレジット（LBC）の販売を巡って争っている。",
+          "link": "https://coinpost.jp/?p=481197",
+          "publishedOn": "2023-09-08T23:40:05.000Z",
+          "wordCount": 2246,
+          "title": "LBRY社、米SECとの裁判で上訴へ　仮想通貨LBCの有価証券問題巡り",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/nem-court-freezing.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/nem-court-freezing.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=481195",
+          "author": "菊谷ルイス",
+          "description": "今日の中国の悪材料で売られていたアップル（+0.35%）は持ち直したものの伸びは限定的だった。ドル指数（DXY）は高止まりの米金利水準が維持されるとの観測を背景に、週間ベースで8週連続高となり2005年以来最長の続伸を記録した。",
+          "link": "https://coinpost.jp/?p=481195",
+          "publishedOn": "2023-09-08T23:15:51.000Z",
+          "wordCount": 2231,
+          "title": "ドル指数年18年ぶりの連騰記録、サウジ減産などで国内ガソリン代高騰｜9日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/shutterstock_79462060.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/shutterstock_79462060.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=481189",
           "author": "菊谷ルイス",
