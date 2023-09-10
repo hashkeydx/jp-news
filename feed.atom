@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-10T20:20:34.971Z</updated>
+    <updated>2023-09-10T21:17:51.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの「リスクフリーレート」を理解する]]></title>
+        <id>https://www.coindeskjapan.com/?p=200324</id>
+        <link href="https://www.coindeskjapan.com/200324/"/>
+        <updated>2023-09-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）の一角が回復しつつあるようだ。2022年に発生した連鎖的な危機の後、ブロックチェーン業界全体が悲観的な雰囲気に包まれ、ジャクソンホールでパウ ...
+イーサリアムの「リスクフリーレート」を理解する first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IDOL3.0 PROJECT、Final Stage:2nd通過者27名発表──NIDTも急騰]]></title>
         <id>https://www.coindeskjapan.com/?p=200751</id>
@@ -703,16 +714,6 @@ Web3推進における会計処理を後押しするためのレポート、JCBA
         <link href="https://coinpost.jp/?p=480610"/>
         <updated>2023-09-06T10:00:53.000Z</updated>
         <summary type="html"><![CDATA[国内大手暗号資産（仮想通貨）取引所bitbankへ国内初上場が決まったレンダートークン（RNDR）の主な特徴とメリットを初心者向けに解説。GPUの余剰リソースを使った画期的なサービス、分散型クラウドレンダリングプラットフォームの魅力に迫る。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBIレミット、XRPを活用した国際送金サービスを拡大、送金対象国が増加]]></title>
-        <id>https://coinpost.jp/?p=480784</id>
-        <link href="https://coinpost.jp/?p=480784"/>
-        <updated>2023-09-06T08:37:55.000Z</updated>
-        <summary type="html"><![CDATA[SBIレミット、仮想通貨XRPを活用した国際送金サービスについて、送金対象国を拡大する計画を発表した。従来のフィリピンに加え、新たにベトナムとインドネシアへの銀行口座宛の送金が可能となる。]]></summary>
         <author>
             <name>AKIRA.H</name>
         </author>
