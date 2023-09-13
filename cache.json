@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=201168",
+          "author": "林 理南",
+          "description": "破綻した暗号資産（仮想通貨）取引所FTXが、保有する34億ドル（約4930億円、1ドル145円換算）の暗号資産の一部を売却するのではないかとの懸念から、暗号資産 ...\nFTXの資産売却による暴落懸念は「大げさ」：アナリストら first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/201168/",
+          "publishedOn": "2023-09-13T03:29:14.000Z",
+          "wordCount": 1065,
+          "title": "FTXの資産売却による暴落懸念は「大げさ」：アナリストら",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/shutterstock_2226341239-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=201157",
           "author": "林 理南",
           "description": "米暗号資産（仮想通貨）取引大手のコインベース（Coinbase）は12日、機関投資家がNFTや分散型金融（DeFi）に参入しやすくするように設計されたWeb3ウ ...\nコインベース、機関投資家向けウォレットを導入──Web3、DeFi、NFTへの参加を後押し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -364,6 +374,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=481741",
+          "author": "AKIRA.H",
+          "description": "LayerZeroは、チェーン間のメッセージングセキュリティを担保するOracleとして、「Google Cloud Oracle」を導入したと発表した。Google Cloud Oracleは、LayerZeroが対応するイーサリアム、BNBチェーン、アバランチを含む14のネットワークに適応する。",
+          "link": "https://coinpost.jp/?p=481741",
+          "publishedOn": "2023-09-13T03:24:38.000Z",
+          "wordCount": 2234,
+          "title": "LayerZeroがGoogle Cloud Oracleを導入、ブロックチェーン相互運用性を強化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/layerzero-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/layerzero-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=481708",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）相場ではFTXの保有資産生産懸念がやや後退しビットコインが反発した。Glassnodeは相場の無関心を指摘しつつ、将来的にボラティリティが高まる前兆であるとも言及した。",
+          "link": "https://coinpost.jp/?p=481708",
+          "publishedOn": "2023-09-13T03:22:32.000Z",
+          "wordCount": 2275,
+          "title": "CPI発表控え金融相場は様子見基調　Glassnodeは流動性枯渇要因に「無関心」を指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427d_jpg-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427d_jpg-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=481731",
+          "author": "A.Yamada",
+          "description": "米SECのゲイリー・ゲンスラー委員長は米上院銀行住宅都市委員会に出席し、ビットコインなど仮想通貨に対する批判的姿勢を改めて示した。",
+          "link": "https://coinpost.jp/?p=481731",
+          "publishedOn": "2023-09-13T03:13:02.000Z",
+          "wordCount": 2210,
+          "title": "SECゲンスラー委員長、米上院公聴会で仮想通貨市場に対する厳しい姿勢を維持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-not-backing-down-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-not-backing-down-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=481696",
           "author": "AKIRA.H",
