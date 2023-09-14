@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=201269",
+          "author": "林 理南",
+          "description": "イーサリアムの共同創設者ヴィタリック・ブテリン（VitalikButerin）氏は13日、テキサス州オースティンで開催されたパーミッションレス暗号資産（仮想通貨 ...\nブテリン氏、アジアの開発者の存在感が高まるとの見方 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/201269/",
+          "publishedOn": "2023-09-14T01:24:53.000Z",
+          "wordCount": 1020,
+          "title": "ブテリン氏、アジアの開発者の存在感が高まるとの見方",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/SUWYODJBZRD5FLG72KAUZKNIKY.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=201236",
           "author": "Sam Reynolds",
           "description": "暗号資産（仮想通貨）デリバティブ取引所BitMEXは、トレーダーが現実世界の出来事の結果に賭けることができる予測市場（Prediction Market）を開始 ...\nBitMEX、予測市場を開始──FTX破産回収率、ビットコインETFの行方など first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -414,6 +424,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=481872",
+          "author": "K.Kobayashi",
+          "description": "L1ブロックチェーンThe Open Networkは、テレグラムで仮想通貨ウォレットTON Spaceが正式にローンチを開始したことを発表。Toncoinの価格は前日比4.4%上昇している。",
+          "link": "https://coinpost.jp/?p=481872",
+          "publishedOn": "2023-09-14T02:15:22.000Z",
+          "wordCount": 2307,
+          "title": "テレグラム、TON基盤の仮想通貨ウォレット「TON Space」を正式リリース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/telegram-wallet.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/telegram-wallet.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=481868",
+          "author": "A.Yamada",
+          "description": "リップル社CEOは、米SECとの裁判について考えを示した。米国における仮想通貨規制の不透明さを背景に海外での雇用に注力するとも述べている。",
+          "link": "https://coinpost.jp/?p=481868",
+          "publishedOn": "2023-09-14T02:00:24.000Z",
+          "wordCount": 2200,
+          "title": "リップル社CEO、SECの仮想通貨規制や有価証券訴訟について見解示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=481858",
           "author": "K.Kobayashi",
