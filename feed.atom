@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-15T04:25:27.851Z</updated>
+    <updated>2023-09-15T05:24:24.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインなど仮想通貨相場反発、FTX売り圧懸念後退で市場心理が緩和]]></title>
+        <id>https://coinpost.jp/?p=482115</id>
+        <link href="https://coinpost.jp/?p=482115"/>
+        <updated>2023-09-15T04:52:23.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）相場では、経営破綻した大手取引所FTXの保有資産清算を巡り懸念が一部払拭され、売り圧力に対する懸念が後退した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SWIFTと30の金融機関、CBDCの相互運用テストを開始]]></title>
+        <id>https://coinpost.jp/?p=482119</id>
+        <link href="https://coinpost.jp/?p=482119"/>
+        <updated>2023-09-15T04:40:41.000Z</updated>
+        <summary type="html"><![CDATA[銀行間メッセージングサービスのSWIFTは、中央銀行デジタル通貨の相互運用ソリューションのベータテストを開始したと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドイツ銀行、カストディとトークン化に本格参入──スイスのスタートアップTaurusと提携]]></title>
         <id>https://www.coindeskjapan.com/?p=201486</id>
