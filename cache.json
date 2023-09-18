@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=201708",
+          "author": "増田 隆幸",
+          "description": "イーサリアムブロックチェーンは新しいテストネット「Holesky」を9月15日にスタートさせることに失敗し、歴史的なアップグレード「マージ（Merge）」の1周 ...\nイーサリアム、珍しい失敗──テストネット「Holesky」ローンチできず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/201708/",
+          "publishedOn": "2023-09-18T00:00:00.000Z",
+          "wordCount": 1113,
+          "title": "イーサリアム、珍しい失敗──テストネット「Holesky」ローンチできず",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/FUPIHJXPAZCYVAMPZBZ4XK7ZHQ.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=200873",
           "author": "山口 晶子",
           "description": "融資は通貨と同じくらい古い。歴史を通じて、種子であれ、金（ゴールド）であれ、あらゆる形態の通貨にはレンディング市場があった。そして今、ビットコインは、その分散型 ...\n破綻が連鎖した暗号資産レンディング業界、いかにして再建しつつあるのか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -320,16 +330,6 @@
           "wordCount": 1091,
           "title": "暗号資産をめぐるG20の懸念は重要ではない",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/shutterstock_2261962743.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=201215",
-          "author": "Jack Schickler",
-          "description": "暗号資産（仮想通貨）取引所FTXは9月12日に提出した書類で、司法省の破産管理部門である連邦管財官（U.S. Trustee）が提起した懸念を払拭するため、保有 ...\nFTX、保有暗号資産の売却方法を修正──米司法省の懸念に対して first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/201215/",
-          "publishedOn": "2023-09-13T11:30:00.000Z",
-          "wordCount": 1050,
-          "title": "FTX、保有暗号資産の売却方法を修正──米司法省の懸念に対して",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/shutterstock_2226341239-scaled.jpg"
         }
       ]
     },
@@ -355,6 +355,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=482128",
+          "author": "CoinPost編集部",
+          "description": "初回のGM Radio: Beyond The Priceは14日に公開。ゲストに仮想通貨ビットコインと環境問題の研究者Daniel Batten氏を招待した。",
+          "link": "https://coinpost.jp/?p=482128",
+          "publishedOn": "2023-09-18T01:00:18.000Z",
+          "wordCount": 2254,
+          "title": "「ビットコインは重要な気候テック」BTC研究者が語る——「Beyond The Price」 初回放送内容",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/renewablecleanbitcoinmining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/renewablecleanbitcoinmining1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=482004",
           "author": "CoinPost編集部",
