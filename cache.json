@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=200304",
+          "author": "山口 晶子",
+          "description": "DeFi（分散型金融）が進化と成熟を続けるなか、ユーザーがプロトコルに預けている資金の指標「Total Value Locked（TVL：預かり資産）」というコ ...\nRWAのTVL（預かり資産）とは──DeFiからTradFiへの拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/200304/",
+          "publishedOn": "2023-09-19T21:00:00.000Z",
+          "wordCount": 1131,
+          "title": "RWAのTVL（預かり資産）とは──DeFiからTradFiへの拡大",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/AGG3VVQOK5FNFORVZF6NLUX2ZU.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=201835",
           "author": "Jack Schickler",
           "description": "香港を拠点とする暗号資産（仮想通貨）取引所JPEXの資金凍結は、強力な暗号資産ライセンス法の必要性を示していると香港の行政長官、ジョン・リー（John Lee） ...\nJPEXの騒動は強力な暗号資産ライセンス法の必要性を示している：香港行政長官がコメント first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -220,16 +230,6 @@
           "wordCount": 1175,
           "title": "マトリックス法によるテクニカル分析（2023/9/15）ビットコイン、チャンス到来か？好サイン続出！：楽天ウォレット",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/tr-thumb_230915.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=201531",
-          "author": "CoinDesk Japan",
-          "description": "Fintertechは9月15日、誰でも簡単にNFTを受け取れる新しいNFT管理サービスを開発したと発表した。このサービスにはGincoの新たな組み込み型ウォレ ...\nFintertech、新たなNFT管理サービスの開発を発表　GincoのInvisible Wallet APIを採用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/201531/",
-          "publishedOn": "2023-09-15T08:45:00.000Z",
-          "wordCount": 1022,
-          "title": "Fintertech、新たなNFT管理サービスの開発を発表　GincoのInvisible Wallet APIを採用",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/20230915-fintertech-ginco.jpg"
         }
       ]
     },
@@ -244,6 +244,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=482708",
+          "author": "菊谷ルイス",
+          "description": "20日朝の重要速報まとめ日本時間朝方までの仮想通貨関連注目ニュースをまとめている。Optimism　3度目のエアドロ（注目度：★★★★☆）イーサリアムロールアップ（L2）のOptimismから3度目のトークンエアドロップが実施された。計19...",
+          "link": "https://coinpost.jp/?p=482708",
+          "publishedOn": "2023-09-19T20:50:31.000Z",
+          "wordCount": 2292,
+          "title": "Optimismが2700万ドル分OPトークンをエアドロップ、野村Laser Digitalがビットコインファンドを提供｜20日朝の重要速報まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
+        },
         {
           "id": "https://coinpost.jp/?p=482290",
           "author": "AKIRA.H",
@@ -543,21 +558,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=482219",
-          "author": "AKIRA.H",
-          "description": "世界的金融大手のドイツ銀行は、デジタル資産のカストディ及び発行基盤等を手掛けるスイスのTaurus（トーラス）との提携を発表した。仮想通貨の保管サービスだけでなく、資産のトークン化事業への進出を見据えた動きだ。",
-          "link": "https://coinpost.jp/?p=482219",
-          "publishedOn": "2023-09-15T08:56:43.000Z",
-          "wordCount": 2177,
-          "title": "ドイツ銀、トーラスと提携して仮想通貨とトークン化資産を管理へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/germany-new-law-crypto-fund.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/germany-new-law-crypto-fund.png"
         }
       ]
     }
