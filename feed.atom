@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-18T23:21:04.832Z</updated>
+    <updated>2023-09-19T01:21:56.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blockchain Capital、2ファンドで800億円以上を資金調達]]></title>
+        <id>https://coinpost.jp/?p=482550</id>
+        <link href="https://coinpost.jp/?p=482550"/>
+        <updated>2023-09-19T01:11:57.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン・仮想通貨VC「Blockchain Capital」は、2つの新ファンドで合計約812億円を調達した。6セクターに投資していく方針だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融大手シティ、RWAのトークン化ソリューションを開発　ブロックチェーン技術を活用]]></title>
+        <id>https://coinpost.jp/?p=482536</id>
+        <link href="https://coinpost.jp/?p=482536"/>
+        <updated>2023-09-18T23:55:47.000Z</updated>
+        <summary type="html"><![CDATA[シティは、ブロックチェーンとスマートコントラクトを活用した新サービスCiti Token Servicesを開発・実験していることを発表。これはRWAをトークン化するサービスである。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[資産のトークン化、進展中]]></title>
         <id>https://www.coindeskjapan.com/?p=201532</id>
