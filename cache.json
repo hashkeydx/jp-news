@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=201880",
+          "author": "林 理南",
+          "description": "イーサリアムの共同創設者ヴィタリック・ブテリン（Vitalik Buterin）氏を含む大口保有者が、イーサリアム（ETH）を暗号資産（仮想通貨）取引所に移した ...\nブテリン氏含むクジラが取引所にイーサリアム入金──対ビットコインで14カ月ぶりの安値に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/201880/",
+          "publishedOn": "2023-09-20T01:58:13.000Z",
+          "wordCount": 1076,
+          "title": "ブテリン氏含むクジラが取引所にイーサリアム入金──対ビットコインで14カ月ぶりの安値に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/NNAQVOTTV65FSVFZWHMMTHMUSNM.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=201866",
           "author": "増田 隆幸",
           "description": "野村ホールディングスのデジタル資産運用子会社であるレーザー・デジタル（Laser Digital）は、機関投資家にビットコイン（BTC）へのエクスポージャーを提 ...\n野村HD子会社のレーザー・デジタル、機関投資家向けに「Bitcoin Adoption Fund」を提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -254,6 +264,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=482758",
+          "author": "菊谷ルイス",
+          "description": "Web3通信プロトコル「DMTP」を開発するHighphen Pte. Ltd.は19日、スクウェア・エニックス、Adways Ventures、Arriba Studio、CapitalDAO Protocol、East Venturesなどから投資資金を受けた。",
+          "link": "https://coinpost.jp/?p=482758",
+          "publishedOn": "2023-09-20T02:20:51.000Z",
+          "wordCount": 2236,
+          "title": "スクエニなどが出資、Web3通信プロトコル「DMTP」の資金調達で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/dmtp.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/dmtp.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=482742",
+          "author": "菊谷ルイス",
+          "description": "SHIBUYA109エンターテイメントはWeb3メタバース「The Sandbox」上で開設した東京・渋谷のバーチャル再現である「SHIBUYA109 LAND」で、アバターコレクションを実施する予定。",
+          "link": "https://coinpost.jp/?p=482742",
+          "publishedOn": "2023-09-20T01:20:16.000Z",
+          "wordCount": 2195,
+          "title": "「SHIBUYA109 LAND」のアバターコレクション、The Sandboxメタバースで発行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/sandbox2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/sandbox2.png"
+        },
         {
           "id": "https://coinpost.jp/?p=482713",
           "author": "菊谷ルイス",
@@ -583,21 +623,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/citedal-new-ceo-for-crypto.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=481956",
-          "author": "CoinPost編集部",
-          "description": "暗号資産（仮想通貨）取引所CoinExのホットウォレットからイーサリアム（ETH）、トロン（TRON）、ポリゴン（MATIC）などの暗号資産が不正流出したハッキング事件について、全額補償やセキュリティ対策などの続報が発表された。",
-          "link": "https://coinpost.jp/?p=481956",
-          "publishedOn": "2023-09-15T14:05:46.000Z",
-          "wordCount": 2227,
-          "title": "CoinEX、不正流出事件の続報と被害者への全額補償を発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
         }
       ]
     }

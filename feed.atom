@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-20T01:21:07.516Z</updated>
+    <updated>2023-09-20T02:27:06.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スクエニなどが出資、Web3通信プロトコル「DMTP」の資金調達で]]></title>
+        <id>https://coinpost.jp/?p=482758</id>
+        <link href="https://coinpost.jp/?p=482758"/>
+        <updated>2023-09-20T02:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Web3通信プロトコル「DMTP」を開発するHighphen Pte. Ltd.は19日、スクウェア・エニックス、Adways Ventures、Arriba Studio、CapitalDAO Protocol、East Venturesなどから投資資金を受けた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブテリン氏含むクジラが取引所にイーサリアム入金──対ビットコインで14カ月ぶりの安値に]]></title>
+        <id>https://www.coindeskjapan.com/?p=201880</id>
+        <link href="https://www.coindeskjapan.com/201880/"/>
+        <updated>2023-09-20T01:58:13.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの共同創設者ヴィタリック・ブテリン（Vitalik Buterin）氏を含む大口保有者が、イーサリアム（ETH）を暗号資産（仮想通貨）取引所に移した ...
+ブテリン氏含むクジラが取引所にイーサリアム入金──対ビットコインで14カ月ぶりの安値に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「SHIBUYA109 LAND」のアバターコレクション、The Sandboxメタバースで発行]]></title>
+        <id>https://coinpost.jp/?p=482742</id>
+        <link href="https://coinpost.jp/?p=482742"/>
+        <updated>2023-09-20T01:20:16.000Z</updated>
+        <summary type="html"><![CDATA[SHIBUYA109エンターテイメントはWeb3メタバース「The Sandbox」上で開設した東京・渋谷のバーチャル再現である「SHIBUYA109 LAND」で、アバターコレクションを実施する予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[明日FOMC金利発表　原油高など今後の方針に影響か｜20日金融短観]]></title>
         <id>https://coinpost.jp/?p=482713</id>
@@ -477,16 +508,6 @@ Bybit、イギリスに留まるために「あらゆる選択肢を模索」：
         <summary type="html"><![CDATA[米仮想通貨関連企業Paxosによる7,500万円相当のビットコイン手数料過払いの件で、手数料を受けたビットコインマイニングプールのF2Poolから返金された。他にもイーサリアムの新規テストネットローンチなどの最新情報を網羅している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinEX、不正流出事件の続報と被害者への全額補償を発表]]></title>
-        <id>https://coinpost.jp/?p=481956</id>
-        <link href="https://coinpost.jp/?p=481956"/>
-        <updated>2023-09-15T14:05:46.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所CoinExのホットウォレットからイーサリアム（ETH）、トロン（TRON）、ポリゴン（MATIC）などの暗号資産が不正流出したハッキング事件について、全額補償やセキュリティ対策などの続報が発表された。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
