@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-22T11:18:35.494Z</updated>
+    <updated>2023-09-22T12:39:32.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マーケットメーカーのヘッジでイーサリアム価格は堅調に推移する：アナリストが指摘]]></title>
+        <id>https://www.coindeskjapan.com/?p=202291</id>
+        <link href="https://www.coindeskjapan.com/202291/"/>
+        <updated>2023-09-22T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は今週約2%下落し、1660ドルの200週単純移動平均の重要なサポートの下に足場を築いた。 今後数日間は、オプションのマーケットメイカーや ...
+マーケットメーカーのヘッジでイーサリアム価格は堅調に推移する：アナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2023/9/22）ビットコイン、ここは踏ん張りどころ：楽天ウォレット]]></title>
         <id>https://www.coindeskjapan.com/?p=202229</id>
@@ -847,17 +858,6 @@ PayPalのステーブルコイン、どこが問題か？ first appeared on Coin
         <summary type="html"><![CDATA[初回のGM Radio: Beyond The Priceは14日に公開。ゲストに仮想通貨ビットコインと環境問題の研究者Daniel Batten氏を招待した。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、珍しい失敗──テストネット「Holesky」ローンチできず]]></title>
-        <id>https://www.coindeskjapan.com/?p=201708</id>
-        <link href="https://www.coindeskjapan.com/201708/"/>
-        <updated>2023-09-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムブロックチェーンは新しいテストネット「Holesky」を9月15日にスタートさせることに失敗し、歴史的なアップグレード「マージ（Merge）」の1周 ...
-イーサリアム、珍しい失敗──テストネット「Holesky」ローンチできず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
