@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-22T04:25:43.761Z</updated>
+    <updated>2023-09-22T05:24:27.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米FRB「資産のトークン化」に警鐘、伝統金融とDeFiの接続性に潜むリスク]]></title>
+        <id>https://coinpost.jp/?p=483168</id>
+        <link href="https://coinpost.jp/?p=483168"/>
+        <updated>2023-09-22T05:00:08.000Z</updated>
+        <summary type="html"><![CDATA[米FRBは、トークン化が金融安定性に及ぼす影響について詳細に調査した論文を公開した。トークン化がデジタル資産のエコシステムと伝統的な金融システムとの相互接続を促進し、伝統的な金融システムに新たなリスクをもたらす可能性があると指摘している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プレイヤーが世界構築可能なWeb3ゲーム「Proof of Play」、a16zなどから約50億円調達]]></title>
+        <id>https://coinpost.jp/?p=483159</id>
+        <link href="https://coinpost.jp/?p=483159"/>
+        <updated>2023-09-22T04:40:17.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンゲーム企業「Proof of Play」はシードラウンドで約49億円を調達した。プレイヤーが世界構築に参加できるWeb3ゲームを開発していく。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスUSとチャンポン・ジャオ氏、SECの提訴却下を申請]]></title>
         <id>https://www.coindeskjapan.com/?p=202183</id>
