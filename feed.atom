@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-23T07:18:19.100Z</updated>
+    <updated>2023-09-23T08:24:02.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グーグルクラウド、BigQueryにアバランチなど11のブロックチェーンを追加]]></title>
+        <id>https://coinpost.jp/?p=483296</id>
+        <link href="https://coinpost.jp/?p=483296"/>
+        <updated>2023-09-23T08:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloudは、ビッグクエリ公開データセットにアバランチ（AVAX）など11の仮想通貨ブロックチェーンを追加したと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スタンフォード大学、FTXからの寄付金を返還：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=202019</id>
