@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-24T20:20:39.025Z</updated>
+    <updated>2023-09-24T21:18:01.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムはインフレに転じる──ネットワーク収入は9カ月ぶり低水準]]></title>
+        <id>https://www.coindeskjapan.com/?p=202377</id>
+        <link href="https://www.coindeskjapan.com/202377/"/>
+        <updated>2023-09-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーンでの活動が急減少する中、イーサリアム（ETH）はインフレ状態に戻っており、価格の下押し要因となる可能性がある。複数のアナリストがこう ...
+イーサリアムはインフレに転じる──ネットワーク収入は9カ月ぶり低水準 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ビットコインは最も寿命が長いブロックチェーン」VCパートナーが語る——「Beyond The Price」第2回放送内容]]></title>
         <id>https://coinpost.jp/?p=483165</id>
@@ -643,16 +654,6 @@ MakerDAOのMKR、クジラの買いで16カ月ぶり高値に近づく──ヘ�
 Progmatは自らステーブルコインを発行しない？──誤解と知られざるインパクト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Astar zkEVM」が仮想通貨ASTRの実用性に与える影響は？]]></title>
-        <id>https://coinpost.jp/?p=482799</id>
-        <link href="https://coinpost.jp/?p=482799"/>
-        <updated>2023-09-20T09:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Astar Networkのファウンダーで、Startale Labs代表取締役CEOの渡辺創太はAMAを開いた。最近の「Astar zkEVM Powered by Polygon」の発表を受けての反響に応え、支持者や投資家からの質問に答える形で仮想通貨ASTRの実用性に及ぼす影響を解説した。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
