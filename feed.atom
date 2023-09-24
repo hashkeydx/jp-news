@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-24T21:18:01.067Z</updated>
+    <updated>2023-09-24T22:23:17.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud、BigQueryにポリゴンなど11ネットワークを追加]]></title>
+        <id>https://www.coindeskjapan.com/?p=202388</id>
+        <link href="https://www.coindeskjapan.com/202388/"/>
+        <updated>2023-09-24T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleのクラウドコンピューティング事業「Google Cloud」はブロックチェーンの取り組みを拡大しており、公開データセット向けの「BigQuery」プ ...
+Google Cloud、BigQueryにポリゴンなど11ネットワークを追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムはインフレに転じる──ネットワーク収入は9カ月ぶり低水準]]></title>
         <id>https://www.coindeskjapan.com/?p=202377</id>
@@ -643,17 +654,6 @@ MakerDAOのMKR、クジラの買いで16カ月ぶり高値に近づく──ヘ�
 金融政策決定を前にビットコインは2万7000ドルを維持──XRP、ADA、DOGEもほとんど変化なし first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progmatは自らステーブルコインを発行しない？──誤解と知られざるインパクト]]></title>
-        <id>https://www.coindeskjapan.com/?p=201927</id>
-        <link href="https://www.coindeskjapan.com/201927/"/>
-        <updated>2023-09-20T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[10月2日に設立されるProgmat, Inc.は、「国産ステーブルコイン」の発行に向けた共同検討を開始している。だが、代表取締役 Founder&CE ...
-Progmatは自らステーブルコインを発行しない？──誤解と知られざるインパクト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
