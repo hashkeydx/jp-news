@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-25T01:22:35.895Z</updated>
+    <updated>2023-09-25T02:28:17.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国大手仮想通貨取引所Upbit、偽アプトス（APT）の入金処理めぐり大騒動に]]></title>
+        <id>https://coinpost.jp/?p=483381</id>
+        <link href="https://coinpost.jp/?p=483381"/>
+        <updated>2023-09-25T01:50:39.000Z</updated>
+        <summary type="html"><![CDATA[韓国の大手取引所Upbitで、仮想通貨アプトス（APT）のフェイクトークンが正規トークンとして入金認識され、不特定多数のアカウントに配布される事件が発生した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GMOコイン、XRPユーザーへのソングバード（SGB）のエアドロップは日本円で対応]]></title>
         <id>https://www.coindeskjapan.com/?p=202400</id>
