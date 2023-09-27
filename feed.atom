@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-27T20:22:22.006Z</updated>
+    <updated>2023-09-27T21:19:18.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーキングの現状：イーサリアム「Merge」から1年で5つの変化]]></title>
+        <id>https://www.coindeskjapan.com/?p=202633</id>
+        <link href="https://www.coindeskjapan.com/202633/"/>
+        <updated>2023-09-27T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最大のスマートコントラクト・ブロックチェーンであるイーサリアムが、ビットコインなどのブロックチェーンで使用されているエネルギーを大量に消費する古いプルーフ・オブ ...
+ステーキングの現状：イーサリアム「Merge」から1年で5つの変化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Margaux Nijkerk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海外取引所XT.com、Yesgo（YESGO）上場へ]]></title>
         <id>https://coinpost.jp/?p=483828</id>
@@ -531,16 +542,6 @@ Google Cloud、BigQueryにポリゴンなど11ネットワークを追加 first 
 ビットコインは年末までに3万7000ドル？／イーサリアムが珍しい失敗【Weekly Review：9/16〜9/22】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、欧州FTXの買収を一時検討　デリバティブ取引へ注力か]]></title>
-        <id>https://coinpost.jp/?p=483293</id>
-        <link href="https://coinpost.jp/?p=483293"/>
-        <updated>2023-09-23T09:00:38.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨取引所コインベースは破綻したFTXの欧州法人を買収することを検討していた。デリバティブ商品に力を入れていることが背景とみられる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
