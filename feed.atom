@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-28T09:21:32.055Z</updated>
+    <updated>2023-09-28T10:27:26.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スイ（SUI）がOKCoinJapan上場へ、国内初]]></title>
+        <id>https://coinpost.jp/?p=484180</id>
+        <link href="https://coinpost.jp/?p=484180"/>
+        <updated>2023-09-28T09:19:01.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）スイ（Sui）がOKCoinJapanに上場することを発表した。国内初。Suiはメタ（旧フェイスブック）が開発を主導した仮想通貨プロジェクトであるディエム（旧リブラ）系L1ブロックチェーンの一つ]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKCoinJapan、スイ（SUI）の取り扱い予定を発表]]></title>
         <id>https://www.coindeskjapan.com/?p=202981</id>
@@ -700,17 +710,6 @@ Google Cloud、BigQueryにポリゴンなど11ネットワークを追加 first 
 ビットコイン現物ETFの行方を占う格好の前例「金ETF」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Todd Groth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは年末までに3万7000ドル？／イーサリアムが珍しい失敗【Weekly Review：9/16〜9/22】]]></title>
-        <id>https://www.coindeskjapan.com/?p=202348</id>
-        <link href="https://www.coindeskjapan.com/202348/"/>
-        <updated>2023-09-23T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今週の注目！：KONAMI、NFTマーケットプレイス発表 KONAMIが東京ゲームショウで、同社初のWeb3プロジェクトとなるブロックチェーンゲームとともに、N ...
-ビットコインは年末までに3万7000ドル？／イーサリアムが珍しい失敗【Weekly Review：9/16〜9/22】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
