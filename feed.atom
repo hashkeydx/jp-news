@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-29T09:21:20.203Z</updated>
+    <updated>2023-09-29T10:27:33.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界のゲーム企業トップ40社のうち、29社がWeb3分野を模索]]></title>
+        <id>https://coinpost.jp/?p=484380</id>
+        <link href="https://coinpost.jp/?p=484380"/>
+        <updated>2023-09-29T09:24:39.000Z</updated>
+        <summary type="html"><![CDATA[時価総額上位40のゲーム会社の中で、72.5％にあたる29社がWeb3分野を模索していることがわかった。これにはブロックチェーンゲームの直接的な開発のほか、Web3ゲームプロジェクトへの投資、ブロックチェーン関連職の採用が含まれる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2023/9/29）ビットコイン、弱気相場脱出か？：楽天ウォレット]]></title>
         <id>https://www.coindeskjapan.com/?p=203184</id>
@@ -848,17 +858,6 @@ Binance Japanと三菱UFJ信託銀行、「Progmat Coin」基盤を活用した�
 GMOコイン、XRPユーザーへのソングバード（SGB）のエアドロップは日本円で対応 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud、BigQueryにポリゴンなど11ネットワークを追加]]></title>
-        <id>https://www.coindeskjapan.com/?p=202388</id>
-        <link href="https://www.coindeskjapan.com/202388/"/>
-        <updated>2023-09-24T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleのクラウドコンピューティング事業「Google Cloud」はブロックチェーンの取り組みを拡大しており、公開データセット向けの「BigQuery」プ ...
-Google Cloud、BigQueryにポリゴンなど11ネットワークを追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
