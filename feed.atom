@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-09-29T22:24:35.955Z</updated>
+    <updated>2023-09-29T23:20:48.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年のイーサリアムステーキング：成長と変容の年]]></title>
+        <id>https://www.coindeskjapan.com/?p=202817</id>
+        <link href="https://www.coindeskjapan.com/202817/"/>
+        <updated>2023-09-29T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーンにプルーフ・オブ・ステーク（PoS）メカニズムをもたらしたアップグレード「Merge（マージ）」は、ほぼ1年前のこと。それに続くアッ ...
+2023年のイーサリアムステーキング：成長と変容の年 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインETFの行方を占う「金ETF」／イーサリアムも忘れずに【週末に読みたい厳選10本】]]></title>
         <id>https://www.coindeskjapan.com/?p=203137</id>
@@ -786,27 +797,6 @@ NFTは終わっていない：大手メディアの扱いに疑問 first appeare
         <summary type="html"><![CDATA[米マイクロストラテジーは新たに1.47億ドルのコストで5,445 BTCの仮想通貨ビットコインを取得した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三菱UFJ信託銀行、バイナンスジャパンと協業で新たなステーブルコイン検討へ]]></title>
-        <id>https://coinpost.jp/?p=483481</id>
-        <link href="https://coinpost.jp/?p=483481"/>
-        <updated>2023-09-25T11:14:43.000Z</updated>
-        <summary type="html"><![CDATA[三菱UFJ信託銀行は、バイナンスジャパンとステーブルコイン発行・管理基盤「Progmat」の協業により、円建てやドル建てを対象とした新たなステーブルコインの共同検討を開始することがわかった。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは低調で2万6000ドルに近づく──主要コインではDOGE、XRPが最も下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=202465</id>
-        <link href="https://www.coindeskjapan.com/202465/"/>
-        <updated>2023-09-25T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）ウォッチャーは短期的には弱気に傾いているが、予想される半減期が2024年に完了すれば価格は上昇し、それまでは整理統合期間に入ると予想してい ...
-ビットコインは低調で2万6000ドルに近づく──主要コインではDOGE、XRPが最も下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
