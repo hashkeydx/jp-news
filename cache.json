@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=203383",
+          "author": "Nikhilesh De",
+          "description": "昨年のFTXに対する6億ドル（約900億円、1ドル=150円換算）の攻撃に関連するウォレットに置かれていた1万5000のイーサリアム（ETH）は、プライバシーツ ...\nFTXを攻撃したハッカー、先週末に1万5000ETHを移動 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/203383/",
+          "publishedOn": "2023-10-02T21:00:00.000Z",
+          "wordCount": 1150,
+          "title": "FTXを攻撃したハッカー、先週末に1万5000ETHを移動",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/Y3I7WQDX5JCPXBWSJI724USETA.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=203412",
           "author": "CoinDesk JAPAN",
           "description": "野村ホールディングスのデジタル・アセット子会社であるLaser Digital Holdings AG（レーザー・デジタル・ホールディングス AG）は10月2日 ...\nスイスに拠点を置く野村HD子会社のレーザー・デジタル、日本法人を設立 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -290,16 +300,6 @@
           "wordCount": 1085,
           "title": "ビットコインなどの暗号資産市場の上昇には「カオス」が必要：アナリストが指摘",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_687427141.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=202981",
-          "author": "CoinDesk Japan",
-          "description": "暗号資産取引所のOKCoinJapanは9月28日、2023年10月中旬から新たにスイ（SUI）の取り扱いを開始する予定と発表した。対象サービスは入出庫・販売所 ...\nOKCoinJapan、スイ（SUI）の取り扱い予定を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/202981/",
-          "publishedOn": "2023-09-28T08:25:00.000Z",
-          "wordCount": 1018,
-          "title": "OKCoinJapan、スイ（SUI）の取り扱い予定を発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/09/20230928-okcoin.jpg"
         }
       ]
     },
@@ -314,6 +314,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=484666",
+          "author": "菊谷ルイス",
+          "description": "米時間2日に複数のイーサリアム先物ETF（上場投資信託）がデビューした。米大手仮想通貨の資産管理会社グレースケールが現在運用中のイーサリアム投資信託をイーサリアムのETFへ転換する申請をSECに提出した。",
+          "link": "https://coinpost.jp/?p=484666",
+          "publishedOn": "2023-10-02T20:30:48.000Z",
+          "wordCount": 2236,
+          "title": "複数のイーサリアム先物ETF取引開始｜3日朝の重要速報まとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/eth-closer-to-shanghai-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/eth-closer-to-shanghai-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=484590",
           "author": "A.Yamada",
@@ -613,21 +628,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum5_0520.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum5_0520.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=484180",
-          "author": "CoinPost編集部",
-          "description": "暗号資産（仮想通貨）スイ（Sui）がOKCoinJapanに上場することを発表した。国内初。Suiはメタ（旧フェイスブック）が開発を主導した仮想通貨プロジェクトであるディエム（旧リブラ）系L1ブロックチェーンの一つ",
-          "link": "https://coinpost.jp/?p=484180",
-          "publishedOn": "2023-09-28T09:19:01.000Z",
-          "wordCount": 2227,
-          "title": "スイ（SUI）がOKCoinJapan上場へ、国内初",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/sui2023.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/sui2023.jpeg"
         }
       ]
     }
