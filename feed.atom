@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-02T23:21:07.841Z</updated>
+    <updated>2023-10-03T01:24:32.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金融大手UBS、イーサリアムでRWAトークン化実験]]></title>
+        <id>https://coinpost.jp/?p=484671</id>
+        <link href="https://coinpost.jp/?p=484671"/>
+        <updated>2023-10-02T23:20:54.000Z</updated>
+        <summary type="html"><![CDATA[スイス拠点の金融大手UBSは、RWAのファンドをトークン化するテストを開始したことを発表。このテストでは、仮想通貨イーサリアムのブロックチェーンを利用する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米政府閉鎖回避も国債利回り上昇でNYダウ続落　IT・仮想通貨株は上昇｜3日金融短観]]></title>
+        <id>https://coinpost.jp/?p=484670</id>
+        <link href="https://coinpost.jp/?p=484670"/>
+        <updated>2023-10-02T23:10:40.000Z</updated>
+        <summary type="html"><![CDATA[コインベースやマラソンといった仮想通貨関連株銘柄はビットコイン（BTC）が2日に28,580ドルにまで急騰したことを受け一時大幅に上昇していたが、その後28,000ドル台割れで上げ幅を消した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムステーキングの中央集権化に抵抗]]></title>
         <id>https://www.coindeskjapan.com/?p=203360</id>
