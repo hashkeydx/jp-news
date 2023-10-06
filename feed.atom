@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-06T08:26:46.061Z</updated>
+    <updated>2023-10-06T09:21:38.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coincheck、Wrapped Bitcoin（WBTC）の取り扱い開始を発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=203852</id>
+        <link href="https://www.coindeskjapan.com/203852/"/>
+        <updated>2023-10-06T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所のCoinCheckは10月6日、Wrapped Bitcoin（WBTC）の取り扱いを10月11日より開始すると発表した。WBTCの取り扱いは、 ...
+Coincheck、Wrapped Bitcoin（WBTC）の取り扱い開始を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>CoinDesk Japan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産レストランアプリBlackbird、A16z主導で2400万ドルの資金を調達]]></title>
         <id>https://www.coindeskjapan.com/?p=203827</id>
@@ -862,17 +873,6 @@ Progmat、新たな経営体制でスタート first appeared on CoinDesk JAPAN�
 米サークル、トークン化クレジット市場構築を支援するオープンソースプロトコル公開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米金融大手、RWA（現実資産）のトークン化推進──イーサリアムかプライベーチェーンか、JPモルガン、シティ、フランクリン・テンプルトンの選択]]></title>
-        <id>https://www.coindeskjapan.com/?p=203207</id>
-        <link href="https://www.coindeskjapan.com/203207/"/>
-        <updated>2023-10-01T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[銀行とブロックチェーン、ついに一緒に？ トークン化──ブロックチェーンをベースとした現実資産（Real World Asset：RWA）の所有と交換は、先日トロ ...
-米金融大手、RWA（現実資産）のトークン化推進──イーサリアムかプライベーチェーンか、JPモルガン、シティ、フランクリン・テンプルトンの選択 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>
