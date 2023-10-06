@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-06T20:22:17.339Z</updated>
+    <updated>2023-10-06T21:19:06.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labsが人員削減、リストラでメタバースに注力]]></title>
+        <id>https://coinpost.jp/?p=485176</id>
+        <link href="https://coinpost.jp/?p=485176"/>
+        <updated>2023-10-06T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Otherside開発の米Yuga Labsは6日、企業リストラとして従業員解雇を発表した。今週、ハードウォレットLedgerも従業員を12%削減すると発表していた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックETFトークン化、RWAプロトコル「Backed Finance」がBaseチェーンでローンチ]]></title>
+        <id>https://coinpost.jp/?p=485173</id>
+        <link href="https://coinpost.jp/?p=485173"/>
+        <updated>2023-10-06T20:30:15.000Z</updated>
+        <summary type="html"><![CDATA[スイス発のBacked FinanceはBaseチェーン上で、ブラックロックが提供する米短期国債ETF「IB01」をトークン化した。この商品はBaseチェーン初のトークン化されたRWAで年5.36%の利回りを提供するもの。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインに「下落リスク」、イーサリアムETFは低調なパフォーマンス]]></title>
         <id>https://www.coindeskjapan.com/?p=203869</id>
