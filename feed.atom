@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-07T05:23:38.033Z</updated>
+    <updated>2023-10-07T06:26:16.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナがアップデート完了、機密取引（プライバシー機能）導入へ前進]]></title>
+        <id>https://coinpost.jp/?p=485282</id>
+        <link href="https://coinpost.jp/?p=485282"/>
+        <updated>2023-10-07T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[レイヤー1のブロックチェーンとして知られるSolanaは、「1.16」アップデートを完了。これにより、仮想通貨ソラナで取引の秘匿化（機密取引）が選択可能になる計画が前進している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[現物CryptoPunks、公式アートプリント発売へ]]></title>
         <id>https://coinpost.jp/?p=485268</id>
