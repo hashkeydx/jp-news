@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-07T01:20:56.129Z</updated>
+    <updated>2023-10-07T02:26:17.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドリコムとThe Sandbox、パートナーシップ構築に合意]]></title>
+        <id>https://coinpost.jp/?p=485214</id>
+        <link href="https://coinpost.jp/?p=485214"/>
+        <updated>2023-10-07T01:55:43.000Z</updated>
+        <summary type="html"><![CDATA[ドリコムは、Web3メタバース「The Sandbox」とパートナーシップ構築に関して合意に達したと発表。近日リリース予定の『Eternal Crypt - Wizardry BC -』のグローバル展開に向けた取り組み、コラボレーションなどを検討する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3キャンペーンサービス「Galxe」にDNS攻撃　約2,400万円流出か]]></title>
+        <id>https://coinpost.jp/?p=485210</id>
+        <link href="https://coinpost.jp/?p=485210"/>
+        <updated>2023-10-07T01:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Web3プラットフォームGalxeのドメインがハッキングされフィッシング詐欺が行われた。2,400万円程度の資金が流出した可能性がある。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「マージ」と「シャンハイ」以降、イーサリアムはより中央集権的になった：JPモルガン]]></title>
         <id>https://www.coindeskjapan.com/?p=203859</id>
