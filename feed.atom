@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-08T22:23:36.589Z</updated>
+    <updated>2023-10-08T23:20:41.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP、中央集権化の懸念が残っているが新たな未来が広がりつつある──SECによる規制の脅威も弱まる]]></title>
+        <id>https://www.coindeskjapan.com/?p=194714</id>
+        <link href="https://www.coindeskjapan.com/194714/"/>
+        <updated>2023-10-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リップル・ラボ（Ripple Labs）が米証券取引委員会（SEC）との裁判で部分的な勝利を収めたニュースは、長年このプロジェクトにかかっていた規制の雲を晴らし ...
+XRP、中央集権化の懸念が残っているが新たな未来が広がりつつある──SECによる規制の脅威も弱まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[柴犬「かぼす」の銅像設置──11月2日に佐倉市で18歳の誕生会＆除幕式]]></title>
         <id>https://www.coindeskjapan.com/?p=203976</id>
@@ -599,17 +610,6 @@ DeFiプロジェクトのイールド・プロトコル、年内で終了──�
         <summary type="html"><![CDATA[米ブラックロックの元マネージング・ディレクターはSECが現物型ビットコインETFを承認するまでに6ヶ月ほどかかると予測した。ソラナ基盤の取引プラットフォームConvergence RFQはプレシードラウンドで250万ドルを調達した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは2万7400ドル付近で安定──暗号資産市場に低ボラティリティが戻ってきた]]></title>
-        <id>https://www.coindeskjapan.com/?p=203615</id>
-        <link href="https://www.coindeskjapan.com/203615/"/>
-        <updated>2023-10-04T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[上場投資信託（ETF）の楽観論が価格を上昇させた数日後、暗号資産（仮想通貨）市場に低ボラティリティが戻ったようで、主要コインはまちまちの動きを見せ、ビットコイン ...
-ビットコインは2万7400ドル付近で安定──暗号資産市場に低ボラティリティが戻ってきた first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
