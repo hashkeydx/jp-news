@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-09T23:21:25.997Z</updated>
+    <updated>2023-10-10T01:21:42.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[資金難が伝えられる採掘機器大手Bitmain、給与の未払い問題解決か]]></title>
+        <id>https://coinpost.jp/?p=485430</id>
+        <link href="https://coinpost.jp/?p=485430"/>
+        <updated>2023-10-10T01:09:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨マイニング機器大手ビットメインは、支払いが滞っていると伝えられていた一部の給与を支払ったことがわかった。支払いが停止されていたのは一部の従業員の9月における成果報酬のようだ。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デリバティブ大手Deribit、XRP・SOL・MATICのオプション取引提供へ]]></title>
+        <id>https://coinpost.jp/?p=485426</id>
+        <link href="https://coinpost.jp/?p=485426"/>
+        <updated>2023-10-10T01:05:44.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨大手デリバティブ取引所Deribitは、XRP、ソラナ、ポリゴンのオプション取引の提供を2024年に開始することを発表。また、欧州で仲介業者のライセンスの取得を目指していることも公表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野村HD出資のKomainu、イギリス規制当局の承認獲得]]></title>
         <id>https://www.coindeskjapan.com/?p=204063</id>
