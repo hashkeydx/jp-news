@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=204129",
+          "author": "Camomile Shumba",
+          "description": "イスラエル警察がパレスチナの過激派組織ハマスに関連する暗号資産（仮想通貨）口座を凍結したと地元メディアのCalcalistが公式声明を引用して10月10日に報じ ...\nハマスに関係する暗号資産口座凍結にバイナンスが協力：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/204129/",
+          "publishedOn": "2023-10-10T21:00:00.000Z",
+          "wordCount": 1095,
+          "title": "ハマスに関係する暗号資産口座凍結にバイナンスが協力：報道",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/telaviv.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=204114",
           "author": "Shaurya Malwa",
           "description": "現在進行中のハマスとイスラエルの紛争とイーサリアム財団によるイーサリアム（ETH）の大規模な売却が暗号資産（仮想通貨）市場全体の重荷となり、強気派は1億ドル（約 ...\nビットコインは2万7500ドル以上で推移──アルトコイン下落で強気派は1億ドルの清算に直面 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -190,16 +200,6 @@
           "wordCount": 1184,
           "title": "マトリックス法によるテクニカル分析（2023/10/6）ビットコイン、全値戻しに向け視界良好か？：楽天ウォレット",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/tr-thumb_231006.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=203852",
-          "author": "CoinDesk Japan",
-          "description": "暗号資産取引所のCoinCheckは10月6日、Wrapped Bitcoin（WBTC）の取り扱いを10月11日より開始すると発表した。WBTCの取り扱いは、 ...\nCoincheck、Wrapped Bitcoin（WBTC）の取り扱い開始を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/203852/",
-          "publishedOn": "2023-10-06T09:15:00.000Z",
-          "wordCount": 1027,
-          "title": "Coincheck、Wrapped Bitcoin（WBTC）の取り扱い開始を発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/20231006-wbtc-coincheck.jpg"
         }
       ]
     },
@@ -214,6 +214,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=485586",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所大手コインベースはステーブルコインUSDC入出金対応チェーンを増やし、ポリゴン（MATIC）PoSブロックチェーンに対応し始めた。",
+          "link": "https://coinpost.jp/?p=485586",
+          "publishedOn": "2023-10-10T21:00:07.000Z",
+          "wordCount": 2193,
+          "title": "ポリゴンPoSでステーブルコイン「USDC」ローンチ、コインベースが対応",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/usdc1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/usdc1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=485577",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所大手バイナンスは日本時間10日21時、Neutron（NTRN）の新規上場を実施した。NTRNは+9.1%高。",
+          "link": "https://coinpost.jp/?p=485577",
+          "publishedOn": "2023-10-10T20:30:41.000Z",
+          "wordCount": 2191,
+          "title": "バイナンスにNeutron（NTRN）新規上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/binance0701211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/binance0701211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=485457",
           "author": "A.Yamada",
