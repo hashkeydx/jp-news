@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-10T08:26:56.242Z</updated>
+    <updated>2023-10-10T09:22:11.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英国規制当局、複数の仮想通貨取引所を警告リストに登録]]></title>
+        <id>https://coinpost.jp/?p=485457</id>
+        <link href="https://coinpost.jp/?p=485457"/>
+        <updated>2023-10-10T08:25:45.000Z</updated>
+        <summary type="html"><![CDATA[英国FCAは、認可なしで事業を行っている企業のリストにKuCoinなどの仮想通貨取引所を掲載した。金融製品プロモーション制度の更新を背景としている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAIアルトマンCEO「いかなる政府管理下にも属さない世界的な通貨は論理的」]]></title>
         <id>https://coinpost.jp/?p=485492</id>
@@ -526,37 +536,6 @@ Coincheck、Wrapped Bitcoin（WBTC）の取り扱い開始を発表 first appear
 第3四半期の暗号資産企業の資金調達、3年ぶりの低水準に：レポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3ゲーム最新作「Nitro Nation World Tour」、AppleとAndroidにリリース]]></title>
-        <id>https://coinpost.jp/?p=485056</id>
-        <link href="https://coinpost.jp/?p=485056"/>
-        <updated>2023-10-05T21:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Web3ゲーム開発企業Mythical Gamesは最新作「Nitro Nation World Tour」をアップルとアンドロイドのアプリストアにリリースした。同社開発のNFL RivalsはモバイルWeb3ゲームの代表作となった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シンガポール最大手のDBS銀行、ゆっくりと暗号資産ビジネスを進める理由]]></title>
-        <id>https://www.coindeskjapan.com/?p=203695</id>
-        <link href="https://www.coindeskjapan.com/203695/"/>
-        <updated>2023-10-05T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[シンガポールでは9月中旬、F1が開催される週末に向けて暗号資産（仮想通貨）関連企業が「Token2049」カンファレンスでのチャンスを狙って競い合っていた。しか ...
-シンガポール最大手のDBS銀行、ゆっくりと暗号資産ビジネスを進める理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suiの5000万ドルエコシステムファンド、DeFiなど支援へ]]></title>
-        <id>https://coinpost.jp/?p=485052</id>
-        <link href="https://coinpost.jp/?p=485052"/>
-        <updated>2023-10-05T20:35:21.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨プロジェクトSuiは5,130万ドル規模のエコシステムファンドを発表した。Sui財団が1.17億SUIトークン（5,130万ドル相当）を「外部マーケットメーカー」に請求しSuiのエコシステム支援に振り向ける。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
