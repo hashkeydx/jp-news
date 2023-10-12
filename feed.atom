@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-12T02:26:49.796Z</updated>
+    <updated>2023-10-12T03:21:49.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのスマートコントラクトを強化する提案「BitVM」とは？]]></title>
+        <id>https://coinpost.jp/?p=485813</id>
+        <link href="https://coinpost.jp/?p=485813"/>
+        <updated>2023-10-12T02:30:37.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインのエコシステムにおいて、スマートコントラクトの実用性を強化する「BitVM」という新しいコンセプトが発表された。イーサリアムのL2オプションである「Optimistic Rollup」と“似た”アプローチを採っているが、設計上の課題も指摘されている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、2026年末までに8000ドル：スタンダードチャータード銀行]]></title>
         <id>https://www.coindeskjapan.com/?p=204305</id>
