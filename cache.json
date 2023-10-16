@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=204763",
+          "author": "Jamie Crawley",
+          "description": "ロイターの報道によると、フェラーリ（Ferrari）はアメリカで暗号資産（仮想通貨）を支払い方法として受け入れる。 イタリアのマラネロを拠点とするこの高級スポー ...\nフェラーリ、アメリカで暗号資産決済の受け入れを開始：ロイター first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/204763/",
+          "publishedOn": "2023-10-16T21:00:00.000Z",
+          "wordCount": 1055,
+          "title": "フェラーリ、アメリカで暗号資産決済の受け入れを開始：ロイター",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/shutterstock_615063392.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=204754",
           "author": "Shaurya Malwa",
           "description": "ビットコイン上場投資信託（ETF）が今後数カ月以内に承認されるかもしれないとの期待から、ビットコイン（BTC）は10月16日のアジア時間に約4.5％急騰し、強気 ...\nビットコインが2万8000ドル近くまで急騰──強気の投資家がETF承認に賭ける first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -244,6 +254,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=486354",
+          "author": "菊谷ルイス",
+          "description": "大手仮想通貨DEX Uniswapを開発するUniswap Labsは明日から「インターフェイス手数料」を課す。初のプロトコル側の手数料徴収となる。",
+          "link": "https://coinpost.jp/?p=486354",
+          "publishedOn": "2023-10-16T21:00:06.000Z",
+          "wordCount": 1982,
+          "title": "Uniswap Labs、ETHやUSDCで交換手数料徴収へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=486348",
+          "author": "菊谷ルイス",
+          "description": "昨夜海外メディアに報じられたブラックロックビットコインETFの承認はフェイクニュースだった。仮想通貨BTCは一時急騰したがすぐにダンプされた。",
+          "link": "https://coinpost.jp/?p=486348",
+          "publishedOn": "2023-10-16T20:00:43.000Z",
+          "wordCount": 1940,
+          "title": "「ビットコインETFは未だ審査中」ブラックロック関係者",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/new-btc-future-etf.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/new-btc-future-etf.png"
+        },
         {
           "id": "https://coinpost.jp/?p=486302",
           "author": "幸田直子",
@@ -558,21 +598,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/meta-stripe.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/meta-stripe.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=485827",
-          "author": "CoinPost編集部",
-          "description": "第2回のGM Radio：WebX Weeklyは6日に公開。ゲストは、仮想通貨取引所バイナンスら出資のOSプロトコル「dappOS」の共同創設者Isabella Yang氏である。",
-          "link": "https://coinpost.jp/?p=485827",
-          "publishedOn": "2023-10-12T09:00:33.000Z",
-          "wordCount": 2303,
-          "title": "「Web3参入障壁を下げる」バイナンスら出資の「dappOS」創設者——「WebX Weekly」第2回放送内容",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/dappos_webx.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/dappos_webx.png"
         }
       ]
     }
