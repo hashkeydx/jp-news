@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-17T22:25:19.033Z</updated>
+    <updated>2023-10-17T23:21:07.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RedditがMOONトークンら廃止へ　価格暴落]]></title>
+        <id>https://coinpost.jp/?p=486598</id>
+        <link href="https://coinpost.jp/?p=486598"/>
+        <updated>2023-10-17T23:05:15.000Z</updated>
+        <summary type="html"><![CDATA[掲示板大手のReddit（レディット）は米規制環境を理由にコミュニティポイントである仮想通貨MOON（-83%）、BRICK（-48%）、DONUT（-45%）の利用を廃止すると発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファントム財団にゼロデイ攻撃、ファントムとイーサリアムが流出──10億円相当のETHを保有するウォレットに送られる]]></title>
+        <id>https://www.coindeskjapan.com/?p=204963</id>
+        <link href="https://www.coindeskjapan.com/204963/"/>
+        <updated>2023-10-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fantom（ファントム）財団のウォレットが、イーサリアムブロックチェーンとファントムブロックチェーンの双方でハッキングを受けたとブロックチェーンのセキュリティ ...
+ファントム財団にゼロデイ攻撃、ファントムとイーサリアムが流出──10億円相当のETHを保有するウォレットに送られる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sui財団がトークンの供給量操作の疑惑を否定　SUIの価格は前日比約8％安]]></title>
+        <id>https://coinpost.jp/?p=486592</id>
+        <link href="https://coinpost.jp/?p=486592"/>
+        <updated>2023-10-17T22:40:35.000Z</updated>
+        <summary type="html"><![CDATA[L1ブロックチェーンSuiをサポートするSui財団は、仮想通貨SUIの供給量を操作しているとの疑惑を否定。現地メディアらが、韓国の金融監督院が供給量操作の疑惑を調査すると報じていた。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[銀行は暗号通貨へのエクスポージャーの開示が必要：バーゼル銀行監督委員会]]></title>
+        <id>https://www.coindeskjapan.com/?p=204933</id>
+        <link href="https://www.coindeskjapan.com/204933/"/>
+        <updated>2023-10-17T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[国際的な基準設定機関であるバーゼル銀行監督委員会（BCBS）が10月17日に公表したガイダンス案によると、銀行は暗号資産（仮想通貨）への投資活動に関する定量的・ ...
+銀行は暗号通貨へのエクスポージャーの開示が必要：バーゼル銀行監督委員会 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jack Schickler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスUS、米ドルの引き出しを停止]]></title>
         <id>https://www.coindeskjapan.com/?p=204942</id>
@@ -531,17 +573,6 @@ bitFlyer、「クリプタクト」のpafinと資本業務提携 first appeared 
         <summary type="html"><![CDATA[AMCで仮想通貨支払い可能米著名シンガーソングライターテイラー・スウィフト氏の公演ドキュメンタリー映画「TaylorSwift:TheErasTour」は仮想通貨によるチケットの購入が可能だ。この映画は米AMCシアターズの独立配給映画であり...]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは強気でも弱気でもない──大きな動きにはきっかけが必要]]></title>
-        <id>https://www.coindeskjapan.com/?p=204547</id>
-        <link href="https://www.coindeskjapan.com/204547/"/>
-        <updated>2023-10-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は、地政学的対立の継続がリスク資産の価格を圧迫しているためにほぼ1週間続けて下落したが、過去24時間は安定したようだ。 アナリストが米C ...
-ビットコインは強気でも弱気でもない──大きな動きにはきっかけが必要 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
