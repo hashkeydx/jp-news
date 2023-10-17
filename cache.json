@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=204891",
+          "author": "Omkar Godbole",
+          "description": "バイナンス（Binance）は長い間、取引量で世界最大の暗号通貨（仮想通貨）取引所だった。しかし、パリに拠点を置く暗号資産市場調査企業カイコ（Kaiko）が追跡 ...\nバイナンスのビットコイン流動性が大きく低下──ETFの誤報による乱高下の中で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/204891/",
+          "publishedOn": "2023-10-17T08:40:00.000Z",
+          "wordCount": 1084,
+          "title": "バイナンスのビットコイン流動性が大きく低下──ETFの誤報による乱高下の中で",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/WMVKAUZ5T5B5PDVJJ3PFOHOUII.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=204866",
           "author": "林 理南",
           "description": "米証券取引委員会（SEC）は、グレイスケール・ビットコイン・トラスト（GBTC）を現物ETF（上場投資信託）に転換することを求めるグレイスケールの申請をめぐり8 ...\nSECが対グレイスケール訴訟で控訴せず、次の展開は？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -300,16 +310,6 @@
           "wordCount": 1089,
           "title": "アラメダ、フィッシング詐欺などで2億ドルを失っていた──元従業員がセキュリテイの甘さを証言",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/shutterstock_2225021035-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=204385",
-          "author": "Oliver Knight",
-          "description": "米人気投稿サイトReddit（レディット）のFortniteコミュニティのネイティブトークンであるブリックス（BRICK）は、直近の2カ月で80%以上の価値を失 ...\nレディットのFortniteコミュニティトークン、2倍以上に上昇──2カ月間の大幅な下落の後に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/204385/",
-          "publishedOn": "2023-10-12T21:00:00.000Z",
-          "wordCount": 1067,
-          "title": "レディットのFortniteコミュニティトークン、2倍以上に上昇──2カ月間の大幅な下落の後に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/shutterstock_2102292826.jpg"
         }
       ]
     },
@@ -773,36 +773,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=485944",
-          "author": "菊谷ルイス",
-          "description": "Uniswap Labsは大手DEX「Uniswap」のモバイルアプリ（自己管理型ウォレット）のアンドロイド版を新たにリリースした。",
-          "link": "https://coinpost.jp/?p=485944",
-          "publishedOn": "2023-10-12T21:20:31.000Z",
-          "wordCount": 2264,
-          "title": "L2取引簡素化　Uniswapがアンドロイド版アプリを公開",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/uniswap-android.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/uniswap-android.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=485941",
-          "author": "菊谷ルイス",
-          "description": "米大手ヘッジファンドARK Investとパートナーである21Sharesは米SEC審査中の現物型ビットコインETFの申請内容を修正した。承認率を高める狙いだ。",
-          "link": "https://coinpost.jp/?p=485941",
-          "publishedOn": "2023-10-12T20:45:27.000Z",
-          "wordCount": 2286,
-          "title": "ARKが現物型ビットコインETFの申請を修正　承認率高める狙い",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/ark-revised-etf-app-good-sign-sec-approve-imminently-_.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/ark-revised-etf-app-good-sign-sec-approve-imminently-_.jpeg"
         }
       ]
     }

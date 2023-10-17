@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-17T08:27:23.250Z</updated>
+    <updated>2023-10-17T09:22:43.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンスのビットコイン流動性が大きく低下──ETFの誤報による乱高下の中で]]></title>
+        <id>https://www.coindeskjapan.com/?p=204891</id>
+        <link href="https://www.coindeskjapan.com/204891/"/>
+        <updated>2023-10-17T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス（Binance）は長い間、取引量で世界最大の暗号通貨（仮想通貨）取引所だった。しかし、パリに拠点を置く暗号資産市場調査企業カイコ（Kaiko）が追跡 ...
+バイナンスのビットコイン流動性が大きく低下──ETFの誤報による乱高下の中で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産の国内レバレッジ倍率に改正案、「法人向け倍率」適用を要望へ]]></title>
         <id>https://coinpost.jp/?p=486463</id>
@@ -623,37 +634,6 @@ bitFlyer、「クリプタクト」のpafinと資本業務提携 first appeared 
 アラメダ、フィッシング詐欺などで2億ドルを失っていた──元従業員がセキュリテイの甘さを証言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L2取引簡素化　Uniswapがアンドロイド版アプリを公開]]></title>
-        <id>https://coinpost.jp/?p=485944</id>
-        <link href="https://coinpost.jp/?p=485944"/>
-        <updated>2023-10-12T21:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap Labsは大手DEX「Uniswap」のモバイルアプリ（自己管理型ウォレット）のアンドロイド版を新たにリリースした。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レディットのFortniteコミュニティトークン、2倍以上に上昇──2カ月間の大幅な下落の後に]]></title>
-        <id>https://www.coindeskjapan.com/?p=204385</id>
-        <link href="https://www.coindeskjapan.com/204385/"/>
-        <updated>2023-10-12T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米人気投稿サイトReddit（レディット）のFortniteコミュニティのネイティブトークンであるブリックス（BRICK）は、直近の2カ月で80%以上の価値を失 ...
-レディットのFortniteコミュニティトークン、2倍以上に上昇──2カ月間の大幅な下落の後に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARKが現物型ビットコインETFの申請を修正　承認率高める狙い]]></title>
-        <id>https://coinpost.jp/?p=485941</id>
-        <link href="https://coinpost.jp/?p=485941"/>
-        <updated>2023-10-12T20:45:27.000Z</updated>
-        <summary type="html"><![CDATA[米大手ヘッジファンドARK Investとパートナーである21Sharesは米SEC審査中の現物型ビットコインETFの申請内容を修正した。承認率を高める狙いだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
