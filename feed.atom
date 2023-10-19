@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-19T09:22:06.930Z</updated>
+    <updated>2023-10-19T10:27:55.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3開発者の減少要因、急成長中のエコシステムは？－Electric Capital報告]]></title>
+        <id>https://coinpost.jp/?p=486918</id>
+        <link href="https://coinpost.jp/?p=486918"/>
+        <updated>2023-10-19T09:50:32.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨に特化したベンチャーキャピタル、Electric Capitalは、Web3開発者動向に関するレポートを公表。月間アクティブ数は前年同期と比べて27％減の19,300人。StarknetやXRPなどのエコシステムは前年と比較して堅調な成長を見せている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[映画専門誌「キネマ旬報」NFT付き電子版を発売、世界初の取り組み]]></title>
         <id>https://coinpost.jp/?p=486893</id>
@@ -805,17 +815,6 @@ SEC、対グレイスケール訴訟で控訴しない見通し──GBTCのETF�
 毎月約2000億円分を貯め込むビットコイン長期保有者／柴犬「かぼす」の銅像設置へ【Weekly Review：10/7〜10/13】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分散型金融（DeFi）は「未来の金融」レースに敗れつつある]]></title>
-        <id>https://www.coindeskjapan.com/?p=204573</id>
-        <link href="https://www.coindeskjapan.com/204573/"/>
-        <updated>2023-10-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[分散型金融（DeFi）は、現在進行中の暗号資産（仮想通貨）弱気市場の最大の敗者として急速に浮上している。 DeFiプロトコルにロックされた資本の総額は、トレーダ ...
-分散型金融（DeFi）は「未来の金融」レースに敗れつつある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
         </author>
     </entry>
 </feed>
