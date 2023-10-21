@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-21T07:18:26.747Z</updated>
+    <updated>2023-10-21T08:23:59.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RWAプロトコルを強化、出金待機中の資金活用をサポートするEIP-7540とは]]></title>
+        <id>https://coinpost.jp/?p=487333</id>
+        <link href="https://coinpost.jp/?p=487333"/>
+        <updated>2023-10-21T07:45:02.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム技術フォーラムにて、改善提案「EIP-7540」が公開された。リアルワールドアセット（RWA）、クロスチェーン融資、リキッドステーキングといったDeFiのユーザビリティを強化する可能性がある。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港当局が仮想通貨投資で追加の制限を導入　9月の巨額詐欺を受け]]></title>
         <id>https://coinpost.jp/?p=487316</id>
@@ -1021,16 +1031,6 @@ SECが対グレイスケール訴訟で控訴せず、次の展開は？ first a
 フェラーリ、アメリカで暗号資産決済の受け入れを開始：ロイター first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコインETFは未だ審査中」ブラックロック関係者]]></title>
-        <id>https://coinpost.jp/?p=486348</id>
-        <link href="https://coinpost.jp/?p=486348"/>
-        <updated>2023-10-16T20:00:43.000Z</updated>
-        <summary type="html"><![CDATA[昨夜海外メディアに報じられたブラックロックビットコインETFの承認はフェイクニュースだった。仮想通貨BTCは一時急騰したがすぐにダンプされた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

@@ -495,6 +495,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=487333",
+          "author": "AKIRA.H",
+          "description": "イーサリアム技術フォーラムにて、改善提案「EIP-7540」が公開された。リアルワールドアセット（RWA）、クロスチェーン融資、リキッドステーキングといったDeFiのユーザビリティを強化する可能性がある。",
+          "link": "https://coinpost.jp/?p=487333",
+          "publishedOn": "2023-10-21T07:45:02.000Z",
+          "wordCount": 1887,
+          "title": "RWAプロトコルを強化、出金待機中の資金活用をサポートするEIP-7540とは",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=487316",
           "author": "A.Yamada",
           "description": "香港の規制当局は、ビットコインなど仮想通貨関連商品の一部について追加の制限を導入した。投資家保護を強化する目的がある。",
@@ -1243,21 +1258,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/uniswap-genes.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=486348",
-          "author": "菊谷ルイス",
-          "description": "昨夜海外メディアに報じられたブラックロックビットコインETFの承認はフェイクニュースだった。仮想通貨BTCは一時急騰したがすぐにダンプされた。",
-          "link": "https://coinpost.jp/?p=486348",
-          "publishedOn": "2023-10-16T20:00:43.000Z",
-          "wordCount": 1940,
-          "title": "「ビットコインETFは未だ審査中」ブラックロック関係者",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/new-btc-future-etf.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/new-btc-future-etf.png"
         }
       ]
     }
