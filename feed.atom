@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-22T20:20:57.701Z</updated>
+    <updated>2023-10-22T21:18:17.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産の足かせは？ 規制当局のみならず創業者たち]]></title>
+        <id>https://www.coindeskjapan.com/?p=205047</id>
+        <link href="https://www.coindeskjapan.com/205047/"/>
+        <updated>2023-10-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンと暗号資産（仮想通貨）をめぐる過去数年間の一般的なストーリーは、規制が業界にとって最大のリスクというものだった。だが、それは誤りだ。 過去2年間 ...
+暗号資産の足かせは？ 規制当局のみならず創業者たち first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強い地合いのビットコインは440万円を窺う展開、調整入る可能性には注意を｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=486882</id>
@@ -644,16 +655,6 @@ EUのプライバシー監視機関、 デジタル・ユーロの「過度な�
 ビットコイン、2万9000ドル近くまで上昇──フィデリティによるETF申請書類の修正が強気を呼ぶ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3企業の秘密鍵管理、DJT執行役員が課題と解決方法を語る｜WebX]]></title>
-        <id>https://coinpost.jp/?p=484116</id>
-        <link href="https://coinpost.jp/?p=484116"/>
-        <updated>2023-10-18T08:41:26.000Z</updated>
-        <summary type="html"><![CDATA[Web3の国際カンファレンスWebXにdouble jump.tokyo（DJT）の執行役員が登壇。Web3ビジネスにおける秘密鍵管理の課題と解決方法をテーマに講演を行なった。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
