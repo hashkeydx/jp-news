@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-23T21:19:38.766Z</updated>
+    <updated>2023-10-23T22:24:58.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ユニスワップの最初のトークン、300万ドルに高騰]]></title>
+        <id>https://www.coindeskjapan.com/?p=205729</id>
+        <link href="https://www.coindeskjapan.com/205729/"/>
+        <updated>2023-10-23T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所（DEX）ユニスワップ（Uniswap）のクリエイターが実験的に公開した最初のコインは、現在、わずか4.4トークンの供給量で、1トークンあたり300 ...
+ユニスワップの最初のトークン、300万ドルに高騰 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロストラテジーのビットコイン投資　7月以来の含み益に]]></title>
+        <id>https://coinpost.jp/?p=487539</id>
+        <link href="https://coinpost.jp/?p=487539"/>
+        <updated>2023-10-23T21:15:08.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロストラテジーはビットコインの30,000ドル台復帰受けて、自社の仮想通貨ビットコインのポートフォリオで約3ヶ月ぶりに再び含み損から含み益へと転じた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港当局、暗号資産の現物・ETF投資への姿勢を転換]]></title>
         <id>https://www.coindeskjapan.com/?p=205714</id>
@@ -613,16 +634,6 @@ SEC、リップル社のガーリングハウスCEOとラーセン会長に対�
         <summary type="html"><![CDATA[JPモルガンのアナリストは仮想通貨ビットコインETFの承認確率について強気な予測を示した。また、グレースケールはGBTCをETFに変換し上場させる申請を再び提出し、ブラックロックは新たにビットコインETF申請に修正内容を加えた]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3開発者の減少要因、急成長中のエコシステムは？－Electric Capital報告]]></title>
-        <id>https://coinpost.jp/?p=486918</id>
-        <link href="https://coinpost.jp/?p=486918"/>
-        <updated>2023-10-19T09:50:32.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨に特化したベンチャーキャピタル、Electric Capitalは、Web3開発者動向に関するレポートを公表。月間アクティブ数は前年同期と比べて27％減の19,300人。StarknetやXRPなどのエコシステムは前年と比較して堅調な成長を見せている。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
