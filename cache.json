@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=205714",
+          "author": "Amitoj Singh",
+          "description": "香港の金融規制当局は、暗号資産（仮想通貨）スポット商品の販売先をプロの投資家に限定していた以前のガイダンスを緩和し、仲介業者がより幅広い顧客にサービスを提供でき ...\n香港当局、暗号資産の現物・ETF投資への姿勢を転換 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/205714/",
+          "publishedOn": "2023-10-23T21:00:00.000Z",
+          "wordCount": 1145,
+          "title": "香港当局、暗号資産の現物・ETF投資への姿勢を転換",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/hongkong1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=205702",
           "author": "CoinDesk JAPAN",
           "description": "HashPortは、2025年日本国際博覧会、いわゆる「大阪・関西万博」に向けて、11月1日から「EXPO2025デジタルウォレット」の提供を開始すると10月2 ...\nHashPort、EXPO2025デジタルウォレットの提供開始──1000万人以上のインストールを目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -290,16 +300,6 @@
           "wordCount": 1155,
           "title": "「暗号資産の冬」は終わったようだ：モルガン・スタンレー",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/08/shutterstock_253732879-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=205227",
-          "author": "Omkar Godbole",
-          "description": "テスラ（Tesla）のビットコイン（BTC）保有量は第3四半期には安定していたことが、アメリカを拠点とするこの自動車メーカーの新しい決算報告で明らかになった。  ...\nテスラ、第3四半期もビットコインの保有量を維持 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/205227/",
-          "publishedOn": "2023-10-19T08:25:00.000Z",
-          "wordCount": 1146,
-          "title": "テスラ、第3四半期もビットコインの保有量を維持",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/05/tesladealer-scaled.jpg"
         }
       ]
     },
@@ -314,6 +314,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=487536",
+          "author": "菊谷ルイス",
+          "description": "米国でビットコイン投資信託からETFへの変換をめぐる裁判には終止符が打たれた。SECが再審査する必要があるとの8月の判断について裁判所から正式な命令を下した。",
+          "link": "https://coinpost.jp/?p=487536",
+          "publishedOn": "2023-10-23T20:20:28.000Z",
+          "wordCount": 1926,
+          "title": "SECがビットコインETF変換再審査へ　裁判所の正式命令で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/btc-etf-new-pic-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/btc-etf-new-pic-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=487503",
           "author": "CoinPost編集部",
@@ -748,21 +763,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Developper_0711.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Developper_0711.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=486893",
-          "author": "AKIRA.H",
-          "description": "映画専門誌「キネマ旬報」はNFT付き電子版の販売を開始した。NFT付き電子版としては、映画コンテンツ・映画コレクティブル専門のマーケットプレイス「mov」が独占的に販売する。19日発売のキネマ旬報11月号からの取り組み。",
-          "link": "https://coinpost.jp/?p=486893",
-          "publishedOn": "2023-10-19T08:29:45.000Z",
-          "wordCount": 1893,
-          "title": "映画専門誌「キネマ旬報」NFT付き電子版を発売、世界初の取り組み",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/Mov_1019.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/Mov_1019.jpg"
         }
       ]
     }
