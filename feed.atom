@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-25T19:17:44.382Z</updated>
+    <updated>2023-10-25T20:22:22.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[860万ドル相当のETHやLINKが取引所へ入金　FTXウォレットから]]></title>
+        <id>https://coinpost.jp/?p=488015</id>
+        <link href="https://coinpost.jp/?p=488015"/>
+        <updated>2023-10-25T19:50:01.000Z</updated>
+        <summary type="html"><![CDATA[破産したFTXの遺産ウォレットから仮想通貨取引所バイナンスアドレスへ大量に送金されたことが判明。860万ドル相当のLINKやETH、AAVEが取引所に入金された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの資金調達率が急上昇──裁定取引が再び流行]]></title>
         <id>https://www.coindeskjapan.com/?p=206102</id>
@@ -643,16 +653,6 @@ FBI、3000万ドルの違法送金事業を運営した疑いで6人を起訴 fi
 「暗号資産の冬」は終わったようだ／トークン化現実資産（RWA）は10兆ドル規模に【Weekly Review：10/14〜10/20】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWAプロトコルを強化、出金待機中の資金活用をサポートするEIP-7540とは]]></title>
-        <id>https://coinpost.jp/?p=487333</id>
-        <link href="https://coinpost.jp/?p=487333"/>
-        <updated>2023-10-21T07:45:02.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム技術フォーラムにて、改善提案「EIP-7540」が公開された。リアルワールドアセット（RWA）、クロスチェーン融資、リキッドステーキングといったDeFiのユーザビリティを強化する可能性がある。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>

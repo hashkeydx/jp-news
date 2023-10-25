@@ -315,6 +315,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=488015",
+          "author": "菊谷ルイス",
+          "description": "破産したFTXの遺産ウォレットから仮想通貨取引所バイナンスアドレスへ大量に送金されたことが判明。860万ドル相当のLINKやETH、AAVEが取引所に入金された。",
+          "link": "https://coinpost.jp/?p=488015",
+          "publishedOn": "2023-10-25T19:50:01.000Z",
+          "wordCount": 1885,
+          "title": "860万ドル相当のETHやLINKが取引所へ入金　FTXウォレットから",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/image14.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/image14.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=487891",
           "author": "CoinPost編集部",
           "description": "第5回のGM Radio：Beyond The Priceは12日に公開。ゲストは仮想通貨ビットコインに投資するファミリーオフィスMimesis Capitalの創設者Louis Liu氏である。",
@@ -793,21 +808,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=487333",
-          "author": "AKIRA.H",
-          "description": "イーサリアム技術フォーラムにて、改善提案「EIP-7540」が公開された。リアルワールドアセット（RWA）、クロスチェーン融資、リキッドステーキングといったDeFiのユーザビリティを強化する可能性がある。",
-          "link": "https://coinpost.jp/?p=487333",
-          "publishedOn": "2023-10-21T07:45:02.000Z",
-          "wordCount": 1887,
-          "title": "RWAプロトコルを強化、出金待機中の資金活用をサポートするEIP-7540とは",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
         }
       ]
     }
