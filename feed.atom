@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-27T23:20:24.367Z</updated>
+    <updated>2023-10-28T01:19:42.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[台湾の暗号資産規制が始動──法律の草案を審議]]></title>
+        <id>https://www.coindeskjapan.com/?p=206537</id>
+        <link href="https://www.coindeskjapan.com/206537/"/>
+        <updated>2023-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[台湾は暗号資産（仮想通貨）の規制に向けて最初の一歩を踏み出し、暗号資産法案を立法院に提出して第一読会を行った。 暗号資産管理条例草案は、暗号資産の定義、資産運用 ...
+台湾の暗号資産規制が始動──法律の草案を審議 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マネックス好決算もコインチェック減益　米S&P500が調整局面に｜28日金融短観]]></title>
+        <id>https://coinpost.jp/?p=488471</id>
+        <link href="https://coinpost.jp/?p=488471"/>
+        <updated>2023-10-27T23:45:35.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨関連株はS&P500の続落を受けて値下がりを続けた。S&P500が「調整局面」とされ市場の全体を圧迫していた。マネックスグループは昨日引け後に好決算を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムのハッキングが仕事──キャンピングカーからネットワークを守るサイバーセキュリティのプロ]]></title>
         <id>https://www.coindeskjapan.com/?p=206414</id>
@@ -181,6 +202,16 @@ GBTCは今年220%上昇──パフォーマンスでS&P500最高のエヌビデ
         <summary type="html"><![CDATA[JPモルガンは、デジタル通貨JPMコインで1日に合計約1,500億円相当の取引を処理していることがわかった。JPMコインの今後の計画も明らかになっている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「真に分散されたSNSの構築へ」——11月東京開催「Nostrasia」の実行委員が語る]]></title>
+        <id>https://coinpost.jp/?p=488369</id>
+        <link href="https://coinpost.jp/?p=488369"/>
+        <updated>2023-10-27T00:55:30.000Z</updated>
+        <summary type="html"><![CDATA[第7回のGM Radio：Beyond The Priceは26日に公開。ゲストは11月に東京などで開催されるイベントNostrasiaの実行委員Alex McShane氏である。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -955,17 +986,6 @@ Astar NetworkグループとKDDI、Web3領域での協業に向け基本合意�
         <summary type="html"><![CDATA[米国でビットコイン投資信託からETFへの変換をめぐる裁判には終止符が打たれた。SECが再審査する必要があるとの8月の判断について裁判所から正式な命令を下した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashPort、EXPO2025デジタルウォレットの提供開始──1000万人以上のインストールを目指す]]></title>
-        <id>https://www.coindeskjapan.com/?p=205702</id>
-        <link href="https://www.coindeskjapan.com/205702/"/>
-        <updated>2023-10-23T11:49:22.000Z</updated>
-        <summary type="html"><![CDATA[HashPortは、2025年日本国際博覧会、いわゆる「大阪・関西万博」に向けて、11月1日から「EXPO2025デジタルウォレット」の提供を開始すると10月2 ...
-HashPort、EXPO2025デジタルウォレットの提供開始──1000万人以上のインストールを目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
