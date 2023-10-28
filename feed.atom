@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-28T01:19:42.657Z</updated>
+    <updated>2023-10-28T02:25:04.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LayerZeroと複数プロトコル間で、stETHブリッジ版を巡る緊張が高まる]]></title>
+        <id>https://coinpost.jp/?p=488492</id>
+        <link href="https://coinpost.jp/?p=488492"/>
+        <updated>2023-10-28T01:40:31.000Z</updated>
+        <summary type="html"><![CDATA[クロスチェーンプロトコルLayerZeroは、仮想通貨イーサリアムのブリッジトークン「wstETH」をローンチ。アバランチなど3つのネットワークでの流通を開始した。しかし9つの相互運用性プロトコル、及びstETHを管理するLidoDAOがこの動きを独占的とみて批判している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスCZ氏の資産が約2兆円減少か＝報道]]></title>
+        <id>https://coinpost.jp/?p=488499</id>
+        <link href="https://coinpost.jp/?p=488499"/>
+        <updated>2023-10-28T01:15:03.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスのチャンポン・ジャオCEOの資産が昨年からおよそ約1.8兆円程度減少したとみられる。市場停滞やSEC提訴が背景だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台湾の暗号資産規制が始動──法律の草案を審議]]></title>
         <id>https://www.coindeskjapan.com/?p=206537</id>
