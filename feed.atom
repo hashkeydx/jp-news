@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-30T22:25:07.815Z</updated>
+    <updated>2023-10-30T23:20:54.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CMEのBTC先物の5300億円OI（未決済建玉）、トップのバイナンスに迫る]]></title>
+        <id>https://coinpost.jp/?p=488964</id>
+        <link href="https://coinpost.jp/?p=488964"/>
+        <updated>2023-10-30T22:20:59.000Z</updated>
+        <summary type="html"><![CDATA[米CMEは、仮想通貨ビットコインの先物取引におけるOIがトップのバイナンスに迫っている。この傾向は、2021年10月ごろの強気相場の時にもみられた。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シンガポール、日本、イギリス、スイスが現実資産（RWA）のトークン化で協力]]></title>
         <id>https://www.coindeskjapan.com/?p=206765</id>
@@ -611,17 +621,6 @@ GBTCは今年220%上昇──パフォーマンスでS&P500最高のエヌビデ
         <summary type="html"><![CDATA[FTXの遺産ウォレットから仮想通貨取引所バイナンスアドレスへ再び大規模な送金。4.17億ドルのGBTC保有も懸念点とされる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、2週間で30％急騰の後「ゴールデンクロス」へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=206302</id>
-        <link href="https://www.coindeskjapan.com/206302/"/>
-        <updated>2023-10-26T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[時価総額が最大の暗号資産（仮想通貨）ビットコイン（BTC）は、2月上旬以来のゴールデンクロスを達成する勢いだ。これは、50日単純移動平均（SMA）が上昇軌道に乗 ...
-ビットコイン、2週間で30％急騰の後「ゴールデンクロス」へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
