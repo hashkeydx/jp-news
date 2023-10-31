@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-10-31T12:39:48.653Z</updated>
+    <updated>2023-10-31T13:24:26.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタマスク、新しいセキュリティアラート機能を導入へ]]></title>
+        <id>https://coinpost.jp/?p=488987</id>
+        <link href="https://coinpost.jp/?p=488987"/>
+        <updated>2023-10-31T13:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Web3ウォレットMetaMaskは、新しいセキュリティアラート機能のローンチを発表。この機能はプライバシーを保護しながら、仮想通貨などに対する詐欺やハッキングを事前に検知する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日銀のタカ派的な決定の後も、ビットコインは3万4000ドル以上を維持]]></title>
         <id>https://www.coindeskjapan.com/?p=206888</id>
@@ -624,37 +634,6 @@ GBTCは今年220%上昇──パフォーマンスでS&P500最高のエヌビデ
         <summary type="html"><![CDATA[分散型デリバティブ取引所dYdXは、Cosmosベースの独自ブロックチェーン「dYdX Chain」のメインネットを立ち上げ、アルファ版の運営を開始した。コミュニティが主導するレイヤー1ブロックチェーンへの移行に向けた重要な一歩となる。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ペペコイン、時価総額倍増で5億ドルに──ビットコインETF期待が波及]]></title>
-        <id>https://www.coindeskjapan.com/?p=206404</id>
-        <link href="https://www.coindeskjapan.com/206404/"/>
-        <updated>2023-10-27T01:19:55.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）の冬から生まれた多くのミームコインの1つであるペペコイン（PEPE）の価格は1週間で倍増し、時価総額は5億ドル（約750億円、1ドル150円 ...
-ペペコイン、時価総額倍増で5億ドルに──ビットコインETF期待が波及 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1日の取引処理量が1500億円相当に　JPモルガンのデジタル通貨「JPMコイン」]]></title>
-        <id>https://coinpost.jp/?p=488315</id>
-        <link href="https://coinpost.jp/?p=488315"/>
-        <updated>2023-10-27T01:00:36.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンは、デジタル通貨JPMコインで1日に合計約1,500億円相当の取引を処理していることがわかった。JPMコインの今後の計画も明らかになっている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「真に分散されたSNSの構築へ」——11月東京開催「Nostrasia」の実行委員が語る]]></title>
-        <id>https://coinpost.jp/?p=488369</id>
-        <link href="https://coinpost.jp/?p=488369"/>
-        <updated>2023-10-27T00:55:30.000Z</updated>
-        <summary type="html"><![CDATA[第7回のGM Radio：Beyond The Priceは26日に公開。ゲストは11月に東京などで開催されるイベントNostrasiaの実行委員Alex McShane氏である。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>

@@ -290,16 +290,6 @@
           "wordCount": 1576,
           "title": "【btokyo club 11月ラウンドテーブル＆ワークショップ】DAO（分散型自律組織）による持続可能なプロジェクト運営とは？～株式会社とは異なる組織構造と運営手法を学ぶ～",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/ROUND_TABLE_202311_cdj.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=206404",
-          "author": "林 理南",
-          "description": "暗号資産（仮想通貨）の冬から生まれた多くのミームコインの1つであるペペコイン（PEPE）の価格は1週間で倍増し、時価総額は5億ドル（約750億円、1ドル150円 ...\nペペコイン、時価総額倍増で5億ドルに──ビットコインETF期待が波及 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/206404/",
-          "publishedOn": "2023-10-27T01:19:55.000Z",
-          "wordCount": 1122,
-          "title": "ペペコイン、時価総額倍増で5億ドルに──ビットコインETF期待が波及",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/6JBSDV6UWNAEXDZBZY26EH7VMU.jpeg"
         }
       ]
     },
@@ -314,6 +304,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=488987",
+          "author": "K.Kobayashi",
+          "description": "Web3ウォレットMetaMaskは、新しいセキュリティアラート機能のローンチを発表。この機能はプライバシーを保護しながら、仮想通貨などに対する詐欺やハッキングを事前に検知する。",
+          "link": "https://coinpost.jp/?p=488987",
+          "publishedOn": "2023-10-31T13:02:16.000Z",
+          "wordCount": 1898,
+          "title": "メタマスク、新しいセキュリティアラート機能を導入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/metamask243948-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/metamask243948-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=489130",
           "author": "AKIRA.H",
@@ -778,36 +783,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/dydx-cosmos.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/dydx-cosmos.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=488315",
-          "author": "K.Kobayashi",
-          "description": "JPモルガンは、デジタル通貨JPMコインで1日に合計約1,500億円相当の取引を処理していることがわかった。JPMコインの今後の計画も明らかになっている。",
-          "link": "https://coinpost.jp/?p=488315",
-          "publishedOn": "2023-10-27T01:00:36.000Z",
-          "wordCount": 1902,
-          "title": "1日の取引処理量が1500億円相当に　JPモルガンのデジタル通貨「JPMコイン」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/jpmorgan_0423.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/jpmorgan_0423.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=488369",
-          "author": "CoinPost編集部",
-          "description": "第7回のGM Radio：Beyond The Priceは26日に公開。ゲストは11月に東京などで開催されるイベントNostrasiaの実行委員Alex McShane氏である。",
-          "link": "https://coinpost.jp/?p=488369",
-          "publishedOn": "2023-10-27T00:55:30.000Z",
-          "wordCount": 1937,
-          "title": "「真に分散されたSNSの構築へ」——11月東京開催「Nostrasia」の実行委員が語る",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/Nostrasia-thumbnail.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/Nostrasia-thumbnail.png"
         }
       ]
     }
