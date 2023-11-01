@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-01T20:22:48.747Z</updated>
+    <updated>2023-11-01T21:19:40.335Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[15年前、ビットコインが生まれた夏の話──2008年、ホワイトペーパー発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=207057</id>
+        <link href="https://www.coindeskjapan.com/207057/"/>
+        <updated>2023-11-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2008年8月18日から10月31日まで、サトシ・ナカモトは慌ただしい数カ月を過ごしたに違いない。この夏、ナカモトはドメイン名「bitcoin.org」を登録。 ...
+15年前、ビットコインが生まれた夏の話──2008年、ホワイトペーパー発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、Celestia（TIA）新規上場]]></title>
+        <id>https://coinpost.jp/?p=489601</id>
+        <link href="https://coinpost.jp/?p=489601"/>
+        <updated>2023-11-01T20:15:52.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所コインベースはモジュラー型ブロックチェーン「Celestia（TIA）」の新規上場を実施した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オントロジー「stONT」がDeFiの新たな選択肢として登場、リキッドステーキングで資産を流動化]]></title>
         <id>https://coinpost.jp/?p=489426</id>
