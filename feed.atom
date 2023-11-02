@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-02T11:18:56.606Z</updated>
+    <updated>2023-11-02T12:39:52.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SEC、ペイパルにステーブルコインについての召喚状を送付：ペイパルが発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=207320</id>
+        <link href="https://www.coindeskjapan.com/207320/"/>
+        <updated>2023-11-02T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[ペイパル（PayPal）は、アメリカ証券取引委員会（SEC）からペイパルのステーブルコインに関する文書を要求する召喚状を11月1日に受け取ったと発表した。 今年 ...
+SEC、ペイパルにステーブルコインについての召喚状を送付：ペイパルが発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Amitoj Singh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのプットオプションが非常に割安──強気派にヘッジの機会を提供]]></title>
         <id>https://www.coindeskjapan.com/?p=207289</id>
@@ -846,17 +857,6 @@ Web3で日本を盛り上げるために、必要なのはアフリカのポジ�
         <summary type="html"><![CDATA[今週は、ブラックロックの仮想通貨ビットコインのETF申請に進展がみられたと報じたニュースが最も多く読まれた。このほか、ビットコインETFに対するJPモルガンの見解など、一週間分の情報をお届けする。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの「デンクン」アップグレードはスケーラブルな決済レイヤーへの一歩： ゴールドマン・サックス]]></title>
-        <id>https://www.coindeskjapan.com/?p=206555</id>
-        <link href="https://www.coindeskjapan.com/206555/"/>
-        <updated>2023-10-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムのデンクン（Dencun）アップグレードは2024年第1四半期に行われる見込みで、このブロックチェーンがスケーラブルな決済レイヤーになるための次のス ...
-イーサリアムの「デンクン」アップグレードはスケーラブルな決済レイヤーへの一歩： ゴールドマン・サックス first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>
