@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-03T22:25:44.847Z</updated>
+    <updated>2023-11-03T23:21:32.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3ゲームの未来は「完全オンチェーンゲーム」にある──P2Eの伝説を超えて]]></title>
+        <id>https://www.coindeskjapan.com/?p=206056</id>
+        <link href="https://www.coindeskjapan.com/206056/"/>
+        <updated>2023-11-03T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近のWeb3ゲームは、ますますWeb2ゲームに似てきている。グラフィックスは2021年とは比べものにならないほどクールで、ゲームプレイは骨の折れる努力だけでは ...
+Web3ゲームの未来は「完全オンチェーンゲーム」にある──P2Eの伝説を超えて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Leah Callon-Butler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三菱UFJ信託、仮想通貨企業向けにステーブルコインを活用した国際決済の仕組みを構築へ＝報道]]></title>
         <id>https://coinpost.jp/?p=489975</id>
@@ -823,17 +834,6 @@ Web3で日本を盛り上げるために、必要なのはアフリカのポジ�
         <summary type="html"><![CDATA[仮想通貨イーサリアムL2スケーリングソリューション「Starknet」の財務を管理するスタークネット財団は30日、STRKを初期貢献者に付与すると発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインクジラの活動が活発化──10万ドル以上の取引が急増]]></title>
-        <id>https://www.coindeskjapan.com/?p=206738</id>
-        <link href="https://www.coindeskjapan.com/206738/"/>
-        <updated>2023-10-30T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）のオンチェーン活動は、クジラ、つまり潤沢な資本供給と市場動向に影響を与える能力を持つ投資家が、時価総額最大の暗号資産（仮想通貨）の最近の3 ...
-ビットコインクジラの活動が活発化──10万ドル以上の取引が急増 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
