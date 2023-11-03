@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-03T08:26:15.323Z</updated>
+    <updated>2023-11-03T09:21:37.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー社、独ビットコインマイニング企業に900億円超を融資]]></title>
+        <id>https://coinpost.jp/?p=489859</id>
+        <link href="https://coinpost.jp/?p=489859"/>
+        <updated>2023-11-03T08:30:42.000Z</updated>
+        <summary type="html"><![CDATA[ドイツを拠点として高性能コンピューティングインフラを提供するNorthern Data Groupは、ステーブルコインUSDTの発行企業テザー社から、918億円相当のデットファイナンス（借入金融）枠を確保したと発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所FTXのサム前CEO　7つの容疑すべてで有罪判決]]></title>
         <id>https://coinpost.jp/?p=489855</id>
@@ -878,17 +888,6 @@ Web3で日本を盛り上げるために、必要なのはアフリカのポジ�
 規制の明確さは、暗号資産のリスクをゼロにするわけではない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Paul Brody</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まっとうな議論という不可能を実現するために]]></title>
-        <id>https://www.coindeskjapan.com/?p=186848</id>
-        <link href="https://www.coindeskjapan.com/186848/"/>
-        <updated>2023-10-29T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカにおける暗号資産は、かつてないほど二極化し、政治化されている。 皮肉なことにこれは、暗号資産をめぐる問題が一般的なアメリカ人にとって瑣末な関心事ではなく ...
-まっとうな議論という不可能を実現するために first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Michael J Casey</name>
         </author>
     </entry>
 </feed>
