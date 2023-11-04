@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-04T22:25:07.753Z</updated>
+    <updated>2023-11-04T23:20:17.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DAOが政治から学べること──コミュニケーションの問題を解決するために]]></title>
+        <id>https://www.coindeskjapan.com/?p=206697</id>
+        <link href="https://www.coindeskjapan.com/206697/"/>
+        <updated>2023-11-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[政治を参考にすれば、DAO（分散型自律組織）は、効率性と分散化の「いいとこ取り」ができるだろう。DAOは特に政党が代表を選出し、選挙戦を戦い、長期的な目標を達成 ...
+DAOが政治から学べること──コミュニケーションの問題を解決するために first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの週次上昇率14％は「時代の終わり」を示唆／クジラの活動が活発化【Weekly Review：10/28〜11/3】]]></title>
         <id>https://www.coindeskjapan.com/?p=207383</id>
@@ -737,17 +748,6 @@ CFTC、内部告発に報奨金1600万ドル──大半は暗号資産関連 fi
         <summary type="html"><![CDATA[Web3ウォレットMetaMaskは、新しいセキュリティアラート機能のローンチを発表。この機能はプライバシーを保護しながら、仮想通貨などに対する詐欺やハッキングを事前に検知する。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日銀のタカ派的な決定の後も、ビットコインは3万4000ドル以上を維持]]></title>
-        <id>https://www.coindeskjapan.com/?p=206888</id>
-        <link href="https://www.coindeskjapan.com/206888/"/>
-        <updated>2023-10-31T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、日本銀行が「イールドカーブ・コントロール」（YCC）プログラムのグリップを和らげ、アメリカ連邦準備制度理事会（FRB）の流動性引き締め ...
-日銀のタカ派的な決定の後も、ビットコインは3万4000ドル以上を維持 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
