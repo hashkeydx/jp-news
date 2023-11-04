@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-04T02:27:49.991Z</updated>
+    <updated>2023-11-04T03:21:47.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドバイIFC、仮想通貨規制枠組み内でXRPの使用を承認]]></title>
+        <id>https://coinpost.jp/?p=490009</id>
+        <link href="https://coinpost.jp/?p=490009"/>
+        <updated>2023-11-04T03:00:56.000Z</updated>
+        <summary type="html"><![CDATA[米国のブロックチェーン企業リップル社は、ドバイの金融規制当局であるDFSAから、仮想通貨XRPの承認を受けたと発表した。ドバイ国際金融センター（DIFC）にライセンスを持つ仮想通貨関連企業は、XRPを自社のサービスで利用できるようになった。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所コインベースが3Q決算報告　予想上回る収益]]></title>
+        <id>https://coinpost.jp/?p=490004</id>
+        <link href="https://coinpost.jp/?p=490004"/>
+        <updated>2023-11-04T02:30:53.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースは、2023年第3四半期の決算を発表した。また、対SEC訴訟や4Qの見通しについても説明を行っている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジョージア国立銀行、リップルと共に中央銀行デジタル通貨の試験実施へ]]></title>
         <id>https://coinpost.jp/?p=489999</id>
