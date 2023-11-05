@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-04T23:20:17.282Z</updated>
+    <updated>2023-11-05T01:33:12.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ETFが承認されなかったら、ビットコイン価格はどうなる？]]></title>
+        <id>https://www.coindeskjapan.com/?p=207470</id>
+        <link href="https://www.coindeskjapan.com/207470/"/>
+        <updated>2023-11-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[市場は、米証券取引委員会（SEC）がビットコインETF（上場投資信託）を時期は不明だとしても、承認するという予想を完全に受け入れているようだ。だが、却下される可 ...
+ETFが承認されなかったら、ビットコイン価格はどうなる？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAOが政治から学べること──コミュニケーションの問題を解決するために]]></title>
         <id>https://www.coindeskjapan.com/?p=206697</id>
@@ -738,16 +749,6 @@ CFTC、内部告発に報奨金1600万ドル──大半は暗号資産関連 fi
         <summary type="html"><![CDATA[米仮想通貨取引所大手コインベースは1日、再び仮想通貨銘柄の上場廃止予定を発表した。対象となるのは、炭素クレジット・トークン「Moss Carbon Credit（MCO2）」だ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタマスク、新しいセキュリティアラート機能を導入へ]]></title>
-        <id>https://coinpost.jp/?p=488987</id>
-        <link href="https://coinpost.jp/?p=488987"/>
-        <updated>2023-10-31T13:02:16.000Z</updated>
-        <summary type="html"><![CDATA[Web3ウォレットMetaMaskは、新しいセキュリティアラート機能のローンチを発表。この機能はプライバシーを保護しながら、仮想通貨などに対する詐欺やハッキングを事前に検知する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
