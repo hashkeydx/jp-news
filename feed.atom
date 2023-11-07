@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-07T22:25:27.362Z</updated>
+    <updated>2023-11-07T23:22:15.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ORDI価格高騰、バイナンスがビットコインBRC20トークン初上場]]></title>
+        <id>https://coinpost.jp/?p=490629</id>
+        <link href="https://coinpost.jp/?p=490629"/>
+        <updated>2023-11-07T22:35:02.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所大手バイナンス（グローバル版）はビットコイン（BTC）のトークン規格（BRC-20）の新規上場を初めて実施した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo Finance、RWAトークン「USDY」をイーサリアムL2「Mantle」にローンチ]]></title>
+        <id>https://coinpost.jp/?p=490625</id>
+        <link href="https://coinpost.jp/?p=490625"/>
+        <updated>2023-11-07T22:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Ondo Financeは、仮想通貨イーサリアムのL2のMantle NetworkにUSDYをネイティブでローンチしたことを発表。現在USDYの保有者は5.1%の年間利回りを得ることができる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FLOKIのステーキング利回りは最大で年165％]]></title>
         <id>https://www.coindeskjapan.com/?p=207741</id>
