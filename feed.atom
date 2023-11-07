@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-07T20:22:46.303Z</updated>
+    <updated>2023-11-07T21:19:34.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3ゲームは楽しさを前面に──Play to Earnではなく「Play and Earn」]]></title>
+        <id>https://www.coindeskjapan.com/?p=207233</id>
+        <link href="https://www.coindeskjapan.com/207233/"/>
+        <updated>2023-11-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Web3ゲームは過去3年間で人気が急上昇し、市場規模は2022年の46億ドル（約6900億円、1ドル150円換算）から、2027年には約657億ドル（約9兆85 ...
+Web3ゲームは楽しさを前面に──Play to Earnではなく「Play and Earn」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ordinalsプロトコルのトークン、バイナンス上場で50％急騰]]></title>
         <id>https://www.coindeskjapan.com/?p=207731</id>
@@ -518,16 +529,6 @@ Web3ゲームの未来は「完全オンチェーンゲーム」にある──P
         <summary type="html"><![CDATA[ソラナ基盤の分散型取引所アグリゲーター「Jupiter　Exchange」は「Breakpoint 2023」に際し、独自のトークン「JUP」を発行し、100万弱のユーザーやサポーターに無料配布する計画を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー社、独ビットコインマイニング企業に900億円超を融資]]></title>
-        <id>https://coinpost.jp/?p=489859</id>
-        <link href="https://coinpost.jp/?p=489859"/>
-        <updated>2023-11-03T08:30:42.000Z</updated>
-        <summary type="html"><![CDATA[ドイツを拠点として高性能コンピューティングインフラを提供するNorthern Data Groupは、ステーブルコインUSDTの発行企業テザー社から、918億円相当のデットファイナンス（借入金融）枠を確保したと発表した。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>
