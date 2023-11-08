@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=207692",
+          "author": "Matt Kunke",
+          "description": "ビットコイン（BTC）は、主権国家とつながりのないデジタルワールドの基軸通貨で、投資運用の観点から見ると、バランスの取れたポートフォリオをさらにユニークかつ安価 ...\nビットコインETFがもたらす巨大なチャンスとは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/207692/",
+          "publishedOn": "2023-11-08T21:00:00.000Z",
+          "wordCount": 1180,
+          "title": "ビットコインETFがもたらす巨大なチャンスとは",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/shutterstock_2061685115-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=207868",
           "author": "Oliver Knight",
           "description": "暗号通貨（仮想通貨）取引所バイナンス（Binance）は、分散型金融（DeFi）エコシステムとのやりとりに使用できるWeb3ウォレットをリリースした。 30のブ ...\nバイナンス、セルフカストディWeb3ウォレットをリリース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -294,6 +304,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=490856",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所大手バイナンスは昨夜、秘密鍵やシードフレーズを失うリスクが取り除かれたセルフカストディが型ウォレット「Binance Web3 Wallet」をローンチした。",
+          "link": "https://coinpost.jp/?p=490856",
+          "publishedOn": "2023-11-08T21:05:52.000Z",
+          "wordCount": 1912,
+          "title": "秘密鍵を必要としない仮想通貨ウォレット、バイナンスが新たにローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/binance-more-office.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/binance-more-office.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=490845",
+          "author": "菊谷ルイス",
+          "description": "国内仮想通貨取引所OKCoinJapanはマスクネットワーク（MASK）の新規上場予定を発表した。",
+          "link": "https://coinpost.jp/?p=490845",
+          "publishedOn": "2023-11-08T20:20:25.000Z",
+          "wordCount": 1891,
+          "title": "OKCoinJapan、マスクネットワーク（MASK）新規上場へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/mask-coinjapan.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/mask-coinjapan.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=490770",
           "author": "AKIRA.H",

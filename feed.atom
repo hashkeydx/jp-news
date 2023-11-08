@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-08T20:22:41.858Z</updated>
+    <updated>2023-11-08T21:19:47.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[秘密鍵を必要としない仮想通貨ウォレット、バイナンスが新たにローンチ]]></title>
+        <id>https://coinpost.jp/?p=490856</id>
+        <link href="https://coinpost.jp/?p=490856"/>
+        <updated>2023-11-08T21:05:52.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所大手バイナンスは昨夜、秘密鍵やシードフレーズを失うリスクが取り除かれたセルフカストディが型ウォレット「Binance Web3 Wallet」をローンチした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインETFがもたらす巨大なチャンスとは]]></title>
+        <id>https://www.coindeskjapan.com/?p=207692</id>
+        <link href="https://www.coindeskjapan.com/207692/"/>
+        <updated>2023-11-08T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、主権国家とつながりのないデジタルワールドの基軸通貨で、投資運用の観点から見ると、バランスの取れたポートフォリオをさらにユニークかつ安価 ...
+ビットコインETFがもたらす巨大なチャンスとは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Matt Kunke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKCoinJapan、マスクネットワーク（MASK）新規上場へ]]></title>
+        <id>https://coinpost.jp/?p=490845</id>
+        <link href="https://coinpost.jp/?p=490845"/>
+        <updated>2023-11-08T20:20:25.000Z</updated>
+        <summary type="html"><![CDATA[国内仮想通貨取引所OKCoinJapanはマスクネットワーク（MASK）の新規上場予定を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、セルフカストディWeb3ウォレットをリリース]]></title>
         <id>https://www.coindeskjapan.com/?p=207868</id>
