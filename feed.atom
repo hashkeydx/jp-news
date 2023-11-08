@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-08T09:21:45.929Z</updated>
+    <updated>2023-11-08T10:28:05.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、セルフカストディWeb3ウォレットをリリース]]></title>
+        <id>https://www.coindeskjapan.com/?p=207868</id>
+        <link href="https://www.coindeskjapan.com/207868/"/>
+        <updated>2023-11-08T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号通貨（仮想通貨）取引所バイナンス（Binance）は、分散型金融（DeFi）エコシステムとのやりとりに使用できるWeb3ウォレットをリリースした。 30のブ ...
+バイナンス、セルフカストディWeb3ウォレットをリリース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米リップル社、アフリカ・湾岸諸国・英国・オーストラリア間の送金ネットワークを拡大]]></title>
         <id>https://coinpost.jp/?p=490770</id>
@@ -674,37 +685,6 @@ OpenSea、レイオフ──CEOがツイート first appeared on CoinDesk JAPAN�
 Web3ゲームの未来は「完全オンチェーンゲーム」にある──P2Eの伝説を超えて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Leah Callon-Butler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三菱UFJ信託、仮想通貨企業向けにステーブルコインを活用した国際決済の仕組みを構築へ＝報道]]></title>
-        <id>https://coinpost.jp/?p=489975</id>
-        <link href="https://coinpost.jp/?p=489975"/>
-        <updated>2023-11-03T22:05:44.000Z</updated>
-        <summary type="html"><![CDATA[三菱UFJ信託銀行は、Web3企業のGincoとともに、ステーブルコインを活用して仮想通貨企業向けに国際決済の仕組みを構築することがわかった。目的や今後の計画が明らかになっている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「暗号資産の冬」は終わった／証券と分類されたらどうなる？【週末に読みたい厳選10本】]]></title>
-        <id>https://www.coindeskjapan.com/?p=207361</id>
-        <link href="https://www.coindeskjapan.com/207361/"/>
-        <updated>2023-11-03T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米CoinDeskとジェネシス・トレーディング（Genesis Trading）の元リサーチ責任者で、現在はニュースレター「Crypto Is Macro No ...
-「暗号資産の冬」は終わった／証券と分類されたらどうなる？【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「OpenSea 2.0」図る　従業員の半数削減　市場シェア激減などを受け]]></title>
-        <id>https://coinpost.jp/?p=489974</id>
-        <link href="https://coinpost.jp/?p=489974"/>
-        <updated>2023-11-03T21:50:58.000Z</updated>
-        <summary type="html"><![CDATA[NFT大手取引所OpenSeaは11月4日、大幅な事業方向転換を図るために大規模な人員削減を発表した。市場シェアが一年前の2022年10月の70%以上からわずか18%に。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
