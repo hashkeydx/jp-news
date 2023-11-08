@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-08T02:29:37.527Z</updated>
+    <updated>2023-11-08T03:22:17.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[開発環境改善へ、コスモスのEVMチェーン「Evmos」の構成変更と移行計画]]></title>
+        <id>https://coinpost.jp/?p=490672</id>
+        <link href="https://coinpost.jp/?p=490672"/>
+        <updated>2023-11-08T02:45:06.000Z</updated>
+        <summary type="html"><![CDATA[コスモスのdApps開発プラットフォームEvmosは、2024年第3四半期までに構成を変更し、コスモス形式のトランザクションは廃止して、イーサリアム形式のトランザクションのみで動作する方針を打ち出した。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、ネットワーク活動増加でデフレに転じる──3000ドルに達する可能性]]></title>
         <id>https://www.coindeskjapan.com/?p=207818</id>
