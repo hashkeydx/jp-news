@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=207566",
+          "author": "Daniel Kuhn",
+          "description": "米証券取引委員会（SEC）は、ペイパル（PayPal）の新しいステーブルコイン「PYUSD」に関して文書の提出を要求している。決済大手のペイパルは四半期報告書で ...\nもしもペイパルのステーブルコインが証券なら、すべてが証券になってしまう first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/207566/",
+          "publishedOn": "2023-11-09T21:00:00.000Z",
+          "wordCount": 1160,
+          "title": "もしもペイパルのステーブルコインが証券なら、すべてが証券になってしまう",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/shutterstock_2344444169.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=207960",
           "author": "Shaurya Malwa",
           "description": "ビットコイン（BTC）の価格は11月8日、2022年5月以来初めて3万6000ドルの大台を超え、上昇を拡大した。 データによると、アジアの取引時間の最初の4時間 ...\nビットコイン、「ショートスクイーズ」で3万7000ドル近くまで上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -324,6 +334,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=491038",
+          "author": "菊谷ルイス",
+          "description": "トレカのNFTマーケットプレイス「Courtyard」はポケモンカードNFTの無料配布ウィークを開催する予定だ。実施期間は、11月13ー17日となる。",
+          "link": "https://coinpost.jp/?p=491038",
+          "publishedOn": "2023-11-09T20:50:21.000Z",
+          "wordCount": 1935,
+          "title": "Courtyard、ポケカNFT無料配布ウィーク開催へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/magic-eden-pokemoncard.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/magic-eden-pokemoncard.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=491033",
+          "author": "菊谷ルイス",
+          "description": "ETHは約4ヶ月ぶりに2000ドル台復帰。背景には、米資産運用大手ブラックロックが米9日にデラウェア州で「iShares Ethereum Trust」という信託の登録書類を提出したことだ。",
+          "link": "https://coinpost.jp/?p=491033",
+          "publishedOn": "2023-11-09T20:20:00.000Z",
+          "wordCount": 1931,
+          "title": "ETH大幅高、ブラックロックがイーサリアムETF上場申請へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/eth-multidimentional-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/eth-multidimentional-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=490907",
           "author": "A.Yamada",
