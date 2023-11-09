@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-08T23:21:36.232Z</updated>
+    <updated>2023-11-09T01:29:13.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SBI、Web3などの新興企業に投資するファンドを運用開始へ　最大1,000億円規模＝報道]]></title>
+        <id>https://coinpost.jp/?p=490878</id>
+        <link href="https://coinpost.jp/?p=490878"/>
+        <updated>2023-11-09T01:20:35.000Z</updated>
+        <summary type="html"><![CDATA[SBIホールディングスは2023年内に、Web3やAI、メタバースなどのスタートアップ企業に投資するファンドの運用を開始することがわかった。このファンドは最大で1,000億円規模になる見込み。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ロビンフッドやマラソン大幅安　仮想通貨関連株銘柄｜9日金融短観]]></title>
+        <id>https://coinpost.jp/?p=490864</id>
+        <link href="https://coinpost.jp/?p=490864"/>
+        <updated>2023-11-08T23:10:59.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨関連株ではロビンフッドが決算を受け暴落。米NYダウは8日ぶりに小幅に反落しS&P500は8営業日続伸し小幅高。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HSBC銀がリップル傘下Metacoと協業、トークン化したRWAのカストディをローンチへ]]></title>
         <id>https://coinpost.jp/?p=490865</id>
