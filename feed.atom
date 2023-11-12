@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-12T22:24:16.585Z</updated>
+    <updated>2023-11-12T23:20:58.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産脱税対策の国際協定に48カ国が署名、2027年に開始へ]]></title>
+        <id>https://www.coindeskjapan.com/?p=208200</id>
+        <link href="https://www.coindeskjapan.com/208200/"/>
+        <updated>2023-11-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所における脱税対策のために司法管轄区の間で自動的に情報を交換することを規定する、2027年開始予定の税の透明性基準に48もの国が賛同した ...
+暗号資産脱税対策の国際協定に48カ国が署名、2027年に開始へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[取引所ポロニエックスのホットウォレットにハッキング──1億1400万ドル盗まれたか]]></title>
+        <id>https://www.coindeskjapan.com/?p=208206</id>
+        <link href="https://www.coindeskjapan.com/208206/"/>
+        <updated>2023-11-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所ポロニエックス（Poloniex）がホットウォレットをハッキングされ、推定約1億1400万ドル（約171億円）の損失を被った。複数のオ ...
+取引所ポロニエックスのホットウォレットにハッキング──1億1400万ドル盗まれたか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TradFi（伝統的金融）が暗号資産の主役に──大規模シフトが始まる]]></title>
         <id>https://www.coindeskjapan.com/?p=207860</id>
@@ -591,17 +613,6 @@ CBDCは金融システム革新の鍵であり、民間にも大きな役割が�
         <summary type="html"><![CDATA[国内仮想通貨取引所OKCoinJapanはマスクネットワーク（MASK）の新規上場予定を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、セルフカストディWeb3ウォレットをリリース]]></title>
-        <id>https://www.coindeskjapan.com/?p=207868</id>
-        <link href="https://www.coindeskjapan.com/207868/"/>
-        <updated>2023-11-08T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号通貨（仮想通貨）取引所バイナンス（Binance）は、分散型金融（DeFi）エコシステムとのやりとりに使用できるWeb3ウォレットをリリースした。 30のブ ...
-バイナンス、セルフカストディWeb3ウォレットをリリース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
         </author>
     </entry>
 </feed>
