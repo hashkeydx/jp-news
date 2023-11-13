@@ -270,16 +270,6 @@
           "wordCount": 1178,
           "title": "CBDCは金融システム革新の鍵であり、民間にも大きな役割がある：BISのトップがコメント",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/carsten-840x430-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=207692",
-          "author": "Matt Kunke",
-          "description": "ビットコイン（BTC）は、主権国家とつながりのないデジタルワールドの基軸通貨で、投資運用の観点から見ると、バランスの取れたポートフォリオをさらにユニークかつ安価 ...\nビットコインETFがもたらす巨大なチャンスとは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/207692/",
-          "publishedOn": "2023-11-08T21:00:00.000Z",
-          "wordCount": 1180,
-          "title": "ビットコインETFがもたらす巨大なチャンスとは",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/shutterstock_2061685115-1.jpg"
         }
       ]
     },
@@ -305,6 +295,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=491426",
+          "author": "AKIRA.H",
+          "description": "分散型金融）の利回りトークン化プロトコル「Napier Finance」の主要開発元であるスタートアップNapier Labsは、プレシードラウンドで1.5億円の資金調達を完了したことを発表した。エンジェル投資家としてCurveチームから4名が出資しており、一人はアドバイザーとして参加している。",
+          "link": "https://coinpost.jp/?p=491426",
+          "publishedOn": "2023-11-13T09:01:23.000Z",
+          "wordCount": 1923,
+          "title": "利回りトークン化プロトコルNapier Labs、Curve創設者らから1.5億円調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/NapierLabs_1111.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/NapierLabs_1111.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=491434",
+          "author": "AKIRA.H",
+          "description": "世界最大手の暗号資産（仮想通貨）取引所であるバイナンス・グローバルの日本居住者向けサービスが終了間近となった。Binance Japanの移行期限まであと1週間まで迫る中、状況を整理する。",
+          "link": "https://coinpost.jp/?p=491434",
+          "publishedOn": "2023-11-13T08:31:16.000Z",
+          "wordCount": 1760,
+          "title": "Binance Japan移行期限まであと1週間、グローバル版の日本居住者向けサービスの完全終了迫る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/binance_20210913_kk1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/binance_20210913_kk1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=491586",
           "author": "A.Yamada",
@@ -799,21 +819,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/hsbc-ban-ms-stock-buying.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/hsbc-ban-ms-stock-buying.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=490856",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨取引所大手バイナンスは昨夜、秘密鍵やシードフレーズを失うリスクが取り除かれたセルフカストディが型ウォレット「Binance Web3 Wallet」をローンチした。",
-          "link": "https://coinpost.jp/?p=490856",
-          "publishedOn": "2023-11-08T21:05:52.000Z",
-          "wordCount": 1912,
-          "title": "秘密鍵を必要としない仮想通貨ウォレット、バイナンスが新たにローンチ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/binance-more-office.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/binance-more-office.jpeg"
         }
       ]
     }
