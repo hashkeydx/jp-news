@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-13T07:20:20.994Z</updated>
+    <updated>2023-11-13T08:27:34.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BitMEX創業者アーサー・ヘイズ、ビットコインと戦争リスクの関係性に言及]]></title>
+        <id>https://coinpost.jp/?p=491586</id>
+        <link href="https://coinpost.jp/?p=491586"/>
+        <updated>2023-11-13T08:07:25.000Z</updated>
+        <summary type="html"><![CDATA[BitMEX創業者のアーサー・ヘイズ氏は、仮想通貨ビットコインやイーサリアムの先行き予測や、中東での戦争リスクについて独自見解を語った。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小池都知事「デジタル証券（ST）の発行支援などフィンテックの振興を後押しする」]]></title>
         <id>https://coinpost.jp/?p=491597</id>
@@ -644,16 +654,6 @@ CBDCは金融システム革新の鍵であり、民間にも大きな役割が�
 ビットコインETFがもたらす巨大なチャンスとは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Matt Kunke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKCoinJapan、マスクネットワーク（MASK）新規上場へ]]></title>
-        <id>https://coinpost.jp/?p=490845</id>
-        <link href="https://coinpost.jp/?p=490845"/>
-        <updated>2023-11-08T20:20:25.000Z</updated>
-        <summary type="html"><![CDATA[国内仮想通貨取引所OKCoinJapanはマスクネットワーク（MASK）の新規上場予定を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
