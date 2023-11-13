@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-13T22:25:42.386Z</updated>
+    <updated>2023-11-13T23:22:14.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[破綻した仮想通貨ATM運営企業Coin Cloud、30万人分の個人情報が流出か]]></title>
+        <id>https://coinpost.jp/?p=491724</id>
+        <link href="https://coinpost.jp/?p=491724"/>
+        <updated>2023-11-13T22:45:13.000Z</updated>
+        <summary type="html"><![CDATA[サイバーセキュリティのエキスパートvx-undergroundは、あるハッカー集団が、破綻した仮想通貨ATM運営企業Coin Cloudからユーザーのデータを盗んだことを報告。被害の規模も説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号通貨市場の上昇は行き過ぎに見える：JPモルガンが指摘]]></title>
         <id>https://www.coindeskjapan.com/?p=208251</id>
@@ -591,17 +601,6 @@ FTXのFTTトークン、SEC委員長のコメントで90％上昇 first appeared
         <summary type="html"><![CDATA[ETHは約4ヶ月ぶりに2000ドル台復帰。背景には、米資産運用大手ブラックロックが米9日にデラウェア州で「iShares Ethereum Trust」という信託の登録書類を提出したことだ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、「ショートスクイーズ」で3万7000ドル近くまで上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=207960</id>
-        <link href="https://www.coindeskjapan.com/207960/"/>
-        <updated>2023-11-09T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の価格は11月8日、2022年5月以来初めて3万6000ドルの大台を超え、上昇を拡大した。 データによると、アジアの取引時間の最初の4時間 ...
-ビットコイン、「ショートスクイーズ」で3万7000ドル近くまで上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
