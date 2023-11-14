@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-14T03:22:24.153Z</updated>
+    <updated>2023-11-14T04:26:15.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[破綻したThree Arrows Capital（3AC）とジェネシス、50億円の支払いで和解へ]]></title>
+        <id>https://coinpost.jp/?p=491774</id>
+        <link href="https://coinpost.jp/?p=491774"/>
+        <updated>2023-11-14T03:45:33.000Z</updated>
+        <summary type="html"><![CDATA[破綻した仮想通貨企業スリーアローズキャピタルとジェネシスは、ジェネシスが約50億円を支払うことで和解案に達した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン前日比2.1%安、SOLやADAなど主要アルトは売り先行]]></title>
+        <id>https://coinpost.jp/?p=491765</id>
+        <link href="https://coinpost.jp/?p=491765"/>
+        <updated>2023-11-14T03:24:47.000Z</updated>
+        <summary type="html"><![CDATA[CPI（米消費者物価指数）発表を控え金融市場は様子見基調。過熱感の強まっていたソラナ（SOL）などの主要アルトは軒並み反落した。ブラックロックのETF申請に関するフェイク情報を受け、XRP（リップル）が乱高下する場面もあった。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hong Kong FinTech Week 2023に参加してわかった香港がWeb3「ハブ」になれる理由（後編）]]></title>
         <id>https://media.cryptocurrency-association.org/?p=545</id>
