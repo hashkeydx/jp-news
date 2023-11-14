@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-14T22:25:54.348Z</updated>
+    <updated>2023-11-14T23:22:36.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[弱い10月CPIで来夏の利下げ公算高まる　米国株反発｜15日金融短観]]></title>
+        <id>https://coinpost.jp/?p=491932</id>
+        <link href="https://coinpost.jp/?p=491932"/>
+        <updated>2023-11-14T23:05:41.000Z</updated>
+        <summary type="html"><![CDATA[米NYダウ・ナスダックは予想以上に弱かった米10月CPI（物価指数）を受けて大きく反発した。インフレ沈静化が加速し、12月の連邦公開市場委員会（FOMC）でも金利据え置きにとどまりそして早くも来年5月ごろには利下げに転じるだろうとの見方が強まっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英SCB銀の投資部門、RWAトークン化プラットフォーム「Libeara」をローンチ]]></title>
+        <id>https://coinpost.jp/?p=491917</id>
+        <link href="https://coinpost.jp/?p=491917"/>
+        <updated>2023-11-14T22:50:37.000Z</updated>
+        <summary type="html"><![CDATA[スタンダードチャータード銀の投資部門は、RWAトークン化プラットフォームをローンチ。この事業にはFireblocksやChainalysisといった、仮想通貨業界で著名な企業もパートナーとして参加している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨DEX大手Uniswap、アンドロイド版アプリを一般公開]]></title>
+        <id>https://coinpost.jp/?p=491924</id>
+        <link href="https://coinpost.jp/?p=491924"/>
+        <updated>2023-11-14T22:30:42.000Z</updated>
+        <summary type="html"><![CDATA[大手DEX（分散型取引所）「Uniswap」の開発に携わるUniswap Labsは、Uniswapのモバイルアプリ（自己管理型ウォレット）のアンドロイド版を一般公開した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アーク、上昇中のグレースケール・ビットコイン・トラスト600万ドル分を売却]]></title>
         <id>https://www.coindeskjapan.com/?p=208287</id>
@@ -590,28 +620,6 @@ AIをコントロールするために、暗号資産から学べること（あ
 SBIホールディングス、過去最高の上半期収益──初の通期1兆円超えへ：2024年第2四半期決算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2023/11/10）強すぎるビットコイン、強いのか？過熱なのか？：楽天ウォレット]]></title>
-        <id>https://www.coindeskjapan.com/?p=208090</id>
-        <link href="https://www.coindeskjapan.com/208090/"/>
-        <updated>2023-11-10T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[本稿ではビットコイン相場をパターン分析・移動平均線（9MA・25MA）・一目均衡表・ボリンジャーバンド・MACD・RSIの代表的な6種類のテクニカル分析で5段階 ...
-マトリックス法によるテクニカル分析（2023/11/10）強すぎるビットコイン、強いのか？過熱なのか？：楽天ウォレット first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>松田康生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMEがバイナンスを抜いてビットコイン先物取引所のトップに──機関投資家の需要を反映]]></title>
-        <id>https://www.coindeskjapan.com/?p=208083</id>
-        <link href="https://www.coindeskjapan.com/208083/"/>
-        <updated>2023-11-10T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[11月9日、規制下にあるシカゴ・マーカンタイル取引所（CME）が、2年ぶりにバイナンス（Binance）に代わって、ビットコイン（BTC）先物取引所の最大手にな ...
-CMEがバイナンスを抜いてビットコイン先物取引所のトップに──機関投資家の需要を反映 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
