@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-15T03:23:05.959Z</updated>
+    <updated>2023-11-15T04:26:52.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所OKX、ポリゴンの開発キットでL2「X1」立ち上げ]]></title>
+        <id>https://coinpost.jp/?p=491974</id>
+        <link href="https://coinpost.jp/?p=491974"/>
+        <updated>2023-11-15T03:45:38.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所OKXは、ポリゴンの開発キットを利用して「X1」と呼ばれるイーサリアムL2ネットワークを立ち上げると発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投資家関心継続のビットコインオーディナルとその競合、BTCエコシステムの近況は？]]></title>
+        <id>https://coinpost.jp/?p=491987</id>
+        <link href="https://coinpost.jp/?p=491987"/>
+        <updated>2023-11-15T03:45:10.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインのエコシステムが活性化している。BTC上のプロトコルOrdinalsはNFT発行数が日間最高値を更新。Ordinals基盤のトークン規格「BRC-20」の取引数も急増している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン急落で440億円規模のロスカット発生、主要アルトは明暗分かれる]]></title>
+        <id>https://coinpost.jp/?p=491970</id>
+        <link href="https://coinpost.jp/?p=491970"/>
+        <updated>2023-11-15T03:19:52.000Z</updated>
+        <summary type="html"><![CDATA[CPI（米消費者物価指数）は無事通過したものの、アルト高騰など過熱感のあった暗号資産（仮想通貨）市場ではBTCやETH価格の急落に伴い440億円規模のロングポジションがロスカットされた。オプション市場の建玉は10日時点で過去最高値に達していた。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[予想下回るCPIでもビットコインは4%下落──アナリストは引き続き楽観的]]></title>
         <id>https://www.coindeskjapan.com/?p=208475</id>
