@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-17T20:23:45.639Z</updated>
+    <updated>2023-11-17T21:20:28.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、ビットコインETFの可否判断に対する延期が続く]]></title>
+        <id>https://coinpost.jp/?p=492735</id>
+        <link href="https://coinpost.jp/?p=492735"/>
+        <updated>2023-11-17T20:45:01.000Z</updated>
+        <summary type="html"><![CDATA[米SECはGlobal Xの現物型ビットコインETFの上場申請に関する審査の判断を延期した。市場が想定していた展開だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドージコイン価格が上昇し、先物建玉も急増──弱気の兆候か]]></title>
         <id>https://www.coindeskjapan.com/?p=208988</id>
@@ -1022,26 +1032,6 @@ XRP、ブラックロックのETF申請フェイクニュースで急騰──�
 現代社会、最大のミステリー、ビットコインの生みの親「サトシ・ナカモト」とは？──NHKの新番組「市民X」今夜放送、26日にBS1では完全版も first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利回りトークン化プロトコルNapier Labs、Curve創設者らから1.5億円調達]]></title>
-        <id>https://coinpost.jp/?p=491426</id>
-        <link href="https://coinpost.jp/?p=491426"/>
-        <updated>2023-11-13T09:01:23.000Z</updated>
-        <summary type="html"><![CDATA[分散型金融）の利回りトークン化プロトコル「Napier Finance」の主要開発元であるスタートアップNapier Labsは、プレシードラウンドで1.5億円の資金調達を完了したことを発表した。エンジェル投資家としてCurveチームから4名が出資しており、一人はアドバイザーとして参加している。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Japan移行期限まであと1週間、グローバル版の日本居住者向けサービスの完全終了迫る]]></title>
-        <id>https://coinpost.jp/?p=491434</id>
-        <link href="https://coinpost.jp/?p=491434"/>
-        <updated>2023-11-13T08:31:16.000Z</updated>
-        <summary type="html"><![CDATA[世界最大手の暗号資産（仮想通貨）取引所であるバイナンス・グローバルの日本居住者向けサービスが終了間近となった。Binance Japanの移行期限まであと1週間まで迫る中、状況を整理する。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
