@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-18T07:19:15.344Z</updated>
+    <updated>2023-11-18T08:25:22.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナにイーサリアム互換性を付与する「Neon EVM」手数料決済通貨を拡充]]></title>
+        <id>https://coinpost.jp/?p=492793</id>
+        <link href="https://coinpost.jp/?p=492793"/>
+        <updated>2023-11-18T07:40:01.000Z</updated>
+        <summary type="html"><![CDATA[ソラナネットワークにイーサリアム互換性をもたらすNeon EVMが、多トークンでのガス代支払いを導入へ。ユーザーは仮想通貨SOL、USDC、USDTで取引手数料を支払え、取引がより迅速かつ容易に。セキュリティと分散化も強化。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オープンAI、サム・アルトマンCEOを解任──ワールドコインは12％下落]]></title>
         <id>https://www.coindeskjapan.com/?p=209050</id>
