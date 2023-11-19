@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-19T20:22:05.897Z</updated>
+    <updated>2023-11-19T21:18:55.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインETFのさらなる拒否、「可能性高い」：BitGoのベルシェCEO]]></title>
+        <id>https://www.coindeskjapan.com/?p=209125</id>
+        <link href="https://www.coindeskjapan.com/209125/"/>
+        <updated>2023-11-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号カストディ会社ビットゴー（BitGo）のマイク・ベルシェ（Mike Belshe）CEOは、業界全体の楽観的な見方に反し、米証券取引委員会（SEC）が一連の ...
+ビットコインETFのさらなる拒否、「可能性高い」：BitGoのベルシェCEO first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高値圏で揉み合うビットコイン、市場のETF早期承認期待は剥落か｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=492549</id>
@@ -795,16 +806,6 @@ web3PT「DAOルールメークハッカソン」スタート──「柔軟に�
 ビットコインが3万5600ドルまで下落した後、先物の資金調達率は正常化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[次世代ユニコーン候補のFinal Aim、デザイン管理ブロックチェーンで生成AIを統合]]></title>
-        <id>https://coinpost.jp/?p=492077</id>
-        <link href="https://coinpost.jp/?p=492077"/>
-        <updated>2023-11-15T08:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Final Aim社が生成AIを統合したブロックチェーンプラットフォームを発表。デザイン管理と真正性をスマートコントラクトで保証し、国際特許出願も完了。グローバル展開と多角的な事業進出を加速。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
