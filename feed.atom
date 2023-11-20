@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-20T10:30:01.823Z</updated>
+    <updated>2023-11-20T11:20:12.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[取引所のウォレットに保管されているビットコインが速いペースで増加中]]></title>
+        <id>https://www.coindeskjapan.com/?p=209208</id>
+        <link href="https://www.coindeskjapan.com/209208/"/>
+        <updated>2023-11-20T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[中央集権的な暗号資産（仮想通貨）取引所に結びついたウォレットに保管されているビットコイン（BTC）は、5月以来最も速いペースで増加しており、潜在的な強気の休止を ...
+取引所のウォレットに保管されているビットコインが速いペースで増加中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ODX、新PTS市場START（スタート）の第1号案件として「公募型不動産STO」実施へ]]></title>
         <id>https://coinpost.jp/?p=493066</id>
@@ -751,37 +762,6 @@ BRC-20トークン、カテゴリー全体で20％上昇 first appeared on CoinD
         <summary type="html"><![CDATA[11/16（木）朝の相場動向（前日比）伝統金融米国株続伸NYダウ：34,991　+0.4%ナスダック：14,103　+0.06%日経平均：33,519　+2.5%米ドル/円：151.2-0.07%関連：弱い10月CPIで来夏の利下げ期待高ま...]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC、ハッシュデックスのビットコインEFT申請の判断延期]]></title>
-        <id>https://www.coindeskjapan.com/?p=208634</id>
-        <link href="https://www.coindeskjapan.com/208634/"/>
-        <updated>2023-11-15T23:10:56.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、資産運用大手ハッシュデックス（Hashdex）が提出した既存のビットコイン（BTC）先物ETF（上場投資信託）のスポット（現物）E ...
-SEC、ハッシュデックスのビットコインEFT申請の判断延期 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ基盤の国際送金アプリ「CFX Labs」、14億円調達]]></title>
-        <id>https://coinpost.jp/?p=492227</id>
-        <link href="https://coinpost.jp/?p=492227"/>
-        <updated>2023-11-15T23:00:11.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナ（前日比+15.7%）の価格が続伸する中、ソラナ基盤のプロジェクトへの資金流入が増えつつある。Web3送金サービスCFX Labsが14.3億円の資金調達に成功した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガンがRWAの概念実証でアバランチ活用　AVAX前日比+22%]]></title>
-        <id>https://coinpost.jp/?p=492220</id>
-        <link href="https://coinpost.jp/?p=492220"/>
-        <updated>2023-11-15T22:30:19.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンは、RWAの概念実証で仮想通貨アバランチの技術を活用する。ブロックチェーンやスマートコントラクト、トークン化の技術がポートフォリオ管理の自動化にどのように役立つのかを実験するという。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
