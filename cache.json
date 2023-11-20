@@ -410,16 +410,6 @@
           "wordCount": 1135,
           "title": "シンガポール金融管理局、大手金融機関とともにトークン化のパイロット事業を開始",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/05/shutterstock_697224274.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=208557",
-          "author": "Will Canny",
-          "description": "バンク・オブ・アメリカ（Bank of America）は11月13日の報告書で、中央銀行デジタル通貨（CBDC）は登場するが、デジタルドルは当面ありそうにない ...\nアメリカのCBDCは、まだ登場しそうにない：バンク・オブ・アメリカ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/208557/",
-          "publishedOn": "2023-11-15T21:00:00.000Z",
-          "wordCount": 1181,
-          "title": "アメリカのCBDCは、まだ登場しそうにない：バンク・オブ・アメリカ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/W64K6VDAJZEYPEIGDP2DXLKKGI.jpg"
         }
       ]
     },
@@ -434,6 +424,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=493066",
+          "author": "CoinPost編集部",
+          "description": "大阪デジタルエクスチェンジ（ODX）の新PTS市場「START（スタート）」は、第1号案件として高級不動産のデジタル証券（ST）いちごレジデンストークンと、ケネディクス社の公募型不動産のSTOを発表した。",
+          "link": "https://coinpost.jp/?p=493066",
+          "publishedOn": "2023-11-20T08:50:20.000Z",
+          "wordCount": 1879,
+          "title": "ODX、新PTS市場START（スタート）の第1号案件として「公募型不動産STO」実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/odx_st2023.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/odx_st2023.png"
+        },
         {
           "id": "https://coinpost.jp/?p=493033",
           "author": "幸田直子",
@@ -973,36 +978,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/sei-circle.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/sei-circle.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=492209",
-          "author": "菊谷ルイス",
-          "description": "バイナンスのVC部門バイナンスラボは仮想通貨のオンチェーンデータ追跡ツールを提供するプラットフォーム「Arkham」のARKMトークンに投資した。ARKMは、前日比で16%高。",
-          "link": "https://coinpost.jp/?p=492209",
-          "publishedOn": "2023-11-15T21:15:04.000Z",
-          "wordCount": 1928,
-          "title": "バイナンスラボ、仮想通貨オンチェーン情報ツール「Arkham」の独自トークンに投資",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/binance-space_20190531.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/binance-space_20190531.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=492204",
-          "author": "菊谷ルイス",
-          "description": "ビットコインの価格は前日比で6.4%上昇。一方、米SECはHashdexによるビットコイン先物ETFの現物ETF転換、およびグレースケールのイーサリアム先物ETFの上場申請に関する審査の判断を延期した。",
-          "link": "https://coinpost.jp/?p=492204",
-          "publishedOn": "2023-11-15T20:30:47.000Z",
-          "wordCount": 1903,
-          "title": "HashDexの現物型ビットコインETF転換申請などの審査判断を延期、米SEC",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/ark-revised-etf-app-good-sign-sec-approve-imminently-_.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/ark-revised-etf-app-good-sign-sec-approve-imminently-_.jpeg"
         }
       ]
     }
