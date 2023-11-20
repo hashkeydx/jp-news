@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-20T19:18:37.854Z</updated>
+    <updated>2023-11-20T20:22:53.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -388,6 +388,16 @@ AVAXとNEARが一時大きく上昇──ビットコインは3万6500ドルを�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「Web3の全ての価値はビットコインに集まる」インフラ企業VoltageのGraham Krizek CEOが語る]]></title>
+        <id>https://coinpost.jp/?p=492266</id>
+        <link href="https://coinpost.jp/?p=492266"/>
+        <updated>2023-11-17T07:00:51.000Z</updated>
+        <summary type="html"><![CDATA[第6回のGM Radio：Beyond The Priceは10月18日に公開。ゲストは仮想通貨ビットコインのインフラ企業Voltageを創設したGraham Krizek氏である。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RWA（現実資産）のトークン化に注力する米金融大手──JPモルガンら、ファンドトークン化の実証実験に成功]]></title>
         <id>https://www.coindeskjapan.com/?p=208861</id>
         <link href="https://www.coindeskjapan.com/208861/"/>
@@ -660,16 +670,6 @@ BRC-20トークン、カテゴリー全体で20％上昇 first appeared on CoinD
 税制改革も進めなければ、絵に描いた餅になる──自民党web3PT第1回「DAOルールメイクハッカソン」議事要旨 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国の国民年金公団、米コインベース株に30億円投資　約40%の含み益]]></title>
-        <id>https://coinpost.jp/?p=492310</id>
-        <link href="https://coinpost.jp/?p=492310"/>
-        <updated>2023-11-16T07:56:17.000Z</updated>
-        <summary type="html"><![CDATA[韓国国民年金サービス（NPS）がコインベース（COIN）の株式30億円分を購入。初の米国株・仮想通貨関連銘柄への投資で40%の含み益。NPSとコインベースの最新動向を報告。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
