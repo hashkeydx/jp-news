@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=207929",
+          "author": "山口 晶子",
+          "description": "今月はじめ、12人の陪審員がFTXの元CEOサム・バンクマン-フリード氏を7つの詐欺関連容疑すべてで有罪とし、数カ月にわたって続いた業界の見直し期間にひとつの終 ...\n銀行系の取引所、暗号資産への信頼を取り戻せるか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/207929/",
+          "publishedOn": "2023-11-20T21:00:00.000Z",
+          "wordCount": 1103,
+          "title": "銀行系の取引所、暗号資産への信頼を取り戻せるか？",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/7A3FHOAMRNGMTMEE2JSJASMZDE.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=209266",
           "author": "増田 隆幸",
           "description": "暗号資産（仮想通貨）取引所Bullishが米CoinDeskを買収したと、ウォール・ストリート・ジャーナル（WSJ）が20日報じた。 ニューヨーク証券取引所（N ...\n米CoinDesk、暗号資産取引所Bullishが買収：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -360,16 +370,6 @@
           "wordCount": 1173,
           "title": "ビットコイン、年末までに4万5000ドルに：アナリストが予測",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/shutterstock_1888907947.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=208670",
-          "author": "CoinDesk JAPAN",
-          "description": "自由民主党デジタル社会推進本部web3プロジェクトチーム（web3PT）は11月15日、DAO（分散型自律組織）に関する法律のあり方について議論する「DAOルー ...\n税制改革も進めなければ、絵に描いた餅になる──自民党web3PT第1回「DAOルールメイクハッカソン」議事要旨 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/208670/",
-          "publishedOn": "2023-11-16T09:00:00.000Z",
-          "wordCount": 1100,
-          "title": "税制改革も進めなければ、絵に描いた餅になる──自民党web3PT第1回「DAOルールメイクハッカソン」議事要旨",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/IMG_9496のコピー.jpg"
         }
       ]
     },
@@ -384,6 +384,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=493107",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所Bullishは仮想通貨メディア大手CoinDesk（コインデスク）をDCGから買収した。買収額は明かされていない。",
+          "link": "https://coinpost.jp/?p=493107",
+          "publishedOn": "2023-11-20T20:50:12.000Z",
+          "wordCount": 1857,
+          "title": "仮想通貨取引所Bullish、仮想通貨メディア大手CoinDeskを買収済み",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/coindesk-bullish.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/coindesk-bullish.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=493102",
+          "author": "菊谷ルイス",
+          "description": "米大手ヘッジファンドARK Investとパートナーである21Sharesは米SEC審査中の現物型ビットコインETFの申請内容を再び修正したことが判明した。可否判断期限が迫る中、承認率を高める狙いだ。",
+          "link": "https://coinpost.jp/?p=493102",
+          "publishedOn": "2023-11-20T20:20:48.000Z",
+          "wordCount": 1931,
+          "title": "ビットコインETFの上場申請を再度修正、米ARK　迫る可否判断期限",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/ark-invest-etf-bitcoin.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/ark-invest-etf-bitcoin.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=493066",
           "author": "CoinPost編集部",
