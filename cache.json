@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=209367",
+          "author": "CoinDesk JAPAN",
+          "description": "大阪デジタルエクスチェンジ（ODX）のセキュリティ・トークン（ST）に係る私設取引システム（PTS）であり、国内初のSTセカンダリー・マーケット（流通市場）とな ...\nセキュリティ・トークン国内初の流通市場「START」、12月25日に売買取引開始へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/209367/",
+          "publishedOn": "2023-11-21T09:23:00.000Z",
+          "wordCount": 1068,
+          "title": "セキュリティ・トークン国内初の流通市場「START」、12月25日に売買取引開始へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/FireShot-Capture-312-大阪デジタルエクスチェンジ株式会社-www.odx_.co_.jp_.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=209350",
           "author": "CoinDesk JAPAN",
           "description": "コインチェックは、初めて販売されるNFTコレクションを取り扱う「Coincheck INO」の第2号案件として、プロサッカークラブ「セレッソ大阪」の公式ジェネレ ...\nセレッソ大阪公式NFT『CEREZO OSAKA SUPPORTERS NFT』、Coincheck INOの第2号案件としてINO実施 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -420,26 +430,6 @@
           "wordCount": 1081,
           "title": "英コインシェアーズ、米ヴァルキリーETF部門買収の独占オプション確保──BTC ETF承認を捉え、アメリカ進出へ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/AQSMHB4YZJCEFBBVL7SECDY5BI.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=208742",
-          "author": "Shaurya Malwa",
-          "description": "ビットコイン・ブロックチェーンをベースにしたいくつかのトークンは、上場投資信託（ETF）承認への期待からビットコイン（BTC）価格が狂乱した後、市場参加者の間で ...\nBRC-20トークン、カテゴリー全体で20％上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/208742/",
-          "publishedOn": "2023-11-16T22:00:00.000Z",
-          "wordCount": 1140,
-          "title": "BRC-20トークン、カテゴリー全体で20％上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/7PJH5UHU6BDZ7CKUPCR666BT24.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=208728",
-          "author": "Sam Reynolds",
-          "description": "シンガポール金融管理局（MAS）長官は、シンガポール・フィンテック・フェスティバルの基調講演の中で、暗号資産（仮想通貨）ではなく、ステーブルコインと中央銀行デジ ...\n「暗号資産は、将来の金融エコシステムでは使えない」シンガポール当局の長官が指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/208728/",
-          "publishedOn": "2023-11-16T21:30:00.000Z",
-          "wordCount": 1149,
-          "title": "「暗号資産は、将来の金融エコシステムでは使えない」シンガポール当局の長官が指摘",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/11/shutterstock_1017687145.jpg"
         }
       ]
     },
@@ -1023,36 +1013,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/solana-jupiter-airdrop.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/solana-jupiter-airdrop.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=492452",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨ポリゴンのネットワークPolygon PoSは15日、トランザクションの数が急増してガス代が急騰。新たな規格PRC-20で発行されるトークンが影響しているとみられる。",
-          "link": "https://coinpost.jp/?p=492452",
-          "publishedOn": "2023-11-16T22:30:26.000Z",
-          "wordCount": 1902,
-          "title": "ポリゴン、トランザクションが急増しガス代が急騰　「PRC-20トークン」が影響か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitwise-polygon-new.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitwise-polygon-new.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=492450",
-          "author": "菊谷ルイス",
-          "description": "ソラナ基盤のオラクルネットワークPyth Networkは先日予告していた独自の仮想通貨「PYTH」の無料配布について、入手（claim）する日程などの詳細を公開した。",
-          "link": "https://coinpost.jp/?p=492450",
-          "publishedOn": "2023-11-16T21:30:42.000Z",
-          "wordCount": 2026,
-          "title": "ソラナPyth Networkのトークン無料配布、来週実施予定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/pyth20220317b.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/pyth20220317b.jpg"
         }
       ]
     }
