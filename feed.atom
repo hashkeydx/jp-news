@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-22T11:20:21.420Z</updated>
+    <updated>2023-11-22T12:42:30.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、約10億ドルの純流出を処理]]></title>
+        <id>https://www.coindeskjapan.com/?p=209576</id>
+        <link href="https://www.coindeskjapan.com/209576/"/>
+        <updated>2023-11-22T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所バイナンス（Binance）は、アメリカで刑事告発を受け、創業者の「CZ」ことチャンポン・ジャオ（Changpeng Zhao）氏は、 ...
+バイナンス、約10億ドルの純流出を処理 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>inoue</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス和解でビットコインが一時3万6000ドルを割る──先物に2億ドル以上の清算が発生]]></title>
         <id>https://www.coindeskjapan.com/?p=209525</id>
@@ -781,27 +792,6 @@ SEC、フランクリン・テンプルトンとグローバルXのビットコ�
 証券市場の世界的な基準設定機関、暗号資産規制についての勧告を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Camomile Shumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政府の新たなRWAトークン化事例、フィリピンがデジタル国債発行へ]]></title>
-        <id>https://coinpost.jp/?p=492750</id>
-        <link href="https://coinpost.jp/?p=492750"/>
-        <updated>2023-11-18T00:00:10.000Z</updated>
-        <summary type="html"><![CDATA[フィリピン政府は、適格機関投資家を対象にトークン化した国債を発行することを発表。このRWAトークン化の試みにはブロックチェーン技術を活用するという。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ウォレットのハッキング（および、あらゆる暗号資産エクスプロイト）と税金の関係]]></title>
-        <id>https://www.coindeskjapan.com/?p=208332</id>
-        <link href="https://www.coindeskjapan.com/208332/"/>
-        <updated>2023-11-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先日、あるハッカーが暗号資産（仮想通貨）ウォレットから2700万ドル（約41億円、1ドル151円換算）相当のテザー（USDT）を盗むことに成功した。だが、税金の ...
-ウォレットのハッキング（および、あらゆる暗号資産エクスプロイト）と税金の関係 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
         </author>
     </entry>
 </feed>
