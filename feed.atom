@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-22T05:26:18.283Z</updated>
+    <updated>2023-11-22T06:29:14.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wintermute Asia、CMEグループ経由で初のビットコインオプション・ブロック取引実施]]></title>
+        <id>https://coinpost.jp/?p=493596</id>
+        <link href="https://coinpost.jp/?p=493596"/>
+        <updated>2023-11-22T06:12:21.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場の主要プレイヤー、Wintermute AsiaがCMEグループでビットコインのオプション・ブロック取引を初実施。デリバティブ商品を強化した。市場の進展と機関投資家への影響に注目が集まる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、米国史上最大級となる罰金6400億円の和解に合意]]></title>
+        <id>https://coinpost.jp/?p=493578</id>
+        <link href="https://coinpost.jp/?p=493578"/>
+        <updated>2023-11-22T05:57:28.000Z</updated>
+        <summary type="html"><![CDATA[米国財務省は、マネロン対策と制裁法違反で有罪を認めた、世界最大の仮想通貨取引所バイナンスとの和解内容を発表。バイナンスには合計6,478億円相当の罰金が課せられるが、これは財務省史上最大級のものとなる。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリプタクトがOasysと連携、煩雑だったブロックチェーンゲームの確定申告を容易に]]></title>
+        <id>https://coinpost.jp/?p=493555</id>
+        <link href="https://coinpost.jp/?p=493555"/>
+        <updated>2023-11-22T05:53:56.000Z</updated>
+        <summary type="html"><![CDATA[株式会社pafin（パフィン）の仮想通貨損益計算サービス「クリプタクト」がブロックチェーンゲームに対応。Oasys連携で損益計算を簡素化し、確定申告に必要な税務処理を容易に。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米サークル社、ブリッジ型USDCの標準規格を立ち上げ]]></title>
         <id>https://coinpost.jp/?p=493558</id>
