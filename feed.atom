@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-22T08:27:48.252Z</updated>
+    <updated>2023-11-22T09:23:12.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岡三証券グループ、セキュリティトークン債発行──個人向けに過去最大の20億円、基盤にはProgmat活用]]></title>
+        <id>https://www.coindeskjapan.com/?p=209516</id>
+        <link href="https://www.coindeskjapan.com/209516/"/>
+        <updated>2023-11-22T09:13:53.000Z</updated>
+        <summary type="html"><![CDATA[2023年4月に創業100周年を迎えた岡三証券グループは22日、岡三証券、みずほ証券、みずほ銀行、三菱UFJ信託銀行と協業して、「岡三証券グループ創業100周年 ...
+岡三証券グループ、セキュリティトークン債発行──個人向けに過去最大の20億円、基盤にはProgmat活用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>CoinDesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wintermute Asia、CMEグループ経由で初のビットコインオプション・ブロック取引実施]]></title>
         <id>https://coinpost.jp/?p=493596</id>
@@ -822,26 +833,6 @@ SEC、フランクリン・テンプルトンとグローバルXのビットコ�
 ビットコインの生みの親「サトシ・ナカモト」とは？／ビットコインが最高値を更新してから2年【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashdexのイーサリアムETF上場申請の可否判断も延期、米SEC]]></title>
-        <id>https://coinpost.jp/?p=492741</id>
-        <link href="https://coinpost.jp/?p=492741"/>
-        <updated>2023-11-17T21:10:44.000Z</updated>
-        <summary type="html"><![CDATA[米SECは17日Hashdexによる仮想通貨イーサリアムETFの上場申請に関する審査の判断を延期した。Hashdexによる申請に対する延期判断は今週で2件目となった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、ビットコインETFの可否判断に対する延期が続く]]></title>
-        <id>https://coinpost.jp/?p=492735</id>
-        <link href="https://coinpost.jp/?p=492735"/>
-        <updated>2023-11-17T20:45:01.000Z</updated>
-        <summary type="html"><![CDATA[米SECはGlobal Xの現物型ビットコインETFの上場申請に関する審査の判断を延期した。市場が想定していた展開だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
