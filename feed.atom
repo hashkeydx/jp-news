@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-24T03:22:44.627Z</updated>
+    <updated>2023-11-24T04:26:47.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KyberSwap Elastic、70億円相当の仮想通貨不正流出]]></title>
+        <id>https://coinpost.jp/?p=493892</id>
+        <link href="https://coinpost.jp/?p=493892"/>
+        <updated>2023-11-24T03:30:14.000Z</updated>
+        <summary type="html"><![CDATA[KyberSwapのセキュリティ侵害により、約4600万ドル相当の暗号資産が不正に流出。DeFi専門家らの見解を含む詳細な分析と、ユーザーが取るべき対応策に関する見解まで紹介する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高値圏推移のビットコイン、イーサリアム先物市場では機関投資家のアルゴ買い観測か]]></title>
+        <id>https://coinpost.jp/?p=493891</id>
+        <link href="https://coinpost.jp/?p=493891"/>
+        <updated>2023-11-24T03:19:37.000Z</updated>
+        <summary type="html"><![CDATA[最大手取引所バイナンスのCZ退任を受け一時急落した暗号資産（仮想通貨）市場だが、その後急反発。ビットコイン（BTC）が直近高値の37000ドルで推移する一方、イーサリアム先物市場では機関投資家と思しき大口のアルゴ買いが観測されている。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[シンガポール中銀、個人向け仮想通貨投資を大幅制限へ　来年発効見込み]]></title>
         <id>https://coinpost.jp/?p=493915</id>
