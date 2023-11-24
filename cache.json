@@ -1127,6 +1127,66 @@
       "siteUrl": "https://www.odaily.news",
       "articles": [
         {
+          "id": "https://www.odaily.news/ja/newsflash/343713",
+          "author": null,
+          "description": "Odaily News Sun Yuchen 氏は X プラットフォームに「Huobi HTX での TRX 入出金は完全に復旧したので、さらなるコンテンツにご期待ください。」と投稿しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343713",
+          "publishedOn": "2023-11-24T16:59:02.000Z",
+          "wordCount": 1709,
+          "title": "Justin Sun: Huobi HTX での TRX 入出金が完全に復元されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343712",
+          "author": null,
+          "description": "Odaily は、Lookonchain の監視によると、13 時間前、特定のクジラの 3 つのウォレットが 1,957 WBTC (7,460 万ドル) をバイナンスに入金したと報じました。これら 3 つのウォレットは常に WBTC を低価格で購入し、高価格で販売しており、WBTC で 2,400 万ドル以上を獲得しています。",
+          "link": "https://www.odaily.news/ja/newsflash/343712",
+          "publishedOn": "2023-11-24T16:57:16.000Z",
+          "wordCount": 1712,
+          "title": "クジラが 3 つのウォレットを通じて 1,957 WBTC をバイナンスに入金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343711",
+          "author": null,
+          "description": "Odaily News 「ファイナルファンタジー」開発元のスクウェア・エニックスは、初のオリジナルイーサリアムNFTゲーム「Symbiogenesis」のローンチ準備を進めており、11月27日（月）にオークションが開始される。 NFTベースのゲームキャラクターの最初のバッチは3ラウンドに分けてオークションされ、第1ラウンドのオークションは11月27日から28日まで、第2ラウンドのオークションは11月30日から12月1日まで開催され、最終ラウンドはオークションは11月30日から12月1日まで、オークションは12月2日と3日に開催されます。スクウェア・エニックスは、「シンバイオジェネシス」の第1章で500キャラクター分のNFTを発売し、第1ラウンドは10キャラクター、第2ラウンドは90キャラクター、第3ラウンドは400キャラクターとなります。今月初め、パブリッシャーはホワイトリストへのアクセスを開放し、ユーザーがゲームの Discord チャットサーバーでさまざまなタスクやチャレンジを完了してオークションに参加できるようにした。このゲームは、最初のNFTミントの後に12月に発売されると報告されています。 (復号化)",
+          "link": "https://www.odaily.news/ja/newsflash/343711",
+          "publishedOn": "2023-11-24T16:54:13.000Z",
+          "wordCount": 1681,
+          "title": "スクウェア・エニックスはNFTゲーム「Symbiogenesis」のオークションを開始予定、ゲームは12月に発売予定",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343710",
+          "author": null,
+          "description": "Odaily News TradingViewのデータによると、Coinbaseの株価は今日116.4ドルまで上昇し、11月初旬の77ドルから50％上昇し、昨年5月以来の新高値にも達した。しかし、価格は依然として2021年の水準である220〜350ドルを下回っている。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/343710",
+          "publishedOn": "2023-11-24T16:46:56.000Z",
+          "wordCount": 1678,
+          "title": "コインベースの株価は116.4ドルと昨年5月以来の高値を記録した。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343709",
+          "author": null,
+          "description": "Odaily News BanklessDAOは、12か月の活動を実行するためにArbitrumに182万ARBの割り当てを要求しました。この資金は、組織がユーザーを認識から専門知識に導き、導入をさらに促進するのに役立ちます。このイベントは、開発者、DeFi愛好家、ゲーマーという3つの主要な聴衆に焦点を当てます。",
+          "link": "https://www.odaily.news/ja/newsflash/343709",
+          "publishedOn": "2023-11-24T16:31:05.000Z",
+          "wordCount": 1677,
+          "title": "BanklessDAO、12か月キャンペーンでArbitrumに182万ARBを要求",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343708",
+          "author": null,
+          "description": "Odaily News CertiK は、KyberSwap によって攻撃されている脆弱性が KyberSwap Elastic の computeSwapStep() 関数の実装に存在するとソーシャル メディアに投稿しました。この関数は、差し引かれるか追加される実際の為替入出力金額、請求される為替手数料、およびその結果の sqrtP を計算します。この関数は最初に calcReachAmount() 関数を呼び出し、攻撃者のスワップが目盛を通過しないと結論付けますが、誤って「calcFinalPrice」の呼び出しによって計算された targetSqrtP よりわずかに大きい価格を生成します。そのため流動性が除去されず、攻撃につながった。攻撃者は、クロススワップ流動性カウントを利用して、空のティック範囲の流動性プールに対して高度な計算操作を実行し、流動性の低い多くの KyberSwap プールを枯渇させました。",
+          "link": "https://www.odaily.news/ja/newsflash/343708",
+          "publishedOn": "2023-11-24T16:29:15.000Z",
+          "wordCount": 1742,
+          "title": "CertiK: Elastic の computeSwapStep() 関数の実装に KyberSwap の脆弱性が存在します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
           "id": "https://www.odaily.news/ja/newsflash/343707",
           "author": null,
           "description": "Odaily は、Lookonchain の監視によると、3 年間休眠していた ETH ICO 参加者が 4 時間前に自分の住所から 20,000 ETH (約 4,240 万米ドル) を送金したと報じました。クジラはETHのジェネシスで100,000 ETHを取得したと報告されています（費用は約31,000米ドル、ICO価格は0.31米ドル）。",
