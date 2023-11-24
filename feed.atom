@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-23T23:23:00.147Z</updated>
+    <updated>2023-11-24T01:29:18.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハーベストグローバル、RWAをトークン化　香港で債券のデジタルファンドをローンチへ]]></title>
+        <id>https://coinpost.jp/?p=493873</id>
+        <link href="https://coinpost.jp/?p=493873"/>
+        <updated>2023-11-24T00:55:56.000Z</updated>
+        <summary type="html"><![CDATA[デジタル資産企業Meta Labは、大手投資企業ハーベストグローバルと協業し、債券（RWA）のトークン化したファンドをローンチすると発表。このファンドは香港のプロ投資家に提供する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックもビットコインETFの上場申請でSECと面談]]></title>
+        <id>https://coinpost.jp/?p=493869</id>
+        <link href="https://coinpost.jp/?p=493869"/>
+        <updated>2023-11-23T23:30:52.000Z</updated>
+        <summary type="html"><![CDATA[米SECは現物型ビットコインETFの上場申請について、今週20日申請側のブラックロックとも会議を行ったことが判明した。同じ日にはグレースケールの責任者とも面談を行っていた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[取引所KuCoin、9つの仮想通貨銘柄上場廃止へ]]></title>
         <id>https://coinpost.jp/?p=493866</id>
