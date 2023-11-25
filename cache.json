@@ -310,16 +310,6 @@
           "wordCount": 1170,
           "title": "バイナンス、米刑事訴訟で40億ドルの和解交渉中：ブルームバーグ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/shutterstock_1185999838.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=209300",
-          "author": "林 理南",
-          "description": "アルゼンチン大統領選でビットコイン支持派候補が勝利 アルゼンチン大統領選挙でビットコイン支持派のハビエル・ミレイ（Javier Milei）氏が勝利したことを受 ...\nアルゼンチン大統領選受けビットコインが3万7000ドルを突破──FRBの議事要旨に注目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/209300/",
-          "publishedOn": "2023-11-21T03:16:48.000Z",
-          "wordCount": 1119,
-          "title": "アルゼンチン大統領選受けビットコインが3万7000ドルを突破──FRBの議事要旨に注目",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/NRUOFK5MWBVHEDI5JYHCZ2JI4BY.png"
         }
       ]
     },
@@ -1046,6 +1036,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343796",
+          "author": null,
+          "description": "Odaily は、0xScope の監視によると、過去 30 分間に、Sun Yuchen の関連アドレスが複数の SunSwap 取引ペアから流動性を除去し、ステーブル コイン (2,232 万 USDT、303 万 USDC、316 万 TUSD) を通貨に預け入れたと報告しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343796",
+          "publishedOn": "2023-11-25T15:07:15.000Z",
+          "wordCount": 1807,
+          "title": "Justin Sun のアドレスにより、複数の SunSwap 取引ペアから流動性が削除され、約 2,800 万ドルのステーブルコインが Binance に入金されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343795",
+          "author": null,
+          "description": "Odaily News Slow Mist の創設者 Yu Xian 氏は、最も効果的で直接的な解決策について再度警告を発しました。」 以前、Atomics Market は X プラットフォーム上でメッセージを発行し、Atomics Market で注文したすべてのユーザーに、安全性を確保するための注意を喚起しました。彼らの資産をできるだけ早く新しい住所に移してください。",
+          "link": "https://www.odaily.news/ja/newsflash/343795",
+          "publishedOn": "2023-11-25T15:03:45.000Z",
+          "wordCount": 1784,
+          "title": "Slow Mist Cosine: アトミックス関連市場のユーザーは、関連資産をできるだけ早く譲渡することをお勧めします。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343794",
+          "author": null,
+          "description": "Odaily News Atomics Marketは、Xプラットフォーム上でメッセージを発行し、Atomics Marketで注文したすべてのユーザーに対し、資産の安全を確保するために、できるだけ早く資産を新しい住所に移すよう注意を促しました。以前のニュースによると、Atomics の初期参加コミュニティ メンバーである shep.eth によると、Atomics Market の創設者 Erik (@BRC20Coins) は今後管理職に就かなくなり、過去 2 回の「0 元購入」事件で $ATOM の 33,000 ドルがすべて失われました。 , 新チームへの補償は引き継ぎ完了後1週間以内に全額支払われます。",
+          "link": "https://www.odaily.news/ja/newsflash/343794",
+          "publishedOn": "2023-11-25T14:58:43.000Z",
+          "wordCount": 1788,
+          "title": "Atomics Market はユーザーにできるだけ早く資産を新しいアドレスに転送するよう警告します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343793",
+          "author": null,
+          "description": "Odaily News DeBank のデータによると、Blast 契約アドレスが保有する資産総額は現在 5 億米ドルを超え、5 億 1,947,783 米ドルとなっています。このうち、4 億 3,900 万米ドル相当の ETH が Lido プロトコルで入金され、6,181 万米ドルが Maker プロトコルで入金されました。",
+          "link": "https://www.odaily.news/ja/newsflash/343793",
+          "publishedOn": "2023-11-25T14:41:43.000Z",
+          "wordCount": 1781,
+          "title": "Blast TVLは5億ドルを突破し、4億3,900万ドルのETHがLidoプロトコルに入金されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343792",
+          "author": null,
+          "description": "毎日のニュースデータによると、ソラナ碑文の数は 400,000 に達し、碑文作成者の数は 33,500 人に達しています。",
+          "link": "https://www.odaily.news/ja/newsflash/343792",
+          "publishedOn": "2023-11-25T14:25:15.000Z",
+          "wordCount": 1762,
+          "title": "ソラナの碑文が40万件に到達",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/343791",
           "author": null,
