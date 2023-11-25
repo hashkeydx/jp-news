@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=209697",
+          "author": "Emily Parker",
+          "description": "11月21日はひとつの時代の終わりを告げる日となった。バイナンス（Binance）のチャンポン・ジャオ（Changpeng Zhao）CEOは辞任し、バイナンス ...\nバイナンスのジャオ氏と「ボーダーレス」暗号資産企業の終焉 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/209697/",
+          "publishedOn": "2023-11-25T00:00:00.000Z",
+          "wordCount": 1188,
+          "title": "バイナンスのジャオ氏と「ボーダーレス」暗号資産企業の終焉",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/shutterstock_2004046844.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=209777",
           "author": "Will Canny",
           "description": "バイナンス（Binance）のアメリカ政府との和解は、暗号資産（仮想通貨）業界にとってもバイナンスにとってもプラスだと、JPモルガン（JPMorgan）は11月 ...\nバイナンスと米当局の和解は、暗号資産業界にとってもプラス： JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -370,16 +380,6 @@
           "wordCount": 1094,
           "title": "米CoinDesk、暗号資産取引所Bullishが買収：報道",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/CJAX6OS4LRCSXHOB4MEKPE7TQY.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=209236",
-          "author": "Sam Reynolds",
-          "description": "オープンAI（OpenAI）の前CEOのサム・アルトマン（Sam Altman）氏と同社の共同設立者兼社長であるグレッグ・ブロックマン（Greg Brockma ...\nサム・アルトマン氏、マイクロソフトへ──ワールドコインは10％上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/209236/",
-          "publishedOn": "2023-11-20T11:40:00.000Z",
-          "wordCount": 1144,
-          "title": "サム・アルトマン氏、マイクロソフトへ──ワールドコインは10％上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/V6UEBWLKZFCL7PSMAOD6JEQUPA.jpeg"
         }
       ]
     },
@@ -394,6 +394,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=494181",
+          "author": "A.Yamada",
+          "description": "欧州中央銀行のラガルド総裁は、息子が仮想通貨への投資で損をしていたことを認めた。また、ビットコインなど仮想通貨へ懐疑的な姿勢を改めて示した。",
+          "link": "https://coinpost.jp/?p=494181",
+          "publishedOn": "2023-11-25T01:05:01.000Z",
+          "wordCount": 1907,
+          "title": "欧州中銀ラガルド総裁、息子の仮想通貨投資損失を認める",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/christine-lagarde-presidentdesignate-european-central-600nw-2313094125.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/christine-lagarde-presidentdesignate-european-central-600nw-2313094125.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=494110",
+          "author": "菊谷ルイス",
+          "description": "日本、中国、アメリカ、その他の国々の市場が11月に上昇し今月の世界の株式市場は好調だった。米コインベースの株価は株価は年初来高値を更新し、2022年5月の水準に戻った。",
+          "link": "https://coinpost.jp/?p=494110",
+          "publishedOn": "2023-11-24T23:50:30.000Z",
+          "wordCount": 1980,
+          "title": "仮想通貨ビットコイン一時38000ドル台、コインベース株価22年5月の水準に復帰｜25日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=494090",
           "author": "K.Kobayashi",
@@ -1136,6 +1166,86 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343727",
+          "author": null,
+          "description": "Odaily のオンチェーン データ アナリスト Ember Monitoring によると、3 時間前、11 月 16 日に 5 つのアドレスが Polygon: Ecosystem Growth (生態系の成長) から MATIC を受け取り、合計 2,186 万 MATIC (約 1,660 万米ドル) となりました。) GSR への転送Binance に参加するための Market の Binance 入金アドレス。 11 月 16 日に Polygon エコシステムの成長アドレスが 2 億 1,700 万の MATIC を配布して以来、MATIC トークンの価格は 0.93 米ドルから現在の 0.759 米ドルまで 18% 下落しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343727",
+          "publishedOn": "2023-11-25T01:20:37.000Z",
+          "wordCount": 1867,
+          "title": "5つのアドレスが合計2,186万MATICの生態学的成長割り当てをBinanceに転送",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343726",
+          "author": null,
+          "description": "Odaily News 弁護士らは木曜日の裁判所への提出文書で、バイナンスの創設者CZ氏には「逃亡の危険はない」ため、当面はアラブ首長国連邦への帰国を許可されるべきだと主張した。部分的に編集されたこの提出書類は、CZ氏が銀行秘密法違反の罪で有罪を認めた後、2月の判決に先立って出国すべきではなかったと主張した最近の米司法省の提出書類に反論している。 CZさんの弁護士は、CZさんは有罪を認めるために米国に来たことで、逃亡の危険はないことを証明したと主張した。文書には、この事件を担当した治安判事ブライアン・ツチダ氏がこの見解に同意し、CZの出廷が説得力があると判断したと記載されている。 （CoinDesk）以前、米国司法省はリチャード・A・ジョーンズ判事に対し、CZの出国決定を検討し、CZに対し米国に留まるよう命令するよう求めた。現在の保釈合意の条件によれば、CZ氏は信託口座に1500万ドルを預け、1億7500万ドルの個人認知保証金に署名し、追加資金を提供する保証人を見つけたため、米国を出国することができる。米国 SEC インターネット執行局の元局長であるジョン・リード・スターク氏は、数か月の投獄と数か月の自宅拘禁について投稿した。",
+          "link": "https://www.odaily.news/ja/newsflash/343726",
+          "publishedOn": "2023-11-25T01:16:05.000Z",
+          "wordCount": 1821,
+          "title": "弁護士：CZは逃亡の危険はないので、UAEへの帰国を許可されるべきである",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343725",
+          "author": null,
+          "description": "Odaily News マルチシグネチャのセキュリティ問題に関する議論に応えて、Blur の創設者である Pacman 氏が立ち上げた新しい L2 ネットワーク Blast は、X プラットフォームに関する記事を発表し、セキュリティは多面的であり、スマート コントラクト、ブラウザ、物理的なセキュリティの側面が関係していると述べました。不変のスマート コントラクトは一般的により安全であると考えられていますが、特に複雑なプロトコルではより大きなリスクを伴う可能性があります。アップグレード可能なスマート コントラクトに関しては、特定のアップグレード メカニズムが非常に重要です。タイムロックを備えたアップグレード可能なスマート コントラクトには脆弱性がある可能性があります。多くの場合、脆弱性の悪用を回避する唯一の方法は、悪意のある攻撃者が実行する前にオンチェーン操作を実行することです。このような場合、タイムロックによりスマート コントラクトの安全性が低下します。そのため、すべての L2 に直接アップグレード パスが用意されています。さらに、Blast は、Arbitrum、Optimism、Polygon などの他の L2 プロジェクトでも使用されているマルチシグネチャ セキュリティの有効性を強調しました。ブラスト氏は、マルチ署名セットアップの各署名キーは独立して安全であり、コールド ウォレットに保存され、独立した当事者によって管理され、地理的に分散されており、これはさまざまなセキュリティ脅威に対するプロトコルを強化するために設計されたアプローチであると指摘しました。 Blast は、1 週間以内にマルチシグネチャ アドレスの 1 つを更新し、セキュリティを強化するために別のハードウェア ウォレット プロバイダーに切り替える予定です。この動きは、単一​​タイプのハードウェア ウォレットへの依存を防ぎ、特定のハードウェアの脆弱性による侵害のリスクを軽減することを目的としています。以前のニュースによると、Polygon Labs の開発者関係エンジニア Jarrod Watts 氏は、「Blast 契約は 3/5 マルチ署名によって制御されるアップグレード可能な契約です。5 つのアドレスはすべて匿名の新しいアドレスです。Blast はマルチ署名を通じてコードのアップグレードを実行することが可能です」と述べました。他の多くのレイヤー 2 ソリューションには現在 Arbitrum を含む同じ機能がありますが、Blast (現時点では) はレイヤー 2 ではなく、ユーザーの資金を受け入れ、合意に基づいてその資金を Lido などに入れるスマート コントラクトにすぎません。テストネット、トランザクション、ブリッジ、ロールアップはなく、イーサリアムに送信されるトランザクション データもありません。契約を管理する 3/5 マルチシグが将来的に適切な動作をしなかった場合、ユーザーはいつでも Blast 契約に入金された資金を引き出すことができなくなります。この点に関して、SlowMistの創設者であるYu Xian氏は、Jarrod Watts氏が述べたように、Blastの契約は確かにアップグレード可能な契約であると述べ、管理権は3/5のマルチ署名（5人が誰なのかは知らない）に属しており、権利は存在しないと述べた。タイムロック。逃げたい場合は、さらに署名して悪意のあるロジック コントラクトをアップグレードするか、Transition を有効にして悪意のある mainnetBridge をセットアップする必要があります。現在、イーサリアムで発行された契約を除いて、Blast は集中型 Web2 プロジェクトの分裂ゲームプレイですが、いくつかの有名な機関によって承認されています。ユーザーは依然として機関が承認したプロジェクトを信頼しています。",
+          "link": "https://www.odaily.news/ja/newsflash/343725",
+          "publishedOn": "2023-11-25T00:59:27.000Z",
+          "wordCount": 1912,
+          "title": "ブラスト: セキュリティを強化するために、1 つのマルチシグネチャ アドレスのハードウェア ウォレット タイプが 1 週間以内に変更されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343724",
+          "author": null,
+          "description": "Blur の創設者である Pacman が立ち上げた新しい L2 ネットワークである Odaily News Blast が、",
+          "link": "https://www.odaily.news/ja/newsflash/343724",
+          "publishedOn": "2023-11-25T00:25:09.000Z",
+          "wordCount": 1868,
+          "title": "L2 Network Blast が TVL を開始し、4 日間で 4 億 4,300 万米ドル以上、52,000 人以上のユーザーを獲得",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343723",
+          "author": null,
+          "description": "オデイリー紙は、ホエール・アラートの監視によれば、北京時間06時00分11秒に、12,842,226 MATIC（約9,785,325ドル）が未知のウォレットからバイナンスに送金されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/343723",
+          "publishedOn": "2023-11-25T00:14:54.000Z",
+          "wordCount": 1816,
+          "title": "1,284万以上のMATICが不明なウォレットからBinanceに転送されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343722",
+          "author": null,
+          "description": "Odailyは、Whale Alertの監視によれば、北京時間01時58分14秒に1,000BTC（約37,976,165ドル）が未知のウォレットからCoinbaseに送金されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/343722",
+          "publishedOn": "2023-11-25T00:06:01.000Z",
+          "wordCount": 1823,
+          "title": "1000 BTCが不明なウォレットからCoinbaseに転送されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5190976",
+          "author": null,
+          "description": "高品質の詳細な分析記事と今週の注目のトピック。",
+          "link": "https://www.odaily.news/ja/post/5190976",
+          "publishedOn": "2023-11-25T00:00:00.000Z",
+          "wordCount": 2656,
+          "title": "週刊編集者のおすすめ (1118-1124)",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343720",
+          "author": null,
+          "description": "Blur と Blast の創設者である Odaily News Pacman が「参加してみよう」に投稿しました。率直に言って、もし彼らが参加していたら、おそらく Blast の立ち上げの多くの側面を変更するよう私に頼むでしょう。Paradigm は研究分野の有力企業です。彼らは「Uniswap と Blend の発明に協力し、イーサリアム開発をさらに進めるための Foundry やその他のツールを作成しました。私たちは L2 設計 (2 月に稼働予定) の技術面についてパラダイムと相談しています。彼らはその点で非常に優れています。私たちはそうではありません」 GTM についてはパラダイムに相談してください - 私たちはそれを社内に導入しています。実際、パラダイム I は、その立ち上げ後に GTM プログラムに変更を加えるように頼まれました。私たちは彼らの提案を積極的に検討しています。ただし、他の敬意を持った投資家と同じように、彼らは同意しないかもしれませんが、 」",
+          "link": "https://www.odaily.news/ja/newsflash/343720",
+          "publishedOn": "2023-11-24T23:26:04.000Z",
+          "wordCount": 1879,
+          "title": "パックマン: パラダイムはブラストのマーケティング戦略にまったく関与していません",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/343719",
           "author": null,
