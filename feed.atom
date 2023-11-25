@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-25T10:26:10.079Z</updated>
+    <updated>2023-11-25T11:17:41.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[動物年齢ガイド: zkSync クラウドで猫を育てるための正しい姿勢]]></title>
+        <id>https://www.odaily.news/ja/post/5191257</id>
+        <link href="https://www.odaily.news/ja/post/5191257"/>
+        <updated>2023-11-25T11:05:02.000Z</updated>
+        <summary type="html"><![CDATA[猫NFT、開発ゲーム、ソーシャルライブストリーミング、AIGCを統合したスーパーペット開発のメタバース。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[注文効率の向上を目的として、XRPL「fixReducedOffersV1」修正がメインネットワークで有効化されました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/343777</id>
+        <link href="https://www.odaily.news/ja/newsflash/343777"/>
+        <updated>2023-11-25T10:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News XRP Ledger の修正版「fixReducedOffersV1」がメインネットで有効化されました。 XRP Ledgerの修正プロセスでは、2週間のバリデーターサポートが80%を超えた後にのみプロトコルの変更が許可されており、この修正では要件が満たされています。 「fixReducedOffersV1」修正により注文効率の向上が期待されると報告されています。さらに、先週、XRP Ledgerは2つの新しい提案を受け取りました。1つはアカウントごとに複数の署名者リストをサポートする「XLS-49d: Multiple Signer Lists」、もう1つは小さな変更が提案された「0051 XLS-51d: NFToken Escrows」です。 NFTホスティングに対応します。 (U.今日)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[veDAO 研究所: お金と利子を与えて、Blur の創設者が立ち上げた新しい L2 Blast をプレイするにはどうすればよいですか?]]></title>
+        <id>https://www.odaily.news/ja/post/5191167</id>
+        <link href="https://www.odaily.news/ja/post/5191167"/>
+        <updated>2023-11-25T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Blur の創設者である Pacman が立ち上げた新しい L2 ネットワークである Blast は、立ち上げ直後から TVL ですでに 2,700 万米ドルを超えています。この記事では、Blast の紹介とゲームプレイの解釈について説明します。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Websea、ユーザーが収益機会を獲得できるよう BRC-20 取引セクションを開始]]></title>
         <id>https://www.odaily.news/ja/newsflash/343776</id>
@@ -3126,48 +3156,6 @@ SEC、クラーケンを未登録営業で提訴──顧客資産の混同も f
         <summary type="html"><![CDATA[アルゼンチンペソ建ての仮想通貨ビットコイン価格は再度、ATHに迫っている。グレースケールは、この価格上昇にある背景にある同国大統領選の影響についてレポートを公開した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフト株価が最高値　明日エヌビディア決算｜21日金融短観]]></title>
-        <id>https://coinpost.jp/?p=493136</id>
-        <link href="https://coinpost.jp/?p=493136"/>
-        <updated>2023-11-20T23:15:37.000Z</updated>
-        <summary type="html"><![CDATA[マイクロソフトとエヌビディアの株価上昇でAI関連銘柄連れ高に。ニューヨーク株式市場は米23日に休場となる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米司法省、規制違反でバイナンスに5930億円超の支払いを要求か＝報道]]></title>
-        <id>https://coinpost.jp/?p=493122</id>
-        <link href="https://coinpost.jp/?p=493122"/>
-        <updated>2023-11-20T22:45:03.000Z</updated>
-        <summary type="html"><![CDATA[米司法省は、仮想通貨取引所バイナンスの規制違反の疑いに対する調査を巡り、同社に5930億円超の支払いを要求していることがわかった。容疑や今後の動きを複数の情報筋が伝えている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セキュリティ・トークン国内初の流通市場ODX「START」での第1号案件：いちご、三菱UFJ信託銀行、SBI証券が発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=209277</id>
-        <link href="https://www.coindeskjapan.com/209277/"/>
-        <updated>2023-11-20T22:41:43.000Z</updated>
-        <summary type="html"><![CDATA[不動産事業、クリーンエネルギー事業、アセットマネジメント事業を展開するいちごと、三菱UFJ信託銀行、SBI証券は、都内の賃貸物件を投資対象とした資産裏付型セキュ ...
-セキュリティ・トークン国内初の流通市場ODX「START」での第1号案件：いちご、三菱UFJ信託銀行、SBI証券が発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サンタンデール傘下のプライベートバンク、スイスに口座を持つ顧客にBTCとETHの取引を提供]]></title>
-        <id>https://www.coindeskjapan.com/?p=209246</id>
-        <link href="https://www.coindeskjapan.com/209246/"/>
-        <updated>2023-11-20T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米CoinDeskが入手した内部資料によると、スペインの金融大手バンコ・サンタンデール（Banco Santander）傘下のサンタンデール・プライベート・バン ...
-サンタンデール傘下のプライベートバンク、スイスに口座を持つ顧客にBTCとETHの取引を提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>
