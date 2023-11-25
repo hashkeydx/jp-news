@@ -1063,21 +1063,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/tether-bitcoin-invest.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/tether-bitcoin-invest.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=493145",
-          "author": "K.Kobayashi",
-          "description": "アルゼンチンペソ建ての仮想通貨ビットコイン価格は再度、ATHに迫っている。グレースケールは、この価格上昇にある背景にある同国大統領選の影響についてレポートを公開した。",
-          "link": "https://coinpost.jp/?p=493145",
-          "publishedOn": "2023-11-21T00:55:13.000Z",
-          "wordCount": 1912,
-          "title": "大統領選を終えたアルゼンチン、ビットコイン価格が過去最高値に迫る",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/12/argentine-bitcoin-bulging.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/12/argentine-bitcoin-bulging.jpg"
         }
       ]
     },
@@ -1086,6 +1071,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343787",
+          "author": null,
+          "description": "Odaily News TeleportDAOはXプラットフォーム上でTeleBTC＜＞Matic流動性プールに問題があることを確認したとの文書を発行した。チームはこの問題を調査しており、できるだけ早く発表する予定です。今日の初めに、TeleportDAO が攻撃された疑いがあり、そのビットコインにアンカーされたトークン TELEBTC が深刻にアンカー解除されたと報告されました。",
+          "link": "https://www.odaily.news/ja/newsflash/343787",
+          "publishedOn": "2023-11-25T13:18:58.000Z",
+          "wordCount": 1760,
+          "title": "TeleportDAO: TeleBTC の確認<>Maticの流動性プールに問題があり、チームが調査中です",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343786",
+          "author": null,
+          "description": "Odaily のデータによると、CoinDesk 市場指数は 2023 年にほぼ 2 倍になると予想されています。指数の最大の構成要素であるビットコインは、2023 年に 120% 以上上昇します。",
+          "link": "https://www.odaily.news/ja/newsflash/343786",
+          "publishedOn": "2023-11-25T13:11:28.000Z",
+          "wordCount": 1756,
+          "title": "CoinDesk市場指数は2023年にこれまでの2倍に",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343785",
+          "author": null,
+          "description": "Odaily News Lookonchain の監視によると、第 2 四半期の Blur エアドロップの 2 番目に大きな受取人である jaypegpowell.eth は、販売のために 1,990 万 BLUR (1,180 万米ドル) をすべて OKX に入金しました。 jaypegpowell.eth はこれらの BLUR を平均価格 0.44 ドルで販売し、販売後に約 877 万ドルを受け取ることになります。",
+          "link": "https://www.odaily.news/ja/newsflash/343785",
+          "publishedOn": "2023-11-25T13:07:25.000Z",
+          "wordCount": 1814,
+          "title": "BLUR シーズン 2 エアドロップの 2 番目に大きな受取人は、1,990 万 BLUR をすべて OKX に入金しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343784",
+          "author": null,
+          "description": "Odaily News Bitget市場は、SUPERが短期間で0.36 USDTを突破し、一時0.32328 USDTを記録し、24時間で44.01％上昇したことを示しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343784",
+          "publishedOn": "2023-11-25T12:58:49.000Z",
+          "wordCount": 1754,
+          "title": "SUPERは一時的に0.36 USDTを突破し、24時間で44.01%上昇した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343783",
+          "author": null,
+          "description": "Odaily は、0xScope 研究者の Bobie 氏の監視によれば、クロスチェーン Ordinals マーケット TeleportDAO が攻撃を受けている疑いがあり、このプロトコルのビットコインにアンカーされたトークン TELEBTC がアンアンカーされたと報告しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343783",
+          "publishedOn": "2023-11-25T12:55:24.000Z",
+          "wordCount": 1769,
+          "title": "TeleportDAO が攻撃された疑いがあり、そのビットコインにアンカーされたトークン TELEBTC は深刻なアンカー解除を受けました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/post/5191256",
           "author": null,
