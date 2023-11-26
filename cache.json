@@ -957,6 +957,76 @@
       "siteUrl": "https://www.odaily.news",
       "articles": [
         {
+          "id": "https://www.odaily.news/ja/newsflash/343831",
+          "author": null,
+          "description": "オンチェーンアナリスト @ai_9684xtpa による Odaily の監視によると、4 か月前に ETH ポジションをオープンした巨大なクジラは 750 ETH を売却し、17 万米ドルの利益を得た疑いがあります。クジラは 8 月 13 日にバイナンスから 0x749 で始まるアドレスに 1,783 ETH を送金しました。平均送金価格は 1,848 米ドルでしたが、20 分前には 750 ETH (156 万米ドル相当) が新しいアドレスに送金され、コインが送金されました。全部売れば17万ドルの利益が出ます。",
+          "link": "https://www.odaily.news/ja/newsflash/343831",
+          "publishedOn": "2023-11-26T05:17:01.000Z",
+          "wordCount": 1876,
+          "title": "クジラが 750 ETH をバイナンスに送金し、それを売れば 17 万ドルの利益が得られます。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343829",
+          "author": null,
+          "description": "REVSの初回入金額が10.9755BTCに達したという毎日のニュース。 REVS は BRC-20 上に構築された匿名の特徴を持つ碑文であり、トークンの安定性とシステム効率のための「共鳴メカニズム」を導入していると報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/343829",
+          "publishedOn": "2023-11-26T05:03:08.000Z",
+          "wordCount": 1832,
+          "title": "REVSの初回入金額が10.9755BTCに到達",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343828",
+          "author": null,
+          "description": "Odaily News BTC.com のデータによると、ビットコインのマイニング難易度はブロック高さ 818,496 で 5.07% 上昇して 67.96 T となり、引き続き過去最高を記録しています。ネットワーク全体の現在の平均計算能力は 503.84 EH/s です。",
+          "link": "https://www.odaily.news/ja/newsflash/343828",
+          "publishedOn": "2023-11-26T05:01:03.000Z",
+          "wordCount": 1841,
+          "title": "ビットコインのマイニング難易度は5.07%増加して67.96Tとなった",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343827",
+          "author": null,
+          "description": "Odaily News Nansen のデータによると、過去 24 時間にスマート マネー アドレスによって購入されたトークンには、SNX (24H で金額が 1,433,088 米ドルに達した)、PEPE (24H で金額が 357,132 米ドルに達した)、sfrxETH (24H で金額が 264,538 米ドルに達した) が含まれています。 ）、WETH（24Hの金額はUS$250,771に達しました）、RLB（24Hの金額はUS$222,017に達しました）、BLUR（24Hの金額はUS$197,980に達しました）、wstETH（24Hの金額はUS$155,352に達しました）、SIPHER（24Hの金額はUS$に達しました） $96,454)、FLC (24H の金額は US$87,589 USD に達しました)、Bean (24H の金額は USD 82,814 に達しました)。",
+          "link": "https://www.odaily.news/ja/newsflash/343827",
+          "publishedOn": "2023-11-26T04:56:20.000Z",
+          "wordCount": 1880,
+          "title": "過去 24 時間以内に SNX、PEPE、BLUR、その他のトークンを購入したスマート マネー アドレス",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191170",
+          "author": null,
+          "description": "Chainlink は、8 兆 8000 億ドルを超える取引額を確保した分散型コンピューティング プラットフォームとして、機関が必要とする高度なセキュリティを維持しながら、トークン化された RWA の 3 つの重要な要件を満たすことができる唯一の完全に機能するプラットフォームです。",
+          "link": "https://www.odaily.news/ja/post/5191170",
+          "publishedOn": "2023-11-26T04:44:28.000Z",
+          "wordCount": 2145,
+          "title": "Chainlink は、トークン化された現実世界の資産 (RWA) に関する 3 つの主要な要件を解決します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191243",
+          "author": null,
+          "description": "投資の分野では、バックテストで優れた結果を出したストラテジーやモデルが、実際にトレードに適用してみると予想をはるかに下回るパフォーマンスだったというケースがよくあります。この現象は明確に「七面鳥戦略」と呼ばれており、七面鳥を肥えてから殺すようなものです。この記事では、この一見理想的だがパフォーマンスが低い戦略への投資を回避し、投資家の利益を保護する方法を検討します。",
+          "link": "https://www.odaily.news/ja/post/5191243",
+          "publishedOn": "2023-11-26T04:38:38.000Z",
+          "wordCount": 1657,
+          "title": "今年の感謝祭は七面鳥戦術の犠牲者にならないようにしましょう",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343826",
+          "author": null,
+          "description": "Odaily News Spot On Chain のモニタリングによると、これまでに合計 219,373 ETH (stETH を含む) が Blast ネットワークに入金されており、これは約 4 億 5,500 万米ドルに相当します。これらのETHは2024年2月24日までロックされます。上位 10 位の ETH 預金者は合計 57,202 ETH (約 1 億 1,900 万ドル) を預金し、Blast ネットワーク上の総 ETH 預金量の 26% を占めました。その中で、Huang Licheng (machibigbrother.eth) は、合計 3,000 ETH (約 625 万ドル)、120,000 ドルの USDC および USDT を Blast に入金しました。 「boby1337」は合計2,243 ETH（約463万ドル）と350万1000USDCをBlastに入金しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343826",
+          "publishedOn": "2023-11-26T04:31:22.000Z",
+          "wordCount": 1926,
+          "title": "Blast の上位 10 位の ETH 預金者は、26% に相当する 1 億 1,900 万米ドル以上の ETH を預金しています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
           "id": "https://www.odaily.news/ja/post/5191242",
           "author": null,
           "description": "長い間休眠状態にあったGameFiが再び人々の注目を集め、大手チェーンゲームも動き出す準備が整い、GameFi分野は小さなクライマックスを迎えている。その中で、Gala Games が大きく上昇をリードしましたが、$Gala は GameFi のバリュー投資対象となり得るでしょうか?",
