@@ -240,16 +240,6 @@
           "wordCount": 1061,
           "title": "岡三証券グループ、セキュリティトークン債発行──個人向けに過去最大の20億円、基盤にはProgmat活用",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/d36656-117-c9f92ed4f6d0108a5b2f.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=209337",
-          "author": "増田 隆幸",
-          "description": "ドリコムは10月、The Sandbox（ザ・サンドボックス）とブロックチェーンゲーム「Eternal Crypt – Wizardry BC -」のグローバル ...\nヒットではなく「ホームラン狙い」──ドリコムとThe Sandboxのパートナーシップ、両者の狙いは？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/209337/",
-          "publishedOn": "2023-11-22T02:30:00.000Z",
-          "wordCount": 1330,
-          "title": "ヒットではなく「ホームラン狙い」──ドリコムとThe Sandboxのパートナーシップ、両者の狙いは？",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/DSC_7394のコピー.jpg"
         }
       ]
     },
@@ -781,6 +771,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343881",
+          "author": null,
+          "description": "Odaily News Coinbase International Exchangeは、Coinbase International ExchangeとCoinbase AdvancedでCardano、Chainlink、Dogecoin、Stellarの永久先物契約のサポートを追加すると記載したXプラットフォームに関する文書を発行しました。 ADA-PERP、LINK-PERP、DOGE-PERP、XLM-PERP のマーケットは、2023 年 11 月 30 日午前 10 時 (UTC) 以降にオープンします。",
+          "link": "https://www.odaily.news/ja/newsflash/343881",
+          "publishedOn": "2023-11-26T14:55:57.000Z",
+          "wordCount": 1745,
+          "title": "Coinbase InternationalはADA、LINK、DOGE、XLMの無期限先物契約を上場予定",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343880",
+          "author": null,
+          "description": "Odaily News DefiLlamaの創設者0xngmi氏はXプラットフォームで、爆発の資金は実際にはマルチシグネチャ内にあるのではなく、コード内にあり、マルチシグネチャではなくマルチシグネチャによって完全に制御される契約であると述べた。私たちはウォレット内の資金を TVL としてカウントしません。これは、イーサ上の gnosis の 450 億の安全資産を除外することを意味します。",
+          "link": "https://www.odaily.news/ja/newsflash/343880",
+          "publishedOn": "2023-11-26T14:34:39.000Z",
+          "wordCount": 1747,
+          "title": "DefiLlama 創設者: ウォレット内の資金を TVL としてカウントしないでください",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343879",
+          "author": null,
+          "description": "オデイリーは、ホエール・アラートの監視によれば、5,000万USDTがテザー財務省からクラーケンに送金されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/343879",
+          "publishedOn": "2023-11-26T14:32:41.000Z",
+          "wordCount": 1723,
+          "title": "5,000万USDTがKrakenに送金されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343878",
+          "author": null,
+          "description": "Odaily News LootBot は、X プラットフォームでの V2 バージョンのリリースを発表しました。 LootBot V2 には、エアドロップ自動ターミナル、店頭 (OTC) ポータル、オンチェーン自動取引ターミナル、AI 主導の分析ツールを含む 4 つの主要な新機能が追加されています。 1. OTC 取引ポータルは来週オープンし、ユーザーは上場前にエアドロップ割り当てを取引したり、OTC ポータルで任意のトークンを取引したりできるようになります。このポータルはエアドロップ トークン専用に設計されており、エアドロップに参加できなかったユーザーはより恵まれたウォレットからクォータを購入でき、売り手はトークンが取引用にリストされる前でも利益を得ることができます。 2. LootBot によって発売された完全自動オンチェーン取引端末は、リアルタイムの市場データ、トレンドの洞察を提供し、AI 分析を使用して詐欺防止などの取引セキュリティを強化します。 3.LootBot は、大手 AI ソリューション パートナーと緊密に連携して、LootBot をよりインテリジェントにし、ユーザーに直感的な操作エクスペリエンスを提供します。 4. 来週から上記の新機能が順次リリースされます。",
+          "link": "https://www.odaily.news/ja/newsflash/343878",
+          "publishedOn": "2023-11-26T14:28:12.000Z",
+          "wordCount": 1754,
+          "title": "LootBot、V2をリリース：OTCやAI分析など4つの新機能を追加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343877",
+          "author": null,
+          "description": "Odaily News Kyber Network CEO ビクター・トラン氏が投稿攻撃者の追跡とユーザー資金の回収をサポートすることが今後の私の最優先事項であり、すべてのユーザーが回収されるまで継続します。アグリゲーター API、Zap as a Service、LO API はこの分野の主要なテクノロジーであり、私たちは今後もそれらの可能性を最大限に活用していきます。残念ながら、Kyber Elastic は利用できなくなります。現在、資金の回収がすべてのユーザーにとって最大の関心事であることは承知しており、私がこの大義に断固として取り組んでいるということを皆さんに知っていただきたいと思っています。私を知っている人なら誰でも、私がすべてのユーザー資金を回収する努力を放棄したり支援をやめたりしないことを知っています。",
+          "link": "https://www.odaily.news/ja/newsflash/343877",
+          "publishedOn": "2023-11-26T14:22:56.000Z",
+          "wordCount": 1748,
+          "title": "Kyber Network CEO: 攻撃者を追跡し、ユーザーの損失を最小限に抑えるためにあらゆる努力を払う",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/343876",
           "author": null,
