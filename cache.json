@@ -275,6 +275,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=494389",
+          "author": "A.Yamada",
+          "description": "ヒマラヤ山脈の仏教王国ブータンは、仮想通貨ビットコインのマイニングを進めている。そのロケーションや背景など新たな詳細が伝えられた。",
+          "link": "https://coinpost.jp/?p=494389",
+          "publishedOn": "2023-11-27T06:19:00.000Z",
+          "wordCount": 1928,
+          "title": "ヒマラヤ山脈の小国ブータン、水面下でビットコイン採掘拡大していた　衛星画像などで判明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/btc-moonson-mining.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/btc-moonson-mining.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=494414",
+          "author": "幸田直子",
+          "description": "米大手仮想通貨VC、パンテラキャピタルの創設者であるダン・モアヘッド氏は、米投資会社バークシャー・ハサウェイのチャーリー・マンガー副会長の最近のビットコイン発言について、「大笑い」するほど的外れだと痛烈に批判した。",
+          "link": "https://coinpost.jp/?p=494414",
+          "publishedOn": "2023-11-27T05:55:54.000Z",
+          "wordCount": 1915,
+          "title": "パンテラ・キャピタル創設者「バークシャー・ハサウェイ副会長のビットコイン批判は笑止千万」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/investment_fund1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/investment_fund1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=494352",
           "author": "S.Ninomiya",
           "description": "暗号資産（仮想通貨）相場では、Glassnodeのデータでビットコイン（BTC）の市場供給量の83.6%が含み益となっていることがわかった。1BTC=69,000ドルの過去最高値を記録した21年11月以来の水準となる。",
@@ -746,6 +776,106 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343932",
+          "author": null,
+          "description": "Odaily の報道によると、AegisWeb3 の監視によれば、ユーザーは新しいフィッシング契約を使用したフィッシング Web サイトに注意する必要があるとのことです。 apymatic[.]com はフィッシング リンクであり、フィッシング コントラクトは 0x98c7a676FE3D5AB07ba5eE11ebAC8C7432aF930a です。詐欺師のアドレス: 0xD64505E3ff48A8B7Bf9C929FC30FFCCE8270beDd; ユーザーは、このアドレスを操作したり、トランザクションを承認したりしないでください。",
+          "link": "https://www.odaily.news/ja/newsflash/343932",
+          "publishedOn": "2023-11-27T06:24:04.000Z",
+          "wordCount": 1724,
+          "title": "AegisWeb3: フィッシング契約を使用する詐欺 Web サイト apymatic[.]com に注意してください",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343931",
+          "author": null,
+          "description": "デイリーニュース: ポルトガル投資銀行 (BPI) は、ブロックチェーン技術に基づいたデジタル収集品市場である D-verse の立ち上げを発表しました。 BPIは、顧客向けのNFT製品に独占的に投資する初のポルトガルの銀行となりました。 D-verse プラットフォームは、Web3 プロジェクト Ephemeral Ethernal によってキュレーションされたデジタル アート コレクション シリーズを開始します。このプロジェクトはフランス人アーティストのジュリアン・ラフィンによって作成され、ポルトガル人アーティストのアレクサンドル・ファルトによって設立されました。 (ファインエクストラ)",
+          "link": "https://www.odaily.news/ja/newsflash/343931",
+          "publishedOn": "2023-11-27T06:13:35.000Z",
+          "wordCount": 1708,
+          "title": "ポルトガルの投資銀行がデジタルコレクションマーケットプレイス「D-verse」を開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343930",
+          "author": null,
+          "description": "Odaily News 最近、ブロックチェーンゲームプラットフォームのSindiaは、エコロジー構築、ブランド連携、プロジェクト開発などの側面での協力を通じて、ブロックチェーンゲームエコシステムの発展方向を共同で探ることを目的として、Saki Labsとの戦略的パートナーシップを発表した。 Sindia は現在内部テスト段階にあると報告されており、その作成ギフト パッケージも近い将来一般公開される予定です。",
+          "link": "https://www.odaily.news/ja/newsflash/343930",
+          "publishedOn": "2023-11-27T06:07:19.000Z",
+          "wordCount": 1701,
+          "title": "ターン制チェーンゲーム「Sindia」がSaki Labsと戦略的提携を締結",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343929",
+          "author": null,
+          "description": "毎日のニュース: 公式発表によると、Binance は 12 月 7 日 11:00 (東部第 8 地区時間) に次の通貨の取引を停止し上場廃止にすることを決定しました: BitShares (BTS)、PERL.eco (PERL)、Tornado Cash (TORN) 、ウォルトンチェーン（WTC）。",
+          "link": "https://www.odaily.news/ja/newsflash/343929",
+          "publishedOn": "2023-11-27T06:03:37.000Z",
+          "wordCount": 1709,
+          "title": "バイナンス、BTS、PERL、TORN、WTCの上場廃止へ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343927",
+          "author": null,
+          "description": "米国、英国、オーストラリア、その他 15 か国は、人工知能モデルを改ざんから保護することを目的とした世界的なガイドラインを発行し、自社のモデルが「設計上安全」であることを保証するよう企業に求めています。このガイダンスには主に、AI モデルのインフラストラクチャの厳格な管理、リリース前後のモデルの改ざんの監視、サイバーセキュリティ リスクに関する従業員のトレーニングなど、一般的な推奨事項が含まれています。このガイダンスでは、AI 企業が AI モデルを設計、開発、立ち上げ、監視する際に実装すべきサイバーセキュリティの実践を推奨しています。新しいガイドラインに署名した他の国には、カナダ、フランス、ドイツ、イスラエル、イタリア、日本、ニュージーランド、ナイジェリア、ノルウェー、韓国、シンガポールが含まれます。 OpenAI、Microsoft、Google、Anthropic、Scale AI などの人工知能企業もガイダンスの開発に貢献しました。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/343927",
+          "publishedOn": "2023-11-27T05:54:34.000Z",
+          "wordCount": 1703,
+          "title": "米国、英国、オーストラリアを含む18か国が「安全な設計」人工知能ガイドラインに署名",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343926",
+          "author": null,
+          "description": "Odaily News Company（旧Twitter）は、広告主の撤退が相次ぎ、最大7,500万ドルの収益を失う可能性がある。内部文書により、X の状況はこれまで知られていたよりも困難であることが明らかになりました。申請書にはAirbnb、Amazon、コカ・コーラ、マイクロソフトを含む企業の200以上の広告ユニットがリストされており、その多くはソーシャルネットワーク上の広告を停止したか、停止を検討している。この文書は X の営業チームから提供されたもので、今月のすべての広告停止の影響を追跡することを目的としています。これには、一時停止された広告や危険にさらされている広告も含まれます。 X は最近、1,100 万米ドルの収益に影響を与える可能性があると声明で述べたが、正確な数字は変動するだろう。広告主の撤退は第4四半期に起こるが、ブランドがブラックフライデーやサイバーマンデーなどのイベントに向けてホリデーセールを展開するため、通常はソーシャルメディア企業にとって最も好調な四半期となる。イーロン・マスク氏が就任する前の2021年第4四半期、ツイッターは15億7000万ドルの収益を記録したが、その90％近くが広告によるものだった。広告代理店アウトキャストのデジタルマーケティング・ソーシャルメディア担当バイスプレジデント、リーシャ・アンダーソン氏は、イーロン・マスク氏が会社を引き継いだ後、クライアントは徐々にXへの支出をやめ、LinkedInやTikTokなどのプラットフォームで代替手段を見つけたと語った。 （ニューヨーク・タイムズ）",
+          "link": "https://www.odaily.news/ja/newsflash/343926",
+          "publishedOn": "2023-11-27T05:49:13.000Z",
+          "wordCount": 1726,
+          "title": "多数の広告主の撤退により、X 社は最大 7,500 万ドルの収益を失う可能性がある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343925",
+          "author": null,
+          "description": "オンチェーンアナリスト @ai_9684xtpa による Odaily の監視によると、UNFI トークンの価格は 30 日間で 73% も上昇しており、0x475 で始まるスマート マネー アドレスは 3 か月前に UNFI で多数のポジションを構築しました。は 630 万米ドルの利益を上げ、収益率は 161% にも達しました。このアドレスは、8 月 23 日から 8 月 30 日までの間に、Binance からウォレットに 906,000 個のトークンを転送し、平均コストは 5.2 米ドルでした。 9 月 3 日に UNFI の価格が 44% 上昇した後、このアドレスは 156,000 UNFI を販売し、360,000 米ドルの利益を上げました。この住所には現在 750,000 UNFI、1,040 万ドル相当の資産が保管されています。",
+          "link": "https://www.odaily.news/ja/newsflash/343925",
+          "publishedOn": "2023-11-27T05:38:16.000Z",
+          "wordCount": 1822,
+          "title": "かつて UNFI で多数のポジションを築いたスマート マネー アドレスは、161% の収益率で 630 万米ドルの利益を上げました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343920",
+          "author": null,
+          "description": "1. シンガポール金融管理局が投資家警告リストを発行; 2. CME ビットコイン契約のオープンポジションが 118,540 BTC に達し、新高値を更新し続けている; 3. ガスヒーローが正式にコミュニティテストを開始; 4. ETC による碑文ブーム、イーサリアム クラシックの 1 日手数料は前月比 1,746% 増加; 5. KyberSwap 攻撃者は Avalanche チェーン上で 361,876 USDC.e を返却; 6. 過去に 3 頭のクジラが合計 717 万 BLUR を CEX に預けた24時間; 7. 上位20位のDYDX保有者のポジションが総供給量の85.09%を占める; 8. マーク・キューバン: 新しいアメリカの都市住宅計画はL2スマートコントラクトとNFTの助けを借りて提供可能; 9. 黄立成が3.7を購入過去 4 日間で 100 万 BLUR を達成し、すべてを誓約しました; 10 . コサイン: インフェルノ ドレイナーが再び 123 万ドルの資産を盗みます。",
+          "link": "https://www.odaily.news/ja/newsflash/343920",
+          "publishedOn": "2023-11-27T05:30:00.000Z",
+          "wordCount": 1802,
+          "title": "デイリーアフタヌーンニュース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343924",
+          "author": null,
+          "description": "Odaily は、Spot On Chain の監視によると、0x117 で始まるクジラのアドレスが 1,171 ETH (約 240 万ドル) を 2,900 ホワイトと交換し、トークン価格が 764.78% 急騰したと報告しました。巨大なクジラは現在、白の最大の所有者です。",
+          "link": "https://www.odaily.news/ja/newsflash/343924",
+          "publishedOn": "2023-11-27T05:29:24.000Z",
+          "wordCount": 1728,
+          "title": "巨大なクジラが1171 ETHを2900WHITEと交換し、WHITEの最大保有者となった",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343923",
+          "author": null,
+          "description": "Odaily News Token Unlocks データは、LooksRare チームが 2 時間前にロック解除契約から 14,972,552 LOOKS と 8.86 WETH を受け取り、それらをチームのマルチシグネチャ ウォレットに転送したことを示しています。さらに、5 分前にロック解除コントラクトから 2,250 万 LOOK (約 250 万ドル) が財務ウォレットに送信されました。以前のニュースによると、トークンアンロックのデータによると、11月27日07:01時点で3,750万LOOKがロック解除されており、これは流通供給量の6.88%を占めています。",
+          "link": "https://www.odaily.news/ja/newsflash/343923",
+          "publishedOn": "2023-11-27T05:26:55.000Z",
+          "wordCount": 1772,
+          "title": "LooksRare チームは、2 時間前に約 1,500 万個の LOOKS ロック解除トークンをマルチシグネチャ ウォレットに転送しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/343922",
           "author": null,
@@ -4393,6 +4523,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=354891",
+          "author": "gentosha_takahashi",
+          "description": "ユーザー保障を発表 カイバーネットワーク（KyberNetwork）のDEX（分散型取引所）アグリゲーターおよびオートマーケットメイカー（AMM）のカイバースワップ（KyberSwap Elastic）で、セキュリティイ […]",
+          "link": "https://www.neweconomy.jp/posts/354891",
+          "publishedOn": "2023-11-27T05:34:53.000Z",
+          "wordCount": 890,
+          "title": "セキュリティインシデントで4800万ドル被害のKyberSwap、KNCでユーザー保障へ。ハッカーへ10％の報奨金も提示",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/27143444/1a715024ce686db8aa36673bce6a8f50.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=354878",
           "author": "gentosha_takahashi",
