@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=209956",
+          "author": "btokyo members",
+          "description": "CoinDesk JAPANを運営するN.Avenueが2023年7月より展開している「btokyo club」は、Web3をリサーチする大手企業のビジネスリー ...\nDAOのリアルをワークショップで分析・考察【btokyo clubラウンドテーブルレポート】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/209956/",
+          "publishedOn": "2023-11-27T08:00:00.000Z",
+          "wordCount": 1538,
+          "title": "DAOのリアルをワークショップで分析・考察【btokyo clubラウンドテーブルレポート】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/KER09240_L.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=209674",
           "author": "日本経済新聞社Nブランドスタジオ",
           "description": "CoinDesk JAPANの運営会社N.Avenue株式会社は、日本経済新聞社と共催で12/13に「デジタル証券フォーラム2023」を開催する。 デジタル証券 ...\n【デジタル証券フォーラム2023】セキュリティ・トークンで世界のトップランナーへ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -776,6 +786,126 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343956",
+          "author": null,
+          "description": "毎日のニュース: Binance sisi は、X プラットフォームに投稿されたブロガー @Dumpster_DAO に、インデクサーの問題により、Binance が保有する ORDI の数と総供給量 2,100 万の差が約 500 万 (約 1 億) であるというメッセージを発行しました。 OKX と Bybit はインデックスとして Unisat を使用し、Binance はインデックスとして Ordiscan を使用していますが、両者の間のデータは一貫性がないため、ORDI が攻撃にさらされる可能性があります。",
+          "link": "https://www.odaily.news/ja/newsflash/343956",
+          "publishedOn": "2023-11-27T08:24:06.000Z",
+          "wordCount": 1879,
+          "title": "Binance sisi: Binance は Unisat インデクサーを使用しており、Ordinalscan インデクサーの違いは精度処理ロジックの違いによるものです。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343955",
+          "author": null,
+          "description": "Odaily News ENS DAO が X プラットフォームに、ENS Small Grants Round 10 の申請期限は残り 3 日であると投稿しました。 ENS Small Grants Round 10 は、次の 2 つの主要カテゴリを対象としています。 1. 公開製品: 申請者は、ENS 固有または ENS 中心ではない、Web3 分野で公開製品を構築している必要があります。 2. エコシステム: 申請者は、ENS に関連する、または ENS を中心としたコンテンツを構築している必要があります。 ENS Small Grants Round 10 の具体的なプロセスは次のとおりです: a. 提出段階: Grants ポータルを通じてプロジェクトを提出し、締め切りは 11 月 29 日です。 b. 改訂段階: 管理者は重複した提出物や無効な提出物を確認し、除外します。 c. 投票段階: ENS 有権者カード所有者は 11 月 30 日から投票できます。",
+          "link": "https://www.odaily.news/ja/newsflash/343955",
+          "publishedOn": "2023-11-27T08:18:30.000Z",
+          "wordCount": 1931,
+          "title": "ENS 小規模助成金ラウンド 10 の申請は 11 月 29 日に終了し、投票は 11 月 30 日に開始されます。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343954",
+          "author": null,
+          "description": "Odaily News DWF Labs の共同作成者である Andrei Grachev が、改善、立ち上げ、協力、イベント、マーケティング、マーケティング、立ち上げなどについて投稿しました。 DWF Labs は常にグローバルな AML/KYC ルールに従い、複数のライセンスを取得し、四大監査法人のいずれかによる監査を受けています。",
+          "link": "https://www.odaily.news/ja/newsflash/343954",
+          "publishedOn": "2023-11-27T08:02:21.000Z",
+          "wordCount": 1852,
+          "title": "DWF Labs Lianchuang: 複数のライセンスを申請し、監査法人の監査を受けています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343952",
+          "author": null,
+          "description": "Odaily News Slow Mistの創設者Yu Xian氏はNoneに投稿し、多くのウォレットのセキュリティ検出メカニズムを回避し、ユーザーにセキュリティに注意を払うよう促しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343952",
+          "publishedOn": "2023-11-27T07:56:29.000Z",
+          "wordCount": 1836,
+          "title": "Cosine: 「create2」関数を使用した予測アドレス攻撃に注意してください",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343951",
+          "author": null,
+          "description": "Odaily News 本日、Jubi Builder Demo Day プロジェクト展示会決勝戦の結果が発表され、決勝優勝は BEVM、準優勝は Rollup Finance、三位は Communities ID でした。最終結果は14名の専門審査員による投票によって決定されます。",
+          "link": "https://www.odaily.news/ja/newsflash/343951",
+          "publishedOn": "2023-11-27T07:53:42.000Z",
+          "wordCount": 1855,
+          "title": "Jubi Builder Demo Day プロジェクト展示最終結果発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343950",
+          "author": null,
+          "description": "Odaily のオンチェーンアナリスト @ai_9684xtpa の監視によると、5 分前に 2 つの大規模な TRB アドレスがバイナンスにそれぞれ 16,000 TRB と 14,000 TRB をリチャージし、累計額は 242 万米ドルに達しました。これら 2 つのアドレスは同一人物のものである疑いがあります: 彼らは 2 か月の急騰の前にも資金をウォレットに移し、その後今日バイナンスに移しました。仮説が正しい場合、この大規模投資家の TRB の平均コストは54ドルなので全部売れれば78万ドルの利益となります。",
+          "link": "https://www.odaily.news/ja/newsflash/343950",
+          "publishedOn": "2023-11-27T07:43:07.000Z",
+          "wordCount": 1905,
+          "title": "2 つの大規模な TRB アドレスがバイナンスに 30,000 TRB を入金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343949",
+          "author": null,
+          "description": "Odaily News 暗号化マイニング会社 Argo Blockchain は、トーマス・チパス氏を CEO 兼エグゼクティブ・ディレクターに任命したと発表した。トーマスは以前、CBOE Digital の CEO を務め、以前は Citadel、Axoni、Citigroup、Barclays で幹部の役職を務めていました。",
+          "link": "https://www.odaily.news/ja/newsflash/343949",
+          "publishedOn": "2023-11-27T07:41:15.000Z",
+          "wordCount": 1895,
+          "title": "Argo Blockchain が Thomas Chippas を CEO 兼エグゼクティブ ディレクターに任命",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343948",
+          "author": null,
+          "description": "デイリーニュース 香港証券先物委員会は、仮想資産取引プラットフォームの申請者リストを更新し、最新情報によると、香港VAEXC Limitedは11月25日に仮想資産取引プラットフォームのライセンス申請を提出した。これまでに合計8社が香港証券先物委員会に仮想資産取引プラットフォームのライセンス申請を正式に提出している。また、AMMBR (HK) LIMITEDの申請は取り下げられた。",
+          "link": "https://www.odaily.news/ja/newsflash/343948",
+          "publishedOn": "2023-11-27T07:37:03.000Z",
+          "wordCount": 1842,
+          "title": "香港VAEXC Limited、香港証券先物委員会に仮想資産取引プラットフォームライセンス申請を提出",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343947",
+          "author": null,
+          "description": "Odaily News OpenSea のデータによると、ENS ドメイン名 memecoin.eth は 42.069 ETH の価格で販売され、買い手は Memeland の背後にある Meme コミュニティである 9GAG でした。 memecoin.eth は 4 年前に作成され、mob.eth は 2 日前にドメイン名を 4.2069 ETH で購入しました。 memecoin.ethの価格は2日間で以前の価格の10倍に上昇した。",
+          "link": "https://www.odaily.news/ja/newsflash/343947",
+          "publishedOn": "2023-11-27T07:32:34.000Z",
+          "wordCount": 1926,
+          "title": "ミームコミュニティ 9GAG が ENS ドメイン名 memecoin.eth を 42 ETH 以上で購入",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343945",
+          "author": null,
+          "description": "Odaily News Unisat 公式ツイートによると、アドレスは 4 つの異なるインデクサーでチェックされたとのことですが、UniSat、OKX、Ordinalscan の数値はすべて一致していますが、ordiscan は前者と矛盾しており、インデクサーにはいくつかのエラー (小数を正確に処理できないなど) があります。",
+          "link": "https://www.odaily.news/ja/newsflash/343945",
+          "publishedOn": "2023-11-27T07:28:54.000Z",
+          "wordCount": 1857,
+          "title": "Unisat: ordiscan インデクサーにエラー状態が存在します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343944",
+          "author": null,
+          "description": "デイリーニュースOKXオウイー市場によると、ORDIは19USDTを下回り、現在は19.03USDTで取引されており、24時間で12％下落した。",
+          "link": "https://www.odaily.news/ja/newsflash/343944",
+          "publishedOn": "2023-11-27T07:21:32.000Z",
+          "wordCount": 1828,
+          "title": "ORDIは24時間で12%下落し、19USDTを下回った",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343943",
+          "author": null,
+          "description": "Odaily news Twitter ブロガー @Dumpster_DAO は、インデクサーの問題により、Binance が保有する ordi の数は総供給量 (約 1 億米ドル) より約 500 万多いとツイートしました。OKX と Bybit は Unisat を使用していますが、Binance は ordiscan を使用しているため、これは可能性があります。 ORDI を攻撃にさらします。",
+          "link": "https://www.odaily.news/ja/newsflash/343943",
+          "publishedOn": "2023-11-27T07:20:24.000Z",
+          "wordCount": 1887,
+          "title": "インデックスの不一致の問題が疑われるため、約 500 万オルディが発行されました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/343942",
           "author": null,
@@ -4623,6 +4753,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=354945",
+          "author": "HitomotoToshikazu",
+          "description": "コインベースがADA・LINK・DOGE・XLMの無期限先物提供へ コインベースインターナショナルエクスチェンジ（Coinbase International Exchange）およびコインベースアドバンスド（Coinb […]",
+          "link": "https://www.neweconomy.jp/posts/354945",
+          "publishedOn": "2023-11-27T08:23:22.000Z",
+          "wordCount": 853,
+          "title": "コインベースの米国外取引所、ADA・LINK・DOGE・XLMを無期限先物取引で取扱いへ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/27172248/9f74321386234311f51edda038e9236b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=354946",
+          "author": "TamuraSeiji",
+          "description": "HECOチェーンブリッジから約130億円以上の暗号資産がエクスプロイト 中国発の暗号資産（仮想通貨）取引所「HTX（旧 フォビグローバル）」が運営する独自ブロックチェーン「HECO（ヘコ）チェーン」が11月22日に攻撃を […]",
+          "link": "https://www.neweconomy.jp/posts/354946",
+          "publishedOn": "2023-11-27T07:46:11.000Z",
+          "wordCount": 850,
+          "title": "HECOチェーンブリッジ、約130億円以上の暗号資産が不正流出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/27164603/8bc0c118bf1ea132c1d113aa18a18c0d.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=354941",
           "author": "gentosha_takahashi",
