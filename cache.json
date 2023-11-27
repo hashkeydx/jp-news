@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=209674",
+          "author": "日本経済新聞社Nブランドスタジオ",
+          "description": "CoinDesk JAPANの運営会社N.Avenue株式会社は、日本経済新聞社と共催で12/13に「デジタル証券フォーラム2023」を開催する。 デジタル証券 ...\n【デジタル証券フォーラム2023】セキュリティ・トークンで世界のトップランナーへ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/209674/",
+          "publishedOn": "2023-11-27T02:00:00.000Z",
+          "wordCount": 1086,
+          "title": "【デジタル証券フォーラム2023】セキュリティ・トークンで世界のトップランナーへ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/nikkeiデジタル証券F_saito_1280×848.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=209967",
           "author": "CoinDesk JAPAN",
           "description": "SBIホールディングスと、ステーブルコイン「USDコイン（USDC）」を発行する米サークル（Circle Internet Financial）は、日本国内にお ...\nSBIと米サークル、業務提携に向けた基本合意書締結──USDCの日本での流通などを視野 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -264,6 +274,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=494344",
+          "author": "A.Yamada",
+          "description": "仮想通貨コスモスのコミュニティは、ATOMのインフレ率を10%に引き下げる提案を承認した。これに伴いステーキング利回りも下降することになる。",
+          "link": "https://coinpost.jp/?p=494344",
+          "publishedOn": "2023-11-27T02:23:06.000Z",
+          "wordCount": 1969,
+          "title": "コスモスコミュニティ、ATOMのインフレ率を10％まで引き下げる提案を承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/211027_atom1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/211027_atom1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=494172",
           "author": "CoinPost編集部",
@@ -706,6 +731,96 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343903",
+          "author": null,
+          "description": "Odaily は、Pidun コミュニティの貢献者による監視によると、KyberSwap 攻撃者が Avalanche チェーン上で 361,876 USDC.e を返したと報告しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343903",
+          "publishedOn": "2023-11-27T02:30:55.000Z",
+          "wordCount": 1797,
+          "title": "KyberSwap 攻撃者が Avalanche チェーンで 361,876 USDC.e を返す",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191263",
+          "author": null,
+          "description": "開発者: F2 プールは、OFAC 認可アドレスに関連するトランザクションを意図的にフィルタリングした疑いがある",
+          "link": "https://www.odaily.news/ja/post/5191263",
+          "publishedOn": "2023-11-27T02:30:00.000Z",
+          "wordCount": 2392,
+          "title": "BTCウィークリーレポート - アトミックスマーケットが調査報告書と補償計画を発表、通貨価格帯は変動が続く（11.20-11.26）",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191264",
+          "author": null,
+          "description": "ASIC からマイニング プールまで、ビットコイン マイニングの課題、解決策、分散化の傾向を探ります。",
+          "link": "https://www.odaily.news/ja/post/5191264",
+          "publishedOn": "2023-11-27T02:17:01.000Z",
+          "wordCount": 2379,
+          "title": "ビットコイン マイニングの将来を深く掘り下げる: マイニング プールは問題になるでしょうか?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343902",
+          "author": null,
+          "description": "Odaily News Spot On Chain のモニタリングによると、BLUR の価格は過去 24 時間で 9% 下落し、この期間中に 3 つのクジラアドレスが合計 717 万 BLUR (約 451 万米ドル) を CEX に入金しました。 -0x13d で始まるクジラのアドレスは、過去 4 時間で平均価格 0.629 米ドルで、Binance と OKX に 375 万 BLUR (約 236 万米ドル) を入金しました。 - 0x397 で始まるクジラ アドレス (orz-allinornnothing.eth に関連) は、約 6 時間前に平均価格 0.629 ドルで 167 万 BLUR (約 105 万ドル) を Binance に入金しました。 -Wintermute Trading は約 12 時間前と 9 時間前に 175 万 BLUR (約 110 万ドル) を OKX に入金しました。",
+          "link": "https://www.odaily.news/ja/newsflash/343902",
+          "publishedOn": "2023-11-27T02:14:23.000Z",
+          "wordCount": 1878,
+          "title": "過去 24 時間で 3 頭のクジラが合計 717 万 BLUR を CEX に入金しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343900",
+          "author": null,
+          "description": "Odaily News に掲載されたビットコインニュース",
+          "link": "https://www.odaily.news/ja/newsflash/343900",
+          "publishedOn": "2023-11-27T02:09:55.000Z",
+          "wordCount": 1779,
+          "title": "ハロウィーン以降、アドレスに 8,674 BTC が蓄積されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343899",
+          "author": null,
+          "description": "Odaily News Bithumbは、モスコイン（MOC）とレイブンコイン（RVN）韓国ウォン取引ペアを追加すると発表した。",
+          "link": "https://www.odaily.news/ja/newsflash/343899",
+          "publishedOn": "2023-11-27T02:02:07.000Z",
+          "wordCount": 1767,
+          "title": "BithumbはMOCとRVN韓国ウォン取引ペアを追加します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343898",
+          "author": null,
+          "description": "日本の国税庁（NTA）が最近発表した2022年度年次税務調査報告書によると、2022年度には615件の仮想通貨関連の調査が開始され、合計548件の税務違反が発見され、前年度から大幅に増加したことが示されている。年。 2021年度、国税庁は仮想通貨関連の調査を444件開始し、405件の違反を発見した。しかし、おそらく世界的な仮想通貨価格の下落により、仮想通貨関連の税務違反の金額は減少しているようだ。国税庁は、2022年度の仮想通貨関連事件の申告漏れ所得の平均額は約20万6,000ドルで、2021年度の24万5,000ドルから減少したと付け加えた。 2022 会計年度の未報告所得の累計額は 1 億 2,650 万ドルです。 (クリプトニュース)",
+          "link": "https://www.odaily.news/ja/newsflash/343898",
+          "publishedOn": "2023-11-27T01:48:45.000Z",
+          "wordCount": 1773,
+          "title": "日本の国税庁：2022年度に548件の仮想通貨税違反が発見され、総額は1億2,600万ドル以上",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343897",
+          "author": null,
+          "description": "Odaily のオンチェーン データ アナリスト Ember Monitoring によると、Huang Licheng は 20 分前に 315 ETH (約 65 万ドル) を費やして 1,165,011 BLUR を購入しました。ここ数日、Huang Licheng は合計 152 万米ドルを費やして 2,728,997 BLUR を購入し、平均価格は 0.558 米ドルでした。",
+          "link": "https://www.odaily.news/ja/newsflash/343897",
+          "publishedOn": "2023-11-27T01:40:15.000Z",
+          "wordCount": 1857,
+          "title": "Huang Licheng は 20 分前にさらに 1,165,000 BLUR を追加しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/343896",
+          "author": null,
+          "description": "Odaily News Slow Mist は、11 月 19 日から 11 月 25 日までに Web3 分野のセキュリティ問題によって引き起こされた損失が 1 億 6,800 万米ドルを超える見込みであると X プラットフォームに掲載しました。主に、Kyber Networkの流動性脆弱性（5,470万米ドルの損失）、HTXプロトコルの脆弱性（1億1,330万米ドルの損失）、Kronos Research APIキー漏洩（2,600万米ドルの損失）、BNBチェーンとイーサリアムチェーンでの複数のRug Pullインシデントが含まれます。さまざまなトークンの価格が暴落します。",
+          "link": "https://www.odaily.news/ja/newsflash/343896",
+          "publishedOn": "2023-11-27T01:31:09.000Z",
+          "wordCount": 1842,
+          "title": "スローミスト: Web3 の脆弱性とラグプル事件による先週の損失総額は 1 億 6,800 万ドルを超えました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/post/5191261",
           "author": null,
@@ -4053,6 +4168,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=354878",
+          "author": "gentosha_takahashi",
+          "description": "CZ氏の米国出国認めるよう要請 大手暗号資産（仮想通貨）取引所のバイナンス（Binance）の元最高経営責任者で創業者のチャンポン・ジャオ（Changpeng Zhao：CZ）氏の弁護士団が、マネーロンダリング防止要件違 […]",
+          "link": "https://www.neweconomy.jp/posts/354878",
+          "publishedOn": "2023-11-27T02:27:57.000Z",
+          "wordCount": 823,
+          "title": "バイナンス元CEO、判決前に米国出国を認めるよう裁判官へ要請＝ロイター",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/27112743/b090c1910b4b7d3b5362c9371e45a609.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=354831",
           "author": "OtsugaShinya",
