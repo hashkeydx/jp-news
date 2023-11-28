@@ -838,36 +838,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=493891",
-          "author": "S.Ninomiya",
-          "description": "最大手取引所バイナンスのCZ退任を受け一時急落した暗号資産（仮想通貨）市場だが、その後急反発。ビットコイン（BTC）が直近高値の37000ドルで推移する一方、イーサリアム先物市場では機関投資家と思しき大口のアルゴ買いが観測されている。",
-          "link": "https://coinpost.jp/?p=493891",
-          "publishedOn": "2023-11-24T03:19:37.000Z",
-          "wordCount": 1243,
-          "title": "高値圏推移のビットコイン、イーサリアム先物市場では機関投資家のアルゴ買い観測か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoineth3249-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/bitcoineth3249-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=493915",
-          "author": "A.Yamada",
-          "description": "シンガポールの中央銀行はビットコインなど仮想通貨の規制案について最終的な回答書を発表。リテール顧客へのサービス提供制限などを課す予定だ。",
-          "link": "https://coinpost.jp/?p=493915",
-          "publishedOn": "2023-11-24T02:30:55.000Z",
-          "wordCount": 1884,
-          "title": "シンガポール中銀、個人向け仮想通貨投資を大幅制限へ　来年発効見込み",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/singapore-blockchain-growth.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/singapore-blockchain-growth.jpg"
         }
       ]
     },
@@ -876,6 +846,96 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344149",
+          "author": null,
+          "description": "Odaily News 仮想通貨保管プラットフォームの Fireblocks は、Off Exchange を立ち上げ、取引所や資産管理会社がチェーン上の MPC 共有ウォレットを通じて CEX で取引できるようになり、取引所の取引相手のリスクを排除できると文書を発行しました。 Fireblocks Off Exchange は、MPC テクノロジーを利用して、トレーダーが共同管理するウォレットから資産を取引所に直接割り当ててミラーリングできるようにし、ハッカー、破産、詐欺から元本を保護しながら、集中型取引所への完全なチェーンを提供します。 顧客アカウントが完全に安全であることを保証するための透明性を提供します。担保された。 Off Exchange は開始時に Deribit をサポートし、今後数か月以内に HTX、ByBit、OKX、Gate.io、Whitebit、BIT、OneTrading、Coinhako、Bitget およびその他のグローバル取引所もサポートする予定です。",
+          "link": "https://www.odaily.news/ja/newsflash/344149",
+          "publishedOn": "2023-11-28T15:18:59.000Z",
+          "wordCount": 1782,
+          "title": "Fireblocks はカウンターパーティのリスクを排除するために Off Exchange を開始します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344148",
+          "author": null,
+          "description": "Odaily News Web3 ベンチャーキャピタル機関 AC Capital は、新たに 2,000 万米ドルのファンドを立ち上げることを発表しました. このファンドの戦略的投資の焦点は、BTC エコロジー資産投資、非 EVM レイヤー 1 アプリケーション、チェーンに依存しない流動性レイヤー、およびユーザーフレンドリーな暗号化、インターフェースソリューションおよびその他の分野。 (クリプトレート)",
+          "link": "https://www.odaily.news/ja/newsflash/344148",
+          "publishedOn": "2023-11-28T15:16:34.000Z",
+          "wordCount": 1758,
+          "title": "ベンチャーキャピタルのACキャピタルがBTCエコシステムに焦点を当てた新たな2,000万米ドルのファンドを立ち上げる",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344147",
+          "author": null,
+          "description": "Odaily News Web3 消費者向けアプリケーション Setter は、Andreessen Horowitz (a16z) が主導し、Marcy Ventures Partners、Superlayer、Thirty Five Ventures、そして引退したテニスのスーパースターである Serena Williams の参加を得て、500 万ドルのシードラウンドを完了しました。このアプリは、ブランドが独占製品を宣伝し、顧客に限定製品を提供する方法を革新するのを支援する予定です。 Setter は「現在のウォレット技術の複雑さと不親切な性質」を解決し、より多くのユーザーによりシームレスな Web3 エクスペリエンスを提供することを目指していると報告されています。 Setter は当初、ファッション、高級品、消費者向け収集品の分野への拡大を目的として、ストリートウェア ブランドやスニーカー ブランドとのパートナーシップに重点を置いています。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/344147",
+          "publishedOn": "2023-11-28T15:14:57.000Z",
+          "wordCount": 1796,
+          "title": "Web3 コンシューマ アプリケーション Setter が、a16z 主導のシードラウンドで 500 万ドルの資金調達を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344146",
+          "author": null,
+          "description": "Odaily News 仮想通貨ベンチマークインデックスプロバイダーのCF Benchmarksが機関投資家向けのプレッジインデックスシリーズを開始。同社の声明によると、CFステーキング・リターン・シリーズとして知られるこのデータは、投資家に特定のプルーフ・オブ・ステークプロトコルでのリターンを提供するという。新しいCFプレッジリターンシリーズの指数がEUベンチマーク規制に登録されたと報じられています。",
+          "link": "https://www.odaily.news/ja/newsflash/344146",
+          "publishedOn": "2023-11-28T15:10:40.000Z",
+          "wordCount": 1754,
+          "title": "CF Benchmarks が機関投資家向けのステーキングリターンインデックスを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344145",
+          "author": null,
+          "description": "Odaily News Unisat は、 Unisat はさらに、最近最適化により通貨引き出しマッチング率を 50% から現在の 70% に高めることに成功したと述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/344145",
+          "publishedOn": "2023-11-28T15:02:37.000Z",
+          "wordCount": 1776,
+          "title": "Unisat: Rats が BRC20-SWAP で開始され、使用量のしきい値が 400 ポイントに引き下げられました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344144",
+          "author": null,
+          "description": "Odaily News dYdX は、アクティベーショントランザクション報酬と 6 か月のスタートアップインセンティブプランが dYdX Chain で開始されたことを記載した文書を X プラットフォーム上で発行しました。 dYdX Chainはベータ段階から本格的な本番取引に入りました。 ETH、BTC、SOL、LINKはすべてdydx.tradeで取引でき、今後数週間でフロントエンドに新しい市場を追加し続ける計画です。 dYdX Chain のトレーダーは毎日約 50,000 DYDX を獲得でき、取引報酬は 1 か月待つことなくすぐに発行されます。 Chaos Labs が運営する dYdX ローンチ インセンティブ プログラムは、トレーディング報酬とともに今後 6 か月間実施され、2,000 万ドル相当の DYDX が配布されます。",
+          "link": "https://www.odaily.news/ja/newsflash/344144",
+          "publishedOn": "2023-11-28T14:50:44.000Z",
+          "wordCount": 1840,
+          "title": "dYdX Chain がオンラインになり、トランザクション報酬と 6 か月のスタートアップ インセンティブ プランが有効になりました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344143",
+          "author": null,
+          "description": "毎日のニュース: 米ドル指数 DXY は 8 月末以来初めて 103 を下回り、日中下落率は 0.15% でした。 (ゴールデンテン)",
+          "link": "https://www.odaily.news/ja/newsflash/344143",
+          "publishedOn": "2023-11-28T14:47:46.000Z",
+          "wordCount": 1763,
+          "title": "米ドル指数DXYは8月末以来初めて103を下回った。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344142",
+          "author": null,
+          "description": "Odaily の公式ブログによると、イーサリアム財団は、「Next Billion Fellowship」のコホート 4 の申請が開始され、2024 年 1 月 15 日に終了すると発表しました。このフェローシップでは、個人的な経験や将来のプロジェクトについて語れるストーリーを持つ人材を求めており、フェローにはプロジェクトのビジョンを公の場で表現し、記事やコードをコミュニティとオープンに共有できることが求められます。これまでのプロジェクトには、研究、概念実証の構築、Web3 を超えた「拡張コラボレーション」イニシアチブが含まれています。",
+          "link": "https://www.odaily.news/ja/newsflash/344142",
+          "publishedOn": "2023-11-28T14:39:57.000Z",
+          "wordCount": 1766,
+          "title": "イーサリアム財団、次の10億人の奨学金のコホート4の募集を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344141",
+          "author": null,
+          "description": "Odaily News Econia Labs が開発したオーダーブックプロトコルは現在、Aptos メインネット上でオンラインになっています。以前のニュースによると、Econia Labs は、Lightspeed Faction、Wintermute Ventures、Hudson River Trading、Aptos Labs、Flow Traders の参加を得て、Dragonfly が主導する 650 万米ドルのシードラウンドの完了を発表しました。アプトスチームと協力してバックエンドを構築する このプロトコルは、アプトス上の分散型金融（DeFi）プロジェクトのベースレイヤーとして機能し、従来の金融と集中型暗号通貨取引所に不可欠な部分であるオーダーブックを提供し、トレーダーが購入や取引を行うことを可能にします。希望する価格で資産を売却するか、市場が提示する最良の価格を受け入れるだけです。 Econia は、透過的かつ許可のない方法でオーダーブックをオンチェーンに提供し、スポット取引やレバレッジを利用したデリバティブなど、さまざまな取引オプションを提供する DeFi アプリケーションとの統合をサポートします。",
+          "link": "https://www.odaily.news/ja/newsflash/344141",
+          "publishedOn": "2023-11-28T14:37:40.000Z",
+          "wordCount": 1813,
+          "title": "Econia Labs によって開発されたオーダーブック プロトコルは、現在 Aptos メインネット上でオンラインになっています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344140",
           "author": null,
@@ -6545,126 +6605,6 @@
           "wordCount": 1693,
           "title": "サンドボックスは韓国コンテンツ振興院と提携し、韓国ドラマをテーマにしたメタバースポップアップストアをオープンします",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343600",
-          "author": null,
-          "description": "オンチェーンアナリスト @ai_9684xtpa による Odaily の監視によると、Huang Licheng は過去 20 時間で平均コスト 0.51 米ドルで合計 960,000 BLUR を購入し、これらすべてのトークンを担保に入れました。 Huang Licheng は Blur シーズン 2 のエアドロップで合計 602 万 BLUR を獲得し、5 位にランクされました。しかし、彼はエアドロップポイントを獲得するために大量のNFTを取引し、ブラーは最大2,512万米ドルの損失を実現したことを示しました。",
-          "link": "https://www.odaily.news/ja/newsflash/343600",
-          "publishedOn": "2023-11-24T03:20:51.000Z",
-          "wordCount": 1766,
-          "title": "Huang Licheng は過去 20 時間で 960,000 BLUR を購入し、そのすべてが約束されました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343599",
-          "author": null,
-          "description": "Odaily は、Paidun の監視によると、0x3d6b で始まるアドレスが 1,000,000,000,000 JWL を 31 WETH (約 64,300 米ドル) に交換し、JWL トークンの価格がほぼ 100% 下落したと報告しました。 Paidun 氏は、Rug Pull トークンが他のプロジェクトのトークンと同じ名前を持つ可能性があることを思い出させました。",
-          "link": "https://www.odaily.news/ja/newsflash/343599",
-          "publishedOn": "2023-11-24T03:13:50.000Z",
-          "wordCount": 1744,
-          "title": "Paidun: JWL トークンにはラグ プルの疑いがあり、価格はほぼ 100% 下落しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191234",
-          "author": null,
-          "description": "フレン ペットのペットは、実際には、フィールド内のすべてのプレイヤーの支出の一部を収益として継続的に採掘するマイニング マシンとして理解できます。",
-          "link": "https://www.odaily.news/ja/post/5191234",
-          "publishedOn": "2023-11-24T03:12:47.000Z",
-          "wordCount": 2253,
-          "title": "MT Capital Insight: Fren Pet はペットに見せかけたマイニング マシン ゲームです",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343598",
-          "author": null,
-          "description": "Odaily は、Lookonchain のモニタリングによると、特定のクジラが長い LDO を実行していると報じました。 10月2日以来、クジラは合計200万個のLDOを平均価格約1.79ドル（当時約360万ドル）で購入し、現在の価格に基づいて約140万ドルの利益を得ている。巨大クジラは200万LDOすべてをAaveに預け、さらにLDOを購入するために約156万USDTを借り入れた。",
-          "link": "https://www.odaily.news/ja/newsflash/343598",
-          "publishedOn": "2023-11-24T03:06:13.000Z",
-          "wordCount": 1751,
-          "title": "巨大なクジラが 200 万 LDO を Aave に預け、さらに LDO を購入するために 156 万 USDT を借りました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343597",
-          "author": null,
-          "description": "Odaily News Whale - Dinobet.io に投稿されました。以前のニュースによると、今年7月に米国SECは、未登録証券を販売した疑いでHex and Pulsechainの創設者であるRichard Heartを訴えました。 SEC によると、Heart はプロジェクト トークンの販売により 10 億ドル以上を調達しました。 SECによると、ハート氏は以前にもヘックスの上昇を示唆するコメントをしており、ヘックスの現在の価格は歴史的高値から98.4％下落している。さらにSECは、ハートが顧客資金1,200万ドル以上を流用し、契約を結ぶ代わりに個人使用のための高級品の購入に使用したと指摘した。 9月、CoinbaseプロダクトディレクターのConor grogan氏は次のように投稿した。",
-          "link": "https://www.odaily.news/ja/newsflash/343597",
-          "publishedOn": "2023-11-24T02:59:31.000Z",
-          "wordCount": 1715,
-          "title": "マーケットニュース：SECに訴えられたヘックス創業者リチャード・ハート氏、ロシアに逃亡",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343596",
-          "author": null,
-          "description": "Odaily は、コミュニティ メンバーからのフィードバックに従って、サトシのライトニング ネットワーク ウォレット ウォレットが米国の Google Play および Apple App Store から削除されたと報じました。",
-          "link": "https://www.odaily.news/ja/newsflash/343596",
-          "publishedOn": "2023-11-24T02:52:19.000Z",
-          "wordCount": 1710,
-          "title": "ライトニングネットワークウォレット サトシのウォレットが米国の2大アプリストアから削除された",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343595",
-          "author": null,
-          "description": "Odaily News レイヤー 2 クロスロールアップ ブリッジ Orbiter Finance は、ユーザーの貢献を追跡するための O-Points の導入を発表しました。 Orbiter Financeは現在、Linea上でクロスチェーン活動を開始しており、後にユーザーの過去の貢献（NFT、OAT、Galxeロイヤルティポイントなど）をOポイントに変換する予定です。",
-          "link": "https://www.odaily.news/ja/newsflash/343595",
-          "publishedOn": "2023-11-24T02:48:25.000Z",
-          "wordCount": 1725,
-          "title": "Orbiter Finance がユーザーの貢献を追跡するために O-Points を導入",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343594",
-          "author": null,
-          "description": "Odaily News Atomics Protocol は、ユーザーを危険にさらすというプロトコルの欠陥に関する主張に反論しました。 ARC20 PBST スワップには欠陥はありません。実際、チームは資金の盗難につながる可能性があるため、SIGHASH_NONE を使用しないように当初から Atomics Market に警告していましたが、これは証明できます。事実は、彼らが製品の市場投入を急ぐあまり、基本的な安全慣行に違反したということです。一歩下がって、ARC20 PBST スワップに問題がある場合でも、SIGHASH_NONE 署名の使用は受け入れられません。",
-          "link": "https://www.odaily.news/ja/newsflash/343594",
-          "publishedOn": "2023-11-24T02:40:40.000Z",
-          "wordCount": 1714,
-          "title": "アトミックス・プロトコルは反論：アトミックス・マーケットは「嘘をついている」、ARC20 PBSTスワップには何の欠陥もない",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343593",
-          "author": null,
-          "description": "Odaily News Cosmos Hub コミュニティは、「流動性ステーキングの拡大のために 600,000 ATOM を pSTAKE に割り当てる」という提案に投票中です。投票締め切りは 12 月 5 日です。この提案は、Cosmos Hub プロトコル (stkATOM Hub POL) が所有する流動性として Astroport (Neutron) と Dexter (Persistence) に 600,000 ATOM を割り当てることで、pSTAKE stkATOM の ATOM 流動性ステーキングを増やすことを目的としています。その見返りとして、pSTAKE Finance (PSTAKE が運営) は、ATOM 流動性ステーキングの総収益の 15% を Cosmos Hub と共有し、300,000 ATOM 流動性ステーキングに対するプロトコル手数料 (現在 5% に設定されている) を免除することを約束しました。",
-          "link": "https://www.odaily.news/ja/newsflash/343593",
-          "publishedOn": "2023-11-24T02:39:35.000Z",
-          "wordCount": 1817,
-          "title": "「流動性ステーキングの拡大のために 600,000 ATOM を pSTAKE に割り当てる」という Cosmos Hub コミュニティの提案は投票受付中です",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343592",
-          "author": null,
-          "description": "Odaily News 公式ウェブサイトによると、CoinStats は OKX Web3 ウォレットに接続され、ユーザーは OKX Web3 を通じて CoinStats の暗号化資産を管理、追跡、交換できるようになりました。 CoinStats は、リアルタイムの市場データ、投資資産収益の追跡と分析などを提供する、主流の暗号通貨ポートフォリオ トラッカーです。 OKX Web3 ウォレットは、現在 80 以上のパブリック チェーンをサポートするワンストップ Web3 ポータルであると報告されており、アプリ、プラグイン、Web ページが統合されており、ウォレット、DEX、DeFi、NFT 市場、DApp 探索、 Ordinals マーケット、MPC および AA スマート コントラクト ウォレット、ガス交換、ハードウェア ウォレットの接続などをサポートします。",
-          "link": "https://www.odaily.news/ja/newsflash/343592",
-          "publishedOn": "2023-11-24T02:35:25.000Z",
-          "wordCount": 1766,
-          "title": "CoinStats が OKX Web3 ウォレットに接続します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343591",
-          "author": null,
-          "description": "Odaily News OKX 市場によると、BLUR は一時 0.5555 USDT まで上昇し、6 か月ぶりの高値となりましたが、現在は 0.5501 USDT で取引されており、24 時間で 11.85% 上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/343591",
-          "publishedOn": "2023-11-24T02:33:48.000Z",
-          "wordCount": 1708,
-          "title": "BLURは0.55USDTを突破し、半年ぶりの高値に到達",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343590",
-          "author": null,
-          "description": "Odaily の Huobi HTX 市場によると、11 月 24 日の Huobi HTX 上昇企業リストでは、上位 3 つの上昇企業は次のとおりです: RAIN、TOP、PHCR; AI/ビッグデータ セクターが最も大きく上昇した LAI (45.17%); DeFi セクター最も増加率が高かったのは SPELL (20.04%)、HTX で最も増加率が高かったのは PAAL (3.90%) でした。 11月24日9時30分現在の人気通貨の相場は以下の通り。",
-          "link": "https://www.odaily.news/ja/newsflash/343590",
-          "publishedOn": "2023-11-24T02:27:24.000Z",
-          "wordCount": 1772,
-          "title": "Huobi HTX 人気通貨レポート: RAIN は 24 時間で 86.09% 増加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -6942,16 +6882,6 @@
           "wordCount": 682,
           "title": "CoinGecko、NFT情報提供の「Zash」を買収",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/24132406/b55d5cfed06a14b367b0bc98a5792078.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=354630",
-          "author": "gentosha_takahashi",
-          "description": "3か月の実証実験予定 韓国が、2024年に国民10万人が参加する中央銀行デジタル通貨（CBDC）の試験運用を開始する予定だという。現地紙「コリアタイムズ（The Korea Times）」が11月23日報じた。 報道によ […]",
-          "link": "https://www.neweconomy.jp/posts/354630",
-          "publishedOn": "2023-11-24T03:09:56.000Z",
-          "wordCount": 793,
-          "title": "韓国銀行が中銀デジタル通貨の試験運用へ、2024年に10万人規模で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/24120925/758a695570b2b56c8fca63f8be015b6b.jpg"
         }
       ]
     }
