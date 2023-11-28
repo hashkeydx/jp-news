@@ -907,6 +907,156 @@
       "siteUrl": "https://www.odaily.news",
       "articles": [
         {
+          "id": "https://www.odaily.news/ja/newsflash/344068",
+          "author": null,
+          "description": "Odaily News Uniswapの創始者Hayden Adams氏はXプラットフォームに、スマートコントラクトのコードサイズ制限の拡大推進に協力する用意があると投稿した。 Adams 氏は、プロキシ モードを使用するとガスのオーバーヘッドが増加し、コード構造が貧弱になるため、良い解決策ではないと述べています。",
+          "link": "https://www.odaily.news/ja/newsflash/344068",
+          "publishedOn": "2023-11-28T04:23:17.000Z",
+          "wordCount": 1870,
+          "title": "Uniswap の創設者: スマート コントラクトのコード サイズ制限の引き上げに積極的に協力する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344067",
+          "author": null,
+          "description": "Odaily News 公式ブログ投稿によると、Nethermind と Flashbots は、ロールアップベースの PBS プロポーザル「代替 PBS」を提案しました。これにより、ロールアップに基づいて生成された MEV 収益を、ロールアップの提案者への支払いを優先するのではなく、ロールアップ自体によって取得できるようになります。注文チェーン。代替 PBS は、ロールアップ ブロックの盗用に関連する別の問題も解決します。注意して構築しないと、順序付けチェーンの提案者は、失敗した Rollups ビルダーによって構築された基本の Rollups ブロックを観察し、これらのブロックを自分で再構築する可能性があります。これにより、順序付けチェーンの提案者は、ビルディング ブロックを構築する (コピーするだけ) コストをかけずに、ビルディング ブロックの値を受け取ることができます。",
+          "link": "https://www.odaily.news/ja/newsflash/344067",
+          "publishedOn": "2023-11-28T04:21:26.000Z",
+          "wordCount": 1889,
+          "title": "Nethermind と Flashbot がロールアップベースの PBS を提案",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344066",
+          "author": null,
+          "description": "OKX市場データによると、SSVは24時間で10％以上上昇し、現在は10.77％上昇し、現在の価格は26.32USDT、最高値は26.9USDTに達しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344066",
+          "publishedOn": "2023-11-28T04:19:35.000Z",
+          "wordCount": 1851,
+          "title": "SSVは24時間で10%以上上昇し、現在の価格は26.32 USDTです。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191294",
+          "author": null,
+          "description": "バンクレス事件の余波は今も尾を引いており、地域社会は「公共の福祉」をめぐって争いを起こしている。",
+          "link": "https://www.odaily.news/ja/post/5191294",
+          "publishedOn": "2023-11-28T04:10:39.000Z",
+          "wordCount": 1978,
+          "title": "DAO資金論争が再燃、名探偵ZachBXTがOP慈善基金申請の「混乱」を暴露",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344065",
+          "author": null,
+          "description": "Odaily News 分散型開発者プラットフォーム Gitcoin は、Gitcoin Grants 19 (GG19) の寄付状況をソーシャル メディア上で公開しました。データによると、GG19 はこれまでに約 345,000 米ドルの寄付を提供し、176,149 件の寄付が行われました。寄付を受け取った独立ユーザー/ 25,905 人がいます1. Web3 コミュニティおよび教育ラウンドの寄付金額は約 83,700 米ドル、寄付数は約 29,000、Trustalabs、ZachXBT、Onlyfun などを含む約 9,600 の独立ユーザー/プロジェクトが寄付を受け取りました。 2. イーサリアムインフラストラクチャの研究開発ラウンドにおける寄付額は約 35,000 米ドル、寄付数は約 37,600、L2beat、ZK Email などを含む約 7,900 の独立ユーザー/プロジェクトが寄付を受け取りました; 3. Web3 オープンソース ソフトウェア ラウンドでの寄付額は約 159,000 米ドル、寄付数は約 77,900、JediSwap、Revoke.cash などを含む約 14,600 の独立ユーザー/プロジェクトが寄付を受け取りました。",
+          "link": "https://www.odaily.news/ja/newsflash/344065",
+          "publishedOn": "2023-11-28T04:10:22.000Z",
+          "wordCount": 1907,
+          "title": "Gitcoin: GG19 はこれまでに約 345,000 ドルの寄付を提供しています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344064",
+          "author": null,
+          "description": "Odaily News アジアの仮想通貨ベンチャーキャピタル会社フォーサイト・ベンチャーズは、ライト・ソース・キャピタルの元創設チームメンバーであるミン・シュエ氏をインキュベーション部門フォーサイトXの新しいパートナーとして採用し、アクセラレーター事業を担当するとともに、ナタリー・ティエン氏を採用したと発表した。 FTXのコーポレートコミュニケーション部門の元責任者で、広報ディレクターとして活躍。 Min Xue は 2015 年に広源資本に入社し、広源資本の創設チームメンバーとなり、伝統的なプライマリー株式市場に 8 年間深く関わってきました。この期間中、Min Xue は Kuaishou、Zhihu、Soul、Qutoutiao、Kuaikan Comics などをカバーする複数ラウンドの株式融資取引を成功裡に完了し、プロジェクトの共同投資を主導しただけでなく、これらの取引の総額は超過しました。 30億米ドルを獲得し、主要な従来型米ドルファンドのパートナーとなる。担当する事業分野はインターネット、新消費、AIなどで、広源資本の海外事業やWeb3事業の推進者でもある。 Min Xue 氏は、「Web 3.0 の新しい世界で学び、成長し、探索し、新たな機会を創出し続けたいと考えています。Foresight は業界で最も完全なエコシステムと、中国の設立ファンドの中で最も国際的なビジョンを持っています。そのような会社に参加できることを非常に嬉しく思います」と述べています。ナタリー・ティエンは、FTX のコーポレート コミュニケーション ディレクターおよび CEO の特別補佐を務め、合計 2 年間 FTX に勤務し、成功を収めました。 FTX 会社のブランドの知名度を高め、会社の広報担当者の評判を向上させます。 Foresight Ventures は、分散化の精神を体現する Web3 プロジェクトのサポートに重点を置き、仮想通貨を長期的な主流の採用に向けて推進する仮想通貨投資機関です。 Foresight Ventures は、ベンチャー キャピタル ファンド、アクティブに運用されるセカンダリ ファンド、マルチ戦略 FOF、プライベート マーケット セカンダリ ファンドなど、複数のファンドを管理しています。先見の明",
+          "link": "https://www.odaily.news/ja/newsflash/344064",
+          "publishedOn": "2023-11-28T04:01:26.000Z",
+          "wordCount": 1951,
+          "title": "Light Source Capital の元メンバーである Min Xue と FTX の元メンバーである Natalie Tien がベンチャーキャピタル会社 Foresight Ventures に入社",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344063",
+          "author": null,
+          "description": "デイリーニュースLDキャピタル研究員 @kanazawa0x0 が掲載しました。ビットコインは通貨になることはできませんでしたが、米ドルを上回る準備金となりました。",
+          "link": "https://www.odaily.news/ja/newsflash/344063",
+          "publishedOn": "2023-11-28T03:59:57.000Z",
+          "wordCount": 1883,
+          "title": "LD Capital: エルサルバドルにおけるビットコインの私的使用率は低く、過去 6 か月間の送金のうちビットコインで行われたのはわずか 1% です。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344062",
+          "author": null,
+          "description": "Odailyは、Whale Alertの監視によれば、798BTC（約2,966万ドル）がBinanceから未知のウォレットに送金されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/344062",
+          "publishedOn": "2023-11-28T03:51:57.000Z",
+          "wordCount": 1871,
+          "title": "798 BTC を Binance から送金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191270",
+          "author": null,
+          "description": "今週の重要なマクロ情報を簡単にまとめます。",
+          "link": "https://www.odaily.news/ja/post/5191270",
+          "publishedOn": "2023-11-28T03:48:42.000Z",
+          "wordCount": 3093,
+          "title": "LD キャピタル・マクロ・ウィークリー・レポート (11.27): 楽観的なセンチメントが引き続きポジションを覆い、ゴールドマン・サックスの顧客はテクノロジー株から静かに逃避し、BTC 先物プレーヤーはショートポジションを追加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344060",
+          "author": null,
+          "description": "Odaily News Spartan GroupのマネージングパートナーであるKelvin Koh氏は、重要な大規模集中暗号通貨取引所で取引していた際、取引所が自社のショートポジション情報を業界の特定の連絡先に漏洩していたことを発見したとXプラットフォームに投稿した。同氏は、これは顧客の機密保持に対する重大な違反であるため、この取引所での取引活動を停止すると述べた。ケルビン・コー氏は、「今回の事件でさらに衝撃的なのは、この情報が簡単に共有されたことだ。取引所の任意の従業員が顧客の取引ポジションにアクセスし、ランダムな関係者と共有できるのであれば、それは取引所が適切な措置を講じていないことを示す」と述べた。対策、管理措置。さらに、同取引所は最大規模の集中型取引所の一つであり、集中型取引所に対する監督の強化を求めた。",
+          "link": "https://www.odaily.news/ja/newsflash/344060",
+          "publishedOn": "2023-11-28T03:40:56.000Z",
+          "wordCount": 1857,
+          "title": "スパルタングループマネージングパートナー：大手仮想通貨取引所からショートポジション情報が流出",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344059",
+          "author": null,
+          "description": "Odaily の公式発表によると、Binance は Polygon (MATIC) ネットワークのアップグレードとハードフォークをサポートし、具体的な取り決めは次のとおりです: このプロジェクトは、Polygon ブロックの高さ 50,523,000 でネットワークをアップグレードします (2023 年 11 月 29 日、東第 8 地区時間で推定)バイナンスは、東第8地区時間の2023年11月29日19時30分に、上記ネットワークのトークン入出金サービスを停止する予定です。",
+          "link": "https://www.odaily.news/ja/newsflash/344059",
+          "publishedOn": "2023-11-28T03:38:23.000Z",
+          "wordCount": 1903,
+          "title": "Binance は Polygon (MATIC) ネットワークのアップグレードとハードフォークをサポートします",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344058",
+          "author": null,
+          "description": "Odaily News イーサリアムのモジュラー実行レイヤー、Fuel が「Build new Web3 use case」に掲載され、アプリケーションは 11 月 27 日から 12 月 10 日までオープンです。",
+          "link": "https://www.odaily.news/ja/newsflash/344058",
+          "publishedOn": "2023-11-28T03:36:44.000Z",
+          "wordCount": 1909,
+          "title": "イーサリアムのモジュラー実行層 Fuel は、各プロジェクトに最大 50,000 ドルを受け取る第 1 四半期の助成プログラムを開始しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191296",
+          "author": null,
+          "description": "RWA 市場構造を調査し、最も安定した側面から始めて、リターンとリスクに拡張し、徐々に将来の発展と軌道を探っていきます。",
+          "link": "https://www.odaily.news/ja/post/5191296",
+          "publishedOn": "2023-11-28T03:34:35.000Z",
+          "wordCount": 2250,
+          "title": "IOSG Ventures: RWA はどのようにして分散型イノベーションの活力を DeFi に注入しますか?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344057",
+          "author": null,
+          "description": "Odaily News DeGodsおよびy00tsシリーズNFTの創設者であるフランクが に投稿しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344057",
+          "publishedOn": "2023-11-28T03:28:15.000Z",
+          "wordCount": 1900,
+          "title": "DeGods および y00ts シリーズ NFT の IP 2.0 ライセンスには、NFT とプロジェクトのロゴを使用する商業権利が含まれています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344055",
+          "author": null,
+          "description": "デイリーニュース Huobi HTX 市場によると、11 月 28 日の Huobi HTX 価格値上げリストでは、上位 3 通貨は SPS、STC、SYS であり、AI/ビッグデータ分野では SYS (32.95%) が最も大きく上昇しました。ゲーム 最も増加率が高かったセクターは SPS (427.53%) でした。 11月28日10時15分現在の人気通貨の相場は以下の通り。",
+          "link": "https://www.odaily.news/ja/newsflash/344055",
+          "publishedOn": "2023-11-28T03:22:43.000Z",
+          "wordCount": 1930,
+          "title": "Huobi HTX 人気通貨レポート: SPS は 24 時間で 427.53% 増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
           "id": "https://www.odaily.news/ja/newsflash/344054",
           "author": null,
           "description": "Odaily は、Scopescan の監視によると、1 時間前に GSR が 1,080 万 GRT (160 万ドル) を Binance に入金したと報じました。",
@@ -5885,26 +6035,6 @@
           "wordCount": 1700,
           "title": "JAN3 CEO、ビットコインスポットETF承認後、ビットコインあたりの価格は100万ドルに達すると予測",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343567",
-          "author": null,
-          "description": "Odaily News Nostr Assets Protocol は、X プラットフォーム上で Nostr Assets のメンテナンスが正常に完了したとの声明を発表しました。約9時間前、Nostr Assets Protocolは、問題を解決するためにメンテナンスを行っているとのメンテナンスアナウンスを発表しました。",
-          "link": "https://www.odaily.news/ja/newsflash/343567",
-          "publishedOn": "2023-11-23T16:21:20.000Z",
-          "wordCount": 1718,
-          "title": "Nostr Assets Protocol: メンテナンスは正常に終了しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343566",
-          "author": null,
-          "description": "Odaily News POLS Marketは、取引市場polsmarket.wtfが開始され、そのトークンPOLSも今日から取引可能になったことをXプラットフォームに正式に投稿した。",
-          "link": "https://www.odaily.news/ja/newsflash/343566",
-          "publishedOn": "2023-11-23T16:08:48.000Z",
-          "wordCount": 1697,
-          "title": "POLS マーケットはオンラインであり、POLS トークンは取引可能です",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -5913,6 +6043,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=355241",
+          "author": "gentosha_takahashi",
+          "description": "買い増しや換金サービスも 金融サービス大手のスタンダードチャータード（Standard Chartered）銀行の中国部門であるスタンダード・チャータード・チャイナ（Standard Chartered China）が、 […]",
+          "link": "https://www.neweconomy.jp/posts/355241",
+          "publishedOn": "2023-11-28T03:41:52.000Z",
+          "wordCount": 671,
+          "title": "スタンダードチャータード、デジタル人民元の両替サービス開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/28123629/e993de53bf9a7f6952b7fec750de6325.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=355224",
           "author": "gentosha_takahashi",
