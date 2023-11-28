@@ -807,6 +807,26 @@
       "siteUrl": "https://www.odaily.news",
       "articles": [
         {
+          "id": "https://www.odaily.news/ja/newsflash/344157",
+          "author": null,
+          "description": "Odaily News OKX市場によると、ビットコインは38,000 USDTを超え、現在は38,090 USDTで、24時間で2.63％上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344157",
+          "publishedOn": "2023-11-28T17:21:30.000Z",
+          "wordCount": 1739,
+          "title": "ビットコインは38,000 USDTを突破、24時間で2.63%上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344156",
+          "author": null,
+          "description": "Odaily News 分散型コンピューティング プロトコル Chainlink は、ネイティブの Stake メカニズムをアップグレードし、Chainlink Stake v0.2 を開始し、プレッジ プールのサイズを 4,500 万 LINK に拡大しました。既存の v0.1 ステーカーがステーキング済みの LINK と報酬を新しいバージョンに移行できるようにするために、9 日間の「優先移行」期間が実施されます。声明によると、それぞれ12月7日と12月11日からの早期アクセス段階と一般アクセス段階を通じて他の参加者にもアクセスが拡大され、ユーザーは最大15,000 LINKをステーキングできるようになるという。この拡張は、ネットワークに追加のセキュリティ層を追加することを目的としたChainlinkのEconomic 2.0計画の一部であると報告されています。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/344156",
+          "publishedOn": "2023-11-28T17:10:10.000Z",
+          "wordCount": 1783,
+          "title": "Chainlink がステーキング メカニズムをアップグレードし、ステーキング プールのサイズが 4,500 万 LINK に到達",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
           "id": "https://www.odaily.news/ja/newsflash/344155",
           "author": null,
           "description": "Odaily News Liquid ステーキング プロトコル StakeWise は、StakeWise V3 がメインネットで開始されたことを X プラットフォーム上で発表しました。このバージョンでは、プレッジプール市場である Vaults Marketplace が提供され、ユーザーが特定のオペレーターとのカスタマイズされた条件に従ってステーキングしたり、自己ホスト型プレッジを実施したりするなど、プレッジメカニズムをカスタマイズできるようになっていると報告されています。ユーザーがどのステーキング モードを採用しても、約束されたイーサリアムを表すリキッド ステーキング トークン osETH を取得できます。",
@@ -6414,76 +6434,6 @@
           "publishedOn": "2023-11-24T05:30:00.000Z",
           "wordCount": 1802,
           "title": "デイリーアフタヌーンニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343616",
-          "author": null,
-          "description": "Odaily News DeBank のデータによると、Blur の創設者である Pacman が立ち上げたレイヤー 2 ネットワーク Blast 契約アドレスが現在 3 億 6,500 万米ドル以上の資産を保有していることがわかりました。そのうち、3 億 1,500 万米ドル以上の ETH が Lido プロトコルでデポジットされ、4,987 万米ドル以上の DAI が Maker プロトコルでデポジットされています。",
-          "link": "https://www.odaily.news/ja/newsflash/343616",
-          "publishedOn": "2023-11-24T05:24:33.000Z",
-          "wordCount": 1768,
-          "title": "Blast Network TVL が 3 億 6,500 万ドルを突破",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343614",
-          "author": null,
-          "description": "Odaily News Spot on Chain モニタリングによると、第 2 四半期に Blur エアドロップの申請受付が開始されて以来、24 のクジラアドレスが合計 6,080 万 BLUR (約 3,230 万米ドル) を購入し、5,960 万 BLUR (約 3,170 万米ドル) を送金しました。 ) USD) を誓約に組み込みます。",
-          "link": "https://www.odaily.news/ja/newsflash/343614",
-          "publishedOn": "2023-11-24T05:15:30.000Z",
-          "wordCount": 1778,
-          "title": "Blur の第 2 四半期エアドロップの申し込み受付が開始された後、24 のクジラ アドレスが合計 6,080 万 BLUR を購入しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343613",
-          "author": null,
-          "description": "Odaily News ブルームバーグがまとめたETFプロバイダーからの毎日の取引データによると、ARK次世代インターネットETFは10月23日以来、グレースケール・ビットコイン・トラスト・ファンドのGBTC株70万株以上を売却し、水曜日には3万6168株のGBTC株を売却した。オーストラリアン・フィナンシャル・レビュー紙の報道によると、金曜日にシドニー・オペラハウスで開催されたソーン・オーストラリア・カンファレンスで、キャシー・ウッド氏はグレイスケール・ビットコイン・トラストを最有力候補として挙げた。ブルームバーグがまとめたデータによると、9月30日現在、ARKは560万GBTCを保有し、GBTCの第4位の保有者となっている。 (ブルームバーグ)",
-          "link": "https://www.odaily.news/ja/newsflash/343613",
-          "publishedOn": "2023-11-24T05:11:30.000Z",
-          "wordCount": 1692,
-          "title": "10月23日以来、ARKファンドは合計700,000 GBTCの保有額を削減しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343612",
-          "author": null,
-          "description": "Odaily News Sun Yuchen氏はXプラットフォームに「トロンチェーンに碑文？」と投稿、この動きは市場の反応を試すためかもしれない。",
-          "link": "https://www.odaily.news/ja/newsflash/343612",
-          "publishedOn": "2023-11-24T04:57:15.000Z",
-          "wordCount": 1702,
-          "title": "Sun Yuchen は、「TRON チェーンへの碑文」について言及した、または市場の反応をテストする記事を発表しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343611",
-          "author": null,
-          "description": "Odaily News Snapshot ページには、Aave Chan Initiative によって開始された ARFC 提案「Base Network 上の Aave V3 への wstETH の導入」が投票中であり、投票は今日 15:09 に終了することが示されています。この ARFC 提案は、環境に優しい流動性ステーキング ソリューションの多様性を強化するために、Base Network 上の Aave V3 に wstETH を追加することを推奨しています。",
-          "link": "https://www.odaily.news/ja/newsflash/343611",
-          "publishedOn": "2023-11-24T04:54:17.000Z",
-          "wordCount": 1760,
-          "title": "Aave の新しい提案では、V3 Base バージョンが wstETH をサポートすることを推奨しています",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343610",
-          "author": null,
-          "description": "Odaily は、The Data Nerd の監視によると、過去 4 時間で 2 つのクジラのアドレスが多額の BLUR を約束したと報告しています。 0x602 で始まるクジラのアドレスは、Upbit から 304 万 BLUR (約 156 万ドル) を引き出し、そのすべてをプレッジに預けました。 0x13d で始まるクジラのアドレスは、OKX から 375 万 2000 BLUR (約 202 万ドル) を引き出し、そのすべてを質権のために預けました。",
-          "link": "https://www.odaily.news/ja/newsflash/343610",
-          "publishedOn": "2023-11-24T04:41:37.000Z",
-          "wordCount": 1778,
-          "title": "巨大なクジラが OKX から 375 万 2000 BLUR を引き出し、全額を約束しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343609",
-          "author": null,
-          "description": "Odaily News Snapshot ページには、暗号化インフラストラクチャ開発者の Orbs が OIP-8 提案に対する投票を開始したことが示されています。この提案では、12月の新しいステーキングトークンに対する特別報酬を30%に増やすことで、進行中のステーキング報酬プロモーションの強度を高めることを望んでいます。この提案に対する投票は11月28日に終了する。",
-          "link": "https://www.odaily.news/ja/newsflash/343609",
-          "publishedOn": "2023-11-24T04:37:39.000Z",
-          "wordCount": 1715,
-          "title": "Orbs の新しい提案は、12 月の新規ステーキング報酬を 30% に増やすことを提案しています",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]

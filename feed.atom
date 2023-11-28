@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-28T16:30:54.508Z</updated>
+    <updated>2023-11-28T17:25:24.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは38,000 USDTを突破、24時間で2.63%上昇]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344157</id>
+        <link href="https://www.odaily.news/ja/newsflash/344157"/>
+        <updated>2023-11-28T17:21:30.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News OKX市場によると、ビットコインは38,000 USDTを超え、現在は38,090 USDTで、24時間で2.63％上昇しています。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink がステーキング メカニズムをアップグレードし、ステーキング プールのサイズが 4,500 万 LINK に到達]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344156</id>
+        <link href="https://www.odaily.news/ja/newsflash/344156"/>
+        <updated>2023-11-28T17:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 分散型コンピューティング プロトコル Chainlink は、ネイティブの Stake メカニズムをアップグレードし、Chainlink Stake v0.2 を開始し、プレッジ プールのサイズを 4,500 万 LINK に拡大しました。既存の v0.1 ステーカーがステーキング済みの LINK と報酬を新しいバージョンに移行できるようにするために、9 日間の「優先移行」期間が実施されます。声明によると、それぞれ12月7日と12月11日からの早期アクセス段階と一般アクセス段階を通じて他の参加者にもアクセスが拡大され、ユーザーは最大15,000 LINKをステーキングできるようになるという。この拡張は、ネットワークに追加のセキュリティ層を追加することを目的としたChainlinkのEconomic 2.0計画の一部であると報告されています。 （ブロック）]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流動性ステーキング プロトコル StakeWise V3 がメインネットで開始されました]]></title>
         <id>https://www.odaily.news/ja/newsflash/344155</id>
@@ -6509,76 +6529,6 @@ NFTプラットフォームのBLUR、バイナンス採用と楽観主義で22%�
         <link href="https://www.odaily.news/ja/newsflash/343615"/>
         <updated>2023-11-24T05:30:00.000Z</updated>
         <summary type="html"><![CDATA[1. Sun Yuchen が「TRON チェーンへの碑文」に言及する記事、または市場の反応を試す記事を発表 2. 10 月 23 日以降、ARK Fund は 700,000 GBTC の保有を削減しました 3. アトミックス市場: 市場は次の理由により閉鎖されていますアトミックスプロトコルに問題がある場合、影響を受ける $atom トークンを置き換える予定; 4. アトミックスプロトコルの反論: アトミックスマーケットは「嘘をついていて」、ARC20 PBST スワップには欠陥がない; 5. 香港証券先物委員会当局者: その手法を理解していないBinance の香港市場参入の構造とバイナンスが香港でライセンスを取得できるか判断できない; 6. かつて LINK から利益の 76.6% を稼いでいたクジラが Coinbase から 104 万 LINK を引き出した; 7. あるクジラが入金 2 100万LDOをAaveに融資し、さらにLDOを購入するために156万USDTを借りた; 8. Huang Lichengは過去20時間で96万BLURを購入し、そのすべてが約束されている; 9. Blur第2四半期のエアドロップの申請が開始された後、24のクジラアドレスが購入された合計6,080万BLUR; 10 . 巨大なクジラがOKXから375万2000 BLURを引き出し、すべてを約束しました; 11. サトシのライトニングネットワークウォレットWalletが米国の2つの主要アプリストアから削除されました; 12. マーケットニュース: SEC に訴えられた Hex の創設者リチャード・ハートはロシアに逃亡した。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blast Network TVL が 3 億 6,500 万ドルを突破]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343616</id>
-        <link href="https://www.odaily.news/ja/newsflash/343616"/>
-        <updated>2023-11-24T05:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News DeBank のデータによると、Blur の創設者である Pacman が立ち上げたレイヤー 2 ネットワーク Blast 契約アドレスが現在 3 億 6,500 万米ドル以上の資産を保有していることがわかりました。そのうち、3 億 1,500 万米ドル以上の ETH が Lido プロトコルでデポジットされ、4,987 万米ドル以上の DAI が Maker プロトコルでデポジットされています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blur の第 2 四半期エアドロップの申し込み受付が開始された後、24 のクジラ アドレスが合計 6,080 万 BLUR を購入しました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343614</id>
-        <link href="https://www.odaily.news/ja/newsflash/343614"/>
-        <updated>2023-11-24T05:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Spot on Chain モニタリングによると、第 2 四半期に Blur エアドロップの申請受付が開始されて以来、24 のクジラアドレスが合計 6,080 万 BLUR (約 3,230 万米ドル) を購入し、5,960 万 BLUR (約 3,170 万米ドル) を送金しました。 ) USD) を誓約に組み込みます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10月23日以来、ARKファンドは合計700,000 GBTCの保有額を削減しました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343613</id>
-        <link href="https://www.odaily.news/ja/newsflash/343613"/>
-        <updated>2023-11-24T05:11:30.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News ブルームバーグがまとめたETFプロバイダーからの毎日の取引データによると、ARK次世代インターネットETFは10月23日以来、グレースケール・ビットコイン・トラスト・ファンドのGBTC株70万株以上を売却し、水曜日には3万6168株のGBTC株を売却した。オーストラリアン・フィナンシャル・レビュー紙の報道によると、金曜日にシドニー・オペラハウスで開催されたソーン・オーストラリア・カンファレンスで、キャシー・ウッド氏はグレイスケール・ビットコイン・トラストを最有力候補として挙げた。ブルームバーグがまとめたデータによると、9月30日現在、ARKは560万GBTCを保有し、GBTCの第4位の保有者となっている。 (ブルームバーグ)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sun Yuchen は、「TRON チェーンへの碑文」について言及した、または市場の反応をテストする記事を発表しました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343612</id>
-        <link href="https://www.odaily.news/ja/newsflash/343612"/>
-        <updated>2023-11-24T04:57:15.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Sun Yuchen氏はXプラットフォームに「トロンチェーンに碑文？」と投稿、この動きは市場の反応を試すためかもしれない。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave の新しい提案では、V3 Base バージョンが wstETH をサポートすることを推奨しています]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343611</id>
-        <link href="https://www.odaily.news/ja/newsflash/343611"/>
-        <updated>2023-11-24T04:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Snapshot ページには、Aave Chan Initiative によって開始された ARFC 提案「Base Network 上の Aave V3 への wstETH の導入」が投票中であり、投票は今日 15:09 に終了することが示されています。この ARFC 提案は、環境に優しい流動性ステーキング ソリューションの多様性を強化するために、Base Network 上の Aave V3 に wstETH を追加することを推奨しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巨大なクジラが OKX から 375 万 2000 BLUR を引き出し、全額を約束しました]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343610</id>
-        <link href="https://www.odaily.news/ja/newsflash/343610"/>
-        <updated>2023-11-24T04:41:37.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、The Data Nerd の監視によると、過去 4 時間で 2 つのクジラのアドレスが多額の BLUR を約束したと報告しています。 0x602 で始まるクジラのアドレスは、Upbit から 304 万 BLUR (約 156 万ドル) を引き出し、そのすべてをプレッジに預けました。 0x13d で始まるクジラのアドレスは、OKX から 375 万 2000 BLUR (約 202 万ドル) を引き出し、そのすべてを質権のために預けました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orbs の新しい提案は、12 月の新規ステーキング報酬を 30% に増やすことを提案しています]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343609</id>
-        <link href="https://www.odaily.news/ja/newsflash/343609"/>
-        <updated>2023-11-24T04:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Snapshot ページには、暗号化インフラストラクチャ開発者の Orbs が OIP-8 提案に対する投票を開始したことが示されています。この提案では、12月の新しいステーキングトークンに対する特別報酬を30%に増やすことで、進行中のステーキング報酬プロモーションの強度を高めることを望んでいます。この提案に対する投票は11月28日に終了する。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
