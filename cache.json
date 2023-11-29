@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=210205",
+          "author": "Daniel Kuhn",
+          "description": "イーサリアムの生みの親であるヴィタリック・ブテリン氏は11月27日、新しい「テクノ・オプティミズム（技術楽観主義）」の哲学を説明する長い長いブログを発表した。こ ...\nブテリン氏「技術楽観主義」の長文ブログを公開──今はベストな世界なのか？ さらに改善可能なのか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210205/",
+          "publishedOn": "2023-11-29T23:00:00.000Z",
+          "wordCount": 1140,
+          "title": "ブテリン氏「技術楽観主義」の長文ブログを公開──今はベストな世界なのか？ さらに改善可能なのか？",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/FSOGTSZX4RG55FALEQZTD2JWFM.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=210268",
           "author": "Camomile Shumba",
           "description": "イギリス政府は11月29日、暗号資産利用者に対し、罰則を避けるために未納のキャピタルゲインや所得に関する税額を自主的に申告するよう呼びかけ、その支払い方法に関す ...\nイギリス政府、暗号資産関連の税を自主的に申告するようユーザーに勧告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -344,6 +354,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=495216",
+          "author": "菊谷ルイス",
+          "description": "米国株は月末で小幅安。第3四半期の米実質国内総生産改定値は前期比で年率5.2%増に速報値の4.9%から上方修正され、21年10─12月期以来の高い伸びとなった。",
+          "link": "https://coinpost.jp/?p=495216",
+          "publishedOn": "2023-11-29T22:45:11.000Z",
+          "wordCount": 1966,
+          "title": "米3Q実質GDP+5.2％　来年5月までのFRB利下げ観測高まる｜30日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=495217",
+          "author": "K.Kobayashi",
+          "description": "サッカーのクリスティアーノ・ロナウド選手は、仮想通貨取引所バイナンスのプロモーションに関わったとして、米国で集団訴訟に直面。原告は、同社の有価証券販売に関与したなどと主張している。",
+          "link": "https://coinpost.jp/?p=495217",
+          "publishedOn": "2023-11-29T22:25:06.000Z",
+          "wordCount": 1914,
+          "title": "「バイナンスの有価証券販売に関与」サッカーのC・ロナウド選手、米国で集団訴訟に直面",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/Cristiano-Ronaldo-Binance.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/Cristiano-Ronaldo-Binance.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=495210",
           "author": "菊谷ルイス",
@@ -906,6 +946,26 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344350",
+          "author": null,
+          "description": "Odaily News スイスの資産管理会社パンド・アセットは、米国でビットコインのスポットETFを申請し、フォームS-1をSECに提出した。提出書類によると、このETFはCboe BZX取引所で取引され、Coinbaseが保管者として機能する。ビットコインの価格設定については、文書では CME の CF ビットコイン参照レートの使用について言及しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344350",
+          "publishedOn": "2023-11-29T22:36:25.000Z",
+          "wordCount": 1668,
+          "title": "スイスの資産管理会社パンド・アセットが米国でスポットビットコインETFの申請を提出",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344349",
+          "author": null,
+          "description": "Odaily News Bloombergのアナリスト、Eric Balchunas氏は、「バージョン」の物理的配送モデルの設計についてこう述べた。オリジナルおよび改訂された現物受け渡しモデルでは、ステップ 4 が変更されています。つまり、海外の現物マーケットメーカーは Coinbase からビットコインを取得し、それを米国に登録されているブローカーに事前に現金で支払います (これらのブローカーはエクスポージャを許可されていません)。ビットコインに）。",
+          "link": "https://www.odaily.news/ja/newsflash/344349",
+          "publishedOn": "2023-11-29T22:33:03.000Z",
+          "wordCount": 1669,
+          "title": "ブラックロックはETFについて議論するためにSECと再び会合し、修正されたモックアップデザインを披露",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344348",
           "author": null,
@@ -6814,46 +6874,6 @@
           "publishedOn": "2023-11-25T11:30:00.000Z",
           "wordCount": 1918,
           "title": "毎日のイブニングニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343778",
-          "author": null,
-          "description": "Odaily News IOTA 2.0 インセンティブとトークンエコノミクスのホワイトペーパーが最近リリースされました。ホワイトペーパーによると、IOTA 2.0は、包括的でアクセス可能な暗号通貨エコシステムを構築し、より広範なユーザーベースのデジタル自律性を達成するために、ネットワークを維持することへの報酬としてネットワークへのアクセスを提供します。 IOTA 2.0のリーダーレスコンセンサスにより、トークン所有者の手数料が不要になり、トークン所有者はトークンによって生成されたリソースマナを破壊して独自のブロックを生成できます。 IOTA 2.0 トークンノミクスは、ベース トークンではなくマナを使用してネットワークに参加するユーザーに報酬を与えることで、利益主導のバリデーターによる価値の捕捉と悪用を防ぎます。このアプローチは、インフレを解消し、トークンの一定供給を確保し、富の集中を防ぐことを目的としています。報酬をシステムのユーティリティに直接結び付けることで、早期採用者による継続的かつ長期的な参加も促進され、暗号通貨報酬の受け取りが制限されているユーザーにも対応できます。",
-          "link": "https://www.odaily.news/ja/newsflash/343778",
-          "publishedOn": "2023-11-25T11:20:31.000Z",
-          "wordCount": 1864,
-          "title": "IOTA 2.0インセンティブとトークンエコノミクス白書: トークン所有者手数料の撤廃とインフレの解消への取り組み",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191257",
-          "author": null,
-          "description": "猫NFT、開発ゲーム、ソーシャルライブストリーミング、AIGCを統合したスーパーペット開発のメタバース。",
-          "link": "https://www.odaily.news/ja/post/5191257",
-          "publishedOn": "2023-11-25T11:05:02.000Z",
-          "wordCount": 1983,
-          "title": "動物年齢ガイド: zkSync クラウドで猫を育てるための正しい姿勢",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343777",
-          "author": null,
-          "description": "Odaily News XRP Ledger の修正版「fixReducedOffersV1」がメインネットで有効化されました。 XRP Ledgerの修正プロセスでは、2週間のバリデーターサポートが80%を超えた後にのみプロトコルの変更が許可されており、この修正では要件が満たされています。 「fixReducedOffersV1」修正により注文効率の向上が期待されると報告されています。さらに、先週、XRP Ledgerは2つの新しい提案を受け取りました。1つはアカウントごとに複数の署名者リストをサポートする「XLS-49d: Multiple Signer Lists」、もう1つは小さな変更が提案された「0051 XLS-51d: NFToken Escrows」です。 NFTホスティングに対応します。 (U.今日)",
-          "link": "https://www.odaily.news/ja/newsflash/343777",
-          "publishedOn": "2023-11-25T10:40:52.000Z",
-          "wordCount": 1825,
-          "title": "注文効率の向上を目的として、XRPL「fixReducedOffersV1」修正がメインネットワークで有効化されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191167",
-          "author": null,
-          "description": "Blur の創設者である Pacman が立ち上げた新しい L2 ネットワークである Blast は、立ち上げ直後から TVL ですでに 2,700 万米ドルを超えています。この記事では、Blast の紹介とゲームプレイの解釈について説明します。",
-          "link": "https://www.odaily.news/ja/post/5191167",
-          "publishedOn": "2023-11-25T10:30:00.000Z",
-          "wordCount": 2050,
-          "title": "veDAO 研究所: お金と利子を与えて、Blur の創設者が立ち上げた新しい L2 Blast をプレイするにはどうすればよいですか?",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
