@@ -325,6 +325,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=494958",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）市場では、CME（米シカゴ・マーカンタイル取引所）の先物OIがバイナンスを上回る規模を拡大。CoinSharesのデータではビットコインETPなどの投資商品に21年11月以来最大の資金流入を観測した。",
+          "link": "https://coinpost.jp/?p=494958",
+          "publishedOn": "2023-11-29T03:40:00.000Z",
+          "wordCount": 1982,
+          "title": "ビットコイン投資商品9週連続の純流入、21年11月の「強気相場」以来最大規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/saylor-not-selling-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/saylor-not-selling-bitcoin.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=494952",
           "author": "AKIRA.H",
           "description": "ムーモリン社のビットコインマイニングプロジェクト「OCEAN」が620万ドル調達。ジャック・ドーシーも支援し、ブロック報酬をマイナーに直接分配する革新的なアプローチを採用。暗号資産（仮想通貨）ビットコインの分散化と発展に寄与。",
@@ -871,6 +886,116 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344198",
+          "author": null,
+          "description": "Odaily は、Pidun の監視によると、イーサリアム ネットワーク上で 70 ETH (約 143,800 米ドル) のガス料金を伴う送金が発生したと報じました。",
+          "link": "https://www.odaily.news/ja/newsflash/344198",
+          "publishedOn": "2023-11-29T04:19:44.000Z",
+          "wordCount": 1771,
+          "title": "Paidun: イーサリアム ネットワーク上で 70 ETH のガス転送が発生しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344197",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、DWF Labs は DWF Ventures と共同で最初の 2024 年 Web3 インキュベーション プログラムを開始し、SocialFi、ZK、トレーディング、デリバティブなどの分野の分散型アプリケーション (DApp) を含む初期の創業者や新興企業を参加に招待します。 BTCエコシステムのインフラストラクチャ。 DWF Labs は、製品開発、ガイダンスとコンサルティング、市場参入戦略の 3 つの主要分野で包括的なサポートを提供します。登録提出の締め切りは、2024 年 1 月 5 日 8:00 UTC です。",
+          "link": "https://www.odaily.news/ja/newsflash/344197",
+          "publishedOn": "2023-11-29T04:10:41.000Z",
+          "wordCount": 1801,
+          "title": "DWF Labs と DWF Ventures が Web3 インキュベーション プログラムを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344196",
+          "author": null,
+          "description": "Odailyは、TheDataNerdのモニタリングによると、過去18時間に、0x6daで始まるクジラアドレスが平均価格0.53ドルで合計420万BLUR（約222万ドル）をBinanceから引き出し、すべてのBLURを約束したと報じた。さらに、このアドレスは 150,000 ドル相当の ETH を Blast にステークしています。",
+          "link": "https://www.odaily.news/ja/newsflash/344196",
+          "publishedOn": "2023-11-29T04:07:41.000Z",
+          "wordCount": 1748,
+          "title": "クジラがバイナンスから420万BLURを引き出し、それを約束した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344195",
+          "author": null,
+          "description": "Odaily は、Lookonchain の監視によると、クジラ/機関が 10 時間前に再び 500,000 LDO (約 117 万ドル) を Binance に入金し、現在 360 万 LDO (約 840 万ドル) を保有していると報じました。クジラはほとんどの場合、価格のピーク時に LDO を販売していると報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344195",
+          "publishedOn": "2023-11-29T04:02:37.000Z",
+          "wordCount": 1775,
+          "title": "クジラ/機関が再び 500,000 LDO をバイナンスに入金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344194",
+          "author": null,
+          "description": "",
+          "link": "https://www.odaily.news/ja/newsflash/344194",
+          "publishedOn": "2023-11-29T04:02:03.000Z",
+          "wordCount": 1749,
+          "title": "Lisk (LSK) ネットワークアップグレードとハードフォークのサポートに関するお知らせ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344193",
+          "author": null,
+          "description": "Odaily News CoinGecko のデータによると、USDT の市場総額は 891 億 2,700 万米ドルを超え、引き続き過去最高を記録しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344193",
+          "publishedOn": "2023-11-29T03:58:56.000Z",
+          "wordCount": 1759,
+          "title": "USDTの市場総額は890億米ドルを超え、引き続き最高値を更新",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344192",
+          "author": null,
+          "description": "Odaily News P2E チェーン ゲーム Pixels は、ギルド システムの V1 バージョンの開始を発表しました。このシステムは、friend.tech や Stars Arena などのプロジェクトからインスピレーションを得て、新しい形式のコミュニティ構築を導入し、それを Pixels のゲームプレイに統合することを目的としています。ギルドメンバーシップは、2024 年 12 月または 2024 年 1 月にオンラインになります。プレイヤーはメンバーシップを購入してギルドに参加できます。メンバーシップの価格は結合曲線によって決まります。ユーザーは、結合曲線によって決定される価格でメンバーシップを販売することもできます。メンバーシップの売買に対する 5% の税金は、ギルドとピクセルで折半されます。 2024 年 1 月には、ギルドにランキング メカニズムが導入され、プレイヤーは複数のギルドに参加し、複数のメンバーシップを購入できますが、主なメンバーシップが存在するギルドがユーザーの「アクティブなギルド」になります。ギルド ゲームプレイは 2024 年 2 月に開始されます。ギルドウォッチリストがオンラインになりました。ギルドはメンバーを募集し、コミュニティを形成し始めることができます。ウォッチリストの上位 20 位の最大ギルドには、無料のギルドチャーターとギルド機能への早期アクセスが与えられます。ギルドは、ピクセルの公式 Web サイトを通じてギルド ハンドルを 50,000 ベリーで購入できるようになりました。これらのギルド ハンドルは現在オフチェーンであり、譲渡できません。ギルドはギルド憲章を取得した後にのみメンバーの受け入れを開始することができ、ギルド憲章はPIXELトークンの発行時にPIXELの形で販売されます。",
+          "link": "https://www.odaily.news/ja/newsflash/344192",
+          "publishedOn": "2023-11-29T03:54:20.000Z",
+          "wordCount": 1852,
+          "title": "チェーンゲーム Pixels がギルド システムの V1 バージョンを開始、プレイヤーはメンバーシップを売買できるようになります",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191316",
+          "author": null,
+          "description": "今週の重要な業界情報を簡単にご覧いただけます。",
+          "link": "https://www.odaily.news/ja/post/5191316",
+          "publishedOn": "2023-11-29T03:52:23.000Z",
+          "wordCount": 4226,
+          "title": "LDキャピタルトラックウィークリーレポート（2023/11/28）",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344191",
+          "author": null,
+          "description": "デイリーニュース「フォーブス」は、今年発売されたリストデータ「Under 30」シリーズが初めてイーサリアムチェーンに上場されると発表した。リスト上のすべてのカテゴリとプロフィールはオンチェーンに記録され、これらの傑出した人物の業績とストーリーが永久に保存されることが保証されます。フォーブス誌の「30 歳未満の 30 人」リストには、アート、エンターテイメント、小売および電子商取引、金融、投資を含む 20 のカテゴリーが含まれています。 「30 Under 30 Finance 2024」リストの審査員には、Circle の共同創設者兼 CEO の Jeremy Allaire 氏が含まれており、選ばれた Web3 実践者には、Injective Labs の創設者である Eric Chen 氏と Albert Chon 氏、Fractal の共同創設者兼共同 CEO、sei Labs のアヤ カントロビッチ氏が含まれています。創設者の Jayendra Jog 氏と Jeff Feng 氏、Layer3 の共同創設者 Dariya Khojasteh 氏と Brandon Kumar 氏など。",
+          "link": "https://www.odaily.news/ja/newsflash/344191",
+          "publishedOn": "2023-11-29T03:42:01.000Z",
+          "wordCount": 1833,
+          "title": "フォーブス誌の最新の「30歳未満」リストのデータがイーサリアムに掲載される",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344190",
+          "author": null,
+          "description": "オンチェーンアナリスト@ai_9684xtpaによるOdailyの監視によると、ETHクジラは1時間前にチェーン上で973 ETH（199万米ドル相当）を購入コスト2,047米ドルで購入しました。巨大クジラは 9 月以来 ETH でポジションを構築し続けており、これまでに合計 27,257 ETH を購入し、平均コストは 1,717 米ドル、変動利益は約 906 万米ドルとなっています。クジラの資産は最大1億5,000万米ドル相当（DeFi資産を含む）で、423万米ドル相当のLDOと227万米ドル相当のLINKも保有している。",
+          "link": "https://www.odaily.news/ja/newsflash/344190",
+          "publishedOn": "2023-11-29T03:25:01.000Z",
+          "wordCount": 1777,
+          "title": "巨大なクジラは再び973 ETHを購入し、合計27,257 ETHを購入し、約906万米ドルの浮動利益を上げました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344189",
+          "author": null,
+          "description": "Odaily News ByteDanceは大型モデル製品ChitChopを海外でローンチ、開発・運営会社はPOLIGON、Byteの海外ソーシャル製品Heloも同社が運営し、独立したアプリ版とウェブ版をローンチした。 ChitChop は、創造的なインスピレーションを提供し、作業効率を向上させることで、ユーザーの仕事と生活に役立つ最大 200 以上のインテリジェント ロボット サービスをユーザーに提供できる人工知能アシスタント ツールであると報告されています。なお、この製品はDouyin Groupが所有するAI製品「Little Wukong」と類似しており、どちらもSkylarkの大規模言語モデルに基づいて作成されたAIツールのコレクションです。 (TechOdaily)",
+          "link": "https://www.odaily.news/ja/newsflash/344189",
+          "publishedOn": "2023-11-29T03:22:22.000Z",
+          "wordCount": 1767,
+          "title": "ByteDanceが大型モデル製品ChitChopを海外で発売",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344188",
           "author": null,
@@ -5960,36 +6085,6 @@
           "wordCount": 1742,
           "title": "CertiK: Elastic の computeSwapStep() 関数の実装に KyberSwap の脆弱性が存在します",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343707",
-          "author": null,
-          "description": "Odaily は、Lookonchain の監視によると、3 年間休眠していた ETH ICO 参加者が 4 時間前に自分の住所から 20,000 ETH (約 4,240 万米ドル) を送金したと報じました。クジラはETHのジェネシスで100,000 ETHを取得したと報告されています（費用は約31,000米ドル、ICO価格は0.31米ドル）。",
-          "link": "https://www.odaily.news/ja/newsflash/343707",
-          "publishedOn": "2023-11-24T16:13:15.000Z",
-          "wordCount": 1781,
-          "title": "ETH ICO 参加者は、3 年間の休眠期間を経て、20,000 ETH、約 4,240 万米ドルを送金しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343706",
-          "author": null,
-          "description": "Odaily News CoinGecko のデータによると、ネットワーク全体の仮想通貨の市場価値の合計は 24 時間で 2.9% 増加し、1 兆 5,070 億米ドルに回復しました。現在のビットコインの市場価値総額は7,479億米ドル、イーサリアムの市場価値総額は2,553億米ドルです。",
-          "link": "https://www.odaily.news/ja/newsflash/343706",
-          "publishedOn": "2023-11-24T16:02:51.000Z",
-          "wordCount": 1768,
-          "title": "ネットワーク全体にわたる仮想通貨の市場価値の総額は 1 兆 5,000 億米ドルを超えました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343705",
-          "author": null,
-          "description": "Odaily News Ouyi OKX 市場は、LOOKS トークンが 24 時間で 40% 以上上昇し、最大 0.1236 USDT に達し、現在の価格は 0.121 USDT であることを示しています。この増加は、LOOKS トークンの破棄開始に関する LooksRare の公式発表に関連している可能性があります。",
-          "link": "https://www.odaily.news/ja/newsflash/343705",
-          "publishedOn": "2023-11-24T16:00:45.000Z",
-          "wordCount": 1763,
-          "title": "LOOKSは24時間で40%以上上昇し、現在の価格は0.12 USDTです",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -5998,6 +6093,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=355516",
+          "author": "OtsugaShinya",
+          "description": "オーケーコインジャパンにDOGE上場へ 国内暗号資産（仮想通貨）取引所オーケーコインジャパン（OKCoinJapan）が、暗号資産ドージコイン（DOGE）の取り扱い予定を11月28日発表した。取り扱い開始は12月下旬を予 […]",
+          "link": "https://www.neweconomy.jp/posts/355516",
+          "publishedOn": "2023-11-29T03:34:07.000Z",
+          "wordCount": 797,
+          "title": "オーケーコインジャパンにドージコイン（DOGE）上場へ、国内9例目",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/29123358/OK-DOGE-20231129Ninja-Studio.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=355498",
           "author": "gentosha_takahashi",
