@@ -2,10 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-29T13:26:00.737Z</updated>
+    <updated>2023-11-29T14:24:34.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sei の V2 アップグレードで EVM のサポートを追加]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344311</id>
+        <link href="https://www.odaily.news/ja/newsflash/344311"/>
+        <updated>2023-11-29T14:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Sei は V2 アップグレードでイーサリアム仮想マシン (EVM) のサポートを追加し、開発者が Ethereum ベースのコントラクトを Sei ネットワークに移植できるようにします この機能を追加するために、sei V2 は Geth をマージします。 Sei Labs は、sei の既存のスマート コントラクト コンポーネント (CosmWasm テクノロジーに基づく) と EVM コンポーネントの相互作用を促進するための特殊なインターフェイスを開発したと述べました。 CosmWasm は、チェーンが Cosmos エコシステムでスマート コントラクトを実行できるようにするカスタム Cosmos SDK モジュールです。 V2 により、チームは EVM と Sei ネットワークの効率的な統合を実現します。 （ブロック）]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coin98がStarship統合を発表]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344310</id>
+        <link href="https://www.odaily.news/ja/newsflash/344310"/>
+        <updated>2023-11-29T14:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Coin98は、Xプラットフォーム上でマルチチェーン資金調達プラットフォームStarshipを統合したことを記載した文書を正式に発行し、ユーザーは組み込みのDAppブラウザまたはCoin98コンピュータのDAppブラウザでStarshipにアクセスできるようになりました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融サービス会社SoFiが仮想通貨分野から撤退すると発表、ユーザーは新規口座開設できなくなる]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344309</id>
+        <link href="https://www.odaily.news/ja/newsflash/344309"/>
+        <updated>2023-11-29T14:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 金融サービス会社 SoFi Technologies は、SoFi の顧客が新しい暗号通貨アカウントを開設できなくなるとの通知を発行しました。既存の仮想通貨顧客は、12 月 19 日までに保有する仮想通貨を Blockchain.com に移行する必要があり、移行しない場合、残りの残高は清算されます。 SoFi は、2011 年に設立されたサンフランシスコを拠点とする金融サービス会社です。同社はもともと学生ローンの借り換えビジネスで知られていましたが、そのサービスを個人ローン、クレジット カード、住宅ローン、投資口座などに拡大しました。 (ブルームバーグ)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ava Labs が CBER Forum と提携して Crypto Scholar Blog を立ち上げる]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344308</id>
+        <link href="https://www.odaily.news/ja/newsflash/344308"/>
+        <updated>2023-11-29T14:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Ava Labsは公式ブログで、CBERフォーラムと協力して「Crafting the Crypto Economy」ブログシリーズを開始すると発表した。このシリーズのブログでは、主要な学術機関のトップ研究者とさまざまな重要な研究について徹底的な議論が行われる融資プラットフォームの経済学、DEX デザイン、NFT などのトピック]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accreal、Alchemy Venturesの参加によりシードラウンドで385万米ドルの資金調達を完了]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344307</id>
+        <link href="https://www.odaily.news/ja/newsflash/344307"/>
+        <updated>2023-11-29T14:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 暗号化金融オペレーティング システム会社 Accreal は、Alchemy Ventures、OrangeDAO、Soma Capital、Messari 創設者 Ryan Selkis、Nium 創設者 Prajit Nanu らの参加を得て、385 万ドルのシードラウンドを完了しました。 Acctual は、暗号通貨スタートアップに請求書管理ソフトウェアを提供して、支払いが正しいベンダーまたは暗号通貨ウォレットのアドレスに行われることを確認し、請求書を監視および承認し、暗号通貨の請求書と支払いを Quickbooks または Zero に同期して詐欺やスパムを削減します。 (テッククランチ)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワームホール、評価額25億ドルで2億2500万ドルの資金調達を発表]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344306</id>
+        <link href="https://www.odaily.news/ja/newsflash/344306"/>
+        <updated>2023-11-29T14:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Odaily News クロスチェーン相互運用性プロトコル Wormhole は、Brevan Howard、Coinbase Ventures、Multicoin Capital、ParaFi、Dialectic、Borderless Capital、Arrington Capital、Jump の参加により、評価額 25 億米ドルで 2 億 2,500 万米ドルを調達したと発表しました。取引。 （運）]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix LLM が Telegram で開始されました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344305</id>
+        <link href="https://www.odaily.news/ja/newsflash/344305"/>
+        <updated>2023-11-29T14:01:31.000Z</updated>
+        <summary type="html"><![CDATA[人工知能サービス専用の分散型インフラストラクチャである Odaily News Phoenix は、同社の大規模モデル サービス Phoenix LLM が Telegram でオンラインになり、Phoenix の分散型人工知能プラットフォーム SkyNet を利用していると発表しました。ユーザーは SkyNet アカウントを Telegram に接続してサービスを体験できます。関係者は、将来的には Telegram エコシステム内にさらに多くのアプリケーションを統合することも計画していると述べました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公開販売トークンを燃やしますか? BSSBの“フェア”セールイベント「BTCエコロジー」を詳しく解説]]></title>
+        <id>https://www.odaily.news/ja/post/5191344</id>
+        <link href="https://www.odaily.news/ja/post/5191344"/>
+        <updated>2023-11-29T13:58:01.000Z</updated>
+        <summary type="html"><![CDATA[その「科学者」がついにプロジェクト一行から制裁を受けた！]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lookonchain: Fetch.ai Foundation が 1,000 万個の FET を新しいアドレスに転送]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344303</id>
+        <link href="https://www.odaily.news/ja/newsflash/344303"/>
+        <updated>2023-11-29T13:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Lookonchain の監視によると、Fetch.ai 財団は 10 分前に 1,000 万 FET (約 530 万米ドル) を新しい住所に転送しました。最後に FET を転送したのは昨年 10 月 26 日で、財団は 10 個の FET を転送しました。バイナンスに100万FET。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソーラー、第3四半期レポートを発表]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344302</id>
+        <link href="https://www.odaily.news/ja/newsflash/344302"/>
+        <updated>2023-11-29T13:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News DPoS 決済ネットワークである Solar Network は、公式ブログで第 3 四半期レポートを発表し、HTX Global Mars Plan のスポンサーシップ、ホワイト ペーパーの更新、モバイルおよびデスクトップ ウォレットの更新など、過去数か月間で完了した作業を要約しました。同時に、関係者は、Solar Virtual Machine と Core V5.0 に関するニュースが間もなくリリースされると述べました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[suzhu.eth アドレスは 2 か月以上後に変更されました。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344301</id>
+        <link href="https://www.odaily.news/ja/newsflash/344301"/>
+        <updated>2023-11-29T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Etherscan データは、ENS ドメイン名 suzhu.eth のアドレスが 2 か月以上経った今日変更されたことを示しています (最後のトランザクションは 9 月 21 日に発生しました)。アドレスは最初に Gearbox から 375 万 2000 GEAR を請求し、その後すべての GEAR を交換しましたCOWSwap 経由で 14.5 ETH の場合。 suzhu.ethアドレスの実際の管理者が誰なのかは現時点では不明であり、Su Zhu氏自身も今年9月28日にシンガポールのチャンギ空港で逮捕され、懲役4か月が予想されていたことは言及しておくべきだろう。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先週、デジタル資産投資商品には3億4,600万米ドルの流入があり、9週連続の純流入となった。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344300</id>
+        <link href="https://www.odaily.news/ja/newsflash/344300"/>
+        <updated>2023-11-29T13:45:38.000Z</updated>
+        <summary type="html"><![CDATA[CoinSharesが発表したデータによると、先週デジタル資産投資商品は3億4,600万米ドルが流入し、4週連続の純流入となった｡先週のビットコインの流入総額は3億1,200万米ドルで、年初からの流入額は15億米ドルを超えた。イーサ 同社への先週の流入額は3,400万ドルで、4週間の流入額は1億300万ドルとなった。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第３・四半期の米国の実質ＧＤＰの四半期年率改定値は５．２％となり、２０２２年第３・四半期以来の高水準となった。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344299</id>
+        <link href="https://www.odaily.news/ja/newsflash/344299"/>
+        <updated>2023-11-29T13:36:58.000Z</updated>
+        <summary type="html"><![CDATA[デイリーニュース 11月29日、第3四半期の米国の実質GDPの四半期年率改定値は5.2％（予想5.00％、前回値4.90％）と、2022年第3四半期以来の高水準を記録した。 （ジンシファイナンス）]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Okta: 2 か月前のサイバー攻撃で、ハッカーがカスタマー サポート システムからすべてのユーザー情報を盗みました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344298</id>
+        <link href="https://www.odaily.news/ja/newsflash/344298"/>
+        <updated>2023-11-29T13:36:51.000Z</updated>
+        <summary type="html"><![CDATA[ID およびアクセス管理ソフトウェアのプロバイダーである Okta は、ハッカーが 2 か月前のサイバー攻撃で同社のカスタマー サポート システムの全ユーザーの情報を盗んだことを認めました。ハッカーは、カスタマー サポート システムを使用したすべての顧客の名前や電子メール アドレスなどのデータを含むレポートをダウンロードしました。 (ロイター)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOTAの24時間での最高値上昇率は62%に達し、現在の価格は0.236 USDTです]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344297</id>
+        <link href="https://www.odaily.news/ja/newsflash/344297"/>
+        <updated>2023-11-29T13:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News OKX 市場では、IOTA が 24 時間で最大 62% に達し、最大 0.2769 USDT に達したことが示されています。現在の上昇率は 37.97% に戻り、現在の価格は 0.236 USDT です。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WadzPayがインドネシア巡礼金融当局と提携]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344296</id>
+        <link href="https://www.odaily.news/ja/newsflash/344296"/>
+        <updated>2023-11-29T13:26:03.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 暗号化決済会社 WadzPay は、巡礼者向けにカスタマイズされたシームレスでキャッシュレスで強力な支払い受付システムを提供するために、インドネシア巡礼金融庁 (BPKH) と提携に至ったと X プラットフォームに投稿しました。 WadzPayの最高経営責任者（CEO）アニッシュ・ジェイン氏は、「BPKHのビジョンとWadzPayのブロックチェーンベースの巡礼者支払いプログラムを組み合わせることで、巡礼者に力を与え、取引を簡素化し、彼らの旅を豊かにすることを目指している」と述べた。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスのビットコイン建玉が40億ドルを突破]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344295</id>
+        <link href="https://www.odaily.news/ja/newsflash/344295"/>
+        <updated>2023-11-29T13:25:43.000Z</updated>
+        <summary type="html"><![CDATA[デイリーニュース Coinglass のデータによると、Binance ビットコイン先物の建玉は 109,200 BTC、約 41 億 7,200 万米ドルに達し、ネットワーク全体の約 23.62% を占め、依然として CME ビットコイン先物の建玉には及ばない。オープンポジションは116,000BTC（約44億3,200万米ドル）に達し、現在のビットコイン先物建玉ランキングは3位から5位：Bybit（28億7,900万米ドル）、OKX（20億2,100万米ドル）、Bitget（11億8,900万米ドル） 。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オークションは 24 時間で 18.48% 上昇し、価格は 13.18 USDT でした]]></title>
         <id>https://www.odaily.news/ja/newsflash/344294</id>
@@ -6968,46 +7138,6 @@ NFTプラットフォームのBLUR、バイナンス採用と楽観主義で22%�
         <link href="https://www.odaily.news/ja/newsflash/343731"/>
         <updated>2023-11-25T02:26:50.000Z</updated>
         <summary type="html"><![CDATA[Odaily News MicroStrategy (MSTR) の株価は金曜日、2022 年 1 月中旬以来の新高値となる 520.24 ドルで終了し、市場価値は 75 億 5,300 万ドルを超えました。以前のニュースによると、MicroStrategyの共同創設者マイケル・セイラー氏は最近、2023年オーストラリア暗号通貨カンファレンスでBTCの将来の開発軌道に関する包括的な見通しを述べました。同氏は2024年のBTC半減期イベントについて語り、来年はBTCにとって極めて重要な年となり、来年末までにはBTCが「思春期段階の主流資産」になるだろうと予測した。セイラー氏は2024年から2028年に向けて、BTCが高度成長段階に入ると予想しており、世界の大手テクノロジー産業や大手銀行がBTCを広く採用し、それぞれの製品やサービスに統合すると予想している。さらに同氏は、JPモルガン・チェース、モルガン・スタンレー、ゴールドマン・サックス、バンク・オブ・アメリカ、ドイツ銀行などの大手金融機関がローン発行、住宅ローンの提供、カスタマイズ、ビットコインの売買などの活動に関与している可能性があると指摘した。セイラー氏は、約 25 年の長期的な観点から、BTC がすべての高品質資産を支配し、SP 500 の成長と多様化したポートフォリオを上回る可能性を強調すると予測しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless Lianchuang: BanklessDAO は Bankless から完全に独立した組織です。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343730</id>
-        <link href="https://www.odaily.news/ja/newsflash/343730"/>
-        <updated>2023-11-25T02:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Banklessの共同創設者Ryan Sean Adamsは、ArbitrumからARB資金を申請するというBanklessDAOの提案に人々が憤慨しており、BanklessDAOとBanklessを混同しているとXプラットフォームに投稿した。しかし、BanklessDAO は Bankless から完全に独立した存在であり、真のコミュニティ DAO です。ライアン氏、同じく共同創設者のデビッド・ホフマン氏、およびバンクレス氏はDAOから金銭的利害関係を持たず、BANKトークンを販売したこともなく、DAOのガバナンス投票にも参加していない。ライアンとデビッドは、DAOとバンクレスの価値観を共有する人々がブランドを自由に使用することを許可していますが、そうすることが混乱を引き起こす可能性があり、将来的にアプローチの調整が必要になる可能性があることを二人は認識しています。これに関して、暗号通貨KOLのUdi Wertheimer氏は、DAOの名前は直接変更できると述べ、ライアン氏は冗談を言った：「分かった、今はUdi DAOに名前が変更された。」 昨日のニュース、BanklessDAOは12か月の活動を実行するためにArbitrumに182万のARB割り当てを要求した。この資金は、組織がユーザーを認識から専門知識に導き、導入をさらに促進するのに役立ちます。このイベントは、開発者、DeFi愛好家、ゲーマーという3つの主要な聴衆に焦点を当てます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[veDAO研究所：DMT理論に基づくNATとは一体何でしょうか？]]></title>
-        <id>https://www.odaily.news/ja/post/5191217</id>
-        <link href="https://www.odaily.news/ja/post/5191217"/>
-        <updated>2023-11-25T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DMT理論とは、データに存在する固有のパターンによってユーザーが価値のあるデジタルフォームを作成できるというデジタルマテリアル理論のことであり、これに基づくNATはDMT理論を応用したものです。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毎日の朝のニュース]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343729</id>
-        <link href="https://www.odaily.news/ja/newsflash/343729"/>
-        <updated>2023-11-25T01:50:21.000Z</updated>
-        <summary type="html"><![CDATA[1. CZ は裁判所に「判決前に UAE への帰国を許可されるべきである」との文書を提出、弁護士は CZ には逃亡の危険性はないと述べた; 2. パックマン: パラダイムはブラストの市場戦略に全く参加していない; 3. Blast：1週間以内に置き換え1 セキュリティを強化するマルチシグネチャアドレスを備えたハードウェアウォレットタイプ; 4. L2 Network Blast開始4日目でTVLは4億4,300万ドル、ユーザー数は5万2千人を突破; 5. Kyber Network: 攻撃により、約 5,470 万米ドルが盗まれた。ハッカーとの交渉により、返還の報奨金の 10% が提供される; 6. 5 つのアドレスで、合計 2,186 万 MATIC の生態成長割り当てがネットワークに転送されたBinance; 7. MakerDAO はパラメーター変更提案を開始し、DSR を 3.93% に下げる計画を立てました; 8. 香港デジタル研究所は、香港証券先物委員会によって疑わしい仮想資産取引プラットフォームのリストに含まれました; 9. BMCはすべての入金機能を停止し、バイハラはAIに変身すると発表; 10. ビットコイン、トークンの収益化と取引依存症に焦点を当てた暗号ドキュメンタリー「ブルラン」が初公開; 11. あるクジラが1,957を入金3つのウォレットを通じてWBTCがバイナンスに送金; 12. ETH ICO参加者が3年間の休眠後に2万ETH、約4,240万米ドルを送金; 13. スクウェア・エニックスはNFTゲームSymbiogenesisのオークションを開始しようとしている。 12 月にリリース予定; 14. Avalanche: Snowtrace の新しいブラウザの移行は 11 月 27 日から 30 日まで実施されます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析：USDTクジラの購買力が増加し続ければ、ビットコインの価格は4万ドルを超えると予想される]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343728</id>
-        <link href="https://www.odaily.news/ja/newsflash/343728"/>
-        <updated>2023-11-25T01:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Santimentのデータによると、ビットコインの価格は2022年5月5日以来初めて3万8300ドルに達した。多くの貢献者の中で、トップ 100 の最大手テザー (USDT) アドレスは、6 か月で 16 億 7,000 万ドルの USDT を蓄積し、購買力が 9.7% 増加しました。クジラのUSDTの購買力が増加し続ければ、ビットコインの価格は間もなく4万ドルを超える可能性があります。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
