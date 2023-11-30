@@ -12,6 +12,36 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=210395",
+          "author": "松田康生",
+          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2023/11/30）ビットコイン、テクニカルは引き続き弱め：楽天ウォレット first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210395/",
+          "publishedOn": "2023-11-30T22:00:19.000Z",
+          "wordCount": 1254,
+          "title": "マトリックス法によるテクニカル分析（2023/11/30）ビットコイン、テクニカルは引き続き弱め：楽天ウォレット",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/tr-thumb_231130.png"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=210364",
+          "author": "Sam Reynolds",
+          "description": "暗号資産（仮想通貨）は強気市場の領域に少しずつ近づいているが、NFT（非代替トークン）は市場の高揚感から恩恵を受けることができていない。 イーサリアム（ETH） ...\nNFTはイーサリアムの上昇に追いついていない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210364/",
+          "publishedOn": "2023-11-30T22:00:00.000Z",
+          "wordCount": 1198,
+          "title": "NFTはイーサリアムの上昇に追いついていない",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/BP53PLIFWZBG7EMCM5LXAB3H24.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=210344",
+          "author": "Amitoj Singh",
+          "description": "暗号資産（仮想通貨）投資プラットフォームのFassetが、ドバイで暗号資産サービス・プロバイダー（VASP）のライセンスを取得し、機関投資家、適格投資家、個人投 ...\n暗号資産投資プラットフォームのFasset、ドバイで運用ライセンスを取得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210344/",
+          "publishedOn": "2023-11-30T21:30:00.000Z",
+          "wordCount": 1119,
+          "title": "暗号資産投資プラットフォームのFasset、ドバイで運用ライセンスを取得",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/10/shutterstock_773204917.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=208342",
           "author": "山口 晶子",
           "description": "ステーブルコインとは、米ドルなどの原資産に連動することで安定した価値を維持するように設計された暗号資産（仮想通貨）で、価格ボラティリティを伴わずに暗号資産の柔軟 ...\nステーブルコイン、不安定さを克服できるか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -334,6 +364,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=495356",
+          "author": "菊谷ルイス",
+          "description": "韓国最大手仮想通貨取引所Upbitは30日、銘柄SPACE ID（ID）をBTC建て通貨ペアとして新規上場した。上場ニュースを受けてIDは一時30%急騰。",
+          "link": "https://coinpost.jp/?p=495356",
+          "publishedOn": "2023-11-30T22:15:27.000Z",
+          "wordCount": 1897,
+          "title": "韓国Upbit、仮想通貨「SPACE ID」新規上場　一時30%高",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/space-id-upbit.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/space-id-upbit.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=495352",
+          "author": "菊谷ルイス",
+          "description": "米SECは新たに、フィデリティの仮想通貨現物イーサリアム（ETH）のETF上場申請について、パブリックコメントを募集し始めた。",
+          "link": "https://coinpost.jp/?p=495352",
+          "publishedOn": "2023-11-30T21:30:29.000Z",
+          "wordCount": 1923,
+          "title": "米SEC、フィデリティのイーサリアムETF上場申請で審査開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/fidelity-expanding-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/fidelity-expanding-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=495346",
           "author": "菊谷ルイス",
@@ -8054,46 +8114,6 @@
           "publishedOn": "2023-11-26T10:42:35.000Z",
           "wordCount": 1833,
           "title": "カーブ: CRV/ETH、alETH、または msETH の賞金プールに参加している場合は、アドレスが更新されたリストに含まれているかどうかを確認してください。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343864",
-          "author": null,
-          "description": "Odaily News LSD ステーブルコイン プロトコル Prisma Finance が掲載されましたmkUSD は Prisma Finance の過担保ステーブルコインであり、ユーザーは担保の鋳造にリキッド プレッジ トークン wstETH、rETH、cbETH、sfrxETH を使用できます。",
-          "link": "https://www.odaily.news/ja/newsflash/343864",
-          "publishedOn": "2023-11-26T10:16:41.000Z",
-          "wordCount": 1818,
-          "title": "Prisma Finance: PIP-009 提案が可決され、sfrxETH の負債制限が 5,000 万ドルに増加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191258",
-          "author": null,
-          "description": "FRBはもはや景気後退の可能性は考えていない、と述べている。",
-          "link": "https://www.odaily.news/ja/post/5191258",
-          "publishedOn": "2023-11-26T10:00:00.000Z",
-          "wordCount": 1632,
-          "title": "PSE取引：FRBはBTCのソフトランディングを期待",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343863",
-          "author": null,
-          "description": "Odaily News ORC-20 Nirvana は、ビットコインブロック高さ 818418 でのマッピングとアップグレードを完了しました。このうち、スナップショットはブロック高さ 818418 で取得され、ブロック高さ 818419 で作成および発行されました。",
-          "link": "https://www.odaily.news/ja/newsflash/343863",
-          "publishedOn": "2023-11-26T09:49:37.000Z",
-          "wordCount": 1800,
-          "title": "ORC-20 ニルヴァーナはビットコインブロック高さ 818418 でのマッピングとアップグレードを完了しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343861",
-          "author": null,
-          "description": "Odaily の報道によると、エンバー・モニターによると、ここ数日の APE の上昇により、Maji 氏の長兄である Huang Licheng 氏が保有する APE は現在資本を回復し、283 万米ドルの変動利益を上げており、Maji 社は 8 月からの 3 か月間で上昇を続けているAPE の購入と誓約により、合計 859 万米ドルが 577 万台の APE の購入に費やされ、平均原価は 1.49 米ドルでした。過去数か月間の彼のステーキング収入を含めると、平均原価は 1.31 米ドルになります。 8月以降、APEは2ドルから1ドルになりました。",
-          "link": "https://www.odaily.news/ja/newsflash/343861",
-          "publishedOn": "2023-11-26T09:25:26.000Z",
-          "wordCount": 1826,
-          "title": "Huang Licheng が保有する APE は現在資本を回収し、283 万米ドルの変動利益を上げています。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
