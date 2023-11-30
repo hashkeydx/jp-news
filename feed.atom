@@ -2,10 +2,160 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-11-30T14:26:37.746Z</updated>
+    <updated>2023-11-30T15:23:09.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dencun は Goerli にデプロイされる最後のフォークとなり、クライアント チームとテスト チームは有効化から数か月以内にバリデーターを廃止する予定です]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344522</id>
+        <link href="https://www.odaily.news/ja/newsflash/344522"/>
+        <updated>2023-11-30T15:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News イーサリアム財団ブログの最新記事によると、今後数か月以内に、イーサリアム初のマルチクライアント テスト ネットワークである Goerli は、クライアントおよび EF テスト チームからのサポートを停止する予定です。 Dencun ネットワークのアップグレードは、ネットワークに実装される最後のアップグレードになります。 Goerli Dencun がアクティブ化されてから 3 か月後、または Dencun メインネットがアクティブ化されてから 1 か月後 (どちらか遅い方) に、チームはバリデーターの引退を開始するため、安定したテストネットとして Goerli に依存している開発者はそれまでに移行する必要があります。同財団は、プロトコルレベルのテストに関心のある関係者やインフラプロバイダーに対し、新しく立ち上げられたHoleskyテストネットを使用することを推奨している。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMEの現在のビットコイン先物建玉は19億8000万ドルと過去最高を記録]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344520</id>
+        <link href="https://www.odaily.news/ja/newsflash/344520"/>
+        <updated>2023-11-30T15:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News CME のビットコイン先物建玉は過去最高を記録 The Block のデータによると、CME のビットコイン先物建玉は 10 月末の 10 億 4,000 万米ドルから現在 19 億 8,000 万米ドルに増加しており、その数字は 1.67 ドルを超えていますビットコインが6万8000ドルの高値に達した2021年11月の10億契約記録。先物契約の建玉の増加は、現在の契約が12月最終金曜日に期限切れになるときにビットコイン価格が上昇することを示している可能性がある。 （ブロック）]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft が支援するブロックチェーン ゲーム会社である Horizo​​n が、NFT などのゲーム内統合を簡素化するシーケンス ビルダーを開始]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344518</id>
+        <link href="https://www.odaily.news/ja/newsflash/344518"/>
+        <updated>2023-11-30T15:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Odaily のチェーン ゲーム会社である Horizo​​n Blockchain Games は、ゲーム開発者向けのフルスタック ダッシュボードである Sequence Builder を立ち上げました。これは、ビデオ ゲームにブロックチェーン要素 (NFT など) を追加するための Unreal Engine や Unity などの人気のあるエンジンの使用をサポートします。 。 Sequence Builderにより、ゲーム開発者は既存のNFTシリーズをゲームに統合したり、暗号化ウォレット接続機能を追加したり、ゲーム内暗号化トランザクションガス料金の前払いをサポートしたり、ホワイトラベルNFTマーケットを立ち上げたりすることができます。同社によれば、将来的にはNFTミント機能が追加され、Solanaにも拡張される可能性がある（現時点ではイーサリアムのみ対応）。暗号化インフラストラクチャおよびゲーム開発会社である Horizo​​n Blockchain Games は、以前に NFT トレーディング カード ゲーム Skyweaver をローンチし、昨年シリーズ A で 4,000 万米ドルの資金調達を完了したと報告されており、Brevan Howard Digital と Morgan Creek Digital が投資を主導し、よく-有名なビデオゲーム会社ユービーアイソフトとテイクツー・インタラクティブが投資に参加した。 (復号化)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブルームバーグアナリスト：米国SECはハッシュデックスのビットコインスポットETF申請に遅延命令を出した]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344517</id>
+        <link href="https://www.odaily.news/ja/newsflash/344517"/>
+        <updated>2023-11-30T15:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News ブルームバーグのアナリスト、ジェームス・セイファート氏は、取引所委員会がバックエンドの詳細とチャネルに関して潜在的なビットコインETF発行者と協力するよう懸命に取り組んでいると投稿した。 Hashdex のアプリケーションは斬新で、スポットビットコインを ETF 構造に組み込むための CME 先物を介した現物取引に焦点を当てています。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon をベースとしたファンエンゲージメントプラットフォーム MITH が 350 万米ドルの資金調達を完了]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344516</id>
+        <link href="https://www.odaily.news/ja/newsflash/344516"/>
+        <updated>2023-11-30T15:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Polygon ブロックチェーンに基づくファンエンゲージメントプラットフォームである Odaily News MITH は、Point72 Ventures と A+E Networks が主導し、Warner Music Group、CMT Digital、Winklevoss Capital、 Synergis Capital、Near Foundation、4RC、Alpha Praetorian Capital が投資に参加しました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮のLazarusチームが仮想通貨空間から30億ドル以上を盗んだ]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344515</id>
+        <link href="https://www.odaily.news/ja/newsflash/344515"/>
+        <updated>2023-11-30T15:04:50.000Z</updated>
+        <summary type="html"><![CDATA[デイリー紙は、北朝鮮のハッカーが盗んだ仮想通貨の時価総額が30億ドルを超えたと報じたが、スローミストの統計によれば、盗まれた資金はその10分の1にあたる300億ドルを超えていることが明らかになった。 。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python の価格フィード データが NEAR でオンラインになりました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344514</id>
+        <link href="https://www.odaily.news/ja/newsflash/344514"/>
+        <updated>2023-11-30T14:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Pyth Network が正式に発表しました]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、機関投資家向け銀行三者協定パイロットプロジェクトの開始を発表]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344513</id>
+        <link href="https://www.odaily.news/ja/newsflash/344513"/>
+        <updated>2023-11-30T14:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News バイナンスは、仮想通貨銀行の三者協定による世界初のパイロットプロジェクトの成功裡の実行を発表した。このソリューションにより、機関投資家は取引プラットフォーム内ではなく、サードパーティの銀行パートナーに保管された担保を取引し続けることができます。この取り決めは、従来の金融市場で一般的に見られる枠組みを模倣しており、投資家がリスク許容度に基づいて暗号資産を割り当てることができます。提携銀行との担保は財務省短期証券などの法定通貨相当資産にすることができ、資産の利回りという追加のメリットも得られます。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniBotはコピートレーディング機能をアップグレードし、1Inchなどのアグリゲーターでのコピートレーディングをサポートします]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344512</id>
+        <link href="https://www.odaily.news/ja/newsflash/344512"/>
+        <updated>2023-11-30T14:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News UniBot が正式に発表されました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum Orbit テクノロジーに基づいて RARI 財団によって構築された L2 RARI チェーン テストネットがオンラインになっています]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344511</id>
+        <link href="https://www.odaily.news/ja/newsflash/344511"/>
+        <updated>2023-11-30T14:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News NFTインフラに注力するRARI財団は、Arbitrum Orbitテクノロジーを使用して新しい第2層チェーンRARI Chainを作成し、テストネットワークをリリースしたことをXプラットフォーム上で発表しました。このレイヤー 2 は、著作権使用料を強制する高速、低コスト、開発者に優しいネットワークをクリエイター、コレクター、建設者に提供するように設計されています。 RARI Chainは著作権料をノードレベルでシームレスに埋め込むことで、クリエイターに自由に創作する権利を与え、分野を超えた協力を促進します。市場の相互運用性。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10月31日から11月30日までに、新しいBitMEXコールドウォレットアドレスには合計12,071BTCが蓄積されました。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344510</id>
+        <link href="https://www.odaily.news/ja/newsflash/344510"/>
+        <updated>2023-11-30T14:37:49.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Lookonchain のモニタリングによると、10 月 31 日から 11 月 30 日までの間に、ウォレット アドレス (bc1qc...srq64) に合計 12,071 BTC (約 4 億 4,600 万米ドル相当) が蓄積され、平均価格は 1 ビットコインあたり 36,961 ドルでした。オンチェーン分析会社 CryptoQuant によると、このウォレット アドレスは BitMEX 取引所のコールド ウォレットの新しいアドレスです。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinList、分散型フォームツール「cForm」を開始]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344509</id>
+        <link href="https://www.odaily.news/ja/newsflash/344509"/>
+        <updated>2023-11-30T14:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News CoinList は、コミュニティメンバーのオンボーディングと検証のプロセスを簡素化し、オンチェーンウォレットやソーシャルメディアアカウントを検証し、広範な情報を収集することなく貴重な情報を収集するための暗号ネイティブフォームを作成する分散型フォームツール「cForm」のリリースを発表しました。エンジニアリングの仕事。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11月に296件のハッキングと詐欺事件が発生し、仮想通貨業界は3億4,300万ドルの損失を被った]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344508</id>
+        <link href="https://www.odaily.news/ja/newsflash/344508"/>
+        <updated>2023-11-30T14:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Web3 バグ報奨金プラットフォーム Immunefi の最新レポートによると、暗号化業界は 2023 年 11 月にハッキング攻撃と詐欺事件により 3 億 4,300 万ドル以上の損失を出し、今年単月で最高損失の記録を樹立しました。 10月の約2,200万ドルの損失と比較すると、11月の損失額は15倍以上に増加した。 Immunefiによると、今年これまでに仮想通貨のハッキングと敷物の引き抜きにより、296件の事件が発生し、17億5,000万ドル以上の損失が発生している。今月特に注目に値するのは、暗号通貨攻撃の焦点が DeFi プラットフォームから CeFi プラットフォームに移ったことです。 11月にはCeFiプラットフォームが主な被害者となり、損失総額の53.8％（約1億8,440万ドル）を占め、一方DeFiは46.2％（約1億5,860万ドル）を占めた。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COTI: COTI財団が発足しました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344507</id>
+        <link href="https://www.odaily.news/ja/newsflash/344507"/>
+        <updated>2023-11-30T14:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 分散型決済プロトコル COTI は、X プラットフォーム上で COTI ネットワークの導入と開発の促進に特化した独立した非営利団体である COTI Foundation が発足したことを示す文書を正式に発行しました。これは、COTI が来年 COTI V2 を開始するための足がかりでもあります。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 スタートアップ Bastion が元 a16z と Kraken の首席補佐官を COO に任命]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344506</id>
+        <link href="https://www.odaily.news/ja/newsflash/344506"/>
+        <updated>2023-11-30T14:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Web3 の新興企業バスティオンは、キャロライン・フリードマンを最高執行責任者に任命しました。フリードマンはクラーケンとa16zの首席補佐官を務めたほか、米国検察庁で重大犯罪を担当する米国検事補も務めた。 （ブロック）]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbaseとa16zの元幹部マイク・レンプレス氏がMoonPay取締役会に加わる]]></title>
         <id>https://www.odaily.news/ja/newsflash/344505</id>
@@ -8409,86 +8559,6 @@ SBIと米サークル、業務提携に向けた基本合意書締結──USDC�
         <link href="https://www.odaily.news/ja/newsflash/343823"/>
         <updated>2023-11-26T03:38:53.000Z</updated>
         <summary type="html"><![CDATA[Odaily News バイナンスとCZと米国の規制当局との間の和解について、コロンビア・ビジネス・スクールの非常勤教授であるオミッド・マレカン氏は、この件における米国司法省のアプローチは従来の金融分野におけるアプローチとは全く異なると述べた。金融システムの他の部分が実際にどのように機能するかを理解していない人もおり、マネーロンダリング対策のベストプラクティスに従っている企業は依然として多額の違法資金を扱っています。しかし、誰かが事務手続きをしてくれたので、すべて大丈夫だと考えられていました。オミッド・マレカン氏は、同様の事件で伝統的な企業がバイナンスと同様に扱われれば、ウォール街の多くの人が投獄されるだろうと述べた。もし規制当局がバイナンスを扱っているのと同じ基準に従えば、ウォール街では何百人もの常務取締役が投獄され、株主の買い戻し（またはロビー活動）にかかる資金が減少することになるだろう。しかし、銀行家たちは賢明だったので、ゲームに疑問を抱くことはありませんでした。オミッド・マレカン氏はまた、過去数年間の包括的金融へのバイナンスの貢献を称賛し、「バイナンスは、何千万人もの貧しい人々、有色人種、その他恵まれない人々が金融システムに参入するのを助けるという素晴らしい仕事をしてきた。これは世界的なものである」パートナーシップは、規制された金融会社が長い間実現できなかったことだ」（コインテレグラフ）]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slow Mist: 企業のロゴやブランドを装った詐欺 Web サイトにご注意ください]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343822</id>
-        <link href="https://www.odaily.news/ja/newsflash/343822"/>
-        <updated>2023-11-26T03:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News SlowMist は、SlowMist を装った詐欺 Web サイトを最近発見したと X プラットフォームに投稿しました。これらの Web サイトは、SlowMist のロゴとブランドを違法に使用して、ウォレットや取引プラットフォームの詐欺を行っています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロンビア財務大臣：政府作業部会はCBDCの立ち上げと規制法案に取り組んでいる]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343821</id>
-        <link href="https://www.odaily.news/ja/newsflash/343821"/>
-        <updated>2023-11-26T03:10:40.000Z</updated>
-        <summary type="html"><![CDATA[オデイリーニュース コロンビアのリカルド・ボニージャ財務大臣は、政府作業部会がCBDCの立ち上げと規制に関する法案に取り組んでいると述べた。ただし、デジタル通貨は引き続き中央銀行によって管理されます。 (ビットコインニュース)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huang Licheng が Blast に 3,000 ETH を入金]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343820</id>
-        <link href="https://www.odaily.news/ja/newsflash/343820"/>
-        <updated>2023-11-26T03:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、Lookonchain のモニタリングによると、Blast TVL が 5 億 1,800 万米ドルを超えたと報じています。 Huang Licheng は 3,000 ETH (約 622 万ドル) を Blast に入金しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弁護士: 米国の規制当局は詐欺師よりも投資家を処罰し、損害を与えている]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343819</id>
-        <link href="https://www.odaily.news/ja/newsflash/343819"/>
-        <updated>2023-11-26T02:58:07.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News 弁護士で仮想通貨支持者の John E Deaton 氏は、「このエコシステムにおける詐欺の悪影響を軽視するつもりはないからです」と投稿しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB チェーン: Genesis Universe などの危険な DApps に注意してください]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343818</id>
-        <link href="https://www.odaily.news/ja/newsflash/343818"/>
-        <updated>2023-11-26T02:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News BNB Chainはサイロとクリスタルに関して声明を発表した。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港立法会議員：準拠した仮想資産取引プラットフォームの申請期限を延長するという圧力を排除しない]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343817</id>
-        <link href="https://www.odaily.news/ja/newsflash/343817"/>
-        <updated>2023-11-26T02:40:06.000Z</updated>
-        <summary type="html"><![CDATA[デイリーニュース 香港警察は昨日、HOUNAX 仮想資産交換投資詐欺事件が 131 人によって通報され、1 億 1,000 万香港ドル以上が関与したと発表した。この点に関して、香港立法会委員の黄俊碩氏は、投資家は投資前に香港証券先物委員会のウェブサイトを積極的にチェックして、無許可企業や不審なウェブサイトのリストを問い合わせることはできないだろうと考えており、関連部門が投資手順を簡素化することを推奨している。投資家はJPEX事件の再現を防ぐために情報を確認する必要がある。猶予期間を短縮するかどうかとの質問に対し、黄俊碩氏は、仮想資産取引プラットフォームのライセンス制度は1年間の猶予期間付きで今年6月1日に発効する予定であり、修正には早くても3～4か月かかるだろうと述べた。その時までに猶予期間は終わりに近づくだろうが、準拠した仮想資産取引プラットフォームの申請時間制限に対するプレッシャーが増大する可能性を排除するものではない。 （ミンパオ） これに先立ち、香港証券監督管理委員会の公式ウェブサイトは、11月1日に不審な仮想資産取引プラットフォーム「HOUNAX」が「無認可企業および許可ウェブサイト」のリストに追加されたことを明らかにした。香港ラジオテレビのウェブサイトに掲載された報道によると、香港警察は最近、ある詐欺師が投資専門家を装い、仮想資産取引プラットフォームを通じて人々に投資を勧誘するために高額な利益を利用していることを発見しました。彼らのお金を返してください。警察によると、関与した会社名はHOUNAXで、被害額は1億1,000万香港ドル以上、各事件で1万2,000香港ドルから400万香港ドルに及ぶ被害者131人から一時的に通報を受けていた。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA の第 3 四半期売上高は 181 億 2,000 万ドルで、TSMC やインテルを上回り、チップ業界で第 1 位にランクされました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343816</id>
-        <link href="https://www.odaily.news/ja/newsflash/343816"/>
-        <updated>2023-11-26T02:34:34.000Z</updated>
-        <summary type="html"><![CDATA[Odailyの財務アナリスト、Dan Nystedt氏は最近、2023年第3四半期のさまざまな企業の財務報告データに基づいて、NvidiaがTSMCとIntelを上回り、売上高でチップ業界のトップの座を獲得したと指摘した。 NVIDIA の第 3 会計四半期の収益は 181 億 2,000 万米ドルで、前年同期の 59 億 3,100 万米ドルと比較して 206% 増加し、前会計四半期の 135 億 7,000 万米ドルと比較して 34% 増加しました。 NVIDIA の第 3 会計四半期の純利益は 92 億 4,300 万米ドルで、前年同期の 6 億 8,000 万米ドルと比較して 1,259% 増加し、前会計四半期の 61 億 8,800 万米ドルと比較して 49% 増加しました。 (ITホーム)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WLD マーケットメーカー 3 社が合計 145 万 WLD を CEX に移管]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343815</id>
-        <link href="https://www.odaily.news/ja/newsflash/343815"/>
-        <updated>2023-11-26T02:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、オンチェーンアナリストの Ember モニタリングによると、WLD マーケットメーカー 3 社が過去 11 時間で 145 万 WLD (約 394 万米ドル) を CEX に送金したと報じました。その中で、Wintermute は 550,000 WLD を Binance に移管し、Auros Global は 500,000 WLD を Gate.io に移管し、Flow Traders は 400,000 WLD を Binance に移管しました。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
