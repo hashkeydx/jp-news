@@ -385,6 +385,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=495252",
+          "author": "A.Yamada",
+          "description": "ドイツ連邦金融監督庁は、ビットコイン・グループに対してマネロン対策の不備を是正することを命じた。",
+          "link": "https://coinpost.jp/?p=495252",
+          "publishedOn": "2023-11-30T04:20:30.000Z",
+          "wordCount": 1910,
+          "title": "ドイツ規制当局、ビットコイン・グループに資金洗浄対策を命令",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/germany-minster-digital.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/germany-minster-digital.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=495239",
           "author": "A.Yamada",
           "description": "仮想通貨データサイトCoinGeckoは、過去5年間でGameFiの4分の3が失敗に終わっているとのレポートを発表した。",
@@ -1021,6 +1036,146 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344398",
+          "author": null,
+          "description": "Odaily News ステーブルコイン発行会社ライブラ・ファイナンスは実際の収益を米ドルで掲載した。",
+          "link": "https://www.odaily.news/ja/newsflash/344398",
+          "publishedOn": "2023-11-30T04:24:28.000Z",
+          "wordCount": 1693,
+          "title": "Lybra Finance：ステーブルコインとガバナンストークンの保有者に500万ドル以上が支払われた",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344397",
+          "author": null,
+          "description": "Odaily News Ordinals の創設者 Casey は、X プラットフォームに、聖年がブロック高さ 824544 で開催されると投稿しました。聖年の後は、すべての碑文が祝福されます。これは、バッチ碑文などの機能を使用しても、呪われた碑文が生成されなくなることを意味します。ケイシーはさらに、これは新しい碑文にのみ適用され、聖年以前に残された呪われた碑文は引き続き呪われ続けると述べています。",
+          "link": "https://www.odaily.news/ja/newsflash/344397",
+          "publishedOn": "2023-11-30T04:21:33.000Z",
+          "wordCount": 1707,
+          "title": "オーディナルズの創設者: ジュビリーはブロック高さ 824544 で開催されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344396",
+          "author": null,
+          "description": "Odaily News CZは、元上級連邦検察官のMatthew Diggsを弁護人として採用した。 Diggs は刑事および民事の規制分野で 15 年以上の経験があり、特に複雑なホワイトカラーの事件や捜査に関する専門知識を持っています。 (クリプトポリタン)",
+          "link": "https://www.odaily.news/ja/newsflash/344396",
+          "publishedOn": "2023-11-30T04:18:49.000Z",
+          "wordCount": 1695,
+          "title": "CZ、元上級連邦検察官マシュー・ディグス氏を弁護人として採用",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344395",
+          "author": null,
+          "description": "Odaily は、Paidun の監視によると、Sun Yuchen の関連アドレスから 2,000 万 TRX (約 200 万ドル相当) が TSzSgx...sXvJ アドレスに転送されたと報じました。",
+          "link": "https://www.odaily.news/ja/newsflash/344395",
+          "publishedOn": "2023-11-30T04:12:10.000Z",
+          "wordCount": 1700,
+          "title": "ジャスティン・サンのアドレスに2,000万TRXが送金された",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344394",
+          "author": null,
+          "description": "Odaily のオンチェーンアナリスト @ai_9684xtpa の監視によると、50 分前、あるクジラが再び 1,913 ETH (390 万米ドル相当) をバイナンスからウォレットに送金しました。現在、開設されたETHの累計数は39,953に増加し、ウォレット資産の価値は1億5,400万米ドルにも上ります。",
+          "link": "https://www.odaily.news/ja/newsflash/344394",
+          "publishedOn": "2023-11-30T04:09:27.000Z",
+          "wordCount": 1700,
+          "title": "巨大なクジラが再び1,913 ETHをバイナンスからウォレットに転送し、開設されたETHの累計数は39,953に達しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344393",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、Maple は、Maple Secured Lending Direct Pool の適格な保管サービスを顧客に提供するために BitGo と協力関係に達しました。メイプルは機関や富裕層の顧客に対し、さまざまなデジタル資産に対する過剰担保のデジタル資産ファイナンスを提供していると報告されており、BitGoの顧客資産はSOC1およびSOC2タイプ2の監査を受けた破産隔離信託会社に保管されている。 、2 億 5,000 万米ドルの保険が適用され、紛失、盗難、乱用を単一の補償でカバーします。",
+          "link": "https://www.odaily.news/ja/newsflash/344393",
+          "publishedOn": "2023-11-30T04:05:56.000Z",
+          "wordCount": 1754,
+          "title": "Maple は BitGo と提携し、Maple Secured Lending Direct Pool に保管サービスを提供します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344392",
+          "author": null,
+          "description": "Odaily の報道によると、Spot on Chain の監視によれば、0x865 で始まるクジラのアドレスが過去 18 時間でバイナンスから総額 3,659 万米ドル相当の暗号資産を引き出しました。その中には次のものが含まれます: ・ 10,000 ETH (2,030 万米ドル) ・ 45,000 BNB ( 1,020 万米ドル) · 3,000 億 SHIB (247 万米ドル) · 2 億 6,000 万 IOST (240 万米ドル) · 1,600 万 CHZ (118 万米ドル) このクジラのアドレスが 175 日前 (2023 年 6 月 8 日) に作成されたことは注目に値します。 、しかし、このような大量のトークンを貯め始めたのはつい最近であり、現在、このアドレスには合計 3,820 万ドル相当の暗号資産が保管されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344392",
+          "publishedOn": "2023-11-30T04:04:56.000Z",
+          "wordCount": 1794,
+          "title": "あるクジラが過去18時間にバイナンスから1万ETHを含む総額3,659万ドルの暗号資産を引き出した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344391",
+          "author": null,
+          "description": "Odaily News Trust Wallet に掲載されましたチームは開発状況を注意深く監視しています。ユーザーは、最大 6 時間のビットコイン ブロックチェーン トランザクション履歴 (トランザクション確認) の損失やトランザクションの失敗を経験する可能性があり、チームはこの問題の解決に懸命に取り組んでいます。",
+          "link": "https://www.odaily.news/ja/newsflash/344391",
+          "publishedOn": "2023-11-30T03:57:54.000Z",
+          "wordCount": 1728,
+          "title": "Trust Wallet: プラットフォームで BTC ノードの問題が発生し、チームはその解決に向けて懸命に取り組んでいます。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344390",
+          "author": null,
+          "description": "Odaily ニュースチェーンのデータによると、過去 24 時間の NEAR の手数料総額は 35,335 NEAR で、前月比で 28 日から 1,300% 増加し、過去最高値の 7.36 倍となっています。同時に、NEAR トランザクション数はここ数日で大幅に増加しており、11 月 29 日には NEAR チェーン上のトランザクション数が 1,000 万近く (9,957,991) に達し、1 日の記録を樹立しました (これまでの最高値は約350万）。 NEAT表記の開始が上記の現象の原因の一つである可能性があります。 NEAT は NEAR エコシステムの最初の登録プロジェクトであり、ワンクリック ミントをサポートしていると報告されています。現在の NEAT の総供給量は 4,200 兆で、各碑文の最大量は 1 億 NEAT です。",
+          "link": "https://www.odaily.news/ja/newsflash/344390",
+          "publishedOn": "2023-11-30T03:55:51.000Z",
+          "wordCount": 1768,
+          "title": "NEATの登録の影響で、NEARの手数料は過去24時間で前月比1,300%増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344389",
+          "author": null,
+          "description": "Odaily News Bitcoin ABC は、Bitcoin ABC 0.28.4 がリリースされたことを X プラットフォームに投稿しました。このリリースでは、後続の再起動時のアバランシェ ブートストラップ期間が短縮され、シーダーが修正されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344389",
+          "publishedOn": "2023-11-30T03:49:42.000Z",
+          "wordCount": 1713,
+          "title": "ビットコインABC 0.28.4がリリースされました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344388",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、米国癌協会 (ACS) は資本配分の代替形式を模索するために Web3 に参入し、推奨ツールキットとして Gitcoin Grants Stack を選択しました。著名な非営利団体が Gitcoin テクノロジーを使用するのはこれが 2 回目で、最初は 2022 年に国連児童基金 (UNICEF) との強力な QF コラボレーション パイロット プロジェクトで使用されました。 Gitcoin は OKX Ventures の投資ポートフォリオのメンバーであり、公共財の資金調達と開発者コミュニティのサポートに重点を置いていると報告されています。 Gitcoin Steward Council のメンバーで OKX Ventures のパートナーである Jeff Ren 氏は、「ブロックチェーン技術を通じて伝統的な分野でこの種のイノベーションが見られることに非常に興奮しており、Gitcoin は開発者コミュニティとより広い社会にプラスの社会的利益をもたらします。これは、社会にポジティブな影響を与え、大量導入を促進する推進力を象徴しており、OKX Ventures は引き続きこれらの取り組みと関連企業をサポートしていきます。」",
+          "link": "https://www.odaily.news/ja/newsflash/344388",
+          "publishedOn": "2023-11-30T03:46:51.000Z",
+          "wordCount": 1795,
+          "title": "米国癌協会が Web3 に参入し、ツールキットとして Gitcoin Grants Stack を選択",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344387",
+          "author": null,
+          "description": "Odaily Xinyuan Universe プラットフォーム HYTOPIA (旧 NFT Worlds) は、プレーヤー アカウント、マーケット、HYTOPIA ブロックチェーン、HYTOPIA Foundation などを含むエコロジカル アップデートを正式にリリースしました。主な内容は次のとおりです。 1. ゲーム プレーヤー アカウントに自己ホスト型ウォレットを導入して保存します。ゲーム内コンテンツ 製品、コンテンツ、USDC およびそのネイティブ トークン TOPIA、ウォレットは機能的に HYTOPIA ゲーム クライアントに組み込まれており、USDC および TOPIA トークン交換がいつでもサポートされるようにするために秘密キーはプレーヤーによって保存されます。 2.ファーストパーティ販売市場を統合し、プレーヤーが USDC または TOPIA トークンを使用して組み込みゲーム アセットを購入できるようにします。ただし、デフォルトでは、ゲーム サーバーのホスティング費用やその他のコストをカバーするために、プラットフォーム料金が比較的高額 (おそらく 50%) になります。プラットフォームのコスト; 3. HYTOPIA ブロックチェーンの分散化と自律性を促進し、バリデーターの大半が HYTOPIA から完全に独立している 20 以上のバリデーターを確保する; 4. HYTOPIA から独立した組織として HYTOPIA Foundation を設立し、以下のことを保証するコミュニティが厳選した理事グループによって構成および運営されているHYTOPIAの営利団体の営利目的や財産権とは何の関係もありません。HYTOPIAは財団に対して全手数料の30%を請求する予定です。 10月の以前のニュースによると、HYTOPIA（旧NFT Worlds）は、Delphi Ventures主導による300万米ドルの資金調達の完了を発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344387",
+          "publishedOn": "2023-11-30T03:45:11.000Z",
+          "wordCount": 1824,
+          "title": "メタバース プラットフォーム HYTOPIA が、独立した組織としての HYTOPIA Foundation の設立を含む生態学的アップデートをリリース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344385",
+          "author": null,
+          "description": "Odaily News Aerodrome は、Aerodrome プロバイダーがソーシャル エンジニアリング攻撃を受けた後、本日初めにドメイン名の制御を取り戻すことができたと X プラットフォームに投稿しました。チームはメイン ドメインの復元に引き続き取り組んでおり、攻撃に関する詳細を公開する予定です。昨日のニュースで、ベロドロームのフロントエンドとそのフォークプロトコルであるエアロドロームが攻撃されたことが明らかになりました。",
+          "link": "https://www.odaily.news/ja/newsflash/344385",
+          "publishedOn": "2023-11-30T03:38:01.000Z",
+          "wordCount": 1714,
+          "title": "飛行場: ドメインの制御を取り戻すことができ、プライマリ ドメインの復元に引き続き取り組んでいます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344384",
+          "author": null,
+          "description": "Odaily News Lookonchainの統計によると、Binanceは現在、BTCが205億7,800万ドル、USDTが188億4,000万ドル、WETH/ETHが80億8,500万ドルを含む669億1,700万ドルの資産を保有しており、OKXは現在、USDTが52億ドル、48.27BTCを含む124億1,300万ドルの資産を保有している、19億5,000万米ドルのWETH; Bitfinexは現在、76億9,000万米ドルのBTC、25億9,600万米ドルのLEO、7億7,000万米ドルのWETHを含む117億4,600万米ドルの資産を保有しています。 (DeFiLlama からのデータ)",
+          "link": "https://www.odaily.news/ja/newsflash/344384",
+          "publishedOn": "2023-11-30T03:28:59.000Z",
+          "wordCount": 1698,
+          "title": "Binance、OKX、Bitfinexは現在、それぞれ669億1,700万米ドル、124億1,300万米ドル、117億4,600万米ドルの資産を保有している。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344383",
           "author": null,
@@ -7118,6 +7273,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=355930",
+          "author": "OtsugaShinya",
+          "description": "米財務省がSinbadを制裁 米財務省が、ビットコイン（BTC）のミキシングサービスを提供するシンドバッド（Sinbad）へ11月29日に制裁を課した。シンドバッドのウェブサイトは押収され、現在同サービスは遮断されている […]",
+          "link": "https://www.neweconomy.jp/posts/355930",
+          "publishedOn": "2023-11-30T04:15:42.000Z",
+          "wordCount": 812,
+          "title": "米財務省がビットコインミキシング「Sinbad」制裁、北朝鮮ラザルスとの関係疑惑で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/30131533/dae5bb423ba5c0b5488b70d08a423929.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=355921",
+          "author": "gentosha_takahashi",
+          "description": "ロナウド氏が集団訴訟に直面 サッカー選手のクリスティアーノ・ロナウド（Cristiano Ronaldo dos Santos Aveiro）氏が、大手暗号資産（仮想通貨）取引所バイナンス（Binance）と提携し未登録 […]",
+          "link": "https://www.neweconomy.jp/posts/355921",
+          "publishedOn": "2023-11-30T04:01:19.000Z",
+          "wordCount": 785,
+          "title": "クリスティアーノロナウド、バイナンスの未登録有価証券宣伝したとして集団訴訟される",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/30125932/5dce3ca268b0131202b94da241f1278e.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=355907",
           "author": "OtsugaShinya",
