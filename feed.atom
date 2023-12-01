@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-01T12:41:30.399Z</updated>
+    <updated>2023-12-01T13:26:28.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aave コミュニティが「Avalanche Aave V3 に EURC を追加」提案を承認する投票を行いました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344653</id>
+        <link href="https://www.odaily.news/ja/newsflash/344653"/>
+        <updated>2023-12-01T13:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Snapshot ガバナンス ページによると、Aave コミュニティは「Avalanche Aave V3 に EURC を追加する」という提案を可決することに投票したとのことです EURC は Circle が発行するユーロの安定通貨です。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ssvネットワークに担保されたETHの数が70,000を超える]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344652</id>
+        <link href="https://www.odaily.news/ja/newsflash/344652"/>
+        <updated>2023-12-01T13:16:36.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News ssv ネットワークは、ssv ネットワーク上で約束された ETH の数が 70,000 を超えたと X プラットフォームに投稿しました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スタックスはビットコインが来年4月に半減する前にナカモトのアップグレードを完了する予定]]></title>
+        <id>https://www.odaily.news/ja/post/5191388</id>
+        <link href="https://www.odaily.news/ja/post/5191388"/>
+        <updated>2023-12-01T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン L2 への移行における重要なマイルストーン。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プッジーペンギンの最低価格は7.7ETHに上昇、ほぼ1年ぶりの高値を更新]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344651</id>
+        <link href="https://www.odaily.news/ja/newsflash/344651"/>
+        <updated>2023-12-01T12:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News NFTGoのデータによると、Pudgy Penguinsの最低価格は24時間で11％上昇し7.7ETHまで上昇し、過去1年間で最高値を更新した。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1,500 BTC が未知のアドレスから Bitfinex に送金された（5,762 万ドル相当）]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344650</id>
+        <link href="https://www.odaily.news/ja/newsflash/344650"/>
+        <updated>2023-12-01T12:52:07.000Z</updated>
+        <summary type="html"><![CDATA[オデイリー紙は、ホエール・アラートの監視によれば、5,762万米ドル相当の1,500BTCが未知のアドレスからBitfinexに送金されたと報じた。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アトミックス プロトコル: DMINT が最適化され、20,000 衛星の節約が期待される]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344649</id>
+        <link href="https://www.odaily.news/ja/newsflash/344649"/>
+        <updated>2023-12-01T12:47:54.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Atomics Protocol は、]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブルームバーグ：バイナンスのVIPマーケットメーカーはバイナンスの40億の罰金について事前に知らされていた]]></title>
         <id>https://www.odaily.news/ja/newsflash/344648</id>
@@ -9459,78 +9519,6 @@ DAOのリアルをワークショップで分析・考察【btokyo clubラウン
         <link href="https://www.odaily.news/ja/newsflash/343894"/>
         <updated>2023-11-27T01:30:00.000Z</updated>
         <summary type="html"><![CDATA[1. 米国司法省はCZの渡航制限の申し立てに応じ、検察は法定最高懲役10年を求刑する可能性がある; 2. サークルは日本でのUSDCの流通促進とWeb3サービスの促進を目的としてSBIホールディングスと協力関係に達した。 3. ホットドッグの新曲はジェイ・チョウをディスっている疑いがあり、歌詞には「すぐにNFTは送らない」と言及されている; 4. 今週、YGG、NYM、OP、ACA、1INCH、その他のトークンが大量にロック解除されます。 5. Jupiter の公式エアドロップ クォータ クエリ Web サイトは金曜日に開設されます; 6. Paradigm GP: Blast の設計の一部に同意せず、関連する懸念をチームと伝えています; 7. Kyber Network: 約 467 万ドルの資金が KyberSwap に返還されましたPolygon 上の展開者のアドレス; 8. 不正サービスプロバイダー Inferno Drainer が閉鎖を発表、盗まれた資金の総額は 8,000 万米ドルを超えた; 9. 米国 SEC はまだ創設者に対する訴訟の提出の確認を受け取っていないHex の発表、電話会議は来年 1 月に延期; 10. グラスノード: ビットコインの流通供給量の 83.6% 以上が収益性の高い状態にあり、長期的には依然として通貨を堅持している人もいます; 11. UniSat ウォレットRATSを立ち上げ、Brc20スワップの透明性を高めるためにさらなるコードの公開を検討している; 12. Huang Lichengが保有するAPEは現在資本を回収し、283万米ドルの変動利益を上げている; 13. Friend.tech TVLはさらに下落した最高値から 36% を超えて 3,320 万米ドルに達しました; 14. Justin Sun の関連アドレスがバイナンスに 600,200 XVS を入金、これは約 431 万米ドルに相当します; 15. 6 年間休止していた 4 つのアドレスが 4,039 万 XVS CDT を入金しました。 400,000 SSV と交換され、他のアドレスに転送されます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6年間休眠していた4つのアドレスが4,039万CDTを40万SSVと交換し、他のアドレスに転送した。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343895</id>
-        <link href="https://www.odaily.news/ja/newsflash/343895"/>
-        <updated>2023-11-27T01:25:28.000Z</updated>
-        <summary type="html"><![CDATA[Odaily のオンチェーンアナリスト Ember の監視によると、6 年近く休眠状態だった 4 つのアドレスが、16 時間前に合計 4,039 万 CDT (SSV1:100 合併前の旧通貨) を 403,964 SSV (約 915 万ドル) に換算し、その後他のアドレスに転送されます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBIと米サークル、業務提携に向けた基本合意書締結──USDCの日本での流通などを視野]]></title>
-        <id>https://www.coindeskjapan.com/?p=209967</id>
-        <link href="https://www.coindeskjapan.com/209967/"/>
-        <updated>2023-11-27T01:23:53.000Z</updated>
-        <summary type="html"><![CDATA[SBIホールディングスと、ステーブルコイン「USDコイン（USDC）」を発行する米サークル（Circle Internet Financial）は、日本国内にお ...
-SBIと米サークル、業務提携に向けた基本合意書締結──USDCの日本での流通などを視野 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle は、USDC の流通を促進し、日本での Web3 サービスを促進するために SBI Holdings と提携に至りました]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343893</id>
-        <link href="https://www.odaily.news/ja/newsflash/343893"/>
-        <updated>2023-11-27T01:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Odaily の公式ニュースによると、Circle は、日本における USDC の流通促進、銀行関係の確立、Circle の Web3 サービスの利用促進を目的として SBI ホールディングスとの覚書締結を発表しました。この協力は当初、日本におけるUSDCの流通とステーブルコインの使用拡大に特化されています。 SBIグループとサークルはまた、日本の規制当局とのコミュニケーションを含め、ステーブルコイン関連の規制を適切に遵守することを約束しました。 SBI VCトレード株式会社は、USDC安定通貨を日本国内で流通させるため、当局の認可を必要とする電子決済手段サービスへの登録を目指しています。 SBI新生銀行はCircleに銀行サービスも提供し、日本の企業やユーザーがUSDCを利用して流動性を獲得できるようにする。さらに、SBIグループのデジタル資産ポートフォリオ戦略の一環として、SBIグループはプログラム可能なウォレット、ブロックチェーンインフラストラクチャ、スマートコントラクト管理ツールなどのCircleのWeb3サービスソリューションも採用します。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詐欺サービスプロバイダーのInferno Drainerが総額8,000万ドル以上を盗んだとして閉鎖を発表]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343892</id>
-        <link href="https://www.odaily.news/ja/newsflash/343892"/>
-        <updated>2023-11-27T01:04:40.000Z</updated>
-        <summary type="html"><![CDATA[Odaily 詐欺サービスプロバイダー Inferno Drainer の背後にあるチームは、11 月 26 日に Telegram グループで、同サービスを永久に閉鎖すると発表しました。 Inferno Drainer はユーザーにフィッシングツールを提供し、ユーザーが盗んだ資金から 20% の手数料を取っていると報告されています。 Web3 詐欺対策プラットフォーム Scam Sniffer の分析によると、Inferno Drainer は 2 月以降、7,000 万ドル近くの資金を盗み、被害者は 10 万人を超えています。しかし、Inferno Drainer チームは、盗まれた金額は 8,000 万ドルを超えていると述べています。ブロックチェーンセキュリティ会社CertiKは、Inferno Drainerはコミュニティにとって最も有害なフィッシングキットの1つであり、閉鎖されたものの、競合他社のPink DrainerやAngel Drainerを含む多数のプロバイダが依然として活動していると述べた。 11 月 25 日に更新され、ユーザーがより多くのチェーンで被害者のウォレット資金を盗むのを支援します。 (コインテレグラフ)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周回遅れの先頭から、真の先頭に──自民党web3PT第2回「DAOルールメイクハッカソン」議事要旨]]></title>
-        <id>https://www.coindeskjapan.com/?p=209641</id>
-        <link href="https://www.coindeskjapan.com/209641/"/>
-        <updated>2023-11-27T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DAO（分散型自律組織）に関する法律のあり方について議論する「DAOルールメイクハッカソン」の第2回目が11月22日、自由民主党本部で開催された。自民党web3 ...
-周回遅れの先頭から、真の先頭に──自民党web3PT第2回「DAOルールメイクハッカソン」議事要旨 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter の公式エアドロップ クォータ クエリ Web サイトは金曜日に開設されます]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343891</id>
-        <link href="https://www.odaily.news/ja/newsflash/343891"/>
-        <updated>2023-11-27T00:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Jupiter のエアドロップ クォータ クエリ フロントエンドの構築を担当する開発者 Mei 氏は、Jupiter のエアドロップ クォータ クエリ Web サイトが今週金曜日に開設されることを X プラットフォームに投稿しました。その時点で、ユーザーは特定の量の JUP トークンをクエリできるようになります。ウォレットに接続することで利用可能になります。 mei 氏は、ウェブサイトがオンラインになった後、JUP トークンがリリースされるまでには時間がかかると付け加えました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パラダイム GP: Blast の設計の一部に同意せず、関連する懸念をチームと伝えています]]></title>
-        <id>https://www.odaily.news/ja/newsflash/343890</id>
-        <link href="https://www.odaily.news/ja/newsflash/343890"/>
-        <updated>2023-11-27T00:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Paradigm GP の Dan Robinson 氏は、X プラットフォームに、Paradigm は Blast の多くのコンポーネントに興奮しているが、Blast によるこれまでの発表の一部は情報の送信と実行の点で「一線を越えている疑いがある」と考えていると投稿しました。たとえば、パラダイムは、レイヤー 2 がオンラインになる前に「ブリッジ」を開始するという決定には同意しません。また、3 か月以内の出金を許可しないという設計にも同意しません。これは、他のプロジェクトにとって非常に悪い前例となり、過剰なマーケティングであるためです。 . チームの真面目なイメージも傷つきます。ロビンソン氏は、パラダイムがパックマン（ブラーとブラストの創設者）や他の共同創設者をサポートしているのは、彼らが長年にわたって優れた製品を構築する能力を実証してきたためであると付け加えた。そのため、パックマンがパラダイムにレイヤー2のビジョンを語ったとき、我々は再び彼に投資したと付け加えた。 Paradigm はこれらの懸念について Blast チームと話し合っており、意思疎通を図る彼らの意欲に感謝していますが、両者の間には依然として多くの相違があります。パラダイムは強力で独立した創業者に投資しますが、双方の見解が常に同じであるとは限りません。しかし、パラダイムは、市場がパラダイムが業界で模範を示すことを期待している可能性があることを理解しているため、パラダイムは組織がそのような戦略を承認しておらず、エコシステムにおけるパラダイムの責任を真剣に受け止めることを明確にしたいと考えています。以前のニュースによると、Blur と Blast の創設者である Pacman 氏が「参加する」ページに投稿しました。率直に言って、もし彼らが参加していたら、おそらく Blast の立ち上げの多くの側面を変更するよう私に要求するでしょう。パラダイムは研究分野の有力者です。 「彼らは Uniswap と Blend の発明に貢献し、イーサリアム開発をさらに進めるための Foundry やその他のツールを作成しました。私たちは L2 設計 (2 月に稼働予定) の技術面についてパラダイムと相談しています。彼らはその点で非常に優れています。私たちはGTM についてはパラダイムに相談しないでください。私たちはそれを社内で持ち込んでいます。実際、パラダイム I は、その立ち上げ後に GTM プログラムに変更を加えるよう依頼されました。私たちは彼らの提案を積極的に検討しています。ただし、他の敬意を持った投資家と同様に、彼らはかもしれませんが、 」]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
