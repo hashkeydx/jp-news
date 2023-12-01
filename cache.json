@@ -420,16 +420,6 @@
           "wordCount": 1134,
           "title": "ワールドコインは再検討が必要か──サム・アルトマン氏のクリプト-AI-UBI実験を理解する",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/5UTLUCEKCJEYFDMRMN2BGMFYQE.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=209683",
-          "author": "Daniel Kuhn",
-          "description": "8月、米司法省がバイナンス（Binance）を起訴することが明らかになる前に、この事件を立件しようとする連邦検察当局が、起訴によって顧客がパニックに陥って一斉に ...\nバイナンス、43億ドルの罰金と創業者の辞任を生き残れるか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/209683/",
-          "publishedOn": "2023-11-26T21:00:00.000Z",
-          "wordCount": 1248,
-          "title": "バイナンス、43億ドルの罰金と創業者の辞任を生き残れるか？",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/HBCOLR54EJEHBNSZNQK6EV5L2M.jpg"
         }
       ]
     },
@@ -444,6 +434,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=495495",
+          "author": "AKIRA.H",
+          "description": "Aerial Partnersが2023年の暗号資産取引調査結果を公開。ビットコインなどの現物取引だけでなく、PoS銘柄のステーキング利用度が高まりつつあり、利益を出している投資家増加に伴い「確定申告」の必要性も上がっている。",
+          "link": "https://coinpost.jp/?p=495495",
+          "publishedOn": "2023-12-01T08:41:10.000Z",
+          "wordCount": 1927,
+          "title": "「暗号資産投資と確定申告」に関する調査、2023年の取引では約7割の投資家が利益",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Aerial-Partners_1201.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Aerial-Partners_1201.png"
+        },
         {
           "id": "https://coinpost.jp/?p=495473",
           "author": "AKIRA.H",
@@ -1336,6 +1341,106 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344618",
+          "author": null,
+          "description": "Odaily News OKX市場は、BTCが短期的に38748.3 USDTまで上昇し、現在38606.1 USDTで取引されており、24時間で2.34％上昇していることを示しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344618",
+          "publishedOn": "2023-12-01T09:21:47.000Z",
+          "wordCount": 1740,
+          "title": "BTCは短期的に38,700 USDTを突破し、24時間で2.34%上昇した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344617",
+          "author": null,
+          "description": "Odaily News 公式ニュースによると、GMX は Vaultka に 100,000 ARB インセンティブを発行し、そのすべてが 12 週間の USDC 融資プールの報酬に使用されると発表しました。 Vaultka は LP トークンに基づいた異なる収入戦略を提供し、レバレッジをかけて LP トークンをロングすることでより高い収入を達成していることがわかります。貸し手（ステーブルコインを提供するユーザー）は、基本的な年率収益率（APR）を取得できるだけでなく、戦略ユーザーが選択したレバレッジに基づいて収入の一部を共有することもできます。現在、Vaultka プラットフォームの預金金利は次のとおりです: BTC 14% (コインベース)、ETH 14% (コインベース)、USDC 20% + esVKA 排出量の 45%、USDC 収入の 10% は次のとおりです。 GMX。",
+          "link": "https://www.odaily.news/ja/newsflash/344617",
+          "publishedOn": "2023-12-01T09:21:41.000Z",
+          "wordCount": 1785,
+          "title": "GMX、環境プロジェクト Vaultka に 100,000 ARB インセンティブを配布",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344616",
+          "author": null,
+          "description": "Odailyの公式発表によると、Upbitはプロジェクト関係者やCoinMarketCap、CoinGeckoなどの情報提供サイトから直接入手した、仮想通貨の流通供給に関する透明性の高い情報を提供している。 CoinMarketCap、CoinGecko、およびプロジェクトチームによって提供された情報に矛盾がある場合、Upbitはプロジェクト当事者に対し、関連情報を積極的に更新し、プロジェクト当事者のリリースと同期したトークン配布スケジュールを提供することを奨励します。仮想通貨の流通供給など不正データの問題を受けて、アップビットは問題を報告するチャンネルを開設した。",
+          "link": "https://www.odaily.news/ja/newsflash/344616",
+          "publishedOn": "2023-12-01T09:19:08.000Z",
+          "wordCount": 1734,
+          "title": "Upbit、仮想通貨流通供給のエラーやその他の問題に関する報告チャネルを開設",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344615",
+          "author": null,
+          "description": "",
+          "link": "https://www.odaily.news/ja/newsflash/344615",
+          "publishedOn": "2023-12-01T09:11:03.000Z",
+          "wordCount": 1752,
+          "title": "Binance、Virtua (TVK) のトークン交換と Vanar (VANRY) へのブランドアップグレードを完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344614",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、分散型バリデーター技術 (DVT) プロバイダーである Obol Labs が、Obol メインネットのベータ版の正式リリースを発表しました。以前のニュースによると、Obol メインネット ベータのパブリック ベータ中に DV Launchpad がオープンされ (各 DV クラスターには最大 1 つのバリデーターが存在します)、開発者に焦点を当てた 2 つの新製品が発売されます。その中で、Obol SDK を使用すると、開発者は Obol DV クラスターをプログラムで作成およびアクティブ化できるだけでなく、DV をサポートするステーキング製品を構築できます。Obol Splits は、Obol DV ユーザーが Obol DV クラスター内でノード オペレーターを管理し、自動的に割り当てることを可能にする一連のスマート コントラクトです。 . 期間中の報酬、元本および手数料。今年1月、Obol LabsはPanteraとArchetypeの主導で1,250万米ドルの資金調達を完了した。",
+          "link": "https://www.odaily.news/ja/newsflash/344614",
+          "publishedOn": "2023-12-01T08:59:38.000Z",
+          "wordCount": 1779,
+          "title": "Obol メインネット ベータ公開テスト版が正式にリリース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344613",
+          "author": null,
+          "description": "Odaily News 分散型オラクル プロジェクト Band Protocol は、価格フィードを XRP Ledger (XRPL) エコシステムと統合すると発表し、Band Protocol は XRPL メインネットとその EVM サイドチェーンの主要なオラクル プロバイダーになります。",
+          "link": "https://www.odaily.news/ja/newsflash/344613",
+          "publishedOn": "2023-12-01T08:54:20.000Z",
+          "wordCount": 1778,
+          "title": "Band Protocolは、XRP LedgerメインネットとそのEVMサイドチェーンに価格フィードサービスを提供します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344612",
+          "author": null,
+          "description": "Odaily News Aevo の共同創設者 Julian 氏は X プラットフォームに、Aevo が今年末までに 2 つの重大発表を発表し、その後来年 1 月に大きなイベントがあると投稿しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344612",
+          "publishedOn": "2023-12-01T08:46:15.000Z",
+          "wordCount": 1783,
+          "title": "Aevo Lianchuang: Aevo は年末までに 2 つの大きな発表を行う予定です",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344611",
+          "author": null,
+          "description": "Odaily News Lookonchainのモニタリングによると、今日1億5,000万のDYDXトークンがロック解除された後、一部の投資家がWintermuteとAmberを通じて750万のDYDX（約2,330万米ドル）を売却した。 4 つのアドレスが、Amber 関連のアドレス (0xb0d4 で始まる) を通じて、683 万 DYDX (約 2,120 万米ドル) を Binance に入金しました。 4 つのアドレスが Wintermute を通じて Binance、OKX、Gate.io に 675,000 DYDX (約 209 万米ドル) を入金しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344611",
+          "publishedOn": "2023-12-01T08:42:51.000Z",
+          "wordCount": 1835,
+          "title": "Lookonchain: 大量の DYDX がロック解除された後、合計 750 万個の DYDX が販売され、これは約 2,330 万米ドルに相当します。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344610",
+          "author": null,
+          "description": "Odaily News Glassnodeのデータによると、11月17日以降、3万7000BTC（約14億ドル）以上が取引所から流出した。",
+          "link": "https://www.odaily.news/ja/newsflash/344610",
+          "publishedOn": "2023-12-01T08:38:19.000Z",
+          "wordCount": 1738,
+          "title": "グラスノード：11月17日以降、取引所からビットコインが14億ドル流出",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344609",
+          "author": null,
+          "description": "Odailyの報道によると、オンチェーンアナリストのEmber Monitoringによると、1時間前にクジラが再びバイナンスから980BTC（約3,750万米ドル）を引き出したという。このアドレスは過去 3 日間でバイナンスから合計 2,380 BTC (約 9,078 万ドル) を引き出しました。現在、クジラは合計 2,431 BTC (約 9,305 万米ドル) を保有しており、平均原価は 37,985 米ドルです。",
+          "link": "https://www.odaily.news/ja/newsflash/344609",
+          "publishedOn": "2023-12-01T08:34:06.000Z",
+          "wordCount": 1778,
+          "title": "クジラは再びバイナンスから980 BTCを引き出しましたが、まだ2,431 BTCを保持していました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344607",
           "author": null,
