@@ -1293,21 +1293,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/investment_fund1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/investment_fund1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=494352",
-          "author": "S.Ninomiya",
-          "description": "暗号資産（仮想通貨）相場では、Glassnodeのデータでビットコイン（BTC）の市場供給量の83.6%が含み益となっていることがわかった。1BTC=69,000ドルの過去最高値を記録した21年11月以来の水準となる。",
-          "link": "https://coinpost.jp/?p=494352",
-          "publishedOn": "2023-11-27T02:49:42.000Z",
-          "wordCount": 1945,
-          "title": "ビットコイン供給量の83.6%が含み益に、過去最高値を記録した21年11月以来の水準",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427h-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427h-1.jpg"
         }
       ]
     },
@@ -1316,6 +1301,46 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344662",
+          "author": null,
+          "description": "Odaily News BananaGun は、マルチチェーンの立ち上げ、マルチプラットフォーム、ウォレットの追跡と取引履歴などを含むフォローアップのロードマップを発表する X プラットフォームの投稿を公開しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344662",
+          "publishedOn": "2023-12-01T15:09:12.000Z",
+          "wordCount": 1645,
+          "title": "BananaGunは、マルチチェーンの立ち上げや取引履歴などを含むフォローアップロードマップを発表。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344661",
+          "author": null,
+          "description": "Odaily News HMRCは、取引所トークン、NFT、ユーティリティトークンを含む暗号資産収入に対する未払いの税金を開示するよう国民に奨励するために、自主開示メカニズムを立ち上げました。政府は以前、暗号資産税の不遵守率が55％から95％に達する可能性があると推定していた。 (フィナンシャル・タイムズ紙)",
+          "link": "https://www.odaily.news/ja/newsflash/344661",
+          "publishedOn": "2023-12-01T15:07:02.000Z",
+          "wordCount": 1643,
+          "title": "英国税務当局、仮想通貨の未払い税金の自主開示メカニズムを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344660",
+          "author": null,
+          "description": "オデイリーニュース「FRB報道官」ニック・ティミラオス氏は、FRBの利上げは終わった可能性があるが、当局者らはそれを認めたがらないと述べた。 (ゴールデンテン)",
+          "link": "https://www.odaily.news/ja/newsflash/344660",
+          "publishedOn": "2023-12-01T14:28:58.000Z",
+          "wordCount": 1640,
+          "title": "FRBの代弁者：FRBの利上げは終わったかもしれないが、当局者はそれを認めたくない",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344659",
+          "author": null,
+          "description": "Odaily News CleanSpark が 11 月のマイニング データを発表、合計 666 BTC が生産され、402 BTC が販売され、合計 2,575 BTC が現在保有されています。 (グローブニュースワイヤー)",
+          "link": "https://www.odaily.news/ja/newsflash/344659",
+          "publishedOn": "2023-12-01T14:25:38.000Z",
+          "wordCount": 1655,
+          "title": "CleanSpark、11月のマイニングデータを公開、合計666BTCが生産される",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344658",
           "author": null,
@@ -9175,106 +9200,6 @@
           "wordCount": 1698,
           "title": "データ：市場が回復する前に、総供給量の3.54％を占めるU​​SDTと総供給量の0.72％を占めるU​​SDCが取引所に移管されました。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343910",
-          "author": null,
-          "description": "Odaily News SlowMist の創設者 Yu Xian 氏は、Inferno Drainer がさらに 123 万ドルの資産 (603 aEthWETH) を盗んだと X プラットフォームに投稿しました。被害者のアドレスには 770 aEthWETH も Avalanche チェーンにロックされているため、その資産のすべてが盗まれたわけではありません。以前のニュースによると、詐欺サービスプロバイダー Inferno Drainer の背後にあるチームは、11 月 26 日に Telegram グループで、同サービスを永久に閉鎖すると発表しました。 Inferno Drainer はユーザーにフィッシングツールを提供し、ユーザーが盗んだ資金から 20% の手数料を取っていると報告されています。 Web3 詐欺対策プラットフォーム Scam Sniffer の分析によると、Inferno Drainer は 2 月以降、7,000 万ドル近くの資金を盗み、被害者は 10 万人を超えています。しかし、Inferno Drainer チームは、盗まれた金額は 8,000 万ドルを超えていると述べています。ブロックチェーンセキュリティ会社CertiKは、Inferno Drainerはコミュニティに最も有害なフィッシングキットの1つであり、閉鎖されたとはいえ、競合他社のPink DrainerやAngel Drainerを含め、依然として多数のサービスプロバイダーが活動していると述べた。は、ユーザーがより多くのチェーンで被害者のウォレット資金を盗むのを支援するためのアップデートを 11 月 25 日にリリースしました。",
-          "link": "https://www.odaily.news/ja/newsflash/343910",
-          "publishedOn": "2023-11-27T03:23:27.000Z",
-          "wordCount": 1830,
-          "title": "コサイン: インフェルノ ドレイナーが再び 123 万ドルを盗む",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343909",
-          "author": null,
-          "description": "Odaily News X プラットフォーム ユーザーの Trader QT によると、Luna Classic Labs は初期の戦略的投資として、財務準備金政策に従って約 2,560 万 TerraClassicUSD (USTC) を購入しました。これは約 50 万米ドルで、平均価格は約 0.021 米ドルです。 (コインゲイプ)",
-          "link": "https://www.odaily.news/ja/newsflash/343909",
-          "publishedOn": "2023-11-27T03:13:04.000Z",
-          "wordCount": 1867,
-          "title": "マーケットニュース：Luna Classic Labsが約2,560万のUSTCを買収する可能性",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343908",
-          "author": null,
-          "description": "Odaily News STEPN開発チームFind SATOSHI Labが制作した第2弾ゲームGas Heroが本日11:00より正式にコミュニティテストを開始しました。このラウンドのテストでは、合計 3,000 人のコミュニティ ユーザーにテスト資格が公開されました。資格は、ガス ヒーロー NFT バッジ所有者、Find Satoshi Lab アンバサダー、パートナーなどのさまざまなグループに配布されます。ガス ヒーロー関係者は最近、資格のあるユーザーに通知を送信しました。 郵便。このラウンドのテストは削除の形で行われ、テスト期間中のすべてのアセットは Polygon Mumbai テスト ネットワーク上に置かれ、パブリック ベータの開始後はメイン ネットワークに転送されません。これは、パブリック ベータ版が開始されると、すべてのユーザーがゲームを最初から始める必要があることも意味します。",
-          "link": "https://www.odaily.news/ja/newsflash/343908",
-          "publishedOn": "2023-11-27T03:10:20.000Z",
-          "wordCount": 1870,
-          "title": "Gas Hero がコミュニティテストを正式に開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343907",
-          "author": null,
-          "description": "Odaily News 最近、CertiK は TEE ベースの専用ウォレットを備えたデバイスをテストし、モバイル デバイスの信頼された実行環境 (TEE) に重大な脆弱性があることが明らかになりました。 TEE は常にデバイス セキュリティの究極の防御線と考えられており、ウォレットのセットアップ時にデバイス内に「セーフ モード」を提供し、ユーザーは TEE ウォレットにアクセスするために PIN コードを渡す必要があります。しかし、CertiK のテスト結果によると、攻撃者は TEE に保存されている PIN コードを簡単に抽出し、ウォレットにアクセスして秘密キーを取得し、資産を盗むことに成功します。テスト機器のメーカーはすぐに CertiK に連絡し、最新バージョンの TEE シード ライブラリの問題を修正しました。 CertiK は、Web3 ユーザーは常に厳重に警戒し、セキュリティ対策の実装上の欠陥を防ぐ必要があると強調しています。必要に応じて、資産を保護するための専門的なサードパーティのセキュリティ監査とテクノロジーを利用する必要があります。",
-          "link": "https://www.odaily.news/ja/newsflash/343907",
-          "publishedOn": "2023-11-27T03:09:39.000Z",
-          "wordCount": 1884,
-          "title": "CertiK がモバイル デバイスの信頼済み実行環境 (TEE) の重大な脆弱性を明らかに",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343906",
-          "author": null,
-          "description": "Odaily は、The Data Nerd の監視によると、Huang Licheng が質権として 299,000 BLUR (約 162,400 米ドル) を預けたと報じました。過去 4 日間で、彼は平均価格 0.55 ドルで 370 万 BLUR (約 204 万ドル) を購入し、すべてを担保に入れました。 Huang Licheng が合計 3,300 ETH (約 688 万ドル) を Blast に入金したことは注目に値します。以前のニュースによると、オンチェーンデータアナリストのEmber Monitorによると、Huang Lichengは315 ETH（約65万ドル）を費やして1,165,011 BLURの購入を継続しました。ここ数日、Huang Licheng は合計 152 万米ドルを費やして 2,728,997 BLUR を購入し、平均価格は 0.558 米ドルでした。",
-          "link": "https://www.odaily.news/ja/newsflash/343906",
-          "publishedOn": "2023-11-27T03:07:50.000Z",
-          "wordCount": 1918,
-          "title": "Huang Licheng は過去 4 日間で 370 万 BLUR を購入し、そのすべてを約束しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343905",
-          "author": null,
-          "description": "Odaily の報道によると、Huobi HTX 市場の 11 月 27 日の Huobi HTX 上昇企業リストでは、上位 3 つの上昇企業は USTC、SIGN、SNS であり、AI/ビッグデータ セクターが最も大きく上昇したのは CTXC (21.81%)、ゲーム部門 最も上昇率が高かったのはSIGN (30.13%) でした。 11月27日10時30分現在の人気通貨の相場は以下の通り。",
-          "link": "https://www.odaily.news/ja/newsflash/343905",
-          "publishedOn": "2023-11-27T03:01:20.000Z",
-          "wordCount": 1891,
-          "title": "Huobi HTX 人気通貨レポート: USTC は 24 時間で 36.61% 上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191266",
-          "author": null,
-          "description": "テクノロジーは重要ですが、Web3 の基盤となるのは社会的なコンセンサスです。テクノロジーがすごいかどうかを追求するだけでは本末転倒です。",
-          "link": "https://www.odaily.news/ja/post/5191266",
-          "publishedOn": "2023-11-27T03:00:00.000Z",
-          "wordCount": 2620,
-          "title": "Blast からレイヤー 2 マルチシグネチャ バックドアまで: テクノロジーと社会的合意のどちらがより重要ですか?",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343904",
-          "author": null,
-          "description": "Odaily News ベンチャー キャピタリストのジェイソン カラカニス氏が「子供、高齢者、労働者階級に喜びをもたらす、卓越した手頃な価格、歩きやすさ、持続可能性、優れたアメニティについて投稿しました。皇太子 MBS がサウジアラビアでそれをできるなら、私たちも米国でもそれができます」これに対しマーク・キューバン氏は、以前テキサス州マスタングの町を購入したことがある、と語った。ジェイソン・カラカニスはこう答えた。「素晴らしいですね、新しいアメリカ都市を建設するための提案を送ります。私たちは一軒当たり25万ドルを提供します。まずは10万軒から始めて、あなたが大成功を収めたら、さらに90万軒の家（建設工事）が建設されます。」マーク・キューバンは「つまり、あなたが言っているのは、建設許可が発行されているかどうかを確認するスマートコントラクトをZK L2に書き、それに応じてNFTを作成し、オラクルが完了したら私に送信するということです」不動産と公共料金の記録をチェックし、家が完成したと判断すると、250,000 USDC がロック解除されて私に届けられますか? スマート コントラクトは建設許可ステータスを継続的にチェックし、新しい住宅ごとに新しい NFT が作成されます? そうですか?両当事者の利益を保護するために、私たちはマルチシグネチャーウォレットを使用します。取引しますか？」ジェイソン・カラカニスは、「私はあなたにお金を送るつもりです、そしてあなたが実行できると信じています。」と答えました。",
-          "link": "https://www.odaily.news/ja/newsflash/343904",
-          "publishedOn": "2023-11-27T02:59:55.000Z",
-          "wordCount": 1868,
-          "title": "マーク・キューバン氏：アメリカの新しい都市住宅計画はL2スマートコントラクトとNFTで実現可能",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343903",
-          "author": null,
-          "description": "Odaily は、Pidun コミュニティの貢献者による監視によると、KyberSwap 攻撃者が Avalanche チェーン上で 361,876 USDC.e を返したと報告しました。",
-          "link": "https://www.odaily.news/ja/newsflash/343903",
-          "publishedOn": "2023-11-27T02:30:55.000Z",
-          "wordCount": 1797,
-          "title": "KyberSwap 攻撃者が Avalanche チェーンで 361,876 USDC.e を返す",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191263",
-          "author": null,
-          "description": "開発者: F2 プールは、OFAC 認可アドレスに関連するトランザクションを意図的にフィルタリングした疑いがある",
-          "link": "https://www.odaily.news/ja/post/5191263",
-          "publishedOn": "2023-11-27T02:30:00.000Z",
-          "wordCount": 2392,
-          "title": "BTCウィークリーレポート - アトミックスマーケットが調査報告書と補償計画を発表、通貨価格帯は変動が続く（11.20-11.26）",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -9742,16 +9667,6 @@
           "wordCount": 890,
           "title": "セキュリティインシデントで4800万ドル被害のKyberSwap、KNCでユーザー保障へ。ハッカーへ10％の報奨金も提示",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/27143444/1a715024ce686db8aa36673bce6a8f50.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=354878",
-          "author": "gentosha_takahashi",
-          "description": "CZ氏の米国出国認めるよう要請 大手暗号資産（仮想通貨）取引所のバイナンス（Binance）の元最高経営責任者で創業者のチャンポン・ジャオ（Changpeng Zhao：CZ）氏の弁護士団が、マネーロンダリング防止要件違 […]",
-          "link": "https://www.neweconomy.jp/posts/354878",
-          "publishedOn": "2023-11-27T02:27:57.000Z",
-          "wordCount": 823,
-          "title": "バイナンス元CEO、判決前に米国出国を認めるよう裁判官へ要請＝ロイター",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/27112743/b090c1910b4b7d3b5362c9371e45a609.jpg"
         }
       ]
     }
