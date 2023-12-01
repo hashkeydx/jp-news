@@ -405,6 +405,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=495394",
+          "author": "AKIRA.H",
+          "description": "米国初のビットコイン先物ETF「BITO」が運用資産で歴史的高値を更新。今年のBITOへの純流入額は11月24日時点で4億3,800万ドルであり、特に11月10日までの2週間で2億2,400万ドルが流入した。現物ビットコインETF承認への期待が高まり、BTC市場への機関投資は9週連続で純流入を記録している。",
+          "link": "https://coinpost.jp/?p=495394",
+          "publishedOn": "2023-12-01T02:26:40.000Z",
+          "wordCount": 1913,
+          "title": "米国初のビットコイン先物ETF「BITO」、運用資産額が過去最高値更新 　機関需要高まる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/china_usa_bitcoin1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/china_usa_bitcoin1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=495385",
+          "author": "A.Yamada",
+          "description": "アントプールは、あるユーザーが過大に支払った83ビットコインの手数料を返却すると発表した。",
+          "link": "https://coinpost.jp/?p=495385",
+          "publishedOn": "2023-12-01T01:45:04.000Z",
+          "wordCount": 1938,
+          "title": "ビットコイン取引手数料で4億円超の過払い　アントプールが返却へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/btc-30m-fee.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/btc-30m-fee.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=495376",
           "author": "K.Kobayashi",
           "description": "大和証券グループは、パブリックブロックチェーン上でセキュリティトークンを発行するPOCを実施すると発表。基盤には仮想通貨イーサリアムのブロックチェーンを活用する。",
@@ -1191,6 +1221,66 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/post/5191373",
+          "author": null,
+          "description": "いくつかの確立された DePin プロジェクトもソラナに近づいています。",
+          "link": "https://www.odaily.news/ja/post/5191373",
+          "publishedOn": "2023-12-01T02:32:06.000Z",
+          "wordCount": 2335,
+          "title": "Solana のネイティブ DePin プロジェクトの概要",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344559",
+          "author": null,
+          "description": "Odaily の Huobi HTX マーケットによると、12 月 1 日の Huobi HTX 値上がり者リストでは、上位 3 通貨は HOTCROSS、SYLO、WLKN で、Web3 セクターが最も大きく上昇した SIGN (26.02%)、ゲームセクターが最も高くなりました。ゲインです。FOTA (25.60%) です。 12月1日10時15分現在の人気通貨の相場は以下の通り。",
+          "link": "https://www.odaily.news/ja/newsflash/344559",
+          "publishedOn": "2023-12-01T02:30:38.000Z",
+          "wordCount": 1878,
+          "title": "Huobi HTX 人気通貨レポート: HOTCROSS は 24 時間で 65.94% 上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344557",
+          "author": null,
+          "description": "Odaily News モジュラーブロックチェーン Celestia は、OP Stack と Celestia の統合のための Ethereum フォールバック機能をサポートし、Celestia メインネットのベータ版がダウンしたときに Ethereum L2 (または L3) が Ethereum calldata を使用してデータを取得するようにフォールバックできるようにすると発表しました。 ）。中断が解決されると、L2 は Celestia への DA の発行を自動的に再開します。 Ethereum フォールバック メカニズムは現在、celestiaorg/optimism v1.0.0 (OP Stack v1.0.0) に実装されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344557",
+          "publishedOn": "2023-12-01T02:21:19.000Z",
+          "wordCount": 1880,
+          "title": "Celestia は、OP スタック統合にイーサリアム フォールバック機能のサポートを追加し、ネットワーク障害が発生した場合に DA としてイーサリアムに切り替えることが可能になります",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344556",
+          "author": null,
+          "description": "Odaily News Coinbaseは本日、設立以来5回目となる年次透明性レポートを発表した。報告書は、2022年10月1日から2023年9月30日までに、コインベースが地方政府機関や法執行機関から合計1万3079件の情報開示要求を受け取ったと指摘した。 Coinbaseは、各管轄区域の法的要件に従って、政府機関や法執行機関が民事、行政、刑事、国家安全保障の目的で企業に顧客情報の開示を要求する可能性があると述べた。ただし、Coinbase は、各リクエストの具体的な状況に応じて、政府機関や法執行機関からのリクエストに異議を申し立てる場合があり、場合によっては、情報リクエストの範囲を狭めるよう政府機関や法執行機関に要請することもあります。",
+          "link": "https://www.odaily.news/ja/newsflash/344556",
+          "publishedOn": "2023-12-01T02:16:38.000Z",
+          "wordCount": 1855,
+          "title": "Coinbase 年次透明性レポート: 過去 1 年間に受け取った政府開示要求 13,079 件",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344555",
+          "author": null,
+          "description": "Odaily News Lookonchain のモニタリングにより、2 時間前に 1 億 5,000 万の DYDX がロック解除されたことがわかりました。以前のニュースによると、今朝複数のアドレスが DEX を通じて大量の DYDX トークンを販売し、2,000 万米ドル以上の DYDX がバイナンスに送金されたとのことです。",
+          "link": "https://www.odaily.news/ja/newsflash/344555",
+          "publishedOn": "2023-12-01T02:13:40.000Z",
+          "wordCount": 1876,
+          "title": "Lookonchain: 2 時間前に 1 億 5,000 万の DYDX がロック解除されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344554",
+          "author": null,
+          "description": "Odaily News 収益集約プロトコル Yearn は、Polygon で Yearn V3 のリリースを発表しました。 Yearn V3 は、トークン化戦略を導入し、ライセンスなしで単一の戦略ボールトの作成をサポートします。さらに、ストラテジーとボールトは ERC-4626 と完全に互換性があります。 Yearn が他のチェーンでリリースされる前に、新しい保管庫と戦略が追加されます。",
+          "link": "https://www.odaily.news/ja/newsflash/344554",
+          "publishedOn": "2023-12-01T01:41:22.000Z",
+          "wordCount": 1858,
+          "title": "Yearn V3 は Polygon 上で起動され、トークン化戦略を導入し、許可なく単一の戦略ボールトの作成をサポートします。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344553",
           "author": null,
@@ -8219,66 +8309,6 @@
           "publishedOn": "2023-11-26T14:55:57.000Z",
           "wordCount": 1745,
           "title": "Coinbase InternationalはADA、LINK、DOGE、XLMの無期限先物契約を上場予定",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343880",
-          "author": null,
-          "description": "Odaily News DefiLlamaの創設者0xngmi氏はXプラットフォームで、爆発の資金は実際にはマルチシグネチャ内にあるのではなく、コード内にあり、マルチシグネチャではなくマルチシグネチャによって完全に制御される契約であると述べた。私たちはウォレット内の資金を TVL としてカウントしません。これは、イーサ上の gnosis の 450 億の安全資産を除外することを意味します。",
-          "link": "https://www.odaily.news/ja/newsflash/343880",
-          "publishedOn": "2023-11-26T14:34:39.000Z",
-          "wordCount": 1747,
-          "title": "DefiLlama 創設者: ウォレット内の資金を TVL としてカウントしないでください",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343879",
-          "author": null,
-          "description": "オデイリーは、ホエール・アラートの監視によれば、5,000万USDTがテザー財務省からクラーケンに送金されたと報じた。",
-          "link": "https://www.odaily.news/ja/newsflash/343879",
-          "publishedOn": "2023-11-26T14:32:41.000Z",
-          "wordCount": 1723,
-          "title": "5,000万USDTがKrakenに送金されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343878",
-          "author": null,
-          "description": "Odaily News LootBot は、X プラットフォームでの V2 バージョンのリリースを発表しました。 LootBot V2 には、エアドロップ自動ターミナル、店頭 (OTC) ポータル、オンチェーン自動取引ターミナル、AI 主導の分析ツールを含む 4 つの主要な新機能が追加されています。 1. OTC 取引ポータルは来週オープンし、ユーザーは上場前にエアドロップ割り当てを取引したり、OTC ポータルで任意のトークンを取引したりできるようになります。このポータルはエアドロップ トークン専用に設計されており、エアドロップに参加できなかったユーザーはより恵まれたウォレットからクォータを購入でき、売り手はトークンが取引用にリストされる前でも利益を得ることができます。 2. LootBot によって発売された完全自動オンチェーン取引端末は、リアルタイムの市場データ、トレンドの洞察を提供し、AI 分析を使用して詐欺防止などの取引セキュリティを強化します。 3.LootBot は、大手 AI ソリューション パートナーと緊密に連携して、LootBot をよりインテリジェントにし、ユーザーに直感的な操作エクスペリエンスを提供します。 4. 来週から上記の新機能が順次リリースされます。",
-          "link": "https://www.odaily.news/ja/newsflash/343878",
-          "publishedOn": "2023-11-26T14:28:12.000Z",
-          "wordCount": 1754,
-          "title": "LootBot、V2をリリース：OTCやAI分析など4つの新機能を追加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343877",
-          "author": null,
-          "description": "Odaily News Kyber Network CEO ビクター・トラン氏が投稿攻撃者の追跡とユーザー資金の回収をサポートすることが今後の私の最優先事項であり、すべてのユーザーが回収されるまで継続します。アグリゲーター API、Zap as a Service、LO API はこの分野の主要なテクノロジーであり、私たちは今後もそれらの可能性を最大限に活用していきます。残念ながら、Kyber Elastic は利用できなくなります。現在、資金の回収がすべてのユーザーにとって最大の関心事であることは承知しており、私がこの大義に断固として取り組んでいるということを皆さんに知っていただきたいと思っています。私を知っている人なら誰でも、私がすべてのユーザー資金を回収する努力を放棄したり支援をやめたりしないことを知っています。",
-          "link": "https://www.odaily.news/ja/newsflash/343877",
-          "publishedOn": "2023-11-26T14:22:56.000Z",
-          "wordCount": 1748,
-          "title": "Kyber Network CEO: 攻撃者を追跡し、ユーザーの損失を最小限に抑えるためにあらゆる努力を払う",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343876",
-          "author": null,
-          "description": "オデイリーニュース 香港警察は本日、JPEXでの詐欺容疑事件に関する情報を更新し、11月26日午後5時現在、合計2,623人の被害者が事件を通報し、総額約16億台湾ドル、合計66人が関与したと発表した。逮捕者全員が承認されており、捜査を待って保釈されるには、12月下旬から来年1月下旬までに警察に届け出る必要がある。 (経済ジャーナル)",
-          "link": "https://www.odaily.news/ja/newsflash/343876",
-          "publishedOn": "2023-11-26T13:58:54.000Z",
-          "wordCount": 1738,
-          "title": "香港警察は、JPEX の詐欺容疑事件に関する最新情報を発表した。合計 66 人が逮捕され、関与額は約 16 億台湾ドルに達した。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343875",
-          "author": null,
-          "description": "Odaily News Axie Infinityは、フィリピンのタクシーアプリGrabと協力してフィリピン人ユーザーに追加の特典を提供するとXプラットフォーム上で正式に発表した。プレイヤーは、Grab アプリを通じて Merch Store にアクセスすることで Grab ポイントを獲得でき、Merch Store から特定のアイテムの割引コードを購入することもできます。",
-          "link": "https://www.odaily.news/ja/newsflash/343875",
-          "publishedOn": "2023-11-26T13:46:33.000Z",
-          "wordCount": 1739,
-          "title": "Axie はフィリピンのタクシーアプリ Grab と提携し、地元ユーザーにさらなる特典を提供します",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
