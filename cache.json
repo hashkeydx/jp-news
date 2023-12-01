@@ -12,6 +12,36 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=210434",
+          "author": "CoinDesk JAPAN",
+          "description": "大和証券グループ本社、大和証券、Fintertech、Gincoは、国内初のパブリックチェーンにおけるセキュリティ・トークンの発行および発行プラットフォーム開発 ...\n大和証券グループとGinco、パブリックチェーンでのセキュリティトークン発行、プラットフォーム開発に向けた概念実証    first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210434/",
+          "publishedOn": "2023-12-01T01:35:16.000Z",
+          "wordCount": 1063,
+          "title": "大和証券グループとGinco、パブリックチェーンでのセキュリティトークン発行、プラットフォーム開発に向けた概念実証",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/スクリーンショット-2023-12-01-10.17.06.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=210428",
+          "author": "林 理南",
+          "description": "企業としては最大額のビットコイン（BTC）を保有している米マイクロストラテジー（MicroStrategy）は11月に買い増しを行い、現在価格で約6億800万ド ...\nマイクロストラテジー、11月に約6億ドルのビットコインを購入し、保有量を10%増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210428/",
+          "publishedOn": "2023-12-01T00:31:06.000Z",
+          "wordCount": 1097,
+          "title": "マイクロストラテジー、11月に約6億ドルのビットコインを購入し、保有量を10%増加",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/WYXQM2ZK5NHIBPP7ZREFFDOTQI.png"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=210412",
+          "author": "林 理南",
+          "description": "国際決済銀行（BIS）が設置した「リスク管理に関する諮問グループ」は29日の報告書で、中央銀行には中央銀行デジタル通貨（CBDC）のリスクを軽減するために必要な ...\n中央銀行はCBDCリスクに対する十分な準備ができていない：BISレポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210412/",
+          "publishedOn": "2023-12-01T00:12:10.000Z",
+          "wordCount": 1097,
+          "title": "中央銀行はCBDCリスクに対する十分な準備ができていない：BISレポート",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/C3AO7CVUKFET7JEHXXFZUR3FBY.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=210382",
           "author": "Shaurya Malwa",
           "description": "アメリカで提供されている先物ETF、プロシェアーズ（ProShares）のビットコイン・ストラテジーETF（BITO）は今週、運用資産（AUM）で2021年12 ...\n最大のビットコイン先物ETF、運用資産額で2021年の過去最高を更新 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -374,6 +404,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=495376",
+          "author": "K.Kobayashi",
+          "description": "大和証券グループは、パブリックブロックチェーン上でセキュリティトークンを発行するPOCを実施すると発表。基盤には仮想通貨イーサリアムのブロックチェーンを活用する。",
+          "link": "https://coinpost.jp/?p=495376",
+          "publishedOn": "2023-12-01T00:45:44.000Z",
+          "wordCount": 1922,
+          "title": "「イーサリアムでデジタル証券（ST）発行へ」大和証券・Ginco協業",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Daiwa-Group-ST-POC.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Daiwa-Group-ST-POC.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=495366",
+          "author": "菊谷ルイス",
+          "description": "米株指数NYダウは本日+520ドル超と大幅続伸。11月には今年の高値を更新し2022年1月以来の高値をつけた。一方、仮想通貨ビットコインの11月の上昇率は8.8%だった。",
+          "link": "https://coinpost.jp/?p=495366",
+          "publishedOn": "2023-11-30T23:30:55.000Z",
+          "wordCount": 1980,
+          "title": "NYダウ今年の高値更新　10月PCEがインフレ鈍化示唆｜1日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=495358",
           "author": "K.Kobayashi",
@@ -1131,6 +1191,146 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344553",
+          "author": null,
+          "description": "デイリーニュースチェーンの刑事ザックに120万ドルの損害賠償を支払う。",
+          "link": "https://www.odaily.news/ja/newsflash/344553",
+          "publishedOn": "2023-12-01T01:36:11.000Z",
+          "wordCount": 1871,
+          "title": "昨年SIMスワッピングを利用して仮想通貨38万6000ドルを盗んだハッカーに懲役8年の判決",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344552",
+          "author": null,
+          "description": "Odaily News ブロックチェーンセキュリティ監査会社 Beosin の EagleEye セキュリティリスク監視、早期警告、ブロックプラットフォーム監視によると、2023 年 11 月には、ハッカー攻撃、フィッシング詐欺、ラグ プルなどのさまざまなセキュリティ インシデントによる損失額が 10 月に比べて大幅に増加したことがわかりました。損失額は3億5,653万米ドルに達し、10月の損失総額の約6.9倍となった。そのうち、攻撃には約 3 億 3,563 万米ドル、フィッシング詐欺には 1,460 万米ドル、ラグプルイベントには 630 万米ドルがかかりました。 11月には、盗まれた資金が1億を超える2件のセキュリティインシデントが発生した：仮想通貨取引所Poloniexから約1億2,600万米ドルが盗まれ、HTXとその関連クロスチェーンブリッジHECO Bridgeから約1億1,000万米ドルが盗まれた。これら 2 件のセキュリティ インシデント (どちらも Justin Sun が所有するプロジェクト) が、今月のハッカー攻撃による損失の 66% を占めました。今月は前月に比べてフィッシング事件が増加しており、複数のアドレスが 100 万米ドルを超えるフィッシング被害に遭っています。さらに、今月は世界の仮想通貨犯罪事件が大幅に増加しており、詐欺、マネーロンダリング、その他の種類を含む多くの事件が1億ドル以上に関わっています。",
+          "link": "https://www.odaily.news/ja/newsflash/344552",
+          "publishedOn": "2023-12-01T01:33:13.000Z",
+          "wordCount": 1929,
+          "title": "Beosin: 11 月のハッキング攻撃、フィッシング詐欺、敷物の引き抜きによる損失総額は 3 億 5,653 万ドルに達しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191371",
+          "author": null,
+          "description": "ブルームバーグアナリスト：スポットビットコインETFの承認期間は2024年1月5日から10日までになると予想されます。",
+          "link": "https://www.odaily.news/ja/post/5191371",
+          "publishedOn": "2023-12-01T01:30:00.000Z",
+          "wordCount": 2551,
+          "title": "- BTC ロング先物建玉 19 億 8,000 万ドル、MicroStrategy が 16,130 BTC (12.1) を購入",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344551",
+          "author": null,
+          "description": "Odaily News 香港の上場企業BC Technologyは、ライセンスを取得した仮想資産取引プラットフォームOSLがVictory Securitiesとの協力関係を香港の小売市場に拡大したと発表した。 BC Technologyは、Victory Securitiesは、個人投資家に仮想資産取引およびコンサルティングサービスを提供するために証券先物委員会によって承認された香港初の認可法人であると述べたが、これまで両当事者の協力はプロの投資家に限定されていた。 Victory Securities は香港の個人顧客をサポートし、OSL プラットフォームを通じてビットコイン (BTC) およびイーサリアム (ETH) の仮想資産を取引します。",
+          "link": "https://www.odaily.news/ja/newsflash/344551",
+          "publishedOn": "2023-12-01T01:28:56.000Z",
+          "wordCount": 1930,
+          "title": "BC Technology: 子会社の OSL が Victory Securities と協力して、香港の個人顧客に BTC および ETH 取引サービスを提供",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344550",
+          "author": null,
+          "description": "1. グレイスケールは、GBTC の ETF への転換について協議するために米国 SEC と会談し、最近元インベスコ ETF 幹部を雇用しました; 2. 米国 SEC は、CBOE が提出したフィデリティ イーサリアム スポット ETF 申請提案書を受領したことを確認しました; 3. ブラスト: パラメータ設定エラーが原因でした特定のユーザーは入金後に受け取った DAI が 100,000 DAI 未満であり、問​​題は現在解決されています; 4. Tiger Global は BAYC 投資の価値を 69% 減額し、OpenSea 株の価値は 94% 減額しました; 5. サークル: いいえ寄付はジャスティン・サンとトロン財団に行われた、またはHTXが銀行サービスを提供している; 6. クラーケンは法廷でSECによって提起された訴訟を弁護し、対応する予定である; 7. コインリスト: BitsCrunchトークンセールは12月15日に開始され、登録される現在オープンしており、トークン価格は 0.055 USDT です; 8. 事情に詳しい関係者: OpenAI は約 860 億米ドルの評価額で株式を売却する予定で、入札期限は 2024 年 1 月 5 日に延長されました; 9. Coinbase CEO: スポットビットコイン ETF の承認についてかなり楽観的; 10. ブルームバーグアナリスト: スポット ビットコイン ETF の承認期間は 2024 年 1 月 5 日から 10 日までになると予想されます。",
+          "link": "https://www.odaily.news/ja/newsflash/344550",
+          "publishedOn": "2023-12-01T01:27:02.000Z",
+          "wordCount": 1949,
+          "title": "毎日の朝のニュース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344549",
+          "author": null,
+          "description": "Odaily News GMX は、GMX Grants Program の資金提供プロジェクト情報の第 1 弾を発表しました。合計 12 プロジェクトが支援を受けています: 財務サービスプロバイダーの GMD Protocol、ERC4337 アカウント抽象化を利用したテレグラムロボットサービス Perpie、Quest ベースの The Protocolsノーコード ツール Quest Terminal、GMX V2 を監視するデータ ツール GMX V2 Telegram  Discord Analytics、Arbitrum ベースの分散型金融プロトコル Rodeo Finance、Arbitrum オンチェーンの持続可能な収入最適化プロトコル Vaultka、および Web3 デリバティブ ポートフォリオ トラッカー Tradao、 Arbitrum および Avalanche チェーン上の DeFi マージン プロトコル DeltaPrime、GMX 統合サービス Fluid、GMX Python SDK、Python を使用して GMX V2 を作成するオープンソース SDK プロジェクト、クロスチェーン AMM DEX Symbiosis、および DeFi 融資プラットフォーム Dolomite。",
+          "link": "https://www.odaily.news/ja/newsflash/344549",
+          "publishedOn": "2023-12-01T01:20:37.000Z",
+          "wordCount": 1934,
+          "title": "GMXファンディングプログラム、第1弾の資金提供プロジェクト情報を発表、計12プロジェクトが支援対象に",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344548",
+          "author": null,
+          "description": "Odaily News Spot On Chain のモニタリングによると、過去 45 分間に 3 つのクジラ アドレスが DEX を通じて DYDX トークンを販売し、総額約 727,000 米ドルに達しました。さらに、0xb0dで始まるアドレスは563万DYDX（約1,801万米ドル相当）をBinanceに入金し、QCP Capitalは39万DYDX（約126万米ドル相当）をBinanceに入金しました。今年1月に改定された提案書によると、dYdXは12月1日に主に投資家、創業者、コンサルタント、従業員の株式を含む1億5,200万DYDX（約5億1,800万ドル）のロックを解除する予定で、流通供給量の84.41％を占める。",
+          "link": "https://www.odaily.news/ja/newsflash/344548",
+          "publishedOn": "2023-12-01T01:15:00.000Z",
+          "wordCount": 1906,
+          "title": "2つのアドレスが約2,000万ドル相当のDYDXをバイナンスに転送、またはDYDXの関連当事者のロックを解除",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344547",
+          "author": null,
+          "description": "オデイリーニュース米国破産判事のマーティン・グレン氏は木曜日の法廷公聴会で、仮想通貨金融業者セルシアス・ネットワークはビットコインマイニング事業への転換案について新たな債権者の投票を求める必要があるかもしれないと述べた。セルシウスは先週、計画されている他の事業分野に対する米国証券取引委員会（SEC）の懐疑を理由に、破産後の事業計画を縮小してビットコインマイニングのみに注力すると発表した。 (ロイター)",
+          "link": "https://www.odaily.news/ja/newsflash/344547",
+          "publishedOn": "2023-12-01T00:59:43.000Z",
+          "wordCount": 1874,
+          "title": "ビットコインマイニング事業への転換を目指すセルシウス・ネットワークの提案は、新たな債権者の投票を求める必要があるかもしれない",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344546",
+          "author": null,
+          "description": "Odaily News Blastの関係者は、ユーザーがUSDTを入金すると、Blast Bridgeが入金トランザクションでUSDTをDAIに変換すると述べた文書をXプラットフォーム上で発行した。 UI 上のスリッページ パラメーターの設定が間違っていたため、ユーザーは 2 つのトランザクションで受け取るべき DAI よりも 100,000 DAI を受け取ることになりました。 Blast氏は、設定エラーは解決されており、影響を受けるユーザーにはスリッページによる損失額と追加の10％ボーナス（合計11万USDT）が送金されると述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/344546",
+          "publishedOn": "2023-12-01T00:57:26.000Z",
+          "wordCount": 1925,
+          "title": "ブラスト: パラメータ設定エラーにより、ユーザーが入金後に受け取る DAI が 100,000 未満でしたが、問題は解決されました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344545",
+          "author": null,
+          "description": "Odaily News Coinbase CEOのBrian Armstrong氏はインタビューで、スポットビットコインETFの承認については非常に楽観的であると述べたが、ブライアン氏はまた、この問題に関して十分な専門知識を持っていないことも強調した。スポットビットコインETFは承認されそうな気がします ビットコインETFは承認に近づいています。潜在的なビットコインETF発行者13社のうち、10社がCoinbase Custodyをカストディアンとして選択した。ブライアン・アームストロング氏は、コインベースが過去10年間に数百億ドルの仮想通貨を確保してきたと述べ、これはコインベースに対する市場の信頼を示していると述べた。 (復号化)",
+          "link": "https://www.odaily.news/ja/newsflash/344545",
+          "publishedOn": "2023-12-01T00:50:49.000Z",
+          "wordCount": 1896,
+          "title": "Coinbase CEO: スポットビットコインETFの承認についてかなり楽観的",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344544",
+          "author": null,
+          "description": "デイリーニュース 米国証券取引委員会（SEC）は木曜日、グレイスケールと会談し、グレイスケール・ビットコイン・トラスト・ファンド（GBTC）のETF転換の可能性について話し合った。グレイスケールはまた、最近、インベスコETFの幹部を長年務めたジョン・ホフマン氏を雇用し、同氏がグレイスケールの流通および戦略的パートナーシップの責任者となる予定である。 SECは水曜日にブラックロックとナスダックの代表とも会談した。ブラックロックは6月にビットコインETFを申請しており、他の資産管理会社数社もこれに追随した。 (CNBC)",
+          "link": "https://www.odaily.news/ja/newsflash/344544",
+          "publishedOn": "2023-12-01T00:45:54.000Z",
+          "wordCount": 1878,
+          "title": "グレイスケールはGBTCのETFへの転換について協議するために米国SECと会合し、最近元インベスコETF幹部を雇用した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344543",
+          "author": null,
+          "description": "Odaily News スイスの仮想通貨銀行セバは、世界展開戦略の一環として社名をアミナに変更すると発表した。 Amina は、従来のバンキング、デジタル バンキング、暗号バンキングの要素を組み合わせることを目指しています。同社は香港証券先物委員会から同地域で仮想通貨取引サービスを提供するライセンスを取得し、スイス、香港、スイスの戦略的ハブでの成長加速の一環としてアブダビに事務所を開設したと報じられている。アブダビ。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/344543",
+          "publishedOn": "2023-12-01T00:41:57.000Z",
+          "wordCount": 1884,
+          "title": "スイスの仮想通貨銀行セバがアミナへの社名変更を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344542",
+          "author": null,
+          "description": "Odaily News Krakenの最高法務責任者（CLO）マルコ・サントリ氏はCNBCとのインタビューで、Krakenが法廷でSEC訴訟を弁護し、対応する予定であることを認めた。サントリ氏は、米国証券取引委員会は、クラーケンが清算取引プラットフォームと投資契約のブローカーディーラーであると主張したと述べた。 SECの告訴内容は全くの虚偽である。同氏は、クラーケンは規制を回避するつもりはなく、代わりに暗号通貨エコシステムにとって意味のある法的枠組みの確立を求めていると強調した。 (クリプトスレート)",
+          "link": "https://www.odaily.news/ja/newsflash/344542",
+          "publishedOn": "2023-12-01T00:40:14.000Z",
+          "wordCount": 1880,
+          "title": "クラーケン最高法務責任者：法廷でSEC訴訟を弁護し対応する計画",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344541",
+          "author": null,
+          "description": "Odaily News Bloombergは、タイガー・グローバル・マネジメントがBored Ape Yacht Club（BAYC）への投資価値を69％減損し、NFT市場OpenSeaの株式価値を94％減損したとの報道として、この件に詳しい人々の話を引用した。 。 (ブルームバーグ)",
+          "link": "https://www.odaily.news/ja/newsflash/344541",
+          "publishedOn": "2023-12-01T00:37:42.000Z",
+          "wordCount": 1926,
+          "title": "Tiger Global は BAYC への投資価値を 69%、OpenSea 株の価値を 94% 減損する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344540",
           "author": null,
@@ -8079,96 +8279,6 @@
           "publishedOn": "2023-11-26T13:46:33.000Z",
           "wordCount": 1739,
           "title": "Axie はフィリピンのタクシーアプリ Grab と提携し、地元ユーザーにさらなる特典を提供します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343874",
-          "author": null,
-          "description": "Odaily News degen news が開示したデータによると、Solana チェーンにおける月平均 USDC 送金取引額は 700 億米ドルを超えています。これに関してCircleの共同創設者兼CEOのJeremy Allaire氏はXプラットフォームに投稿し、USDCがSolana上で強力なエコシステムを開発しており、それは心強いことであると述べ、加えて、USDCの年間ランレートに基づく取引量は約2000ドルであると述べた。 8500億。",
-          "link": "https://www.odaily.news/ja/newsflash/343874",
-          "publishedOn": "2023-11-26T13:31:50.000Z",
-          "wordCount": 1747,
-          "title": "Solana チェーンにおける月平均 USDC 送金量は 700 億米ドルを超えました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343873",
-          "author": null,
-          "description": "Odaily News 米国司法省は、CZ被告の弁護団の最新の法廷提出文書の声明に対し、同被告には「短期」刑が言い渡されるが、逃亡する動機はないとの声明を発表した。政府は、刑事ガイドラインに基づき、CZ氏に最長18カ月の懲役刑が言い渡される可能性があり、検察側は法定最高最長10年の刑を求刑する可能性があることを明らかにした。文書には、CZには家族の絆があり、刑務所に入ったことはないが、彼が直面する判決は彼に重大な影響を与えるだろうと述べられている。これに基づき、米国政府は、CZ氏が米国内で法的責任を負い、潜在的な逃亡リスクを軽減することを目的として、有罪答弁と判決の期間中のCZ氏の渡航を制限するために提案した措置は合理的かつ必要であると考えている。",
-          "link": "https://www.odaily.news/ja/newsflash/343873",
-          "publishedOn": "2023-11-26T13:16:54.000Z",
-          "wordCount": 1696,
-          "title": "米司法省、CZ渡航制限の訴えに応じ、検察側は法定最高懲役10年を求刑する可能性",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343872",
-          "author": null,
-          "description": "Odaily News Sun Yuchen 氏は X プラットフォームに、ビットコインの入出金が HTX で完全に復元されたと投稿しました。現在、BTC、ETH、TRX、USDTを含むすべての主流通貨はHTX上で完全な入出金機能を提供しており、他の仮想通貨の入出金も今後数日以内に徐々に再開される予定です。週 。",
-          "link": "https://www.odaily.news/ja/newsflash/343872",
-          "publishedOn": "2023-11-26T12:17:31.000Z",
-          "wordCount": 1717,
-          "title": "Justin Sun: HTX はビットコインの入出金を再開し、残りの入出金は来週完了する予定です",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343871",
-          "author": null,
-          "description": "Odaily News MetaTrust Alert の監視によると、巨大なクジラが 78,040,642,548 SAFEREUM を 50.1 ETH (約 104,000 ドル) の価格で売却し、価格が 62.88% 下落しました。",
-          "link": "https://www.odaily.news/ja/newsflash/343871",
-          "publishedOn": "2023-11-26T12:14:56.000Z",
-          "wordCount": 1711,
-          "title": "巨大なクジラが10万ドル相当のSAFEREUMを売却し、価格が62.88%下落した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343870",
-          "author": null,
-          "description": "Odaily News Bitcoin Inscription Wallet Unisat Wallet は、Brc20 スワップ投票とリストラットを終了すると X プラットフォームに投稿しました。 Unisat Wallet は、Suhu での投票プロセスがロボットによって操作されていたと考えており、将来的には投票メカニズムの改善を検討し、オンチェーン投票用の Brc20 投票モジュールを開始する予定です。",
-          "link": "https://www.odaily.news/ja/newsflash/343870",
-          "publishedOn": "2023-11-26T11:57:16.000Z",
-          "wordCount": 1716,
-          "title": "UniSat Walletがratを起動、ロボット操作を防ぐために投票メカニズムの改善を検討",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191260",
-          "author": null,
-          "description": "LOOKSは100%流通します",
-          "link": "https://www.odaily.news/ja/post/5191260",
-          "publishedOn": "2023-11-26T11:48:36.000Z",
-          "wordCount": 1890,
-          "title": "1週間のトークンロック解除プレビュー：OP、1インチ数千万ドルのロックが解除され、9つのプロジェクトが間もなくロック解除されます",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343869",
-          "author": null,
-          "description": "Odaily は、Whale Alert の監視によれば、1,3 億 7,294 万 9,000 TRX (約 1 億 4,834 万 8,017 ドル) が未知のウォレットから未知のウォレットに送金されたと報じました。",
-          "link": "https://www.odaily.news/ja/newsflash/343869",
-          "publishedOn": "2023-11-26T11:48:19.000Z",
-          "wordCount": 1712,
-          "title": "13億7,200万TRX（1億4,800万ドル）が不明なウォレットから送金されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343868",
-          "author": null,
-          "description": "Odaily News 香港警察は最近、仮想資産取引プラットフォーム HOUNAX に関わる大規模な詐欺事件を摘発した。現在の被害者は131人で、総額は1億2000万元近くに上る。このうち、69歳の退職女性が1200万元をだまし取られた。香港警察は、被害者が株式市場での損失を理由に仮想通貨への投資を熱望していたことを明らかにし、関与したプラットフォームは収益率が40％に達するという信じられないほど高いと主張し、利益が保証され、利益も保証されると主張していた。警察は投資家に「投資する前にもっとよく知っておくべきだ」と注意を喚起した。警察によると、中国証券監督管理委員会は今月初め、同プラットフォームを無許可企業および不審なウェブサイトのリストに掲載し、金融機関と協力したと虚偽の仮想資産取引プラットフォームに分類したと発表した。 、しかし、これは真実ではありませんでした。警察はまた、同社はシンガポールの企業であると主張しており、今後の捜査において海外機関と協力する可能性を排除しなかったと述べた。",
-          "link": "https://www.odaily.news/ja/newsflash/343868",
-          "publishedOn": "2023-11-26T11:38:30.000Z",
-          "wordCount": 1701,
-          "title": "香港警察：HOUNAX詐欺事件の金額は約1億2000万台湾ドルで、海外機関と共同捜査される可能性がある",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/343867",
-          "author": null,
-          "description": "Odaily News DefiLlamaのデータによると、Friend.tech TVLは3,320万米ドルに下落し、10月2日の歴史的最高値である5,204万米ドルと比較して36%以上下落しました。以前のニュースによると、Friend.tech の創設者である Racer の X プラットフォーム アカウント @0xRacerAlt がログアウトされた疑いがあり、表示できなくなりました。",
-          "link": "https://www.odaily.news/ja/newsflash/343867",
-          "publishedOn": "2023-11-26T11:31:23.000Z",
-          "wordCount": 1744,
-          "title": "Friend.tech TVL は最高値から 36% 以上下落し、3,320 万ドルとなった",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
