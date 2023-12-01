@@ -425,6 +425,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=495422",
+          "author": "A.Yamada",
+          "description": "Web3ゲームIlluviumは、世界最大級のeスポーツチーム「Team Liquid」と提携すると発表した。独自NFTのリリースやトーナメント開催を予定している。",
+          "link": "https://coinpost.jp/?p=495422",
+          "publishedOn": "2023-12-01T05:00:04.000Z",
+          "wordCount": 1970,
+          "title": "Web3・NFTゲーム「イルビウム（Illuvium）」、最大手eスポーツチームTeam Liquidと提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/illuv-team-liquid.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/illuv-team-liquid.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=495432",
           "author": "幸田直子",
           "description": "高級NFTコレクションBAYC（Bored Ape Yacht Club）キャラのバーチャルバンド「KINGSHIP」をフィーチャーした「KINGSHIP Islands」が、大手ゲーミングプラットフォームRobloxでプレイ可能になった。",
@@ -1271,6 +1286,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344583",
+          "author": null,
+          "description": "",
+          "link": "https://www.odaily.news/ja/newsflash/344583",
+          "publishedOn": "2023-12-01T05:01:03.000Z",
+          "wordCount": 1761,
+          "title": "Binance DeFi ステーキングマイニングからの BTC と ETH の削除に関するお知らせ (2023-12-05)",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344582",
+          "author": null,
+          "description": "Odaily NewsのKOLティファニー・フォンは最近、ブルックリン・メトロポリタン拘置所（MDC）の元受刑者ジーン・ボレロにインタビューし、SBFがMDCでの公判前拘留中に拘留されたのは「気弱な性格」と「80歳近くの体格」のせいだったと明かした。恐喝のため。ボレロ氏は、囚人がみかじめ料をゆすり取るためにSBFを脅迫しようとしたケースがあると述べた。ボレロは、非常に内気で緊張しているように見えたSBFと話したときのことを覚えています。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/344582",
+          "publishedOn": "2023-12-01T04:49:08.000Z",
+          "wordCount": 1736,
+          "title": "元受刑者、SBFがブルックリン刑務所で受刑者からの恐喝脅迫に遭遇したことを明らかに",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344581",
+          "author": null,
+          "description": "Odaily News OKX市場によると、ETHは短期的に再び2100 USDTを超え、最高値2100.42 USDTに達しましたが、現在はわずかに下落し、一時2099.28 USDTで取引されており、24時間で3.25％上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344581",
+          "publishedOn": "2023-12-01T04:37:08.000Z",
+          "wordCount": 1742,
+          "title": "ETHが短期的に再び2100 USDTを突破",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344580",
+          "author": null,
+          "description": "Odaily News Terraform Labs (TFL) は本日、Terra のエコロジカル DeFi プロジェクト White Whale に 265 万米ドルの流動性を投入したと発表しました。具体的な資金配分は次のとおりです。LUNA/axlUSDC 取引ペアに 150 万米ドル、wBTC/LUNA 取引ペアに 100 万米ドル、LUNA/WHALE 取引ペアに 150,000 米ドル。過去 16 日間における TFL の Terra エコシステムへの資本投資総額は 1,765 万米ドルに達したと報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344580",
+          "publishedOn": "2023-12-01T04:34:49.000Z",
+          "wordCount": 1792,
+          "title": "Terraform Labs が流動性として 265 万ドルを環境プロジェクト White Whale に投資",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191378",
+          "author": null,
+          "description": "現時点では、SQL 作成アシスタントとしてのみ適しています。",
+          "link": "https://www.odaily.news/ja/post/5191378",
+          "publishedOn": "2023-12-01T04:33:59.000Z",
+          "wordCount": 2022,
+          "title": "Dune AI を評価するための 6 つの質問: オンチェーン アナリストは解雇されますか?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344579",
           "author": null,
