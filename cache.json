@@ -1328,36 +1328,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=494597",
-          "author": "菊谷ルイス",
-          "description": "米仮想通貨取引所大手コインベースは、ADA・LINK・DOGE・PERP・XLMのパーペチュアル先物取引を提供する予定。機関投資家の需要が高まる模様だ。",
-          "link": "https://coinpost.jp/?p=494597",
-          "publishedOn": "2023-11-27T23:00:00.000Z",
-          "wordCount": 1948,
-          "title": "コインベース、ADA・DOGEなどの先物も提供へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/F_3JaZoaQAE1Twm.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/F_3JaZoaQAE1Twm.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=494581",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所バイナンスのリチャード・テン新CEOは同社のブログでビジョンを発表。規制対応とユーザーを重視する姿勢を示し、また、ユーザーの資産は安全であることを強調した。",
-          "link": "https://coinpost.jp/?p=494581",
-          "publishedOn": "2023-11-27T22:45:04.000Z",
-          "wordCount": 1961,
-          "title": "「規制対応とユーザーを重視」バイナンス新CEOがビジョンを発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/Binance-Richard-Teng.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/Binance-Richard-Teng.png"
         }
       ]
     },
@@ -1366,6 +1336,46 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344726",
+          "author": null,
+          "description": "Odaily News Aevo は、ユーザーが ETH、USDC、USDT、WBTC の間で担保を交換できるようにする、X プラットフォーム上でのスポット スワップ機能の開始を発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344726",
+          "publishedOn": "2023-12-02T11:12:53.000Z",
+          "wordCount": 1760,
+          "title": "Aevo がスポット スワップ機能を開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344725",
+          "author": null,
+          "description": "オデイリーニュース 英国の議員らは小売デジタルポンドの導入に慎重な姿勢を求め、技術の進歩と潜在的な落とし穴の間のバランスを見つけることの重要性を強調した。同国の財務特別委員会のメンバーは、小売デジタルポンドの開始の可能性について懸念を表明し、実施前に慎重な検討が必要だと述べた。委員会は、イノベーションに関する潜在的な利点を認識しつつ、イングランド銀行（BoE）と財務省に対し、関連するコストとリスクを考慮して、このステップの必要性を徹底的に評価するよう要請する。委員会の報告書は暫定的に、市場が不安定な時期に潜在的な取り付け取り付けのリスクを軽減するために、小売デジタルポンドの価値に低い初期制限を課すことを勧告した。この特定の予防措置は、銀行破綻のリスクを高め、融資コストを上昇させる可能性がある、デジタルウォレットへの多額の預金送金を防ぐことを目的としています。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/344725",
+          "publishedOn": "2023-12-02T11:04:41.000Z",
+          "wordCount": 1747,
+          "title": "英国財務省特別委員会、中央銀行やその他の機関に対し、小売デジタルポンドの展開に慎重になるよう要請",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344724",
+          "author": null,
+          "description": "Odaily News Aave コミュニティは、ARFC 提案「Gauntlet と Aave が 12 か月の協力協定を更新する」を承認する投票を行い、最終支持率は 66.07% でした。 DeFiリスクマネージャーのGauntletは、資本効率を最大化し、破産や清算のリスクを軽減し、それによって長期的な持続可能な発展を達成することを目的として、継続的な市場リスク管理の提案を開始したと報告されています。昨年12月、GauntletはAaveとのパートナーシップを更新し、そのパートナーシップは2023年12月28日まで続くことになった。 Gauntlet が提供する機能は、Aave V2、AaveV3、GHO (新)、Insolvency Refund をカバーし、年会費は 160 万米ドルで、そのうち 50% が GHO、残りの 50% が USDT で支払われます。",
+          "link": "https://www.odaily.news/ja/newsflash/344724",
+          "publishedOn": "2023-12-02T10:49:48.000Z",
+          "wordCount": 1804,
+          "title": "Aave コミュニティは、「Gauntlet が Aave との契約を 12 か月間更新する」という ARFC 提案を可決することに投票しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344723",
+          "author": null,
+          "description": "Odaily News NerdBot が投稿した最大の購入量は、0x7de で始まるウォレット アドレスからのもので、過去 6 日間で 7,000 万 GROK (148 万ドル) を購入し、7 番目に大きな保有者になりました。",
+          "link": "https://www.odaily.news/ja/newsflash/344723",
+          "publishedOn": "2023-12-02T10:34:36.000Z",
+          "wordCount": 1759,
+          "title": "あるクジラが過去6日間で7,000万GROKを購入し、7番目に大きな保有者となった",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344722",
           "author": null,
@@ -8844,26 +8854,6 @@
           "publishedOn": "2023-11-28T00:29:39.000Z",
           "wordCount": 1880,
           "title": "Vitalik: アカウントの抽象化は暗号資産を保護でき、ゼロ知識証明はプライバシー保護に使用できます。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344009",
-          "author": null,
-          "description": "Odaily News LayerZero は、Public Goods Network (PGN) を開始したことを発表しました。PGN は、OP Stack を通じて構築された L2 ブロックチェーンです。このプロジェクトは、シーケンサー料金の分配を通じて公共財のための資金を作成することに特化しています。ネットワーク料金は、さまざまな公共財のサポートに使用されます. 、オープンソース プロジェクトから公共図書館や公園などまで。 LayerZero と統合されたアプリケーションは、サポートされるネットワークとして PGN を追加できるようになりました。",
-          "link": "https://www.odaily.news/ja/newsflash/344009",
-          "publishedOn": "2023-11-27T22:29:47.000Z",
-          "wordCount": 1842,
-          "title": "LayerZero が L2 ネットワーク Public Goods Network (PGN) を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344008",
-          "author": null,
-          "description": "Odaily News 米国証券取引委員会（SEC）は、バイナンスとその創設者CZがバイナンス.USプラットフォームに保存されている資産を制御するバックドアを持っているかどうかを調べるための証拠を探し続けています。米証券取引委員会は6月、違法取引所を運営しているとしてバイナンスとバイナンス・USを告訴したが、その訴訟はこれまでのところ、バイナンスがFTX形式の詐欺で米国の暗号資産を流用する可能性があるという当局の懸念に基づいている。バイナンスとCZは先週、刑事告発で有罪を認め、マネーロンダリング対策管理と制裁法の順守に関する米国での長期にわたる捜査はほぼ解決したが、司法省の訴訟にはバイナンスが顧客の暗号資産を悪用したという疑惑は含まれていなかった。 （WSJ）",
-          "link": "https://www.odaily.news/ja/newsflash/344008",
-          "publishedOn": "2023-11-27T22:27:28.000Z",
-          "wordCount": 1799,
-          "title": "WSJ: SECは依然としてBinance.US詐欺のさらなる証拠を求めている",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
