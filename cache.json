@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=210626",
+          "author": "林 理南",
+          "description": "有名サッカー選手のクリスティアーノ・ロナウド（Cristiano Ronaldo）氏が、大手暗号資産（仮想通貨）取引所バイナンス（Binance）との商業的関係 ...\nサッカーのC・ロナウド選手、バイナンスの宣伝関与で10億ドルの集団訴訟に直面 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210626/",
+          "publishedOn": "2023-12-02T04:00:00.000Z",
+          "wordCount": 1098,
+          "title": "サッカーのC・ロナウド選手、バイナンスの宣伝関与で10億ドルの集団訴訟に直面",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_2135889201.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=210523",
           "author": "Jamie Crawley",
           "description": "キャシー・ウッド（Cathie Wood）氏の投資運用会社アーク・インベスト（ARK Invest）は、今週3度目のコインベース（Coinbase）株の売却を行 ...\n米アーク、470万ドル相当のコインベース株を売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -434,6 +444,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=495708",
+          "author": "A.Yamada",
+          "description": "ステーブルコイン「USDC」を提供するサークル社は、公開書簡を米議員らに提出。テロ資金など不正金融への関与はないと強調した。",
+          "link": "https://coinpost.jp/?p=495708",
+          "publishedOn": "2023-12-02T04:00:24.000Z",
+          "wordCount": 1936,
+          "title": "仮想通貨USDC発行の米サークル社、「テロ資金調達への関与はない」　議員らに書簡",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/circle_usdc1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/circle_usdc1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=495697",
           "author": "AKIRA.H",
@@ -1386,6 +1411,76 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344700",
+          "author": null,
+          "description": "Atomicals と ARC-20 のマーケットおよびブラウザーである Odaily News Atomicals Market は、安全でない署名 SIGHASH_NONE-ANYONECANPAY の使用により、11 月 14 日と 23 日の攻撃で 33,000 個の ATOM が失われましたが、現在はより安全な署名に切り替えたとツイートしました。 one. 署名方法 SIGHASH_SINGLE-ANYONECANPAY。チームはこの事件で失われた33,000個のATOMを補償することを約束し、返されたATOMは48時間以内に被害者の住所に空輸される予定だ。アドレスを変更する必要がある場合は、Discord でご連絡ください。現在、チームは 11 月 25 日に発生した別の ATOM 紛失事件にまだ対処中です。アトミックス・マーケットは予期せぬ資産損失をカバーするための安全基金メカニズムを確立する。また、アトミックスマーケットはチーム再建作業が完了したことを発表した。",
+          "link": "https://www.odaily.news/ja/newsflash/344700",
+          "publishedOn": "2023-12-02T04:22:49.000Z",
+          "wordCount": 1805,
+          "title": "Atomics Market: 33,000 ATOM を補償し、より安全な署名方法に切り替えました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344699",
+          "author": null,
+          "description": "Odaily は、Web3 ネットワーク セキュリティ会社 Ancilia の監視によると、長年活動していなかった証拠金プロトコル Fulcrum がハッキングされ、99 ETH 以上が失われたと報じました。ハッカーはチェーン上で「Chapardez le cadavre, négociez avec les fantômes」（遺体を盗み、幽霊と交渉せよ）というフランス語のメッセージを送信した。 Fulcrum は 2019 年 6 月にリリースされました。公式 Web サイトは開くことができず、開発元の bZx は 2020 年以降更新を停止します。",
+          "link": "https://www.odaily.news/ja/newsflash/344699",
+          "publishedOn": "2023-12-02T04:16:20.000Z",
+          "wordCount": 1811,
+          "title": "Ancilia: 非アクティブなプロジェクト Fulcrum が攻撃され、損失は 99 ETH を超えました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344698",
+          "author": null,
+          "description": "Odaily の報道によると、OpenAI の内部メモでは、当初今年ローンチ予定だった同社の GPT ストアが 2024 年初めに延期されることが明らかになりました。 GPT ストアの開始を遅らせた理由は、OpenAI が GPT ストアをさらに最適化することを望んでいることであると報告されていますが、関連する内部メモには、サム・アルトマン氏が会社に復帰した高レベルの混乱に関連しているとは言及されていません。彼が解雇された後。現時点では、OpenAI関係者はGPTストアの立ち上げの遅れについてコメントしていない。 (ロイター)",
+          "link": "https://www.odaily.news/ja/newsflash/344698",
+          "publishedOn": "2023-12-02T04:12:29.000Z",
+          "wordCount": 1784,
+          "title": "OpenAI は GPT ストアの起動を遅らせる可能性があります",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344697",
+          "author": null,
+          "description": "Odaily News オンチェーン分析会社Santimentによるモニタリングによると、オンチェーンデータは、イーサリアムのトップ10のクジラが最近保有量を増やし続けており、現在4100万ETHを保有していることを示している。過去最高値。過去 1 年間、取引所からの上位 10 頭のクジラの供給量は増加し続けていますが、取引所上のアドレスは大きな変動を経験しています。上位10のイーサリアム取引所ウォレットは急落し、保有額はわずか800万ETHと、約24週間で最低となった。",
+          "link": "https://www.odaily.news/ja/newsflash/344697",
+          "publishedOn": "2023-12-02T04:10:42.000Z",
+          "wordCount": 1765,
+          "title": "イーサリアムの上位10頭のクジラは史上最高額の4,100万ETHを保有",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344696",
+          "author": null,
+          "description": "Odaily News DeFiプラットフォームのShell Protocolがリリースに関する文書を発行した。シェル・プロトコルはまた、監査が完了したら、その後のシークレット・ホリデー・クラフティング・イベント中にトークンリリースの詳細が発表されるだろうとも述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/344696",
+          "publishedOn": "2023-12-02T03:35:18.000Z",
+          "wordCount": 1791,
+          "title": "シェル プロトコル: SHELL トークンは 2024 年 1 月中旬に一般公開されます。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191397",
+          "author": null,
+          "description": "複数の仮想通貨取引所における大規模なセキュリティ侵害により、デジタル資産分野におけるサイバーセキュリティの問題が注目を集めています。",
+          "link": "https://www.odaily.news/ja/post/5191397",
+          "publishedOn": "2023-12-02T03:26:31.000Z",
+          "wordCount": 3321,
+          "title": "M6 Labs: Kyber ハッカーが敵対的買収を試みた?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344695",
+          "author": null,
+          "description": "Odaily News イーサリアムステーキングプロトコル Swell は、Arbitrum と Ethereum 間の安全なクロスチェーン相互運用性を実現するために、Oracle サービス Chainlink のクロスチェーン相互運用性プロトコル (CCIP) を正式に統合します. これは、Swell が以前は LayerZero OFT 標準に基づいていたことも意味します。クロスチェーントークン転送メカニズムは、リキッドプレッジトークン swETH のスケーラブルなクロスチェーン転送を実現するために、Chainlink CCIP のトークン転送ソリューションにアップグレードされます。さらに、Swellは、swETHのETH準備金監視サービスをサポートするためにChainlinkの準備金証明を使用することも発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344695",
+          "publishedOn": "2023-12-02T03:21:41.000Z",
+          "wordCount": 1808,
+          "title": "イーサリアムステーキングプロトコルのSwellがChainlink CCIPの統合とそのプルーフ・オブ・リザーブ・サービスの使用を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344694",
           "author": null,
@@ -8664,16 +8759,6 @@
           "publishedOn": "2023-11-27T21:43:52.000Z",
           "wordCount": 1822,
           "title": "BTCは37,000 USDTを下回り、24時間で1.49％下落した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344001",
-          "author": null,
-          "description": "Odaily News OKX 市場によると、USTC は 1 時間で 40% 近く下落し、現在の価格は 0.047 USDT です。以前のニュースによると、Terra は X プラットフォーム上で、Terraform Labs はいかなる形でも Mint Cash には参加しないとの声明を発表しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344001",
-          "publishedOn": "2023-11-27T16:25:40.000Z",
-          "wordCount": 1727,
-          "title": "USTCは1時間で40%近く下落し、現在の価格は0.047 USDTです。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
