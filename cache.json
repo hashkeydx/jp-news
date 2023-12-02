@@ -445,6 +445,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=495730",
+          "author": "AKIRA.H",
+          "description": "暗号資産（仮想通貨）ビットコイン支持者で知られる、エルサルバドルのナイブ・ブケレ大統領が総選挙キャンペーンのため職を離れる。再選を目指す中で、国内政治のチェック・アンド・バランスの弱体化と、国際関係への影響を探る。",
+          "link": "https://coinpost.jp/?p=495730",
+          "publishedOn": "2023-12-02T07:25:32.000Z",
+          "wordCount": 1914,
+          "title": "エルサルバドルのブケレ大統領、2024年再選を見据え職務離脱へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/elsalvador1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/elsalvador1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=495720",
           "author": "AKIRA.H",
           "description": "Matrixportによる暗号資産（仮想通貨）ビットコインの価格予測を深掘り。2024年に1835万円到達の可能性、歴史的なデータ分析、マクロ経済要因と地政学的影響を詳細に解説。ビットコイン投資の未来を探る。",
@@ -1426,6 +1441,36 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344712",
+          "author": null,
+          "description": "Odaily は、Scopescan の監視によると、PulseChain.com 関連のアドレス (0x304B で始まる) が 5 時間前に 1,350 stETH (282 万米ドル) を Blast に入金したと報告しました。このアドレスは現在、合計 3,850 stETH (800 万ドル) を Blast に入金しており、Blast は 10 番目に大きな入金者となっています。",
+          "link": "https://www.odaily.news/ja/newsflash/344712",
+          "publishedOn": "2023-12-02T08:04:58.000Z",
+          "wordCount": 1838,
+          "title": "PulseChain.com の関連アドレスは 5 時間前に 1,350 stETH を Blast にデポジットし、現在合計 3,850 stETH がデポジットされています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344710",
+          "author": null,
+          "description": "@ai_9684xtpa による Odaily のモニタリングによると、LINK の主要な空売り者は借入を 108,300 枚まで拡大し、健全性スコアは 1.11 でした。過去 24 時間で、この大口口座はさらに 280,000 USDC を Aave に追加し、合計 63,000 LINK (US$960,000 相当) を貸し出し、その後チェーン上で 53,000 LINK をまとめて売却し、175 WETH と 11.72 WBTC の借入を返済しました。以前のニュースによると、11月20日、大手空売り業者はAaveに5万USDCの証拠金を追加して1万LINKを貸し出し、その後「LINKをステーブルコインに売り、証拠金を増やしてLINKを貸す」というサイクルでLINKを空売りし続けた。",
+          "link": "https://www.odaily.news/ja/newsflash/344710",
+          "publishedOn": "2023-12-02T07:44:21.000Z",
+          "wordCount": 1805,
+          "title": "主要なLINK空売り業者は過去24時間にさらに63,000 LINKを貸し出し、現在の借り入れ総額は108,300 LINKとなっている。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344709",
+          "author": null,
+          "description": "Odaily News ヴィタリック・ブテリンをテーマにした NFT シリーズ ブテリン カードにより、グウェイは一時的に急騰し、一時は最大のガス消費者になりました。イーサリアムブロックチェーンエクスプローラーEtherscanのデータによると、北京時間午前4時の時点で、ブテリンカードは3時間で総ガスユニットの13.1％を消費しており、これはUniswapユニバーサルルーターアドレスやテザーのパブリックアドレスよりも多い。過去 24 時間で、このシリーズの取引手数料は 318.31 ETH (665,670 ドル相当) に達しました。ブテリンカードプロジェクトは、イーサリアムブロックチェーンの共同創設者ヴィタリック・ブテリンに敬意を表して2,015枚のNFTをアップロードすることを目的としていると報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344709",
+          "publishedOn": "2023-12-02T07:19:26.000Z",
+          "wordCount": 1794,
+          "title": "ブテリンをテーマにした NFT シリーズであるブテリン カードは、一時的にガスの最大の消費者になりました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344708",
           "author": null,
