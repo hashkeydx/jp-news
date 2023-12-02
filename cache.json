@@ -380,26 +380,6 @@
           "wordCount": 1139,
           "title": "コインベースが主要ビットコインETFでカストディを独占、競合参入の可能性は？",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/IED73VWH65BYJMWEMJ6F56TLIA.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=210062",
-          "author": "CoinDesk JAPAN",
-          "description": "三菱UFJ信託銀行、Progmat、JPYCは、改正資金決済法に準拠したステーブルコイン「JPYC（信託型）」の発行に向けた共同検討を開始したと11月28日、発 ...\nプリペイド型ステーブルコインを手がけるJPYCが三菱UFJ信託銀行、Progmatと協業──JPYC（信託型）の発行を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/210062/",
-          "publishedOn": "2023-11-28T01:50:46.000Z",
-          "wordCount": 1071,
-          "title": "プリペイド型ステーブルコインを手がけるJPYCが三菱UFJ信託銀行、Progmatと協業──JPYC（信託型）の発行を目指す",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/36656-119-5e4c8d1461e0de4551cd53.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=210061",
-          "author": "林 理南",
-          "description": "ブロックチェーンのネイティブトークンであるdYdX（DYDX）、オプティミズム（OP）、スイ（SUI）などの主要アルトコインの一部は27日、暗号資産市場全般が下 ...\n6億5000万ドル相当の巨額アンロックを控え、アルトコイン上昇がストップ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/210061/",
-          "publishedOn": "2023-11-28T01:49:52.000Z",
-          "wordCount": 1216,
-          "title": "6億5000万ドル相当の巨額アンロックを控え、アルトコイン上昇がストップ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/NQE3OLGZ6ZBAPXKGS5MQM3J4YNY.png"
         }
       ]
     },
@@ -1291,6 +1271,36 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344737",
+          "author": null,
+          "description": "Odaily は、Scopescan の監視によると、luggis.eth が 2 時間前に 237,000 AAVE (243 万ドル) を Binance に入金したと報じました。彼は2020年11月からAAVEを購入しており、AAVEをBinanceに入金するのは今回が初めてです。現在、彼はまだ78,300 AAVE（853万ドル）を保有しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344737",
+          "publishedOn": "2023-12-02T14:13:02.000Z",
+          "wordCount": 1874,
+          "title": "luggis.eth は 2 時間前に 237,000 AAVE を Binance に入金しましたが、まだ 78,300 AAVE を保持しています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344736",
+          "author": null,
+          "description": "Odaily News Blast は従業員をさらに雇用しており、ウェブサイトには「シニア DevOps エンジニア」と「シニア プロトコル エンジニア」の 2 つの募集ポジションが掲載されています。 DeBank の最新データによると、Blast TVL は現在 6 億 7,000 万ドル近くになっています。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/344736",
+          "publishedOn": "2023-12-02T14:11:01.000Z",
+          "wordCount": 1835,
+          "title": "ブラストでは「シニアDevOpsエンジニア」および「シニアプロトコルエンジニア」を募集しています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344735",
+          "author": null,
+          "description": "Odaily News マルチチェーン DEX ApeBond (以前は ApeSwap として知られていました) は、X プラットフォーム上で文書を発行し、10 日以内にトークンの移行を終了し、ABOND 配布を開​​始し、その時点ですべての作業とユーティリティが新しいトークンに移管されると述べました。 12 月 12 日 20:00 までに移行に失敗した場合、資金が失われます。ユーザーはできるだけ早く移行するようにお願いします。",
+          "link": "https://www.odaily.news/ja/newsflash/344735",
+          "publishedOn": "2023-12-02T13:54:50.000Z",
+          "wordCount": 1866,
+          "title": "マルチチェーン DEX ApeBond: トークンの移行は 12 月 12 日に終了し、ABOND の配布が開始されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344734",
           "author": null,
@@ -8610,166 +8620,6 @@
           "wordCount": 1722,
           "title": "Animoca Brands は公開市場から EDU トークンを購入する予定",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344037",
-          "author": null,
-          "description": "Odaily News DeFilama のデータによると、Blast の現在の TVL は 5 億 7,000 万米ドルを超え、つまり 75 億 7,200 万米ドルとなり、その TVL は過去 1 週間で 600% 以上増加しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344037",
-          "publishedOn": "2023-11-28T02:20:52.000Z",
-          "wordCount": 1747,
-          "title": "ブラストの現在の TVL は 5 億 7,000 万米ドルを超える",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344036",
-          "author": null,
-          "description": "Odaily News Uniswap の創設者 Hayden 氏が「DDOS ベクトルの問題があるが、32kb から 64kb に増やすだけでも、スマート コントラクト開発者にとっては大きな改善です」に投稿しました。実際、現在の制限は 24kb ですが、Polygon の最高情報セキュリティ責任者の Mudit Gupta 氏も返信で訂正しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344036",
-          "publishedOn": "2023-11-28T02:16:05.000Z",
-          "wordCount": 1719,
-          "title": "Uniswap創設者がスマートコントラクトのコードサイズ制限の引き上げを呼びかけ",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344035",
-          "author": null,
-          "description": "毎日のニュース: 公式発表によると、通貨の安全ポジションと分離マージンにより、BLUR 資産と VIC 資産が追加され、クロスマージン取引ペアも増加しました。クロスマージンの新しい取引ペア: BLUR/USDT、KMD/USDT、LSK/USDT、RARE/USDT、VIC/USDT、VOXEL/USDT、分離マージンの新しい取引ペア: BLUR/USDT、VIC/USDT。",
-          "link": "https://www.odaily.news/ja/newsflash/344035",
-          "publishedOn": "2023-11-28T02:10:59.000Z",
-          "wordCount": 1709,
-          "title": "BLUR、VIC資産、およびより多くの取引ペアを通貨安全ポジションと分離マージンに追加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344034",
-          "author": null,
-          "description": "Odaily News Arbitrumは、Odysseyイベントが正式に終了したことを発表しました.最後のNFTアプリケーションは東部時間12月1日正午（北京時間12月2日1時）に開始されます.それを受け取る資格を希望する場合、ユーザーはスナップショットが11月30日正午（北京時間12月1日午前1時）に撮影されたとき、12/15のオデッセイNFTが所有されていました。",
-          "link": "https://www.odaily.news/ja/newsflash/344034",
-          "publishedOn": "2023-11-28T01:55:38.000Z",
-          "wordCount": 1705,
-          "title": "Arbitrumは、Odysseyイベントが正式に終了し、最終的なNFTアプリケーションが12月2日にオープンすると発表しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344033",
-          "author": null,
-          "description": "Odaily は、PeckShield の監視によれば、FTX アドレスから 250,000 SOL (約 1,360 万米ドル相当) が Wintermute に転送されたと報じました。以前のニュースによると、過去 8 時間で、FTX は 800 万 MATIC (595 万ドル) と 1,592 ETH (322 万ドル) を Coinbase と OKX に送金しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344033",
-          "publishedOn": "2023-11-28T01:53:18.000Z",
-          "wordCount": 1792,
-          "title": "FTX アドレスは 250,000 SOL を Wintermute に転送します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344032",
-          "author": null,
-          "description": "Odaily News DeGodsおよびyootsシリーズのNFTの創設者であるフランク氏は、Xプラットフォーム上でポイントプログラムのPoints Parlorを閉鎖し、DeGodsおよびyootsのNFT保有者へのポイント発行を停止すると述べた。フランク氏は、ポイント プログラムの本来の目的はコミュニティにより多くの価値を与えることであったが、実際にはマイナスの影響が証明された影響を上回っていると述べました。ポイント システムには根本的な欠陥があることが判明し、製品レベルだけでなく、ポイントの配分が非常に不均衡だったため、このシステムは広く歓迎されませんでした。フランク氏は、実行可能な代替案が現れればこの問題を再考するつもりだが、現時点ではポイントプログラムを終了することが決定したと付け加えた。",
-          "link": "https://www.odaily.news/ja/newsflash/344032",
-          "publishedOn": "2023-11-28T01:49:09.000Z",
-          "wordCount": 1719,
-          "title": "DeGodsとyootsの創設者がポイントプログラムPoints Parlorの終了を発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344031",
-          "author": null,
-          "description": "Odaily News CZ は X プラットフォームに、バイオテクノロジーについて読んでおり、暗号化テクノロジーを利用してバイオテクノロジー分野の研究資金を加速する方法について考えていると投稿しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344031",
-          "publishedOn": "2023-11-28T01:48:25.000Z",
-          "wordCount": 1719,
-          "title": "CZ: バイオテクノロジーを加速するために暗号通貨を検討する",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344030",
-          "author": null,
-          "description": "オデイリー紙は、香港ラジオテレビのウェブサイトによると、一部の国民が仮想資産取引プラットフォームHOUNAXへの投資で詐欺に遭ったのではないかと疑っていると報じた。警察によると、２７日午後４時時点で被害者は計１４５人が通報し、被害額は約１億４８００万香港ドルに上った。香港証券先物委員会は、27日現在、HOUNAXに関する苦情は計18件、金額は1万2000～1000万香港ドルに及ぶと指摘した。",
-          "link": "https://www.odaily.news/ja/newsflash/344030",
-          "publishedOn": "2023-11-28T01:44:59.000Z",
-          "wordCount": 1739,
-          "title": "香港警察：HOUNAX 事件は 145 人によって通報されており、約 1 億 4,800 万香港ドルが関与している",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344029",
-          "author": null,
-          "description": "Odaily の報道によると、SEC インターネット執行局の元局長であるジョン・リード・スターク氏が X プラットフォームに投稿し、CZ に次のようなアドバイスを与えると述べた。 。余裕がない場合は、運を無理に押し出さないでください。賞金を頭に乗せずに寝てはいけません。行き止まりの通りには足を踏み入れないでください。",
-          "link": "https://www.odaily.news/ja/newsflash/344029",
-          "publishedOn": "2023-11-28T01:42:19.000Z",
-          "wordCount": 1716,
-          "title": "元SEC職員がCZにアドバイス：行き止まりの道には足を踏み入れないでください",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344028",
-          "author": null,
-          "description": "Odaily News Lookonchainのモニタリングによると、過去8時間でFTXは800万MATIC（595万米ドル）と1,592ETH（322万米ドル）をCoinbaseとOKXに送金した。",
-          "link": "https://www.odaily.news/ja/newsflash/344028",
-          "publishedOn": "2023-11-28T01:38:47.000Z",
-          "wordCount": 1708,
-          "title": "FTXが800万MATICと1,592ETHをCoinbaseとOKXに送金",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344027",
-          "author": null,
-          "description": "デイリーニュース Lookonchainの監視によると、セルシウスは7時間前にFalconXを通じてBinanceとOKXに5,000 ETH（1,012万ドル）を入金した",
-          "link": "https://www.odaily.news/ja/newsflash/344027",
-          "publishedOn": "2023-11-28T01:38:07.000Z",
-          "wordCount": 1713,
-          "title": "セルシウスは5,000 ETHをBinanceとOKXに入金",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344026",
-          "author": null,
-          "description": "Odaily News Deribit のアジア太平洋コマース責任者である LinChen 氏が How 確かに投稿しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344026",
-          "publishedOn": "2023-11-28T01:35:48.000Z",
-          "wordCount": 1718,
-          "title": "デリビット：CMEのBTCとETHの先物プレミアムは1.5%に達し、2021年3月の強気市場の水準に近づいた",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344025",
-          "author": null,
-          "description": "Odaily News AaveV3 は、融資の担保として FXS と crvUSD のサポートを追加しました。FXS の借入制限は 800,000 個、最大 LTV は 35%、crvUSD の借入制限は 6,000 万個です。",
-          "link": "https://www.odaily.news/ja/newsflash/344025",
-          "publishedOn": "2023-11-28T01:34:41.000Z",
-          "wordCount": 1766,
-          "title": "Aave V3 は、融資の担保として FXS と crvUSD のサポートを追加しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191286",
-          "author": null,
-          "description": "日本の仮想通貨投資機関 CGV は、Blast エコシステムへの 500 万米ドルの特別投資を発表しました。",
-          "link": "https://www.odaily.news/ja/post/5191286",
-          "publishedOn": "2023-11-28T01:30:00.000Z",
-          "wordCount": 3075,
-          "title": "- バイナンスは従来の金融会社に目を向けている；X 社は広告収入で 7,500 万ドルを失っている (11.28)",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344022",
-          "author": null,
-          "description": "1. WSJ: SEC は依然として Binance.US 詐欺のさらなる証拠を求めている; 2. CZ は一時的に米国に足止めされており、連邦判事は判決前に彼が UAE に戻ることができるかどうか判断するだろう; 3. Google Cloud が参加を確認EigenLayer テスト ネットワーク内; 4. Solana MEV 開発者 Jito がガバナンス トークンを開始; 5. Terra: Terraform Labs はいかなる立場においても Mint Cash には参加しません; 6. ビッグタイム プロジェクト パーティーのアドレスが 1,250 万 BIGTIME を GSR マーケットに転送; 7. Mint Cash : エアドロップにはさまざまなトークンが含まれ、VC からの投資を求める予定; 8. ブルームバーグのアナリスト: ARK は重量バランスをとるために GBTC を売却; 9. CoinShares: デジタル資産への投資流入は先週 3 億 4,600 万米ドルに達し、9 年連続で最大の週間流入を記録週間; 10. Nansen 2 パブリックベータ版は 11 月 28 日にリリースされます; 11. 日本の暗号投資機関 CGV は、Blast エコシステムに 500 万米ドルの特別投資を発表しました; 12. Vitalik: アカウントの抽象化は暗号資産を保護できます。知識証明が利用可能 プライバシー保護のため; 13. Cosmos Lianchuang は、Cosmos が AtomOne をフォークするための具体的な計画を提案しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344022",
-          "publishedOn": "2023-11-28T01:30:00.000Z",
-          "wordCount": 1928,
-          "title": "毎日の朝のニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344024",
-          "author": null,
-          "description": "Odaily News OKX 市場によると、USTC は 11 月 27 日に一時 0.08 USDT の高値に達し、その後反落し始めましたが、今日では最高値 0.06 USDT から最低値 0.03 USDT まで下落し、最大 50% の下落となりました。現在の下落率は26.31%まで縮小しており、価格は0.04USDTとなっている。",
-          "link": "https://www.odaily.news/ja/newsflash/344024",
-          "publishedOn": "2023-11-28T01:29:53.000Z",
-          "wordCount": 1860,
-          "title": "USTCは24時間で26％以上下落し、0.03USDTまで下落した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -9157,16 +9007,6 @@
           "wordCount": 791,
           "title": "バイナンス元CEOに米国滞在命令、UAEへの帰国許可は却下",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/28112536/CZ-20231128Reuters.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=355217",
-          "author": "OtsugaShinya",
-          "description": "「JPYC（信託型）」の発行検討開始 前払式支払手段による日本円ステーブルコイン（SC）「JPYC」の信託型による発行に向け、検討が開始された。三菱UFJ 信託銀行、Progmat（プログマ）社、JPYC社が11月28日 […]",
-          "link": "https://www.neweconomy.jp/posts/355217",
-          "publishedOn": "2023-11-28T02:15:06.000Z",
-          "wordCount": 674,
-          "title": "日本円ステーブルコイン「JPYC」の信託型発行が検討開始、金銭払い戻し可能に。三菱UFJ信託とプログマ協業で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/11/28111459/f338933ad54e18e2d21b60a073e060cc.jpg"
         }
       ]
     }
