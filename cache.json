@@ -420,16 +420,6 @@
           "wordCount": 1115,
           "title": "米アーク、500万ドル相当のグレイスケール・ビットコイン・トラストを売却",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/EAWKDMFIRREVFJRDIZGCJ3UDHA.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=209980",
-          "author": "Peter Gaffney",
-          "description": "資産のトークン化と現実資産（RWA）の領域は2023年、プロが運用する金融商品とデジタル資産を使った仕組みがうまく組み合わさっていることから、個人および機関投資 ...\nトークン化と現実資産（RWA）が主役に躍り出る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/209980/",
-          "publishedOn": "2023-11-27T21:00:00.000Z",
-          "wordCount": 1149,
-          "title": "トークン化と現実資産（RWA）が主役に躍り出る",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/shutterstock_2306376291.jpg"
         }
       ]
     },
@@ -1403,36 +1393,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/FINAL-1-JTO-Token-new.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/FINAL-1-JTO-Token-new.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=494576",
-          "author": "菊谷ルイス",
-          "description": "日本に拠点を置くWeb3投資会社Cryptogram Venture（CGV）は27日、新しい仮想通貨L2プラットフォーム「Blast」のエコシステムに、500万ドル投資することを発表した。",
-          "link": "https://coinpost.jp/?p=494576",
-          "publishedOn": "2023-11-27T21:05:00.000Z",
-          "wordCount": 1962,
-          "title": "日本拠点のCGVファンド、L2「Blast」のエコシステムに500万ドル投資へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/Web3_0304-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/Web3_0304-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=494573",
-          "author": "菊谷ルイス",
-          "description": "海外版仮想通貨取引所バイナンスは新たに不適格として4つの仮想通貨銘柄の上場廃止を通告した。一方、3銘柄の新規先物契約の開始も実施した。",
-          "link": "https://coinpost.jp/?p=494573",
-          "publishedOn": "2023-11-27T20:30:46.000Z",
-          "wordCount": 1913,
-          "title": "海外版バイナンス、仮想通貨4銘柄上場廃止へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
         }
       ]
     },
@@ -1441,6 +1401,66 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344718",
+          "author": null,
+          "description": "Odaily News Coinbase International Exchange と Coinbase Advanced は、Polygon (MATIC) と Bitcoin Cash (BCH) の永久契約を上場します。 MATIC-PERPおよびBCH-PERP市場は2023年12月7日18時以降にオープンします。",
+          "link": "https://www.odaily.news/ja/newsflash/344718",
+          "publishedOn": "2023-12-02T09:07:25.000Z",
+          "wordCount": 1756,
+          "title": "Coinbase International ExchangeがMATICとBCHの無期限契約を開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344717",
+          "author": null,
+          "description": "Odaily は、Santiment の監視によると、200 の大規模ウォレット アドレスが約 5 週間で LINK の保有額を 5,000 万ドル以上増加させたと報告しました。 5 か月以内に、LINK の総市場価値は 143% 増加しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344717",
+          "publishedOn": "2023-12-02T08:55:08.000Z",
+          "wordCount": 1776,
+          "title": "200 個の大規模ウォレットの LINK 保有額が 5 週間で 5,000 万ドル以上に増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344716",
+          "author": null,
+          "description": "オデイリーニュース 米国の対北朝鮮制裁に違反するためにイーサリアム財団開発者ヴァージル・グリフィスと共謀した罪で起訴されたスペイン国籍のアレハンドロ・カオ・デ・ベノスが逮捕された。スペイン国家警察は声明で、カオ・デ・ベノス容疑者が偽りの身分でバルセロナに滞在し、電車でマドリード行きを計画していたことが判明したと発表した。司法関係者によると、カオ・デ・ベノス氏は金曜日に高等法院に出廷し、引き渡し手続きが行われるまで無条件で釈放された。同関係者は、米国は要請を正式化し、文書を提出する必要があると付け加えた。カオ・デ・ベノス氏はこの点について、「引き渡しはない。米国での告発は間違っているだけでなく、スペインには存在しない。」と述べた。親平洋親和機構は、研究者ヴァージル・グリフィスを北朝鮮に違法に雇用し、暗号通貨とブロックチェーン技術サービスを提供している。グリフィス氏は、北朝鮮による米国の制裁回避を支援するために仮想通貨の使用を共謀した罪で、2022年に米国の裁判所から懲役5年3か月の判決を受けた。 (ロイター)",
+          "link": "https://www.odaily.news/ja/newsflash/344716",
+          "publishedOn": "2023-12-02T08:50:14.000Z",
+          "wordCount": 1735,
+          "title": "ロイター：米国の制裁に違反するためにヴァージル・グリフィスと共謀した疑いで告発されたスペイン人が米国に引き渡される可能性がある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344715",
+          "author": null,
+          "description": "Odaily News USDT 発行部数は 11 月に 45 億増加しました。ブロックチェーンインテリジェンスプラットフォームのアーカムは最近、これを裏付ける記事をXに掲載し、約30億ドル相当のUSDTがトロンネットワーク上で鋳造されたことを指摘した。注目すべきは、この期間中に Kraken の預金アドレス (TQef1 で始まる) が 25 億ドルのステーブルコインを鋳造したことです。データによると、USDTの供給は年初から約35%増加しました。さらに、DeFi Llamaのデータによると、USDTの総供給量の50%以上がTronで鋳造されているのに対し、供給量の約41%はイーサリアムで鋳造されています。 (クリプトスレート)",
+          "link": "https://www.odaily.news/ja/newsflash/344715",
+          "publishedOn": "2023-12-02T08:35:32.000Z",
+          "wordCount": 1749,
+          "title": "11月のUSDT発行部数は45億増加し、そのうち約30億部がTronネットワークで鋳造された",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191377",
+          "author": null,
+          "description": "Celestia は CometBFT と Cosmos SDK に基づく POS ブロックチェーンであり、その DA 層の 2 つの主要な機能は、データ可用性サンプリング (DAS) と名前空間マークル ツリー (NMT) です。",
+          "link": "https://www.odaily.news/ja/post/5191377",
+          "publishedOn": "2023-12-02T08:31:15.000Z",
+          "wordCount": 2786,
+          "title": "LD Capital: モジュラーブロックチェーン Celestia の簡単な分析",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344713",
+          "author": null,
+          "description": "Odaily News ブロックチェーンのセキュリティ機関である Hacken は、X プラットフォームに、同社のチームが Telegram や Linkedin などのプラットフォームで出現している一種の詐欺を最近発見したと投稿しました。特に、この詐欺は暗号通貨業界の開発者と監査人をターゲットにしています。具体的には、詐欺師はソーシャル ネットワーク上で技術サービスを提供する個人を探し出し、正当なプロジェクトの名のもとにリポジトリをダウンロードするよう説得します。リポジトリのコード内に不安定な「npm run」コマンドがあります。実行すると、ユーザーのファイル システムが侵害される可能性があります。この手口は、不正な zip ファイルや PDF を使用した以前の詐欺と似ています。この戦術に対する防御を強化するには、次の点を考慮してください: - リポジトリをダウンロードするとき、特に見慣れないソースから要求された場合は注意してください; - Semgrep や CodeQL などのツールを使用してリポジトリ コードを再確認し、実行時のセキュリティを確保するための定義済みルールを確立します。地元で。",
+          "link": "https://www.odaily.news/ja/newsflash/344713",
+          "publishedOn": "2023-12-02T08:27:44.000Z",
+          "wordCount": 1761,
+          "title": "ハッケン: プロジェクト関係者を装い、開発者や監査人を誘導して不審なリポジトリをダウンロードさせる詐欺師が存在します。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344712",
           "author": null,
