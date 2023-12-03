@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-02T23:21:10.534Z</updated>
+    <updated>2023-12-03T01:35:26.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Silo Labs: Arbitrum 上の Chainlink wstETH/ETH 価格ストリームが不正確な値を報告し、5 つのポジションが清算される原因となった]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344759</id>
+        <link href="https://www.odaily.news/ja/newsflash/344759"/>
+        <updated>2023-12-03T01:34:17.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 分散型融資プロトコル Silo Finance 開発チーム Silo Labs は、今日初めに Arbitrum 上の Chainlink wstETH/ETH 価格ストリームが不正確な値を報告し、その結果 5 つのポジションが清算されたと X プラットフォームに投稿しました。 Silo の清算人は他の清算人よりも先に清算を行い、清算違約金を受けました。 Silo は影響を受けたユーザーに罰金を返金します。サイロには不良債権は発生しませんでした。 Silo Labs は、Arbitrum 上の WSTETH/ETH の価格変動は、Balancer V2 で発生した 2 つの大規模なトランザクションによるものと思われると述べました。これら 2 つの取引は非常に大規模であり、Arbitrum での Chainlink データプロバイダーの VWAP 計算に考慮された可能性があり、報告された価格は、その時点の出来高加重市場を表している可能性があります。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10のアドレスがステーブルコインGHOの総供給量の60%以上を制御]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344758</id>
+        <link href="https://www.odaily.news/ja/newsflash/344758"/>
+        <updated>2023-12-03T01:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 分散型金融会社 Avara (旧 Aave) のステーブルコイン GHO は、目標の 0.98 ドルに達しました。現在、GHO を保有しているアドレスは 980 あり、上位 10 アドレスが総供給量の 61.01% を占めています。さらに、GHO ステーブルコインの上位 100 保有者は合計で流通している GHO 総量の 99.47% を所有しています。 2023 年 12 月 2 日の時点で、GHO は時価総額で 26 番目に大きい法定通貨のステーブルコインです。 (Bitcoin.com)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbaseから1153 BTCを転送]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344757</id>
+        <link href="https://www.odaily.news/ja/newsflash/344757"/>
+        <updated>2023-12-03T01:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Odailyは、Whale Alertの監視によれば、1,153BTC（約455万ドル）がCoinbaseから未知の新しいウォレットに送金されたと報じた。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[過去 24 時間で、ネットワーク全体が 1 億 3,300 万米ドルに清算され、空注文は 1 億 900 万米ドルに清算されました。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344756</id>
+        <link href="https://www.odaily.news/ja/newsflash/344756"/>
+        <updated>2023-12-03T01:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Coinglass のデータによると、過去 24 時間にネットワーク全体で 1 億 3,300 万米ドルのポジションが清算され、そのうちロング注文で 2,463 万米ドル、ショート注文で 1 億 900 万米ドルが清算されました。清算された通貨のうち、BTCは3,561万ドル、ETHは3,139万ドル、ORDIは839万ドル、SOLは648万ドルを清算しました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friend.techプロトコル手数料受領アドレス0xdd9が7821 ETHをCoinbaseに転送]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344755</id>
+        <link href="https://www.odaily.news/ja/newsflash/344755"/>
+        <updated>2023-12-03T01:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Odaily は、Ember Monitoring によると、Friend.tech プロトコル料金受け入れアドレス 0xdd9 が 4 時間前に 7821 ETH (1,694 万ドル) を Coinbase に送金したと報告しました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スワン・ビットコインCEO：ビットコインは強気相場の初期段階にある可能性がある]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344754</id>
+        <link href="https://www.odaily.news/ja/newsflash/344754"/>
+        <updated>2023-12-03T01:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Swan Bitcoin CEOのCory Klippsten氏はインタビューで、マクロ経済要因とBitcoinが何を意味するのかに対する人々の理解の高まりの影響を受け、Bitcoinは強気市場の初期段階にある可能性があると述べた。さらに、ビットコインを高リスク資産とする見方とは反対に、クリップステン氏はビットコインは特に金融インフレに対する安全資産であると信じており、この見方はインフレをヘッジしようとするより保守的な投資家を惹きつける可能性がある。クリップステン氏は、ビットコインは規制上の課題に直面している他の仮想通貨とは異なり、この違いにより、規制リスクを懸念する投資家の目にはビットコインがより安定で信頼できる投資となる可能性があると強調した。 (クリプトグローブ)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンチェーン取引高：なぜブロックチェーンの重要な指標なのか？]]></title>
+        <id>https://www.coindeskjapan.com/?p=209999</id>
+        <link href="https://www.coindeskjapan.com/209999/"/>
+        <updated>2023-12-03T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン取引高はブロックチェーンネットワークの脈拍に当たる。デジタル資産投資家にとって、ネットワーク内のこうしたフローを注視し、プロトコル間で比較することは ...
+オンチェーン取引高：なぜブロックチェーンの重要な指標なのか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Todd Groth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroStrategyのビットコイン保有額は浮動利益16億ドルを超える]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344753</id>
+        <link href="https://www.odaily.news/ja/newsflash/344753"/>
+        <updated>2023-12-03T00:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Saylortracker のデータによると、ビットコインは短期的に 39,500 米ドルを超えており、現在の価格に基づくと、MicroStrategy のビットコイン ポジションの含み益は 16 億 3,000 万米ドルになります。以前、MicroStrategy が 36,785 ドルの価格で 16,130 BTC を追加した後、総保有量は 174,530 に増加し、平均購入価格は 30,252 ドルでした。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スリナム大統領、国家ビットコイン戦略策定のためJAN3 CEOと会談]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344752</id>
+        <link href="https://www.odaily.news/ja/newsflash/344752"/>
+        <updated>2023-12-03T00:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 南米スリナムのチャン・サントキ大統領は最近、ビットコイン新興企業JAN3のCEOサムソン・モウと会談し、ビットコインをスリナム経済に統合するための潜在的な戦略について話し合った。アルバート・ラムディン外相が主導したこの会合は、スリナムの経済モデルを多様化する戦略の一環で、両当事者は金融、持続可能なエネルギー、テクノロジーなどのさまざまな分野におけるビットコインの可能性に焦点を当てた。正式な協議に先立ち、サムソン・モウ氏とJAN3 COOのベン・ヴァン・ホール氏は、銀行や金融の専門家を含むスリナムのビジネス界の主要人物とビットコインの潜在的な利点について話し合った。 JAN3の上級経営陣はまた、スリナム中央銀行のラケシュ・アヒン副総裁とも会談し、同国の経済状況、特に債務とインフレの課題について深い理解を得ることができた。モウ氏はこれらの問題に対する潜在的な解決策としてビットコインを強調し、それをエルサルバドルの経験と比較した。会談では、エネルギー資源、金融政策、スリナムの遠隔地でビットコイン採掘事業を確立する可能性など、さまざまな話題が取り上げられた。サントク大統領は、スリナムを金融・技術分野のリーダーとして位置づけ、新技術を活用して国民の生活水準を向上させるビットコイン戦略の策定に関心を示した。 (BTC時間)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTCの現在の価格は39456 USDTで、24時間で1.67%の上昇です。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344751</id>
+        <link href="https://www.odaily.news/ja/newsflash/344751"/>
+        <updated>2023-12-03T00:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Ouyi OKX 市場によると、BTC 価格は短期間で急騰し、39,000 USDT の基準を超え、最高値 39,828 USDT に達しました。現在価格は 39,456 USDT、24 時間で 1.67% 上昇しています。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カストディア銀行創設者: 従来の金融とビットコインは共存する必要がある]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344750</id>
+        <link href="https://www.odaily.news/ja/newsflash/344750"/>
+        <updated>2023-12-03T00:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News 仮想通貨に優しい銀行カストディア銀行の創設者兼最高経営責任者（CEO）のケイトリン・ロング氏はインタビューで、インフレが人々の生活に与える壊滅的な影響と資本市場への重大な影響を考慮すると、人々の焦点は最近、金儲けから資産保全へと移っていると述べた。 。カストディアのビットコイン保管事業について語る際、ケイトリン・ロング氏は、従来の金融とビットコインは共存する必要があり、それぞれの属性を組み合わせながら、相互に害を及ぼさないように2つのシステム間に橋渡しをする必要があると述べた。 Money Form Bank+ は最強の顧客保護を提供します。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friend.tech: 契約とファンドの所有権は、マルチシグと専門家による保管の新しい組み合わせに移管されました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/344749</id>
+        <link href="https://www.odaily.news/ja/newsflash/344749"/>
+        <updated>2023-12-03T00:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Friend.techは、オンチェーン取引を完了し、Friend.techの契約と資金の所有権をマルチ署名と専門的保管の新しい組み合わせに移管したとXプラットフォームに投稿した。これらの変更により、Friend.tech の長期的なセキュリティが向上し、納税義務を履行できるようになります。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「規制当局者を装った政治家」──フォーチュン誌のゲンスラーSEC委員長特集から学ぶ3つのポイント]]></title>
         <id>https://www.coindeskjapan.com/?p=210326</id>
@@ -7434,156 +7555,6 @@ CMEのビットコイン・イーサリアム先物で強気のシグナルが�
         <link href="https://www.odaily.news/ja/newsflash/344134"/>
         <updated>2023-11-28T13:35:40.000Z</updated>
         <summary type="html"><![CDATA[Odaily News 野村證券のデジタル資産子会社である Laser Digital は、機関投資家のデジタル資産プロバイダーである Talos との戦略的統合を発表しました。この統合により、Talos ネットワークに新しい機関グレードの流動性ソースが追加されるとともに、ビジネス範囲が拡大します。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロック: ビットコインには複数の拡張ソリューションがあり、ライトニング ネットワークは TVL で約 2 億ドルで第 1 位にランクされています。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344133</id>
-        <link href="https://www.odaily.news/ja/newsflash/344133"/>
-        <updated>2023-11-28T13:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News The Block Pro は、これまでビットコインの拡大を達成するためにさまざまな試みが行われてきたと X プラットフォームに投稿しました。ライトニング ネットワークはビットコイン最大のスケーリング ソリューションであり、主にビットコイン価格の上昇により、その TVL は 2023 年には 2 億ドル近くに達します。 DeFiChain、Rootstock、Stacks などの他のビットコイン スケーリング ソリューションは、ライトニング ネットワークよりも TVL が低くなります。これは、おそらくビットコインのセキュリティの一部しか継承しないため、セキュリティのトレードオフが原因と考えられます。さらに、Bitcoin Ordinals は SATOSHI に一意の識別子を割り当てて NFT になることを可能にし、SegWit と Taproot アップグレードを使用して代替可能な BRC-20 トークンを鋳造します。 SegWit と Taproot のアップグレードによるこれらの革新は、レイヤー 2 などの分野におけるビットコインの将来の可能性を示しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本の携帯電話会社大手NTTドコモ子会社がWeb3ウォレットスクランベリーを開始]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344132</id>
-        <link href="https://www.odaily.news/ja/newsflash/344132"/>
-        <updated>2023-11-28T13:19:44.000Z</updated>
-        <summary type="html"><![CDATA[日本の携帯電話会社大手 NTT ドコモの Web3 子会社である NTT デジタルは、Web3 ウォレット スクランベリーを開始し、パブリックベータ版を 11 月に、V1.0.0 版を来年 2 月に開始する予定です。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリックが提唱するd/accとは一体何なのでしょうか？]]></title>
-        <id>https://www.odaily.news/ja/post/5191311</id>
-        <link href="https://www.odaily.news/ja/post/5191311"/>
-        <updated>2023-11-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[d/acc は、さまざまな分野で起こり得る攻撃やリスクを防御するために、さまざまな分野での技術開発を加速しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lambda Network: LWS モジュラー ストレージ サービスが Conflux Network にデプロイされました]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344131</id>
-        <link href="https://www.odaily.news/ja/newsflash/344131"/>
-        <updated>2023-11-28T12:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Lambda Network は、LWS モジュラー ストレージ サービスが Conflux Network で正式に開始され、開発者は CFX を支払うことでストレージ サービスを利用できると述べた X プラットフォームに関する文書を発行しました。 Lambdaは複数のチェーンをサポートし、開発者インターフェイスをリリースし、NFTデータストレージサービスの開発者バージョンをオープンします。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無期限契約取引所MYXがHongShan主導で500万米ドルのシードラウンド資金調達を完了]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344130</id>
-        <link href="https://www.odaily.news/ja/newsflash/344130"/>
-        <updated>2023-11-28T12:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News D11 Labs が支援する分散型永久契約取引所 MYX は、HongShan (旧 Sequoia China)、Consensys、 Hack VC、OKX Ventures、Foresight Ventures、Redpoint China、HashKey Capital、GSR Markets、Alti5、Leland Ventures、Cypher Capital、Bing Ventures、Lecca Venturesなどが投資に参加した。このラウンドで調達した資金は、MYXの技術革新と市場拡大を加速し、メインネット製品の迅速な立ち上げと大規模開発を促進するために使用されます。同時に、MYX は、コミュニティの初期サポーターのモチベーションを高め、報酬を与えるために、宝探しイベントを間もなく開始すると発表しました。このイベントは、TGE の終了まで続きます。第 1 段階は間もなく開始され、キーの展開を検討します。 BRC-20 ネットワーク上の初期区画バウチャー。 MYXは、独自のMPM機構によりゼロスリッページ取引を実現し、ロングポジションとショートポジションの効率的なマッチングを実現し、資本効率を125倍にも高める分散型無期限契約取引所であり、チェーン上の資本効率のボトルネックの打破に取り組んでいます。 （ブロック）]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canaan の 2023 年第 3 四半期財務報告書: 総収益は 3,330 万米ドルで、前年比 54.9% 減少しました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344129</id>
-        <link href="https://www.odaily.news/ja/newsflash/344129"/>
-        <updated>2023-11-28T12:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Canaan Yunzhi は、2023 年第 3 四半期の未監査財務報告書を発表し、第 3 四半期の収益は 3,330 万米ドルで前年同期比 54.9% 減少、マイニング収益は 330 万米ドルで前年同期比でした。前年同期比64.6%減、第3四半期の純損失は8,010万米ドルで、9月30日現在、Canaanは合計1,238.5BTCを保有し、市場価値は3,050万米ドルとなり、うち同社保有の860BTCと378.5BTCが含まれる。顧客預金、2023年9月現在 30日時点で、同社は4,060万ドルの現金および現金同等物を保有していた。さらに、11月27日、カナン・ビジョンは機関投資家と証券購入契約を締結し、シリーズA転換型優先株を最大125,000株発行し、優先株1株あたり1,000ドルの価格で投資家に販売した。カナン・インテリジェンシアは、有価証券の売却による純収益を研究開発、生産規模の拡大、その他の一般的な企業目的に使用する予定です。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upbit の親会社である Dunamu は、第 3 四半期の純利益が約 2,270 万米ドルで、前年同期比 81% 減少したと発表しました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344128</id>
-        <link href="https://www.odaily.news/ja/newsflash/344128"/>
-        <updated>2023-11-28T12:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Upbit の親会社 Dunamu はレポートを発表し、第 3 四半期純利益が約 2,270 万米ドルとなり、昨年の第 3 四半期純利益と比較して 81% 減少したと発表しました。報告書は、純利益の減少は仮想通貨市場価格の低迷によるものだとしている。 （ブロック）]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 ファンタジー スポーツ プラットフォームの GameOn が Arbitrum Foundation から資金提供を受ける]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344127</id>
-        <link href="https://www.odaily.news/ja/newsflash/344127"/>
-        <updated>2023-11-28T12:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News PR Newswireによると、Web3ファンタジースポーツプラットフォームのGameOnはArbitrum Foundationから資金提供を受けたことを発表、この契約に基づきGameOnはArbitrum Oneネットワーク上でスペインフットボールリーグ（リーガ）を含む今後のメジャーリーグパートナーシップを立ち上げる予定だという。ラリーガ）とプロフェッショナル・ファイターズ・リーグ（PFL）。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DWF Labs がバイナンスに 500 万 MDT (約 45 万米ドルに相当) を入金]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344126</id>
-        <link href="https://www.odaily.news/ja/newsflash/344126"/>
-        <updated>2023-11-28T12:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Twitter ユーザー AI Auntie によるモニタリングによると、2 分前、DWF Labs は 500 万 MDT (約 45 万米ドル) を Binance に送金しました。 MDTは過去30日間で89%上昇しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animoca Brands は TON エコシステムに戦略的に投資し、TON ブロックチェーンの最大の検証者となる]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344125</id>
-        <link href="https://www.odaily.news/ja/newsflash/344125"/>
-        <updated>2023-11-28T12:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Animoca Brands は、TON エコシステムに戦略的投資を行い、TON ブロックチェーンの最大の検証者となったことを発表し、サードパーティの TON エコシステム ミニアプリケーションに資金提供、研究、分析プラットフォームを提供する予定です。 TON ベースのゲーム インフラストラクチャ プロジェクトである TON Play は、TON で新しいゲーム プロジェクトを開始するために必要なインフラストラクチャとソリューションを提供し、Animoca Brands の 400 を超える Web3 プロジェクトのポートフォリオを Telegram に直接スムーズに移植できるようにします。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVLは30日間で5倍に急騰、記事はソラナのエコロジカルLSDプロトコルJitoを詳しく説明]]></title>
-        <id>https://www.odaily.news/ja/post/5191309</id>
-        <link href="https://www.odaily.news/ja/post/5191309"/>
-        <updated>2023-11-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jitoは来年1月1日にトークンJTOの総供給量の10％をエアドロップする予定で、スナップショットは3日前に完了した。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SignalPlus Volatility Column (20231128): 年末に入り、IV が下落]]></title>
-        <id>https://www.odaily.news/ja/post/5191313</id>
-        <link href="https://www.odaily.news/ja/post/5191313"/>
-        <updated>2023-11-28T11:53:13.000Z</updated>
-        <summary type="html"><![CDATA[デジタル通貨が市場全体に参入し、BTC価格は37,000付近でわずかに変動し、ETHは主に2,000ドルを超えて変動し、2,000マークを2回下回りました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毎日のイブニングニュース]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344124</id>
-        <link href="https://www.odaily.news/ja/newsflash/344124"/>
-        <updated>2023-11-28T11:30:19.000Z</updated>
-        <summary type="html"><![CDATA[1. ビットコインの誕生以来、最初の半減期は 11 年前の今日に起こりました; 2. クロノス・リサーチはハッカーに呼びかけ、報奨金として盗まれた資金の 10% をハッカーに提供するつもりです; 3. ZachXBT: ben.eth が許可している疑いがあります企業認証アカウントにウォレットドレイナーを添付する; 4. 香港メディア: HOUNAX はシンガポール、マレーシア、カンボジアの国境を越えた電子商取引企業を巻き込んだ地元香港企業の「9 つのコイン」である可能性がある; 5. ブロックチェーン送金会社WindがGlobal Founders CapitalとSpartan Group主導で380万元米ドルを調達; 6. アーサー・ヘイズ: 米国短期国債から仮想通貨への資金移管を継続する; 7. 現在、世界8か国が提供しているスポットビットコイン ETF: カナダが最も多く、総資産 20 億米ドル; 8. 以前ポリゴンのエコロジカル成長アドレスによって分配された 1 億 9,900 万米ドルの MATIC の 67% が CEX に流入; 9. DOGE 通貨保有アドレスの数が 5 を超えた初めて100万を達成し、アクティブアドレス数は2022年3月以来の最高水準に達した; 10. あるクジラが再び400万RLBを販売し、11月11日以来合計642万RLBが販売された; 11. アップビット運営会社Dunamu Q3営業利益は7,800万米ドルを超え、前年同期比39.6%減少; 12. ARK Investは昨日約530 RLBを売却し、Coinbase株10,000米ドルを売却; 13. WintermuteはBinanceに2,000万CHZを入金し、合計63過去 1 週間で 100 万 CHZ が CEX に入金された; 14. Web3 エンターテインメント会社 AnotherBall が、ANRI と Hashed が主導する 1,270 万米ドルのシードラウンドを完了; 15. 香港特別行政区長官が仮想プラットフォーム規制上の不正行為に対応事例: 無許可のプラットフォームを取り締まりながら投資家の利益を保護する必要がある; 16. FSB は世界の規制当局に対し、暗号化リスクの拡大を防ぐためにさらなる対策が必要かどうかを評価するよう求めている; 17. Nansen 2 パブリック ベータ版はオンラインです。オンチェーンデータ変更やインテリジェント検索などの新機能を搭載; 18. プッギーペンギンズ CEO: ロールスロイス カリナンを買ったことを本当に後悔しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC エコシステムの RGB プロトコルが爆発的に普及しようとしています。RGB エコシステムで注目すべきプロジェクトを見てみましょう。]]></title>
-        <id>https://www.odaily.news/ja/post/5191287</id>
-        <link href="https://www.odaily.news/ja/post/5191287"/>
-        <updated>2023-11-28T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[東風に助けられ、大船RGBが出航しようとしている。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プランB: ビットコインは二度と35,000ドルを下回ることはないかもしれない]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344123</id>
-        <link href="https://www.odaily.news/ja/newsflash/344123"/>
-        <updated>2023-11-28T11:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News PlanBは昨日、難易度（ハッシュレート）に基づくビットコインの評価額が35,000米ドルに上昇したとXプラットフォームに投稿した。私の意見では、これは、起こり得るブラックスワン現象や短期的な変動を除けば、ドル/kWh裁定取引のファンダメンタルズに基づいて、ビットコインが再び35,000ドルを下回ることは決してないことを意味する可能性がある。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
