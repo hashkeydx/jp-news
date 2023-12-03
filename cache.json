@@ -1083,21 +1083,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/Chainlink-Staking-v0.2.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/Chainlink-Staking-v0.2.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=494923",
-          "author": "菊谷ルイス",
-          "description": "コインベースやビットコイン採掘関連株などはFOMC理事のハト派的な発言を受けて大幅に上昇した。今夜は米7-9月期四半期実質GDP改定値が発表される。",
-          "link": "https://coinpost.jp/?p=494923",
-          "publishedOn": "2023-11-28T23:30:05.000Z",
-          "wordCount": 1971,
-          "title": "ドル円一時147.3円　コインベース株大幅高、米FOMC理事ハト派転換か｜29日金融短観",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
         }
       ]
     },
@@ -1106,6 +1091,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344798",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、マーケットメーカー プロトコル Swaap が間もなく Arbitrum ネットワーク上で開始される予定です。 4月の以前のニュースによると、Swaapは、Signature Ventures、New Form Capital、C²Ventures、Kima Ventures、Pareto Ventures、Entrepreneur First、そしてエンジェル投資家のJulien Bouteloup (Stake)主導による450万米ドルのシードラウンドの完了を発表した。 Capital)、Pascal Gauthier (Ledger CEO)、Richard Ma、Meltem Demirors (Coinshares CSO)、Frederic Montagnon (Arianee 共同創設者)、Thibaud Elzière (eFounders CEO) などが投資に参加しました。 Swaap は、オラクルと動的スプレッドを組み合わせて持続可能な利益を達成し、取引コストを削減する次世代のマーケットメイクプロトコルの構築を目指していると報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344798",
+          "publishedOn": "2023-12-03T12:33:23.000Z",
+          "wordCount": 1842,
+          "title": "マーケットメーカープロトコルスワップによるアービトラムネットワークの統合",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344797",
+          "author": null,
+          "description": "Odaily News プライバシーブロックチェーン Beam Foundation の取締役会のメンバーである Guy Corem 氏は、Beam は 2024 年 1 月 (メインネットがオンラインになってから 5 年後) に 2 番目の半減期を迎え、それが、ビーム財務省。その時点で、マイナー (現在は GPU のみ) は、1 分あたり 40 トークンではなく 20 個の新しい Beam トークンをマイニングします。後半の半減期は、ビームトークンの流通量が60%に達する時期でもあります。さらに、Beam エンジニアの Vlad は、Beam の L1 を Kaspa の DAG Knight バリアントにアップグレードすることを検討しています。 CoinGeckoのデータによると、BEAMトークンは現在0.309678ドルで取引されており、24時間の上昇率は247.1%となっています。",
+          "link": "https://www.odaily.news/ja/newsflash/344797",
+          "publishedOn": "2023-12-03T12:17:03.000Z",
+          "wordCount": 1852,
+          "title": "プライバシーチェーンのビームは来年1月に下半期を迎える",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344796",
+          "author": null,
+          "description": "Odaily News 南アフリカ金融セクター行動監視機構（FSCA）が実施した暗号市場調査の結果によると、調査に参加した暗号資産金融サービスプロバイダー（FSP）の約46％の収益は5万3000米ドルから268万米ドルの間だった。 。暗号資産FSPの38%は収入が53,000ドル未満であると報告した。 800万ドルから1,000万ドルの収益を報告した暗号資産FSPはわずか5％だった。 FSCAは、約47社の暗号資産FSPが暗号市場調査に参加していると指摘した。調査対象となった仮想通貨FSPの9％は、仮想通貨取引所を運営していると回答した。回答者の約 19% は暗号資産に関連するアドバイザリー サービスを提供しており、15% は自らを暗号通貨ブローカーであると述べています。マネージド サービスを提供していると答えた回答者はわずか 2% でした。 FSCAの調査では、ほとんどの暗号資産FSPが「取引手数料を通じて収益を得ている」こと、そしてその報酬モデルは基本的に従来の金融収益モデルと同じであることも判明した。 (Bitcoin.com)",
+          "link": "https://www.odaily.news/ja/newsflash/344796",
+          "publishedOn": "2023-12-03T12:04:35.000Z",
+          "wordCount": 1844,
+          "title": "調査: 南アフリカの暗号資産金融サービスプロバイダーの収益が 800 万ドルを超える企業は 5% 未満です",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344795",
+          "author": null,
+          "description": "Odaily News BuyTheNumbers のデータは、ゼロ以外のビットコイン アドレスの数が 5,000 万を超えたことを示しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344795",
+          "publishedOn": "2023-12-03T11:45:46.000Z",
+          "wordCount": 1816,
+          "title": "ゼロ以外のビットコインアドレスの数が5,000万を超える",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344792",
+          "author": null,
+          "description": "1. 11 月に合計 102,018 ETH がイーサリアム ネットワーク上で破壊され、ビットコイン マイナーの収入は 11 億 5,000 万米ドルに達しました; 2. 11 月にイーサリアム NFT プラットフォームの取引量は 109.5% 増加し、Blur は OpenSea を上回りました10ヶ月連続; 3. 11月のイーサリアム先物取引量は48.2%増加、GBTCの1日平均取引量は30%増加; 4. WOOFiはインセンティブ活動とユーザーエアドロップに対して100万ARB助成金を受け取る; 5.イーサリアム L2 のロックされたポジションの合計は 149 億 2,000 万米ドル、7 毎日の増加率は 1.74% に達しました; 6. ファセット創設者: ファセットはトランザクションガス消費量のほぼ半分を占めており、インデクサー速度の向上に懸命に取り組んでいます; 7. フロアPudgy Penguins の価格は 9 ETH を超え、1 日で 16.26% 上昇; 8. 4 スマート マネー アドレスは過去 7 日間で合計 770 万 BIGTIME を購入; 9. ブレバン ハワード デジタルに関連するアドレスは 420 万を入金ARBは3日以内にBinanceへ; 10. デリバティブ・モンケ社は、zkSync DeFiの責任者であるセバスチャンに汚職の疑いがあることを明らかにしたが、後者はこれを否定; 11. 詐欺スニファー：約10の安全なウォレットが「アドレス」により205万米ドルを失った過去 1 週間の「ポイズニング」攻撃; 12. コサイン: 安全なマルチシグネチャ ウォレットでは、最初と最後の番号が同じアドレスに対するフィッシング攻撃の問題を解決するために、インタラクティブなセキュリティ設計を改善する必要があります。",
+          "link": "https://www.odaily.news/ja/newsflash/344792",
+          "publishedOn": "2023-12-03T11:30:00.000Z",
+          "wordCount": 1885,
+          "title": "毎日のイブニングニュース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344794",
           "author": null,
@@ -7544,16 +7579,6 @@
           "publishedOn": "2023-11-29T01:01:50.000Z",
           "wordCount": 1756,
           "title": "米国判事、ボイジャーデジタルとFTCとの16億5000万ドルの和解案を承認",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344167",
-          "author": null,
-          "description": "Odaily News Digital Currency Group (DCG) は破産した子会社 Genesis Global Holdco LLC と新たな返済合意に達し、Genesis は DCG に対して約 6 億 2,000 万米ドルを求めていた訴訟を終了する予定である。ジェネシスの弁護士ショーン・オニールは公聴会で、新契約ではDCGが今後数週間以内に約2億ドルをジェネシスに支払うと規定しており、DCGは2024年4月に未払いの支払いを完了するよう求めていると述べた。DCGが債務不履行の場合、ジェネシスは回収を試みることができるすべての未払い金額。 DCGの返済はジェネシスが提案する債権者への支払い計画の一部となり、債権者らによる投票に掛けられる。ジェネシスは、今回の合意により、親会社との数カ月にわたる費用のかかる訴訟が回避されると述べた。ショーン・オニール弁護士は、この合意はジェネシスの破産処理におけるDCGに関連する他の紛争をまだ解決していないと述べた。この訴訟はジェネシスが9月に起こしたもので、親会社DCGからの未払い融資の回収を求めている。訴訟が起こされて以来、DCGはジェネシスに支払いを続けているが、裁判所文書によると、11月28日の時点でDCGは依然として同子会社に対して3億2,450万ドルの債務を負っている。 (ブルームバーグ) 以前のニュースによると、ジェネシス・グローバル・キャピタルは9月にデジタル・カレンシー・グループ(DCG)とデジタル・カレンシー・グループ・インターナショナル(DCGI)に対して訴訟を起こし、元本6億ドルを超える複数のローンの返済を求めた。",
-          "link": "https://www.odaily.news/ja/newsflash/344167",
-          "publishedOn": "2023-11-29T00:35:15.000Z",
-          "wordCount": 1786,
-          "title": "DCG、ジェネシスと2億米ドルの返済合意に達し、約6億2,000万米ドルの融資訴訟に終止符",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
