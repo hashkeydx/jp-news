@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-03T20:22:07.312Z</updated>
+    <updated>2023-12-03T21:19:01.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポリゴンの秘密の取り引き：バリデーターとなった大手企業に数百万ドルを提供か]]></title>
+        <id>https://www.coindeskjapan.com/?p=210477</id>
+        <link href="https://www.coindeskjapan.com/210477/"/>
+        <updated>2023-12-03T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ポリゴン・ラボ（Polygon Labs）は2022年3月、技術基盤の「普及にとって重要なマイルストーン」を発表した。 ドラフトキングスがそのネットワークバリデ ...
+ポリゴンの秘密の取り引き：バリデーターとなった大手企業に数百万ドルを提供か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Danny Nelson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号化プラットフォームBitRocketは12月中旬に正式に開始され、プラットフォーム通貨BRCを発行します]]></title>
         <id>https://www.odaily.news/ja/newsflash/344810</id>
@@ -6661,116 +6672,6 @@ CBDCでプライバシーを確保することは可能：BISのプロジェク�
         <link href="https://www.odaily.news/ja/newsflash/344246"/>
         <updated>2023-11-29T09:21:14.000Z</updated>
         <summary type="html"><![CDATA[「Odaily News Slow Mist の創設者 Yu Xian 氏がウォレット アドレスに投稿しました。この方法にはもう 1 つの利点があります。この事件に関連するフィッシング ウォレット アドレスの数を特定するのがより困難であるということです。」]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX公式：OKX Web3ウォレットの資産表示の問題は修正されており、チェーン上のユーザーの資産は安全です]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344245</id>
-        <link href="https://www.odaily.news/ja/newsflash/344245"/>
-        <updated>2023-11-29T09:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News OKXは公式に声明を発表した。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの ICO 参加者は 3,000 ETH を Kraken に入金し、まだ 5,172 ETH を保有しています]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344244</id>
-        <link href="https://www.odaily.news/ja/newsflash/344244"/>
-        <updated>2023-11-29T09:12:23.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、Lookonchain の監視によると、イーサリアム ICO 参加者が 20 分前に 3,000 ETH (620 万ドル) を Kraken に入金したと報じました。このアドレスは作成時に 20,000 ETH を受け取り、現在 5,172 ETH (1,070 万ドル) を保持しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon Lianchuang: Polygon は、ZK と RWA に関する 2 つの新製品を 12 月に発売します]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344243</id>
-        <link href="https://www.odaily.news/ja/newsflash/344243"/>
-        <updated>2023-11-29T09:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Polygon の共同創設者 Sandeep Nailwal 氏は、来月に X プラットフォーム上で Polygon のいくつかの重要なノードを明らかにしました: 1. 12 月 7 日に、Polygon はインドでオフライン イベント Polygon Connect を開催します; 2. 12 月 14 日に Polygon は公開されます次世代 ZK 製品を実演しながら、サンディープ氏は、これはイーサリアム エコシステム全体にとって重要なマイルストーンになる可能性があると述べました; 3. 12 月 20 日に、ポリゴンは RWA と機関導入に関連する新製品を発売します。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZachXBT：競輪場と飛行場が攻撃を受けて7万ドル以上を失った]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344242</id>
-        <link href="https://www.odaily.news/ja/newsflash/344242"/>
-        <updated>2023-11-29T09:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、オンチェーン探偵 ZachXBT の監視によると、フロントエンドが攻撃された後、ベロドロームとそのフォーク プロトコルであるエアロドロームは 70,000 ドル以上を失ったと報じています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コイントレード、アバランチ（AVAX）のステーキングサービス提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=355584</id>
-        <link href="https://www.neweconomy.jp/posts/355584"/>
-        <updated>2023-11-29T09:01:31.000Z</updated>
-        <summary type="html"><![CDATA[コイントレードがAVAXのステーキングサービス提供開始 国内暗号資産（仮想通貨）取引所CoinTrade（コイントレード）提供のステーキングサービス「コイントレードステーク（CoinTradeStake）」にて、暗号資産 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi Technologiesの子会社ValorがICPトークン担保ETPの立ち上げを計画]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344241</id>
-        <link href="https://www.odaily.news/ja/newsflash/344241"/>
-        <updated>2023-11-29T09:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News DeFi Technologiesの子会社であるValorは、DFINITY Foundationとの協力関係に達し、ICPトークンによってサポートされるETPを開始する計画を発表した。 (ニュースワイヤー)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 ソーシャル プロトコル Inspect は、Morningstar Ventures などの参加を得て新たな資金調達ラウンドを完了]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344240</id>
-        <link href="https://www.odaily.news/ja/newsflash/344240"/>
-        <updated>2023-11-29T08:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Web3ソーシャルデータプロトコルInspectは新たな資金調達ラウンドの完了を発表、Dewhales、BasementDAO、Morningstar Ventures、Kairon Labs、Optic Capital、Rarestone Ventures、Maven Capitalなどが参加、具体的な金額はまだ決まっていない明らかにした。 Inspect のエコロジカル パートナーには、Mocaverse、MoonPay、MultiversX、Avalanche、Ronin、Axie Infinity、Polygon Ventures、Algorand Technologies、Floor Protocol、Cardano Community、OKX Web3 ウォレットなどが含まれます。レポートによると、Inspect はダイナミックな市場を、誰もがアクセスできるリアルタイム分析と洞察を備えたユーザーフレンドリーなプラットフォームに変革しています。同関係者はまた、現在認可された$INSP契約は存在しないことを思い出させた。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USTCのBinance保有額は3346万9400米ドルに達し、永久契約の資金調達率は一時的に-0.4054%と報告されている]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344238</id>
-        <link href="https://www.odaily.news/ja/newsflash/344238"/>
-        <updated>2023-11-29T08:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Coinglass のデータによると、USTC は現在 Binance で 3,346 万 9,400 ドル、OKX で 2,222 万 3,900 ドル、BingX で 1,975 万ドルを保有しています。さらに、さまざまなプラットフォームでの USTC 無期限契約の資金調達率は次のとおりです。Binance は -0.4054%、OKX は -0.0274%、BingX は -0.7518% と報告しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlokiFi Locker プロトコルの TVL が 1 億ドルを超え、過去最高額に到達]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344237</id>
-        <link href="https://www.odaily.news/ja/newsflash/344237"/>
-        <updated>2023-11-29T08:35:27.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Meme プロジェクト FLOKI は、FlokiFi Locker 契約の TVL が過去最高の 1 億 700 万米ドルに達したと X プラットフォームに投稿しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラミツ、ソロモン諸島中央銀行と中銀デジタル通貨の実証実験を実施]]></title>
-        <id>https://www.neweconomy.jp/?p=355603</id>
-        <link href="https://www.neweconomy.jp/posts/355603"/>
-        <updated>2023-11-29T08:27:35.000Z</updated>
-        <summary type="html"><![CDATA[ソラミツがソロモン諸島中央銀行とCBDCの実証実験 国内ブロックチェーン技術開発企業ソラミツが、ソロモン諸島中央銀行（CBSI）との中央銀行デジタル通貨（CBDC）の実証実験（PoC）開始を11月29日発表した。 この実 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[関係者：仮想通貨取引所Zipmexが再編を試みる]]></title>
-        <id>https://www.odaily.news/ja/newsflash/344235</id>
-        <link href="https://www.odaily.news/ja/newsflash/344235"/>
-        <updated>2023-11-29T08:22:28.000Z</updated>
-        <summary type="html"><![CDATA[デイリーニュース：仮想通貨取引所ジップメックスは、再建案の一環として、当初は債権者に請求額1ドル当たり約3.35セントで返済することを提案したと事情に詳しい関係者が明らかにした。最近の裁判所文書によると、Zipmex の改訂された 9,710 万ドルの債務再編計画の回収に基づいて、債務の 1 ドルあたりの価格が 29.35 セントに上昇する可能性があります。関係者によると、大口債権者らはこの計画に反対しており、文書に示されたジップメックスの資産と負債の最近の変化の背後にある理由について独立した調査を求めているという。同社の最新の返済計画に関する投票は１２月初旬まで続く。ジップメックス・グループのマーカス・リム最高経営責任者（CEO）は、「進行中の計画の取り決めは機密事項であるためコメントできない」と述べ、この件に詳しい関係者から得た情報には不正確な点があるとしながらも、これについてはコメントしないと付け加えた。 (ブルームバーグ)]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
