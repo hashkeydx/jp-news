@@ -385,6 +385,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=495683",
+          "author": "K.Kobayashi",
+          "description": "今週は、マイクロストラテジーが仮想通貨ビットコインを買い増ししたニュースや、金持ち父さん著者ロバート・キヨサキ氏がビットコインなどの資産への投資を推奨していることを書いた記事が関心を集めている。",
+          "link": "https://coinpost.jp/?p=495683",
+          "publishedOn": "2023-12-03T02:00:03.000Z",
+          "wordCount": 2055,
+          "title": "週刊仮想通貨ニュース（+アジア特集）｜マイクロストラテジーのBTC買い増しや金持ち父さん著者の見解に高い関心",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=495730",
           "author": "AKIRA.H",
           "description": "暗号資産（仮想通貨）ビットコイン支持者で知られる、エルサルバドルのナイブ・ブケレ大統領が総選挙キャンペーンのため職を離れる。再選を目指す中で、国内政治のチェック・アンド・バランスの弱体化と、国際関係への影響を探る。",
@@ -1156,6 +1171,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344764",
+          "author": null,
+          "description": "Odaily News Spotonchain の監視によると、過去 12 時間で、3 頭の巨大なクジラが 408 万 DYDX (1,390 万米ドル) を取引所に入金しました。その中で、1. クジラ 0xb0d (おそらく AmberGroup) がバイナンスに 3 時間前に 237 万 DYDX を入金しました(約 804 万ドル、価格 3.39 USDT) 12 月 1 日にロックが解除されて以来、このアドレスは 920 万 DYDX (2,980 万ドル、価格 3.24 USDT) を Binance に入金しており、現在は 326 万 DYDX (1,127 万米ドル) を保有しています。 ; 2. Whale 0x01a は約 4 時間前に 3.41 USDT の価格で 120 万 DYDX (409 万米ドル) を Kraken に入金し、現在の保有額は 281 万 DYDX (9 億 7,100 万米ドル) です; 3. CMS Holdings は 516,023 DYDX を入金しました ( 173万米ドル）を11時間前にBinanceに入金。",
+          "link": "https://www.odaily.news/ja/newsflash/344764",
+          "publishedOn": "2023-12-03T02:29:09.000Z",
+          "wordCount": 1968,
+          "title": "過去 12 時間で、3 頭の巨大クジラは合計 408 万 DYDX を CEX に預け入れました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344763",
+          "author": null,
+          "description": "Odaily News Compoundは、DeFiリスクマネージャーGauntletによって開始されたCompound Proposal 197がクォーラム閾値に達し、可決されたことを正式に発表し、Arbitrumチェーン上のcUSDCv3のCompound IIIパラメータの一部が調整されます: 1. cUSDCv2のARB供給制限は、以前の制限から調整され、400万個から800万個に増加します; 2. WBTCの供給制限を以前の600万個から1,200万個に増加します。提案可決後3日以内に施行されると報じられており、その際、WBTCのサプライキャップ利用率は92％から46％に引き下げられ、ARBのサプライキャップ利用率も引き下げられる可能性がある。 100% から 50% に変更することで、複合プロトコルの使用率とさらなる成長を促進します。",
+          "link": "https://www.odaily.news/ja/newsflash/344763",
+          "publishedOn": "2023-12-03T02:16:32.000Z",
+          "wordCount": 1895,
+          "title": "複合提案 197 が可決: cUSDCv3 の ARB と WBTC の供給上限が引き上げられます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344762",
+          "author": null,
+          "description": "Odaily は、Whale Alert の監視によれば、10,000 ETH (2,161 万ドル) が未知のウォレットから Gate.io に送金されたと報じました。",
+          "link": "https://www.odaily.news/ja/newsflash/344762",
+          "publishedOn": "2023-12-03T01:48:47.000Z",
+          "wordCount": 1863,
+          "title": "10,000 ETHをGate.ioに送金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344761",
+          "author": null,
+          "description": "Odaily News ArbitrumDAO は、2,110 万 ARB (2,354 万ドル) の 1 回限りの「スタンバイ ファンド」イニシアチブを承認し、最初の資金調達ラウンドで逃した 26 社の支援に 3 分の 2 の賛成票で可決されました。ゲインズ ネットワーク (500 万ドル)、スターゲイト ファイナンス (200 万ドル)、ワームホール (200 万ドル) が含まれます。提案の承認により、STIP（短期インセンティブプログラム）の予定予算総額は7,110ARBに増額されました。この提案では、3日間の待機期間後に追加資金が分配されることになる。",
+          "link": "https://www.odaily.news/ja/newsflash/344761",
+          "publishedOn": "2023-12-03T01:46:11.000Z",
+          "wordCount": 1876,
+          "title": "ArbitrumDAO、初期資金を逃したプロジェクトに投資するための「予備資金」として2,354万ドルを承認",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344760",
+          "author": null,
+          "description": "1. 過去 24 時間で、ネットワーク全体で 1 億 3,300 万米ドルのポジションが清算され、空売り注文により 1 億 900 万米ドルが清算されました; 2. Friend.tech: 契約と資金の所有権をマルチシグネチャとファンドの新しい組み合わせに譲渡しました。専門的な保管; 3. 4番目に大きいVBTC 保有者はBTCbで1,400万米ドルをヴィーナス・プロトコルに預けた; 4. luggis.ethは2時間前に23,700 AAVEをバイナンスに預けたが、まだ78,300 AAVEを保有している; 5. リパブリックはINXに上場する予定12月6日 デジタルセキュリティトークンRepublic Noteを発売; 6. イーサリアムL2 TVLは145億6,000万米ドルで、マントルTVLは7日に37.23%増加しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344760",
+          "publishedOn": "2023-12-03T01:36:35.000Z",
+          "wordCount": 1877,
+          "title": "毎日の朝のニュース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344759",
           "author": null,
@@ -7454,76 +7519,6 @@
           "publishedOn": "2023-11-28T14:37:40.000Z",
           "wordCount": 1813,
           "title": "Econia Labs によって開発されたオーダーブック プロトコルは、現在 Aptos メインネット上でオンラインになっています。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344140",
-          "author": null,
-          "description": "毎日ニュース BC Technology Group Co., Ltd.の取締役会は、OSL Digital Securities Limited (OSL) が Interactive Brokers 香港 (Interactive Brokers) との協力サービスを大幅に拡大したと発表しました。 OSL のプラットフォーム サポートにより、インタラクティブ ブローカーズの香港の小売ユーザーは、デジタル資産をすべて 1 か所でリアルタイムに取引できるようになりました。インタラクティブ・ブローカーズ唯一のデジタル資産取引プラットフォームとして、OSL はサービス、セキュリティ、コンプライアンスにおいて業界の標準を設定し続けます。以前、インタラクティブ・ブローカーズ・アジア・パシフィック社マネージング・ディレクターのデビッド・フリードランド氏がLinkedInに投稿したニュースによると、証券会社インタラクティブ・ブローカーズ香港は香港の個人顧客向けに仮想資産取引のライセンスを取得したという。",
-          "link": "https://www.odaily.news/ja/newsflash/344140",
-          "publishedOn": "2023-11-28T14:25:53.000Z",
-          "wordCount": 1810,
-          "title": "OSLはインタラクティブ・ブローカーズと提携し、香港の個人ユーザーにデジタル資産取引を提供します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344139",
-          "author": null,
-          "description": "Odaily News アカウント抽象化インフラストラクチャ Pimlico は、ウォレット プロバイダー Safe の ERC-4337 モジュールを統合してアカウント抽象化インフラストラクチャを強化し、顧客がユーザー エクスペリエンスとセキュリティが強化されたイーサリアム ベースの製品を作成できるようにします。 Pimlico は、ERC-4337 モジュールを使用して Safe アカウントを統合し、Safe エコシステムのバンドルとして機能する最初の企業となります。以前のニュースによると、アカウント抽象化インフラストラクチャ Pimlico は、a16z 暗号を主導した 420 万米ドルのシードラウンドを完了したと発表しました。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/344139",
-          "publishedOn": "2023-11-28T14:19:38.000Z",
-          "wordCount": 1834,
-          "title": "アカウント抽象化インフラストラクチャ Pimlico が Safe の ERC-4337 モジュールを統合",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344138",
-          "author": null,
-          "description": "Odaily News ステーブルコインの開発者である Circle は、クロスチェーン転送プロトコル (CCTP) が Cosmos エコロジカル アプリケーション チェーン Noble のメイン ネットワーク上でオンラインになったことを X プラットフォーム上で発表しました。 Cosmos アプリケーション チェーンは CCTP 機能と IBC 機能を組み合わせることができ、Ethereum やその他のサポートされているネットワークのユーザーは Cosmos エコシステムに参加できます。 CCTP と IBC を組み合わせることで、プログラムによる 1:1 クロスチェーン転送およびゼロ スリッページ機能が実現されます。",
-          "link": "https://www.odaily.news/ja/newsflash/344138",
-          "publishedOn": "2023-11-28T14:16:44.000Z",
-          "wordCount": 1839,
-          "title": "Circle クロスチェーン転送プロトコル CCTP が Noble メインネットで開始されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344137",
-          "author": null,
-          "description": "Odaily News 分散型無期限契約取引所 MYX.Finance は、北京時間 11 月 29 日 21:00 に Linea Goerli テストネットワークで開始されると X プラットフォームに投稿しました。以前のニュースによると、MYXはHongShan（旧Sequoia China）、Consensys、Hack VC、OKX Ventures、Foresight Ventures、Redpoint China、HashKey Capital、GSRが主導し、評価額5,000万米ドルで500万米ドルのシードラウンドを完了した。 Markets、Alti5、Leland Ventures、Cypher Capital、Bing Ventures、Lecca Venturesなどが投資に参加した。",
-          "link": "https://www.odaily.news/ja/newsflash/344137",
-          "publishedOn": "2023-11-28T14:09:18.000Z",
-          "wordCount": 1829,
-          "title": "MYX.Finance は明日 Linea Goerli テストネットで開始されます",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344136",
-          "author": null,
-          "description": "Odaily News Snapshot ページには、Aave コミュニティが「StkGHO を使用したセキュリティ モジュールのアップグレード」に関する温度チェックの提案を開始し、投票が 12 月 1 日まで行われていることが示されています。この提案では、GHO 安全モジュールを統合することで機能を強化することが提案されています。この新しいカテゴリは、GHO のステーブルコインの特性を活用して、StkAAVE および StkBPT に対するセキュリティ インセンティブを削減することに加えて、そのエコシステム内で潜在的な不足イベントが発生するリスクを軽減することを目的としています。 GHO セキュリティ モジュールは、本質的に AAVE よりも不安定性の低いステーブルコイン資産を追加することで、Aave プロトコルの復元力を強化します。この戦略的な動きにより、不足が発生した場合にさまざまなリスクベクトルからの衝撃を吸収するセキュリティモジュールの能力が多様化されます。",
-          "link": "https://www.odaily.news/ja/newsflash/344136",
-          "publishedOn": "2023-11-28T13:58:30.000Z",
-          "wordCount": 1821,
-          "title": "Aave コミュニティが温度チェック提案「StkGHO を使用してセキュリティ モジュールをアップグレードする」について投票を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344135",
-          "author": null,
-          "description": "Odaily News dYdX コミュニティは、「トランザクション報酬の有効化と 6 か月のスタートアップ インセンティブ プラン」の提案を支持率 75.6%、棄権率 24.4% で承認する投票を行いました。以前のニュースによると、Amber Group Steven は dYdX コミュニティで「アクティベーション トランザクション報酬と 6 か月のスタートアップ インセンティブ プラン」の提案を発表し、この提案を通じて dYdX チェーンのベータ段階を終了する必要があることを示唆しました。現在、この提案は投票受付中であり、11月28日に終了する。この提案には具体的に、報酬金庫Vesterをクレジットすることで取引報酬を活性化すること、Chaos Labsが提案した6か月ローンチインセンティブプランの開始を承認すること、DIP 29 4に従ってDYDXチェーンコミュニティ金庫VesterをDYDXにクレジットすること、保険資金を提供することが含まれています。約100万ドルのシード資金。",
-          "link": "https://www.odaily.news/ja/newsflash/344135",
-          "publishedOn": "2023-11-28T13:51:48.000Z",
-          "wordCount": 1868,
-          "title": "dYdX コミュニティは、「アクティベーション トレーディング報酬と 6 か月間のローンチ インセンティブ プログラム」という提案を承認することに投票しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344134",
-          "author": null,
-          "description": "Odaily News 野村證券のデジタル資産子会社である Laser Digital は、機関投資家のデジタル資産プロバイダーである Talos との戦略的統合を発表しました。この統合により、Talos ネットワークに新しい機関グレードの流動性ソースが追加されるとともに、ビジネス範囲が拡大します。",
-          "link": "https://www.odaily.news/ja/newsflash/344134",
-          "publishedOn": "2023-11-28T13:35:40.000Z",
-          "wordCount": 1824,
-          "title": "Laser Digital は Talos と統合して機関レベルの流動性を提供します",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
