@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=210202",
+          "author": "CoinDesk JAPAN",
+          "description": "セキュリティ・トークン（デジタル証券）市場が勢いを増している。2021年に発行が始まり、発行額は毎年、倍々以上のペースで拡大。年末にはいよいよ国内初の流通市場と ...\n【デジタル証券フォーラム2023】アセットの拡張から流通市場の登場まで、セキュリティ・トークンのさらなる発展を見通す：12/13開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210202/",
+          "publishedOn": "2023-12-04T03:45:00.000Z",
+          "wordCount": 1168,
+          "title": "【デジタル証券フォーラム2023】アセットの拡張から流通市場の登場まで、セキュリティ・トークンのさらなる発展を見通す：12/13開催",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/DSF2023_KV1200_630.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=210753",
           "author": "増田 隆幸",
           "description": "ビットコイン（BTC）は12月3日（米東部時間）に18カ月ぶりに4万ドルを超え、イーサリアム（ETH）は市場全体が緩やかに上昇するなか、2200ドルを超えた。  ...\nビットコイン、18カ月ぶりの4万ドル超え first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -374,6 +384,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=495929",
+          "author": "A.Yamada",
+          "description": "オーストラリア税務局は、退職年金を積立型SMSF（年金基金）の資産運用統計を発表。2019年以降の4年間で仮想通貨への投資額が大幅増加していることがわかった。",
+          "link": "https://coinpost.jp/?p=495929",
+          "publishedOn": "2023-12-04T03:48:42.000Z",
+          "wordCount": 1882,
+          "title": "オーストラリア退職金ファンド（年金基金）、仮想通貨の保有額増加で900億円規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/australia-post-office-bitcoin-buying.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/australia-post-office-bitcoin-buying.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=495918",
+          "author": "A.Yamada",
+          "description": "中国の王毅外相は、日中韓外相会議で、ブロックチェーンや人工知能（AI）など最先端テクノロジー分野での三国の協力を呼びかけた。",
+          "link": "https://coinpost.jp/?p=495918",
+          "publishedOn": "2023-12-04T03:18:48.000Z",
+          "wordCount": 1882,
+          "title": "中国外相、ブロックチェーンやAI（人工知能）領域で日中韓協力を呼びかけ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/china-blockchain-launch-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/china-blockchain-launch-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=495916",
           "author": "S.Ninomiya",
@@ -981,6 +1021,96 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344842",
+          "author": null,
+          "description": "毎日のニュース: MEXC 取引所の発表によると、ratsDAO ガバナンス トークン RAT は 12 月 4 日 15:00 (UTC+8) に MEXC に上場されます。 RatsDAO は、ネズミ コミュニティと巨大クジラの忠実なユーザーによって設立された組織です。ネズミの碑文の開発を促進することを目的としており、より多くの暗号通貨ユーザーを惹きつけて BRC20 碑文エコロジーを受け入れ、BRC20 エコロジーにおける最大の碑文自主組織となることに尽力しています。 。 BRC20碑文自治組織ratsDAOは、ネズミ碑文のマーケティング促進のための寄付を通じてネズミコミュニティに累計5ETH（約11,000米ドル）の寄付を発表したと報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344842",
+          "publishedOn": "2023-12-04T04:24:53.000Z",
+          "wordCount": 1705,
+          "title": "ラッツDAOガバナンストークンRATは12月4日15:00（UTC+8）にMEXCに上場されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344840",
+          "author": null,
+          "description": "Odaily News Lookonchainのモニタリングによると、12月1日以来、イニシャル「0xdbf」のWintermuteウォレットは約4,086万米ドル相当の18,430 ETHの保有を増やし、現在は約4,388万米ドル相当の19,796 ETHを保有しています。高い。",
+          "link": "https://www.odaily.news/ja/newsflash/344840",
+          "publishedOn": "2023-12-04T04:15:05.000Z",
+          "wordCount": 1714,
+          "title": "Wintermute は過去 1 週間で 18,000 ETH 以上の保有量を増加し、ETH 保有量は過去最高に達しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344838",
+          "author": null,
+          "description": "オデイリーニュース米国宇宙軍職員ジェイソン・ロウリー氏は、ビットコインには国家戦略上の重要性があると述べた。同氏は、米国はサイバー戦争の脅威から国を守るためにビットコインなどのプルーフ・オブ・ワーク・ネットワークの使用を正式に調査する必要があると強調した。ロウリー氏は国防イノベーション委員会への書簡の中で、ビットコインは資金を保護する通貨システムであるだけでなく、あらゆる形式のデータやコマンド信号も保護すると指摘した。同氏は、プルーフ・オブ・ワーク・システムはデジタル領域における物理的なセキュリティーと抑止戦略を反映しており、米国が世界的な超大国としての地位を維持する上で重要な役割を果たす可能性があると指摘した。ロウリー氏はまた、ビットコインにはネットワークセキュリティに革命を起こし、国の国防安全保障を変革する可能性があるとも述べた。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/344838",
+          "publishedOn": "2023-12-04T04:06:51.000Z",
+          "wordCount": 1683,
+          "title": "米宇宙軍関係者「ビットコインには国家戦略上の重要性がある」",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191414",
+          "author": null,
+          "description": "11月のマクロ資産は素晴らしい月を迎え、ここ数十年で最高の同期リターンを記録しました。12月の第1週も同様に驚くべき結果をもたらし、2年米国債利回りは40ベーシスポイント近く低下し、5年債利回りは34ベーシスポイント低下し、 SVB危機以来最も劇的な利回りの低下となった。 BTC、ETH、ステーブルコインのオンチェーン活動も11月に回復しましたが、この回復が持続できるかどうかを判断するのは困難です。",
+          "link": "https://www.odaily.news/ja/post/5191414",
+          "publishedOn": "2023-12-04T04:05:16.000Z",
+          "wordCount": 1871,
+          "title": "SignalPlus マクロ調査レポート (20231204): 2024 年に 5 回以上の利下げが予想される",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344837",
+          "author": null,
+          "description": "Odaily News Lookonchainのモニタリングにより、Vitalik Godが資金提供する慈善団体Kanroが約2日前に未知のウォレットに送金したことが判明した。\"0xf207\"5,000万USDCを送金します。",
+          "link": "https://www.odaily.news/ja/newsflash/344837",
+          "publishedOn": "2023-12-04T03:55:41.000Z",
+          "wordCount": 1685,
+          "title": "ブテリン氏が資金提供する慈善団体カンロが、5,000万USDCを未知のウォレットに送金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344836",
+          "author": null,
+          "description": "Odaily News Ethscription 取引市場の Etch データによると、Eths トークンの単価は 6 USDT/eths に上昇し、単一トークンの下限価格は 2.72 ETH で、市場価値は 1 億 2,000 万米ドルを超えています。",
+          "link": "https://www.odaily.news/ja/newsflash/344836",
+          "publishedOn": "2023-12-04T03:46:33.000Z",
+          "wordCount": 1698,
+          "title": "イーサの単価は6USDTまで上昇し、時価総額は1億2,000万米ドルを超えました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191411",
+          "author": null,
+          "description": "今年初めに Ordinals プロトコルが開始されたことにより、開発者やプロジェクトはビットコイン エコシステムに注目し始めました。",
+          "link": "https://www.odaily.news/ja/post/5191411",
+          "publishedOn": "2023-12-04T03:29:52.000Z",
+          "wordCount": 3362,
+          "title": "ビットコインエコシステムにおけるDAppsの開発を調査した記事",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344835",
+          "author": null,
+          "description": "Odaily News Scopescan の監視により、Amber Group が約 800,000 DYDX、270 万米ドル相当を Binance に送金したことが示されています。",
+          "link": "https://www.odaily.news/ja/newsflash/344835",
+          "publishedOn": "2023-12-04T03:24:07.000Z",
+          "wordCount": 1703,
+          "title": "アンバー・グループは約80万DYDX（270万ドル相当）をバイナンスに送金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344834",
+          "author": null,
+          "description": "Odaily News Dragonflyは、昨夜早朝に21,079,914 RBN（約767万米ドル）、18,7037 LDO（約463万米ドル）、150 ETH（約33万米ドル）をCoinbase Primeに送金しました。 RBNは以前にロックが解除され、リボン・ファイナンスの権利確定契約から受け取られており、LDOは2021年5月にリド財務省から0.75米ドルの価格で購入されました。",
+          "link": "https://www.odaily.news/ja/newsflash/344834",
+          "publishedOn": "2023-12-04T03:22:28.000Z",
+          "wordCount": 1702,
+          "title": "Dragonflyは5時間前に約1,263万ドル相当の暗号資産をCoinbase Primeに移管した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/post/5191410",
           "author": null,
@@ -5999,46 +6129,6 @@
           "publishedOn": "2023-11-29T16:27:51.000Z",
           "wordCount": 1797,
           "title": "アーカム: マルチシグネチャアドレスが過去 10 日間に LINK で 5,500 万ドルを受け取り、それを Binance に送金しています",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344339",
-          "author": null,
-          "description": "Odaily News トルコの仮想通貨取引所トムヤのオーナー、ヤヴズ・ウスタ氏は、イスタンブールのビュユクチェクメジェ検事長の捜査で拘留された25人のうちの1人である。 Tomya はプレミア リーグのフットボール チーム、ハル シティのスポンサーです。 CoinDesk Turkeyによると、Tomyaに対する捜査は、Tomyaの従業員の紹介で何者かに21万1500ドルをだまし取られたと主張する投資家ムーサ・エクメクチョオール氏からの告訴がきっかけとなったようで、Tomya氏と短期間働いたアドバイザーも同様だという。拘留された。",
-          "link": "https://www.odaily.news/ja/newsflash/344339",
-          "publishedOn": "2023-11-29T16:26:33.000Z",
-          "wordCount": 1754,
-          "title": "トルコの仮想通貨取引所オーナー、トムヤ氏を詐欺容疑で警察に拘束",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344338",
-          "author": null,
-          "description": "Odaily News Gitcoin がイーサリアム インフラストラクチャの研究開発ラウンドに投稿: 寄付金額は約 51,000 米ドル、寄付数は約 75,000、L2BEAT、EthStaker、ZK Email などを含む約 12,900 の独立ユーザー/プロジェクトが寄付を受け取りました。 .; 2. Web3 コミュニティおよび教育ラウンド: 寄付金額は約 122,000 米ドル、寄付数は約 45,000 で、Trustalabs、EtherScore、ZachXBT などを含む約 14,900 の独立ユーザー/プロジェクトが寄付を受け取りました。 3. Web3 オープンソース ソフトウェア ラウンド: 寄付金額は約 264,000 米ドルで、約 118,000 件の寄付があり、JediSwap、Hypercerts Foundation、Revoke.cash などを含む約 23,000 の独立ユーザー/プロジェクトが寄付を受け取りました。",
-          "link": "https://www.odaily.news/ja/newsflash/344338",
-          "publishedOn": "2023-11-29T16:18:17.000Z",
-          "wordCount": 1799,
-          "title": "Gitcoin: GG19 はこれまでに約 535,000 ドルの寄付を提供しています",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344337",
-          "author": null,
-          "description": "Odaily News 11 月 30 日の時点で、BRC20 環境プロジェクト REVS は 65,2099 ビットコインの寄付を受け取り、このラウンドの寄付には 937 人が参加しています。 REVS は最近、ビットコインの初期プレイヤー市場に REVS を投入することを目的として、Top10 と Lucky12 という名前の特別なゲームプレイを開始しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344337",
-          "publishedOn": "2023-11-29T16:15:05.000Z",
-          "wordCount": 1764,
-          "title": "Brc20エコロジープロジェクトREVSは65BTC以上の寄付を受け取りました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344336",
-          "author": null,
-          "description": "オデイリーニュース米国財務次官ウォーリー・アデイエモ氏は講演の中で、仮想通貨業界は不正行為の防止を強化する必要があり、議会は提案を行うべきだと述べた。",
-          "link": "https://www.odaily.news/ja/newsflash/344336",
-          "publishedOn": "2023-11-29T16:04:47.000Z",
-          "wordCount": 1749,
-          "title": "米国財務副長官: 暗号化業界は不正行為の防止を強化する必要があり、議会は提案を提供する必要がある",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
