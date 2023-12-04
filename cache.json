@@ -375,6 +375,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=495916",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）市場では、ビットコインETF（上場投資信託）の上場承認期待やFRBの利上げ終了観測が強まったことで、BTCは4万ドルの節目を1年半ぶりに上回った。米国株ではコインベース株が大幅上昇しているほか、マネックスやセレス株など関連銘柄に資金が集まった。",
+          "link": "https://coinpost.jp/?p=495916",
+          "publishedOn": "2023-12-04T02:41:47.000Z",
+          "wordCount": 2010,
+          "title": "ビットコイン1年半ぶり4万ドル水準へ、株式市場では「仮想通貨関連銘柄」が全面高に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_chart0402.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_chart0402.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=495508",
           "author": "A.Sakamoto",
           "description": "3.8万ドル付近を底堅く推移する今週のビットコインチャートを図解。国内大手取引所bitbankのアナリストが今後の展望を読み解く。オンチェーンデータも掲載。",
@@ -966,6 +981,66 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/post/5191410",
+          "author": null,
+          "description": "ビットコインがバークシャー・ハサウェイを上回り、時価総額で世界資産トップ10に再び加わる",
+          "link": "https://www.odaily.news/ja/post/5191410",
+          "publishedOn": "2023-12-04T03:05:25.000Z",
+          "wordCount": 2434,
+          "title": "BTC ウィークリー レポート - 通貨価格は 40,000 米ドルを大きく超え、オルディは 38 米ドルの新高値に達しました (11.27-12.3)",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344833",
+          "author": null,
+          "description": "Odaily News MicroStrategy のビットコインポジションは 18 億米ドル以上増加しました。過去のデータによると、MicroStrategy は現在 174,530 ビットコインを保有しており、1 コインあたりの平均購入価格は 30,252 ドルです。",
+          "link": "https://www.odaily.news/ja/newsflash/344833",
+          "publishedOn": "2023-12-04T03:05:01.000Z",
+          "wordCount": 1786,
+          "title": "MicroStrategy の保有する BTC の変動利益は 18 億米ドルを超えています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344832",
+          "author": null,
+          "description": "デイリーニュース Huobi HTX 市場によると、12 月 4 日の Huobi HTX 価格値上げリストのトップ 3 通貨は SPRT、AURORA、CRU、Web3 分野で最大の値上がりは CRU (25.80%)、SOL エコシステムは最も高い増加率は WWY (11.18%) です。 12月4日10時15分現在の人気通貨の相場は以下の通り。",
+          "link": "https://www.odaily.news/ja/newsflash/344832",
+          "publishedOn": "2023-12-04T02:45:44.000Z",
+          "wordCount": 1807,
+          "title": "Huobi HTX 人気通貨レポート: SPRT は 24 時間で 32.82% 増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191409",
+          "author": null,
+          "description": "ステーブルコインは世界中の中央銀行に影響を与え、変化を強いることになります。",
+          "link": "https://www.odaily.news/ja/post/5191409",
+          "publishedOn": "2023-12-04T02:45:00.000Z",
+          "wordCount": 2032,
+          "title": "Amazonがベゾス・ステーブルコインを発行するのはなぜですか?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344831",
+          "author": null,
+          "description": "Odaily News Coinglass データによると、ネットワーク全体の BTC 契約保有総額は 286 億米ドルに達し、24 時間で 3.12% 増加しました。このうちCMEは47億4,500万米ドルで第1位となった。ネットワーク全体の ETH 契約保有総額は 83 億 4,200 万米ドルで、24 時間で 2.28% 増加しました。",
+          "link": "https://www.odaily.news/ja/newsflash/344831",
+          "publishedOn": "2023-12-04T02:44:14.000Z",
+          "wordCount": 1775,
+          "title": "ネットワーク全体のBTC保有総額は286億米ドルに達し、CMEが47億4,500万米ドルで1位となった。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344830",
+          "author": null,
+          "description": "Odaily News Block ブラウザの開発者である Etherscan は、ENS DAO ガバナンス フォーラムでアプリケーションを開始しました。これは、Etherscan シリーズのさまざまなチェーン ブラウザで ENS ドメイン名のサポートを維持し、より多くの関連機能を開発するために、年間 100 万米ドルの資金割り当てを受けることを期待しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344830",
+          "publishedOn": "2023-12-04T02:36:04.000Z",
+          "wordCount": 1794,
+          "title": "Etherscan は、ENS ドメイン名のサポートを維持および拡張するために、ENS DAO から年間 100 万ドルの助成金を申請しています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344829",
           "author": null,
@@ -5964,126 +6039,6 @@
           "publishedOn": "2023-11-29T16:04:47.000Z",
           "wordCount": 1749,
           "title": "米国財務副長官: 暗号化業界は不正行為の防止を強化する必要があり、議会は提案を提供する必要がある",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344327",
-          "author": null,
-          "description": "Odaily の公式ニュースによると、Scorpio は ORN と協力することを発表し、両社はマーケティング、ブランド構築などの面でリソースの補完的な利点を実現します。 ORN は綿密なパートナーとして、Scorpio の長期的な発展のために業界の経験とリソースのサポートを提供します。 Scorpioは、DEX、ERC-20銘板、オーダーブック取引システムおよびその他の技術に基づくERC-20銘板アグリゲーション取引を備えた資産交換プラットフォームを構築すると理解されています。",
-          "link": "https://www.odaily.news/ja/newsflash/344327",
-          "publishedOn": "2023-11-29T15:17:09.000Z",
-          "wordCount": 1694,
-          "title": "Scorpio と ORN は、さまざまなリソースにおいて補完的な利点を達成するために、綿密な協力に達しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344326",
-          "author": null,
-          "description": "オデイリーニュースセルシウスはXプラットフォーム上で正式に声明を発表し、本日より対象となるカストディユーザーは追加引き出しが可能になると述べた。現在出金可能な資産は特定の保管資産のみであり、現時点では他のすべての暗号通貨は出金できません。セルシウス アプリケーションは限られた期間しか利用できないため、ユーザーはセルシウス アプリケーションからこれらの資産を引き出し、役立つと思われる情報の個人記録を直ちに取得することを強くお勧めします。",
-          "link": "https://www.odaily.news/ja/newsflash/344326",
-          "publishedOn": "2023-11-29T15:15:09.000Z",
-          "wordCount": 1680,
-          "title": "セルシウス: 適格な保管ユーザーは今日から追加の出金が可能になります",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344325",
-          "author": null,
-          "description": "Odaily News ブロックチェーンおよびトークン化インフラストラクチャプラットフォームの Paxos は、アブダビ金融サービス規制庁 (FSRA) から原則承認 (IPA) を得たと発表、ダビグローバルマーケット (ADGM) は米ドルと米ドルの発行に必要な金融サービスライセンスを取得しました。その他 2 つの規制対象 ADGM 事業体によって提供される暗号通貨の仲介および保管サービスを備えた通貨裏付けのステーブルコイン。完全な承認を得た後、Paxos は規制対象の米ドル建てステーブルコインの世界的な展開を継続します。 (プレニュースワイヤー)",
-          "link": "https://www.odaily.news/ja/newsflash/344325",
-          "publishedOn": "2023-11-29T15:06:42.000Z",
-          "wordCount": 1690,
-          "title": "Paxos、アブダビ・グローバル・マーケットでステーブルコインの発行とデジタル資産サービスの開発に関する原則承認を取得",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344324",
-          "author": null,
-          "description": "Odaily News 仮想通貨保管・取引会社カッパーは水曜日、来年初めにアブダビでデジタル証券仲介サービスの提供を開始する計画であり、2024年初めまでに必要な承認を取得するためにUAE金融サービス規制庁(FSRA)と協力していると発表した。 。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/344324",
-          "publishedOn": "2023-11-29T15:00:14.000Z",
-          "wordCount": 1678,
-          "title": "カッパーは来年初めにアブダビでデジタル証券仲介サービスの提供を開始する予定",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344323",
-          "author": null,
-          "description": "Odaily は、realScamSniffer の監視によると、約 1 日前、マルチシグネチャ セキュリティ ウォレットがポイズニング攻撃により 145 万ドルを失ったと報告しました。ウォレットの所有者は当初、資産を 0xB087cf...947f5870 に送信する予定でしたが、最終的には 0xB087cf...947f5870 に送信することになりました。 0xB08726...b3675870。",
-          "link": "https://www.odaily.news/ja/newsflash/344323",
-          "publishedOn": "2023-11-29T14:57:44.000Z",
-          "wordCount": 1695,
-          "title": "マルチ署名の安全なウォレットがポイズニング攻撃により 145 万ドルを損失",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344321",
-          "author": null,
-          "description": "Odailyは、Whale Alertの監視によれば、6,000万USDTがTether Treasuryから未知のウォレットに送金されたと報じました。",
-          "link": "https://www.odaily.news/ja/newsflash/344321",
-          "publishedOn": "2023-11-29T14:52:53.000Z",
-          "wordCount": 1684,
-          "title": "6,000万USDTがTether Treasuryから送金されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344320",
-          "author": null,
-          "description": "Odaily News 20scan は、ORC-20 Nirvana との同期に成功したことを X プラットフォームに公式に投稿しました。同時に、インデクサーの安定性が向上し続けるため、プロジェクト チームは将来的にインデックス コードをオープンソース化し、潜在的な ORC-20 開発者のより広範なコミュニティに API を提供する予定です。",
-          "link": "https://www.odaily.news/ja/newsflash/344320",
-          "publishedOn": "2023-11-29T14:52:21.000Z",
-          "wordCount": 1721,
-          "title": "20scan は ORC-20 Nirvana アップグレードと同期されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344319",
-          "author": null,
-          "description": "Odaily は、Ember Monitoring によると、4 時間前にクジラが OKX から 9,070 ETH (約 1,859 万ドル) を引き出したと報じました。さらに、クジラは次の資産も保有しています: 800 WBTC (約 3,045 万米ドル)、平均原価は 29,312 米ドル、現在の変動利益は 695 万米ドル (+29%); 994,974 FTT (401 万米ドル)ドル)、平均原価は 1.43 米ドルで、現在の変動利益は 259 万米ドル (+182%) です。",
-          "link": "https://www.odaily.news/ja/newsflash/344319",
-          "publishedOn": "2023-11-29T14:47:51.000Z",
-          "wordCount": 1764,
-          "title": "巨大なクジラが OKX から 9070 ETH を引き出した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344318",
-          "author": null,
-          "description": "Polygon Capital の支援を受ける Odaily News Bioniq は、ICP を使用して Bitcoin との統合を完了し、それによってユーザーの取引コストと時間を削減する Bitcoin Ordinals 市場を立ち上げました。 BioniqのCEO兼共同創設者であるBob Bodily氏は声明の中で、スケーラブルなガス料金やネットワーク料金を支払うことなく、別個のL1でのビットコイン序数取引を特別にサポートする主要なプラットフォームや市場は開発されていないと述べた。新しいOrdinalsブームはBTCネットワークにさらなる有用性をもたらしますが、同時に混雑とネットワーク料金の上昇ももたらします。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/344318",
-          "publishedOn": "2023-11-29T14:44:36.000Z",
-          "wordCount": 1725,
-          "title": "Polygon Capital が支援する Bioniq がビットコイン序数取引市場を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344317",
-          "author": null,
-          "description": "Odaily News 11月23日のAave GHO流動性委員会の報告書で、TokenBriceは、UniswapなどのDeFi取引プラットフォームと比較して、MaverickのBoosted Poolsは流動性の設計とプログラミングにおいて決定的な利点があると述べた。 Aave コミュニティの著名なベテランであり、Aave Chan の責任者でもあるマーク・ゼラー氏は、次のように述べています。\"（Coindesk）",
-          "link": "https://www.odaily.news/ja/newsflash/344317",
-          "publishedOn": "2023-11-29T14:42:04.000Z",
-          "wordCount": 1691,
-          "title": "AaveのGHOステーブルコインは、マーベリック・プロトコルを使用して8月以来初めて米ドルに完全にペッグされることに近づいている",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344316",
-          "author": null,
-          "description": "Odaily News ブルームバーグ ETF アナリストのエリック・バルチュナス氏が、「今が焦点: さらなる改訂/最終文書が流入しており、現物または現金の創造に関する確認。しかし、正確な日付、コメント、タイムラインをめぐる議論のさなか、何かが起こっている」と投稿しました。重要なことは、SECと発行会社がこれらのETFをこのサイクル（2024年1月10日まで）に向けて準備できるよう舞台裏で取り組んでいることだが、ほとんどの人はそれは起こらないと考えている。」",
-          "link": "https://www.odaily.news/ja/newsflash/344316",
-          "publishedOn": "2023-11-29T14:41:42.000Z",
-          "wordCount": 1685,
-          "title": "アナリスト：SECと発行会社は1月10日までにスポットビットコインETFを承認する準備を進めている",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344315",
-          "author": null,
-          "description": "Odaily News レイヤ 2 ネットワーク opBNB の新しい技術ロードマップの一環として、開発者はトランザクション速度を 2 倍以上にし、ネットワーク料金を 90% 削減することを望んでいます。計画によれば、この措置により、1 秒あたりのトランザクション数 (TPS) が約 4,000 から 10,000 に増加し、コストが 6 か月以内に 0.0005 ドルに削減されます。最初の手数料引き下げは 12 月 4 日に予定されており、手数料は 0.005 ドルから 0.001 ドルになります。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/344315",
-          "publishedOn": "2023-11-29T14:39:05.000Z",
-          "wordCount": 1750,
-          "title": "opBNB 開発者は、トランザクション速度を 2 倍以上にすることを計画しています",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
