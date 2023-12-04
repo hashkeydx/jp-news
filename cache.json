@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=210831",
+          "author": "Shaurya Malwa",
+          "description": "ビットコイン（BTC）とイーサリアム（ETH）は、アメリカでのスポット上場投資信託（ETF）承認の可能性をめぐる楽観的な見方が広がり続け、ゴールドのピーク価格が ...\nビットコイン価格が4万1500ドル超え──2億ドルのショート清算が後押し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210831/",
+          "publishedOn": "2023-12-04T10:50:00.000Z",
+          "wordCount": 1162,
+          "title": "ビットコイン価格が4万1500ドル超え──2億ドルのショート清算が後押し",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/05/shutterstock_2155640725.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=210821",
           "author": "CoinDesk JAPAN",
           "description": "パブリックブロックチェーン「Japan Open Chain」のコンソーシアムを運営・管理する日本ブロックチェーン基盤は12月1日、G.U.Technologi ...\nJapan Open Chain、ステーブルコインを利用したクロスチェーン決済の実証実験──Fujitsu Web3 Acceleration Platformを活用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -350,16 +360,6 @@
           "wordCount": 1120,
           "title": "グレイスケール、ビットコイン現物ETFの準備を開始──「運用効率」ため信託契約を更新",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/5TFSREABFVCRXHAKPM7CTAGR2Y-_1_.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=210205",
-          "author": "Daniel Kuhn",
-          "description": "イーサリアムの生みの親であるヴィタリック・ブテリン氏は11月27日、新しい「テクノ・オプティミズム（技術楽観主義）」の哲学を説明する長い長いブログを発表した。こ ...\nブテリン氏「技術楽観主義」の長文ブログを公開──今はベストな世界なのか？ さらに改善可能なのか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/210205/",
-          "publishedOn": "2023-11-29T23:00:00.000Z",
-          "wordCount": 1140,
-          "title": "ブテリン氏「技術楽観主義」の長文ブログを公開──今はベストな世界なのか？ さらに改善可能なのか？",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/FSOGTSZX4RG55FALEQZTD2JWFM.jpg"
         }
       ]
     },
@@ -928,36 +928,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/binance-fight-crime.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/binance-fight-crime.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=495226",
-          "author": "菊谷ルイス",
-          "description": "米デラウェア裁判所は29日、破綻した仮想通貨取引所FTXの債務者側が提出したグレースケールとBitwiseの仮想通貨投資信託の株式に関する売却提案を許可した。",
-          "link": "https://coinpost.jp/?p=495226",
-          "publishedOn": "2023-11-29T23:15:48.000Z",
-          "wordCount": 1902,
-          "title": "FTX遺産、8.7億ドル相当の仮想通貨投資信託売却可能に　裁判所が認可",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/ftx-court-approve-to-dump.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/ftx-court-approve-to-dump.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=495216",
-          "author": "菊谷ルイス",
-          "description": "米国株は月末で小幅安。第3四半期の米実質国内総生産改定値は前期比で年率5.2%増に速報値の4.9%から上方修正され、21年10─12月期以来の高い伸びとなった。",
-          "link": "https://coinpost.jp/?p=495216",
-          "publishedOn": "2023-11-29T22:45:11.000Z",
-          "wordCount": 1966,
-          "title": "米3Q実質GDP+5.2％　来年5月までのFRB利下げ観測高まる｜30日金融短観",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
         }
       ]
     },
@@ -966,6 +936,66 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344899",
+          "author": null,
+          "description": "Odaily News Ouyi OKX市場によると、USTCは短期間で0.05 USDTを下回り、0.049 USDTまで下落し、現在は24日に5.35％下落し、0.057 USDTで取引されている。",
+          "link": "https://www.odaily.news/ja/newsflash/344899",
+          "publishedOn": "2023-12-04T11:18:25.000Z",
+          "wordCount": 1709,
+          "title": "USTCは一時0.05 USDTまで下落し、24時間では5.35%下落した。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191433",
+          "author": null,
+          "description": "DeSci といわゆる「長寿」の概念が注目を集めており、長らく眠っていた物語が再び脚光を浴びているようです。",
+          "link": "https://www.odaily.news/ja/post/5191433",
+          "publishedOn": "2023-12-04T11:00:00.000Z",
+          "wordCount": 5314,
+          "title": "DeSci の物語が再燃していますが、注目に値する潜在的なプロジェクトにはどのようなものがありますか?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344897",
+          "author": null,
+          "description": "Odaily News OKX市場によると、BTCは42,000 USDTを超え、現在42,064 USDTで取引されており、24時間で5.77%上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/344897",
+          "publishedOn": "2023-12-04T10:50:41.000Z",
+          "wordCount": 1707,
+          "title": "BTCは42,000 USDTを超え、24時間で5.77%増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344896",
+          "author": null,
+          "description": "Odaily News ブラジルのイタウ・ウニバンコ銀行は月曜日、投資プラットフォームの顧客向けに仮想通貨取引サービスを開始した。デジタル資産責任者のグト・アントゥネス氏は、イタウの新サービスでは当初はビットコインとイーサリアムの取引が可能で、その後さらに多くの仮想通貨が追加されると述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/344896",
+          "publishedOn": "2023-12-04T10:39:00.000Z",
+          "wordCount": 1702,
+          "title": "ブラジルの銀行イタウ・ウニバンコが仮想通貨取引サービスを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191432",
+          "author": null,
+          "description": "週末にかけてBTCの上昇が加速したことを受け、BTCエコロジープロジェクトBRC-20資産の主要プロジェクトであるORDIは2日間で2倍に上昇した。 ORDIの台頭もこのセクターの同様の資産の上昇を促しており、BTCの生態学的人気は良好です。 ORDIは今年5月にBitgetに上場し、安値から10倍以上の上昇を達成した。",
+          "link": "https://www.odaily.news/ja/post/5191432",
+          "publishedOn": "2023-12-04T10:35:35.000Z",
+          "wordCount": 2454,
+          "title": "Bitget Research Institute: BTC が 40,000 米ドルを突破、ORDI 価格は 2 日で 2 倍に",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191429",
+          "author": null,
+          "description": "このアップグレードは仲裁全体に大きな影響を与えるものではありません。",
+          "link": "https://www.odaily.news/ja/post/5191429",
+          "publishedOn": "2023-12-04T10:29:31.000Z",
+          "wordCount": 1967,
+          "title": "Arbitrum ArbOS のアップグレード、それが懸念を引き起こした理由\"ハードフォーク\"議論",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344895",
           "author": null,
@@ -6594,26 +6624,6 @@
           "publishedOn": "2023-11-30T00:28:28.000Z",
           "wordCount": 1701,
           "title": "グレイスケールはスポットビットコインETFの上場に備えてGBTCの手数料体系と資産保管方法を調整する予定",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344350",
-          "author": null,
-          "description": "Odaily News スイスの資産管理会社パンド・アセットは、米国でビットコインのスポットETFを申請し、フォームS-1をSECに提出した。提出書類によると、このETFはCboe BZX取引所で取引され、Coinbaseが保管者として機能する。ビットコインの価格設定については、文書では CME の CF ビットコイン参照レートの使用について言及しています。",
-          "link": "https://www.odaily.news/ja/newsflash/344350",
-          "publishedOn": "2023-11-29T22:36:25.000Z",
-          "wordCount": 1668,
-          "title": "スイスの資産管理会社パンド・アセットが米国でスポットビットコインETFの申請を提出",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344349",
-          "author": null,
-          "description": "Odaily News Bloombergのアナリスト、Eric Balchunas氏は、「バージョン」の物理的配送モデルの設計についてこう述べた。オリジナルおよび改訂された現物受け渡しモデルでは、ステップ 4 が変更されています。つまり、海外の現物マーケットメーカーは Coinbase からビットコインを取得し、それを米国に登録されているブローカーに事前に現金で支払います (これらのブローカーはエクスポージャを許可されていません)。ビットコインに）。",
-          "link": "https://www.odaily.news/ja/newsflash/344349",
-          "publishedOn": "2023-11-29T22:33:03.000Z",
-          "wordCount": 1669,
-          "title": "ブラックロックはETFについて議論するためにSECと再び会合し、修正されたモックアップデザインを披露",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
