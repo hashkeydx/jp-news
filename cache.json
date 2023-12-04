@@ -375,6 +375,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=496166",
+          "author": "菊谷ルイス",
+          "description": "カナダの仮想通貨ETP発行会社Valourは新たに2024年まで欧州で20もの仮想通貨ETP（上場取引型金融商品）を提供する目標を掲げた。機関投資家の資金流入が追い風になっている。",
+          "link": "https://coinpost.jp/?p=496166",
+          "publishedOn": "2023-12-04T22:30:24.000Z",
+          "wordCount": 1871,
+          "title": "「2024年まで20もの仮想通貨ETPを提供へ」上場取引型金融商品発行企業Valour",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/etp-valour-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/etp-valour-.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=496159",
           "author": "K.Kobayashi",
           "description": "エルサルバドルのナジブ・ブケレ大統領は、同国の仮想通貨ビットコイン投資の利益がプラスに転じたと公表。公表時点で約5.3億円の利益が出ている。",
@@ -891,6 +906,36 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344949",
+          "author": null,
+          "description": "Odaily News Deribitデリバティブ取引所のビットコイン永久先物の建玉は年間最高額の7億4000万ドルに達し、これはビットコインが2021年11月のパスで6万8000ドル以上の史上最高値に達して以来の水準だ。建玉の増加は、新たな資金が市場に流入していることを示しており、市場参加者と基礎的な流動性の増加を示しています。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/344949",
+          "publishedOn": "2023-12-04T22:36:19.000Z",
+          "wordCount": 1656,
+          "title": "ビットコイン無期限先物建玉がデリビット取引所で年間最高値に到達",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344948",
+          "author": null,
+          "description": "Odaily News Binance の新 CEO、Richard Teng 氏は最近、X プラットフォームで AMA を開催しました。最近の罰金に関して、テン氏はバイナンスの財務状況は安定しており、これらの罰金は同社の発展に影響を与えるものではないと述べた。バイナンスは、コンプライアンスとコミュニティの参加に重点を置き、新しいプロジェクトのリストに関して高い基準を維持し続けます。彼はまた、重点的に取り組む 3 つの優先事項も提案しました。 1 つ目は、ユーザー中心の組織としてビジネスとエコシステムの発展を推進し続けることです。第二に、仮想通貨業界はさらなる規制に直面することになるため、業界全体の発展を促進するために規制の明確化を推進すると約束した。第三に、パートナーと協力して暗号通貨の応用と普及を促進します。彼はまた、暗号通貨が低コストの金融サービスを提供することで、世界中で、特に発展途上国やフロンティア経済において人々の生活をどのように変えているかについても語った。",
+          "link": "https://www.odaily.news/ja/newsflash/344948",
+          "publishedOn": "2023-12-04T22:34:00.000Z",
+          "wordCount": 1666,
+          "title": "バイナンスCEO：財務状況は堅調で、米国規制当局からの罰金は会社の発展に影響を与えない",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/344947",
+          "author": null,
+          "description": "Odaily News Coinbase は、ステーブルコインは通貨の未来の一部であり、それが到来したと述べたブログ投稿を公開しました。アメリカ人が現在の金融システムで現金を使用することに対する最大の反対意見は、お金の入手と移動に多すぎる手数料がかかることです。ステーブルコインは消費者に、安くて早いなど、現金のあらゆるメリットを提供します。これらはお金の将来の重要な部分であり、すでにシステムの更新に役立っています。ステーブルコインの重要性が高まるにつれ、ステーブルコインの規制を明確にすることが緊急に求められています。",
+          "link": "https://www.odaily.news/ja/newsflash/344947",
+          "publishedOn": "2023-12-04T22:28:40.000Z",
+          "wordCount": 1660,
+          "title": "Coinbase: ステーブルコインは通貨の未来の一部です",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/344946",
           "author": null,
@@ -5799,96 +5844,6 @@
           "publishedOn": "2023-11-30T11:25:33.000Z",
           "wordCount": 1784,
           "title": "Bitget Wallet が TON メインネットのサポートを追加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344468",
-          "author": null,
-          "description": "Odaily は、Cyvers Alerts AI システム監視によると、イランの仮想通貨取引所 Nobitex の 2 つのホットウォレットが攻撃された可能性があると報じました。 Cyvers Alerts AI システムは、デジタル資産約 1,250 万ドルに関わる複数の不審な移転を検出しましたが、これらの移転が承認された行為であったのか、資産の移行であったのかは不明です。",
-          "link": "https://www.odaily.news/ja/newsflash/344468",
-          "publishedOn": "2023-11-30T11:19:43.000Z",
-          "wordCount": 1746,
-          "title": "Cyvers Alerts: Nobitex ホットウォレットが攻撃された疑いあり、1,250 万ドルのデジタル資産が関与",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191363",
-          "author": null,
-          "description": "オデッセイのイベントは 4 つのステージに分かれており、各ステージでユーザーにエアドロップを獲得する機会が提供されます。",
-          "link": "https://www.odaily.news/ja/post/5191363",
-          "publishedOn": "2023-11-30T11:18:32.000Z",
-          "wordCount": 1981,
-          "title": "何百万人ものユーザーが力を合わせて SocialFi の新たな機会を模索、UXLINK Odyssey イベントが正式に開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344467",
-          "author": null,
-          "description": "Odaily News Scopescan の監視によると、過去 2 時間で約 200 万米ドル相当の ID トークンが Upbit ウォレットから Binance の複数の入金アドレスに転送され続けました。この 2 時間で ID 価格は約 13% 下落しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344467",
-          "publishedOn": "2023-11-30T11:16:38.000Z",
-          "wordCount": 1852,
-          "title": "過去 2 時間で約 200 万ドルの ID トークンが Upbit から Binance に転送されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191361",
-          "author": null,
-          "description": "デジタル通貨に関しては、BTC/ETHはそれぞれ38000/2050付近で変動し、37815.36(-0.803%)/2034.97(-1.16%)まで若干下落して取引を終えた。インプライド・ボラティリティに関しては、一日の終わりにオプション IV で約 1.5% Vol がわずかに減少したことを除いて、残りの期間に大きな変化はありません。",
-          "link": "https://www.odaily.news/ja/post/5191361",
-          "publishedOn": "2023-11-30T11:15:32.000Z",
-          "wordCount": 1884,
-          "title": "SignalPlus のボラティリティ コラム (20231130): 強気戦略は引き続き人気",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344466",
-          "author": null,
-          "description": "Odaily News 11月10日以降、bc1qchで始まる新しいウォレットアドレスの残高は11,268BTC（4億2,400万ドル相当）増加しました。これに関して、オンチェーン分析会社CryptoQuantは、bc1qchで始まるアドレスがBitMEX取引所の新しいコールドウォレットアドレスであると述べた。うち 566 BTC の送金は 1 回の送金としては最大のものでした。このアドレスは、11 月 28 日に発行された BitMEX の最新の Proof of Reserve Holdings レポートに掲載されました。 CryptoQuant は以前、送信アドレスを BitMEX のアドレスとしてマークしていました。クリプトクアントは、「この新しいアドレスは合計450のアドレスからビットコインを受け取った。これらのアドレスは、bc1qmexプレフィックスの特徴とともに、BitMEXの準備金証明レポートにも記載されている」と述べた。一部のビットコイン資産は 3BMEX 形式から bc1qmex 形式のアドレスに移行されました。 Segregated Witness (SegWit) をサポートする bc1q で始まるビットコイン アドレスもいくつかあります。 （CoinDesk）本日初め、Bitinfochartsのデータによると、あるウォレットアドレスが11月10日以来11,268 BTC（4億2,400万ドル相当）を購入し、現在70番目に多いBTC保有者となっている。最近の 875 BTC の購入を含むこれらの取引の価格は 36,000 ドルから 38,000 ドルの範囲であり、ビットコインの現在の価格レベルが 38,000 ドル弱であれば、ウォレット所有者は約 980 万ドルの利益を得たことになる。一部の業界関係者は、このウォレットが米国の資産運用大手によるスポットビットコインETFの立ち上げ準備に関連しているのではないかと推測しているが、そのような「事前取引」が許可されるかどうかは不明だ。",
-          "link": "https://www.odaily.news/ja/newsflash/344466",
-          "publishedOn": "2023-11-30T11:09:25.000Z",
-          "wordCount": 1874,
-          "title": "CryptoQuant: BTC で 4 億 2,400 万ドルを保持するアドレスは BitMEX コールド ウォレットであり、関連する送金はその内部ウォレットで組織される可能性があります",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191356",
-          "author": null,
-          "description": "Kaspa 以外に、他にどのようなプロジェクトが考えられますか?",
-          "link": "https://www.odaily.news/ja/post/5191356",
-          "publishedOn": "2023-11-30T11:00:00.000Z",
-          "wordCount": 2256,
-          "title": "POW トラックの 7 つの注目すべきプロジェクトを振り返る",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344464",
-          "author": null,
-          "description": "Odaily の公式ニュースによると、Coinbase International Exchange と Coinbase Advanced は、ADA/PERP、DOGE/PERP、LINK/PERP、および XLM/PERP の無期限契約を開始しました。上記の市場は現在、指値注文のある完全な取引モードになっています。成行注文、ストップロス注文、ストップロス指値注文がサポートされています。",
-          "link": "https://www.odaily.news/ja/newsflash/344464",
-          "publishedOn": "2023-11-30T10:55:35.000Z",
-          "wordCount": 1810,
-          "title": "Coinbase International Exchange、ADA/PERP、DOGE/PERP、その他の永久契約を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344463",
-          "author": null,
-          "description": "Odaily News DeFiプロトコルのTerm Structureは、Decima Fund、HashKey Capital、Longling Capital、MZ Web3 Fundの参加を得て、Cumberland DRW主導で425万米ドルのシードラウンドを完了した。これまでのところ、Term Structure の資金調達総額は 800 万米ドルに達しています。 (PRニュースワイヤー)",
-          "link": "https://www.odaily.news/ja/newsflash/344463",
-          "publishedOn": "2023-11-30T10:33:14.000Z",
-          "wordCount": 1807,
-          "title": "DeFiプロトコルのタームストラクチャーがカンバーランドDRW主導でシードラウンド資金調達で425万米ドルを完了",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344462",
-          "author": null,
-          "description": "Odaily News ブロックリサーチディレクターの twan 氏は X プラットフォームに、ブロックチェーン分野のベンチャーキャピタル資金が 11 月に前月比 96% 増加し、6 か月ぶりの高値を記録したと投稿しました。データによると、11月以降のブロックチェーン分野の融資総額は10億9,000万米ドルで、そのうちインフラ分野の融資額は4億1,300万米ドルで37.9%を占めています。",
-          "link": "https://www.odaily.news/ja/newsflash/344462",
-          "publishedOn": "2023-11-30T10:27:33.000Z",
-          "wordCount": 1763,
-          "title": "11月のブロックチェーン分野での資金調達総額は10億9000万米ドルに達し、前月比96％増となった",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
