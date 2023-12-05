@@ -953,21 +953,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/btc-30m-fee.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/btc-30m-fee.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=495376",
-          "author": "K.Kobayashi",
-          "description": "大和証券グループは、パブリックブロックチェーン上でセキュリティトークンを発行するPOCを実施すると発表。基盤には仮想通貨イーサリアムのブロックチェーンを活用する。",
-          "link": "https://coinpost.jp/?p=495376",
-          "publishedOn": "2023-12-01T00:45:44.000Z",
-          "wordCount": 1922,
-          "title": "「イーサリアムでデジタル証券（ST）発行へ」大和証券・Ginco協業",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Daiwa-Group-ST-POC.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Daiwa-Group-ST-POC.png"
         }
       ]
     },
@@ -976,6 +961,106 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345073",
+          "author": null,
+          "description": "Odaily News IntoTheBlock は、ビットコインが 40,000 ドルの水準を突破したとき、長期保有者 (BTC を少なくとも 1 年間保有) が現金化できなかったと X プラットフォームに投稿しました。実際、このグループは11月初旬以来36万BTCの保有を増やしており、現在合計1,380万BTC以上を保有しています。",
+          "link": "https://www.odaily.news/ja/newsflash/345073",
+          "publishedOn": "2023-12-05T13:23:52.000Z",
+          "wordCount": 1711,
+          "title": "IntoTheBlock: 長期保有者は 11 月初旬以来 360,000 BTC を蓄積",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345072",
+          "author": null,
+          "description": "Odaily News CoinGecko のデータによると、USDT の市場総額は 900 億米ドルを超え、900 億 3,798 万 5,303 米ドルに達し、新たな記録を更新しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345072",
+          "publishedOn": "2023-12-05T13:20:11.000Z",
+          "wordCount": 1686,
+          "title": "USDTの時価総額が900億ドルを超え、過去最高を更新",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345071",
+          "author": null,
+          "description": "Odaily News OKX市場は、BTCが42,000 USDTを超え、現在41,990 USDTで取引されており、24時間で1.73%上昇していることを示しています。",
+          "link": "https://www.odaily.news/ja/newsflash/345071",
+          "publishedOn": "2023-12-05T13:15:48.000Z",
+          "wordCount": 1682,
+          "title": "BTCは42,000 USDTを超え、24時間で1.73%上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345070",
+          "author": null,
+          "description": "Odaily News Binance は、Swap に Web3 ウォレットを使用するユーザーに、1 SHIB から 1 BTC までの 50 万ドル相当の暗号通貨をエアドロップすると発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345070",
+          "publishedOn": "2023-12-05T13:12:36.000Z",
+          "wordCount": 1688,
+          "title": "バイナンスはWeb3ウォレットユーザーに50万ドル相当の暗号通貨をエアドロップする",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191470",
+          "author": null,
+          "description": "テストネットは12月6日に正式に開始され、メインネットは12月20日頃に開始される予定です。",
+          "link": "https://www.odaily.news/ja/post/5191470",
+          "publishedOn": "2023-12-05T13:11:14.000Z",
+          "wordCount": 1918,
+          "title": "ZKFairはトークンインセンティブ付きのZK L2をリリースし、すべてのトークンをコミュニティにエアドロップします",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345069",
+          "author": null,
+          "description": "Odaily News OKX市場によると、MEMEは0.044 USDTを突破し、現在0.0439 USDTで24時間44.78%上昇して取引されています。",
+          "link": "https://www.odaily.news/ja/newsflash/345069",
+          "publishedOn": "2023-12-05T13:09:16.000Z",
+          "wordCount": 1682,
+          "title": "MEMEは0.044 USDTを突破し、24時間で44.78%上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191465",
+          "author": null,
+          "description": "AigenLayer は革新的な「リステーキング」を通じてネットワーク セキュリティのパラダイムをどのように変え、バリデーターや投資家に新たな収益機会をもたらしたのでしょうか?",
+          "link": "https://www.odaily.news/ja/post/5191465",
+          "publishedOn": "2023-12-05T13:00:00.000Z",
+          "wordCount": 2538,
+          "title": "IOSG Ventures: EigenLayer の再誓約モデルと利点の簡単な分析",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345068",
+          "author": null,
+          "description": "Odaily ニュースのセキュリティ機関 OpenZeppelin は、Thirdweb コントラクトのセキュリティ脆弱性はまだ悪用されていないとツイートし、この脆弱性は特定のモードでの統合の問題に関連しており、OpenZeppelin コントラクト ライブラリに含まれる実装とは何の関係もありません。 OpenZeppelin は引き続き、コミュニティ内の影響を受けるユーザーに対する緩和戦略の評価と提供を主導し、必要に応じて脆弱性を公開します。 Thirdweb ユーザー向けに、チームはプラットフォームを通じて作成された契約が影響を受けるかどうかを確認し、移行を実行するツールを開発しました: https://mitigate.thirdweb.com。",
+          "link": "https://www.odaily.news/ja/newsflash/345068",
+          "publishedOn": "2023-12-05T12:55:00.000Z",
+          "wordCount": 1718,
+          "title": "OpenZeppelin: Thirdweb コントラクトの脆弱性の問題は、パターン固有の統合の問題に関連しており、OpenZeppelin コントラクト ライブラリに含まれる実装とは関係ありません",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345067",
+          "author": null,
+          "description": "Odaily News イーサリアム クラシック (ETC) は、メイン ネットワークがイーサリアム「上海」アップグレードとのプロトコル同期を達成するために「スパイラル」ネットワーク アップグレードを導入すると発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345067",
+          "publishedOn": "2023-12-05T12:50:23.000Z",
+          "wordCount": 1690,
+          "title": "イーサリアムクラシックは、イーサリアム「上海」アップグレードとのプロトコル同期を実現するためにスパイラルアップグレードを受けます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345066",
+          "author": null,
+          "description": "Odaily News Ouyi OKX市場によると、FLOKIは短期的に0.000046 USDTを突破したが、その後反落し、現在は24時間で22.1%上昇し、0.0000438 USDTで取引されている。",
+          "link": "https://www.odaily.news/ja/newsflash/345066",
+          "publishedOn": "2023-12-05T12:48:12.000Z",
+          "wordCount": 1690,
+          "title": "FLOKIは短期的に0.000046 USDTを突破した後反落し、24時間で22.1%上昇した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345065",
           "author": null,
@@ -6454,76 +6539,6 @@
           "publishedOn": "2023-12-01T01:27:02.000Z",
           "wordCount": 1949,
           "title": "毎日の朝のニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344549",
-          "author": null,
-          "description": "Odaily News GMX は、GMX Grants Program の資金提供プロジェクト情報の第 1 弾を発表しました。合計 12 プロジェクトが支援を受けています: 財務サービスプロバイダーの GMD Protocol、ERC4337 アカウント抽象化を利用したテレグラムロボットサービス Perpie、Quest ベースの The Protocolsノーコード ツール Quest Terminal、GMX V2 を監視するデータ ツール GMX V2 Telegram  Discord Analytics、Arbitrum ベースの分散型金融プロトコル Rodeo Finance、Arbitrum オンチェーンの持続可能な収入最適化プロトコル Vaultka、および Web3 デリバティブ ポートフォリオ トラッカー Tradao、 Arbitrum および Avalanche チェーン上の DeFi マージン プロトコル DeltaPrime、GMX 統合サービス Fluid、GMX Python SDK、Python を使用して GMX V2 を作成するオープンソース SDK プロジェクト、クロスチェーン AMM DEX Symbiosis、および DeFi 融資プラットフォーム Dolomite。",
-          "link": "https://www.odaily.news/ja/newsflash/344549",
-          "publishedOn": "2023-12-01T01:20:37.000Z",
-          "wordCount": 1934,
-          "title": "GMXファンディングプログラム、第1弾の資金提供プロジェクト情報を発表、計12プロジェクトが支援対象に",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344548",
-          "author": null,
-          "description": "Odaily News Spot On Chain のモニタリングによると、過去 45 分間に 3 つのクジラ アドレスが DEX を通じて DYDX トークンを販売し、総額約 727,000 米ドルに達しました。さらに、0xb0dで始まるアドレスは563万DYDX（約1,801万米ドル相当）をBinanceに入金し、QCP Capitalは39万DYDX（約126万米ドル相当）をBinanceに入金しました。今年1月に改定された提案書によると、dYdXは12月1日に主に投資家、創業者、コンサルタント、従業員の株式を含む1億5,200万DYDX（約5億1,800万ドル）のロックを解除する予定で、流通供給量の84.41％を占める。",
-          "link": "https://www.odaily.news/ja/newsflash/344548",
-          "publishedOn": "2023-12-01T01:15:00.000Z",
-          "wordCount": 1906,
-          "title": "2つのアドレスが約2,000万ドル相当のDYDXをバイナンスに転送、またはDYDXの関連当事者のロックを解除",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344547",
-          "author": null,
-          "description": "オデイリーニュース米国破産判事のマーティン・グレン氏は木曜日の法廷公聴会で、仮想通貨金融業者セルシアス・ネットワークはビットコインマイニング事業への転換案について新たな債権者の投票を求める必要があるかもしれないと述べた。セルシウスは先週、計画されている他の事業分野に対する米国証券取引委員会（SEC）の懐疑を理由に、破産後の事業計画を縮小してビットコインマイニングのみに注力すると発表した。 (ロイター)",
-          "link": "https://www.odaily.news/ja/newsflash/344547",
-          "publishedOn": "2023-12-01T00:59:43.000Z",
-          "wordCount": 1874,
-          "title": "ビットコインマイニング事業への転換を目指すセルシウス・ネットワークの提案は、新たな債権者の投票を求める必要があるかもしれない",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344546",
-          "author": null,
-          "description": "Odaily News Blastの関係者は、ユーザーがUSDTを入金すると、Blast Bridgeが入金トランザクションでUSDTをDAIに変換すると述べた文書をXプラットフォーム上で発行した。 UI 上のスリッページ パラメーターの設定が間違っていたため、ユーザーは 2 つのトランザクションで受け取るべき DAI よりも 100,000 DAI を受け取ることになりました。 Blast氏は、設定エラーは解決されており、影響を受けるユーザーにはスリッページによる損失額と追加の10％ボーナス（合計11万USDT）が送金されると述べた。",
-          "link": "https://www.odaily.news/ja/newsflash/344546",
-          "publishedOn": "2023-12-01T00:57:26.000Z",
-          "wordCount": 1925,
-          "title": "ブラスト: パラメータ設定エラーにより、ユーザーが入金後に受け取る DAI が 100,000 未満でしたが、問題は解決されました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344545",
-          "author": null,
-          "description": "Odaily News Coinbase CEOのBrian Armstrong氏はインタビューで、スポットビットコインETFの承認については非常に楽観的であると述べたが、ブライアン氏はまた、この問題に関して十分な専門知識を持っていないことも強調した。スポットビットコインETFは承認されそうな気がします ビットコインETFは承認に近づいています。潜在的なビットコインETF発行者13社のうち、10社がCoinbase Custodyをカストディアンとして選択した。ブライアン・アームストロング氏は、コインベースが過去10年間に数百億ドルの仮想通貨を確保してきたと述べ、これはコインベースに対する市場の信頼を示していると述べた。 (復号化)",
-          "link": "https://www.odaily.news/ja/newsflash/344545",
-          "publishedOn": "2023-12-01T00:50:49.000Z",
-          "wordCount": 1896,
-          "title": "Coinbase CEO: スポットビットコインETFの承認についてかなり楽観的",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344544",
-          "author": null,
-          "description": "デイリーニュース 米国証券取引委員会（SEC）は木曜日、グレイスケールと会談し、グレイスケール・ビットコイン・トラスト・ファンド（GBTC）のETF転換の可能性について話し合った。グレイスケールはまた、最近、インベスコETFの幹部を長年務めたジョン・ホフマン氏を雇用し、同氏がグレイスケールの流通および戦略的パートナーシップの責任者となる予定である。 SECは水曜日にブラックロックとナスダックの代表とも会談した。ブラックロックは6月にビットコインETFを申請しており、他の資産管理会社数社もこれに追随した。 (CNBC)",
-          "link": "https://www.odaily.news/ja/newsflash/344544",
-          "publishedOn": "2023-12-01T00:45:54.000Z",
-          "wordCount": 1878,
-          "title": "グレイスケールはGBTCのETFへの転換について協議するために米国SECと会合し、最近元インベスコETF幹部を雇用した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344543",
-          "author": null,
-          "description": "Odaily News スイスの仮想通貨銀行セバは、世界展開戦略の一環として社名をアミナに変更すると発表した。 Amina は、従来のバンキング、デジタル バンキング、暗号バンキングの要素を組み合わせることを目指しています。同社は香港証券先物委員会から同地域で仮想通貨取引サービスを提供するライセンスを取得し、スイス、香港、スイスの戦略的ハブでの成長加速の一環としてアブダビに事務所を開設したと報じられている。アブダビ。 (コインテレグラフ)",
-          "link": "https://www.odaily.news/ja/newsflash/344543",
-          "publishedOn": "2023-12-01T00:41:57.000Z",
-          "wordCount": 1884,
-          "title": "スイスの仮想通貨銀行セバがアミナへの社名変更を発表",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
