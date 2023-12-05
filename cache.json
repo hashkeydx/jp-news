@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=210984",
+          "author": "Omkar Godbole",
+          "description": "ナスダック上場の暗号資産（仮想通貨）取引所コインベース（Coinbase）の株価は今年300％近く急騰し、最大の暗号資産であるビットコイン（BTC）を大きく上回 ...\nコインベース株の上昇はまだ続く──チャートアナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/210984/",
+          "publishedOn": "2023-12-05T10:30:00.000Z",
+          "wordCount": 1113,
+          "title": "コインベース株の上昇はまだ続く──チャートアナリストが指摘",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/HSJMLVIZTRDQBKR4DETRJIROBU.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=210952",
           "author": "日本経済新聞社Nブランドスタジオ",
           "description": "CoinDesk JAPANの運営会社N.Avenue株式会社は、日本経済新聞社と共催で2023年12月13日（水）に「デジタル証券フォーラム2023」を開催す ...\n【デジタル証券フォーラム2023】セキュリティ・トークン（ST）の市場定着化が加速 健全な市場発展に軸足 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -380,16 +390,6 @@
           "wordCount": 1097,
           "title": "中央銀行はCBDCリスクに対する十分な準備ができていない：BISレポート",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/C3AO7CVUKFET7JEHXXFZUR3FBY.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=210382",
-          "author": "Shaurya Malwa",
-          "description": "アメリカで提供されている先物ETF、プロシェアーズ（ProShares）のビットコイン・ストラテジーETF（BITO）は今週、運用資産（AUM）で2021年12 ...\n最大のビットコイン先物ETF、運用資産額で2021年の過去最高を更新 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/210382/",
-          "publishedOn": "2023-11-30T22:30:00.000Z",
-          "wordCount": 1115,
-          "title": "最大のビットコイン先物ETF、運用資産額で2021年の過去最高を更新",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/4WS3755O5NBQPHJQJE7T42HFQE.jpg"
         }
       ]
     },
@@ -404,6 +404,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=495737",
+          "author": "CONNECTV 編集部",
+          "description": "動画コンテンツ紹介新たにリブランディングした「WebXSTUDIO（旧：CONNECTV）」。「WebXSTUDIO」第三弾では、CoinPost代表の各務貴仁と、あたらしい経済編集長の設楽悠介が、主に事業者向けのNFT（非代替性トークン）...",
+          "link": "https://coinpost.jp/?p=495737",
+          "publishedOn": "2023-12-05T10:46:54.000Z",
+          "wordCount": 1864,
+          "title": "「事業者向けのNFT活用法とは？」web3メディア経営者2名が動画解説｜WebX STUDIO",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/YouTubelong2_.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/YouTubelong2_.png"
+        },
         {
           "id": "https://coinpost.jp/?p=496285",
           "author": "AKIRA.H",
@@ -988,21 +1003,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=495358",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所バイナンスは、機関投資家向けの新たなソリューショーンを発表。開発の目的やプロジェクトの現状を説明している。",
-          "link": "https://coinpost.jp/?p=495358",
-          "publishedOn": "2023-11-30T22:30:22.000Z",
-          "wordCount": 1942,
-          "title": "「銀行で金利を得ながら仮想通貨投資を」バイナンス、新たな機関投資家向けソリューション提供へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Binance-Triparty-agreement.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Binance-Triparty-agreement.png"
         }
       ]
     },
@@ -1011,6 +1011,96 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345053",
+          "author": null,
+          "description": "Odaily News OpenSeaは、特定のNFTシリーズに影響を与えるセキュリティの脆弱性に関してWeb3開発者プラットフォームのThirdwebと連絡を取っていると述べたXプラットフォームに関する文書を発行した。チームは、影響を受けるシリーズ所有者が契約の移行に関連する OpenSea への変更に対処できるよう支援します。さらなる情報をお待ちください。本日、Thirdweb は X プラットフォームに、北京時間 11 月 21 日 10:00 に Web3 業界で一般的に使用されているオープンソース ライブラリのセキュリティ脆弱性をチームが発見したと投稿しました。これは、Thirdweb の事前構築されたスマート コントラクトの一部を含む、Web3 エコシステム内のさまざまなスマート コントラクトに影響します。現在までの調査によると、この脆弱性はまだ ThirdWeb スマート コントラクトでは悪用されていません。ただし、スマート コントラクトの所有者は、11 月 23 日の北京時間 11 時までに、ThirdWeb で作成された特定の事前構築コントラクトに対して緩和措置を講じる必要があります。影響を受ける構築済みコントラクトには、DropERC20、ERC721、ERC1155 (すべてのバージョン)、および AirdropERC20 が含まれますが、これらに限定されません。",
+          "link": "https://www.odaily.news/ja/newsflash/345053",
+          "publishedOn": "2023-12-05T11:14:21.000Z",
+          "wordCount": 1702,
+          "title": "OpenSea: 特定の NFT ファミリに影響を与えるセキュリティの脆弱性についてサードウェブと連絡中",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191469",
+          "author": null,
+          "description": "この急増の直接的な原因はありませんが、この勢いは過去 1 か月間、おそらく 2023 年を通じて徐々に高まっています。",
+          "link": "https://www.odaily.news/ja/post/5191469",
+          "publishedOn": "2023-12-05T11:11:28.000Z",
+          "wordCount": 1665,
+          "title": "ビットコインが4万ドルを突破、その原動力は何でしょうか？",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191466",
+          "author": null,
+          "description": "Ordinals エコシステムの Gitcoin になることを目指しています。",
+          "link": "https://www.odaily.news/ja/post/5191466",
+          "publishedOn": "2023-12-05T11:08:53.000Z",
+          "wordCount": 1945,
+          "title": "最近人気のOrdinals Launchpad「TurtSat」について学ぶ記事",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191455",
+          "author": null,
+          "description": "BTCエコシステムは次にどこへ向かうのでしょうか？",
+          "link": "https://www.odaily.news/ja/post/5191455",
+          "publishedOn": "2023-12-05T11:05:47.000Z",
+          "wordCount": 1901,
+          "title": "ビットコインエコシステムにおける最初の流動性プールが立ち上げられ、インフラストラクチャが徐々に完成しつつあります。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345052",
+          "author": null,
+          "description": "Odaily News オンチェーンアナリスト @ai_9684xtpa によるモニタリングによると、1 か月前に BIGTIME でポジションをオープンした大口口座アドレスは、ちょうど 314 万トークンを Coinbase に入金したところです。転送コストはわずか 0.16 米ドルです。すべて売却すれば利益は得られます総額は 188 万ドルとなり、還元率は最大 373% となります。開始アドレス: 0x91A22fAFE26856F99C33ffeA72a9EA25B60567C2、配送先アドレス: 0x4B1C0846AAD94C0157631F3b814ecc7383288AbC。",
+          "link": "https://www.odaily.news/ja/newsflash/345052",
+          "publishedOn": "2023-12-05T11:01:09.000Z",
+          "wordCount": 1699,
+          "title": "1 か月前に BIGTIME でポジションをオープンした大規模アカウントのアドレスは、314 万トークンを Coinbase に入金し、収益率は 373% でした。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191462",
+          "author": null,
+          "description": "長期的には、DePIN は「現実世界」における「web3」の採用におけるターニングポイントとなる可能性があります。",
+          "link": "https://www.odaily.news/ja/post/5191462",
+          "publishedOn": "2023-12-05T11:00:00.000Z",
+          "wordCount": 2424,
+          "title": "DePIN の詳細: 分散型ハードウェアと新しいデータ エコノミーの融合",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345051",
+          "author": null,
+          "description": "Odaily News DefiLlamaのデータによると、DeFiネットワークロックアップ量（TVL）が最近6か月ぶりに500億米ドルに達し、10月13日以来150億米ドル増加した。最新のデータによると、DeFi TVLは494億3,200万ドルです。",
+          "link": "https://www.odaily.news/ja/newsflash/345051",
+          "publishedOn": "2023-12-05T10:58:06.000Z",
+          "wordCount": 1627,
+          "title": "DeFiネットワーク全体のロックアップ量は10月13日以来150億米ドル増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345050",
+          "author": null,
+          "description": "Odaily News The Blockのデータによると、CMEビットコイン先物の大口建玉保有者（LOIH）は11月28日から12月5日までに131人に達し、これは歴史的な高水準（137人）よりわずかに低い。 LOIH は、少なくとも 25 のオープン契約 (>125 BTC) を保有するトレーダーを指します。資産運用会社のビットコイン先物における買い越しポジションは約20億ドルであり、同時にヘッジファンドの売りポジションもほぼ同額であることは言及に値します。 (CryptoSlate) Coinglass のデータによると、ネットワーク全体の BTC 契約保有総額は 191 億 9,800 万米ドルに達し、24 時間で 1.83% 減少しました。このうちCMEは48億8,800万米ドルで第1位となった。",
+          "link": "https://www.odaily.news/ja/newsflash/345050",
+          "publishedOn": "2023-12-05T10:42:34.000Z",
+          "wordCount": 1665,
+          "title": "CMEビットコイン先物における資産運用会社のロングポジションはヘッジファンドのショートポジションとほぼ一致",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191461",
+          "author": null,
+          "description": "ステーブルコインは、暗号通貨市場の混乱の中でも顕著な回復力を示しています。",
+          "link": "https://www.odaily.news/ja/post/5191461",
+          "publishedOn": "2023-12-05T10:31:36.000Z",
+          "wordCount": 3449,
+          "title": "OKX Ventures 調査レポート: ステーブルコインの発展パターンと将来の方向性を 1 つの記事で理解する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345049",
           "author": null,
@@ -6340,56 +6430,6 @@
           "wordCount": 1926,
           "title": "Tiger Global は BAYC への投資価値を 69%、OpenSea 株の価値を 94% 減損する",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344540",
-          "author": null,
-          "description": "Odaily News Hut 8 Mining Corp. (Nasdaq/TSX: HUT) は、USBTC との企業結合の完了を発表し、Hut 8 Corp. を米国登録事業体として正式に運営し、11 サイトで 825 MB のエネルギーを管理しています。セルフマイニング、ホスティング、ホスティング サービス、およびハイパフォーマンス コンピューティング機能。プレスリリースによると、ニューハットの普通株は2023年12月4日からティッカーシンボルHUTとしてナスダックとトロント証券取引所で取引される。 Hut 8 の株主は、保有する Hut 8 株 1 株につき 0.2 個の New Hut 普通株を受け取り、USBTC 株主は、保有する USBTC 株 1 株につき 0.6716 個の New Hut 普通株を受け取ります。",
-          "link": "https://www.odaily.news/ja/newsflash/344540",
-          "publishedOn": "2023-11-30T22:42:46.000Z",
-          "wordCount": 1729,
-          "title": "Hut 8、USBTCとの合併を完了、普通株式は12月4日に取引開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344539",
-          "author": null,
-          "description": "Odaily News 関係者によると、OpenAIは企業評価額約860億ドルで株式を売却する予定で、入札期限は2024年1月5日まで延長された。 (ゴールデンテン)",
-          "link": "https://www.odaily.news/ja/newsflash/344539",
-          "publishedOn": "2023-11-30T22:40:30.000Z",
-          "wordCount": 1687,
-          "title": "関係者：OpenAIは約860億米ドルの評価額で株式を売却する予定で、入札期限は2024年1月5日に延長された",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344538",
-          "author": null,
-          "description": "Odaily News Bloombergのアナリスト、James Seyffart氏はXプラットフォーム上で、スポットビットコインETFの承認期間は2024年1月5日から10日までになる見込みだと述べた。 SECの提出書類によると、Franklin/Hashdexのコメント期間は1月5日に終了し、Ark/21のコメント期限は1月10日となっている。",
-          "link": "https://www.odaily.news/ja/newsflash/344538",
-          "publishedOn": "2023-11-30T22:37:53.000Z",
-          "wordCount": 1688,
-          "title": "ブルームバーグアナリスト：スポットビットコインETFの承認期間は2024年1月5日から10日の間に予想される",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344537",
-          "author": null,
-          "description": "Odaily News SEC委員のヘスター・パース氏は、仮想通貨新興企業LBRYに対するSECの告発の扱いに言及し、SECがなぜ特定の企業に対して訴訟を起こし、他の企業に対して訴訟を起こさなかったのかが不明瞭であると述べた。 SECは2021年3月にLBRYが未登録証券を販売したとして初めて告発し、和解ではなく訴訟を決意した。その後、裁判官はそのトークンが規制監督の対象であるとの判決を下し、LBRYに10万ドル以上の支払いを命じた。パース氏は木曜日のブロックチェーン協会ポリシーサミットで聴衆に対し、LBRY事件は委員としての「最低点」だったと語った。 「私たち委員会はさまざまな分野で多くの訴訟を提起することができ、取捨選択する必要があるため、執行は常にある程度行き当たりばったりです」とパース氏は語った。 「私たちは古い事例を厳選しているのですが、私たちが持ち込む暗号化事例の多くにはパターンがないようです」とパース氏は後に付け加えた。",
-          "link": "https://www.odaily.news/ja/newsflash/344537",
-          "publishedOn": "2023-11-30T22:36:45.000Z",
-          "wordCount": 1689,
-          "title": "SEC長官ヘスター・パース氏、SECは仮想通貨をより効率的に規制すべきだと発言",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344536",
-          "author": null,
-          "description": "オデイリー・ニュース サークル社はシェロッド・ブラウン上院議員とエリザベス・ウォーレン上院議員に宛てた書簡の中で、違法な金融活動を助長したという虚偽の告発と呼ばれるものに反論した。また、ジャスティン・サン、トロン財団、または現在HTXに改名されたフォビには銀行サービスを提供していないとも述べた。同社は書簡の中で、「サークルはハマス（またはその他の違法行為者）を直接間接的に支援したり資金提供したりはしない。また、サークルはジャスティン・サンに銀行サービスも提供していない。サン氏、あるいはサン氏が所有または管理するいかなる団体にも銀行サービスを提供していない」と述べた。サン氏は、トロン財団やHTXを含め、現在サークルにアカウントを持っていない」と書簡は続け、「現在まで、米国政府はサン氏やその団体を特別指定国民として具体的に指定していない。それにもかかわらず、サークルは、サン氏とその関係者が保有するすべてのアカウントは2023年に2020年2月に停止されたと発表した。」トロン財団とHTXはコメントの要請にすぐには応じていない。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/344536",
-          "publishedOn": "2023-11-30T22:31:04.000Z",
-          "wordCount": 1706,
-          "title": "サークル: Justin Sun、Tron Foundation、または HTX に銀行サービスを提供しません",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -6398,6 +6438,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=356788",
+          "author": "NewEconomy",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/356788",
+          "publishedOn": "2023-12-05T10:39:55.000Z",
+          "wordCount": 804,
+          "title": "【12/5話題】キャプテン翼 -RIVALS-がフェンブシキャピタルと提携、仏ソシエテがイーサ上でユーロ建てグリーンボンドなど",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/05164509/news_head_20231205.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=356794",
           "author": "gentosha_takahashi",
