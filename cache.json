@@ -953,21 +953,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/basechain-thumbnail.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/basechain-thumbnail.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=495682",
-          "author": "菊谷ルイス",
-          "description": "本日のNYダウは+294.6ドルと続伸し、債券市場は反発した。この日にパウエル連邦準備制度理事会議長の発言からトーンダウンが示唆され2024年にFRBが利下げに動くとの観測がますます広がった格好だ。",
-          "link": "https://coinpost.jp/?p=495682",
-          "publishedOn": "2023-12-02T00:55:55.000Z",
-          "wordCount": 1985,
-          "title": "コインベース・マイニング株大幅高、ビットコイン年初来高値更新｜2日金融短観",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
         }
       ]
     },
@@ -976,6 +961,46 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345234",
+          "author": null,
+          "description": "Odaily News Bitcoin Core v26.0 が正式にリリースされ、BIP324 で定義されている v2 トランスポート プロトコルの実験的サポートが追加されました。さらに、複数の到達可能なネットワークを持つノードは、各ネットワークで少なくとも 1 つの外部接続を積極的に確立しようとします。これにより、ノードの個別性が向上します。パーティション攻撃に対する耐性と、パーティション攻撃に対するネットワークレベルの耐性。ユーザーは、複数の有効なネットワークへの接続を確保するために事前に対策を講じる必要がなくなりました。新しいバージョンでは、「loadtxoutset」も追加されており、これにより、UTXO スナップショットを「dumptxoutset」生成形式でロードできるようになります。",
+          "link": "https://www.odaily.news/ja/newsflash/345234",
+          "publishedOn": "2023-12-06T13:23:15.000Z",
+          "wordCount": 1747,
+          "title": "ビットコインコアv26.0が正式リリースされました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191502",
+          "author": null,
+          "description": "現在は 1 年以上続く 6 回目の強気相場サイクルの中にあり、プラス成長の兆しを示していますが、市場の調整も予想されています。",
+          "link": "https://www.odaily.news/ja/post/5191502",
+          "publishedOn": "2023-12-06T13:00:00.000Z",
+          "wordCount": 2174,
+          "title": "IOSG Ventures: BTC データの解釈、新たな強気相場サイクルに入った",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345232",
+          "author": null,
+          "description": "Odaily News NEAR 環境に配慮した分散型取引プロトコルの Orderly Network は、開発者が Orderly Omnichain の機能をアプリケーションやワークフローにシームレスに統合できるようにする Orderly Omnichain SDK のリリースを発表しました。 SDK は、データ取得、スマート コントラクト インタラクション、アカウント管理、注文帳データ、市場データ、注文管理、ポジション管理など、Orderly 上のあらゆるビルダーに Webhook のセットを提供します。以前のニュースによると、11 月 2 日、Orderly Network はメインネットの立ち上げを発表しました。このメインネットは、Web3 トランザクションに即時のプラグアンドプレイ流動性を提供することを目的としており、LayerZero テクノロジーを使用して安全なメッセージ送信を実現し、資金のセキュリティを確保します。",
+          "link": "https://www.odaily.news/ja/newsflash/345232",
+          "publishedOn": "2023-12-06T12:59:57.000Z",
+          "wordCount": 1786,
+          "title": "Orderly Network が Orderly Omnichain SDK を発表、開発者がアプリケーションをシームレスに統合できるように",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345231",
+          "author": null,
+          "description": "Odaily News Ouyi OKX市場は、BTTが24時間で100％以上（135％）上昇し、最大値0.00000114 USDTに達していることを示していますが、現在の価格は0.00000098 USDTで、24時間の上昇幅は97％に縮小しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345231",
+          "publishedOn": "2023-12-06T12:46:26.000Z",
+          "wordCount": 1743,
+          "title": "BTTは24時間で135%以上増加し、現在は0.00000098 USDTで取引されています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345230",
           "author": null,
@@ -6854,46 +6879,6 @@
           "publishedOn": "2023-12-02T01:51:12.000Z",
           "wordCount": 1716,
           "title": "Tellerマルチ署名ウォレットが20,000 TRBと500 TRBをCoinbaseに転送",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344678",
-          "author": null,
-          "description": "コイングラスのデータによると、バイナンスのビットコインウォレットの残高は50万BTCを下回り、現在499,909.29BTCとなっており、過去7日間で9340BTC以上、過去30日間で38337.54BTC以上減少した。過去 30 日間でビットコインウォレット残高が最も増加した取引所は Bitfinex と Gemini で、それぞれ 12,269.47 BTC と 10,989.97 BTC 増加しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344678",
-          "publishedOn": "2023-12-02T01:23:32.000Z",
-          "wordCount": 1759,
-          "title": "バイナンスのビットコインウォレット残高は50万を下回り、過去1週間で3億5000万ドルのBTC資産が失われた",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344677",
-          "author": null,
-          "description": "Odaily News Ember Monitoring、5 時間前、FTX/Alameda 関連アドレスは合計 1,842 万米ドル相当の 7 資産の転送を続けました: 626 万 IMX (892 万米ドル) が Coinbase Prime に転送; 1,643 ETH (343 万米ドル); 440,000 UNI (265 万米ドル) を Galaxy Digital に転送、1,000 万 GMT (262 万米ドル) を Wintermute に転送、100,000 BAL (39 万米ドル) を Galaxy Digital に転送、224 万 LOOKS (26 万米ドル) を GSR に転送、800,000 WOO (18 万ドル)ウィンターミュートに移行しました。 10月5日以来、FTX/Alameda関連アドレスは合計63個のトークン（11億7000万米ドル相当）をCEXおよび機関サービスプラットフォームに転送した。",
-          "link": "https://www.odaily.news/ja/newsflash/344677",
-          "publishedOn": "2023-12-02T01:16:38.000Z",
-          "wordCount": 1802,
-          "title": "5時間前、FTX関連アドレスは7つの暗号資産をCoinbaseおよびその他の機関に移管しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191394",
-          "author": null,
-          "description": "この記事では、Firedancer バリデータ クライアントについて詳しく説明します。",
-          "link": "https://www.odaily.news/ja/post/5191394",
-          "publishedOn": "2023-12-02T01:12:05.000Z",
-          "wordCount": 3981,
-          "title": "Firedancer バリデーターが発売され、Solana の大量採用への道が開かれる",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344676",
-          "author": null,
-          "description": "Odaily News Spot On Chainのモニタリングによると、セルシウス・ネットワークは約4時間前にさらに5,000ETH（1,046万ドル）を2,092ドルの価格でCoinbaseに入金した。 2023年11月14日以来、セルシウスネットワークは平均価格2,048ドルで29,760 ETH（6,094万ドル）をCoinbase、FalconX、OKに入金しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344676",
-          "publishedOn": "2023-12-02T01:03:38.000Z",
-          "wordCount": 1781,
-          "title": "摂氏ネットワークは約 4 時間前に Coinbase に 5,000 ETH を入金しました",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
