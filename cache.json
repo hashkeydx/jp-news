@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=211341",
+          "author": "Jamie Crawley",
+          "description": "キャシー・ウッド（Cathie Wood）氏のアーク・インベスト（ARK Invest）は12月6日、暗号資産（仮想通貨）取引所コインベース（Coinbase） ...\n米アーク、3日連続でコインベース株を売却──今回は2430万ドル分 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/211341/",
+          "publishedOn": "2023-12-07T10:45:00.000Z",
+          "wordCount": 1316,
+          "title": "米アーク、3日連続でコインベース株を売却──今回は2430万ドル分",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/01/shutterstock_2184129459.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=210968",
           "author": "日本経済新聞社Nブランドスタジオ",
           "description": "CoinDesk JAPANの運営会社N.Avenue株式会社は、日本経済新聞社と共催で2023年12月13日（水）に「デジタル証券フォーラム2023」を開催す ...\n【デジタル証券フォーラム2023】権利のデジタル化推進 資本市場の拡張に挑戦 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -430,16 +440,6 @@
           "wordCount": 1189,
           "title": "オンチェーン取引高：なぜブロックチェーンの重要な指標なのか？",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/INXAJPSSNVEI3C6X2THIFI7F3I.png.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=210326",
-          "author": "Ben Schiller",
-          "description": "2021年にゲーリー・ゲンスラー（Gary Gensler）氏が証券取引委員会（SEC）の委員長に就任したとき、暗号資産（仮想通貨）業界が彼をどのように受け止め ...\n「規制当局者を装った政治家」──フォーチュン誌のゲンスラーSEC委員長特集から学ぶ3つのポイント first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/210326/",
-          "publishedOn": "2023-12-02T23:00:00.000Z",
-          "wordCount": 1128,
-          "title": "「規制当局者を装った政治家」──フォーチュン誌のゲンスラーSEC委員長特集から学ぶ3つのポイント",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/2ZAGK37ICRGSHJFU5GE5KR6XWE.jpg"
         }
       ]
     },
@@ -1121,6 +1121,106 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/post/5191532",
+          "author": null,
+          "description": "BTCが突破した後、不安定な傾向が始まり、BRC20エコシステムと開発者の間で紛争が続いた。",
+          "link": "https://www.odaily.news/ja/post/5191532",
+          "publishedOn": "2023-12-07T11:08:14.000Z",
+          "wordCount": 2387,
+          "title": "Bitget Research Institute：ビットコインは44,000ドルを超え、ORDIはルーク事件の影響で最初に下落し、その後上昇しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345380",
+          "author": null,
+          "description": "Odaily Safe (旧 Gnosis Safe) は、Sygnum Bank および Coincover と協力して暗号化回復サービスを開始します。 Safe RecoveryHub サービスは、セルフホスト型、マネージド型、およびソーシャル回復サービスをカバーする幅広いオプションをユーザーに提供します。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/345380",
+          "publishedOn": "2023-12-07T11:07:07.000Z",
+          "wordCount": 1700,
+          "title": "Safe が Sygnum Bank、Coincover と提携し、暗号化回復サービスを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191525",
+          "author": null,
+          "description": "DePIN ユーザーになると同時に労働者にもなる、これが X to Earn の究極の解釈なのかもしれません。",
+          "link": "https://www.odaily.news/ja/post/5191525",
+          "publishedOn": "2023-12-07T11:06:09.000Z",
+          "wordCount": 2590,
+          "title": "DePIN: Web3 の現実世界との 4 番目の接触",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345379",
+          "author": null,
+          "description": "Odaily は、コミュニティ ユーザーからのフィードバックによると、BRC-20 上のクロスチェーン プラットフォーム MKBI Network は Rug である疑いがあり、Telegram グループを開くことができないと報告しました。このプロジェクトは以前に払い戻しを約束していましたが、多くのコミュニティユーザーは、公式に約束した払い戻し時期から数日が経過しても、関連する資金が受け取られていないと述べています。",
+          "link": "https://www.odaily.news/ja/newsflash/345379",
+          "publishedOn": "2023-12-07T11:02:10.000Z",
+          "wordCount": 1680,
+          "title": "BRC-20のクロスチェーンプラットフォームであるMKBIネットワークはRugの疑いがある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191530",
+          "author": null,
+          "description": "Uniswap は常に限界を押し広げ、これらの問題を解決し、ユーザー エクスペリエンスを向上させるよう努めています。",
+          "link": "https://www.odaily.news/ja/post/5191530",
+          "publishedOn": "2023-12-07T11:00:00.000Z",
+          "wordCount": 2976,
+          "title": "Uniswap の成長の歴史: ゼロから無限へ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345378",
+          "author": null,
+          "description": "OdailyX プラットフォーム ユーザー @combo_wizard は投稿しました:「『BRC-20 は詐欺だ』というルークの主張と、ブロックチェーン内の碑文を削除するという彼の計画について心配していますか? 心配しないでください、スタンプ (SRC-20) という名前の別のものが存在します」ビットコインプロトコルはプルーニングされません。」ビットコインコア開発者のルーク氏は「また詐欺だ」とコメントした。",
+          "link": "https://www.odaily.news/ja/newsflash/345378",
+          "publishedOn": "2023-12-07T10:53:45.000Z",
+          "wordCount": 1679,
+          "title": "ビットコインコア開発者のルーク氏「SRC-20は単なる詐欺だ」",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345377",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、仮想通貨オプションおよび先物取引所 Deribit は、自社のプラットフォームが USDT をサポートしたと発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345377",
+          "publishedOn": "2023-12-07T10:45:03.000Z",
+          "wordCount": 1688,
+          "title": "Deribit プラットフォームが USDT をサポートしました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345376",
+          "author": null,
+          "description": "Odailyは、Whale Alertの監視によれば、1,050BTC（約4,564万2,822ドル）が未知のウォレットからBinanceに送金されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/345376",
+          "publishedOn": "2023-12-07T10:39:05.000Z",
+          "wordCount": 1676,
+          "title": "1050 BTCが不明なウォレットからBinanceに送金されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345375",
+          "author": null,
+          "description": "Odaily News Web3決済プロトコルのPurple Payが運営終了を発表した。 Purple Pay は、ブロックチェーン上の国境を越えた取引をサポートする準拠した支払いプロトコルです. ZK の分散型 ID をサポートすることで、主に世界的なマネーロンダリング防止 KYC 規制を満たしています. 同社の共同創設者である Saumya Saxena 氏は、これまでほとんどのプロジェクトがこのプロジェクトに参加して以来、このことを明らかにしましたコンプライアンスに準拠した取引を優先することができなかったため、厳しい経営環境が生じたが、パープル・ペイはプラットフォームをオープンソース化し、誰もがプラットフォームを使い続け、その上に構築できるようにすると述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/345375",
+          "publishedOn": "2023-12-07T10:33:22.000Z",
+          "wordCount": 1709,
+          "title": "Web3決済プロトコル「Purple Pay」が運営終了を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345374",
+          "author": null,
+          "description": "株式会社Odaily News 日立製作所が日本最大規模のデジタルグリーンボンドを発行。日立コーポレートファイナンス部の松尾エミリ氏は、この5年グリーンボンドクーポンの金利が0.598%に設定されたことを発表した。デジタルグリーンボンドの発行額は総額100億円（約6,800万ドル）相当で、日本生命保険は発行株式の半分を購入したと発表した。これらのデジタル証券は、他の生命保険会社、中央公共機関、企業にも販売されています。松尾氏は、日立はこうした証券の売却を再度検討すると述べた。 (ブルームバーグ)",
+          "link": "https://www.odaily.news/ja/newsflash/345374",
+          "publishedOn": "2023-12-07T10:32:27.000Z",
+          "wordCount": 1678,
+          "title": "日立製作所がデジタルグリーンボンドを発行",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345373",
           "author": null,
