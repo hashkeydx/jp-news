@@ -455,6 +455,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=496841",
+          "author": "幸田直子",
+          "description": "米ヘッジファンドARK Investのキャシー・ウッドCEOは、米証券取引委員会によるビットコイン現物ETFの承認は、仮想通貨投資を検討している機関投資家に対し、「確定的なお墨付き」を与える可能性があると述べた。",
+          "link": "https://coinpost.jp/?p=496841",
+          "publishedOn": "2023-12-07T06:00:40.000Z",
+          "wordCount": 1912,
+          "title": "「ビットコインETF承認は機関投資家を後押しする決定打となる」米ARKのウッドCEO",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/ark-invest-etf-bitcoin.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/ark-invest-etf-bitcoin.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=496795",
+          "author": "AKIRA.H",
+          "description": "ソシエテ・ジェネラルがイーサリアムでユーロ連動ステーブルコインEURCVを発行。暗号資産（仮想通貨）取引所Bitstampに上場。入出金時にはKYC（顧客確認）およびAML（資金洗浄防止）コンプライアンス手続きが適用される。",
+          "link": "https://coinpost.jp/?p=496795",
+          "publishedOn": "2023-12-07T05:30:21.000Z",
+          "wordCount": 1895,
+          "title": "仏大手銀行がイーサリアムでステーブルコイン「EURCV」を初発行、 Bitstampに上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/12/digital-euro-ecb-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/12/digital-euro-ecb-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=496786",
           "author": "A.Yamada",
           "description": "サザビーズはビットコイン版NFTプロジェクト「オーディナル」作品で初めてのオークションを開催。「BitcoinShrooms」の入札を行う。",
@@ -1076,6 +1106,136 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345341",
+          "author": null,
+          "description": "Odaily ニュースのアナリスト @ai_9684xtpa は、1 時間前にチェーン上の巨大なクジラがフラッシュ ローンを通じて Aave で 684 ETH (155 万米ドル相当) を貸し出し、その後それを 35 WBTC で売却してローンを返済したことを監視しました。ちょっとしたプレッシャー。巨大クジラの現在の健康状態はまだ1.01で、依然として非常に危険です。",
+          "link": "https://www.odaily.news/ja/newsflash/345341",
+          "publishedOn": "2023-12-07T06:21:24.000Z",
+          "wordCount": 1672,
+          "title": "あるチェーンの巨大クジラが1時間前にAaveで684ETHを貸し出した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191518",
+          "author": null,
+          "description": "BTC および OKB 保有者は、ACE トークンの報酬を受け取るためにステーキングできます。",
+          "link": "https://www.odaily.news/ja/post/5191518",
+          "publishedOn": "2023-12-07T06:20:22.000Z",
+          "wordCount": 1900,
+          "title": "Fusionist トークン ACE は、新しいコイン マイニングのために OKX Jumpstart で起動されます。プロジェクトの基本は何ですか?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191513",
+          "author": null,
+          "description": "米国経済の減速は続いており、ADP雇用統計は予想よりも弱く（ドイツの工場受注の大幅な減少と相まって、前月比-3.7%と予想の+0.2%を大きく下回った）、投資家の見方は次のようになっているようだ。 「理想的なインフレから緩やかなインフレ」に移行した「これはさらに悪化し、より深刻な景気減速につながる。暗号通貨の価格は最近の回復を続けており、BTCは44,000ドルに達し、2か月前の安値から70％も大幅に回復しました。",
+          "link": "https://www.odaily.news/ja/post/5191513",
+          "publishedOn": "2023-12-07T06:19:50.000Z",
+          "wordCount": 1773,
+          "title": "SignalPlus マクロ調査レポート (20231207): マクロ経済の減速、仮想通貨市場は回復を続ける",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345340",
+          "author": null,
+          "description": "Odaily News Coinglass データは、グレースケール GBTC の現在のマイナスプレミアム率が 11.03% であることを示しています。また、Grayscale LTC Trust プレミアム率は 50.63%、BCH Trust プレミアム率は 47.20%、SOL Trust プレミアム率は 271.72% となります。",
+          "link": "https://www.odaily.news/ja/newsflash/345340",
+          "publishedOn": "2023-12-07T06:19:06.000Z",
+          "wordCount": 1715,
+          "title": "グレースケール GBTC の現在のマイナス保険料率は 11.03% です。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345339",
+          "author": null,
+          "description": "Odaily ユーザーの @sovereignllama は、X プラットフォームに、Curve Finance の 11 月の収益が約 186 万米ドルで、前月比 84.88% 増加し、今年 5 月以来の最高額を記録したと投稿しました。成長の主な理由はcrvUSDの金利の高さです。",
+          "link": "https://www.odaily.news/ja/newsflash/345339",
+          "publishedOn": "2023-12-07T06:13:42.000Z",
+          "wordCount": 1723,
+          "title": "Curve の 11 月の収益は 186 万米ドルで、前月比 84.88% 増加しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345338",
+          "author": null,
+          "description": "",
+          "link": "https://www.odaily.news/ja/newsflash/345338",
+          "publishedOn": "2023-12-07T06:11:03.000Z",
+          "wordCount": 1680,
+          "title": "新しい資産VANRYがフラッシュ取引所取引プラットフォームでローンチされる",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345337",
+          "author": null,
+          "description": "Odaily News キャシー・ウッド氏のアーク・インベストは、水曜日（12月6日）、ARK次世代インターネットETF（ARKW）を通じてGBTCファンド株式99,595株の保有を削減した。",
+          "link": "https://www.odaily.news/ja/newsflash/345337",
+          "publishedOn": "2023-12-07T06:10:29.000Z",
+          "wordCount": 1687,
+          "title": "昨日、アーク・インベストは保有資産を99,595 GBTC減少させた",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345336",
+          "author": null,
+          "description": "Odaily News X ユーザーの Sungjae は、偽の Xai 鋳造契約が 370 ETH を獲得したが、本物の契約は 330 ETH しか受け取らなかったことを示すオンチェーン データを公開しました。 Xai Games は AAA ゲーム向けのレイヤー 3 ソリューションであり、12 月 7 日にノードキーの一般販売を開始したと報告されています。最近、一部のコミュニティ ユーザーが偽の契約アドレス詐欺に遭遇しているため、Xai 担当者はコミュニティに対し、詐欺やフィッシングの防止に注意するよう呼び掛けています。",
+          "link": "https://www.odaily.news/ja/newsflash/345336",
+          "publishedOn": "2023-12-07T06:02:45.000Z",
+          "wordCount": 1715,
+          "title": "Xai Gamesの不正アドレスで370ETHを入手、当局はコミュニティに詐欺やフィッシングに注意するよう注意喚起",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345335",
+          "author": null,
+          "description": "バイナンスの新CEOリチャード・テン氏は、国連、世界経済フォーラム、暗号分析から収集したデータをまとめた記事に投稿し、グウィズダルキ博士は「違法な金融活動に対処する際には、視点が非常に重要だ。米国などの伝統的な法定通貨」と述べた。 」",
+          "link": "https://www.odaily.news/ja/newsflash/345335",
+          "publishedOn": "2023-12-07T05:53:28.000Z",
+          "wordCount": 1660,
+          "title": "バイナンスの新CEO：毎年法定通貨に関わる違法金融活動の規模は仮想通貨の100倍",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191516",
+          "author": null,
+          "description": "保守主義の勝利は進歩主義の敗北を意味するものではありません。",
+          "link": "https://www.odaily.news/ja/post/5191516",
+          "publishedOn": "2023-12-07T05:49:01.000Z",
+          "wordCount": 1719,
+          "title": "銘文：「大ブロック主義」の皇帝の新衣装",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345333",
+          "author": null,
+          "description": "Odaily News 韓国最大の小売業者兼スーパーマーケットチェーンの Emart は、同社の新世代 ATM に間もなく仮想通貨と STO 取引機能が搭載される可能性があると述べた。イーマートのコンビニエンスストアブランド「イーマート24」は、主に外国人観光客向けに外貨両替機能を備えた「デジタルATM」をソウル市明洞店と三清区店に新設した。 Emart24のサービスプラットフォーム部門責任者のLee Jong-wan氏は、ATMの2要素認証（2FA）機能は、同社が将来的に仮想通貨取引やSTO取引オプションを含めてサービスを拡大する可能性があることを意味すると説明した。 (クリプトニュース)",
+          "link": "https://www.odaily.news/ja/newsflash/345333",
+          "publishedOn": "2023-12-07T05:40:01.000Z",
+          "wordCount": 1704,
+          "title": "韓国のスーパーマーケットチェーンEmart：新世代のATM機は暗号通貨とSTO取引機能を提供する可能性がある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345332",
+          "author": null,
+          "description": "Odaily News ロビンフッド・マーケッツ社は英国で株式仲介サービスを開始してから1週間後、欧州連合で手数料無料の仮想通貨取引を開始する。ロビンフッド・クリプトのゼネラルマネージャー、ヨハン・ケルブラット氏はインタビューで、木曜日に公開予定のこのアプリにより、欧州の投資家はBTC、ETH、SOLを含む25以上の仮想通貨を売買できるようになり、ビットコインキャッシュバックロイヤルティプログラムも提供されると述べた。 . . Robinhood Crypto のヨーロッパの顧客は現在、暗号資産をアプリの外に転送することはできません。カーブラット氏は、同社は来年この機能を追加するとともに、より多くのトークンやステーキングサービスを追加する予定だと述べた。さらに、カーブラット氏は、資産クラスに対する現地の規制が明確でないため、ロビンフッドは英国の投資家に仮想通貨サービスを提供する当面の計画はないと述べた。 (ブルームバーグ)",
+          "link": "https://www.odaily.news/ja/newsflash/345332",
+          "publishedOn": "2023-12-07T05:32:48.000Z",
+          "wordCount": 1674,
+          "title": "ロビンフッド、EUで手数料無料の仮想通貨取引アプリをローンチ、25以上の仮想通貨をサポート",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345331",
+          "author": null,
+          "description": "1. 研究: イーサリアムブロックビルダーの約 72% が、米国 OFAC によって認可された取引を「審査」している; 2. 7 億米ドルを洗浄した疑いのある仮想通貨取引プラットフォーム Bitzlato の創設者が有罪を認める; 3. 香港証券と先物委員会: 警察と計画を策定し、仮想資産事件のリスク評価ガイドラインを策定し、毎週情報交換を実施する; 4. グレイスケール CEO: スポットビットコイン ETF に関する SEC とのコミュニケーションに楽観的; 5. 米国大統領候補ヴィヴェク・ラマスワミ: 仮想通貨規制を維持する必要がある現在の状況では、現在のフレームワークは機能しません; 6. BTC で 13 億 9,900 万米ドルと ETH で 4 億 5,800 万米ドル相当のオプション契約が期限切れになり、明日引き渡されます; 7. ポリゴン: クロスチェーンの構成可能性の問題が解決されれば、すべてDapps は自ら選択します 8. ben.eth とそれに関連する複数の株式、約 2,429 万米ドル相当; 11. 上位 20 の入金アドレスは合計 91,570 ETH を Blast に入金し、総入金の 30.6% を占めました; 12. Web3 ストリーミングプロトコル Sona は 690 万ドルのシードラウンドを完了し、Haun Ventures などが投資に参加; 13. Upbit は AXL を BTC 市場に上場し、取引は今日 17:00 に開始される予定; 14. Atomics は、ビットコインダスト制限を突破し、高精度の取引を実現するARC-20トークン分割計画; 15. OKXジャンプスタートはオンライン Fusionist（ACE）は12月13日にACE新コインのマイニングを開始します。",
+          "link": "https://www.odaily.news/ja/newsflash/345331",
+          "publishedOn": "2023-12-07T05:30:00.000Z",
+          "wordCount": 1821,
+          "title": "デイリーアフタヌーンニュース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345330",
           "author": null,
@@ -7333,6 +7493,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=357367",
+          "author": "gentosha_takahashi",
+          "description": "ビットスタンプにて取引開始 仏大手銀行ソシエテ・ジェネラル（Societe Generale）の暗号資産（仮想通貨）部門SGフォージ（SG Forge）が、ユーロ（EUR）建てのステーブルコイン「EURコインバーチブ（E […]",
+          "link": "https://www.neweconomy.jp/posts/357367",
+          "publishedOn": "2023-12-07T06:23:39.000Z",
+          "wordCount": 807,
+          "title": "仏大手銀行ソシエテ、ユーロ建てステーブルコインの取引開始へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/07152150/079e267893b1924ae3272e84297c4971.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=357366",
+          "author": "TamuraSeiji",
+          "description": "AnkrがzkSyncハイパーチェーンのRaaSを提供開始 ブロックチェーンインフラ提供のアンカー（Ankr/ANKR）が、ZKスタック（ZK Stack）を用いたzkSyncハイパーチェーン（zkSync Hyperc […]",
+          "link": "https://www.neweconomy.jp/posts/357366",
+          "publishedOn": "2023-12-07T06:22:51.000Z",
+          "wordCount": 727,
+          "title": "AnkrがzkSyncハイパーチェーンの「Rollup as a Service」提供開始、ZKスタックでマターラボと",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/07152244/7631f342b5535fe25482e2318ae274e5.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=357341",
           "author": "OtsugaShinya",
