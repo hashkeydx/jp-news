@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=211303",
+          "author": "CoinDesk JAPAN",
+          "description": "暗号資産取引所のコインチェックは12月7日、アバランチ（AVAX）の取り扱いを開始したと発表した。 アバランチはDApps（分散型アプリケーション）を構築するた ...\nコインチェック、アバランチ（AVAX）の取り扱い開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/211303/",
+          "publishedOn": "2023-12-07T04:46:33.000Z",
+          "wordCount": 1264,
+          "title": "コインチェック、アバランチ（AVAX）の取り扱い開始",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/main-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=211259",
           "author": "林 理南",
           "description": "米暗号資産取引大手コインベース（Coinbase）は、自社の分散型ウォレットをアップデートし、ユーザーが低コストでメッセージアプリを通じて即座に送金できる機能を ...\nコインベース、分散型ウォレットにメッセージベースの暗号決済機能を追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -444,6 +454,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=496786",
+          "author": "A.Yamada",
+          "description": "サザビーズはビットコイン版NFTプロジェクト「オーディナル」作品で初めてのオークションを開催。「BitcoinShrooms」の入札を行う。",
+          "link": "https://coinpost.jp/?p=496786",
+          "publishedOn": "2023-12-07T04:30:39.000Z",
+          "wordCount": 1926,
+          "title": "サザビーズ、ビットコイン版NFT「Ordinals」のオークション初開催",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/sothebys234134-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/sothebys234134-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=496758",
           "author": "AKIRA.H",
@@ -1051,6 +1076,106 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345330",
+          "author": null,
+          "description": "Odaily News Bithumbの公式発表によると、Binance Smart Chain（BSC）ネットワークアップグレードのため、BEP-20シリーズの仮想資産入出金サービスは本日13:30に停止される予定です。",
+          "link": "https://www.odaily.news/ja/newsflash/345330",
+          "publishedOn": "2023-12-07T05:16:18.000Z",
+          "wordCount": 1758,
+          "title": "Bithumb: BSC ネットワークのアップグレードのため、BEP-20 資産の入出金は一時停止されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345329",
+          "author": null,
+          "description": "Odaily News Bitget 市場によると、AXL は短期的に 0.8 USDT を突破し、一時 0.81243 USDT で取引され、24 時間で 29.63% 上昇しました。このニュースでは、Upbit が AXL を BTC 市場に上場すると発表し、本日 17:00 に取引が開始される予定です。",
+          "link": "https://www.odaily.news/ja/newsflash/345329",
+          "publishedOn": "2023-12-07T05:11:51.000Z",
+          "wordCount": 1765,
+          "title": "AXLは0.8 USDTを突破し、24時間で29.63%上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345328",
+          "author": null,
+          "description": "毎日のニュース: 公式発表によると、Upbit は AXL を BTC 市場に上場すると発表し、本日 17:00 に取引が開始される予定です。",
+          "link": "https://www.odaily.news/ja/newsflash/345328",
+          "publishedOn": "2023-12-07T05:06:43.000Z",
+          "wordCount": 1750,
+          "title": "UpbitはAXLをBTC市場に上場し、取引は本日17:00に開始される予定です",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345327",
+          "author": null,
+          "description": "Odaily News Web3 開発ツール プラットフォームの Thirdweb は、過去 48 時間で、同社のツールが 43 チェーン上の 8,000 以上のスマート コントラクトの脆弱性リスクの軽減に役立ったと X プラットフォームに投稿しました。同社の知る限り、時間内に緩和されなかったスマート コントラクトがこの脆弱性の影響を受けたケースが 2 件あります。チームは、スマート コントラクトの所有者に適切な措置を講じる時間を与えるために、この脆弱性に関する詳細は明らかにしていません。以前のニュースによると、Web3 開発者プラットフォーム Thirdweb は、北京時間 11 月 21 日 10:00 に Web3 業界で一般的に使用されているオープンソース ライブラリのセキュリティ脆弱性をチームが発見したと X プラットフォームに投稿しました。これは、Thirdweb の事前構築されたスマート コントラクトの一部を含む、Web3 エコシステム内のさまざまなスマート コントラクトに影響します。",
+          "link": "https://www.odaily.news/ja/newsflash/345327",
+          "publishedOn": "2023-12-07T05:01:16.000Z",
+          "wordCount": 1799,
+          "title": "Thirdweb: 43 チェーン上の 8,000 以上のスマート コントラクトによる脆弱性リスクの軽減を支援してきました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191515",
+          "author": null,
+          "description": "Soulcialのプロダクトデザイン、経済メカニズム、トークンの価値から始まり、ソーシャルトラックにおけるイノベーションを掘り下げていきます。",
+          "link": "https://www.odaily.news/ja/post/5191515",
+          "publishedOn": "2023-12-07T04:57:02.000Z",
+          "wordCount": 2341,
+          "title": "Soulcial の製品イノベーションの詳細な説明: 社会的行動特性指標とポンプ ゲーム",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345326",
+          "author": null,
+          "description": "Odaily News Web3 ストリーミング プロトコル Sona は、Polychain Capital、Haun Ventures、Rogue Capital の参加を得て、690 万ドルのシードラウンドを完了しました。さらに、Sona は、最初の製品である Sona Stream の立ち上げを発表しました。これは、サブスクリプションや広告のない無料の音楽ストリーミング サービスであり、アーティストが音楽を共有してオークションできるマーケットプレイスです。SONA (曲に対応する番号) 資産は、次のユーザーのみが所有できます。一度に1人ずつ）。報道によると、SonaはDeFi上に構築されたモジュールを利用してアーティストにトークンベースのストリーミングコンテンツ、音楽オークション、ガバナンス報酬などのサービスを提供し、音楽オークションからの収益を一定の割合でアーティストやプラットフォームに分配しているという。 (テッククランチ)",
+          "link": "https://www.odaily.news/ja/newsflash/345326",
+          "publishedOn": "2023-12-07T04:55:44.000Z",
+          "wordCount": 1797,
+          "title": "Web3 ストリーミング プロトコル Sona が Haun Ventures などの参加によりシードラウンドで 690 万米ドルの資金調達を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345325",
+          "author": null,
+          "description": "Odaily News Spot On Chain の統計によると、これまでに合計 298,878 ETH (6 億 4,700 万米ドル) が Blast に入金されており、そのうち: - 上位 20 の入金アドレスには合計 91,570 ETH (1 億 7,900 万米ドル) が入金されています。 、総預金の50％を占める30.6％; - このETHはすべて、2024年2月24日までロックされます。",
+          "link": "https://www.odaily.news/ja/newsflash/345325",
+          "publishedOn": "2023-12-07T04:49:21.000Z",
+          "wordCount": 1844,
+          "title": "上位 20 の入金アドレスは合計 91,570 ETH を Blast に入金し、総入金の 30.6% を占めました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345324",
+          "author": null,
+          "description": "Odaily の公式発表によると、OKX Jumpstart は新しいプロジェクト Fusionist (ACE) を立ち上げました。 OKXジャンプスタートマイニングは2023年12月13日14:00に開始され、BTCとOKBの両方の保有者はBTCとOKBをステーキングすることでACEトークン報酬を受け取ることができます。この OKX ジャンプスタートは、中国本土、香港、マカオ、モンゴル、北朝鮮、日本を除く東アジア諸国に限定されており、KYC 検証の完了が必要です。",
+          "link": "https://www.odaily.news/ja/newsflash/345324",
+          "publishedOn": "2023-12-07T04:44:22.000Z",
+          "wordCount": 1813,
+          "title": "OKX Jumpstart が Fusionist (ACE) をリストアップし、12 月 13 日に ACE 新通貨マイニングを開始します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345323",
+          "author": null,
+          "description": "火曜日、トム・エマー下院議員は、「金融イノベーションの促進：金融機関がテクノロジーを利用して金融サービスの未来を形作る方法」と題したデジタル資産、金融テクノロジー、インクルージョンに関する下院小委員会の公聴会で、米国証券取引委員会の審査を激しく非難した。暗号通貨業界の規制アプローチ。 「公聴会の後、議員は規制について投稿した。これは私たちの資本市場にとって完全に不利益だ。」(Bitcoin.com)",
+          "link": "https://www.odaily.news/ja/newsflash/345323",
+          "publishedOn": "2023-12-07T04:38:57.000Z",
+          "wordCount": 1745,
+          "title": "トム・エマー米下院議員、暗号化規制を意図的に「難読化」したSECを非難",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191512",
+          "author": null,
+          "description": "この記事では、最近市場で人気を集めているBrc-20エコロジープロジェクトについて紹介します。",
+          "link": "https://www.odaily.news/ja/post/5191512",
+          "publishedOn": "2023-12-07T04:30:00.000Z",
+          "wordCount": 2810,
+          "title": "BRC20のエコロジー実用性物語の人気プロジェクトを総括する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345322",
           "author": null,
@@ -7208,6 +7333,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=357341",
+          "author": "OtsugaShinya",
+          "description": "コインチェックにAVAX上場 国内暗号資産（仮想通貨）取引所コインチェック（Coincheck）が、暗号資産アバランチ：Avalanche（AVAX）の取り扱い開始を12月7日発表した。 なお国内取引所においてAVAXが […]",
+          "link": "https://www.neweconomy.jp/posts/357341",
+          "publishedOn": "2023-12-07T05:23:59.000Z",
+          "wordCount": 788,
+          "title": "コインチェックにアバランチ（AVAX）上場、国内8例目",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/07142352/2716821fabc0b7b9b696be9cbd91ed5b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=357336",
+          "author": "OtsugaShinya",
+          "description": "a16zが2024年に暗号資産業界で期待すること 米大手ベンチャーキャピタルのアンドリーセン・ホロウィッツ（Andreessen Horowitz：a16z）が、2024年にクリプト（暗号資産・ブロックチェーンの総称）業 […]",
+          "link": "https://www.neweconomy.jp/posts/357336",
+          "publishedOn": "2023-12-07T04:54:16.000Z",
+          "wordCount": 884,
+          "title": "a16z、「2024年に暗号資産業界で期待すること」9項目を公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/07135410/a16z-2024-20231207-denizbayram.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=357327",
           "author": "TamuraSeiji",
