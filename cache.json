@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=211522",
+          "author": "Omkar Godbole",
+          "description": "暗号資産（仮想通貨）デリバティブ取引所デリビット（Deribit）のビットコイン（BTC）とイーサリアム（ETH）オプション取引がかつてないほど熱くなっている。 ...\nビットコインとイーサリアムのオプション取引の建玉、過去最高の230億ドルに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/211522/",
+          "publishedOn": "2023-12-08T10:25:00.000Z",
+          "wordCount": 1307,
+          "title": "ビットコインとイーサリアムのオプション取引の建玉、過去最高の230億ドルに",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1968276673-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=211140",
           "author": "CoinDesk JAPAN",
           "description": "電通とTOPPAN、Web3.0ウォレットの利便性向上へ実証実験\" />\n\n電通グループとTOPPANホールディングスは12月5日、ODKソリューションズ、ソニーを含む企業や大学と共同で、Web3.0ウォレットに、保有者の外見や話し方を ...\n電通とTOPPAN、Web3.0ウォレットの利便性向上へ実証実験 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -500,16 +510,6 @@
           "wordCount": 1168,
           "title": "【デジタル証券フォーラム2023】アセットの拡張から流通市場の登場まで、セキュリティ・トークンのさらなる発展を見通す：12/13開催",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/DSF2023_KV1200_630.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=210753",
-          "author": "増田 隆幸",
-          "description": "ビットコイン（BTC）は12月3日（米東部時間）に18カ月ぶりに4万ドルを超え、イーサリアム（ETH）は市場全体が緩やかに上昇するなか、2200ドルを超えた。  ...\nビットコイン、18カ月ぶりの4万ドル超え first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/210753/",
-          "publishedOn": "2023-12-04T01:56:17.000Z",
-          "wordCount": 1123,
-          "title": "ビットコイン、18カ月ぶりの4万ドル超え",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/スクリーンショット-2023-12-04-10.53.40.jpg"
         }
       ]
     },
@@ -1356,6 +1356,36 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345539",
+          "author": null,
+          "description": "Odailyは、Ember Monitoringによると、あるクジラが過去17日間で428万LINK（6,407万米ドル相当）をBinanceに送金し、3,340万米ドルの利益を得たと報じた。クジラは今でも 208 万枚の LINK コイン、3,451 万ドル相当を保有しています。",
+          "link": "https://www.odaily.news/ja/newsflash/345539",
+          "publishedOn": "2023-12-08T14:00:43.000Z",
+          "wordCount": 1638,
+          "title": "あるクジラは過去17日間で428万LINKをBinanceに送金し、3,340万米ドルの利益を上げました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345538",
+          "author": null,
+          "description": "オデイリーニュースブルームバーグETFアナリストのジェームス・セイファート氏はXプラットフォームに、ヴァンエックがビットコインスポットETFのS-1目論見書を米国SECに提出したと投稿した。",
+          "link": "https://www.odaily.news/ja/newsflash/345538",
+          "publishedOn": "2023-12-08T13:39:31.000Z",
+          "wordCount": 1632,
+          "title": "VanEckはビットコインスポットETFのS-1目論見書をSECに提出した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345537",
+          "author": null,
+          "description": "デイリーニュース：11月の米国の非農業部門雇用者数（季節調整済み）は予想の18万人に対し、19万9千人だった。 (ゴールデンテン)",
+          "link": "https://www.odaily.news/ja/newsflash/345537",
+          "publishedOn": "2023-12-08T13:30:31.000Z",
+          "wordCount": 1632,
+          "title": "11月の米国の非農業部門雇用者数は季節調整済みで19万9,000人、予想は18万人だった。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345536",
           "author": null,
@@ -9174,56 +9204,6 @@
           "publishedOn": "2023-12-04T02:27:03.000Z",
           "wordCount": 3525,
           "title": "ABCDE: なぜバビロンに投資したのですか?",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344828",
-          "author": null,
-          "description": "1. ビットコインは2022年4月以来初めて40,000 USDTを超え、2. ETHは2022年5月以来初めて2,200 USDTを超え、3. LUNAは一時的に1 USDTを超え、24時間で23.06%上昇しました; 4. ORDI短期24時間で18.8%以上上昇し、38 USDTの新高値を突破; 5. NFTプロジェクト「Pudgy Penguins」の下限価格は11 ETHを超え、過去最高値を更新し続けている 6. ビットコインはバークシャー・ハサウェイを上回り、再び-世界時価総額トップ10入り 大資産 7. ソラナTVLは6億9,000万米ドルを超え、今年最高額を更新 8. あるクジラが再びバイナンスから約1,000ETHを引き出し",
-          "link": "https://www.odaily.news/ja/newsflash/344828",
-          "publishedOn": "2023-12-04T02:23:55.000Z",
-          "wordCount": 1735,
-          "title": "毎日の朝のニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5187430",
-          "author": null,
-          "description": "パイはついに40,000を突破した",
-          "link": "https://www.odaily.news/ja/post/5187430",
-          "publishedOn": "2023-12-04T01:58:37.000Z",
-          "wordCount": 2908,
-          "title": "- BTC が 40,000 ドルを超えました; アトム損失の場合は補償されます; STRK 契約が展開されました (12 月 4 日)",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344826",
-          "author": null,
-          "description": "Odaily News OKX市場によると、LUNAは短期間で1 USDTを突破し、現在0.992 USDTで取引されており、24時間で23.06%上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/344826",
-          "publishedOn": "2023-12-04T01:55:07.000Z",
-          "wordCount": 1719,
-          "title": "LUNAは一時1USDTを超え、24時間で23.06%上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344825",
-          "author": null,
-          "description": "TwitterユーザーのEmber Monitorによると、Odailyは4時間前にBlockTower Capitalが2,333MKR（約353万米ドル）をCoinbaseに送金したと報じた。 BlockTower Capitalは、2022年5月から11月にかけてCoinbase/FTX/KrakenなどのCEXから12,502MKR（約1,320万米ドル）を引き出し、平均価格は1,055米ドルでした。 BlockTower Capital は現在 10,745 MKR (約 1,630 万米ドル) を保有しており、変動利益は 500 万米ドルです。",
-          "link": "https://www.odaily.news/ja/newsflash/344825",
-          "publishedOn": "2023-12-04T01:36:22.000Z",
-          "wordCount": 1759,
-          "title": "BlockTower は Coinbase に 2,333 MKR、約 353 万ドル相当を入金しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191404",
-          "author": null,
-          "description": "来年の期待: 金利引き下げ+半減+スポットETF承認。",
-          "link": "https://www.odaily.news/ja/post/5191404",
-          "publishedOn": "2023-12-04T01:32:38.000Z",
-          "wordCount": 1901,
-          "title": "複数の前向きな期待に支えられ、BTCは4万ドルを超え、20カ月ぶりの高値を記録した",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
