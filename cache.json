@@ -495,6 +495,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=495851",
+          "author": "CoinPost編集部",
+          "description": "つみたてNISA（つみたて投資枠）は長期投資に向いており、多くの投資家にとって利用しやすい制度です。この記事では、つみたてNISAの概要や長期投資に向いている理由、具体的な投資戦略を解説しました。",
+          "link": "https://coinpost.jp/?p=495851",
+          "publishedOn": "2023-12-09T11:56:29.000Z",
+          "wordCount": 2214,
+          "title": "株式投資の「つみたてNISA」、今すぐ始めた方が良い理由",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/venturefunding1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/venturefunding1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=495258",
+          "author": "CoinPost編集部",
+          "description": "NISAとは少額投資にも適した非課税制度です。若い世代を中心に多くの層が利用しています。2024年から開始する新NISAとの違いや具体的なメリット、つみたて投資枠などを解説します。",
+          "link": "https://coinpost.jp/?p=495258",
+          "publishedOn": "2023-12-09T11:47:39.000Z",
+          "wordCount": 2059,
+          "title": "年間投資枠3倍に、新NISAの「5大メリット」を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/nisa-sumb.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/nisa-sumb.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=497352",
           "author": "AKIRA.H",
           "description": "VanEck社が発表した2024年の仮想通貨市場予測を詳細に分析。ビットコイン半減期の影響、イーサリアムの市場ポジション、企業の暗号資産保有増加など、15の重要なトレンドを探求。仮想通貨業界の次の発展段階を見据えた包括的なレポート。",
@@ -1303,21 +1333,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/BYBIT-Report-Asset-Allocation.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/BYBIT-Report-Asset-Allocation.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=496178",
-          "author": "菊谷ルイス",
-          "description": "主要仮想通貨関連株はビットコインが42,000ドルに復帰したことを受け、5日に続伸した。一方、本日のNYダウは小幅反落しエヌビディアなど大型IT株も売られた。",
-          "link": "https://coinpost.jp/?p=496178",
-          "publishedOn": "2023-12-04T23:30:28.000Z",
-          "wordCount": 1943,
-          "title": "仮想通貨ビットコインマイニング株大幅続伸、NYダウ反落｜5日金融短観",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
         }
       ]
     },
@@ -1326,6 +1341,86 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345628",
+          "author": null,
+          "description": "Odaily News ShibariumScan のデータによると、Shibarium ネットワーク ブロックの総数は 200 万を超え、トランザクションの総数は 6,700 万を超え、ウォレット アドレスの数は 130 万を超えています。しばりむむの1日の取引件数は789万件に達した。現在のガソリン料金は163.53グウェイです。 BONEトークンは現在0.909935ドルで取引されています。しばリウムの1日の取引数が12月1日に急増して初めて510万件に達し、12月2日には740万件に達し、それ以来750万件を超えていることは注目に値する。今週、Shiba Inu 開発者の Kaal Dhairya 氏は、Shibarium トランザクションの急増を認め、これらはスパムトランザクションではなく、SRC-20 (Inscription) ミントアクティビティであると述べました。 (U.今日)",
+          "link": "https://www.odaily.news/ja/newsflash/345628",
+          "publishedOn": "2023-12-09T12:30:14.000Z",
+          "wordCount": 1800,
+          "title": "しばりむむネットワーク上の取引件数は碑文ブームで急増し、総取引件数は6,700万件を超えた",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191476",
+          "author": null,
+          "description": "ブルベアサイクルでは、トークンの資産属性と負債属性をうまく活用する必要があります。",
+          "link": "https://www.odaily.news/ja/post/5191476",
+          "publishedOn": "2023-12-09T12:00:00.000Z",
+          "wordCount": 2209,
+          "title": "Foresight Ventures: Web3 ビジネス モデルを分析し、資産と負債の属性をトークンに割り当てます。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345627",
+          "author": null,
+          "description": "オンチェーンアナリスト @ai_9684xtpa による Odaily の監視によると、5 分前、大規模な ETH バンドユーザー (アドレスが 0x828 で始まる) が、約 871 万米ドルに相当する 3,700 ETH をバイナンスにリチャージしました。資金の平均コストは1,968ドルで、11月19日に9,130​​トークンがオンチェーンで購入され、2,824トークンが11月21日にバイナンス経由でウォレットに転送されました。今回これらのトークンがすべて売却された場合、この大手会計士は 139 万米ドルの利益を得るでしょう; 現在ウォレットには 10,000 ETH が残っています。",
+          "link": "https://www.odaily.news/ja/newsflash/345627",
+          "publishedOn": "2023-12-09T11:53:57.000Z",
+          "wordCount": 1800,
+          "title": "あるバンドの大口投資家が3,700ETHをバイナンスに送金し、売却すれば139万ドルの利益が見込まれる。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345626",
+          "author": null,
+          "description": "Odaily News スイスの機関級デジタル資産インフラプロバイダーであるタウルスSAは、国際的な成長を継続し、欧州におけるテクノロジーリーダーシップを強化するため、事業の拡大とドイツのフランクフルトに新オフィスを設立したことを発表した。 (ファインエクストラ)",
+          "link": "https://www.odaily.news/ja/newsflash/345626",
+          "publishedOn": "2023-12-09T11:44:45.000Z",
+          "wordCount": 1781,
+          "title": "デジタル資産インフラストラクチャプロバイダーのTaurusがドイツのフランクフルトにオフィスを開設",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345625",
+          "author": null,
+          "description": "Odaily News UniSat Wallet は、Slow Mist と Slow Mist 最高情報セキュリティ責任者 23pds の協力を通じてサービスのセキュリティ対策を強化したと X プラットフォームに投稿しました。 23pdsは「安全上のリスクについてフィードバックを提供したところ、問題はすぐに解決された。安全に対するUniSatの姿勢は称賛に値する」と答えた。",
+          "link": "https://www.odaily.news/ja/newsflash/345625",
+          "publishedOn": "2023-12-09T11:41:47.000Z",
+          "wordCount": 1804,
+          "title": "UniSat は SlowMist と提携してサービスのセキュリティ対策を強化します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345622",
+          "author": null,
+          "description": "1. Linea は、12 月 16 日まで続く Voyage Wave 7: Trading を開始しました; 2. 多数の UNFI ポジションを構築したスマート マネー アドレスは 300,000 UNFI を転送しました; 3. Ronin チェーンの月間アクティブ アドレス数は 572,000 に達しました; 3. 4. Circle CEO: USDC は Solana のステーブルコイン取引量の 90% を占めています; 5. Ordinals 登録の累積手数料収入は 3,400 BTC を超え、1 億 5,000 万米ドル以上に相当します; 6. Solana DEX の 1 日あたりの取引量は 11 億 2,000 万米ドルに達しました、イーサリアム DEX の 1 日あたりの最大取引量は取引量の 90%; 7. 分散型デリバティブ取引プラットフォーム Rollup.Finance が CherrySwap の買収を発表; 8. カリフォルニア DFPI: 社名に「銀行」という単語を使用することはできません「Bankless, LLC」は許可なく変更される必要がある; 9. 暗号 KOL: Celestia DA の使用に必要な手数料はイーサリアム L1 DA よりもはるかに低い; 10. 12 月 7 日の時点で、USDC の流通量は 100 米ドル減少しました過去 1 週間で 100 万件。",
+          "link": "https://www.odaily.news/ja/newsflash/345622",
+          "publishedOn": "2023-12-09T11:30:00.000Z",
+          "wordCount": 1868,
+          "title": "毎日のイブニングニュース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345624",
+          "author": null,
+          "description": "Odaily News Dune のデータによると、Linea のメイン ネットワークがブリッジされて 260,148 ETH が転送され、トランザクション数は 719,052 に達し、インタラクティブ アドレスの数は 391,623 に達しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345624",
+          "publishedOn": "2023-12-09T11:24:18.000Z",
+          "wordCount": 1825,
+          "title": "Linea メインネットは 260,000 ETH 以上の送金を橋渡ししました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345623",
+          "author": null,
+          "description": "Odaily News エルサルバドル政府は現地での暗号通貨の普及を促進する継続的な努力にもかかわらず、トリプルAのデータによると、エルサルバドルでは約109,175人がビットコインなどの暗号通貨を所有しており、これは国の人口（636万人）の約1.72％を占めている。 。さらに、エルサルバドルは世界の暗号通貨導入指数で 55 位にランクされています。最近、エルサルバドルのナイブ・ブクレ大統領は、同国のビットコイン投資総額が1億3,100万米ドルに達したと発表した。 12月4日の時点で、ビットコイン投資による純利益は360万米ドルで、トータルリターンは2.84％となった。 (コインテレグラフ) 先ほどのニュースでは、エルサルバドルは、毎年1,000人の宿泊枠を提供する新しいビザなしプログラムを開始した。具体的な内容は、BTCまたはUSDTに100万米ドルを投資した人は居住ビザと市民権を取得できる。 1,000 人が応募できれば、このプログラムはエルサルバドルに 10 億ドルを集めることができます。",
+          "link": "https://www.odaily.news/ja/newsflash/345623",
+          "publishedOn": "2023-12-09T11:19:32.000Z",
+          "wordCount": 1808,
+          "title": "レポート: エルサルバドルの人口の2%未満が仮想通貨を保有している",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345621",
           "author": null,
@@ -8634,16 +8729,6 @@
           "publishedOn": "2023-12-05T00:42:30.000Z",
           "wordCount": 1822,
           "title": "ブラックロック、修正されたビットコインETF申請書類を提出、マネーロンダリング防止のコンプライアンス文言とPwC監査報告書を追加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344950",
-          "author": null,
-          "description": "Odaily News ブルームバーグ ETF アナリストのジェームス・セイファート氏が、まだ進行中であると投稿しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344950",
-          "publishedOn": "2023-12-05T00:28:44.000Z",
-          "wordCount": 1825,
-          "title": "Bitwise がビットコイン ETF 申請に関する 2 回目の改訂文書を SEC に提出",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
