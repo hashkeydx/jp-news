@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=211579",
+          "author": "CoinDesk JAPAN",
+          "description": "トークン化市場が本格的に立ち上がっていない主な理由は、技術的なボトルネック、現在のインフラや相互運用性の限界にある。 しかし昨年は、これらの問題を克服するための ...\nトークン化が本当に（ついに）始まる／アルゼンチン大統領選でビットコイナーが誤解していること【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/211579/",
+          "publishedOn": "2023-12-09T01:00:00.000Z",
+          "wordCount": 1420,
+          "title": "トークン化が本当に（ついに）始まる／アルゼンチン大統領選でビットコイナーが誤解していること【週末に読みたい厳選10本】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1947416206-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=210937",
           "author": "Ben Schiller",
           "description": "今年は暗号資産（仮想通貨）業界にとって、再編と転換の年となった。FTX、スリー・アローズ・キャピタル（Three Arrows Capital）、セルシウス・ネ ...\n暗号資産で最も影響力のある人物 2023 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -480,16 +490,6 @@
           "wordCount": 1174,
           "title": "ビットコインETF、価格ボラティリティへの影響は",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1691960485.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=210878",
-          "author": "Shaurya Malwa",
-          "description": "コインベース（Coinbase）とマイクロストラテジー（MicroStrategy）の株価は、ビットコイン（BTC）が過去24時間で4％急騰して年初来の上昇率を ...\nコインベース、マイクロストラテジーの株価が市場前取引で急上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/210878/",
-          "publishedOn": "2023-12-04T12:25:00.000Z",
-          "wordCount": 1168,
-          "title": "コインベース、マイクロストラテジーの株価が市場前取引で急上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/06/shutterstock_2091302218-1.jpg"
         }
       ]
     },
@@ -504,6 +504,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=497309",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコインはフィデリティのSEC面談のニュースなどを受けて再び44,000台に復帰。ソラナは「JTO」エアドロップの実施や、NFTでイーサリアムNFTの出来高を超えたことに連動し大幅に上昇し再び年初来高値を更新した。",
+          "link": "https://coinpost.jp/?p=497309",
+          "publishedOn": "2023-12-09T00:10:26.000Z",
+          "wordCount": 2002,
+          "title": "堅調な米雇用統計で早期利下げ観測やや後退　ビットコイン反発で仮想通貨関連株大幅高｜8日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=497296",
+          "author": "菊谷ルイス",
+          "description": "ソラナ・ブロックチェーン基盤のNFTの出来高は24時間ベースで、初めてイーサリアム・ブロックチェーンのNFTの出来高を超えた。",
+          "link": "https://coinpost.jp/?p=497296",
+          "publishedOn": "2023-12-08T23:15:36.000Z",
+          "wordCount": 1887,
+          "title": "ソラナNFT、初めてイーサリアムNFTの出来高超えて1位のチェーンに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_01.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=497287",
           "author": "菊谷ルイス",
@@ -1306,6 +1336,156 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345563",
+          "author": null,
+          "description": "Odaily News Bitcoin Core 開発者の Luke Dashjr 氏がメールに投稿しました。当時、すべてのノード実装のデフォルトの最大データ キャリア サイズ制限は 40 バイトでした。当時も今も、これはデータをトランザクションにバインドするのに十分な大きさでした (ノード実装の場合は 32 バイト)。コアのその後のデフォルト値の 80 バイトへの増加は完全に自主的な決定であり、悪用とみなされたデータ ストレージ シナリオによって引き起こされる損害を最小限に抑えるために、明らかにプルーニング可能な出力を作成するという OP_RETURN の設計目標と決して矛盾しません。 「技術的な理由は他にもあります。私はビットコインノットのデフォルト値を低く保つことにしましたが、それを増やす理由はありません。」 また、Dashjr 氏は、彼も OCEAN チームも混合通貨取引のコインジョインをフィルタリングするつもりはないと説明しました。これらのサービスは、ビットコインのプライバシーを強化する革新的なツールを提供し、正しく構築されれば、コイン結合は簡単に OP_RETURN 制限内に収まります (実際、コイン結合が OP_RETURN データを持つ理由はまったくありません)。彼は個人的に、一部のコイン結合トランザクションが Knots v25 によってスパムとしてマークされるという最近の問題を軽減する方法についていくつかのアイデアを持っており、チームと協力してこの問題の解決策を開発する意向です。 Dashjr 氏はまた、「ビットコインでは常にノードが複数の基準セットに基づいてフィルターを設定することを許可しており、現時点では Knots v25 のデフォルトがビットコインにとって最適です。他の人は同意しないかもしれませんが、それは問題ありません。彼らは自由に独自のノードを実行できる (そしてそうすべきです) 」とも述べました。ノード - より多くの人 (マイナーを含む) がノードを実行することはビットコインにとって良いことであり、ノード ポリシーには自然な多様性があるはずです。前述したように、OCEAN は分散化への道を進んでいます。マイナーとして完全に参加し、どのバージョンのノード ソフトウェアを実行するか、どのフィルターやその他のポリシーをブロック テンプレートの構築に適用するかを決定するなど、マイニングのインテリジェントな部分を実行できます。」",
+          "link": "https://www.odaily.news/ja/newsflash/345563",
+          "publishedOn": "2023-12-09T01:22:07.000Z",
+          "wordCount": 1927,
+          "title": "Luke Dashjr: 混合通貨取引のコインジョインをフィルタリングするつもりはありません。私と OCEAN チームはこれに対するソリューションを開発するつもりです。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345562",
+          "author": null,
+          "description": "Odaily News Ouyi OKX市場によると、DOTは7.4 USDTを突破した後反落し、一時7.296 USDTで取引され、24時間で18.13％上昇した。",
+          "link": "https://www.odaily.news/ja/newsflash/345562",
+          "publishedOn": "2023-12-09T01:08:30.000Z",
+          "wordCount": 1871,
+          "title": "DOTは7.4 USDTを突破した後反落し、24時間で18.13%上昇した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345561",
+          "author": null,
+          "description": "Odaily のデータによると、MakerDAO の融資プロトコルである Spark プロトコルに 5 億 3,000 万 DAI 近くが入金されており、現在の負債制限は 8 億 DAI に設定されています。既存の負債レベルで、Maker Protocol は、Spark クレジットラインからの年間収益が約 2,710 万 DAI になると予想しており、これは Maker の最も収益の高い暗号ネイティブ保管庫になります。",
+          "link": "https://www.odaily.news/ja/newsflash/345561",
+          "publishedOn": "2023-12-09T01:06:03.000Z",
+          "wordCount": 1938,
+          "title": "メーカー: Spark Protocol には 5 億 3,000 万 DAI 近くが入金されており、年間収入は 2,710 万 DAI に達すると予想されています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345560",
+          "author": null,
+          "description": "Odaily ニュースのガバナンス ページには、Aave コミュニティが「Avalanche の AAVE V3 マーケットに ggAVAX (Gogopool プロトコル流動性ステーキング トークン) を追加する」という温度チェックの提案を開始したことが示されています。この提案は、ggAVAX の流動性と Avalanche エコシステムにおける AAVE の支配的な地位を強化することを目的としています。次のステップは、この提案に関する AAVE コミュニティからのフィードバックを収集することです。合意に達した場合、この提案は TEMP CHECK スナップショット段階にアップグレードされます。",
+          "link": "https://www.odaily.news/ja/newsflash/345560",
+          "publishedOn": "2023-12-09T00:59:27.000Z",
+          "wordCount": 1913,
+          "title": "Aave コミュニティが「Avalanche の AAVE V3 マーケットに ggAVAX を追加」温度チェックの提案を開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345559",
+          "author": null,
+          "description": "Odaily News デジタル資産仲介会社ノンコは、バロー・キャピタル・グループ（元米国通貨監督官で元バイナンスUS CEOのブライアン・ブルック氏率いる）とハックVC（ドラゴンフライ・キャピタル創設者のアレックス・パック氏率いる）からの投資により、1,000万ドルのシードラウンドを完了した。 ）機関）が投資を主導し、Morgan Creek Digital、CMCC、Lvna Capital、Theta Capital、Bullish、Bastion Trading、Libra Capital Ventures が参加しました。ブルックス氏とペック氏は取締役として同社に加わる。同社は、香港に拠点を置くデジタル資産プラットフォーム OSL のアメリカ部門である OSL Digital Limited からスピンアウトし、同じチームで構成されており、OSL は新しい合弁事業の少数株式を保有しています。同社は4月の設立以来、中南米で60億ドルの売上をあげており、現在は米国市場への拡大に注力している。同社は、リスク解決メカニズムを軽減するために複数の取引相手を使用する非保管方法を提供していると報告されています。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/345559",
+          "publishedOn": "2023-12-09T00:52:53.000Z",
+          "wordCount": 1919,
+          "title": "デジタル資産仲介会社 Nonco が、Valor Capital と Hack VC 主導で 1,000 万ドルのシードラウンドを完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345558",
+          "author": null,
+          "description": "Odaily News 米国SECは、バイナンス・ホールディングス社が最近、同取引所に対する訴訟を支持し、司法省およびその他の米国当局と43億ドルの和解合意に達したと発表した。 SECはこの合意には関与していないが、金曜日、この訴訟を審理するワシントンの連邦裁判所は、11月21日の和解でバイナンスと前CEOのCZが行った証言録取を検討すべきだと主張した。同社とCZは裁判所に対し、SECの訴訟を却下するよう求めた。バイナンスと米国政府との和解により、司法省、財務省、CFTCのさまざまな部門による長年にわたる調査が終了するが、この合意には今年6月にバイナンスとCZを告訴したSECは含まれていない。 (ブルームバーグ)",
+          "link": "https://www.odaily.news/ja/newsflash/345558",
+          "publishedOn": "2023-12-09T00:45:34.000Z",
+          "wordCount": 1872,
+          "title": "米国SEC：バイナンスに対する訴訟を継続する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345557",
+          "author": null,
+          "description": "Odaily News CZ は X プラットフォームに、X の使用を一定期間停止するよう努めると投稿した。彼はまた、コミュニティのサポートに感謝の意を表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345557",
+          "publishedOn": "2023-12-09T00:38:31.000Z",
+          "wordCount": 1886,
+          "title": "CZ: X の使用は一定期間停止される可能性があります",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345556",
+          "author": null,
+          "description": "Odaily News CoinGecko のデータによると、暗号化の市場価値の総額は 1 兆 7,000 億米ドルを超えており、この記事の執筆時点では 1 兆 7,200 億米ドルで、24 時間で 2.5% 増加しています。さらに、BTCの市場シェアは50.3%、ETHの市場シェアは16.5%です。",
+          "link": "https://www.odaily.news/ja/newsflash/345556",
+          "publishedOn": "2023-12-09T00:30:47.000Z",
+          "wordCount": 1892,
+          "title": "仮想通貨の市場総額は1兆7000億ドルを超え、BTCが50.3％を占める",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345555",
+          "author": null,
+          "description": "デイリーニュースチェーン探偵 ZachXBT が最近 ) トレーディングカードに投稿しました。資金の行き先と潜在的な資金源についての彼の分析は次のとおりです: この人は 110 WETH を引き出しました; 4. USDC を MTG ブローカーに転送します。さらに、一部の資金は Kraken、Bitpay、Coinbase などの CEX にも入金されます。 ZachXBTは、これらの措置は、2021年のウラニウム・ファイナンス攻撃に関連している可能性がある資金源の追跡をより困難にするために講じられているようだと述べた。ハッカーがトルネード キャッシュに資金を入金したタイミングと、MTG カード購入者が資金を引き出したタイミングから、それらが同一人物である可能性が高いことがわかります。",
+          "link": "https://www.odaily.news/ja/newsflash/345555",
+          "publishedOn": "2023-12-09T00:25:17.000Z",
+          "wordCount": 1924,
+          "title": "ZachXBT: Uranium Finance ハッカーはマジック カードを交換して現金化する可能性がある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345554",
+          "author": null,
+          "description": "Odaily News 分散型評判プロトコル Sismo の創設者である Hadrien Charlanes 氏は、X プラットフォームに、Sismo が投資家に資金を返還したと投稿しました。シズモは以前、130人の投資家から1,050万ドルを調達した（51％が返還された）。まだ返済はされていませんが、最後までご支援を賜りますよう、よろしくお願いいたします。さらに、Sismoはまだオープンソース化されていない部分をオープンソース化しており、数か月以内に基本的なインフラストラクチャを維持する予定です。 Sismo はゼロ知識証明に基づいたオンチェーン評判プロジェクトであり、ユーザーはウォレットアドレスを開示せずに資産を所有していることを証明できると報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/345554",
+          "publishedOn": "2023-12-09T00:01:01.000Z",
+          "wordCount": 1901,
+          "title": "分散型評判プロトコル Sismo の創設者: プロジェクトは運営を停止し、投資家に資金を返還した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191241",
+          "author": null,
+          "description": "高品質の詳細な分析記事と今週の注目のトピック。",
+          "link": "https://www.odaily.news/ja/post/5191241",
+          "publishedOn": "2023-12-09T00:00:00.000Z",
+          "wordCount": 2628,
+          "title": "週刊編集者のおすすめ (1202-1208)",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345553",
+          "author": null,
+          "description": "オデイリーは、フィデリティがスポットビットコインETFのS-1修正文書の第2版を提出し、形式に一連の変更を加えたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/345553",
+          "publishedOn": "2023-12-08T23:36:02.000Z",
+          "wordCount": 1864,
+          "title": "フィデリティ、スポットビットコインETF向けにS-1の第2バージョンを申請",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345552",
+          "author": null,
+          "description": "Odaily News SECはスポットビットコインETFに関してフィデリティと会談し、物理的な作成と償還のメカニズムについて議論した。フィデリティは規制当局に対し、「現物」の作成と償還モデルについて詳しく説明したスライド「ビットコインETFワークフロー」と題したプレゼンテーションを提供した。プレゼンテーションでは、「物理的な作成により、アービトラージとヘッジがより効率的となり、自己清算型ETFマーケットメイキング会社は、仮想通貨関連会社を持つ非自己清算型ETFマーケットメイキング会社のプロキシAPとして機能し、効率的なアービトラージを促進することができます。」と述べられています。物理的な作成と償還は、すべての参加者の取引効率と流通市場の価格設定を改善するために不可欠です。」",
+          "link": "https://www.odaily.news/ja/newsflash/345552",
+          "publishedOn": "2023-12-08T23:35:32.000Z",
+          "wordCount": 1868,
+          "title": "SECはフィデリティと会合し、スポットビットコインETFの作成と償還のメカニズムについて話し合う",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345551",
+          "author": null,
+          "description": "Odaily News ImmutableのIMXトークンは、来年ブロックチェーンベースの新しいビデオゲームがリリースされると価格が大幅に上昇する可能性があるとVanEck氏が述べたことを受けて金曜日に上昇した。 Ouyi OKX市場は、IMXが短期的に1.5718 USDTまで上昇し、24時間で3.42％上昇したことを示しています。 「IMXは、ほとんどのトークンよりも利害を一致させるよく設計されたトークンであることに加えて、Illuvium、Guild of Guardians、その他の高予算ゲームのリリースにより、2024年には時価総額トップ25トークンになる可能性が最も高いです。」投資管理会社が木曜日に発表した報告書の中で述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/345551",
+          "publishedOn": "2023-12-08T23:33:50.000Z",
+          "wordCount": 1880,
+          "title": "VanEckが来年Illuviumのような新しいブロックチェーンビデオゲームのリリースがその価値を高める可能性があると述べたため、IMXトークンが上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345550",
+          "author": null,
+          "description": "Deribit デリビット取引所のデータによると、1 月末の有効期限が近づくにつれ、イーサリアム オプションの建玉に対するプットに対するコール数の増加は、多くの投資家がこのデジタル資産の価格が上昇すると予想していることを示しています。あるアナリストは、2024年初頭になるだろうと述べた。 Deribit 最高商業責任者の Luuk Strijer 氏は The Block に対し、「年末のイーサリアムの有効期限を見ると、コールプット比率は 0.44 で、これは 10 コールに対して約 4.4 プットを意味します。しかし、2024 年 1 月には、この比率は0.19、つまりコール 10 件ごとにプットが約 2 件あることを意味し、より強気な分布となっています。」 1 未満のコール プット比率は、コール オプションがプットよりも多く取引されていることを示し、市場のセンチメントが強気であることを示しています。一般に、コール オプションを購入するトレーダーは市場に対して強気の見方をしており、プット オプションを購入するトレーダーは弱気の見方をしていると考えられています。 The Block のデータ ダッシュボードによると、今日の Deribit におけるイーサリアムのコール対プットの比率は 0.35 です。",
+          "link": "https://www.odaily.news/ja/newsflash/345550",
+          "publishedOn": "2023-12-08T23:24:30.000Z",
+          "wordCount": 1940,
+          "title": "アナリストはイーサリアムのコールプット比率が2024年の市場の強気を示していると語る",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345549",
           "author": null,
@@ -8114,266 +8294,6 @@
           "publishedOn": "2023-12-04T13:38:24.000Z",
           "wordCount": 1768,
           "title": "インドの仮想通貨サービスプロバイダー28社が同国のマネーロンダリング対策部門に登録",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344920",
-          "author": null,
-          "description": "Odaily News ビットコインがアルトコイン市場を上回るパフォーマンスで価格が急騰し、ビットコインの優位性が52.6%に上昇。この資産は年初から152%上昇しており、仮想通貨全体の時価総額は3%以上増加し、2022年5月のレベルに達します。現在、BTC保有者の80％以上が利益を上げています。ビットコインの最近の急騰により、1億9,000万ドル以上の清算が発生し、そのうち1億5,000万ドルがショートポジションであったことは言及する価値があります。スポットビットコイン上場投資信託（ETF）の承認をめぐる楽観的な見方が、ビットコインの急騰を促進する主な要因の1つとなっている。仮想通貨コミュニティは、米国証券取引委員会（SEC）が1月5日から10日の間にETFを承認する可能性が高いと考えている。 (クリプトポテト)",
-          "link": "https://www.odaily.news/ja/newsflash/344920",
-          "publishedOn": "2023-12-04T13:28:05.000Z",
-          "wordCount": 1758,
-          "title": "ビットコイン保有者の80％以上が利益を得る可能性がある",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344919",
-          "author": null,
-          "description": "Odaily News 香港証券取引所の公式ウェブサイトによると、香港上場企業であるBoyaaは本日、「潜在的に非常に重要な買収 - 仮想通貨購入の可能性に対する購入承認および臨時株主総会の通知」を発行したとの内容。通知には、Boyaa が 2020 年に開催される予定であると記載されていました。臨時実株主総会は、2023 年 12 月 22 日金曜日の午後 3 時に開催され、取締役に株式の取得承認を承認および可決することを決議する予定です。認可期間中に1億米ドルを超えない範囲で潜在的な暗号通貨取引を行う権利を前倒しし、通貨の購入については、ビットコインの購入に4,500万米ドル、イーサリアムの購入に4,500万米ドルが使用されることが予想されます。ステーブルコインの購入には1,000万米ドルを超えて使用されません。",
-          "link": "https://www.odaily.news/ja/newsflash/344919",
-          "publishedOn": "2023-12-04T13:26:30.000Z",
-          "wordCount": 1790,
-          "title": "Boyaa Interactive: 臨時株主総会の決議により、1億米ドルを超えない仮想通貨購入の可能性が承認",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344918",
-          "author": null,
-          "description": "Odaily News SocialFi チェーンゲーム xPET は、XPET/WETH が現在 Uniswap でオンラインになっているとの声明を発表しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344918",
-          "publishedOn": "2023-12-04T13:24:43.000Z",
-          "wordCount": 1709,
-          "title": "XPET/WETH が Uniswap でオンラインになりました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344917",
-          "author": null,
-          "description": "",
-          "link": "https://www.odaily.news/ja/newsflash/344917",
-          "publishedOn": "2023-12-04T13:21:04.000Z",
-          "wordCount": 1688,
-          "title": "フラッシュ取引所取引プラットフォームがAEURの新しい資産を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344916",
-          "author": null,
-          "description": "Odaily News エルサルバドル大統領ナイブ・ブクレ氏が掲載さらにブケレ氏は、BTCを売却するつもりはなく、価格は今後も変動し続けることを十分に承知しているが、それが長期保有戦略に影響を与えるものではないとも述べた。",
-          "link": "https://www.odaily.news/ja/newsflash/344916",
-          "publishedOn": "2023-12-04T13:15:03.000Z",
-          "wordCount": 1691,
-          "title": "エルサルバドル大統領：同国のビットコイン投資は360万米ドルを獲得、長期保有されるだろう",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344915",
-          "author": null,
-          "description": "Odaily News Ouyi OKX 市場によると、STX 価格は 0.97 USDT を突破し、0.9724 USDT まで上昇し、現在は 0.9513 USDT で取引されており、24 時間で 16.23% 上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/344915",
-          "publishedOn": "2023-12-04T13:08:32.000Z",
-          "wordCount": 1708,
-          "title": "STXの価格は最大0.97 USDTに達し、24時間で16.23%上昇しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344914",
-          "author": null,
-          "description": "Odaily の報道によると、Dextools のデータによると、XPET トークンの流動性が再追加され、現在の流動性プールの価値は 100,800 米ドル、現在の通貨価格は 0.3449 USDT です。以前、X プラットフォームでは、XPET の開始後、流動性プールが引き出された疑いがあると多くのユーザーが述べていましたが、当時の流動性プールの価値はわずか 16,600 ドルでした。これに対し、Xpet チームは Discord コミュニティで、数分以内に再追加される予定であり、問​​題は V3 バージョンに起因していると述べました。",
-          "link": "https://www.odaily.news/ja/newsflash/344914",
-          "publishedOn": "2023-12-04T13:06:33.000Z",
-          "wordCount": 1721,
-          "title": "XPET トークンの流動性が再び追加され、価格は 0.34 USDT で見積もられています。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191438",
-          "author": null,
-          "description": "1か月後、この分野にはまだ5人の「勝者」がいます。",
-          "link": "https://www.odaily.news/ja/post/5191438",
-          "publishedOn": "2023-12-04T13:00:22.000Z",
-          "wordCount": 2057,
-          "title": "BTC の高騰により BRC-20 セクターが牽引されていますが、どのターゲットにまだチャンスがあるでしょうか? 「BTCエコシステム」",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191435",
-          "author": null,
-          "description": "マルチシグネチャはロールアップのすべてではありませんが、より大きなシステム アーキテクチャの重要な小さな部分です。",
-          "link": "https://www.odaily.news/ja/post/5191435",
-          "publishedOn": "2023-12-04T13:00:00.000Z",
-          "wordCount": 2327,
-          "title": "Rollup に安全委員会が必要な理由を理解するには、さらに詳しくお読みください。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344913",
-          "author": null,
-          "description": "毎日のニュース: あるユーザーが X プラットフォームで、XPET の開始後、流動性プールが引き出された疑いがあると述べました。これに対し、Xpet チームは Discord コミュニティで、数分以内に再追加される予定であり、問​​題は V3 バージョンに起因していると述べました。 DexTools データによると、XPET トークンの流動性プールの現在の価値は 16,600 米ドルで、現在の XPET 価格は 0.174 USDT で、最高値の 0.42 USDT と比較して、通貨価格は 58% 急落しています。",
-          "link": "https://www.odaily.news/ja/newsflash/344913",
-          "publishedOn": "2023-12-04T12:55:10.000Z",
-          "wordCount": 1737,
-          "title": "XPET流動性プールが引き出された疑いがあり、通貨価格は58％急落した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191431",
-          "author": null,
-          "description": "過去 1 週間の市場は景気循環産業と小型株が主導しており、一般的に言えば、仮想通貨、工業用金属、金など、金利低下に最も敏感な産業が好調でした。以下の主要株価指数の週間パフォーマンスを見ると、小型株指数の代表格であるラッセル2000（RUT）が先週後半から上昇を加速させていることが分かります。",
-          "link": "https://www.odaily.news/ja/post/5191431",
-          "publishedOn": "2023-12-04T12:53:32.000Z",
-          "wordCount": 3131,
-          "title": "LDキャピタル・マクロ・ウィークリー・レポート（12.3）：個人投資家の強気センチメントは高く、3年ぶりに経済ファンダメンタルズから逸脱",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191428",
-          "author": null,
-          "description": "デジタル通貨は急速に進歩しており、BTC は 40,000 のマークを突破し、42,000 米ドルに挑戦し、41,439.97 で終了し、ETH も上昇し、2,249.81 で終了しました。",
-          "link": "https://www.odaily.news/ja/post/5191428",
-          "publishedOn": "2023-12-04T12:51:42.000Z",
-          "wordCount": 2012,
-          "title": "SignalPlus Volatility Column (20231204): BTC は急騰している一方、米国債利回りは低下し続けています。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344912",
-          "author": null,
-          "description": "",
-          "link": "https://www.odaily.news/ja/newsflash/344912",
-          "publishedOn": "2023-12-04T12:48:35.000Z",
-          "wordCount": 1688,
-          "title": "Untitled",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344911",
-          "author": null,
-          "description": "Odaily News 今夜 8:30、Odaily は OKX と協力して、元のリンクをクリックしてライブブロードキャストルームに入ります。",
-          "link": "https://www.odaily.news/ja/newsflash/344911",
-          "publishedOn": "2023-12-04T12:44:34.000Z",
-          "wordCount": 1701,
-          "title": "Untitled",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344910",
-          "author": null,
-          "description": "Odaily News PancakeSwap は、8,808,741 個の CAKE が破壊され、破壊された金額は約 2,100 万米ドルに達したと X プラットフォームに公式に投稿しました。",
-          "link": "https://www.odaily.news/ja/newsflash/344910",
-          "publishedOn": "2023-12-04T12:34:53.000Z",
-          "wordCount": 1803,
-          "title": "PancakeSwap が 2,100 万ドルの CAKE を破棄",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344909",
-          "author": null,
-          "description": "Odaily News 公式ウェブサイトによると、Polygon Bridge は OKX Web3 ウォレットに接続され、ユーザーは OKX Web3 を介して Polygon Bridge 上のリンクを越えてアセットを交換できるようになりました。 Polygon Bridge は、Polygon とイーサリアムの間に双方向のクロスチェーン チャネルを実装し、ユーザーがサードパーティのリスクや市場流動性の制限を受けることなく、イーサリアムから資金を転送 (入金) し、イーサリアムから返却 (出金) できるようにします。 OKX Web3 ウォレットは、現在 80 以上のパブリック チェーンをサポートするワンストップ Web3 ポータルであると報告されており、アプリ、プラグイン、Web ページが統合されており、ウォレット、DEX、DeFi、NFT 市場、DApp 探索、 Ordinals マーケット、MPC および AA スマート コントラクト ウォレット、ガス交換、ハードウェア ウォレットの接続などをサポートします。",
-          "link": "https://www.odaily.news/ja/newsflash/344909",
-          "publishedOn": "2023-12-04T12:31:18.000Z",
-          "wordCount": 1834,
-          "title": "Polygon Bridge が OKX Web3 ウォレットに接続します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344908",
-          "author": null,
-          "description": "Odaily News Layer2 Network Lineaは、流動性と流動性マイニングの提供をテーマとしたVoyageイベント「Wave 5」を開始したと発表、イベントは12月18日20時までの9日間開催される。",
-          "link": "https://www.odaily.news/ja/newsflash/344908",
-          "publishedOn": "2023-12-04T12:28:47.000Z",
-          "wordCount": 1794,
-          "title": "Linea、流動性と流動性マイニングの提供をテーマとした Voyage Wave 5 を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344907",
-          "author": null,
-          "description": "Odaily News: 6,260億ドルの運用資産を抱える資産管理会社abrdnは、10月に機関投資家向けのマネーマーケットファンドトークンを発売した。現在、英国金融行動監視機構 (FCA) の規制下にある暗号通貨会社 Archax は、顧客が資金を割り当てるための新しく柔軟な方法を見つけるために暗号通貨を活用しています。 Archaxの最高マーケティング責任者サイモン・バーンビー氏は、顧客のウォレットはホワイトリストに登録する必要があり、トークンはプロの投資家のみが利用できると述べた。しかし、abrdn ファンドのトークン化された部分はわずか 5,000 ドルで販売されるため、この製品に対する新たな投資家チャネルが開かれる可能性があります。来年初め、Archax は abrdn マネー マーケット ファンド (MMF) トークンとビットコインの取引ペアを開始する予定です。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/344907",
-          "publishedOn": "2023-12-04T12:19:44.000Z",
-          "wordCount": 1791,
-          "title": "Archaxが資産管理会社abrdnマネーマーケットファンドのトークンとビットコインの取引ペアを立ち上げる",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344906",
-          "author": null,
-          "description": "Odaily News Bitget市場によると、T2T2は0.029 USDTを突破し、現在0.02949 USDTで取引されており、最大値は0.0295 USDTで、24時間で20.01％上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/344906",
-          "publishedOn": "2023-12-04T12:14:55.000Z",
-          "wordCount": 1805,
-          "title": "T2T2 は 0.029 USDT を突破し、24 時間で 18.99% 上昇しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344905",
-          "author": null,
-          "description": "Odaily News CoinSharesのレポートによると、先週のデジタル資産投資商品への流入額は総額1億7,600万米ドルで、10週連続で総流入額17億6,000万米ドルとなり、運用資産（AuM）の4％を占めた。ビットコインには1億3300万ドル、イーサリアムには3100万ドルの流入があり、ブロックチェーン株は7週連続の流入を記録した。この資金流入は現時点で2021年10月以来最大で、2021年10月に米国で先物ETFが開始されて以来最高水準となっている。",
-          "link": "https://www.odaily.news/ja/newsflash/344905",
-          "publishedOn": "2023-12-04T12:04:52.000Z",
-          "wordCount": 1778,
-          "title": "CoinShares：先週1億7,600万ドルのデジタル資産投資商品",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191434",
-          "author": null,
-          "description": "Solana がイーサリアムや他のものほど「分散化」されていないと言うのは大きな間違いです。",
-          "link": "https://www.odaily.news/ja/post/5191434",
-          "publishedOn": "2023-12-04T12:00:00.000Z",
-          "wordCount": 2063,
-          "title": "イーサリアムとソラナの違いを深く掘り下げる",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344904",
-          "author": null,
-          "description": "Odaily News 1兆3000億米ドルの資産を管理するファンド管理会社フランクリン・テンプルトンのCEO、ジェニー・ジョンソン氏はフォーチュン誌のオンザジョブインタビューで、BTC、ETH、UNI、SUSHIを保有していると語った。しかし、これらの投資はポートフォリオ全体のほんの一部にすぎません。ジョンソン氏は、（ビットコインスポットETF）承認のスケジュールは不透明であり、規制当局は最善のアプローチを決定するために取り組んでおり、やがて承認されるべきだと述べた。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/344904",
-          "publishedOn": "2023-12-04T11:57:07.000Z",
-          "wordCount": 1795,
-          "title": "Franklin Templeton CEO: BTC、ETH、UNI、SUSHIを保有",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344903",
-          "author": null,
-          "description": "Odaily News 11月のCME（シカゴ・マーカンタイル取引所）ビットコイン先物の建玉は40億2000万米ドル、月間取引高は730億2000万米ドルとなり、いずれも2021年11月以来の最高値を更新した。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/344903",
-          "publishedOn": "2023-12-04T11:47:40.000Z",
-          "wordCount": 1780,
-          "title": "11月のCEXスポット取引高は今年4月以来の最高値を記録",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344902",
-          "author": null,
-          "description": "オデイリー紙は、コイングラスのデータによると、ネットワーク全体が過去24時間に3億400万米ドルを清算し、このうち過去1時間の清算額は9149万米ドル、ロング注文は7707万米ドル、ショート注文は1442万米ドルだったと報じた。",
-          "link": "https://www.odaily.news/ja/newsflash/344902",
-          "publishedOn": "2023-12-04T11:30:53.000Z",
-          "wordCount": 1804,
-          "title": "過去 1 時間で、ネットワーク全体で 9,000 万米ドル以上が清算され、約 7,700 万米ドルがロング注文によるものでした。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344898",
-          "author": null,
-          "description": "1. マントルはイーサリアムメインネット上で流動性ステーキングプロトコルを立ち上げた; 2. ビクトリーセキュリティーズはEMC Labsと協力してステーブルコインのサブスクリプションを受け入れるビットコインファンドを立ち上げた; 3. イーサリアムL2のロックポジション総額は150億米ドルを超え、過去最高に達した; 4. 巨大クジラが合計 3,000 BTC をバイナンスに一括送金し、浮動利益は 4,564 万米ドルに達しました; 5. トップ 10 エコシステムのロックアップ総量は過去 1 か月間で全般的に増加しており、Solana は増加しています52.88%増加; 6. マイニング会社 Argo は 11 月に 145 BTC を生産し、収益は前月比 25% 増の 530 万米ドルに増加; 7. Binance は BNB 正規製品ユーザーに新しい通貨マイニング報酬を追加; 8. Ordinals の累積手数料収入は 3,300 BTC に達し、1 億 3,300 万米ドル以上の価値に達した; 9. 仮想通貨の市場価値総額は 1 兆 6,000 億米ドルを超え、BTC が 50.4% を占めた; 10. OKX の現在のローン商品 USDT の年利は 30% に達した。 11. StarkWare はリマインダーを発行しました: ソーシャル プラットフォーム上に詐欺的な情報を投稿する偽の Starknet アカウントがあります。十分に警戒してください; 12. Blast Network TVL は 7 億 2,000 万米ドルを超えます。",
-          "link": "https://www.odaily.news/ja/newsflash/344898",
-          "publishedOn": "2023-12-04T11:30:00.000Z",
-          "wordCount": 1931,
-          "title": "毎日のイブニングニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344901",
-          "author": null,
-          "description": "デイリーニュース ビットコインチェーンの取引数は11月に1642万件に達し、過去最高を記録した。これまでの最高記録は、今年5月の1630万トランザクションだった。",
-          "link": "https://www.odaily.news/ja/newsflash/344901",
-          "publishedOn": "2023-12-04T11:27:22.000Z",
-          "wordCount": 1776,
-          "title": "ビットコインチェーンのトランザクション数は11月に1642万件に達し、過去最高を記録した",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
