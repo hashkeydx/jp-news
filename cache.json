@@ -515,6 +515,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=497324",
+          "author": "A.Yamada",
+          "description": "米国議会は2024会計年度国防予算の枠組みを決める国防権限法を発表。ビットコインなど仮想通貨やブロックチェーンに関する条項は採用されなかった。",
+          "link": "https://coinpost.jp/?p=497324",
+          "publishedOn": "2023-12-09T03:30:29.000Z",
+          "wordCount": 1893,
+          "title": "米国議会、国防権限法で仮想通貨関連条項を不採用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/defense-congress-crypto-bill-not-in.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/defense-congress-crypto-bill-not-in.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=497327",
           "author": "菊谷ルイス",
           "description": "米仮想通貨取引所大手コインベースは、Optimism（OP）、Arbitrum（ARB）、Ethereum Classic（ETC）のパーペチュアル先物取引を新たに提供する予定を発表した。",
@@ -1376,6 +1391,96 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345588",
+          "author": null,
+          "description": "Odailyの報道によると、スポットンチェーンの監視によれば、クジラ0xc6b（HashKey Capital関連）は再びBinanceとOKXから8,365ETH（1,970万米ドル）を引き出し、平均価格は2,358米ドルであった。過去5日間で、クジラはUSDTとUSDCで1億2,020万ドルをBinanceとOKXに入金しました。このクジラはこれまでに 25,203 ETH (5,780 万ドル、平均価格 2,295 ドル) を引き出しており、さらに引き出し続ける可能性があります。予想利益は168万ドル（＋2.9％）。",
+          "link": "https://www.odaily.news/ja/newsflash/345588",
+          "publishedOn": "2023-12-09T04:25:19.000Z",
+          "wordCount": 1747,
+          "title": "HashKey Capital関連のアドレスがBinanceとOKXから再び8,365ETHを引き出した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345587",
+          "author": null,
+          "description": "Odailyは、Scopescanの監視によると、11時間前にクジラ「0x83」がBinanceから3,297ETH（774万ドル）を引き出し、Blastに入金したと報じた。わずか 1 週間で、クジラは 3,290 ETH と 1,202 STETH を入金し、現在では Blast で 5 番目に大きな入金者となっています。",
+          "link": "https://www.odaily.news/ja/newsflash/345587",
+          "publishedOn": "2023-12-09T04:20:07.000Z",
+          "wordCount": 1783,
+          "title": "クジラが Binance から 3,297 ETH を引き出し、Blast に入金しました。現在、Blast は 5 番目に大きな入金アドレスとなっています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345586",
+          "author": null,
+          "description": "Odaily News DappRadarが発表したレポートによると、仮想通貨市場全体の上昇傾向に伴い、11月のNFT取引高は10億米ドルに近づいた。レポートは、NFT業界が2か月連続で上昇の勢いを維持し、11月の取引量が125％急増したことを強調しており、NFT取引の低迷した初期と比較してユーザー行動の変化を示しています。取引量の増加に加えて、NFT取引の平均金額も114%増加し、11月の126ドルから270ドルに上昇しました。報告書はまた、Lianyouのデイリーユニークアクティブウォレット（UAW）の数が14％増加し、DAppsの34％を占めていると指摘した。さらに、2023 年の初めから 10 月までに、チェーン ゲーム プロジェクトは 23 億米ドルの投資と融資を受けることに成功しました。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/345586",
+          "publishedOn": "2023-12-09T04:17:48.000Z",
+          "wordCount": 1749,
+          "title": "レポート: 11月のNFT取引高は10億米ドルに近づき、前月比125%増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191517",
+          "author": null,
+          "description": "Ordinals プロトコルは、これまで実装されたことのない新機能を BTC に導入します。BTC の基礎となるテクノロジーが開発を続けるにつれて、新しい機能により碑文がより効率的、安全、多用途になることが期待されます。",
+          "link": "https://www.odaily.news/ja/post/5191517",
+          "publishedOn": "2023-12-09T04:00:00.000Z",
+          "wordCount": 2328,
+          "title": "veDAO Research Institute: Ordinals エコシステムにおけるさまざまな機能プラットフォームの新たな展望を探る記事",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345585",
+          "author": null,
+          "description": "Odaily は、オンチェーン アナリスト @ai_9684xtpa のモニタリングによると、8 時間前に DWF Labs が 193 万米ドル相当の 250 万 AXL を受け取ったと報じました。",
+          "link": "https://www.odaily.news/ja/newsflash/345585",
+          "publishedOn": "2023-12-09T03:59:30.000Z",
+          "wordCount": 1781,
+          "title": "DWF Labs は 8 時間前に 250 万 AXL を受け取りました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345584",
+          "author": null,
+          "description": "デイリーニュース 英国の国家監査局（NAO）は、仮想通貨規制への取り組みが遅いことと、仮想通貨の専門知識を持つ職員が不足していることを理由に、同国の金融行為監視機構（FCA）を批判した。公共支出の精査を担当する独立機関であるNAOの最近の報告書は、FCAの規制効果を妨げる可能性がある不確実性の領域として暗号資産の潜在的な影響を強調した。 FCAは2020年1月にデジタル資産企業にマネーロンダリング防止規制の順守を強制し、未登録企業への対応を始めたが、仮想通貨ATMの違法運営者に対する強制措置を取るまでには2023年2月までかかった。これにより、仮想通貨業界内のリスクに効果的に対処する FCA の能力に対する懸念が生じています。 (ビットコイン主義者)",
+          "link": "https://www.odaily.news/ja/newsflash/345584",
+          "publishedOn": "2023-12-09T03:57:54.000Z",
+          "wordCount": 1740,
+          "title": "英国FCA、暗号化施行の遅さと専門外の人員配置で批判を集める",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345583",
+          "author": null,
+          "description": "Odaily News X ユーザーの Spreek によると、350 万 USDT を保有し、数百件の取引を行ったウォレット アドレスが、過去数日間でブラックリストに登録されました。オンチェーン探偵の ZachXBT は、このウォレットは OTC 取引所または OTC サービスのように見えるとコメントしました。彼らは最近 Thorchain から USDT を受け取り、実際に北朝鮮のハッカーに関連した Stake ハッキングからも資金を受け取りました。",
+          "link": "https://www.odaily.news/ja/newsflash/345583",
+          "publishedOn": "2023-12-09T03:46:50.000Z",
+          "wordCount": 1778,
+          "title": "350万USDTを保有するウォレットがブラックリストに掲載されているか、北朝鮮のハッカーに関連している可能性がある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345582",
+          "author": null,
+          "description": "Odaily News ビットコインの半減期は、来年4月に鉱山会社の間で「適者生存」の戦いを引き起こす可能性がある。これに応じて、大企業はより効率的な新しいマイニングマシンを購入していますが、小規模なマイナーを買い占めることも検討しているかもしれません。コンピューティング能力で最大の上場マイナーであるマラソン・デジタル（MARA）は今週、同社が8億ドル以上の現金とビットコインを保有しており、半減期に先立って「業界統合を含む戦略的機会を活用する」ことを目指すと述べた。ファンド; ハット 8 (HUT) は米国ビットコインとの全株式合併を完了したばかり; クリーンスパーク (CLSK) は弱気相場の開始以来、安価な資産を集めており、「今あるものを活用するための準備金は 1 億 7,000 万ドル近くある」と述べた半減はチャンスをもたらすかもしれない」; ライオット プラットフォームズ (RIOT) は最近、競合他社に先んじるために 66,560 台の新しいマイニング リグを 2 億 9,050 万ドルで発注しました。さらに、鉱業コンサルティング会社ブロックスブリッジは、今年これまでに十数社の上場鉱業会社がマイニングマシンの購入に12億米ドル以上の投資を約束し、過去2か月で約7億5,000万米ドルの契約が締結されたと述べた。 。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/345582",
+          "publishedOn": "2023-12-09T03:38:00.000Z",
+          "wordCount": 1788,
+          "title": "今年これまでのところ、十数社の鉱山会社がマイニングマシンの購入に12億米ドル以上の投資を計画しており、過去2か月で約7億5,000万米ドルの契約が締結されている。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345581",
+          "author": null,
+          "description": "Odaily News Jito による JTO トークンの立ち上げは、直接の競合企業である Marinade を含む、Solana (SOL) エコシステム内のいくつかのプロジェクトを後押ししています。今週、マリネードガバナンストークンMNDEは一時0.6ドルを超え、FDVは5億ドルに達しました（Jito FDVは35億ドル）。 (CoinDesk) 本稿執筆時点で、CoinGeckoのデータによると、MNDEは現在0.465647ドルで取引されており、24時間の下落率は13.2%となっています。",
+          "link": "https://www.odaily.news/ja/newsflash/345581",
+          "publishedOn": "2023-12-09T03:27:00.000Z",
+          "wordCount": 1760,
+          "title": "JTOの立ち上げの影響を受け、ソラナ・エコロジカル・マリネード・ガバナンス・トークンMNDEは今週一時0.6米ドルを超えた",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345580",
           "author": null,
@@ -8314,16 +8419,6 @@
           "publishedOn": "2023-12-04T18:55:11.000Z",
           "wordCount": 1691,
           "title": "ORDIは一時47 USDTを超え、引き続き新高値を更新し、24時間で42％以上上昇しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/344943",
-          "author": null,
-          "description": "デイリーニュース関係者によるとこの出版物には、1917 年以来、Forbes は起業家と成功のサポートの最前線に立ち続けており、ForbesWeb3 は他のコミュニティとは異なり、Web3 実践者のためのネットワークを育成し、次の章の執筆を支援する強化されたメリットと機会を提供していると述べられています。",
-          "link": "https://www.odaily.news/ja/newsflash/344943",
-          "publishedOn": "2023-12-04T16:00:08.000Z",
-          "wordCount": 1700,
-          "title": "Forbes が Web3 エクスペリエンスとコミュニティ ハブを開始 ForbesWeb3",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
