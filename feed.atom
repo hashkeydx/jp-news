@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-09T22:24:50.529Z</updated>
+    <updated>2023-12-09T23:21:16.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エルサルバドル、「Freedom VISA」で年間10億ドルのビットコイン投資を狙う]]></title>
+        <id>https://www.coindeskjapan.com/?p=211562</id>
+        <link href="https://www.coindeskjapan.com/211562/"/>
+        <updated>2023-12-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エルサルバドルは、ビットコイン（BTC）と暗号資産富豪をターゲットに、同国に長期滞在者を呼び込もうと最新の取り組みを進めている。 同国は12月7日に「Freed ...
+エルサルバドル、「Freedom VISA」で年間10億ドルのビットコイン投資を狙う first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「サトシ時代」の1000BTCが移動／機関投資家はアルトコインを無視【Weekly Review：12/2〜12/8】]]></title>
         <id>https://www.coindeskjapan.com/?p=211609</id>
@@ -7570,127 +7581,6 @@ Web3に株式市場を通して投資する方法【米国版】 first appeared 
         <summary type="html"><![CDATA[Odaily の公式ニュースによると、TokenFi は、TokenFi ステーキングが 2023 年 12 月 8 日にイーサリアムおよび BNB チェーンのメインネットで開始されると発表しました。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSea: 特定の NFT ファミリに影響を与えるセキュリティの脆弱性についてサードウェブと連絡中]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345053</id>
-        <link href="https://www.odaily.news/ja/newsflash/345053"/>
-        <updated>2023-12-05T11:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News OpenSeaは、特定のNFTシリーズに影響を与えるセキュリティの脆弱性に関してWeb3開発者プラットフォームのThirdwebと連絡を取っていると述べたXプラットフォームに関する文書を発行した。チームは、影響を受けるシリーズ所有者が契約の移行に関連する OpenSea への変更に対処できるよう支援します。さらなる情報をお待ちください。本日、Thirdweb は X プラットフォームに、北京時間 11 月 21 日 10:00 に Web3 業界で一般的に使用されているオープンソース ライブラリのセキュリティ脆弱性をチームが発見したと投稿しました。これは、Thirdweb の事前構築されたスマート コントラクトの一部を含む、Web3 エコシステム内のさまざまなスマート コントラクトに影響します。現在までの調査によると、この脆弱性はまだ ThirdWeb スマート コントラクトでは悪用されていません。ただし、スマート コントラクトの所有者は、11 月 23 日の北京時間 11 時までに、ThirdWeb で作成された特定の事前構築コントラクトに対して緩和措置を講じる必要があります。影響を受ける構築済みコントラクトには、DropERC20、ERC721、ERC1155 (すべてのバージョン)、および AirdropERC20 が含まれますが、これらに限定されません。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインが4万ドルを突破、その原動力は何でしょうか？]]></title>
-        <id>https://www.odaily.news/ja/post/5191469</id>
-        <link href="https://www.odaily.news/ja/post/5191469"/>
-        <updated>2023-12-05T11:11:28.000Z</updated>
-        <summary type="html"><![CDATA[この急増の直接的な原因はありませんが、この勢いは過去 1 か月間、おそらく 2023 年を通じて徐々に高まっています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近人気のOrdinals Launchpad「TurtSat」について学ぶ記事]]></title>
-        <id>https://www.odaily.news/ja/post/5191466</id>
-        <link href="https://www.odaily.news/ja/post/5191466"/>
-        <updated>2023-12-05T11:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Ordinals エコシステムの Gitcoin になることを目指しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインエコシステムにおける最初の流動性プールが立ち上げられ、インフラストラクチャが徐々に完成しつつあります。]]></title>
-        <id>https://www.odaily.news/ja/post/5191455</id>
-        <link href="https://www.odaily.news/ja/post/5191455"/>
-        <updated>2023-12-05T11:05:47.000Z</updated>
-        <summary type="html"><![CDATA[BTCエコシステムは次にどこへ向かうのでしょうか？]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 か月前に BIGTIME でポジションをオープンした大規模アカウントのアドレスは、314 万トークンを Coinbase に入金し、収益率は 373% でした。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345052</id>
-        <link href="https://www.odaily.news/ja/newsflash/345052"/>
-        <updated>2023-12-05T11:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News オンチェーンアナリスト @ai_9684xtpa によるモニタリングによると、1 か月前に BIGTIME でポジションをオープンした大口口座アドレスは、ちょうど 314 万トークンを Coinbase に入金したところです。転送コストはわずか 0.16 米ドルです。すべて売却すれば利益は得られます総額は 188 万ドルとなり、還元率は最大 373% となります。開始アドレス: 0x91A22fAFE26856F99C33ffeA72a9EA25B60567C2、配送先アドレス: 0x4B1C0846AAD94C0157631F3b814ecc7383288AbC。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DePIN の詳細: 分散型ハードウェアと新しいデータ エコノミーの融合]]></title>
-        <id>https://www.odaily.news/ja/post/5191462</id>
-        <link href="https://www.odaily.news/ja/post/5191462"/>
-        <updated>2023-12-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[長期的には、DePIN は「現実世界」における「web3」の採用におけるターニングポイントとなる可能性があります。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFiネットワーク全体のロックアップ量は10月13日以来150億米ドル増加]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345051</id>
-        <link href="https://www.odaily.news/ja/newsflash/345051"/>
-        <updated>2023-12-05T10:58:06.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News DefiLlamaのデータによると、DeFiネットワークロックアップ量（TVL）が最近6か月ぶりに500億米ドルに達し、10月13日以来150億米ドル増加した。最新のデータによると、DeFi TVLは494億3,200万ドルです。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「事業者向けのNFT活用法とは？」web3メディア経営者2名が動画解説｜WebX STUDIO]]></title>
-        <id>https://coinpost.jp/?p=495737</id>
-        <link href="https://coinpost.jp/?p=495737"/>
-        <updated>2023-12-05T10:46:54.000Z</updated>
-        <summary type="html"><![CDATA[動画コンテンツ紹介新たにリブランディングした「WebXSTUDIO（旧：CONNECTV）」。「WebXSTUDIO」第三弾では、CoinPost代表の各務貴仁と、あたらしい経済編集長の設楽悠介が、主に事業者向けのNFT（非代替性トークン）...]]></summary>
-        <author>
-            <name>CONNECTV 編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMEビットコイン先物における資産運用会社のロングポジションはヘッジファンドのショートポジションとほぼ一致]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345050</id>
-        <link href="https://www.odaily.news/ja/newsflash/345050"/>
-        <updated>2023-12-05T10:42:34.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News The Blockのデータによると、CMEビットコイン先物の大口建玉保有者（LOIH）は11月28日から12月5日までに131人に達し、これは歴史的な高水準（137人）よりわずかに低い。 LOIH は、少なくとも 25 のオープン契約 (>125 BTC) を保有するトレーダーを指します。資産運用会社のビットコイン先物における買い越しポジションは約20億ドルであり、同時にヘッジファンドの売りポジションもほぼ同額であることは言及に値します。 (CryptoSlate) Coinglass のデータによると、ネットワーク全体の BTC 契約保有総額は 191 億 9,800 万米ドルに達し、24 時間で 1.83% 減少しました。このうちCMEは48億8,800万米ドルで第1位となった。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/5話題】キャプテン翼 -RIVALS-がフェンブシキャピタルと提携、仏ソシエテがイーサ上でユーロ建てグリーンボンドなど]]></title>
-        <id>https://www.neweconomy.jp/?p=356788</id>
-        <link href="https://www.neweconomy.jp/posts/356788"/>
-        <updated>2023-12-05T10:39:55.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Ventures 調査レポート: ステーブルコインの発展パターンと将来の方向性を 1 つの記事で理解する]]></title>
-        <id>https://www.odaily.news/ja/post/5191461</id>
-        <link href="https://www.odaily.news/ja/post/5191461"/>
-        <updated>2023-12-05T10:31:36.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインは、暗号通貨市場の混乱の中でも顕著な回復力を示しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース株の上昇はまだ続く──チャートアナリストが指摘]]></title>
-        <id>https://www.coindeskjapan.com/?p=210984</id>
-        <link href="https://www.coindeskjapan.com/210984/"/>
-        <updated>2023-12-05T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場の暗号資産（仮想通貨）取引所コインベース（Coinbase）の株価は今年300％近く急騰し、最大の暗号資産であるビットコイン（BTC）を大きく上回 ...
-コインベース株の上昇はまだ続く──チャートアナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
