@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-10T16:27:50.481Z</updated>
+    <updated>2023-12-10T17:23:04.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金星: コアプールとXVSには問題はありませんが、攻撃の理由はBinanceオラクルの価格問題です。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/345701</id>
+        <link href="https://www.odaily.news/ja/newsflash/345701"/>
+        <updated>2023-12-10T16:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Venus Protocolの関係者はTelegram上でVenusが攻撃された問題について、「コアプールとXVSには問題はない。攻撃の理由はBinanceオラクルの価格問題と、小規模なBNBの価格問題である」と答えた。独立したプールです。snBNB チームが現在対応中です。この問題の原因は特定され、Binance Oracle に報告されました。」]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ユーザーはVenusに0.5BNBを入金し、116 ETH以上の資産を貸し出し、譲渡しました。]]></title>
         <id>https://www.odaily.news/ja/newsflash/345700</id>
@@ -6884,146 +6894,6 @@ BONKがDOGE、SHIBに次ぐ第3位の犬トークンに浮上 first appeared on 
         <summary type="html"><![CDATA[Odaily News 公式ニュースによると、AptosのエコロジーNFT取引プラットフォームSouffl3は、BTC市場が正式に開始されたと発表しました。そのプラットフォームの最初のバージョンは現在、ARC-20 トランザクションをサポートしており、Atomics のエコロジー DMINT シリーズをサポートする予定です。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upbit、CosmosネットワークのアップグレードによりATOMの入出金を一時停止]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345159</id>
-        <link href="https://www.odaily.news/ja/newsflash/345159"/>
-        <updated>2023-12-06T05:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Upbitは、Cosmosネットワークのアップグレードに伴いATOMの入出金を一時停止しており、現地時間12月13日18時にATOMネットワークのアップグレードが安定していることを確認した上で、ATOMの入出金を再開すると発表しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zellic は、資金の盗難につながる可能性のある Astar の脆弱性を公開しましたが、この脆弱性は現在修正されています。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345158</id>
-        <link href="https://www.odaily.news/ja/newsflash/345158"/>
-        <updated>2023-12-06T05:19:28.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Web3 監査会社 Zellic は、今年 11 月に Zellic のセキュリティ研究者が、悪意のある攻撃者が約 40 万ドル相当のトークンを盗むために利用できる脆弱性を Astar に発見したと声明を発表しました。この脆弱性により、攻撃者は Astar EVM に展開された特定の種類のスマート コントラクトから大量の資金を盗むことができます。セキュリティ研究者のフェイス氏は、研究者 vakzz 氏とともに、盗難の危険にさらされている資金の額を特定し、その後、Immunefi に関する Astar Network バグ報奨金プログラムに報告書を提出しました。その後この脆弱性は修正され、Zellic は報奨金として 50,000 ドル相当の ASTR トークンを受け取りました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ムーディーズ・アナリティクス：大手資産運用会社、スポットETFの発売に先立ってBTCをさらに購入する準備ができている]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345156</id>
-        <link href="https://www.odaily.news/ja/newsflash/345156"/>
-        <updated>2023-12-06T05:08:56.000Z</updated>
-        <summary type="html"><![CDATA[オデイリーニュース ムーディーズ・アナリティクスのシニアディレクター、ヤニス・ギオカス氏は、最近のビットコイン価格高騰の最大の原動力は、来年1月にSECによって承認される予定のビットコインスポットETFの申請件数の増加かもしれないと述べた。これらの投資手段の立ち上げ競争は激化しており、大手資産運用会社はビットコインスポットETFの立ち上げに先立ち、ETFを個人投資家や機関投資家に提供するためにさらにBTCを購入する用意ができている。 (Bitcoin.com)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インタラクティブ ガイド: Ordi に加えて、ビットコイン エコシステムで他の人気アイテムを購入するにはどうすればよいですか?]]></title>
-        <id>https://www.odaily.news/ja/post/5191485</id>
-        <link href="https://www.odaily.news/ja/post/5191485"/>
-        <updated>2023-12-06T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[次のウェルスコードを掴む]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、グレイスケールの現物イーサリアムETFの承認判断を延期]]></title>
-        <id>https://www.neweconomy.jp/?p=357052</id>
-        <link href="https://www.neweconomy.jp/posts/357052"/>
-        <updated>2023-12-06T04:57:33.000Z</updated>
-        <summary type="html"><![CDATA[45日間の延期へ 米証券取引委員会（SEC）が、暗号資産（仮想通貨）運用会社グレイスケール・インベストメンツ（Grayscale Investments）申請中のイーサリアム（Ethereum）の現物によるETF（上場投 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマート マネー アドレスは過去 24 時間で 149,900 AGRS を販売しました]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345154</id>
-        <link href="https://www.odaily.news/ja/newsflash/345154"/>
-        <updated>2023-12-06T04:56:47.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、The Data Nerd のモニタリングによると、AGRS トークンが 400% 上昇して 8.3 ドルになったため、0xa0f で始まるスマート マネー アドレスが過去 24 時間で合計 149,900 AGRS (約 100 万ドル) を販売したと報告しました。 6 日前、彼は平均価格 3.23 ドルで 310,000 AGRS (約 100 万ドル) を貯め込み、総利益は 123 万ドルと推定され、そのうち未実現利益は 719,000 ドルに達しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardano Foundation は、投票ツール Cardano Ballot のコードをオープンソース化しました]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345153</id>
-        <link href="https://www.odaily.news/ja/newsflash/345153"/>
-        <updated>2023-12-06T04:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Cardano Foundationは、投票ツールCardano Ballotのコードがオープンソースになったと発表した。 Cardano Ballot は引き続き無料のユーザーベースの投票サービスを提供し、誓約ベースの投票活動のサポートも追加します。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[opBNBブリッジがOKX Web3ウォレットに接続します]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345152</id>
-        <link href="https://www.odaily.news/ja/newsflash/345152"/>
-        <updated>2023-12-06T04:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Odaily の公式 Web サイトによると、opBNB Bridge は OKX Web3 ウォレットに接続されました。ユーザーは、OKX Web3 ウォレットを介して opBNB Bridge 上のアセットをクロスチェーンし、BNB チェーン (オリジナルの BSC チェーン) アセットを opBNB に転送できます。 opBNB は OP スタック技術スタックから修正された高性能 2 層ソリューションであり、BSC チェーン上で動作すると報告されており、ユーザーに高い TPS と低いガス ソリューションを提供することを目的としています。opBNB ブリッジはその公式クロスチェーン ブリッジです。 OKX Web3 ウォレットは、現在 80 以上のパブリック チェーンをサポートするワンストップ Web3 ポータルであると報告されており、アプリ、プラグイン、Web ページが統合されており、ウォレット、DEX、DeFi、NFT 市場、DApp 探索、 Ordinals マーケット、MPC および AA スマート コントラクト ウォレット、ガス交換、ハードウェア ウォレットの接続などをサポートします。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインコア開発者：脆弱性修正後は序数とBRC-20が消える、「Inscription Chain」が実現可能な解決策]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345151</id>
-        <link href="https://www.odaily.news/ja/newsflash/345151"/>
-        <updated>2023-12-06T04:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Odaily Newsのネチズンは、「碑文を継続したい場合、より環境に優しい方法は、イーサリアムのレイヤー2に似た『碑文チェーン』を作成することです。このチェーンを実行するには、定期的にハッシュルートをビットコインに送信するだけで済みます。そうですか？」 「ビットコインコア開発者のルーク・ダッシュジュニア氏はこう答えた。「はい、それはうまくいきます。そうすれば、ブロックサイズ制限を設ける必要すらなくなり、各ノードが独自の制限値を設定できる（または制限をまったく設定しない）ことができます。」以前のニュースでは、Bitcoin Core 開発者 Luke Dashjr 氏が Core に投稿したところ、ユーザーはトランザクションのリレーやマイニング時に追加のデータ サイズ制限を設定できるようになり、プログラム コードにデータを隠すことでこの制限を回避できました。この脆弱性は最近 Bitcoin Knots V25.1 で修正されました。 . 年末にワークフローが大幅に中断され (V24 が完全にスキップされました)、修正に通常よりも時間がかかりました。ビットコイン コアは、今後の V26 リリースでも依然として脆弱です。来年までに最終化されることを祈るばかりです。 V27 は修正されました。」ネチズンのコメントに応えて、Luke Dashjr 氏は、脆弱性が修正された後は、Ordinals と BRC-20 が存在しなくなることを意味すると述べました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWA プラットフォーム CycleX は AI テクノロジーを組み合わせてトークン化された取引シナリオを再構築します]]></title>
-        <id>https://www.odaily.news/ja/post/5191484</id>
-        <link href="https://www.odaily.news/ja/post/5191484"/>
-        <updated>2023-12-06T04:43:29.000Z</updated>
-        <summary type="html"><![CDATA[CycleX は、従来の資産所有者や世界中の投資家に新しいプラットフォームを提供し、これまでアクセスできなかった高価値資産の投資と流通を容易にすることに取り組んでいます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コサイン氏: Luke Dashjr が提起したビットコインコアの脆弱性にパッチを適用する必要はない]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345150</id>
-        <link href="https://www.odaily.news/ja/newsflash/345150"/>
-        <updated>2023-12-06T04:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Slow Mist 創設者の Yu Xian 氏が「ビットコインの脆弱性はスパム攻撃である。個人的には修正する必要はないと思う。Taproot の導入 (良いこと) とこの魔法の箱を誤って開いた場合の影響は」に投稿しました。スパムの山だけでなく、ビットコイン エコシステムの活動も考慮されます。このエコシステムはシリアル番号/刻印だけに関するものではありません。もちろん、これが修正されれば、ビットコイン エコシステムをよりオープンにするための互換性ソリューションが存在する可能性があります。長期的な痛みは短期的な痛みよりも悪いです。」 前のニュース、ビットコイン コア開発者 Luke Dashjr の追加のデータ サイズ制限に関する投稿。そのデータをプログラム コードに隠すことで、Inscription はこの制限を回避します。この脆弱性は最近修正されました。 Bitcoin Knots V25.1 では、昨年末の影響でワークフローが大幅に中断され (V24 は完全にスキップされていました)、修正に通常よりも時間がかかっています。ビットコイン コアは、次期 V26 バージョンでもまだ脆弱です。それを祈ることしかできません。最終的には来年の V27 までに修正される予定です。」]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kラインは急上昇しており、マーケットメーカーは損失を出している可能性があるのに、なぜユーロの安定通貨AEURは200%以上も上昇しているのでしょうか?]]></title>
-        <id>https://www.odaily.news/ja/post/5191483</id>
-        <link href="https://www.odaily.news/ja/post/5191483"/>
-        <updated>2023-12-06T04:31:47.000Z</updated>
-        <summary type="html"><![CDATA[このKラインはかなりリズミカルですね…。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AnkrはMatter Labsと協力して、テストネットワーク上のサービスとしてzkSyncスーパーチェーンRollupを開始します]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345149</id>
-        <link href="https://www.odaily.news/ja/newsflash/345149"/>
-        <updated>2023-12-06T04:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Web3 インフラストラクチャ プロバイダーの Ankr は、Matter Labs と提携して、ZK Stack を使用して構築された zkSync Hyperchains (ハイパーチェーン) の Rollup as a Service (RaaS) サポートを開始しました。これにより、開発者は分散型アプリケーション向けにスケーラブルで安全な独立したレイヤー 2 チェーンをカスタマイズして展開することが容易になると Ankr 氏は述べています。 Ankr の顧客は、RaaS を使用して特定のユースケースに対応する特殊なブロックチェーンを作成できるようになり、現在はテスト ネットワーク環境に限定されているハイパーチェーンを展開する機能も備えています。 （ブロック）]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ふるさと納税でNFT採用が進行、JPYCは記念SBTで地域振興を図る]]></title>
-        <id>https://coinpost.jp/?p=496502</id>
-        <link href="https://coinpost.jp/?p=496502"/>
-        <updated>2023-12-06T04:30:20.000Z</updated>
-        <summary type="html"><![CDATA[日本各地の自治体がふるさと納税の返礼品としてNFTを導入する新しい動向を紹介。JPYC商品券の活用や、海陽町、高松市、岸和田市の先進的な取り組みを探り、デジタル技術を駆使した地域活性化の可能性を探る。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
