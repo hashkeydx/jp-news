@@ -1202,6 +1202,56 @@
       "siteUrl": "https://www.odaily.news",
       "articles": [
         {
+          "id": "https://www.odaily.news/ja/newsflash/345672",
+          "author": null,
+          "description": "Odaily News Slow Mist の創設者 Yu Xian がアプリケーションに投稿しました。私たちはこのことにあまり注目していません...しかしおそらくビットコイン エコシステムに関係する人々はこれを評価するでしょう。結局のところ、CVE 番号は最も優れたものの 1 つです。セキュリティ業界における既知の脆弱性の証拠。」 以前のニュース、ビットコイン コア クライアント開発者のルーク ダッシュジュニア氏は、Inscription によって悪用されたビットコイン コア クライアントの脆弱性には識別子 CVE-2023-50428 が割り当てられたと述べました。",
+          "link": "https://www.odaily.news/ja/newsflash/345672",
+          "publishedOn": "2023-12-10T05:10:34.000Z",
+          "wordCount": 1720,
+          "title": "コサイン氏: CVE 番号が割り当てられている碑文の問題は新しいものではありませんが、ビットコインのエコシステムに関連する関係者によって真剣に受け止められる可能性があります。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345671",
+          "author": null,
+          "description": "Odaily News X ポストで Ouroboros Capital によって公開されたコミュニティ メッセージのスクリーンショットによると。 Sam は以前、Fraxchain は Frax Finance 専用に設計されたアプリケーション チェーンではなく、汎用のロールアップになると述べましたが、Fraxchain にはあらゆる種類のアプリケーションをデプロイできます。 FXS は Fraxchain のガバナンス トークンおよび株式となり、ネットワーク ソーターの収益を共有することができ、将来の更新後にソーターの分散メカニズムを規制するために使用することもできます。",
+          "link": "https://www.odaily.news/ja/newsflash/345671",
+          "publishedOn": "2023-12-10T05:05:08.000Z",
+          "wordCount": 1713,
+          "title": "Frax創設者：エアドロップの可能性は完全には排除されない",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345670",
+          "author": null,
+          "description": "Odailyは、オンチェーンアナリスト@ai_9684xtpaの監視によると、過去24時間にMKRクジラがLido誓約契約から35,000ETH（8,263万米ドル相当）を引き出し、その後使用目的不明でDSProxy契約に預けたと報告しました。このクジラの資産は最大 6 億 2,000 万米ドルで、現在 28,000 MKR を保有しており、個人 MKR 保有者の中で 3 位にランクされており、平均コストは 689 米ドル、現在の変動利益は 2,133 万米ドルです。",
+          "link": "https://www.odaily.news/ja/newsflash/345670",
+          "publishedOn": "2023-12-10T04:41:10.000Z",
+          "wordCount": 1711,
+          "title": "MKRの3番目に大きな個人保有者は、過去24時間にLidoステーキングプロトコルから35,000 ETHを引き出しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345669",
+          "author": null,
+          "description": "Odaily News OKXは公式に声明を発表した。",
+          "link": "https://www.odaily.news/ja/newsflash/345669",
+          "publishedOn": "2023-12-10T04:37:13.000Z",
+          "wordCount": 1702,
+          "title": "OKX Web3 ウォレットのアセット表示がスタックしているため、チームが修正中です",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191578",
+          "author": null,
+          "description": "ビットコインスポットETFの登場は避けられない。",
+          "link": "https://www.odaily.news/ja/post/5191578",
+          "publishedOn": "2023-12-10T04:30:00.000Z",
+          "wordCount": 1991,
+          "title": "PSE取引：ビットコインスポットETFの本質、影響、展望",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
           "id": "https://www.odaily.news/ja/newsflash/345668",
           "author": null,
           "description": "Odaily News Ouyi OKX 市場によると、OKT は 31 USDT を突破した後反落し、一時 26.92 USDT で取引され、24 時間で 86.04% 上昇しました。",
@@ -7379,26 +7429,6 @@
           "publishedOn": "2023-12-05T17:28:21.000Z",
           "wordCount": 1699,
           "title": "過去 24 時間でネットワーク全体の清算額は 2 億米ドルを超え、空売り注文により 1 億 2,400 万米ドルが清算されました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345096",
-          "author": null,
-          "description": "Odaily News OKX市場は、BTCが43,000 USDTを超え、現在4,3085 USDTで取引されており、24時間で3.6％上昇していることを示しています。",
-          "link": "https://www.odaily.news/ja/newsflash/345096",
-          "publishedOn": "2023-12-05T17:14:13.000Z",
-          "wordCount": 1739,
-          "title": "BTCは43,000 USDTを超え、24時間で3.6%増加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345095",
-          "author": null,
-          "description": "Odaily は、Lookonchain の監視によると、Hashkey に関連するウォレット アドレスが本日、Binance と OKX から 9,000 ETH (約 2,000 万米ドル) を引き出したと報じました。 Lookonchainによると、このウォレットはHashkeyと同じ入金アドレスを使用しており、Hashkeyに属している可能性があるという。",
-          "link": "https://www.odaily.news/ja/newsflash/345095",
-          "publishedOn": "2023-12-05T16:45:26.000Z",
-          "wordCount": 1786,
-          "title": "Lookonchain: 疑わしいハッシュキー アドレスが CEX から 9,000 ETH (約 2,000 万米ドルに相当) を引き出した",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]

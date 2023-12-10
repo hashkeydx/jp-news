@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-10T04:26:48.758Z</updated>
+    <updated>2023-12-10T05:25:05.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コサイン氏: CVE 番号が割り当てられている碑文の問題は新しいものではありませんが、ビットコインのエコシステムに関連する関係者によって真剣に受け止められる可能性があります。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/345672</id>
+        <link href="https://www.odaily.news/ja/newsflash/345672"/>
+        <updated>2023-12-10T05:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Slow Mist の創設者 Yu Xian がアプリケーションに投稿しました。私たちはこのことにあまり注目していません...しかしおそらくビットコイン エコシステムに関係する人々はこれを評価するでしょう。結局のところ、CVE 番号は最も優れたものの 1 つです。セキュリティ業界における既知の脆弱性の証拠。」 以前のニュース、ビットコイン コア クライアント開発者のルーク ダッシュジュニア氏は、Inscription によって悪用されたビットコイン コア クライアントの脆弱性には識別子 CVE-2023-50428 が割り当てられたと述べました。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frax創設者：エアドロップの可能性は完全には排除されない]]></title>
+        <id>https://www.odaily.news/ja/newsflash/345671</id>
+        <link href="https://www.odaily.news/ja/newsflash/345671"/>
+        <updated>2023-12-10T05:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News X ポストで Ouroboros Capital によって公開されたコミュニティ メッセージのスクリーンショットによると。 Sam は以前、Fraxchain は Frax Finance 専用に設計されたアプリケーション チェーンではなく、汎用のロールアップになると述べましたが、Fraxchain にはあらゆる種類のアプリケーションをデプロイできます。 FXS は Fraxchain のガバナンス トークンおよび株式となり、ネットワーク ソーターの収益を共有することができ、将来の更新後にソーターの分散メカニズムを規制するために使用することもできます。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MKRの3番目に大きな個人保有者は、過去24時間にLidoステーキングプロトコルから35,000 ETHを引き出しました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/345670</id>
+        <link href="https://www.odaily.news/ja/newsflash/345670"/>
+        <updated>2023-12-10T04:41:10.000Z</updated>
+        <summary type="html"><![CDATA[Odailyは、オンチェーンアナリスト@ai_9684xtpaの監視によると、過去24時間にMKRクジラがLido誓約契約から35,000ETH（8,263万米ドル相当）を引き出し、その後使用目的不明でDSProxy契約に預けたと報告しました。このクジラの資産は最大 6 億 2,000 万米ドルで、現在 28,000 MKR を保有しており、個人 MKR 保有者の中で 3 位にランクされており、平均コストは 689 米ドル、現在の変動利益は 2,133 万米ドルです。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Web3 ウォレットのアセット表示がスタックしているため、チームが修正中です]]></title>
+        <id>https://www.odaily.news/ja/newsflash/345669</id>
+        <link href="https://www.odaily.news/ja/newsflash/345669"/>
+        <updated>2023-12-10T04:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News OKXは公式に声明を発表した。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSE取引：ビットコインスポットETFの本質、影響、展望]]></title>
+        <id>https://www.odaily.news/ja/post/5191578</id>
+        <link href="https://www.odaily.news/ja/post/5191578"/>
+        <updated>2023-12-10T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインスポットETFの登場は避けられない。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKTは31USDTを突破した後に反落し、24時間で86.04%上昇した]]></title>
         <id>https://www.odaily.news/ja/newsflash/345668</id>
@@ -7450,26 +7500,6 @@ Web3に株式市場を通して投資する方法【米国版】 first appeared 
         <link href="https://www.odaily.news/ja/newsflash/345098"/>
         <updated>2023-12-05T17:28:21.000Z</updated>
         <summary type="html"><![CDATA[オデイリー紙の報道によると、コイングラスのデータによると、ネットワーク全体が過去24時間に2億米ドルを清算し、その内訳は空売り注文が1億2,400万米ドル、買い注文が7,617万米ドルとなっている。通貨統計によると、BTCの清算額は6,143万ドル、ETHの清算額は2,793万ドルでした。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは43,000 USDTを超え、24時間で3.6%増加]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345096</id>
-        <link href="https://www.odaily.news/ja/newsflash/345096"/>
-        <updated>2023-12-05T17:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News OKX市場は、BTCが43,000 USDTを超え、現在4,3085 USDTで取引されており、24時間で3.6％上昇していることを示しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lookonchain: 疑わしいハッシュキー アドレスが CEX から 9,000 ETH (約 2,000 万米ドルに相当) を引き出した]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345095</id>
-        <link href="https://www.odaily.news/ja/newsflash/345095"/>
-        <updated>2023-12-05T16:45:26.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、Lookonchain の監視によると、Hashkey に関連するウォレット アドレスが本日、Binance と OKX から 9,000 ETH (約 2,000 万米ドル) を引き出したと報じました。 Lookonchainによると、このウォレットはHashkeyと同じ入金アドレスを使用しており、Hashkeyに属している可能性があるという。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
