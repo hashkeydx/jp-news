@@ -445,6 +445,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=496835",
+          "author": "A.Sakamoto",
+          "description": "650万円まで回復するもやや軟化傾向で推移する今週のビットコインチャートを図解。国内大手取引所bitbankのアナリストが今後の展望を読み解く。オンチェーンデータも掲載。",
+          "link": "https://coinpost.jp/?p=496835",
+          "publishedOn": "2023-12-10T02:30:50.000Z",
+          "wordCount": 1891,
+          "title": "今週のビットコイン650万円まで高騰も、値幅調整リスクには要警戒｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=497297",
           "author": "CoinPost編集部",
           "description": "今週は、Matrixport Researchの仮想通貨ビットコインの価格予想、米国におけるビットコイン現物ETFの動向、ビットコインの時価総額の上昇が最も関心を集めた。",
@@ -1186,6 +1201,46 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345663",
+          "author": null,
+          "description": "Odaily News Galaxy Digital CEOのMike Novogratz氏は、JPモルガン・チェースCEOのジェイミー・ダイモン氏のビットコインに対する見解が間違っていたことが証明されたと述べた。ノボグラッツ氏は「私の意見では、ジェイミー・ダイモンは何が価値があるのか​​を自分が知っており、他の誰も知らないと考えているが、それは非常に傲慢だ」と述べ、以前、ジェイミー・ダイモンはビットコインなどの仮想通貨が犯罪者に利用されていると批判し、もし自分が価値あるものであれば、と強調した。政府と彼は仮想通貨を禁止するだろう。 (Bitcoin.com)",
+          "link": "https://www.odaily.news/ja/newsflash/345663",
+          "publishedOn": "2023-12-10T03:13:20.000Z",
+          "wordCount": 1763,
+          "title": "ギャラクシーデジタルCEO、ビットコインに関するジェイミー・ダイモンの発言を「極端なまでに傲慢」と非難",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345662",
+          "author": null,
+          "description": "デイリーニュースのブラーデータによると、プッジーペンギンの最低価格は12ETHを超え、新高値を更新し続けており、現在は12.33ETHで取引されており、1日で15.23％上昇、7日間で45.74％上昇した。",
+          "link": "https://www.odaily.news/ja/newsflash/345662",
+          "publishedOn": "2023-12-10T02:51:03.000Z",
+          "wordCount": 1757,
+          "title": "プッジーペンギンの最低価格は12ETHを突破し、新高値を更新し続ける",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345661",
+          "author": null,
+          "description": "Odaily News 暗号化メディア Decrypt は、Web3 メディア Rug Radio と合併する意向書に署名し、両社はそれぞれのブランドと独立性を維持しながら、まだ名前は決まっていない新しい持株会社を設立するために合併する予定です。持ち株会社の会長には、現Decrypt CEOのJosh Quitner氏が就任する。ラグ・ラジオの現共同最高経営責任者ロクスリー・フェルナンデス氏と創設者ファロック・サルマド氏は、それぞれ新持ち株会社のCEOと社長に就任する。 Decrypt は、ブロックチェーン空間から長寿命や新興テクノロジー/人工知能などの新しい分野に拡大したいと考えています。新しい持ち株会社は、Arbitrum と独占的に協力する予定です。両社は独立して運営されますが、両社の事業開発を促進するために広告取引で協力する予定です。 Rug Radio には現在 12 人のフルタイム従業員がいますが、Decrypt には 22 人がいます。取引完了後も、全従業員は両社に残ります。幹部らは２０２４年初めに取引を完了することを目指しており、取引に規制当局の承認は必要ないと予想していると述べた。 (アクシオス)",
+          "link": "https://www.odaily.news/ja/newsflash/345661",
+          "publishedOn": "2023-12-10T02:44:51.000Z",
+          "wordCount": 1783,
+          "title": "DecryptとRug Radioが合併して新たな持株会社を設立する意向書に署名",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345660",
+          "author": null,
+          "description": "Odaily News Pudgy Penguins は、オンライン ゲーム プラットフォーム Pudgy World の立ち上げを計画しており、プラットフォームの初期バージョンは 2024 年 4 月までにリリースされ、プレーヤーに物語主導のオープンエンドのゲーム オプションを提供します。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/345660",
+          "publishedOn": "2023-12-10T02:34:57.000Z",
+          "wordCount": 1816,
+          "title": "Pudgy Penguins はオンライン ゲーム プラットフォームである Pudgy World の立ち上げを計画しており、初期バージョンは 2024 年 4 月までにリリースされる予定です。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345659",
           "author": null,
@@ -7304,56 +7359,6 @@
           "publishedOn": "2023-12-05T16:01:21.000Z",
           "wordCount": 1687,
           "title": "ORDIは60 USDTを突破し、史上最高値を更新し続けています",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345089",
-          "author": null,
-          "description": "Odaily News コスモスコミュニティは、「流動性ステーキングの拡大のためにpSTAKEに60万ATOMを割り当てる」という提案を可決し、支持率39.7%、反対率21.4%、棄権率38.7%で可決した。この提案は、pSTAKE 流動性ステーキングの成長に 600,000 ATOM を割り当てることを目的としており、pSTAKE は流動性ステーキング収益の 15% を Cosmos Hub と共有し、300,000 ATOM 流動性ステーキングに対する 5% のプロトコル手数料を免除します。",
-          "link": "https://www.odaily.news/ja/newsflash/345089",
-          "publishedOn": "2023-12-05T15:21:05.000Z",
-          "wordCount": 1768,
-          "title": "Cosmos コミュニティは、pSTAKE 流動性ステーキングの成長に 600,000 ATOM を割り当てることに投票",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345088",
-          "author": null,
-          "description": "Odaily のオラクル プロジェクト Pyth Network が開発した非営利団体 Pyth Data Association が資金調達を完了し、Castle Island Ventures、Multicoin Capital、Wintermute Ventures、Borderless Capital、CMT Digital、Bodhi Ventures、Distributed Global、Delphi Digital が出資に参加しました。 。 Pyth 開発者 Duoro Labs の CEO であり、Pyth Data Association のディレクターである Michael Cahill 氏は、すべての新しいパートナーが PYTH トークンの割り当てを受け取ったと述べました。このラウンドの資金調達により、Pyth コミュニティは分散型資本市場を推進する新たなステークホルダーや個人に拡大され、新たなステークホルダーは新たな資金源へのアクセスを増やし、ガバナンスやプロトコルの改善、戦略的ガイダンスに参加することでネットワークの成長を支援します。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/345088",
-          "publishedOn": "2023-12-05T15:16:44.000Z",
-          "wordCount": 1789,
-          "title": "Pyth Data Association、Castle Island Ventures などの参加を得て新たな資金調達ラウンドを完了",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345087",
-          "author": null,
-          "description": "オデイリー・ニュース・ブルームバーグのアナリスト、ジェームス・セイファート氏はこう語った。現在、スポットビットコイン ETF の潜在的な発行者は 13 社あります。",
-          "link": "https://www.odaily.news/ja/newsflash/345087",
-          "publishedOn": "2023-12-05T15:09:45.000Z",
-          "wordCount": 1740,
-          "title": "Pando Asset、19b-4文書をSECに提出し、米国スポットビットコインETF競争に正式に参加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345086",
-          "author": null,
-          "description": "Odaily News DeFiプラットフォームのCurvanceは、Arbitrum開発者のOffchain Labs、クロスチェーンメッセージングプラットフォームのWormhole、Polygonの共同創設者Sandeep Nailwalを含むエンジェル投資家などの投資家とともに、360万ドルのシードラウンドを完了した。仮想通貨プロジェクト Scroll、Mantle、Eigenlayer、GMX、Curve Finance、Convex Finance、Balancer、Aura Finance、Pendle Finance、および Frax Finance を含む DAO の中心的な貢献者。",
-          "link": "https://www.odaily.news/ja/newsflash/345086",
-          "publishedOn": "2023-12-05T15:03:50.000Z",
-          "wordCount": 1746,
-          "title": "DeFiプラットフォームCurvanceがシードラウンドで360万米ドルの資金調達を完了",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345085",
-          "author": null,
-          "description": "ゲーマー向けの分散型 ID スタートアップ プロジェクトである Odaily News CARV は、HashKey Capital と 1,000 億米ドルの世界的テクノロジー企業が投資に参加する戦略的資金調達の新たなラウンドを完了しました。",
-          "link": "https://www.odaily.news/ja/newsflash/345085",
-          "publishedOn": "2023-12-05T14:50:02.000Z",
-          "wordCount": 1747,
-          "title": "DIDスタートアッププロジェクトCARVがHashKey Capitalなどの参加を得て新たな戦略的資金調達ラウンドを完了",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
