@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-10T08:25:49.766Z</updated>
+    <updated>2023-12-10T09:20:28.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI と Web3 データ産業の統合の現状、競争環境、将来の機会に関する分析 (パート 2)]]></title>
+        <id>https://www.odaily.news/ja/post/5191478</id>
+        <link href="https://www.odaily.news/ja/post/5191478"/>
+        <updated>2023-12-10T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AIとWeb3の組み合わせは無限の可能性を生み出します。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTCは44,000 USDTを超え、24時間で0.34%下落]]></title>
         <id>https://www.odaily.news/ja/newsflash/345683</id>
@@ -7551,27 +7561,6 @@ DeFi市場の預かり資産、6カ月ぶりに500億ドルを回復 first appea
         <summary type="html"><![CDATA[米資産運用大手ブラックロックの現物仮想通貨ビットコインETFの上場申請について、流動性提供のためのシードファンディングを10万ドル受けたことが判明した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、グレースケールのイーサリアムETF上場申請の可否判断を延期]]></title>
-        <id>https://coinpost.jp/?p=496399</id>
-        <link href="https://coinpost.jp/?p=496399"/>
-        <updated>2023-12-05T21:05:35.000Z</updated>
-        <summary type="html"><![CDATA[米SECは5日、グレースケールの仮想通貨現物イーサリアムETF上場申請の可否判断を延期した。今年中にビットコイン・イーサリアムのETF申請に対するSECの承認はされない見込みだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3に株式市場を通して投資する方法【米国版】]]></title>
-        <id>https://www.coindeskjapan.com/?p=210809</id>
-        <link href="https://www.coindeskjapan.com/210809/"/>
-        <updated>2023-12-05T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新しいテクノロジーに不慣れな人にとって、イノベーションはときとして、一夜のサクセスストーリーのように見えるかもしれない。しかし実際は多くの場合、数十年もかけて生 ...
-Web3に株式市場を通して投資する方法【米国版】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Alex Tapscott</name>
         </author>
     </entry>
 </feed>
