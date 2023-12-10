@@ -445,6 +445,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=497297",
+          "author": "CoinPost編集部",
+          "description": "今週は、Matrixport Researchの仮想通貨ビットコインの価格予想、米国におけるビットコイン現物ETFの動向、ビットコインの時価総額の上昇が最も関心を集めた。",
+          "link": "https://coinpost.jp/?p=497297",
+          "publishedOn": "2023-12-10T02:00:31.000Z",
+          "wordCount": 2000,
+          "title": "週刊仮想通貨ニュース（+アジア特集）｜24年ビットコイン125,000ドル到達予測や米ETFの動向に高い関心",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=495851",
           "author": "CoinPost編集部",
           "description": "つみたてNISA（つみたて投資枠）は長期投資に向いており、多くの投資家にとって利用しやすい制度です。この記事では、つみたてNISAの概要や長期投資に向いている理由、具体的な投資戦略を解説しました。",
@@ -1171,6 +1186,86 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345659",
+          "author": null,
+          "description": "「Odaily News Linea は にリマインダーを発行しました。ご質問がある場合は、Discord を通じてご連絡ください。」 以前、Linea は、1 月 16 日に Voyage: DeFi イベント Wave 7: Trading on the Ends の開始を発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345659",
+          "publishedOn": "2023-12-10T02:26:02.000Z",
+          "wordCount": 1832,
+          "title": "Linea: Voyage Wave 7 連携プロジェクト Rubydex にはフロントエンドの脆弱​​性があるため、操作しないでください",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345658",
+          "author": null,
+          "description": "Odaily News Cosmos エコロジーモジュラートークン発行プラットフォーム Eclipse Fi は、/FDV での ECLIP トークンエコノミクスを発表しました: 22,500,000 ドル; - 立ち上げられたチェーン: Neutron (ECLIP は Arbitrum と Ethereum にもカプセル化されます)。さらに、IDO ホワイトリストの申請プロセスは来週月曜日に開始されます。",
+          "link": "https://www.odaily.news/ja/newsflash/345658",
+          "publishedOn": "2023-12-10T02:18:54.000Z",
+          "wordCount": 1845,
+          "title": "Cosmos Ecosystem Eclipse Fi が ECLIP トークンエコノミクスを発表し、来週月曜日に IDO ホワイトリスト アプリケーションを開始します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345657",
+          "author": null,
+          "description": "Odaily News DeBank のデータによると、Layer2 ネットワーク Blast 契約アドレスが現在保有している資産の総額は 8 億 4,000 万米ドルを超え、そのうち 7 億 4,500 万米ドル相当の ETH が Lido プロトコルに預けられており、9,637 万米ドル以上が Lido プロトコルに預けられています。 DAI は Maker プロトコルに登録されています。",
+          "link": "https://www.odaily.news/ja/newsflash/345657",
+          "publishedOn": "2023-12-10T02:08:23.000Z",
+          "wordCount": 1837,
+          "title": "ブラスト TVL が 8 億 4,000 万ドルを突破",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345656",
+          "author": null,
+          "description": "オデイリー紙は、ホエール・アラートの監視によれば、北京時間9時40分01秒に、143,429 SOL（10,556,127ドル）が未知のウォレットからCoinbaseに送金されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/345656",
+          "publishedOn": "2023-12-10T02:04:27.000Z",
+          "wordCount": 1805,
+          "title": "143,429 SOL が不明なウォレットから Coinbase に転送されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345655",
+          "author": null,
+          "description": "Odaily News Binanceに関する以前の噂に応えて、Binanceの共同創設者He Yi氏はXプラットフォームに関する記事を発表し、将来に希望を持たない凡庸なピエロだけが世間の注目を集めるためにXプラットフォーム上でBinanceを毎日FUDする必要があることを強調した。警戒心がバイナンスを殺すわけではなく、より多くの人がバイナンスを支持するようになるだけです。情報の透明性が高く、テクノロジーが世界を変える時代です。",
+          "link": "https://www.odaily.news/ja/newsflash/345655",
+          "publishedOn": "2023-12-10T02:03:57.000Z",
+          "wordCount": 1795,
+          "title": "ヘ・イー: 注目を集めるために毎日ソーシャルメディアでバイナンスをFUDする必要があるのはピエロだけだ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191548",
+          "author": null,
+          "description": "モジュラー アカウントの抽象化は、スマート アカウントをモジュール化してカスタマイズされたサービスをユーザーに提供することを想定した広範な AA 開発内の細分化です。",
+          "link": "https://www.odaily.news/ja/post/5191548",
+          "publishedOn": "2023-12-10T02:00:00.000Z",
+          "wordCount": 2792,
+          "title": "SevenX Ventures: モジュール式スマート コントラクト アカウントのアーキテクチャと課題",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345654",
+          "author": null,
+          "description": "Odaily News CryptoSlamのデータによると、11月のNFT売上高の大幅な増加に続き、12月の第1週もその傾向が続き、売上高は約3億1,600万ドルで、前週から57％増加しました。この急増にもかかわらず、買い手と売り手の取引量がそれぞれ90.09%と88.31%と大幅に減少したことは注目に値します。さらに、ビットコインNFTの売上高は11月も首位を維持し、12月の第1週も引き続き好調でした。 2023年12月1日以降、ビットコインNFTの初週売上は1億1,213万4,000米ドルに達し、イーサリアムNFT（同期間の売上1億83万米ドル）を上回りました。 (Bitcoin.com)",
+          "link": "https://www.odaily.news/ja/newsflash/345654",
+          "publishedOn": "2023-12-10T01:58:42.000Z",
+          "wordCount": 1797,
+          "title": "12月第1週のNFT売上は3億1,600万米ドルで、前月比57%増加しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345653",
+          "author": null,
+          "description": "Odaily News Arbitrum コミュニティは、「STIP および BackFund プロジェクトのインセンティブ配布期限を延長する」という提案を承認することに投票しました。この提案の下では、STIP 内のプロトコルがユーザーに ARB トークンを配布する期限は 2024 年 3 月 1 日まで延長される一方、BackFund プログラム内のプロトコルはトークン配布のために 2024 年 3 月 15 日まで流動性サポートを継続することができます。 2024 年 3 月 29 日。この提案の主な動機は、KYC プロセスの時間差と当初の計画と比較した遅延を考慮して、すべてのプロトコルがユーザーにインセンティブ トークンを配布するのに十分な時間を確実に確保することです。特に、BackFund プログラムに基づくプロトコルは、KYC 監査に合格する必要があるため、元のプログラムの終了までにトークン配布までに約 6 週間しか残されていない可能性があるため、この拡張により、これらのプロトコルにはインセンティブ配布を完了するまでに 16 週間近くの猶予が与えられます。 . .さらに、この拡張機能には、元の STIP 計画に基づく一部のプロトコルへの調整も含まれており、すべての STIP プロトコルがユーザーに ARB トークンを配布するのに十分な時間を確保できるようになります。提案の説明によると、この拡張機能には追加費用はかからず、Arbitrum DAO により正確なプログラム成功データを提供しながら、インセンティブ分配の公平性と有効性を確保するように設計されています。",
+          "link": "https://www.odaily.news/ja/newsflash/345653",
+          "publishedOn": "2023-12-10T01:51:39.000Z",
+          "wordCount": 1901,
+          "title": "Arbitrum コミュニティは、「STIP および BackFund プロジェクトのインセンティブ配布期限を延長する」という提案を承認することに投票しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345652",
           "author": null,
@@ -7259,96 +7354,6 @@
           "publishedOn": "2023-12-05T14:50:02.000Z",
           "wordCount": 1747,
           "title": "DIDスタートアッププロジェクトCARVがHashKey Capitalなどの参加を得て新たな戦略的資金調達ラウンドを完了",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345084",
-          "author": null,
-          "description": "Odaily News 分散型取引プラットフォーム Hashflow は、最新バージョン Hashflow 2.0 を正式にリリースしました。このアップデートは、2021年のプラットフォームの立ち上げ以来の大幅なアップグレードであり、より効率的な資本活用を提供し、取引体験を向上させることを目的としています。 Hashflow 2.0 の主なハイライトは、Smart Order Routing (SOR) 機能です。この機能は、相場が従来のマーケットメーカーからのものであるか自動マーケットメーカー (AMM) からのものであるかに関係なく、トレーダーを自動的に最良の相場に誘導します。これは、トレーダーがハッシュフローを使用するときに最良の価格を取得することを心配する必要がなく、システムがこの判断を自動的に完了することを意味します。また、Hashflow2.0ではSolanaブロックチェーン上でのサービス開始も発表されており、ユーザーはSOL、USDT、USDCなどSolana上のローカル資産を取引できるだけでなく、Solanaとイーサリアム間のクロスチェーン取引を手間なく直接行うことができるようになります。ブリッジングテクノロジーの場合。新しいバージョンでは、ユーザー エクスペリエンス (UX) も最適化され、リアルタイムの価格チャートと市場情報が提供され、トレーダーのエクスペリエンスが向上します。",
-          "link": "https://www.odaily.news/ja/newsflash/345084",
-          "publishedOn": "2023-12-05T14:33:29.000Z",
-          "wordCount": 1811,
-          "title": "分散型取引プラットフォーム Hashflow がバージョン 2.0 をリリースし、Ethereum L2 と Solana に拡張予定",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345083",
-          "author": null,
-          "description": "Odaily の公式ニュースによると、Balancer は V3 の開発が進行中であることを発表しました. このバージョンでは、基礎となるアーキテクチャが徹底的に検査および改善されており、複数の新しいプール構造、合理化された AMM ツール、およびネイティブの歩留まりを実現するテクノロジーも提供されています。このアップグレードは、2024 年の第 2 四半期初めにリリースされる予定です。",
-          "link": "https://www.odaily.news/ja/newsflash/345083",
-          "publishedOn": "2023-12-05T14:24:54.000Z",
-          "wordCount": 1788,
-          "title": "バランサー: V3 バージョンの開発が進行中で、2024 年第 2 四半期初めにリリースされる予定です。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345082",
-          "author": null,
-          "description": "Odaily News 仮想通貨取引所BingXは、先物、スポット、資産管理商品の開発を指揮する最高製品責任者にヴィヴィアン・リンを任命したと発表した。 Vivien Lin は BingX のグローバル スポークスマンも務める予定です。ヴィヴィアン・リンは、モルガン・スタンレー、BNPパリバ、ドイツ銀行などの金融機関で、外国為替や株式デリバティブに重点を置いて働いてきました。",
-          "link": "https://www.odaily.news/ja/newsflash/345082",
-          "publishedOn": "2023-12-05T14:16:36.000Z",
-          "wordCount": 1766,
-          "title": "BingX、ヴィヴィアン・リンを最高製品責任者兼グローバルスポークスマンに任命",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345081",
-          "author": null,
-          "description": "Odaily News Arkham は X プラットフォームに、BIGTIME が過去 1 週間で 300% 以上上昇したと投稿しました。そのトークンページには、BIGTIMEの過去24時間の取引高が5億米ドル近くに達しており、その中でGSRは最大の取引所預金者として400万ドル以上のBIGTIMEをOKXに送金したことが示されている。 Ouyi OKX市場によると、BIGTIMEは一時0.811 USDTで取引されており、24時間で42.71％上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/345081",
-          "publishedOn": "2023-12-05T14:13:37.000Z",
-          "wordCount": 1811,
-          "title": "アーカム: GSR は過去 24 時間で 400 万以上の BIGTIME を OKX に送信しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345080",
-          "author": null,
-          "description": "Odaily News フランスの暗号通貨金融サービス会社フローデスクは、ソシエテ・ジェネラルの子会社であるフォージによって、新しいユーロ安定通貨EUR CoinVertible（EURCV）のマーケットメーカーに任命されたと発表した。 Flowdesk は、Bitstamp およびその他のプラットフォームで EURCV-EUR および EURCV-USDT 取引ペアに流動性を提供する責任を負い、SG-FORGE によって EURCV の取引を認可された厳選された事業体の 1 つです。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/345080",
-          "publishedOn": "2023-12-05T14:11:54.000Z",
-          "wordCount": 1774,
-          "title": "Flowdeskがソシエテ・ジェネラルの子会社ForgeのユーロステーブルコインEURCVのマーケットメーカーとなる",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345079",
-          "author": null,
-          "description": "Odaily News CosmosのエコロジカルチェーンNeutronは、プログラミング環境CosmWasmを開発するConflioの株式25%を取得したが、投資額は非公表。この投資は、CosmWasm の導入を促進し、Neutron と Confio の成長戦略を調整するために使用されます。 Neutron のコアコントリビューターである Avril Dutheil 氏は、「長期的には、プライバシーとアグリゲーションのプロジェクトが zk テクノロジーを活用できるように、ネイティブのゼロ知識検証など、より高度な機能を開発して Neutron の仮想マシンにさらなる機能を提供する予定です。」と述べています。の目標は、CosmWasm を EVM などのプログラミング環境の競争力のある代替手段として位置づけることです。 CosmWasm は、Neutron や Osmosis などの Cosmos ベースのブロックチェーンのデフォルトの仮想マシンであり、スマート コントラクトの実行を可能にします。",
-          "link": "https://www.odaily.news/ja/newsflash/345079",
-          "publishedOn": "2023-12-05T14:07:53.000Z",
-          "wordCount": 1812,
-          "title": "Neutron が CosmWasm 開発会社 Confio の株式 25% を取得",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345078",
-          "author": null,
-          "description": "Odaily News 暗号化データ分析プラットフォーム Shadow は、Paradigm 主導で 900 万米ドルの資金調達を受け、他の投資家には Coinbase Ventures、Electric Capital、Ethereum Foundation、Uniswap、Flashbots が含まれます。この資金調達はイーサリアムの開発コストの削減に使用されると報告されています。",
-          "link": "https://www.odaily.news/ja/newsflash/345078",
-          "publishedOn": "2023-12-05T14:04:35.000Z",
-          "wordCount": 1783,
-          "title": "暗号データ​​分析プラットフォームのShadowがParadigm主導で900万ドルの資金を確保",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345077",
-          "author": null,
-          "description": "Odaily News マラソンデジタルホールディングス株式会社は、2023 年 11 月の未監査のビットコイン生産およびマイナーインストールのアップデートをリリースしました。 11月には1,187 BTCが生産され、年初から現在までに10,999 BTCが生産されました。 11月30日の時点で、同社は合計14,025の無制限BTCを保有しており、無制限の現金とビットコインの合計は8億230万ドルに達する。",
-          "link": "https://www.odaily.news/ja/newsflash/345077",
-          "publishedOn": "2023-12-05T13:42:07.000Z",
-          "wordCount": 1822,
-          "title": "マラソン デジタルは 1 月に 1,187 BTC をマイニングし、合計 14,025 BTC を保有しています",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345076",
-          "author": null,
-          "description": "Odaily News Cryptoslam データによると、ビットコインネットワーク上の NFT 売上総額は 10 億米ドルを超え、現在 1,023,229,197 米ドルで、総取引数は 1,233,917 件で、そのうち購入者数は 215,480 人、販売者数は 196,747 人です。さらに、11月のビットコインチェーン上のNFT売上高は前月比220.8%増の3億7,595万5,578.55米ドルに達し、ビットコインネットワークにおける単月のNFT売上高の最高記録を樹立した。",
-          "link": "https://www.odaily.news/ja/newsflash/345076",
-          "publishedOn": "2023-12-05T13:37:36.000Z",
-          "wordCount": 1789,
-          "title": "ビットコインネットワーク上のNFT総売上高が10億ドルを突破",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
