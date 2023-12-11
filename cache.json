@@ -375,6 +375,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=497527",
+          "author": "幸田直子",
+          "description": "仮想通貨取引所大手バイナンスのリサーチ部門は、「強気相場突入か？フォローすべき10のシナリオ」と題したレポートを公開。今後数ヶ月間を見通す上で、注目すべきシナリオと指標について解説した。",
+          "link": "https://coinpost.jp/?p=497527",
+          "publishedOn": "2023-12-11T07:24:31.000Z",
+          "wordCount": 1934,
+          "title": "バイナンス・リサーチが挙げる、仮想通貨業界でフォローすべき「10のシナリオ」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bull-bear-market.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bull-bear-market.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=497481",
           "author": "A.Yamada",
           "description": "台湾中央銀行の副総裁は「バンキング4.0」を提唱し、その一環としてCBDCと現実資産トークン化（RWA）のもたらす利点を語った。",
@@ -1011,6 +1026,96 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345780",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、OKX は Seagull Product Trading Competition を正式に開始し、2023 年 12 月 11 日 16:00 (UTC+8) から 2023 年 12 月 31 日 16:00 (UTC+8) まで、ユーザーはアクティビティをフォローできます。ルール: Haiou 製品を購読するには、購読額が大きいほど報酬も高くなります、購読総額上位 20 人のユーザーは最大 2,000 USDT の独占報酬を享受できます。また、初めてHaiou製品をご利用いただく新規ユーザー様にも、指定されたタスクを達成することで報酬が追加されるサンシャインアワード（先着2,000名様限定）をお楽しみいただけます。 OKX Seagull 製品は強気の Seagull と弱気の Seagull をカバーしており、ユーザーに市場変動の支援を提供することを目的としていると報告されています。ユーザーは、いつ売買するかを推測する必要はありません。つまり、市場動向が有利な場合、Haiou はユーザーがより高い APR を獲得できるように支援できます。市場動向が不利な場合、Haiou はユーザーが他の資産を割引価格で購入できるように支援します。",
+          "link": "https://www.odaily.news/ja/newsflash/345780",
+          "publishedOn": "2023-12-11T08:21:50.000Z",
+          "wordCount": 1801,
+          "title": "OKX が Seagull 製品取引コンテストを開始、個人は最大 2,000 USDT の独占報酬を享受できる",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345779",
+          "author": null,
+          "description": "Odaily News 韓国の金融委員会（FSC）は最近、2024 年 7 月からデジタル資産投資家が取引所に資金を預ける際に利子を得ることが義務付けられると規定する通知を発表しました。ただし、NFT と CBDC は特に規制から除外されています。 NFTの除外にもかかわらず、規制当局は例外が存在する可能性があることを強調した。トークンが NFT として分類されている場合でも、支払い方法として使用され、大量に発行される場合は、依然として暗号資産の分類に含まれる可能性があり、取引所に入金されたときに利息を受け取る資格が得られます。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/345779",
+          "publishedOn": "2023-12-11T08:20:03.000Z",
+          "wordCount": 1747,
+          "title": "韓国のFSCが新たな規制を発行：デジタル資産投資家はNFTとCBDCを除き、預金から利息を得る必要がある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345778",
+          "author": null,
+          "description": "オデイリー紙は、ホエール・アラートの監視によれば、5,500万枚のコインが未知のウォレットからバイナンスに転送されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/345778",
+          "publishedOn": "2023-12-11T08:09:34.000Z",
+          "wordCount": 1735,
+          "title": "5,500万コインが未知のウォレットからBinanceに送金された",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345777",
+          "author": null,
+          "description": "Odaily のオラクル プロジェクト Pyth Network は、ビットコイン L2 スタック ネットワークを含む 40 以上のブロックチェーン上の ORDI トークン価格の取得をサポートする ORDI/USD 価格フィード機能の開始を発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345777",
+          "publishedOn": "2023-12-11T08:08:07.000Z",
+          "wordCount": 1765,
+          "title": "Pyth Network が ORDI/USD 価格フィード機能の開始を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345776",
+          "author": null,
+          "description": "Poste Italianeとイタリア銀行が所有するウォレット開発会社Odaily News Conioは、イタリアの銀行や金融機関に幅広いデジタル資産を提供することを目的として、Coinbaseと共同でモバイルマルチシグネチャビットコインウォレットを立ち上げたと発表した。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/345776",
+          "publishedOn": "2023-12-11T08:05:54.000Z",
+          "wordCount": 1767,
+          "title": "ウォレット開発者の Conio と Coinbase が共同でモバイル マルチシグネチャ ビットコイン ウォレットを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191607",
+          "author": null,
+          "description": "この記事では、これらのプロジェクトを 1 つずつ紹介し、暗号分野へのユニークな貢献を詳しく掘り下げます。",
+          "link": "https://www.odaily.news/ja/post/5191607",
+          "publishedOn": "2023-12-11T08:04:00.000Z",
+          "wordCount": 2649,
+          "title": "ETH Global India Hackathon のファイナリスト 13 プロジェクトの概要",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345774",
+          "author": null,
+          "description": "Odaily は、Scopescan の監視によると、7 時間前に Fasanara Capital 関連のアドレスが Binance から 82,000 AVAX (302 万ドル) を引き出したと報じました。 AVAXの価格は過去7日間で58%上昇しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345774",
+          "publishedOn": "2023-12-11T07:59:21.000Z",
+          "wordCount": 1779,
+          "title": "Fasanara Capital関連アドレスがBinanceから82,000 AVAXを引き出し 7時間前",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345773",
+          "author": null,
+          "description": "Odaily News Ultra Sound Money データによると、合併（The Merge）以来、ETH の供給量は約 308,000 個減少し、現在の供給量は約 1 億 2,000 万個で、合併以来史上最低となっています。",
+          "link": "https://www.odaily.news/ja/newsflash/345773",
+          "publishedOn": "2023-12-11T07:40:21.000Z",
+          "wordCount": 1762,
+          "title": "合併以来、ETHの供給量は約308,000コイン減少",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345772",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、Applesea は感謝祭以来 18 日間オンラインになっており、合計ユーザー数は 10,000 人を超えており、その内訳は NFT 統合ユーザー 890 人、ステーキング ユーザー 1,200 人、Apple 携帯電話でアクティブ化されたマイニング ユーザー 9,000 人です。 Applesea.io は Apple スマート端末によって構築されたバリュー ネットワークであることがわかります. 4 つのアルゴリズム マシン (バリデータ、フュージョン マシン、プール ステーキング、リインカーネーション マシン) で構成されています. Polygon ネットワークをサポートしています. ユーザーは OKX Web3 に「applesea」と入力しますウォレット発見.io」を利用すると、Appleの携帯電話マイニングに参加できます。",
+          "link": "https://www.odaily.news/ja/newsflash/345772",
+          "publishedOn": "2023-12-11T07:31:51.000Z",
+          "wordCount": 1807,
+          "title": "Applesea累計ユーザー数10,000名突破、誓約ユーザー数1,200名突破",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/345771",
           "author": null,
@@ -6498,6 +6603,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=358113",
+          "author": "gentosha_takahashi",
+          "description": "党を越えて法案を発表 米議員らが、テロ組織を取り締まるためのことを目的としたテロ資金への制裁に関する超党派の法案を12月7日に提出した。 この法案は「2023年テロ資金調達防止法（Terrorist Financing  […]",
+          "link": "https://www.neweconomy.jp/posts/358113",
+          "publishedOn": "2023-12-11T08:22:30.000Z",
+          "wordCount": 816,
+          "title": "米議員ら、デジタル資産に関するテロなどへ制裁強化する法案発表、超党派で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/11172225/9a18d00d2ba086eae8c41324b0439fbe.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=358099",
           "author": "gentosha_takahashi",
