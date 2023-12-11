@@ -898,21 +898,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427j-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427j-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=496754",
-          "author": "A.Yamada",
-          "description": "米国地方裁判所の判事は、仮想通貨取引所バイナンスの前CEOであるCZ氏の有罪答弁を受領した。今後、量刑が行われることになる。",
-          "link": "https://coinpost.jp/?p=496754",
-          "publishedOn": "2023-12-07T01:30:21.000Z",
-          "wordCount": 1896,
-          "title": "米地裁、バイナンスCZ前CEOの有罪答弁を受理",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance_2021a-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance_2021a-1.jpg"
         }
       ]
     },
@@ -921,6 +906,86 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345811",
+          "author": null,
+          "description": "Odaily NewsソーシャルプラットフォームSeamは、Seed Club Ventures、Sfermion、F7 Ventures、Social Graph Ventures、その他のエンジェル投資家らの参加を得て、1kx主導による250万米ドルのシードラウンドの資金調達が完了したと発表した。 Seam を使用すると、ユーザーはオンラインで理想的なソーシャル スペースをコーディング、設計、キュレーションできます。 Seam Social の共同創設者である Nick Confrey 氏は、「ソーシャル メディアのビジネス モデルを、広範囲にわたる広告からユーザーが所有し生成するマーケットプレイスに変えることで、人々がより興味深く表現力豊かな体験を生み出すよう促します。最終的には、ユーザーはインターネットを再考することができます」と述べています。 、Seam をカスタマイズ可能なソーシャル ネットワークにします。」",
+          "link": "https://www.odaily.news/ja/newsflash/345811",
+          "publishedOn": "2023-12-11T14:23:51.000Z",
+          "wordCount": 1790,
+          "title": "ソーシャルプラットフォーム Seam が 1kx 主導のシードラウンドで 250 万米ドルの資金調達を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345810",
+          "author": null,
+          "description": "Odaily News ビットコイン経済層の ALEX は、Domo、BIS、hiro、UniSat、Xverse、Xlink と協力して開発されたビットコイン オラクルのアルファ版の立ち上げを発表しました。 BRC20の送金と残高検証は、スマートコントラクトベースのコンセンサスメカニズムを通じてBIS、hiro、UniSatの間で行われます。インデクサー パフォーマンス ダッシュボードに Bitcoin Oracle ネットワークからアクセスできるようになりました。 Xverse と Xlink は主要な開発およびテスト パートナーとして機能します。",
+          "link": "https://www.odaily.news/ja/newsflash/345810",
+          "publishedOn": "2023-12-11T14:14:26.000Z",
+          "wordCount": 1764,
+          "title": "ALEX、ビットコインオラクルのアルファ版をリリース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345809",
+          "author": null,
+          "description": "Odaily News Bitget は、Layer2 Morph への 100 万ドル投資を発表しました。レポートによると、Morph のロールアップ テクノロジは、Optimistic ロールアップと ZK ロールアップの特性をインテリジェントに組み合わせて、コスト障壁を削減し、紛争解決を加速し、あらゆる規模の拡張性を確保します。 dApp の安全なトランザクション。エコシステムの中核となるのは、中央制御点を排除する分散型シーケンシャル ネットワークであり、MEV の優位性に対抗し、消費者にとってスケーラブルで手頃な価格の高速なレイヤー 2 トランザクションを保証します。",
+          "link": "https://www.odaily.news/ja/newsflash/345809",
+          "publishedOn": "2023-12-11T14:11:40.000Z",
+          "wordCount": 1781,
+          "title": "Bitget、Layer2 Morph への 100 万ドル投資を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345808",
+          "author": null,
+          "description": "Odaily News Immutable は、ゲームにおける法定通貨と Web3 決済の促進を目的として、Transak を zkEVM の唯一の決済サービスプロバイダーとして統合します。トランザックのマーケティング責任者は「今後数年間で何百ものゲームがこれらの製品を使用するだろう。これらのゲームのほとんどは2024年に発売される予定だ」（コインテレグラフ）と語った。",
+          "link": "https://www.odaily.news/ja/newsflash/345808",
+          "publishedOn": "2023-12-11T14:05:14.000Z",
+          "wordCount": 1755,
+          "title": "ImmutableはTransakを統合し、ゲームでの法定通貨とWeb3決済の推進を目指す",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345807",
+          "author": null,
+          "description": "Odaily News OKX市場によると、BTCは一時42,000 USDTを下回りましたが、その後回復し、現在は42,059 USDSTで取引されており、24時間で-4.1%下落しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345807",
+          "publishedOn": "2023-12-11T13:52:51.000Z",
+          "wordCount": 1778,
+          "title": "BTC は一時 42,000 USDT を下回りましたが、その後回復し、24 時間で -4.1% 下落しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345806",
+          "author": null,
+          "description": "Odailyの公式ニュースによると、Binance Alliance He Yiは12日午後8時、Xプラットフォーム上でBinanceの新CEOリチャード・テン氏と中国AMAを開催し、中国メディアやコミュニティユーザーの懸念事項に答える予定だという。",
+          "link": "https://www.odaily.news/ja/newsflash/345806",
+          "publishedOn": "2023-12-11T13:48:31.000Z",
+          "wordCount": 1764,
+          "title": "Binance AllianceのHe Yijiang氏と新CEOは12日午後8時にXプラットフォームで中国AMAを開催する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345805",
+          "author": null,
+          "description": "Odaily News DTCCは、ブロックチェーンベースの金融テクノロジー企業Securrencyの買収を完了したことを公式ウェブサイトで発表した。 DTCC は世界最大かつ最先端の証券保管・清算機関であると報告されています。以前のニュースによると、この問題に詳しい関係者によると、DTCCはSecurrencyに約5,000万米ドルを支払う予定です。",
+          "link": "https://www.odaily.news/ja/newsflash/345805",
+          "publishedOn": "2023-12-11T13:41:25.000Z",
+          "wordCount": 1756,
+          "title": "DTCC、ブロックチェーンベースの金融テクノロジー企業Securrencyの買収を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/345804",
+          "author": null,
+          "description": "Odaily ニュースチェーンのデータによると、Tether は TRON で追加の 10 億 USDT を発行しました。",
+          "link": "https://www.odaily.news/ja/newsflash/345804",
+          "publishedOn": "2023-12-11T13:37:32.000Z",
+          "wordCount": 1764,
+          "title": "テザーはTRONで追加の10億USDTを発行",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/post/5191622",
           "author": null,
@@ -6599,136 +6664,6 @@
           "publishedOn": "2023-12-07T02:29:38.000Z",
           "wordCount": 1719,
           "title": "香港警察はJPEX詐欺事件の進捗状況を更新：今週さらに1人が逮捕され、関与金額は16億1000万元に増加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345293",
-          "author": null,
-          "description": "オデイリー紙は、ホエール・アラートの監視によれば、北京時間7時51分18秒に、残高5,423,480 USDT（5,427,819ドル）の住所が凍結されたと報じた。",
-          "link": "https://www.odaily.news/ja/newsflash/345293",
-          "publishedOn": "2023-12-07T02:27:08.000Z",
-          "wordCount": 1729,
-          "title": "残高 5,423,480 USDT のアドレスが凍結されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345292",
-          "author": null,
-          "description": "Odaily News カナダの 2 つの大手仮想通貨取引所、Bitbuy と Coinsquare の運用資産は 10 億カナダドル (7 億 3,600 万米ドル) を超えました。親会社ワンダーファイの12月6日の発表によると、両社は現在10億カナダドル以上の顧客の現金およびデジタル資産預金を保有しており、第3四半期の6億9500万カナダドル（5億1200万ドル）から増加している。 (コインテレグラフ)",
-          "link": "https://www.odaily.news/ja/newsflash/345292",
-          "publishedOn": "2023-12-07T02:25:38.000Z",
-          "wordCount": 1755,
-          "title": "カナダの仮想通貨取引所 Bitbuy と Coinsquare が 10 億カナダドルを超える資産を管理",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345291",
-          "author": null,
-          "description": "Odaily News Bitget 市場によると、主要セクターはストレージ、Web3、ファン通貨セクターであり、その中で BTT は 24 時間で 77.55% 上昇し、CHZ は 24 時間で 3.87% 上昇しました。本稿執筆時点で、24時間の世界の仮想通貨取引高は754億米ドルで、そのうちBTCが53.83%を占めています。リアルタイム上昇リストの上位 3 通貨は INSP、GSWIFT、BTT です。",
-          "link": "https://www.odaily.news/ja/newsflash/345291",
-          "publishedOn": "2023-12-07T02:23:42.000Z",
-          "wordCount": 1761,
-          "title": "Bitget の毎日の市場情報: BTT は 24 時間で 77.55% 上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345290",
-          "author": null,
-          "description": "欧州中央銀行 (ECB) は、ビットコインと世界の暗号通貨と地域の推進力に関する新しいレポートの中で、新興国および発展途上国 (EMDE) における暗号資産の採用を促進する 3 つの要因を挙げています。第一に、仮想通貨は投機資産として使用される可能性があり、これはポートフォリオの選択が規制や制度的要因によって制限されている国の投資家に特に当てはまります。価格の変動性を考えると、これらの暗号通貨は、インフレ率が高く、為替レートが下落する傾向にある国の自国通貨と比較して、価値の保存に優れている可能性があります; 第三に、新興市場と開発中規模の経済圏の居住者は、支払い手段として暗号通貨を使用できます資本規制を回避したり、外国送金の受け取りコストを削減したりするための国境を越えた取引。 （デイリー・ホドル紙）",
-          "link": "https://www.odaily.news/ja/newsflash/345290",
-          "publishedOn": "2023-12-07T02:21:44.000Z",
-          "wordCount": 1724,
-          "title": "欧州中央銀行：暗号資産は通貨が不安定な国の人々に価値の保存手段を提供できる",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345289",
-          "author": null,
-          "description": "Odaily News ビッツラト社のロシア人創設者で大株主のアナトリー・レグコディモフ氏は本日、ニューヨーク地方裁判所で違法資金の輸送と送金を行う送金事業を運営したとして有罪を認めた。この容疑は、ダークネット市場のトレーダーやランサムウェア犯罪者にサービスを提供する仮想通貨取引所ビッツラト社の過半数をレグコディモフ氏が所有していることに起因する。司法取引の一環として、レグコディモフ氏はビッツラートを解散し、没収されたビッツラート資産約2,300万ドルの所有権を放棄することに同意した。",
-          "link": "https://www.odaily.news/ja/newsflash/345289",
-          "publishedOn": "2023-12-07T02:09:13.000Z",
-          "wordCount": 1721,
-          "title": "仮想通貨取引プラットフォームBitzlatoの創設者が有罪を認め、没収資産2300万ドルの所有権を放棄",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191510",
-          "author": null,
-          "description": "モジュール化、AI、Web3 ゲーム…",
-          "link": "https://www.odaily.news/ja/post/5191510",
-          "publishedOn": "2023-12-07T02:05:39.000Z",
-          "wordCount": 2069,
-          "title": "a16z: 2024 年に期待される暗号通貨業界のトレンドのリスト",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345288",
-          "author": null,
-          "description": "Odaily の公式ニュースによると、オンチェーン データ分析プラットフォーム Parsec は、ブロック ブラウザ parsec.fi をリリースしました。このブラウザは現在、イーサリアムなど 9 つの EVM チェーンをサポートしており、将来的にはさらに多くの非 EVM チェーンが追加される予定です。 10月の以前のニュースによると、ParsecはGalaxy Digital主導のもと、Uniswap Labs Ventures、Robot Ventures、CMT Digitalなどが参加し、400万米ドルの資金調達が完了したと発表した。",
-          "link": "https://www.odaily.news/ja/newsflash/345288",
-          "publishedOn": "2023-12-07T02:03:33.000Z",
-          "wordCount": 1795,
-          "title": "オンチェーン データ分析プラットフォーム Parsec がブロック エクスプローラーを起動、現在 9 つの EVM チェーンをサポート",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345287",
-          "author": null,
-          "description": "Odaily NewsコミュニティL2ネットワークZKFairは、昨日の夕方にテストネットワークが正式に開始され、メインネットワークがオンラインになった後、ガス料金エアドロップを通じてすべてのコミュニティユーザーにトークンの100％をエアドロップすると発表しました。 ZKFair は、Polygon CDK と Celestia DA に基づく最初の実験的な L2 であり、公平な立ち上げ、完全にコミュニティ主導かつコミュニティ自律の ZK L2 ネットワークを構築することを目的としています。 ZKFair はステーブルコイン USDC をネイティブ トークンとして使用し、100% の EVM 互換性、低ガス料金、高性能、高セキュリティを保証します。 ZKFairの公式情報によると、ZKFトークンの総量は100億で、そのうち20億はL2コミュニティユーザーに公正にエアドロップされ、残りの80億はメインネットがオンラインになった後、ガス料金のエアドロップを通じて完全に生産される予定です。ガス料金の上限は 300 万 USDC です。先着順となります。今後、新しい ZKF トークンは発行されません。 100 億 ZKF トークンはすべてすぐにリリースされ、流通します。 ZKFair メインネットは 12 月 20 日頃に開始される予定です。",
-          "link": "https://www.odaily.news/ja/newsflash/345287",
-          "publishedOn": "2023-12-07T02:00:05.000Z",
-          "wordCount": 1813,
-          "title": "L2 ネットワーク ZKFair がテストネットワークを開始し、100% トークンをコミュニティにエアドロップします",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345286",
-          "author": null,
-          "description": "Odaily News イーサリアム財団の研究者 Toni Wahrstätter 氏の調査によると、MEV-Boost にリリースされたデータ ブロックの約 72% が現在「検閲済み」とみなされており、2022 年 11 月の約 25% から増加しています。この指標は、統計分析に基づいて、(米国 OFAC) 制裁の対象となる暗号アドレスを意図的に除外したと思われる MEV-Boost の「ブロック ビルダー」によって組み立てられたブロックを測定します。 Wahrstätter氏は、「ブロックビルダーは、どのトランザクション（およびその順序）をブロックに入れるか、どのトランザクションを検閲するかを決定する権限を持っています。これは、ブロックビルダーがブロックチェーンのコンテンツをどのように決定できるかを意味します。」（CoinDesk）",
-          "link": "https://www.odaily.news/ja/newsflash/345286",
-          "publishedOn": "2023-12-07T01:56:10.000Z",
-          "wordCount": 1762,
-          "title": "調査: イーサリアムブロックビルダーの約72%がOFACによって認可されたトランザクションを「レビュー」している",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345285",
-          "author": null,
-          "description": "Odaily は、Spot On Chain の監視によると、過去 14 時間で Wintermute と Mandala Capital が 561 万 BLUR (283 万ドル) を OKX に入金したと報じました。",
-          "link": "https://www.odaily.news/ja/newsflash/345285",
-          "publishedOn": "2023-12-07T01:52:14.000Z",
-          "wordCount": 1815,
-          "title": "Wintermute と Mandala Capital は過去 14 時間で 561 万 BLUR を OKX に入金しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345284",
-          "author": null,
-          "description": "Odaily は、オンチェーンアナリストの Ember Monitoring によると、クジラが 8 時間前に 1,057,391 LDO (241 万ドル) をバイナンスに送金し、50 万ドルの利益を得たと報じました。クジラは11月6日にバイナンスから1,762,319 LDO（356万ドル）を2.02ドルの価格で引き出し、その後12月1日と今日の平均価格2.31ドルで販売するためにバイナンスに移管した。",
-          "link": "https://www.odaily.news/ja/newsflash/345284",
-          "publishedOn": "2023-12-07T01:40:26.000Z",
-          "wordCount": 1743,
-          "title": "8時間前、クジラがLDOで241万ドルをバイナンスに送金",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345283",
-          "author": null,
-          "description": "1. ワールドコイン財団は「より公平なシステム」の構築に 500 万米ドルを割り当て; 2. ビットコインコア開発者のルーク・ダッシュジュニア: ビットコインに利益をもたらすためにすべての表記を削除する必要はない; 3. JP モルガン CEO ジェイミー・ダイモン: 政府はすべきである暗号通貨の禁止; 4. Terraform Labs は、UST および LUNA トークンが有価証券であるかどうかを陪審に判断させるよう裁判官に要請; 5. キャシー・ウッド: 今後 5 ～ 10 年間でビットコインの値上がりを最大に後押しするのは機関によるものである; 6. Coinbase は、リスト Jito (JTO ); 7. 米国治安判事が CZ の有罪答弁を受理; 8. Jito Labs: JTO エアドロップ申請ウィンドウは 12 月 8 日 0:00 に開きます; 9. サザビーズが初のビットコイン オーディナルのアートワーク BitcoinShrooms オークションを発表; 10 Meta は、Meta AI 機能を最適化し、アプリケーションに追加する 20 以上の生成 AI 手法をテストしていると発表しました; 11. 過去 3 か月で、暗号通貨企業株の空売りトレーダーは 26 億米ドル以上を失いました。そのうちの%はCoinbaseの空売りによるもの; 12. a16z モジュラー技術スタックなどを含む、2024年の暗号通貨業界にとってエキサイティングなトレンドのリストを発表; 13. Open AIの創設者であるサム・アルトマンが、次によりCEO of the Yearに選ばれたタイム誌; 14. ビットコインオプションの建玉は約200億ドルに達し過去最高値。",
-          "link": "https://www.odaily.news/ja/newsflash/345283",
-          "publishedOn": "2023-12-07T01:37:00.000Z",
-          "wordCount": 1872,
-          "title": "毎日の朝のニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345282",
-          "author": null,
-          "description": "Odaily News ビットコインが9月11日に3カ月ぶりの安値2万5152ドルを付けて以来、その価格は約75％急騰した。金融データ会社S3パートナーズの最新レポートによると、CoinbaseとMicroStrategyに代表される仮想通貨企業の株価が同時に上昇し、空売り者が巨額の損失を被っているという。本稿執筆時点で、Coinbaseの株価は先月で51%上昇して143.63ドルとなり、約66億ドルのビットコインを保有するMicroStrategyの株価は10月以来82%上昇して568.88ドルとなっている。こうした大きな株価変動により、仮想通貨企業株の空売りトレーダーは過去3カ月間で26億5,600万ドルの損失を引き起こしており、損失の50％以上はCoinbase株の空売りによるもので、さらに25％はMicroStrategy株の空売りによるものだ。 1月以降、仮想通貨株の空売りは約60億5000万ドルを失った。 (復号化)",
-          "link": "https://www.odaily.news/ja/newsflash/345282",
-          "publishedOn": "2023-12-07T01:31:03.000Z",
-          "wordCount": 1725,
-          "title": "過去3か月で、仮想通貨企業株の空売りトレーダーは26億ドル以上の損失を出し、その50％はコインベースの空売りによるものだった",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
