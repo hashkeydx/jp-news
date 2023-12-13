@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-13T18:26:43.863Z</updated>
+    <updated>2023-12-13T19:18:37.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FRBは政策金利を据え置き、基準金利は5.25～5.50％となっている。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/346133</id>
+        <link href="https://www.odaily.news/ja/newsflash/346133"/>
+        <updated>2023-12-13T19:01:28.000Z</updated>
+        <summary type="html"><![CDATA[デイリーニュース 米連邦準備制度理事会（FRB）の2023年年次金利決議案が終了し、予想通り基準金利を5.25～5.50％の範囲で据え置くことが決定された。今年の8つの決議のうち、FRBは25ベーシスポイント（bp）の利上げを4回行い、残りの4回は金利を据え置いた。 (ゴールデンテン)]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[32,715 ETH、7,233万ドル相当が不明な住所からBinanceに送金された]]></title>
         <id>https://www.odaily.news/ja/newsflash/346132</id>
@@ -6653,56 +6663,6 @@ Pudgy Penguinsが2024年にバーチャルワールドを立ち上げへ first a
         <summary type="html"><![CDATA[VanEck社が発表した2024年の仮想通貨市場予測を詳細に分析。ビットコイン半減期の影響、イーサリアムの市場ポジション、企業の暗号資産保有増加など、15の重要なトレンドを探求。仮想通貨業界の次の発展段階を見据えた包括的なレポート。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOL は一時 77 USDT を超え、24 時間で 5.68% 上昇しました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345607</id>
-        <link href="https://www.odaily.news/ja/newsflash/345607"/>
-        <updated>2023-12-09T07:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Ouyi OKK市場は、SOLが短期間で77 USDTを突破し、現在76.31 USDTで取引されており、24時間で5.68％上昇したことを示しています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フットプリント分析]]></title>
-        <id>https://www.odaily.news/ja/post/5191448</id>
-        <link href="https://www.odaily.news/ja/post/5191448"/>
-        <updated>2023-12-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この記事では、AI テクノロジーを使用して Web3 データの生産性とユーザー エクスペリエンスを向上させる方法を検討することに焦点を当てます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Web3 社会変革とイノベーション グローバル サミットがクアラルンプールで開催されました]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345606</id>
-        <link href="https://www.odaily.news/ja/newsflash/345606"/>
-        <updated>2023-12-09T06:55:23.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News 12月9日、Web3 Social Application INTO主催の「2023 Web3 Social Change and Innovation Global Summit」がクアラルンプールで開催された。このサミットは世界中の多くの機関やメディアから支援を受けており、Web3 ソーシャル分野のトップ専門家、業界リーダー、テクノロジーの先駆者が世界中から何百人も集まりました。このサミットは、「INTO Web3・未来を照らす」というテーマに焦点を当て、Web3の役割を深く探ることを目的として、Web3テクノロジーの応用、Web3ソーシャルグラフ、データ主権、ソーシャルネットワークのグローバル化傾向など、多くの重要なトピックについて議論しました。社会変化におけるテクノロジー、そして将来の Web3 社会発展への道を切り開く。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spreek: 以前、あるユーザーは、Chainlink の不正確な価格フィードにより、Silo で数十万ドルを失いました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345605</id>
-        <link href="https://www.odaily.news/ja/newsflash/345605"/>
-        <updated>2023-12-09T06:40:30.000Z</updated>
-        <summary type="html"><![CDATA[「Odaily News 」だが、これはユーザー損失（主にスリッページによるもの）のごく一部にすぎず、被害者1人は合計50万ドルを失ったが、戻ってきたのは20万ドルだけだった。私の意見では、サイロまたはチェーンリンクは負傷したユーザーへの全額補償を強く検討すべきだ」としている。 12月3日のニュースとして、分散型融資プロトコルSilo Finance開発チームであるSilo Labsは、今日初めにArbitrum上のChainlink wstETH/ETH価格ストリームが不正確な値を報告し、その結果5つのポジションが清算されたとXプラットフォーム上で発表した。 Silo の清算人は他の清算人よりも先に清算を行い、清算違約金を受けました。 Silo は影響を受けたユーザーに罰金を返金します。サイロには不良債権は発生しませんでした。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana DEX の 1 日の取引高は 11 億 2,000 万米ドルに達し、これはイーサリアム DEX の 1 日の取引高の 90% に相当します。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345604</id>
-        <link href="https://www.odaily.news/ja/newsflash/345604"/>
-        <updated>2023-12-09T06:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News の Sol Bulletin によって開示されたデータによると、]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
     </entry>
 </feed>
