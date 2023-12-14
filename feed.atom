@@ -2,10 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-14T03:23:13.223Z</updated>
+    <updated>2023-12-14T04:27:15.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Base は Builder Grants の第 2 バッチを発行しました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/346171</id>
+        <link href="https://www.odaily.news/ja/newsflash/346171"/>
+        <updated>2023-12-14T04:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Base は、Base 上で構築する人々とプロジェクトを評価しサポートするために、Builder Grants の第 2 バッチを発行しました。 Builder Grants の第 2 バッチの受信者は、Meme MachineTM、ゲーム プロジェクト wordduel.xyz、Kofi Siriboe によって構築された Base およびその他の L2 データ用の Dune ダッシュボードとチュートリアルを含む 5 つのプロジェクト グループです。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FRBの利下げ示唆でビットコインは4万3000ドル超に反発──アルトコインと暗号資産関連株は急騰]]></title>
+        <id>https://www.coindeskjapan.com/?p=212196</id>
+        <link href="https://www.coindeskjapan.com/212196/"/>
+        <updated>2023-12-14T04:22:46.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は13日、FRB（米連邦準備制度理事会）が来年の利下げを示唆したことを受けて11日のフラッシュクラッシュ以来初めて4万3000ドル（約60 ...
+FRBの利下げ示唆でビットコインは4万3000ドル超に反発──アルトコインと暗号資産関連株は急騰 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[合計残高が 3,800 万 USDT を超える 4 つのイーサリアム アドレスがブラックリストに登録されました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/346170</id>
+        <link href="https://www.odaily.news/ja/newsflash/346170"/>
+        <updated>2023-12-14T04:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Odaily は、Pidun の監視によると、残高 763 万 USDT (0xa6bc で始まる) のアドレス、残高 1017 万 USDT (0xe210 で始まる) のアドレス、残高 1748 万 USDT (0x186e で始まる) のアドレスがあると報告しました。 )、残高 340 万 USDT (0x5ced で始まる) のアドレスは、Tether によってブラックリストに登録されています。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik の新しい記事: ZK-EVM の将来と課題]]></title>
+        <id>https://www.odaily.news/ja/post/5191691</id>
+        <link href="https://www.odaily.news/ja/post/5191691"/>
+        <updated>2023-12-14T04:06:31.000Z</updated>
+        <summary type="html"><![CDATA[今後数年間で、ライトクライアントはますます強力になり、イーサリアムネットワークには実質的にZK-EVMが組み込まれるでしょう。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米CFTCベーナム委員長、「仮想通貨の多くはコモディティ」]]></title>
+        <id>https://coinpost.jp/?p=498332</id>
+        <link href="https://coinpost.jp/?p=498332"/>
+        <updated>2023-12-14T04:00:46.000Z</updated>
+        <summary type="html"><![CDATA[米CFTCのベーナム委員長は現行法の下では、仮想通貨トークンの多くは商品（コモディティ）にあたると改めて強調。SECとの違いを明らかにしている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starknet は、テストネット上で L1 から L2 への STRK のクロスチェーン転送をテストしている疑いがあります。]]></title>
+        <id>https://www.odaily.news/ja/newsflash/346169</id>
+        <link href="https://www.odaily.news/ja/newsflash/346169"/>
+        <updated>2023-12-14T03:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Sepolia テスト ネットワーク チェーンの記録は、Starknet がテスト ネットワーク上で L1 から L2 への STRK のクロスチェーン転送をテストした疑いがあることを示しています。数時間前、メインネットワークSTRKと同じコントラクト（0xca14で始まる）を持つイーサリアムセポリアテストネットワーク上でSTRKテストコインの複数の転送があり、1,234個のSTRKテストコインの転送のうちの1つはクロスである疑いがあった。 -L1からL2へのSTRKテストコインのチェーン転送。 Starknet Sepolia テストネット データは、上記のトランザクションが確認されてから数分後に、テストネット上の 0x0137 で始まるアドレスが 1,234 STRK テスト コインを受け取ったことを示しています。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bounce の新しいプロジェクト BDID が登場します。参加方法を段階的に説明します。 「BTCエコシステム」]]></title>
+        <id>https://www.odaily.news/ja/post/5191682</id>
+        <link href="https://www.odaily.news/ja/post/5191682"/>
+        <updated>2023-12-14T03:55:57.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインエコロジープロジェクトBSSBの第1フェーズでは一時45倍以上に増加した。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのブテリン氏、一部のレイヤー2機能をメインチェーンに戻す計画を発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=212178</id>
+        <link href="https://www.coindeskjapan.com/212178/"/>
+        <updated>2023-12-14T03:45:39.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの共同創設者ヴィタリック・ブテリン（Vitalik Buterin）氏は、3年前にブロックチェーンの計算負荷の多くを「ロールアップ」とも呼ばれるレイ ...
+イーサリアムのブテリン氏、一部のレイヤー2機能をメインチェーンに戻す計画を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユービーアイソフトのブロックチェーンゲーム「チャンピオンズタクティクス」が12月18日にイーサリアムNFT造幣局を開設]]></title>
+        <id>https://www.odaily.news/ja/newsflash/346168</id>
+        <link href="https://www.odaily.news/ja/newsflash/346168"/>
+        <updated>2023-12-14T03:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News ゲーム大手ユービーアイソフト初のオリジナルブロックチェーンゲーム「チャンピオンズ・タクティクス：グリモリア・クロニクルズ」は、北京時間12月18日19時に優先リストに載っているユーザーにウォーロードNFT造幣局をオープンし、北京時間12月19日には公開造幣局が開始される。同日午前3時。 The Warlords NFT はイーサリアム チェーンで発行されますが、チャンピオンズ タクティクス ゲーム自体はイーサリアム互換の Oasys チェーンに展開されます。 Warlords NFT シリーズは合計 9,999 個あり、そのうち 8,000 個の NFT は無料のミントを通じて提供され、1,000 個の NFT は Oasys コミュニティに提供され、999 個の NFT は将来のマーケティングおよび NFT の無料配布活動のために Ubisoft によって保持されます。 (解読) 6 月の以前のニュースによると、Ubisoft は Oasys ブロックチェーン上で実行されるブロックチェーン ゲーム Champions Tactics: Grimoria Chronicles を発売しようとしています。 Ubisoft は Oasys ブロックチェーン ネットワークのノード オペレーターの 1 つであると報告されています。 Ubisoft は、Champions Tactics を、神話上のチャンピオンを使用してプレイヤー同士を戦わせる、プレイヤー対プレイヤーの戦術ゲームであると説明しています。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネットワーク全体における BTC 契約のオープンポジションは 183 億 2,000 万ドルです]]></title>
+        <id>https://www.odaily.news/ja/newsflash/346167</id>
+        <link href="https://www.odaily.news/ja/newsflash/346167"/>
+        <updated>2023-12-14T03:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Coinglass のデータによると、ネットワーク全体におけるビットコイン先物契約のオープンポジションは 428,330 BTC (約 183 億 2,000 万米ドル) です。このうち、CMEビットコイン契約のオープンポジションは107,240BTC（約45億8000万米ドル）で第1位となっている。 Binance Bitcoin 契約の建玉は 98,950 BTC (約 42 億 3000 万ドル) で、2 位にランクされています。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グレースケール GBTC の現在のマイナス保険料率は 7.34% に縮小しました]]></title>
         <id>https://www.odaily.news/ja/newsflash/346166</id>
@@ -6777,26 +6879,6 @@ Pudgy Penguinsが2024年にバーチャルワールドを立ち上げへ first a
 「サトシ時代」の1000BTCが移動／機関投資家はアルトコインを無視【Weekly Review：12/2〜12/8】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNBチェーン：メロンコインなどの高リスクDAppに注意]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345641</id>
-        <link href="https://www.odaily.news/ja/newsflash/345641"/>
-        <updated>2023-12-09T16:08:04.000Z</updated>
-        <summary type="html"><![CDATA[オデイリーニュースBNBチェーンは、この件に関して声明を発表した。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15,850 ETHが不明なウォレットからCoinbaseに転送されました]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345640</id>
-        <link href="https://www.odaily.news/ja/newsflash/345640"/>
-        <updated>2023-12-09T16:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Odailyは、Whale Alertの監視によると、15,850 ETH（約37,339,335ドル）が未知のウォレットからCoinbaseに送金されたと報じました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
     </entry>
 </feed>
