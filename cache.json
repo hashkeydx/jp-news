@@ -1117,6 +1117,26 @@
       "siteUrl": "https://www.odaily.news",
       "articles": [
         {
+          "id": "https://www.odaily.news/ja/newsflash/346292",
+          "author": null,
+          "description": "Odaily News OKX市場は、ORDIが67 USDTを超え、現在66.29 USDTで取引されており、24時間で3.45％上昇していることを示しています。",
+          "link": "https://www.odaily.news/ja/newsflash/346292",
+          "publishedOn": "2023-12-14T16:15:08.000Z",
+          "wordCount": 1718,
+          "title": "ORDIは一時67 USDTを超え、24時間で3.45%上昇しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346291",
+          "author": null,
+          "description": "Odaily News Lookonchain モニタリングによると、今日 WOO の価格は 30% 以上上昇しました。あるクジラが25分前にバイナンスから1124万WOO（約420万ドル）を引き出した。",
+          "link": "https://www.odaily.news/ja/newsflash/346291",
+          "publishedOn": "2023-12-14T16:00:29.000Z",
+          "wordCount": 1746,
+          "title": "巨大なクジラがバイナンスから 1,124 万 WOO (約 420 万米ドルに相当) を引き出しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
           "id": "https://www.odaily.news/ja/newsflash/346286",
           "author": null,
           "description": "Odaily News ビットコイン リベート プラットフォーム Lolli がシリーズ B 資金調達で 800 万米ドルを完了 この資金調達ラウンドは、BITKRAFT Ventures、Sfermion、Ulta Beauty の Prisma Ventures、Hypersphere Ventures、ZebPay CEO の Rahul Pagidipati、2 Punks Capital、MZ Web3 Fund、Seven Seven が主導しましたファウンダーズ・ファンドのパスファインダー・ベンチャーズ、ベイン・キャピタル・ベンチャーズ、セリーナ・ウィリアムズのセレナ・ベンチャーズ、ローガン・ポール、ミスタービーストのナイト・メディアの6社が投資に参加した。",
@@ -7844,66 +7864,6 @@
           "publishedOn": "2023-12-10T04:30:00.000Z",
           "wordCount": 1991,
           "title": "PSE取引：ビットコインスポットETFの本質、影響、展望",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345668",
-          "author": null,
-          "description": "Odaily News Ouyi OKX 市場によると、OKT は 31 USDT を突破した後反落し、一時 26.92 USDT で取引され、24 時間で 86.04% 上昇しました。",
-          "link": "https://www.odaily.news/ja/newsflash/345668",
-          "publishedOn": "2023-12-10T04:23:34.000Z",
-          "wordCount": 1751,
-          "title": "OKTは31USDTを突破した後に反落し、24時間で86.04%上昇した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345667",
-          "author": null,
-          "description": "Odaily News BTC.com のデータによると、ビットコインのマイニング難易度はブロック高さ 820512 で 67.31 T まで 0.96% 減少し、ネットワーク全体の現在の平均計算能力は 486.32 EH/s です。",
-          "link": "https://www.odaily.news/ja/newsflash/345667",
-          "publishedOn": "2023-12-10T04:21:01.000Z",
-          "wordCount": 1751,
-          "title": "ビットコインのマイニング難易度が0.96%低下し67.31Tに",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345666",
-          "author": null,
-          "description": "Odaily News Bitcoin Core クライアントの開発者 Luke Dashjr 氏は以前、Inscription が Bitcoin Core クライアントの脆弱性を悪用してスパム情報をブロックチェーンに送信していると述べました。 Dashjr は、この脆弱性には識別子 CVE-2023-50428 が割り当てられていると X プラットフォームに投稿しました。",
-          "link": "https://www.odaily.news/ja/newsflash/345666",
-          "publishedOn": "2023-12-10T03:59:23.000Z",
-          "wordCount": 1783,
-          "title": "Luke Dashjr: Inscription によって悪用された Bitcoin Core クライアントの脆弱性には、CVE-2023-50428 という識別子が割り当てられました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345665",
-          "author": null,
-          "description": "Odaily News EthHub の共同創設者 sassal.eth が CryptoKitties に投稿したことでイーサリアムの料金が値上がりし、当時は EIP-1559 がなかったためメンプールが空になるまでに数日かかりました。 2018/2019年の弱気市場では、手数料は少し下がりましたが、ほとんどのイーサリアムユーザーはこれが一時的なものであることを知っていたため、（プラズマを介して、後にロールアップに発展しました）スケーリングに取り組み続けました。その後、DeFiシーズンが到来し、手数料が非常に上昇したため、ICOが行われましたこれに比べると、CryptoKitties マニアは見劣りします。この投稿のポイントは、チェーンの需要が飽和すると、優先料金が発生し、ブロック スペースをめぐる入札戦争になることを説明することです。誰が勝つか知っていますか? MEV ボット、なぜなら、彼らは最も多くの手数料を費やし、アービトラージ、サンドイッチ攻撃、清算、ミントスナイピングなどを通じて期待値を獲得することをいとわない。これらすべては、レイヤー 1、レイヤー 2、サイドチェーン、モノリシック チェーン、モジュラー チェーンなど、望むものであれば何でも発生する可能性があります。私たちは業界として、分断された部族のグループとしてではなく、集合体としてこれらの問題に取り組むべきです。」",
-          "link": "https://www.odaily.news/ja/newsflash/345665",
-          "publishedOn": "2023-12-10T03:49:19.000Z",
-          "wordCount": 1760,
-          "title": "EthHub Lianchuang：業界はブロックスペース料金入札の問題を解決するために団結すべきであり、分割することはお勧めできません",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191584",
-          "author": null,
-          "description": "「サトシ・ナカモトは墓の中に転がり込んでいますが、ルークのような人々が実際にコア開発者になります。」",
-          "link": "https://www.odaily.news/ja/post/5191584",
-          "publishedOn": "2023-12-10T03:29:49.000Z",
-          "wordCount": 1722,
-          "title": "ビットコイン開発者らが国民の怒りを引き起こし、碑文が消える可能性も？ 「BTCエコシステム」",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345664",
-          "author": null,
-          "description": "Odaily News Demand Peak Eric Wall, one of the initiators of the Bitcoin Ordinals project Taproot Wizards, に投稿しました , なぜなら、それらは本質的に (需要曲線) が急すぎるからです. しかし、ビットコインによってロック解除された任意のブロック空間により、多数のメタ- 「需要の急増を共存させ、調整するためのプロトコルです...Ordinalsはほぼ1年前から存在しており、私たちはまだ始まったばかりです。」 以前のニュース、ビットコインNFTプロトコルOrdinalsの創設者であるCasey Rodarmor氏は、ソーシャルメディアに投稿しました。ビットコインのブロックスペースに対するさまざまな需要源があることは良いことです。さまざまな需要源が完全に相関していない場合、総需要曲線はより滑らかになる可能性があります。",
-          "link": "https://www.odaily.news/ja/newsflash/345664",
-          "publishedOn": "2023-12-10T03:26:09.000Z",
-          "wordCount": 1775,
-          "title": "Taproot Wizards 創設者: ビットコインのロックされていないブロック空間により、多数のメタプロトコルが共存し、需要の急増を調整できるようになります",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
