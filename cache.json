@@ -1147,6 +1147,126 @@
       "siteUrl": "https://www.odaily.news",
       "articles": [
         {
+          "id": "https://www.odaily.news/ja/newsflash/346265",
+          "author": null,
+          "description": "Odaily News Balancerは、 Sushi CTOは以前、Ledger Connect（Ledger Connect）が破損しているため、当面はDAppsを操作しないでくださいと警告を発したと報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/346265",
+          "publishedOn": "2023-12-14T13:21:30.000Z",
+          "wordCount": 1742,
+          "title": "バランサー: Ledger Connect には潜在的な脆弱性があるため、バランサー フロントエンドを使用しないでください。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346264",
+          "author": null,
+          "description": "Odaily News Slow Mist の創設者 Yu Xian 氏が有害な図書館のledgerhq/connect-kit に投稿しました。DApp 関連のすべての操作について警戒し、ウォレットによって署名されるリクエスト情報が予期されているかどうかに注意してください。",
+          "link": "https://www.odaily.news/ja/newsflash/346264",
+          "publishedOn": "2023-12-14T13:16:33.000Z",
+          "wordCount": 1741,
+          "title": "SlowMist の創設者: DApp 関連のすべての操作に注意し、ウォレットに署名するときに要求された情報が期待されているかどうかに注意してください",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346263",
+          "author": null,
+          "description": "Odaily News クロスチェーン DEX プロジェクト Kyber Network は、X プラットフォームに関する文書を発行し、状況が明らかになるまで警戒してフロントエンド UI を無効にしていると述べました。",
+          "link": "https://www.odaily.news/ja/newsflash/346263",
+          "publishedOn": "2023-12-14T13:11:28.000Z",
+          "wordCount": 1746,
+          "title": "Kyber Network: 十分な注意を払ってフロントエンド UI が無効になりました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346262",
+          "author": null,
+          "description": "Odaily News Aava の創設者 Stani 氏は、Sushi CTO が出した以前の警告に関して X プラットフォームで、Aava のインターフェースはまだ影響を受けておらず、すべての資金は安全であると述べました。 Ledgerからのさらなる説明があるまで、今のところDAppには近づかないでください。以前のニュースによると、Sushi CTO Matthew Lilley 氏は悪意のあるコードについて警告を発しました。その後、Matthew Lilly 氏は、コネクタが Ledger コネクタであることを明らかにしました。",
+          "link": "https://www.odaily.news/ja/newsflash/346262",
+          "publishedOn": "2023-12-14T13:10:02.000Z",
+          "wordCount": 1755,
+          "title": "Aava 創設者がレジャー コネクタの問題に対応: Aava インターフェイスはまだ影響を受けておらず、資金は安全です",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346261",
+          "author": null,
+          "description": "Odaily News Revoke.cash が「この脆弱性が悪用されている間は、暗号化された Web サイトを使用しないでください」に投稿されました。",
+          "link": "https://www.odaily.news/ja/newsflash/346261",
+          "publishedOn": "2023-12-14T13:06:06.000Z",
+          "wordCount": 1737,
+          "title": "Revoke.cash: Ledger 事件の影響を受けていることが確認され、Web サイトを一時的に閉鎖しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346260",
+          "author": null,
+          "description": "Odaily News Web3 セキュリティ会社 Blockaid は、レジャーコネクト スイートに対するサプライ チェーン攻撃を検出し、攻撃者が人気の NPM パッケージにウォレットを排出するペイロードを注入したとソーシャル メディアに投稿しました。現在、これはソーシャル ソフトウェア Hey.xyz、Sushi (.com) などを含む (ただしこれらに限定されない) 一部の主流 DApps に影響を及ぼします。感染したパッケージは LedgerHQ の接続キットで、影響を受けるバージョンは 1.1.4 です。",
+          "link": "https://www.odaily.news/ja/newsflash/346260",
+          "publishedOn": "2023-12-14T13:05:30.000Z",
+          "wordCount": 1765,
+          "title": "遮断：レジャーコネクトスイートがサプライチェーン攻撃を受ける",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346259",
+          "author": null,
+          "description": "Odaily News Bitget Wallet (旧 BitKeep) は、イーサリアム レイヤ 2 ネットワーク Linea との協力関係に達し、Task2Get の Linea Voyage イベント Wave 9 の第 2 フェーズを開始したと発表しました。 Bitget ウォレットは Linea メイン ネットワークに接続されており、メイン ネットワークとエコロジー プロジェクトに統合されたウォレット技術サポートを提供します。 12月14日の20:00から12月28日の20:00 (UTC+8)まで、ユーザーはウォレット内のLineaエコシステムを探索し、トークン交換やDAppインタラクションなどのタスクを完了してNFTを受け取り、賞金総額10,000ドルを共有できます。将来的には、Bitget Wallet もこのイベントで NFT 保有者に遡及的なエアドロップ報酬 (協力プロジェクト トークンなど) を発行します。 Task2Get は、Bitget Wallet によって開始された Web3 探索インセンティブ プラットフォームであり、チェーン上のさまざまなインタラクティブ タスクを集約します。このプラットフォームは、潜在的なメインネットやプロジェクトをスクリーニングして表示するだけでなく、ユーザーがエアドロップとより良く対話し、将来のエアドロップの利益を得るのにも役立ちます。人気のメインネットやプロジェクトと共同でタスクインセンティブアクティビティを立ち上げることで、ユーザーは分散型エコシステムを探索し対話しながらメリットを得ることができます。",
+          "link": "https://www.odaily.news/ja/newsflash/346259",
+          "publishedOn": "2023-12-14T13:00:47.000Z",
+          "wordCount": 1854,
+          "title": "Bitget Wallet は Linea と正式に提携し、Task2Get Linea インタラクティブ イベントの第 2 フェーズを開始しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346218",
+          "author": null,
+          "description": "Odaily News 公式ニュースによると、BTCエコシステムのステーブルコインプロトコルであるbitSmileyは、OKX VenturesとABCDEが共同主導するXプラットフォームでの投資ラインナップの第1ラウンドの完了を発表した。 bitSmiley は機関投資を受けた初の BTC エコロジカル ステーブルコイン プロトコルであると報告されており、このプロトコルによりユーザーはネイティブ BTC を過剰担保して BTC ネットワーク上でステーブルコイン bitUSD を鋳造することができます。同時に、bitSmiley には融資とデリバティブのプロトコルも含まれており、ビットコインに新しい金融エコシステムを提供することを目指しています。また、今年11月にABCDEとOKX Venturesが共催したBTCハッカソンにおいて、bitSmileyは優良プロジェクトに選ばれました。",
+          "link": "https://www.odaily.news/ja/newsflash/346218",
+          "publishedOn": "2023-12-14T13:00:00.000Z",
+          "wordCount": 1814,
+          "title": "BTC エコロジカル ネイティブ ステーブルコイン プロジェクトである BitSmiley が、OKX Ventures と ABCDE が共同主導して第 1 ラウンドの資金調達を開始しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191710",
+          "author": null,
+          "description": "フィリピンは Web3 ゲームの開発において世界をリードしています。",
+          "link": "https://www.odaily.news/ja/post/5191710",
+          "publishedOn": "2023-12-14T13:00:00.000Z",
+          "wordCount": 2031,
+          "title": "フィリピンの奥深くへ: Web3 ゲームの開発トレンドを観察するための重要な窓口",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346258",
+          "author": null,
+          "description": "Odaily PeckShieldAlert は、Zapper と Sushi のフロントエンドが侵害されたとコミュニティ貢献者が報告したとソーシャル メディアに投稿しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346258",
+          "publishedOn": "2023-12-14T12:55:58.000Z",
+          "wordCount": 1753,
+          "title": "Paidun: Zapper と Sushi フロントエンドが攻撃されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346257",
+          "author": null,
+          "description": "Odaily News Sushi CTO Matthew Lilley 氏は、 について警告を発しました。その後、Matthew Lilley 氏は、コネクタが Ledger コネクタであることを明らかにしましたが、現在、Trader Joe を含む一部の Dapps は、追って通知があるまで Ledger コネクタとの統合を積極的に停止すると述べています。",
+          "link": "https://www.odaily.news/ja/newsflash/346257",
+          "publishedOn": "2023-12-14T12:52:23.000Z",
+          "wordCount": 1780,
+          "title": "Sushi CTO: Ledger コネクタが破損しています。当面は Dapp を操作しないでください。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346256",
+          "author": null,
+          "description": "Odaily News Solana チェーンの碑文トークンである SOLS の最低価格は 40 SOL を超え、24 時間で 187% 以上の上昇、Solana チェーンの碑文トークン LAMP の最低価格は 1 SOL を超え、24 時間の上昇584%以上。",
+          "link": "https://www.odaily.news/ja/newsflash/346256",
+          "publishedOn": "2023-12-14T12:45:29.000Z",
+          "wordCount": 1802,
+          "title": "Solana チェーンの登録トークンである SOLS の最低価格は 40 SOL を超え、24 時間で 187% 以上上昇しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
           "id": "https://www.odaily.news/ja/newsflash/346255",
           "author": null,
           "description": "Odaily News 分散型物理インフラストラクチャ ネットワーク (DePIN) Hivello は、100 万米ドルのプレシード資金調達の完了を発表しました。この戦略的投資は、NGC、Blockchain Founders Fund、Side Door Ventures、IDG、Bing Ventures、MEXC Exchange、XT.com Exchange、Genesis Block、NxGen によってサポートされています。",
@@ -7715,66 +7835,6 @@
           "wordCount": 1892,
           "title": "Web3メディアRug RadioがArbitrumと提携",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345651",
-          "author": null,
-          "description": "Odaily News オンチェーンアナリストの Ember Monitoring によると、LayerX Capital は Binance と Wintermute から 2021 年 12 月の MATIC の歴史的高値に近い平均価格 2.38 ドルで 1,188 万 MATIC (2,833 万ドル) を受け取り/購入し、それをプレッジのために PoS に入金しました. .その後、2022年3月から順次MATICが償還されBinanceに送金され、これまで1年以上で合計1,057万MATIC（862万米ドル）がBinanceに償還され、平均価格は0.815米ドル。以前のニュースによると、LayerX Capitalは約10時間前に平均価格0.916ドルで362万MATIC（331万ドル）をBinanceに入金し、現在も718万MATIC（638万ドル）をPolygonにステーキングしている。",
-          "link": "https://www.odaily.news/ja/newsflash/345651",
-          "publishedOn": "2023-12-10T01:25:31.000Z",
-          "wordCount": 1952,
-          "title": "LayerX Capital は、昨年 3 月以来、合計 1,057 万 MATIC (862 万米ドル相当) を償還し、Binance に移管しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345650",
-          "author": null,
-          "description": "Odaily News OKX 市場によると、IMX は 1.9 USDT を超え、現在 1.9213 USDT で取引されており、24 時間で 22.45% 上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/345650",
-          "publishedOn": "2023-12-10T01:11:13.000Z",
-          "wordCount": 1895,
-          "title": "IMXは1.9 USDTを突破し、24時間で22.45%上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345649",
-          "author": null,
-          "description": "Odaily News Spot On Chain モニタリングによると、LayerX Capital と Giant Whale は過去 10 時間で 1,253 万 MATIC (1,133 万米ドル) を Binance と Coinbase に入金しました 具体的には: 1. LayerX Capital は約 10 時間前、平均価格 0.916 USDは362万MATIC（331万ドル）をBinanceに入金しました。 - Polygon にまだ 718 万 MATIC (638 万ドル) が約束されています; - 推定総損失: 1,750 万ドル (-58.1%)。 2. 2 頭のクジラ 0x2e9 と 0xdb6 (おそらく同一人物) は、約 9.5 時間前に平均価格 0.91 ドルで 527 万 MATIC (480 万ドル) を Binance に入金しました。 - 推定利益: 36,100 米ドル (+0.76%); 3. クジラ 0x5d7 は、約 40 分前に平均価格 0.886 米ドルで 364 万 MATIC (322 万米ドル) を Coinbase に入金しました。 - 予想利益: 521,000 ドル (+19.3%)。",
-          "link": "https://www.odaily.news/ja/newsflash/345649",
-          "publishedOn": "2023-12-10T01:07:37.000Z",
-          "wordCount": 2018,
-          "title": "LayerX Capital と 3 つのクジラアドレスは、過去 10 時間で 1,253 万 MATIC を CEX に入金しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345648",
-          "author": null,
-          "description": "1. しばりむネットワーク上の取引数は碑文ブームにより急増し、総取引数は6,700万件を超えた; 2. 昨日、あるクジラがバイナンスに3,000BTCを入金し、2,300万米ドルの利益が見込まれる; 3. 3. 柴犬開発主任：しばリウム関連情報を近日公開 重要なお知らせ; 4. Compound DAOの「開発者に125,000米ドルのバグ報奨金を支払う」という提案は承認されなかった; 5. イーサリアムL2 TVLは160.3億米ドル、そしてImmutable X TVLは7日に32.44%上昇; 6. テザー、流通市場を対象とした米国OFAC制裁リストに対するウォレット凍結政策を発表; 7. BNBチェーン：メロンコインなどの高リスクDAppsに注意; 8.上海の2023年ブロックチェーン主要技術研究特別プロジェクトリストが発表、今年は2,516万元が割り当てられた、9. 分散型クリエイタープラットフォームMoraがMora-20碑文開発計画を発表、10. Lifnity LFNTY-USDCプールがアービトラージボットにより枯渇、70万ドル近くの損失をもたらしました。",
-          "link": "https://www.odaily.news/ja/newsflash/345648",
-          "publishedOn": "2023-12-10T01:02:12.000Z",
-          "wordCount": 1901,
-          "title": "毎日の朝のニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345647",
-          "author": null,
-          "description": "Odaily News DEX Lifinity の LFNTY-USDC プールは 12 月 8 日に裁定取引ボットによって枯渇し、約 699,090 米ドルの損失が発生しました。ダーデンという名前のLifinityコアメンバーは、ボットがUSDC > xLFNTY > LFNTY > USDCのルートに沿って裁定取引を実行しようとしたと説明しました。ボットは Serum V3 で即時キャンセル (IOC) 成行注文を開始しました。この注文タイプは、約定された場合は現在の市場価格で即時に実行される必要があります。すぐに完了できない注文はキャンセルされます。 (コインテレグラフ)",
-          "link": "https://www.odaily.news/ja/newsflash/345647",
-          "publishedOn": "2023-12-10T00:55:44.000Z",
-          "wordCount": 1943,
-          "title": "リフニティ LFNTY-USDC プールが裁定取引ボットによって枯渇し、70 万ドル近くを損失",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345646",
-          "author": null,
-          "description": "Odaily News 公式ニュースによると、テザーは仮想通貨エコシステムの保護を目的とした最新の取り組みを発表した。同社は2023年12月1日、外国資産管理局（OFAC）のSDNリストに載っている制裁対象者、制裁対象国によって管理または所有されている企業や個人に関連する活動と闘うため、新たな自主的なウォレット凍結政策を開始することを決定した。 。 Tether は、このポリシーを実装することで、既存のセキュリティ プロトコルを補完するためにさらに積極的な措置を講じています。テザーは流通市場でこのポリシーを提供する予定であり、すでにプラットフォーム上のウォレットに対する制裁管理を実装しています。この取り組みは、ステーブルコインの使用を保護するために、世界中の規制当局や法執行機関とより緊密に連携する積極的な取り組みです。このポリシーに準拠するために、Tether は以前に SDN リストに追加されたウォレットを凍結するなど、特別な予防措置を講じています。",
-          "link": "https://www.odaily.news/ja/newsflash/345646",
-          "publishedOn": "2023-12-10T00:41:59.000Z",
-          "wordCount": 1898,
-          "title": "テザー、米国OFAC制裁リストに対抗し流通市場を対象としたウォレット凍結政策を発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -7783,6 +7843,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=358947",
+          "author": "NewEconomy",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/358947",
+          "publishedOn": "2023-12-14T13:01:17.000Z",
+          "wordCount": 784,
+          "title": "【12/14話題】ヴィタリックがzkEVMをイーサリアムに実装する考え、米FASBが暗号資産に公正価値会計を採用など",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/14175427/news_head_20231214.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=358942",
           "author": "gentosha_takahashi",
