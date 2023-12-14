@@ -1108,21 +1108,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/nisa-tokushu0.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/nisa-tokushu0.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=496835",
-          "author": "A.Sakamoto",
-          "description": "650万円まで回復するもやや軟化傾向で推移する今週のビットコインチャートを図解。国内大手取引所bitbankのアナリストが今後の展望を読み解く。オンチェーンデータも掲載。",
-          "link": "https://coinpost.jp/?p=496835",
-          "publishedOn": "2023-12-10T02:30:50.000Z",
-          "wordCount": 1891,
-          "title": "今週のビットコイン650万円まで高騰も、値幅調整リスクには要警戒｜bitbankアナリスト寄稿",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
         }
       ]
     },
@@ -1131,6 +1116,96 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346286",
+          "author": null,
+          "description": "Odaily News ビットコイン リベート プラットフォーム Lolli がシリーズ B 資金調達で 800 万米ドルを完了 この資金調達ラウンドは、BITKRAFT Ventures、Sfermion、Ulta Beauty の Prisma Ventures、Hypersphere Ventures、ZebPay CEO の Rahul Pagidipati、2 Punks Capital、MZ Web3 Fund、Seven Seven が主導しましたファウンダーズ・ファンドのパスファインダー・ベンチャーズ、ベイン・キャピタル・ベンチャーズ、セリーナ・ウィリアムズのセレナ・ベンチャーズ、ローガン・ポール、ミスタービーストのナイト・メディアの6社が投資に参加した。",
+          "link": "https://www.odaily.news/ja/newsflash/346286",
+          "publishedOn": "2023-12-14T15:16:23.000Z",
+          "wordCount": 1715,
+          "title": "ビットコインリベートプラットフォームのLolliがBITKRAFT Ventures主導で800万米ドルの資金調達を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346285",
+          "author": null,
+          "description": "Odaily News Tether CEOのPaolo Ardoino氏は、Xプラットフォーム上で、TetherがLedgerエクスプロイターのアドレスを凍結したところだと述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/346285",
+          "publishedOn": "2023-12-14T15:13:55.000Z",
+          "wordCount": 1688,
+          "title": "テザーはレジャーエクスプロイト者のアドレスを凍結した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346284",
+          "author": null,
+          "description": "Odaily News ブロックチェーンデータ分析会社ビットレースは、Xプラットフォームに関する記事を掲載し、パニックの中で偽のウォレットがお金を盗むリスクを警戒していると述べた。 Bitraceは、Ledgerのサプライチェーン攻撃が明らかになった後、被害者2名がパニックから資産を新しいアドレスに送金しようとしたが、偽のウォレットアプリをダウンロードし、その結果合計9.7ETHと60,000USDT以上が盗まれたという報告を受け取りました。選ぶ。",
+          "link": "https://www.odaily.news/ja/newsflash/346284",
+          "publishedOn": "2023-12-14T15:04:00.000Z",
+          "wordCount": 1695,
+          "title": "Bitrace: Ledger 攻撃のパニックの中で偽のウォレットから通貨が盗まれるリスクに注意してください",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346283",
+          "author": null,
+          "description": "Odaily News Bounce ブランドが掲載されました",
+          "link": "https://www.odaily.news/ja/newsflash/346283",
+          "publishedOn": "2023-12-14T14:57:41.000Z",
+          "wordCount": 1707,
+          "title": "Bounce Brand: スクリプトの問題を防ぐために、BDID 宝くじチケットが 20,000 に増加されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346282",
+          "author": null,
+          "description": "Odaily News Token 権限クエリツール Revoke.cash は、Ledger connect-kit の脆弱性悪用に関する最新情報をリリースし、悪用された依存関係が Web サイトから削除され、Web サイトへのアクセスが再開されたと発表しました。現在も、安全性が確認されていない暗号化された Web サイトを使用しないことがユーザーに推奨されています。",
+          "link": "https://www.odaily.news/ja/newsflash/346282",
+          "publishedOn": "2023-12-14T14:56:29.000Z",
+          "wordCount": 1700,
+          "title": "Revoke.cash: 台帳エクスプロイトがサイトから削除され、アクセスが再開されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346281",
+          "author": null,
+          "description": "Odaily News Sushiはセキュリティアップデートをリリースし、問題は解決され、侵害されたLedgerコネクタをWebサイトから削除し、完全な機能を復元したと発表した。ウェブサイトは現在オンラインに戻っており、ユーザーは安全性が不確実なDAppsを操作しないよう注意を喚起されている。",
+          "link": "https://www.odaily.news/ja/newsflash/346281",
+          "publishedOn": "2023-12-14T14:55:16.000Z",
+          "wordCount": 1704,
+          "title": "Sushi: Broken Ledger コネクタが削除され、サイトがオンラインに戻りました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346280",
+          "author": null,
+          "description": "Odaily は、Lookonchain の監視によると、Ledger Connect Kit の脆弱性ハッカーが約 484,000 米ドルの資産を盗んだと報じました。レジャー攻撃者は4.334 ETHをAngel Drainerに送金しました。 AngelDrainer も現在資産を受け取り、363,000 ドルの資産を保有しています。",
+          "link": "https://www.odaily.news/ja/newsflash/346280",
+          "publishedOn": "2023-12-14T14:49:45.000Z",
+          "wordCount": 1719,
+          "title": "ハッカーがLedger Connect Kitの脆弱性を悪用して約484,000ドルを盗んだ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346279",
+          "author": null,
+          "description": "Odaily News Scope Protocol Lianchuang 0xSentry は、X プラットフォーム上で、攻撃者が残したデジタル痕跡には @JunichiSugura (Jun、Ledger の元従業員) の Gmail アカウントが関与しており、後者のアカウントが侵害された可能性があると述べました。",
+          "link": "https://www.odaily.news/ja/newsflash/346279",
+          "publishedOn": "2023-12-14T14:44:38.000Z",
+          "wordCount": 1711,
+          "title": "0xScopeパートナー：リーガーが攻撃された理由は元従業員のアカウントが流出した可能性",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346278",
+          "author": null,
+          "description": "Odaily News Bloombergのアナリスト、James Seyffart氏はXプラットフォーム上で、Valkyrieが本日新たに改訂されたビットコインスポットETF目論見書（S-1文書）を提出したと述べた。彼らは、ビットワイズとインベスコに加わり、作成と償還は現金でのみ行うことができると述べています。インベスコと同様に、この文書には、許可された場合には将来的に物理的なアイテムを使用したいと具体的に記載されています。",
+          "link": "https://www.odaily.news/ja/newsflash/346278",
+          "publishedOn": "2023-12-14T14:42:48.000Z",
+          "wordCount": 1691,
+          "title": "ヴァルキリーは、ビットコインスポットETFの作成と償還は現金でのみ行うことができると記載した新たに改訂された目論見書を提出",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346277",
           "author": null,
@@ -7829,46 +7904,6 @@
           "publishedOn": "2023-12-10T03:26:09.000Z",
           "wordCount": 1775,
           "title": "Taproot Wizards 創設者: ビットコインのロックされていないブロック空間により、多数のメタプロトコルが共存し、需要の急増を調整できるようになります",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345663",
-          "author": null,
-          "description": "Odaily News Galaxy Digital CEOのMike Novogratz氏は、JPモルガン・チェースCEOのジェイミー・ダイモン氏のビットコインに対する見解が間違っていたことが証明されたと述べた。ノボグラッツ氏は「私の意見では、ジェイミー・ダイモンは何が価値があるのか​​を自分が知っており、他の誰も知らないと考えているが、それは非常に傲慢だ」と述べ、以前、ジェイミー・ダイモンはビットコインなどの仮想通貨が犯罪者に利用されていると批判し、もし自分が価値あるものであれば、と強調した。政府と彼は仮想通貨を禁止するだろう。 (Bitcoin.com)",
-          "link": "https://www.odaily.news/ja/newsflash/345663",
-          "publishedOn": "2023-12-10T03:13:20.000Z",
-          "wordCount": 1763,
-          "title": "ギャラクシーデジタルCEO、ビットコインに関するジェイミー・ダイモンの発言を「極端なまでに傲慢」と非難",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345662",
-          "author": null,
-          "description": "デイリーニュースのブラーデータによると、プッジーペンギンの最低価格は12ETHを超え、新高値を更新し続けており、現在は12.33ETHで取引されており、1日で15.23％上昇、7日間で45.74％上昇した。",
-          "link": "https://www.odaily.news/ja/newsflash/345662",
-          "publishedOn": "2023-12-10T02:51:03.000Z",
-          "wordCount": 1757,
-          "title": "プッジーペンギンの最低価格は12ETHを突破し、新高値を更新し続ける",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345661",
-          "author": null,
-          "description": "Odaily News 暗号化メディア Decrypt は、Web3 メディア Rug Radio と合併する意向書に署名し、両社はそれぞれのブランドと独立性を維持しながら、まだ名前は決まっていない新しい持株会社を設立するために合併する予定です。持ち株会社の会長には、現Decrypt CEOのJosh Quitner氏が就任する。ラグ・ラジオの現共同最高経営責任者ロクスリー・フェルナンデス氏と創設者ファロック・サルマド氏は、それぞれ新持ち株会社のCEOと社長に就任する。 Decrypt は、ブロックチェーン空間から長寿命や新興テクノロジー/人工知能などの新しい分野に拡大したいと考えています。新しい持ち株会社は、Arbitrum と独占的に協力する予定です。両社は独立して運営されますが、両社の事業開発を促進するために広告取引で協力する予定です。 Rug Radio には現在 12 人のフルタイム従業員がいますが、Decrypt には 22 人がいます。取引完了後も、全従業員は両社に残ります。幹部らは２０２４年初めに取引を完了することを目指しており、取引に規制当局の承認は必要ないと予想していると述べた。 (アクシオス)",
-          "link": "https://www.odaily.news/ja/newsflash/345661",
-          "publishedOn": "2023-12-10T02:44:51.000Z",
-          "wordCount": 1783,
-          "title": "DecryptとRug Radioが合併して新たな持株会社を設立する意向書に署名",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345660",
-          "author": null,
-          "description": "Odaily News Pudgy Penguins は、オンライン ゲーム プラットフォーム Pudgy World の立ち上げを計画しており、プラットフォームの初期バージョンは 2024 年 4 月までにリリースされ、プレーヤーに物語主導のオープンエンドのゲーム オプションを提供します。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/345660",
-          "publishedOn": "2023-12-10T02:34:57.000Z",
-          "wordCount": 1816,
-          "title": "Pudgy Penguins はオンライン ゲーム プラットフォームである Pudgy World の立ち上げを計画しており、初期バージョンは 2024 年 4 月までにリリースされる予定です。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
