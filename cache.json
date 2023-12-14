@@ -410,16 +410,6 @@
           "wordCount": 1357,
           "title": "エルサルバドル、「Freedom VISA」で年間10億ドルのビットコイン投資を狙う",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/shutterstock_1988913938.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=211609",
-          "author": "増田 隆幸",
-          "description": "今週の注目！ 先日、NHKの番組でサトシ・ナカモトが取り上げられた。無関係だろうが、「2023年に入ってから、いくつかの「サトシ時代」のビットコインが動き出して ...\n「サトシ時代」の1000BTCが移動／機関投資家はアルトコインを無視【Weekly Review：12/2〜12/8】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/211609/",
-          "publishedOn": "2023-12-09T22:00:00.000Z",
-          "wordCount": 1405,
-          "title": "「サトシ時代」の1000BTCが移動／機関投資家はアルトコインを無視【Weekly Review：12/2〜12/8】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_1230901522-1.jpg"
         }
       ]
     },
@@ -434,6 +424,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=498425",
+          "author": "CoinPost編集部",
+          "description": "自民党は来年度税制改正をめぐる「税制改正大綱」を発表した。発行者以外の第三者が保有する法人所有の暗号資産（仮想通貨）について期末時価評価課税の対象外とする見直しが明記された。個人投資家の20%の申告分離課税や暗号資産同士の交換時課税については、「税制改正大綱」には記載されず、翌年以降に課題は持ち越された。",
+          "link": "https://coinpost.jp/?p=498425",
+          "publishedOn": "2023-12-14T09:13:03.000Z",
+          "wordCount": 1883,
+          "title": "2024年度の税制改正大綱発表、法人（発行者以外の第三者）による「期末時価評価課税」も対象外へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/tax-sumb.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/tax-sumb.png"
+        },
         {
           "id": "https://coinpost.jp/?p=498355",
           "author": "A.Yamada",
@@ -1131,6 +1136,126 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346239",
+          "author": null,
+          "description": "Odaily News 公式ニュースによると、BitTrust のアドレス数はオンラインになってから 24 時間以内に 3,000 を超えました。 BitTrust は、完全にライトニング ネットワーク上で実行される分散型取引プラットフォームで、INSCRIPTION および BRC-20 トークンの取引サービスを提供します。将来的には、BitTrust により、他の資産 (NFT など) と BRC-20 トークンの間のシームレスな相互運用性も可能になります。",
+          "link": "https://www.odaily.news/ja/newsflash/346239",
+          "publishedOn": "2023-12-14T10:26:18.000Z",
+          "wordCount": 1767,
+          "title": "Lightning Network DEX BitTrust がオンラインになってから 24 時間のアドレス数が 3,000 を超えました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346238",
+          "author": null,
+          "description": "Odaily News の公式ガバナンス ページによると、「Aave Governance V3 Activation」に関する Aave コミュニティの提案が投票を開始しており、現在の支持率は 100% です。この提案では、Aave Governance V2.5 を V3 に移行し、すべての権限を V2 システムから V3 に転送し、必要なすべてのスマート コントラクトのアップグレードとさまざまな準備を実行することを提案しています。さらに、Governance V3 の最適な機能に必要な Aave Robot システムがアクティブになります。",
+          "link": "https://www.odaily.news/ja/newsflash/346238",
+          "publishedOn": "2023-12-14T10:23:23.000Z",
+          "wordCount": 1761,
+          "title": "「Aave Governance V3 Activation」に対する Aave コミュニティの提案が投票開始されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346237",
+          "author": null,
+          "description": "バーゼル銀行監督委員会（BCBS）は、木曜日に発表された諮問文書の中で、ステーブルコインがビットコインなどの裏付けのない仮想通貨よりもリスクが低いとみなせるように基準を改訂することを提案した。先週、BCBSがステーブルコインの分類基準の改訂を検討していると報じられ、木曜日に発表された協議草案には改訂案の詳細が記載されている。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/346237",
+          "publishedOn": "2023-12-14T10:14:42.000Z",
+          "wordCount": 1717,
+          "title": "バーゼル委員会、ステーブルコインを裏付けのない仮想通貨よりもリスクが低いとみなせるよう基準の改訂を提案",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346236",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、OKX は 12 月 20 日午後 6 時 (UTC+8) に AVIVE/USDT 取引を開始します。AVIVE 入金は 12 月 14 日午後 6 時 (UTC+8) に開始されます。 AVIVE の出金コインは12月21日午後6時(UTC+8)にオープンします。 Ave は地理情報に基づくソーシャル プロトコルであり、Proof of Networking コンセンサス メカニズムを通じて 130 以上の国/地域からの何百万人ものユーザーを Ave L2 上で結び付けることが報告されています。",
+          "link": "https://www.odaily.news/ja/newsflash/346236",
+          "publishedOn": "2023-12-14T10:08:50.000Z",
+          "wordCount": 1751,
+          "title": "OKXは12月20日18:00にAVIVE/USDT取引を開始し、現在入金が開始されています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346235",
+          "author": null,
+          "description": "オデイリーニュース フィリピン証券取引委員会（SEC）のケルビン・リー委員長は12月13日のパネル会議で、バイナンスの禁止措置は勧告が出されてから3か月後に発効すると明らかにした。報道によると、リー氏は、規制当局が11月28日にバイナンスに対して無許可営業勧告を出した後、禁止について業界で多くの混乱が生じたと述べた。同氏はこの件について明確にするよう求められ、禁止措置は「発令日から３カ月以内に発効するはずだ」と述べた。 11月29日に禁止令が出されたと報じられている。 （コインテレグラフ）公式声明によると、これに先立つ11月29日、フィリピン証券取引委員会（SEC）は、バイナンスはフィリピンで企業として登録されておらず、必要なライセンスや認可なしに運営されていると述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/346235",
+          "publishedOn": "2023-12-14T10:00:22.000Z",
+          "wordCount": 1719,
+          "title": "フィリピンSECのバイナンス禁止措置は11月29日から3か月以内に発効する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346234",
+          "author": null,
+          "description": "Odaily News Coinbase International Exchange (Coinbase International Exchange) は、BTC-USDC および ETH-USDC 市場がポストオンリーモードに入ったことを発表し、顧客は指値注文を発注およびキャンセルすることができますが、マッチング (注文の完了) は行われません。上記のマーケットは、少なくとも 1 分間は公開専用モードになります。昨日、Coinbaseが世界展開の一環として国際取引所でスポット仮想通貨取引を開始すると報じられた。コインベースは、一部のユーザーは米国の規制背景が不透明なため、米国の取引場に警戒していると述べた。 Coinbaseの文書によると、木曜日から機関投資家は国際プラットフォーム上でBTCとETHをUSDCと取引できるようになる。",
+          "link": "https://www.odaily.news/ja/newsflash/346234",
+          "publishedOn": "2023-12-14T09:43:34.000Z",
+          "wordCount": 1754,
+          "title": "Coinbase InternationalがBTC-USDCおよびETH-USDC市場を開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346233",
+          "author": null,
+          "description": "Odaily News Sky Mavis は、P2E チェーンゲーム Axie Infinity のモンスター NFT キャラクターがまもなくアップグレードできるようになることを明らかにしました。最近のアップデートにより、各 Axie モンスターは「ステージ 2」進化（ポケモンと同様）を受けることができます。 12月14日から、250を超える異なるアクスィーの「パーツ」をどのアクスィーNFTでも進化させることができ、キャラクターの戦闘能力と外観をアップグレードできます。 Sky Mavis の共同創設者である Jeffrey Jiho Zirlin 氏はインタビューで、「私たちは Axie を進化可能なデジタル収集品に変えようとしています。これは実際、5 年以上にわたる私たちの中心的なビジョンです。」(Decrypt) と語った。",
+          "link": "https://www.odaily.news/ja/newsflash/346233",
+          "publishedOn": "2023-12-14T09:39:54.000Z",
+          "wordCount": 1782,
+          "title": "Sky Mavis：Axie Infinity NFTキャラクターは「ステージ2」進化します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346232",
+          "author": null,
+          "description": "Odaily News DWF Labs のパートナーである Andrei Grachev 氏は、DWF Labs が 2 つのマーケット メーカー製品を開発中であると投稿しました。1 つは大規模なエコシステムにサービスを提供し、もう 1 つは L1/L2 にサービスを提供します。",
+          "link": "https://www.odaily.news/ja/newsflash/346232",
+          "publishedOn": "2023-12-14T09:38:21.000Z",
+          "wordCount": 1786,
+          "title": "DWF Labs は、大規模なエコシステム (L1/L2) にそれぞれサービスを提供する 2 つのマーケット メーカー製品を構築しています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346231",
+          "author": null,
+          "description": "Odaily News Rune Alpha データによると、トークン PSBTS が鋳造され、それには 188 ブロックが必要で、総額は 3 億 4,920 万に達しました。 Mempoolのデータによると、ビットコインのネットワーク料金は短期間で215sat/バイトにまで下がった。",
+          "link": "https://www.odaily.news/ja/newsflash/346231",
+          "publishedOn": "2023-12-14T09:28:13.000Z",
+          "wordCount": 1783,
+          "title": "Rune Alpha の PSBTS が鋳造され、総供給量は 3 億 4,900 万を超えました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191707",
+          "author": null,
+          "description": "BRC-20 の生態学的発生、他に待ち伏せできる機会は何でしょうか?",
+          "link": "https://www.odaily.news/ja/post/5191707",
+          "publishedOn": "2023-12-14T09:27:42.000Z",
+          "wordCount": 2051,
+          "title": "フルチェーン Inscription アグリゲーション取引プロトコルの 20Exchange エアドロップの完全ガイド",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346230",
+          "author": null,
+          "description": "デイリーニュース Lookonchain の監視によると、一部のトレーダーは Solana でトークンを取引し始め、利益を得始めました。あるトレーダーは、1 か月以内にコストを 3,000 米ドルから 350,000 米ドルに増加させました。彼の取引戦略には、MYRO、WIF、CORN などのトークンが含まれていました。このトレーダーは現在、143万MYRO（2万6000ドル）、25万WIF（約80SOL相当）、80億CORN（約297SOL相当）を保有している。",
+          "link": "https://www.odaily.news/ja/newsflash/346230",
+          "publishedOn": "2023-12-14T09:27:12.000Z",
+          "wordCount": 1757,
+          "title": "Solana エコシステム トークンの取引により、トレーダーは約 35 万ドルを稼いだ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346229",
+          "author": null,
+          "description": "毎日のニュース: Upbit の公式発表によると、SUI ウォレット システムのメンテナンスのため、プラットフォームは SUI の入出金サービスを一時停止します。メンテナンスが完了次第、サービスを再開いたします。",
+          "link": "https://www.odaily.news/ja/newsflash/346229",
+          "publishedOn": "2023-12-14T09:23:41.000Z",
+          "wordCount": 1729,
+          "title": "Upbit：ウォレットシステムメンテナンスのため、SUI入出金サービスを一時停止させていただきます。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346228",
           "author": null,
