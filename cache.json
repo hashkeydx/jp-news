@@ -1368,21 +1368,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/India0610211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/India0610211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=497487",
-          "author": "S.Ninomiya",
-          "description": "暗号資産（仮想通貨）市場では、過去数週間の過熱感の反動でビットコインが30,400ドルまで急落し、高騰していた主要アルトコインも利確売りが先行した。ボラティリティ（価格変動性）上昇が懸念される。",
-          "link": "https://coinpost.jp/?p=497487",
-          "publishedOn": "2023-12-11T03:13:31.000Z",
-          "wordCount": 2005,
-          "title": "ビットコイン急落で400億円規模のロスカット、主要アルトも反動安",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/bitcoin_crash-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/bitcoin_crash-1.jpg"
         }
       ]
     },
@@ -1391,6 +1376,126 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346449",
+          "author": null,
+          "description": "デイリーニュース 韓国銀行の李昌勇総裁は、ステーブルコインの成長は中央銀行にとって課題となっていると述べた。これは、小売か卸売かを問わず、中央銀行デジタル通貨（CBDC）導入の緊急性を浮き彫りにしています。李昌勇氏は、ステーブルコインの広範な採用は中央銀行マネーの役割を低下させ、金融政策の有効性を損なう可能性があると述べた。韓国銀行は大規模なCBDCパイロットを研究しており、実物資産のトークン化への応用を模索している。韓国銀行は来年、10万人が参加する小売CBDC試験プログラムを実施する予定だ。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/346449",
+          "publishedOn": "2023-12-15T15:22:45.000Z",
+          "wordCount": 1667,
+          "title": "韓国銀行総裁：ステーブルコインは中央銀行にとって課題であり、CBDCの導入は差し迫っている",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346448",
+          "author": null,
+          "description": "Odaily News Coinbaseは米国証券取引委員会（SEC）にデジタル資産向けのカスタマイズされたルールシステムの開発を求める請願を提出したが、規制当局によって拒否された。 「既存の証券制度は暗号資産証券を適切に管理している」と会長のゲイリー・ゲンスラー氏は声明で述べた。同氏は、SECが現在の法律の下で十分な権限を持っていると信じていることに加え、業界規制当局はすでに仮想通貨ビジネスを直接規制する規則案に関与しており、その執行部門も不適切な行為に対処できると述べた。同時に同氏は、「ルール策定の優先順位を独自に設定する際には委員会の裁量権を維持することが重要である」という3番目の主張も行った（コインデスク）。",
+          "link": "https://www.odaily.news/ja/newsflash/346448",
+          "publishedOn": "2023-12-15T15:17:39.000Z",
+          "wordCount": 1668,
+          "title": "SECはコインベースの仮想通貨規制推進を「根拠がない」と否定",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346447",
+          "author": null,
+          "description": "Odaily News Fantom は、以前の Sonic オープン テスト ネットワークに代わる新しいネットワークである Sonic Builders テスト ネットワークを立ち上げることを公式ブログで発表しました。開発者が Sonic テクノロジーで dApps を起動するために必要なツールが完全に装備されており、トークンの請求やスワップの実行など、メインネットの起動に備えて開かれたテストネット ダッシュボードの主な機能は維持されます。同時に、同関係者は新しいインキュベーターである Sonic Labs を立ち上げ、開発者が前例のないパフォーマンスを備えた革新的な dApp を構築し、ビルダー テストネットに dApp をデプロイすることで Sonic メインネットに備えるのを支援しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346447",
+          "publishedOn": "2023-12-15T15:15:17.000Z",
+          "wordCount": 1707,
+          "title": "Fantom が Sonic Builders テストネットの立ち上げを発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346446",
+          "author": null,
+          "description": "Odaily News Pyth Network は、ビットコイン DeFi レイヤー スタック上での Pyth 価格フィード サービスの完全展開と開始を発表する文書を X プラットフォーム上で正式に発行しました。 Stacks の開発者は、デジタル資産、FX ペア、ETF、商品、株式の 400 以上のリアルタイム価格ソースとアプリケーションを統合できるようになりました。この展開は、ビットコイン レイヤー開発ツール会社 Hero の貢献者のおかげで可能になり、Stacks のスマート コントラクト開発者は、Pyth Price Feed と Pyth Benchmarks の全機能とカタログから恩恵を受けることができます。",
+          "link": "https://www.odaily.news/ja/newsflash/346446",
+          "publishedOn": "2023-12-15T15:09:41.000Z",
+          "wordCount": 1693,
+          "title": "Python、Stacksへの導入を発表、価格フィードサービスを提供",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346445",
+          "author": null,
+          "description": "デイリーニュース 米国証券取引委員会（SEC）委員長室は12月14日、スポットビットコインETFに関してブラックロックと会談した。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/346445",
+          "publishedOn": "2023-12-15T15:02:40.000Z",
+          "wordCount": 1667,
+          "title": "米国SEC議長室は12月14日、スポットビットコインETFに関してブラックロックと会談した。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346444",
+          "author": null,
+          "description": "Odaily News F1 Red Bull は 2023 年の F1 ランキングで 2 人のドライバーをトップに据えており、今年はマックス・フェルスタッペンとセルジオ・ペレスがそれぞれ 1 位と 2 位にランクされており、レッドブルは他のすべてのチームを大きくリードしています。レッドブルチームはファンがこの成功した年を思い出すのに役立つNFTを準備しており、記念のNFTはSuiブロックチェーン上で鋳造されます。 「オラクル・レッドブル・レーシングは、チームが単一シーズンで最も多くのチャンピオンシップポイントを獲得した記録を樹立するなど、その歴史の中で最も成功した年を迎えた」とレッドブルは声明で述べた。 「収集品には、モータースポーツを中心としたデザインとアートの創造に情熱を注ぐ、受賞歴のあるデザインスタジオであるオートモビリストによってデザインされたユニークなアートワークが特徴です。NFTはBybit.com経由で入手可能です。」（Theblock）",
+          "link": "https://www.odaily.news/ja/newsflash/346444",
+          "publishedOn": "2023-12-15T15:00:04.000Z",
+          "wordCount": 1700,
+          "title": "F1レッドブルレーシングは、今年の優位性を記念して一連のNFTを発売する準備をしています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346443",
+          "author": null,
+          "description": "Odaily News OKX市場は、BTCが42,000 USDTを下回り、一時42,050 USDTで取引され、24時間で2.27％下落したことを示しています。",
+          "link": "https://www.odaily.news/ja/newsflash/346443",
+          "publishedOn": "2023-12-15T14:54:03.000Z",
+          "wordCount": 1673,
+          "title": "BTCが42,000USDTを下回る",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346442",
+          "author": null,
+          "description": "Odaily News Wanxiang Blockchain Labs と HashKey Group が共催する香港 Web3 フェスティバルは、第 2 回香港 Web3 フェスティバルが 2024 年 4 月 6 日から 9 日まで開催されると発表しました。 2023 年の記録破りのイベントの大成功を受けて、2024 年の HK Web3 フェスティバルには世界中から多くの業界ゲストが集まります。最初の Web3 フェスティバルには 50,000 人以上の参加者、世界中から 300 人の講演者、100 人の出展者、および 200 近くの周辺アクティビティが開催されました。これは、香港の Web3 業界にとって画期的なマイルストーンとして広く認められています。近年、香港は Web3 に積極的に参加し、仮想資産政策声明や Web3 ワーキング グループなどの一連の野心的な試みを含め、Web3 のビジョンを拡大してきました。",
+          "link": "https://www.odaily.news/ja/newsflash/346442",
+          "publishedOn": "2023-12-15T14:50:38.000Z",
+          "wordCount": 1805,
+          "title": "香港 Web3 フェスティバル 2024 は来年 4 月 6 日から 9 日まで開催されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346441",
+          "author": null,
+          "description": "Odaily News レイヤー 2 ソリューション Enphyr は、最近のシードファイナンスラウンドで 100 万米ドルの投資を受け、会社の評価額は 1,000 万米ドルになりました。この資金調達ラウンドはWaveslab Venturesが主導し、多くの重要な民間投資家が参加した。 Enphyrは、この資金はチームの拡大、戦略的パートナーシップの模索、エンジニアリングプロジェクトの強化に使用され、プロトコルインフラストラクチャのより多くのアプリケーションシナリオの実現を加速すると述べた。 Enphyr は、イーサリアムのセキュリティを活用して次世代アプリケーションを構築することを目指しています。 (グローブニュースワイヤー)",
+          "link": "https://www.odaily.news/ja/newsflash/346441",
+          "publishedOn": "2023-12-15T14:45:00.000Z",
+          "wordCount": 1736,
+          "title": "レイヤ 2 プロジェクト Enphyr が、Waveslab Ventures 主導のシードラウンドで 100 万米ドルの資金調達を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346440",
+          "author": null,
+          "description": "Odaily News SECは、Coinbase Global, Inc.を代表して提出された規則制定申請を拒否したことを示す発表を発表した。具体的な理由は次のとおりです: 1. 既存の法律と規制が暗号通貨証券市場に適用される; 2. SEC はルール策定を通じて暗号証券市場の問題に対処する; 3. 独自のルール策定の優先事項を策定する際には、委員会の裁量権を維持することが重要である。",
+          "link": "https://www.odaily.news/ja/newsflash/346440",
+          "publishedOn": "2023-12-15T14:41:51.000Z",
+          "wordCount": 1688,
+          "title": "SEC、Coinbaseに代わって提出された規則制定申請を拒否",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346439",
+          "author": null,
+          "description": "Odaily News Mark Cuban は、暗号化分野の貴重なニュースを集約するように設計された Web サイトである暗号化ニュース アグリゲーター One Page Crypto の立ち上げを発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346439",
+          "publishedOn": "2023-12-15T14:36:05.000Z",
+          "wordCount": 1688,
+          "title": "マーク・キューバン氏、仮想通貨ニュースアグリゲーターのワンページ仮想通貨を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346438",
+          "author": null,
+          "description": "Odaily News プライバシーを重視したレイヤー 1 ブロックチェーン Namada は最近、総トークン供給量の 3% を報酬として提供するインセンティブ付きテストネットを立ち上げました。 Namada のテストネットを使用すると、参加者 (検証者とユーザー) が競争イベントに参加して、そのコンセンサス アルゴリズム (CometBFT) と Sybil 攻撃に対抗する能力をテストできるようになります。参加者は、蓄積したROID（ポイント）の数に基づいてランク付けされます。成功したプレイヤーは合計 3,000 万の NAM トークン (総供給量 10 億の 3%) を受け取ります。 Namada テストネットは 1 月 15 日に始まり、月末まで続きます。テストネットのインセンティブは、Namada が Cosmos Hub および Osmosis ブロックチェーン上の研究者、開発者、トークン所有者に 6,500 万 NAM トークン (総供給量の 6.5%) をエアドロップすると発表した 1 週間後に提供されます。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/346438",
+          "publishedOn": "2023-12-15T14:29:23.000Z",
+          "wordCount": 1777,
+          "title": "Namada が総供給量の 3% を占める報酬付きのインセンティブ付きテストネットを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346437",
           "author": null,
@@ -8980,126 +9085,6 @@
           "wordCount": 1782,
           "title": "今週の主なイベントには、連邦準備制度を含む多くの重要な中央銀行による金利決定の発表が含まれます。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345735",
-          "author": null,
-          "description": "Odaily News Arbitrum 環境融資契約 Tender.fi は、新しいトークンへの移行に備えるため、すべての esTND リリースが今週終了すると X プラットフォームに投稿しました。さらに、トークンの経済性とトークンの設計の改善も継続中です。",
-          "link": "https://www.odaily.news/ja/newsflash/345735",
-          "publishedOn": "2023-12-11T03:21:01.000Z",
-          "wordCount": 1782,
-          "title": "融資プロトコル Tender.fi: トークン移行に備えて esTND のリリースが今週終了",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191592",
-          "author": null,
-          "description": "この記事では、注目に値するSolanaのトップNFTプロジェクトと、最近の成長の勢いが良い潜在的な株式を検討します。",
-          "link": "https://www.odaily.news/ja/post/5191592",
-          "publishedOn": "2023-12-11T03:20:21.000Z",
-          "wordCount": 2208,
-          "title": "Solana チェーンの注目すべき NFT プロジェクトの概要",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345734",
-          "author": null,
-          "description": "Odaily News ビットコイン ライトニング ネットワーク Nostr Assets Protocol が発表されましたさらに、ORDI を保有しているユーザーは、OKX ウォレットでさらに 10% のエアドロップを受け取り、合計 110 個の TRICK or TREAT トークンを受け取ります。応募期間は2023年12月11日午前11時から12月31日午前8時まで。以前のニュースによると、Nostr Assets Protocol は Fair Mint の詳細を発表しました。NOSTR トークンの総数は 21,000,000 で、18,900,000 が Fair Mint イベントに割り当てられます。第 1 フェーズは 12 月 11 日に始まり、その後のフェーズは別途発表されます。さらに、Nostr Assets Protocol は、ORDI 保有者にエアドロップされ、スナップショットは 12 月 5 日の 05:00 (UTC+8) に完了すると述べています。",
-          "link": "https://www.odaily.news/ja/newsflash/345734",
-          "publishedOn": "2023-12-11T03:15:54.000Z",
-          "wordCount": 1833,
-          "title": "Nostr Assets が ORDI 保有者向けに TREAT/TRICK エアドロップ アプリケーションを開始しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345733",
-          "author": null,
-          "description": "Odaily News Solana の共同創設者である Anatoly Yakovenko 氏が Sell more トークンについて投稿しました. セールに参加する資格については, エアドロップと同じルールを使用できます. これの利点は, チームがより長期間運営できることです.時間が経つにつれ、トークンの流通量はさらに大きくなり、購入者は実際に参加する必要があります。」",
-          "link": "https://www.odaily.news/ja/newsflash/345733",
-          "publishedOn": "2023-12-11T03:11:31.000Z",
-          "wordCount": 1774,
-          "title": "ソラナ・リアンチュアン: エアドロップの代わりに、プロジェクトチームは予想よりも低い価格でより多くのトークンを販売する必要がある",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345732",
-          "author": null,
-          "description": "Odaily News 暗号化業界の弁護士、ジョン・ディートン氏は、米国銀行委員会委員のエリザベス・ウォーレン氏をXプラットフォーム上で厳しく告発し、米国証券取引委員会での監督業務における違法行為を告発した。ディートン氏は、ウォーレン氏がゲーリー・ゲンスラーＳＥＣ委員長と「共謀」し、権限を逸脱したと述べた。同氏はまた、ウォーレン氏が議会公聴会前にゲンスラー氏に対し、質問や提案に対するあらかじめ用意された回答を提供したことは、議会の監視の本質を損なう「不正で指示された証言」に当たると主張した。 (クリプトスレート)",
-          "link": "https://www.odaily.news/ja/newsflash/345732",
-          "publishedOn": "2023-12-11T03:03:18.000Z",
-          "wordCount": 1760,
-          "title": "弁護士がSECの監督責任における不正行為でエリザベス・ウォーレン上院議員を告発",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345731",
-          "author": null,
-          "description": "Odaily News Snapshot ページでは、Aave コミュニティが「Aave V3 イーサリアム市場への ETHx の上場」に関する ARFC 提案を可決することに投票し、最終支持率は 99.54% であることが示されています。 ETHx は Stader の流動性誓約トークンであり、この提案は LST の流動性と資産の多様性を強化することを目的としていると報告されています。",
-          "link": "https://www.odaily.news/ja/newsflash/345731",
-          "publishedOn": "2023-12-11T02:50:23.000Z",
-          "wordCount": 1799,
-          "title": "Aave コミュニティは ARFC 提案「V3 イーサリアム市場への ETHx の上場」を可決することに投票しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345730",
-          "author": null,
-          "description": "デイリーニュース 香港のバーチャル銀行、立威銀行（リビバンク）は、開業3周年を迎え関連事業データを公開、同銀行の孫大偉最高経営責任者（CEO）は、現在口座を開設している中小企業の数が2,700社を超え、融資額は2,700社を超えていると明らかにした。 11月末時点の残高は4億6000万元を超えた。暗号資産に関して、立匯銀行の技術部長、林冠宇氏は、同銀行は現在、Web 3.0（インターネットの第3世代）に関して一定の技術的蓄積を持っているが、現在の市場状況はまだ明確ではなく、市場では適切なビジネスモデルがないため、現在はまだ様子見の段階です。 (東部ネットワーク)",
-          "link": "https://www.odaily.news/ja/newsflash/345730",
-          "publishedOn": "2023-12-11T02:49:00.000Z",
-          "wordCount": 1766,
-          "title": "立会銀行：Web3分野では技術を蓄積しているが、仮想資産に関してはまだ様子見の段階。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191590",
-          "author": null,
-          "description": "大規模な富の移転は人口動態の大幅な変化を表しており、デジタルネイティブの人々の仮想通貨への関心がさらに高まることになるでしょう。",
-          "link": "https://www.odaily.news/ja/post/5191590",
-          "publishedOn": "2023-12-11T02:45:00.000Z",
-          "wordCount": 2099,
-          "title": "ギャラクシー: 大規模な資産移転が仮想通貨市場に与える影響",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345729",
-          "author": null,
-          "description": "Odaily は、Paidun の監視によると、以前の ETH の下落傾向により、チェーン上の複数のアドレスが清算されたと報告しました。 - ETH が米国に下落した後、アドレス 0xd7bc...8ccb は 9.32 WETH (約 21,930 米ドル相当) で清算されました。 $2,161.USD); - アドレス 0xb99c...255d は 233.75 vETH (約 USD 11,320 相当) で清算されました; - アドレス 0x4213...0be6 は 38.42 WETH (USD 90,370 相当) で清算されました。",
-          "link": "https://www.odaily.news/ja/newsflash/345729",
-          "publishedOn": "2023-12-11T02:44:06.000Z",
-          "wordCount": 1837,
-          "title": "Paidun: ETHの短期的な下落により、チェーン上の複数のアドレスが清算されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345728",
-          "author": null,
-          "description": "Odaily News Bloomberg ETFアナリストのJames Seyffart氏は、21Sharesが立ち上げたAETH（21Shares Ethereum Saking ETP）など、 に約束されたイーサリアムETFに関する質問に答えた。問題は、SECがそれをどのように扱うのか、あるいは何を許可するのか（イーサリアムETFを承認すると仮定して）現時点では知る方法がないことです。さらにセイファート氏は、（スポット）イーサリアムETFが承認される可能性は非常に高い（ただし、その可能性はスポットビットコインETFほどではない）が、もしビットコインETFが承認されれば、これは明るい兆しとなるだろうとも述べた。イーサリアムETFが承認される予定です。",
-          "link": "https://www.odaily.news/ja/newsflash/345728",
-          "publishedOn": "2023-12-11T02:37:57.000Z",
-          "wordCount": 1774,
-          "title": "ブルームバーグアナリスト：ビットコインスポットETFが承認されれば、イーサリアムスポットETFの承認に前向きなシグナルとなる",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345727",
-          "author": null,
-          "description": "Odaily News DefiLlamaのデータによると、ETHには約8,330万ドルのオンチェーンローンと清算枠が2,115ドル近くにあります。",
-          "link": "https://www.odaily.news/ja/newsflash/345727",
-          "publishedOn": "2023-12-11T02:35:27.000Z",
-          "wordCount": 1762,
-          "title": "ETHには約8,330万ドルのオンチェーンローンと約2,115ドルの清算枠があります",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345726",
-          "author": null,
-          "description": "Odaily News ZKFair ホワイトペーパーによると、対象となる Lumoz ポイント ユーザー、Polygon エコシステム ユーザー、その他の L2 エコシステム ユーザーへのエアドロップに加えて、ZKFair は Ordinals コミュニティへの追加のエアドロップも実施する予定で、エアドロップ率は 5% です。エアドロップのこの部分は、最初は収集できませんが、ZKFair が BTC エコシステムをサポートした後に収集できるようになります。 ZKFair は公正な立ち上げであり、完全にコミュニティ主導の L2 ネットワークであり、そのトークンは 100% エアドロップを通じてコミュニティに発行されます。",
-          "link": "https://www.odaily.news/ja/newsflash/345726",
-          "publishedOn": "2023-12-11T02:30:03.000Z",
-          "wordCount": 1835,
-          "title": "ZK L2 ネットワーク ZKFair が Ordinals コミュニティにエアドロップされます",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -9507,16 +9492,6 @@
           "wordCount": 840,
           "title": "ビットコインステーキングプロトコル「バビロン」が約26億円の資金調達、PolychainとHack主導で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/11124230/03fd22e786053df78cca6fbd05d90f2e.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=358041",
-          "author": "gentosha_takahashi",
-          "description": "上場予定先のシーボも参加 米大手資産運用会社フィデリティ（Fidelity）が、同社申請中の現物ビットコイン（BTC）上場投資信託（ETF）について米証券取引委員会（SEC）と12月7日話し合いを行った。 SECのサイト […]",
-          "link": "https://www.neweconomy.jp/posts/358041",
-          "publishedOn": "2023-12-11T02:42:18.000Z",
-          "wordCount": 799,
-          "title": "米フィデリティがSECと会合、現物ビットコインETF上場に関して",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/11114214/11556dfc9f05d7e7476ebb403b4604e3.jpg"
         }
       ]
     }
