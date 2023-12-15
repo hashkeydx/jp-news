@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=212310",
+          "author": "林 理南",
+          "description": "FRB（米連邦準備制度理事会）の政策決定の一環として13日に発表されたドットチャートは、FRB関係者が2024年の利下げ幅を75ベーシスポイントと予想しているこ ...\nTradFiはFRBの利下げで大幅上昇──ビットコインは？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/212310/",
+          "publishedOn": "2023-12-15T03:06:56.000Z",
+          "wordCount": 1112,
+          "title": "TradFiはFRBの利下げで大幅上昇──ビットコインは？",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_2165948451-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=212204",
           "author": "Todd Groth",
           "description": "ビットコイン（BTC）4万ドルの時代が帰ってきた。イーサリアム（ETH）も2000ドルを超え、その他の時価総額の小さなトークンも主要トークンに追いつこうとしてい ...\nビットコインからのホリデーギフト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -524,6 +534,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=498560",
+          "author": "AKIRA.H",
+          "description": "小池都知事が「SusHi tech tokyo 2024」でNFTとAIの活用に言及。東京都の革新的なデジタル戦略と来場者の行動変容を促進する先端技術の統合に焦点を当てた。",
+          "link": "https://coinpost.jp/?p=498560",
+          "publishedOn": "2023-12-15T03:00:59.000Z",
+          "wordCount": 1929,
+          "title": "小池都知事「SusHi tech tokyoでNFTとAI等を駆使し、来場者の行動変容を目指す」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/tokyo-night-sky.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/tokyo-night-sky.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=498547",
           "author": "K.Kobayashi",
@@ -1296,6 +1321,116 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346326",
+          "author": null,
+          "description": "Odaily News デジタル銀行の Pave Bank は、468 Capital が主導し、Quona Capital、Financial Technology Partners、BR Capital、w3.fund、Daedalus などが参加して、520 万米ドルの資金調達を完了しました。 Pave Bank がプログラム可能な通貨の概念を革新していると報告されています。 PaveBank はジョージア州で銀行免許を取得し、来年第 1 四半期に顧客へのサービスを開始する予定です。 (フォーブス)",
+          "link": "https://www.odaily.news/ja/newsflash/346326",
+          "publishedOn": "2023-12-15T03:22:07.000Z",
+          "wordCount": 1792,
+          "title": "デジタル銀行 Pave Bank が 468 Capital 主導で 520 万米ドルの資金調達を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346325",
+          "author": null,
+          "description": "デイリーニュース 欧州中央銀行は声明を発表し、ユーロシステムは中央銀行のホールセール通貨決済のための新技術の探索について金融市場関係者からの関心表明を求めていると述べた。関心表明の募集では、金融市場関係者が2024年に中央銀行の通貨決済実験に参加し、テスト環境で模擬決済実験を実施するよう呼びかけている。このトライアルは、3つのユーロシステムソリューションを使用して実施され、分散型台帳技術プラットフォームに記録されたホールセール金融取引を、ユーロシステムが運営するT2リアルタイムグロス決済システムで中央銀行通貨で決済できるようになります。",
+          "link": "https://www.odaily.news/ja/newsflash/346325",
+          "publishedOn": "2023-12-15T03:12:23.000Z",
+          "wordCount": 1710,
+          "title": "ECB、中央銀行のホールセール通貨決済のための新技術の探索について金融市場関係者に関心の表明を求める",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346324",
+          "author": null,
+          "description": "Odaily News Consensys が所有するブロックチェーン開発プラットフォーム Infura は、キー管理システムを簡素化するための新しい Unified Key Experience (UKE) の開始を発表しました。このアップデートでは、すべてのタイプの Infura キー (Eth1 キーと Unified Key Service) が、UKE と呼ばれるよりユーザーフレンドリーなシステムに統合されます。",
+          "link": "https://www.odaily.news/ja/newsflash/346324",
+          "publishedOn": "2023-12-15T03:06:18.000Z",
+          "wordCount": 1736,
+          "title": "Infura は、キー管理システムを簡素化するための新しい統合キー エクスペリエンスを発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346323",
+          "author": null,
+          "description": "Odaily News Coinglass データによると、Grayscale GBTC の現在のマイナスプレミアム率は 9.23%、ETH トラストのマイナスプレミアム率は 13.97%、ETC トラストのマイナスプレミアム率は 28.83% です。また、Grayscale LTC信託プレミアム率は58.60％、BCH信託プレミアム率は80.88％、SOL信託プレミアム率は238.49％、MANA信託プレミアム率は197.24％、LINK信託プレミアム率は237.73％となります。以前のニュースによると、12月14日のグレースケールGBTCのマイナスプレミアム率は7.34%でした。",
+          "link": "https://www.odaily.news/ja/newsflash/346323",
+          "publishedOn": "2023-12-15T03:02:53.000Z",
+          "wordCount": 1737,
+          "title": "グレースケール GBTC の現在のマイナスプレミアム率は 9.23% です。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191721",
+          "author": null,
+          "description": "BRC-20はすでに次の大きな強気相場で爆発する可能性を秘めている。",
+          "link": "https://www.odaily.news/ja/post/5191721",
+          "publishedOn": "2023-12-15T03:01:14.000Z",
+          "wordCount": 2806,
+          "title": "ビットコイン BRC20: 初心者のための究極のガイド",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191719",
+          "author": null,
+          "description": "Secured Finance は、Consensys、GSR、HTX など、暗号化業界の多くの主要機関によって認められています。",
+          "link": "https://www.odaily.news/ja/post/5191719",
+          "publishedOn": "2023-12-15T03:00:16.000Z",
+          "wordCount": 1797,
+          "title": "暗号化債券市場セキュアド・ファイナンスについて詳しく解説",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346322",
+          "author": null,
+          "description": "Odaily News 暗号化マイニング会社マラソンデジタルの最高経営責任者（CEO）フレッド・ティール氏はインタビューで、今後2年以内にライバルのビットコインマイニング会社と関連インフラを買収する計画であると述べた。 「私たちは2024年と2025年に大幅に拡大するつもりです。私たちは業界の統合者になります。」ティール氏は、SECがビットコインスポットETFを承認すれば、仮想通貨に対する市場全体の需要が高まるため、鉱山会社にとって有益になるはずだと信じている。 . .ラスベガスに本拠を置くマラソン・デジタル社の株価は今年400％以上上昇し、同じ期間にビットコインの価格は約160％上昇した。 (ブルームバーグ)",
+          "link": "https://www.odaily.news/ja/newsflash/346322",
+          "publishedOn": "2023-12-15T02:57:57.000Z",
+          "wordCount": 1715,
+          "title": "マラソンデジタルは今後2年間でビットコインマイニング企業と関連インフラを買収する計画",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346321",
+          "author": null,
+          "description": "Odaily News Slow Mist の創設者 Yu Xian が、攻撃者は有害なモジュールのバージョンを自由にリリースできると投稿しました。 2. 公開されたモジュールは自動的に jsDelivr CDN に更新されます。 3. Ledgers Connect Kit は jsDelivr CDN js ファイルを直接導入しますが、これは非常に粗雑であり、ファイル ハッシュ バインディングやインポートされたバージョンに対する厳格な制限はありません。 4. 元従業員はまだそのような重要な権限を残しています。社内のセキュリティ管理メカニズムを強化する必要があります。最悪の場合の原則として、内部で悪事が行われた場合、それを効果的に回避し、時間内に発見できるでしょうか? 5. Ledger npmjs の毒されたバージョンは削除されましたが、jsDelivr にはまだ毒された js ファイルが存在することに注意してください。これらのセキュリティに関する提案は、他のプロジェクト関係者が参考になるものです。怠惰にならないでください。すべてのセキュリティ インシデントは、自分自身を見直す良い機会です。",
+          "link": "https://www.odaily.news/ja/newsflash/346321",
+          "publishedOn": "2023-12-15T02:52:08.000Z",
+          "wordCount": 1766,
+          "title": "コサイン: Ledger npmjs の毒されたバージョンは削除されましたが、jsDelivr にはまだ毒された js ファイルが存在します。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346320",
+          "author": null,
+          "description": "Odaily News Greeks.liveマクロ研究者のアダム氏は、12月15日にオプション配信データを発表した。 268,000 ETH オプションの有効期限が近づいており、プット コール レシオは 0.66、最大の問題点は 2,250 米ドル、名目価値は 6 億 1,000 万米ドルです。今週、特にビットコインが 40,000 ドルに下落したとき、暗号通貨は調整に見舞われ、多数の保護オプションが取引されたため、今週はプット ポジションがコール ポジションよりも大きくなりました。オプションのデータから、主要な取引は依然として BTC オプションに集中しており、オプションのインプライド ボラティリティ IV は過去 1 か月間非常に安定しており、大規模なポジションの移転が依然として進行中であることがわかります。",
+          "link": "https://www.odaily.news/ja/newsflash/346320",
+          "publishedOn": "2023-12-15T02:44:25.000Z",
+          "wordCount": 1765,
+          "title": "Greeks.live: 21億9,000万ドルのBTCおよびETHオプションがまもなく期限切れとなるが、今週の主要な取引は依然としてBTCオプションに集中している",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346319",
+          "author": null,
+          "description": "Odaily News 米国司法省は、Lu Zhang、Justin Walker、Joseph Wong、Hailong Zhu が仮想通貨投資詐欺とマネーロンダリングの罪で起訴されたと発表した。法廷文書によると、4人は共謀してダミー会社や銀行口座を開設し、仮想通貨投資詐欺やその他の詐欺計画の被害者からの資金洗浄を行った疑いがある。国内外の金融機関に資金を送金し、関連する詐欺グループの全体的な詐欺手口には少なくとも284件の取引が含まれ、被害者は8,000万ドル以上の損失を被ったほか、被害者の資金は2,000万ドル以上が銀行に直接預けられていた。被告に関連するアカウント。米国秘密情報部世界捜査活動センターがこの事件を捜査している。この詐欺スキームでは、詐欺師が出会い系サービス、ソーシャル メディア、または一方的なメッセージや電話を通じて被害者を探します。詐欺師は被害者と関係を築き、徐々に信頼を獲得し、最終的にはビジネス投資に暗号通貨を使用するというアイデアを導入します。",
+          "link": "https://www.odaily.news/ja/newsflash/346319",
+          "publishedOn": "2023-12-15T02:39:32.000Z",
+          "wordCount": 1726,
+          "title": "米国司法省：仮想通貨投資詐欺とマネーロンダリングに関与し、8,000万ドル以上の損失を引き起こした罪で4人が起訴された",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346318",
+          "author": null,
+          "description": "Odaily News OP Labs は、2024 年 1 月 11 日に、Optimism エコロジカル ノード オペレーターはプロトコル アップグレード (Canyon) の前にノードをアップグレードする必要があるというリマインダーを X プラットフォーム上で発行しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346318",
+          "publishedOn": "2023-12-15T02:34:27.000Z",
+          "wordCount": 1749,
+          "title": "OP Labsは、Optimismエコロジカルノードオペレーターに対し、2024年1月11日までにノードをアップグレードするよう注意を喚起",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346317",
           "author": null,
