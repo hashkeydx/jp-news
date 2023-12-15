@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=212345",
+          "author": "マネックスクリプトバンク",
+          "description": "マネックスクリプトバンクでは、2023年7月に独自の暗号資産格付評価モデル「MCBクリプト格付け」を発表し、30種類の暗号資産を7つの項目別に相対評価してきた。 ...\n「MCBクリプト格付け」大型アップデートについて：MCBクリプト格付け評価 注目ニュース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/212345/",
+          "publishedOn": "2023-12-15T10:00:00.000Z",
+          "wordCount": 1150,
+          "title": "「MCBクリプト格付け」大型アップデートについて：MCBクリプト格付け評価 注目ニュース",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/MCBR-MP-20231210-final-2_メディア用-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=212333",
           "author": "松田康生",
           "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2023/12/15）ビットコイン、調整継続か？上昇トレンド継続か？：楽天ウォレット first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -520,16 +530,6 @@
           "wordCount": 1092,
           "title": "Pudgy Penguinsが2024年にバーチャルワールドを立ち上げへ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/IM7BBTBD4VF5TKIRAIRKBCRM4U-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=211423",
-          "author": "Omkar Godbole",
-          "description": "ビットコイン（BTC）の年初からの160%上昇の少なくとも半分は過去8週間で実現した。 このトレンドは、価格上昇と横ばい（保ち合い）が繰り返される階段状の構造に ...\nビットコイン強気相場でのよく知られた反落──なぜ、最近の上昇局面で発生しなかったのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/211423/",
-          "publishedOn": "2023-12-10T21:30:00.000Z",
-          "wordCount": 1216,
-          "title": "ビットコイン強気相場でのよく知られた反落──なぜ、最近の上昇局面で発生しなかったのか",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_2070863351.jpg"
         }
       ]
     },
@@ -1391,6 +1391,116 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346393",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、CoinMarketCap は OKX Ordinals 市場 API に正式に接続し、ユーザーは BRC-20 資産価格の傾向や取引量などをリアルタイムでクエリできるようになりました。現在、OKX Ordinals マーケット API は、Ordinals マーケットの収集、注文、取引データのリアルタイム クエリをサポートしており、まもなくユーザーが API を介して OKX マーケットに Ordinals アセットをリストできるようにする予定です。 OKX Web3 Wallet Ordinals市場はBRC20の登録およびBTC NFT取引市場であると報告されています。 OKX Ordinals市場インタラクションはプラットフォームサービス手数料が無料で、ワンストップの送金、取引、BRC-20とBTC NFTの彫刻、その他の機能をサポートしています。",
+          "link": "https://www.odaily.news/ja/newsflash/346393",
+          "publishedOn": "2023-12-15T10:26:14.000Z",
+          "wordCount": 1804,
+          "title": "CoinMarketCap が OKX Ordinals マーケット API に正式に接続されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346392",
+          "author": null,
+          "description": "Odaily News Web3企業のBLOCKSMITHは、MZ Web3 Fund、SAKURA UNITED PLATFORMなどが参加するSAFEストックオプション発行によるエンジェルラウンドファイナンスの第2フェーズを完了し、今回の資金で同社の製品研究開発を加速すると発表した。 (PR Newswire) 11月の以前のニュースによると、BLOCKSMITHは、SBIグループ、ヘッドライン・アジア、J-CAMコーポレーションなどを含む投資家によるエンジェルラウンド資金調達の第1段階が完了したと発表した。",
+          "link": "https://www.odaily.news/ja/newsflash/346392",
+          "publishedOn": "2023-12-15T10:18:53.000Z",
+          "wordCount": 1769,
+          "title": "Web3企業BLOCKSMITHがエンジェルラウンド資金調達第2フェーズを完了、MZ Web3 Fundなどが投資に参加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346391",
+          "author": null,
+          "description": "Odaily News Solana チェーンの登録トークンである SOLS の最低価格は 95 SOL に達し、24 時間で 146.62% 上昇しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346391",
+          "publishedOn": "2023-12-15T10:13:21.000Z",
+          "wordCount": 1799,
+          "title": "Solana チェーンの碑文トークンである SOLS の最低価格は 95 SOL に達し、24 時間で 146.62% 上昇しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346390",
+          "author": null,
+          "description": "Odaily News OKX 市場によると、SOL は短期間で 79 USDT を突破し、今年の新高値を記録し、現在 78.41 USDT で取引されており、24 時間で 8.03% 上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/346390",
+          "publishedOn": "2023-12-15T10:09:44.000Z",
+          "wordCount": 1764,
+          "title": "SOLは一時79USDTを超え、今年の新高値を記録した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346389",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、dYdX 財団は 10 の検証ノードに 230 万の DYDX を認可すると発表しました (記事執筆時点で、dYdX 財団が誓約を認可できる DYDX の総量の 88.4% を占めています) 。 10 個の検証ノードには、Ledger by Meria、Kingnodes、Crosnest、DAIC 付き danku_zone、Coinbase Cloud、CryptoCrew X Defi Dojo、OKX Earn、ECO Stake、LTP、Meria が含まれます。 dYdX 財団は定期的に委任と再評価を行い、必要に応じてバランスを再評価すると報告されており、再評価は少なくとも四半期ごとに実施する必要があります。",
+          "link": "https://www.odaily.news/ja/newsflash/346389",
+          "publishedOn": "2023-12-15T10:05:04.000Z",
+          "wordCount": 1786,
+          "title": "dYdX財団: 10の検証ノードに230万DYDXをステーキングする権限を与える",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191736",
+          "author": null,
+          "description": "FRBは2024年に利上げを中止し利下げに切り替えるというハト派の政策を発表した。",
+          "link": "https://www.odaily.news/ja/post/5191736",
+          "publishedOn": "2023-12-15T10:00:00.000Z",
+          "wordCount": 1772,
+          "title": "PSE取引：パウエル議長、2024年に利上げが終了する可能性が高いと発言",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346388",
+          "author": null,
+          "description": "Odaily News Balancer は X プラットフォームのアップデートをリリースしました。昨日発表された Ledger Connect の問題は修正されたと報告されています。バランサーは影響を受けず、フロントエンドは安全に使用できます。すべてのユーザーは常に警戒を怠らず、慎重に取引することをお勧めします。",
+          "link": "https://www.odaily.news/ja/newsflash/346388",
+          "publishedOn": "2023-12-15T09:48:32.000Z",
+          "wordCount": 1784,
+          "title": "バランサー: Ledger Connect の脆弱性の影響を受けず、フロントエンドは安全に使用できます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346387",
+          "author": null,
+          "description": "Odaily News Huang Licheng 氏は X プラットフォームに、Polygon の AIP-368 提案資金がまだ受け取られておらず、フィードバックも受け付けていないと投稿しました。これらの人々はApeChain上で何もしていません。私たちは彼らよりも強いだろうから、この提案に反対票を投じた。スナップショット ページには、現在の提案に対する反対票が 99.98% に達していることが示されています。本日初め、Polygon Labs CEO の Marc Boiron 氏がPolygon Labs は声明を発表するために APE を 1,000 万ドル以上購入しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346387",
+          "publishedOn": "2023-12-15T09:44:18.000Z",
+          "wordCount": 1831,
+          "title": "Huang Licheng 氏は Polygon が開始した AIP-368 提案に反対票を投じた",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346386",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、今週、Particle Network、Math Wallet、Star Protocol、Soquest、Owlto Finance、RubyDEX およびその他の多くのプロジェクトが X1 テスト ネットワークに接続されました。その中でも、Particle Network は初のインテント中心型 Web3 モジュラー アクセス レイヤーであり、ユーザーの導入利便性、インタラクション効率、データ自律性、ユーザーのインタラクション サイクル全体をカバーするモジュール適応性の観点から、ユーザーとチェーンの促進を目的としています。 。 X1 は OKX と Polygon が共同で立ち上げた zKEVM Layer2 ネットワークであると報告されています。X1 は Polygon CDK に基づいて構築され、ZK ゼロ知識証明テクノロジを使用して、ユーザーのトランザクション コストの削減を支援します。OKB はそのネイティブ トークンとして機能します。現在、 X1 テスト ネットワークには 50 を超える DApp が展開されています。",
+          "link": "https://www.odaily.news/ja/newsflash/346386",
+          "publishedOn": "2023-12-15T09:39:57.000Z",
+          "wordCount": 1859,
+          "title": "Particle Network、Math Wallet、その他多くのプロジェクトが X1 テスト ネットワークに接続されました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346384",
+          "author": null,
+          "description": "毎日のニュース：公式発表によると、バイナンスは2023年12月15日21時（東部8区時間）にオークション1-50x Uベースの永久契約を開始します。",
+          "link": "https://www.odaily.news/ja/newsflash/346384",
+          "publishedOn": "2023-12-15T09:26:21.000Z",
+          "wordCount": 1755,
+          "title": "バイナンス、1～50倍のUベースの永久契約のオークションを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346383",
+          "author": null,
+          "description": "Odaily News オンチェーンアナリスト @ai_9684xtpa によるモニタリングによると、12 月 13 日の ACE プレッジマイニングの開始以来、合計 4 億 2,000 万 FDUSC が発行され、現在のトークン流通量は 14 億 9,000 万に達しており、トークンの流れは- 9102 コインが Binance に直接流出; - 3,500 コインが Wintermute によって鋳造され、その後 Binance に転送; - 2 億 9,000 万コインがマーケット メーカー Portofino Technologies のアドレス 0xeEa...Fb921 によって鋳造され、Binance に転送されたと疑われる; 100そのうち数百万人が6時間前にBinanceに転送されました。 BinanceのACEマイニングは12月18日8:00に終了します。現在、13.1億FDUSDがFDUSD/ACEプールに入金されており、総流通量の88%を占めています。",
+          "link": "https://www.odaily.news/ja/newsflash/346383",
+          "publishedOn": "2023-12-15T09:22:47.000Z",
+          "wordCount": 1841,
+          "title": "ACEステーキングマイニングの開始以来、合計4億2,000万FDUSCが発行され、現在の流通量は14億9,000万に達しています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346382",
           "author": null,
@@ -8778,6 +8888,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=359154",
+          "author": "HitomotoToshikazu",
+          "description": "コスモスのインターチェーン財団、2024年開発資金に約37億円支出へ コスモス（Cosmos）のインフラストラクチャの開発・運営を支援するインターチェーン財団（ICF：Interchain Foundation）が、2, […]",
+          "link": "https://www.neweconomy.jp/posts/359154",
+          "publishedOn": "2023-12-15T09:36:58.000Z",
+          "wordCount": 765,
+          "title": "コスモス（ATOM）のインターチェーン財団、2024年開発資金に約37億円支出へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/15183609/def935ed1ae705f8bec6b1acc30b2bc5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=359151",
+          "author": "gentosha_takahashi",
+          "description": "BCBS、ステーブルコインを低リスク基準にする案 G10（主要10カ国）諸国の中央銀行総裁会議での合意によって創設された機関であるバーゼル銀行監督委員会（BCBS）が、暗号資産（仮想通貨）に関するリスク基準の調整協議を1 […]",
+          "link": "https://www.neweconomy.jp/posts/359151",
+          "publishedOn": "2023-12-15T09:23:20.000Z",
+          "wordCount": 762,
+          "title": "バーゼル銀行監督委員会（BCBS）、ステーブルコインのリスク基準調整提案を公表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/15174338/efbfac63a75281147f35349ea422000a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=359132",
           "author": "gentosha_takahashi",
