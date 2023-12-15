@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=212404",
+          "author": "CoinDesk JAPAN",
+          "description": "10日の夜の市場調整から始まった11日の「フラッシュクラッシュ（急落）」をどう説明すればよいのか私にはよくわからない。マラソン・デジタル（Marathon Di ...\nビットコインの「フラッシュクラッシュ」とは／北國銀行が日本初の預金型ステーブルコイン【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/212404/",
+          "publishedOn": "2023-12-15T22:00:00.000Z",
+          "wordCount": 1271,
+          "title": "ビットコインの「フラッシュクラッシュ」とは／北國銀行が日本初の預金型ステーブルコイン【週末に読みたい厳選10本】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1947416206-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=212360",
           "author": "Nikhilesh De",
           "description": "暗号資産会社のセーフムーン（SafeMoon）は、12月14日に連邦破産法第7章の適用を申請した。同社は幹部がアメリカで刑事告発を受けている。 ユタ州の破産裁判 ...\nセーフムーンが連邦破産法第7章の適用申請──SFMは42%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -490,26 +500,6 @@
           "wordCount": 1150,
           "title": "ビットコインの4％下落で過熱した強気派が退場──資金調達率が正常化",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/VSHI4J4P4JFK5LV26JQ5GUPUN4.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=211757",
-          "author": "CoinDesk JAPAN",
-          "description": "ビットバンクの子会社、ビットバンクエンターテインメントは、GameFiにおけるスカラーシップ制度のマッチングサービス「FiKNOTS（ファイノッツ）」をリリース ...\nビットバンク子会社、GameFiスカラーシップ制度のマッチングサービスをリリース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/211757/",
-          "publishedOn": "2023-12-11T09:57:56.000Z",
-          "wordCount": 1064,
-          "title": "ビットバンク子会社、GameFiスカラーシップ制度のマッチングサービスをリリース",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/bitbank.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=211736",
-          "author": "CoinDesk JAPAN",
-          "description": "大和証券、SBI R3 Japan、Progmat（プログマ）は、大和証券とSBI R3 Japanで開発した社債プレマーケティングシステム「Biancha（ビ ...\n大和証券、SBI R3 Japan、Progmatが社債発行の効率化で連携──ブロックチェーンを活用したプレマーケティングシステムとProgmatを連携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/211736/",
-          "publishedOn": "2023-12-11T09:38:25.000Z",
-          "wordCount": 1091,
-          "title": "大和証券、SBI R3 Japan、Progmatが社債発行の効率化で連携──ブロックチェーンを活用したプレマーケティングシステムとProgmatを連携",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/スクリーンショット-2023-12-11-18.23.08.jpg"
         }
       ]
     },
@@ -524,6 +514,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=498769",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨イーサリアムのレイヤー2ネットワークであるArbitrum（アービトラム）は日本時間22:29〜23:57の間ネットワーク障害を受けて局部的にオフラインになっていた。",
+          "link": "https://coinpost.jp/?p=498769",
+          "publishedOn": "2023-12-15T21:50:17.000Z",
+          "wordCount": 1981,
+          "title": "イーサリアムレイヤー2 Arbitrum、ネットワーク障害で一時的にオフラインに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/trader-joe-arbitrum.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/trader-joe-arbitrum.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=498765",
+          "author": "菊谷ルイス",
+          "description": "国際版仮想通貨取引所大手バイナンスはBRC-20規格であるRATS（1000RATS）の永久先物を15日より提供開始した。",
+          "link": "https://coinpost.jp/?p=498765",
+          "publishedOn": "2023-12-15T21:15:47.000Z",
+          "wordCount": 1896,
+          "title": "続くBRC-20ブーム　国際版バイナンス、仮想通貨「RATS」の永久先物を提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": ""
+          },
+          "imageUrl": "https://coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=498646",
           "author": "AKIRA.H",
@@ -1296,6 +1316,26 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346464",
+          "author": null,
+          "description": "オデイリーニュースコインベースの最高法務責任者ポール・グルワル氏は金曜日、仮想通貨取引所が新たなデジタル資産規制規則の申請を拒否する米国証券取引委員会（SEC）の決定に異議を申し立てていると述べた。その日の初め、SECはCoinbaseの長年にわたる新たなルールの要請を「不必要」として拒否した。 「本日、SECは仮想通貨ルールに関するCoinbaseの請願を却下した」とGrewal氏はXに投稿した。 「18か月の沈黙の後、私たちは法律で要求される対応を得るために法廷に出廷した。第3巡回区に感謝する。私たちは本日後半にSECの職務放棄に異議を唱えるために再びその協力を求めることになる。」 2022年には新しい規則が制定されて以来、SECとSECは対立している。グレワル氏は、共和党のSEC委員であるヘスター・パース氏とマーク・ウエダ氏がこの拒否に同意せず、規制当局と仮想通貨業界との対話の必要性を指摘したと指摘した。グレワル氏は「拒否に同意せず、真の対話を呼びかけてくれた両委員に感謝する」と述べた。 「私たちは、毎月変わる法的立場に基づいて訴訟を戦うのではなく、消費者とアメリカのイノベーションに利益をもたらす法律やルールを作るために協力すべきです。」（ザ・ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/346464",
+          "publishedOn": "2023-12-15T21:46:37.000Z",
+          "wordCount": 1685,
+          "title": "Coinbase、新しい暗号ルールを拒否するというSECの決定に法廷で異議を申し立てる",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346463",
+          "author": null,
+          "description": "Odaily News Polygon Labs は、スーパーネットとしても知られるエッジ フレームワークへのコントリビューションの受け入れを停止し、代わりに Extension Chain Development Kit (CDK) に注力する予定です。 Edge はもともと、Ethereum と互換性のあるカスタム ブロックチェーン ネットワークの作成を容易にするために、Apache License 2.0 に基づいてオープン ソース ツールとして開発されました。しかし、声明によると、チームの開発の焦点はここ1年で変化したという。 Polygon Labs は今後、Edge から離れ、その代わりに同社がさまざまなレイヤー 2 ZK-Rollups (ゼロ知識証明を使用して設計されたレイヤー 2 ネットワーク) ツールキット用に開発した後継ソリューションである CDK に焦点を移します。 CDK を使用してデプロイされたチェーンは、幅広いネットワーク内で相互運用性を実現できることが期待されています。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/346463",
+          "publishedOn": "2023-12-15T21:39:48.000Z",
+          "wordCount": 1741,
+          "title": "Polygon Labs は CDK 拡張機能に重点を置くため、Polygon Edge のサポートを終了します。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346462",
           "author": null,
@@ -8424,106 +8464,6 @@
           "publishedOn": "2023-12-11T10:40:40.000Z",
           "wordCount": 1924,
           "title": "OKX Web3 Wallet ETHPLUS (ETH+) の金利がアップグレードされ、追加金利引き上げにより最大年率 20% に上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345792",
-          "author": null,
-          "description": "Odaily News Rune Alpha は X プラットフォームに、COOK およびその他の Rune 資産を取引するための市場テスト ネットワークを今週立ち上げると投稿しました。COOK 保有者には他のインセンティブが与えられます。",
-          "link": "https://www.odaily.news/ja/newsflash/345792",
-          "publishedOn": "2023-12-11T10:11:35.000Z",
-          "wordCount": 1876,
-          "title": "ルーンアルファ: 今週市場テストネットが開始されます",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191615",
-          "author": null,
-          "description": "SNX インフレの終焉は、誓約者と通常のトークン所有者の間での資本の再分配を意味します。Base での Andromeda バージョンの展開後、収益の 50% は、デフレを達成するために SNX の買い戻しと破棄に使用される可能性があります。",
-          "link": "https://www.odaily.news/ja/post/5191615",
-          "publishedOn": "2023-12-11T10:09:20.000Z",
-          "wordCount": 2068,
-          "title": "インフレ終結に向けた Synthetix の提案：SNX ステーカーの資本再形成はデフレの優良プロジェクトになる可能性がある",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345791",
-          "author": null,
-          "description": "Odaily News AlienSwapは、AlienSwap Genesisパートナープログラムを開始します。これは、AlienVerse Genesis Planet Passを通じて業界のエコロジカルパートナー、NFTビルダー、コミュニティを結び付け、相互に有益なNFTエコシステムを構築することを目的としています。 AlienSwap Genesis パートナー プログラムに参加し、AlienVerse Genesis Planet Pass を保持している業界ビルダーとエコロジカル パートナーは、ALIEN DAO のメンバーとなり、エコシステム内の特典を享受できます。 AlienVerse Genesis Planet Pass は AlienSwap が発行する最初のプラットフォーム コア アセットで、現在の最低価格は 0.25 ETH で、ホワイトリストの段階から 300% 以上上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/345791",
-          "publishedOn": "2023-12-11T10:05:37.000Z",
-          "wordCount": 1912,
-          "title": "AlienSwap が AlienSwap Genesis パートナー プログラムを開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345790",
-          "author": null,
-          "description": "Odaily の報道によると、Scopescan の監視によれば、DWF Labs は Litentry から 150 万 LIT、130 万米ドル相当を受け取ったという。",
-          "link": "https://www.odaily.news/ja/newsflash/345790",
-          "publishedOn": "2023-12-11T10:04:51.000Z",
-          "wordCount": 1907,
-          "title": "DWF Labs は、Litentry から 130 万ドル相当の 150 万 LIT を受け取ります",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345789",
-          "author": null,
-          "description": "Odaily News IOSG Ventures は、Dojo Game Jam との長期パートナーシップを発表しました。 IOSG は、この Dojo Holiday Game Jame#3 に主要な賞金プールのスポンサーシップを提供しただけでなく、「癒しと友情」をテーマにした IOSG Track 追加報奨金も設定しました。さらに、特別な Kickstarter インセンティブ基金があり、優勝プロジェクトには IOSG から最大 100,000 ドルの Kickstarter Grant を受け取る機会があります。 Dojo ゲーム作成マラソンは 12 月 15 日から 1 月 2 日まで開催され、参加者は 2 週間、チームあたり最大 5 人で、Dojo エンジン上でより完全なプロジェクトを構築できます。焦点はスケーラビリティと構成可能性です。ゲームの世界の拡張、コード、プラグイン、ライブラリ、視覚効果など、ゲームの内容。プロジェクト審査はゲームジャム終了後1週間以内に行われます。",
-          "link": "https://www.odaily.news/ja/newsflash/345789",
-          "publishedOn": "2023-12-11T10:01:57.000Z",
-          "wordCount": 1934,
-          "title": "IOSG Ventures は Dojo Game Creation Hackathon の戦略的パートナーとなり、2024 年を通じてイベントをサポートします",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191600",
-          "author": null,
-          "description": "UAEのフィンテックスタートアップFlow 48は、2,500万ドルのシリーズAラウンドの資金調達が完了したと発表した。",
-          "link": "https://www.odaily.news/ja/post/5191600",
-          "publishedOn": "2023-12-11T09:59:14.000Z",
-          "wordCount": 3495,
-          "title": "Weekly Financing Express - 16 のプロジェクトが投資を受け、公開された資金調達総額は約 1 億 500 万米ドル (12.4 ～ 12.10)",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191612",
-          "author": null,
-          "description": "ERC-3643 は、有形資産、不動産トークンの取引、または価値の移転についての人々の考え方を変えます。ERC-3643 は、既存の従来の障壁、特に現実世界とブロックチェーン プラットフォームの間の境界を除去または破壊するために開発されました。",
-          "link": "https://www.odaily.news/ja/post/5191612",
-          "publishedOn": "2023-12-11T09:53:06.000Z",
-          "wordCount": 1940,
-          "title": "ERC-3643: 現実世界の資産のトークン標準",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345788",
-          "author": null,
-          "description": "Odaily News ビットコインのサイドチェーン MVC がアセットブリッジをアップグレードして Arbitrum と Optimism をサポート Bitcoin のサイドチェーン MicrovisionChain (MVC) が発表: 技術チームの 1 つである日本のチームが開発した MVCBridge は、Arbitrum と Optimism を含むように対象範囲を拡大し、MVC パブリック ブロックチェーンですそして、Web3 パブリック ブロックチェーンの作成は、さまざまなブロックチェーン ネットワークの進歩へと拡大します。 2024 年の第 1 四半期に予定されている公式発表によると、MVC はこれらのクロスチェーン ブリッジを再度アップグレードする予定で、今回は Ordinals および Bitcoin との接続を確立し、Bitcoin エコシステムにおける地位をさらに強化する予定です。",
-          "link": "https://www.odaily.news/ja/newsflash/345788",
-          "publishedOn": "2023-12-11T09:45:28.000Z",
-          "wordCount": 1930,
-          "title": "ビットコイン サイドチェーン MVC がアセット ブリッジをアップグレードして Arbitrum と Optimism をサポート",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345787",
-          "author": null,
-          "description": "オデイリーニュース ゴールドマン・サックスは、インフレの冷え込みを理由に、連邦準備理事会が来年２回の利下げを実施すると予想し、１回目の利下げを第３・四半期に前倒しすると発表した。ゴールドマン・サックスは以前、米国が来年12月に利下げを開始すると予想していた。ゴールドマン・サックスのエコノミスト、ジャン・ハッジウス氏はメモの中で、「健全な成長と労働市場の統計は、利下げが差し迫っていないことを示唆している…だが、インフレに関する良いニュースは、正常化された利下げがより早く行われる可能性を示唆している」と述べた（ロイター）",
-          "link": "https://www.odaily.news/ja/newsflash/345787",
-          "publishedOn": "2023-12-11T09:38:02.000Z",
-          "wordCount": 1864,
-          "title": "ゴールドマン・サックス：米国は来年第3四半期に利下げを開始する見通し",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345786",
-          "author": null,
-          "description": "Odaily は、Lookonchain の監視によると、HashKey 関連のウォレットが 786 万米ドル相当の 3,500 ETH をバイナンスに送金したと報じました。 12月5日から12月9日までの間、ウォレットはBinanceとOKXから合計26,114 ETHを引き出し、平均価格は2,333 USDTでした。",
-          "link": "https://www.odaily.news/ja/newsflash/345786",
-          "publishedOn": "2023-12-11T09:34:16.000Z",
-          "wordCount": 1914,
-          "title": "HashKey に関連付けられたウォレットが 3,500 ETH を Binance に送金",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
