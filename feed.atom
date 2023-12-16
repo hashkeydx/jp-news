@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-16T22:24:54.138Z</updated>
+    <updated>2023-12-16T23:21:21.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qredoの取引所Ankexが閉鎖──元ジェネシスのマイケル・モロCEOは退任]]></title>
+        <id>https://www.coindeskjapan.com/?p=212391</id>
+        <link href="https://www.coindeskjapan.com/212391/"/>
+        <updated>2023-12-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カストディ会社のQredoが昨年立ち上げ、元ジェネシス・トレーディング（Genesis Trading）のマイケル・モロ（Michael Moro）CEOが率い ...
+Qredoの取引所Ankexが閉鎖──元ジェネシスのマイケル・モロCEOは退任 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>inoue</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインと暗号資産市場の予測可能性──今後12～18カ月で大幅にアウトパフォーム]]></title>
         <id>https://www.coindeskjapan.com/?p=211278</id>
@@ -7362,76 +7373,6 @@ LINEヤフー、Web3普及に向け200億円調達 first appeared on CoinDesk JA
         <link href="https://www.odaily.news/ja/newsflash/345917"/>
         <updated>2023-12-12T11:30:00.000Z</updated>
         <summary type="html"><![CDATA[1. Binance は BRC-20 トークン Sats をリストし、それにシードタグを追加します; 2. OKX NFT 市場は Aptos の登録をサポートします; 3. OKX Web3 ウォレット Ordinals 市場の総取引量は 5 億米ドルを超えます; 4. Aave 「Aave V3 Ethereum Network への sfrxETH の上場」に関するコミュニティ投票を通過; 5. Cosmos Hub は 12 月 13 日に v14.1 にアップグレードされ、暗号検証機能が導入されます; 6. WeMade トークン WEMIX が Bithumb に再上場されることが承認されました; 7. Arrow Capital 清算会社 Three Teneo が 445 万 DYDX を Binance に入金; 8. HashKey Exchange が 12 月 14 日 16:00 に DYDX/USD を開始; 9. BNB Chain がグリーンフィールド技術ロードマップをリリース: 高性能、簡素化された開発エクスペリエンスとマルチチェーン プラットフォームの 3 つの主要原則; 10. Uplink Finance はスナップショット エアドロップ プランを更新し、SATS と UPFI、ORDI と UPFI を同時に保有するユーザーにエアドロップを実施します。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Web3ウォレットOrdinals市場の総取引額が5億ドルを突破]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345916</id>
-        <link href="https://www.odaily.news/ja/newsflash/345916"/>
-        <updated>2023-12-12T11:14:45.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Dune のデータによると、OKX Web3 ウォレット Ordinals 市場の総取引高は 5 億米ドルを超え、5 億 3,361,400 米ドルに達しました。これと比較すると、Ordinals プロトコルの総取引高は 8 億 6,500 万米ドル近くで、約 58 ドルを占めています。 %。さらに、OKX Ordinals マーケットの総取引数は 329,019 で、独立したアドレスの数は 76,927 です。 OKX Web3 Wallet Ordinals市場は最大のBRC20登録およびBTC NFT取引市場であると報告されています。 OKX Ordinals市場は完全に分散化されており、対話のためのプラットフォームサービス手数料は無料で、ワンストップ転送、取引、BRC-20およびBTC NFTの彫刻などの複数の機能をサポートしています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashKey Exchangeは12月14日16時にDYDX/USDを開始します]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345915</id>
-        <link href="https://www.odaily.news/ja/newsflash/345915"/>
-        <updated>2023-12-12T10:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News HashKey Exchange は、dYdX (DYDX) を上場すると発表しました。入出金は現在受付中です。取引は 2023 年 12 月 14 日 16:00 (香港時間) に開始され、DYDX/USD 取引ペアをサポートします。この通貨の取引対象はプロの投資家のみであることは言及する価値があります。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脆弱性 CVE が米国 NVD に採用された場合、Inscription エコシステムの崩壊を引き起こすでしょうか? 「BTCエコシステム」]]></title>
-        <id>https://www.odaily.news/ja/post/5191651</id>
-        <link href="https://www.odaily.news/ja/post/5191651"/>
-        <updated>2023-12-12T10:42:26.000Z</updated>
-        <summary type="html"><![CDATA[この碑文は脆弱性を利用して作成されましたが、ビットコインのエコシステムに新たな物語をもたらします。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB チェーンがグリーンフィールド テクノロジー ロードマップをリリース: 高性能、簡素化された開発エクスペリエンス、マルチチェーン プラットフォームの 3 つの主要原則に基づく]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345914</id>
-        <link href="https://www.odaily.news/ja/newsflash/345914"/>
-        <updated>2023-12-12T10:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News BNB Chainは、パフォーマンスの向上、開発経験の向上、マルチチェーン機能の拡張を目的としたBNB Greenfieldテクノロジーロードマップを発表しました。このロードマップは主に、高性能、簡素化された開発エクスペリエンス、およびマルチチェーン プラットフォームという 3 つの重要な原則に基づいています。これには、SP のアップロード速度とダウンロード速度を 2MB/s から 10MB/s、20MB/s から 100MB/s と 5 倍に高速化することが含まれます。 ; 一般的な Web2 および Web3 標準との互換性により、開発エクスペリエンスを簡素化; リソースのタグ付け、インデックス付け、簡素化されたデータ移行およびオブジェクトのアトミック更新を含む豊富なストレージ機能の導入; チェーン全体で使用するためのマルチチェーン プラットフォームを通じて強力なインフラストラクチャを提供または、opBNB および EVM 互換チェーンによるクロスチェーン プログラマビリティを可能にする分散型アプリケーション、Greenfield は、opBNB および BNB スマート チェーン エコシステムの基礎となるデータ アベイラビリティ (DA) レイヤーとしても位置付けられます。 Greenfield はまた、BNB チェーン上の Web3 と統合することで、所有権、透明性、イノベーションなどの人工知能 (AI) に関連する課題にも対処します。さらに、Greenfield では、2023 年第 4 四半期から 2024 年第 1 四半期までの間、リソース所有者としてスマート コントラクトが有効になり、BSC/opBNB の権限をより適切に制御できるようになります。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX が再起動したが IRS に刺された 240 億ドルの税金をどうやって返済するのか？]]></title>
-        <id>https://www.odaily.news/ja/post/5191656</id>
-        <link href="https://www.odaily.news/ja/post/5191656"/>
-        <updated>2023-12-12T10:35:37.000Z</updated>
-        <summary type="html"><![CDATA[FTXはIRSに税金を支払う義務はないと主張している。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitget Research Institute: Avalanche が Solana に続き量と価格の上昇、TIA 通貨価格が新高値を更新]]></title>
-        <id>https://www.odaily.news/ja/post/5191655</id>
-        <link href="https://www.odaily.news/ja/post/5191655"/>
-        <updated>2023-12-12T10:34:55.000Z</updated>
-        <summary type="html"><![CDATA[毎日のホットなニュースを素早くチェックできます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinWの6周年記念イベントが総額700,000 USDTに達する取引ボーナスで始まる]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345913</id>
-        <link href="https://www.odaily.news/ja/newsflash/345913"/>
-        <updated>2023-12-12T10:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News CoinW 6 周年記念トレーディング コンペティションの報酬イベントが本日正式に開始され、資産アカウント ≥ 100 USDT を持つユーザーはサインアップして参加できます。このイベントは契約取引コンテストとスポット取引コンテストの 2 つの部分で構成され、賞金総額は 700,000 USDT です。他にもライブオフラインパーティーや新人インセンティブなどの企画も多数開催。オンラインイベントは12月5日に始まり、1か月間開催される。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
