@@ -525,6 +525,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=498809",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ソラナ（SOL）のDEX（分散型取引所）の出来高は16日に、24時間ベースで初めてイーサリアムメインネットの出来高を超えて一位にランクインした。",
+          "link": "https://coinpost.jp/?p=498809",
+          "publishedOn": "2023-12-16T02:30:33.000Z",
+          "wordCount": 1931,
+          "title": "仮想通貨ソラナDEXの24時間出来高、初めてイーサリアム超え一位に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/solana.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/solana.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=498800",
           "author": "A.Yamada",
           "description": "仮想通貨XRPを提供するリップル社はCBDCについてのレポートを発表した。普及させる上でのバリアや、金融システムにもたらす利点を概説している。",
@@ -1371,6 +1386,26 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346475",
+          "author": null,
+          "description": "Odaily News DefiLlamaのデータによると、過去24時間のSolanaネットワーク上のDEX取引高は14億7,500万米ドルで、イーサリアムの11億6,400万米ドルを上回り、先週で52.75％増加した。",
+          "link": "https://www.odaily.news/ja/newsflash/346475",
+          "publishedOn": "2023-12-16T02:51:06.000Z",
+          "wordCount": 1721,
+          "title": "過去24時間でSolanaのDEX取引量がイーサリアムを上回った",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191727",
+          "author": null,
+          "description": "碑文の発行に失敗すると、パブリックチェーン技術が試されるだけでなく、プロジェクト側の収益も試されることになる。",
+          "link": "https://www.odaily.news/ja/post/5191727",
+          "publishedOn": "2023-12-16T02:31:59.000Z",
+          "wordCount": 1991,
+          "title": "プロジェクト チームはこれを無視し、IOST の最初の表記 IOSI はコミュニティから広く批判されました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346474",
           "author": null,
@@ -8259,76 +8294,6 @@
           "publishedOn": "2023-12-11T16:06:37.000Z",
           "wordCount": 1805,
           "title": "DePIN プロジェクト Wicrypt が Microsoft と Google Cloud から総額 350,000 ドルの資金提供を受ける",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345817",
-          "author": null,
-          "description": "Odaily News Scam Sniffer は、X プラットフォーム上に広告を装ったフィッシング詐欺が存在することを警告する記事を発行しました。公開されたスクリーンショットによると、関連する広告では Web サイトが starknet.io (公式 Web サイト) であるように示されていますが、実際には strk-networks[.]com に誘導されています。ユーザーがリンクをクリックして誤って署名（承認）すると、資産が盗まれる可能性があります。",
-          "link": "https://www.odaily.news/ja/newsflash/345817",
-          "publishedOn": "2023-12-11T15:19:52.000Z",
-          "wordCount": 1786,
-          "title": "Scam Sniffer: Starknet 広告フィッシング詐欺が X に出現します。スクリーニングに注意してください",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345816",
-          "author": null,
-          "description": "Odaily News Oku 取引ターミナルの背後にある GFX Labs チームは、Uniswap v3 を Rootstock にデプロイしました。 Uniswap のウェブサイトによると、もともとイーサリアム用に設計されたプロジェクトは、イーサリアムの第 2 層ネットワークである Arbitrum、Optimism、Polygon にも展開されています。 Oku は、分析、指値注文、LP ポジション管理を統合した取引ツールを Rootstock に提供します。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/345816",
-          "publishedOn": "2023-12-11T15:04:54.000Z",
-          "wordCount": 1786,
-          "title": "Uniswap がビットコインサイドチェーン Rootstock を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345815",
-          "author": null,
-          "description": "Odaily News Googleは仮想通貨広告ポリシーを更新しようとしており、米国がスポットビットコイン上場投資信託（ETF）を承認するのと同じ月に発効する予定だ。 ETFがGoogleの「仮想通貨信託」の定義を満たしているかどうかは不明だが、今回のポリシー更新により、Google認定の広告主は同社の要件を満たす限り、これらの商品を宣伝できるようになる。 Googleはこの問題についての説明要請に応じなかった。同時に、米国SECは1月中旬までに一連のスポットビットコインETFの承認、拒否、延期に関する決定を下す予定だ。さらに、コロンビア特別区巡回区控訴裁判所がSECに対し、主力のGBTCファンドをスポットビットコインETFに転換するというグレイスケールの提案を再考するよう促したことを受け、SECは現在グレイスケールのビットコイントラスト（GBTC）商品を審査している。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/345815",
-          "publishedOn": "2023-12-11T14:57:25.000Z",
-          "wordCount": 1757,
-          "title": "Google、広告主が仮想通貨の信頼を促進できるよう、1月に広告ポリシーを更新",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191614",
-          "author": null,
-          "description": "ビットコインエコシステムにはFreemintが必要ですか?",
-          "link": "https://www.odaily.news/ja/post/5191614",
-          "publishedOn": "2023-12-11T14:54:50.000Z",
-          "wordCount": 1710,
-          "title": "トークン配布が物議を醸し、Veda創設者が一転して「BTCエコシステム」から離脱",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345814",
-          "author": null,
-          "description": "Odaily News トレーダージョー、マントル専用の DEX マーチャント モーを立ち上げ、トレーダージョーが設立した革新的な流動性ハブの拡大を目指す トレーダージョーのネイティブトークン JOE の保有者は、TGE でのプロジェクトトークンエアドロップ総額の 2.5% を受け取り、TGE でエアドロップされます追加の 5% が今後 12 か月間割り当てられます。",
-          "link": "https://www.odaily.news/ja/newsflash/345814",
-          "publishedOn": "2023-12-11T14:51:36.000Z",
-          "wordCount": 1788,
-          "title": "トレーダージョーズ、Mantle 専用の DEX Merchant Moe を発売",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345813",
-          "author": null,
-          "description": "Odaily ニュース チェーン アナリスト @ai_9684xtpa は、Justin Sun が再び 1,600 ETH をマルチシグネチャ アドレスに送金し、過去 3 日間で合計 4,800 ETH が送金されたことを監視しました。このマルチシグアドレスはETHを受け取った後、BinanceとKrakenに転送します。",
-          "link": "https://www.odaily.news/ja/newsflash/345813",
-          "publishedOn": "2023-12-11T14:42:41.000Z",
-          "wordCount": 1788,
-          "title": "Justin Sun が再び 1,600 ETH をマルチシグネチャアドレスに送金",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345812",
-          "author": null,
-          "description": "Odaily は、Lookonchain の監視によると、ETH 価格下落後、新たに作成された 3 つのアドレスがバイナンスから合計 14,000 ETH (3,113 万米ドル相当) を転送したと報じました。",
-          "link": "https://www.odaily.news/ja/newsflash/345812",
-          "publishedOn": "2023-12-11T14:33:55.000Z",
-          "wordCount": 1778,
-          "title": "ETHの価格が下落した後、3つの新しいアドレスがバイナンスから合計14,000 ETHを転送しました。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-16T02:31:16.296Z</updated>
+    <updated>2023-12-16T03:22:36.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[過去24時間でSolanaのDEX取引量がイーサリアムを上回った]]></title>
+        <id>https://www.odaily.news/ja/newsflash/346475</id>
+        <link href="https://www.odaily.news/ja/newsflash/346475"/>
+        <updated>2023-12-16T02:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News DefiLlamaのデータによると、過去24時間のSolanaネットワーク上のDEX取引高は14億7,500万米ドルで、イーサリアムの11億6,400万米ドルを上回り、先週で52.75％増加した。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロジェクト チームはこれを無視し、IOST の最初の表記 IOSI はコミュニティから広く批判されました。]]></title>
+        <id>https://www.odaily.news/ja/post/5191727</id>
+        <link href="https://www.odaily.news/ja/post/5191727"/>
+        <updated>2023-12-16T02:31:59.000Z</updated>
+        <summary type="html"><![CDATA[碑文の発行に失敗すると、パブリックチェーン技術が試されるだけでなく、プロジェクト側の収益も試されることになる。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ソラナDEXの24時間出来高、初めてイーサリアム超え一位に]]></title>
+        <id>https://coinpost.jp/?p=498809</id>
+        <link href="https://coinpost.jp/?p=498809"/>
+        <updated>2023-12-16T02:30:33.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナ（SOL）のDEX（分散型取引所）の出来高は16日に、24時間ベースで初めてイーサリアムメインネットの出来高を超えて一位にランクインした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コサイン: 悪意を持ってスタックした碑文トランザクションは、低いトランザクション手数料で可能です]]></title>
         <id>https://www.odaily.news/ja/newsflash/346474</id>
@@ -8307,76 +8337,6 @@ Progmat主催のコンソーシアム、「ベンチャーキャピタル×デ�
         <link href="https://www.odaily.news/ja/newsflash/345820"/>
         <updated>2023-12-11T16:06:37.000Z</updated>
         <summary type="html"><![CDATA[Odaily News ナイジェリアのスタートアップ DePIN プロジェクト Wicrypt は、Microsoft と Google Cloud から総額 350,000 ドルの資金を受け取ったと発表しました。この資金は協力を拡大し、製品の有効性を向上させるために使用されます。 (ビットコインドットコム)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scam Sniffer: Starknet 広告フィッシング詐欺が X に出現します。スクリーニングに注意してください]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345817</id>
-        <link href="https://www.odaily.news/ja/newsflash/345817"/>
-        <updated>2023-12-11T15:19:52.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Scam Sniffer は、X プラットフォーム上に広告を装ったフィッシング詐欺が存在することを警告する記事を発行しました。公開されたスクリーンショットによると、関連する広告では Web サイトが starknet.io (公式 Web サイト) であるように示されていますが、実際には strk-networks[.]com に誘導されています。ユーザーがリンクをクリックして誤って署名（承認）すると、資産が盗まれる可能性があります。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap がビットコインサイドチェーン Rootstock を開始]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345816</id>
-        <link href="https://www.odaily.news/ja/newsflash/345816"/>
-        <updated>2023-12-11T15:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Oku 取引ターミナルの背後にある GFX Labs チームは、Uniswap v3 を Rootstock にデプロイしました。 Uniswap のウェブサイトによると、もともとイーサリアム用に設計されたプロジェクトは、イーサリアムの第 2 層ネットワークである Arbitrum、Optimism、Polygon にも展開されています。 Oku は、分析、指値注文、LP ポジション管理を統合した取引ツールを Rootstock に提供します。 (コインデスク)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、広告主が仮想通貨の信頼を促進できるよう、1月に広告ポリシーを更新]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345815</id>
-        <link href="https://www.odaily.news/ja/newsflash/345815"/>
-        <updated>2023-12-11T14:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Googleは仮想通貨広告ポリシーを更新しようとしており、米国がスポットビットコイン上場投資信託（ETF）を承認するのと同じ月に発効する予定だ。 ETFがGoogleの「仮想通貨信託」の定義を満たしているかどうかは不明だが、今回のポリシー更新により、Google認定の広告主は同社の要件を満たす限り、これらの商品を宣伝できるようになる。 Googleはこの問題についての説明要請に応じなかった。同時に、米国SECは1月中旬までに一連のスポットビットコインETFの承認、拒否、延期に関する決定を下す予定だ。さらに、コロンビア特別区巡回区控訴裁判所がSECに対し、主力のGBTCファンドをスポットビットコインETFに転換するというグレイスケールの提案を再考するよう促したことを受け、SECは現在グレイスケールのビットコイントラスト（GBTC）商品を審査している。 （ブロック）]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トークン配布が物議を醸し、Veda創設者が一転して「BTCエコシステム」から離脱]]></title>
-        <id>https://www.odaily.news/ja/post/5191614</id>
-        <link href="https://www.odaily.news/ja/post/5191614"/>
-        <updated>2023-12-11T14:54:50.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインエコシステムにはFreemintが必要ですか?]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トレーダージョーズ、Mantle 専用の DEX Merchant Moe を発売]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345814</id>
-        <link href="https://www.odaily.news/ja/newsflash/345814"/>
-        <updated>2023-12-11T14:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News トレーダージョー、マントル専用の DEX マーチャント モーを立ち上げ、トレーダージョーが設立した革新的な流動性ハブの拡大を目指す トレーダージョーのネイティブトークン JOE の保有者は、TGE でのプロジェクトトークンエアドロップ総額の 2.5% を受け取り、TGE でエアドロップされます追加の 5% が今後 12 か月間割り当てられます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Justin Sun が再び 1,600 ETH をマルチシグネチャアドレスに送金]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345813</id>
-        <link href="https://www.odaily.news/ja/newsflash/345813"/>
-        <updated>2023-12-11T14:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Odaily ニュース チェーン アナリスト @ai_9684xtpa は、Justin Sun が再び 1,600 ETH をマルチシグネチャ アドレスに送金し、過去 3 日間で合計 4,800 ETH が送金されたことを監視しました。このマルチシグアドレスはETHを受け取った後、BinanceとKrakenに転送します。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHの価格が下落した後、3つの新しいアドレスがバイナンスから合計14,000 ETHを転送しました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/345812</id>
-        <link href="https://www.odaily.news/ja/newsflash/345812"/>
-        <updated>2023-12-11T14:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、Lookonchain の監視によると、ETH 価格下落後、新たに作成された 3 つのアドレスがバイナンスから合計 14,000 ETH (3,113 万米ドル相当) を転送したと報じました。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
