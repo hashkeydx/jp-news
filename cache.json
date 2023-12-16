@@ -525,6 +525,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=498810",
+          "author": "A.Yamada",
+          "description": "豪仮想通貨マイニング企業アイリスエナジーは、ビットメインの最新型ビットコイン採掘マシンを発注した。セルフマイニング能力を倍増させる計画だ。",
+          "link": "https://coinpost.jp/?p=498810",
+          "publishedOn": "2023-12-16T04:00:40.000Z",
+          "wordCount": 1904,
+          "title": "豪アイリスエナジー、最新型マイニングマシンでビットコイン採掘能力拡大へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/marathon-mining-new-site.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/marathon-mining-new-site.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=498809",
           "author": "菊谷ルイス",
           "description": "仮想通貨ソラナ（SOL）のDEX（分散型取引所）の出来高は16日に、24時間ベースで初めてイーサリアムメインネットの出来高を超えて一位にランクインした。",
@@ -1386,6 +1401,66 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346480",
+          "author": null,
+          "description": "Odaily News Frax FinanceはXプラットフォームに関する文書を発行し、Osmosis、Mantle、Linea、Kjira、Manta Network、Scrollなどを含むAxelar Networkを通じて複数のネットワークで資産を発行すると述べた。",
+          "link": "https://www.odaily.news/ja/newsflash/346480",
+          "publishedOn": "2023-12-16T04:09:11.000Z",
+          "wordCount": 1719,
+          "title": "Frax FinanceはAxelar Networkを介して複数のネットワークで資産を発行します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191740",
+          "author": null,
+          "description": "Binance Launchpoolの背後にあるウェルスコードと最新のFusionist（ACE）の参加について詳しく説明されています。",
+          "link": "https://www.odaily.news/ja/post/5191740",
+          "publishedOn": "2023-12-16T04:00:00.000Z",
+          "wordCount": 2316,
+          "title": "Binance Launchpoolの背後にあるウェルスコードの詳細な分析",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346479",
+          "author": null,
+          "description": "Odaily News Manta Pacific のオンチェーン データによると、New Paradigm 製品の TVL は 2,000 万米ドルを超えています。 New Paradigm は、Blast モデルを使用して Manta Network によって開始された収益製品です。ユーザーはETHとUSDCをマンタ・パシフィックに誓約し、友人を参加に招待すると、ETHとUSDCの固定収入、MANTAトークンと交換できる宝箱NFT報酬、DeFi、SocialFi、GameFiなどへの参加という5つの特典を受け取ることができます。マンタ パシフィックの生態系 取得された合成可能性の報酬、マンタ パシフィックの生態学プロジェクトによってユーザーに提供される追加の報酬、Eigenlayer によって提供される再テイクの報酬。 Manta Pacific は、Manta Network が立ち上げた ZK アプリケーション用に設計されたイーサリアム モジュール式レイヤー 2 で、Polychain、Binance labs、CoinFund、SevenX Ventures などの機関から 6,000 万米ドルを超える資金調達を受けています。",
+          "link": "https://www.odaily.news/ja/newsflash/346479",
+          "publishedOn": "2023-12-16T03:58:32.000Z",
+          "wordCount": 1742,
+          "title": "マンタネットワークの新パラダイム製品のTVL価値が2,000万米ドルを超える",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346478",
+          "author": null,
+          "description": "Odailyは、Whale Alertの監視によれば、9,788万ドル近くに相当する2,310 BTCが未知のアドレスからCoinbaseに転送されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/346478",
+          "publishedOn": "2023-12-16T03:55:47.000Z",
+          "wordCount": 1712,
+          "title": "2,310 BTCが不明なアドレスからCoinbaseに送金され、その価値は約1億ドルに相当します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346477",
+          "author": null,
+          "description": "Odaily News Bounce は、特定のビットコイン ネットワーク上の P2E ゲームがオークション所有者にエアドロップされると X プラットフォームに投稿しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346477",
+          "publishedOn": "2023-12-16T03:50:39.000Z",
+          "wordCount": 1726,
+          "title": "バウンス: 特定のビットコイン P2E ゲームがオークション所有者にエアドロップされます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346476",
+          "author": null,
+          "description": "Odaily News Aki Networkは、MARBLEXと日本の非公開ベンチャーキャピタルが主導し、Puzzle Venturesやその他の個人起業家の参加を得て、評価額5,000万米ドルのシリーズA資金調達が完了したと発表した。 (GlobeNewswire) 前のニュース、Web3 データ駆動型インフルエンサー ネットワーク Aki Protocol (別名 Aki Network) は本日、4,000 万米ドルの評価でシードラウンドの資金調達を完了したことを発表しました。投資には前澤Web3ファンド、Incuba Alpha、Meteorite Labs、CatcherVC、Alchemy Pay、Futurism Labs、Oxbullなどが参加し、エンジェル投資家にはCyber​​Connect、SynFutures、DODO、Hooga Gamingなどのプロジェクトの創設者が含まれる。",
+          "link": "https://www.odaily.news/ja/newsflash/346476",
+          "publishedOn": "2023-12-16T03:31:26.000Z",
+          "wordCount": 1730,
+          "title": "Aki Networkは、MARBLEXと日本の非公開ベンチャーキャピタル主導によるシリーズA資金調達の完了を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346475",
           "author": null,
@@ -8274,26 +8349,6 @@
           "publishedOn": "2023-12-11T17:09:42.000Z",
           "wordCount": 1723,
           "title": "Coinbaseは、BaseエコロジカルレンディングプロトコルシームレストークンSEAMを開始すると発表しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345821",
-          "author": null,
-          "description": "Odaily News OKX市場によると、ETHは2200 USDTを下回ったがその後反発し、現在は24時間で6.5％下落し、2202 USDTで取引されている。",
-          "link": "https://www.odaily.news/ja/newsflash/345821",
-          "publishedOn": "2023-12-11T16:14:28.000Z",
-          "wordCount": 1759,
-          "title": "ETHは2200 USDTを下回った後に反発し、24時間で6.5%下落した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345820",
-          "author": null,
-          "description": "Odaily News ナイジェリアのスタートアップ DePIN プロジェクト Wicrypt は、Microsoft と Google Cloud から総額 350,000 ドルの資金を受け取ったと発表しました。この資金は協力を拡大し、製品の有効性を向上させるために使用されます。 (ビットコインドットコム)",
-          "link": "https://www.odaily.news/ja/newsflash/345820",
-          "publishedOn": "2023-12-11T16:06:37.000Z",
-          "wordCount": 1805,
-          "title": "DePIN プロジェクト Wicrypt が Microsoft と Google Cloud から総額 350,000 ドルの資金提供を受ける",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
