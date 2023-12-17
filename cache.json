@@ -455,6 +455,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=498580",
+          "author": "CoinPost編集部",
+          "description": "第13回のGM Radio：Beyond The Priceは13日に公開。GS出身のWeston Nakamura氏が、従来の金融業界が仮想通貨ビットコインに注目すべき理由などについて語った。",
+          "link": "https://coinpost.jp/?p=498580",
+          "publishedOn": "2023-12-17T05:00:50.000Z",
+          "wordCount": 1922,
+          "title": "「従来の金融業界がビットコインに注目すべき理由」GS出身の金融専門家Weston Nakamura氏が語る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/bitcoin-flow-stock.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/bitcoin-flow-stock.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=498652",
           "author": "A.Sakamoto",
           "description": "調整基調で始まるも下げ幅を取り戻すなど、底堅い展開をみせた今週のビットコインチャートを図解。国内大手取引所bitbankのアナリストが今後の展望を読み解く。オンチェーンデータも掲載。",
@@ -1181,6 +1196,26 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346535",
+          "author": null,
+          "description": "Odaily は、オンチェーンアナリストの ai_9684xtpa 監視によると、巨大クジラが 5,000 ETH (1,154 万米ドル相当) を Blast に送金したと報じました。",
+          "link": "https://www.odaily.news/ja/newsflash/346535",
+          "publishedOn": "2023-12-17T05:14:46.000Z",
+          "wordCount": 1755,
+          "title": "巨大なクジラが 5,000 ETH、1,154 万米ドル相当を Blast に送金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346533",
+          "author": null,
+          "description": "Odaily News Multicoinの共同作成者であるKyle Samani氏はXプラットフォームに、SolanaとSolana携帯電話が1年以内に大量のエアドロップを受け取ることが予想されると投稿した。",
+          "link": "https://www.odaily.news/ja/newsflash/346533",
+          "publishedOn": "2023-12-17T04:53:28.000Z",
+          "wordCount": 1756,
+          "title": "Multicoin Lianchuang: Solana および Solana 携帯電話は 1 年以内に多数のエアドロップを受け取ることが予想されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346532",
           "author": null,
@@ -6969,86 +7004,6 @@
           "publishedOn": "2023-12-12T17:30:54.000Z",
           "wordCount": 1743,
           "title": "BTCは41,000 USDTを下回り、24時間で1.71%下落",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345975",
-          "author": null,
-          "description": "Odaily News DA（データ可用性）ソリューション Celestia は火曜日、イーサリアム上に新しいレイヤー 2 ネットワークを立ち上げるために使用できるソフトウェア ツールのセットである Polygon の Chain Development Kit (CDK) と「統合」すると発表しました。この統合により、Celestia はゼロ知識テクノロジーを活用した Polygon のカスタマイズ可能なソフトウェア スタックに接続され、開発者が独自のブロックチェーンを立ち上げるときにデータ可用性ソリューションを使用できるようになります。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/345975",
-          "publishedOn": "2023-12-12T17:07:13.000Z",
-          "wordCount": 1780,
-          "title": "Celestia は Polygon CDK と連携して、開発者にレイヤ 2 ネットワークの立ち上げのサポートを提供しています。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345974",
-          "author": null,
-          "description": "Odaily News EOS Network Foundation は、X プラットフォーム上で EOS EVM 0.7.0 RC-1 がテスト ネットワーク上で起動されたことを発表しました。このアップデートにより、WebSocket のサポートが導入されました。",
-          "link": "https://www.odaily.news/ja/newsflash/345974",
-          "publishedOn": "2023-12-12T17:03:49.000Z",
-          "wordCount": 1766,
-          "title": "EOS EVM 0.7.0 RC-1 がテストネットワーク上で起動される",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345973",
-          "author": null,
-          "description": "Odaily News イーサリアムステーキングネットワーク SSV Network は、このマイルストーンを達成するために、「分散バリデーターテクノロジー」(DVT) を使用したパーミッションレスメインネットを立ち上げます。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/345973",
-          "publishedOn": "2023-12-12T16:57:31.000Z",
-          "wordCount": 1744,
-          "title": "イーサリアムステーキングネットワークSSVがパーミッションレスメインネットを起動",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345972",
-          "author": null,
-          "description": "オデイリーは、ホエール・アラートの監視によると、北京時間0時03分20秒に、1,000BTC（41,399,786ドル）がCash Appから新しい未知のウォレットアドレスに送金されたと報じた。",
-          "link": "https://www.odaily.news/ja/newsflash/345972",
-          "publishedOn": "2023-12-12T16:53:21.000Z",
-          "wordCount": 1758,
-          "title": "1,000 BTC を Cash App から新しいウォレットアドレスに転送しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345971",
-          "author": null,
-          "description": "Odaily News SP Global Ratingsは火曜日、DAI、FDUSD、USDT、FRAX、TUSDとUSDC、USDP、GUSDを対象としたステーブルコインの安定性評価を発表した。分析によれば、USDC、USDP、GUSD はいずれも良い評価（強い）を受けているが、USDT、DAI、FDUSD は中間または「抑制的」であり、評価結果では弱い方に位置している。 、FRAXとTUSDも低評価でした。最初の評価にリストされたステーブルコインはいずれも「非常に強い」という最高評価を獲得しておらず、そのうちの 4 つは「マイナス調整」の影響を受けていたことは注目に値します。アナリストは主に「ステーブルコインをサポートする資産の質」に焦点を当てており、全体的な質はカストディリスク、信用度、市場価値によって測定されると報告されている。さらに、規制、ガバナンス、監視、流動性、償還可能性、テクノロジーも考慮されます。 (ブロックワークス)",
-          "link": "https://www.odaily.news/ja/newsflash/345971",
-          "publishedOn": "2023-12-12T16:44:03.000Z",
-          "wordCount": 1747,
-          "title": "SPグローバル・レーティングがステーブルコイン評価レポートを発表：USDCとGUSDがリストのトップ、DAIとUSDTは「制限」",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345970",
-          "author": null,
-          "description": "Odaily の公式ニュースによると、デジタル資産取引会社 QCP Capital が BitGo の規制プラットフォーム Go Network に参加しました。",
-          "link": "https://www.odaily.news/ja/newsflash/345970",
-          "publishedOn": "2023-12-12T16:33:41.000Z",
-          "wordCount": 1756,
-          "title": "デジタル資産取引会社QCPキャピタルがBitGoのGoネットワークに参加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345969",
-          "author": null,
-          "description": "Odaily News Bitcoin Magazine は、スポットビットコイン ETF 申請に関して米国 SEC がフランクリン・テンプルトン氏と会談したと述べた X プラットフォームに関する記事を掲載しました。",
-          "link": "https://www.odaily.news/ja/newsflash/345969",
-          "publishedOn": "2023-12-12T16:30:27.000Z",
-          "wordCount": 1758,
-          "title": "米国SEC、スポットビットコインETFに関してフランクリン・テンプルトン氏と会談",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345968",
-          "author": null,
-          "description": "Odaily News Web3 プロジェクト Nym、Protocol Labs、Filecoin Foundation、Oasis、Aztec は共同で Universal Privacy Alliance (UPA) を設立しました。声明によると、UPAは政策や規制上の決定に影響を与えることに重点を置き、初期資金として15万ドルが支援されるという。 UPAは当初、EUのeIDAS（電子識別、認証、信頼サービス）規制とデジタルサービス法に焦点を当て、ロビー活動を主導するコーディネーターの任命、EthDenverキャンペーンなどの主要なブロックチェーンカンファレンスでの主要イベントの主催、プライバシー重視の慣行を支援するための法的基金を設立する。各創設メンバーは最初に 15,000 ドルを UPA に寄付し、150,000 ドルは直接的な擁護活動と今後数か月間での追加資金に使用されます。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/345968",
-          "publishedOn": "2023-12-12T16:27:30.000Z",
-          "wordCount": 1746,
-          "title": "Nym、Protocol Labs、Filecoin FoundationなどがWeb3「Universal Privacy Alliance」を設立",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
