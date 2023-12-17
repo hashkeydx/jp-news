@@ -430,16 +430,6 @@
           "wordCount": 1109,
           "title": "米アーク、1300万ドル分のグレイスケール・ビットコイン・トラストを売却",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/EAWKDMFIRREVFJRDIZGCJ3UDHA.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=211971",
-          "author": "Sam Reynolds",
-          "description": "中国の国家レベルのブロックチェーン構想であるブロックチェーン・ベース・サービス・ネットワーク（BSN）の発表によると、ブロックチェーン技術が中国の14億人の実名 ...\n中国、ブロックチェーンを14億人の国民の身元確認に活用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/211971/",
-          "publishedOn": "2023-12-12T22:00:00.000Z",
-          "wordCount": 1142,
-          "title": "中国、ブロックチェーンを14億人の国民の身元確認に活用",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/12/shutterstock_2139127737.jpg"
         }
       ]
     },
@@ -1143,36 +1133,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/fqoQSMjr.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/fqoQSMjr.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498000",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨ポリゴンの開発チームは、Polygon CDKがモジュラー型のブロックチェーンCelestiaに対応することを発表。CelestiaのTIAトークンは前日比19%超上昇した。",
-          "link": "https://coinpost.jp/?p=498000",
-          "publishedOn": "2023-12-12T22:15:02.000Z",
-          "wordCount": 1937,
-          "title": "ポリゴン開発キット、DAレイヤー「Celestia」に対応へ　TIAは一時25%超",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Celestia-Polygon-CDK.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Celestia-Polygon-CDK.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=497997",
-          "author": "菊谷ルイス",
-          "description": "金融大手ブラックロックが申請中の現物仮想通貨ビットコインETF（上場投資信託）に関して新たな動きがあった。",
-          "link": "https://coinpost.jp/?p=497997",
-          "publishedOn": "2023-12-12T21:30:33.000Z",
-          "wordCount": 1871,
-          "title": "ブラックロックビットコインETFに新たな進展",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
         }
       ]
     },
@@ -1181,6 +1141,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346554",
+          "author": null,
+          "description": "Odaily ニュースの mempool.space データによると、ビットコイン ネットワーク上の現在の最低トランザクション手数料は 600 sat/vB に達し、確認されるトランザクションは 348,000 件以上あり、メモリ プールの使用量は 300 MB を超え、1.41 GB に達しています。",
+          "link": "https://www.odaily.news/ja/newsflash/346554",
+          "publishedOn": "2023-12-17T10:24:12.000Z",
+          "wordCount": 1676,
+          "title": "ビットコインネットワークにおける現在の最低取引手数料は600sat/vBに達しており、348,000件以上の取引が確認待ちとなっている。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346553",
+          "author": null,
+          "description": "Odaily News OKX市場によると、BTCは反発して42,000 USDTを超え、現在は42,005 USDTで取引されており、24時間の下落幅は0.5%に縮小した。",
+          "link": "https://www.odaily.news/ja/newsflash/346553",
+          "publishedOn": "2023-12-17T10:04:07.000Z",
+          "wordCount": 1668,
+          "title": "BTCは反発して42,000 USDTを超え、24時間の下落率は0.5%に縮小",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346552",
+          "author": null,
+          "description": "Odaily News Bitget 市場によると、BGB は短期的に 0.58 USDT まで上昇しましたが、その後反落し、現在は 0.576 USDT で取引されており、24 時間で 7.77% 上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/346552",
+          "publishedOn": "2023-12-17T09:53:14.000Z",
+          "wordCount": 1701,
+          "title": "BGB は短期的に 0.58 USDT まで上昇しましたが、その後反落し、24 時間では 7.77% 上昇しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346551",
+          "author": null,
+          "description": "デイリーニュース 金曜日、米国下院議員のパトリック・マクヘンリー氏とトム・エマー氏は、仮想通貨規制の明確化を求めるコインベースの請願を米国証券取引委員会（SEC）とゲーリー・ゲンスラー委員長が拒否したことを受けて批判した。マクヘンリー下院​​議員はXプラットフォームについて、米国SEC委員長ゲイリー・ゲンスラーがデジタル資産エコシステムに明確性を与えることを拒否し続けているのは恥ずべきことだとコメントした。もし「法律は明確である」ということが彼の立場を支持するのであれば、なぜSECは法廷で負け続けているのだろうか？明確な仮想通貨規制を推進してきたマクヘンリー氏は、1月の任期満了とともに議会を引退する。別の米国議員であるミネソタ州共和党議員トム・エマーも、SECがコインベースの請願を拒否したことを強く批判した。エマー氏は、SECの政策は市場の透明性を高めるというよりむしろ混乱を生み出すことを目的としており、我が国の偉大な資本市場を腐食させるものであると述べた。これは誤りであり、SEC の義務に対する明らかな違反です。",
+          "link": "https://www.odaily.news/ja/newsflash/346551",
+          "publishedOn": "2023-12-17T09:33:42.000Z",
+          "wordCount": 1663,
+          "title": "米国議員ら、仮想通貨業界に明確な規制を設けることを拒否したとしてSECと委員長を非難",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346550",
+          "author": null,
+          "description": "Odaily News 米国商品先物取引委員会（CFTC）のロスティン・ベーナム委員長は、現行法の下では多くのデジタル資産は商品とみなされるべきだと述べた。しかし、ロスティン・ベーナム氏は規制上のギャップの出現を嘆き、米国議会に介入するよう促した。同氏はまた、ゲーリー・ゲンスラーSEC委員長と「とても仲が良い」と強調した。 (ニュース.ビットコイン)",
+          "link": "https://www.odaily.news/ja/newsflash/346550",
+          "publishedOn": "2023-12-17T09:23:08.000Z",
+          "wordCount": 1664,
+          "title": "米国CFTC委員長：現行法の下では、多くのデジタル資産は商品とみなされるべきである",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346549",
           "author": null,
@@ -7129,16 +7139,6 @@
           "publishedOn": "2023-12-12T22:27:15.000Z",
           "wordCount": 1768,
           "title": "Coinbaseの合弁会社Fred EhrsamとArk Investは最近、COIN株を1,470万ドル以上売却した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345977",
-          "author": null,
-          "description": "デイリーニュース 米国現地時間火曜日、マリネード・ファイナンスのソラナベースの流動性担保デリバティブmSOLの価格は、30分足らずで急落した。 The Blockの価格データによると、mSOLトークンは数分前まで77ドル前後で取引されていたが、東部時間午後12時35分に67ドルを下回った。全体として、mSOLは火曜日に18％も下落したが、すぐに反発し、午後1時57分の時点で価格は再び77ドルを超えた。 The Block Researchによると、ある大口保有者が500万ドル以上のmSOLデリバティブをSOLと交換することで急落を引き起こしたようだ。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/345977",
-          "publishedOn": "2023-12-12T22:14:24.000Z",
-          "wordCount": 1777,
-          "title": "ソラナ クジラのアドレスが mSOL で 500 万ドル以上売却され、mSOL が一時的に急落した",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
