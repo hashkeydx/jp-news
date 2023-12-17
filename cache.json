@@ -455,6 +455,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=498652",
+          "author": "A.Sakamoto",
+          "description": "調整基調で始まるも下げ幅を取り戻すなど、底堅い展開をみせた今週のビットコインチャートを図解。国内大手取引所bitbankのアナリストが今後の展望を読み解く。オンチェーンデータも掲載。",
+          "link": "https://coinpost.jp/?p=498652",
+          "publishedOn": "2023-12-17T02:30:00.000Z",
+          "wordCount": 1889,
+          "title": "調整基調のビットコイン、4.5万ドル上抜けにはさらなる材料が必要か｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=498786",
           "author": "CoinPost編集部",
           "description": "今週は、JPモルガンのアナリストによる仮想通貨イーサリアムに関する相場予測や、ブラックロックが申請中のビットコイン現物ETFの進展などが最も関心を集めた。",
@@ -1166,6 +1181,26 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346531",
+          "author": null,
+          "description": "Odaily News Avascriptions のデータによると、Avalanche への avav の書き込みはすべて完了しており、保持されているアドレスの数は 52,367 に達しています。",
+          "link": "https://www.odaily.news/ja/newsflash/346531",
+          "publishedOn": "2023-12-17T03:03:22.000Z",
+          "wordCount": 1759,
+          "title": "Avalanche の avav という文字は完全に刻まれており、50,000 を超えるアドレスが記録されています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346530",
+          "author": null,
+          "description": "Ember Monitoring によると、Odaily は、2 つのアドレスが取引所から 2,302 万 STORJ (2,378 万米ドル相当) を転送したと報じました。同時に、STORJは2時間前に上昇を開始し、0.928 USDTから最大1.095 USDTまで18％上昇しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346530",
+          "publishedOn": "2023-12-17T02:47:59.000Z",
+          "wordCount": 1767,
+          "title": "2 つのアドレスが取引所から 2,302 万 STORJ、2,378 万米ドル相当を転送",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346529",
           "author": null,
@@ -7054,56 +7089,6 @@
           "publishedOn": "2023-12-12T15:23:38.000Z",
           "wordCount": 1803,
           "title": "ETHは2200 USDTを下回り、24時間で1.35%下落",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345953",
-          "author": null,
-          "description": "Odaily News Starknet開発会社StarkwareとStarknet Foundationは、最近発表された「Devonomics」プログラムの一環として、開発者にネットワーク料金として350万ドルを支払うと発表した。プロジェクトの開始から 11 月 30 日まで、ネットワーク料金の約 10% (合計約 1,600 ETH) が Starknet エコシステムの開発のサポートに割り当てられ、将来の割り当ては STRK の形で行われます。現在、手数料の 8% が​​ DApp ビルダーに分配され、手数料の 2% が Starknet コア開発者に分配されます。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/345953",
-          "publishedOn": "2023-12-12T15:17:03.000Z",
-          "wordCount": 1847,
-          "title": "StarkWare と Starknet Foundation が Devonomics プロジェクト開発者へのネットワーク料金 350 万ドルの分配を発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345952",
-          "author": null,
-          "description": "オデイリー紙は、モンテネグロ高等裁判所が米国と韓国当局の要請に応じて、Terraform Labsの共同創設者ド・グォン氏の拘留を延長したと報じた。ラコビッチ氏は、ポドゴリツァの裁判所が金曜日に期限切れとなる予定だった拘留期間を２月１５日まで２カ月延長する判決を下したと述べた。 （ブルームバーグ） 事情に詳しい関係者によると、モンテネグロの最高司法当局者は以前、韓国で刑事告訴されるよりもド・グォン氏を米国に送るつもりだと非公式に語った。ド・グォン氏は3月以来バルカン半島で投獄されており、米国と韓国の両国はド・グォン氏の引き渡しを求めており、両国の検察当局は詐欺と証券法違反の容疑でクォン氏を裁判にかけることを望んでいる。モンテネグロの裁判所は先月、ド・グォン氏の引き渡しを承認したが、同氏を米国に送るか韓国に送るかはアンドレイ・ミロビッチ法務大臣の判断に委ねられる。ミロビッチ氏はまだ決定を発表しておらず、裁判所の判決に対するクアン氏の最終控訴について国内裁判所が判決を下す前に発表する可能性は低い。",
-          "link": "https://www.odaily.news/ja/newsflash/345952",
-          "publishedOn": "2023-12-12T15:07:12.000Z",
-          "wordCount": 1793,
-          "title": "モンテネグロ高等裁判所は、米国と韓国当局の要請に応じ、ド・グォン氏の拘留を2月15日まで延長した。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345951",
-          "author": null,
-          "description": "Web3 と DAO にブロックチェーン ガバナンス サービスを提供する Odaily News Q Protocol は、国際商業会議所 (ICC) 仲裁裁判所が定めた規則を使用して紛争を解決し、裁定を執行します。このプロトコルを使用すると、開発者はスマート コントラクトによって強制される憲章を構築でき、コードでは処理できない紛争を解決するためのオフチェーン手段が含まれます。 Q プロトコル独自の憲章は、100 年の歴史を持つ国際仲裁裁判所への訴えを含むシステムの規則を定めています。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/345951",
-          "publishedOn": "2023-12-12T14:59:26.000Z",
-          "wordCount": 1807,
-          "title": "Qプロトコルは、DeFi紛争を解決し、裁定を執行するために、国際商工会議所の仲裁裁判所によって設定された規則を使用します。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345950",
-          "author": null,
-          "description": "Odaily News ブラックロックのビットコインスポットETF償還モデルの最近の改訂によると、認可された参加者は仮想通貨だけでなく、現金で新しいファンドの株式を購入できるようになるという。厳しく規制されている米国の銀行は自らビットコインを保有できないため、この設定により、JPモルガン・チェースやゴールドマン・サックスなどの金融大手がブラックロックETFの認定参加者になる可能性がある。 （CoinDesk）以前のニュースによると、メモによると、ブラックロックやフィデリティなどの企業が過去数週間に米国証券取引委員会（SEC）と会談し、ビットコインスポットETFの償還プロセスについて協議したことが示されている。議論されている問題は、投資家が原資産のシェアを償還したい場合にどの事業体がビットコインを売却しなければならないかを決定するための 3 つの異なるモデル (現金/現物/改訂された現物償還モデル) にあります。フィデリティはビットコインスポットETFの現物償還モデルに固執する傾向があるようだが、SECは現金モデルを支持する可能性がある。インディアナ大学の金融教授ビビアン・ファン氏は、ブラックロックの改訂された償還モデルはSECの要件を満たすのに十分かもしれないと述べた。投資家の観点からは、現金モデルと改訂された現物モデルの間に違いはありません。どのモデルが採用されるかに関係なく、投資家は株式を償還する際に引き続きキャッシュバックを受け取ります。ブラックロックの修正計画では、資産運用会社が要求に応じてビットコイン保有を直ちに清算する必要はなくなり、ETFに対する大規模な一括償還の影響が軽減され、キャピタルゲイン税を課さずにポートフォリオをより柔軟に管理できるようになる。",
-          "link": "https://www.odaily.news/ja/newsflash/345950",
-          "publishedOn": "2023-12-12T14:48:12.000Z",
-          "wordCount": 1797,
-          "title": "分析：ブラックロック・スポット・ビットコインETFは現金購読をサポート、または従来の機関の参加を支援",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/345949",
-          "author": null,
-          "description": "Odaily News レイヤー 2 パブリック チェーン Mantle Network は、Web3 教育プラットフォーム HackQuest と協力して「Mantle Learn」を開始するとともに、開発者に Solidity プログラムの書き方と理解方法を教えることを目的とした「Mantle Learning Track」も HackQuest 上で開始すると発表しました。 Mantle Network の基本概念、導入技術、その他のコンテンツ。 Mantle Learning Track を完了した開発者は、Mantle Network と HackQuest が共同発行した公式の開発者学習証明書 SBT を発行し、HackQuest クレジットと XP 報酬を受け取ることができます。同時に、Mantle Network と HackQuest は、カリフォルニア大学サンタバーバラ大学、ケンブリッジ大学、ニューヨーク大学、ジョージア工科大学などの大学で Mantle Network 開発キャンプを開催します。将来的に、Mantle Network と HackQuest は共同で開発者教育協力を実施し、米国、中国、シンガポール、インドなどの地域で開発者活動を共同で組織する予定です。",
-          "link": "https://www.odaily.news/ja/newsflash/345949",
-          "publishedOn": "2023-12-12T14:34:24.000Z",
-          "wordCount": 1871,
-          "title": "Mantle Network が Web3 教育プラットフォーム HackQuest と提携して Mantle Learn を開始すると発表",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
