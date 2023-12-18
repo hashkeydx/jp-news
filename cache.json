@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=212569",
+          "author": "Sam Reynolds",
+          "description": "ビットコイン（BTC）は小幅高で取引を開始し、一時4万1000ドル以上で取引された。イーサリアム（ETH）もわずかに上昇し、2100ドル以上で取引されている。  ...\nビットコインは4万ドル超を維持──ミームコインとOrdinalsでブロックチェーンは活況 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/212569/",
+          "publishedOn": "2023-12-18T10:50:00.000Z",
+          "wordCount": 1203,
+          "title": "ビットコインは4万ドル超を維持──ミームコインとOrdinalsでブロックチェーンは活況",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/OYHJBIJFBBBAHPLOQZZNMCWWSU.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=212328",
           "author": "Danny Nelson",
           "description": "暗号資産（仮想通貨）業界では、大物創業者やCEOが現れては消えていく。しかし、ブライアン・アームストロング（Brian Armstrong）氏は永遠の存在なのだ ...\nコインベースのアームストロングCEO：業界を生き残る最後の大物【最も影響力のある人物 2023】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -340,16 +350,6 @@
           "wordCount": 1077,
           "title": "FRB、政策金利据え置きだが2024年はハト派になる可能性を示唆",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/WVCOZ5VLBBFXXK6PLKOYVARKOM.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=212163",
-          "author": "CoinDesk JAPAN",
-          "description": "LINEヤフーは12月13日、NFTプラットフォームの企画・開発を行うグループ会社の「LINE NEXT」がプライベートエクイティ（PE）ファンド「CRESCE ...\nLINEヤフー、Web3普及に向け200億円調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/212163/",
-          "publishedOn": "2023-12-13T23:12:34.000Z",
-          "wordCount": 1075,
-          "title": "LINEヤフー、Web3普及に向け200億円調達",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/129774-164-8c5849630fa252c7ba64b.jpg"
         }
       ]
     },
@@ -888,36 +888,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/ethereum23414-1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/ethereum23414-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498312",
-          "author": "K.Kobayashi",
-          "description": "ChatGPT開発企業OpenAIのサム・アルトマンCEOらが進める仮想通貨プロジェクトWorldcoinは、World ID 2.0をローンチ。RedditやMinecraftなどでIDが利用できるようになる。",
-          "link": "https://coinpost.jp/?p=498312",
-          "publishedOn": "2023-12-13T23:15:10.000Z",
-          "wordCount": 1905,
-          "title": "仮想通貨ワールドコインの分散型ID、RedditやMinecraftなどで利用可能に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Worldcoin-World-ID-2.0.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Worldcoin-World-ID-2.0.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498311",
-          "author": "菊谷ルイス",
-          "description": "本日の米国株指数は続伸し、NYダウが再び年初来高値を更新した。米連邦公開市場委員会（FOMC）の金利政策判断がハト派への転換というサプライズが材料視された。",
-          "link": "https://coinpost.jp/?p=498311",
-          "publishedOn": "2023-12-13T22:35:32.000Z",
-          "wordCount": 1940,
-          "title": "FOMCがハト派転換　来年の複数回利下げ予測で米国株・ビットコイン全面高｜14日金融短観",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
         }
       ]
     },
@@ -926,6 +896,66 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/post/5191778",
+          "author": null,
+          "description": "デジタル通貨に関しては、BTCはここ数日でゆっくりと下落し、何度か41,000ドルの水準を下回りましたが、ETHは最終利益の2,100ドルとの連動性が弱いです。オプションに関しては、部分的な下落傾向がフロントエンドのボリュームカーブの上昇を促進し、BTC/ETHは約50％に戻りました。",
+          "link": "https://www.odaily.news/ja/post/5191778",
+          "publishedOn": "2023-12-18T11:15:28.000Z",
+          "wordCount": 2079,
+          "title": "SignalPlus のボラティリティ コラム (20231218): BTC は 41,000 ドルを下回り、短期プットの買いが非常に人気",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346683",
+          "author": null,
+          "description": "Odaily News Nostr Assets Protocol は、X プラットフォーム上で、最初の Fair Mint が宝くじにエントリーし、最初のラッキーナンバーは 4 (ブロックのハッシュ値の最後の数字による) であると発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346683",
+          "publishedOn": "2023-12-18T11:14:33.000Z",
+          "wordCount": 1763,
+          "title": "Nostr Assets Protocol が抽選に参加しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191774",
+          "author": null,
+          "description": "何もせず、ただ感情に頼るだけです。",
+          "link": "https://www.odaily.news/ja/post/5191774",
+          "publishedOn": "2023-12-18T11:00:00.000Z",
+          "wordCount": 1938,
+          "title": "Meme の新しい遊び方: Web3 プロジェクトの創設者のペット",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346681",
+          "author": null,
+          "description": "Odaily News 以前、Asatpad の寄付イベントにより、過剰なユーザー トラフィックにより Web ページがダウンしましたが、当局は通常のアクセスが回復したと述べました。",
+          "link": "https://www.odaily.news/ja/newsflash/346681",
+          "publishedOn": "2023-12-18T10:48:25.000Z",
+          "wordCount": 1756,
+          "title": "Asatpad の Web ページが停止から回復しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346680",
+          "author": null,
+          "description": "Odaily News 12 月 18 日、Bitget は最近の市場の噂に応えて正式に声明を発表しました。発表では、「2018年の設立以来、Bitgetは常にコンプライアンス業務を遵守してきました。この目的のために、当社はコンプライアンスチームの構築を強化し続け、プラットフォームのKYCおよびアンチマネーロンダリング（AML）対策を強化してきました。Bitgetの業務とサービスはすべて正常であり、入出金は正常です。通過はスムーズであり、従業員は全員勤務しています。噂を信じず、騙されないでください。同時に、業界の健全な競争を奨励します。しかし、一部の友人が「ネガティブな原稿を買う」という悪意のある中傷行為を遺憾に思っており、悪意を持って虚偽の情報を広めたアカウントに対して法的責任を追及する権利を留保します。」",
+          "link": "https://www.odaily.news/ja/newsflash/346680",
+          "publishedOn": "2023-12-18T10:47:25.000Z",
+          "wordCount": 1745,
+          "title": "Bitgetは、「プラットフォームは正常に動作しており、友人による悪意のある中傷行為を遺憾に思っている」と返答した。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346679",
+          "author": null,
+          "description": "Odaily News Cosmos アプリケーション チェーン エコシステムと ATOM 経済特別区 (AEZ) を拡大するための長期二次助成金である ATOM 経済圏 Quadratic Grant が、グローバル ギーク スポーツ プラットフォーム DoraHacks.io で 12 月 20 日に開始されます。 ATOM ユーザーは、Dora Vota を通じて Cosmos エコシステム内の公共財や新興アプリケーション チェーンに資金を提供できます。現在、Dora Vota と Cosmos Hub の IBC チャネルが開設されています。 AEZquadratic の資金提供によるローンチパーティーは 12 月 18 日午後 9 時 (東部標準時) に開始され、DoraHacks、Stargaze、ATOM Accelerator DAO コミュニティ メンバー、Cosmos のコア コントリビューターである Zaki Manian がローンチ パーティーに参加し、Cosmos の公共財や AEZ 開発、その他の問題について話し合います。",
+          "link": "https://www.odaily.news/ja/newsflash/346679",
+          "publishedOn": "2023-12-18T10:32:02.000Z",
+          "wordCount": 1799,
+          "title": "ATOM経済圏二次資金調達がまもなく始まります",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346678",
           "author": null,
