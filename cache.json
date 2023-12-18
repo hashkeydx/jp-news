@@ -340,16 +340,6 @@
           "wordCount": 1595,
           "title": "【Year End Special Session：CoinDesk JAPAN/btokyo】2024年：生成AIとWeb3が引き起こす日本のビッグシフト──「失われた30年」の呪縛を解く【オンライン視聴無料】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/btokyo_TenderHouse_1213_B-2.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=212165",
-          "author": "林 理南",
-          "description": "FRB（米連邦準備理事会）は13日、予想通りフェデラルファンド金利の誘導目標を5.25～5.50％に据え置いたが、同時に2024年末の金利見通しを5.1％から4 ...\nFRB、政策金利据え置きだが2024年はハト派になる可能性を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/212165/",
-          "publishedOn": "2023-12-13T23:34:31.000Z",
-          "wordCount": 1077,
-          "title": "FRB、政策金利据え置きだが2024年はハト派になる可能性を示唆",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/WVCOZ5VLBBFXXK6PLKOYVARKOM.png"
         }
       ]
     },
@@ -896,6 +886,156 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346695",
+          "author": null,
+          "description": "デイリーニュースBNBチェーンに掲載されましたただし、両方のネットワークである程度の輻輳も発生します。さらに、opBNB のリアルタイム TPS も 610 に達しました。 opBNB は 1 秒あたり最大 4,000 ～ 5,000 のトランザクションを処理できると報告されています。 BNBチェーンは、上記のデータ急増は主に碑文ブームによって引き起こされたと指摘した。",
+          "link": "https://www.odaily.news/ja/newsflash/346695",
+          "publishedOn": "2023-12-18T12:29:21.000Z",
+          "wordCount": 1775,
+          "title": "BNB チェーン: 碑文ブームに後押しされ、昨日の opBNB トランザクション数は 2,300 万件を超え、新たな最高記録を更新しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346694",
+          "author": null,
+          "description": "Odaily News MilkyWay は、ユーザーが TIA をステークし、milkTIA を取得して流動性を解放できるようにする Celestia 流動性ステーキング契約を開始しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346694",
+          "publishedOn": "2023-12-18T12:24:27.000Z",
+          "wordCount": 1745,
+          "title": "MilkyWay、Celestia流動性ステーキングプロトコルを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346693",
+          "author": null,
+          "description": "Odaily は、Ember の監視によると、クジラが Blast に 5,000 ETH を入金し、過去 2 日間で合計 15,000 ETH を入金し、Blast で最大の入金アドレスになったと報じました。",
+          "link": "https://www.odaily.news/ja/newsflash/346693",
+          "publishedOn": "2023-12-18T12:13:41.000Z",
+          "wordCount": 1782,
+          "title": "巨大なクジラが Blast に 5,000 ETH を入金し、合計 15,000 ETH が入金されました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346692",
+          "author": null,
+          "description": "Odaily News マサ・ファイナンスは、Avalanche サブネット上で分散型データ市場を立ち上げます。これは 2024 年の第 1 四半期に開始される予定です。このサブネットは、マサの既存のデータ プロトコルの拡張を表します。同チームによれば、このプロジェクトはユーザーに個人データの管理を取り戻し、その使用に対するインセンティブを獲得することを目的としているという。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/346692",
+          "publishedOn": "2023-12-18T12:08:17.000Z",
+          "wordCount": 1746,
+          "title": "マサ・ファイナンスがAvalancheサブネット上で分散型データ市場を立ち上げる",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346691",
+          "author": null,
+          "description": "Odaily News Starknet は、同時にネットワークを V0.12.3 にアップグレードします。同様に、フルノードまたは RPC サービスの使用にまだ切り替えていないユーザーがいる場合は、前に切り替えてください (フィーダー ゲートウェイ)以前のニュースによると、Starknet コミュニティ フォーラムで発表された情報によると、V0.12.3 は非常に重要な変更をもたらします。フィーダー ゲートウェイは非推奨になるため、ビルダーは API サービスに移行するか、完全なノードを独立して実行する必要があります。V0.12.3 では、アカウント コントラクトの _validate_ にもいくつかの変更が導入されています。",
+          "link": "https://www.odaily.news/ja/newsflash/346691",
+          "publishedOn": "2023-12-18T12:05:35.000Z",
+          "wordCount": 1764,
+          "title": "Starknet: V0.12.3 アップグレードは明日実行されます。できるだけ早く準備してください。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346690",
+          "author": null,
+          "description": "Odaily News 公式ニュースによると、Web3 ゲーム Layer2 COMBO は、高性能、低コストのゲーム開発のニーズを満たし、開発者にとって便利な Web3 ゲームの開発、展開、運用エコシステムを構築するために、メイン ネットワークの正式立ち上げを発表しました。現在、NodeReal、MetaMask、Polyhedra Network、Particle Network、QuestN、Math Wallet、Coin98 Super Wallet、Footprint、Biconomy、HavenMarket、HunterDex、Script Network を含む 12 のインフラストラクチャ プロジェクトが COMBO メイン ネットワークに登録されています。同時に、Tap Fantasy、SecondLive、Zypher Games、Arena of Faith、Legend Games、Dark Forest、MetaLine、DystoWorld、Climbers、Apes Planet、Forge Heroes、SailWars の 12 のゲーム プロジェクトもメインネットの展開を開始し、COMBOエコシステムはテクノロジーから始まります 資金調達、コミュニティ、マーケティング、流動性、専門コンサルタントなどの観点からフルスタックのソリューションを提供します。以前のニュースによると、COMBOテストネットワーク中に、独立したオンチェーンユーザーの数は181万人を超え、独立ウォレット（UAW）のデイリーアクティブユーザーは8万人を超え、TPSは5,000に達し、ガス料金は0.001グウェイでした。資金面では、開発者は 8,000 万ドルの環境基金、100 万ドルの展開サポート、IDO、トランザクション収益還元など、さまざまな方法でサポートを得ることができます。",
+          "link": "https://www.odaily.news/ja/newsflash/346690",
+          "publishedOn": "2023-12-18T12:02:19.000Z",
+          "wordCount": 1833,
+          "title": "Web3 ゲーム Layer2 COMBO メインネットが正式に開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346689",
+          "author": null,
+          "description": "Odaily News カナダのビットコイン採掘会社ハット8は、テキサス州シーダーベールに約66,000台のマイニングマシンを収容する新しい採掘サイトを立ち上げる仮契約に署名した。 Hut 8のアッシャー・ジェヌート社長は、この合意にはセルシウスの債権者との公平性を構築すると同時に管理サービス事業を強化するという二重の目的があると述べた。セルシウスとの暫定契約に基づき、Hut 8 はシーダーベールのサイトにエンドツーエンドの開発サービスを提供します。建設は今後数週間以内に始まる予定で、Hut 8は設計、エンジニアリング、財務モデリング、予算編成、会計、建設管理、調達、物流、RFP調整などのサービスを提供する予定だ。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/346689",
+          "publishedOn": "2023-12-18T12:00:44.000Z",
+          "wordCount": 1754,
+          "title": "ハット8、テキサス州で新たな鉱山を立ち上げるためセルシウスの債権者と合意に署名",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191775",
+          "author": null,
+          "description": "レイヤー 2 にもう少し自信を持たせる必要があります。",
+          "link": "https://www.odaily.news/ja/post/5191775",
+          "publishedOn": "2023-12-18T12:00:00.000Z",
+          "wordCount": 1987,
+          "title": "刻印ストレステストの下、zkSyncは「公開トレーニング」を成功裏に完了しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346688",
+          "author": null,
+          "description": "Odaily News 12 月 18 日、Bitget は賞金総額 1,548 ACE を備えた CandyBomb の新段階を開始しました。イベント期間中、取引、純入金、招待などの指定されたタスクを完了すると、報酬を受け取る機会が得られます。開催時間は12月18日19時から12月25日19時（UTC+8）まで。",
+          "link": "https://www.odaily.news/ja/newsflash/346688",
+          "publishedOn": "2023-12-18T11:52:16.000Z",
+          "wordCount": 1785,
+          "title": "Bitget が ACE 賞金プールを獲得するために CandyBomb の新号を発行",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346687",
+          "author": null,
+          "description": "Odaily News Atomicals Protocol は、X プラットフォーム上でリマインダーを発行しました: @AomicalsHelpEN などの偽の「Aomicals Support」アカウントがユーザーを欺いていることが判明しました。このアカウントはユーザーを誤解させるために、公式プロフィールの外観を完全にコピーしました。同関係者は、「Aomicalsはサポート不要のオープンソースプロトコルであるため、Aomicalsサポートチームは存在しない。Atomicalsのメンバーであると主張する人を決して信用しないでください。また、自分のウォレットや秘密鍵を誰にも決して明かさないでください」と強調した。",
+          "link": "https://www.odaily.news/ja/newsflash/346687",
+          "publishedOn": "2023-12-18T11:50:18.000Z",
+          "wordCount": 1769,
+          "title": "Atomics Protocol: 偽の「Atomics Support」アカウントに注意してください。このチームは存在しません。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346686",
+          "author": null,
+          "description": "Odaily News Rune Alpha は X プラットフォーム上で Signet 機能の開始を発表する文書を発行し、次のステップとして市場テストネットワークを開設し、COOK のユースケースを追加する予定です。",
+          "link": "https://www.odaily.news/ja/newsflash/346686",
+          "publishedOn": "2023-12-18T11:29:02.000Z",
+          "wordCount": 1756,
+          "title": "ルーンアルファはシグネット機能の開始を発表、次のステップは市場テストネットワークの開設となる",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346682",
+          "author": null,
+          "description": "1. CoinShares: 先週、デジタル資産投資商品から 1,600 万米ドルの流出があり、11 週連続の純流入傾向に終止符が打たれた; 2. Upbit が韓国ウォン市場で ASTR を開始; 3. Binance が ACE 1-50x U を開始-標準の永久契約; 4. Celestia Inscription Project CIAS: 登録は明日午前 2 時に再開; 5. ビットコイン ネットワーク料金は 160 サット/バイトに低下; 6. WLD マーケット メーカーは合計 2,320 万 WLD と 6,557 万 USDC を返品先週; 7. ミーム通貨 SAMO が佐賀の携帯電話向けにエアドロップされると発表; 8. DID 市場アグリゲーター GoDID が NGC 主導で評価額 3,000 万ドルの新たな資金調達ラウンドを完了; 9. 香港のデジタル資産保険会社 OneDegree がドバイ保険から戦略的投資を受け、資金調達総額はほぼ 1 億米ドル; 10. エニグマファンド創設者: FTX は昨日 2 億 4,000 万米ドルの暗号資産を売却; 11. ゴールドマン・サックス: 暗号市場の制度化の度合いは大幅に増加する2023年; 12. 韓国の仮想資産取引所Core Daxは1,000万米ドルの投資意向を受領; 13. メタバース技術会社Improbableは自社のWeb3ゲーム会社を約9,710万米ドルで売却。",
+          "link": "https://www.odaily.news/ja/newsflash/346682",
+          "publishedOn": "2023-12-18T11:29:00.000Z",
+          "wordCount": 1891,
+          "title": "毎日のイブニングニュース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346685",
+          "author": null,
+          "description": "Odaily News 情報筋によると、ワールドコインはケニアでの事業再開に向けて政府と交渉中で、2024年初めに事業を再開する可能性があるという。 (citizen.digital) ワールドコイン事件を調査しているケニアの特別委員会は、先週木曜日に下院に提出した報告書の中で、ワールドコインによる個人データの収集とケニア国外への転送は「スパイ行為にあたり、国家への脅威となる」と述べた。 。",
+          "link": "https://www.odaily.news/ja/newsflash/346685",
+          "publishedOn": "2023-12-18T11:24:13.000Z",
+          "wordCount": 1748,
+          "title": "ワールドコイン、ケニアでの事業再開に向け政府と協議中",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191766",
+          "author": null,
+          "description": "昨夜の抽選会、あなたは首長国以外の皇帝ですか、それともヨーロッパの皇帝ですか？",
+          "link": "https://www.odaily.news/ja/post/5191766",
+          "publishedOn": "2023-12-18T11:23:06.000Z",
+          "wordCount": 2183,
+          "title": "オンチェーン宝くじはどれほど魅力的ですか? Analysoor の第 2 フェーズ プロジェクト ONE はコミュニティに眠れない夜を与えます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346684",
+          "author": null,
+          "description": "Odaily News Coinglass のデータによると、過去 4 時間でネットワーク全体で 1 億 600 万ドルが清算され、BTC が 2,162 万ドル、ETH が 1,350 万ドル、ロング注文が 9,934 万ドル、ショート注文が 658 万ドルが清算されました。",
+          "link": "https://www.odaily.news/ja/newsflash/346684",
+          "publishedOn": "2023-12-18T11:21:41.000Z",
+          "wordCount": 1816,
+          "title": "過去 4 時間で、ネットワーク全体で 1 億 600 万米ドルが清算され、そのうちロングポジションは 9,934 万米ドルを清算しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/post/5191778",
           "author": null,
@@ -6625,26 +6765,6 @@
           "wordCount": 1663,
           "title": "インベスコとギャラクシー、ビットコインスポットETF申請の修正書類を提出、ETFの組成は現金のみで行うと約束",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346141",
-          "author": null,
-          "description": "毎日ニュース ビットワイズビットコインスポットETF「ビットワイズビットコインETF」（コード：BITB）がDTCC（Depository and Clearing Corporation）のWebサイトに上場され、Create/Redeem欄がYと表示されています。 Y は株式の積極的な作成と償還が許可されていることを意味し、N は ETF が積極的に株式の作成や償還を許可されていないことを意味すると報告されています。",
-          "link": "https://www.odaily.news/ja/newsflash/346141",
-          "publishedOn": "2023-12-14T00:30:34.000Z",
-          "wordCount": 1712,
-          "title": "ビットワイズ ビットコイン スポット ETF には BITB というシンボルがあり、DTCC ウェブサイトに掲載されています。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346140",
-          "author": null,
-          "description": "Odaily News OKX市場によると、BTCは今朝早くに短期的に43,500 USDTまで上昇したが、その後反落し、現在は24時間で3.51%上昇し、42,843.8 USDTで取引されている。",
-          "link": "https://www.odaily.news/ja/newsflash/346140",
-          "publishedOn": "2023-12-14T00:20:21.000Z",
-          "wordCount": 1671,
-          "title": "BTCは今朝短期的に43,500 USDTまで上昇しましたが、その後反落し、24時間で3.51%上昇しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -6653,6 +6773,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=359547",
+          "author": "NewEconomy",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/359547",
+          "publishedOn": "2023-12-18T12:06:30.000Z",
+          "wordCount": 780,
+          "title": "【12/18話題】米SECがコインベース提出の暗号資産規制の制定請願を拒否、ゲンスラーが現物ビットコインETF申請に新たな見方",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/18182023/news_head_20231218.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=359586",
           "author": "OtsugaShinya",
