@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=212589",
+          "author": "Sam Reynolds",
+          "description": "ナンセン（Nansen）のNFT-500とブルーチップ10指数は、取引プラットフォームのNFT Traderから約300万ドル（約4億2000万円、1ドル＝14 ...\nハッキング後もNFTの主要指標は安定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/212589/",
+          "publishedOn": "2023-12-18T21:00:00.000Z",
+          "wordCount": 1149,
+          "title": "ハッキング後もNFTの主要指標は安定",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/O5B4USYR4FBPXMG7RZQ7HRMNK4.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=212569",
           "author": "Sam Reynolds",
           "description": "ビットコイン（BTC）は小幅高で取引を開始し、一時4万1000ドル以上で取引された。イーサリアム（ETH）もわずかに上昇し、2100ドル以上で取引されている。  ...\nビットコインは4万ドル超を維持──ミームコインとOrdinalsでブロックチェーンは活況 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -314,6 +324,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=499261",
+          "author": "菊谷ルイス",
+          "description": "米SECは19日、グレースケールとHashdexの仮想通貨イーサリアム（ETH）ETF上場申請の可否判断を延期した。",
+          "link": "https://coinpost.jp/?p=499261",
+          "publishedOn": "2023-12-18T20:55:26.000Z",
+          "wordCount": 1898,
+          "title": "米SEC、グレースケールなどのイーサリアムETF上場申請で可否判断を延期",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/pando-etf.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/pando-etf.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=499096",
           "author": "幸田直子",
@@ -733,21 +758,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498425",
-          "author": "CoinPost編集部",
-          "description": "自民党は来年度税制改正をめぐる「税制改正大綱」を発表した。発行者以外の第三者が保有する法人所有の暗号資産（仮想通貨）について期末時価評価課税の対象外とする見直しが明記された。個人投資家の20%の申告分離課税や暗号資産同士の交換時課税については、「税制改正大綱」には記載されず、翌年以降に課題は持ち越された。",
-          "link": "https://coinpost.jp/?p=498425",
-          "publishedOn": "2023-12-14T09:13:03.000Z",
-          "wordCount": 1883,
-          "title": "2024年度の税制改正大綱発表、法人（発行者以外の第三者）による「期末時価評価課税」も対象外へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/tax-sumb.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/tax-sumb.png"
         }
       ]
     },
@@ -5855,116 +5865,6 @@
           "wordCount": 1729,
           "title": "Upbit：ウォレットシステムメンテナンスのため、SUI入出金サービスを一時停止させていただきます。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346228",
-          "author": null,
-          "description": "Odaily News 12月5日以来、ARK Investは1億5000万ドル以上相当のCoinbase株（COIN）を売却した。水曜日、COINは7.7％以上上昇し、2022年4月以来初めて150ドルを超えた。最近継続的な削減にもかかわらず、Coinbase は依然として ARK のポートフォリオの 10% 以上を占め、保有銘柄トップ 10 リストのトップの座を占めています。コインベースの株価は今年これまでに325％上昇しており、S＆P500の中で最も業績の良い企業や、年初から226％上昇したテクノロジー大手エヌビディアをはるかに上回っている。一部の観察者によると、コインベースの株価は今後数カ月で200ドルまで上昇する可能性があるという。 （CoinDesk）本日初め、キャシー・ウッド氏のARKインベストが12月13日にもコインベース株の保有を削減し続け、合計283,104株（約4,259万米ドル相当）を売却したと報じられた。",
-          "link": "https://www.odaily.news/ja/newsflash/346228",
-          "publishedOn": "2023-12-14T09:17:27.000Z",
-          "wordCount": 1703,
-          "title": "Coinbase株が20か月ぶりの高値に達したため、ARK Investは今月ポジションを1億5,000万ドルに減らす",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346227",
-          "author": null,
-          "description": "クロノスブロックチェーンの開発会社であるクロノスラボは木曜日、新しいレイヤー2ネットワークの立ち上げを発表した｡新しい「クロノスzkEVMチェーン」は当初テストネットワークとして立ち上げられ、マターラボのソフトウェアツール上に構築されており、新しいレイヤー 2 およびレイヤー 3 の「スーパー チェーン」を開始します。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/346227",
-          "publishedOn": "2023-12-14T09:05:03.000Z",
-          "wordCount": 1726,
-          "title": "Cronos Labs がレイヤー 2 ネットワーク Cronos zkEVM チェーン テストネットを開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346226",
-          "author": null,
-          "description": "Odaily News 元 CoinDesk ビジネス開発ディレクターの Chris Wells 氏が、Web3 エンターテイメント会社 HELLO Labs にメディア責任者として入社しました。 HELLO Labs は、2024 年の第 1 四半期に「Kill​​er Whales」という Web3 テレビ番組を開始する予定です。 (チェーンワイヤー)",
-          "link": "https://www.odaily.news/ja/newsflash/346226",
-          "publishedOn": "2023-12-14T09:03:58.000Z",
-          "wordCount": 1717,
-          "title": "元CoinDeskビジネス開発ディレクターのChris Wells氏がメディア責任者としてWeb3エンターテイメント会社HELLO Labsに入社",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346225",
-          "author": null,
-          "description": "X プラットフォームに投稿された毎日のニュースによると、Glassnode のデータによると、米国とアジアの営業時間中の累積価格変動は、ビットコインの需要が西側と東側の両方から来ていることを示しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346225",
-          "publishedOn": "2023-12-14T09:01:48.000Z",
-          "wordCount": 1690,
-          "title": "データによると、ビットコインの需要は米国とアジアの両方から来ている",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191702",
-          "author": null,
-          "description": "潜在的な利益率を高めながら、ユーザー エクスペリエンスを最大化および最適化します。",
-          "link": "https://www.odaily.news/ja/post/5191702",
-          "publishedOn": "2023-12-14T09:00:54.000Z",
-          "wordCount": 2488,
-          "title": "Vaultka: Intent と AI を統合した収益保管庫を作成する",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191554",
-          "author": null,
-          "description": "BTC の成長ははるかに先を行っており、BRC 20 エコシステムの成長は驚くべきものです。",
-          "link": "https://www.odaily.news/ja/post/5191554",
-          "publishedOn": "2023-12-14T08:59:49.000Z",
-          "wordCount": 2152,
-          "title": "仮想通貨市場センチメント調査レポート (12.01-12.08): BTC が大幅に上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191700",
-          "author": null,
-          "description": "ルーンは、ビットコイン ブロックチェーン上の代替トークンを処理するための、よりシンプルかつ直感的な方法を提供します。",
-          "link": "https://www.odaily.news/ja/post/5191700",
-          "publishedOn": "2023-12-14T08:56:38.000Z",
-          "wordCount": 1979,
-          "title": "RUNEのルーン爆発の前夜に書かれた",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346224",
-          "author": null,
-          "description": "オデイリーニュース トルコのメフメト・シムシェク財務大臣はインタビューで、仮想通貨関連の規制策定が最終段階に入ったと述べた。シムシェク氏は、今後の法律の中で仮想通貨が最初に定義され、さらにCMB法にも変更が加えられるだろうと指摘した。それによると、暗号資産は「価値や権利を表現できる無形の資産」と定義されており、暗号資産サービスプロバイダーや暗号資産カストディサービスも定義されており、プラットフォームの運営にあたり関連規制が策定される予定です。 (Bitcoinsistemi) 10 月の以前のニュースによると、トルコの官報は 2024 年の大統領年次計画を発表し、来年中に国の暗号化規制を完了することを目指しています。約500ページにわたる文書のセクション400.5では、適切に課税される可能性のある暗号資産の定義に関する計画された研究が明らかにされている。暗号資産プロバイダー、つまり暗号通貨取引所にも法的定義が与えられます。ただし、この文書には将来の規定に関するその他の詳細は含まれていません。",
-          "link": "https://www.odaily.news/ja/newsflash/346224",
-          "publishedOn": "2023-12-14T08:50:11.000Z",
-          "wordCount": 1694,
-          "title": "トルコ財務大臣：暗号化規制の策定は最終段階に入り、関連プラットフォームの運用に関するルールが策定される予定",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346223",
-          "author": null,
-          "description": "Odaily News DefiLlama のデータによると、Solana TVL は 11 億米ドルを超え、Solana エコシステム内の複数のプロトコルの TVL が大幅に増加しました。その中で、上位 3 プロジェクトの TVL データは次のとおりです: Marinade Finance TVL は毎週 25.25% 増加し、7 億 7,000 万米ドルに達しました; marginfi TVL は毎週 54.95% 増加して 2 億 3,900 万米ドルに達しました; Orca TVL は、週間では40.24%増加し、1億2,000万米ドルに達しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346223",
-          "publishedOn": "2023-12-14T08:40:02.000Z",
-          "wordCount": 1799,
-          "title": "ソラナの TVL は 11 億米ドルを超え、複数の生態プロトコルの TVL は毎週 20% 以上増加",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346222",
-          "author": null,
-          "description": "Odaily News DefiLlamaのデータによると、Cardano TVLは4億4,000万米ドルを超え、過去最高を記録しました。成長のほとんどは過去 1 週間で発生し、そのうち上位 3 つの環境プロジェクトのパフォーマンスは次のとおりです: 融資プロトコル Indigo TVL は 50% 以上増加し、1 億 1,000 万米ドルに達しました; オンチェーン取引所 Minswap TVL は 42.25% 増加しました、現在9,758万米ドルで報告されています;融資プロトコルLiqwid TVL 現在、過去1週間で48.09％増加し、5,153万米ドルで取引されています。 CoinGeckoのデータによると、ADAは現在0.652818ドルで取引されており、24時間で15.6％上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346222",
-          "publishedOn": "2023-12-14T08:30:33.000Z",
-          "wordCount": 1749,
-          "title": "Cardano TVLは4億4,000万米ドルを超え、そのうちIndigo TVLは過去1週間で50％以上増加し、1億米ドルを超えました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346220",
-          "author": null,
-          "description": "Odaily News OKX市場は、WLDが2.6 USDTを超え、現在2.602 USDTで取引されており、24時間で2.88％上昇していることを示しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346220",
-          "publishedOn": "2023-12-14T08:23:14.000Z",
-          "wordCount": 1739,
-          "title": "WLDは2.6 USDTを突破し、24時間で2.88%上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -6182,16 +6082,6 @@
           "wordCount": 784,
           "title": "【12/14話題】ヴィタリックがzkEVMをイーサリアムに実装する考え、米FASBが暗号資産に公正価値会計を採用など",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/14175427/news_head_20231214.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=358942",
-          "author": "gentosha_takahashi",
-          "description": "アブダビでデモンストレーション実施 大手暗号資産（仮想通貨）取引所コインベース（Coinbase）と同社傘下のコインベースアセットマネジメント（Coinbase Asset Management）が、新プラットフォーム「 […]",
-          "link": "https://www.neweconomy.jp/posts/358942",
-          "publishedOn": "2023-12-14T08:32:49.000Z",
-          "wordCount": 784,
-          "title": "コインベース、機関投資家向けプラットフォーム「Project Diamond」ローンチ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/14173241/7c14b0e5ff8d8fb014d4559c82317368.jpg"
         }
       ]
     }
