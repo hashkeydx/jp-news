@@ -753,21 +753,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/global-crypto-usage.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/global-crypto-usage.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498591",
-          "author": "AKIRA.H",
-          "description": "マネックスクリプトバンクが暗号資産（仮想通貨）評価モデル「MCBクリプト格付け」を発表。流動性、スペキュレーションリスク、集中リスクを重視した評価項目で、ビットコイン、イーサリアムが上位に。毎月更新される評価システムで市場の最新トレンドを追跡し、運営主体の評価を含む総合的な格付けを予定。",
-          "link": "https://coinpost.jp/?p=498591",
-          "publishedOn": "2023-12-15T04:30:30.000Z",
-          "wordCount": 1892,
-          "title": "マネックスクリプトバンク暗号資産格付け更新、「投資適格銘柄は16から5へ減少」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/MCBResearch_1215.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/MCBResearch_1215.jpg"
         }
       ]
     },
@@ -776,6 +761,26 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346882",
+          "author": null,
+          "description": "Odaily News 公式ニュースによると、2023年11月、マスクネットワークの子会社であるスジテックは、非営利の分散型ソーシャルプラットフォームであるマストドンに10万米ドルを寄付したが、これはマストドンがこれまでに受け取った最大の寄付である。これに加えて、マスク ネットワーク チームはマストドンと協力してシス​​テムをアップグレードします。潜在的な変更には、Mastodon での DID のさらなるサポート、Mastodon 上のすべてのデータを分散ネットワークに移動して分散ストレージを有効にすること、より安全でプライベートな通信を提供するためのエンドツーエンド暗号化ダイレクト メッセージの導入などが含まれます。マストドンは、誰もがネットワークに基づいてインスタンスを確立できるオープンソースの分散型マイクロブログ ソーシャル ネットワークであると報告されています。 Mask Network は以前、Mastodon で 2 番目に大きいインスタンスである Pawoo.net とソーシャル キュレーション プロトコル RARA を買収しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346882",
+          "publishedOn": "2023-12-19T17:02:06.000Z",
+          "wordCount": 1721,
+          "title": "マスクネットワークのスジテックは先月、分散型ソーシャルプラットフォームマストドンに10万ドルを寄付した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346881",
+          "author": null,
+          "description": "オデイリーニュース 英国のジェレミー・ハント財務大臣は、国内の仮想通貨企業が直面する銀行問題について関連国会議員と話し合うことで財務省と合意した。英国を仮想通貨ハブにするというリシ・スナック首相の計画に沿って、英国は仮想通貨とステーブルコインの口座を規制された金融活動として扱う法案を導入、可決した。仮想通貨業界は同国で新たな規制上の地位を獲得したが、企業は地元銀行とのやり取りが困難になっていると感じている。",
+          "link": "https://www.odaily.news/ja/newsflash/346881",
+          "publishedOn": "2023-12-19T16:53:43.000Z",
+          "wordCount": 1699,
+          "title": "英国財務省、仮想通貨銀行問題について議員らと協議へ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346877",
           "author": null,
@@ -6415,96 +6420,6 @@
           "wordCount": 1801,
           "title": "Ordinals の碑文の累積手数料収入が 3600 BTC を超える",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346349",
-          "author": null,
-          "description": "Odaily の公式ニュースによると、OKX は SOL チェーンと CORE チェーンでコイン獲得製品を開始しました。開始番号は 1、償還サイクルはそれぞれ約 3 日と 1 日、基準年率は 5% ～ 8% です。それぞれ 22%、-26% ユーザーは、OKX アプリの財務セクションまたは OKX 公式 Web サイトのナビゲーション バーに移動し、チェーンでコインを獲得を選択し、SOL と CORE を検索して購読すると、それはすぐに。 OKXのオンチェーンコイン獲得製品には、サブスクリプション制限なし、オンチェーン操作手順の簡素化、ユーザーエクスペリエンスの向上、実質オンチェーン年間収入からの恩恵など、多くのハイライトがあると報告されています。しかし、OKXの注意喚起によれば、OKXはプロジェクトの表示や収益分配などの関連サービスのみを提供しており、契約の脆弱性、ハッキング事件、プロジェクト関係者の逃亡などの潜在的なリスクによって引き起こされる資産の損失についてはプラットフォームは負担しないとしている。",
-          "link": "https://www.odaily.news/ja/newsflash/346349",
-          "publishedOn": "2023-12-15T05:18:49.000Z",
-          "wordCount": 1705,
-          "title": "OKX、SOLおよびCOREチェーンの通貨獲得製品を発売",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346348",
-          "author": null,
-          "description": "Odaily News Spot on Chain のモニタリングによると、MUBI トークンの価格は 24 時間で 76% 上昇し、MUBI の最大保有者 11 社 (取引所を除く) はトークンによる合計 930 万米ドルの含み益を抱えています。これらの保有者は通貨価格が急騰する約１カ月前からＭＵＢＩを積み立てており、現在４４８０万ＭＵＢＩ（約１０１０万米ドル）を１２のアドレスに保有して誓約している。",
-          "link": "https://www.odaily.news/ja/newsflash/346348",
-          "publishedOn": "2023-12-15T05:17:35.000Z",
-          "wordCount": 1695,
-          "title": "最大のMUBI保有者11社の含み益は930万ドル",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346347",
-          "author": null,
-          "description": "Odaily News 相互運用性レイヤー 2 プロトコル Coinweb は、インフラストラクチャ プラットフォーム上で DApps および Web3 サービスを構築および展開する開発者に資金を提供する 1,000 万ドルの助成プログラムの開始を発表しました。助成プログラムの中核となる重点分野には、DeFi、DEX、ウォレット、融資、ゲーム、NFT、SocialFiが含まれます。さらに、Coinweb は Coinweb プロトコルに基づいた開発者ツールを開始しました。 (グローブニュースワイヤー)",
-          "link": "https://www.odaily.news/ja/newsflash/346347",
-          "publishedOn": "2023-12-15T05:11:20.000Z",
-          "wordCount": 1711,
-          "title": "相互運用性プロトコル Coinweb が 1,000 万ドルの助成プログラムを開始し、開発者ツールを開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191726",
-          "author": null,
-          "description": "今すぐ Avail OP Stack をお試しください。",
-          "link": "https://www.odaily.news/ja/post/5191726",
-          "publishedOn": "2023-12-15T05:07:55.000Z",
-          "wordCount": 2195,
-          "title": "Avail は OP スタック機能を拡張し、L2 DA コストを 90% 削減します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346345",
-          "author": null,
-          "description": "自主規制業界団体CryptoUKは、12月14日に発表された報告書で2022年から2023年までの英国国会議員の発言を分析し、暗号通貨とブロックチェーンに具体的に言及した国会議員はわずか37人のみで、議員650人のうち5.7％を占めていたことが判明した。ほとんどの国会議員は暗号通貨業界についての知識がありません。 CryptoUKは、2023年に仮想通貨とブロックチェーンについて言及した英国政府高官には、国会議員で元経済長官のアンドリュー・グリフィス氏と仮想通貨支持者のリサ・キャメロン氏が含まれると指摘した。 CryptoUKの広報担当者は「英国全党および全地域の国会議員が暗号資産業界をより深く理解することが重要だ。英国では500万人近くが何らかの暗号資産を所有しており、全土で数万人が暗号資産を所有している」と述べた。英国人は業界で働き、地元経済を支え、英国経済の成長を助けている。」（コインテレグラフ）",
-          "link": "https://www.odaily.news/ja/newsflash/346345",
-          "publishedOn": "2023-12-15T05:02:35.000Z",
-          "wordCount": 1680,
-          "title": "CryptoUKレポート:英国国会議員の94%以上が仮想通貨とブロックチェーンについて公に発言していない",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346344",
-          "author": null,
-          "description": "Odaily News L2BEAT データによると、イーサリアム レイヤ 2 ネットワークの現在の総ロックアップ量 (TVL) は 161 億米ドルで、7 日には 6.34% 増加しました。このうち、ロックされている上位6ポジションは、Arbitrum One（83億9,000万ドル、7日比3.21％増）、OPメインネット（45億8,000万ドル、7日比13.45％増）、Base（6億8,000万ドル、 7.89％増、7日比7.89％増）、zkSync Era（5億4,300万ドル、7日比1.12％減）、dYdX V3（3億4,900万ドル、7日2.42％減）、Immutable X（2億7,400万ドル） 、7日は38.20％上昇）。",
-          "link": "https://www.odaily.news/ja/newsflash/346344",
-          "publishedOn": "2023-12-15T04:50:50.000Z",
-          "wordCount": 1742,
-          "title": "現在のイーサリアム L2 TVL は 161 億ドル",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346343",
-          "author": null,
-          "description": "米国の主要金融規制当局のトップで構成する金融安定監視評議会（FSOC）は木曜日、気候、銀行、サイバーセキュリティ、人工知能などの問題に関する過去1年を振り返る年次報告書を発表した。報告書は、米国議会が仮想通貨スポット市場とステーブルコインを定義し対処するための法案を可決することが推奨されていると述べている。報告書は、これらの勧告は2022年末にFSOCが行った勧告と同じであると指摘した。報告書では、プロトコルに5000万ドルの損害を与えた今年のCurve Financeハッキングについて言及している。その後、カーブはこれらの資金の73％を回収したが、報告書によると、主要な懸念の1つは、CRV担保ローンが担保喪失により破綻する可能性があることだという。同報告書はまた、「金融安定監視評議会は、連邦金融規制当局に非セキュリティ暗号資産のスポット市場に対する明確な規則制定権限を与える法案を可決するよう議会に要請する。議会はまた、ステーブルコインの包括的な健全性の枠組みを創設するための法案も可決すべきである」と述べた。 「発行者は、関連する市場の健全性、投資家と消費者の保護、決済リスクの問題に対処する必要がある。包括的な法律が制定されない場合でも、委員会はステーブルコインに関連するリスクに対処する措置を検討する用意ができている。」（CoinDesk）",
-          "link": "https://www.odaily.news/ja/newsflash/346343",
-          "publishedOn": "2023-12-15T04:46:06.000Z",
-          "wordCount": 1683,
-          "title": "米国金融安定監視評議会は、仮想通貨関連のリスクに対処するための立法を議会に求めるよう改めて求める",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346342",
-          "author": null,
-          "description": "Odaily の公式ニュースによると、Openfort は BNB Chain に基づいて構築されており、間もなく opBNB と統合されると発表されました。 BSC および opBNB ネットワークを使用して、Openfort は包括的なユーザー アカウント抽象化ソリューションを提供します。 5月の以前のニュースによると、暗号化インフラストラクチャプロバイダーのOpenfortは300万米ドルのシードラウンドを完了し、Gumi Cryptos CapitalとMaven 11が共同で投資を主導し、Game7、NGC Ventures、Newman Capitalなどが投資に参加した。オープンフォートは今回のラウンドで得た資金を利用して、ゲーム開発者やパブリッシャー向けの「サービスとしてのウォレット」ソフトウェア製品を開発する予定だ。",
-          "link": "https://www.odaily.news/ja/newsflash/346342",
-          "publishedOn": "2023-12-15T04:38:36.000Z",
-          "wordCount": 1742,
-          "title": "Openfort は BNB チェーンと opBNB ネットワークをサポートします",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346341",
-          "author": null,
-          "description": "Odaily News DeBank のデータによると、Layer2 ネットワーク Blast 契約アドレスが保有する資産の総額は現在 8 億 6,900 万米ドルを超えており、そのうち 7 億 6,900 万米ドル相当の ETH が Lido プロトコルに預けられており、1 億米ドル以上が預けられています。 DAI のドルが Maker プロトコルにデポジットされます。",
-          "link": "https://www.odaily.news/ja/newsflash/346341",
-          "publishedOn": "2023-12-15T04:27:41.000Z",
-          "wordCount": 1755,
-          "title": "ブラスト TVL が 8 億 6,900 万ドルを突破",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -6782,16 +6697,6 @@
           "wordCount": 762,
           "title": "令和6年度「税制改正大綱」公表、法人所有の他社発行暗号資産も課税対象外へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/15152238/0e96f805580c4d6856909d8606d3de90.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=359110",
-          "author": "gentosha_takahashi",
-          "description": "イノベーションを意識 韓国の金融規制委員会副委員長は、暗号資産（仮想通貨）規制の次の段階として、当局がイノベーションをこれまで以上に考慮していくと12月14日表明した。 金融委員会のキム・ソヨン（Kim So-young […]",
-          "link": "https://www.neweconomy.jp/posts/359110",
-          "publishedOn": "2023-12-15T04:29:19.000Z",
-          "wordCount": 783,
-          "title": "韓国規制当局、暗号資産規制でイノベーションをより考慮へ＝ロイター",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/15132852/Reuters-20231215.jpg"
         }
       ]
     }
