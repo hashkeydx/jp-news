@@ -290,16 +290,6 @@
           "wordCount": 1208,
           "title": "ビットコインからのホリデーギフト",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1229146288.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=212300",
-          "author": "林 理南",
-          "description": "売り上げが低迷していたソラナモバイル（Solana Mobile）のスマートフォン「Saga」が完売の見通しに転じている。その理由がミームコインBONKであるこ ...\nソラナスマートフォンの売上が急増──BONKエアドロップ狙い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/212300/",
-          "publishedOn": "2023-12-15T02:10:44.000Z",
-          "wordCount": 1128,
-          "title": "ソラナスマートフォンの売上が急増──BONKエアドロップ狙い",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/EPWAYBHSWZBOPJJWG5TCWGO7WY_1.png"
         }
       ]
     },
@@ -838,21 +828,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/tokyo-night-sky.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/tokyo-night-sky.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498547",
-          "author": "K.Kobayashi",
-          "description": "米国のブロックチェーン関連のETFは、年初来のパフォーマンスが7つの商品でプラス100%を超えている。2024年から新NISA制度が始まることで、日本でも海外のETFに対する関心が高まっている。",
-          "link": "https://coinpost.jp/?p=498547",
-          "publishedOn": "2023-12-15T02:00:18.000Z",
-          "wordCount": 1914,
-          "title": "米ブロックチェーンETF、7つの商品で年初来のパフォーマンスが100%超に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/etf-vaneck.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/etf-vaneck.png"
         }
       ]
     },
@@ -861,6 +836,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346872",
+          "author": null,
+          "description": "Odaily News FTXとその関連債務者および共同公式清算人は、FTX債務者の完全子会社であるFTXデジタル・マーケッツに関して世界的な和解に達した。 FTXデジタル・マーケッツは現在、バハマで清算手続きを進めている。この和解は、両当事者が本日署名した世界和解協定に反映されている。世界和解合意は、デラウェア州連邦破産裁判所およびバハマ最高裁判所の承認を条件としている。 (PRニュースワイヤー)",
+          "link": "https://www.odaily.news/ja/newsflash/346872",
+          "publishedOn": "2023-12-19T14:17:07.000Z",
+          "wordCount": 1678,
+          "title": "FTXとその関連債務者が公式共同清算人と世界規模で和解に達する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346871",
+          "author": null,
+          "description": "Odaily News CertiK は、X プラットフォームに関する高リスクのセキュリティ警告を発行し、すべての OKX iOS ユーザーにアプリケーションを直ちに最新バージョンにアップグレードするよう促しました。今月初め、CertiK SkyFall チームは、OKX モバイル上で高リスクのリモート コード実行の脆弱性を発見し、OKX に報告しました。 OKX チームは、本日リリースされた新しいバージョンで脆弱性を修正しました。ユーザーは古いバージョンのアプリケーションを使用しないでください。使用しないと、ハッカーによって制御され、すべての資産が盗まれる危険性があります。",
+          "link": "https://www.odaily.news/ja/newsflash/346871",
+          "publishedOn": "2023-12-19T14:08:15.000Z",
+          "wordCount": 1756,
+          "title": "CertiKが高リスクの警告を発し、OKX iOSアプリのアップグレードを促す",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346870",
+          "author": null,
+          "description": "Odaily News Bitget 市場によると、FTT は短期間で 4 USDT を突破し、現在 4.2 USDT で取引されており、24 時間で 25% 上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/346870",
+          "publishedOn": "2023-12-19T14:05:56.000Z",
+          "wordCount": 1753,
+          "title": "FTTは短期間で4 USDTを突破し、24時間で25%上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346869",
+          "author": null,
+          "description": "Ember Monitorによると、Odailyは、Vitalikが30分前に500 ETHをCoinbaseに送金したと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/346869",
+          "publishedOn": "2023-12-19T14:01:55.000Z",
+          "wordCount": 1732,
+          "title": "Vitalikが500 ETHをCoinbaseに送金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346868",
+          "author": null,
+          "description": "Odaily News マイニング会社のマラソン デジタルは、複数のマイニング ファームの買収に 1 億 7,900 万米ドルを費やし、その資金はマラソン デジタルの貸借対照表から現金で支払われると発表しました。この契約はマラソンデジタル初の完全所有マイニングファームを表しており、同社が資産の少ない組織から多様で回復力のあるビットコインマイニング業務を管理する組織へ正式に移行することを示すものである。",
+          "link": "https://www.odaily.news/ja/newsflash/346868",
+          "publishedOn": "2023-12-19T13:46:16.000Z",
+          "wordCount": 1707,
+          "title": "鉱山会社マラソン デジタルは 1 億 7,900 万米ドルを投じて複数のマイニング ファームを買収",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346867",
           "author": null,
@@ -6770,116 +6795,6 @@
           "wordCount": 1753,
           "title": "Bitgetは、Solanaチェーン上の碑文トークンSOLS/USDT取引ペアをリストします。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346315",
-          "author": null,
-          "description": "Odaily は、Spot On Chain モニタリングによると、FTX アドレスは 1 時間前に 0xCeF で始まるアドレスに 1,593 ETH (約 366 万ドル) を転送したと報告しました。 0xCeF で始まるアドレスには現在 2,244 ETH (約 516 万ドル) が保管されており、まもなく ETH が Coinbase に入金される可能性があります。",
-          "link": "https://www.odaily.news/ja/newsflash/346315",
-          "publishedOn": "2023-12-15T02:22:41.000Z",
-          "wordCount": 1790,
-          "title": "FTX アドレスが 1593 ETH を再び転送しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191718",
-          "author": null,
-          "description": "より多くの企業が投資決定において仮想通貨を選択するよう奨励します。",
-          "link": "https://www.odaily.news/ja/post/5191718",
-          "publishedOn": "2023-12-15T02:17:14.000Z",
-          "wordCount": 1663,
-          "title": "米国における仮想通貨会計システムの最初のバージョンの解釈：大規模な通貨保有会社の春？",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346314",
-          "author": null,
-          "description": "Odaily News Bitget 市場によると、主要セクターは BRC20、AI、ストレージセクターであり、その中で BIPI は 24 時間で 45.14% の増加、XETA は 24 時間で 75.93% の増加、STORJ は 24 時間で 75.93% の増加となっています。 11.81%。本稿執筆時点で、24時間の世界の仮想通貨取引高は1,046億米ドルで、そのうちBTCが51.85%を占めています。リアルタイム上昇リストの上位 3 通貨は XELS、BLUE、XETA です。",
-          "link": "https://www.odaily.news/ja/newsflash/346314",
-          "publishedOn": "2023-12-15T02:16:20.000Z",
-          "wordCount": 1799,
-          "title": "Bitget 日次市場情報: BIPI は 24 時間で 45.14% 上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346313",
-          "author": null,
-          "description": "Odaily は、オンチェーンアナリストの Ember Monitoring によると、Celsius Network アドレスから 7 時間前に 7,500 ETH (約 1,727 万ドル) が FalconX に送金されたと報じました。 11月13日以来、セルシウス・ネットワークのイーサリアム・プレッジ・アドレスはETHプレッジ契約からETHを償還し続け、合計90,102 ETH（約2億700万米ドル）を0x413で始まるアドレスに転送しました。その後、これらの資金は 0x413 で始まるアドレスを通じて Coinbase、OKX、FalconX などのプラットフォームに転送されました。",
-          "link": "https://www.odaily.news/ja/newsflash/346313",
-          "publishedOn": "2023-12-15T02:15:12.000Z",
-          "wordCount": 1773,
-          "title": "セルシウス・ネットワークは7時間前に7,500 ETHをFalconXに送金した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346311",
-          "author": null,
-          "description": "Odaily News Ledger の CEO、Pascal Gauthier 氏は、Ledger Connect Kit の脆弱性インシデントに関する公開書簡を発行しました。 12 月 14 日、Ledger Connect Kit (Web サイトをウォレットに接続するために使用される Javascript ライブラリ) の脆弱性が悪用されました。このインシデントは、元従業員に対するフィッシング攻撃によって引き起こされ、Ledger の NPMJS ( JavaScript コード).Manager) を使用して、悪意のあるファイルをアップロードします。 Ledger はパートナーと協力して脆弱性を迅速に排除し、盗まれた資金の迅速な凍結を試みましたが、実際の凍結期間は 2 時間未満でした。この脆弱性はLedger Connect Kitを使用するサードパーティのDAppsに限定されており、現在調査中であるが、Ledgerは苦情を提出しており、影響を受けた個人が資金を回収できるよう支援するとしている。 Ledger は影響を受けたユーザーをサポートし、攻撃者の発見と裁判にかけ、資金を追跡し、法執行機関と協力してハッカーから盗まれた資産を取り戻すのを支援します。以前のニュースによると、Ledger は、本物の Ledger Connect Kit 1.1.8 の安全なバージョンがプッシュされたことを X プラットフォームに投稿しました。 Ledger および WalletConnect の悪意のあるコードが非アクティブ化されていることを確認します。ユーザーはすでに Ledger ConnectKit を安全に使用できますが、24 時間待ってブラウザのキャッシュをクリアすることをお勧めします。",
-          "link": "https://www.odaily.news/ja/newsflash/346311",
-          "publishedOn": "2023-12-15T02:08:36.000Z",
-          "wordCount": 1858,
-          "title": "Ledger CEO: 影響を受けた個人が資金を回収しようとするのを支援します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346310",
-          "author": null,
-          "description": "Odaily News Sui Foundation は、今月、Sui Grants で 26 万ドル以上を受け取ったプロジェクト関係者のリストを発表しました。これには、プライベート Discord ボット DOCit、Web3 ソーシャル トークン プラットフォーム Dunbar、アルゴリズム市場形成プロトコル Elixir Integration、AWS による HSM セキュリティおよび KMS ソリューションが含まれます。サポートされているウォレットを提供します。ソリューション TRAMConnect Wallet、Move 静的検出ツール Move Lint、クリエイティブ プラットフォーム OasisX、およびフル機能のネイティブ Swift SDK Sui Swift SDK。",
-          "link": "https://www.odaily.news/ja/newsflash/346310",
-          "publishedOn": "2023-12-15T02:01:30.000Z",
-          "wordCount": 1816,
-          "title": "スイ財団、今月7つの助成プロジェクトのリストを発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346309",
-          "author": null,
-          "description": "Odaily は、Paidun の監視によると、FTX/Alameda アドレスから約 750 万 CRO (約 766,000 米ドル) と 92,000 SUSHI (約 110,000 米ドル) が Coinbase に送金され、3 億 500 万 SLP (約 96,000 米ドル) が Binance に送金されたと報告しました。 。",
-          "link": "https://www.odaily.news/ja/newsflash/346309",
-          "publishedOn": "2023-12-15T01:52:27.000Z",
-          "wordCount": 1831,
-          "title": "FTX/Alameda アドレスが 183 万ドル以上のトークンを CEX に転送",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346308",
-          "author": null,
-          "description": "1. ゲイリー・ゲンスラー氏: スポットビットコイン ETF 申請に対する SEC の「新たな見方」は、最近の裁判所判決を考慮することになる; 2. ハッカーが Ledger Connect Kit の脆弱性を悪用し、約 484,000 ドルの資産を盗んだ; 3. Tether が Ledger の脆弱性を悪用した アドレスはブラックリストに掲載された; 4. Ledger: Ledger Connect Kit バージョン 1.1.8 が利用可能になりました。24 時間待ってブラウザのキャッシュをクリアすることをお勧めします; 5. Valkyrie は、作成と償還についてのみ返品が可能であることを明記した、新しく改訂された Bitcoin スポット ETF 目論見書を提出しました。現金で作られる; 6. サザビーズによるオーディナル碑文の最初のオークション、取引量は最高推定の 5 倍; 7. スイは 3 つの流動性ステーキングプロトコルに 2,500 万 SUI を注入する; 8. LayerZero が V2 バージョンをリリース はじめに、メインネットワークは2024 年 1 月に発売予定; 9. First Trust がビットコイン「バッファ」ETF 申請を SEC に提出; 10. Solana 携帯電話 Saga が提示した BONK トークンの価値が携帯電話の公式販売価格を超えている; 11 . 暗号化 SafeMoon社が正式に破産申請; 12. SolanaのエコトークンBONKの時価が10億米ドルを突破; 13. チェーンゲームスタジオFarcanaが1,000万米ドルのシードラウンドを完了、Animoca Brandsなどが参加; 14.イーサリアムの初期投資家であるサイバー.ファンドは、クロスブロックチェーンおよび AI プロジェクトに 1 億米ドルを投資することを約束; 15. BTC エコロジカル ネイティブ ステーブルコイン プロジェクトである bitSmiley が、OKX Ventures と ABCDE が共同主導し、第 1 ラウンドの資金調達を開始16. Dora Factory は戦略的資金調達の新たなラウンドを完了し、新しいエコシステム パートナーを発表しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346308",
-          "publishedOn": "2023-12-15T01:44:59.000Z",
-          "wordCount": 1953,
-          "title": "毎日の朝のニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346307",
-          "author": null,
-          "description": "Odaily News 初期のイーサリアム投資家Cyber​​.Fundが会社を再スタートさせ、1億ドル規模のベンチャーキャピタル部門を設立すると発表、ブロックチェーン技術と人工知能（AI）やモノのインターネット（IoT）を横断するプロジェクトへの投資を約束). 1億ドル。 Cyber​​ .Fund はこれまでに Cosmos、Solana、Polkadot に投資しています。木曜日の電子メールによる発表によると、Cyber​​.Fundはブロックチェーンを基礎とした「サイバネティック経済」の開発に注力しているという。 Cyber​​ .Fund は、サイバネティックを、ブロックチェーン、人工知能、モノのインターネットが融合する、相互接続された自動化された経済フレームワークであると定義しています。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/346307",
-          "publishedOn": "2023-12-15T01:38:35.000Z",
-          "wordCount": 1772,
-          "title": "初期のイーサリアム投資家Cyber​​.Fundは、ブロックチェーンとAIの交差点のプロジェクトに1億ドルを投資することを約束",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346306",
-          "author": null,
-          "description": "Odaily News BONKトークンの価格高騰により、Solana Web3携帯電話SagaからプレゼントされるBONKトークンの価値がSaga携帯電話本体の正規販売価格を超えています。 Saga 携帯電話のアクティベーション時に Saga Genesis Token を受け取ったウォレットを持つユーザーは、Bonk DApp で 3,000 万 BONK トークンを請求できます。これらのトークンの現在の価値は 700 米ドル近くですが、Saga 携帯電話の公式販売価格は 599 米ドルです。 Solana の共同創設者 Raj Gokal 氏がドルについて投稿しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346306",
-          "publishedOn": "2023-12-15T01:31:52.000Z",
-          "wordCount": 1863,
-          "title": "Solana Mobile Saga によって配布された BONK トークンの価値は、携帯電話の正規販売価格を超えています。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191716",
-          "author": null,
-          "description": "Ledger は、悪意のあるコードを削除するためにコードベースを更新しました。",
-          "link": "https://www.odaily.news/ja/post/5191716",
-          "publishedOn": "2023-12-15T01:29:00.000Z",
-          "wordCount": 2754,
-          "title": "- 市場価格は来年6回の利下げに向けて調整され、ARKインベストメントは再びコインベース株を売却(12.15)",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -7167,16 +7082,6 @@
           "wordCount": 783,
           "title": "韓国規制当局、暗号資産規制でイノベーションをより考慮へ＝ロイター",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/15132852/Reuters-20231215.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=359057",
-          "author": "OtsugaShinya",
-          "description": "コインチェックにSHIB上場 国内暗号資産（仮想通貨）取引所コインチェック（Coincheck）が、暗号資産シバイヌ：Shiba Inu（SHIB）の取り扱い開始を12月14日発表した。 なお国内取引所においてSHIBが […]",
-          "link": "https://www.neweconomy.jp/posts/359057",
-          "publishedOn": "2023-12-15T01:37:35.000Z",
-          "wordCount": 773,
-          "title": "コインチェックにシバイヌ（SHIB）上場へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/15103725/517c383b5568f2c5470ead99a9087261.jpg"
         }
       ]
     }
