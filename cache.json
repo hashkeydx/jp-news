@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=212833",
+          "author": "林 理南",
+          "description": "柴犬（Shiba Inu）ネットワークの開発者らは、インターネットドメイン会社D3と提携して、身元証明に重点を置いたプロジェクトの推進の一環として、インターネッ ...\n柴犬コイン、近く保有者に「.shib」のドメインを提供開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/212833/",
+          "publishedOn": "2023-12-20T02:25:34.000Z",
+          "wordCount": 1101,
+          "title": "柴犬コイン、近く保有者に「.shib」のドメインを提供開始",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/URUQSUQQQ5FPBM7AFMX7FKSRCQ.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=212827",
           "author": "林 理南",
           "description": "マイクロストラテジー（MicroStrategy）のエグゼクティブ・チェアマンを務めるマイケル・セイラー（Michael Saylor）氏は19日にブルームバー ...\nビットコイン現物ETF、過去30年間のウォール街で最大の発展：マイケル・セイラー氏 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -284,6 +294,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=499559",
+          "author": "A.Yamada",
+          "description": "ブロックチェーン企業エラストスは、仮想通貨ビットコインにスマートコントラクトを導入するL2ネットワーク「BeL2」の立ち上げを発表した。",
+          "link": "https://coinpost.jp/?p=499559",
+          "publishedOn": "2023-12-20T02:35:59.000Z",
+          "wordCount": 1912,
+          "title": "Elastos、ビットコインL2「BeL2」立ち上げ　ステーキング可能にする構想も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=499543",
           "author": "A.Yamada",
@@ -846,6 +871,36 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/post/5191834",
+          "author": null,
+          "description": "この記事では、BTC Layer2の状況、ビットコインの拡大、技術開発、BRC20市場のパフォーマンス、ビットコインETF、BitVMなどについて包括的に説明します。",
+          "link": "https://www.odaily.news/ja/post/5191834",
+          "publishedOn": "2023-12-20T03:13:37.000Z",
+          "wordCount": 3708,
+          "title": "2023年のビットコイン現状の概要と展望",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346894",
+          "author": null,
+          "description": "Odaily NewsイーサリアムL2ネットワークフレーム関係者は、過去2年間にイーサリアムネットワーク上でNFTを取引しロイヤルティを支払ったユーザーはFRAMEトークンの初回エアドロップに申請する資格があり、申請は現在受付中であると述べた。 Frame メインネットとトークンは 2024 年 1 月 31 日に同時に開始され、次のフェーズが開始されるまで FRAME トークンを転送することはできません。さらに、Frame は、Electric Capital およびコミュニティメンバーが主導する初期資金調達の完了を発表し、エンジェル投資家およびアドバイザーには、dingaling、9GAG CEO の Chen Zhancheng、AZUKI プロジェクトの創設者 Zagabond などが含まれます。",
+          "link": "https://www.odaily.news/ja/newsflash/346894",
+          "publishedOn": "2023-12-20T02:35:18.000Z",
+          "wordCount": 1760,
+          "title": "フレームトークンのエアドロップは申請受付中、メインネットは来年1月にローンチ予定",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191832",
+          "author": null,
+          "description": "次の強気相場は財務成長とイノベーションだけでなく、業界の成熟度も問われるでしょう。",
+          "link": "https://www.odaily.news/ja/post/5191832",
+          "publishedOn": "2023-12-20T02:29:09.000Z",
+          "wordCount": 1891,
+          "title": "2024 年の仮想通貨融資情勢に関する 7 つの予測",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346892",
           "author": null,
@@ -5574,136 +5629,6 @@
           "publishedOn": "2023-12-15T15:22:45.000Z",
           "wordCount": 1667,
           "title": "韓国銀行総裁：ステーブルコインは中央銀行にとって課題であり、CBDCの導入は差し迫っている",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346448",
-          "author": null,
-          "description": "Odaily News Coinbaseは米国証券取引委員会（SEC）にデジタル資産向けのカスタマイズされたルールシステムの開発を求める請願を提出したが、規制当局によって拒否された。 「既存の証券制度は暗号資産証券を適切に管理している」と会長のゲイリー・ゲンスラー氏は声明で述べた。同氏は、SECが現在の法律の下で十分な権限を持っていると信じていることに加え、業界規制当局はすでに仮想通貨ビジネスを直接規制する規則案に関与しており、その執行部門も不適切な行為に対処できると述べた。同時に同氏は、「ルール策定の優先順位を独自に設定する際には委員会の裁量権を維持することが重要である」という3番目の主張も行った（コインデスク）。",
-          "link": "https://www.odaily.news/ja/newsflash/346448",
-          "publishedOn": "2023-12-15T15:17:39.000Z",
-          "wordCount": 1668,
-          "title": "SECはコインベースの仮想通貨規制推進を「根拠がない」と否定",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346447",
-          "author": null,
-          "description": "Odaily News Fantom は、以前の Sonic オープン テスト ネットワークに代わる新しいネットワークである Sonic Builders テスト ネットワークを立ち上げることを公式ブログで発表しました。開発者が Sonic テクノロジーで dApps を起動するために必要なツールが完全に装備されており、トークンの請求やスワップの実行など、メインネットの起動に備えて開かれたテストネット ダッシュボードの主な機能は維持されます。同時に、同関係者は新しいインキュベーターである Sonic Labs を立ち上げ、開発者が前例のないパフォーマンスを備えた革新的な dApp を構築し、ビルダー テストネットに dApp をデプロイすることで Sonic メインネットに備えるのを支援しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346447",
-          "publishedOn": "2023-12-15T15:15:17.000Z",
-          "wordCount": 1707,
-          "title": "Fantom が Sonic Builders テストネットの立ち上げを発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346446",
-          "author": null,
-          "description": "Odaily News Pyth Network は、ビットコイン DeFi レイヤー スタック上での Pyth 価格フィード サービスの完全展開と開始を発表する文書を X プラットフォーム上で正式に発行しました。 Stacks の開発者は、デジタル資産、FX ペア、ETF、商品、株式の 400 以上のリアルタイム価格ソースとアプリケーションを統合できるようになりました。この展開は、ビットコイン レイヤー開発ツール会社 Hero の貢献者のおかげで可能になり、Stacks のスマート コントラクト開発者は、Pyth Price Feed と Pyth Benchmarks の全機能とカタログから恩恵を受けることができます。",
-          "link": "https://www.odaily.news/ja/newsflash/346446",
-          "publishedOn": "2023-12-15T15:09:41.000Z",
-          "wordCount": 1693,
-          "title": "Python、Stacksへの導入を発表、価格フィードサービスを提供",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346445",
-          "author": null,
-          "description": "デイリーニュース 米国証券取引委員会（SEC）委員長室は12月14日、スポットビットコインETFに関してブラックロックと会談した。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/346445",
-          "publishedOn": "2023-12-15T15:02:40.000Z",
-          "wordCount": 1667,
-          "title": "米国SEC議長室は12月14日、スポットビットコインETFに関してブラックロックと会談した。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346444",
-          "author": null,
-          "description": "Odaily News F1 Red Bull は 2023 年の F1 ランキングで 2 人のドライバーをトップに据えており、今年はマックス・フェルスタッペンとセルジオ・ペレスがそれぞれ 1 位と 2 位にランクされており、レッドブルは他のすべてのチームを大きくリードしています。レッドブルチームはファンがこの成功した年を思い出すのに役立つNFTを準備しており、記念のNFTはSuiブロックチェーン上で鋳造されます。 「オラクル・レッドブル・レーシングは、チームが単一シーズンで最も多くのチャンピオンシップポイントを獲得した記録を樹立するなど、その歴史の中で最も成功した年を迎えた」とレッドブルは声明で述べた。 「収集品には、モータースポーツを中心としたデザインとアートの創造に情熱を注ぐ、受賞歴のあるデザインスタジオであるオートモビリストによってデザインされたユニークなアートワークが特徴です。NFTはBybit.com経由で入手可能です。」（Theblock）",
-          "link": "https://www.odaily.news/ja/newsflash/346444",
-          "publishedOn": "2023-12-15T15:00:04.000Z",
-          "wordCount": 1700,
-          "title": "F1レッドブルレーシングは、今年の優位性を記念して一連のNFTを発売する準備をしています",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346443",
-          "author": null,
-          "description": "Odaily News OKX市場は、BTCが42,000 USDTを下回り、一時42,050 USDTで取引され、24時間で2.27％下落したことを示しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346443",
-          "publishedOn": "2023-12-15T14:54:03.000Z",
-          "wordCount": 1673,
-          "title": "BTCが42,000USDTを下回る",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346442",
-          "author": null,
-          "description": "Odaily News Wanxiang Blockchain Labs と HashKey Group が共催する香港 Web3 フェスティバルは、第 2 回香港 Web3 フェスティバルが 2024 年 4 月 6 日から 9 日まで開催されると発表しました。 2023 年の記録破りのイベントの大成功を受けて、2024 年の HK Web3 フェスティバルには世界中から多くの業界ゲストが集まります。最初の Web3 フェスティバルには 50,000 人以上の参加者、世界中から 300 人の講演者、100 人の出展者、および 200 近くの周辺アクティビティが開催されました。これは、香港の Web3 業界にとって画期的なマイルストーンとして広く認められています。近年、香港は Web3 に積極的に参加し、仮想資産政策声明や Web3 ワーキング グループなどの一連の野心的な試みを含め、Web3 のビジョンを拡大してきました。",
-          "link": "https://www.odaily.news/ja/newsflash/346442",
-          "publishedOn": "2023-12-15T14:50:38.000Z",
-          "wordCount": 1805,
-          "title": "香港 Web3 フェスティバル 2024 は来年 4 月 6 日から 9 日まで開催されます",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346441",
-          "author": null,
-          "description": "Odaily News レイヤー 2 ソリューション Enphyr は、最近のシードファイナンスラウンドで 100 万米ドルの投資を受け、会社の評価額は 1,000 万米ドルになりました。この資金調達ラウンドはWaveslab Venturesが主導し、多くの重要な民間投資家が参加した。 Enphyrは、この資金はチームの拡大、戦略的パートナーシップの模索、エンジニアリングプロジェクトの強化に使用され、プロトコルインフラストラクチャのより多くのアプリケーションシナリオの実現を加速すると述べた。 Enphyr は、イーサリアムのセキュリティを活用して次世代アプリケーションを構築することを目指しています。 (グローブニュースワイヤー)",
-          "link": "https://www.odaily.news/ja/newsflash/346441",
-          "publishedOn": "2023-12-15T14:45:00.000Z",
-          "wordCount": 1736,
-          "title": "レイヤ 2 プロジェクト Enphyr が、Waveslab Ventures 主導のシードラウンドで 100 万米ドルの資金調達を完了",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346440",
-          "author": null,
-          "description": "Odaily News SECは、Coinbase Global, Inc.を代表して提出された規則制定申請を拒否したことを示す発表を発表した。具体的な理由は次のとおりです: 1. 既存の法律と規制が暗号通貨証券市場に適用される; 2. SEC はルール策定を通じて暗号証券市場の問題に対処する; 3. 独自のルール策定の優先事項を策定する際には、委員会の裁量権を維持することが重要である。",
-          "link": "https://www.odaily.news/ja/newsflash/346440",
-          "publishedOn": "2023-12-15T14:41:51.000Z",
-          "wordCount": 1688,
-          "title": "SEC、Coinbaseに代わって提出された規則制定申請を拒否",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346439",
-          "author": null,
-          "description": "Odaily News Mark Cuban は、暗号化分野の貴重なニュースを集約するように設計された Web サイトである暗号化ニュース アグリゲーター One Page Crypto の立ち上げを発表しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346439",
-          "publishedOn": "2023-12-15T14:36:05.000Z",
-          "wordCount": 1688,
-          "title": "マーク・キューバン氏、仮想通貨ニュースアグリゲーターのワンページ仮想通貨を発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346438",
-          "author": null,
-          "description": "Odaily News プライバシーを重視したレイヤー 1 ブロックチェーン Namada は最近、総トークン供給量の 3% を報酬として提供するインセンティブ付きテストネットを立ち上げました。 Namada のテストネットを使用すると、参加者 (検証者とユーザー) が競争イベントに参加して、そのコンセンサス アルゴリズム (CometBFT) と Sybil 攻撃に対抗する能力をテストできるようになります。参加者は、蓄積したROID（ポイント）の数に基づいてランク付けされます。成功したプレイヤーは合計 3,000 万の NAM トークン (総供給量 10 億の 3%) を受け取ります。 Namada テストネットは 1 月 15 日に始まり、月末まで続きます。テストネットのインセンティブは、Namada が Cosmos Hub および Osmosis ブロックチェーン上の研究者、開発者、トークン所有者に 6,500 万 NAM トークン (総供給量の 6.5%) をエアドロップすると発表した 1 週間後に提供されます。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/346438",
-          "publishedOn": "2023-12-15T14:29:23.000Z",
-          "wordCount": 1777,
-          "title": "Namada が総供給量の 3% を占める報酬付きのインセンティブ付きテストネットを開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346437",
-          "author": null,
-          "description": "Odaily News 仮想通貨取引プラットフォームBitopは、決済ソリューションプラットフォームBanxaとの戦略的提携を発表した。この提携は、特にユーラシアとラテンアメリカにおいて、法定通貨からデジタル資産への取引サービスを提供することを目的としています。この協力を通じて、Bitop はこれらの地域のユーザーに、クレジット カード (Visa/Mastercard)、銀行振込、現地のサードパーティの支払い方法など、より多様な支払いオプションを提供します。 Banxa の強みは、ビジネス規模、コンプライアンス、セキュリティ、利便性などのフィンテックの重要な側面にあり、Bitop にとって貴重なパートナーとなっています。この協力は、世界的に多様化した決済オプション、地域ごとにカスタマイズされたサービス、取引効率の向上、取引コストの削減など、Bitop とそのユーザーに多くのメリットをもたらすことが期待されています。 (グローブニュースワイヤー)",
-          "link": "https://www.odaily.news/ja/newsflash/346437",
-          "publishedOn": "2023-12-15T14:23:14.000Z",
-          "wordCount": 1754,
-          "title": "Bitop は Banxa と提携し、安全なデジタル資産取引ソリューションを提供します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346436",
-          "author": null,
-          "description": "Odaily News 中国移動香港 (CMHK) は、LinkNFT の開始を発表しました。 LinkNFT は、エンタープライズレベルの NFT キャスティング サービスを提供し、デジタル資産の生成、取引、流通をサポートし、CMChain と統合されている NFT マーケットです。現在、30を超えるNFTがLinkNFTプラットフォームでリリースされています。 (prnewswire)",
-          "link": "https://www.odaily.news/ja/newsflash/346436",
-          "publishedOn": "2023-12-15T14:20:10.000Z",
-          "wordCount": 1746,
-          "title": "中国移動香港がNFTマーケットプレイスLinkNFTを開始",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
