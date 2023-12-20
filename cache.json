@@ -325,6 +325,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=499680",
+          "author": "CoinPost編集部",
+          "description": "2023年のブロックチェーン界隈を振り返る「Blockchain Award 05」の開催が決定し、WebX STUDIOで配信される。JBA理事でbitFlyer HDの加納裕三CEOや金光碧氏、ビットコイナー反省会の東晃慈氏に加え、あたらしい経済の設楽悠介編集長、CoinPostの各務貴仁CEOも出演する。",
+          "link": "https://coinpost.jp/?p=499680",
+          "publishedOn": "2023-12-20T08:12:13.000Z",
+          "wordCount": 1947,
+          "title": "2023年のブロックチェーン界隈を振り返る「Blockchain Award 05」、12月20日にWebX STUDIOで配信へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Blockchain-Award-05-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Blockchain-Award-05-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=499673",
           "author": "AKIRA.H",
           "description": "アイルランドに展開するリップル社の子会社、Ripple Markets Ireland Limitedは、VASP（仮想資産サービスプロバイダー）として正式に認定され、この国で特定のデジタル資産サービスの提供が可能となった。この登録は、リップル社の事業展開を強力に支援する一歩となる。",
@@ -938,21 +953,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/trader-joe-arbitrum.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/trader-joe-arbitrum.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498765",
-          "author": "菊谷ルイス",
-          "description": "国際版仮想通貨取引所大手バイナンスはBRC-20規格であるRATS（1000RATS）の永久先物を15日より提供開始した。",
-          "link": "https://coinpost.jp/?p=498765",
-          "publishedOn": "2023-12-15T21:15:47.000Z",
-          "wordCount": 1896,
-          "title": "続くBRC-20ブーム　国際版バイナンス、仮想通貨「RATS」の永久先物を提供開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": ""
-          },
-          "imageUrl": "https://coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
         }
       ]
     },
@@ -961,6 +961,136 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346947",
+          "author": null,
+          "description": "オンチェーンアナリスト @ai_9684xtpa による Odaily のモニタリングによると、DWF Labs は 10 分前に 200 万 TURT (約 17 万米ドル) を KuCoin にチャージしました。 TURTは過去7日間で289%上昇し、現在は0.09120ドルとなっています。",
+          "link": "https://www.odaily.news/ja/newsflash/346947",
+          "publishedOn": "2023-12-20T09:12:54.000Z",
+          "wordCount": 1846,
+          "title": "DWF Labs が KuCoin に 200 万 TURT を入金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346946",
+          "author": null,
+          "description": "オンチェーンアナリスト@ai_9684xtpaによるOdailyのモニタリングによると、1CATは寄り付きで10倍に上昇し、スマートマネーアドレスは寄り付きで買うことで20万ドルの利益を上げました。 1CAT/ETH 取引ペアがオンラインになった後、彼は Banana Gun を使用して 603.13 ETH を費やし、平均コスト 0.003216 米ドルで 4 億 1,300 万 1CAT (約 133 万米ドル) を購入しました。その後、アドレスは 40 分以内に段階的に販売され、合計 3 億 1,700 万トークンが販売され、5 億 9,735 万 ETH が取得され、残りの 8,640 万トークンにはまだ 21 万米ドルの浮動利益が残っています。",
+          "link": "https://www.odaily.news/ja/newsflash/346946",
+          "publishedOn": "2023-12-20T09:10:39.000Z",
+          "wordCount": 1878,
+          "title": "スマート マネー アドレスは開始時に 4 億 1,300 万 1CAT を購入し、残りの 8,640 万ドルで 21 万米ドルの変動利益を残しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346945",
+          "author": null,
+          "description": "Odaily の公式発表によると、Avalanche (AVAX) ネットワーク料金の変更により、韓国の仮想通貨取引所 Upbit は出金手数料を 0.01 AVAX から 0.1 AVAX に調整します。",
+          "link": "https://www.odaily.news/ja/newsflash/346945",
+          "publishedOn": "2023-12-20T09:05:20.000Z",
+          "wordCount": 1807,
+          "title": "UpbitはAVAX出金手数料を0.1AVAXに調整すると発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346944",
+          "author": null,
+          "description": "Odaily News Bitget の新しいランチパッド プロジェクト TonUP (UP) 投資チャンネルがオープンしました。投資チャンネルは12月20日17時から12月22日17時までオープン。投資が完了すると、ユーザーの BGB はロックされ、統計的な配布を待ちます。投資フェーズが終了すると、システムは各ユーザーに割り当てられる Launchpad トークンの数を計算します。",
+          "link": "https://www.odaily.news/ja/newsflash/346944",
+          "publishedOn": "2023-12-20T09:02:56.000Z",
+          "wordCount": 1827,
+          "title": "Bitget Launchpad プロジェクト TonUP (UP) が投資募集中",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346943",
+          "author": null,
+          "description": "Odaily News リップルは、アイルランドの子会社リップル・マーケット・アイルランド・リミテッド（リップル・マーケット）がアイルランド中央銀行（CBI）により登録仮想資産サービス・プロバイダー（VASP）のリストに追加されたことを発表、これによりリップルは特定のデジタル資産を提供できるようになるアイルランドでのサービス。",
+          "link": "https://www.odaily.news/ja/newsflash/346943",
+          "publishedOn": "2023-12-20T09:01:42.000Z",
+          "wordCount": 1798,
+          "title": "リップル・アイルランド子会社が登録仮想資産サービスプロバイダーのリストに追加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346942",
+          "author": null,
+          "description": "Odaily は、Scopescan の監視によると、Wintermute が Coinbase と Binance から 150 万 OP (約 330 万米ドル) を引き出したと報じました。",
+          "link": "https://www.odaily.news/ja/newsflash/346942",
+          "publishedOn": "2023-12-20T08:56:33.000Z",
+          "wordCount": 1825,
+          "title": "Wintermute、CoinbaseとBinanceから150万OPを引き出す",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346941",
+          "author": null,
+          "description": "Odaily News Matrixportは、米国のインフレ率が2024年に2％に低下すると予想される最新のレポートを発表した。マクロ経済は2024年のビットコイン価格の上昇をサポートするはずだ。ビットコインマイナーは半減期の前後で新たなビットコインの供給を制限する傾向があり、ビットコインは半減期の6か月後に史上最高値を記録した（半減期は来年4月に起こると予想されている）。ビットコインの融資金利は依然として高く、トレーダーらが価格上昇を期待していることを示唆している一方、SP 500のボラティリティが数年ぶりの低水準に低下しているにもかかわらず、インプライド・ボラティリティは依然として高い。したがって、クリスマス休暇中に資金調達金利は低下すると予想されるが、トレーダーがビットコインスポットETF承認の可能性をヘッジするため、ボラティリティは依然として上昇する可能性がある。レポートの分析によると、ビットコインは12月8日以来横ばいの取引範囲内にある。しかし、ビットコインスポットETFは2024年1月初旬に承認される予定であり、この範囲の下限サポート（4万ドル）は変わらないと予想される。一方、ビットコインがクリスマスにさらに上昇するかどうかについては、依然として慎重な報道が続いている。歴史的に、ビットコインは 12 月 24 日から 12 月 31 日までに 3% 上昇しましたが、ビットコインの初期の高いリターンによってリターンは抑えられ、過去 5 年間のうち 4 年間は価格が下落しました。これは、今年の高値を記録した可能性があり、価格は年末まで堅調に推移する可能性があることを意味します。ビットコインの時価総額は3,200億ドルから8,270億ドルに増加し、ビットコイン保有者の資産は約5,000億ドル増加しました。 2017年10月31日、CMEグループが第4四半期ビットコイン先物の開始を発表したとき、CBOEビットコイン先物は12月10日に、CMEは12月17日に上場されました。発表から開始まで、ビットコインは212%上昇しました。ビットコインスポットETFが承認された場合にも、同様のシナリオが起こる可能性がある。承認される可能性が最も高い期間は、1 月 8、9、10 日です。特にSECとブラックロックの会合が頻繁に行われていることから、ビットコインスポットETFが1月に承認されるとの期待が高まっている。偶然にも、テザーのステーブルコイン鋳造は12月8日以降減速しており、法定通貨から仮想通貨への機関投資家の流れが1月初旬の新たな需要を待っている可能性があることを示唆している。同報告書はまた、2023年初めに380億ドルだったTVLが現在は510億ドルに増加しており、これはFTX崩壊前の最高水準であると述べた。ステーキングがイーサリアムの重要な価値提案になるにつれ、Lido の TVL は大幅に上昇します。リドの TVL は 60 億ドルから 200 億ドルに増加しました。しかし、全体として、2023年のDeFiのパフォーマンスは期待外れでした。マイナスプレミアム率が 47% から 8% に縮小したため、今年の年間取引はグレースケール GBTC になるはずです ビットコインの価格は 154% 上昇しましたが、同じ期間に GBTC は 326% 上昇しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346941",
+          "publishedOn": "2023-12-20T08:51:31.000Z",
+          "wordCount": 1888,
+          "title": "マトリックスポート: ビットコイン保有者の資産は今年5,000億ドル増加し、2024年のマクロ経済はビットコインにとって良い影響を与える可能性がある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346940",
+          "author": null,
+          "description": "",
+          "link": "https://www.odaily.news/ja/newsflash/346940",
+          "publishedOn": "2023-12-20T08:51:03.000Z",
+          "wordCount": 1801,
+          "title": "現物証拠金取引ペアの最低注文総額変更に関するお知らせ (2023-12-22)",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346938",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、Web3 情報配信プロトコル RSS3 と OpenAI が協力して Web3 用の新しいソーシャル AI 製品を作成し、正式に発売されました。この製品は、分散型コンテンツと人工知能を組み合わせてオンチェーン市場を構築し、ソーシャル製品と AI アルゴリズムの完璧な組み合わせを実現します。 RSS3は、この製品を通じて社会とAIの相互作用の生態学的移行を実現し、新たなオンチェーン市場に変革します。",
+          "link": "https://www.odaily.news/ja/newsflash/346938",
+          "publishedOn": "2023-12-20T08:33:29.000Z",
+          "wordCount": 1857,
+          "title": "RSS3 と OpenAI for Web3 によって展開される新しいソーシャル AI 製品が正式に発売される",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346937",
+          "author": null,
+          "description": "Odaily News Web3 データ ネットワーク Aki Network は本日、AKI トークンのジェネシス エアドロップの第 1 段階を開始したことを発表しました。初期のアクティブな貢献者は、Aki Network 公式 Web サイトにアクセスして、受け取ることができるトークンの数を確認できるようになりました。公式ウェブサイトでは、主に中小規模の KOL や Aki Network のコア ユーザーを中心に、17,000 以上の独立したアドレスがエアドロップを受信できると発表しました。 AKIトークンはシンガポール時間12月22日16時にBybit、Gate.io、BTSEの3取引所に上場され、Bybit入金は12月21日18時に開始される。公開情報によると、ユーザーはAKIトークンをステーキングすることで、先行イベントへの優先参加、当選確率の上昇、コミュニティ審査会への参加など複数の機能を獲得できるとのこと。プロジェクト当事者およびKOLがAki Networkに支払った運営費の一定割合は、AKIトークンを使用して支払われ、破棄されます。 Aki Network は最近、日本のトップ VC と韓国のゲーム大手 MARBLEX が主導するシリーズ A 融資を受け、評価額は 5,000 万米ドルとなったと発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346937",
+          "publishedOn": "2023-12-20T08:31:04.000Z",
+          "wordCount": 1872,
+          "title": "Aki Networkが最初のエアドロップ調査を開始し、金曜日にAKIトークンが取引所に上場される予定",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191848",
+          "author": null,
+          "description": "中国人コミュニティではめったに言及されない米国の規制上の事件は、ウォレット、マイナー、ノードの匿名性を完全に破壊し、暗号化プライバシーを従来の金融レベルに同化させる可能性があります。",
+          "link": "https://www.odaily.news/ja/post/5191848",
+          "publishedOn": "2023-12-20T08:29:50.000Z",
+          "wordCount": 1698,
+          "title": "仮想通貨業界はウォーレン米上院議員のマネーロンダリング対策法案について神経質になるべきでしょうか?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346935",
+          "author": null,
+          "description": "Odaily News Lookonchain の監視によると、特定のアドレスは 12 月 7 日に 4.1126 AVAX (約 108 米ドル) を使って 6,942 億 COQ を購入し、その後複数の取引で合計 6,142 億 COQ を 5,440 AVAX (約 108 米ドル) と引き換えに売却しました。 201,000ドル）。このアドレスは現在 800 億 COQ (約 27 万 5,000 米ドル) を保有しており、利益は 47 万 5,000 米ドルで、約 4,397 倍の利益となっています。",
+          "link": "https://www.odaily.news/ja/newsflash/346935",
+          "publishedOn": "2023-12-20T08:28:54.000Z",
+          "wordCount": 1883,
+          "title": "COQ取引を通じて4397倍の利益を達成したアドレス",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346934",
+          "author": null,
+          "description": "Odaily News ビットコインチェーンゲームプロジェクトである Bitcoin Cats は、イーサリアムチェーン上の 1cat トークンが取引可能になり、ユーザーは Uniswap や BakerySwap などの DEX で取引できることを X プラットフォームで公開しました。",
+          "link": "https://www.odaily.news/ja/newsflash/346934",
+          "publishedOn": "2023-12-20T08:22:58.000Z",
+          "wordCount": 1847,
+          "title": "Bitcoin Cats: 1cat トークンがイーサリアム チェーンで取引可能になりました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346933",
           "author": null,
