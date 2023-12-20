@@ -883,21 +883,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/solana.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/solana.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498800",
-          "author": "A.Yamada",
-          "description": "仮想通貨XRPを提供するリップル社はCBDCについてのレポートを発表した。普及させる上でのバリアや、金融システムにもたらす利点を概説している。",
-          "link": "https://coinpost.jp/?p=498800",
-          "publishedOn": "2023-12-16T01:00:10.000Z",
-          "wordCount": 1897,
-          "title": "米リップル社、CBDC普及の障壁を指摘",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_1.jpg"
         }
       ]
     },
@@ -906,6 +891,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346971",
+          "author": null,
+          "description": "Odaily News Ledger に掲載されましたLedgerは、影響を受けた個人（Ledger以外のユーザーを含む）が2024年2月末までに資金を回収できるよう努める予定であり、DAppエコシステムと連携してClear Signingを可能にすることに取り組んでいるとしている。 2024 年 6 月より前。デバイスはブラインド署名を実行します。",
+          "link": "https://www.odaily.news/ja/newsflash/346971",
+          "publishedOn": "2023-12-20T13:16:39.000Z",
+          "wordCount": 1803,
+          "title": "Ledger: 2024 年 6 月までにユーザーがブラインド署名に Ledger デバイスを使用することを許可しないことを決定",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346970",
+          "author": null,
+          "description": "Odaily News タイのカシコン銀行は、企業に資金調達チャネルを提供するデジタル資産エコシステムを開発していると発表した。その戦略の一環として、カシコーン銀行は10月に認可されたデジタル資産取引所サタン・コーポレーションを買収した。サタン・コーポレーションには、ブロックチェーン技術と仮想トークン保管サービスに重点を置いた部門もある。",
+          "link": "https://www.odaily.news/ja/newsflash/346970",
+          "publishedOn": "2023-12-20T13:12:20.000Z",
+          "wordCount": 1745,
+          "title": "カシコン銀行はデジタル資産エコシステムを開発中",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191856",
+          "author": null,
+          "description": "OFAC は難しい決断を下していますが、その間、Coinbase は中断することなく Tornado Cash 取引の処理を続けています。",
+          "link": "https://www.odaily.news/ja/post/5191856",
+          "publishedOn": "2023-12-20T13:00:00.000Z",
+          "wordCount": 2082,
+          "title": "米国のOFACの長期管轄権はイーサリアムネットワークにどのような影響を与えるでしょうか?",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346969",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、Launchblock での GrapeCoin (GRAPE) の公募は正式に終了し、今回は合計 40,321.7 ETH (約 89,478,626.49 米ドル) が調達されました。現在、GRAPE は KuCoin、Bybit、Bitget プラットフォームでのローンチを準備中です。勝者は北京時間12月21日18時30分にGRAPEエアドロップを受け取り、非勝者は90日間有効なETHの払い戻しを受けることができます。 GRAPESは、2023年5月からゲーム、アニメシリーズ、商品、一連のライセンスを発売するクロスメディアNFTプロジェクトです。",
+          "link": "https://www.odaily.news/ja/newsflash/346969",
+          "publishedOn": "2023-12-20T12:54:48.000Z",
+          "wordCount": 1831,
+          "title": "GrapeCoin (GRAPE) の公募により合計 40,321.7 ETH が集まり、12 月 21 日 18:30 に GRAPE がエアドロップされます。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/346968",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、Aicoin は OKX Ordinals マーケット API に正式に接続し、ユーザーは BRC-20 資産価格の傾向や取引量などをリアルタイムでクエリできるようになりました。業界で最も流動性の高いオーディナル市場にアクセスすることで、Aicoin は BRC-20 資産の最も正確な価格をリアルタイムで取得して表示できます。現在、OKX Ordinals マーケット API は、Ordinals マーケットの収集、注文、取引データのリアルタイム クエリをサポートしており、まもなくユーザーが API を介して OKX マーケットに Ordinals アセットをリストできるようにする予定です。 OKX Web3 Wallet Ordinals Marketは最大のBRC-20碑文およびBTC NFT取引市場であると報告されています。 OKX Ordinals市場は完全に分散化されており、インタラクションに対するプラットフォームサービス手数料は無料で、ワンストップ転送、取引、BRC-20およびBTC NFTの彫刻などの複数の機能をサポートしています。",
+          "link": "https://www.odaily.news/ja/newsflash/346968",
+          "publishedOn": "2023-12-20T12:32:34.000Z",
+          "wordCount": 1827,
+          "title": "Aicoin が OKX Ordinals マーケット API に正式に接続されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/346967",
           "author": null,
@@ -6404,26 +6439,6 @@
           "publishedOn": "2023-12-16T01:27:25.000Z",
           "wordCount": 1716,
           "title": "ブルームバーグETFアナリスト：",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346468",
-          "author": null,
-          "description": "Odaily News Coinbase は、X プラットフォーム上で、資産発行会社向けの通貨リスト申請プロセスを変更したと発表しました。元のアセット センターは利用できなくなりました。発行者は、アセット センターが提供する最新のチャネルを通じて通貨リストを申請できます。",
-          "link": "https://www.odaily.news/ja/newsflash/346468",
-          "publishedOn": "2023-12-16T00:59:33.000Z",
-          "wordCount": 1718,
-          "title": "Coinbase: 資産発行者の通貨リスト申請プロセスが変更されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346467",
-          "author": null,
-          "description": "Odaily News Arbitrum は、ネットワークガスが安定し、シーケンサーが通常の動作に戻ったと述べた X プラットフォームに関する文書を発行しました。以前のニュースで、Arbitrum 関係者は、ネットワーク トラフィックの大幅な急増により、Arbitrum One シーケンサーが東部時間午前 10 時 29 分に動作を停止したと発表しました。 Arbitrum は問題をできるだけ早く解決するために取り組んでおり、できるだけ早く事後分析を提供します。",
-          "link": "https://www.odaily.news/ja/newsflash/346467",
-          "publishedOn": "2023-12-16T00:34:45.000Z",
-          "wordCount": 1727,
-          "title": "Arbitrum: ネットワークガスが安定し、シーケンサーは通常の動作に戻りました",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
