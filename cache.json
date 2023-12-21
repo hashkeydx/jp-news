@@ -370,16 +370,6 @@
           "wordCount": 1060,
           "title": "韓国銀行総裁、CBDC導入の「緊急性」に言及",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/4YWH5AEFBRBTRPZ7SMZFDL5WCI.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=212512",
-          "author": "増田 隆幸",
-          "description": "今週の注目！ レイヤー2には大きな影響を与えそう。だが、すぐではないし、「レイヤー2は残る」との冷静な見方もある。 ビットコイン価格推移 年末に4万5000ドル ...\nイーサリアムがレイヤー2機能をメインチェーンに戻す／ビットコインは年末に4万5000ドル？【Weekly Review：12/9〜12/17】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/212512/",
-          "publishedOn": "2023-12-17T00:30:00.000Z",
-          "wordCount": 1117,
-          "title": "イーサリアムがレイヤー2機能をメインチェーンに戻す／ビットコインは年末に4万5000ドル？【Weekly Review：12/9〜12/17】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_1230901522-1.jpg"
         }
       ]
     },
@@ -1106,6 +1096,136 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347128",
+          "author": null,
+          "description": "Odaily News ソラナのエコロジカル・ミーム・プロジェクト、ボンクが発表",
+          "link": "https://www.odaily.news/ja/newsflash/347128",
+          "publishedOn": "2023-12-21T12:19:25.000Z",
+          "wordCount": 1758,
+          "title": "Bonk: Breakpoint 2024 のチケットは BONK で購入できます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347127",
+          "author": null,
+          "description": "Odaily News Injective inscription project INJS は、ネットワークの円滑な運用を確保するために、INJS は複数のラウンドで鋳造される予定であるとソーシャル メディアに投稿しました。各ラウンドは 1,500 ブロック続きます。指定されたブロック範囲内の鋳造のみが考慮されます。へ効果的であれば、当局はコイン鋳造の各ラウンドの開始の約30分前にリマインダーを送信します。最初の鋳造ラウンドのブロック範囲は 55,051,600 ～ 55,053,100 です。",
+          "link": "https://www.odaily.news/ja/newsflash/347127",
+          "publishedOn": "2023-12-21T12:16:36.000Z",
+          "wordCount": 1762,
+          "title": "INJS: 鋳造は複数のラウンドで行われ、各ラウンドは 1,500 ブロック続きます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347126",
+          "author": null,
+          "description": "Odaily News Scam Sniffer の監視により、あるウォレット ハッカーが Google 検索や X 広告でのフィッシング キャンペーンに関係しており、9 か月間で 63,000 人以上の被害者から約 5,800 万ドルを盗んだことがわかりました。",
+          "link": "https://www.odaily.news/ja/newsflash/347126",
+          "publishedOn": "2023-12-21T12:09:12.000Z",
+          "wordCount": 1751,
+          "title": "ウォレットハッカーがGoogle検索とX広告のフィッシングリンクを利用して5,800万ドルを稼いだ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191888",
+          "author": null,
+          "description": "Binance Fair Mode は、新しいトークンエコノミーにおける革新的な試みです。",
+          "link": "https://www.odaily.news/ja/post/5191888",
+          "publishedOn": "2023-12-21T12:00:00.000Z",
+          "wordCount": 1927,
+          "title": "Binance Lauchpoolの新モデルFairModeを詳しく解説：トークンエコノミーシステムの変化",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347125",
+          "author": null,
+          "description": "Odaily News Atomics Protocol は、Atomics Indexer の新しいバージョン 1.3.6 のリリースを発表しました。このバージョンは、トークン分割と 10 進単位の基礎を築く重要なアップデートです。新しいバージョンの主な機能には、初期データベースの ARC20 小数点のサポート、新しい簡素化された ARC20 バランス RPC メソッド、および RPC メソッドによる NFT/FT UTXO の分割機能が含まれます。 LevelDB 形式の変更により、データは高さ 808080 から再同期する必要があることに注意してください。",
+          "link": "https://www.odaily.news/ja/newsflash/347125",
+          "publishedOn": "2023-12-21T11:55:42.000Z",
+          "wordCount": 1777,
+          "title": "Atomics Indexer 1.3.6 がリリースされ、ARC20 トークンの小数点分割が可能になりました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347124",
+          "author": null,
+          "description": "Odaily News ProofとMoonbirdsの創設者であるKevin Rose氏は、ソーシャルプラットフォームThreadsで、2024年1月1日から1年間Xアカウントを停止することを検討していると述べた（期間中はいつでもアクティブ化できる）。",
+          "link": "https://www.odaily.news/ja/newsflash/347124",
+          "publishedOn": "2023-12-21T11:52:17.000Z",
+          "wordCount": 1763,
+          "title": "Kevin Rose: プラットフォーム X を 1 年間やめることを検討してください",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347123",
+          "author": null,
+          "description": "Odaily News スリーアローズキャピタル（3AC）の清算会社テネオは、債権者が破産しても資産の約45.74％を回収できると試算している。テネオ社の清算共同責任者のラッセル・クランプラー氏とクリストファー・ファーマー氏は、債権者への12月の報告書の中で、同社の資産は12月18日時点で11億6000万ドルと評価され、一方、分配対象として特定された債権の価値は27億ドルになると予想されていると述べた。報告書は、Teneo が DCG、Genesis、BlockFi を含む複数の当事者との訴訟で和解し、それによって同社の報告資産が約 2 億 9,200 万ドル増加したことを示しています。 BlockFiの和解はまだ承認待ちである。報告書はまた、3ACの不動産に対して154件の申し立てがあり、総額は34億ドルに達したと指摘した。このうち、200万米ドルの請求は分配が認められておらず、3,220万米ドルの請求は却下または却下される見込みで、7,600万米ドル相当の請求が係争中である。さらに報告書は、3ACの共同創設者であるZhu Su氏がシンガポールで逮捕された後、12月20日に自宅で軟禁刑を終えたことにも言及した。一方、清算人らは３ＡＣと密接に協力していたタイ・ピン・シャン社との関係の調査を続けている。破産手続き中の訴訟費用は累計4,970万ドルに達した。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/347123",
+          "publishedOn": "2023-12-21T11:44:03.000Z",
+          "wordCount": 1796,
+          "title": "Three Arrows Capital Liquidation Company: 債権者は資産の約 45.74% を回収する見込み",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347122",
+          "author": null,
+          "description": "Odaily News Bitget の新しいランチパッド プロジェクト TonUP は、投資チャネルまで 24 時間のカウントダウンを行っており、明日の 17:00 に終了します。本稿執筆時点で、13,000人以上が投資しています。最終的な投資可能額は12月22日17:00～18:00に発表され、UPトークン配布時間は12月22日18:00～19:00となります。",
+          "link": "https://www.odaily.news/ja/newsflash/347122",
+          "publishedOn": "2023-12-21T11:41:53.000Z",
+          "wordCount": 1787,
+          "title": "Bitget Launchpad プロジェクト TonUP 投資フェーズへのカウントダウン 24 時間",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347121",
+          "author": null,
+          "description": "Odaily News Suilendは、Solanaエコロジー融資プロトコルSolendによってSuiチェーン上で開始された新しいプロジェクトで、2024年の第1四半期に開始され、Solendユーザーに「報酬」を提供すると発表しました。 Solana エコロジー融資プロトコル Solend は、X プラットフォーム上で、新しいプロジェクト Suilend を立ち上げ、Sui への事業を拡大すると発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/347121",
+          "publishedOn": "2023-12-21T11:34:44.000Z",
+          "wordCount": 1782,
+          "title": "Suilend: 2024 年の第 1 四半期にリリースされ、Solend ユーザーに「報酬」を提供します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347120",
+          "author": null,
+          "description": "Odaily News Bitget 市場によると、SILLY がオンラインになった後、短期的には 0.14 USDT を突破しましたが、その後反落し、現在は 0.09092 USDT で取引されており、オンラインになってから 127.3% 上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/347120",
+          "publishedOn": "2023-12-21T11:32:42.000Z",
+          "wordCount": 1765,
+          "title": "Bitgetが0.14 USDTを短期的に突破した後、SILLYは反落した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191880",
+          "author": null,
+          "description": "デジタル通貨の価格は今日も上昇を続けており、BTCは再び45,000のレジスタンスレベルに挑戦する傾向にありますが、オプションの観点から見ると、そのインプライド・ボラティリティ・カーブはそれほど変化していません。一方、ETH IVは遅れをとって下落しています。 BTC に近づくと、フロントエンド IV と BTC の差は負の数に反転します。",
+          "link": "https://www.odaily.news/ja/post/5191880",
+          "publishedOn": "2023-12-21T11:31:49.000Z",
+          "wordCount": 1928,
+          "title": "SignalPlus ボラティリティ コラム (20231221): バタフライ、バタフライ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347119",
+          "author": null,
+          "description": "1. 総額 15 億米ドルを超える BTC と ETH のオプションは期限切れになり、明日引き渡されますが、そのうち BTC の最大の問題点は 42,000 米ドルです; 2. ジャスティン・サン: 強気市場が近づいており、私たちはそれを実現しなければなりません大きな動き; 3. HashKey Exchange は来年 24 社をサポート サードパーティ取引所が少額の仮想資産をリチャージ; 4. Worldcoin がインド、ブラジル、フランスで Orb 検証サービスの提供を停止; 5. Trustless Labs が第 1 フェーズを開始1,000万米ドル規模のビットコインエコシステム基金; 6. 分散型患者ネットワークHumanscapeは、アシアナ証券などが投資に参加し、200億ウォンのC+ラウンドを完了; 7. Pancakeswapの新しい提案は、ビットコインの最大供給量を削減することを提案しています。 CAKEは4億5,000万人に; 8. アブダビ国際金融センターFSRAはマネーロンダリング防止規則を改訂し、トラベルルールが仮想資産に適用されることを強調; 9. Frax創設者：FXSなどに関連するFraxchainエアドロップ/ポイントシステムが開始される; 10. コサイン: ユーザーのウォレットまたはプラットフォームが新しいビットコイン環境プロトコルと完全に互換性がない場合、対応する資産が失われる可能性があります。",
+          "link": "https://www.odaily.news/ja/newsflash/347119",
+          "publishedOn": "2023-12-21T11:29:36.000Z",
+          "wordCount": 1824,
+          "title": "毎日のイブニングニュース",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347118",
+          "author": null,
+          "description": "Odaily News Sun Yuchen氏はXプラットフォームに「強気相場が近づいているので、我々は大きな行動を起こさなければならない」と投稿した。",
+          "link": "https://www.odaily.news/ja/newsflash/347118",
+          "publishedOn": "2023-12-21T11:22:40.000Z",
+          "wordCount": 1748,
+          "title": "ジャスティン・サン: 強気相場が近づいているので、私たちは大きく動かなければなりません",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347117",
           "author": null,
@@ -7715,46 +7835,6 @@
           "wordCount": 1762,
           "title": "OKX がシンプルな先物取引プラットフォームを開始",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346523",
-          "author": null,
-          "description": "Odaily News PlutusDAO は、失われた plsARB 報酬が資格のあるユーザーにエアドロップされ、さらに 5% のインセンティブが esPLS に追加されると述べた文書を X プラットフォーム上で発行しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346523",
-          "publishedOn": "2023-12-17T00:38:41.000Z",
-          "wordCount": 1773,
-          "title": "PlutusDAO: 失われた plsARB 報酬は資格のあるユーザーにエアドロップされます",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346521",
-          "author": null,
-          "description": "Odaily News FTXの債務者らは修正再編計画を提出しており、計画書によると、債務価値は22年11月11日のトークン価値に基づいて、指定された換算率で暗号資産の価値を現金に換算することで決定されるとしている。 (コインテレグラフ)",
-          "link": "https://www.odaily.news/ja/newsflash/346521",
-          "publishedOn": "2023-12-17T00:20:46.000Z",
-          "wordCount": 1753,
-          "title": "FTX債務者は再建計画を提出、11月22日にトークン価値に基づいて債務価値が計算される",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346520",
-          "author": null,
-          "description": "Odaily News Bithumbは、ネットワーク上の理由により、Klaytn (KLAY)の入出金が一時停止され、Galaxia (GXA)、Neofin (NPT)、 Mabrex (MBX)、Bora (BORA)、Superwork (GRND)、Six (SIX)、Somesing (SSX)、Amocoin (AMO)、Agit (AZIT)、OBSR、With (WIKEN)、ClayDice (DICE)、Clay Swap ( KSP）、テムコ（TEMCO）。",
-          "link": "https://www.odaily.news/ja/newsflash/346520",
-          "publishedOn": "2023-12-17T00:14:25.000Z",
-          "wordCount": 1787,
-          "title": "BithumbはKlaytn（KLAY）の入出金サービスを一時停止します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346519",
-          "author": null,
-          "description": "Odaily News Worldcoin は、X プラットフォーム上で、1 月 12 日までに鋳造できる Zora で World ID 2.0 記念コレクションを発売すると発表しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346519",
-          "publishedOn": "2023-12-17T00:05:07.000Z",
-          "wordCount": 1802,
-          "title": "Worldcoin、Zora で World ID 2.0 記念コレクションを発売",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -7763,6 +7843,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=360581",
+          "author": "TamuraSeiji",
+          "description": "「Phantom」がビットコインおよびオーディナルズをサポート開始 暗号資産（仮想通貨）ウォレット「ファントム（Phantom）」が、ビットコイン（BTC）およびビットコインオーディナルズ（Bitcoin Ordinal […]",
+          "link": "https://www.neweconomy.jp/posts/360581",
+          "publishedOn": "2023-12-21T12:14:59.000Z",
+          "wordCount": 788,
+          "title": "暗号資産ウォレット「Phantom」、ビットコインおよびオーディナルズをサポート開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/21211446/67cb95dda845559f5ab959eed78a19d1.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=360487",
           "author": "NewEconomy",
