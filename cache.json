@@ -1073,21 +1073,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498850",
-          "author": "AKIRA.H",
-          "description": "暗号資産（仮想通貨）ビットコインの現物ETF上場承認に関する分析。ジェームス・セイファート氏の見解とGrayscaleの法的勝利の影響、SECの新たなガイドラインの必要性について詳述。イーサリアムETFの将来にも注目。",
-          "link": "https://coinpost.jp/?p=498850",
-          "publishedOn": "2023-12-17T01:00:59.000Z",
-          "wordCount": 1905,
-          "title": "「2024年1月のビットコインETF承認を予測」Bloombergアナリストの見解の根拠とは？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/etf-vaneck.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/etf-vaneck.png"
         }
       ]
     },
@@ -1096,6 +1081,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347133",
+          "author": null,
+          "description": "Odaily News Cosmos エコロジカル チェーン Neutron は、Neutrality アップグレード中であることを発表しました。ネットワークは現在アップグレード中停止されています。投票権の 47% がすでにアップグレードを支持しています。Cosmos Hub の投票権の 67% がアップグレードされれば、チェーンは通常の動作を再開します。",
+          "link": "https://www.odaily.news/ja/newsflash/347133",
+          "publishedOn": "2023-12-21T13:27:43.000Z",
+          "wordCount": 1763,
+          "title": "コスモスの生態チェーン Neutron は中立性のアップグレード中です",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347132",
+          "author": null,
+          "description": "Two3 LabsとCowCowが共同で立ち上げたNFTプラットフォームであるOdaily News Moove Protocolは、Morningstar Ventures、ZBS Capital、Alpha Protocol Ventures、Lets Go Ventures、NXGen、Antiga Capital、そして有名なエンジェルが主導する資金調達のシードラウンドの完了を発表した。投資家の Vijay Pravin Maharajan (bitsCrunch) が投資に参加しています。",
+          "link": "https://www.odaily.news/ja/newsflash/347132",
+          "publishedOn": "2023-12-21T13:25:42.000Z",
+          "wordCount": 1762,
+          "title": "NFTプラットフォームMoove Protocolがモーニングスター・ベンチャーズ主導のシードラウンド資金調達を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347131",
+          "author": null,
+          "description": "Odaily News Web3 ファン プラットフォーム Medallion は、Dragonfly と Lightspeed Faction が共同で主導したシリーズ A ラウンドの 1,370 万米ドルの資金調達の完了を発表しました。このプラットフォームは、アーティストがアルバムのリリース、ツアー日程、グッズのリリースを宣伝するための専用デジタルハブを提供すると同時に、デジタル収集品を販売し、限定コンテンツを共有してファンとのつながりを深めることができます。このラウンドで得た資金は、未発表音楽のプレビューや先行販売チケットの提供などの新しい早期アクセスの機会を導入するために使用されるほか、ビデオのプレミア公開や新しいアップデートなどのその他のメンバー特典も提供されます。アーティストは、ポスターバンドルやトレーディングカードなどの新しい独占的および限定版のデジタルコレクション/NFTを販売することもできます。 ()",
+          "link": "https://www.odaily.news/ja/newsflash/347131",
+          "publishedOn": "2023-12-21T13:24:42.000Z",
+          "wordCount": 1805,
+          "title": "Web3 ファン プラットフォーム Medallion は、Dragonfly と Lightspeed Faction が主導し、シリーズ A で 1,370 万ドルの資金調達を完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191890",
+          "author": null,
+          "description": "スタンプは最近爆発的な爆発を引き起こし、ビットコインに新たな可能性をもたらしています。",
+          "link": "https://www.odaily.news/ja/post/5191890",
+          "publishedOn": "2023-12-21T13:00:00.000Z",
+          "wordCount": 1959,
+          "title": "序数を超えたイノベーション: スタンプと SRC-20 トークンの詳細な説明",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347129",
+          "author": null,
+          "description": "Odaily News BIISは、北京時間12月21日21時に最初のバッチツールテストを実施したと発表した。 BIIS は、BRC20、ORC20、ARC20、SRC20 のバッチ配布と収集、タップ トークン機能、BRC721、BRC420 のバッチ配布と収集を含む一連のテクノロジー スタックを統合する、BTC エコシステムの集約ツールおよびリリース プラットフォームであると理解されています。 、など NFT アセットなどの統合ツール; BTC エコシステムに迅速なアセット リリース チャネルを提供するために、完全に自動化された Launchpad プラットフォームが将来開始されます。",
+          "link": "https://www.odaily.news/ja/newsflash/347129",
+          "publishedOn": "2023-12-21T12:46:59.000Z",
+          "wordCount": 1761,
+          "title": "BTCエコシステム集約ツールBIISがバッチツールテストの第1フェーズを実施",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347128",
           "author": null,
@@ -7814,26 +7849,6 @@
           "publishedOn": "2023-12-17T01:29:00.000Z",
           "wordCount": 1826,
           "title": "毎日の朝のニュース",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346526",
-          "author": null,
-          "description": "Odaily News Delegateの創設者はXプラットフォームに、新しい悪意のあるコントラクト（NFTトレーダーではない）が出現し、14個のBAYCと36個のPudgy Penguinsを盗んだと投稿し、ユーザーは関連する権限をキャンセルするよう推奨されています。",
-          "link": "https://www.odaily.news/ja/newsflash/346526",
-          "publishedOn": "2023-12-17T01:22:40.000Z",
-          "wordCount": 1777,
-          "title": "デリゲート創設者: 新たな悪意のある契約が出現し、14 個の BAYC と 36 個のずんぐりしたペンギンが盗まれました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346525",
-          "author": null,
-          "description": "Odaily News OKX は、取引体験を簡素化し、強化するために設計されたシンプルな先物取引プラットフォームを開始します。主な変更点は次のとおりです。 無期限先物: これらは以前の無期限スワップ契約を置き換え、同じ取引機能とペアリングを引き続き提供します。有効期限先物: 既存のレバレッジ オプションと取引ペアを維持しながら、週次、月次、および四半期ごとの期間で利用できる以前の先物契約。 (グローブニュースワイヤー)",
-          "link": "https://www.odaily.news/ja/newsflash/346525",
-          "publishedOn": "2023-12-17T01:17:52.000Z",
-          "wordCount": 1762,
-          "title": "OKX がシンプルな先物取引プラットフォームを開始",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
