@@ -1043,21 +1043,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/bitcoin-flow-stock.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/bitcoin-flow-stock.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=498652",
-          "author": "A.Sakamoto",
-          "description": "調整基調で始まるも下げ幅を取り戻すなど、底堅い展開をみせた今週のビットコインチャートを図解。国内大手取引所bitbankのアナリストが今後の展望を読み解く。オンチェーンデータも掲載。",
-          "link": "https://coinpost.jp/?p=498652",
-          "publishedOn": "2023-12-17T02:30:00.000Z",
-          "wordCount": 1889,
-          "title": "調整基調のビットコイン、4.5万ドル上抜けにはさらなる材料が必要か｜bitbankアナリスト寄稿",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
         }
       ]
     },
@@ -1066,6 +1051,86 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347145",
+          "author": null,
+          "description": "Odaily News Coinbase は、東部時間 2024 年 1 月 9 日正午頃、ビットコイン SV (BSV) のサポートを終了すると正式に発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/347145",
+          "publishedOn": "2023-12-21T15:16:27.000Z",
+          "wordCount": 1722,
+          "title": "Coinbase、ビットコインSV（BSV）の上場廃止を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347144",
+          "author": null,
+          "description": "Odaily News NEAR Foundation は、NEAR Data Availability Layer (NEAR DA) が Arbitrum Orbit で利用可能になったと発表しました。Arbitrum Orbit は、開発者が Arbitrum の技術に基づいて独自の構成可能な軽量チェーンを起動できるようにする技術スタックです。 Arbitrum Orbit は、イーサリアムの L2/L3 スケーリング ソリューションを提供するプラットフォームで、開発者が独自の構成でプライベート チェーンを構築できるようにします。 NEAR DA を統合することで、軽量チェーンのビルダーは、データ可用性コストの削減による恩恵を受け、軽量チェーン全体のオーバーヘッドを大幅に削減できます。",
+          "link": "https://www.odaily.news/ja/newsflash/347144",
+          "publishedOn": "2023-12-21T15:08:15.000Z",
+          "wordCount": 1739,
+          "title": "Arbitrum Orbit は NEAR データ可用性レイヤーを統合します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347143",
+          "author": null,
+          "description": "Odaily News Prometheum Inc.は、米国証券取引委員会（SEC）規制に基づく最新の規制当局の承認を取得し、米国証券取引委員会の規制に完全に準拠した実行可能な暗号プラットフォームをテストしようとしていると発表しました。 FINRA（金融機関）が発行した拡張ライセンス文書によると、プロメシュームは、SEC規則に基づいて特別目的暗号ブローカーディーラーとしてライセンスを取得した最初で唯一の企業となり、デジタル資産証券取引の清算と決済についても承認されたという。業界規制当局)。プロメシュームは、2024年第1四半期に資産管理会社、ヘッジファンド、その他の金融機関にデジタル資産保管サービスの提供を開始する予定だ。同社は第2四半期までに、顧客（最初は機関顧客、次に個人投資家）に取引および清算サービスを提供する予定だ。カプラン氏はまた、これを従来の証券のトークン化のための潜在的なプラットフォームとしても見ています。 (コインデスク)",
+          "link": "https://www.odaily.news/ja/newsflash/347143",
+          "publishedOn": "2023-12-21T15:02:09.000Z",
+          "wordCount": 1701,
+          "title": "プロメシューム、米国規制当局からデジタル資産証券取引の清算と決済のライセンスを取得",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347142",
+          "author": null,
+          "description": "Odaily News Circle は、フランス金融市場庁 (AMF) からデジタル資産サービスプロバイダーとしての条件付き登録を取得したと正式に発表しました。フランスとEUに対する同社のコミットメントをさらに示すものとして、Circleはフランスでのライセンス事業の責任者に決済業界のベテラン、コラリー・ビルマン氏を選出したことも発表したが、同氏の任命は規制当局の承認が必要となる。",
+          "link": "https://www.odaily.news/ja/newsflash/347142",
+          "publishedOn": "2023-12-21T14:42:06.000Z",
+          "wordCount": 1725,
+          "title": "Circle はフランスの AMF デジタル アセット サービス プロバイダーとして条件付き登録を取得しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347141",
+          "author": null,
+          "description": "Odaily News AlienSwapは、ZKFairメインネットのサポートを発表し、ZKFairと協力してフェアファイトNFTの無料キャスティングを期間限定でオープンしました。 Fair Fightは、ZKFairがAlienSwapでローンチした合計50,000ユニットのNFTシリーズで、コミュニティ抵抗軍の精神を体現し、PUAと市場での高評価の現在の現象に抵抗することを目的としています。 ZKFair は 23 日に GAS Fee エアドロップ イベントを開始し、ユーザーは AlienSwap で ZKFair メインネットと対話してエアドロップ報酬を獲得できます。",
+          "link": "https://www.odaily.news/ja/newsflash/347141",
+          "publishedOn": "2023-12-21T14:40:40.000Z",
+          "wordCount": 1720,
+          "title": "AlienSwapはZKFairメインネットをサポートし、ZKFairと協力してFair Fight NFT無料キャスティングをオープンします",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347140",
+          "author": null,
+          "description": "オデイリーニュース 仮想通貨マイニング会社コア・サイエンティフィックは木曜日、破産からの回復は1月中旬から下旬になる見通しだと述べた。テキサス州オースティンに本拠を置く同社は、ビットコイン価格の急落、ビットコイン採掘のためのエネルギーコストの上昇、最大顧客の1つである米国の仮想通貨金融業者セルシウス・ネットワークへの未払い債務を背景に、昨年破産保護を申請した。コア・サイエンティフィックは、世界的な和解条件に関してすべての主要な関係者と原則合意に達したと述べた。アダム・サリバン最高経営責任者（ＣＥＯ）は声明で「この世界的和解は、１月に予定されている連邦破産法第１１条からの脱出に向けた重要な障害を解決する」と述べた。 Core Scientific は、暗号トークン市場を混乱させた昨年の注目を集めた暴落の犠牲者の 1 人でした。 (ロイター)",
+          "link": "https://www.odaily.news/ja/newsflash/347140",
+          "publishedOn": "2023-12-21T14:39:24.000Z",
+          "wordCount": 1711,
+          "title": "仮想通貨マイナーのコア・サイエンティフィック、1月に破産から脱却する見通し",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347139",
+          "author": null,
+          "description": "Odaily News Web3 通信プロトコル WalletConnect は、新しい分散型ロードマップをリリースしました。最終的には 2025 年にライセンスフリーのオープン ネットワークとして正式に開始される予定です。ロードマップは 4 つのフェーズに分かれています。 1. フェーズ 1 (現在): クローズド ネットワーク テストの開始準備 許可不要の WalletConnect ネットワークの立ち上げに備えて、インフラストラクチャを複数のリピーターに拡張する作業を行う; 2. フェーズ 2 (2024 年第 1 四半期): クローズド ネットワークを立ち上げ、マルチパーティの読み取りを可能にする許可付きレジストリ アプローチを実装するためのテストを完了する3. 第 3 フェーズ (2024 年第 3 四半期): オープン ネットワークを立ち上げてテストを完了し、選択したサードパーティ製リレーを使用してポイントツーポイント フレームワークを確立し、漸進的なネットワーク アクセスを実現し、テストに参加します。同時に開発者へのインセンティブ措置; 4. 第 4 フェーズ (2025 年末): ライセンス不要のオープン ネットワークとして正式に開始され、WalletConnect ネットワークは完全に分散化された状態に移行し、インフラストラクチャ プロバイダーのコミュニティによって集合的に運用されます。 。",
+          "link": "https://www.odaily.news/ja/newsflash/347139",
+          "publishedOn": "2023-12-21T14:36:47.000Z",
+          "wordCount": 1821,
+          "title": "WalletConnect が分散型ロードマップをリリース: 2025 年に許可不要のオープン ネットワークを開始する計画",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347138",
+          "author": null,
+          "description": "Odaily News 暗号決済会社MoonPayは、企業やマーケットプレイスにトークン化されたアート、収集品、メンバーシップ、その他のアイテムを購入するための簡素化された方法を提供する、強化されたNFTチェックアウトツールの開始を発表しました。 MoonPay Checkout は、同社のオリジナルの NFT チェックアウト ウィジェット機能を拡張し、コーディングなしで Web サイトに簡単に追加できるツールを提供し、顧客がデビット カードやクレジット カードを使用して数十のチェーンで NFT を購入できるようにします。 (復号化)",
+          "link": "https://www.odaily.news/ja/newsflash/347138",
+          "publishedOn": "2023-12-21T14:29:31.000Z",
+          "wordCount": 1727,
+          "title": "MoonPay、強化されたNFTチェックアウトツールを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347137",
           "author": null,
@@ -7814,46 +7879,6 @@
           "publishedOn": "2023-12-17T03:45:53.000Z",
           "wordCount": 1813,
           "title": "正しく座って熱いスタートを切るトラックの要素は何ですか?",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346531",
-          "author": null,
-          "description": "Odaily News Avascriptions のデータによると、Avalanche への avav の書き込みはすべて完了しており、保持されているアドレスの数は 52,367 に達しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346531",
-          "publishedOn": "2023-12-17T03:03:22.000Z",
-          "wordCount": 1759,
-          "title": "Avalanche の avav という文字は完全に刻まれており、50,000 を超えるアドレスが記録されています。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346530",
-          "author": null,
-          "description": "Ember Monitoring によると、Odaily は、2 つのアドレスが取引所から 2,302 万 STORJ (2,378 万米ドル相当) を転送したと報じました。同時に、STORJは2時間前に上昇を開始し、0.928 USDTから最大1.095 USDTまで18％上昇しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346530",
-          "publishedOn": "2023-12-17T02:47:59.000Z",
-          "wordCount": 1767,
-          "title": "2 つのアドレスが取引所から 2,302 万 STORJ、2,378 万米ドル相当を転送",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346529",
-          "author": null,
-          "description": "Odaily News Solana Inscription SOLS 創設者 @solkekw は、X プラットフォーム アカウントで、無料の Inscription のトークン化分割をサポートすると述べました。以前、@solkekw はアサンジらに敬意を表するために SOLS の後に FREE を発行しましたが、コミュニティの反対により、最終的に彼は主なエネルギーを SOLS の活動に注ぎ、これが彼が公開する「最後の碑文」になると約束しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346529",
-          "publishedOn": "2023-12-17T02:27:28.000Z",
-          "wordCount": 1820,
-          "title": "SOLS 創設者が FREE Inscription のスピンオフのサポートを発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346528",
-          "author": null,
-          "description": "Odaily News Ordinalsの反対者でPowの発明者であるAdam Back氏は、Xプラットフォームに次のように投稿した。「ビットコインのJPEGを止めることはできない。文句を言っても彼らの行動がさらに増えるだけだ。彼らを止めようとすると、彼らはさらに悪い方法でそれを行うだろう。これは。」 「高い手数料がレイヤー 2 の採用を促進し、イノベーションを促進します。だから、リラックスして発展してください。」 Odaily が 1 月に報じたように、NFT プロトコルがビットコインのメインネット上で開始されましたが、それがビットコインのエコシステムにとって良いことなのかどうかについて疑問がありました。分かれています。このプロトコルは「Ordinals」と呼ばれ、ソフトウェアエンジニアのCasey Rodarmor氏が作成したもので、BlockstreamのCEOでBitcoin Core開発者のAdam Back氏は、ビットコインがミーム文化に導入されることに満足しておらず、開発者が「愚かさ」を他の場所に持ち込むことを提案した。",
-          "link": "https://www.odaily.news/ja/newsflash/346528",
-          "publishedOn": "2023-12-17T02:26:53.000Z",
-          "wordCount": 1812,
-          "title": "オーディナルズの対戦相手、パウの発明者アダム・バック: ビットコインでの JPEG を止めることはできない",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
