@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=213012",
+          "author": "林 理南",
+          "description": "CoinMarketCapのデータによると、ソラナ（SOL）の時価総額は20カ月ぶりの高値である337億ドル（4兆8865億円、1ドル150円換算）に達し、エッ ...\nソラナがXRPを抜き時価総額5位に──ミームコインブームが後押し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/213012/",
+          "publishedOn": "2023-12-21T00:59:51.000Z",
+          "wordCount": 1098,
+          "title": "ソラナがXRPを抜き時価総額5位に──ミームコインブームが後押し",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/NQERHPSIMLJB2JCKODU3EWGUOXA.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=209493",
           "author": "Daniel Kuhn",
           "description": "米証券取引委員会（SEC）が暗号資産（仮想通貨）業界に対して続けている消耗戦は、税金の有効な使い方なのだろうか？ 業界は何年も前から、規制当局による仲介を求めて ...\n駆け引きしている──ニューヨーカーはSECと暗号資産の戦いをどう見ているか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -334,6 +344,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=499838",
+          "author": "K.Kobayashi",
+          "description": "韓国金融監督院の李卜鉉院長は、米SECのゲーリー・ゲンスラー委員長を来月に訪問する予定であることがわかった。仮想通貨規制について対話を行うと現地メディアが報じている。",
+          "link": "https://coinpost.jp/?p=499838",
+          "publishedOn": "2023-12-21T01:10:46.000Z",
+          "wordCount": 1929,
+          "title": "韓国金融監督院のトップ、米SECゲンスラー委員長を来月訪問へ　仮想通貨規制で対話＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/korea-coinstitution.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/korea-coinstitution.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=499834",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ソラナが時価総額ランキングでXRPを超えて五位に進出。本日のNYダウは上昇が一服し10日ぶりに反落した。",
+          "link": "https://coinpost.jp/?p=499834",
+          "publishedOn": "2023-12-20T23:15:55.000Z",
+          "wordCount": 1982,
+          "title": "米国株は高値警戒か、仮想通貨ソラナの時価総額がXRP超え5位に｜21日金融短観",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=499825",
           "author": "K.Kobayashi",
@@ -911,6 +951,96 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347011",
+          "author": null,
+          "description": "Odaily News: 人工知能企業 Anthropic は、Menlo Ventures 主導のベンチャーキャピタルラウンドで 7 億 5,000 万ドルを調達する交渉を行っている。同社の評価額は 150 億ドル (への投資を除く) で、この春の評価額の 3 倍以上である。この投資ラウンドはまだ完了していません。関係者によると、最終的な評価額は１８０億ドルに達する可能性があるという。この投資により、Anthropic にコンピューティング リソースも提供する大手クラウド プロバイダーからのコミットメントがさらに強化されます。このスタートアップは OpenAI の主な競合他社の 1 つであると報告されています。チャットボットメーカーのクロードとの契約は、スタートアップが収益を生み出すことができる限り、ベンチャー投資家が依然としてトップAI取引に強い意欲を持っていることを示している。 （情報）",
+          "link": "https://www.odaily.news/ja/newsflash/347011",
+          "publishedOn": "2023-12-21T01:28:35.000Z",
+          "wordCount": 1774,
+          "title": "この件に詳しい関係者：AIスタートアップのAnthropicは7億5000万米ドルの新たな資金調達ラウンドで交渉中で、Menlo Venturesが投資を主導している",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347010",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、オプション プロトコル Lyra V2 は、Optimism の OP スタック上にカスタム チェーンを構築しました。これにより、高速取引と執行が提供され、完全に自己ホストされ続け、すべての資金と財務ロジックがチェーン上に保持されます。新しいプロトコルをテストするために、Lyra は BTC ETF PVP 取引コンテストを開始しました。",
+          "link": "https://www.odaily.news/ja/newsflash/347010",
+          "publishedOn": "2023-12-21T01:18:05.000Z",
+          "wordCount": 1788,
+          "title": "オプション プロトコル Lyra V2 は OP スタック上にカスタム チェーンを構築しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347009",
+          "author": null,
+          "description": "Odaily News Solana 環境融資プロトコル Solend は、X プラットフォーム上で、新しいプロジェクト Suilend を立ち上げ、Sui への事業を拡大すると発表しました。",
+          "link": "https://www.odaily.news/ja/newsflash/347009",
+          "publishedOn": "2023-12-21T01:13:59.000Z",
+          "wordCount": 1779,
+          "title": "Solana エコロジー融資プロトコル Solend が新しいプロジェクト Suilend を立ち上げ、Sui へのビジネスを拡大",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347008",
+          "author": null,
+          "description": "Odaily News Etherscan は、過去数週間のメイン EVM チェーンでのトランザクション活動の 95% が碑文彫刻活動であったと X プラットフォームに投稿しました。 11 月中旬以降、その結果、 - 日々の取引数の大幅な増加、 - ガス料金の高騰、 - 取引処理時間の長期化。",
+          "link": "https://www.odaily.news/ja/newsflash/347008",
+          "publishedOn": "2023-12-21T01:09:43.000Z",
+          "wordCount": 1783,
+          "title": "Etherscan: ここ数週間の主要な EVM チェーンでのトランザクション活動の 95% が記録されています",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347007",
+          "author": null,
+          "description": "Odaily News Bloomberg ETFアナリストのJames Seyffart氏は、「私はほぼ完全に、物理的アプローチを採用している、または推進しているグレースケール、ブラックロック、その他の発行体の側にいます。これはETFを運用するためのよりシンプルで効率的な方法です。」と投稿した。",
+          "link": "https://www.odaily.news/ja/newsflash/347007",
+          "publishedOn": "2023-12-21T01:01:44.000Z",
+          "wordCount": 1750,
+          "title": "ブルームバーグ・アナリスト：グレイスケールはGBTC問題について話し合うために再びSECと会合し、物理的なサブスクリプションと償還を目指して今も努力している",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347006",
+          "author": null,
+          "description": "Odaily News 米国の控訴裁判所は水曜日、現在閉鎖されているダークネットのシルクロード市場に関連する69,370ビットコイン（約30億ドル相当）およびその他の暗号通貨を正式に差し押さえる承認を最終決定した。米国第9巡回区控訴裁判所の提出書類によると、この判決は8月に初めて言い渡されたが、今回から発効する。水曜日に提出された文書には、ダークウェブ シルクロードの創設者ロス・ウルブリヒト氏が被告として、原告として2人の原告と米国政府が名指しされている。当初の起訴状によると、いわゆる「個人X」がダークネットのシルクロードをハッキングし、その資金を掌握した後、米国政府が仮想通貨を掌握したという。 （ブロック）",
+          "link": "https://www.odaily.news/ja/newsflash/347006",
+          "publishedOn": "2023-12-21T00:49:22.000Z",
+          "wordCount": 1755,
+          "title": "米国控訴裁判所、最終的にダークネットシルクロードに関連した約30億ドルのビットコインを没収する判決を下す",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347005",
+          "author": null,
+          "description": "デイリーニュース 韓国金融監督院（FSS）のイ・ボクヒョン長官は来月、仮想通貨規制について話し合うため米国証券取引委員会のゲイリー・ゲンスラー委員長と会談する。 FSSは「両機関間の協力強化を目的に、具体的なスケジュールや議題を調整している」と述べた（CoinDesk）",
+          "link": "https://www.odaily.news/ja/newsflash/347005",
+          "publishedOn": "2023-12-21T00:45:05.000Z",
+          "wordCount": 1751,
+          "title": "韓国金融監督庁、ゲーリー・ゲンスラー氏と会談、仮想通貨規制について協議へ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347004",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、分散型 3D レンダリング ソリューション プロバイダーである Render Network は、BME (Burn Mint Equilibrium) リリース計画が Solana ネットワークで開始され、ネットワークのアップグレードされたトークン RENDER (旧 RNDR) も Solana で開始されたと発表しました。オンチェーン決済を使用できます。 Render Network は、BME モデルは需要と供給のバランスを実現するように設計されており、クリエイターがレンダリングと AI のジョブを予測できるようにするとともに、ノード オペレーターが効率的にコンピューティング サービスを提供できるようにすると述べています。 RENDER のリリースは本日から開始され、配布は 7 日ごとに行われ、その後は毎日の間隔に移行します。 RENDER SPL トークンの最初のバッチは 12 月 27 日に配布されます。リリースは、Solana 互換ウォレットにのみ支払うことができます。",
+          "link": "https://www.odaily.news/ja/newsflash/347004",
+          "publishedOn": "2023-12-21T00:40:20.000Z",
+          "wordCount": 1862,
+          "title": "Solana で Render Network BME リリース プランが開始され、RENDER はオンチェーン決済を行うことができます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347003",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、プログラマブル プライバシー ネットワーク Aleo は、オープンソース ガバナンス、開発者の参加、ゼロ知識暗号化アプリケーションの推進に重点を置き、ネットワークの指導とサポートを支援する Aleo Foundation の設立を発表しました。また、Aleo は、財団による 1 億 5,000 万トークンの初期割り当てを通じて革新的なプロジェクトをサポートします。この財団はワイオミング州の独立非営利501c4組織で、Aleoを開発する営利団体から独立して運営され、今後数か月以内に理事会を任命する予定だ。 10月23日の以前のニュースによると、Aleoは最近、テストネットワークの立ち上げの最終段階にあり、メインネットワークは2023年末までに立ち上げられる予定であると述べた。メインネットが稼働すると、Aleo Systems は、Ethereum (Ethereum Foundation がなくても存在し続ける) などの他の分散型システムと同様に、Aleo ネットワークのすべての制御を放棄し、創設会社からは独立して運営されます。",
+          "link": "https://www.odaily.news/ja/newsflash/347003",
+          "publishedOn": "2023-12-21T00:30:26.000Z",
+          "wordCount": 1826,
+          "title": "プログラマブル プライバシー ネットワーク Aleo が Aleo Foundation の設立を発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347002",
           "author": null,
@@ -6349,76 +6479,6 @@
           "publishedOn": "2023-12-16T13:41:32.000Z",
           "wordCount": 1681,
           "title": "複数のNFTトレーダー契約が攻撃され、ハッカーは400万ドル以上の利益を得た",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346507",
-          "author": null,
-          "description": "Odaily News レッドブルF1チームは、zkLoginを使用して、2023年のチャンピオンシップでの勝利を祝うために、Suiネットワーク上で3つの無料限定版NFTを開始しました。これらの収集品は 4 日間のみ受け取り可能です。住所ごとに請求できる収集品は 1 つだけであり、これらの収集品は現在、どのプラットフォームでも譲渡または販売することはできません。",
-          "link": "https://www.odaily.news/ja/newsflash/346507",
-          "publishedOn": "2023-12-16T13:22:26.000Z",
-          "wordCount": 1682,
-          "title": "レッドブルF1チームがSui Networkで限定版NFTを発売",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346506",
-          "author": null,
-          "description": "Odaily の公式ニュースによると、UniSat の brc20-swap 機能のアクセスしきい値が 400 ポイントから 200 ポイントに引き下げられました。現在、ghsy、.com、mice、roup、turt、fcdp の 6 種類のアセットがサポートされています。",
-          "link": "https://www.odaily.news/ja/newsflash/346506",
-          "publishedOn": "2023-12-16T12:21:13.000Z",
-          "wordCount": 1736,
-          "title": "UniSatのbrc20-swap機能のアクセス閾値が200ポイントに引き下げられる",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346505",
-          "author": null,
-          "description": "デイリーニュース 公式ニュースによると、フルチェーンエコロジカル集合取引プロトコル20EXCHANGEは、当初北京時間12月16日13時に終了予定だったエアドロップイベントを48時間延期し、12月16日21時に終了すると正式に発表した。 12月18日。 20EXは、ネットワークの混雑により、一部のユーザーがエアドロップトークンを期限内に受け取ることができなかったと公式に発表し、すべてのユーザーの権利と利益を確保するために、エアドロップの収集を延期することが決定されました。関係者は、カウントダウンの最初のラウンド後にエアドロップトークンが均一に配布されると述べた。",
-          "link": "https://www.odaily.news/ja/newsflash/346505",
-          "publishedOn": "2023-12-16T12:17:50.000Z",
-          "wordCount": 1728,
-          "title": "20EXCHANGE、エアドロップイベントを48時間延期",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346504",
-          "author": null,
-          "description": "Odaily チェーンの情報によると、BAYC 37 件と MAYC 13 件が特定のアドレスに転送されました。これらの送金は異常な送金である可能性があり、NFT Trader が攻撃されている疑いがあります。ユーザーが NFT Trader 契約の承認を取り消すことをお勧めします。契約は次のとおりです: 0x13d8faF4A690f5AE52E2D2C52938d1167057B9af。",
-          "link": "https://www.odaily.news/ja/newsflash/346504",
-          "publishedOn": "2023-12-16T12:16:25.000Z",
-          "wordCount": 1745,
-          "title": "NFTトレーダーが攻撃の疑い、BAYC 37社、MAYC 13社で異常送金が発生",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346503",
-          "author": null,
-          "description": "Odaily News DeFiアナリストのDefiSquared氏は、WLDマーケットメーカーとプロジェクト当事者が新たな契約を締結し、マーケットメーカーにはもはや買い戻す権利がない、とXプラットフォームに投稿した。デフィスクエアドは、これはマーケットメーカーがWLD価格を抑制しなくなることを意味するとし、一方でマーケットメーカーローンの規模は7,500万から1,500万に減少したとし、以前のローンや未購入部品の流通が止まり、市場価格が下落する可能性があると述べた。 1億9000万ドルに下がります。以前のニュースによると、Ouyi OKX市場は、WLDが24時間で13.66％上昇し、3USDTに回復したことを示しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346503",
-          "publishedOn": "2023-12-16T11:56:05.000Z",
-          "wordCount": 1745,
-          "title": "WLD マーケットメーカー ローンの規模は 1,000 万件に縮小され、以前のローン部分は流通を停止しました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346502",
-          "author": null,
-          "description": "Odaily News Yield Guild Games は、Ubisoft の ChampionsVerse が開発したゲーム Champions Tactics との協力を発表しました。 Champions Tactics は、来年リリース予定の Web3 ベースの対戦型 PvP ターンベース ロールプレイング ゲームです。 Yield Guild Games は、このゲームをサポートできることを嬉しく思っていると述べました。さらに、12月18日に開催される無料コイン鋳造イベントの詳細も明らかになった。 Yield Guild Games は、このパートナーシップの確立を楽しみにしており、長期的かつ実りある協力関係を期待しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346502",
-          "publishedOn": "2023-12-16T11:49:12.000Z",
-          "wordCount": 1785,
-          "title": "Yield Guild Games が Ubisoft の Champions Tactics との提携を発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346501",
-          "author": null,
-          "description": "毎日のニュースによると、MBOXは0.3477 USDTに達し、現在は0.3312 USDTで取引されており、24時間で10.31％上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346501",
-          "publishedOn": "2023-12-16T11:30:24.000Z",
-          "wordCount": 1764,
-          "title": "MBOX は 0.34 USDT に達し、24 時間で 10.31% 上昇しました",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
