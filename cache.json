@@ -475,6 +475,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=500426",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所大手コインベースは23日、仮想通貨銘柄の上場廃止予定を発表した。今週2度目の上場廃止発表となる。",
+          "link": "https://coinpost.jp/?p=500426",
+          "publishedOn": "2023-12-22T20:50:01.000Z",
+          "wordCount": 1945,
+          "title": "コインベース、今週2度目の仮想通貨銘柄上場廃止発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/coinbase-thumbnail0.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=500282",
           "author": "AKIRA.H",
           "description": "SEC委員長ゲーリー・ゲンスラーの暗号資産関連企業に対する警告が業界から大きな反響を呼んでいる。特にリップルのCEOから直接批判の声が上がるなど、仮想通貨規制の現状と将来について新たな議論が生まれている。",
@@ -8559,106 +8574,6 @@
           "publishedOn": "2023-12-18T09:20:03.000Z",
           "wordCount": 1666,
           "title": "BTCは一時41,000 USDTを下回り、24時間で2.1%下落した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191772",
-          "author": null,
-          "description": "100% エアドロップされた、コミュニティ主導の ZK-L2。",
-          "link": "https://www.odaily.news/ja/post/5191772",
-          "publishedOn": "2023-12-18T09:15:47.000Z",
-          "wordCount": 2658,
-          "title": "ZKFair メインネットは 12 月 20 日に開始されます。参加方法については、この記事をご覧ください。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346672",
-          "author": null,
-          "description": "オデイリー・ニュース ゴールドマン・サックスが今週発表した市場レポートでは、市場の制度化がデリバティブ市場で最も顕著であり、シカゴ・マーカンタイル取引所でのビットコイン（BTC）とイーサリアム（ETH）の先物・オプション取引が増加し続けていると指摘した。 . クォータリーは公的金利が最も高いビットコイン先物取引所となっています。ゴールドマン・サックスは、ビットコインとイーサリアムのオープンレートは今年の最初の9か月間を通じて横ばいであったと指摘したが、10月の値動きは潜在的なスポットBTC ETFやデリバティブを通じて承認する機会を利用した機関投資家からの関心を引き起こしたと指摘した。エクスポージャーをヘッジするために配置されています。ビットコインの建玉は第4四半期に40億ドル以上に急増した。建玉とは、投資家が保有する未払いのデリバティブ契約の合計数を指し、アクティブなポジションを表します。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/346672",
-          "publishedOn": "2023-12-18T09:15:18.000Z",
-          "wordCount": 1664,
-          "title": "ゴールドマン・サックス：仮想通貨市場の制度化レベルは2023年に大幅に増加する",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346671",
-          "author": null,
-          "description": "Odaily News 韓国の仮想資産取引所CoreDaxは、米国セントルイスのYusco Venturesと1000万ドルの投資書簡を締結したと発表した。この投資意向表明書に署名する目的は、暗号資産取引に加え、NFT、トークン証券（ST）、OTCなどの様々なサービスを通じて利益を創出することです。コアダックスの代表者は「来年は韓国ウォン市場やNFT市場への参入、OTCサービス、STプラットフォームの構築など仮想資産プラットフォームのビジネスエコシステムを強化する。グローバル市場への参入に注力する」と述べた。",
-          "link": "https://www.odaily.news/ja/newsflash/346671",
-          "publishedOn": "2023-12-18T09:11:01.000Z",
-          "wordCount": 1666,
-          "title": "韓国の仮想資産取引所Core Daxが1,000万ドルの投資意向書を受け取る",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346670",
-          "author": null,
-          "description": "Odaily News ビットコインの第二層ネットワークであるBSquared Networkは、パートナー向けにアルファテストネットワークMYTICAを立ち上げ、エコロジー開発者を公募すると発表、パートナーと開発者はB² Networkテストネットワーク上にDAppsを展開できる。 B² Network は、ZK-Rollup に基づいて開発されたビットコインの第 2 層ネットワークであり、EVM と互換性があり、EVM エコロジカル開発者がシームレスに DApps を展開できるようにします。現在、ユーザーは Zealy のタスクを完了してアドレスを送信することで、B² Network のクリスマス イベントに参加できます。",
-          "link": "https://www.odaily.news/ja/newsflash/346670",
-          "publishedOn": "2023-12-18T09:06:09.000Z",
-          "wordCount": 1682,
-          "title": "ビットコインの第2層ネットワークBSquared Networkが、パートナーに公開されたアルファテストネットワークの立ち上げを発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191771",
-          "author": null,
-          "description": "他に過小評価されている、または過大評価されている碑文プロジェクトは何ですか?",
-          "link": "https://www.odaily.news/ja/post/5191771",
-          "publishedOn": "2023-12-18T09:04:54.000Z",
-          "wordCount": 1648,
-          "title": "各パブリック チェーンで人気のある碑文の現在のステータスを見てみましょう",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346669",
-          "author": null,
-          "description": "Odaily News のパブリック チェーン Artela は、X プラットフォーム上で、テストネットのパブリック ベータ版を 24 年 1 月 8 日に開始すると発表しました。以前のニュースによると、ブロックチェーンインフラストラクチャArtelaは、Shima Capitalが主導し、AT Capital、Big Brain Holdings、SevenX Ventures、Dispersion Capital、Amino Capitalなどの企業が参加した600万米ドルのシードラウンドの完了を発表した。",
-          "link": "https://www.odaily.news/ja/newsflash/346669",
-          "publishedOn": "2023-12-18T09:03:13.000Z",
-          "wordCount": 1679,
-          "title": "パブリックチェーンArtelaは、2024年1月8日にテストネットのパブリックベータテストを開始すると発表した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346668",
-          "author": null,
-          "description": "Odaily News Animoca Brandsの最近の開示報告書によると、2023年11月30日現在、Animoca Brandは1億7,200万米ドルの現金および安定通貨残高、約3億3,000万米ドルのサードパーティトークン、およびその他のオフバランスシートトークン資産を保有している. 16億ドル。報告書によると、Animoca Brandsはゲーム分野の約110社を含む400社以上に投資している。",
-          "link": "https://www.odaily.news/ja/newsflash/346668",
-          "publishedOn": "2023-12-18T08:42:48.000Z",
-          "wordCount": 1682,
-          "title": "Animoca Brands: 11月末時点で、同社は1億7,200万米ドルの現金とステーブルコインを保有し、400社以上に投資している。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346667",
-          "author": null,
-          "description": "Odaily News エニグマファンドの創設者は、FTX が昨日 2 億 4,000 万ドルの暗号資産を売却したと X プラットフォームに投稿しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346667",
-          "publishedOn": "2023-12-18T08:39:05.000Z",
-          "wordCount": 1678,
-          "title": "エニグマファンド創設者：FTXは昨日2億4000万ドルの暗号資産を売却した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346664",
-          "author": null,
-          "description": "Odaily News オンチェーンアナリスト @ai_9684xtpa によるモニタリングによると、WLD マーケットメーカーは過去 1 週間で合計 2,320 万 WLD と 6,557 万 USDC を返し、現在 254 万 WLD を保有しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346664",
-          "publishedOn": "2023-12-18T08:24:46.000Z",
-          "wordCount": 1814,
-          "title": "WLD マーケットメーカーは過去 1 週間で合計 2,320 万 WLD と 6,557 万 USDC を返品しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346663",
-          "author": null,
-          "description": "Odaily News Lumiterra は、X プラットフォーム上で、今週金曜日の 10:30 (UTC+8) にメインネットのベータ版の最初のテストを実施すると発表しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346663",
-          "publishedOn": "2023-12-18T08:22:57.000Z",
-          "wordCount": 1770,
-          "title": "Lumiterra が今週金曜日に最初のメインネット ベータ テストを発表",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
