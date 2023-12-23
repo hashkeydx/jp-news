@@ -505,6 +505,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=500490",
+          "author": "AKIRA.H",
+          "description": "Amboss Technologiesがビットコインのライトニングネットワーク用の新機能「Ghost Addresses」を発表。これにより、ビットコイン決済がよりプライベートで直接的に行えるようになり、ノード運営ビジネスに新たな可能性を提供する。",
+          "link": "https://coinpost.jp/?p=500490",
+          "publishedOn": "2023-12-23T05:00:30.000Z",
+          "wordCount": 1930,
+          "title": "ビットコイン・ライトニング技術の集大成、プライバシーと分散性を高めるAmbossの「Ghost Addresses」とは？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/07/lightning0418.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/07/lightning0418.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=500489",
           "author": "A.Yamada",
           "description": "米SECは、DEBT Boxに対する訴訟で不正確な発言があったと認め謝罪した。一方でDEBT Boxに不正行為があったとする主張は維持している。",
@@ -1456,6 +1471,76 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347379",
+          "author": null,
+          "description": "Odaily News Qtum は、Qtum 開発チームが GitHub で最新情報を共有したことを X プラットフォームに投稿しました。これらのアップデートには主に、BitcoinCore と EVM のアップデートを Qtum Core にマージすることが含まれます。マージ後、コミュニティはこれらの更新を受け入れるか拒否するかを選択できます。",
+          "link": "https://www.odaily.news/ja/newsflash/347379",
+          "publishedOn": "2023-12-23T05:20:44.000Z",
+          "wordCount": 1796,
+          "title": "Qtum チームがアップデートをリリースし、BitcoinCore と EVM アップデートを Qtum Core にマージする予定",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347378",
+          "author": null,
+          "description": "オデイリー紙は、ホエール・アラートの監視によれば、北京時間12時44分35秒に、11,640ETH（26,489,720米ドル）を含む採掘前のアドレスが8.4年間休止状態だった後にアクティブ化されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/347378",
+          "publishedOn": "2023-12-23T05:12:43.000Z",
+          "wordCount": 1736,
+          "title": "11,640 ETHを含むプレマインアドレスが、8.4年間休止状態だった後にアクティブ化されました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347377",
+          "author": null,
+          "description": "Odaily News Astar Networkは、この件について声明を発表した。さらに、Astar ChainIDE は Wasm 用の包括的なプラットフォームを提供し、コーディングから展開までの開発サイクル全体を簡素化します。",
+          "link": "https://www.odaily.news/ja/newsflash/347377",
+          "publishedOn": "2023-12-23T05:06:56.000Z",
+          "wordCount": 1759,
+          "title": "Astar Network: Wasm テクノロジーの促進に尽力し、Astar ChainIDE は開発サイクルを簡素化するプラットフォームを提供します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347376",
+          "author": null,
+          "description": "オデイリー紙は、ホエール・アラートの監視によれば、北京時間12時59分35秒に10,020,516 FRAX（9,991,456ドル）がCurveからFraxに送金されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/347376",
+          "publishedOn": "2023-12-23T05:02:42.000Z",
+          "wordCount": 1757,
+          "title": "10,020,516 FRAX が Curve から Frax に転送されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347375",
+          "author": null,
+          "description": "Odaily News Polygon の共同創設者 Sandeep Nailwal 氏は X プラットフォームに、Polygon エコシステム内で QuickSwap によって完了した DeFi 構築の数は膨大であると投稿しました。 QuickSwap Citadel の展開は、Polygon CDK チェーンに魅力と多大な収益をもたらすでしょう。 DragonFi エコシステムには、V2 および V3 DEX、Perps V1 (V2 準備中)、広告収入、ゲーム センター、債券、Dragons Lair、シロップ プール、複数の ALM、何百もの統合、マーケット メーカー向けのソルバーと流動性センター、および今後のリリースが含まれています。クロブ。",
+          "link": "https://www.odaily.news/ja/newsflash/347375",
+          "publishedOn": "2023-12-23T04:42:07.000Z",
+          "wordCount": 1787,
+          "title": "Polygon Lianchuang: QuickSwap Citadel の導入により、Polygon CDK チェーンに多大な収益がもたらされるでしょう",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347374",
+          "author": null,
+          "description": "オデイリー紙は、ホエール・アラートの監視によれば、北京時間12時31分00秒に1億USDTがBitfinexからTether Treasuryに送金されたと報じた。",
+          "link": "https://www.odaily.news/ja/newsflash/347374",
+          "publishedOn": "2023-12-23T04:34:26.000Z",
+          "wordCount": 1737,
+          "title": "1億USDTがBitfinexからTether Treasuryに送金されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347373",
+          "author": null,
+          "description": "Odaily News アルゼンチンのハビエル・ミレイ大統領は、今後の民営化と近代化の取り組みに備えるため、一連の法律を廃止する緊急大統領令を出した。大統領令には合計 366 条があり、家賃、労働規制、土地規制などアルゼンチンの生活の主要な側面をカバーしています。また、すべての国営企業を有限会社に転換する。 「必要性と緊急性に関する政令 - アルゼンチン経済再建の基礎」と題されたこの大統領令は、現在アルゼンチンが直面している経済危機を行動の基礎とし、状況を克服する唯一の方法は同国の経済を改革することであると主張している。 (Bitcoin.com)",
+          "link": "https://www.odaily.news/ja/newsflash/347373",
+          "publishedOn": "2023-12-23T04:27:44.000Z",
+          "wordCount": 1749,
+          "title": "アルゼンチン大統領、大統領令で大規模な規制緩和措置を発令",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347372",
           "author": null,
@@ -8684,16 +8769,6 @@
           "publishedOn": "2023-12-18T22:13:59.000Z",
           "wordCount": 1671,
           "title": "SEC、ビットコインスポットETFに関するブラックロックとの協議を再開",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346713",
-          "author": null,
-          "description": "デイリーニュース 米国証券取引委員会（SEC）は、グレイスケールイーサリアム先物ETFに関する決定を延期した。 （ブロック）",
-          "link": "https://www.odaily.news/ja/newsflash/346713",
-          "publishedOn": "2023-12-18T16:49:26.000Z",
-          "wordCount": 1721,
-          "title": "SEC、グレースケールイーサリアム先物ETFの決定を遅らせる",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
