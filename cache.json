@@ -1168,21 +1168,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=499519",
-          "author": "K.Kobayashi",
-          "description": "Ondo Financeは、同社のRWAトークンが仮想通貨ソラナのブロックチェーンで利用できるようになったことを発表。ソラナのメリットや対象のプロダクトについて説明した。",
-          "link": "https://coinpost.jp/?p=499519",
-          "publishedOn": "2023-12-19T22:45:04.000Z",
-          "wordCount": 1976,
-          "title": "Ondo Finance、RWAトークンをソラナ（SOL）へ拡大",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Ondo-Finance-Solana.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/Ondo-Finance-Solana.png"
         }
       ]
     },
@@ -1191,6 +1176,36 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347473",
+          "author": null,
+          "description": "Odaily は、オンチェーンアナリストの Ember Monitoring によると、6 時間前に RNDR の最大の個人/機関保有アドレスである Kenetic Capital が 500,000 RNDR (約 236 万米ドル) をバイナンスに送金したと報じました。",
+          "link": "https://www.odaily.news/ja/newsflash/347473",
+          "publishedOn": "2023-12-24T11:05:10.000Z",
+          "wordCount": 1748,
+          "title": "Kenetic Capital は 6 時間前に 500,000 RNDR、約 236 万米ドルを Binance に送金しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191929",
+          "author": null,
+          "description": "「AP 契約の確認」と「作成された現金」を足したものが「承認済み」になる場合があります。",
+          "link": "https://www.odaily.news/ja/post/5191929",
+          "publishedOn": "2023-12-24T10:39:17.000Z",
+          "wordCount": 1773,
+          "title": "ETFが最終決定：承認前に最後の2つの条件と引き換えにSECと数十回の会合を実施",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191928",
+          "author": null,
+          "description": "この記事では、DeFi におけるプライバシー保護を実現するための ZK テクノロジーのさまざまな応用シナリオ、特にフロントランニング取引、流動性操作、融資に対抗する際の可能性について検討します。",
+          "link": "https://www.odaily.news/ja/post/5191928",
+          "publishedOn": "2023-12-24T10:30:00.000Z",
+          "wordCount": 2777,
+          "title": "ゼロ知識証明テクノロジーの徹底した解釈: DeFi の新星に光を当てる",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347472",
           "author": null,
@@ -7479,46 +7494,6 @@
           "publishedOn": "2023-12-20T00:35:58.000Z",
           "wordCount": 1660,
           "title": "FRBのボスティック氏「今は利下げの緊急性はなく、来年下半期に2回の利下げが行われるだろう」",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346888",
-          "author": null,
-          "description": "Odaily News 米国証券取引委員会の市場規制局と取引市場局は、現地時間12月19日にブラックロック幹部と再び会談し、スポットビットコインETFの詳細について話し合った。ブルームバーグのアナリスト、ジェームス・セイファート氏の統計によると、これにより現在の申請者とSEC職員との間で行われた会合の総数は24回となった。",
-          "link": "https://www.odaily.news/ja/newsflash/346888",
-          "publishedOn": "2023-12-19T22:40:22.000Z",
-          "wordCount": 1661,
-          "title": "ブラックロックは再びSECと会合し、ETF申請者とSECとの現在の会合の総数は24回となった",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346887",
-          "author": null,
-          "description": "Odaily News マイクロストラテジー（MSTR）のマイケル・セイラー執行会長は火曜日、ブルームバーグTVとのインタビューで、市場は今後登場するビットコイン（BTC）スポットETFの重要性を過小評価すべきではないと述べた。 「これはおそらく、過去30年間のウォール街における最も重要な発展だが、理由がないわけではない」とセイラー氏は述べ、最後に匹敵する新商品はSP 500 ETFであり、投資家はワンクリックでこれを広く知ることができると主張した。見たインデックス。セイラー氏によると、これまで主流の投資家（個人も機関投資家も）はビットコインに投資するための「高帯域幅」に準拠したチャネルを持っていなかったが、スポットETFの出現ですべてが変わるだろうという。セイラー氏は、この新しいツールはビットコインの需要ショックを引き起こし、その後、1日当たりのビットコイン生産数が現在の900枚から450枚に減少する4月の半減期イベントによる供給ショックを引き起こすだろうと主張した。セイラー氏は、価格がどこまで上昇するかについて推測することは避けたが、これらすべてがビットコインの来年の大幅な強気相場につながると述べた。",
-          "link": "https://www.odaily.news/ja/newsflash/346887",
-          "publishedOn": "2023-12-19T22:39:30.000Z",
-          "wordCount": 1664,
-          "title": "マイケル・セイラー氏：ビットコインスポットETFは過去30年間でウォール街で最も重要な発展だ",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346886",
-          "author": null,
-          "description": "Odaily News 分散型ネットワーク Formless は、a16z crypto、Contango Digital Assets、Polygon Sandeep Nailwal、Beacon Accelerator、WAGMIventures、MH Ventures、Knights Capital などの参加を得て、220 万米ドルを超える資金調達のプレシードラウンドの完了を発表しました。 Formless は、個人が複数人のデジタル経済でつながり、創造し、協力し、共有できるようにする分散型ネットワークおよびデジタル空間であると報告されています。 FormlessのXプラットフォームでの発表によると、資金はマルチプレイヤーデジタルエコノミーにおける次世代の製品とエクスペリエンスを強化するSHAREプロトコルの開発に充てられるという。",
-          "link": "https://www.odaily.news/ja/newsflash/346886",
-          "publishedOn": "2023-12-19T22:37:26.000Z",
-          "wordCount": 1700,
-          "title": "分散型ネットワーク Formless は、a16z などの参加により、Pre-Seed ラウンドで 220 万米ドルを超える資金調達を完了",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346885",
-          "author": null,
-          "description": "Odaily News INJSはソーシャルメディアで、すべての住所と払い戻し金額が収集され、公的文書に記載され、詳細と金額が正しいかどうかを確認するようユーザーに呼び掛け、プラットフォームは今後24時間以内にすべての払い戻しを完了すると述べた。",
-          "link": "https://www.odaily.news/ja/newsflash/346885",
-          "publishedOn": "2023-12-19T22:27:24.000Z",
-          "wordCount": 1673,
-          "title": "INJS: すべての住所と返金金額が収集され、返金は 24 時間以内に完了します。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
