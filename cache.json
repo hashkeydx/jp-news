@@ -435,6 +435,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=500510",
+          "author": "AKIRA.H",
+          "description": "Bitfinexレポートに基づく分析で、暗号資産（仮想通貨）ビットコイン市場がレンジ相場に移行する可能性が示唆されている。MVRV Z-Score、恐怖と貪欲指数の分析結果を掘り下げ、2024年の暗号資産市場のトレンドと予測を解説。",
+          "link": "https://coinpost.jp/?p=500510",
+          "publishedOn": "2023-12-24T07:00:36.000Z",
+          "wordCount": 1925,
+          "title": "ビットコイン市場予測、2024年に向けたレンジ相場の可能性─Bitfinex分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427f-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427f-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=499860",
           "author": "A.Sakamoto",
           "description": "ビットコインETF（上場投資信託）期待が高まる中、先物市場のポジションが買い持ちに相当傾いていることが示唆されている。国内大手取引所bitbankのアナリストが読み解く今後の展望は？",
@@ -1236,6 +1251,76 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347454",
+          "author": null,
+          "description": "Odaily News MEXC CEO が X プラットフォーム アカウントを無効化したというオンラインの噂に対して、MEXC は公式に次のように明らかにしました。いわゆる MEXC CEO 公式アカウントはこれまで一度も存在しませんでした。 WhaleChart (@MEXC_CEO) が言及したアカウントは偽アカウントであり、X によって禁止されています。",
+          "link": "https://www.odaily.news/ja/newsflash/347454",
+          "publishedOn": "2023-12-24T07:17:38.000Z",
+          "wordCount": 1768,
+          "title": "MEXCは、「CEOはXの公式アカウントを持っておらず、ブロックされたアカウントは偽のアカウントである」と返答した。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347453",
+          "author": null,
+          "description": "Odaily は、Paidun の監視によると、ゼロ転送フィッシング攻撃により 0xf8c で始まるアドレスから 710,000 USDC が盗まれたと報じました。フィッシングアドレス: 0x949D0DbE58c77EEF31eDAB5E476f41E4F5ef861B。",
+          "link": "https://www.odaily.news/ja/newsflash/347453",
+          "publishedOn": "2023-12-24T06:59:01.000Z",
+          "wordCount": 1761,
+          "title": "0xf8c で始まるアドレスでは、ゼロ転送フィッシング攻撃により 710,000 USDC が盗まれました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347452",
+          "author": null,
+          "description": "Odaily News Duneのデータによると、ビットコインNFTプロトコルのOrdinals碑文の鋳造による累積手数料収入が4,864.665BTC（約2億1,364万9,863米ドル）に達したことが示されています。現在の鋳造碑文の総数は 50,948,516 個に達します。",
+          "link": "https://www.odaily.news/ja/newsflash/347452",
+          "publishedOn": "2023-12-24T06:55:09.000Z",
+          "wordCount": 1769,
+          "title": "Ordinals の累積手数料収入は 4,800 BTC、つまり約 2 億 1,300 万米ドルを超えています。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347451",
+          "author": null,
+          "description": "Odaily News SharkTeam オンチェーン分析プラットフォーム ChainAegis のセキュリティ監視によると、BNB Chain 上の WIZ トークンに Rug Pull の疑いがあり、トークンの価格は 100% 下落しました。",
+          "link": "https://www.odaily.news/ja/newsflash/347451",
+          "publishedOn": "2023-12-24T06:46:30.000Z",
+          "wordCount": 1771,
+          "title": "ChainAegis: BNB チェーン上の WIZ トークンでラグ プルが発生した疑いがある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347450",
+          "author": null,
+          "description": "デイリーニュース バイナンスにおけるSOL Uスタンダード契約の24時間取引高は53億5,600万米ドルに達し、BTC Uスタンダード契約の24時間取引高（48億6,700万米ドル）を上回り、第1位となった。",
+          "link": "https://www.odaily.news/ja/newsflash/347450",
+          "publishedOn": "2023-12-24T06:42:44.000Z",
+          "wordCount": 1743,
+          "title": "BinanceにおけるSOL Uベースの契約の24時間取引高は53億5,600万米ドルに達し、BTC契約を上回り第1位となった",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347449",
+          "author": null,
+          "description": "Odaily は、Lookonchain の監視によると、クジラが 30 分前に 1,900 万 STORJ (約 1,615 万ドル) をバイナンスに入金したと報じました。 11月19日、クジラはバイナンスから1900万STORJ（約1411万ドル）を引き出し、当時のSTORJ価格は約0.74ドルで、現在の利益は200万ドルを超えた。",
+          "link": "https://www.odaily.news/ja/newsflash/347449",
+          "publishedOn": "2023-12-24T06:33:16.000Z",
+          "wordCount": 1773,
+          "title": "クジラはバイナンスに 1,900 万 STORJ を入金しました。これは約 1,615 万米ドルに相当します。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347448",
+          "author": null,
+          "description": "Odaily News IntoTheBlockのデータによると、長期保有者が保有するETHの割合は12月に70％を超え、新たな最高値に達した。",
+          "link": "https://www.odaily.news/ja/newsflash/347448",
+          "publishedOn": "2023-12-24T06:29:53.000Z",
+          "wordCount": 1742,
+          "title": "ETHの長期保有者が通貨保有量の70％以上を占める",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347447",
           "author": null,
