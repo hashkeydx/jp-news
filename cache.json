@@ -435,6 +435,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=500463",
+          "author": "CoinPost編集部",
+          "description": "今週は、ビットコインのクジラの買い集めライン、仮想通貨分析企業Messariの2024年レポート、ビットバンクの調査に関する記事が最も関心を集めた。",
+          "link": "https://coinpost.jp/?p=500463",
+          "publishedOn": "2023-12-24T02:00:44.000Z",
+          "wordCount": 1972,
+          "title": "週刊仮想通貨ニュース（+アジア特集）｜ビットコインのクジラの買い集めラインやMessariの2024年レポートに高い関心",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=500490",
           "author": "AKIRA.H",
           "description": "Amboss Technologiesがビットコインのライトニングネットワーク用の新機能「Ghost Addresses」を発表。これにより、ビットコイン決済がよりプライベートで直接的に行えるようになり、ノード運営ビジネスに新たな可能性を提供する。",
@@ -1206,6 +1221,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347431",
+          "author": null,
+          "description": "Odaily News NFT プラットフォーム BakerySwap に掲載されましたBitLand は、人工知能とビットコイン エコシステムによって駆動される 3D メタバースであると報告されています。 BLLBの総供給量は100億で、分配比率はBAKE IDO 50％、チーム：5％（6ヶ月ロック、リニアアンロック12ヶ月）、パートナー：15％、エアドロップ：10％、流動性となります。 : 10 %、ステーキング: 10 %。 Bakery LaunchpadでのBLLB発行価格：1 ETH = 4,160万BLLB、参加上限：BAKE（BSC）または1CAT（イーサリアム）の10 ETH相当。",
+          "link": "https://www.odaily.news/ja/newsflash/347431",
+          "publishedOn": "2023-12-24T02:15:19.000Z",
+          "wordCount": 1817,
+          "title": "BakerySwap の新しいランチパッドが BitLand (BLLB) に上場されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347430",
+          "author": null,
+          "description": "Odaily News キャシー・ウッド氏のアーク・インベストは金曜日（12月22日）、コインベース株COINの保有株93,745株（約1,645万米ドル相当）を削減した。",
+          "link": "https://www.odaily.news/ja/newsflash/347430",
+          "publishedOn": "2023-12-24T02:06:39.000Z",
+          "wordCount": 1780,
+          "title": "アーク・インベストは金曜日、コインベースの保有額を1,645万ドル削減した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347429",
+          "author": null,
+          "description": "Odaily NewsのL2BEATデータによると、イーサリアムレイヤー2の現在のロックアップ総量（TVL）は181億8000万米ドルで、7日比13.5％増加した。このうち、ロックされているポジションのトップ5は、Arbitrum One（87.7億ドル、7日比7.01％増）、OP Mainnet（58.6億ドル、7日比24.25％増）、Base（7億3,800万ドル、7日比7.01％増）です。 7日4.9％増）、zkSync Era（5億8,500万ドル、7日15.76％増）、dYdX V3（3億4,700万ドル、7日0.09％減）。",
+          "link": "https://www.odaily.news/ja/newsflash/347429",
+          "publishedOn": "2023-12-24T02:02:23.000Z",
+          "wordCount": 1788,
+          "title": "現在のイーサリアムのL2 TVLは181億8,000万米ドルに達し、7日目で13.5%増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347428",
+          "author": null,
+          "description": "Odailyは、オンチェーンアナリストのEmber Monitoringによると、投資機関Sigil Fundが7月から11月にかけて平均価格1.5ドルでBinanceから127万9,000OPを調達したと報じた。ここ数日でOPが急激に上昇したため、Sigil FundはOPから部分的に利益を得始めており、7時間前に426,000 OP（約146万米ドル）がBinanceに送金されました。 Sigil Fund は OP で 250 万ドル (+130%) を稼ぎました。",
+          "link": "https://www.odaily.news/ja/newsflash/347428",
+          "publishedOn": "2023-12-24T01:58:13.000Z",
+          "wordCount": 1831,
+          "title": "7 時間前、Sigil Fund は 426,000 OP を Binance に移管し、現在の利益は 250 万米ドルに達しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347427",
+          "author": null,
+          "description": "Odaily News ビットコインは2023年に複数の指標でイーサリアムを超えるだろう。 CoinMarketCapのデータによると、2022年12月末時点でBTCの市場シェアは40.1%、ETHの市場シェアは18.4%でした。現在、BTC の市場シェアは 51.5% まで急上昇していますが、ETH の市場シェアは 16.6% に若干低下しています。ビットコインの市場価値は 8,560 億米ドルにも達していますが、イーサリアムの市場価値は 2,750 億米ドルであり、BTC の市場価値は約 ETH 3.11 となっています。回。 ETH/BTC 為替レートは、2022 年 12 月には 0.073 でしたが、2023 年 12 月 23 日には 0.052 まで、27.65% 下落しました。 Cryptoslam データによると、2023 年 11 月にビットコインが NFT 売上高でイーサリアムを上回り、ビットコイン チェーンの NFT の 30 日間売上は 7 億 6,195 万 1,324 ドルに達し、イーサリアム チェーンの NFT の 30 日間売上は 3 億 8,716 万 7,225 ドルでした。 (Bitcoin.com)",
+          "link": "https://www.odaily.news/ja/newsflash/347427",
+          "publishedOn": "2023-12-24T01:52:21.000Z",
+          "wordCount": 1840,
+          "title": "ビットコインは2023年に時価総額やその他の指標でイーサリアムを超えるだろう",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347426",
           "author": null,
@@ -7144,66 +7209,6 @@
           "publishedOn": "2023-12-19T14:48:55.000Z",
           "wordCount": 1693,
           "title": "ETHは2200 USDTを下回り、24時間で1.1%上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346873",
-          "author": null,
-          "description": "Odaily News WOOFi は 100 万 ARB のインセンティブ詳細を発表しました: · WOOFi Earn (200,000 個)、各トークン保管庫に割り当てられます; · WOOFi Pro (200,000 個)、トレーダーの動機付けに使用されます; · WOOFi ステーク (20 100,000 コイン)ステーカー向け; · 手数料補償としての WOOFi スワップ (150,000 コイン); · WOOFi クロスチェーン スワップ (150,000 コイン); · WOOFi 固有のタスク (100,000 コイン);",
-          "link": "https://www.odaily.news/ja/newsflash/346873",
-          "publishedOn": "2023-12-19T14:23:29.000Z",
-          "wordCount": 1725,
-          "title": "WOOFi、100万ARBのインセンティブ詳細を発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346872",
-          "author": null,
-          "description": "Odaily News FTXとその関連債務者および共同公式清算人は、FTX債務者の完全子会社であるFTXデジタル・マーケッツに関して世界的な和解に達した。 FTXデジタル・マーケッツは現在、バハマで清算手続きを進めている。この和解は、両当事者が本日署名した世界和解協定に反映されている。世界和解合意は、デラウェア州連邦破産裁判所およびバハマ最高裁判所の承認を条件としている。 (PRニュースワイヤー)",
-          "link": "https://www.odaily.news/ja/newsflash/346872",
-          "publishedOn": "2023-12-19T14:17:07.000Z",
-          "wordCount": 1678,
-          "title": "FTXとその関連債務者が公式共同清算人と世界規模で和解に達する",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346871",
-          "author": null,
-          "description": "Odaily News CertiK は、X プラットフォームに関する高リスクのセキュリティ警告を発行し、すべての OKX iOS ユーザーにアプリケーションを直ちに最新バージョンにアップグレードするよう促しました。今月初め、CertiK SkyFall チームは、OKX モバイル上で高リスクのリモート コード実行の脆弱性を発見し、OKX に報告しました。 OKX チームは、本日リリースされた新しいバージョンで脆弱性を修正しました。ユーザーは古いバージョンのアプリケーションを使用しないでください。使用しないと、ハッカーによって制御され、すべての資産が盗まれる危険性があります。",
-          "link": "https://www.odaily.news/ja/newsflash/346871",
-          "publishedOn": "2023-12-19T14:08:15.000Z",
-          "wordCount": 1756,
-          "title": "CertiKが高リスクの警告を発し、OKX iOSアプリのアップグレードを促す",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346870",
-          "author": null,
-          "description": "Odaily News Bitget 市場によると、FTT は短期間で 4 USDT を突破し、現在 4.2 USDT で取引されており、24 時間で 25% 上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346870",
-          "publishedOn": "2023-12-19T14:05:56.000Z",
-          "wordCount": 1753,
-          "title": "FTTは短期間で4 USDTを突破し、24時間で25%上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346869",
-          "author": null,
-          "description": "Ember Monitorによると、Odailyは、Vitalikが30分前に500 ETHをCoinbaseに送金したと報じた。",
-          "link": "https://www.odaily.news/ja/newsflash/346869",
-          "publishedOn": "2023-12-19T14:01:55.000Z",
-          "wordCount": 1732,
-          "title": "Vitalikが500 ETHをCoinbaseに送金",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346868",
-          "author": null,
-          "description": "Odaily News マイニング会社のマラソン デジタルは、複数のマイニング ファームの買収に 1 億 7,900 万米ドルを費やし、その資金はマラソン デジタルの貸借対照表から現金で支払われると発表しました。この契約はマラソンデジタル初の完全所有マイニングファームを表しており、同社が資産の少ない組織から多様で回復力のあるビットコインマイニング業務を管理する組織へ正式に移行することを示すものである。",
-          "link": "https://www.odaily.news/ja/newsflash/346868",
-          "publishedOn": "2023-12-19T13:46:16.000Z",
-          "wordCount": 1707,
-          "title": "鉱山会社マラソン デジタルは 1 億 7,900 万米ドルを投じて複数のマイニング ファームを買収",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
