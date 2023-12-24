@@ -370,16 +370,6 @@
           "wordCount": 1131,
           "title": "アクセス・プロトコル、ソラナのスマートフォン所有者に250ドルのACSをエアドロップ──BONKの急騰に続く",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/RNZFYW4GYZBBLOEBKVXVX435HI.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=212833",
-          "author": "林 理南",
-          "description": "柴犬（Shiba Inu）ネットワークの開発者らは、インターネットドメイン会社D3と提携して、身元証明に重点を置いたプロジェクトの推進の一環として、インターネッ ...\n柴犬コイン、近く保有者に「.shib」のドメインを提供開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/212833/",
-          "publishedOn": "2023-12-20T02:25:34.000Z",
-          "wordCount": 1101,
-          "title": "柴犬コイン、近く保有者に「.shib」のドメインを提供開始",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/URUQSUQQQ5FPBM7AFMX7FKSRCQ.png"
         }
       ]
     },
@@ -1083,21 +1073,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitcoinupdown0628211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitcoinupdown0628211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=499559",
-          "author": "A.Yamada",
-          "description": "ブロックチェーン企業エラストスは、仮想通貨ビットコインにスマートコントラクトを導入するL2ネットワーク「BeL2」の立ち上げを発表した。",
-          "link": "https://coinpost.jp/?p=499559",
-          "publishedOn": "2023-12-20T02:35:59.000Z",
-          "wordCount": 1912,
-          "title": "Elastos、ビットコインL2「BeL2」立ち上げ　ステーキング可能にする構想も",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
         }
       ]
     },
@@ -1106,6 +1081,46 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347485",
+          "author": null,
+          "description": "Odaily News Alpaca Financeは、Xプラットフォーム上で144週目の買い戻しと破棄が完了したと述べた文書を正式に発行した。合計50,888ドル（約9,200ドル）のALPACAが破壊されました。プロジェクトトークンは87週間連続のデフレの真っ只中にあり、累計燃焼総量は現在3,310万トークン（総供給量の17.61％）を超え、ユーザーに分配される累計収益は現在約402万ドルとなっている。",
+          "link": "https://www.odaily.news/ja/newsflash/347485",
+          "publishedOn": "2023-12-24T15:06:54.000Z",
+          "wordCount": 1721,
+          "title": "Alpaca Finance、144週目のバーンバイバックを完了",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347484",
+          "author": null,
+          "description": "Odaily News 報道によると、DeFiプロトコルSafeMoonの元CEOであるブレーデン・ジョン・カロニー氏がユタ州で拘束され、保釈が拒否されたという。",
+          "link": "https://www.odaily.news/ja/newsflash/347484",
+          "publishedOn": "2023-12-24T14:59:59.000Z",
+          "wordCount": 1716,
+          "title": "セーフムーン元CEO、保釈を拒否",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347483",
+          "author": null,
+          "description": "Odaily News Aptos Ecosystem の最初の登録インフラストラクチャ APT-20 は、発売以来、1,000 を超える登録が展開され、550 万以上のトランザクションが達成され、保持されているアドレスの数が 32,000 を超えていると公式に発表しました。市場は 3 日以内にオープンします。",
+          "link": "https://www.odaily.news/ja/newsflash/347483",
+          "publishedOn": "2023-12-24T14:50:06.000Z",
+          "wordCount": 1726,
+          "title": "APT-20、3日後に市場が開くと発表",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347482",
+          "author": null,
+          "description": "Odailyの公式ニュースによると、ZK L2ネットワークZKFairガス料金エアドロップイベントの第2ラウンドが本日23:00に開始され、その際に発生する可能性のある混雑に対処するために単一ガス価格が100万に値上げされます。 ZKFairのガス料金エアドロップは4段階で実施され、各段階は12時間続き、ガス料金の上限は75万USDCで、ユーザーはガス料金の負担割合に応じて対応する18億7,500万ZKFトークンを分割することができると理解されています。 。 23日11時に正式にスタートしたガス料金Airdropの第1フェーズは、参加者総数が3万人に近づき、ガス料金の総消費額は460万USDCに達し、イベントもいよいよ終盤に差し掛かっています。ユーザーは、ZKFair 公式 Web サイトを通じてウォレットに接続し、イベントの最初の段階でのガス消費量、ZKF の報酬、ガスの払い戻しなどをリアルタイムで確認できます。ガス料金のエアドロップ アクティビティの最初のラウンドの終了は、ガス料金のエアドロップ アクティビティの次のラウンドの開始を意味します。現在、アクティビティの 2 回目のラウンドの開始まで 1 時間以内です。事前に準備して参加してください。",
+          "link": "https://www.odaily.news/ja/newsflash/347482",
+          "publishedOn": "2023-12-24T14:22:38.000Z",
+          "wordCount": 1772,
+          "title": "ZKFair ガス料金エアドロップの第 2 ラウンドが本日 23:00 に開始されます。第 1 ラウンドのガス料金は 460 万 USDC を消費しました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347481",
           "author": null,
@@ -7414,36 +7429,6 @@
           "publishedOn": "2023-12-20T03:23:19.000Z",
           "wordCount": 1776,
           "title": "NFTデジタルコレクションプラットフォームは刑事告訴に関与していますが、一般的な犯罪にはどのようなものがありますか?",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191834",
-          "author": null,
-          "description": "この記事では、BTC Layer2の状況、ビットコインの拡大、技術開発、BRC20市場のパフォーマンス、ビットコインETF、BitVMなどについて包括的に説明します。",
-          "link": "https://www.odaily.news/ja/post/5191834",
-          "publishedOn": "2023-12-20T03:13:37.000Z",
-          "wordCount": 3708,
-          "title": "2023年のビットコイン現状の概要と展望",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346894",
-          "author": null,
-          "description": "Odaily NewsイーサリアムL2ネットワークフレーム関係者は、過去2年間にイーサリアムネットワーク上でNFTを取引しロイヤルティを支払ったユーザーはFRAMEトークンの初回エアドロップに申請する資格があり、申請は現在受付中であると述べた。 Frame メインネットとトークンは 2024 年 1 月 31 日に同時に開始され、次のフェーズが開始されるまで FRAME トークンを転送することはできません。さらに、Frame は、Electric Capital およびコミュニティメンバーが主導する初期資金調達の完了を発表し、エンジェル投資家およびアドバイザーには、dingaling、9GAG CEO の Chen Zhancheng、AZUKI プロジェクトの創設者 Zagabond などが含まれます。",
-          "link": "https://www.odaily.news/ja/newsflash/346894",
-          "publishedOn": "2023-12-20T02:35:18.000Z",
-          "wordCount": 1760,
-          "title": "フレームトークンのエアドロップは申請受付中、メインネットは来年1月にローンチ予定",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5191832",
-          "author": null,
-          "description": "次の強気相場は財務成長とイノベーションだけでなく、業界の成熟度も問われるでしょう。",
-          "link": "https://www.odaily.news/ja/post/5191832",
-          "publishedOn": "2023-12-20T02:29:09.000Z",
-          "wordCount": 1891,
-          "title": "2024 年の仮想通貨融資情勢に関する 7 つの予測",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
