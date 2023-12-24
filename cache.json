@@ -435,6 +435,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=499860",
+          "author": "A.Sakamoto",
+          "description": "ビットコインETF（上場投資信託）期待が高まる中、先物市場のポジションが買い持ちに相当傾いていることが示唆されている。国内大手取引所bitbankのアナリストが読み解く今後の展望は？",
+          "link": "https://coinpost.jp/?p=499860",
+          "publishedOn": "2023-12-24T02:30:08.000Z",
+          "wordCount": 1914,
+          "title": "先物市場に偏りも、ビットコイン上抜けは今週が勝負か｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=500463",
           "author": "CoinPost編集部",
           "description": "今週は、ビットコインのクジラの買い集めライン、仮想通貨分析企業Messariの2024年レポート、ビットバンクの調査に関する記事が最も関心を集めた。",
@@ -1221,6 +1236,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347436",
+          "author": null,
+          "description": "Odaily の公式ニュースによると、SOL のローンチを記念して、チェーン上でコインを獲得し、USDT-Solana および USDC-Solana をサポートするプラットフォームでコインの入出金を行うため、OKX は 12 月 22 日 16:00 からイベントを開始します。 、2023 年から 2024 年 1 月 5 日の 16:00 (UTC+8) まで、Solana 独自の学びと獲得のアクティビティが開始されます。ユーザーが ID を認証し、質問に回答し、Solana ネットワーク経由でコインを入金すると、SOL チェーンで獲得した 0.0527 コインのサブスクリプション クォータを取得できます。クォータは限られており、先着順で利用されます。",
+          "link": "https://www.odaily.news/ja/newsflash/347436",
+          "publishedOn": "2023-12-24T03:21:42.000Z",
+          "wordCount": 1857,
+          "title": "OKX が賞金総額 527 SOL の Solana 限定の学習と獲得アクティビティを開始",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347435",
+          "author": null,
+          "description": "Odaily は、Spot On Chain の監視によると、特定のクジラ (0xc3b で始まるアドレス) が約 1 時間前に 5,975 ETH (約 1,390 万米ドル) を Blast に入金し、5 番目に大きな入金者になったと報告しました。現時点で、合計 381,000 ETH (約 8 億 7,900 万ドル) が Blast に入金されており、2024 年 2 月 24 日までロックされます。約 129,500 ETH (約 3 億ドル) が上位 20 人のユーザーから得られ、ETH 入金総額の 34% を占めました。",
+          "link": "https://www.odaily.news/ja/newsflash/347435",
+          "publishedOn": "2023-12-24T03:03:37.000Z",
+          "wordCount": 1833,
+          "title": "クジラは 5,975 ETH を Blast に入金し、5 番目に大きな入金者になりました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347434",
+          "author": null,
+          "description": "Odaily News Fox Businessの司会者であるCharles Payne氏は、米国政府がビットコインを厳しく取り締まらない限り、ビットコインの価格は将来いつか100万ドルに達する可能性があると考えている。ペイン氏は、ビットコインとは異なり、株は株主に「偉大な企業」へのアクセスを提供し、米国を支える資本主義システムの構築に参加できると説明した。しかし、ビットコインにはさらに上昇の余地があり、100万ドルに達する可能性があり、横暴な（米国）政府の介入に革命を起こす可能性もある。プライバシーや信頼などの問題を理由に国民がCBDCの受け入れを拒否した場合、政府がCBDCの使用を強制する可能性があるとペイン氏は懸念している。チャールズ・ペイン氏は「ビットコインの成功を見たいし、最終的には成功すると思う。ビットコインは普遍的で世界を変え、現在絶望的な状況にある人々を助ける可能性を秘めている」（クリプトポテト）と語った。",
+          "link": "https://www.odaily.news/ja/newsflash/347434",
+          "publishedOn": "2023-12-24T03:00:15.000Z",
+          "wordCount": 1773,
+          "title": "Fox Business司会者：ビットコイン価格は将来100万ドルに達する可能性がある",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347433",
+          "author": null,
+          "description": "Odaily News ロシアのビットコイン マイニング ソリューション プロバイダーである BitCluster は、エチオピアに 120 メガワットのデータセンターを建設しています。 (ビットコインマガジン)",
+          "link": "https://www.odaily.news/ja/newsflash/347433",
+          "publishedOn": "2023-12-24T02:40:37.000Z",
+          "wordCount": 1775,
+          "title": "ロシアの鉱山会社ビットクラスターがエチオピアに120メガワットのデータセンターを建設中",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347432",
+          "author": null,
+          "description": "デイリーニュースデータプロバイダーのKaiko Researchは、今年ビットコインが主要な従来型資産をアウトパフォームすると予測している。厳しいマクロ経済状況と暗号通貨業界が直面する逆風にも関わらず、ビットコインは2023年になっても160％以上上昇している。 NVIDIA Corp (NVDA) など、ビットコインを上回るパフォーマンスを示した企業株はごく​​わずかで、その株価は年初から 241% 上昇しており、ビットコインの上昇率 (163%) を上回っています。開高分析では、年間のBTC価格動向を3段階に分けています。 BTCは3月から10月までほぼ一貫して2万5000ドルから3万ドルの間で取引されていたが、2023年半ばには急落し数年ぶりの安値を記録した。しかし、ブラックロックが6月15日にビットコインスポットETFを申請すると、ビットコイン価格は4万ドルを超えて上昇した。 (コインテレグラフ)",
+          "link": "https://www.odaily.news/ja/newsflash/347432",
+          "publishedOn": "2023-12-24T02:34:14.000Z",
+          "wordCount": 1796,
+          "title": "開高氏: ビットコインは 2023 年に最もパフォーマンスの高い資産の 1 つになるでしょう",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347431",
           "author": null,
@@ -7169,46 +7234,6 @@
           "publishedOn": "2023-12-19T16:53:43.000Z",
           "wordCount": 1699,
           "title": "英国財務省、仮想通貨銀行問題について議員らと協議へ",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346877",
-          "author": null,
-          "description": "Odaily News Injective は、X プラットフォーム上で、「INJS 碑文プロジェクトには参加しないでください。彼らが請求する鋳造手数料は未確認のウォレットに送金されます」というメッセージを公式に発行しました。",
-          "link": "https://www.odaily.news/ja/newsflash/346877",
-          "publishedOn": "2023-12-19T15:13:00.000Z",
-          "wordCount": 1699,
-          "title": "単発: INJS プロジェクトには参加しないでください",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346876",
-          "author": null,
-          "description": "Odaily News OKX関係者は、CertiKからの通知を受けて、可能な限り早く関連アップグレードを完了したと述べた。この問題はサードパーティのアプリケーション サービス プロバイダーの脆弱性であり、公式プログラム自体には関係ありません。ユーザー資産のセキュリティには影響せず、プラットフォームによる検証の結果、資産や情報の損失は見つかりませんでした。現在、この問題は IOS バージョン 6.46.0 で修正されており、すべてのユーザーができるだけ早く APP アップデートを完了することをお勧めします。ユーザーの資産のセキュリティには影響しませんので、ご安心ください。",
-          "link": "https://www.odaily.news/ja/newsflash/346876",
-          "publishedOn": "2023-12-19T15:07:14.000Z",
-          "wordCount": 1707,
-          "title": "OKX 公式: CertiK が指摘した脆弱性は修正されており、ユーザー資産のセキュリティには影響しません。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346875",
-          "author": null,
-          "description": "Odaily News モジュラーブロックチェーンの Dymension は、X プラットフォーム上の「カメラ」の写真を公開、またはスナップショットが撮影されたことを示唆しました。以前のニュースによると、今年2月、モジュラーブロックチェーンのDymensionは、Big Brain HoldingsとStratosが主導し、Matchbox DAO、DraftKingsのShalom Meckenzieなどが参加し、670万米ドルのシードラウンドを完了した。",
-          "link": "https://www.odaily.news/ja/newsflash/346875",
-          "publishedOn": "2023-12-19T15:04:09.000Z",
-          "wordCount": 1695,
-          "title": "モジュラーブロックチェーンDymensionが「カメラ」写真を公開、またはスナップショットが撮影されたことを示唆",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346874",
-          "author": null,
-          "description": "Odaily News OKX市場は、ETHが2200 USDTを下回り、現在は2196 USDTで取引されており、24時間で1.1％上昇していることを示しています。",
-          "link": "https://www.odaily.news/ja/newsflash/346874",
-          "publishedOn": "2023-12-19T14:48:55.000Z",
-          "wordCount": 1693,
-          "title": "ETHは2200 USDTを下回り、24時間で1.1%上昇",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
