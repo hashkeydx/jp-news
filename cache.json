@@ -1138,21 +1138,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/lisk2012233.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/lisk2012233.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=499537",
-          "author": "K.Kobayashi",
-          "description": "IntoTheBlockは、仮想通貨ビットコインの複数の大口保有者が16日に合計で約2万BTCを買い集めたと報告。この数は過去1カ月間で突出した購入量である。",
-          "link": "https://coinpost.jp/?p=499537",
-          "publishedOn": "2023-12-20T00:55:57.000Z",
-          "wordCount": 1910,
-          "title": "1日で合計1,210億円相当のビットコインを購入か　「IntoTheBlock」がクジラの買い集めラインを報告",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bitcoin-whale3_0517.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bitcoin-whale3_0517.jpg"
         }
       ]
     },
@@ -1161,6 +1146,16 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347476",
+          "author": null,
+          "description": "Odaily News Aptos Tracemove ブラウザ データによると、Aptos エコシステムの Inscription および Meme コイン ユーザーからの最近の送金により、オンライン トランザクションは以前の 1 秒あたり 11 トランザクションから最近では 12 倍以上の 120 以上のトランザクションに増加しました。現在、Aptos コミュニティの参加が最も多いミームコインは、Aptos エコシステムのトップの NFT 創設者と DeFi 創設者によって立ち上げられた GUI コインです。初期の寄稿者には、Aptos Monkeys、Aptomingos、Aptos Robos、Spooks、Thala、TowneSquare、Mercato、および Aptos の投資家が含まれます。 GUIコインは12月23日(土)にPancakeswapにGUI/APT通貨として上場され、現在のFDVは約2,000万米ドルです。 DEX Screener によると、そのトークンの 24 時間取引高は 200 万ドルです。 GUI/APT は、Aptos 上で最大の APT 取引ペアになりました。同時に、碑文分野でも Aptos は APT-20 標準を立ち上げ、現在、APT-20 に基づく最初の碑文 APTS は 30,000 のアドレスを所有しています。造幣は夕方の UTC+8 に終了しました。プロセス全体を通じて、Aptos のネットワーク アクティビティが TPS によって大幅に増加しただけでなく、ガス消費量も大幅に増加しました。合計数万の APT がガスによって消費され、毎日のアクティブなウォレット アドレスも 4 倍になり、毎日のアクティブなトランザクション数が増加しました。 5回以上。",
+          "link": "https://www.odaily.news/ja/newsflash/347476",
+          "publishedOn": "2023-12-24T13:20:22.000Z",
+          "wordCount": 1913,
+          "title": "アプトスのエコロジカルミームトークンGUI「ゴースト」コインとAPTSの碑文によりネットワークデータが大幅に増加",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347475",
           "author": null,
@@ -7479,16 +7474,6 @@
           "publishedOn": "2023-12-20T01:31:44.000Z",
           "wordCount": 1778,
           "title": "数字: Blast TVL が 9 億ドルを突破",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/346890",
-          "author": null,
-          "description": "Odaily News ネクソンは、メイプルストーリーの世界を拡大することを目的として、Web3 ゲーム プロジェクト メイプルストーリーに 1 億米ドルを投資すると発表しました。この投資は、ブロックチェーンベースの多人数参加型オンライン ロールプレイング ゲーム (MMORPG)、モバイル ゲーム バージョン、および開発者が分散型アプリケーションを構築するためのソフトウェア開発キット (SDK) の開発に使用されます。メイプルストーリーは、大規模なゲームプロジェクト用に設計されたブロックチェーンであるポリゴンスーパーネットを統合することも計画しています。この動きは、ブロックチェーンと代替不可能なトークン（NFT）を活用して没入型で自給自足的なゲームコミュニティを構築するというネクソンの戦略の一環です。 (nftgators)",
-          "link": "https://www.odaily.news/ja/newsflash/346890",
-          "publishedOn": "2023-12-20T01:03:33.000Z",
-          "wordCount": 1675,
-          "title": "ネクソン、メイプルストーリーのWeb3ゲームプロジェクトに1億ドル投資",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
