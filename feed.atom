@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-25T21:19:17.573Z</updated>
+    <updated>2023-12-25T22:25:16.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン現物ETFの1月承認を米SECが示唆か　申請書類の提出期限を29日に設定＝報道]]></title>
+        <id>https://coinpost.jp/?p=500800</id>
+        <link href="https://coinpost.jp/?p=500800"/>
+        <updated>2023-12-25T22:00:25.000Z</updated>
+        <summary type="html"><![CDATA[米SECは、ブラックロック、グレースケール、アークなど仮想通貨ビットコインの現物ETFの申請企業に対し、申請書の最終版を29日にまでに提出しないと1月初旬には承認しないと説明したことがわかった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムレイヤー2「zkSync Era」、ネットワーク障害で一時ブロック生成停止]]></title>
+        <id>https://coinpost.jp/?p=500795</id>
+        <link href="https://coinpost.jp/?p=500795"/>
+        <updated>2023-12-25T21:30:26.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアム（ETH）のL2ネットワーク「zkSync Era」は昨日午後、約2時間の間ブロック生成が停止していた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産の透明性にまつわる実態と誤解──オンチェーントラッキングが投資家保護と普及に貢献]]></title>
+        <id>https://www.coindeskjapan.com/?p=208776</id>
+        <link href="https://www.coindeskjapan.com/208776/"/>
+        <updated>2023-12-25T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[関心の高まりで市場は活性化 暗号資産は、個人から、ブロックチェーンテクノロジーの活用を模索するスタートアップまで幅広い関心を集めており、一部の企業はバランスシー ...
+暗号資産の透明性にまつわる実態と誤解──オンチェーントラッキングが投資家保護と普及に貢献 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年：ステーブルコイン市場の重要な転換点]]></title>
         <id>https://www.coindeskjapan.com/?p=213475</id>
@@ -5850,155 +5881,6 @@ ARKインベストメントがコインベース株を追加売却──12月の
         <updated>2023-12-21T10:31:04.000Z</updated>
         <summary type="html"><![CDATA[Odaily星球日报讯 据官方消息，Web3基础设施公司RPS Network宣布正式加入Chainlink BUILD计划。作为BUILD的成员，RPS会获得Chainlink预言机服务和技术支持并且加速RPS生态的增长。
 RPS Network是通过游戏化和AI来提升用户定位、留存和获客的CRM平台。RPS旨在利用AI数据层进行增强用户定位和分发渠道，最终有助于更好地促进获客、增强用户留存，并为Web2和Web3用户提供一个整体的参与平台。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wincent与Azure Tide在Clearpool Prime上推出借款人池]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347106</id>
-        <link href="https://www.odaily.news/ja/newsflash/347106"/>
-        <updated>2023-12-21T10:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Odaily星球日报讯 Clearpool宣布，加密做市商Wincent和数字资产借贷机构Azure Tide在Clearpool Prime上推出借款人池（Borrower Pool）。此外，Clearpool协议TVL已接近6000万美元。
-此前消息，Clearpool在以太坊Rollup Optimism上推出其机构信贷市场Clearpool Prime，参与者须通过Securitize ID和AML检查完成KYC。
-据介绍，Clearpool Prime通过其市场上贷款产生收入的50%将分配于购买和销毁协议的原生代币CPOOL，其余50%将分配给Clearpool Treasury。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、4万4000ドル近くまで上昇──米国株は3カ月で最大の損失]]></title>
-        <id>https://www.coindeskjapan.com/?p=213214</id>
-        <link href="https://www.coindeskjapan.com/213214/"/>
-        <updated>2023-12-21T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は12月21日に4万4000ドル台に近づき、20日の米国株の急落によって引き起こされた損失をいくらか取り戻した。 S&P500指数 ...
-ビットコイン、4万4000ドル近くまで上昇──米国株は3カ月で最大の損失 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[操作指南：倒计时2天，如何参与ZKFair Gas Fee Airdrop？]]></title>
-        <id>https://www.odaily.news/ja/post/5191886</id>
-        <link href="https://www.odaily.news/ja/post/5191886"/>
-        <updated>2023-12-21T10:11:50.000Z</updated>
-        <summary type="html"><![CDATA[上限为 300 万 USDC，先到先得。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3社交与思辨平台苏格拉底将启动首期社区空投]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347083</id>
-        <link href="https://www.odaily.news/ja/newsflash/347083"/>
-        <updated>2023-12-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Odaily星球日报讯 Web3社交与思辨平台苏格拉底（Socrates.com） 宣布将于12月21日启动首期社区空投， 此次空投总量为400万枚SOC，旨在进一步激励社区用户参与到Socrates的平台生态中。
-据苏格拉底官方消息披露，本次空投时间为2023年12月21日11:00-2024年1月21日11:00（UTC+0），空投规则与用户在Socrates平台的积分收益排名有关。
-据悉，12月18日，苏格拉底已完成创世空投激励早期产品支持者。具体信息披露请以官方Twitter为主。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinW将于今日19:00上线BTCMEME]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347105</id>
-        <link href="https://www.odaily.news/ja/newsflash/347105"/>
-        <updated>2023-12-21T09:56:18.000Z</updated>
-        <summary type="html"><![CDATA[Odaily星球日报讯 据官方公告，CoinW将于12月21日19:00（UTC+8）在创新区上线BTCMEME，开通 BTCMEME/USDT交易对，同时将开启“全网派发52,587,000 BTCMEME”活动。
-充值开启时间：12月21日19:00（UTC+8）；
-交易开启时间：12月21日19:00（UTC+8）；
-提币开启时间：12月22日19:00（UTC+8）；
-活动时间：12月21日19:00-12月25日23:59（UTC+8）。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2万枚ETH从Bybit转至未知钱包]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347104</id>
-        <link href="https://www.odaily.news/ja/newsflash/347104"/>
-        <updated>2023-12-21T09:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Odaily星球日报讯 据Whale Alert监测，20,000枚ETH（约合44,184,202美元）从Bybit转至未知钱包。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波场链上5000万枚USDT从Bybit转至未知钱包]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347103</id>
-        <link href="https://www.odaily.news/ja/newsflash/347103"/>
-        <updated>2023-12-21T09:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Odaily星球日报讯 据Whale Alert监测，波场链上50,000,000枚USDT从Bybit转至未知钱包。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団がその「前任者」によって報告された：DAOが盗まれたのは、それが自分自身によって指示され、実行されたためです]]></title>
-        <id>https://www.odaily.news/ja/post/5191882</id>
-        <link href="https://www.odaily.news/ja/post/5191882"/>
-        <updated>2023-12-21T09:49:40.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム、なぜ古い話でそんなに人気があるのですか？]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市場開設後15倍以上に上昇したビットコインチェーンゲーム「Bitcoin Cats」の魅力とは？]]></title>
-        <id>https://www.odaily.news/ja/post/5191884</id>
-        <link href="https://www.odaily.news/ja/post/5191884"/>
-        <updated>2023-12-21T09:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Launchpad は 2 時間続き、37,383 ETH と 7,300 万の BAKE が参加し、総額は 1 億 600 万米ドルになりました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChainArgos: Tether が 2 つの Tron オンチェーンウォレットをブラックリストに登録]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347102</id>
-        <link href="https://www.odaily.news/ja/newsflash/347102"/>
-        <updated>2023-12-21T09:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Odaily は、ChainArgos の監視によると、Tether が Tron チェーン上の 2 つのウォレット アドレスを再びブラックリストに登録したと報じました。 2 つのアドレスは TBACGhUxvjiwgFbZ9JwUXUjr95mfQFC3uT、TYM61sqCgM4m5Sm14kWKsJtnZ6MpoEndBr です。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAKEは2.7 USDTを突破し、24時間で22.69%上昇]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347101</id>
-        <link href="https://www.odaily.news/ja/newsflash/347101"/>
-        <updated>2023-12-21T09:33:09.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Bitget 市場によると、CAKE は 2.7 USDT を突破し、現在 2.7007 USDT で取引されており、24 時間で 22.69% 上昇しています。以前のニュースによると、Pancakeswap の新しい提案では、CAKE の最大供給量を 4 億 5,000 万個に削減することが提案されています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pancakeswapの新しい提案は、CAKEの最大供給量を4億5,000万コインに削減することを提案しています]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347100</id>
-        <link href="https://www.odaily.news/ja/newsflash/347100"/>
-        <updated>2023-12-21T09:29:20.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Pancakeswap コミュニティはフォーラムで新しい提案を発表し、CAKE の総供給上限を現在の 7 億 5,000 万から 4 億 5,000 万に 3 億削減することを提案しました。現在のCAKEの発行部数は約3億8,800万部。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Ecosystem Realy が開発した AI コンパニオンの分散型ソーシャル製品である Siya.AI がバージョン 1.0 ホワイト ペーパーをリリース]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347099</id>
-        <link href="https://www.odaily.news/ja/newsflash/347099"/>
-        <updated>2023-12-21T09:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News Solana Ecosystem Siya.AI はバージョン 1.0 ホワイト ペーパーをリリースし、AI と現実の人々が共存するソーシャル コンパニオン プラットフォームの作成に取り組んでいます。 Siya.AI は、AI Agent がインターネットと Web3 向けの新しいユーザー意図主導のトランザクション ポータルになると信じています。 Siya.AIは、Realyが提供するWeb3 SDKを利用し、クリエイターエコノミーとAIコンパニオンに初のインセンティブメカニズムを導入し、プレイヤーはAIの彼氏/彼女とチャットすることでEGGSを育成し、チャットマイニングやNFTインキュベーションを実現します。 Siya.AI は、Multicoin Capital が主導し、Realy が支援する初の環境プロジェクトであると報告されています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマートマネーアドレスがSOLとINJを合計305万ドルで買収]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347098</id>
-        <link href="https://www.odaily.news/ja/newsflash/347098"/>
-        <updated>2023-12-21T09:22:29.000Z</updated>
-        <summary type="html"><![CDATA[Odailyは、AICoinの監視によると、0x1E8で始まるスマートマネーアドレスが12月21日に3万800SOL（約261万ドル）と1万1100INJ（44万ドル）を購入したと報じた。このアドレスは以前、WBTC と ETH の取引で多額の利益を得ていました。4 月 11 日に 289.34 WBTC を購入し、平均価格は 29,852.52 ドルでした。12 月 17 日から 12 月 18 日までに 230 WBTC を販売し、平均価格は 43,604.57 ドルでした。利益は257万4,300米ドル、未実現利益は81万6,000米ドルでした。このアドレスは 3 月 11 日に 5,401 ETH を購入し、平均価格は 1,457.11 米ドルで、3 月 14 日に 5,398 ETH を販売し、平均価格は 1,712.49 米ドルで、1,378,500 米ドルの利益を実現しました。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
