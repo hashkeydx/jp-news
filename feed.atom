@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-26T03:22:51.769Z</updated>
+    <updated>2023-12-26T04:27:26.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[区块链协会CEO：2024年加密监管或迎来转机]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347638</id>
+        <link href="https://www.odaily.news/ja/newsflash/347638"/>
+        <updated>2023-12-26T04:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 区块链协会首席执行官Kristin Smith在接受采访时表示，2024年加密货币领域很可能会在“核心监管问题上出现转机”。 
+她称：“FTX的判决和司法部针对币安案件的结论应该会澄清华盛顿的一些误解，2024年将是该行业的转折年”。（Decrypt）]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链协会政府关系总监：2024年稳定币法案通过可能性为75%]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347637</id>
+        <link href="https://www.odaily.news/ja/newsflash/347637"/>
+        <updated>2023-12-26T04:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 行业专家表示，明年美国稳定币法案可能有更好的前景，但全面的数字资产市场法案获得通过的机会不大。区块链协会政府关系总监Ron Hammond表示，2024年稳定币法案通过的可能性为75%，数字商会政策副总裁Cody Carbone认为，这一概率为60%。 
+《21世纪金融创新和技术法案》旨在通过全面方法来监管整个加密货币行业，Hammond认为，该法案在2024年以某种形式获得通过的可能性仅为25%，部分原因是SEC可能会反对、加利福尼亚州民主党人Maxine Waters反对该法案，以及Brown在该问题上保持沉默。（The Block）]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starknet在代码库内添加桥接相关文件，STRK在L2上合约地址已披露]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347636</id>
+        <link href="https://www.odaily.news/ja/newsflash/347636"/>
+        <updated>2023-12-26T04:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 Starknet于昨晚在Github库内添加了“bridged_tokens”文件，通过该文件可知：
+1. 以太坊主网上的STRK合约地址为0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766（此前已披露）；
+2. Starknet上的STRK合约地址为0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d；
+3. 以太坊主网上的桥接合约地址为0x6FE45BEFC2C0E0F619D5ccFB6fA4D40590f6bC53；
+4. Starknet上的桥接合约地址为0x0594c1582459ea03f77deaf9eb7e3917d6994a03c13405ba42867f83d85f085d。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安赚币将上线SEI定期产品]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347635</id>
+        <link href="https://www.odaily.news/ja/newsflash/347635"/>
+        <updated>2023-12-26T04:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 据官方公告，币安赚币平台将于2023年12月26日20:00（东八区时间）上线SEI定期产品，申购即可获得收益。
+- 参与方式：先到先得；
+- 计息周期：申购成功的次日上午08:00（东八区时间）起至相应定期产品周期结束；
+- 利息分发：每日发放。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11个地址过去12小时内累计从Coinbase提取25,734枚METIS，共持有30.1万枚METIS]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347634</id>
+        <link href="https://www.odaily.news/ja/newsflash/347634"/>
+        <updated>2023-12-26T04:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 据链上分析师@ai_9684xtpa监测，过去12小时，11个地址累计从Coinbase新增转出25,734枚METIS ，价值198万美元；METIS币价从58美元上涨至80美元，与这些地址的持续买入密切相关。
+目前，这部分地址共持有30.1万枚METIS代币（2381万美元），占流通代币总量的6.6%。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“将FDUSD加入Venus核心池”提案已执行]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347633</id>
+        <link href="https://www.odaily.news/ja/newsflash/347633"/>
+        <updated>2023-12-26T04:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 Venus Protocol社区已投票通过关于“将FDUSD加入Venus核心池”提案，该提案已执行。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneKey と OKX が限定版の共同ハードウェア ウォレットをリリース]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347631</id>
+        <link href="https://www.odaily.news/ja/newsflash/347631"/>
+        <updated>2023-12-26T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News OKX Web3 ウォレットは、OneKey ハードウェア ウォレット接続を完全にサポートするようになり、本日、OneKey と OKX の限定版共同ブランド ハードウェア ウォレットを発売しました。これは、OKX Web3 ウォレットのホームページで購入できます。最初の 200 人の購入者は、OneKey x OKX 共同ブランド NFT を無料で鋳造できると報告されており、OneKey x OKX 共同ブランド NFT を保有するユーザーは、1 年以内に OneKey 製品の全製品を 10% 割引で購入できます。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delphi Digital レポート: IRD は 2024 年に人気の物語の 1 つになる可能性があります]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347630</id>
+        <link href="https://www.odaily.news/ja/newsflash/347630"/>
+        <updated>2023-12-26T03:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News Delphi Digital が「2024 年の DeFi の将来」レポートを発表、その要点は次のとおりです: イーサリアムの中核となる流動性ステーキング パターンは大幅な変更を受けるのが難しい; RWA は静かに 2023 年の仮想通貨で最も成功したトラックの 1 つとなっている、Uniswap V4 、ユニスワップ]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launchpad概念一蹭即涨，金铲子是目前最好的叙事？]]></title>
+        <id>https://www.odaily.news/ja/post/5191964</id>
+        <link href="https://www.odaily.news/ja/post/5191964"/>
+        <updated>2023-12-26T03:55:35.000Z</updated>
+        <summary type="html"><![CDATA[回看过去十年，能够贯穿时间线始末的创新仅有层出不穷的代币分发方式。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CertiK：Megabot项目发生退出骗局，约74.2万美元被盗]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347629</id>
+        <link href="https://www.odaily.news/ja/newsflash/347629"/>
+        <updated>2023-12-26T03:53:44.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 据CertiK Alert监测，Megabot项目（@MegabotETH，该X账户已注销）发生退出骗局，大约74.2万美元被盗，其中大部分（69.2万美元）位于Solana。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龙年将至，盘点主流公链上的「龙」概念 Meme项目]]></title>
+        <id>https://www.odaily.news/ja/post/5191969</id>
+        <link href="https://www.odaily.news/ja/post/5191969"/>
+        <updated>2023-12-26T03:48:10.000Z</updated>
+        <summary type="html"><![CDATA[甲辰年，财库年，青龙守财，遇一库，十年富。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinGecko: 2020年から2023年にかけて、トップ50のエアドロップは合計266億ドル相当のトークンを配布しました]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347628</id>
+        <link href="https://www.odaily.news/ja/newsflash/347628"/>
+        <updated>2023-12-26T03:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Odaily News CoinGecko の統計によると、暗号化業界のエアドロップ トップ 10 は次のとおりです。 1. Uniswap - 64 億 3000 万米ドル 2. Apecoin - 35 億 4000 万米ドル 3. dYdX - 20 億 1000 万米ドル 4. Arbitrum - 19 億 7000 万米ドル 5. イーサリアム ネーム サービス- 18.8 6. インターネット コンピューター - 17 億 4000 万ドル 7. ボンク - 13 億 3000 万ドル 8. Celestia - 7 億 2,800 万ドル 9. LooksRare - 7 億 1,200 万ドル 10. 1 インチ ネットワーク (Airdrop 1) - 6 億 7,000 万ドル その調査によると、2020 年から 2023 年までに上位 50 社はエアドロップは合計266億ドル相当のトークンを配布しました（史上最高評価に基づく）。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telcoin遭攻击损失约120万美元，官方已临时冻结用户操作]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347627</id>
+        <link href="https://www.odaily.news/ja/newsflash/347627"/>
+        <updated>2023-12-26T03:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 MetaTrust链上监视器MetaScout最近发现了一系列针对Telcoin钱包的针对性攻击。由于这些攻击，Telcoin（TEL）的价格暴跌65%，目前已造成大约120万美元的损失。
+与这些安全漏洞相关的特定地址是：0x35d2775e5f95596509951b140d68fc5b9185ff98。
+目前，官方表示已经了解Telcoin应用程序的情况，在调查问题期间，临时冻结该应用程序的使用，并将尽快发布更新。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米コインベースがウォーレン議員の主張に猛反発「法的遵守のための努力を曲解している」]]></title>
+        <id>https://coinpost.jp/?p=500867</id>
+        <link href="https://coinpost.jp/?p=500867"/>
+        <updated>2023-12-26T03:38:01.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースは、同取引所などが仮想通貨規制を妨げているというウォーレン上院議員に公開書簡を提出・反論している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZKFair Gas fee Airdrop活动结束：总Gas消耗1.08亿USDC，将于1月1日开启空投Claim]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347626</id>
+        <link href="https://www.odaily.news/ja/newsflash/347626"/>
+        <updated>2023-12-26T03:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 据官方消息，ZK L2网络ZKFair Gas fee Airdrop活动已于今日上午11点结束，历时48小时，活动总参与人数20.2万，总Gas消耗1.08亿USDC，链上TVL达1.23亿美元，目前已超越Polygon zkEVM，位列L2榜单第13名。
+目前，所有参与用户均可通过ZKFair官网查看自己整个活动期间的Gas消耗、ZKF代币奖励、Gas退款等情况。官方表示，为了确保资金安全和数据准确，USDC Gas费退款将在48小时后开启Claim，没有领取时间限制。 
+用户所获得的ZKF代币也将于2024年1月1日上午11:00正式开始Claim。请所有用户在规定时间内完成ZKF的Claim，逾期的ZKF将自动销毁。未来将不再增发任何ZKF代币。
+ZKFair社区目前正计划即日上线“ How to make ZKF a 10 billions Project ”的提案活动，页面将于稍后开放，前10提案将获得ZKF Token捐款的奖励。详情请参考官方未来的公告。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三个鲸鱼地址过去17个小时内向币安存入了3078万枚STORJ，占总供应量的7.24%]]></title>
         <id>https://www.odaily.news/ja/newsflash/347625</id>
@@ -5918,26 +6083,6 @@ ARKインベストメントがコインベース株を追加売却──12月の
         <link href="https://www.odaily.news/ja/newsflash/347151"/>
         <updated>2023-12-21T16:29:16.000Z</updated>
         <summary type="html"><![CDATA[Odaily News BRC20プロジェクト発行プラットフォームAsatpadは、Atpad/WETH取引ペアを12月22日にUniswapに上場すると発表した。 Asatpad は、プロジェクト関係者向けの BRC20 プロトコルのオープンソース プラットフォームであり、BRC20 エコロジー プロジェクトの構築の促進に取り組んでいると報告されています。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム開発者カンファレンス: Dencun のアップグレードは来年 2 月末にメインネットで実行される予定]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347150</id>
-        <link href="https://www.odaily.news/ja/newsflash/347150"/>
-        <updated>2023-12-21T16:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News 木曜日に開催された電話会議で、イーサリアム開発者らは、1月17日にGoerliテストネットワーク上でDencunアップグレードを実行するという目標について議論した。さらに、開発者らは、その後の Dencun アップグレードのスケジュール草案についても議論しました。このアップグレードは、1 月 31 日にセポリア テスト ネットワークで、2 月 7 日にホールスキー テスト ネットワークで試験的に実行される予定です。その後、アップグレードが展開される予定です。メインネットへ。ただし、これらの日付は、テストネットのアップグレードの特定の状況に基づいて変更される可能性があります。 (コインデスク)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbaseがフランスで仮想通貨ライセンスを取得]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347149</id>
-        <link href="https://www.odaily.news/ja/newsflash/347149"/>
-        <updated>2023-12-21T16:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News 仮想通貨取引プラットフォームのコインベースがフランスの市場規制当局への登録を完了したと、同社の広報担当者が木曜日にそのニュースを認めた。フランスの金融市場庁（AMF）は、Coinbase仮想資産サービスプロバイダー（VASP）の承認を与え、これにより同取引所はフランスでデジタル通貨サービスを運営することにゴーサインが与えられることになる。 VASP登録により、Coinbaseはデジタル資産の保管、法定通貨によるデジタル資産の売買、デジタル資産間の取引、デジタル資産取引プラットフォームの運営が可能になる。 (CNBC)]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
