@@ -315,6 +315,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=500838",
+          "author": "AKIRA.H",
+          "description": "CoinGeckoの徹底分析に基づき、世界のビットコインETFが総保有する約80万BTCの現状を探る。最大供給量の3.8％がETFによって管理されている暗号資産（仮想通貨）ビットコイン市場の最新動向を紹介。",
+          "link": "https://coinpost.jp/?p=500838",
+          "publishedOn": "2023-12-26T02:30:27.000Z",
+          "wordCount": 2000,
+          "title": "世界のビットコインETFが保有する合計BTC、最大供給量の3.8％に＝CoinGecko分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/bitcoin-ndf.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/bitcoin-ndf.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=500827",
           "author": "S.Ninomiya",
           "description": "暗号資産（仮想通貨）市場では時価総額4位のソラナ（SOL）が続伸し、年初来騰落率1000%に迫る水準に達した。",
@@ -891,6 +906,136 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347625",
+          "author": null,
+          "description": "Odaily星球日报讯 据Spot On Chain监测，在过去17个小时里，三个鲸鱼（可能是一个人）向币安存入了3078万枚STORJ（2530万美元，平均价格0.82美元），占总供应量的7.24%。\n最初，该鲸鱼在9月至10月期间以均价0.44美元积累了1000万枚STORJ（444万美元）的收益。\n但在12月17日的上涨期间，其以均价1.04美元的进一步增持2,080万枚STORJ，导致总损失74.5万美元（-2.86%）。",
+          "link": "https://www.odaily.news/ja/newsflash/347625",
+          "publishedOn": "2023-12-26T03:21:57.000Z",
+          "wordCount": 1758,
+          "title": "三个鲸鱼地址过去17个小时内向币安存入了3078万枚STORJ，占总供应量的7.24%",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347624",
+          "author": null,
+          "description": "オデイリー・ニュース・アナリストが２５日発表した。トークンエコノミクスについて: - トークンの総供給量は 42 億で、その 48% は 0.05 SOL + 1 ZERO の価格で公的に鋳造されます; - トークンのさらに 48% は、収集されたすべての SOL 料金とともに追加されます。メテオラの AMM プール、関連する流動性トークンは 2 年間ロックされ、受益者は Solana 創設者 Anatoly Yakovenko になります; - 供給量の 3% は、鋳造後 3 日以内に ONE 保有者にギフトとして配布されます、特定のスナップショットはまだ明らかにされていません; - トークンの 1% は、3/4 マルチ署名方式を通じて、1 年以内にコミュニティ内の 4 人のアンバサダーに段階的に配布されます。ミント活動は少なくとも1時間続く予定で、有効なブロック数が7,000に達することを目標としているが、今回は検証方法が異なる。トップ 3 CEX が流動性要件を満たすために将来 ZERO を上場する予定がある場合に備えて、鋳造期間中に調達されたすべての ZERO は特定のウォレットに保管されます。公式リマインドでは、取引開始は12月27日0時以降となる予定となっており、その際に偽造トークンの取引を行わないようご注意ください。",
+          "link": "https://www.odaily.news/ja/newsflash/347624",
+          "publishedOn": "2023-12-26T03:18:48.000Z",
+          "wordCount": 1845,
+          "title": "Analysoor: 最初のコミュニティ ミーム コイン WHEN は 12 月 26 日 22:00 に鋳造されます",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347623",
+          "author": null,
+          "description": "Odaily星球日报讯 根据RWA监控平台RWA.xyz的数据，截至发稿，代币化美国国债市场规模从年初的约1亿美元增长至7.7亿美元，涨幅超600%。\n其中，以太坊链上美国国债代币的价值为4.104亿美元，Stellar对应市值为3.366亿美元。",
+          "link": "https://www.odaily.news/ja/newsflash/347623",
+          "publishedOn": "2023-12-26T03:10:10.000Z",
+          "wordCount": 1752,
+          "title": "代币化美国国债市场规模达7.7亿美元，其中以太坊链上市值超4.1亿美元",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347621",
+          "author": null,
+          "description": "Odaily星球日报讯 Coinglass数据显示，过去24小时SOL爆仓2004.59万美元，超过BTC（1926.53万美元）；其中多单爆仓约625.21万美元，空单爆仓约1379.37万美元。",
+          "link": "https://www.odaily.news/ja/newsflash/347621",
+          "publishedOn": "2023-12-26T03:00:04.000Z",
+          "wordCount": 1752,
+          "title": "过去24小时SOL爆仓2004.59万美元，超过BTC",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347620",
+          "author": null,
+          "description": "Odaily News Coinglass データによると、Grayscale GBTC の現在のマイナスプレミアム率は 5.63%、ETH Trust のマイナスプレミアム率は 13.23% です。また、グレースケール SOL トラストのプレミアム率は 312.99%、LINK トラストのプレミアム率は 301.88% となります。",
+          "link": "https://www.odaily.news/ja/newsflash/347620",
+          "publishedOn": "2023-12-26T02:56:05.000Z",
+          "wordCount": 1795,
+          "title": "現在のグレースケール GBTC のマイナスプレミアム率は 5.63%、LINK Trust のプレミアム率は 301.88% です。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347619",
+          "author": null,
+          "description": "Odaily News SEC インターネット執行局の元ディレクター、ジョン・リード・スターク氏は、SEC との 20 年間の経験に基づいて、SEC がスポットビットコイン ETF の何らかの反復を承認する可能性があると投稿しました。 。しかし、同氏は、スポットビットコインETFの承認は良いことだとは考えていないと付け加え、巨額の金を掴む投資家たちとスポットビットコインETFに対する新たなウォール街詐欺を生み出すことになるため、このアイデアは依然として「ばかばかしい」コンセプトであると付け加えた。は、最も「集中型」の暗号化製品である可能性があります。",
+          "link": "https://www.odaily.news/ja/newsflash/347619",
+          "publishedOn": "2023-12-26T02:52:08.000Z",
+          "wordCount": 1761,
+          "title": "元SEC当局者：関連報道が真実であれば、スポットビットコインETFのSEC承認は可能のようだ",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347618",
+          "author": null,
+          "description": "Odaily星球日报讯 据Tokenview链上数据监测，截止目前BRC-20市值约为21.8亿美元，近24H上涨30.7%；BRC-20近24H交易量约为21.5亿美元，交易量排名前三的分别为ORDI 、1000SATS 、SATS。",
+          "link": "https://www.odaily.news/ja/newsflash/347618",
+          "publishedOn": "2023-12-26T02:49:18.000Z",
+          "wordCount": 1757,
+          "title": "BRC-20市值突破21亿美元",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347617",
+          "author": null,
+          "description": "Odaily星球日报讯 彭博ETF分析师Eric Balchunas表示，精简、具有成本效益的ETF的引入，可能会推翻当前许多加密货币交易所高费用、容易滋生腐败的盈利模式。（Cointelegraph）",
+          "link": "https://www.odaily.news/ja/newsflash/347617",
+          "publishedOn": "2023-12-26T02:44:53.000Z",
+          "wordCount": 1756,
+          "title": "彭博分析师：引入具有成本效益的ETF或将推翻交易所当前盈利模式",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347616",
+          "author": null,
+          "description": "Odaily星球日报讯 慢雾创始人余弦在X平台发文表示：“之前就有人反馈玩Avascriptions时，钱包没切换到正确的网络，导致资产打到了其他EVM链上。这个确实是个坑，Avascriptions可以强制限制网络必须是Avalanche，否则不允许前端下一步操作（右上角Wrong Network这种提醒太弱了）。用户也需要注意这种坑，别急。\n不过有个好消息是，用户打到Avascriptions在其他EVM链的资产是可以找回的，需要项目方在其他EVM链部署相关合约即可（请小心操作，否则没救）。另外，虽然项目方在Avalanche上的核心合约还没开源，但反编译看了是预留资产取回功能的。问题不大，看项目方了。”",
+          "link": "https://www.odaily.news/ja/newsflash/347616",
+          "publishedOn": "2023-12-26T02:41:15.000Z",
+          "wordCount": 1756,
+          "title": "余弦：用户打到Avascriptions在其他EVM链的资产可以找回，需项目方部署相关合约",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347615",
+          "author": null,
+          "description": "Odaily MCT データによると、ビットコイン ネットワーク上の現在の通常の取引手数料は 60 衛星/バイト、超高速取引手数料は 62 衛星/バイトです。",
+          "link": "https://www.odaily.news/ja/newsflash/347615",
+          "publishedOn": "2023-12-26T02:36:48.000Z",
+          "wordCount": 1766,
+          "title": "ビットコインネットワーク上の通常の取引手数料は60サット/バイトです",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191966",
+          "author": null,
+          "description": "是创作者的坚持，让 Froganas 迎来了涅槃重生。",
+          "link": "https://www.odaily.news/ja/post/5191966",
+          "publishedOn": "2023-12-26T02:35:49.000Z",
+          "wordCount": 1738,
+          "title": "Froganas：涅槃重生的百倍Solana NFT新热点",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347614",
+          "author": null,
+          "description": "Odaily News Etherscan データによると、現在のイーサリアムネットワークのガス料金は再び 14 グウェイに下がっています。",
+          "link": "https://www.odaily.news/ja/newsflash/347614",
+          "publishedOn": "2023-12-26T02:35:17.000Z",
+          "wordCount": 1762,
+          "title": "イーサリアムのネットワークガス料金が再び14グウェイに下がる",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347613",
+          "author": null,
+          "description": "Odaily星球日报讯 据链上分析师@ai_9684xtpa监测，11月以来胜率100%的某ETH波段巨鲸以均价2263美元再次加仓800枚ETH。目前其ETH交易情况如下：\n- 11.14 - 12.25共建仓13,153 ETH，平均成本1975美元；\n- 12.21共出售1000枚ETH，获利26.7万美元。",
+          "link": "https://www.odaily.news/ja/newsflash/347613",
+          "publishedOn": "2023-12-26T02:30:32.000Z",
+          "wordCount": 1764,
+          "title": "11月以来胜率100%的某ETH波段巨鲸再次加仓800枚ETH",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347612",
           "author": null,
@@ -5759,76 +5904,6 @@
           "publishedOn": "2023-12-21T16:17:25.000Z",
           "wordCount": 1712,
           "title": "Coinbaseがフランスで仮想通貨ライセンスを取得",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347145",
-          "author": null,
-          "description": "Odaily News Coinbase は、東部時間 2024 年 1 月 9 日正午頃、ビットコイン SV (BSV) のサポートを終了すると正式に発表しました。",
-          "link": "https://www.odaily.news/ja/newsflash/347145",
-          "publishedOn": "2023-12-21T15:16:27.000Z",
-          "wordCount": 1722,
-          "title": "Coinbase、ビットコインSV（BSV）の上場廃止を発表",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347144",
-          "author": null,
-          "description": "Odaily News NEAR Foundation は、NEAR Data Availability Layer (NEAR DA) が Arbitrum Orbit で利用可能になったと発表しました。Arbitrum Orbit は、開発者が Arbitrum の技術に基づいて独自の構成可能な軽量チェーンを起動できるようにする技術スタックです。 Arbitrum Orbit は、イーサリアムの L2/L3 スケーリング ソリューションを提供するプラットフォームで、開発者が独自の構成でプライベート チェーンを構築できるようにします。 NEAR DA を統合することで、軽量チェーンのビルダーは、データ可用性コストの削減による恩恵を受け、軽量チェーン全体のオーバーヘッドを大幅に削減できます。",
-          "link": "https://www.odaily.news/ja/newsflash/347144",
-          "publishedOn": "2023-12-21T15:08:15.000Z",
-          "wordCount": 1739,
-          "title": "Arbitrum Orbit は NEAR データ可用性レイヤーを統合します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347143",
-          "author": null,
-          "description": "Odaily News Prometheum Inc.は、米国証券取引委員会（SEC）規制に基づく最新の規制当局の承認を取得し、米国証券取引委員会の規制に完全に準拠した実行可能な暗号プラットフォームをテストしようとしていると発表しました。 FINRA（金融機関）が発行した拡張ライセンス文書によると、プロメシュームは、SEC規則に基づいて特別目的暗号ブローカーディーラーとしてライセンスを取得した最初で唯一の企業となり、デジタル資産証券取引の清算と決済についても承認されたという。業界規制当局)。プロメシュームは、2024年第1四半期に資産管理会社、ヘッジファンド、その他の金融機関にデジタル資産保管サービスの提供を開始する予定だ。同社は第2四半期までに、顧客（最初は機関顧客、次に個人投資家）に取引および清算サービスを提供する予定だ。カプラン氏はまた、これを従来の証券のトークン化のための潜在的なプラットフォームとしても見ています。 (コインデスク)",
-          "link": "https://www.odaily.news/ja/newsflash/347143",
-          "publishedOn": "2023-12-21T15:02:09.000Z",
-          "wordCount": 1701,
-          "title": "プロメシューム、米国規制当局からデジタル資産証券取引の清算と決済のライセンスを取得",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347142",
-          "author": null,
-          "description": "Odaily News Circle は、フランス金融市場庁 (AMF) からデジタル資産サービスプロバイダーとしての条件付き登録を取得したと正式に発表しました。フランスとEUに対する同社のコミットメントをさらに示すものとして、Circleはフランスでのライセンス事業の責任者に決済業界のベテラン、コラリー・ビルマン氏を選出したことも発表したが、同氏の任命は規制当局の承認が必要となる。",
-          "link": "https://www.odaily.news/ja/newsflash/347142",
-          "publishedOn": "2023-12-21T14:42:06.000Z",
-          "wordCount": 1725,
-          "title": "Circle はフランスの AMF デジタル アセット サービス プロバイダーとして条件付き登録を取得しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347141",
-          "author": null,
-          "description": "Odaily News AlienSwapは、ZKFairメインネットのサポートを発表し、ZKFairと協力してフェアファイトNFTの無料キャスティングを期間限定でオープンしました。 Fair Fightは、ZKFairがAlienSwapでローンチした合計50,000ユニットのNFTシリーズで、コミュニティ抵抗軍の精神を体現し、PUAと市場での高評価の現在の現象に抵抗することを目的としています。 ZKFair は 23 日に GAS Fee エアドロップ イベントを開始し、ユーザーは AlienSwap で ZKFair メインネットと対話してエアドロップ報酬を獲得できます。",
-          "link": "https://www.odaily.news/ja/newsflash/347141",
-          "publishedOn": "2023-12-21T14:40:40.000Z",
-          "wordCount": 1720,
-          "title": "AlienSwapはZKFairメインネットをサポートし、ZKFairと協力してFair Fight NFT無料キャスティングをオープンします",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347140",
-          "author": null,
-          "description": "オデイリーニュース 仮想通貨マイニング会社コア・サイエンティフィックは木曜日、破産からの回復は1月中旬から下旬になる見通しだと述べた。テキサス州オースティンに本拠を置く同社は、ビットコイン価格の急落、ビットコイン採掘のためのエネルギーコストの上昇、最大顧客の1つである米国の仮想通貨金融業者セルシウス・ネットワークへの未払い債務を背景に、昨年破産保護を申請した。コア・サイエンティフィックは、世界的な和解条件に関してすべての主要な関係者と原則合意に達したと述べた。アダム・サリバン最高経営責任者（ＣＥＯ）は声明で「この世界的和解は、１月に予定されている連邦破産法第１１条からの脱出に向けた重要な障害を解決する」と述べた。 Core Scientific は、暗号トークン市場を混乱させた昨年の注目を集めた暴落の犠牲者の 1 人でした。 (ロイター)",
-          "link": "https://www.odaily.news/ja/newsflash/347140",
-          "publishedOn": "2023-12-21T14:39:24.000Z",
-          "wordCount": 1711,
-          "title": "仮想通貨マイナーのコア・サイエンティフィック、1月に破産から脱却する見通し",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347139",
-          "author": null,
-          "description": "Odaily News Web3 通信プロトコル WalletConnect は、新しい分散型ロードマップをリリースしました。最終的には 2025 年にライセンスフリーのオープン ネットワークとして正式に開始される予定です。ロードマップは 4 つのフェーズに分かれています。 1. フェーズ 1 (現在): クローズド ネットワーク テストの開始準備 許可不要の WalletConnect ネットワークの立ち上げに備えて、インフラストラクチャを複数のリピーターに拡張する作業を行う; 2. フェーズ 2 (2024 年第 1 四半期): クローズド ネットワークを立ち上げ、マルチパーティの読み取りを可能にする許可付きレジストリ アプローチを実装するためのテストを完了する3. 第 3 フェーズ (2024 年第 3 四半期): オープン ネットワークを立ち上げてテストを完了し、選択したサードパーティ製リレーを使用してポイントツーポイント フレームワークを確立し、漸進的なネットワーク アクセスを実現し、テストに参加します。同時に開発者へのインセンティブ措置; 4. 第 4 フェーズ (2025 年末): ライセンス不要のオープン ネットワークとして正式に開始され、WalletConnect ネットワークは完全に分散化された状態に移行し、インフラストラクチャ プロバイダーのコミュニティによって集合的に運用されます。 。",
-          "link": "https://www.odaily.news/ja/newsflash/347139",
-          "publishedOn": "2023-12-21T14:36:47.000Z",
-          "wordCount": 1821,
-          "title": "WalletConnect が分散型ロードマップをリリース: 2025 年に許可不要のオープン ネットワークを開始する計画",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
