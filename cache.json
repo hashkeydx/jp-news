@@ -315,6 +315,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=500922",
+          "author": "AKIRA.H",
+          "description": "暗号資産（仮想通貨）ビットコインの不正流出を機に破綻した、元大手取引所マウントゴックスについて、債権者が「現金弁済」の進展を共有。PayPal経由での法定貨幣返済の実例や、債権者の体験談を解説。",
+          "link": "https://coinpost.jp/?p=500922",
+          "publishedOn": "2023-12-26T07:01:25.000Z",
+          "wordCount": 1908,
+          "title": "マウントゴックスから返済開始か、SNSで報告される債権者へ現金弁済の事例",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/mt.gox-dec-delay.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/mt.gox-dec-delay.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=500898",
           "author": "AKIRA.H",
           "description": "ODXが展開する日本初のデジタル証券二次市場「START」の詳細。当初取扱う2つのセキュリティトークン「ケネディクス」と「いちご」の取引情報と投資機会を解説。",
@@ -936,6 +951,26 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/post/5191979",
+          "author": null,
+          "description": "早在11月，Mt.Gox就曾预告过赔偿动作。",
+          "link": "https://www.odaily.news/ja/post/5191979",
+          "publishedOn": "2023-12-26T07:07:53.000Z",
+          "wordCount": 1658,
+          "title": "行情急跌，Mt.Gox开始砸盘了？",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191977",
+          "author": null,
+          "description": "ビットコインに代表される仮想通貨は、当然ながらAIの決済通貨として適しています。",
+          "link": "https://www.odaily.news/ja/post/5191977",
+          "publishedOn": "2023-12-26T07:00:31.000Z",
+          "wordCount": 2270,
+          "title": "MTキャピタル調査レポート：SolanaとAI + DePINトラックに焦点を当てた2024年のメッサリ暗号理論の解釈",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/post/5191978",
           "author": null,
