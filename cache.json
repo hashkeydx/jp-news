@@ -315,6 +315,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=500898",
+          "author": "AKIRA.H",
+          "description": "ODXが展開する日本初のデジタル証券二次市場「START」の詳細。当初取扱う2つのセキュリティトークン「ケネディクス」と「いちご」の取引情報と投資機会を解説。",
+          "link": "https://coinpost.jp/?p=500898",
+          "publishedOn": "2023-12-26T05:14:05.000Z",
+          "wordCount": 1922,
+          "title": "日本初のデジタル証券二次市場「START」開設、ケネディクスといちごの2銘柄取引開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/START_1226.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/START_1226.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=500867",
           "author": "A.Yamada",
           "description": "米大手仮想通貨取引所コインベースは、同取引所などが仮想通貨規制を妨げているというウォーレン上院議員に公開書簡を提出・反論している。",
@@ -921,6 +936,126 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347646",
+          "author": null,
+          "description": "Odaily星球日报讯 对冲基金Gotbit Hedge Fund在X平台宣布与Solana生态Meme项目KNOB达成合作协议。Gotbit Hedge Fund将成为其官方做市商，并提供合作伙伴关系、营销咨询和CEX扩张等服务。",
+          "link": "https://www.odaily.news/ja/newsflash/347646",
+          "publishedOn": "2023-12-26T05:20:26.000Z",
+          "wordCount": 1621,
+          "title": "Gotbit Hedge Fund成为Solana生态Meme项目KNOB官方做市商",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191950",
+          "author": null,
+          "description": "現実をサポートする仮想的な DePIN は、Web3 に新しいトラフィックの入り口をもたらします。",
+          "link": "https://www.odaily.news/ja/post/5191950",
+          "publishedOn": "2023-12-26T05:15:53.000Z",
+          "wordCount": 2786,
+          "title": "Web3 のサークルを突破する新しい方法、DePIN トラックの潜在的な 10 銘柄を評価する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347645",
+          "author": null,
+          "description": "Odaily星球日报讯 据DefiLlama贡献者Kofi在X平台披露数据，比特币的安全预算（矿工保护该网络所得收入）本月超过15.5亿美元，与2021年4月创下的19.6亿美元历史高点相差4亿美元。",
+          "link": "https://www.odaily.news/ja/newsflash/347645",
+          "publishedOn": "2023-12-26T05:12:23.000Z",
+          "wordCount": 1609,
+          "title": "比特币12月安全预算超15.5亿美元，较历史高点少4亿美元",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191932",
+          "author": null,
+          "description": "速览行业一周重要信息。",
+          "link": "https://www.odaily.news/ja/post/5191932",
+          "publishedOn": "2023-12-26T05:03:46.000Z",
+          "wordCount": 2971,
+          "title": "Gryphsis 加密货币周报：香港监管机构表示，现货加密货币ETF申请将被考虑",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191963",
+          "author": null,
+          "description": "账户抽象技术，尤其是 ERC-4337，有望彻底改变自我托管钱包的用户体验，并使其能够扩展以供大规模采用。",
+          "link": "https://www.odaily.news/ja/post/5191963",
+          "publishedOn": "2023-12-26T05:00:30.000Z",
+          "wordCount": 2732,
+          "title": "SevenX Ventures: 一文读懂账户抽象，ERC4337如何带来以太坊账户的进化？",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347644",
+          "author": null,
+          "description": "Odaily星球日报讯 分析师表示，到2024年，金融机构的加密货币市场活动可能会有所增加，因为受到现货比特币ETF的潜在批准、美联储降息预期以及监管更加明确的推动。\n衍生品交易所Deribit的数据显示，自2023年10月以来，机构投资者的活动有所增加。Deribit首席商务官Luuk Strijers表示，数据表明，来自传统市场的经验丰富的参与者正在为2024年更多地参与市场做好准备。Luuk称：“自10月底以来，机构活动明显增加，这主要是由于1月份潜在ETF消息的预期以及客户对此事件的战略定位”。（The Block）",
+          "link": "https://www.odaily.news/ja/newsflash/347644",
+          "publishedOn": "2023-12-26T04:49:53.000Z",
+          "wordCount": 1611,
+          "title": "Deribit首席商务官：机构投资者正为2024年更多参与加密市场做准备",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347643",
+          "author": null,
+          "description": "Odaily星球日报讯 跨链元宇宙冒险游戏Monsterra登陆Cosmos后，正式开启其质押奖励活动。\n据悉，Monsterra具有独特的销毁机制，其代币MSTR可用于质押、购买或升级游戏体验、参与游戏内活动。",
+          "link": "https://www.odaily.news/ja/newsflash/347643",
+          "publishedOn": "2023-12-26T04:48:31.000Z",
+          "wordCount": 1609,
+          "title": "“Monsterra登陆Cosmos”质押奖励活动开启",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347642",
+          "author": null,
+          "description": "Odaily星球日报讯 根据Glassnode最近的分析，稳定币在市场动态中所扮演角色与上一个周期相比发生了显著变化。它们已成为交易者的“首选报价货币”（Quote Currency）和市场流动性的主要来源。\n此外，10月标志着一个转折点，稳定币总供应量降至1200亿美元的低点，并开始以每月3%的速度增长。这标志着自2022年3月以来稳定币供应的首次扩张，表明投资者可能兴趣重燃。（Crypto Potato）",
+          "link": "https://www.odaily.news/ja/newsflash/347642",
+          "publishedOn": "2023-12-26T04:43:43.000Z",
+          "wordCount": 1611,
+          "title": "Glassnode：稳定币已成为交易者“首选报价货币”和流动性主要来源",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347641",
+          "author": null,
+          "description": "Odaily News Wintermute の共同創設者 Evgeny Gaevoy 氏は、このプラットフォームでは年間を通じてさまざまな資産が取引されており、クリスマスの日に取引される固有の資産の数は 12 月の他の日に比べてわずかに少ないものの、通常、取引活動は年末に向けて増加すると述べました。年。同氏は、「トランザクションの予約や、年末までの請求書の決済などの業務上のニーズを問わず、多くの場合、年末税などの戦略的考慮事項によって引き起こされるビジネスリクエストの数が増えています。」（The Block）と述べた。 ）",
+          "link": "https://www.odaily.news/ja/newsflash/347641",
+          "publishedOn": "2023-12-26T04:40:27.000Z",
+          "wordCount": 1639,
+          "title": "Wintermute Lianchuang: プラットフォーム取引活動は通常、年末に向けて増加します",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347640",
+          "author": null,
+          "description": "Odaily News Bitget 市場では、ZERO が 3 USDT を超え、現在 3.0528 USDT で取引されており、24 時間で 74.79% 上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/347640",
+          "publishedOn": "2023-12-26T04:35:47.000Z",
+          "wordCount": 1669,
+          "title": "ZERO は 3 USDT を超え、24 時間で 74.79% 増加しました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191970",
+          "author": null,
+          "description": "市場のホットスポットは盛衰しますが、ビットコインのバリューストアの根幹は変わりません。",
+          "link": "https://www.odaily.news/ja/post/5191970",
+          "publishedOn": "2023-12-26T04:30:00.000Z",
+          "wordCount": 2585,
+          "title": "ビットコイン ルネッサンス: 変化する価値と変わらない価値とコンセンサス",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347639",
+          "author": null,
+          "description": "Odaily星球日报讯 Atomicals Protocol在X平台发文表示，Neutron Protocol团队对Atomicals ARC20代码进行优化的atomicals-js CLI（0.1.63版本）存在漏洞，目前正在修复。\n该版本意外地广播了一笔具有无效Bitwork的新交易，在修复期间，官方建议用户使用前一个版本（0.1.62）。",
+          "link": "https://www.odaily.news/ja/newsflash/347639",
+          "publishedOn": "2023-12-26T04:27:10.000Z",
+          "wordCount": 1634,
+          "title": "Atomicals Protocol：atomicals-js CLI 0.1.63版本存在漏洞，修复期间建议使用0.1.62版本",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347638",
           "author": null,
@@ -6009,36 +6144,6 @@
           "publishedOn": "2023-12-21T17:35:50.000Z",
           "wordCount": 1727,
           "title": "SOL は 95 USDT を超え、24 時間で 15% 以上上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/post/5188995",
-          "author": null,
-          "description": "ソラナとアバランチの新しい人気ミームを調べます。",
-          "link": "https://www.odaily.news/ja/post/5188995",
-          "publishedOn": "2023-12-21T17:14:19.000Z",
-          "wordCount": 2287,
-          "title": "Silly は急上昇し、Meme ブームが戻ってきています。これらの新しいプロジェクトは注目に値します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347152",
-          "author": null,
-          "description": "Odaily News ワールドコイン開発会社ツール・フォー・ヒューマニティ（TFH）の製品、エンジニアリング、デザインのディレクターであるティアゴ・サダ氏は、ワールドアプリのユーザー数が500万人を超えたばかりで、現在のユーザー数は週に1人であるとソーシャルメディアで明らかにした。百万。",
-          "link": "https://www.odaily.news/ja/newsflash/347152",
-          "publishedOn": "2023-12-21T16:58:44.000Z",
-          "wordCount": 1702,
-          "title": "Worldcoinエコウォレット 世界のアプリユーザーが500万人を突破",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347151",
-          "author": null,
-          "description": "Odaily News BRC20プロジェクト発行プラットフォームAsatpadは、Atpad/WETH取引ペアを12月22日にUniswapに上場すると発表した。 Asatpad は、プロジェクト関係者向けの BRC20 プロトコルのオープンソース プラットフォームであり、BRC20 エコロジー プロジェクトの構築の促進に取り組んでいると報告されています。",
-          "link": "https://www.odaily.news/ja/newsflash/347151",
-          "publishedOn": "2023-12-21T16:29:16.000Z",
-          "wordCount": 1705,
-          "title": "BRC20プロジェクト発行プラットフォームプロジェクトAsatpadはUniswapにAtpad/WETH取引ペアを上場予定",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
