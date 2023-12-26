@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-26T10:27:27.617Z</updated>
+    <updated>2023-12-26T11:18:55.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解读币安Launchpool新项目：虚拟情侣游戏Sleepless AI]]></title>
+        <id>https://www.odaily.news/ja/post/5188058</id>
+        <link href="https://www.odaily.news/ja/post/5188058"/>
+        <updated>2023-12-26T11:04:20.000Z</updated>
+        <summary type="html"><![CDATA[别炒币了，快来谈恋爱！]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教程：全网都在挖的ARC20代币QUARK怎么铸造？]]></title>
+        <id>https://www.odaily.news/ja/post/5191987</id>
+        <link href="https://www.odaily.news/ja/post/5191987"/>
+        <updated>2023-12-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[QUARK有望成为 Atomicals 生态中能出圈的 Meme 币。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNB突破288 USDT，24H涨幅9%]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347684</id>
+        <link href="https://www.odaily.news/ja/newsflash/347684"/>
+        <updated>2023-12-26T10:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 行情显示，BNB突破288 USDT，现报288.2 USDT，24H涨幅为9%。
+此前消息，币安新币挖矿现已上线第42期项目 - Sleepless AI （AI） ，一个Web3+AI游戏平台。用户可以在2023年12月28日08:00（东八区时间）后在Launchpad网站 将BNB、FDUSD、TUSD投入到AI挖矿池中获得AI奖励]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telcoin发布安全事件更新]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347683</id>
+        <link href="https://www.odaily.news/ja/newsflash/347683"/>
+        <updated>2023-12-26T10:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 Telcoin于X平台发布安全事件更新：“我们已经确定了根本原因，这不是Telcoin钱包代码本身的问题，而是Polygon上钱包的代理实现的问题 - 主要影响从未发起交易的钱包。我们已经部署了修复程序来阻止进一步的利用。
+我们计划在重新打开应用程序服务之前将所有钱包恢复到之前的余额（对于所有受影响的资产），这可能需要一些时间。没有密钥、后端系统或用户数据被破坏。我们将很快提供另一个更新，感谢大家的耐心和支持。”
+此前消息，MetaTrust Labs在X平台发文表示，其链上监视器MetaScout最近发现了一系列针对Telcoin钱包的针对性攻击。由于这些攻击，Telcoin（TEL）的价格暴跌65%，目前已造成大约120万美元的损失。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トークンは新たな高値に達しましたが、xPET のアップデートはどの程度強力になるでしょうか?]]></title>
+        <id>https://www.odaily.news/ja/post/5191986</id>
+        <link href="https://www.odaily.news/ja/post/5191986"/>
+        <updated>2023-12-26T10:42:32.000Z</updated>
+        <summary type="html"><![CDATA[フライホイールが死のスパイラルから抜け出すのに役立つ新しいコンテンツを紹介します。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[先物取引におけるビットコインのシェアが低下──アルトコインへ資金が流れる]]></title>
         <id>https://www.coindeskjapan.com/?p=213678</id>
@@ -6556,38 +6609,6 @@ ARKインベストメントがコインベース株を追加売却──12月の
         <summary type="html"><![CDATA[ビットコインの上昇で仮想通貨関連株が全面高に。なお、NYダウは昨日の急落から強く反発し+322ドルで取引を終えた。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、次期大型アップグレード「デンクン」の最初のテストネット導入目標は1月]]></title>
-        <id>https://www.coindeskjapan.com/?p=213267</id>
-        <link href="https://www.coindeskjapan.com/213267/"/>
-        <updated>2023-12-21T22:33:35.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム開発者らは次期アップグレード「デンクン（Dencun）」に向けてテストプロセスを加速させている。デンクンは来年に予想される大きなマイルストーンであり ...
-イーサリアム、次期大型アップグレード「デンクン」の最初のテストネット導入目標は1月 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルゼンチンの新政権、ビットコインの契約書利用を許可]]></title>
-        <id>https://coinpost.jp/?p=500048</id>
-        <link href="https://coinpost.jp/?p=500048"/>
-        <updated>2023-12-21T22:30:05.000Z</updated>
-        <summary type="html"><![CDATA[南米アルゼンチンのミレイ新政権は、仮想通貨ビットコインを契約書に使用可能と発表した。同国のビットコイン公式採用については未だ大規模な発表はされていない。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アジアが次の強気相場を牽引する]]></title>
-        <id>https://www.coindeskjapan.com/?p=213163</id>
-        <link href="https://www.coindeskjapan.com/213163/"/>
-        <updated>2023-12-21T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[我々は次の強気相場の幕開けを迎えた。歴史を参考にすれば、このようなサイクルは、ビットコイン半減期、アメリカの選挙や連邦準備制度理事会（FRB）の金利をめぐるマク ...
-アジアが次の強気相場を牽引する first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Amanda Cassatt</name>
         </author>
     </entry>
 </feed>
