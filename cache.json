@@ -255,6 +255,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=501087",
+          "author": "AKIRA.H",
+          "description": "MMD研究所が実施した暗号資産（仮想通貨）取引所サービス利用者調査結果を分析。ポイント投資に焦点を当て、メルコインと楽天ウォレットのビットコイン取引の影響力を探る。ユーザー満足度と利用動向の最新情報を提供。",
+          "link": "https://coinpost.jp/?p=501087",
+          "publishedOn": "2023-12-27T02:10:52.000Z",
+          "wordCount": 1931,
+          "title": "暗号資産とビットコイン取引の玄関口に、メルカリと楽天ウォレットのポイント投資が台頭",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/MMD04.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/MMD04.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=501074",
+          "author": "A.Yamada",
+          "description": "Scam Snifferは、マルウェアの一種MS Drainerを利用したフィッシング詐欺により、過去9か月間で84億円相当の仮想通貨が盗まれたと発表した。",
+          "link": "https://coinpost.jp/?p=501074",
+          "publishedOn": "2023-12-27T01:40:02.000Z",
+          "wordCount": 2010,
+          "title": "Googleでの偽広告フィッシング詐欺で80億円超の仮想通貨が盗まれる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/phishing_attack1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/phishing_attack1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=501070",
           "author": "K.Kobayashi",
           "description": "仮想通貨運用企業グレースケールは、米SECに書類を提出し、Barry Silbert氏が取締役会会長を辞任することを報告。理由は不明確だが、ビットコイン現物ETFの審査を意識しているとの見方が上がった。",
@@ -741,6 +771,146 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347752",
+          "author": null,
+          "description": "Odaily星球日报讯 Arbitrum在X平台发布ArbitrumDAO相关提案和温度检查投票进展，包括：\n- 关于“面向积极ArbitrumDAO代表的实验性激励系统”提案：旨在向6个月内排名前50位的活跃代表提供152.5万枚ARB奖励。DAO已投票使用Karma支持该提案。\n- 关于“建立Arbitrum研发团队（ARDC）”：旨在为ARDC提供为期6个月的资金，投票选项包括88万枚ARB、130万枚ARB、171.5万枚ARB（获得票数最多），或者不为ARDC提供资金。\nARDC职能包括：审查及提升治理提案、为安全进行代码审查、为经济风险提供定量分析\n促进积极代表参与。ARDC将为提案作者提供有价值的工具和报告，由一名研究成员、一名安全成员、一名风险成员和一名DAO倡导者组成。DAO将选举所有角色。",
+          "link": "https://www.odaily.news/ja/newsflash/347752",
+          "publishedOn": "2023-12-27T02:21:53.000Z",
+          "wordCount": 1711,
+          "title": "ArbitrumDAO关于“建立Arbitrum研发团队”提案投票已结束",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347751",
+          "author": null,
+          "description": "Odaily星球日报讯 据Spot On Chain监测，早期买家（0x808开头地址）在约4小时前以均价102.7美元通过Cumberland向Coinbase和OKX存入3万枚AAVE（308万美元）。 \n值得注意的是，早在2020年5月，该巨鲸只用了50万枚USDC以均价0.04美元买入1250万枚LEND（后来转为12.5万枚AAVE）；该巨鲸目前仍持有10万枚AAVE（1020万美元），预计共获利1285万美元。",
+          "link": "https://www.odaily.news/ja/newsflash/347751",
+          "publishedOn": "2023-12-27T02:17:19.000Z",
+          "wordCount": 1712,
+          "title": "某鲸鱼数小时前向Coinbase和OKX存入3万枚AAVE，仍持有10万枚AAVE",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347750",
+          "author": null,
+          "description": "Odaily News Dune のデータによると、Manta Network の収益製品である New Paradigm チェーンの資産担保価値 TVL が 3 億米ドルを超えています。新しいパラダイムでは現在、111,085 ETH が約束され、57,538,390 USDC が約束されており、その額は増加し続けています。 New Paradigm は、Blast モデルを使用して Manta Network によって開始された収益製品です。ユーザーはETHとUSDCをマンタ・パシフィックに誓約し、友人を参加に招待すると、ETH、USDCの債券、MANTAトークンのエアドロップ、エコプロジェクトの報酬などを含む5つの特典を受け取ります。 Manta Pacific は、Manta Network が立ち上げた ZK アプリケーション用に設計されたイーサリアム モジュール式レイヤー 2 であり、現在、Polychain、Binance Labs、CoinFund、SevenX Ventures などの機関から 6,000 万米ドルを超える資金調達を受けています。",
+          "link": "https://www.odaily.news/ja/newsflash/347750",
+          "publishedOn": "2023-12-27T02:14:00.000Z",
+          "wordCount": 1770,
+          "title": "マンタ ニュー パラダイム TVL が 3 億米ドルを超える",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347749",
+          "author": null,
+          "description": "Odaily News Bitget市場によると、主要セクターはZK、Optimism、Layer2セクターであり、そのうちMETISは24時間で34.49%増加し、PERPは24時間で40.51%増加しました。本稿執筆時点で、24時間の世界の仮想通貨取引高は817億米ドルで、そのうちBTCが50.34%を占めています。リアルタイム上昇リストの上位 3 通貨は AIMX、1CAT、TET です。",
+          "link": "https://www.odaily.news/ja/newsflash/347749",
+          "publishedOn": "2023-12-27T02:12:14.000Z",
+          "wordCount": 1741,
+          "title": "Bitget 日次市場情報: 1CAT は 24 時間で 80.96% 上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347748",
+          "author": null,
+          "description": "1. 2023年CZ净资产增长约250亿美元，总规模预计超370亿美元；\n2. Barry Silbert已从灰度投资董事会辞职，其职务由Shifke接替；\n3. Analysoor：共有8500个地址参与铸造，将返还70枚SOL；\n4. Brevan Howard Digital：2024年稳定币交易量将超过Visa；\n5. 灰度提交修订后现货比特币ETF转换申请，接受“仅现金申购/赎回份额”要求；\n6. 杠杆交易平台LeverFi推出BRC20 Launchpad“LeverPro”；\n7. Xai：空投将推迟至下周进行，具体日期待定；\n8. Mt.Gox受托人因系统故障向部分债权人重复转账，已通知相关方退款；\n9. ZachXBT：Thunder Terminal疑似遭攻击，攻击者将86.5枚ETH转至Railgun；\n10. Coinbase Ventures：看好2024年行业前景，预计投资活动将增长；\n11. 2023年比特币挖矿难度总计进行27次调整，全年难度上调74%；\n12. Analysoor：WHEN铸造活动中存在多项技术挑战和操作问题，未来将加以改进；\n13. 币安全球用户数突破1.7亿；\n14. Sleepless AI完成由Folius Ventures领投的新一轮融资；\n15. Coinbase国际：已上线15种永续期货，覆盖永续期货市场70%以上的份额。",
+          "link": "https://www.odaily.news/ja/newsflash/347748",
+          "publishedOn": "2023-12-27T02:08:25.000Z",
+          "wordCount": 1730,
+          "title": "星球早讯",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347747",
+          "author": null,
+          "description": "Odaily News Binance の新 CEO、Richard Teng 氏は、世界中の Binance ユーザーの数が 1 億 7,000 万人を超えたと X プラットフォームに投稿しました。",
+          "link": "https://www.odaily.news/ja/newsflash/347747",
+          "publishedOn": "2023-12-27T02:03:09.000Z",
+          "wordCount": 1737,
+          "title": "Binanceのグローバルユーザーが1億7,000万人を超える",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347745",
+          "author": null,
+          "description": "Odaily星球日报讯 Solana生态协议Analysoor针对其首个社区Meme币WHEN的铸造活动进行回顾，其中提到三项技术挑战：\n- Backpack出现故障，导致接收资金的钱包停止工作，重新部署耗时20分钟；\n- RPC出现问题，影响网站的交易发送；\n- Jupiter swap API在LP创建时宕机，Meteora出现故障，Swap功能无法使用。\nAnalysoor团队同时指出自身操作问题：\n- 在启动前的质量检查中发现，Dune Analytics的校验和与后端结果不符，其不得不回退至旧版本的随机数生成器并添加5笔交易限制；\n- 验证过程耗时过长，对代码信任不足，担心向错误地址发送大额资金；\n- 发送代币的过程也过于缓慢，团队考虑跳过确认步骤或添加排队系统以提高效率。\nAnalysoor还表示，团队为当天的不佳体验向用户致歉，并承诺这种情况不会再次发生。",
+          "link": "https://www.odaily.news/ja/newsflash/347745",
+          "publishedOn": "2023-12-27T02:01:11.000Z",
+          "wordCount": 1729,
+          "title": "Analysoor：WHEN铸造活动中存在多项技术挑战和操作问题，未来将加以改进",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347744",
+          "author": null,
+          "description": "Odaily星球日报讯 Solana生态Siya.AI发布一月份的路线图，将上线AI伴侣（男友/女友）的NFT、与AI伴侣的Chat to Earn孵化模式、支持KOL/网红训练AI的创作者分润模式。Siya是Realy孵化的首个AI生态项目，致力于在Metaverse打造一个优质AI伴侣陪伴平台，目前该产品的Web2版本已经可以开始内测。\n据悉，Realy是Multicoin Capital领投的Solana生态AI项目，致力于为AI与区块链的集成提供新的标准和Web3 SDK。",
+          "link": "https://www.odaily.news/ja/newsflash/347744",
+          "publishedOn": "2023-12-27T01:57:33.000Z",
+          "wordCount": 1719,
+          "title": "Realy孵化的AI灵魂伴侣Siya发布产品路线图，将于下个月上线NFT和AI创作者激励",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347743",
+          "author": null,
+          "description": "Odaily News クロスチェーン取引インフラ zkLink Alpha がメインネットの立ち上げを発表このイベントは12月26日から1月8日まで開催され、参加ユーザーはその間にzkLinkロイヤルティポイントとOATを獲得できます。さらに、zkLink は、zkLink がサポートするネットワーク間での資産の転送を容易にするクロスチェーン ブリッジ zkLink Playground を開始しました。 5月の以前のニュースによると、zkLinkはCoinbase Ventures、Ascensive Assets、SIG DTI、BigBrain Holdings、Efficient Frontierなどが参加し、1000万米ドルの資金調達が完了したと発表した。",
+          "link": "https://www.odaily.news/ja/newsflash/347743",
+          "publishedOn": "2023-12-27T01:49:49.000Z",
+          "wordCount": 1758,
+          "title": "クロスチェーン取引インフラストラクチャ zkLink Alpha メインネットがオンラインに",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347742",
+          "author": null,
+          "description": "Odaily星球日报讯 X平台用户Solar今日凌晨发文表示，其发现Jupiter平台上SOL代币价格短时异常，有bot进行了大量套利行为。\n对此，Jupiter回复称因为对市场爬虫部署问题，影响了SWAP API和DCA订单大约22分钟，现已修复。如有用户的DCA或SWAP订单出现损失，可在Jupiter Discord上提交申请，官方将提供全额赔偿。",
+          "link": "https://www.odaily.news/ja/newsflash/347742",
+          "publishedOn": "2023-12-27T01:45:50.000Z",
+          "wordCount": 1715,
+          "title": "Jupiter今晨因爬虫部署问题导致SOL价格短时异常，受影响用户可申请赔偿",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347741",
+          "author": null,
+          "description": "Odaily星球日报讯 链上侦探ZachXBT针对Thunder安全事件发布更新：攻击者反驳官方所谓“没有私钥泄露”的说法，并表示已获取所有用户数据，并索要50枚ETH赎金，作为删除数据的条件。",
+          "link": "https://www.odaily.news/ja/newsflash/347741",
+          "publishedOn": "2023-12-27T01:42:06.000Z",
+          "wordCount": 1710,
+          "title": "ZachXBT：Thunder攻击者声称已获取所有用户数据，并索要50枚ETH赎金",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347740",
+          "author": null,
+          "description": "Odaily星球日报讯 Polygon Ventures首席执行官Abhishek Saxena表示：“Web3融资可能已经触底。”意味着新的一年将吸引更多的投资。Saxena称：“一个积极的指标是，即使在熊市中，我们也看到了有弹性的开发者活动，这突显出基础建设仍在继续。”\nSaxena表示，他预计面向消费者的用例（包括社交、金融服务和娱乐）的投融资将回升，这些领域可能会出现新的领军企业。他说，代币化垂直领域也有望在未来一年吸引更多的机构投资。Saxena称：“因此，虽然2023年是关于幕后建设的，但我看好Web3的创新和采用在2024年再次加速。”（The Block）",
+          "link": "https://www.odaily.news/ja/newsflash/347740",
+          "publishedOn": "2023-12-27T01:36:17.000Z",
+          "wordCount": 1722,
+          "title": "Polygon Ventures：Web3融资或已触底，2024年将吸引更多投资",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347739",
+          "author": null,
+          "description": "Odaily星球日报讯 Thunder在X平台发文表示，其使用的第三方服务疑似被攻击，超过14,000个钱包地址中有114个受到影响。官方称，已在9分钟内制止了攻击，用户资金已恢复安全，没有私钥泄露，并且即将处理赔偿事宜。\n今日早些时候消息，链上侦探ZachXBT发文表示，Thunder Terminal疑似遭攻击，攻击者已将86.5枚ETH转至Railgun。攻击者地址：0x2a2C200af4E659348C4182DD9806a340851df42e。",
+          "link": "https://www.odaily.news/ja/newsflash/347739",
+          "publishedOn": "2023-12-27T01:32:08.000Z",
+          "wordCount": 1713,
+          "title": "Thunder回应安全事件：团队已制止攻击行为，将赔偿受损用户",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5191996",
+          "author": null,
+          "description": "バイナンスはローンチプールの42番目のプロジェクト「Sleepless AI」が28日に投資を開始すると発表、マウントゴックスの債権者は日本円で返済を受ける可能性がある。",
+          "link": "https://www.odaily.news/ja/post/5191996",
+          "publishedOn": "2023-12-27T01:30:00.000Z",
+          "wordCount": 1978,
+          "title": "- バイナンス、Launchpoolプロジェクト「Sleepless AI」を発表、マウントゴックス債権者は円建てで返済可能(12.27)",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347738",
           "author": null,
@@ -5210,126 +5380,6 @@
           "wordCount": 1794,
           "title": "Stride は、NAM エアドロップ範囲に流動性ステーキング ユーザーを含めるという提案を Namada コミュニティで開始しました。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347310",
-          "author": null,
-          "description": "Odailyは、SECの公式ウェブサイトのメモによると、ARK Investと21Sharesは昨日、ビットコインスポットETFの問題について話し合うために米国SECと会談したと報じた。",
-          "link": "https://www.odaily.news/ja/newsflash/347310",
-          "publishedOn": "2023-12-22T14:21:42.000Z",
-          "wordCount": 1664,
-          "title": "ARK Investと21Sharesは昨日、ビットコインスポットETFの問題について話し合うために米国SECと会談した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347309",
-          "author": null,
-          "description": "Odaily News ステーブルコイン発行会社の Paxos は、自社製品を Solana ネットワークに拡張するための規制当局の承認を得ました。 Paxosは、2024年1月17日にSolanaでUSDPステーブルコインを発行する予定です。 （運）",
-          "link": "https://www.odaily.news/ja/newsflash/347309",
-          "publishedOn": "2023-12-22T14:21:30.000Z",
-          "wordCount": 1673,
-          "title": "PaxosがSolanaでUSDPを発行する規制当局の承認を取得",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347308",
-          "author": null,
-          "description": "Odaily News データセンター インフラストラクチャ会社 Akron Energy は、1 億 1,000 万米ドルの資金調達を完了しました。この資金調達ラウンドは、Bluesky Capital Management が主導し、Kestrel 0x1、Nural Capital、Florence Capital が参加しました。アクロン・エナジーのジョシュ・ペイン最高経営責任者（CEO）は、今回の新たな資金は同社の事業拡大に使用され、8000万ドルはオハイオ州、ノースカロライナ州、テキサス州の新しいデータセンターでさらに200メガワットの容量を取得するために使われると述べた。ペイン氏はまた、同社の米国データセンターポートフォリオは機関級のビットコインマイニング企業が大半を占めていると述べた。 (テッククランチ)",
-          "link": "https://www.odaily.news/ja/newsflash/347308",
-          "publishedOn": "2023-12-22T14:12:32.000Z",
-          "wordCount": 1673,
-          "title": "アクロン・エナジーが1億1,000万米ドルを調達、資金は主に米国のビットコイン採掘会社の支援に使用される",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347307",
-          "author": null,
-          "description": "Odaily News Arkham の監視により、0x454 で始まるアドレスが Aave 上の WBTC に約 8,000 万米ドルを抵当にし、約 4,800 万米ドル相当の ETH を借りていることがわかりました。その後、ETHがCoinbaseに送金され、クジラがETHを売り渡していた疑いがあり、クジラがETHをショートさせている可能性があります。クジラは約3日前に資金を確保し、ETH/BTCレートが新安値を付けていたタイミングで取引を行った。 WBTCの価格が変わらず、ETHの価格が約2,700ドルまで上昇した場合、クジラのポジションは清算されます。",
-          "link": "https://www.odaily.news/ja/newsflash/347307",
-          "publishedOn": "2023-12-22T14:07:40.000Z",
-          "wordCount": 1671,
-          "title": "クジラは、オンチェーンモーゲージを通じてETHの4,800万ドルの空売り操作を行った疑いがある。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347306",
-          "author": null,
-          "description": "Odaily News NEAR 公式チームは、シャーディングの第 2 フェーズが来年開始され、ステートレス検証が導入されると述べました。これにより、元の Nightshade の設計が拡張され、NEAR が不正行為の証明を回避できるようになります。各シャードの状態は完全にメモリに移動され、シャードあたりのパフォーマンスが 10 倍以上向上します。次のステップでは、zkWASM を既存の基盤に追加して実行証明を圧縮し、それによってバリデーターの分散化をさらに進めます。",
-          "link": "https://www.odaily.news/ja/newsflash/347306",
-          "publishedOn": "2023-12-22T13:59:57.000Z",
-          "wordCount": 1667,
-          "title": "NEARは来年シャーディングフェーズ2を開始します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347305",
-          "author": null,
-          "description": "Odaily News SECの文書によると、米国時間12月21日にValkyrieがSECと会談し、ビットコインスポットETFに関する問題について協議したことが明らかになった。",
-          "link": "https://www.odaily.news/ja/newsflash/347305",
-          "publishedOn": "2023-12-22T13:50:36.000Z",
-          "wordCount": 1658,
-          "title": "ヴァルキリーはビットコインスポットETFについて話し合うためにSECと会談",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347304",
-          "author": null,
-          "description": "Odaily星球日报讯 Bitcoin Magazine在X平台发文表示，贝莱德于12月21日与美国证券交易委员会（SEC）就其现货比特币ETF举行了第六次正式会议。",
-          "link": "https://www.odaily.news/ja/newsflash/347304",
-          "publishedOn": "2023-12-22T13:50:07.000Z",
-          "wordCount": 1658,
-          "title": "贝莱德昨日与SEC就其现货比特币ETF举行了第六次正式会议",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347303",
-          "author": null,
-          "description": "OdailyXunmei SEC 会長の Gary Gensler 氏が X プラットフォームに関するビデオを公開しました。ゲンスラー氏はビデオの中で、「仮想通貨業界には多くの不法行為があり、これほど多くの人が傷つき、破産裁判所に並ぶことしかできない状況では、（仮想通貨に対する）信頼が損なわれる」と述べた。さらに、違反により、誠実なプレーヤーが競争することが困難になる可能性があります。",
-          "link": "https://www.odaily.news/ja/newsflash/347303",
-          "publishedOn": "2023-12-22T13:46:48.000Z",
-          "wordCount": 1671,
-          "title": "米国SEC委員長がビデオを公開：仮想通貨分野では多くの違反がある",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347302",
-          "author": null,
-          "description": "Odaily News 香港の上場企業Boyaa Interactiveは、臨時株主総会で仮想通貨の購入に関する決議を可決したと発表した。この決議によれば、同社は12か月以内に最大1億ドルの仮想通貨を購入できるという。このうち、ビットコインとイーサリアムはそれぞれ4,500万米ドル以下で購入でき、USDTやその他の米ドルのステーブルコインは1,000万米ドル以下で購入できます。",
-          "link": "https://www.odaily.news/ja/newsflash/347302",
-          "publishedOn": "2023-12-22T13:44:56.000Z",
-          "wordCount": 1678,
-          "title": "Boyaa Interactive は仮想通貨購入提案を可決し、1 億米ドルを超えない仮想通貨を購入する予定です。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347301",
-          "author": null,
-          "description": "Odaily News Greeks.liveのアナリストらは、オプション市場がさまざまなシグナルを示していると観察した。アナリストらは、クジラがBTCとETHに対して弱気のポジションを増やしている一方、市場参加者のセンチメントは中立から強気であると指摘した。現在、市場では25,000 BTCオプションと217,000 ETHオプションが期限切れとなっています。ビットコインオプションの最大ペインポイントは42,000ドル、イーサリアムの最大ペインポイントは2,200ドルです。アナリストらは、クリスマス休暇が近づいているため、ヨーロッパと米国の市場活動は減少すると警告した。市場の流動性が低下すると、仮想通貨の価格が急騰または急落する可能性があります。 (FXストリート)",
-          "link": "https://www.odaily.news/ja/newsflash/347301",
-          "publishedOn": "2023-12-22T13:39:36.000Z",
-          "wordCount": 1667,
-          "title": "オプション市場の大規模投資家が弱気ポジションを増やしている",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347300",
-          "author": null,
-          "description": "Odaily News OKX 市場によると、ARB は 1.36 USDT を超え、現在 1.366 USDT で取引されており、24 時間で 20.1% 上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/347300",
-          "publishedOn": "2023-12-22T13:37:44.000Z",
-          "wordCount": 1687,
-          "title": "ARBは1.36 USDTを突破し、24時間で20.1%上昇",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347299",
-          "author": null,
-          "description": "Odaily News 独立調査機関である DACFP が発表した調査データによると、現在顧客と仮想通貨について話すファイナンシャルアドバイザーは 15% 未満です。しかし、来年以内にファイナンシャルアドバイザーの最大50％がスポットビットコインETFを含む仮想通貨商品を顧客に提供する予定だ。同庁の調査によると、スポットビットコインETFに大量の資産が流入し、その額は1500億ドルに達する可能性がある。この調査のサンプルは、主に富裕層および超富裕層の投資家にサービスを提供する各国の金融ブローカー、RIA ファイナンシャルアドバイザーなどから収集されています。 (prnewswire)",
-          "link": "https://www.odaily.news/ja/newsflash/347299",
-          "publishedOn": "2023-12-22T13:31:32.000Z",
-          "wordCount": 1703,
-          "title": "調査データ: ファイナンシャル アドバイザーの 50% が 2024 年までに暗号通貨商品を提供すると予想",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
     },
@@ -5338,6 +5388,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=361518",
+          "author": "OtsugaShinya",
+          "description": "オーケーコインジャパンがSUIのステーキングサービス提供へ 国内暗号資産（仮想通貨）取引所OKCoinJapan（オーケーコインジャパン）が、暗号資産スイ（SUI）のステーキングサービス提供予定を12月26日発表した。1 […]",
+          "link": "https://www.neweconomy.jp/posts/361518",
+          "publishedOn": "2023-12-27T01:56:14.000Z",
+          "wordCount": 746,
+          "title": "オーケーコインジャパン、スイ（SUI）のステーキングサービス提供へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/27105608/f626b86b61d16dc75d550c64271b12ee.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=361362",
           "author": "NewEconomy",
