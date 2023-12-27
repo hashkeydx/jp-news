@@ -265,6 +265,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=501300",
+          "author": "菊谷ルイス",
+          "description": "米マイクロストラテジーは27日夜、仮想通貨ビットコインを買い増ししたことを発表した。来年1月に複数のビットコインETF上場申請がSECによって承認される可能性や来年4月のビットコイン半減期に向けてビットコインの保有数を増やしている格好だ。",
+          "link": "https://coinpost.jp/?p=501300",
+          "publishedOn": "2023-12-27T13:10:12.000Z",
+          "wordCount": 1978,
+          "title": "12月に6.15億ドル分の仮想通貨ビットコイン買い増し、マイクロストラテジー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/micro-saylor-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/micro-saylor-bitcoin.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=501185",
           "author": "AKIRA.H",
           "description": "米国の暗号資産（仮想通貨）関連企業Coinbase、Circle、Andreessen Horowitzのa16zらがスーパーPACのFairshakeに112億円を投資。この資金は、米大統領選に向けたロビー活動の一環で、仮想通貨支持派立法者の選出と政策推進に使用される予定。",
@@ -698,36 +713,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/USASECRED.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/USASECRED.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=500481",
-          "author": "AKIRA.H",
-          "description": "Arkon Energyがビットコイン採掘・AI事業拡大のため1億1000万ドル調達。Bluesky主導の増資、米国・欧州でのデータセンター強化に注目。暗号資産（仮想通貨）ビットコインETFの上場承認に向けて、採掘報酬も増加傾向。",
-          "link": "https://coinpost.jp/?p=500481",
-          "publishedOn": "2023-12-23T02:00:14.000Z",
-          "wordCount": 1928,
-          "title": "ビットコイン採掘＆AI事業強化へ、米アクロン・エナジーが150億円の資金調達",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/btc-mining-bhutan.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/btc-mining-bhutan.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=500473",
-          "author": "A.Yamada",
-          "description": "香港証券先物委員会は、ビットコイン現物ETFを含め、仮想通貨関連投資信託の申請を受け付ける準備ができていると発表した。",
-          "link": "https://coinpost.jp/?p=500473",
-          "publishedOn": "2023-12-23T01:30:22.000Z",
-          "wordCount": 1922,
-          "title": "香港、仮想通貨現物ETFの申請受付へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/purpose-etf-btc-eth-now.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/purpose-etf-btc-eth-now.png"
         }
       ]
     },
@@ -736,6 +721,86 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347885",
+          "author": null,
+          "description": "Odaily星球日报讯 据链上数据分析师余烬监测，两个在10-11月囤积TRB的鲸鱼地址于90分钟前将共计122,610枚TRB（约合2346万美元）转入Binance。这两个地址当时的提币价格为81美元，预计将盈利1250万美元 。",
+          "link": "https://www.odaily.news/ja/newsflash/347885",
+          "publishedOn": "2023-12-27T14:14:52.000Z",
+          "wordCount": 1604,
+          "title": "两个鲸鱼地址将共计12.26万枚TRB转入Binance",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347884",
+          "author": null,
+          "description": "Odaily星球日报讯 据链上数据分析师AI姨监测，其监测的某个11月以来胜率100%的 ETH 波段交易鲸鱼地址，于过去10分钟内再次卖出1000枚ETH，均价2291美元，获利28万美元。\n截至目前，该地址今晚已累计出售2500枚ETH，共获利69.5万美元。\n据悉，该地址11月14日至12月27日期间建仓的ETH目前还剩余12,953枚（价值2965万美元），浮盈362万美元。",
+          "link": "https://www.odaily.news/ja/newsflash/347884",
+          "publishedOn": "2023-12-27T13:52:21.000Z",
+          "wordCount": 1605,
+          "title": "某ETH波段交易鲸鱼地址过去10分钟再次卖出1000枚ETH",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347883",
+          "author": null,
+          "description": "Odaily星球日报讯 OKX行情数据显示，OP短时突破4 USDT，现报价3.93 USDT，续创历史新高，24H涨幅21.9%。",
+          "link": "https://www.odaily.news/ja/newsflash/347883",
+          "publishedOn": "2023-12-27T13:49:57.000Z",
+          "wordCount": 1608,
+          "title": "OP短时突破4 USDT，续创历史新高",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347882",
+          "author": null,
+          "description": "Odaily星球日报讯 萨尔瓦多总统的高级顾问Max Keiser在社交媒体上针对Cathie Wood发表的”若比特币现货ETF获批将吸引更多机构入场“相关言论反驳表示，该言论是一种误导，所有由现金创建的比特币现货ETF都只是投资者跟踪BTC价格的代理工具，无法获得实际的BTC。\n对此，彭博社ETF分析师表示，事实上，如果比特币ETF只能以现金创建，而不是BTC（由实物创建），那么大多数非加密货币人士（尤其是控制着33万亿美元资产的财富管理机构）都不会有什么大动作，事实上他们更喜欢以此赚取美元，他们只是想要曝光（这确实给了Cathie Wood机会）。",
+          "link": "https://www.odaily.news/ja/newsflash/347882",
+          "publishedOn": "2023-12-27T13:47:38.000Z",
+          "wordCount": 1606,
+          "title": "彭博ETF分析师：现金创建的比特币现货ETF并不会吸引更多机构资金入场",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347881",
+          "author": null,
+          "description": "Odaily星球日报讯 研究员@doganeth_en于X平台发文表示，6个月前提出的EIP-7212提案成为首个Rollup改进提案（RIP），即将实施于多个区块链。该提案的初衷是实现secp256r1（P256）曲线的安全、经济高效验证。\n决定将此提案用于Rollups的原因在于其对L2中账户抽象的显著影响，以及L2上已存在的大量传递密钥和基于SE的AA钱包。引入新的Rollup改进标准使研究人员能够专门为Layer 2和侧链提出改进，确保在各种Rollup框架中的兼容性。\n此外，EIP-7212成为首个合并到主仓库的RIP，RIP将作为EIP和ERC之外的提案格式存在。",
+          "link": "https://www.odaily.news/ja/newsflash/347881",
+          "publishedOn": "2023-12-27T13:38:31.000Z",
+          "wordCount": 1604,
+          "title": "EIP-7212成为首个Rollup改进提案，旨在提高L2的安全性和经济性",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347880",
+          "author": null,
+          "description": "Odaily星球日报讯 Aptos原生的社交激励层CRED的链上积分系统目前已超过10万活跃地址注册，目前已与Aptos Monkeys, Aptomingos, Bruh Bears等NFT项目方，与Pontem, Thala等DeFi协议达成合作。活跃用户地址可根据链上活动获得CRED积分。\n据悉，CRED为Aptos Labs与Bixin Ventures投资的TowneSquare原生社交协议打造，为一个全链社交图谱与激励层，将会为全链场景进行激励。目前TowneSquare的社交app正在预热打造中，CRED用户将有机会成为早期用户的机会。\n同时，TowneSquare团队在打造基于Move语言的可组合性框架。其社交协议以及可组合性框架分别获得Aptos在今年6月的阿姆斯特丹黑客松与9月的新加坡黑客松的奖项。\n用户可在下方链接注册CRED积分系统。\n此前消息，GUI memecoin与APTS的铭文铸造带动Aptos主网的TPS超过100，目前维持在20左右。GUI币的空投预计于今日发放完成。",
+          "link": "https://www.odaily.news/ja/newsflash/347880",
+          "publishedOn": "2023-12-27T13:35:42.000Z",
+          "wordCount": 1621,
+          "title": "Aptos原生社交协议TowneSquare等待白名单已超过4万注册，积分系统CRED注册超10万",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347879",
+          "author": null,
+          "description": "Odaily星球日报讯 欧易OKX行情显示，ETH短线突破2300 USDT，现报2299.57 USDT，24H涨幅为3.18%。",
+          "link": "https://www.odaily.news/ja/newsflash/347879",
+          "publishedOn": "2023-12-27T13:33:27.000Z",
+          "wordCount": 1613,
+          "title": "ETH短线突破2300 USDT，24H涨幅3.18%",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347878",
+          "author": null,
+          "description": "Odaily星球日报讯 据OKX行情数据显示，OP短时突破3.8美元，现报价3.8美元，续创历史新高，24H涨幅17.9%。",
+          "link": "https://www.odaily.news/ja/newsflash/347878",
+          "publishedOn": "2023-12-27T13:27:55.000Z",
+          "wordCount": 1604,
+          "title": "OP短时突破3.8美元，续创历史新高",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347877",
           "author": null,
@@ -6274,56 +6339,6 @@
           "publishedOn": "2023-12-23T02:27:43.000Z",
           "wordCount": 1726,
           "title": "アーサー・ヘイズ氏は、ビットコインETFがビットコインネットワークに脅威をもたらす可能性があると考え、ビットコインETFに警戒している",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347357",
-          "author": null,
-          "description": "Odaily のオンチェーンアナリスト Ember Monitoring によると、ARB は昨日から 17% 上昇しました。 ARBが上昇した昨日、1頭のクジラがOKXから291万ARB（366万ドル）を引き出し、平均価格は1.26ドルだった。彼は現在、総額 415 万 ARB (481 万ドル) を 1.16 ドルで保有しています。以前、彼は 4 月に ARB で 93 万米ドル (+43%) の利益を達成しました。彼は 185 万 ARB を平均価格 1.18 米ドルで OKX から引き出し、5 日後に平均価格 1.69 米ドルで OKX に送金しました。",
-          "link": "https://www.odaily.news/ja/newsflash/347357",
-          "publishedOn": "2023-12-23T02:09:20.000Z",
-          "wordCount": 1798,
-          "title": "昨日、巨大なクジラが OKX から 291 万 ARB を引き出し、合計 415 万 ARB を保有していました。",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347356",
-          "author": null,
-          "description": "Odaily によると、この件に詳しい関係者は、OpenAI が評価額 1,000 億米ドル以上の新たな資金調達ラウンドについて予備的な協議を行っていることを明らかにした。この提携により、世界で最も価値のある新興企業の1つとしての地位が確固たるものとなるだろう。関係者によると、今回の資金調達ラウンドに参加する可能性のある投資家も事前協議に含まれているという。このラウンドの条件、評価、タイミングなどの詳細はまだ最終決定されておらず、今後も変更される可能性があります。 (ブルームバーグ)",
-          "link": "https://www.odaily.news/ja/newsflash/347356",
-          "publishedOn": "2023-12-23T02:03:20.000Z",
-          "wordCount": 1726,
-          "title": "関係者：OpenAIは評価額少なくとも1000億ドルの新たな資金調達ラウンドに向けて予備協議を行っている",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347355",
-          "author": null,
-          "description": "Odaily News SolanaエコロジカルNFTプラットフォームMetaplexは、Token22のトークンメタデータのサポートがメインネットワークで開始されたことを記載したXプラットフォームに関する文書を発行しました。",
-          "link": "https://www.odaily.news/ja/newsflash/347355",
-          "publishedOn": "2023-12-23T01:54:01.000Z",
-          "wordCount": 1735,
-          "title": "Metaplex: Token22 のトークン メタデータのサポートがメインネットで開始されました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347354",
-          "author": null,
-          "description": "Odaily News ブルームバーグ ETF アナリストのエリック・バルチュナス氏は、-1 ファイルの更新 (今後 10 日) が確認されると投稿しました。この手順は簡単ではないため、一部の発行者が同時に承認されなくなる可能性があります。ただし、「AP 契約の確認」+「現金購入」は「承認」に等しい可能性があります。本日初め、この問題に詳しい関係筋は、SECがスポットETF発行会社に対し、昨日の電話会議の最新情報を含む改訂文書を来週末までに提出するよう求めたことを明らかにした。",
-          "link": "https://www.odaily.news/ja/newsflash/347354",
-          "publishedOn": "2023-12-23T01:36:21.000Z",
-          "wordCount": 1731,
-          "title": "SECはスポットビットコインETFの発行者に対し、次回のS-1アップデートで承認された参加者情報を確認するよう義務付けている",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347353",
-          "author": null,
-          "description": "Odaily の公式データによると、12 月 21 日の時点で、Circle は総額 18 億米ドルの USDC を発行し、7 日間で 15 億米ドルの USDC を償還し、発行部数が 3 億米ドル増加しました。 USDCの総流通額は247億米ドルで、準備金は248億米ドルで、そのうち25億米ドルが現金で、223億米ドルがサークル予備基金によって保有されています。",
-          "link": "https://www.odaily.news/ja/newsflash/347353",
-          "publishedOn": "2023-12-23T01:25:57.000Z",
-          "wordCount": 1756,
-          "title": "12月21日時点で、USDC発行部数は過去1週間で3億米ドル増加した",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]

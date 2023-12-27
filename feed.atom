@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-27T13:24:19.769Z</updated>
+    <updated>2023-12-27T14:24:34.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[两个鲸鱼地址将共计12.26万枚TRB转入Binance]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347885</id>
+        <link href="https://www.odaily.news/ja/newsflash/347885"/>
+        <updated>2023-12-27T14:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 据链上数据分析师余烬监测，两个在10-11月囤积TRB的鲸鱼地址于90分钟前将共计122,610枚TRB（约合2346万美元）转入Binance。这两个地址当时的提币价格为81美元，预计将盈利1250万美元 。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某ETH波段交易鲸鱼地址过去10分钟再次卖出1000枚ETH]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347884</id>
+        <link href="https://www.odaily.news/ja/newsflash/347884"/>
+        <updated>2023-12-27T13:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 据链上数据分析师AI姨监测，其监测的某个11月以来胜率100%的 ETH 波段交易鲸鱼地址，于过去10分钟内再次卖出1000枚ETH，均价2291美元，获利28万美元。
+截至目前，该地址今晚已累计出售2500枚ETH，共获利69.5万美元。
+据悉，该地址11月14日至12月27日期间建仓的ETH目前还剩余12,953枚（价值2965万美元），浮盈362万美元。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OP短时突破4 USDT，续创历史新高]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347883</id>
+        <link href="https://www.odaily.news/ja/newsflash/347883"/>
+        <updated>2023-12-27T13:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 OKX行情数据显示，OP短时突破4 USDT，现报价3.93 USDT，续创历史新高，24H涨幅21.9%。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭博ETF分析师：现金创建的比特币现货ETF并不会吸引更多机构资金入场]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347882</id>
+        <link href="https://www.odaily.news/ja/newsflash/347882"/>
+        <updated>2023-12-27T13:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 萨尔瓦多总统的高级顾问Max Keiser在社交媒体上针对Cathie Wood发表的”若比特币现货ETF获批将吸引更多机构入场“相关言论反驳表示，该言论是一种误导，所有由现金创建的比特币现货ETF都只是投资者跟踪BTC价格的代理工具，无法获得实际的BTC。
+对此，彭博社ETF分析师表示，事实上，如果比特币ETF只能以现金创建，而不是BTC（由实物创建），那么大多数非加密货币人士（尤其是控制着33万亿美元资产的财富管理机构）都不会有什么大动作，事实上他们更喜欢以此赚取美元，他们只是想要曝光（这确实给了Cathie Wood机会）。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-7212成为首个Rollup改进提案，旨在提高L2的安全性和经济性]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347881</id>
+        <link href="https://www.odaily.news/ja/newsflash/347881"/>
+        <updated>2023-12-27T13:38:31.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 研究员@doganeth_en于X平台发文表示，6个月前提出的EIP-7212提案成为首个Rollup改进提案（RIP），即将实施于多个区块链。该提案的初衷是实现secp256r1（P256）曲线的安全、经济高效验证。
+决定将此提案用于Rollups的原因在于其对L2中账户抽象的显著影响，以及L2上已存在的大量传递密钥和基于SE的AA钱包。引入新的Rollup改进标准使研究人员能够专门为Layer 2和侧链提出改进，确保在各种Rollup框架中的兼容性。
+此外，EIP-7212成为首个合并到主仓库的RIP，RIP将作为EIP和ERC之外的提案格式存在。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aptos原生社交协议TowneSquare等待白名单已超过4万注册，积分系统CRED注册超10万]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347880</id>
+        <link href="https://www.odaily.news/ja/newsflash/347880"/>
+        <updated>2023-12-27T13:35:42.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 Aptos原生的社交激励层CRED的链上积分系统目前已超过10万活跃地址注册，目前已与Aptos Monkeys, Aptomingos, Bruh Bears等NFT项目方，与Pontem, Thala等DeFi协议达成合作。活跃用户地址可根据链上活动获得CRED积分。
+据悉，CRED为Aptos Labs与Bixin Ventures投资的TowneSquare原生社交协议打造，为一个全链社交图谱与激励层，将会为全链场景进行激励。目前TowneSquare的社交app正在预热打造中，CRED用户将有机会成为早期用户的机会。
+同时，TowneSquare团队在打造基于Move语言的可组合性框架。其社交协议以及可组合性框架分别获得Aptos在今年6月的阿姆斯特丹黑客松与9月的新加坡黑客松的奖项。
+用户可在下方链接注册CRED积分系统。
+此前消息，GUI memecoin与APTS的铭文铸造带动Aptos主网的TPS超过100，目前维持在20左右。GUI币的空投预计于今日发放完成。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH短线突破2300 USDT，24H涨幅3.18%]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347879</id>
+        <link href="https://www.odaily.news/ja/newsflash/347879"/>
+        <updated>2023-12-27T13:33:27.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 欧易OKX行情显示，ETH短线突破2300 USDT，现报2299.57 USDT，24H涨幅为3.18%。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OP短时突破3.8美元，续创历史新高]]></title>
+        <id>https://www.odaily.news/ja/newsflash/347878</id>
+        <link href="https://www.odaily.news/ja/newsflash/347878"/>
+        <updated>2023-12-27T13:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Odaily星球日报讯 据OKX行情数据显示，OP短时突破3.8美元，现报价3.8美元，续创历史新高，24H涨幅17.9%。]]></summary>
+        <author>
+            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[链游Metash NFT首发Solana，现已开启铸造]]></title>
         <id>https://www.odaily.news/ja/newsflash/347877</id>
@@ -25,6 +114,16 @@
         <summary type="html"><![CDATA[Odaily星球日报讯 12月27日，Web3游戏平台MOBOX宣布与Bitmap Tech达成合作。MOBOX即将推出的主打“共创共治”的开放世界游戏Dragonverse Neo将部署在Bitmap Tech开发的比特币二层网络上。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12月に6.15億ドル分の仮想通貨ビットコイン買い増し、マイクロストラテジー]]></title>
+        <id>https://coinpost.jp/?p=501300</id>
+        <link href="https://coinpost.jp/?p=501300"/>
+        <updated>2023-12-27T13:10:12.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロストラテジーは27日夜、仮想通貨ビットコインを買い増ししたことを発表した。来年1月に複数のビットコインETF上場申請がSECによって承認される可能性や来年4月のビットコイン半減期に向けてビットコインの保有数を増やしている格好だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -6570,76 +6669,6 @@ SEC、バーンブリッジと170万ドルの和解──「偽りの分散型�
         <link href="https://www.odaily.news/ja/newsflash/347358"/>
         <updated>2023-12-23T02:27:43.000Z</updated>
         <summary type="html"><![CDATA[Odaily News BitMEXの創設者アーサー・ヘイズ氏は、連邦準備制度の政策変更、認可型分散型金融（認可型DeFi）、実物資産（RWA）、ビットコインETFなどのトピックを分析した記事を発表した。ヘイズ氏は、ビットコインと仮想通貨が法定通貨の切り下げに対抗する最善の方法であると信じており、これらを金、SP 500指数、ナスダック100指数と比較し、2020年以降のビットコインのパフォーマンスが他のリスク資産をはるかに上回っていると指摘した。ヘイズ氏はFRBの政策変更について議論する際、パウエルFRB議長が感染症流行後の暴走インフレに対抗するために利上げの必要性を強調していたと指摘した。しかし、最近の発言や行動を見ると、FRBの政策は大きく変更されたようで、2024年の利下げの可能性を検討し始めている。これは、米国の現在の政治状況がFRBの政策に直接影響していることを反映している。ヘイズ氏は、この政策変更は、特に主要な選挙の年に、政治指導者からの圧力に起因する可能性があると分析した。ヘイズ氏は許可型分散型金融（許可型DeFi）を批判的で、「現時点で最もばかばかしい暗号トピックの1つ」と呼んでいる。同氏は、集中要素と分散要素を組み合わせたこの金融モデルは分散化の核心原則に違反しており、TradFi機関が個人投資家を利用しようとする単なる別の方法である可能性があると考えている。実際のところ、機関投資家と取引する必要がないため、これらの許可されたDeFiプリミティブを使用する個人トレーダーの数は十分ではないでしょう。実世界資産のトークン化 (RWA) に関して、ヘイズ氏は、この試みは聞こえは良いものの、実際の運用では多くの課題に直面すると考えています。同氏は特に、標準化や流動性の欠如により、不動産や債券などの資産のトークン化が成功するのが難しい可能性があると指摘した。同氏はまた、流動性の低いRWAトークンの購入は自己責任だが、より悪い資本の使い方はRWA発行プラットフォーム自体のガバナンストークンに投資することだと述べた。最後に、ヘイズ氏はビットコインETFについて懸念を表明した。同氏は、従来の金融機関がETFを大量に保有し、ビットコインのブロックチェーンを利用せずにビットコインを保管すれば、ビットコインの価値と存在に脅威を与える可能性があると述べた。最終的に、少数の企業がすべてのビットコインを保有し、ビットコインブロックチェーンを実質的に使用できなくなった場合、ビットコインは二度と動かなくなります。その結果、鉱山労働者は採掘リグの稼働に必要なエネルギーの支払いができなくなり、操業を停止することになります。マイナーがいなければネットワークは機能を停止し、ビットコインは消滅してしまいます。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨日、巨大なクジラが OKX から 291 万 ARB を引き出し、合計 415 万 ARB を保有していました。]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347357</id>
-        <link href="https://www.odaily.news/ja/newsflash/347357"/>
-        <updated>2023-12-23T02:09:20.000Z</updated>
-        <summary type="html"><![CDATA[Odaily のオンチェーンアナリスト Ember Monitoring によると、ARB は昨日から 17% 上昇しました。 ARBが上昇した昨日、1頭のクジラがOKXから291万ARB（366万ドル）を引き出し、平均価格は1.26ドルだった。彼は現在、総額 415 万 ARB (481 万ドル) を 1.16 ドルで保有しています。以前、彼は 4 月に ARB で 93 万米ドル (+43%) の利益を達成しました。彼は 185 万 ARB を平均価格 1.18 米ドルで OKX から引き出し、5 日後に平均価格 1.69 米ドルで OKX に送金しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[関係者：OpenAIは評価額少なくとも1000億ドルの新たな資金調達ラウンドに向けて予備協議を行っている]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347356</id>
-        <link href="https://www.odaily.news/ja/newsflash/347356"/>
-        <updated>2023-12-23T02:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Odaily によると、この件に詳しい関係者は、OpenAI が評価額 1,000 億米ドル以上の新たな資金調達ラウンドについて予備的な協議を行っていることを明らかにした。この提携により、世界で最も価値のある新興企業の1つとしての地位が確固たるものとなるだろう。関係者によると、今回の資金調達ラウンドに参加する可能性のある投資家も事前協議に含まれているという。このラウンドの条件、評価、タイミングなどの詳細はまだ最終決定されておらず、今後も変更される可能性があります。 (ブルームバーグ)]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン採掘＆AI事業強化へ、米アクロン・エナジーが150億円の資金調達]]></title>
-        <id>https://coinpost.jp/?p=500481</id>
-        <link href="https://coinpost.jp/?p=500481"/>
-        <updated>2023-12-23T02:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Arkon Energyがビットコイン採掘・AI事業拡大のため1億1000万ドル調達。Bluesky主導の増資、米国・欧州でのデータセンター強化に注目。暗号資産（仮想通貨）ビットコインETFの上場承認に向けて、採掘報酬も増加傾向。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metaplex: Token22 のトークン メタデータのサポートがメインネットで開始されました]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347355</id>
-        <link href="https://www.odaily.news/ja/newsflash/347355"/>
-        <updated>2023-12-23T01:54:01.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News SolanaエコロジカルNFTプラットフォームMetaplexは、Token22のトークンメタデータのサポートがメインネットワークで開始されたことを記載したXプラットフォームに関する文書を発行しました。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECはスポットビットコインETFの発行者に対し、次回のS-1アップデートで承認された参加者情報を確認するよう義務付けている]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347354</id>
-        <link href="https://www.odaily.news/ja/newsflash/347354"/>
-        <updated>2023-12-23T01:36:21.000Z</updated>
-        <summary type="html"><![CDATA[Odaily News ブルームバーグ ETF アナリストのエリック・バルチュナス氏は、-1 ファイルの更新 (今後 10 日) が確認されると投稿しました。この手順は簡単ではないため、一部の発行者が同時に承認されなくなる可能性があります。ただし、「AP 契約の確認」+「現金購入」は「承認」に等しい可能性があります。本日初め、この問題に詳しい関係筋は、SECがスポットETF発行会社に対し、昨日の電話会議の最新情報を含む改訂文書を来週末までに提出するよう求めたことを明らかにした。]]></summary>
-        <author>
-            <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港、仮想通貨現物ETFの申請受付へ]]></title>
-        <id>https://coinpost.jp/?p=500473</id>
-        <link href="https://coinpost.jp/?p=500473"/>
-        <updated>2023-12-23T01:30:22.000Z</updated>
-        <summary type="html"><![CDATA[香港証券先物委員会は、ビットコイン現物ETFを含め、仮想通貨関連投資信託の申請を受け付ける準備ができていると発表した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12月21日時点で、USDC発行部数は過去1週間で3億米ドル増加した]]></title>
-        <id>https://www.odaily.news/ja/newsflash/347353</id>
-        <link href="https://www.odaily.news/ja/newsflash/347353"/>
-        <updated>2023-12-23T01:25:57.000Z</updated>
-        <summary type="html"><![CDATA[Odaily の公式データによると、12 月 21 日の時点で、Circle は総額 18 億米ドルの USDC を発行し、7 日間で 15 億米ドルの USDC を償還し、発行部数が 3 億米ドル増加しました。 USDCの総流通額は247億米ドルで、準備金は248億米ドルで、そのうち25億米ドルが現金で、223億米ドルがサークル予備基金によって保有されています。]]></summary>
         <author>
             <name>Odaily星日報｜ブロックチェーンニュースデータ情報メディア</name>
         </author>
