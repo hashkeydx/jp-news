@@ -315,6 +315,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=501352",
+          "author": "A.Yamada",
+          "description": "中国は、外国のパスポート保持者向けにデジタル人民元ウォレット開設マシンを設置した。外貨両替やウォレットへのチャージ、残高照会などができる。",
+          "link": "https://coinpost.jp/?p=501352",
+          "publishedOn": "2023-12-28T04:40:21.000Z",
+          "wordCount": 1931,
+          "title": "中国、観光客向けにデジタル人民元ウォレット開設マシンを設置",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/china-digital-exchange-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/china-digital-exchange-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=501336",
           "author": "A.Yamada",
           "description": "米大手仮想通貨VCパンテラキャピタルのファンドのリターンは今年80％近くとなった。他にも市場停滞を生き延びたVCの一部がリターンを回復している。",
@@ -831,6 +846,56 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/post/5192004",
+          "author": null,
+          "description": "铭文、Launchpad以及Meme值得重点关注。",
+          "link": "https://www.odaily.news/ja/post/5192004",
+          "publishedOn": "2023-12-28T05:22:28.000Z",
+          "wordCount": 2302,
+          "title": "探寻Stacks生态下一个百倍Alpha「BTC生态」",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347953",
+          "author": null,
+          "description": "Odaily星球日报讯 Telcoin在X平台再次发布安全事件更新：团队已经在内部确认对情况的评估，修复是成功的；其还确认了将钱包恢复到初始余额并重新启动服务计划的可行性，并且正在迅速执行。\n官方表示，即将再次发布更新，并在服务全面恢复后分享事件详情。\n近日，Telcoin钱包遭遇攻击，损失约130万美元。",
+          "link": "https://www.odaily.news/ja/newsflash/347953",
+          "publishedOn": "2023-12-28T05:15:48.000Z",
+          "wordCount": 1708,
+          "title": "Telcoin发布安全事件更新：已修复成功，正在执行钱包恢复和服务重启计划",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347952",
+          "author": null,
+          "description": "Odaily星球日报讯 Bounce Brand在X平台宣布AMMX Token Launch（代币发行）已结束。\n在AUCTION质押池中，共有2126名参与者投入2741970枚AUCTION，远超12857枚AUCTION的募资目标；在DAII质押池中，共有210名参与者投入72612200枚DAII，远超450000枚DAII的募资目标。\n此外，在MUBI随机选择池中，官方使用Chainlink的随机数从20000名参与者中选出200名获奖者。以上参与者现均可申领AMMX。",
+          "link": "https://www.odaily.news/ja/newsflash/347952",
+          "publishedOn": "2023-12-28T04:47:52.000Z",
+          "wordCount": 1723,
+          "title": "Bounce Brand：AMMX Token Launch已结束，参与者可申领AMMX",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347951",
+          "author": null,
+          "description": "Odaily星球日报讯 据派盾监测，与Sleepless AI同名的某项目发生Rug Pull，其币价下跌97.5%。相关地址已将1,000,000,000,000枚AI兑换为37.7枚ETH（9.1万美元）。",
+          "link": "https://www.odaily.news/ja/newsflash/347951",
+          "publishedOn": "2023-12-28T04:32:28.000Z",
+          "wordCount": 1718,
+          "title": "派盾：某Sleepless AI同名项目发生Rug Pull，损失37.7枚ETH",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347950",
+          "author": null,
+          "description": "Odaily News Klaytn が投稿したこれらの手数料は、GC が承認した流動性供給予算を使用して、Klaytn、Ethereum、および Injective 上に確立された Klaytn Foundation の流動性プールから発生します。毎月最終水曜日に、これらの LP によって集められた料金の 70% が KLAY の買い戻しと破棄に使用され、残りの 30% が LP に返還されます。この取り組みは、KLAY 保有者により多くの価値を生み出しながら、Klaytn とパートナーチェーンで効果的な流動性を促進することを目的としています。",
+          "link": "https://www.odaily.news/ja/newsflash/347950",
+          "publishedOn": "2023-12-28T04:28:45.000Z",
+          "wordCount": 1748,
+          "title": "クレイトン: KLAY 価値創造戦略が発動され、32,370 人の KLAY が破壊されました",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347949",
           "author": null,
@@ -6488,6 +6553,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=361798",
+          "author": "gentosha_takahashi",
+          "description": "ライセンス取得義務付けを提案 香港金融管理局（HKMA）はステーブルコイン発行体に対し、ライセンス取得を義務付けしたいようだ。同機関と金融サービス・財務局（FSTB）が共同で公開したコンサルテーションペーパーにて12月2 […]",
+          "link": "https://www.neweconomy.jp/posts/361798",
+          "publishedOn": "2023-12-28T04:35:40.000Z",
+          "wordCount": 756,
+          "title": "香港金融管理局、ステーブルコイン発行体に対しライセンス取得義務付けを提案",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/28133443/f4bb2edeadb2692b63195ddb51dc367b.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=361623",
           "author": "NewEconomy",
