@@ -295,6 +295,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=501328",
+          "author": "K.Kobayashi",
+          "description": "SBIは、TradeFinex Tech Ltdと日本に合弁会社を設立したことを発表。仮想通貨XDCとCorda活用の実験開始を開始していることも公表した。",
+          "link": "https://coinpost.jp/?p=501328",
+          "publishedOn": "2023-12-28T01:15:26.000Z",
+          "wordCount": 1972,
+          "title": "SBI、日本でTradeFinexと合弁会社設立　仮想通貨XDCとCorda活用の実験開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/sbi_20200428_2_5.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/05/sbi_20200428_2_5.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=501322",
+          "author": "菊谷ルイス",
+          "description": "ドナルド・トランプ前大統領は240万ドル（3.4億円）相当の仮想通貨イーサリアム（1,075 ETH）を売却したようだ。",
+          "link": "https://coinpost.jp/?p=501322",
+          "publishedOn": "2023-12-27T23:15:16.000Z",
+          "wordCount": 1978,
+          "title": "トランプ前大統領関連の仮想通貨ポートフォリオ、240万ドル分のイーサリアム売却か＝Arkhamデータ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/trump-2020-ftx-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/trump-2020-ftx-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=501323",
           "author": "K.Kobayashi",
           "description": "仮想通貨イーサリアムの共同創設者ヴィタリック・ブテリン氏は、合意形成の仕組み「プルーフ・オブ・ステーク（PoS）」を簡素化する提案を行った。これから内容が議論されていく。",
@@ -766,6 +796,146 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347915",
+          "author": null,
+          "description": "毎日の MCT データによると、ビットコイン ネットワーク上の現在の通常の取引手数料は 179 衛星/バイトに上昇し、超高速取引手数料は 234 衛星/バイトとなっています。",
+          "link": "https://www.odaily.news/ja/newsflash/347915",
+          "publishedOn": "2023-12-28T01:27:48.000Z",
+          "wordCount": 1655,
+          "title": "ビットコインネットワークの通常取引手数料が179サット/バイトに上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347914",
+          "author": null,
+          "description": "Odaily星球日报讯 Lybra Finance在X平台发文表示，随着Lybra Finance V2引入dLP（动态流动性配置）要求，超过190,000枚LBR已被销毁。用于购买折扣esLBR（来自不满足dLP阈值/要求的用户）的LBR将永远从流通中移除。",
+          "link": "https://www.odaily.news/ja/newsflash/347914",
+          "publishedOn": "2023-12-28T01:24:12.000Z",
+          "wordCount": 1660,
+          "title": "自Lybra Finance V2引入dLP以来，已有超19万枚LBR被销毁",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347913",
+          "author": null,
+          "description": "Insider Trackerのデータによると、Coinbaseの幹部らは昨日、Coinbaseの株式を2,600万ドル以上売却したという。このうち、ブロック・ローレンス・J (最高人事責任者) は 104,767 株 (約 1,835 万 5,566 米ドル相当) を売却し、別の幹部であるアーサム・フレデリック・アーネスト 3 世は 43,675 株 (約 7,698,892 米ドル相当) を売却しました。",
+          "link": "https://www.odaily.news/ja/newsflash/347913",
+          "publishedOn": "2023-12-28T01:22:48.000Z",
+          "wordCount": 1667,
+          "title": "昨日、コインベースの幹部らはコインベースの株式を2,600万ドル以上売却した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347912",
+          "author": null,
+          "description": "Odaily星球日报讯 BNB Chain今日凌晨在X平台发文表示，opBNB主网出现拥堵情况。用户可能会遇到交易延迟，BNB Chain Core团队正在制定解决方案。",
+          "link": "https://www.odaily.news/ja/newsflash/347912",
+          "publishedOn": "2023-12-28T01:18:00.000Z",
+          "wordCount": 1656,
+          "title": "BNB Chain：opBNB主网出现拥堵或致交易延迟，团队正在解决",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347911",
+          "author": null,
+          "description": "Odaily News Ouyi OKX 市場によると、ARB は 1.6 USDT を超え、現在 1.6167 USDT で取引されており、24 時間で 23.47% 上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/347911",
+          "publishedOn": "2023-12-28T01:13:58.000Z",
+          "wordCount": 1665,
+          "title": "ARBは1.6 USDTを超え、24時間で23.47%上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347910",
+          "author": null,
+          "description": "Odaily星球日报讯 DeBank数据显示，Layer2网络Blast合约地址当前持有资产总价值超11亿美元，其中价值10亿美元ETH存入Lido协议，超1亿美元DAI存入Maker协议。",
+          "link": "https://www.odaily.news/ja/newsflash/347910",
+          "publishedOn": "2023-12-28T01:10:07.000Z",
+          "wordCount": 1656,
+          "title": "Blast TVL突破11亿美元，其中10亿美元ETH存入Lido协议",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347909",
+          "author": null,
+          "description": "Odaily News Duneのデータによると、ビットコインNFTプロトコルのOrdinals碑文の鋳造による累積手数料収入が5,101.4321BTC、つまり約2億1,586万8,759米ドルに達したことが示されています。現在、鋳造された碑文の総数は 5,2133,773 に達しています。",
+          "link": "https://www.odaily.news/ja/newsflash/347909",
+          "publishedOn": "2023-12-28T01:08:26.000Z",
+          "wordCount": 1687,
+          "title": "Ordinals の碑文による累積手数料収入は 5,100 BTC を超え、総鋳造額は 5,200 万を超えました。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347908",
+          "author": null,
+          "description": "Odaily NewsのL2BEATデータによると、イーサリアムレイヤー2の現在のロックアップ総量（TVL）は197億7,000万米ドルで、7日比23.06％増加した。このうち、ロックされている上位 5 つのポジションは以下の通りです: - Arbitrum One: 90 億 9 千万米ドル、7 日比 11.54% 増加; - OP メインネット: 64 億 9 千万米ドル、7 日比 39.13% 増加; - ベース: 6 億 7,000 万米ドル、7日より5.97%減少; - zkSync Era: 5億9,300万米ドル、7日より13.42%増加; - dYdX V3: 3億4,900万米ドル、7日より0.97%増加。",
+          "link": "https://www.odaily.news/ja/newsflash/347908",
+          "publishedOn": "2023-12-28T01:05:52.000Z",
+          "wordCount": 1728,
+          "title": "イーサリアムの現在のL2 TVLは7日に23.06％増の197億7000万ドルに達する",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347907",
+          "author": null,
+          "description": "Odaily星球日报讯 据官方消息，RWA协议Ondo Finance相关组织Ondo基金会宣布发起“解锁ONDO代币”提案。\n根据ONDO代币经济学，其总量为100亿枚，分配方案如下：\n- 面向社区销售：198,884,411 （~2.0%）；\n- 生态系统增长：5,210,869,545 （~52.1%）；\n- 协议开发：3,300,000 （33.0%）；\n- 私募：1,290,246,044 （~12.9%）。\n该提案描述了一个与代币首次可转让（“Public Launch”）确定日期相关的解锁时间表。Ondo基金会将负责选择确切的公开发布日期，预计将选择2024年3月31日之前的公开发布日期，否则将需要获得Ondo持有人的额外批准。\nOndo基金会于2022年成立，是一家独立管理的非营利性开曼群岛基金会公司。该基金会从Ondo Finance收购了ONDO代币发行权。2022年中期，Ondo基金会通过其子公司通过CoinList向18,000多名个人出售ONDO代币。",
+          "link": "https://www.odaily.news/ja/newsflash/347907",
+          "publishedOn": "2023-12-28T00:58:42.000Z",
+          "wordCount": 1678,
+          "title": "Ondo基金会发起“解锁ONDO代币”提案，预计2024年3月31日前确定Public Launch日期",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347906",
+          "author": null,
+          "description": "Odaily星球日报讯 Coinglass数据显示，过去24小时全网爆仓1.67亿美元，ETH爆仓5328.48万美元，超过BTC（爆仓2904.12万美元），SOL爆仓1209.58万美元；多单爆仓5696.58万美元，空单爆仓1.1亿美元。",
+          "link": "https://www.odaily.news/ja/newsflash/347906",
+          "publishedOn": "2023-12-28T00:47:01.000Z",
+          "wordCount": 1651,
+          "title": "过去24小时全网爆仓1.67亿美元，ETH爆仓5328.48万美元超过BTC",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347905",
+          "author": null,
+          "description": "Odaily News CoinGecko のデータによると、仮想通貨の市場総額は現在 1 兆 7,790 億米ドルで、24 時間で 3% 増加しています。さらに、BTCの市場シェアは昨日よりさらに47.8%に低下し、ETHの市場シェアは16.1%に回復しました。",
+          "link": "https://www.odaily.news/ja/newsflash/347905",
+          "publishedOn": "2023-12-28T00:43:25.000Z",
+          "wordCount": 1669,
+          "title": "仮想通貨の市場価値総額は24時間で3%増加して1兆7,790億米ドルとなり、BTCの市場シェアは47.8%に低下した",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347904",
+          "author": null,
+          "description": "Odaily星球日报讯 根据CoinDesk记者@nikhileshde在X平台披露的文件，CZ正向监管其案件的联邦法院请求旅行许可，并寻求对其申请进行封存。",
+          "link": "https://www.odaily.news/ja/newsflash/347904",
+          "publishedOn": "2023-12-28T00:38:28.000Z",
+          "wordCount": 1651,
+          "title": "CoinDesk记者：CZ正向监管其案件的联邦法院请求旅行许可",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347903",
+          "author": null,
+          "description": "Odaily News OKX市場によると、ETHは2400 USDTを超え、現在2434.96 USDTで取引されており、24時間で9.32%上昇しています。",
+          "link": "https://www.odaily.news/ja/newsflash/347903",
+          "publishedOn": "2023-12-28T00:34:34.000Z",
+          "wordCount": 1661,
+          "title": "ETHは2,400 USDTを超え、24時間で9.32%上昇",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347902",
+          "author": null,
+          "description": "Odaily星球日报讯 Arbitrum生态游戏Layer3解决方案Xai在X平台发文表示，针对Sentry Node Key持有者的空投快照时间定为12月29日4时。",
+          "link": "https://www.odaily.news/ja/newsflash/347902",
+          "publishedOn": "2023-12-28T00:28:41.000Z",
+          "wordCount": 1665,
+          "title": "Xai：针对Sentry Node Key持有者的空投快照时间为12月29日4时",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347901",
           "author": null,
@@ -5984,66 +6154,6 @@
           "publishedOn": "2023-12-23T13:30:46.000Z",
           "wordCount": 1738,
           "title": "CoinWは本日OMNIを上場します",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347408",
-          "author": null,
-          "description": "公式ニュースによると、暗号化プラットフォームBITは2023年12月23日18:00（UTC+8）にイーサリアム・インスクリプションETHSを開始し、リチャージ・チャネルがオープンされ、ETHS/USDTスポット取引ペアも同時に開始された。 BIT ExchangeはETHSで手数料を差し引く機能を開発する予定と伝えられており、ユーザーはETHSで取引手数料を支払い、10％の割引を受けることができるようになる。",
-          "link": "https://www.odaily.news/ja/newsflash/347408",
-          "publishedOn": "2023-12-23T13:27:32.000Z",
-          "wordCount": 1744,
-          "title": "BIT Exchange がイーサリアムの碑文 ETHS を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347407",
-          "author": null,
-          "description": "Odaily News Snapshot ガバナンス ページによると、SafeDAO コミュニティは「安定した通貨の分配」提案を開始しました。この提案には、SafeDAOが保有する（法人として財団が保有する）ARB/OPトークンと引き換えに、SafeDAOがSafe Ecological Fundからステーブルコインの分配を受け取る条件が記載されている。この資金調達メカニズムにより、SafeDAO は成果ベースのリソース割り当てフレームワーク (OBRA) に基づく安全なエコシステムへの取り組みにステーブルコインの形で資金を提供することができます。",
-          "link": "https://www.odaily.news/ja/newsflash/347407",
-          "publishedOn": "2023-12-23T13:17:55.000Z",
-          "wordCount": 1762,
-          "title": "SafeDAOコミュニティが「ステーブルコイン配布」提案を開始",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347406",
-          "author": null,
-          "description": "Odaily ニュースチェーンのデータは、LST プロトコル StakeStone が 38,802 ETH (約 9,000 万米ドル) を Lido に入金したことを示しています。以前12月19日、StakeStoneは30,878 ETHをLidoに入金しました。現在、StakeStone が保有する stETH の数はチェーン内で 7 位にランクされています。",
-          "link": "https://www.odaily.news/ja/newsflash/347406",
-          "publishedOn": "2023-12-23T12:45:40.000Z",
-          "wordCount": 1806,
-          "title": "データ: StakeStone は 2 時間前に Lido に 38,802 ETH を入金しました",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347405",
-          "author": null,
-          "description": "Odaily News Smart Money のイーサリアムネットワーク上の 24 時間の資金流入追跡リストは次のとおりです: BLUR: 約 394 万米ドル、現在 0.542 米ドル、24 時間で 4.2% 増加; DYDX: 約 180 万米ドル、現在3.135 米ドルで見積もられ、24 時間で 3.2% % 減少; PEPE: 約 166 万米ドルで、現在 0.00000147 米ドルで見積もられ、24 時間で 1.9% 減少しました。",
-          "link": "https://www.odaily.news/ja/newsflash/347405",
-          "publishedOn": "2023-12-23T12:33:39.000Z",
-          "wordCount": 1799,
-          "title": "BLUR、PEPE、DYDX が Smart Money 24 時間流入リストの上位にランクイン",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347404",
-          "author": null,
-          "description": "Odaily News The Data Nerdの監視によると、過去2日間で、特定のクジラアドレスがCoinbaseから154万IMX（約350万米ドル）を引き出し、現在の浮動利益は46万9000米ドルとなった。",
-          "link": "https://www.odaily.news/ja/newsflash/347404",
-          "publishedOn": "2023-12-23T11:51:33.000Z",
-          "wordCount": 1750,
-          "title": "クジラが過去2日間でCoinbaseから154万IMXを引き出した",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347403",
-          "author": null,
-          "description": "Odaily News OKX 市場によると、IMX は 2.5 USDT を超え、現在 2.536 USDT で取引されており、24 時間で 12.74% 上昇しています。",
-          "link": "https://www.odaily.news/ja/newsflash/347403",
-          "publishedOn": "2023-12-23T11:47:49.000Z",
-          "wordCount": 1762,
-          "title": "IMXは2.5 USDTを突破し、24時間で12.74%上昇",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
