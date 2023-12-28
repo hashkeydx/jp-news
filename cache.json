@@ -295,6 +295,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=501336",
+          "author": "A.Yamada",
+          "description": "米大手仮想通貨VCパンテラキャピタルのファンドのリターンは今年80％近くとなった。他にも市場停滞を生き延びたVCの一部がリターンを回復している。",
+          "link": "https://coinpost.jp/?p=501336",
+          "publishedOn": "2023-12-28T02:30:41.000Z",
+          "wordCount": 1944,
+          "title": "パンテラなど仮想通貨ベンチャーキャピタル、2023年はリターン上昇傾向",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=501328",
           "author": "K.Kobayashi",
           "description": "SBIは、TradeFinex Tech Ltdと日本に合弁会社を設立したことを発表。仮想通貨XDCとCorda活用の実験開始を開始していることも公表した。",
@@ -796,6 +811,106 @@
       "feedUrl": "http://www.odaily.news/v1/openapi/odailyrss_ja",
       "siteUrl": "https://www.odaily.news",
       "articles": [
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347937",
+          "author": null,
+          "description": "Odaily星球日报讯 知情人士透露，尼日利亚银行、金融科技公司和区块链公司联合开发的奈拉稳定币cNGN计划于2024年推出。\ncNGN将是合规和受监管的基于财团的奈拉稳定币。cNGN将与NGN 1:1锚定，但与之前的NGN稳定币尝试不同，它将由尼日利亚银行持有，并将成为法定货币。（福布斯）",
+          "link": "https://www.odaily.news/ja/newsflash/347937",
+          "publishedOn": "2023-12-28T03:21:42.000Z",
+          "wordCount": 1669,
+          "title": "知情人士：尼日利亚银行拟于2024年推出合规奈拉稳定币cNGN",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347936",
+          "author": null,
+          "description": "Odaily星球日报讯 Dune数据显示，Blur旗下NFT借贷平台Blend总交易额已突破35亿美元，总计贷款353,329笔；平台当前独立借款人数为7318，独立贷款人数为3937。",
+          "link": "https://www.odaily.news/ja/newsflash/347936",
+          "publishedOn": "2023-12-28T03:11:11.000Z",
+          "wordCount": 1665,
+          "title": "NFT借贷平台Blend总交易额突破35亿美元，贷款笔数超35万",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347935",
+          "author": null,
+          "description": "Odaily News Nostr Assets Protocol が",
+          "link": "https://www.odaily.news/ja/newsflash/347935",
+          "publishedOn": "2023-12-28T03:09:03.000Z",
+          "wordCount": 1697,
+          "title": "Nostr Assets: サービスをアップグレードするためのメンテナンスは明日 10:00 に開始され、2 ～ 3 時間続きます。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347934",
+          "author": null,
+          "description": "Odaily星球日报讯 CoinW行情显示，XPET短时突破2.8 USDT后回落，现报2.2172 USDT，24H涨幅为126.57%。",
+          "link": "https://www.odaily.news/ja/newsflash/347934",
+          "publishedOn": "2023-12-28T03:05:24.000Z",
+          "wordCount": 1670,
+          "title": "XPET短时突破2.8 USDT后回落，24H涨幅126.57%",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347933",
+          "author": null,
+          "description": "Odaily News の公式ページによると、Ordinals の Web サイトは現在開くことができず、エラー 1200 (リクエストの受信が多すぎるため) が表示されているか、DDoS 攻撃を受けていることが示されています。",
+          "link": "https://www.odaily.news/ja/newsflash/347933",
+          "publishedOn": "2023-12-28T03:01:20.000Z",
+          "wordCount": 1693,
+          "title": "Ordinals の公式 Web サイトは DDoS 攻撃を受けている可能性があり、現在開くことができません。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347932",
+          "author": null,
+          "description": "毎日の市場データによると、ビットコイン採掘会社マラソン・デジタルの株価は年初から8倍以上（水曜日の米国株式市場終了時点で813.82％）上昇し、仮想通貨関連企業の中で最高のパフォーマンスをあげている。評価額は50億米ドル以上。さらに、Coinbase、MicroStrategy株、GBTCはすべて、2023年に300％以上上昇します。ファクトセットのデータによると、時価総額50億ドル以上の米国上場企業の中で、上記のビットコイン関連銘柄4銘柄が最も業績の良い8銘柄に入っている。 (CNBC)",
+          "link": "https://www.odaily.news/ja/newsflash/347932",
+          "publishedOn": "2023-12-28T02:53:48.000Z",
+          "wordCount": 1665,
+          "title": "マラソンデジタルの株価は今年8倍以上に上昇し、コインベース、マイクロストラテジー、GBTCの株価はいずれも今年300％以上上昇した。",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/post/5192026",
+          "author": null,
+          "description": "社交金融平台的关注度大幅上升，但未能留住用户。",
+          "link": "https://www.odaily.news/ja/post/5192026",
+          "publishedOn": "2023-12-28T02:50:51.000Z",
+          "wordCount": 1996,
+          "title": "The Block：复盘2023年Web3社交赛道",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347931",
+          "author": null,
+          "description": "Odaily星球日报讯 加密交易平台Bitzlato联合创始人在布鲁克林法庭同意解散平台并认罪的几周后，Bitzlato团队宣布必须“暂时暂停”所有比特币提款。\n该公司在12月27日通过Telegram发布公告称，这只是一项暂时措施，因团队正在准备并进行即将到来的关于其用户在法国被扣押资产的法律听证会。（Cointelegraph）\n此前12月初消息，涉嫌洗钱7亿美元的加密交易平台Bitzlato创始人认罪。",
+          "link": "https://www.odaily.news/ja/newsflash/347931",
+          "publishedOn": "2023-12-28T02:44:35.000Z",
+          "wordCount": 1667,
+          "title": "加密交易平台Bitzlato暂停比特币提款，以为用户被扣押资产相关听证会做准备",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347930",
+          "author": null,
+          "description": "Odaily星球日报讯 Jupiter联合创始人Meow昨日在Solana Reddit社区参加AMA时表示，不会为了“拉盘”而赋予JUP更多的效用，JUP只是Jupiter的治理代币。\nMeow补充表示，其并不认可“代币效用驱动价值”的叙事，该叙事的兴起只是因为项目创始人急于解释他们的代币为什么有价值，但实际上大多数人根本不在乎效用，他们只在乎价值。然而，对效用的无休止关注往往会招致大量错误的决定，项目会无休止地对代币经济学进行研究，最终可能会推动代币出现短时飙升，但最终还是会回落。",
+          "link": "https://www.odaily.news/ja/newsflash/347930",
+          "publishedOn": "2023-12-28T02:41:15.000Z",
+          "wordCount": 1669,
+          "title": "Jupiter联创：不会为了“拉盘”而赋予JUP治理之外的更多效用",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
+        {
+          "id": "https://www.odaily.news/ja/newsflash/347928",
+          "author": null,
+          "description": "Odaily星球日报讯 彭博ETF分析师Eric Balchunas在X平台发文表示，今天，ARK Invest出售其全部剩余的GBTC头寸（一个月前它还是ARKW的最大持仓），并用其中的一半资金（1亿美元左右）购买了BITO份额，这可能是作为一种过渡工具。",
+          "link": "https://www.odaily.news/ja/newsflash/347928",
+          "publishedOn": "2023-12-28T02:34:03.000Z",
+          "wordCount": 1676,
+          "title": "彭博分析师：ARK Invest清仓GBTC并使用一半资金买入BITO",
+          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
+        },
         {
           "id": "https://www.odaily.news/ja/newsflash/347927",
           "author": null,
@@ -6224,26 +6339,6 @@
           "publishedOn": "2023-12-23T18:44:22.000Z",
           "wordCount": 1736,
           "title": "SOLが一時100USDTを突破",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347414",
-          "author": null,
-          "description": "Odaily News CryptoSlam データによると、過去 24 時間のビットコイン チェーン上の NFT 取引量は 15,240,673 米ドルで、32.20% 減少し、購入者のアドレス数は 8,176、販売者のアドレス数は 7,900、合計のアドレス数は 15,240,673 ドルでした。取引件数は13,666件でした。",
-          "link": "https://www.odaily.news/ja/newsflash/347414",
-          "publishedOn": "2023-12-23T15:09:49.000Z",
-          "wordCount": 1744,
-          "title": "過去24時間のビットコインチェーン上のNFTの取引高は約1,524万米ドルでした",
-          "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
-        },
-        {
-          "id": "https://www.odaily.news/ja/newsflash/347413",
-          "author": null,
-          "description": "公式発表によると、香港証券先物委員会は更新された「仲介業者の仮想資産関連活動に関する共同回覧」の中で、仮想資産先物は従来の規制された先物取引プラットフォームでのみ取引が許可されていると指摘した。管理会社は、(i) 原資産の仮想資産先物に十分な流動性があること、(ii) 原資産の仮想資産先物のロールオーバーコストが制御可能であること、およびそのようなロールオーバーコストがどのように管理されるかを実証する必要があります。香港証券先物委員会によって認可された仮想資産ファンドがスポット仮想資産取引および取得の処理を希望する場合、香港証券先物委員会または公認の金融機関によって認可された仮想資産取引プラットフォーム上で処理される必要があります（または、 (a) 現金の申し込みおよび償還の場合、香港証券先物委員会によって承認されたスポット ETF は、認可された仮想資産取引プラットフォームを通じてスポット仮想資産を取得および処分する必要があります。(b) ) 現物サブスクリプションの場合、参加ディーラー (PD) ) は、国内または海外で保有するスポット仮想資産を、香港証券先物委員会によって承認されているスポット仮想資産 ETF に移管する必要があります。",
-          "link": "https://www.odaily.news/ja/newsflash/347413",
-          "publishedOn": "2023-12-23T14:38:42.000Z",
-          "wordCount": 1746,
-          "title": "香港証券先物委員会: 仮想資産スポットETFは、証券先物委員会が規制する先物取引所でのみ取引が許可されています。",
           "imageUrl": "https://piccdn.0daily.com/202205/07035137/s29xjxxva9nzvyd5.png"
         }
       ]
