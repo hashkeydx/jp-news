@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-29T06:28:16.285Z</updated>
+    <updated>2023-12-29T07:20:14.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米連邦地裁、Terraform Labsへの訴訟でSECを支持]]></title>
+        <id>https://coinpost.jp/?p=501488</id>
+        <link href="https://coinpost.jp/?p=501488"/>
+        <updated>2023-12-29T06:39:14.000Z</updated>
+        <summary type="html"><![CDATA[米国の連邦地裁判事は、米SECがTerraform Labsに対して起こした裁判で、UST、LUNAなどを「未登録有価証券」とみなすSECの主張を支持した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グローバル版バイナンス、今年1年間で4000万人の新規ユーザーを獲得＝年末レポート]]></title>
         <id>https://coinpost.jp/?p=501559</id>
