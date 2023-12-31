@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-30T23:20:54.425Z</updated>
+    <updated>2023-12-31T01:35:45.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『各国規制面の進展はデジタル資産の信頼回復に貢献した』PwCが2023年を総括]]></title>
+        <id>https://coinpost.jp/?p=500878</id>
+        <link href="https://coinpost.jp/?p=500878"/>
+        <updated>2023-12-31T00:00:59.000Z</updated>
+        <summary type="html"><![CDATA[世界4大会計会社のPwCは、世界の仮想通貨の規制状況に関するレポートを公開。2023年を通して、世界の仮想通貨規制において注目すべき進展が見られたと総括した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIとブロックチェーン、VRが融合──2024年は「技術的収束」が可能性の限界を拡張する]]></title>
         <id>https://www.coindeskjapan.com/?p=214184</id>
@@ -955,16 +965,6 @@ METISが50%急騰──3億6000万ドルのプロジェクト助成金で話題 
 ETF、半減期、アップグレード──2024年のビットコインに期待すること first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Cory Klippsten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/26話題】zkSync Eraがネットワーク障害、国税庁「暗号資産に関する税務上の取扱いについて」改訂など]]></title>
-        <id>https://www.neweconomy.jp/?p=361362</id>
-        <link href="https://www.neweconomy.jp/posts/361362"/>
-        <updated>2023-12-26T11:34:43.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>

@@ -335,6 +335,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=500878",
+          "author": "幸田直子",
+          "description": "世界4大会計会社のPwCは、世界の仮想通貨の規制状況に関するレポートを公開。2023年を通して、世界の仮想通貨規制において注目すべき進展が見られたと総括した。",
+          "link": "https://coinpost.jp/?p=500878",
+          "publishedOn": "2023-12-31T00:00:59.000Z",
+          "wordCount": 2011,
+          "title": "『各国規制面の進展はデジタル資産の信頼回復に貢献した』PwCが2023年を総括",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/global-crypto-usage.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/global-crypto-usage.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=501814",
           "author": "A.Yamada",
           "description": "仮想通貨ビットコインのマイナーは24時間で、180億円相当のビットコインを売却した。背景としては、取引手数料収益の増加が挙げられる。",
@@ -1135,16 +1150,6 @@
           "wordCount": 746,
           "title": "オーケーコインジャパン、スイ（SUI）のステーキングサービス提供へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/27105608/f626b86b61d16dc75d550c64271b12ee.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=361362",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/361362",
-          "publishedOn": "2023-12-26T11:34:43.000Z",
-          "wordCount": 763,
-          "title": "【12/26話題】zkSync Eraがネットワーク障害、国税庁「暗号資産に関する税務上の取扱いについて」改訂など",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2023/12/26183545/news_head_20231226.jpg"
         }
       ]
     }
