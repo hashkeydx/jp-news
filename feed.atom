@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2023-12-31T23:22:21.482Z</updated>
+    <updated>2024-01-01T01:38:47.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年のビットコイン市場を重要ニュースから振り返る]]></title>
+        <id>https://coinpost.jp/?p=501223</id>
+        <link href="https://coinpost.jp/?p=501223"/>
+        <updated>2024-01-01T00:00:57.000Z</updated>
+        <summary type="html"><![CDATA[2023年、ビットコインは160%以上成長し、市場で新たな地位を確立。経済の不透明さの中、株式との連動性の変化を見せた。ビットコイン現物ETFや米SECの裁判など、重要な出来事とトレンドを振り返る]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リベンジ・オブ・ビットコイン 2024]]></title>
         <id>https://www.coindeskjapan.com/?p=213631</id>
@@ -698,37 +708,6 @@ AIとブロックチェーン、VRが融合──2024年は「技術的収束」
         <summary type="html"><![CDATA[国際版仮想通貨取引所バイナンスはステーブルコインUSDCの通貨ペアを拡大する予定だ。BUSDの撤廃が背景にある。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12月に6.15億ドル分の仮想通貨ビットコイン買い増し、マイクロストラテジー]]></title>
-        <id>https://coinpost.jp/?p=501300</id>
-        <link href="https://coinpost.jp/?p=501300"/>
-        <updated>2023-12-27T13:10:12.000Z</updated>
-        <summary type="html"><![CDATA[米マイクロストラテジーは27日夜、仮想通貨ビットコインを買い増ししたことを発表した。来年1月に複数のビットコインETF上場申請がSECによって承認される可能性や来年4月のビットコイン半減期に向けてビットコインの保有数を増やしている格好だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利益確定売りでミームコインのBONKが13％下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=213963</id>
-        <link href="https://www.coindeskjapan.com/213963/"/>
-        <updated>2023-12-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ（Solana）エコシステムの人気は今週は落ち着いた状態にあるようで、時価総額で上位のプロジェクトのネイティブ・トークンがここ数週間の強気相場から下げ、初 ...
-利益確定売りでミームコインのBONKが13％下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/27話題】CZが約3.3兆円資産増やす、コインチェックが実現損益チェッカー、国内初SUIステーキング提供など]]></title>
-        <id>https://www.neweconomy.jp/?p=361623</id>
-        <link href="https://www.neweconomy.jp/posts/361623"/>
-        <updated>2023-12-27T11:53:56.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
