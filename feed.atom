@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-04T10:28:49.644Z</updated>
+    <updated>2024-01-04T11:19:32.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米アーク、2500万ドル相当のコインベース株を売却]]></title>
+        <id>https://www.coindeskjapan.com/?p=214788</id>
+        <link href="https://www.coindeskjapan.com/214788/"/>
+        <updated>2024-01-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[キャシー・ウッド（Cathie Wood）率いるアーク・インベスト（ARK Invest）は1月3日、2つの上場投資信託（ETF）から約2500万ドル（約35億 ...
+米アーク、2500万ドル相当のコインベース株を売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[能登半島地震、仮想通貨プロジェクトによる緊急救援・寄付活動が進行中]]></title>
         <id>https://coinpost.jp/?p=502277</id>
@@ -356,17 +367,6 @@ SECはビットコイン現物ETF申請を却下すると予想：マトリッ�
         <summary type="html"><![CDATA[世界4大会計会社のPwCは、世界の仮想通貨の規制状況に関するレポートを公開。2023年を通して、世界の仮想通貨規制において注目すべき進展が見られたと総括した。]]></summary>
         <author>
             <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIとブロックチェーン、VRが融合──2024年は「技術的収束」が可能性の限界を拡張する]]></title>
-        <id>https://www.coindeskjapan.com/?p=214184</id>
-        <link href="https://www.coindeskjapan.com/214184/"/>
-        <updated>2023-12-30T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年は人類の歴史において、未来が推測の域を脱し、具体的な現実となった年として記憶されるだろう。 かつてはSFの世界に限られていたAI（人工知能）が、人類の ...
-AIとブロックチェーン、VRが融合──2024年は「技術的収束」が可能性の限界を拡張する first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>山口 晶子</name>
         </author>
     </entry>
 </feed>
