@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-04T11:19:32.859Z</updated>
+    <updated>2024-01-04T12:39:19.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは1月中に5万ドルまで上昇する？──SOLなど主要トークンは一時10％超下落]]></title>
+        <id>https://www.coindeskjapan.com/?p=214800</id>
+        <link href="https://www.coindeskjapan.com/214800/"/>
+        <updated>2024-01-04T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）はアナリストのレポートに市場が反応したため、1月3日に7%も下落した後、4日の欧州時間午前中に4万3000ドルをわずかに上回る水準で取引さ ...
+ビットコインは1月中に5万ドルまで上昇する？──SOLなど主要トークンは一時10％超下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アーク、2500万ドル相当のコインベース株を売却]]></title>
         <id>https://www.coindeskjapan.com/?p=214788</id>
@@ -357,16 +368,6 @@ SECはビットコイン現物ETF申請を却下すると予想：マトリッ�
         <summary type="html"><![CDATA[今週は、イーロン・マスク氏の仮想通貨に関する発言や、BitMEX元CEOのアーサー・ヘイズ氏によるビットコイン現物ETFの考察に関するニュースなどが関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『各国規制面の進展はデジタル資産の信頼回復に貢献した』PwCが2023年を総括]]></title>
-        <id>https://coinpost.jp/?p=500878</id>
-        <link href="https://coinpost.jp/?p=500878"/>
-        <updated>2023-12-31T00:00:59.000Z</updated>
-        <summary type="html"><![CDATA[世界4大会計会社のPwCは、世界の仮想通貨の規制状況に関するレポートを公開。2023年を通して、世界の仮想通貨規制において注目すべき進展が見られたと総括した。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>
