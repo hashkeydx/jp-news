@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=215127",
+          "author": "林 理南",
+          "description": "匿名のビットコイン作成者であるサトシ・ナカモト氏のブロックチェーンアドレスに5日、異常に高額のビットコイン（BTC）が支払われたことを受けて、暗号資産（仮想通貨 ...\nサトシ・ナカモトに120万ドルのビットコイン送金──目的不明で憶測広がる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/215127/",
+          "publishedOn": "2024-01-09T01:53:44.000Z",
+          "wordCount": 1278,
+          "title": "サトシ・ナカモトに120万ドルのビットコイン送金──目的不明で憶測広がる",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/7SJRHJMTNBBETHRG6E3OIJFVTA-_1_.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=215120",
           "author": "林 理南",
           "description": "アメリカにおけるビットコイン現物ETF（上場投資信託）承認への期待が最高潮に達する中、ビットコイン（BTC）は8日、2022年4月以来で初めて4万7000ドル（ ...\nビットコイン、4万7000ドルを突破──現物ETFへの期待が最高潮 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -244,6 +254,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=503016",
+          "author": "K.Kobayashi",
+          "description": "米SECのゲーリー・ゲンスラー委員長は、仮想通貨投資について注意喚起した。今週はSECが初めてビットコイン現物ETFを承認するとの見方が多いため、今回の注意喚起は多くの注目を集めている。",
+          "link": "https://coinpost.jp/?p=503016",
+          "publishedOn": "2024-01-09T02:00:29.000Z",
+          "wordCount": 1949,
+          "title": "米SECゲンスラー委員長、仮想通貨投資に注意喚起　BTC現物ETF承認に期待高まる中",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/sec1_0404_edit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/sec1_0404_edit.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=502995",
+          "author": "K.Kobayashi",
+          "description": "英SCBは、米国で仮想通貨ビットコイン現物ETFが承認されれば、今年に最大14.4兆円の資金が流入すると予想。BTC価格は25年末までに20万ドルまで上昇することが可能であるとの見方も示している。",
+          "link": "https://coinpost.jp/?p=502995",
+          "publishedOn": "2024-01-09T01:30:24.000Z",
+          "wordCount": 1916,
+          "title": "「ビットコイン現物ETFに今年14兆円超の資金流入の可能性」スタンダードチャータード銀が分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/mining-etf.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/mining-etf.png"
+        },
         {
           "id": "https://coinpost.jp/?p=502875",
           "author": "A.Yamada",
@@ -610,7 +650,18 @@
       "title": "ニュース – あたらしい経済",
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=362875",
+          "author": "TamuraSeiji",
+          "description": "Arbitrum OrbitのL3チェーンでカスタムガストークンのサポート開始 独自ブロックチェーンの構築をサポートするツールパッケージ「アービトラムオービット（Arbitrum Orbit）」採用のL3チェーンで、任意 […]",
+          "link": "https://www.neweconomy.jp/posts/362875",
+          "publishedOn": "2024-01-09T02:29:36.000Z",
+          "wordCount": 818,
+          "title": "「Arbitrum Orbit」のL3チェーンで任意のガストークンサポートが可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/09112926/d632f677c4d7562d9fab2789f4372dc5.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
