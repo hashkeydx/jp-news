@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-09T07:22:43.801Z</updated>
+    <updated>2024-01-09T08:27:36.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米採掘大手Core Scientific、5500万ドルの資金調達完了]]></title>
+        <id>https://coinpost.jp/?p=503105</id>
+        <link href="https://coinpost.jp/?p=503105"/>
+        <updated>2024-01-09T07:44:08.000Z</updated>
+        <summary type="html"><![CDATA[米国大手の仮想通貨マイニング企業、コア・サイエンティフィックが55百万ドルの資金調達を完了。NASDAQ再上場への道筋示す。2023年のビットコイン採掘量や破産からの再建に向けた動き、さらにセルシウスへの不良債権対応など、財務状況とビジネス戦略を分析。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、EUでのデリバティブ提供に向け企業買収進める]]></title>
+        <id>https://www.neweconomy.jp/?p=362990</id>
+        <link href="https://www.neweconomy.jp/posts/362990"/>
+        <updated>2024-01-09T07:27:09.000Z</updated>
+        <summary type="html"><![CDATA[コインベースがEUでデリバティブ提供拡大へ 米大手暗号資産（仮想通貨）取引所のコインベース（Coinbase）が、EU（欧州連合）においてデリバティブ商品の提供を拡大するために、MiFID（金融商品市場指令）認可の事業体 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ財団がブラジルへ現地チーム立ち上げへ、約15億円の投資も]]></title>
+        <id>https://www.neweconomy.jp/?p=362989</id>
+        <link href="https://www.neweconomy.jp/posts/362989"/>
+        <updated>2024-01-09T07:26:08.000Z</updated>
+        <summary type="html"><![CDATA[複数のWeb3領域への投資も パブリックブロックチェーンのソラナ（Solana）の開発を支援するソラナ財団が、ブラジル進出を1月1日発表した。 現地メディア「ヴァロー・エコノミコ（valor economico）」によれ […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム次期大型アップグレード「Dencun」、テストネット実装日が決定]]></title>
         <id>https://www.neweconomy.jp/?p=362964</id>
