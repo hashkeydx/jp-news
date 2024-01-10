@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-10T01:33:50.098Z</updated>
+    <updated>2024-01-10T02:33:31.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC公式Xがまさかのフェイクポスト、「現物ビットコインETF承認」誤報でBTC価格は乱高下。原因は調査中]]></title>
+        <id>https://www.neweconomy.jp/?p=363101</id>
+        <link href="https://www.neweconomy.jp/posts/363101"/>
+        <updated>2024-01-10T01:51:40.000Z</updated>
+        <summary type="html"><![CDATA[法的執行機関と協力も 米証券取引委員会（SEC）の公式Xアカウントが何者かによって侵害され、同アカウントから現物ビットコイン（BTC）ETF（上場投資信託）承認に関するポストが行われた。SECは直ちにそれを正式に否定して […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン版NFT「Ordinals」機能を制限する提案、議論が紛糾]]></title>
+        <id>https://coinpost.jp/?p=503222</id>
+        <link href="https://coinpost.jp/?p=503222"/>
+        <updated>2024-01-10T01:40:28.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン開発者Luke Dashjr氏は「Ordinals」機能を削除する提案をしているが、現時点で実装のための十分な支持を集めることはできていない。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SECのXアカウント、ハッキングで虚偽のビットコインETF承認を発表──ビットコインは急騰後に戻す]]></title>
         <id>https://www.coindeskjapan.com/?p=215364</id>
