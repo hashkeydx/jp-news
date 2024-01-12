@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-12T03:23:49.088Z</updated>
+    <updated>2024-01-12T04:27:59.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[InjectiveのVolanアップグレード、リアルワールドアセット（RWA）実装など機能強化]]></title>
+        <id>https://coinpost.jp/?p=503842</id>
+        <link href="https://coinpost.jp/?p=503842"/>
+        <updated>2024-01-12T04:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Injectiveがメインネットアップグレード「Volan」を発表。実世界資産（RWA）統合、クロスチェーン通信（IBC）プロトコルの拡張、ネイティブトークンINJの改善に焦点を当てる。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グレイスケールのGBTC、2021年2月以来初めてディスカウント率がゼロに近づく]]></title>
+        <id>https://www.coindeskjapan.com/?p=215758</id>
+        <link href="https://www.coindeskjapan.com/215758/"/>
+        <updated>2024-01-12T03:56:40.000Z</updated>
+        <summary type="html"><![CDATA[世界最大のビットコイン投資ファンドであるグレイスケール・ビットコイン・トラスト（Grayscale Bitcoin Trust ：GBTC）で、純資産価値（NA ...
+グレイスケールのGBTC、2021年2月以来初めてディスカウント率がゼロに近づく first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETF承認後のビットコイン、一時49000ドルまで上昇するも利確売り優勢に]]></title>
+        <id>https://coinpost.jp/?p=503851</id>
+        <link href="https://coinpost.jp/?p=503851"/>
+        <updated>2024-01-12T03:35:14.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインETF（上場投資信託）がSECに承認され取引高が活況を呈する中、暗号資産（仮想通貨）ビットコイン（BTC）は一時49000ドルまで上昇するも反落。利確売り優勢の展開となっている。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのレイヤー2でEVM互換性を備える「Bitfinity」が700万ドル調達]]></title>
         <id>https://coinpost.jp/?p=503830</id>
