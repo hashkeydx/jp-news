@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-12T04:27:59.906Z</updated>
+    <updated>2024-01-12T05:26:49.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EVM互換L1プロジェクト「Berachain」、テストネット公開]]></title>
+        <id>https://coinpost.jp/?p=503856</id>
+        <link href="https://coinpost.jp/?p=503856"/>
+        <updated>2024-01-12T05:00:36.000Z</updated>
+        <summary type="html"><![CDATA[コスモス（ATOM）開発キットで構築される「Berachain」は、テストネット「Artio」を公開。PoSの一種である独自のPoLメカニズムを搭載している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC発行の米サークル、IPOを守秘義務付きで申請]]></title>
+        <id>https://www.neweconomy.jp/?p=363600</id>
+        <link href="https://www.neweconomy.jp/posts/363600"/>
+        <updated>2024-01-12T04:36:39.000Z</updated>
+        <summary type="html"><![CDATA[守秘義務付きで申請 米ドルステーブルコイン「USD Coin（USDC）」を発行する米サークル（Circle Internet Financial）が、米証券取引委員会（SEC）へ同社株式の新規株式公開（IPO）案に関す […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InjectiveのVolanアップグレード、リアルワールドアセット（RWA）実装など機能強化]]></title>
         <id>https://coinpost.jp/?p=503842</id>

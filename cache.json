@@ -435,6 +435,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=503856",
+          "author": "A.Yamada",
+          "description": "コスモス（ATOM）開発キットで構築される「Berachain」は、テストネット「Artio」を公開。PoSの一種である独自のPoLメカニズムを搭載している。",
+          "link": "https://coinpost.jp/?p=503856",
+          "publishedOn": "2024-01-12T05:00:36.000Z",
+          "wordCount": 1952,
+          "title": "EVM互換L1プロジェクト「Berachain」、テストネット公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/bera-chain-test-net-open.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/bera-chain-test-net-open.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=503842",
           "author": "AKIRA.H",
           "description": "Injectiveがメインネットアップグレード「Volan」を発表。実世界資産（RWA）統合、クロスチェーン通信（IBC）プロトコルの拡張、ネイティブトークンINJの改善に焦点を当てる。",
@@ -1176,6 +1191,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=363600",
+          "author": "gentosha_takahashi",
+          "description": "守秘義務付きで申請 米ドルステーブルコイン「USD Coin（USDC）」を発行する米サークル（Circle Internet Financial）が、米証券取引委員会（SEC）へ同社株式の新規株式公開（IPO）案に関す […]",
+          "link": "https://www.neweconomy.jp/posts/363600",
+          "publishedOn": "2024-01-12T04:36:39.000Z",
+          "wordCount": 756,
+          "title": "USDC発行の米サークル、IPOを守秘義務付きで申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/12133632/742d9380f2bce0691c641a76fddac72a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=363477",
           "author": "gentosha_takahashi",
