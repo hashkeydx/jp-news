@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-15T07:21:31.265Z</updated>
+    <updated>2024-01-15T08:28:57.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[次回ビットコイン半減期後のマイナー損益分岐点は1BTC=40000ドル｜CoinSharesレポート]]></title>
+        <id>https://coinpost.jp/?p=504255</id>
+        <link href="https://coinpost.jp/?p=504255"/>
+        <updated>2024-01-15T07:52:14.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨投資企業CoinSharesは、今年春のビットコイン半減期後のマイニング企業の収益性と損益分岐点を分析したレポートを発表。1BTCあたり40,000ドル（約580万円）がマイナーにとって損益分岐点となると予測した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サザビーズ、ビットコイン「Ordinals」のオークション入札開始]]></title>
         <id>https://www.neweconomy.jp/?p=364028</id>
@@ -1163,16 +1173,6 @@ SEC委員長、ビットコインETF承認声明 first appeared on CoinDesk JAPA
         <summary type="html"><![CDATA[米国証券取引委員会（SEC）が米国史上初のビットコイン現物ETFの上場を承認。ブラックロックの「iShares BITCOIN SPOT ETF（iシェアーズ・ビットコイントラスト）」など全て。現物ETFは、投資家に暗号資産（仮想通貨）ビットコインに投資する新たな方法を提供し、デジタル通貨市場の成熟に寄与すると期待される。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国際版バイナンス、Celestia（TIA）などで一部の通貨ペア追加　廃止も]]></title>
-        <id>https://coinpost.jp/?p=503483</id>
-        <link href="https://coinpost.jp/?p=503483"/>
-        <updated>2024-01-10T20:25:41.000Z</updated>
-        <summary type="html"><![CDATA[国際版仮想通貨取引所バイナンスは10日、一部の通貨ペアの追加と廃止予定を発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
