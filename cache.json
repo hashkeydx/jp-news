@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=216254",
+          "author": "Shaurya Malwa",
+          "description": "ファントム（Fantom）ブロックチェーンの開発者は1月15日、ネットワーク上でセルフ・ステーキング・ノードを実行するためのバリデーター要件を90%削減すること ...\nファントム、バリデーターのステーキング要件を90％削減 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/216254/",
+          "publishedOn": "2024-01-16T22:00:00.000Z",
+          "wordCount": 1271,
+          "title": "ファントム、バリデーターのステーキング要件を90％削減",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/05/shutterstock_2093653285.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=216231",
+          "author": "Shaurya Malwa",
+          "description": "メイルストロム・ベンチャーズ（Maelstrom Ventures）のオーナーでビットメックス（BitMEX）の創業者アーサー・ヘイズ（Arthur Hayes ...\nビットコインETFはTradFiから数十億ドルをもたらす：BitMEX元CEOが予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/216231/",
+          "publishedOn": "2024-01-16T21:30:00.000Z",
+          "wordCount": 1210,
+          "title": "ビットコインETFはTradFiから数十億ドルをもたらす：BitMEX元CEOが予想",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/RBPH4GE6HFHGDM7P2J3VHUMLOA.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=216096",
           "author": "Daniel Kuhn",
           "description": "ステーブルコインのUSDコイン（USDC）を発行する米サークル（Circle）は、株式公開に再挑戦している。2021年に特別目的買収会社（SPAC）との合併によ ...\n今年、上場する可能性のある暗号資産企業 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -320,16 +340,6 @@
           "wordCount": 1376,
           "title": "マトリックス法によるテクニカル分析（2024/1/12）ビットコイン、強気のサインがクリアになったが、、、：楽天ウォレット",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/tr-thumb_240112.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=215841",
-          "author": "Shaurya Malwa",
-          "description": "アメリカにおけるビットコイン（BTC）上場投資信託（ETF）のデビューは、一部で予想されていたような全面的な売り材料にはならなかったが、それでも価格が乱高下した ...\nビットコインのウォール街デビュー、8300万ドルの清算が発生 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/215841/",
-          "publishedOn": "2024-01-12T10:10:00.000Z",
-          "wordCount": 1230,
-          "title": "ビットコインのウォール街デビュー、8300万ドルの清算が発生",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/08/shutterstock_261085280-scaled.jpg"
         }
       ]
     },
@@ -344,6 +354,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=504688",
+          "author": "菊谷ルイス",
+          "description": "グレースケールのビットコイン現物ETF「GBTC」から、BTCのアウトフローが続いているようだ。また、3日目の米ビットコインETFは全体の出来高が約18億ドルで、先週金曜日の30億ドルから大幅に落ち込んできた格好だ。",
+          "link": "https://coinpost.jp/?p=504688",
+          "publishedOn": "2024-01-16T22:00:50.000Z",
+          "wordCount": 1913,
+          "title": "グレースケールのビットコインETF、9000 BTC送金で売り続くか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/grayscale-etf-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/grayscale-etf-bitcoin.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=504684",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所コインベースは17日、HONEYの新規上場を発表した。HONEYは人気DePIN銘柄として15日発表のバイナンス2024年業界レポートでも取り上げられた。",
+          "link": "https://coinpost.jp/?p=504684",
+          "publishedOn": "2024-01-16T21:15:17.000Z",
+          "wordCount": 1956,
+          "title": "米コインベース、ソラナDePIN銘柄「Hivemapper」新規上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/hivemapper-coinbase.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/hivemapper-coinbase.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=504675",
           "author": "菊谷ルイス",
@@ -1020,16 +1060,6 @@
           "wordCount": 774,
           "title": "アクシーインフィニティ、ゲーム内通貨「SLP」発行上限を440億ドルに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/12202943/1aabdbf5437d98ab84d421e4a5b59749.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=363688",
-          "author": "OtsugaShinya",
-          "description": "AsiaNextがシンガポールで暗号資産デリバティブ取引を提供開始 機関投資家向けに特化したグローバルなデジタル資産取引所を運営するアジアネクスト（AsiaNext）が、シンガポールにて暗号資産（仮想通貨）デリバティブサ […]",
-          "link": "https://www.neweconomy.jp/posts/363688",
-          "publishedOn": "2024-01-12T10:11:16.000Z",
-          "wordCount": 766,
-          "title": "SBI DAHとスイスSIXのJV「AsiaNext」、シンガポールで暗号資産デリバティブ取引を提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/12191106/49f30f128135aa8e951301de775955b6.jpg"
         }
       ]
     }
