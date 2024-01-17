@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-17T10:29:28.868Z</updated>
+    <updated>2024-01-17T11:20:19.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、「デンクン」アップグレードを開始──テストネットでのファイナライズに失敗]]></title>
+        <id>https://www.coindeskjapan.com/?p=216395</id>
+        <link href="https://www.coindeskjapan.com/216395/"/>
+        <updated>2024-01-17T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（Ethereum）が待ち望んでいたアップグレード「デンクン（Dencun）」は、1月17日未明にテストネット「Goerli」上で実行されたが、予想 ...
+イーサリアム、「デンクン」アップグレードを開始──テストネットでのファイナライズに失敗 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン週足チャートで史上初のゴールデンクロス]]></title>
         <id>https://www.coindeskjapan.com/?p=216380</id>
@@ -1119,17 +1130,6 @@ SEC、Xアカウントのハッキングと偽のビットコインETF承認発�
         <summary type="html"><![CDATA[米SECのゲーリー・ゲンスラー委員長は、仮想通貨の現物ETFについて語った。ビットコインについては、現物ETFの誕生で中央集権化が進んだと話している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインが描く分散型の未来は実現するのか／RWA、ステーブルコイン、DAOの行方は【2024年始特集10記事 振り返り】]]></title>
-        <id>https://www.coindeskjapan.com/?p=215839</id>
-        <link href="https://www.coindeskjapan.com/215839/"/>
-        <updated>2024-01-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカでついにビットコインETFが承認された。ビットコインは、よりアクセスしやすい金融商品となった。果たしてこれはサトシ・ナカモトが描いた夢を損なうものなのか ...
-ビットコインが描く分散型の未来は実現するのか／RWA、ステーブルコイン、DAOの行方は【2024年始特集10記事 振り返り】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
