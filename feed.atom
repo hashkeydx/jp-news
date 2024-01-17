@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-17T12:41:49.407Z</updated>
+    <updated>2024-01-17T13:25:49.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/17話題】イーサリアムDencunがGoerliテストネットに実装、JPYCの累計発行額が25億円になど]]></title>
+        <id>https://www.neweconomy.jp/?p=364612</id>
+        <link href="https://www.neweconomy.jp/posts/364612"/>
+        <updated>2024-01-17T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム、「デンクン」アップグレードを開始──テストネットでのファイナライズに失敗]]></title>
         <id>https://www.coindeskjapan.com/?p=216395</id>
@@ -1067,27 +1077,6 @@ SEC、Xアカウントのハッキングと偽のビットコインETF承認発�
         <summary type="html"><![CDATA[米証券取引委員会は対リップル社裁判で新たな申し立てを行った。リップル社に対して仮想通貨XRPの機関投資家への販売契約書などの提出を求めた。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[時代逆行か、米Vanguardがビットコイン先物取引提供中止へ]]></title>
-        <id>https://coinpost.jp/?p=503999</id>
-        <link href="https://coinpost.jp/?p=503999"/>
-        <updated>2024-01-13T01:00:12.000Z</updated>
-        <summary type="html"><![CDATA[ETF・資産運用大手Vanguard（バンガード）は昨日の発表に続き、仮想通貨ビットコインの先物取引へのアクセス提供を中止すると顧客に伝えた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国規制当局、アメリカのビットコインETFが国内法に抵触する可能性を示唆]]></title>
-        <id>https://www.coindeskjapan.com/?p=215863</id>
-        <link href="https://www.coindeskjapan.com/215863/"/>
-        <updated>2024-01-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国の金融規制当局である金融委員会（FSC）は声明で、最近上場したアメリカのビットコイン（BTC）上場投資信託（ETF）が韓国の法律に抵触する可能性があると述べ ...
-韓国規制当局、アメリカのビットコインETFが国内法に抵触する可能性を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
         </author>
     </entry>
 </feed>
