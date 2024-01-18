@@ -435,6 +435,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=505087",
+          "author": "AKIRA.H",
+          "description": "寒波によりテキサス州のERCOTが電力制限を実施。ビットコインネットワークのハッシュレートが34％低下。マイニングマシン停止につながる規制と、ビットコインへの波及効果を分析。",
+          "link": "https://coinpost.jp/?p=505087",
+          "publishedOn": "2024-01-18T07:30:25.000Z",
+          "wordCount": 1986,
+          "title": "ビットコインハッシュレートが最大34%低下　北米寒波とテキサス州の節電要請で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/BTC_Mining_1229.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/BTC_Mining_1229.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=505054",
           "author": "幸田直子",
           "description": "仮想通貨ウォレットMetaMaskは、トランザクションでユーザーが「望む結果」を指定可能な新しいルーティング技術をテストしており、一部のサービスに導入済みであることがわかった。",
@@ -1086,6 +1101,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=364896",
+          "author": "gentosha_takahashi",
+          "description": "「準通貨にはインフレが起こる」 南米アルゼンチンの新大統領ハビエル・ミレイ（Javier Milei）氏が、同国ラ・リオハ州が「独自通貨」を持つことに否定的な見方を示した。現地メディア「ラジオ・ミトレ（RADIO MIT […]",
+          "link": "https://www.neweconomy.jp/posts/364896",
+          "publishedOn": "2024-01-18T08:04:42.000Z",
+          "wordCount": 766,
+          "title": "アルゼンチン新大統領、地方自治体の独自通貨認めるも否定的な見方示す",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/18170437/43dd57a64ab04cd5d3fd8c53c823d16f.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=364765",
           "author": "HitomotoToshikazu",
