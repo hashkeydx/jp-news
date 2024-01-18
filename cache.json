@@ -415,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=505020",
+          "author": "A.Yamada",
+          "description": "米JPモルガンのダイモンCEOは、仮想通貨ビットコインに対して改めて懐疑的な態度を表明した。何らかの機能を果たすことがないと意見している。",
+          "link": "https://coinpost.jp/?p=505020",
+          "publishedOn": "2024-01-18T04:10:04.000Z",
+          "wordCount": 1999,
+          "title": "ビットコインETFの指定参加者になるも　JPモルガンCEO、ビットコイに懐疑的な姿勢を強調",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/jpmorgan_bitcoin1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/jpmorgan_bitcoin1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=505026",
           "author": "菊谷ルイス",
           "description": "仮想通貨基盤の決済サービスシステム「UPCX-Platforms PTE. LTD.(以下、UPCX）」は18日、水泳の「世界選手権ドーハ大会 2024」と、「世界競泳ワールドカップ 2024」の公式ブロックチェーン・ペイメント・スポンサーに選定されたと発表した。",
@@ -1021,6 +1036,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=364830",
+          "author": "gentosha_takahashi",
+          "description": "法廷で決着はつかず 暗号資産（仮想通貨）業界が注目する裁判で、米ニューヨーク・マンハッタンの連邦判事は1月17日、米大手暗号資産取引所コインベース（Coinbase）と米証券取引委員会（SEC）に対し、デジタル資産が証券 […]",
+          "link": "https://www.neweconomy.jp/posts/364830",
+          "publishedOn": "2024-01-18T04:26:41.000Z",
+          "wordCount": 805,
+          "title": "コインベースとSEC、「暗号資産か証券か」で米法廷にて対立＝ロイター",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/18132633/b38fab5e9d165305df07ae44eb2142f3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=364805",
+          "author": "TamuraSeiji",
+          "description": "Blastのテストネットが正式ローンチ イーサリアム（Ethereum）レイヤー2ネットワーク「Blast（ブラスト）」が、テストネットを正式にローンチし開発者向けの分散型アプリケーション（Dapp）開発コンペティション […]",
+          "link": "https://www.neweconomy.jp/posts/364805",
+          "publishedOn": "2024-01-18T04:01:20.000Z",
+          "wordCount": 804,
+          "title": "イーサL2「Blast」のテストネットが正式ローンチ、開発コンペ開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/18130103/Blast-20240117wvihrev.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=364795",
+          "author": "OtsugaShinya",
+          "description": "SBI VCトレードが「レバレッジ手数料率」の名称変更 国内暗号資産（仮想通貨）取引所SBI VCトレード提供のレバレッジ取引（証拠金取引）において、「レバレッジ手数料率」から「ファンディングレート」へ名称変更された。同 […]",
+          "link": "https://www.neweconomy.jp/posts/364795",
+          "publishedOn": "2024-01-18T03:28:40.000Z",
+          "wordCount": 640,
+          "title": "SBI VCトレード、「レバレッジ手数料率」から「ファンディングレート」へ名称変更",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/18122832/432cc14fb8dcc9f79503e762223bb7d7.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=364612",
           "author": "NewEconomy",
