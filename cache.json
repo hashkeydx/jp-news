@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=216341",
+          "author": "Michael J Casey",
+          "description": "スイスで開催された世界経済フォーラム、いわゆる「ダボス会議」で、大手金融機関による暗号資産（仮想通貨）コミュニティが存在感を示したことは、この業界に内在する葛藤 ...\nビットコインETFで、新たな権力闘争が始まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/216341/",
+          "publishedOn": "2024-01-21T21:00:00.000Z",
+          "wordCount": 1259,
+          "title": "ビットコインETFで、新たな権力闘争が始まる",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_2170095333.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=216798",
           "author": "Sam Reynolds",
           "description": "アーク・インベスト（Ark Invest）は、プロシェアーズ・ビットコイン（BTC）・ストラテジーETF（BITO）から、最近上場した自社のスポット・ビットコイ ...\n米アーク、BITOから自社ビットコインETFへの移行を継続──再び1500万ドル分を購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -818,36 +828,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/purpose-etf-btc-eth-now.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/purpose-etf-btc-eth-now.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=504822",
-          "author": "AKIRA.H",
-          "description": "コインベースとSECの間での法的対立に関して、公聴会を予定。特定の暗号資産（仮想通貨）を証券と見るSECの主張、訴訟却下要求の背景を解説。法律と金融の専門家からの洞察をまとめる。",
-          "link": "https://coinpost.jp/?p=504822",
-          "publishedOn": "2024-01-17T09:04:11.000Z",
-          "wordCount": 1909,
-          "title": "コインベース対SEC、1月17日の訴訟却下要求・公聴会の見通し",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/coinbase-supreme-court-.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/coinbase-supreme-court-.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=503672",
-          "author": "TakeuchiIbuki",
-          "description": "国際的に利用が急拡大しているステーブルコインTrueUSD（TUSD）。大手仮想通貨取引所Binanceのローンチパッドなどでも利用されています。TUSDは、仮想通貨業界で初めて第三者機関によるリアルタイム監査を導入したステーブルコインです...",
-          "link": "https://coinpost.jp/?p=503672",
-          "publishedOn": "2024-01-17T08:43:19.000Z",
-          "wordCount": 1963,
-          "title": "需要拡大中のステーブルコインTUSDとは | 主な特徴と強みを解説",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/TrueUSD0117-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/TrueUSD0117-1.jpg"
         }
       ]
     },
@@ -1055,26 +1035,6 @@
           "wordCount": 818,
           "title": "ソラナのDEX「Jupiter」が「JUP」のエアドロップ実施日を公開、テスト配布も実施",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/17182256/73ac5e4254783a52c7d9bfa6c96068ef.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=364528",
-          "author": "HitomotoToshikazu",
-          "description": "フレアのバリデータにグーグルクラウドが参加 グーグルクラウド（Google Cloud）が、フレア（Flare）ブロックチェーン上のバリデータ及びインフラストラクチャプロバイダとして参加したことが1月15日発表された。  […]",
-          "link": "https://www.neweconomy.jp/posts/364528",
-          "publishedOn": "2024-01-17T09:04:52.000Z",
-          "wordCount": 821,
-          "title": "グーグルクラウド、フレア（FLR）のバリデータに参加",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/17180442/e20c9b072a0899c393cd6f71e844a8fd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=364607",
-          "author": "OtsugaShinya",
-          "description": "DencunがGoerliテストネットに実装 イーサリアム（Ethereum）の次期大型アップグレード「デンクン（Dencun）」が、テストネットの「ゴエリ（Goerli）」に実装された。イーサリアム財団（Ethereu […]",
-          "link": "https://www.neweconomy.jp/posts/364607",
-          "publishedOn": "2024-01-17T08:45:46.000Z",
-          "wordCount": 814,
-          "title": "イーサリアム次期大型アップグレード「Dencun」、「Goerli」テストネットに実装完了",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/17174530/58f1ba071240051ef90451f00da2dbaf.jpg"
         }
       ]
     }
