@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-22T22:25:47.916Z</updated>
+    <updated>2024-01-22T23:22:57.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米S&P500継続　日経平均約34年ぶりに3.6万円台復帰、ビットコイン4万ドル割れ｜20日金融短観]]></title>
+        <id>https://coinpost.jp/?p=506039</id>
+        <link href="https://coinpost.jp/?p=506039"/>
+        <updated>2024-01-22T23:10:13.000Z</updated>
+        <summary type="html"><![CDATA[本日のNYダウは続伸し史上最高値の更新を続けた。一方、テクニカル的に買われ過ぎの状況にあるとの指摘も見られる。新NISAによる新規資金流入や景気回復期待への期待から、日経平均は22日に1990年2月以来およそ33年11カ月ぶりに3万6000円台に復帰した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アップグレード「Dencun」がイーサリアムの供給量に与える影響を分析＝CoinShares]]></title>
         <id>https://coinpost.jp/?p=506026</id>
@@ -774,26 +784,6 @@ AIトークン入門編──役割や仕組み、時価総額トップ5を紹�
         <summary type="html"><![CDATA[海外版仮想通貨取引所バイナンスは18日、新たなパーペチュアル（無期限先物）取引銘柄を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1/18話題】トランプが「中銀デジタル通貨」発行を許可しない、コインベースとSECが米法廷で対立など]]></title>
-        <id>https://www.neweconomy.jp/?p=364934</id>
-        <link href="https://www.neweconomy.jp/posts/364934"/>
-        <updated>2024-01-18T10:59:42.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『WebX2024』講談社、東宝などが出展するIPエリア新設発表、 ETH TokyoとDAO Tokyo同時期開催へ]]></title>
-        <id>https://coinpost.jp/?p=504502</id>
-        <link href="https://coinpost.jp/?p=504502"/>
-        <updated>2024-01-18T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[今年8月開催予定の『WebX2024』 のローンチパーティーが開催され、講談社や東宝など国内大手企業が出展するIP（知的財産）エリアなどの新設が発表された。ETH JapanとDAO Tokyoも同時期開催される。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
