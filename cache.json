@@ -355,6 +355,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=505796",
+          "author": "A.Yamada",
+          "description": "米SECはナスダックらがビットコインETFのオプション取引を申請したと発表した。ナスダックはブラックロックのBTC現物ETFについて申請している。",
+          "link": "https://coinpost.jp/?p=505796",
+          "publishedOn": "2024-01-22T02:44:48.000Z",
+          "wordCount": 2048,
+          "title": "ビットコインETFのオプション取引、ナスダックとシカゴ・オプション取引所（Cboe）が申請へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/cboe-vest-bitcoin-mutual-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/cboe-vest-bitcoin-mutual-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=505784",
           "author": "S.Ninomiya",
           "description": "暗号資産（仮想通貨）市場では、ビットコインETF（上場投資信託）承認後のビットコインが弱含んでおり調整局面入りが懸念される。個別アルトコインでは、アスター（ASTR）が前週比25%高と大幅続伸した。",
@@ -871,6 +886,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=365547",
+          "author": "gentosha_takahashi",
+          "description": "組み込むことについて模索か 韓国大統領府が、同国金融規制当局である韓国金融委員会（FSC）に対し、現物ビットコイン（BTC）ETF（上場投資信託）の承認について再検討するよう要請しているようだ。現地メディア「毎日経済（メ […]",
+          "link": "https://www.neweconomy.jp/posts/365547",
+          "publishedOn": "2024-01-22T03:17:41.000Z",
+          "wordCount": 758,
+          "title": "韓国大統領府、金融規制当局に「現物ビットコインETF」承認可能性の再検討を要求＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/22121732/421853937530acac87ebdae1714bca37.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=365232",
           "author": "HitomotoToshikazu",
