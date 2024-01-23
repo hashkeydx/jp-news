@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-23T22:27:17.349Z</updated>
+    <updated>2024-01-23T23:23:00.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックス、仮想通貨の弁済について債権者に通知を送付か]]></title>
+        <id>https://coinpost.jp/?p=506387</id>
+        <link href="https://coinpost.jp/?p=506387"/>
+        <updated>2024-01-23T23:00:43.000Z</updated>
+        <summary type="html"><![CDATA[2014年に経営破綻した仮想通貨取引所マウントゴックス（MTGOX）は、仮想通貨での弁済について債権者にメールを送付したことが報告された。文面がSNSに投稿されている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オプティミズム財団、モジュラーL2「Mode」を200万OPトークン付与で支援]]></title>
         <id>https://coinpost.jp/?p=506391</id>
@@ -813,17 +823,6 @@ AIトークン入門編──役割や仕組み、時価総額トップ5を紹�
         <summary type="html"><![CDATA[Dogwifhat（WIF）の価格が約6倍に ソラナネットワーク上に発行されているミームコイン「ドッグウィズハット：Dogwifhat（WIF）」の価格が、大手暗号資産（仮想通貨）取引所バイナンス（Binance）提供の […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレイスケールの売りを懸念してビットコインが下落──強気派は2億ドル以上の清算]]></title>
-        <id>https://www.coindeskjapan.com/?p=216598</id>
-        <link href="https://www.coindeskjapan.com/216598/"/>
-        <updated>2024-01-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）上場投資信託（ETF）の承認による「ニュースで売る」動きが継続し、逆張りのベットが減速の兆しを見せていない。そのため、暗号資産（仮想通貨） ...
-グレイスケールの売りを懸念してビットコインが下落──強気派は2億ドル以上の清算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
