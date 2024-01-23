@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-23T12:42:35.355Z</updated>
+    <updated>2024-01-23T13:26:14.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/23話題】GMOの「GYEN」と「ZUSD」がソラナ対応、FTXが現物ビットコインETFを約1482億円分売却など]]></title>
+        <id>https://www.neweconomy.jp/?p=365943</id>
+        <link href="https://www.neweconomy.jp/posts/365943"/>
+        <updated>2024-01-23T12:49:54.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの次の支持線は3万8000ドルか──SOLとAVAXは大きく下落]]></title>
         <id>https://www.coindeskjapan.com/?p=217130</id>
@@ -948,27 +958,6 @@ AIトークン入門編──役割や仕組み、時価総額トップ5を紹�
         <summary type="html"><![CDATA[米地裁判事は、米SECとコインベースの裁判でSECに質問を行った。仮想通貨やステーキングの証券性についてコインベースに有利な発言をしている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのビットコインETF、1週間で運用資産総額10億ドルに到達]]></title>
-        <id>https://www.coindeskjapan.com/?p=216622</id>
-        <link href="https://www.coindeskjapan.com/216622/"/>
-        <updated>2024-01-19T01:00:55.000Z</updated>
-        <summary type="html"><![CDATA[世界最大の資産運用会社ブラックロック（BlackRock）の現物ビットコイン（BTC）ETF（上場投資信託）は17日、運用資産10億ドル（約1450億円、1ドル ...
-ブラックロックのビットコインETF、1週間で運用資産総額10億ドルに到達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「コスモスのブロックチェーンで刻印を可能に」Delphi Labsらが新機能Asteroidsをローンチ]]></title>
-        <id>https://coinpost.jp/?p=505255</id>
-        <link href="https://coinpost.jp/?p=505255"/>
-        <updated>2024-01-19T00:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Delphi Labsは、仮想通貨コスモスのブロックチェーンCosmos HubでInscription（刻印）を行うことができるフレームワークAsteroid Protocolを発表した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
