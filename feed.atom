@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-24T03:24:04.701Z</updated>
+    <updated>2024-01-24T04:28:19.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オンチェーン情報追跡「Arkham」、ブラックロックら4社の「現物ビットコインETF」のアドレス特定か]]></title>
+        <id>https://www.neweconomy.jp/?p=366142</id>
+        <link href="https://www.neweconomy.jp/posts/366142"/>
+        <updated>2024-01-24T04:05:43.000Z</updated>
+        <summary type="html"><![CDATA[4つのオンチェーンアドレス特定か オンチェーン情報を追跡する為のインテリジェンス・プラットフォーム「アーカム（Arkham）」が、米国で提供されている現物ビットコイン（BTC）ETF（上場投資信託）の裏付けとなるビットコ […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニモカブランズ傘下の「Gamee」コントラクトに不正アクセス　22億円相当流出]]></title>
+        <id>https://coinpost.jp/?p=506422</id>
+        <link href="https://coinpost.jp/?p=506422"/>
+        <updated>2024-01-24T03:45:14.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンゲームGameeは、独自トークンGMEEのコントラクトがハッキングされ、22億円相当のトークンが盗まれたと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロプラのブロックチェーンゲーム 「Brilliantcrypto」、南米でのトークン上場に向け暗号資産取引所「Bit2Me」と契約]]></title>
+        <id>https://www.neweconomy.jp/?p=366133</id>
+        <link href="https://www.neweconomy.jp/posts/366133"/>
+        <updated>2024-01-24T03:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Brilliantcryptoがスペインの取引所「Bit2Me」と契約締結 Brilliantcrypto（ブリリアントクリプト）が、スペイン語圏最大級の暗号資産（仮想通貨）取引所Bit2Me（ビットゥーミー）とのトーク […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨相場全面安、2日間で660億円相当の先物ロングがロスカットされる]]></title>
+        <id>https://coinpost.jp/?p=506418</id>
+        <link href="https://coinpost.jp/?p=506418"/>
+        <updated>2024-01-24T03:19:25.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインETF（上場投資信託）承認後のグレースケールGBTC売りに伴いセンチメントが急悪化する中、アルトコインからの資金抜けが加速。暗号資産（仮想通貨）先物市場ではロスカット（強制清算）が2日間で660億円相当に達した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベース、イーサリアムのインフラの安全性向上へ　クライアントの多様化を検討]]></title>
         <id>https://coinpost.jp/?p=506402</id>

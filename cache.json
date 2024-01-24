@@ -325,6 +325,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=506422",
+          "author": "A.Yamada",
+          "description": "ブロックチェーンゲームGameeは、独自トークンGMEEのコントラクトがハッキングされ、22億円相当のトークンが盗まれたと発表した。",
+          "link": "https://coinpost.jp/?p=506422",
+          "publishedOn": "2024-01-24T03:45:14.000Z",
+          "wordCount": 1974,
+          "title": "アニモカブランズ傘下の「Gamee」コントラクトに不正アクセス　22億円相当流出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/animoca20220311_3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/animoca20220311_3.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=506418",
+          "author": "S.Ninomiya",
+          "description": "ビットコインETF（上場投資信託）承認後のグレースケールGBTC売りに伴いセンチメントが急悪化する中、アルトコインからの資金抜けが加速。暗号資産（仮想通貨）先物市場ではロスカット（強制清算）が2日間で660億円相当に達した。",
+          "link": "https://coinpost.jp/?p=506418",
+          "publishedOn": "2024-01-24T03:19:25.000Z",
+          "wordCount": 2124,
+          "title": "仮想通貨相場全面安、2日間で660億円相当の先物ロングがロスカットされる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/bitcoin_clash2020-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/bitcoin_clash2020-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=506402",
           "author": "K.Kobayashi",
           "description": "仮想通貨取引所コインベースは、イーサリアムのインフラの安全性を向上させることを検討していると公表。実行レイヤーのクライアントの多様化を検討すると説明している。",
@@ -886,6 +916,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=366142",
+          "author": "gentosha_takahashi",
+          "description": "4つのオンチェーンアドレス特定か オンチェーン情報を追跡する為のインテリジェンス・プラットフォーム「アーカム（Arkham）」が、米国で提供されている現物ビットコイン（BTC）ETF（上場投資信託）の裏付けとなるビットコ […]",
+          "link": "https://www.neweconomy.jp/posts/366142",
+          "publishedOn": "2024-01-24T04:05:43.000Z",
+          "wordCount": 820,
+          "title": "オンチェーン情報追跡「Arkham」、ブラックロックら4社の「現物ビットコインETF」のアドレス特定か",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/24130534/5e625bfbf352059740c7bf3773f5e4d5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=366133",
+          "author": "OtsugaShinya",
+          "description": "Brilliantcryptoがスペインの取引所「Bit2Me」と契約締結 Brilliantcrypto（ブリリアントクリプト）が、スペイン語圏最大級の暗号資産（仮想通貨）取引所Bit2Me（ビットゥーミー）とのトーク […]",
+          "link": "https://www.neweconomy.jp/posts/366133",
+          "publishedOn": "2024-01-24T03:35:18.000Z",
+          "wordCount": 779,
+          "title": "コロプラのブロックチェーンゲーム 「Brilliantcrypto」、南米でのトークン上場に向け暗号資産取引所「Bit2Me」と契約",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/24123451/27e9b245c326a261c758f2a04ea935f5.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=365943",
           "author": "NewEconomy",
