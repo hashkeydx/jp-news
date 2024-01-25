@@ -425,6 +425,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=506726",
+          "author": "幸田直子",
+          "description": "BitVMコミュニティによると、ビットコインL2の開発が活発化しており、現在30を超えるプロジェクトが市場で公開されている。このようなL2チェーンは、ビットコインの有用性を高めることで、新たな需要を生み出し、資産価値を高める可能性があると見られている。",
+          "link": "https://coinpost.jp/?p=506726",
+          "publishedOn": "2024-01-25T05:55:11.000Z",
+          "wordCount": 1998,
+          "title": "活性化するビットコインL2開発、エコシステムの急成長につながるか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=506703",
           "author": "A.Yamada",
           "description": "米大手ビットコインマイニング企業コア・サイエンティフィックは、破産状態からの脱却とナスダックへの再上場を発表した。",
@@ -1106,6 +1121,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=366434",
+          "author": "TamuraSeiji",
+          "description": "Polygon LabsがAggLayer v1のリリースを発表 ポリゴンラボ（Polygon Labs）が、ブロックチェーンを統合したネットワークの構築を目的にしたアグリゲーションレイヤープロトコル「アグレイヤー（Ag […]",
+          "link": "https://www.neweconomy.jp/posts/366434",
+          "publishedOn": "2024-01-25T06:03:04.000Z",
+          "wordCount": 845,
+          "title": "Polygon Labs、ブロックチェーン相互運用に向け「AggLayer v1」公開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/25150253/9aec51d04ec1cb992605f97d20c1da7e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=366430",
+          "author": "gentosha_takahashi",
+          "description": "ライト氏が和解案を提出 自称ビットコイン発明者のクレイグ・ライト（Craig Wright）氏が、業界団体クリプト・オープン・パテント・アライアンス（Crypto Open Patent Alliance：COPA）とそ […]",
+          "link": "https://www.neweconomy.jp/posts/366430",
+          "publishedOn": "2024-01-25T06:01:51.000Z",
+          "wordCount": 784,
+          "title": "自称ビットコイン開発者クレイグライト、知的財産訴訟の和解を提案",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/25150017/3827458a28f4eb72e1fcb3fadb94cf36.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=366421",
           "author": "OtsugaShinya",
