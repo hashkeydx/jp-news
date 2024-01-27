@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-27T22:23:41.655Z</updated>
+    <updated>2024-01-27T23:20:44.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バリデーターの8%をダウンさせたバグ──イーサリアム、大規模な障害の懸念と小さな希望]]></title>
+        <id>https://www.coindeskjapan.com/?p=217064</id>
+        <link href="https://www.coindeskjapan.com/217064/"/>
+        <updated>2024-01-27T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム・ブロックチェーンは、ひどい事態に至らなかったことが大きな話題となる瞬間を経験した。 イーサリアムのクライアント・ソフトウェアNethermind（ ...
+バリデーターの8%をダウンさせたバグ──イーサリアム、大規模な障害の懸念と小さな希望 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインをクジラが安値で拾う／グレイスケールからさらに15億ドル流出か【Weekly Review：1/20〜1/26】]]></title>
         <id>https://www.coindeskjapan.com/?p=217667</id>
@@ -1148,17 +1159,6 @@ Oasys、一大ゲーム圏となった中華圏進出を加速 first appeared on
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの次の支持線は3万8000ドルか──SOLとAVAXは大きく下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=217130</id>
-        <link href="https://www.coindeskjapan.com/217130/"/>
-        <updated>2024-01-23T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[最近ローンチされた上場投資信託（ETF）に関連した機関投資家の売りがビットコイン（BTC）価格を圧迫し、主要トークンは1月23日も下落を続け、過去1週間で一部の ...
-ビットコインの次の支持線は3万8000ドルか──SOLとAVAXは大きく下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
