@@ -450,16 +450,6 @@
           "wordCount": 1245,
           "title": "イーサリアム、上昇の可能性──デンクン・アップグレードとETFの可能性が後押し： アナリスト",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_2186021207.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=216947",
-          "author": "増田 隆幸",
-          "description": "世界の金融取引に、ブロックチェーンをベースにしたトークン化技術とスマートコントラクトを導入して、安価で、自動化された次世代のデジタル金融システムを作ろうとする動 ...\n野村のスイス子会社と、英ブレバン・ハワードが「リブレ（Libre）」を始めた理由──巨大資金がオルタナティブ資産に流れ込む first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/216947/",
-          "publishedOn": "2024-01-22T21:00:00.000Z",
-          "wordCount": 1264,
-          "title": "野村のスイス子会社と、英ブレバン・ハワードが「リブレ（Libre）」を始めた理由──巨大資金がオルタナティブ資産に流れ込む",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/image3-1.jpg"
         }
       ]
     },
@@ -474,6 +464,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=507256",
+          "author": "AKIRA.H",
+          "description": "メタマスクで、仮想通貨NEARが利用可能に。NEAR Snapを利用して、暗号資産の管理やdAppsへのアクセスが可能に。ユーザーフレンドリーなウォレット機能拡張を解説",
+          "link": "https://coinpost.jp/?p=507256",
+          "publishedOn": "2024-01-27T08:30:44.000Z",
+          "wordCount": 1906,
+          "title": "メタマスクで仮想通貨NEARの使用を可能に、「Snap」実装で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Near-Protocol.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Near-Protocol.png"
+        },
         {
           "id": "https://coinpost.jp/?p=507254",
           "author": "AKIRA.H",
@@ -1418,21 +1423,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/ondo-fi.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/ondo-fi.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=506017",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨ビットコインは23日未明、40,000ドル台を下回った。ビットコインETF承認からの続落で昨年12月からの上昇分を取り消した格好だ。",
-          "link": "https://coinpost.jp/?p=506017",
-          "publishedOn": "2024-01-22T21:00:48.000Z",
-          "wordCount": 1934,
-          "title": "FTX遺産　ビットコインETF承認以降10億ドル相当のGBTC売却",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/investment-bitcoin-new-balance-sheet.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/investment-bitcoin-new-balance-sheet.jpeg"
         }
       ]
     },

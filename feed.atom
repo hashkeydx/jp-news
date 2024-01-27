@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-27T08:23:39.210Z</updated>
+    <updated>2024-01-27T09:19:09.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタマスクで仮想通貨NEARの使用を可能に、「Snap」実装で]]></title>
+        <id>https://coinpost.jp/?p=507256</id>
+        <link href="https://coinpost.jp/?p=507256"/>
+        <updated>2024-01-27T08:30:44.000Z</updated>
+        <summary type="html"><![CDATA[メタマスクで、仮想通貨NEARが利用可能に。NEAR Snapを利用して、暗号資産の管理やdAppsへのアクセスが可能に。ユーザーフレンドリーなウォレット機能拡張を解説]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INTMAXのアフリカ展開を支援　Kepple Africa VentureがRyodan Systemsに出資]]></title>
         <id>https://coinpost.jp/?p=507254</id>
@@ -1458,27 +1468,6 @@ FTXのGBTC10億ドル売却報道でビットコイン強気派が盛り上が�
 イーサリアム、上昇の可能性──デンクン・アップグレードとETFの可能性が後押し： アナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX遺産　ビットコインETF承認以降10億ドル相当のGBTC売却]]></title>
-        <id>https://coinpost.jp/?p=506017</id>
-        <link href="https://coinpost.jp/?p=506017"/>
-        <updated>2024-01-22T21:00:48.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは23日未明、40,000ドル台を下回った。ビットコインETF承認からの続落で昨年12月からの上昇分を取り消した格好だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野村のスイス子会社と、英ブレバン・ハワードが「リブレ（Libre）」を始めた理由──巨大資金がオルタナティブ資産に流れ込む]]></title>
-        <id>https://www.coindeskjapan.com/?p=216947</id>
-        <link href="https://www.coindeskjapan.com/216947/"/>
-        <updated>2024-01-22T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[世界の金融取引に、ブロックチェーンをベースにしたトークン化技術とスマートコントラクトを導入して、安価で、自動化された次世代のデジタル金融システムを作ろうとする動 ...
-野村のスイス子会社と、英ブレバン・ハワードが「リブレ（Libre）」を始めた理由──巨大資金がオルタナティブ資産に流れ込む first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
