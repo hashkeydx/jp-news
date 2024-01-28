@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=216355",
+          "author": "山口 晶子",
+          "description": "2023年にはDeFi（分散型金融）が輝くはずだった。2022年後半、FTX破綻は中央集権型取引所（CEX）に、銀行取り付け騒ぎに近い事態を引き起こし、DeFi ...\nFTX破綻後のチャンスを逃したDeFi、まだ希望はある──2024年は「DeFiの年」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/216355/",
+          "publishedOn": "2024-01-28T21:30:00.000Z",
+          "wordCount": 1210,
+          "title": "FTX破綻後のチャンスを逃したDeFi、まだ希望はある──2024年は「DeFiの年」",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_2125626122.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=216943",
           "author": "Daniel Kuhn",
           "description": "ニューヨーク・タイムズの金融コラムニスト、ジェフ・ソマー（Jeff Sommer）氏はビットコイン（BTC）ETFが好きではないようだ。だが、笑い者になるのは彼 ...\nニューヨーク・タイムズはまだビットコインを理解していない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -290,26 +300,6 @@
           "wordCount": 1215,
           "title": "自民党web3PT、「DAOルールメイクハッカソンの振り返りと提言（案）」を議論",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_2179381947.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=217284",
-          "author": "Omkar Godbole",
-          "description": "アメリカでのビットコインスポット上場投資信託（ETF）デビューの余波で主要暗号資産（仮想通貨）が下落を続ける中、大口の保有者である「クジラ」は、より安い価格でビ ...\n下落するビットコインをクジラが安値で拾う first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/217284/",
-          "publishedOn": "2024-01-24T10:20:46.000Z",
-          "wordCount": 1252,
-          "title": "下落するビットコインをクジラが安値で拾う",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/RNGDKGZETRDVJK74NG6C2YAT64.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=217264",
-          "author": "真田雅幸／bitbankマーケット・アナリスト",
-          "description": "ビットコイン月足 ビットコイン週足 ビットコイン日足 取引所保有BTC推移 株式市場は堅調に推移し、前回の半減期前の暴落は想定しづらい状況 ｜編集：CoinDe ...\n日足は90日移動平均線まで下落も前回の半減期相場のような暴落は想定しづらいか【bitbankチャート分析】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/217264/",
-          "publishedOn": "2024-01-24T10:00:00.000Z",
-          "wordCount": 1291,
-          "title": "日足は90日移動平均線まで下落も前回の半減期相場のような暴落は想定しづらいか【bitbankチャート分析】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_721921969-710x458-1.jpg"
         }
       ]
     },
@@ -324,6 +314,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=507429",
+          "author": "菊谷ルイス",
+          "description": "かつてのNo.1NFTマーケットプレイス「OpenSea」が今後買収される可能性もありそうだ。OpenSeaの市場戦略が疑問視される中、Devin Finzer CEOは最近の海外メディアインタビューで「もし適切な提携先が現れれば、ぜひとも検討すべきことだと考えています」と明かした。",
+          "link": "https://coinpost.jp/?p=507429",
+          "publishedOn": "2024-01-28T21:50:24.000Z",
+          "wordCount": 1935,
+          "title": "NFT電子市場大手OpenSea、買収されることも視野にか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/opensea-nft-acqui-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/opensea-nft-acqui-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=507422",
           "author": "菊谷ルイス",
@@ -953,21 +958,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=506534",
-          "author": "AKIRA.H",
-          "description": "Web3専門展示会「Japan Web3 Week」が初開催。Web3技術を活用した最新ビジネスソリューションや、SONY、SBI、TISなど大手企業の出展が特徴。Web3の基本から応用までを幅広く紹介し、デジタルトランスフォーメーションを促進。",
-          "link": "https://coinpost.jp/?p=506534",
-          "publishedOn": "2024-01-24T09:29:40.000Z",
-          "wordCount": 1946,
-          "title": "「Japan Web3 Week」SONY、SBI、TISなどが出展するWeb3専門展示会を初開催",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/Japan-Web3_0124.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/Japan-Web3_0124.jpg"
         }
       ]
     },
