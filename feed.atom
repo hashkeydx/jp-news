@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-29T12:36:35.931Z</updated>
+    <updated>2024-01-29T13:23:46.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/29話題】グーグルで暗号資産信託の宣伝が可能に、政府・日銀がCBDCの連絡会議を初開催など]]></title>
+        <id>https://www.neweconomy.jp/?p=367279</id>
+        <link href="https://www.neweconomy.jp/posts/367279"/>
+        <updated>2024-01-29T12:54:39.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年の仮想通貨ユーザー数獲得でポリゴンが躍進、イーサリアムに迫る勢い]]></title>
         <id>https://coinpost.jp/?p=507485</id>
@@ -1021,37 +1031,6 @@ Oasys、一大ゲーム圏となった中華圏進出を加速 first appeared on
         <summary type="html"><![CDATA[自民党の平井議員は、web3PTが行っていたDAOルールメイクハッカソンについて振り返りと提言案に関する議論を行なったことを公表。DAOの提言案は近く公開される予定だ。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレイスケールのGBTC、ビットコイン現物ETF発売以来10万BTC以上を取引所に移動]]></title>
-        <id>https://www.coindeskjapan.com/?p=217383</id>
-        <link href="https://www.coindeskjapan.com/217383/"/>
-        <updated>2024-01-25T01:19:58.000Z</updated>
-        <summary type="html"><![CDATA[グレイスケール・ビットコイン・トラスト（GBTC）は14日午前、公に知られているウォレットから1万9000BTC以上を移動させた。アーカム（Arkham）がまと ...
-グレイスケールのGBTC、ビットコイン現物ETF発売以来10万BTC以上を取引所に移動 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲーム特化型ブロックチェーンOasys、中華圏進出を加速　Pacific Metaと戦略的提携]]></title>
-        <id>https://coinpost.jp/?p=506674</id>
-        <link href="https://coinpost.jp/?p=506674"/>
-        <updated>2024-01-25T01:02:14.000Z</updated>
-        <summary type="html"><![CDATA[ゲーム特化型ブロックチェーンプロジェクトOasysがPacific Metaと提携し中華圏進出を加速。2024年ビジョン「Oasys Dragon Update」の下、キラーコンテンツの創出を目指す。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEPN開発Find Satoshi LabのWeb3ゲーム「Gas Hero」、取引高130億円に到達]]></title>
-        <id>https://coinpost.jp/?p=506669</id>
-        <link href="https://coinpost.jp/?p=506669"/>
-        <updated>2024-01-25T00:50:17.000Z</updated>
-        <summary type="html"><![CDATA[STEPN開発で知られるFind Satoshi Labは、ブロックチェーンゲーム「Gas Hero」のNFT取引高が約133億円に達したと発表した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
