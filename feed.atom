@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-29T06:26:37.905Z</updated>
+    <updated>2024-01-29T07:19:38.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marqueeがオプション契約（インスクリプション採用）をリリース、 損失補償含む3つのキャンペーンを開催]]></title>
+        <id>https://coinpost.jp/?p=505387</id>
+        <link href="https://coinpost.jp/?p=505387"/>
+        <updated>2024-01-29T07:00:45.000Z</updated>
+        <summary type="html"><![CDATA[オプション契約（インスクリプション採用）をリリースMarqueeInsurance（マーキーインシュアランス）は、オンチェーン・オプションと保険の拡張可能なプラットフォームを提供し、価格変動に対する保険とスマートコントラクトの脆弱性保険の2...]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サザビーズでビットコインに刻まれた詩が落札、詩単体の出品は初]]></title>
+        <id>https://www.neweconomy.jp/?p=367216</id>
+        <link href="https://www.neweconomy.jp/posts/367216"/>
+        <updated>2024-01-29T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[個人の詩が販売されるのは初 米オークションハウス大手のサザビーズ（Sotheby’s）開催のオークションにて、ビットコイン「オーディナルズ（Ordinals）」によるインスクリプション（NFT）として販売されたアナ・マリ […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グーグル、ビットコイン投資信託・ETFの広告を掲載許可へ]]></title>
         <id>https://coinpost.jp/?p=507473</id>
