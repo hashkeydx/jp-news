@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-29T20:22:39.826Z</updated>
+    <updated>2024-01-29T21:19:20.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン・クジラ、1月に30億ドル分を積み増し]]></title>
+        <id>https://www.coindeskjapan.com/?p=217727</id>
+        <link href="https://www.coindeskjapan.com/217727/"/>
+        <updated>2024-01-29T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析会社IntoTheBlockのデータによると、暗号資産クジラ（大口投資家）は1月、30億ドル（約4500億円、1ドル＝150円換算）相当のビット ...
+ビットコイン・クジラ、1月に30億ドル分を積み増し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【1/29話題】グーグルで暗号資産信託の宣伝が可能に、政府・日銀がCBDCの連絡会議を初開催など]]></title>
         <id>https://www.neweconomy.jp/?p=367279</id>
@@ -888,26 +899,6 @@ SEC、現物イーサリアムETF申請をめぐる決定を延期 first appeare
         <summary type="html"><![CDATA[米民主党のマキシン・ウォーターズ議員が、メタ（旧フェイスブック）のデジタル資産関連商標申請に懸念を表明した。金融政策への影響を問う書簡であり、メタ社の動向に注目集まる]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コスモス（ATOM）のインフレ率ゼロへの引き下げ提案、ノードオペレーターにより否決]]></title>
-        <id>https://coinpost.jp/?p=506783</id>
-        <link href="https://coinpost.jp/?p=506783"/>
-        <updated>2024-01-25T08:57:35.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）コスモス（ATOM）の最低インフレ率を0%に引き下げる提案868が否決された。コミュニティ投票で48.6%が反対し、セキュリティへの影響が懸念された。バリデーターによる反対も見られ、報酬率への影響も注目される。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本円ステーブルコインのJPYC、東京都のエンジェル税制事前確認企業に登録]]></title>
-        <id>https://www.neweconomy.jp/?p=366454</id>
-        <link href="https://www.neweconomy.jp/posts/366454"/>
-        <updated>2024-01-25T08:44:19.000Z</updated>
-        <summary type="html"><![CDATA[JPYCが東京都のエンジェル税制事前確認企業に登録 前払式支払手段による日本円ステーブルコイン「JPYC」を取り扱うJPYC社が、東京都のエンジェル税制事前確認企業一覧に掲載されたことを1月25日発表した。 「エンジェル […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
