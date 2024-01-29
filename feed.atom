@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-28T23:21:35.010Z</updated>
+    <updated>2024-01-29T01:21:16.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日銀と政府、デジタル円の連絡会議を初開催　春の法整備に向けて]]></title>
+        <id>https://coinpost.jp/?p=507441</id>
+        <link href="https://coinpost.jp/?p=507441"/>
+        <updated>2024-01-29T00:50:36.000Z</updated>
+        <summary type="html"><![CDATA[日本政府と日銀は、CBDCについて制度設計の大枠整理を行う連絡会議を初開催した。今後は法律上の課題などを関係機関ごとに整理する方針だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムインフラ「Axiom」が2000万ドル調達　zk利用のデータアクセス強化へ]]></title>
+        <id>https://coinpost.jp/?p=507436</id>
+        <link href="https://coinpost.jp/?p=507436"/>
+        <updated>2024-01-28T23:25:56.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム基盤のスマートコントラクトインフラ企業Axiomは26日、シリーズA調達ラウンドで、2000万ドル調達したと発表した。スマートコントラクト開発者がオンチェーンでより多くのデータにアクセスできるような「zk」基盤のインフラを強化していく。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT電子市場大手OpenSea、買収されることも視野にか]]></title>
         <id>https://coinpost.jp/?p=507429</id>
@@ -922,26 +942,6 @@ Oasys、一大ゲーム圏となった中華圏進出を加速 first appeared on
         <summary type="html"><![CDATA[米SECは24日、ブラックロックの仮想通貨現物イーサリアム（ETH）ETF上場申請の可否判断を45日間と延期した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1/24話題】Arkhamが4社の「現物ビットコインETF」のアドレス特定か、トランプがCBDC反対の姿勢強調など]]></title>
-        <id>https://www.neweconomy.jp/?p=366360</id>
-        <link href="https://www.neweconomy.jp/posts/366360"/>
-        <updated>2024-01-24T12:45:02.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Eden、クロスチェーン報酬プログラム及びオープンソース化を発表]]></title>
-        <id>https://www.neweconomy.jp/?p=366209</id>
-        <link href="https://www.neweconomy.jp/posts/366209"/>
-        <updated>2024-01-24T12:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Magic Edenが報酬プログラムとオープンソース化を発表 NFTマーケットプレイス「マジックエデン（Magic Eden）」が、クロスチェーン報酬プログラム「マジックエデンリワード（Magic Eden Reward […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
