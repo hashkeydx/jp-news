@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=217812",
+          "author": "林 理南",
+          "description": "インベスコ（Invesco）とギャラクシー・アセット・マネジメント（Galaxy Asset Management）は29日、共同で運用する立ち上げたコイン現物 ...\nインベスコ、ビットコインETF手数料を引き下げ──巻き返しを目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/217812/",
+          "publishedOn": "2024-01-30T01:01:59.000Z",
+          "wordCount": 1245,
+          "title": "インベスコ、ビットコインETF手数料を引き下げ──巻き返しを目指す",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_1399280567-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=217769",
           "author": "Amitoj Singh",
           "description": "中国の大手資産運用会社であるハーベスト・グローバル・インベストメンツ（Harvest Global Investments）は、香港の証券先物委員会（SFC）に ...\n中国の資産運用会社、香港でビットコインスポットETFを申請、ステーブルコインにも関心：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -250,26 +260,6 @@
           "wordCount": 1225,
           "title": "アナリストはイーサリアムに強気だが、オプション市場はそうではない",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/NBRGRXF3MZACHDQ7VTPNC2K2UA.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=217484",
-          "author": "CoinDesk JAPAN",
-          "description": "自由民主党デジタル社会推進本部web3プロジェクトチーム（web3PT）が取りまとめた「DAOルールメイクに関する提言 ～ 我が国における新しい組織のあり方につ ...\n自民党web3PT「DAOルールメイクに関する提言」最終版が確定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/217484/",
-          "publishedOn": "2024-01-25T12:40:00.000Z",
-          "wordCount": 1212,
-          "title": "自民党web3PT「DAOルールメイクに関する提言」最終版が確定",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/IMG_9488-710x458-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=217474",
-          "author": "Omkar Godbole",
-          "description": "ビットコイン（BTC）は1月25日の欧州取引時間中に4万ドルを超える足がかりを築き、ドルインデックスはアメリカの第4四半期国内総生産（GDP）データ発表を前に、 ...\nビットコイン、米GDP発表と58億ドルのオプション満期を前に4万ドル以上を維持 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/217474/",
-          "publishedOn": "2024-01-25T11:30:00.000Z",
-          "wordCount": 1241,
-          "title": "ビットコイン、米GDP発表と58億ドルのオプション満期を前に4万ドル以上を維持",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1064189366.jpg"
         }
       ]
     },
@@ -284,6 +274,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=507702",
+          "author": "A.Yamada",
+          "description": "米投資銀行TDコーウェンは、SECが仮想通貨イーサリアムの現物ETFを承認する時期は、2025年後半から2026年初頭になるのではないかと予測した。",
+          "link": "https://coinpost.jp/?p=507702",
+          "publishedOn": "2024-01-30T00:53:54.000Z",
+          "wordCount": 1909,
+          "title": "米投資銀行TDコーウェン『イーサリアム現物ETFが今年中に承認されることはないだろう』",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/btc_eth0121221.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/btc_eth0121221.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=507686",
+          "author": "K.Kobayashi",
+          "description": "金融庁は、仮想通貨交換業者に関する内閣府令の改正案を公表。今回の改正案は、24年度税制改正大綱に書かれている法人税法改正に関する内容で、現在はパブリックコメントを募集している。",
+          "link": "https://coinpost.jp/?p=507686",
+          "publishedOn": "2024-01-29T23:39:01.000Z",
+          "wordCount": 1758,
+          "title": "金融庁、仮想通貨の法人税制に関する内閣府令改正案でパブコメ募集",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan2_0419.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan2_0419.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=507485",
           "author": "幸田直子",
@@ -1065,26 +1085,6 @@
           "wordCount": 824,
           "title": "メタマスクがニアプロトコル（NEAR）に対応開始、「MetaMask Snaps」による機能拡張で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/26124831/3e79e2055c3ca1417b0db9dec6e61f6b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=366627",
-          "author": "HitomotoToshikazu",
-          "description": "アバランチ財団がミームコインの資格基準フレームワーク発表 アバランチ（Avalanche）チェーン上のミームコイン支援を目的としたプログラム「カルチャーカタリスト（Culture Catalyst）」にて、ミームコインが […]",
-          "link": "https://www.neweconomy.jp/posts/366627",
-          "publishedOn": "2024-01-25T12:43:26.000Z",
-          "wordCount": 776,
-          "title": "アバランチ上のミームコインを購入する際の資格基準が公開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/25214317/e04b44891ec94ee839ad5537d7692a4c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=366626",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/366626",
-          "publishedOn": "2024-01-25T11:45:08.000Z",
-          "wordCount": 788,
-          "title": "【1/25話題】ブラックロックの「現物イーサリアムETF」の可否判断が延期、Polygon LabsがAggLayer v1公開へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/25204414/news_head_20240125.jpg"
         }
       ]
     }

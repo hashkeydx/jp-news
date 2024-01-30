@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-29T23:23:13.542Z</updated>
+    <updated>2024-01-30T01:20:46.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[インベスコ、ビットコインETF手数料を引き下げ──巻き返しを目指す]]></title>
+        <id>https://www.coindeskjapan.com/?p=217812</id>
+        <link href="https://www.coindeskjapan.com/217812/"/>
+        <updated>2024-01-30T01:01:59.000Z</updated>
+        <summary type="html"><![CDATA[インベスコ（Invesco）とギャラクシー・アセット・マネジメント（Galaxy Asset Management）は29日、共同で運用する立ち上げたコイン現物 ...
+インベスコ、ビットコインETF手数料を引き下げ──巻き返しを目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米投資銀行TDコーウェン『イーサリアム現物ETFが今年中に承認されることはないだろう』]]></title>
+        <id>https://coinpost.jp/?p=507702</id>
+        <link href="https://coinpost.jp/?p=507702"/>
+        <updated>2024-01-30T00:53:54.000Z</updated>
+        <summary type="html"><![CDATA[米投資銀行TDコーウェンは、SECが仮想通貨イーサリアムの現物ETFを承認する時期は、2025年後半から2026年初頭になるのではないかと予測した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、仮想通貨の法人税制に関する内閣府令改正案でパブコメ募集]]></title>
+        <id>https://coinpost.jp/?p=507686</id>
+        <link href="https://coinpost.jp/?p=507686"/>
+        <updated>2024-01-29T23:39:01.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は、仮想通貨交換業者に関する内閣府令の改正案を公表。今回の改正案は、24年度税制改正大綱に書かれている法人税法改正に関する内容で、現在はパブリックコメントを募集している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国の資産運用会社、香港でビットコインスポットETFを申請、ステーブルコインにも関心：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=217769</id>
@@ -858,48 +889,6 @@ SEC、現物イーサリアムETF申請をめぐる決定を延期 first appeare
         <summary type="html"><![CDATA[米司法省は、ダークウェブ「シルクロード」から押収された「2934 BTC」のビットコインを処分する意向を表明する通知を裁判所に提出した。市場が警戒するレベルだ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アバランチ上のミームコインを購入する際の資格基準が公開]]></title>
-        <id>https://www.neweconomy.jp/?p=366627</id>
-        <link href="https://www.neweconomy.jp/posts/366627"/>
-        <updated>2024-01-25T12:43:26.000Z</updated>
-        <summary type="html"><![CDATA[アバランチ財団がミームコインの資格基準フレームワーク発表 アバランチ（Avalanche）チェーン上のミームコイン支援を目的としたプログラム「カルチャーカタリスト（Culture Catalyst）」にて、ミームコインが […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民党web3PT「DAOルールメイクに関する提言」最終版が確定]]></title>
-        <id>https://www.coindeskjapan.com/?p=217484</id>
-        <link href="https://www.coindeskjapan.com/217484/"/>
-        <updated>2024-01-25T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[自由民主党デジタル社会推進本部web3プロジェクトチーム（web3PT）が取りまとめた「DAOルールメイクに関する提言 ～ 我が国における新しい組織のあり方につ ...
-自民党web3PT「DAOルールメイクに関する提言」最終版が確定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1/25話題】ブラックロックの「現物イーサリアムETF」の可否判断が延期、Polygon LabsがAggLayer v1公開へ]]></title>
-        <id>https://www.neweconomy.jp/?p=366626</id>
-        <link href="https://www.neweconomy.jp/posts/366626"/>
-        <updated>2024-01-25T11:45:08.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、米GDP発表と58億ドルのオプション満期を前に4万ドル以上を維持]]></title>
-        <id>https://www.coindeskjapan.com/?p=217474</id>
-        <link href="https://www.coindeskjapan.com/217474/"/>
-        <updated>2024-01-25T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は1月25日の欧州取引時間中に4万ドルを超える足がかりを築き、ドルインデックスはアメリカの第4四半期国内総生産（GDP）データ発表を前に、 ...
-ビットコイン、米GDP発表と58億ドルのオプション満期を前に4万ドル以上を維持 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
