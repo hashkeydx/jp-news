@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-01-30T23:22:59.295Z</updated>
+    <updated>2024-01-31T01:21:36.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン価格、4万4000ドルに近づく──ETFへの純流入が1週間ぶりに増加]]></title>
+        <id>https://www.coindeskjapan.com/?p=217963</id>
+        <link href="https://www.coindeskjapan.com/217963/"/>
+        <updated>2024-01-31T00:51:48.000Z</updated>
+        <summary type="html"><![CDATA[29日、ビットコイン現物ETF（上場投資信託）10銘柄の合計で1週間ぶりの純流入が記録され、ビットコイン（BTC）価格はETF取引開始の翌日以来で最高値に上昇し ...
+ビットコイン価格、4万4000ドルに近づく──ETFへの純流入が1週間ぶりに増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VisaとTransak提携、日本以外の145カ国で仮想通貨の法定通貨出金を可能に]]></title>
+        <id>https://coinpost.jp/?p=507993</id>
+        <link href="https://coinpost.jp/?p=507993"/>
+        <updated>2024-01-31T00:45:09.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨決済プロバイダーTransakが決済大手Visa（ビザ）の直接送金プログラム「Visa Direct」に参加し、KYC済みのユーザーの仮想通貨による法定通貨出金を可能にした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨決済企業Slash、Mantle Networkと提携　エコシステムをイーサリアムから移行]]></title>
+        <id>https://coinpost.jp/?p=507976</id>
+        <link href="https://coinpost.jp/?p=507976"/>
+        <updated>2024-01-31T00:30:26.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨決済企業Slash Fintechは、モジュラーブロックチェーンMantle Networkとパートナーシップを締結したことを発表。エコシステムをイーサリアムから移行すると説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI・半導体銘柄AMDやマイクロソフト決算後下落、明日はFOMC金利発表｜31日金融短観]]></title>
+        <id>https://coinpost.jp/?p=507972</id>
+        <link href="https://coinpost.jp/?p=507972"/>
+        <updated>2024-01-30T23:45:39.000Z</updated>
+        <summary type="html"><![CDATA[本日の米国株市場は引け後、マイクロソフトやAMD、アルファベットが四半期決算の結果で株価を下げている。明日早朝にはFOMCの金利発表予定があり、今回も金利を据え置きにすることを決める可能性が高い。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドイツ当局、3200億円相当のビットコインを押収　同国で最大規模]]></title>
         <id>https://coinpost.jp/?p=507954</id>
@@ -900,16 +941,6 @@ FTX破綻後のチャンスを逃したDeFi、まだ希望はある──2024年
         <summary type="html"><![CDATA[ブラックロックの「IBIT」は米金曜日、新設の9銘柄のビットコイン現物ETFの中で初めて、運用資産（AUM）が20億ドルに達した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米テスラ、BTC保有量に変化なしか。2023Q4決算資料でビットコインに言及無し]]></title>
-        <id>https://www.neweconomy.jp/?p=366931</id>
-        <link href="https://www.neweconomy.jp/posts/366931"/>
-        <updated>2024-01-26T12:46:03.000Z</updated>
-        <summary type="html"><![CDATA[テスラ、BTC保有量に変化なし＝2023Q4決算資料 米テスラ（Tesla）のビットコイン（BTC）保有量は、引き続き変化がないようだ。 同社は、2023年第4四半期の決算報告書を公開。その中ではビットコインに関する活動 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
