@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=218356",
+          "author": "CoinDesk JAPAN",
+          "description": "ソーシャルメディア上では、著名なベンチャーキャピタリストのクリス・バーニスケ（Chris Burniske）氏が、ビットコインはまだ底を打っていないと主張し、2 ...\n突然、ビットコインに弱気に/なぜ多くの人は「ビットコインは終わる」と考えるのか【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/218356/",
+          "publishedOn": "2024-02-02T22:00:00.000Z",
+          "wordCount": 1382,
+          "title": "突然、ビットコインに弱気に/なぜ多くの人は「ビットコインは終わる」と考えるのか【週末に読みたい厳選10本】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1947416206-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=218393",
           "author": "Sam Reynolds",
           "description": "メタ・プラットフォームズ（Meta Platforms）が大幅な増収、業績予想の上方修正、500億ドル（約7兆2500億円、1ドル=145円換算）の追加自社株買 ...\nメタの好決算を受けて、AIトークンが上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -464,6 +474,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=508634",
+          "author": "菊谷ルイス",
+          "description": "取引所OKXは仮想通貨銘柄WAVESの通貨ペアおよび上場を廃止すると発表した。一方、今週はJUPやZETAなどの新規銘柄を上場した。",
+          "link": "https://coinpost.jp/?p=508634",
+          "publishedOn": "2024-02-02T21:30:52.000Z",
+          "wordCount": 1901,
+          "title": "仮想通貨取引所OKX、銘柄の上場廃止を実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/Screen-Shot-0006-02-03-at-6.39.49.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/Screen-Shot-0006-02-03-at-6.39.49.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=508629",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所大手のバイナンスは2日にソラナ基盤のオラクル銘柄「PYTH」の新規現物上場を実施。これで永久先物と現物取引両方が揃った。",
+          "link": "https://coinpost.jp/?p=508629",
+          "publishedOn": "2024-02-02T21:00:46.000Z",
+          "wordCount": 1979,
+          "title": "ソラナ基盤のPythがバイナンスに新規上場　一時20%高騰",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/GFUQjHyacAApmHw.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/GFUQjHyacAApmHw.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=508555",
           "author": "A.Yamada",
@@ -1665,26 +1705,6 @@
           "wordCount": 641,
           "title": "【1/29話題】グーグルで暗号資産信託の宣伝が可能に、政府・日銀がCBDCの連絡会議を初開催など",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/29185214/news_head_20240129.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=367273",
-          "author": "TamuraSeiji",
-          "description": "Ava Labsが独自のスケーリング技術を発表 レイヤー1ブロックチェーン「アバランチ（Avalanche）」開発の米アバラボ（Ava Labs）が、独自に開発した新しいスケーリング技術である「Vryx」を1月27日に発 […]",
-          "link": "https://www.neweconomy.jp/posts/367273",
-          "publishedOn": "2024-01-29T09:43:07.000Z",
-          "wordCount": 822,
-          "title": "アバランチのAva Labs、独自スケーリング技術「Vryx（ヴェリクス）」を発表",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/29184301/4fb54fcd7e85f68eb3281aac2102c749.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=367269",
-          "author": "gentosha_takahashi",
-          "description": "複数のリスク要因挙げる 暗号資産（仮想通貨）取引所ビットメックス（BitMEX）の共同創業者で元CEOのアーサー・ヘイズ（Arthur Hayes）氏が、暗号資産の相場分析のエッセイを1月24日発表。ビットコインの価格は […]",
-          "link": "https://www.neweconomy.jp/posts/367269",
-          "publishedOn": "2024-01-29T09:29:53.000Z",
-          "wordCount": 636,
-          "title": "アーサーヘイズ、ビットコイン価格は今年1Qに下落のリスクにさらされると予想",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/01/29182949/dc0d7192199d24730ecb386dbb9217ab.jpg"
         }
       ]
     }
