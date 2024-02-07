@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-07T11:21:00.535Z</updated>
+    <updated>2024-02-07T12:36:05.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【2/7話題】ソラナネットワークが5時間停止し再開、マイクロストラテジーがビットコイン追加購入など]]></title>
+        <id>https://www.neweconomy.jp/?p=369554</id>
+        <link href="https://www.neweconomy.jp/posts/369554"/>
+        <updated>2024-02-07T11:23:17.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEC、別の現物イーサリアムETFの申請をめぐる決定も延期]]></title>
         <id>https://www.coindeskjapan.com/?p=219022</id>
@@ -1068,27 +1078,6 @@ Appleの「Vision Pro」で初の暗号資産メタバースアプリ公開へ�
 ジュピターのJUP、その斬新な配布方法で怒りを買う first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタ好決算でAI関連仮想通貨銘柄連れ高、強い米雇用統計も米国株続伸｜3日金融短観]]></title>
-        <id>https://coinpost.jp/?p=508720</id>
-        <link href="https://coinpost.jp/?p=508720"/>
-        <updated>2024-02-03T00:00:05.000Z</updated>
-        <summary type="html"><![CDATA[メタ株価は前日比20%高。昨夜発表の想定外に強い内容だった米雇用統計を受け米国株はマイナス圏から始まったが、メタなどの株価上昇をはじめとする大型IT・ハイテク株への買いは相場の支えとなった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink、22カ月ぶりの高値──「RWAトークン化」で注目]]></title>
-        <id>https://www.coindeskjapan.com/?p=218451</id>
-        <link href="https://www.coindeskjapan.com/218451/"/>
-        <updated>2024-02-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink（LINK）は2月2日に22カ月ぶりの高値まで急騰し、この大手分散型オラクルネットワークのトークンの3カ月にわたる休息に終止符を打った。 Co ...
-Chainlink、22カ月ぶりの高値──「RWAトークン化」で注目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
