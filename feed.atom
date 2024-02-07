@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-06T23:21:18.195Z</updated>
+    <updated>2024-02-07T01:19:23.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doodlesがコラボ「G-Shock」の詳細発表、渋谷PARCOでポップアップ開催]]></title>
+        <id>https://www.neweconomy.jp/?p=369141</id>
+        <link href="https://www.neweconomy.jp/posts/369141"/>
+        <updated>2024-02-07T00:45:30.000Z</updated>
+        <summary type="html"><![CDATA[DoodlesデザインのG-Shock発売 NFTプロジェクト「ドゥードゥルズ（Doodles）」が、「ドゥードゥルズ」デザインの「G-Shock」や期間限定アパレルなどの発売を2月6日発表した。 「ドゥードゥルズ」は今 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックのビットコインETF流入額、年初来で全ETF中5位に上昇]]></title>
         <id>https://www.coindeskjapan.com/?p=218876</id>
@@ -815,16 +825,6 @@ Chainlink、22カ月ぶりの高値──「RWAトークン化」で注目 first
         <summary type="html"><![CDATA[仮想通貨取引所大手のバイナンスは2日にソラナ基盤のオラクル銘柄「PYTH」の新規現物上場を実施。これで永久先物と現物取引両方が揃った。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/2話題】Polygon Labsが従業員の19%削減、ウォーレンら米上院議員が暗号資産の批判再表明など]]></title>
-        <id>https://www.neweconomy.jp/?p=368479</id>
-        <link href="https://www.neweconomy.jp/posts/368479"/>
-        <updated>2024-02-02T12:59:29.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
