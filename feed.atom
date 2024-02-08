@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-08T08:25:00.767Z</updated>
+    <updated>2024-02-08T09:21:17.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ondo Finance、米国債建てトークンUSDYをSuiに拡大]]></title>
+        <id>https://coinpost.jp/?p=509814</id>
+        <link href="https://coinpost.jp/?p=509814"/>
+        <updated>2024-02-08T08:25:50.000Z</updated>
+        <summary type="html"><![CDATA[Ondo Financeは、米国短期国債を裏付けとしたトークンUSDYを、Suiに展開すると発表した。SuiのDeFi取引量は現在、急成長中である。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SECが「ディーラー」再定義する規則を採択。DeFiや暗号資産への影響懸念の声も]]></title>
         <id>https://www.neweconomy.jp/?p=369892</id>
