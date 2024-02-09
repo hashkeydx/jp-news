@@ -505,6 +505,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=509951",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムは初めて供給量に対するステーキング数量の割合が25%を超えた。報酬の年率やバリデータ数など最新のデータをまとめる。",
+          "link": "https://coinpost.jp/?p=509951",
+          "publishedOn": "2024-02-09T02:15:29.000Z",
+          "wordCount": 1908,
+          "title": "イーサリアム、初めてステーキング数量が供給量の25%へ　報酬年率は3%台",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=510007",
           "author": "AKIRA.H",
           "description": "暗号資産（仮想通貨）取引所bitFlyerがエルフトークン（ELF）のIEOを開始する。HashPaletteの新作NFTゲーム「THE LAND エルフの森」用トークン、販売単価は12.50円から、最低500ELFから購入申し込みが可能。",
@@ -1096,6 +1111,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=370061",
+          "author": "OtsugaShinya",
+          "description": "デロイトトーマツが「Astar zkEVM」採用でNFTゲーム構築へ デロイトトーマツコンサルティングが、同社保有のNFT開発ツールを「Astar zkEVM」に拡張し、野球をテーマにしたNFTゲームアプリ「ベースボール […]",
+          "link": "https://www.neweconomy.jp/posts/370061",
+          "publishedOn": "2024-02-09T03:21:24.000Z",
+          "wordCount": 792,
+          "title": "デロイトトーマツ、「Astar zkEVM」採用で野球テーマのNFTゲーム構築へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/02/09122055/d10eedfc58a62b6a767bfbc83b64a4a2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=370053",
+          "author": "gentosha_takahashi",
+          "description": "Polygon zkEVMでローンチ 新しい形の債券市場の構築を目指す「セキュアードファイナンス（Secured Finance）」が、スマートコントラクトベースのレンディング及び債券市場プロトコル「セキュアードファイナ […]",
+          "link": "https://www.neweconomy.jp/posts/370053",
+          "publishedOn": "2024-02-09T03:14:32.000Z",
+          "wordCount": 816,
+          "title": "DeFi債券市場「Secured Finance」がアービトラム・アバランチに続きポリゴンzkEVMでローンチ、マルチチェーン対応へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/02/09121421/343622ee892f463524de74516eea755a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=370039",
           "author": "OtsugaShinya",
