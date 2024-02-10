@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-10T22:23:13.734Z</updated>
+    <updated>2024-02-10T23:21:08.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップルCTOインタビュー：ボトムアップからの成長、批判への反論]]></title>
+        <id>https://www.coindeskjapan.com/?p=217431</id>
+        <link href="https://www.coindeskjapan.com/217431/"/>
+        <updated>2024-02-10T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[リップル・ラボ（Ripple Labs）の最高技術責任者（CTO）、デビッド・シュワルツ（David Schwartz）氏は、暗号資産（仮想通貨）業界の一部、特 ...
+リップルCTOインタビュー：ボトムアップからの成長、批判への反論 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインが約1カ月ぶりの高値／ソラナで「大規模」障害]]></title>
         <id>https://www.coindeskjapan.com/?p=219418</id>
@@ -1205,17 +1216,6 @@ CoinDesk JAPAN運営のN.Avenue、Japan Blockchain Week 2024のメインカン�
 ソラナネットワークで「大規模」障害、SOLは2％下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブリティッシュ・コロンビア州最高裁、マイニング一時停止措置の解除を認めず]]></title>
-        <id>https://www.coindeskjapan.com/?p=218765</id>
-        <link href="https://www.coindeskjapan.com/218765/"/>
-        <updated>2024-02-06T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[カナダのブリティッシュコロンビア州の最高裁は、同州の電力会社BCハイドロ（BC Hydro）の暗号資産（仮想通貨）マイニング・プロジェクトに対する一時停止措置は ...
-ブリティッシュ・コロンビア州最高裁、マイニング一時停止措置の解除を認めず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
         </author>
     </entry>
 </feed>
