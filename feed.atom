@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-11T21:19:15.884Z</updated>
+    <updated>2024-02-11T22:23:45.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産で最も利他的なプロジェクト、Gitcoinが「企業化」している理由]]></title>
+        <id>https://www.coindeskjapan.com/?p=218759</id>
+        <link href="https://www.coindeskjapan.com/218759/"/>
+        <updated>2024-02-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[公共財の資金調達と収益性は必ずしも相反するものではない。これは、イーサリアムベースの分散型クラウドファンディングプロジェクト、ギットコイン（Gitcoin）がそ ...
+暗号資産で最も利他的なプロジェクト、Gitcoinが「企業化」している理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[実験的規格のERC-404、最初のトークンが1週間で1万2000%急騰]]></title>
         <id>https://www.coindeskjapan.com/?p=219484</id>
@@ -846,27 +857,6 @@ NFTはデジタル資本主義の鍵を握る：アニモカ創業者が主張 f
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC、別の現物イーサリアムETFの申請をめぐる決定も延期]]></title>
-        <id>https://www.coindeskjapan.com/?p=219022</id>
-        <link href="https://www.coindeskjapan.com/219022/"/>
-        <updated>2024-02-07T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ証券取引委員会（SEC）は2月6日、インベスコ（Invesco）とギャラクシー・デジタル（Galaxy Digital）が共同で申請したイーサリアム（E ...
-SEC、別の現物イーサリアムETFの申請をめぐる決定も延期 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayerがステーキング上限を引き上げ、TVLが急激に増加]]></title>
-        <id>https://www.neweconomy.jp/?p=369557</id>
-        <link href="https://www.neweconomy.jp/posts/369557"/>
-        <updated>2024-02-07T10:00:21.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayerがステーキング上限を引き上げ イーサリアム（Ethereum）ベースのリステーキングプロトコル「アイゲンレイヤー（EigenLayer）」が、ステーキング上限を期間限定で撤廃することを2月6日に発表し […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
