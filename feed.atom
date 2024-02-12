@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-12T20:21:54.752Z</updated>
+    <updated>2024-02-12T21:19:01.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国、暗号資産を完全には禁止していない]]></title>
+        <id>https://www.coindeskjapan.com/?p=219131</id>
+        <link href="https://www.coindeskjapan.com/219131/"/>
+        <updated>2024-02-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[数え切れないほどの西側メディアが中国の暗号資産（仮想通貨）「禁止」を伝えているにもかかわらず、中国本土では暗号資産取引が盛んに行われている。 昨年のわずか1カ月 ...
+中国、暗号資産を完全には禁止していない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポイント・プログラムが仮想通貨資金調達と利用促進に有効＝アーサー・ヘイズ氏]]></title>
         <id>https://coinpost.jp/?p=510467</id>
@@ -642,16 +653,6 @@ NFTはデジタル資本主義の鍵を握る：アニモカ創業者が主張 f
         <summary type="html"><![CDATA[ワームホールがWのトークノミクス計画発表 クロスチェーンプロトコル「ワームホール（Wormhole）」が、独自トークン「W」のトークノミクスについて2月8日発表した。 発表によると「W」の最大供給量は100億Wで、そのう […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondo Finance、米国債建てトークンUSDYをSuiに拡大]]></title>
-        <id>https://coinpost.jp/?p=509814</id>
-        <link href="https://coinpost.jp/?p=509814"/>
-        <updated>2024-02-08T08:25:50.000Z</updated>
-        <summary type="html"><![CDATA[Ondo Financeは、米国短期国債を裏付けとしたトークンUSDYを、Suiに展開すると発表した。SuiのDeFi取引量は現在、急成長中である。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
