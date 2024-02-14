@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-14T12:36:58.333Z</updated>
+    <updated>2024-02-14T13:22:04.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン過去最高値更新、対円で780万円記録]]></title>
+        <id>https://www.neweconomy.jp/?p=370918</id>
+        <link href="https://www.neweconomy.jp/posts/370918"/>
+        <updated>2024-02-14T12:51:12.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン、対円で過去最高値更新 暗号資産（仮想通貨）ビットコインが、対円価格で過去最高値を更新した。2月14日21時28分ごろ、7,800,000円の価格をつけた（ビットフライヤー現物価格/TradingViewデー […]]]></summary>
+        <author>
+            <name>gentosha_shidara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインETF、市場デビューから1カ月の経緯と展望──今後、さらに大きな需要予測]]></title>
         <id>https://www.coindeskjapan.com/?p=219683</id>
@@ -734,17 +744,6 @@ DeFiプラットフォームのPendle、TVLが10億ドルに first appeared on C
         <summary type="html"><![CDATA[仮想通貨イーサリアムのL2のzkSyncを開発するMatter Labsの幹部は、アップグレードDencunの効果について語った。ユーザーはL2の手数料が下がったことを実感できるだろうと述べている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインに長期投資する理由／ビットコインは決して「あなたのもの」にはならない【週末に読みたい厳選10本】]]></title>
-        <id>https://www.coindeskjapan.com/?p=219388</id>
-        <link href="https://www.coindeskjapan.com/219388/"/>
-        <updated>2024-02-10T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインが自分に合っていると判断した人は、すでに世界中に何億人もいる。おそらくその全員が、ビットコインが時間の経過とともに上昇することを期待しているか、人生 ...
-ビットコインに長期投資する理由／ビットコインは決して「あなたのもの」にはならない【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
