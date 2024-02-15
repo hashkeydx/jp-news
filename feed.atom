@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-15T11:20:17.517Z</updated>
+    <updated>2024-02-15T12:36:11.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【2/15話題】ビットコインの時価総額が1兆ドル回復、メルカリでBTC決済が可能になど]]></title>
+        <id>https://www.neweconomy.jp/?p=371134</id>
+        <link href="https://www.neweconomy.jp/posts/371134"/>
+        <updated>2024-02-15T12:27:21.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アーク、1カ月ぶりにコインベース株を売却]]></title>
         <id>https://www.coindeskjapan.com/?p=219867</id>
@@ -980,28 +990,6 @@ DeFi 第2フェーズを考える：開発者・機関投資家・個人投資�
         <summary type="html"><![CDATA[ビットコインETF（上場投資信託）承認後の下げ幅を解消し、大幅上昇で700万円台に復帰したビットコイン（BTC）相場の今後について、国内大手取引所bitbankのアナリストが今後の展望を読み解く。オンチェーンデータも掲載。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産の「ラグプル」とは【基礎知識】]]></title>
-        <id>https://www.coindeskjapan.com/?p=218020</id>
-        <link href="https://www.coindeskjapan.com/218020/"/>
-        <updated>2024-02-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）のラグプルは、嘆かわしいことだが、よく見られるものであり、暗号資産投資家に数十億ドルの損失をもたらしている。 ここでは、暗号資産のラグプルと ...
-暗号資産の「ラグプル」とは【基礎知識】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Unchained Unchained</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、4万7000ドル超え──ETFにデビュー以来、3番目に大きな資金流入]]></title>
-        <id>https://www.coindeskjapan.com/?p=219447</id>
-        <link href="https://www.coindeskjapan.com/219447/"/>
-        <updated>2024-02-10T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは9日、ビットコインETFの市場デビュー日以来となる4万7699ドルまで上昇した後、すぐに4万6700ドルまで下落した。その後反発し、当記事執筆時点 ...
-ビットコイン、4万7000ドル超え──ETFにデビュー以来、3番目に大きな資金流入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
