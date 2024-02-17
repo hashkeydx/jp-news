@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-17T03:22:22.357Z</updated>
+    <updated>2024-02-17T04:27:27.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン半減期後のセキュリティ展望、真のリスクは51%攻撃ではなくなる]]></title>
+        <id>https://coinpost.jp/?p=511207</id>
+        <link href="https://coinpost.jp/?p=511207"/>
+        <updated>2024-02-17T03:50:17.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）ビットコインのセキュリティと手数料収入に関する新たな論文が、ASICコスト、51%攻撃の経済的不可能性を指摘。新たなリスクを解析し、マイニング収益の未来を予測する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界の債務問題 「国の借金」とは｜債務比率の変動要因や各国の状況を解説]]></title>
         <id>https://coinpost.jp/?p=507012</id>
