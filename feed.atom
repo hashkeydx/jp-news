@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-18T23:20:51.810Z</updated>
+    <updated>2024-02-19T01:22:05.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ワールドコイン（WLD）急騰、OpenAIの動画生成AI「Sora」発表で思惑上げか]]></title>
+        <id>https://coinpost.jp/?p=511371</id>
+        <link href="https://coinpost.jp/?p=511371"/>
+        <updated>2024-02-19T00:48:52.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIのサム・アルトマンCEOら主導の仮想通貨プロジェクトWorldcoin（WLD）の価格が高騰した。ChatGPTを生み出したOpenAIによる高精度動画生成AI「Sora」発表を受け、連想の思惑上げが入った可能性がある。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[web3ヘルスケアアプリ「HEALTHREE」累計2.1億円調達、アスターに続きAstar zkEVM対応、企業向けサービス展開も]]></title>
+        <id>https://www.neweconomy.jp/?p=371367</id>
+        <link href="https://www.neweconomy.jp/posts/371367"/>
+        <updated>2024-02-19T00:00:12.000Z</updated>
+        <summary type="html"><![CDATA[web3ヘルスケアアプリ「HEALTHREE」が資金調達 web3ヘルスケアアプリ「HEALTHREE（ヘルスリー）」運営のHEALTHREE社が、資金調達の実施を発表した。 今回同社に出資したのは、東京ウェルネスインパ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Vision Proを付けて仕事をする暗号資産開発者たち──コワーキングスペースの新しい流行に？]]></title>
         <id>https://www.coindeskjapan.com/?p=220016</id>
@@ -885,16 +905,6 @@ IEO後に「タイミング良くグローバル展開」：ハッシュパレ�
         <summary type="html"><![CDATA[仮想通貨イーサリアムのレイヤー2「Starknet」は14日、ガストークンであるSTRKトークンの配分予定を発表した。すでに168億ドルのFDVで取引されている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン過去最高値更新、対円で780万円記録]]></title>
-        <id>https://www.neweconomy.jp/?p=370918</id>
-        <link href="https://www.neweconomy.jp/posts/370918"/>
-        <updated>2024-02-14T12:51:12.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン、対円で過去最高値更新 暗号資産（仮想通貨）ビットコインが、対円価格で過去最高値を更新した。2月14日21時28分ごろ、7,800,000円の価格をつけた（ビットフライヤー現物価格/TradingViewデー […]]]></summary>
-        <author>
-            <name>gentosha_shidara</name>
         </author>
     </entry>
 </feed>
