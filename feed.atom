@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-20T22:24:52.037Z</updated>
+    <updated>2024-02-20T23:20:54.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[計1400億円相当のビットコインが米コインベースから出金　売り圧低下か]]></title>
+        <id>https://coinpost.jp/?p=511801</id>
+        <link href="https://coinpost.jp/?p=511801"/>
+        <updated>2024-02-20T22:45:26.000Z</updated>
+        <summary type="html"><![CDATA[計1400億円相当の仮想通貨ビットコインがコインベースから出金されたことがわかった。出金理由については売り圧の低下につながるといった声や、OTC取引のための出金であるといった声など複数の見方が上がっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米デリバティブ大手CME、小口のユーロ建のビットコイン・イーサ先物を提供へ]]></title>
+        <id>https://coinpost.jp/?p=511805</id>
+        <link href="https://coinpost.jp/?p=511805"/>
+        <updated>2024-02-20T22:30:19.000Z</updated>
+        <summary type="html"><![CDATA[CMEのビットコイン先物OIは先月過去最高値の52億ドルを記録。仮想通貨ビットコインETFへの高い需要に伴ってヘッジの需要も高まっているようだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVMウォレットMetaMask、ユーザーへの警告機能を導入　モバイル安全性強化]]></title>
         <id>https://coinpost.jp/?p=511798</id>
@@ -766,36 +786,6 @@ JPモルガンのアナリスト、コインベースのETF事業に対する情
         <summary type="html"><![CDATA[アプトス財団は格安スマホ「JamboPhone」の販売を始めた。最近スマホエアドロップが期待される中、ソラナのスマホのように人気を獲得できるか注目される。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/16話題】フィンシア（FNSA）とクレイトン（KLAY）統合決定、コインベースが2年ぶりに黒字計上など]]></title>
-        <id>https://www.neweconomy.jp/?p=371492</id>
-        <link href="https://www.neweconomy.jp/posts/371492"/>
-        <updated>2024-02-16T11:13:10.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独占取材】台湾IT大臣オードリー・タンが語る、政府が行うWeb3の取り組み｜WebX STUDIO]]></title>
-        <id>https://coinpost.jp/?p=510928</id>
-        <link href="https://coinpost.jp/?p=510928"/>
-        <updated>2024-02-16T11:05:21.000Z</updated>
-        <summary type="html"><![CDATA[台湾デジタル担当大臣オードリー・タン氏が、CoinPostYouTube番組「WebXSTUDIO」に出演。メタバース（仮想空間）や　譲渡不可能なSBT（ソウルバウンドトークン）、台湾政府のweb3政策について語った。動画の目次今回の動画は...]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米シティがプライベートファンドのトークン化テスト成功、アバランチサブネット「Spruce」で]]></title>
-        <id>https://www.neweconomy.jp/?p=371504</id>
-        <link href="https://www.neweconomy.jp/posts/371504"/>
-        <updated>2024-02-16T10:36:28.000Z</updated>
-        <summary type="html"><![CDATA[シティがアバランチサブネットでPoC完了 米大手銀行シティ（Citi）が、アバランチ（Avalanche）のサブネット「スプルース（Spruce）」で、プライベートファンドのトークン化に関する概念実証（PoC）を行ったこ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

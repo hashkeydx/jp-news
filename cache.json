@@ -245,6 +245,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=511801",
+          "author": "K.Kobayashi",
+          "description": "計1400億円相当の仮想通貨ビットコインがコインベースから出金されたことがわかった。出金理由については売り圧の低下につながるといった声や、OTC取引のための出金であるといった声など複数の見方が上がっている。",
+          "link": "https://coinpost.jp/?p=511801",
+          "publishedOn": "2024-02-20T22:45:26.000Z",
+          "wordCount": 1997,
+          "title": "計1400億円相当のビットコインが米コインベースから出金　売り圧低下か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/bitcoin-big-outflow-from-coinbase.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/bitcoin-big-outflow-from-coinbase.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=511805",
+          "author": "菊谷ルイス",
+          "description": "CMEのビットコイン先物OIは先月過去最高値の52億ドルを記録。仮想通貨ビットコインETFへの高い需要に伴ってヘッジの需要も高まっているようだ。",
+          "link": "https://coinpost.jp/?p=511805",
+          "publishedOn": "2024-02-20T22:30:19.000Z",
+          "wordCount": 1914,
+          "title": "米デリバティブ大手CME、小口のユーロ建のビットコイン・イーサ先物を提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/BTCETH20211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/BTCETH20211.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=511798",
           "author": "菊谷ルイス",
           "description": "マルチチェーンへ対応暗号資産（仮想通貨）イーサリアム（ETH）の主要EVMウォレットMetaMaskは、モバイルアプリおよびエクステンションで、ユーザーへのセキュリティアラート機能を導入した。Blockaidとの提携で実現した。Privac...",
@@ -663,21 +693,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/0_dIIjO5f_0H5msyLg.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/0_dIIjO5f_0H5msyLg.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=510928",
-          "author": "CoinPost編集部",
-          "description": "台湾デジタル担当大臣オードリー・タン氏が、CoinPostYouTube番組「WebXSTUDIO」に出演。メタバース（仮想空間）や　譲渡不可能なSBT（ソウルバウンドトークン）、台湾政府のweb3政策について語った。動画の目次今回の動画は...",
-          "link": "https://coinpost.jp/?p=510928",
-          "publishedOn": "2024-02-16T11:05:21.000Z",
-          "wordCount": 1915,
-          "title": "【独占取材】台湾IT大臣オードリー・タンが語る、政府が行うWeb3の取り組み｜WebX STUDIO",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/audrey-3-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/audrey-3-1.png"
         }
       ]
     },
@@ -925,26 +940,6 @@
           "wordCount": 622,
           "title": "ビットフライヤーに「ダイ（DAI）」上場へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/02/18164939/8961e5f2624bf81490271ebe44f4f3d0.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=371492",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/371492",
-          "publishedOn": "2024-02-16T11:13:10.000Z",
-          "wordCount": 757,
-          "title": "【2/16話題】フィンシア（FNSA）とクレイトン（KLAY）統合決定、コインベースが2年ぶりに黒字計上など",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/02/16172243/news_head_2024-216.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=371504",
-          "author": "HitomotoToshikazu",
-          "description": "シティがアバランチサブネットでPoC完了 米大手銀行シティ（Citi）が、アバランチ（Avalanche）のサブネット「スプルース（Spruce）」で、プライベートファンドのトークン化に関する概念実証（PoC）を行ったこ […]",
-          "link": "https://www.neweconomy.jp/posts/371504",
-          "publishedOn": "2024-02-16T10:36:28.000Z",
-          "wordCount": 682,
-          "title": "米シティがプライベートファンドのトークン化テスト成功、アバランチサブネット「Spruce」で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/02/16181551/e8b917ded319bea6bee6ef167800d472.jpg"
         }
       ]
     }
