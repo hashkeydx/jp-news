@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=220315",
+          "author": "林 理南",
+          "description": "暗号資産管理会社コインシェアーズ（CoinShares）は19日、ビットコインETF（上場投資信託）への需要が先週再び高まったことで、記録的な24億ドル（約36 ...\nビットコインETFが週間流入額24億ドルを記録──ブラックロックのIBITがリード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/220315/",
+          "publishedOn": "2024-02-20T00:34:46.000Z",
+          "wordCount": 1478,
+          "title": "ビットコインETFが週間流入額24億ドルを記録──ブラックロックのIBITがリード",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/02/NXE4S7CFPZJAANOOFVULI4KYZZ4.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=220282",
           "author": "Parikshit Mishra",
           "description": "アーク・インベスト（ARK Invest）は、コインベース（Coinbase）が第4四半期決算でウォール街の予想を上回り、アナリストの格上げが相次ぐ中、このナス ...\n米アーク、9000万ドル相当のコインベース株を売却──アナリストが格付けを引き上げる中で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -284,6 +294,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=511532",
+          "author": "A.Yamada",
+          "description": "CoinSharesによると、仮想通貨投資商品への1週間の資金流入額が急増。約3,680億円となった。ビットコイン現物ETFが牽引したとみられる。",
+          "link": "https://coinpost.jp/?p=511532",
+          "publishedOn": "2024-02-20T01:00:29.000Z",
+          "wordCount": 1921,
+          "title": "仮想通貨投資商品、1週間で約3,700億円の純資金流入を記録ーCoinShares",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitcoinsupply0913211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitcoinsupply0913211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=511523",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアム最大の技術的なリスクはバグだとし、イーサリアム共同創設者ヴィタリック・ブテリン氏は、コードの検証やバグの発見にAIを活用できるようになることを期待していると述べた。",
+          "link": "https://coinpost.jp/?p=511523",
+          "publishedOn": "2024-02-19T23:30:40.000Z",
+          "wordCount": 1952,
+          "title": "「イーサリアム最大の技術的なリスクであるバグの解決へ」ヴィタリックがAIに期待",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/vitalik_20220926_031.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/vitalik_20220926_031.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=511522",
           "author": "菊谷ルイス",
@@ -920,16 +960,6 @@
           "wordCount": 772,
           "title": "LINEらのフィンシア（FNSA）とカカオのクレイトン（KLAY）が統合決定、ユーザー基盤が2.5億超に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/02/16110305/0b45014f5ea89f754475639a207da942.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=371134",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/371134",
-          "publishedOn": "2024-02-15T12:27:21.000Z",
-          "wordCount": 765,
-          "title": "【2/15話題】ビットコインの時価総額が1兆ドル回復、メルカリでBTC決済が可能になど",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/02/15174219/news_head_20240215.jpg"
         }
       ]
     }
