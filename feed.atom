@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-21T21:19:16.882Z</updated>
+    <updated>2024-02-21T22:25:05.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サークル、トロン上のUSDCのサポートを段階的に中止すると発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=220597</id>
+        <link href="https://www.coindeskjapan.com/220597/"/>
+        <updated>2024-02-21T21:50:00.000Z</updated>
+        <summary type="html"><![CDATA[主要なステーブルコイン、USDコイン（USDC）の発行元サークル（Circle）が2月21日、トロン（Tron）ブロックチェーン上でのUSDCのサポートを終了す ...
+サークル、トロン上のUSDCのサポートを段階的に中止すると発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ブリッジWormhole、半導体大手AMDのチップを利用し性能向上へ]]></title>
+        <id>https://coinpost.jp/?p=512046</id>
+        <link href="https://coinpost.jp/?p=512046"/>
+        <updated>2024-02-21T21:30:34.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ブリッジWormholeは性能を引き上げるために、半導体大手AMDのアクセラレーターチップを実装。ZKライトクライアントの計算消費を解決する目的だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スタークネットのSTRK、取引初日に50％以上の下落──トークン発行への批判の中で]]></title>
         <id>https://www.coindeskjapan.com/?p=220577</id>
