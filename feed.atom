@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-24T08:23:19.089Z</updated>
+    <updated>2024-02-24T09:19:15.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国債担保型トークンがアプトスで流通　オンボーディングも視野]]></title>
+        <id>https://coinpost.jp/?p=512569</id>
+        <link href="https://coinpost.jp/?p=512569"/>
+        <updated>2024-02-24T08:10:14.000Z</updated>
+        <summary type="html"><![CDATA[米国債のトークン化を進めるOndo FinanceとAptos Foundationが戦略的提携を発表。USDYトークンのAptos統合、DeFiプロトコルが採用を進めておりエコシステムがさらに拡大。暗号資産（仮想通貨）のロックアップ総額も上昇傾向にある。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SuiブロックチェーンがStardustと提携、Web3ゲーム開発促進へ]]></title>
         <id>https://coinpost.jp/?p=512529</id>
@@ -1142,27 +1152,6 @@ Yコンビネーター、投資を希望する分野にステーブルコイン�
 イーサリアムは機関投資家から寵愛されるだろう：バーンスタイン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナBackpackウォレット、Wormholeを搭載　マルチチェーンスワップ可能に]]></title>
-        <id>https://coinpost.jp/?p=511516</id>
-        <link href="https://coinpost.jp/?p=511516"/>
-        <updated>2024-02-19T21:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Backpackのユーザーはウォレット内で、ソラナブロックチェーンとイーサリアムブロックチェーンの間でトークンのブリッジとスワップができるようになった。利便性が向上しクロスチェーンスワップのUXが改善される。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、半減期までに過去最高値を更新する2つの理由]]></title>
-        <id>https://www.coindeskjapan.com/?p=220222</id>
-        <link href="https://www.coindeskjapan.com/220222/"/>
-        <updated>2024-02-19T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインはこの数カ月、上昇を続けている。強気派は米ドルと国債利回りの再上昇を無視し、ビットコインを2021年後半以来の高水準に押し上げた。 価格の調整局面は ...
-ビットコイン、半減期までに過去最高値を更新する2つの理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
