@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-24T11:17:52.047Z</updated>
+    <updated>2024-02-24T12:34:08.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パンケーキスワップ、拡大目指し「アフィリエイト」を計画──CAKE保有者にメリット]]></title>
+        <id>https://www.coindeskjapan.com/?p=220988</id>
+        <link href="https://www.coindeskjapan.com/220988/"/>
+        <updated>2024-02-24T11:49:56.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所パンケーキスワップ（PancakeSwap）は、開発者がコードをフォークさせ、パンケーキスワップの一つのバージョンを他のブロックチェーンに提案できる ...
+パンケーキスワップ、拡大目指し「アフィリエイト」を計画──CAKE保有者にメリット first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ユニスワップのUNIが60％急騰──トークン保有者に報酬付与する提案で]]></title>
         <id>https://www.coindeskjapan.com/?p=220979</id>
@@ -1100,16 +1111,6 @@ VanEckのビットコインETF、1日の取引高が2200％も急増 first appea
 ビットコインETFが週間流入額24億ドルを記録──ブラックロックのIBITがリード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「イーサリアム最大の技術的なリスクであるバグの解決へ」ヴィタリックがAIに期待]]></title>
-        <id>https://coinpost.jp/?p=511523</id>
-        <link href="https://coinpost.jp/?p=511523"/>
-        <updated>2024-02-19T23:30:40.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアム最大の技術的なリスクはバグだとし、イーサリアム共同創設者ヴィタリック・ブテリン氏は、コードの検証やバグの発見にAIを活用できるようになることを期待していると述べた。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
