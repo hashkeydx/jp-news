@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-26T09:22:44.863Z</updated>
+    <updated>2024-02-26T10:27:46.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、4万7000ドルまで調整される可能性──イーサリアムは上昇銘柄をリード]]></title>
+        <id>https://www.coindeskjapan.com/?p=221040</id>
+        <link href="https://www.coindeskjapan.com/221040/"/>
+        <updated>2024-02-26T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の価格は、週末のボラティリティが低い傾向に沿ってほとんど変化せず、代わりに比較的新しいイーサリアム（ETH）上場投資信託（ETF）のストー ...
+ビットコイン、4万7000ドルまで調整される可能性──イーサリアムは上昇銘柄をリード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスラボ、EigenLayerのリキッドリステーキングトークン（LRT）プロトコル「Renzo」に出資]]></title>
         <id>https://www.neweconomy.jp/?p=373254</id>
@@ -774,27 +785,6 @@ Oasys、カカオゲームズのブロックチェーン子会社と提携 first
 ビットコイン、半減期から受ける影響とは？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Todd Groth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、トロン上のUSDCのサポートを段階的に中止すると発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=220597</id>
-        <link href="https://www.coindeskjapan.com/220597/"/>
-        <updated>2024-02-21T21:50:00.000Z</updated>
-        <summary type="html"><![CDATA[主要なステーブルコイン、USDコイン（USDC）の発行元サークル（Circle）が2月21日、トロン（Tron）ブロックチェーン上でのUSDCのサポートを終了す ...
-サークル、トロン上のUSDCのサポートを段階的に中止すると発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ブリッジWormhole、半導体大手AMDのチップを利用し性能向上へ]]></title>
-        <id>https://coinpost.jp/?p=512046</id>
-        <link href="https://coinpost.jp/?p=512046"/>
-        <updated>2024-02-21T21:30:34.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ブリッジWormholeは性能を引き上げるために、半導体大手AMDのアクセラレーターチップを実装。ZKライトクライアントの計算消費を解決する目的だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
