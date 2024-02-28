@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-02-28T05:25:25.175Z</updated>
+    <updated>2024-02-28T06:26:30.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グローバル法律事務所Norton「SECの規制や執行措置は今年さらに強化される」]]></title>
+        <id>https://coinpost.jp/?p=513226</id>
+        <link href="https://coinpost.jp/?p=513226"/>
+        <updated>2024-02-28T05:50:28.000Z</updated>
+        <summary type="html"><![CDATA[グローバル法律事務所Norton Rose Fulbrightは2024年の展望レポートで、米SEC（証券取引委員会）は仮想通貨業界に対する「執行措置を伴う規制」アプローチをさらに強化するとの予測を明らかにした。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム大型アップグレード「Dencun」、メインネット実装日が3月13日に正式決定]]></title>
+        <id>https://www.neweconomy.jp/?p=373913</id>
+        <link href="https://www.neweconomy.jp/posts/373913"/>
+        <updated>2024-02-28T05:36:52.000Z</updated>
+        <summary type="html"><![CDATA[「Dencun」メインネット実装日が3月13日に正式決定 イーサリアム（Ethereum）の次期大型アップグレード「デンクン（Dencun）」のメインネット実装日が3月13日に正式に決定した。イーサリアム財団（Ether […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INTMAX、「Plasma Next」メイネットαをローンチ。PlasmaとRollups組み合わせて拡張性向上]]></title>
         <id>https://www.neweconomy.jp/?p=373896</id>
