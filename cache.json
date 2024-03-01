@@ -505,6 +505,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=511270",
+          "author": "M.Somekawa",
+          "description": "2024年、Solana（ソラナ）主導のDePIN展開とその注目プロジェクトを深堀り。この記事では、分散型物理インフラネットワーク（DePIN）の基礎から、ソラナベースの画期的プロジェクトまで詳しく解説します。DePINの未来を形作る主要な動向とイノベーションに焦点を当て、この技術革新が開く新しい機会を紹介します。",
+          "link": "https://coinpost.jp/?p=511270",
+          "publishedOn": "2024-03-01T08:00:37.000Z",
+          "wordCount": 2131,
+          "title": "ソラナで拡大する分散型インフラ「DePIN」、2024年注目のプロジェクトを深掘り",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/DePin_0224.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/DePin_0224.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=513724",
+          "author": "幸田直子",
+          "description": "仮想通貨ビットコインの高騰が続く中、米国政府に関連するウォレットから、1,380億円相当のビットコインが送金されたことが明らかになった。米国政府はこれまでの仮想通貨犯罪捜査で押収した大量のビットコインを保有している。",
+          "link": "https://coinpost.jp/?p=513724",
+          "publishedOn": "2024-03-01T07:50:35.000Z",
+          "wordCount": 1986,
+          "title": "米国政府関連ウォレット、1380億円相当の15,000BTCを送金",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/bitcoin1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/bitcoin1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=513700",
           "author": "A.Yamada",
           "description": "米ナスダック上場のビットコインマイニング企業マラソンは2023年に過去最高の収益を上げたと報告した。半減期を事業拡大のチャンスと捉えている。",
@@ -1216,6 +1246,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=374596",
+          "author": "HitomotoToshikazu",
+          "description": "io.netがコミュニティ報酬プログラム開始 ソラナ（Solana）基盤のDePIN（Decentralized Physical Infrastructure Network：分散型物的インフラストラクチャーネットワー […]",
+          "link": "https://www.neweconomy.jp/posts/374596",
+          "publishedOn": "2024-03-01T08:25:03.000Z",
+          "wordCount": 764,
+          "title": "ソラナ基盤のDePINプロジェクト「io.net」、コミュニティ報酬プログラム開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/01164150/bba744b22f9a47c4504f1f7ba025e92f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=374614",
+          "author": "OtsugaShinya",
+          "description": "GINKANがNFT関連技術で特許取得 GINKAN（ギンカン）が、「実世界の決済データと活動情報を非代替性トークン（NFT）と統合する技術」に関する特許を日本国内で取得したことを3月1日発表した。 同特許技術は具体的に […]",
+          "link": "https://www.neweconomy.jp/posts/374614",
+          "publishedOn": "2024-03-01T07:55:56.000Z",
+          "wordCount": 631,
+          "title": "GINKAN、「実世界の決済データとNFT情報を統合する技術」で特許取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/01165547/441be748245a49083ffa4610b90f496f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=374607",
+          "author": "OtsugaShinya",
+          "description": "バイナンスにAXL上場へ 大手海外暗号資産（仮想通貨）取引所バイナンス（Binance）が、暗号資産アクセラー：Axelar（AXL）の取り扱い予定を3月1日発表した。 発表によるとAXLの取り扱いは、現物取引にて世界協 […]",
+          "link": "https://www.neweconomy.jp/posts/374607",
+          "publishedOn": "2024-03-01T07:49:34.000Z",
+          "wordCount": 778,
+          "title": "バイナンスにクロスチェーンプロトコル「Axelar（AXL）」上場へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/01164929/4dc858fa38cab930cce50213153d2cc0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=374591",
+          "author": "gentosha_takahashi",
+          "description": "GBTCのオプション承認を促す 暗号資産（仮想通貨）運用会社のグレースケール・インベストメンツ（Grayscale Investments）は、米証券取引委員会（SEC）に対し、「現物ビットコイン（BTC）上場投資信託（ […]",
+          "link": "https://www.neweconomy.jp/posts/374591",
+          "publishedOn": "2024-03-01T07:27:54.000Z",
+          "wordCount": 790,
+          "title": "グレースケール、SECに「現物ビットコインETF」のオプション承認を働きかける",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/01162740/fafc61809c3d9755a8d1d5ba31d5f560.jpeg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=374558",
           "author": "gentosha_takahashi",
