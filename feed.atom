@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-03T20:21:08.899Z</updated>
+    <updated>2024-03-03T21:18:59.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックス：破綻から10年経ってもまだわからないこと]]></title>
+        <id>https://www.coindeskjapan.com/?p=221619</id>
+        <link href="https://www.coindeskjapan.com/221619/"/>
+        <updated>2024-03-03T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2014年2月、日本に拠点を置くビットコイン（BTC）取引所マウントゴックス（Mt.Gox）が破綻したとき、誕生から5年も経たないうちに生まれたばかりの暗号資産 ...
+マウントゴックス：破綻から10年経ってもまだわからないこと first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミームコインショートで5000万ドルの清算──柴犬コイン、WIFが60%上昇]]></title>
         <id>https://www.coindeskjapan.com/?p=222046</id>
@@ -920,26 +931,6 @@ Japan FinTech Festival、3/4〜8開催──世界中からフィンテック関
 ビットコイン、5万9000ドル台に急伸──「恐怖と貪欲指数」は高水準に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米クラーケン、機関投資家向け新ブランド「Kraken Institutional」ローンチへ]]></title>
-        <id>https://www.neweconomy.jp/?p=374041</id>
-        <link href="https://www.neweconomy.jp/posts/374041"/>
-        <updated>2024-02-28T09:11:45.000Z</updated>
-        <summary type="html"><![CDATA[今年中に提供開始 米大手暗号資産（仮想通貨）取引所クラーケン（Kraken）が、機関投資家向けの新ブランド「クラーケン・インスティチューショナル（Kraken Institutional）」を立ち上げたと2月27日発表し […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースの「アセットリカバリーツール」、BNBスマートチェーンとPolygonのサポート開始]]></title>
-        <id>https://www.neweconomy.jp/?p=374031</id>
-        <link href="https://www.neweconomy.jp/posts/374031"/>
-        <updated>2024-02-28T08:31:48.000Z</updated>
-        <summary type="html"><![CDATA[コインベースの「アセットリカバリーツール」にネットワークサポート追加 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）提供の「アセットリカバリーツール（asset recovery tool）」の対応ブロ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
