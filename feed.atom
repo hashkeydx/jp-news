@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-03T01:28:42.127Z</updated>
+    <updated>2024-03-03T02:28:18.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週刊仮想通貨ニュース（+アジア特集）｜ビットコインのJPモルガンによる価格予想や含み益の状況に高い関心]]></title>
+        <id>https://coinpost.jp/?p=513911</id>
+        <link href="https://coinpost.jp/?p=513911"/>
+        <updated>2024-03-03T02:00:34.000Z</updated>
+        <summary type="html"><![CDATA[今週は、仮想通貨ビットコインのJPモルガンによる価格予想や含み益の状況、裁判におけるサトシ・ナカモトのメール公開に関する記事が最も関心を集めた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインETFの買いは個人、ヘッジファンド、IFAが主導——大手の参入はこれから：米Bitwise最高投資責任者]]></title>
         <id>https://www.coindeskjapan.com/?p=221759</id>
@@ -1167,17 +1177,6 @@ USDコインが復活。供給量増加率でテザーを上回る first appeare
         <summary type="html"><![CDATA[今回の対象となるのは、ラップドビットコイン（Wrapped Bitcoin）、ファイルコイン（Filecoin）、スイ（Sui）で、3月5日より暗号資産現物取引・販売所および取引所・貸暗号資産で対応する予定だ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットポイント、オシトークン（OSHI）の取り扱いを開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=221291</id>
-        <link href="https://www.coindeskjapan.com/221291/"/>
-        <updated>2024-02-27T14:18:47.000Z</updated>
-        <summary type="html"><![CDATA[ビットポイントジャパンは2月27日、日本で初めて「オシトークン（OSHI）」の取り扱いを開始した。 オシトークン（OSHI）は、モバイルオンラインゲーム事業とブ ...
-ビットポイント、オシトークン（OSHI）の取り扱いを開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
