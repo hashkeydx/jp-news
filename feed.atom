@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-05T08:25:52.975Z</updated>
+    <updated>2024-03-05T09:21:08.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハッシュパレット、「CryptoNinja Party!」サービス終了へ]]></title>
+        <id>https://www.neweconomy.jp/?p=375294</id>
+        <link href="https://www.neweconomy.jp/posts/375294"/>
+        <updated>2024-03-05T09:18:12.000Z</updated>
+        <summary type="html"><![CDATA[「CryptoNinja Party!」サービス終了発表へ P2E（Play To Earn）ブロックチェーンゲーム「クリプトニンジャパーティー（CryptoNinja Party!）」が3月29日18時に終了する。同ゲ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wormhole、ネイティブトークン転送のための新フレームワーク発表]]></title>
+        <id>https://www.neweconomy.jp/?p=375283</id>
+        <link href="https://www.neweconomy.jp/posts/375283"/>
+        <updated>2024-03-05T08:50:54.000Z</updated>
+        <summary type="html"><![CDATA[Wormholeがネイティブトークン転送のための新しいフレームワークを発表 クロスチェーンプロトコル「ワームホール（Wormhole）」が、「ネイティブトークン転送（NTT：Native Token Transfers） […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米裁判所、「流通市場での特定の暗号資産取引は有価証券取引にあたる」との見方示す]]></title>
+        <id>https://www.neweconomy.jp/?p=375284</id>
+        <link href="https://www.neweconomy.jp/posts/375284"/>
+        <updated>2024-03-05T08:50:23.000Z</updated>
+        <summary type="html"><![CDATA[流通市場での特定の暗号資産の取引は証券取引 米裁判所が、大手暗号資産（仮想通貨）取引所のような流通市場（セカンダリーマーケット）での特定の暗号資産の取引は証券取引であるとの裁定を下した。 米コインベースグローバル（Coi […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、ユーロでは史上最高値更新——ドルでも時価総額は前回のピーク超え]]></title>
         <id>https://www.coindeskjapan.com/?p=222299</id>
@@ -1067,37 +1097,6 @@ Japan FinTech Festival、3/4〜8開催──世界中からフィンテック関
 ビットコインマイナーの保有BTCが大きく減少──売却の原因は半減と中国の天候か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wormholeの「W」トークン、Bybitに先行上場（プレマーケット）]]></title>
-        <id>https://coinpost.jp/?p=513653</id>
-        <link href="https://coinpost.jp/?p=513653"/>
-        <updated>2024-02-29T21:10:25.000Z</updated>
-        <summary type="html"><![CDATA[WormholeはまだWトークンを正式にリリースしていないが、近いうちに発表される可能性があるとされている。PythのX投稿やMad LadsのNFTバッジなどで示唆されている状況だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米レディットのIPO申請から読み解く、暗号資産規制の今]]></title>
-        <id>https://www.coindeskjapan.com/?p=221025</id>
-        <link href="https://www.coindeskjapan.com/221025/"/>
-        <updated>2024-02-29T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米人気投稿サイトのレディット（Reddit）が保有するビットコイン（BTC）、イーサリアム（ETH）、ポリゴン（MATIC）は「取るに足らない数」かもしれないが ...
-米レディットのIPO申請から読み解く、暗号資産規制の今 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミームコイン時価総額大幅増、DogeやBonkがけん引]]></title>
-        <id>https://coinpost.jp/?p=513646</id>
-        <link href="https://coinpost.jp/?p=513646"/>
-        <updated>2024-02-29T20:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Dogecoin（前日比+13%）やShiba Inu（+18.5%）、Bonk（+59.5%）が仮想通貨ミームコインセクターを牽引。ビットコインの60000万台復帰でリスクオン志向を強めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

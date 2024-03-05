@@ -440,16 +440,6 @@
           "wordCount": 1216,
           "title": "ビットコインマイナーの保有BTCが大きく減少──売却の原因は半減と中国の天候か",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/YCPQCPI5NFF5FG57A2AAE5RWL4.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=221025",
-          "author": "Daniel Kuhn",
-          "description": "米人気投稿サイトのレディット（Reddit）が保有するビットコイン（BTC）、イーサリアム（ETH）、ポリゴン（MATIC）は「取るに足らない数」かもしれないが ...\n米レディットのIPO申請から読み解く、暗号資産規制の今 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/221025/",
-          "publishedOn": "2024-02-29T21:00:00.000Z",
-          "wordCount": 1265,
-          "title": "米レディットのIPO申請から読み解く、暗号資産規制の今",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/02/shutterstock_2139373933.jpg"
         }
       ]
     },
@@ -973,36 +963,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/investment-bitcoin-new-balance-sheet.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/investment-bitcoin-new-balance-sheet.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=513653",
-          "author": "菊谷ルイス",
-          "description": "WormholeはまだWトークンを正式にリリースしていないが、近いうちに発表される可能性があるとされている。PythのX投稿やMad LadsのNFTバッジなどで示唆されている状況だ。",
-          "link": "https://coinpost.jp/?p=513653",
-          "publishedOn": "2024-02-29T21:10:25.000Z",
-          "wordCount": 1881,
-          "title": "Wormholeの「W」トークン、Bybitに先行上場（プレマーケット）",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/wormhole-cosmos-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/wormhole-cosmos-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=513646",
-          "author": "菊谷ルイス",
-          "description": "Dogecoin（前日比+13%）やShiba Inu（+18.5%）、Bonk（+59.5%）が仮想通貨ミームコインセクターを牽引。ビットコインの60000万台復帰でリスクオン志向を強めている。",
-          "link": "https://coinpost.jp/?p=513646",
-          "publishedOn": "2024-02-29T20:40:18.000Z",
-          "wordCount": 1891,
-          "title": "ミームコイン時価総額大幅増、DogeやBonkがけん引",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/dogecoingold.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/dogecoingold.png"
         }
       ]
     },
@@ -1011,6 +971,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=375294",
+          "author": "HitomotoToshikazu",
+          "description": "「CryptoNinja Party!」サービス終了発表へ P2E（Play To Earn）ブロックチェーンゲーム「クリプトニンジャパーティー（CryptoNinja Party!）」が3月29日18時に終了する。同ゲ […]",
+          "link": "https://www.neweconomy.jp/posts/375294",
+          "publishedOn": "2024-03-05T09:18:12.000Z",
+          "wordCount": 786,
+          "title": "ハッシュパレット、「CryptoNinja Party!」サービス終了へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/05181639/f373102a8190868feb39f92df2313dd5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=375283",
+          "author": "TamuraSeiji",
+          "description": "Wormholeがネイティブトークン転送のための新しいフレームワークを発表 クロスチェーンプロトコル「ワームホール（Wormhole）」が、「ネイティブトークン転送（NTT：Native Token Transfers） […]",
+          "link": "https://www.neweconomy.jp/posts/375283",
+          "publishedOn": "2024-03-05T08:50:54.000Z",
+          "wordCount": 650,
+          "title": "Wormhole、ネイティブトークン転送のための新フレームワーク発表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/05175046/4431bb6bcb6c5880fee98a8c52bf2cba.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=375284",
+          "author": "gentosha_takahashi",
+          "description": "流通市場での特定の暗号資産の取引は証券取引 米裁判所が、大手暗号資産（仮想通貨）取引所のような流通市場（セカンダリーマーケット）での特定の暗号資産の取引は証券取引であるとの裁定を下した。 米コインベースグローバル（Coi […]",
+          "link": "https://www.neweconomy.jp/posts/375284",
+          "publishedOn": "2024-03-05T08:50:23.000Z",
+          "wordCount": 760,
+          "title": "米裁判所、「流通市場での特定の暗号資産取引は有価証券取引にあたる」との見方示す",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/05175008/aa297754ef775aae79615cce90fc3cbd.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=375263",
           "author": "OtsugaShinya",
