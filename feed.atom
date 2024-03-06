@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-06T08:27:09.578Z</updated>
+    <updated>2024-03-06T09:21:53.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニモカブランズがKDDIとWeb3領域で事業提携へ]]></title>
+        <id>https://www.neweconomy.jp/?p=375691</id>
+        <link href="https://www.neweconomy.jp/posts/375691"/>
+        <updated>2024-03-06T09:03:40.000Z</updated>
+        <summary type="html"><![CDATA[モカバースとαU walletを連携 アニモカブランズジャパン（Animoca Brands Japan）とKDDIが、Web3分野で事業連携する。両社が3月5日発表した。 この連携で両社は、アニモカブランズのWeb3プ […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ基盤のDePINプロジェクト「io. net」が約45億円の資金調達実施、ソラナラボやアプトスラボなど参加]]></title>
         <id>https://www.neweconomy.jp/?p=375627</id>
@@ -1106,16 +1116,6 @@ UVERworld、サカナクションなどのファンクラブ運営会社がIEO�
         <summary type="html"><![CDATA[ブロックチェーンの間接的な固定コストを最大90%超削減できると期待されるアップグレード「Delta」について、仮想通貨イーサリアムのL2「Optimism」の開発チームが解説した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16万BTC運用のブラックロックのビットコイン現物ETF、ブラジルで取引開始]]></title>
-        <id>https://coinpost.jp/?p=513891</id>
-        <link href="https://coinpost.jp/?p=513891"/>
-        <updated>2024-03-01T21:00:56.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインETFへの機関投資家の資金流入を背景にビットコインは今週一時64,000ドルまで高騰し2021年のATHである69,000へと接近しつつある。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
