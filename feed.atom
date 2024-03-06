@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-06T09:21:53.927Z</updated>
+    <updated>2024-03-06T10:27:07.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/6話題】ビットコインが米ドル建て史上最高値から急落、Astar zkEVMメインネットローンチなど]]></title>
+        <id>https://www.neweconomy.jp/?p=375661</id>
+        <link href="https://www.neweconomy.jp/posts/375661"/>
+        <updated>2024-03-06T10:02:42.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アニモカブランズがKDDIとWeb3領域で事業提携へ]]></title>
         <id>https://www.neweconomy.jp/?p=375691</id>
@@ -1106,16 +1116,6 @@ UVERworld、サカナクションなどのファンクラブ運営会社がIEO�
 ビットコインETFを敬遠する米バンガード、CEOが年内に退任——後任の方針は？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>行武 温</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムL2「Optimism」、デルタ・アップグレードで手数料をさらに削減へ]]></title>
-        <id>https://coinpost.jp/?p=513897</id>
-        <link href="https://coinpost.jp/?p=513897"/>
-        <updated>2024-03-01T21:45:14.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーンの間接的な固定コストを最大90%超削減できると期待されるアップグレード「Delta」について、仮想通貨イーサリアムのL2「Optimism」の開発チームが解説した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
