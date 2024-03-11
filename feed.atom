@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-11T04:27:08.888Z</updated>
+    <updated>2024-03-11T05:26:10.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム共同創設者ブテリン氏、きたる”量子コンピュータ”時代に備えたハードフォークを提案]]></title>
+        <id>https://coinpost.jp/?p=515682</id>
+        <link href="https://coinpost.jp/?p=515682"/>
+        <updated>2024-03-11T05:04:49.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアム（ETH）の共同創業者ヴィタリック・ブテリン氏は、近い将来、量子コンピュータがもたらすリスクに対処する方法として、リカバリー（回復用）ハードフォークの実施を提案した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港規制当局が新たにCBDCプロジェクト開始、RWAトークン化に焦点]]></title>
+        <id>https://www.neweconomy.jp/?p=376626</id>
+        <link href="https://www.neweconomy.jp/posts/376626"/>
+        <updated>2024-03-11T04:58:32.000Z</updated>
+        <summary type="html"><![CDATA[「プロジェクトアンサンブル」が開始 香港金融管理局（HKMA）が、香港におけるトークン市場の発展を支援するための新たな中央銀行デジタル通貨（CBDC）プロジェクト「プロジェクトアンサンブル（Project Ensembl […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックのビットコイン保有量、マイクロストラテジーを上回る]]></title>
+        <id>https://coinpost.jp/?p=515661</id>
+        <link href="https://coinpost.jp/?p=515661"/>
+        <updated>2024-03-11T04:31:30.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックのビットコイン現物ETFが保有するBTC数量は米マイクロストラテジーを上回った。現物ETFへの資金流入は高水準で継続している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベースの米国外取引所、BLUR・SEI・UNIを無期限先物取引で取扱いへ]]></title>
         <id>https://www.neweconomy.jp/?p=376609</id>
