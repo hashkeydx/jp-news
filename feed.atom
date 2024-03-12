@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-12T08:25:20.987Z</updated>
+    <updated>2024-03-12T09:26:14.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NTT Digital、暗号資産ウォレット提供開始──アスター、アバランチ、イーサリアム、ポリゴンに対応]]></title>
+        <id>https://www.coindeskjapan.com/?p=223410</id>
+        <link href="https://www.coindeskjapan.com/223410/"/>
+        <updated>2024-03-12T08:47:22.000Z</updated>
+        <summary type="html"><![CDATA[NTT Digitalは、暗号資産やNFTを扱うことができるデジタルウォレット「scramberry WALLET（スクランベリー・ウォレット）」を3月12日か ...
+NTT Digital、暗号資産ウォレット提供開始──アスター、アバランチ、イーサリアム、ポリゴンに対応 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>CoinDesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NTTドコモのNTT Digital、暗号資産ウォレット「scramberry WALLET」提供開始、アスター・アバランチ・イーサリアム・ポリゴン対応]]></title>
         <id>https://www.neweconomy.jp/?p=376905</id>
@@ -1032,27 +1043,6 @@ AI + 暗号資産＝トラブルか？ first appeared on CoinDesk JAPAN（コイ
 イーサリアムの「デンクン」アップグレードはレイヤー2の手数料をほぼゼロに：フィデリティ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テスラとSpaceXのビットコイン保有数が約2万BTC　購入再開も確認か＝Arkham追跡]]></title>
-        <id>https://coinpost.jp/?p=515030</id>
-        <link href="https://coinpost.jp/?p=515030"/>
-        <updated>2024-03-07T21:09:51.000Z</updated>
-        <summary type="html"><![CDATA[テスラは68のアドレスで合計11,509 BTC（7.8億ドル）、SpaceXは28のアドレスで8,285 BTC（5.6億ドル）のビットコインを保有。テスラが前回の四半期決算（1月24日）からビットコインの購入を再開し、1,789 BTCを購入したことも判明。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号会社Zamaが「完全準同型暗号化」アプリ開発に7300万ドルを調達]]></title>
-        <id>https://www.coindeskjapan.com/?p=222831</id>
-        <link href="https://www.coindeskjapan.com/222831/"/>
-        <updated>2024-03-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースの暗号会社Zamaは、完全準同型暗号化（FHE）によるアプリケーションの開発に向けて、シリーズAで7300万ドル（約109億5000万円、1ドル= ...
-暗号会社Zamaが「完全準同型暗号化」アプリ開発に7300万ドルを調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
         </author>
     </entry>
 </feed>
