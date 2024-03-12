@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-12T13:22:26.292Z</updated>
+    <updated>2024-03-12T14:24:30.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/12話題】NTT Digitalがscramberry WALLET提供開始、ネクソンがアバランチで「メイプルストーリー」など]]></title>
+        <id>https://www.neweconomy.jp/?p=376928</id>
+        <link href="https://www.neweconomy.jp/posts/376928"/>
+        <updated>2024-03-12T13:23:42.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインへの「強気」が継続──ドージコイン、柴犬コインは一服]]></title>
         <id>https://www.coindeskjapan.com/?p=223455</id>
@@ -960,27 +970,6 @@ AI + 暗号資産＝トラブルか？ first appeared on CoinDesk JAPAN（コイ
         <summary type="html"><![CDATA[高速L1「インジェクティブ」は、独自イーサリアム仮想マシン（inEVM）の開発がほぼ完了したと報告。ソラナやコスモスなどとの相互運用性が向上する。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イギリス、OECD暗号資産レポートフレームワークに関する協議開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=222753</id>
-        <link href="https://www.coindeskjapan.com/222753/"/>
-        <updated>2024-03-08T01:59:27.000Z</updated>
-        <summary type="html"><![CDATA[イギリスは3月5日、春の予算演説を受けて、経済協力開発機構（OECD）の暗号資産レポートフレームワークを導入する計画についての協議を開始した。 英財務省は、導入 ...
-イギリス、OECD暗号資産レポートフレームワークに関する協議開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>行武 温</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン・BRC-20取引アプリ「Oyl」、アーサーヘイズ氏などから4.4億円調達]]></title>
-        <id>https://coinpost.jp/?p=515076</id>
-        <link href="https://coinpost.jp/?p=515076"/>
-        <updated>2024-03-08T01:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Oylはウォレットを軸とするビットコインエコシステム特化型のプラットフォームで、Ordinalsの管理・取引だけでなくBRC-20トークンの取引アグリゲーターや、DeFiツールOmniSatも一元化する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
