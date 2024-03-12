@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-12T06:26:31.374Z</updated>
+    <updated>2024-03-12T07:19:37.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jito Labsがソラナの「mempool機能」停止、サンドイッチボット増加を受け]]></title>
+        <id>https://www.neweconomy.jp/?p=376896</id>
+        <link href="https://www.neweconomy.jp/posts/376896"/>
+        <updated>2024-03-12T07:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Jito Labsがサンドイッチボット増加を受けmempool機能を停止 ソラナ（Solana）ブロックチェーンでのMEV（最大抽出可能価値）用インフラストラクチャの開発を行う「ジトラボ（Jito Labs）」が、同社が […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フィリピン中銀、ホールセールCBDCの試験運用の年内終了目指す＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=376888</id>
