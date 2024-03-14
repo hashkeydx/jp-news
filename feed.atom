@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-14T20:23:01.494Z</updated>
+    <updated>2024-03-14T21:19:56.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum、イーサリアム「Dencun」に接続]]></title>
+        <id>https://coinpost.jp/?p=516740</id>
+        <link href="https://coinpost.jp/?p=516740"/>
+        <updated>2024-03-14T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Dencunによるガス代低減（データブロブによるデータ転送費用の解消）だけでなく、Atlas自体はArbitrum上の他の手数料も削減することになる。3月18日に起動する予定だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国における暗号資産規制のジレンマ]]></title>
+        <id>https://www.coindeskjapan.com/?p=222104</id>
+        <link href="https://www.coindeskjapan.com/222104/"/>
+        <updated>2024-03-14T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米国の暗号資産規制の現状は、とうてい遵守できない不条理で矛盾した規則や要件ばかりでがんじがらめ、まさに「キャッチ22」の状態にある。 ジョセフ・ヘラーの小説に登 ...
+米国における暗号資産規制のジレンマ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>行武 温</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、一部の仮想通貨ペアを廃止]]></title>
+        <id>https://coinpost.jp/?p=516738</id>
+        <link href="https://coinpost.jp/?p=516738"/>
+        <updated>2024-03-14T20:40:04.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは13日、一部の現物通貨ペアの廃止予定を実施した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/14話題】イーサリアム「Dencun」がメインネットに実装完了、ヴィタリックが今後のアップグレードに言及など]]></title>
         <id>https://www.neweconomy.jp/?p=377551</id>
