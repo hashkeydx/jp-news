@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-14T23:21:04.221Z</updated>
+    <updated>2024-03-15T01:21:01.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ブルームバーグ、「仮想通貨ミームコインの熱狂」とインスタに投稿]]></title>
+        <id>https://coinpost.jp/?p=516765</id>
+        <link href="https://coinpost.jp/?p=516765"/>
+        <updated>2024-03-14T23:55:17.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの年初来61.66%高に対して、WIFは約21倍、PEPEは約7倍高騰。また、BONKやWEN、SHIBなどの銘柄もBTCの上昇率を大きく超えてきている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港当局、海外仮想通貨取引所Bybitに警告]]></title>
+        <id>https://coinpost.jp/?p=516758</id>
+        <link href="https://coinpost.jp/?p=516758"/>
+        <updated>2024-03-14T23:10:06.000Z</updated>
+        <summary type="html"><![CDATA[香港証券先物委員会は14日に、「Bybitとして知られる無認可の仮想資産取引プラットフォームが、多くの法域で仮想通貨関連商品の取引サービスを提供しているとして、一般市民に警告を発した」と発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミームコイン、ネットワークの成長と強い相関関係：フランクリン・テンプルトン]]></title>
         <id>https://www.coindeskjapan.com/?p=223939</id>
@@ -1393,17 +1413,6 @@ AI + 暗号資産＝トラブルか？ first appeared on CoinDesk JAPAN（コイ
 ブロックチェーン決済、なぜ誤解されるのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Paul Brody</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワイオミング州がDAOに新たな法的地位を付与]]></title>
-        <id>https://www.coindeskjapan.com/?p=223129</id>
-        <link href="https://www.coindeskjapan.com/223129/"/>
-        <updated>2024-03-10T12:17:57.000Z</updated>
-        <summary type="html"><![CDATA[ワイオミング州は、州内の分散型自立組織（DAO）の非営利団体向けの新たな法的枠組みを策定した。暗号資産（仮想通貨）投資大手アンドリーセン・ホロウィッツ（a16z ...
-ワイオミング州がDAOに新たな法的地位を付与 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
