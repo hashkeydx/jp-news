@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-17T20:21:28.173Z</updated>
+    <updated>2024-03-17T21:20:11.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「デンクン」はイーサリアムにとって吉と出るか、凶と出るか？]]></title>
+        <id>https://www.coindeskjapan.com/?p=223868</id>
+        <link href="https://www.coindeskjapan.com/223868/"/>
+        <updated>2024-03-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムブロックチェーンにとって、過去1年以上で最大のアップデート「デンクン（Dencun）」が、長年の準備を経て3月13日についに実施された。これは良いこ ...
+「デンクン」はイーサリアムにとって吉と出るか、凶と出るか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Kessler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース（+アジア特集）｜イーサリアムのDencun完了やビットコイン7万ドル割れに高い関心]]></title>
         <id>https://coinpost.jp/?p=516993</id>
@@ -957,26 +968,6 @@
         <summary type="html"><![CDATA[米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タイ、資産運用会社に機関投資家向け現物ビットコインETFファンドの設立許可＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=377250</id>
-        <link href="https://www.neweconomy.jp/posts/377250"/>
-        <updated>2024-03-13T08:44:36.000Z</updated>
-        <summary type="html"><![CDATA[機関投資家による現物ビットコインETFへのアクセス認める タイ証券取引委員会（SEC）が、同国の資産運用会社に対し、米国の現物ビットコインETFに投資するファンドの設立を許可した。現地メディア「バンコクポスト（Bangk […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットポイント、ポルカドット（DOT）のステーキングサービス開始]]></title>
-        <id>https://www.neweconomy.jp/?p=377242</id>
-        <link href="https://www.neweconomy.jp/posts/377242"/>
-        <updated>2024-03-13T08:27:54.000Z</updated>
-        <summary type="html"><![CDATA[ビットポイントがDOTのステーキングサービス開始 国内暗号資産（仮想通貨）取引所BITPOINT（ビットポイント）が、暗号資産ポルカドット（DOT）のステーキングサービス開始を3月13日発表した。 ビットポイントによると […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
