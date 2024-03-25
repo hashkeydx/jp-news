@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=225438",
+          "author": "林 理南",
+          "description": "今週の暗号資産は力強い上昇で始まった。ビットコイン（BTC）は再び2021年の最高値を上回って取引されており、最近の下落から反発した。 ほとんどすべての暗号資産 ...\n暗号資産上昇再開でビットコインは7万ドル超え──アナリストは目標株価を8万3000ドルに設定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/225438/",
+          "publishedOn": "2024-03-25T23:05:42.000Z",
+          "wordCount": 1243,
+          "title": "暗号資産上昇再開でビットコインは7万ドル超え──アナリストは目標株価を8万3000ドルに設定",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/N4Y4OJ46IZJFSZBBOEKN5PPRSEE.png"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=225424",
+          "author": "増田 隆幸",
+          "description": "フィリピン証券取引委員会（比SEC）は、暗号資産（仮想通貨）取引所バイナンス（Binance）へのアクセスをブロックしようとしている。 同委員会は3月25日、「 ...\nフィリピン規制当局、バイナンスをブロック first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/225424/",
+          "publishedOn": "2024-03-25T22:30:00.000Z",
+          "wordCount": 1233,
+          "title": "フィリピン規制当局、バイナンスをブロック",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/shutterstock_516718876.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=225411",
           "author": "Sandali Handagama",
           "description": "欧州連合（EU）の欧州証券市場監督機構（ESMA）は3月25日、EUの画期的な暗号資産市場規制法（MiCA）に基づくルールに関する最終報告書の最初の文書を、第3 ...\nEU規制当局、MiCAに基づくルールの最終決定に前進 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -380,16 +400,6 @@
           "wordCount": 1225,
           "title": "サム・バンクマン-フリード被告は50年の懲役に値するのか",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/34TS6QKTENFDZGILRHHD4OCSQU.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=224894",
-          "author": "Shaurya Malwa",
-          "description": "ビットコイン（BTC）とイーサリアム（ETH）が急落した3月20日の安値から15％も上昇し、暗号資産（仮想通貨）市場特有のボラティリティが発揮された。 BTCと ...\nドージコイン、先物への期待で18％上昇──ビットコインは一時6万8000ドルに迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/224894/",
-          "publishedOn": "2024-03-21T10:55:00.000Z",
-          "wordCount": 1188,
-          "title": "ドージコイン、先物への期待で18％上昇──ビットコインは一時6万8000ドルに迫る",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/08/shutterstock_261085280-scaled.jpg"
         }
       ]
     },
@@ -404,6 +414,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=519146",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨XRPのブロックチェーンXRPLがネイティブのAMMをローンチ。XLS-30という名称で、金融領域以外での活用も期待されている。現在は問題が確認されているため、利用には注意が必要だ。",
+          "link": "https://coinpost.jp/?p=519146",
+          "publishedOn": "2024-03-25T22:45:05.000Z",
+          "wordCount": 1973,
+          "title": "XRPのブロックチェーンでAMMローンチ　金融領域以外での活用も期待",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=519151",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ソーラーは、DPoSというコンセンサスメカニズを利用。ネイティブトークンであるSXPは発行上限が設定されておらずプログラムによる追加での自動発行が行われる。",
+          "link": "https://coinpost.jp/?p=519151",
+          "publishedOn": "2024-03-25T22:15:57.000Z",
+          "wordCount": 1916,
+          "title": "国内初で仮想通貨ソーラー（Solar）新規上場へ、ビットトレード",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/bitrade-solar.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/bitrade-solar.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=519145",
           "author": "菊谷ルイス",
