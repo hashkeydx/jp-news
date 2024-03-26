@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-26T22:25:55.838Z</updated>
+    <updated>2024-03-26T23:23:45.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パナソニックADとジャスミーが協業　Web3ベースのIoTプラットフォーム開発]]></title>
+        <id>https://coinpost.jp/?p=519431</id>
+        <link href="https://coinpost.jp/?p=519431"/>
+        <updated>2024-03-26T23:00:43.000Z</updated>
+        <summary type="html"><![CDATA[パナソニックアドバンストテクノロジーとジャスミーは、Web3ベースのIoTプラットフォームの開発に向けて協業を開始したことを発表した。具体的な協業内容については、今後発表していく予定。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナdAppsにイーサリアムなどからステーブルコインUSDC転送可能に]]></title>
+        <id>https://coinpost.jp/?p=519435</id>
+        <link href="https://coinpost.jp/?p=519435"/>
+        <updated>2024-03-26T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ソラナにCCTPが導入され開発者は「たったの3行のコード」で開発を行い、ソラナを含む8つのブロックチェーン間で安全に仮想通貨USDCを自由に移動させられるという。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ギャラクシー・デジタル、2023年の純利益は2億9600万ドル]]></title>
         <id>https://www.coindeskjapan.com/?p=225628</id>
