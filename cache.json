@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=225628",
+          "author": "Jamie Crawley",
+          "description": "暗号資産（仮想通貨）運用会社のギャラクシー・デジタル（Galaxy Digital）は、2023年の通期決算で2億9600万ドル（約444億円、1ドル=150円 ...\nギャラクシー・デジタル、2023年の純利益は2億9600万ドル first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/225628/",
+          "publishedOn": "2024-03-26T22:00:00.000Z",
+          "wordCount": 1174,
+          "title": "ギャラクシー・デジタル、2023年の純利益は2億9600万ドル",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/BIU34ZFIBVHCVCE5PM5FAMIQOI.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=225346",
+          "author": "山口 晶子",
+          "description": "多くの投資家は、確立されたプラットフォームエコノミーのビジネスモデルに精通している。このビジネスモデルでは、強力なテック大手が、ユーザーから独自のデータや商品、 ...\nイーサリアムエコノミーを通して、プロトコルエコノミーを理解する first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/225346/",
+          "publishedOn": "2024-03-26T21:30:00.000Z",
+          "wordCount": 1187,
+          "title": "イーサリアムエコノミーを通して、プロトコルエコノミーを理解する",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/5SEZVASC6RCTTO6E45RNKJ65J4.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=225329",
           "author": "Paul Brody",
           "description": "暗号資産（仮想通貨）とブロックチェーンの次世代についての私の主要な疑問はこうだ──規制が整備されるにつれ、デジタル資産や暗号資産にどのように資本が投下されるだろ ...\nビットコインは（おそらく）唯一無二、だが成長機会は他にある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -330,16 +350,6 @@
           "wordCount": 1177,
           "title": "ビットコイン vs イーサリアム：どっちに投資する？／イーサリアム・スケーリング、どこで間違えたのか？【週末に読みたい厳選10本】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_1947416206-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=225088",
-          "author": "Sam Reynolds",
-          "description": "ビットコイン（BTC）は3月22日のアジア取引時間中に6万6000ドルを試し、市場オブザーバーは今後さらなるボラティリティに直面すると予想している。 ピタゴラス ...\nビットコインは6万6000ドル前後で推移──アナリストは落ち着く前にさらなるボラティリティを予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/225088/",
-          "publishedOn": "2024-03-22T10:20:00.000Z",
-          "wordCount": 1291,
-          "title": "ビットコインは6万6000ドル前後で推移──アナリストは落ち着く前にさらなるボラティリティを予想",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/02/shutterstock_1696487254.jpg"
         }
       ]
     },
@@ -1030,26 +1040,6 @@
           "wordCount": 848,
           "title": "米SEC、グレースケール申請の「現物イーサリアムETF」承認判断をまたも延期",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/25143158/3389cbdbfdf86ca2aadc4d89183db09a.jpeg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=379155",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/379155",
-          "publishedOn": "2024-03-22T09:42:05.000Z",
-          "wordCount": 769,
-          "title": "【3/22話題】フィンシア財団がADGMにDLT財団の登録、コインベースCLOがETHがコモディティの理由説くなど",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/22182552/news_head_20240322.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=379142",
-          "author": "HitomotoToshikazu",
-          "description": "StarkNetが「トランザクションの並列処理」実装へ イーサリアム（Ethereum）のL2スケーリングソリューション「スタークネット（StarkNet）」が、2024年度のロードマップを公開し「トランザクションの並列 […]",
-          "link": "https://www.neweconomy.jp/posts/379142",
-          "publishedOn": "2024-03-22T09:25:09.000Z",
-          "wordCount": 767,
-          "title": "イーサL2「StarkNet」、「トランザクションの並列処理」をQ2に実装へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/22182438/e6646b3958d62cef62dcd2f08b7690d8.jpg"
         }
       ]
     }
