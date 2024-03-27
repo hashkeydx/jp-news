@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-27T09:22:45.903Z</updated>
+    <updated>2024-03-27T10:27:16.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東京スター銀行、三井物産のデジタル証券サービス「オルタナ」導入。地域金融機関初のST取扱]]></title>
+        <id>https://www.neweconomy.jp/?p=380092</id>
+        <link href="https://www.neweconomy.jp/posts/380092"/>
+        <updated>2024-03-27T09:52:09.000Z</updated>
+        <summary type="html"><![CDATA[東京スター銀行が三井物産のデジタル証券サービス「オルタナ」導入 三井物産デジタル・アセットマネジメント（MDM）が、東京スター銀行との業務提携を3月22日発表した。 この提携によりMDMは、同社運営のデジタル証券サービス […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HSBC、トークン化ゴールドを香港の個人投資家向けに販売開始]]></title>
         <id>https://www.coindeskjapan.com/?p=225822</id>
@@ -1157,16 +1167,6 @@ SECのゲンスラー委員長、暗号資産企業は登録を回避し証券�
 ビットコイン vs イーサリアム：どっちに投資する？／イーサリアム・スケーリング、どこで間違えたのか？【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン半減期まで30日カウントダウン]]></title>
-        <id>https://coinpost.jp/?p=518494</id>
-        <link href="https://coinpost.jp/?p=518494"/>
-        <updated>2024-03-22T21:40:26.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインの価格は、1月の「100日カウントダウン」から、約47%上昇。3月14日に史上最高値を更新し73,737ドルまで押し上げていた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
