@@ -595,6 +595,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=520045",
+          "author": "菊谷ルイス",
+          "description": "全ての資産を表示するわけではなく、残高は各ネットワークのネイティブトークン（ETHやARB、OPなど）のみを表示。",
+          "link": "https://coinpost.jp/?p=520045",
+          "publishedOn": "2024-03-29T02:30:49.000Z",
+          "wordCount": 1907,
+          "title": "Googleサーチ、ビットコインやArbitrumなどのアドレスで資産残高を確認可能に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/google-dapper-labs-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/google-dapper-labs-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=520026",
           "author": "菊谷ルイス",
           "description": "仮に香港で承認された場合、アジア初の事例となり、今後日本でのビットコインETF上場や発行にも追い風になりうるとみられる。",
@@ -1321,6 +1336,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=380410",
+          "author": "NewEconomy",
+          "description": "ビットコイン現物ETFに資金流入増 暗号資産（仮想通貨）ビットコイン（Bitcoin）の現物に連動する上場投資信託（ETF）のETF9本への資金流入が、今週再び増加基調となった。ビットコインの価格が先週の急落から回復した […]",
+          "link": "https://www.neweconomy.jp/posts/380410",
+          "publishedOn": "2024-03-29T02:51:05.000Z",
+          "wordCount": 781,
+          "title": "ビットコイン現物ETFに資金流入増、価格回復受け",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/29115057/46e3ffad12a314460ca6deef298ea7ee.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=380402",
           "author": "NewEconomy",
