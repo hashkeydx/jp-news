@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-29T21:20:19.729Z</updated>
+    <updated>2024-03-29T22:25:20.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ銘柄「WIF」、トップ3ミームコインに]]></title>
+        <id>https://coinpost.jp/?p=520263</id>
+        <link href="https://coinpost.jp/?p=520263"/>
+        <updated>2024-03-29T21:10:51.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインの年初来上昇率+68.96%に対し、WIFは23倍もの上昇率を記録。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/29話題】FTX創業者に懲役25年、イーサリアムのBlobが碑文に使用でネットワーク混雑など]]></title>
         <id>https://www.neweconomy.jp/?p=380597</id>
@@ -1529,28 +1539,6 @@ EU規制当局、MiCAに基づくルールの最終決定に前進 first appeare
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインとイーサリアムがともに上昇──世界的な緩和サイクルが始まる]]></title>
-        <id>https://www.coindeskjapan.com/?p=225364</id>
-        <link href="https://www.coindeskjapan.com/225364/"/>
-        <updated>2024-03-25T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロック（BlackRock）が現実世界資産（RWA）トークン化に乗り出したことや、世界的な中央銀行の緩和サイクルが始まったことに好感し、暗号資産（仮想通 ...
-ビットコインとイーサリアムがともに上昇──世界的な緩和サイクルが始まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「誰も売ろうと思っていない」ビットコインのオンチェーン送金額は低迷]]></title>
-        <id>https://www.coindeskjapan.com/?p=225353</id>
-        <link href="https://www.coindeskjapan.com/225353/"/>
-        <updated>2024-03-25T09:30:44.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は先日、7万ドルを超えて史上最高値を更新した。それでもビットコインブロックチェーン上の実際の経済活動は、疾走しているのではなく、足を引きず ...
-「誰も売ろうと思っていない」ビットコインのオンチェーン送金額は低迷 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
