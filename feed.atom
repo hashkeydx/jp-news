@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-03-31T20:23:58.170Z</updated>
+    <updated>2024-03-31T21:18:31.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SECがイーサリアムを「証券」と分類したらどうなるのか]]></title>
+        <id>https://www.coindeskjapan.com/?p=225084</id>
+        <link href="https://www.coindeskjapan.com/225084/"/>
+        <updated>2024-03-31T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[3月20日、米証券取引委員会（SEC）がイーサリアム（ETH）を証券として再び分類しようとしている可能性が高いことが明らかになった。誰もがこのような報道を信じて ...
+SECがイーサリアムを「証券」と分類したらどうなるのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Daniel Kuhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ財団、人種差別的ミームコイン問題でフィルタリングできると主張]]></title>
         <id>https://www.coindeskjapan.com/?p=226512</id>
@@ -1045,27 +1056,6 @@ Zircuit、エコシステム貢献者に対するBuild to Earnプログラム開
         <summary type="html"><![CDATA[東京スター銀行が三井物産のデジタル証券サービス「オルタナ」導入 三井物産デジタル・アセットマネジメント（MDM）が、東京スター銀行との業務提携を3月22日発表した。 この提携によりMDMは、同社運営のデジタル証券サービス […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HSBC、トークン化ゴールドを香港の個人投資家向けに販売開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=225822</id>
-        <link href="https://www.coindeskjapan.com/225822/"/>
-        <updated>2024-03-27T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[金融大手のHSBCは、香港の個人投資家向けのトークン化ゴールド（金）を発表し、自社がブロックチェーンベースの個人投資家向け現実資産（RWA）トークンを発行した最 ...
-HSBC、トークン化ゴールドを香港の個人投資家向けに販売開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>行武 温</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分散型決済Slash Payment、独自トークンのエアドロップ対象条件を発表]]></title>
-        <id>https://coinpost.jp/?p=519580</id>
-        <link href="https://coinpost.jp/?p=519580"/>
-        <updated>2024-03-27T08:25:12.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）決済サービスSlash PaaymentのエコシステムトークンSVLについて、エアドロップの参加条件が明かされた。分散型決済エコシステムの利益が、ステーキング参加者に還元。スナップショットまでに割り当てを増やすことも可能だ。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
