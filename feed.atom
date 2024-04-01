@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-01T20:24:28.988Z</updated>
+    <updated>2024-04-01T21:21:21.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー社、ビットコイン保有が7800億円超え]]></title>
+        <id>https://coinpost.jp/?p=520762</id>
+        <link href="https://coinpost.jp/?p=520762"/>
+        <updated>2024-04-01T21:00:39.000Z</updated>
+        <summary type="html"><![CDATA[テザー社は1Qに、6.27億ドル相当の仮想通貨ビットコイン（8,888 BTC）を買い増し。同社による保有数は、75,354 BTC（8,000億円）に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しいレイヤー3チェーンのトークンが高騰──取引高は1億ドル以上]]></title>
+        <id>https://www.coindeskjapan.com/?p=226582</id>
+        <link href="https://www.coindeskjapan.com/226582/"/>
+        <updated>2024-04-01T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ（Solana）からBaseネットワークへとミームコインを追いかけるマネーは、3月28日にBaseの上に構築された、いわゆるレイヤー3ブロックチェーンであ ...
+新しいレイヤー3チェーンのトークンが高騰──取引高は1億ドル以上 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/1話題】北國銀行の預金型ステーブルコイン「トチカ」、ConsensysがSECに「現物イーサリアムETF」後押しなど]]></title>
         <id>https://www.neweconomy.jp/?p=380908</id>
@@ -867,37 +888,6 @@ FTX創業者に懲役25年の判決：米連邦検事のコメント first appea
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTとweb3ゲーム特化チェーン「WAX」がAWSと提携、「WAX AWS CDK」提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=380261</id>
-        <link href="https://www.neweconomy.jp/posts/380261"/>
-        <updated>2024-03-28T09:07:02.000Z</updated>
-        <summary type="html"><![CDATA[WAXがAWSと提携 NFTやweb3ゲームに特化したブロックチェーン「WAX」が、アマゾンウェブサービス（AWS）と提携し、同チェーン上の開発者への「WAX AWSクラウド開発キット（WAX AWS CDK）」の提供開 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインキャッシュ、半減期を前に13％上昇——ビットコインは7万ドル前後で安定]]></title>
-        <id>https://www.coindeskjapan.com/?p=226048</id>
-        <link href="https://www.coindeskjapan.com/226048/"/>
-        <updated>2024-03-28T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[不安定な1週間を過ごしたビットコイン（BTC）は、材料に乏しく、過去24時間で価格はほとんど変化しなかった。3月26日には急上昇し一時7万1000ドル（約106 ...
-ビットコインキャッシュ、半減期を前に13％上昇——ビットコインは7万ドル前後で安定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>行武 温</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分散型AIの3大プロジェクトが団結、新トークン「ASI」に統合へ]]></title>
-        <id>https://coinpost.jp/?p=519825</id>
-        <link href="https://coinpost.jp/?p=519825"/>
-        <updated>2024-03-28T08:35:14.000Z</updated>
-        <summary type="html"><![CDATA[SingularityNET、Fetch.ai、Ocean Protocolが人工超知能連合を結成し、各プロジェクトの暗号資産（仮想通貨）を新トークンASIに統合する計画を発表。単一の分散型AIネットワークとしてリニューアルを目指す。AGIの父と呼ばれるベン・ゲーツェル博士が主導する。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
