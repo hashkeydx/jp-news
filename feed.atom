@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-01T02:34:05.191Z</updated>
+    <updated>2024-04-01T03:22:46.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン週足終値71000ドル台の堅調推移、押し目買い意欲は旺盛か]]></title>
+        <id>https://coinpost.jp/?p=520495</id>
+        <link href="https://coinpost.jp/?p=520495"/>
+        <updated>2024-04-01T03:10:35.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場ではビットコインの週足終値が71000ドル台となり、2週間前の急反落水準から大幅反発している。イーサリアム（ETH）やソラナ（SOL）などの主要アルトも堅調に推移する。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソニー銀行、「デジタル証券」第2号案件の募集開始]]></title>
         <id>https://www.coindeskjapan.com/?p=226528</id>
@@ -1069,16 +1079,6 @@ Zircuit、エコシステム貢献者に対するBuild to Earnプログラム開
         <summary type="html"><![CDATA[その一方、裁判官は、コインベースが顧客が仮想通貨ウォレットアプリを利用できるようにしたときに、無登録ブローカーとして運営していたというSECの主張を取り下げることを決定した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3/27話題】ビットフライヤーがエルフトークン（ELF）取り扱い延期、米司法省がクーコインを刑事告訴など]]></title>
-        <id>https://www.neweconomy.jp/?p=380099</id>
-        <link href="https://www.neweconomy.jp/posts/380099"/>
-        <updated>2024-03-27T14:43:26.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
