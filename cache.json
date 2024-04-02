@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=226785",
+          "author": "Will Canny",
+          "description": "コインベース（Coinbase）は3月29日の調査報告で、暗号資産（仮想通貨）市場は第2四半期にプラスに転じ、以前から指摘されていた逆風は後退すると述べた。 コ ...\n暗号資産市場の第2四半期の見通しは明るい：コインベース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/226785/",
+          "publishedOn": "2024-04-02T21:00:00.000Z",
+          "wordCount": 1315,
+          "title": "暗号資産市場の第2四半期の見通しは明るい：コインベース",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/02/shutterstock_2072493677-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=226885",
           "author": "Jamie Crawley",
           "description": "コインシェアーズ（CoinShares）によると、暗号資産（仮想通貨）投資商品は、10億ドル（約1500億円、1ドル=150円換算）近い流出を記録した後の先週は ...\n暗号ファンド、先週は8億6200万ドルの資金流入： コインシェアーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -364,6 +374,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=521135",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ブリッジ大手のWormholeがリリース予定の「W」トークンはバイナンスなどに上場する予定だ。",
+          "link": "https://coinpost.jp/?p=521135",
+          "publishedOn": "2024-04-02T20:55:37.000Z",
+          "wordCount": 1913,
+          "title": "Wormholeの仮想通貨「W」、バイナンスなどに今夜上場予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/w-binance.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/w-binance.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=520994",
           "author": "AKIRA.H",
@@ -970,16 +995,6 @@
           "wordCount": 792,
           "title": "野村HDの子会社Laser Digital、ポリゴンステーキング提供の機関投資家向けファンド発表",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/29172158/f407008da21f2f7864b7811ad189c5d6.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=380578",
-          "author": "TamuraSeiji",
-          "description": "インスクリプションでBlobが渋滞へ イーサリアム（Ethereum）が先日新たに実装した機能「ブロブ（Blob）」が、インスクリプションに利用する方法が発見され、当初の予定よりネットワークが混雑している。 そもそも「イ […]",
-          "link": "https://www.neweconomy.jp/posts/380578",
-          "publishedOn": "2024-03-29T08:26:43.000Z",
-          "wordCount": 788,
-          "title": "イーサリアムの「Blob」、「インスクリプション（碑文）」に使用されネットワーク混雑",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/03/29172639/d926fedeb590eb00bfa54afacce014d1.jpg"
         }
       ]
     }
