@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-01T23:23:01.583Z</updated>
+    <updated>2024-04-02T01:30:37.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a16zのWeb3ゲーム・AIファンド、複数企業に45億円出資へ]]></title>
+        <id>https://coinpost.jp/?p=520828</id>
+        <link href="https://coinpost.jp/?p=520828"/>
+        <updated>2024-04-02T01:10:50.000Z</updated>
+        <summary type="html"><![CDATA[a16zの新プログラムはAI/インフラ、3Dツール、VR/AR、Web3ゲーム、ゲーム化された消費者向けアプリなど、テックとゲームの交差点に投資する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テザー、第1四半期に保有量を約8900BTC増やす：オンチェーンデータ]]></title>
+        <id>https://www.coindeskjapan.com/?p=226622</id>
+        <link href="https://www.coindeskjapan.com/226622/"/>
+        <updated>2024-04-02T00:57:04.000Z</updated>
+        <summary type="html"><![CDATA[アーカム・インテリジェンス（Arkham Intelligence）などのオンチェーン追跡ツールによると、時価総額で世界最大のステーブルコインであるテザー（US ...
+テザー、第1四半期に保有量を約8900BTC増やす：オンチェーンデータ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WiFi共有のDePin系プロジェクト「Roam」、ソラナブロックチェーンに移行]]></title>
+        <id>https://coinpost.jp/?p=520805</id>
+        <link href="https://coinpost.jp/?p=520805"/>
+        <updated>2024-04-01T23:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Roamとは、トークン「ROAM」の報酬を基盤とする分散型のWiFiシェアリングサービスだ。ユーザーは「MetaBlox miner」という特製のルーターを購入、あるいは自らのルーターネットワークをスマホアプリに追加し、インターネットへのアクセスシェアすることで今後ROAMトークンに変換できるポイントを稼ぐことができる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムの分散化促進などを期待　ヴィタリック、開発計画「パージ」を説明]]></title>
         <id>https://coinpost.jp/?p=520774</id>
@@ -919,17 +950,6 @@ FTX創業者に懲役25年の判決：米連邦検事のコメント first appea
         <summary type="html"><![CDATA[ソラナの仮想通貨ミームコインへの需要は未だ高い。代表的な犬系ミームコイン「WIF」は29日過去最高値を更新し、前日比で20%上昇している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーン上でトークン化された米国債が10億ドルを突破]]></title>
-        <id>https://www.coindeskjapan.com/?p=226094</id>
-        <link href="https://www.coindeskjapan.com/226094/"/>
-        <updated>2024-03-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トークン化された米国債の市場が活況を呈している。 イーサリアム（Ethereum）、ポリゴン（Polygon）、アバランチ（Avalanche）、ステラ（Ste ...
-ブロックチェーン上でトークン化された米国債が10億ドルを突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
