@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-05T21:19:43.928Z</updated>
+    <updated>2024-04-05T22:25:08.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Citiやゴールドマン、ブラックロックのビットコインETFのマーケットメイカーに]]></title>
+        <id>https://coinpost.jp/?p=522163</id>
+        <link href="https://coinpost.jp/?p=522163"/>
+        <updated>2024-04-05T21:55:09.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨業界につきまとう悪い評判などがあるため、これらの企業は数週間にわたり、ETFへの参加を公言せずにETFに流動性を提供していた可能性があったようだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナNFT電子市場Tensorのガバナンストークン、コインベース上場予定]]></title>
         <id>https://coinpost.jp/?p=522147</id>
@@ -1420,37 +1430,6 @@ DAOの資金調達が可能に──府令改正に合わせて「日本DAO協�
 新しいレイヤー3チェーンのトークンが高騰──取引高は1億ドル以上 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/1話題】北國銀行の預金型ステーブルコイン「トチカ」、ConsensysがSECに「現物イーサリアムETF」後押しなど]]></title>
-        <id>https://www.neweconomy.jp/?p=380908</id>
-        <link href="https://www.neweconomy.jp/posts/380908"/>
-        <updated>2024-04-01T10:18:35.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは7万ドル前後で推移──市場は半減期を注視か]]></title>
-        <id>https://www.coindeskjapan.com/?p=226568</id>
-        <link href="https://www.coindeskjapan.com/226568/"/>
-        <updated>2024-04-01T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）とイーサリアム（ETH）は、イースターの週末に世界中の多くの主要な金融センターが閉鎖されていたため、大きな動きを見せずに月曜日の取引が始ま ...
-ビットコインは7万ドル前後で推移──市場は半減期を注視か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリックがL2の内部スケーリングや並列処理に注目したブログ投稿]]></title>
-        <id>https://www.neweconomy.jp/?p=380917</id>
-        <link href="https://www.neweconomy.jp/posts/380917"/>
-        <updated>2024-04-01T09:40:36.000Z</updated>
-        <summary type="html"><![CDATA[ヴィタリックがDencunを経てブログを投稿 イーサリアム（Ethereum）の共同創業者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、L2ネットワークでの内部スケーリングとトランザクションの並列処 […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
