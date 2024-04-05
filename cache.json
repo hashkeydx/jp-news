@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=227299",
+          "author": "CoinDesk JAPAN",
+          "description": "マツダは4月5日、同社初のデジタルアートコレクション「Meta-Mazda」をローンチした。 ローンチをサポートした博報堂キースリーのリリースによると「Meta ...\nマツダ、初のデジタルアートコレクション「Meta−Mazda」ローンチ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/227299/",
+          "publishedOn": "2024-04-05T01:15:00.000Z",
+          "wordCount": 1231,
+          "title": "マツダ、初のデジタルアートコレクション「Meta−Mazda」ローンチ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/image002.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=227355",
+          "author": "増田 隆幸",
+          "description": "エンタープライズ用途に特化したブロックチェーンサービスで、XRP Ledgerを手がけるリップル（Ripple）は、米ドルに連動した独自のステーブルコインの開発 ...\nリップル、ステーブルコイン参入──「市場を勝ち取る」と同社CTO first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/227355/",
+          "publishedOn": "2024-04-05T00:54:49.000Z",
+          "wordCount": 1259,
+          "title": "リップル、ステーブルコイン参入──「市場を勝ち取る」と同社CTO",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/shutterstock_2171890629-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=227232",
           "author": "Peter Gaffney",
           "description": "ブラックロック（BlackRock）とセキュリタイズ（Securitize）が連携してデジタル資産ファンドを立ち上げるというニュースは、米国内で認可され、規制を ...\nブラックロックが行くところ、流動性が流れる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -544,6 +564,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=521969",
+          "author": "A.Yamada",
+          "description": "JPモルガンのアナリストは、仮想通貨イーサリアムが今後米SECによって証券として分類される可能性が以前より低くなったと論じている。",
+          "link": "https://coinpost.jp/?p=521969",
+          "publishedOn": "2024-04-05T00:45:49.000Z",
+          "wordCount": 2408,
+          "title": "「SECがイーサリアムを有価証券とみなす確率は低下」JPモルガン",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/ethereum23414-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/ethereum23414-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=521959",
+          "author": "菊谷ルイス",
+          "description": "ローンチ以来、ソラナ基盤のPhoenixでの累計出来高は200億ドル（3兆円）を超えている。TVLに関しては、1,430万ドルの資産が流動性として提供されている。",
+          "link": "https://coinpost.jp/?p=521959",
+          "publishedOn": "2024-04-04T23:35:58.000Z",
+          "wordCount": 2410,
+          "title": "分散型取引所Phoenixの開発企業Ellipsis、パラダイムなどから30億調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/fire-bird-reborn.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/fire-bird-reborn.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=521942",
           "author": "K.Kobayashi",
