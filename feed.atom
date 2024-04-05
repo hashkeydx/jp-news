@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-05T20:22:17.157Z</updated>
+    <updated>2024-04-05T21:19:43.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナNFT電子市場Tensorのガバナンストークン、コインベース上場予定]]></title>
+        <id>https://coinpost.jp/?p=522147</id>
+        <link href="https://coinpost.jp/?p=522147"/>
+        <updated>2024-04-05T21:00:57.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ基盤のエアドロップに関しては、今週仮想通貨「W」トークンと、「ZEUS」トークンが配布された。4月はParclなどのエアドロップも予定されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/5話題】リップルが米ドル連動ステーブルコインを年内発行、バイナンスがビットコインNFTサポート終了など]]></title>
         <id>https://www.neweconomy.jp/?p=382055</id>
@@ -1441,17 +1451,6 @@ DAOの資金調達が可能に──府令改正に合わせて「日本DAO協�
         <summary type="html"><![CDATA[ヴィタリックがDencunを経てブログを投稿 イーサリアム（Ethereum）の共同創業者であるヴィタリック・ブテリン（Vitalik Buterin）氏が、L2ネットワークでの内部スケーリングとトランザクションの並列処 […]]]></summary>
         <author>
             <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所・販売所　キャンペーン更新情報まとめ（2024年4月前半）]]></title>
-        <id>https://www.coindeskjapan.com/?p=225785</id>
-        <link href="https://www.coindeskjapan.com/225785/"/>
-        <updated>2024-04-01T08:25:17.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産の取引所・販売所3社で3月から引き続き開催されているキャンペーンと4月から開催されるキャンペーンをまとめた。 各キャンペーンは別途エントリー（申し込み） ...
-暗号資産取引所・販売所　キャンペーン更新情報まとめ（2024年4月前半） first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk Japan</name>
         </author>
     </entry>
 </feed>
