@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-07T23:22:09.127Z</updated>
+    <updated>2024-04-08T01:29:10.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BNBチェーンの収益指標、前四半期比70％増の成長を遂げる]]></title>
+        <id>https://coinpost.jp/?p=522537</id>
+        <link href="https://coinpost.jp/?p=522537"/>
+        <updated>2024-04-08T01:05:19.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムL2ネットワーク「BNBチェーン」は2024年第1四半期に収益が70％以上増加した。トークン所有者が増え、預け入れ総額（TVL）は約9,600億円に到達している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップルのステーブルコイン参入、XRPへの影響は？]]></title>
         <id>https://www.coindeskjapan.com/?p=227463</id>
@@ -912,16 +922,6 @@ HIS、ご当地VTuberのNFTを発売──旅の新たな価値体験を創造 f
 ビットコインETF、アーク21シェアーズの流出がグレイスケールを初めて上回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/3話題】Wormholeの独自トークン「W」が本日エアドロ、パラダイムが新ファンド組成で7.5億ドル調達かなど]]></title>
-        <id>https://www.neweconomy.jp/?p=381448</id>
-        <link href="https://www.neweconomy.jp/posts/381448"/>
-        <updated>2024-04-03T12:30:55.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
