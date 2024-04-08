@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-08T21:20:23.593Z</updated>
+    <updated>2024-04-08T22:27:37.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国資産運用会社による香港でのビットコインETF上場申請が急増]]></title>
+        <id>https://coinpost.jp/?p=522783</id>
+        <link href="https://coinpost.jp/?p=522783"/>
+        <updated>2024-04-08T21:25:41.000Z</updated>
+        <summary type="html"><![CDATA[香港を除く中国本土では、以前ビットコインの取引やマイニングを取り締まっており、今もなお否定的である一方で、経済システムが異なる香港の政府は仮想通貨セクターに対してよりオープンなアプローチを採用し、中国のファンドの注目を集めた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの半減はボラティリティ・イベントではない：アナリストが指摘]]></title>
         <id>https://www.coindeskjapan.com/?p=227707</id>
@@ -783,16 +793,6 @@ FRB連銀総裁のタカ派コメントで株価が反落でもビットコイ�
 ナイジェリアの裁判所、バイナンスと幹部2人に対する審理を延期 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Camomile Shumba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/4話題】ギャラクシーデジタルが1億ドル規模の暗号資産ファンドか、HISが「Astar zkEVM」採用など]]></title>
-        <id>https://www.neweconomy.jp/?p=381833</id>
-        <link href="https://www.neweconomy.jp/posts/381833"/>
-        <updated>2024-04-04T09:40:36.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
