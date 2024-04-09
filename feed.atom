@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-08T23:23:47.815Z</updated>
+    <updated>2024-04-09T01:25:38.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[控訴裁、仮想通貨取引所コインベースに軍配]]></title>
+        <id>https://coinpost.jp/?p=522838</id>
+        <link href="https://coinpost.jp/?p=522838"/>
+        <updated>2024-04-09T00:40:04.000Z</updated>
+        <summary type="html"><![CDATA[米国の控訴裁判所は、米仮想通貨取引所コインベースに対する集団訴訟を再開した。一部コインベースに有利な見解を示している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブータン王国がビットコイン（BTC）のマイニング能力を6倍へ、半減期の影響に向け]]></title>
+        <id>https://www.neweconomy.jp/?p=382404</id>
+        <link href="https://www.neweconomy.jp/posts/382404"/>
+        <updated>2024-04-08T23:44:30.000Z</updated>
+        <summary type="html"><![CDATA[ブータン王国がBTCマイニング能力を6倍へ ブータン王国の王立政府投資部門「DHI（Druk Holding & Investments）」が、暗号資産（仮想通貨）マイニングプラットフォーム「ビットディア（Bit […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワールドコインの新たなライバル、TONソサエティが手のひら認証プロジェクトでAI企業と提携]]></title>
         <id>https://coinpost.jp/?p=522818</id>
@@ -813,17 +833,6 @@ FRB連銀総裁のタカ派コメントで株価が反落でもビットコイ�
         <summary type="html"><![CDATA[暗号資産（仮想通貨）SUIの基盤技術を手掛けるMysten Labsの共同創設者、Kostas Kryptos氏がAI監査ツールの開発を発表。この技術はオープンソースプロジェクトのバグ検出を目的とし、ブロックチェーンセキュリティを強化する。詳細はGoogle Cloud Nextで披露される。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナイジェリアの裁判所、バイナンスと幹部2人に対する審理を延期]]></title>
-        <id>https://www.coindeskjapan.com/?p=227327</id>
-        <link href="https://www.coindeskjapan.com/227327/"/>
-        <updated>2024-04-04T12:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ナイジェリアの首都アブジャにある連邦高等裁判所は、当局に拘束された暗号資産（仮想通貨）取引所バイナンス（Binance）とその幹部2名に対する税務当局による訴訟 ...
-ナイジェリアの裁判所、バイナンスと幹部2人に対する審理を延期 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Camomile Shumba</name>
         </author>
     </entry>
 </feed>
