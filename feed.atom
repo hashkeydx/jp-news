@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-09T08:25:45.829Z</updated>
+    <updated>2024-04-09T09:23:22.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベースのL2で拡がる詐欺リスク　基本的な安全対策に欠けるミームコイン乱立か]]></title>
+        <id>https://coinpost.jp/?p=522981</id>
+        <link href="https://coinpost.jp/?p=522981"/>
+        <updated>2024-04-09T09:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Coinbaseのレイヤー2でのセキュリティ課題を暴く独自調査。暗号資産（仮想通貨）の一種「ミームコイン」に分類されるプロジェクトの多くで、安全対策不足が明らかに。詐欺リスクと対策の欠如を分析。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピカソネットワーク、コスモスとイーサリアム間での資産移動を可能に]]></title>
         <id>https://www.neweconomy.jp/?p=382632</id>
@@ -997,37 +1007,6 @@ FRB連銀総裁のタカ派コメントで株価が反落でもビットコイ�
 ワームホールの独自トークン「W」、週に999％以上のステーキング報酬が発生 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKXなど、ソラナとビットコインの通信プロトコル「Zeus」を新規上場]]></title>
-        <id>https://coinpost.jp/?p=521912</id>
-        <link href="https://coinpost.jp/?p=521912"/>
-        <updated>2024-04-04T21:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Zeus Networkは昨夜トークンの正式ローンチを行い、エアドロップおよびトークンセールを実施。現在、7.55億ドルの時価総額として、0.755ドルで取引されている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムのレイヤー2ネットワークは2030年までに1兆ドルの評価額を得る：VanEck]]></title>
-        <id>https://www.coindeskjapan.com/?p=227285</id>
-        <link href="https://www.coindeskjapan.com/227285/"/>
-        <updated>2024-04-04T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[投資会社のVanEckは、イーサリアム（Ethereum）のレイヤー2ネットワークは、ベースケースシナリオでは2023年までに1兆ドル（約150兆円、1ドル=1 ...
-イーサリアムのレイヤー2ネットワークは2030年までに1兆ドルの評価額を得る：VanEck first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社、米ドルステーブルコイン発行へ]]></title>
-        <id>https://coinpost.jp/?p=521898</id>
-        <link href="https://coinpost.jp/?p=521898"/>
-        <updated>2024-04-04T20:51:05.000Z</updated>
-        <summary type="html"><![CDATA[このステーブルコインの裏付け資産は、米ドル預金・米国政府の短期国債・その他の現金同等物が採用され、第三者の会計事務所によって監査され、リップル社は毎月証明書を発行するという。この仕組みは、USDCやUSDTに類似。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

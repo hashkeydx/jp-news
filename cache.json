@@ -340,16 +340,6 @@
           "wordCount": 1258,
           "title": "ワームホールの独自トークン「W」、週に999％以上のステーキング報酬が発生",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/PEESO3VNL5FXZFK6ULXMCZVRJQ.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=227285",
-          "author": "Shaurya Malwa",
-          "description": "投資会社のVanEckは、イーサリアム（Ethereum）のレイヤー2ネットワークは、ベースケースシナリオでは2023年までに1兆ドル（約150兆円、1ドル=1 ...\nイーサリアムのレイヤー2ネットワークは2030年までに1兆ドルの評価額を得る：VanEck first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/227285/",
-          "publishedOn": "2024-04-04T21:00:00.000Z",
-          "wordCount": 1296,
-          "title": "イーサリアムのレイヤー2ネットワークは2030年までに1兆ドルの評価額を得る：VanEck",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/shutterstock_2236932923.jpg"
         }
       ]
     },
@@ -364,6 +354,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=522981",
+          "author": "AKIRA.H",
+          "description": "Coinbaseのレイヤー2でのセキュリティ課題を暴く独自調査。暗号資産（仮想通貨）の一種「ミームコイン」に分類されるプロジェクトの多くで、安全対策不足が明らかに。詐欺リスクと対策の欠如を分析。",
+          "link": "https://coinpost.jp/?p=522981",
+          "publishedOn": "2024-04-09T09:03:38.000Z",
+          "wordCount": 2423,
+          "title": "コインベースのL2で拡がる詐欺リスク　基本的な安全対策に欠けるミームコイン乱立か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/turtle-scam-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/turtle-scam-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=522948",
           "author": "AKIRA.H",
@@ -918,36 +923,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bitcoin-halving-buy-from-miners.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bitcoin-halving-buy-from-miners.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=521912",
-          "author": "菊谷ルイス",
-          "description": "Zeus Networkは昨夜トークンの正式ローンチを行い、エアドロップおよびトークンセールを実施。現在、7.55億ドルの時価総額として、0.755ドルで取引されている。",
-          "link": "https://coinpost.jp/?p=521912",
-          "publishedOn": "2024-04-04T21:20:38.000Z",
-          "wordCount": 2444,
-          "title": "OKXなど、ソラナとビットコインの通信プロトコル「Zeus」を新規上場",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/zeus-airdrop.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/zeus-airdrop.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=521898",
-          "author": "菊谷ルイス",
-          "description": "このステーブルコインの裏付け資産は、米ドル預金・米国政府の短期国債・その他の現金同等物が採用され、第三者の会計事務所によって監査され、リップル社は毎月証明書を発行するという。この仕組みは、USDCやUSDTに類似。",
-          "link": "https://coinpost.jp/?p=521898",
-          "publishedOn": "2024-04-04T20:51:05.000Z",
-          "wordCount": 2386,
-          "title": "リップル社、米ドルステーブルコイン発行へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_1.jpg"
         }
       ]
     },
