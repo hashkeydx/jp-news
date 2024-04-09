@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-09T01:25:38.293Z</updated>
+    <updated>2024-04-09T02:28:50.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナイジェリアで拘束のバイナンス幹部、マネーロンダリング容疑で無罪を主張：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=227748</id>
+        <link href="https://www.coindeskjapan.com/227748/"/>
+        <updated>2024-04-09T01:44:08.000Z</updated>
+        <summary type="html"><![CDATA[同僚とともに2月にナイジェリア当局に拘束された暗号資産（仮想通貨）取引所バイナンス（Binance）幹部のティグラン・ガンバリャン（Tigran Gambary ...
+ナイジェリアで拘束のバイナンス幹部、マネーロンダリング容疑で無罪を主張：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[控訴裁、仮想通貨取引所コインベースに軍配]]></title>
         <id>https://coinpost.jp/?p=522838</id>
@@ -823,16 +834,6 @@ FRB連銀総裁のタカ派コメントで株価が反落でもビットコイ�
         <summary type="html"><![CDATA[このステーブルコインの裏付け資産は、米ドル預金・米国政府の短期国債・その他の現金同等物が採用され、第三者の会計事務所によって監査され、リップル社は毎月証明書を発行するという。この仕組みは、USDCやUSDTに類似。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui開発のMysten Labs  AI監査ツールの開発を発表]]></title>
-        <id>https://coinpost.jp/?p=521743</id>
-        <link href="https://coinpost.jp/?p=521743"/>
-        <updated>2024-04-04T13:36:46.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）SUIの基盤技術を手掛けるMysten Labsの共同創設者、Kostas Kryptos氏がAI監査ツールの開発を発表。この技術はオープンソースプロジェクトのバグ検出を目的とし、ブロックチェーンセキュリティを強化する。詳細はGoogle Cloud Nextで披露される。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
