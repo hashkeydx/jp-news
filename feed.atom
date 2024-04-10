@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-10T10:28:57.145Z</updated>
+    <updated>2024-04-10T11:21:30.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/10話題】スイス中銀総裁が個人向けデジタル通貨に反対、BTC購入発表メタプラネットの株価90%上昇など]]></title>
+        <id>https://www.neweconomy.jp/?p=382915</id>
+        <link href="https://www.neweconomy.jp/posts/382915"/>
+        <updated>2024-04-10T11:20:30.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1ブロックチェーン「Saga」メインネット立ち上げ、独自トークン「SAGA」エアドロップへ]]></title>
+        <id>https://www.neweconomy.jp/?p=382940</id>
+        <link href="https://www.neweconomy.jp/posts/382940"/>
+        <updated>2024-04-10T11:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Sagaがメインネット立ち上げ 独自L1ブロックチェーン開発用プロトコル 「サーガ（Saga）」が、メインネットのローンチ及び独自トークン「SAGA」のエアドロップ予定を4月9日発表した。 「サーガ」はスマートコントラク […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのブレイクアウトは一旦停止──アメリカのCPI発表を控えて]]></title>
         <id>https://www.coindeskjapan.com/?p=228060</id>
@@ -975,37 +995,6 @@ ENA、15%上昇——エセナ・ラボがステーキング報酬を増額 firs
 暗号資産に「乗り遅れた」と感じている人へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>山口 晶子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナネットワーク処理遅延、PoWマイニング「Ore」が影響もたらす]]></title>
-        <id>https://coinpost.jp/?p=522179</id>
-        <link href="https://coinpost.jp/?p=522179"/>
-        <updated>2024-04-05T23:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Oreとは、4月3日にローンチされた、ソラナ上のPoWマイニングプロジェクト。従来の仮想通貨マイニング手法と異なり、ビットコインマイナーのように同じ複雑なパズルを競って解くのではなく各マイナーにユニークなパズルを割り当てる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、4年サイクルは終わりか／「デジタルゴールド」の次は「インターネット債券」【週末に読みたい厳選10本】]]></title>
-        <id>https://www.coindeskjapan.com/?p=227528</id>
-        <link href="https://www.coindeskjapan.com/227528/"/>
-        <updated>2024-04-05T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最も興味をそそられるのは、半減期の予期せぬ副次的効果かもしれない。歴史的には強気サイクルの原動力となってきたが、半減期の影響は、150億ドルを超える驚異的なET ...
-ビットコイン、4年サイクルは終わりか／「デジタルゴールド」の次は「インターネット債券」【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーンの処理が停滞　イーサリアムL2のStarknetで「Reorg」発生]]></title>
-        <id>https://coinpost.jp/?p=522158</id>
-        <link href="https://coinpost.jp/?p=522158"/>
-        <updated>2024-04-05T22:30:24.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーンの処理が停滞していたことを、仮想通貨イーサリアムのL2「Starknet」が公表。エクスプローラーによれば、ブロック生成に4時間あいていた時がある。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
