@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-10T02:30:46.043Z</updated>
+    <updated>2024-04-10T03:23:46.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サークル「USDC」、イーサL2「zkSync」にネイティブ対応へ]]></title>
+        <id>https://www.neweconomy.jp/?p=382803</id>
+        <link href="https://www.neweconomy.jp/posts/382803"/>
+        <updated>2024-04-10T02:58:17.000Z</updated>
+        <summary type="html"><![CDATA[USDCがzkSyncにネイティブ対応へ 米サークル（Circle Internet Financial）発行の米ドルステーブルコイン「USD Coin（USDC）」のネイティブ版トークンが、「zkSync Era（ジー […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムリステーキング革命、EigenLayerのメインネットローンチ]]></title>
+        <id>https://coinpost.jp/?p=523109</id>
+        <link href="https://coinpost.jp/?p=523109"/>
+        <updated>2024-04-10T02:38:19.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのリステーキングを提供するEigenLayerは、ETHメインネット上でEigenLayerとEigenDAをローンチしたと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スイス中銀総裁、個人向けデジタル通貨に反対。金融システムに影響大]]></title>
         <id>https://www.neweconomy.jp/?p=382796</id>

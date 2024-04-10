@@ -295,6 +295,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=523109",
+          "author": "A.Yamada",
+          "description": "仮想通貨イーサリアムのリステーキングを提供するEigenLayerは、ETHメインネット上でEigenLayerとEigenDAをローンチしたと発表した。",
+          "link": "https://coinpost.jp/?p=523109",
+          "publishedOn": "2024-04-10T02:38:19.000Z",
+          "wordCount": 2374,
+          "title": "イーサリアムリステーキング革命、EigenLayerのメインネットローンチ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/eigen-mainnet.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/eigen-mainnet.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=523077",
           "author": "A.Yamada",
           "description": "ブロックチェーンゲーム企業Gunzilla Gamesは、大手NFT市場OpenSeaとの提携を発表。ゲーム内NFTを透明性の高いマーケットで取引できるようにする。",
@@ -811,6 +826,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=382803",
+          "author": "OtsugaShinya",
+          "description": "USDCがzkSyncにネイティブ対応へ 米サークル（Circle Internet Financial）発行の米ドルステーブルコイン「USD Coin（USDC）」のネイティブ版トークンが、「zkSync Era（ジー […]",
+          "link": "https://www.neweconomy.jp/posts/382803",
+          "publishedOn": "2024-04-10T02:58:17.000Z",
+          "wordCount": 805,
+          "title": "サークル「USDC」、イーサL2「zkSync」にネイティブ対応へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/10115805/USDC-240410Vit_Mar.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=382796",
           "author": "NewEconomy",
