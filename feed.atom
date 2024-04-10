@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-10T09:23:33.074Z</updated>
+    <updated>2024-04-10T10:28:57.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのブレイクアウトは一旦停止──アメリカのCPI発表を控えて]]></title>
+        <id>https://www.coindeskjapan.com/?p=228060</id>
+        <link href="https://www.coindeskjapan.com/228060/"/>
+        <updated>2024-04-10T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、アメリカ連邦準備制度理事会（FRB）の利下げ開始時期を左右する可能性のあるインフレデータの発表を前に、過去24時間で3％下落し、強気の ...
+ビットコインのブレイクアウトは一旦停止──アメリカのCPI発表を控えて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アスターの「Astar zkEVM」でネットワーク巻き戻し発生、一部資金がロック中]]></title>
         <id>https://www.neweconomy.jp/?p=382928</id>
@@ -995,16 +1006,6 @@ ENA、15%上昇——エセナ・ラボがステーキング報酬を増額 firs
         <summary type="html"><![CDATA[ブロックチェーンの処理が停滞していたことを、仮想通貨イーサリアムのL2「Starknet」が公表。エクスプローラーによれば、ブロック生成に4時間あいていた時がある。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citiやゴールドマン、ブラックロックのビットコインETFのマーケットメイカーに]]></title>
-        <id>https://coinpost.jp/?p=522163</id>
-        <link href="https://coinpost.jp/?p=522163"/>
-        <updated>2024-04-05T21:55:09.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨業界につきまとう悪い評判などがあるため、これらの企業は数週間にわたり、ETFへの参加を公言せずにETFに流動性を提供していた可能性があったようだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
