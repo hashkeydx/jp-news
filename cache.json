@@ -305,6 +305,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=523175",
+          "author": "幸田直子",
+          "description": "仮想通貨取引所BitMEXの創業者のアーサー・ヘイズは、 仮想通貨市場はビットコイン半減期前後に売り圧力に晒されるだろうとの見解を示し、その根拠を述べた。",
+          "link": "https://coinpost.jp/?p=523175",
+          "publishedOn": "2024-04-10T05:05:11.000Z",
+          "wordCount": 2382,
+          "title": "「ビットコインは半減期前後に投げ売りされる可能性がある」BitMEX創業者アーサー・ヘイズが警鐘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitcoinlaser0608211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitcoinlaser0608211.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=523109",
           "author": "A.Yamada",
           "description": "仮想通貨イーサリアムのリステーキングを提供するEigenLayerは、ETHメインネット上でEigenLayerとEigenDAをローンチしたと発表した。",
@@ -836,6 +851,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=382860",
+          "author": "gentosha_takahashi",
+          "description": "5月まで取引を控える 暗号資産（仮想通貨）取引所ビットメックス（BitMEX）の共同創業者で元CEOのアーサー・ヘイズ（Arthur Hayes）氏が、ビットコインの半減期前後である4月後半に、ビットコインを含む暗号資産 […]",
+          "link": "https://www.neweconomy.jp/posts/382860",
+          "publishedOn": "2024-04-10T05:05:32.000Z",
+          "wordCount": 640,
+          "title": "アーサーヘイズ、「ビットコイン半減期」前後での暗号資産価格の低迷予想",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/10140341/72d536432c7848970531bba50aebda18.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=382850",
+          "author": "OtsugaShinya",
+          "description": "ハッシュキーが独自L2チェーン開発へ ハッシュキーグループ（HashKey Group）が、独自のイーサリアム（Ethereum）のレイヤー2ネットワークの立ち上げ予定を4月9日発表した。 ハッシュキーによるL2ネットワ […]",
+          "link": "https://www.neweconomy.jp/posts/382850",
+          "publishedOn": "2024-04-10T04:46:30.000Z",
+          "wordCount": 821,
+          "title": "香港ハッシュキー、独自のイーサリアムL2「HashKey Chain」開発へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/10134605/8990c1237c6b7d8a46fd4badd5dece70.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=382809",
           "author": "OtsugaShinya",
