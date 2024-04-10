@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-09T23:23:01.481Z</updated>
+    <updated>2024-04-10T01:21:19.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[利回り提供のビットコイン「経済レイヤー」、Mezoが約32億円調達]]></title>
+        <id>https://coinpost.jp/?p=523071</id>
+        <link href="https://coinpost.jp/?p=523071"/>
+        <updated>2024-04-10T00:50:52.000Z</updated>
+        <summary type="html"><![CDATA[Mezoは仮想通貨ビットコインの「経済レイヤー」と呼ばれ、食料品から学費まで25%の世界経済をオンチェーンにもたらし、ユーザーの経済的ニーズに基づいたアプリケーションにおけるエコシステムを構築することにフォーカス。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年最大の調達額に、ソラナキラーMonadが340億円調達に成功]]></title>
+        <id>https://coinpost.jp/?p=523064</id>
+        <link href="https://coinpost.jp/?p=523064"/>
+        <updated>2024-04-09T23:20:32.000Z</updated>
+        <summary type="html"><![CDATA[実際調達した金額は、先月報道された交渉段階の2億ドルを上回っており、「ネクスト・ソラナ」を探る投資家による高い需要を反映した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半減期まであと10日、ビットコイン利確売りは減少傾向に＝Glassnode]]></title>
+        <id>https://coinpost.jp/?p=523049</id>
+        <link href="https://coinpost.jp/?p=523049"/>
+        <updated>2024-04-09T22:50:50.000Z</updated>
+        <summary type="html"><![CDATA[半減期迫る仮想通貨ビットコインの相場について、利益確定の売りが減少傾向にあるとGlassnodeが指摘。価格が下落する調整局面についても分析している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコインは国境を越えた決済手段として採用されつつある：バーンスタイン]]></title>
         <id>https://www.coindeskjapan.com/?p=227910</id>
@@ -15,6 +45,16 @@
 ステーブルコインは国境を越えた決済手段として採用されつつある：バーンスタイン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナの混雑軽減策、メインネットで承認]]></title>
+        <id>https://coinpost.jp/?p=523043</id>
+        <link href="https://coinpost.jp/?p=523043"/>
+        <updated>2024-04-09T22:25:59.000Z</updated>
+        <summary type="html"><![CDATA[混雑を引き起こした1つの要因である仮想通貨「オーア」採掘プログラムは9日、ソラナ上で最も使用されるプログラムとなっていた。ユーザー総数は、124,865で、合計取引数は1,200万以上を記録したという。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -780,16 +820,6 @@ ENA、15%上昇——エセナ・ラボがステーキング報酬を増額 firs
         <summary type="html"><![CDATA[ソラナ基盤のエアドロップに関しては、今週仮想通貨「W」トークンと、「ZEUS」トークンが配布された。4月はParclなどのエアドロップも予定されている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/5話題】リップルが米ドル連動ステーブルコインを年内発行、バイナンスがビットコインNFTサポート終了など]]></title>
-        <id>https://www.neweconomy.jp/?p=382055</id>
-        <link href="https://www.neweconomy.jp/posts/382055"/>
-        <updated>2024-04-05T11:47:48.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
