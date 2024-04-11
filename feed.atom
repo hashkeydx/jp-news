@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-11T13:23:27.747Z</updated>
+    <updated>2024-04-11T14:25:39.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[a16z crypto、ゼロ知識証明を用いたソリューション「Jolt」リリース]]></title>
+        <id>https://www.neweconomy.jp/?p=383417</id>
+        <link href="https://www.neweconomy.jp/posts/383417"/>
+        <updated>2024-04-11T13:55:55.000Z</updated>
+        <summary type="html"><![CDATA[a16z cryptoがゼロ知識証明を用いたソリューション公開 米大手ベンチャーキャピタル「アンドリーセン・ホロウィッツ（Andreessen Horowitz：a16z）」のweb3関連投資部門a16z cryptoが […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グレースケールのビットコインETF、1日の流出額が過去最低の1800万ドルに]]></title>
         <id>https://www.coindeskjapan.com/?p=228379</id>
@@ -1264,16 +1274,6 @@ ENA、15%上昇——エセナ・ラボがステーキング報酬を増額 firs
         <summary type="html"><![CDATA[上値の重い展開で始まるも、週後半からは戻りを試す展開となっているのビットコイン相場。半減期も近づく中、今後の展望について、国内大手取引所bitbankのアナリストが今後の展望を読み解く。オンチェーンデータも掲載。]]></summary>
         <author>
             <name>A.Sakamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊仮想通貨ニュース（+アジア特集）｜米政府のビットコイン大量送金やビットコインキャッシュの半減期に高い関心]]></title>
-        <id>https://coinpost.jp/?p=522180</id>
-        <link href="https://coinpost.jp/?p=522180"/>
-        <updated>2024-04-07T02:00:28.000Z</updated>
-        <summary type="html"><![CDATA[今週は、米政府のものとされる仮想通貨ウォレットからのビットコイン大量送金、ビットコインキャッシュの半減期完了、リップル社のステーブルコイン発行計画に関する記事が最も関心を集めた。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
