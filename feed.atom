@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-12T21:18:33.089Z</updated>
+    <updated>2024-04-12T22:23:18.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「仮想通貨取引の申告分離課税検討すべき」自民党web3PTの新ホワイトペーパー]]></title>
+        <id>https://coinpost.jp/?p=524058</id>
+        <link href="https://coinpost.jp/?p=524058"/>
+        <updated>2024-04-12T22:05:19.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引を申告分離課税の対象にすることを検討すべきなどの提言を盛り込んだホワイトペーパーを自民党web3PTが公開。DAOやNFTなど、ほかにも様々な提言を行なっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港のビットコイン現物ETF、中国から巨額資金流入の見込み]]></title>
+        <id>https://coinpost.jp/?p=524057</id>
+        <link href="https://coinpost.jp/?p=524057"/>
+        <updated>2024-04-12T21:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Matrixportの分析によると、香港の仮想通貨ETFは中国本土の投資家から年間最大250億ドルの需要を引き出せる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVM互換L1「Berachain」、シリーズBで153億円調達]]></title>
         <id>https://coinpost.jp/?p=524052</id>
@@ -1424,38 +1444,6 @@ ENA、15%上昇——エセナ・ラボがステーキング報酬を増額 firs
 ビットコインが三角保合いを突破、8万ドルまで上昇する可能性： テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産関連企業の株価も上昇──ビットコインが3月中旬以来の7万2000ドル突破]]></title>
-        <id>https://www.coindeskjapan.com/?p=227690</id>
-        <link href="https://www.coindeskjapan.com/227690/"/>
-        <updated>2024-04-08T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が3月中旬以来初めて7万2000ドルを突破し、さらにマイニング報酬の半減が近づいていることから、アメリカの暗号資産（仮想通貨）関連企業の株 ...
-暗号資産関連企業の株価も上昇──ビットコインが3月中旬以来の7万2000ドル突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sheldon Reback</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、7万2000ドルを超える──OrdinalsやBRC-20トークンも上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=227675</id>
-        <link href="https://www.coindeskjapan.com/227675/"/>
-        <updated>2024-04-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、4月20日に予想されるマイニング報酬の半減を前に、4月8日のアジア取引時間中に7万1000ドルを突破し、記事執筆時点では3月以来の7万 ...
-ビットコイン、7万2000ドルを超える──OrdinalsやBRC-20トークンも上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/8話題】ソニー銀行がPolygon PoSでステーブルコイン、韓国がハッキング暗号資産の上場禁止ガイドラインなど]]></title>
-        <id>https://www.neweconomy.jp/?p=382400</id>
-        <link href="https://www.neweconomy.jp/posts/382400"/>
-        <updated>2024-04-08T09:32:29.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
