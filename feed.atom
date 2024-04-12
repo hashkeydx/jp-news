@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-12T20:20:07.662Z</updated>
+    <updated>2024-04-12T21:18:33.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EVM互換L1「Berachain」、シリーズBで153億円調達]]></title>
+        <id>https://coinpost.jp/?p=524052</id>
+        <link href="https://coinpost.jp/?p=524052"/>
+        <updated>2024-04-12T21:10:28.000Z</updated>
+        <summary type="html"><![CDATA[ユーザーはBerachainの「プルーフオブ・リクイディティ」のもとで、ネイティブSwap機能からガストークンBERAを取得し流動性を提供することで、ステーブルコインHONEYをミントしたり、ガバナンストークンBGTを獲得したりすることができる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自民党web3PT「web3ホワイトペーパー ～ 新たなテクノロジーが社会基盤となる時代へ ～」を公開]]></title>
         <id>https://www.coindeskjapan.com/?p=228698</id>
