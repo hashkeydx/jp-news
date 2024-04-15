@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=228939",
+          "author": "Shaurya Malwa",
+          "description": "初期の暗号資産（仮想通貨）マイナーが、14年間保有していた「サトシ時代」の50ビットコイン（BTC）を4月15日に移動させたことがデータで明らかになった。 15 ...\n初期のビットコインマイナーが「サトシ時代」の50BTCを14年振りに移動 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/228939/",
+          "publishedOn": "2024-04-15T22:30:00.000Z",
+          "wordCount": 1230,
+          "title": "初期のビットコインマイナーが「サトシ時代」の50BTCを14年振りに移動",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/Satoshi_Nakamoto-t.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=228918",
           "author": "Camomile Shumba",
           "description": "英国政府は、6月か7月までに、ステーブルコインと暗号資産のステーキング、取引、カストディに関する法案を議会に提出する予定だと、財務省のビム・アフォラミ（Bim  ...\nイギリス政府、暗号資産とステーブルコインに関する新しい法案を提出へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -400,16 +410,6 @@
           "wordCount": 1274,
           "title": "グレースケールのビットコインETF、1日の流出額が過去最低の1800万ドルに",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/SLJKJLS35JC7XA6C7CXYYVXKJE.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=228355",
-          "author": "CoinDesk JAPAN",
-          "description": "ブロックチェーン分析企業のチェイナリシス ジャパンは4月10日に「2024 暗号資産犯罪動向調査レポート」の日本語版を公開した。 レポートの主な内容は以下のとお ...\nサイバー犯罪で選択される暗号資産、ビットコインからステーブルコインへ：チェイナリシス first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/228355/",
-          "publishedOn": "2024-04-11T11:05:00.000Z",
-          "wordCount": 1223,
-          "title": "サイバー犯罪で選択される暗号資産、ビットコインからステーブルコインへ：チェイナリシス",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/82374-5-95571897dade4ae3b879f3e9.jpg"
         }
       ]
     },
@@ -424,6 +424,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=524659",
+          "author": "K.Kobayashi",
+          "description": "香港における仮想通貨ビットコインとイーサリアムの現物ETFへの流入額は、最大5億ドルだとブルームバーグアナリストは分析。米国のETF市場と規模を比較している。",
+          "link": "https://coinpost.jp/?p=524659",
+          "publishedOn": "2024-04-15T22:45:50.000Z",
+          "wordCount": 2411,
+          "title": "「香港の仮想通貨現物ETFへの流入額は年間最大5億ドルまで」アナリスト指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/01/hongkong0110.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/01/hongkong0110.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=524656",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所大手コインベースは1週間を切った半減期カウントダウンに合わせて、ビットコイン関連のソーシャルメディアCMを公開した。",
+          "link": "https://coinpost.jp/?p=524656",
+          "publishedOn": "2024-04-15T22:00:28.000Z",
+          "wordCount": 2405,
+          "title": "ビットコイン半減期まであと4日、コインベースが動画で価値の変遷辿る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/halving-4-days.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/halving-4-days.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=524653",
+          "author": "菊谷ルイス",
+          "description": "これらの仮想通貨銘柄はこれまで価格が大きく上昇してきてソラナの代表的なミームコインとなった。MEWは前日比で25.7%値上がりしている。",
+          "link": "https://coinpost.jp/?p=524653",
+          "publishedOn": "2024-04-15T21:20:55.000Z",
+          "wordCount": 2396,
+          "title": "OKX、ソラナミームコイン2銘柄新規上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/wif-mew-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/wif-mew-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=524650",
           "author": "菊谷ルイス",
@@ -985,16 +1030,6 @@
           "wordCount": 774,
           "title": "a16z crypto、ゼロ知識証明を用いたソリューション「Jolt」リリース",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/11225525/6dfc2b62d8e183e11456c6fc84ea5ef9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=383173",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/383173",
-          "publishedOn": "2024-04-11T11:00:33.000Z",
-          "wordCount": 641,
-          "title": "【4/11話題】SBI VCトレードがTRUST導入、SuiのWeb3携帯型ゲーム機、Uniswapに強制捜査の可能性など",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/11171647/news_head_20240411.jpg"
         }
       ]
     }
