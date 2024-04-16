@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-16T17:25:34.700Z</updated>
+    <updated>2024-04-16T18:23:57.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -850,67 +850,6 @@ GBTCからの流出が再び増加するも、ビットコインは7万800ドル
         <summary type="html"><![CDATA[川崎重工とSettleMintがブロックチェーン活用の実証実験 川崎重工とセトルミント（SettleMint）がブロックチェーンを活用した実証実験を完了したことが4月12日発表された。 なお同実証実験には、セトルミント提 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チェーンリンク、高度なセキュリティを提供するブリッジアプリ「Transporter」を発表]]></title>
-        <id>https://coinpost.jp/?p=523969</id>
-        <link href="https://coinpost.jp/?p=523969"/>
-        <updated>2024-04-12T06:21:34.000Z</updated>
-        <summary type="html"><![CDATA[分散型オラクルネットワークのチェーンリンク（LINK）は、「クロスチェーン相互運用性プロトコル（CCIP）」上に構築された、安全性の高いブリッジアプリ「Transporter」のリリースを発表した。Transporterは複数のネットワーク間で、安全な仮想通貨やデータの移動を可能にする。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンドファイナンスのONDO、8％急上昇——ブラックロックのBUIDLからUSDCへの即時交換をテストした影響]]></title>
-        <id>https://www.coindeskjapan.com/?p=228526</id>
-        <link href="https://www.coindeskjapan.com/228526/"/>
-        <updated>2024-04-12T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[オンドファイナンス（Ondo Finance）は4月11日、サークル（Circle）のステーブルコインUSDCとブラックロック（BlackRock）のBUIDL ...
-オンドファイナンスのONDO、8％急上昇——ブラックロックのBUIDLからUSDCへの即時交換をテストした影響 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>行武 温</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitfinex Securities、ヒルトンホテルへの資金提供としてエルサルバドル初のトークン化債券を導入]]></title>
-        <id>https://www.neweconomy.jp/?p=383483</id>
-        <link href="https://www.neweconomy.jp/posts/383483"/>
-        <updated>2024-04-12T05:54:26.000Z</updated>
-        <summary type="html"><![CDATA[エルサルバドル初のデジタル資産トークン化 デジタル証券取引所ビットフィネックスセキュリティーズ（Bitfinex Securities）が、エルサルバドル共和国の空港内の複合ホテル「ハンプトン・バイ・ヒルトン（Hampt […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米下院議員らがステーブルコイン法案の進展に向けて会合か＝ 報道]]></title>
-        <id>https://coinpost.jp/?p=523977</id>
-        <link href="https://coinpost.jp/?p=523977"/>
-        <updated>2024-04-12T05:39:03.000Z</updated>
-        <summary type="html"><![CDATA[米国下院金融サービス委員会の議員たちがステーブルコイン法案の進行について話し合った。超党派の解決策としての法案推進の可能性を探る。法案が可決すれば、規制の明確化による企業・機関の採用増加、マネーロンダリング対策など適切なリスク管理の環境整備が期待される。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米サークル、ブラックロックのトークン化ファンド「BUIDL」を「USDC」に交換可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=383477</id>
-        <link href="https://www.neweconomy.jp/posts/383477"/>
-        <updated>2024-04-12T05:37:06.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックのトークン化ファンド「BUIDL」が「USDC」に交換可能に 米サークル（Circle Internet Financial）が、「ブラックロック・米ドル機関投資家向けデジタル流動性ファンド（BlackRo […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CoinbaseがFinCEN法執行賞を受賞、AML対策と犯罪捜査への貢献]]></title>
-        <id>https://coinpost.jp/?p=523972</id>
-        <link href="https://coinpost.jp/?p=523972"/>
-        <updated>2024-04-12T05:32:45.000Z</updated>
-        <summary type="html"><![CDATA[米国の暗号資産（仮想通貨）取引所Coinbaseが犯罪捜査において顕著な貢献を果たし、FinCENからDirector's Law Enforcement Awardを受賞した。CoinbaseがAML対策を強化し、過去の課題をどのように克服したかについて解説します。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
