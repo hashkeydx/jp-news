@@ -440,26 +440,6 @@
           "wordCount": 1248,
           "title": "ステーブルコインはアメリカ経済にとって有益：米証券会社キャンターCEO",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/F7TD2JC5FJH2DPBXD77S3GSJMQ.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=228320",
-          "author": "佐藤 茂",
-          "description": "ソニー銀行が、音楽や映画、ゲームなどのエンターテイメント・コンテンツを裏付け資産とするデジタル証券を生み出そうと検討を開始した。ポップで、資産としての価値を持つ ...\nソニー銀行が「いまだかつてない」デジタル資産市場をつくる──“SONYの技術力”の効き目はどれほどか【取材】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/228320/",
-          "publishedOn": "2024-04-11T21:00:00.000Z",
-          "wordCount": 1284,
-          "title": "ソニー銀行が「いまだかつてない」デジタル資産市場をつくる──“SONYの技術力”の効き目はどれほどか【取材】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/image3-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=228317",
-          "author": "Sam Reynolds",
-          "description": "ビットコイン（BTC）はほとんどの主要資産をアウトパフォームしており、他のすべてが「ガラクタに見える」と、CarpoNoctomというハンドルネームで活動してい ...\nビットコインの急上昇で「他のすべての資産がジャンクに見える」とトレーダーが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/228317/",
-          "publishedOn": "2024-04-11T21:00:00.000Z",
-          "wordCount": 1323,
-          "title": "ビットコインの急上昇で「他のすべての資産がジャンクに見える」とトレーダーが指摘",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/PYHSESE3RFC5LOH3IGWIWPAKDQ.png"
         }
       ]
     },
@@ -474,6 +454,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=524812",
+          "author": "AKIRA.H",
+          "description": "株式会社Aerial Partnersが実施した「Gtax」利用者向けの2024年暗号資産（仮想通貨）確定申告アンケート結果。取引用途が多岐にわたり、計算処理が複雑化する中で、損益計算の計算ツールへの切り替え需要が高まっていることが示された。",
+          "link": "https://coinpost.jp/?p=524812",
+          "publishedOn": "2024-04-16T08:08:20.000Z",
+          "wordCount": 2413,
+          "title": "暗号資産取引関連の損益計算、約15%が「今回が初めて」と回答｜Gtaxアンケート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/Aerial-Partners_0416.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/Aerial-Partners_0416.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=524803",
+          "author": "AKIRA.H",
+          "description": "株式会社テレビ朝日と株式会社テレビ朝日ミュージック、extra mileがブロックチェーンゲームアクセラレーター「tv asahi Blockchain Games」を立ち上げ。インキュベーションからパブリッシングまでのサポート。初のゲームタイトル「NEOBRED」も注目。",
+          "link": "https://coinpost.jp/?p=524803",
+          "publishedOn": "2024-04-16T07:23:07.000Z",
+          "wordCount": 2419,
+          "title": "テレビ朝日のBCGアクセラレータープログラム、NFT競走馬育成ゲームを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/TVasahibcg_0414.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/TVasahibcg_0414.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=524755",
           "author": "幸田直子",
