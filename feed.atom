@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-16T22:27:26.792Z</updated>
+    <updated>2024-04-16T23:22:21.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ混雑原因のOreマイニング、v2に向けて採掘活動を停止]]></title>
+        <id>https://coinpost.jp/?p=525005</id>
+        <link href="https://coinpost.jp/?p=525005"/>
+        <updated>2024-04-16T22:30:37.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨OREマイニングの停止は永久的なものでなく、システムを最適するためのバージョン2をリリースするために一時的に休止するものだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多くの投資家はETFよりもビットコインそのものに魅力を感じている：調査報告]]></title>
         <id>https://www.coindeskjapan.com/?p=229125</id>
@@ -15,6 +25,26 @@
 多くの投資家はETFよりもビットコインそのものに魅力を感じている：調査報告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14年動かなかったビットコイン4.8億円相当が移動　コインベースで売却か]]></title>
+        <id>https://coinpost.jp/?p=524997</id>
+        <link href="https://coinpost.jp/?p=524997"/>
+        <updated>2024-04-16T21:50:35.000Z</updated>
+        <summary type="html"><![CDATA[3日後に半減期を迎える中、2010年4月から動いていなかったビットコイン4.8億円相当が送金された。送金先は仮想通貨取引所コインベースだと指摘されている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10万円のイーサリアムOS搭載スマホ「ethOS」、一般販売開始]]></title>
+        <id>https://coinpost.jp/?p=524993</id>
+        <link href="https://coinpost.jp/?p=524993"/>
+        <updated>2024-04-16T21:30:35.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン基盤のethOSフォンは、グーグル「Pixel 7a」機種にイーサリアムのOSがプレインストールされた端末で、分散型のメッセージ機能や決済機能の利用が可能だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -799,16 +829,6 @@ BTC半減期：ニュースで売るか、アルトコインにローテーシ�
 ビットコインのミームコイン「PUPS」が急上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink、クロスチェーンメッセージングアプリ「Transporter」リリース]]></title>
-        <id>https://www.neweconomy.jp/?p=383631</id>
-        <link href="https://www.neweconomy.jp/posts/383631"/>
-        <updated>2024-04-12T10:57:03.000Z</updated>
-        <summary type="html"><![CDATA[チェーンリンクが「Transporter」をリリース ブロックチェーンデータプロバイダーのチェーンリンク（Chainlink）が、クロスチェーン相互運用のためのメッセージングアプリケーション「トランスポーター（Trans […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
