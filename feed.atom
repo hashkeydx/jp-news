@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-17T07:21:48.987Z</updated>
+    <updated>2024-04-17T08:26:04.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ホミウムが「住宅ローン」をトークン化、Avalancheで発行]]></title>
+        <id>https://www.neweconomy.jp/?p=384400</id>
+        <link href="https://www.neweconomy.jp/posts/384400"/>
+        <updated>2024-04-17T07:49:40.000Z</updated>
+        <summary type="html"><![CDATA[ホミウムがアバランチで「住宅ローン」をトークン化 不動産担保ローンの貸し手で証券化プラットフォーム提供の米ホミウム（Homium）が、住宅担保ローンに関するトークンをアバランチ（Avalanche）上に発行開始した。ホミ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[a16z、5つの新ファンドで72億ドル調達]]></title>
         <id>https://www.neweconomy.jp/?p=384386</id>
