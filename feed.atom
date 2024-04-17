@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-17T08:26:04.142Z</updated>
+    <updated>2024-04-17T09:22:31.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polyhedra Networkがグーグル・クラウドと提携　ZKアズ・ア・サービス「Proof Cloud」を発表]]></title>
+        <id>https://coinpost.jp/?p=525030</id>
+        <link href="https://coinpost.jp/?p=525030"/>
+        <updated>2024-04-17T08:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Polyhedra NetworkがGoogle Cloudと提携し、ZK-as-a-service「Proof Cloud」を発表。ゼロ知識証明の生成を簡略化し、個別要件に最適なインフラストラクチャを提供する。Google Cloudは、AIの品質管理に関する機械学習機能を強化するため、ゼロ知識技術を活用するためにPolyhedraと協力する方針だ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashPalette『THE LAND エルフの森』と『EXPO 2025 デジタルウォレット』のコラボ企画発表]]></title>
+        <id>https://coinpost.jp/?p=525156</id>
+        <link href="https://coinpost.jp/?p=525156"/>
+        <updated>2024-04-17T08:29:33.000Z</updated>
+        <summary type="html"><![CDATA[メタバース型ファーミングブロックチェーンゲーム『THE LAND エルフの森』と『EXPO 2025 デジタルウォレット』のコラボ企画が2024年4月24日に開始。特別な釣りイベントで万博チケットを獲得するチャンス！NFT関連事業を手掛けるHashPaletteが開催。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ホミウムが「住宅ローン」をトークン化、Avalancheで発行]]></title>
         <id>https://www.neweconomy.jp/?p=384400</id>
@@ -983,16 +1003,6 @@ BTC半減期：ニュースで売るか、アルトコインにローテーシ�
         <link href="https://coinpost.jp/?p=524057"/>
         <updated>2024-04-12T21:35:44.000Z</updated>
         <summary type="html"><![CDATA[Matrixportの分析によると、香港の仮想通貨ETFは中国本土の投資家から年間最大250億ドルの需要を引き出せる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVM互換L1「Berachain」、シリーズBで153億円調達]]></title>
-        <id>https://coinpost.jp/?p=524052</id>
-        <link href="https://coinpost.jp/?p=524052"/>
-        <updated>2024-04-12T21:10:28.000Z</updated>
-        <summary type="html"><![CDATA[ユーザーはBerachainの「プルーフオブ・リクイディティ」のもとで、ネイティブSwap機能からガストークンBERAを取得し流動性を提供することで、ステーブルコインHONEYをミントしたり、ガバナンストークンBGTを獲得したりすることができる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
