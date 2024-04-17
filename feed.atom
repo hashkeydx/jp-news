@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-16T23:22:21.360Z</updated>
+    <updated>2024-04-17T01:28:06.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国ウォン、対仮想通貨取引高で世界トップに　日本円は？]]></title>
+        <id>https://coinpost.jp/?p=525022</id>
+        <link href="https://coinpost.jp/?p=525022"/>
+        <updated>2024-04-17T01:10:49.000Z</updated>
+        <summary type="html"><![CDATA[金融リサーチ企業Kaikoは、中央集権型取引所におけるビットコインなど仮想通貨取引高で、韓国ウォンが米ドルを上回ったと指摘した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム大口保有者、50億相当を売却]]></title>
+        <id>https://coinpost.jp/?p=525012</id>
+        <link href="https://coinpost.jp/?p=525012"/>
+        <updated>2024-04-16T23:50:42.000Z</updated>
+        <summary type="html"><![CDATA[50億相当の仮想通貨イーサリアムを売却して約6億円の損失を出した大口保有者がいることをLookonchainが報告。このアドレスは先月から注目を集めていた。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3のMMORPGゲーム「EFAS」、ソラナ上で経済圏構築へ]]></title>
+        <id>https://coinpost.jp/?p=525011</id>
+        <link href="https://coinpost.jp/?p=525011"/>
+        <updated>2024-04-16T23:30:14.000Z</updated>
+        <summary type="html"><![CDATA[EFASはソラナラボが提供する「GameShift」を用いる。「GameShift」とは、ソラナラボが2023年11月にベータ版をリリースした、ゲーム開発者がソラナ上でブロックチェーンを活用した体験をより簡単に作成できるように設計されたプラットフォームだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ混雑原因のOreマイニング、v2に向けて採掘活動を停止]]></title>
         <id>https://coinpost.jp/?p=525005</id>
@@ -807,28 +837,6 @@ BTC半減期：ニュースで売るか、アルトコインにローテーシ�
         <summary type="html"><![CDATA[ユーザーはBerachainの「プルーフオブ・リクイディティ」のもとで、ネイティブSwap機能からガストークンBERAを取得し流動性を提供することで、ステーブルコインHONEYをミントしたり、ガバナンストークンBGTを獲得したりすることができる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民党web3PT「web3ホワイトペーパー ～ 新たなテクノロジーが社会基盤となる時代へ ～」を公開]]></title>
-        <id>https://www.coindeskjapan.com/?p=228698</id>
-        <link href="https://www.coindeskjapan.com/228698/"/>
-        <updated>2024-04-12T11:55:00.000Z</updated>
-        <summary type="html"><![CDATA[自民党デジタル社会推進本部web3プロジェクトチーム（web3PT）は4月12日、「web3ホワイトペーパー ～ 新たなテクノロジーが社会基盤となる時代へ ～」 ...
-自民党web3PT「web3ホワイトペーパー ～ 新たなテクノロジーが社会基盤となる時代へ ～」を公開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのミームコイン「PUPS」が急上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=228686</id>
-        <link href="https://www.coindeskjapan.com/228686/"/>
-        <updated>2024-04-12T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[まもなく登場するRunesプロトコルを取り巻くハイプによって、トレーダーが半減に先駆けてビットコインに関連するトークンとネットワークに賭けることで、ビットコイン ...
-ビットコインのミームコイン「PUPS」が急上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
