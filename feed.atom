@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-19T20:22:13.969Z</updated>
+    <updated>2024-04-19T21:20:02.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マイクロストラテジーのセイラー会長、自社株売却で570億円の利益]]></title>
+        <id>https://coinpost.jp/?p=525873</id>
+        <link href="https://coinpost.jp/?p=525873"/>
+        <updated>2024-04-19T21:15:50.000Z</updated>
+        <summary type="html"><![CDATA[マイクロストラテジーの株価は仮想通貨ビットコインの3月の高騰に伴い3月27日に1,919ドルまで値上がりした。同株は年初来+71.37%のパフォーマンスを見せた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/19話題】アプトスラボが金融機関向けプラットフォーム「Aptos Ascend」構築へ、バイナンスが違約金支払いインド再参入かなど]]></title>
         <id>https://www.neweconomy.jp/?p=384985</id>
@@ -1326,17 +1336,6 @@ NFTコレクション「Bored Ape Yacht Club」、ピークから90%以上の下
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港でビットコインETFとイーサリアムETFが承認されたと発行体が投稿──ビットコインとイーサリアムは上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=228881</id>
-        <link href="https://www.coindeskjapan.com/228881/"/>
-        <updated>2024-04-15T08:25:05.000Z</updated>
-        <summary type="html"><![CDATA[香港の複数の発行体が暗号資産ETFが承認されたと発表したことを受けて、CoinDesk Indicesのデータによると、ビットコイン（BTC）は24時間で2.8 ...
-香港でビットコインETFとイーサリアムETFが承認されたと発行体が投稿──ビットコインとイーサリアムは上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
