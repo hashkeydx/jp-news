@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-20T11:18:46.646Z</updated>
+    <updated>2024-04-20T12:35:41.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -1327,16 +1327,6 @@ NFTコレクション「Bored Ape Yacht Club」、ピークから90%以上の下
         <summary type="html"><![CDATA[仮想通貨取引プラットフォームBitpandaはドイツ最大の連邦州立銀行LBBWとの提携を発表した。法人顧客にビットコインなどの取引・保管を提供する。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナブロックチェーン、混雑軽減のパッチを導入]]></title>
-        <id>https://coinpost.jp/?p=524668</id>
-        <link href="https://coinpost.jp/?p=524668"/>
-        <updated>2024-04-15T23:45:10.000Z</updated>
-        <summary type="html"><![CDATA[今回正式にリリースされた「v1.17.31」は複数のアップデートにおける最初のものとなる。このパッチには、データパケットの処理方法と最適化の改善、特定のノードをその利害関係に基づいて分類する方法の変更、システムのローカルテスト環境におけるデフォルト設定の更新などが含まれている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
