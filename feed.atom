@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-20T01:26:20.676Z</updated>
+    <updated>2024-04-20T02:28:13.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナWeb3ゲーム「Nyan Heroes」、Epicのストアでトップ30入り]]></title>
+        <id>https://coinpost.jp/?p=525899</id>
+        <link href="https://coinpost.jp/?p=525899"/>
+        <updated>2024-04-20T01:30:11.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンゲーム「Nyan Heroes」はEpic Games Storeで最もプレイされたゲームでトップ30以内に入った。今後NFT機能や独自の仮想通貨も導入する予定だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テザー、USDTとXAUTをTONブロックチェーンに展開]]></title>
         <id>https://www.coindeskjapan.com/?p=229700</id>
@@ -1388,16 +1398,6 @@ NFTコレクション「Bored Ape Yacht Club」、ピークから90%以上の下
         <link href="https://www.neweconomy.jp/posts/384091"/>
         <updated>2024-04-15T15:01:03.000Z</updated>
         <summary type="html"><![CDATA[「Astar zkEVM」が問題解決で正常稼働 Polygon CDK活用のレイヤー2ブロックチェーン「Astar zkEVM」で発生したネットワークエラーについて、アップグレードおよびメンテナンスが完了し、現在は正常に […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港SFC、ビットコインとイーサリアムの現物ETFを承認]]></title>
-        <id>https://www.neweconomy.jp/?p=384086</id>
-        <link href="https://www.neweconomy.jp/posts/384086"/>
-        <updated>2024-04-15T14:25:15.000Z</updated>
-        <summary type="html"><![CDATA[香港でビットコインとイーサリアムの現物ETFが承認 香港SFC（証券先物委員会）が、ビットコイン（BTC）とイーサリアム（ETH）の現物ETF（上場投資信託）を条件付きで4月15日に承認した。これにより少なくとも中国のオ […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
         </author>
