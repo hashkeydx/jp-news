@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=229768",
+          "author": "林 理南",
+          "description": "ビットコイン（BTC）は、そのエコシステムを支えるマイナーの経済状況を一変させることになる4度目の半減期を迎えたが、6万3700ドル（約1038万5000円、1 ...\n半減期到来後、ビットコインはほぼ動かず約6万3700ドルを維持 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/229768/",
+          "publishedOn": "2024-04-20T08:17:15.000Z",
+          "wordCount": 1237,
+          "title": "半減期到来後、ビットコインはほぼ動かず約6万3700ドルを維持",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/NYN6DK7QXXJAFLJQCUC77GIREIA-1.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=229700",
           "author": "Krisztian Sandor",
           "description": "時価総額1080億ドル（約16兆2000億円、1ドル=150円換算）のドル連動型ステーブルコインのテザー（USDT）を発行するテザー（Tether）社は、同社の ...\nテザー、USDTとXAUTをTONブロックチェーンに展開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -580,10 +590,25 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "日本国内仮想通貨ニュース  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=525939",
+          "author": "AKIRA.H",
+          "description": "日本銀行が公表したCBDC中間整理報告書の主要論点や影響について解説。CBDCの導入方針やデジタル通貨の未来についての展望を探る。",
+          "link": "https://coinpost.jp/?p=525939",
+          "publishedOn": "2024-04-20T07:30:04.000Z",
+          "wordCount": 2431,
+          "title": "日銀、CBDC戦略の中間報告を公表　想定モデルと5つの課題",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/CBDC1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/CBDC1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=525927",
           "author": "A.Yamada",
