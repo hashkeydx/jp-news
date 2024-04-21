@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-21T21:19:45.685Z</updated>
+    <updated>2024-04-21T22:25:37.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産オプションと仕組商品の可能性]]></title>
+        <id>https://www.coindeskjapan.com/?p=228546</id>
+        <link href="https://www.coindeskjapan.com/228546/"/>
+        <updated>2024-04-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[主にリテールサイドの暗号資産（仮想通貨）オプション市場は、2021年7月から2022年6月までは指数関数的な勢いが続いたが、その後、実現ボラティリティが顕著にな ...
+暗号資産オプションと仕組商品の可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「トークン化」に乗り遅れないために──必要なのは、コラボレーションと想像力]]></title>
         <id>https://www.coindeskjapan.com/?p=229420</id>
@@ -913,38 +924,6 @@ Astar zkEVMの巻き戻し問題、「正常復帰」「ユーザーの資産は
 住宅ローンのトークン化商品、アバランチ上で提供開始：米Homium first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[過去のビットコイン半減による価格予測に警告──マクロ環境が異なるとゴールドマン・サックスが指摘]]></title>
-        <id>https://www.coindeskjapan.com/?p=229272</id>
-        <link href="https://www.coindeskjapan.com/229272/"/>
-        <updated>2024-04-17T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の4回目のマイニング報酬半減まであと2日だ。4年に一度のこのイベントは、BTCのブロックあたりの排出量を6.25BTCから3.125BTC ...
-過去のビットコイン半減による価格予測に警告──マクロ環境が異なるとゴールドマン・サックスが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本銀行、「CBDC（中央銀行デジタル通貨）に関する関係府省庁・日本銀行連絡会議 中間整理」公表]]></title>
-        <id>https://www.coindeskjapan.com/?p=229271</id>
-        <link href="https://www.coindeskjapan.com/229271/"/>
-        <updated>2024-04-17T10:08:15.000Z</updated>
-        <summary type="html"><![CDATA[日本銀行は4月17日、「CBDC（中央銀行デジタル通貨）に関する関係府省庁・日本銀行連絡会議 中間整理」を公表した。 中間整理とその概要のPDFは財務省のWeb ...
-日本銀行、「CBDC（中央銀行デジタル通貨）に関する関係府省庁・日本銀行連絡会議 中間整理」公表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ上のDEX「ドリフト」、独自トークン「DRIFT」のエアドロップ実施へ]]></title>
-        <id>https://www.neweconomy.jp/?p=384379</id>
-        <link href="https://www.neweconomy.jp/posts/384379"/>
-        <updated>2024-04-17T09:50:04.000Z</updated>
-        <summary type="html"><![CDATA[DRIFTのエアドロップ実施へ ソラナ（Solana）上の分散型取引所（DEX）「ドリフト（Drift）」の独自トークン「DRIFT」のエアドロップ実施とその割り当て数が公開された。「ドリフト」のDAO（自立分散型組織） […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
