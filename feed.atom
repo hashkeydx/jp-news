@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-21T09:23:04.205Z</updated>
+    <updated>2024-04-21T10:25:13.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大手仮想通貨取引所BingX CPO、ビットコイン半減期の影響を語る]]></title>
+        <id>https://coinpost.jp/?p=524789</id>
+        <link href="https://coinpost.jp/?p=524789"/>
+        <updated>2024-04-21T09:28:35.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）業界で4年に1度のビットコイン（BTC）の半減期が訪れる中、TradingViewの「ベスト暗号資産取引所2021 & 2022」の受賞歴を持つBingX（ビンエックス）のヴィヴィアン・リン氏にインタビューを実施しました。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインでルーンズプロトコルがローンチ、ユーザーがミントに殺到し送金手数料が高騰]]></title>
         <id>https://www.coindeskjapan.com/?p=229775</id>
@@ -1140,37 +1150,6 @@ Astar zkEVMの巻き戻し問題、「正常復帰」「ユーザーの資産は
         <link href="https://coinpost.jp/?p=525005"/>
         <updated>2024-04-16T22:30:37.000Z</updated>
         <summary type="html"><![CDATA[仮想通貨OREマイニングの停止は永久的なものでなく、システムを最適するためのバージョン2をリリースするために一時的に休止するものだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多くの投資家はETFよりもビットコインそのものに魅力を感じている：調査報告]]></title>
-        <id>https://www.coindeskjapan.com/?p=229125</id>
-        <link href="https://www.coindeskjapan.com/229125/"/>
-        <updated>2024-04-16T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）上場投資信託（ETF）の運用資産額（AUM）が話題になっているが、これらのETFが原資産である暗号資産（仮想通貨）そのものに対する追加需要 ...
-多くの投資家はETFよりもビットコインそのものに魅力を感じている：調査報告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14年動かなかったビットコイン4.8億円相当が移動　コインベースで売却か]]></title>
-        <id>https://coinpost.jp/?p=524997</id>
-        <link href="https://coinpost.jp/?p=524997"/>
-        <updated>2024-04-16T21:50:35.000Z</updated>
-        <summary type="html"><![CDATA[3日後に半減期を迎える中、2010年4月から動いていなかったビットコイン4.8億円相当が送金された。送金先は仮想通貨取引所コインベースだと指摘されている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10万円のイーサリアムOS搭載スマホ「ethOS」、一般販売開始]]></title>
-        <id>https://coinpost.jp/?p=524993</id>
-        <link href="https://coinpost.jp/?p=524993"/>
-        <updated>2024-04-16T21:30:35.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン基盤のethOSフォンは、グーグル「Pixel 7a」機種にイーサリアムのOSがプレインストールされた端末で、分散型のメッセージ機能や決済機能の利用が可能だ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
