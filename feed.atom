@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-21T20:23:08.601Z</updated>
+    <updated>2024-04-21T21:19:45.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「トークン化」に乗り遅れないために──必要なのは、コラボレーションと想像力]]></title>
+        <id>https://www.coindeskjapan.com/?p=229420</id>
+        <link href="https://www.coindeskjapan.com/229420/"/>
+        <updated>2024-04-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トークン化は取引の処理方法に革命をもたらす可能性がある。しかし、機関投資家にとって最大の可能性は、デジタル資産そのものにある、と米金融市場で証券の中央管理を担い ...
+「トークン化」に乗り遅れないために──必要なのは、コラボレーションと想像力 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大手仮想通貨取引所BingX CPO、ビットコイン半減期の影響を語る]]></title>
         <id>https://coinpost.jp/?p=524789</id>
@@ -934,26 +945,6 @@ Astar zkEVMの巻き戻し問題、「正常復帰」「ユーザーの資産は
         <summary type="html"><![CDATA[DRIFTのエアドロップ実施へ ソラナ（Solana）上の分散型取引所（DEX）「ドリフト（Drift）」の独自トークン「DRIFT」のエアドロップ実施とその割り当て数が公開された。「ドリフト」のDAO（自立分散型組織） […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polyhedra Networkがグーグル・クラウドと提携　ZKアズ・ア・サービス「Proof Cloud」を発表]]></title>
-        <id>https://coinpost.jp/?p=525030</id>
-        <link href="https://coinpost.jp/?p=525030"/>
-        <updated>2024-04-17T08:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Polyhedra NetworkがGoogle Cloudと提携し、ZK-as-a-service「Proof Cloud」を発表。ゼロ知識証明の生成を簡略化し、個別要件に最適なインフラストラクチャを提供する。Google Cloudは、AIの品質管理に関する機械学習機能を強化するため、ゼロ知識技術を活用するためにPolyhedraと協力する方針だ。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashPalette『THE LAND エルフの森』と『EXPO 2025 デジタルウォレット』のコラボ企画発表]]></title>
-        <id>https://coinpost.jp/?p=525156</id>
-        <link href="https://coinpost.jp/?p=525156"/>
-        <updated>2024-04-17T08:29:33.000Z</updated>
-        <summary type="html"><![CDATA[メタバース型ファーミングブロックチェーンゲーム『THE LAND エルフの森』と『EXPO 2025 デジタルウォレット』のコラボ企画が2024年4月24日に開始。特別な釣りイベントで万博チケットを獲得するチャンス！NFT関連事業を手掛けるHashPaletteが開催。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
