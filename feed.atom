@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-23T11:19:34.333Z</updated>
+    <updated>2024-04-23T12:39:35.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの200日移動平均線が過去最高値に接近──歴史的には激しい上昇を予兆]]></title>
+        <id>https://www.coindeskjapan.com/?p=230056</id>
+        <link href="https://www.coindeskjapan.com/230056/"/>
+        <updated>2024-04-23T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の価格は10月に200日単純移動平均線（SMA）を超えて強気の領域に入り、先月7万3000ドルを超える過去最高値を更新した。 現在、長期ト ...
+ビットコインの200日移動平均線が過去最高値に接近──歴史的には激しい上昇を予兆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベースの米国外取引所、WIFおよびPEPEを無期限先物取引で取扱いへ]]></title>
+        <id>https://www.neweconomy.jp/?p=385695</id>
+        <link href="https://www.neweconomy.jp/posts/385695"/>
+        <updated>2024-04-23T11:52:44.000Z</updated>
+        <summary type="html"><![CDATA[コインベースがWIF・PEPEの無期限先物を提供へ コインベースインターナショナルエクスチェンジ（Coinbase International Exchange）およびコインベースアドバンスド（Coinbase Adva […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【4/23話題】上場企業メタプラネットが10億円でビットコイン購入、日銀がCBDCパイロット実験の進捗報告など]]></title>
+        <id>https://www.neweconomy.jp/?p=385584</id>
+        <link href="https://www.neweconomy.jp/posts/385584"/>
+        <updated>2024-04-23T11:35:21.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは半減後、需要が供給の5倍に：ビットフィネックスが試算]]></title>
         <id>https://www.coindeskjapan.com/?p=230016</id>
@@ -1000,16 +1031,6 @@ AIとDePINはWeb3を変える first appeared on CoinDesk JAPAN（コインデス
         <summary type="html"><![CDATA[仮想通貨ビットコインの半減期後の相場を主導するのはマクロ経済であると10x ResearchのCEOが指摘。現状ではビットコイン価格が5万ドルまで下がる可能性もあると述べている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos開発企業、マイクロソフトやSKテレコムなどと提携]]></title>
-        <id>https://coinpost.jp/?p=525638</id>
-        <link href="https://coinpost.jp/?p=525638"/>
-        <updated>2024-04-19T00:35:48.000Z</updated>
-        <summary type="html"><![CDATA[アプトス・ラボが数社と共同で開発するAptos Ascendは、金融機関向けのデジタル資産管理プラットフォームだ。この製品はAzure OpenAI Serviceを使用する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
