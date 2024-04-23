@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=229996",
+          "author": "Daniel Kuhn",
+          "description": "ビットコインの「第5期」へようこそ。4月20日、ビットコインは4回目の半減期に成功した。半減期とは、マイニングによって流通する新しいビットコイン（BTC）の数を ...\nビットコイン半減期、レイヤー2の普及を促進 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/229996/",
+          "publishedOn": "2024-04-23T22:00:00.000Z",
+          "wordCount": 1275,
+          "title": "ビットコイン半減期、レイヤー2の普及を促進",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/shutterstock_608089037-1.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=230044",
+          "author": "Amitoj Singh",
+          "description": "リップルラボ（Ripple Labs）は4月22日、XRP Ledgerブロックチェーンを手がける同社に対して約20億ドル（約3100億円、1ドル=155円換算 ...\nリップル社、SECが求めた約20億ドルの罰金を拒否──1000万ドル以下にするべきと主張 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/230044/",
+          "publishedOn": "2024-04-23T21:30:00.000Z",
+          "wordCount": 1238,
+          "title": "リップル社、SECが求めた約20億ドルの罰金を拒否──1000万ドル以下にするべきと主張",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/M5ONYOZIFNAGHEOKWAFVWUZIFU.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=230012",
           "author": "山口 晶子",
           "description": "4月20日、ビットコインブロックチェーンは4回目となる半減期を迎え、マイナーが取引の検証に対して受け取る報酬は半分になった。 半減期は21万ブロックごとにプログ ...\nビットコインマイニング企業、生き残るための最適化とは【Future of Bitcoin】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -310,16 +330,6 @@
           "wordCount": 1249,
           "title": "ビットコインマイナーはこれまでの半減より有利な立場にある：アナリストが指摘",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/ZCUDHLPSB5EDBHDOIO2BDNJVI4.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=229659",
-          "author": "Omkar Godbole",
-          "description": "アメリカを拠点とするスポットビットコイン（BTC）上場投資信託（ETF）は4月18日、累計430万ドル（約6億4500万円、1ドル=150円換算）の資金流出を記 ...\nビットコインスポットETF、半減を前に5日間連続の資金流出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/229659/",
-          "publishedOn": "2024-04-19T10:10:00.000Z",
-          "wordCount": 1266,
-          "title": "ビットコインスポットETF、半減を前に5日間連続の資金流出",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/10/shutterstock_1386493397-scaled.jpg"
         }
       ]
     },
@@ -334,6 +344,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=526579",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインのブロックチェーン上でスマートコントラクトなどを実現する開発提案がBIP-420として公開。以前から関心を集めている提案の内容が改めて説明された。",
+          "link": "https://coinpost.jp/?p=526579",
+          "publishedOn": "2024-04-23T22:10:18.000Z",
+          "wordCount": 2482,
+          "title": "ビットコインのブロックチェーンの機能拡充へ　新提案「BIP-420」が公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/bitcoin_lightningnetwork1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/bitcoin_lightningnetwork1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=526575",
+          "author": "菊谷ルイス",
+          "description": "フィリピンはバイナンスの顧客基盤における重要な構成国だが、同SECは2023年11月以降、バイナンスを投資に利用しないよう国民に積極的に警告していた。",
+          "link": "https://coinpost.jp/?p=526575",
+          "publishedOn": "2024-04-23T21:35:14.000Z",
+          "wordCount": 2424,
+          "title": "バイナンスアプリの削除、フィリピン当局がアップルとグーグルに命令",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/Philippines-Flag.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/Philippines-Flag.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=526566",
           "author": "菊谷ルイス",
@@ -985,26 +1025,6 @@
           "wordCount": 643,
           "title": "【4/19話題】アプトスラボが金融機関向けプラットフォーム「Aptos Ascend」構築へ、バイナンスが違約金支払いインド再参入かなど",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/19211954/news_head_20240419.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=384891",
-          "author": "TamuraSeiji",
-          "description": "Runesが間もなくリリース ビットコイン（BTC）ネットワークのトークン規格「ルーンズ（Runes）」が、間もなくリリースを迎える。 「ルーンズ」は、昨年9月にビットコインネットワークのトークンプロトコル「ビットコイン […]",
-          "link": "https://www.neweconomy.jp/posts/384891",
-          "publishedOn": "2024-04-19T10:13:09.000Z",
-          "wordCount": 765,
-          "title": "ビットコイン（BTC）のトークン規格「Runes」が間もなくリリース",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/19183329/615a9470276a5179dd89f2c28f7a3f06.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=384860",
-          "author": "HitomotoToshikazu",
-          "description": "USDYがコスモスに導入 機関投資家向けDeFi（分散型金融）プロトコル「オンドファイナンス（Ondo Finance）」が、同社発行のステーブルコイン「USDY」をコスモス（Cosmos）エコシステムへ導入することを4 […]",
-          "link": "https://www.neweconomy.jp/posts/384860",
-          "publishedOn": "2024-04-19T10:07:57.000Z",
-          "wordCount": 832,
-          "title": "機関投資家向けDeFi「Ondo Finance」発行の「USDY」、コスモスへ導入",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/19190735/336a7de30e68c0b0ed7d0f2145cad7c4.jpg"
         }
       ]
     }
