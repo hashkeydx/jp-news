@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-23T20:22:40.674Z</updated>
+    <updated>2024-04-23T21:20:07.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイニング企業、生き残るための最適化とは【Future of Bitcoin】]]></title>
+        <id>https://www.coindeskjapan.com/?p=230012</id>
+        <link href="https://www.coindeskjapan.com/230012/"/>
+        <updated>2024-04-23T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4月20日、ビットコインブロックチェーンは4回目となる半減期を迎え、マイナーが取引の検証に対して受け取る報酬は半分になった。 半減期は21万ブロックごとにプログ ...
+ビットコインマイニング企業、生き残るための最適化とは【Future of Bitcoin】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エルサルバドルの国営ビットコインウォレット、ハッカーがコードを流出]]></title>
+        <id>https://coinpost.jp/?p=526566</id>
+        <link href="https://coinpost.jp/?p=526566"/>
+        <updated>2024-04-23T20:50:37.000Z</updated>
+        <summary type="html"><![CDATA[今回の漏洩は、4月上旬に報告された510万人のサルバドル人の個人情報リークを含む、一連のChivoウォレット関連のハッキングに続くものだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの200日移動平均線が過去最高値に接近──歴史的には激しい上昇を予兆]]></title>
         <id>https://www.coindeskjapan.com/?p=230056</id>
@@ -852,16 +873,6 @@ AIとDePINはWeb3を変える first appeared on CoinDesk JAPAN（コインデス
         <link href="https://www.neweconomy.jp/posts/384860"/>
         <updated>2024-04-19T10:07:57.000Z</updated>
         <summary type="html"><![CDATA[USDYがコスモスに導入 機関投資家向けDeFi（分散型金融）プロトコル「オンドファイナンス（Ondo Finance）」が、同社発行のステーブルコイン「USDY」をコスモス（Cosmos）エコシステムへ導入することを4 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、トークンローンチプラットフォーム「Megadrop」公開。「BounceBit（BB）」取扱へ]]></title>
-        <id>https://www.neweconomy.jp/?p=384804</id>
-        <link href="https://www.neweconomy.jp/posts/384804"/>
-        <updated>2024-04-19T08:27:16.000Z</updated>
-        <summary type="html"><![CDATA[トークンローンチプラットフォームMegadrop公開 大手暗号資産（仮想通貨）取引所バイナンス（Binance）が、エアドロップ機能とWeb3クエスト機能を備えた新たなトークンローンチプラットフォーム「メガドロップ（Me […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
         </author>
