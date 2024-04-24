@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=230112",
+          "author": "CoinDesk JAPAN",
+          "description": "イーサリアムコミュニティのスターたちがこの夏、日本に集結する。パリ、トロント、シドニー、サンフランシスコ、モンテネグロなどで開催されてきたイーサリアムコミュニテ ...\nイーサリアム開発者会議「EDCON2024」、代々木体育館で開催──チケット完全無料化を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/230112/",
+          "publishedOn": "2024-04-24T03:25:58.000Z",
+          "wordCount": 1214,
+          "title": "イーサリアム開発者会議「EDCON2024」、代々木体育館で開催──チケット完全無料化を発表",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/EDCON-2024-Ethereum-Development-Conference-Tokyo-July-26-30.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=230106",
           "author": "林 理南",
           "description": "5月承認の可能性は低い 投資銀行スタンダードチャータード（Standard Chartered）は、アメリカの規制当局が5月にイーサリアム（ETH）現物ETF（ ...\nイーサリアムETF、5月承認の可能性は低い：スタンダードチャータード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -354,6 +364,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=526678",
+          "author": "AKIRA.H",
+          "description": "香港でボセラとハッシュキーキャピタルが提供するビットコインETFが取引を開始すると報じられた。2社の現物ビットコインETFは、価格安定性が高く、投資家に直接的な市場価格連動のメリットを提供する。",
+          "link": "https://coinpost.jp/?p=526678",
+          "publishedOn": "2024-04-24T04:00:00.000Z",
+          "wordCount": 2445,
+          "title": "香港の現物ビットコインETF、4月30日にも発売かー報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/hourax-hongkong-scam.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/hourax-hongkong-scam.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=526622",
           "author": "S.Ninomiya",
@@ -886,6 +911,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=385782",
+          "author": "OtsugaShinya",
+          "description": "SBIデジタルコミュニティーがBto3創設 SBIホールディングスが、Web3領域を中心としたコミュニティ「Bto3～Web3 community～（以下Bto3）」の創設を4月17日発表した。 なお「Bto3」創設にあ […]",
+          "link": "https://www.neweconomy.jp/posts/385782",
+          "publishedOn": "2024-04-24T04:13:38.000Z",
+          "wordCount": 609,
+          "title": "SBI、Web3領域を中心としたコミュニティ「Bto3」創設",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/24131331/6918dca35d89d305a33e4add6caeae09.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=385774",
+          "author": "gentosha_takahashi",
+          "description": "環境に配慮 米決済大手ペイパル（PayPal）のブロックチェーン研究部門が、「エネルギー消費量の少ないビットコインマイニングをモニタリングし、報酬を与える」といったクリーンエネルギー検証プラットフォームの開発を行っている […]",
+          "link": "https://www.neweconomy.jp/posts/385774",
+          "publishedOn": "2024-04-24T03:52:12.000Z",
+          "wordCount": 753,
+          "title": "PayPal、環境配慮の「ビットコインマイナー向けインセンティブプログラム」提案、NPOのEnergyWebらと協力で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/24125205/a674c4285bb3a0272c22e8717dd3d068.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=385770",
+          "author": "OtsugaShinya",
+          "description": "香港で暗号資産現物ETFが月末から取引開始か 香港SFC（証券先物委員会）により先日承認された暗号資産の現物ETFが、今月末に取引開始になるとブルームバーグが4月24日に報じた。 報道によると、このことをブルームバーグへ […]",
+          "link": "https://www.neweconomy.jp/posts/385770",
+          "publishedOn": "2024-04-24T03:47:33.000Z",
+          "wordCount": 623,
+          "title": "香港、ビットコインとイーサリアムの現物ETFを4/30から取引開始か＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/24124729/08c0a711ac1bc3090557ea285ebbd033.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=385695",
           "author": "TamuraSeiji",
