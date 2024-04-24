@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-24T15:24:58.745Z</updated>
+    <updated>2024-04-24T16:28:04.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンスのチャンポン・ジャオ氏に懲役3年を要求：司法省]]></title>
+        <id>https://www.coindeskjapan.com/?p=230221</id>
+        <link href="https://www.coindeskjapan.com/230221/"/>
+        <updated>2024-04-24T15:42:19.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス（Binance）の創業者で元CEOのチャンポン・ジャオ（Changpeng Zhao）氏は、同取引所が制裁とマネーロンダリング防止に関する法に違反し ...
+バイナンスのチャンポン・ジャオ氏に懲役3年を要求：司法省 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヘデラのHBARが急騰──その後、ブラックロックとのつながりが薄いことがわかり25％下落]]></title>
         <id>https://www.coindeskjapan.com/?p=230207</id>
@@ -1007,16 +1018,6 @@ AIとDePINはWeb3を変える first appeared on CoinDesk JAPAN（コインデス
         <summary type="html"><![CDATA[日本銀行が公表したCBDC中間整理報告書の主要論点や影響について解説。CBDCの導入方針やデジタル通貨の未来についての展望を探る。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コスモス基盤のInjective、Web3スマホ「JamboPhone」でDeFi機能提供]]></title>
-        <id>https://coinpost.jp/?p=525927</id>
-        <link href="https://coinpost.jp/?p=525927"/>
-        <updated>2024-04-20T03:30:10.000Z</updated>
-        <summary type="html"><![CDATA[レイヤー1ブロックチェーンInjectiveは、Jamboテクノロジーと提携してWeb3スマホ「JamboPhone」でDeFi機能を提供すると発表した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
