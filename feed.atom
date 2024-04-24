@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-23T23:21:47.977Z</updated>
+    <updated>2024-04-24T01:31:12.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックスの90億ドルの支払いが迫り、ビットコインの重しに：K33リサーチ]]></title>
+        <id>https://www.coindeskjapan.com/?p=230099</id>
+        <link href="https://www.coindeskjapan.com/230099/"/>
+        <updated>2024-04-24T01:03:27.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は先週に起きた調整をあまり重要視していないが、今後数週間にわたって価格を圧迫する可能性のある材料があり、上昇相場が危うくなっている。 暗 ...
+マウントゴックスの90億ドルの支払いが迫り、ビットコインの重しに：K33リサーチ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ビットコイン価格が急上昇するのは半減期から50〜100日後」QCP Capital分析]]></title>
+        <id>https://coinpost.jp/?p=526613</id>
+        <link href="https://coinpost.jp/?p=526613"/>
+        <updated>2024-04-24T00:40:12.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインの今後の価格が急上昇するのは半減期から50〜100日後であるとQCP Capitalが分析。また、Bitfinexも半減期後の相場レポートを公開した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナJupiter、DEXモバイルアプリ5月公開予定]]></title>
+        <id>https://coinpost.jp/?p=526603</id>
+        <link href="https://coinpost.jp/?p=526603"/>
+        <updated>2024-04-23T23:45:56.000Z</updated>
+        <summary type="html"><![CDATA[既存のUltimateウォレットは5月22日から利用できなくなるため、その前に仮想通貨の一時的移転（PhantomやMagic Edenウォレット）を推奨した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国のイーサリアムETF上場申請、5月承認は見込み薄か]]></title>
         <id>https://coinpost.jp/?p=526594</id>
@@ -875,16 +906,6 @@ AIとDePINはWeb3を変える first appeared on CoinDesk JAPAN（コインデス
         <summary type="html"><![CDATA[マイクロストラテジーの株価は仮想通貨ビットコインの3月の高騰に伴い3月27日に1,919ドルまで値上がりした。同株は年初来+71.37%のパフォーマンスを見せた。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/19話題】アプトスラボが金融機関向けプラットフォーム「Aptos Ascend」構築へ、バイナンスが違約金支払いインド再参入かなど]]></title>
-        <id>https://www.neweconomy.jp/?p=384985</id>
-        <link href="https://www.neweconomy.jp/posts/384985"/>
-        <updated>2024-04-19T12:20:11.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
