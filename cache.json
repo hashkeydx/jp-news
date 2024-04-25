@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=230317",
+          "author": "Sam Reynolds",
+          "description": "2017年7月にテレビ中継された議会証言でジャネット・イエレン（Janet Yellen）連邦準備制度理事会（FRB）議長（当時）の背後に掲げられた歴史的な「B ...\n伝説の「Buy Bitcoin」サイン、オークションで約100万ドルで落札 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/230317/",
+          "publishedOn": "2024-04-25T22:00:00.000Z",
+          "wordCount": 1346,
+          "title": "伝説の「Buy Bitcoin」サイン、オークションで約100万ドルで落札",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/AWSJI2QZCZABZCUHNXUNZBJHEI.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=230144",
           "author": "山口 晶子",
           "description": "簡単に言えば、現在の金融の構造が、何十億もの人々が基本的な金融サービスや経済的チャンスにアクセスすることを妨げている。 不均衡な金融へのアクセス 中央集権的な金 ...\nオープン・ファイナンスこそ未来 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -384,6 +394,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=527242",
+          "author": "菊谷ルイス",
+          "description": "イーサリアム現物ETFの米国での承認は不透明。SECとの一方的な会合や訴訟の影響で、2024年後半までの承認延期が予想されETH今後の価格に下落圧力がかかっている状況だ。",
+          "link": "https://coinpost.jp/?p=527242",
+          "publishedOn": "2024-04-25T22:15:12.000Z",
+          "wordCount": 2410,
+          "title": "米SEC、イーサリアム現物ETF申請を非承認する可能性高まる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum_20190906_1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum_20190906_1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=527234",
+          "author": "菊谷ルイス",
+          "description": "Stripeは2014年に初めて仮想通貨ビットコインの決済を導入した経緯がある。しかしその4年後の2018年にビットコインのバブル崩壊を受け同社はその取り組みを中止した。",
+          "link": "https://coinpost.jp/?p=527234",
+          "publishedOn": "2024-04-25T21:50:04.000Z",
+          "wordCount": 2468,
+          "title": "米Stripe、ソラナやイーサリアムでUSDC決済を導入予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/stripe-crypto-hire.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/stripe-crypto-hire.png"
+        },
         {
           "id": "https://coinpost.jp/?p=527229",
           "author": "菊谷ルイス",
@@ -953,21 +993,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/bitcoin1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/bitcoin1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=524789",
-          "author": "CoinPost編集部",
-          "description": "暗号資産（仮想通貨）業界で4年に1度のビットコイン（BTC）の半減期が訪れる中、TradingViewの「ベスト暗号資産取引所2021 & 2022」の受賞歴を持つBingX（ビンエックス）のヴィヴィアン・リン氏にインタビューを実施しました。",
-          "link": "https://coinpost.jp/?p=524789",
-          "publishedOn": "2024-04-21T09:28:35.000Z",
-          "wordCount": 2434,
-          "title": "大手仮想通貨取引所BingX CPO、ビットコイン半減期の影響を語る",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bingx-w3.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bingx-w3.png"
         }
       ]
     },
