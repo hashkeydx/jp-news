@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-25T12:32:18.185Z</updated>
+    <updated>2024-04-25T13:20:15.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの改善提案「BIP420」公開、スマコン追加やゼロ知識証明など実装に向け]]></title>
+        <id>https://www.neweconomy.jp/?p=386187</id>
+        <link href="https://www.neweconomy.jp/posts/386187"/>
+        <updated>2024-04-25T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン改善提案「BIP-420」が公開 ビットコイン（BTC）におけるスマートコントラクト実装などの機能拡充に向けた、改善提案「BIP-420」が正式公開された。「BIP-420」提案者ウディ・ヴェルトハイマー（U […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/25話題】バイナンス創業者CZに懲役3年が求刑、チェーンリンクの「CCIP」が一般提供開始など]]></title>
         <id>https://www.neweconomy.jp/?p=386102</id>
@@ -1190,17 +1200,6 @@ AIとDePINはWeb3を変える first appeared on CoinDesk JAPAN（コインデス
         <summary type="html"><![CDATA[今週は、自民党web3PTのホワイトペーパー2024の発表、JPモルガンによる半減期後のBTC相場分析、香港におけるビットコインとイーサリアムの現物ETF承認に関するニュースが最も関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマン・サックス資産運用部門責任者の暗号資産批判を弁護してみる]]></title>
-        <id>https://www.coindeskjapan.com/?p=227247</id>
-        <link href="https://www.coindeskjapan.com/227247/"/>
-        <updated>2024-04-21T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）エコシステムは、もっと分別を持っているべきと見なされている、知識不足の伝統的金融の専門家たちによる暗号資産懐疑論をすぐに非難する。 最近では ...
-ゴールドマン・サックス資産運用部門責任者の暗号資産批判を弁護してみる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Noelle Acheson</name>
         </author>
     </entry>
 </feed>
