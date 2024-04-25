@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-25T20:22:33.984Z</updated>
+    <updated>2024-04-25T21:23:04.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープン・ファイナンスこそ未来]]></title>
+        <id>https://www.coindeskjapan.com/?p=230144</id>
+        <link href="https://www.coindeskjapan.com/230144/"/>
+        <updated>2024-04-25T21:10:00.000Z</updated>
+        <summary type="html"><![CDATA[簡単に言えば、現在の金融の構造が、何十億もの人々が基本的な金融サービスや経済的チャンスにアクセスすることを妨げている。 不均衡な金融へのアクセス 中央集権的な金 ...
+オープン・ファイナンスこそ未来 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モルガン・スタンレー、ブローカーによるビットコインETF勧誘を検討]]></title>
+        <id>https://coinpost.jp/?p=527229</id>
+        <link href="https://coinpost.jp/?p=527229"/>
+        <updated>2024-04-25T20:50:18.000Z</updated>
+        <summary type="html"><![CDATA[最近の仮想通貨ビットコインETF資金流入状況に関しては昨日、ブラックロックのIBITが1月11日ローンチ以来初めて資金流入がゼロとなり、71日連続の流入記録が終了したことが確認された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの改善提案「BIP420」公開、スマコン追加やゼロ知識証明など実装に向け]]></title>
         <id>https://www.neweconomy.jp/?p=386187</id>
@@ -1169,17 +1190,6 @@ AIとDePINはWeb3を変える first appeared on CoinDesk JAPAN（コインデス
         <summary type="html"><![CDATA[暗号資産（仮想通貨）業界で4年に1度のビットコイン（BTC）の半減期が訪れる中、TradingViewの「ベスト暗号資産取引所2021 & 2022」の受賞歴を持つBingX（ビンエックス）のヴィヴィアン・リン氏にインタビューを実施しました。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインでルーンズプロトコルがローンチ、ユーザーがミントに殺到し送金手数料が高騰]]></title>
-        <id>https://www.coindeskjapan.com/?p=229775</id>
-        <link href="https://www.coindeskjapan.com/229775/"/>
-        <updated>2024-04-21T09:22:33.000Z</updated>
-        <summary type="html"><![CDATA[（少なくともGoogleの検索履歴によると）これまでで最も期待されていたビットコインの半減期だったにもかかわらず、注目を集めたのはビットコインの有名開発者、ケイ ...
-ビットコインでルーンズプロトコルがローンチ、ユーザーがミントに殺到し送金手数料が高騰 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
