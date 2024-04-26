@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-26T20:23:20.535Z</updated>
+    <updated>2024-04-26T21:20:01.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パンテラ、FTXの仮想通貨ソラナを追加取得]]></title>
+        <id>https://coinpost.jp/?p=527464</id>
+        <link href="https://coinpost.jp/?p=527464"/>
+        <updated>2024-04-26T20:55:51.000Z</updated>
+        <summary type="html"><![CDATA[FTX破産財団はこれまですでにロックアップされた仮想通貨SOLの約3分の2を手放した。その多くは4年後に完全にアンロックされる見込みだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2024/4/26）ビットコイン、オール3、レンジ取引のチャンスか？【楽天ウォレット】]]></title>
         <id>https://www.coindeskjapan.com/?p=230475</id>
@@ -1263,17 +1273,6 @@ AIとDePINはWeb3を変える first appeared on CoinDesk JAPAN（コインデス
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイナーに思わぬ収益、「Runes」ローンチで取引手数料が過去最高に]]></title>
-        <id>https://www.coindeskjapan.com/?p=229867</id>
-        <link href="https://www.coindeskjapan.com/229867/"/>
-        <updated>2024-04-22T08:50:34.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは先週末、4年に一度の「半減期」を迎えた。新しいデータブロックに対する報酬が50％減少するため、暗号資産（仮想通貨）マイナーの収益は激減すると思われ ...
-マイナーに思わぬ収益、「Runes」ローンチで取引手数料が過去最高に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Bradley Keoun</name>
         </author>
     </entry>
 </feed>
