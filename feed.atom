@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-25T23:22:43.431Z</updated>
+    <updated>2024-04-26T01:29:17.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2017年に米議会で掲げられた「Buy Bitcoin」のメッセージ、1.6億円で落札]]></title>
+        <id>https://coinpost.jp/?p=527263</id>
+        <link href="https://coinpost.jp/?p=527263"/>
+        <updated>2024-04-26T01:15:06.000Z</updated>
+        <summary type="html"><![CDATA[「Buy Bitcoin」と書かれた著名な法律用箋が、オークションで1.6億円で落札された。仮想通貨ビットコインで入札され、正確な落札価格は16BTCである。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランクリン・テンプルトンの「BENJI」トークン、P2P送信可能に]]></title>
+        <id>https://coinpost.jp/?p=527261</id>
+        <link href="https://coinpost.jp/?p=527261"/>
+        <updated>2024-04-26T00:40:36.000Z</updated>
+        <summary type="html"><![CDATA[米大手資産運用企業フランクリン・テンプルトンは、米国政府マネーのトークン化ファンドFOBXXで資産のピアツーピア送信を可能にしたと発表した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[強気相場継続の兆しか？　パンテラが新たな仮想通貨ファンドで1500億円以上調達計画]]></title>
+        <id>https://coinpost.jp/?p=527254</id>
+        <link href="https://coinpost.jp/?p=527254"/>
+        <updated>2024-04-25T23:30:11.000Z</updated>
+        <summary type="html"><![CDATA[2024年の仮想通貨相場感が2023年から好転しておりVCの調達案件も着実に増えている状況だ。昨日、野村グループのLaser Digitalが主導するラウンドで、zkSync Era基盤のWeb3ゲーム開発会社Tevaeraは500万ドルを調達した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コンセンシス、イーサリアム（ETH）規制めぐり米SECを提訴]]></title>
         <id>https://www.neweconomy.jp/?p=386211</id>
