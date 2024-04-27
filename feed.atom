@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-27T07:18:42.253Z</updated>
+    <updated>2024-04-27T08:25:50.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[機関投資家のDeFiリスク管理を強化、Fireblocksの新セキュリティ機能]]></title>
+        <id>https://coinpost.jp/?p=527579</id>
+        <link href="https://coinpost.jp/?p=527579"/>
+        <updated>2024-04-27T08:20:46.000Z</updated>
+        <summary type="html"><![CDATA[FireblocksがDeFi製品にdApp ProtectionとTransaction Simulationを追加。リアルタイム脅威検知と安全なトランザクション実現で、機関投資家のオンチェーン活動をサポート。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは6万4000ドル付近で横ばい──円安の進行は「通貨の混乱」のサイン：アナリスト]]></title>
         <id>https://www.coindeskjapan.com/?p=230516</id>
