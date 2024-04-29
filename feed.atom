@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-29T10:27:54.369Z</updated>
+    <updated>2024-04-29T11:20:19.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株式の信用取引とは｜現物取引との違いや効果的な投資スタイルを解説]]></title>
+        <id>https://coinpost.jp/?p=522511</id>
+        <link href="https://coinpost.jp/?p=522511"/>
+        <updated>2024-04-29T11:00:43.000Z</updated>
+        <summary type="html"><![CDATA[株の信用取引とは、最大約3.3倍のレバレッジをかけられ、売りからも始められる取引です。そのため現物取引に比べて利益の幅が大きく、投資機会が多いです。仮想通貨の分散投資先の候補として考えてみてください。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GSTの買い方｜STEPNで使われる仮想通貨の将来性、GMTとの違いを解説]]></title>
         <id>https://coinpost.jp/?p=523096</id>
@@ -739,16 +749,6 @@ NEARとSHIBが上昇をリード：CoinDesk Indicesマーケットアップデ�
 香港で暗号資産ETF承認、「手数料戦争が起こる可能性」とアナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync基盤のWeb3ゲーム企業Tevaera、野村などから7.7億円調達]]></title>
-        <id>https://coinpost.jp/?p=526940</id>
-        <link href="https://coinpost.jp/?p=526940"/>
-        <updated>2024-04-24T23:15:49.000Z</updated>
-        <summary type="html"><![CDATA[TevaeraはzkSync上でレイヤー3のゲームチェーンを立ち上げる予定で、年内に200万人のプレイヤーと12人のゲーム開発企業をTevaeraエコシステムに参加させようとしている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
