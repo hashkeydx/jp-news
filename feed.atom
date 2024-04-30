@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-30T11:21:40.326Z</updated>
+    <updated>2024-04-30T12:39:13.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/30話題】香港でBTCとETHの現物ETFが取引開始、EIgenlayerの「EIGEN」エアドロ量が確認開始]]></title>
+        <id>https://www.neweconomy.jp/?p=386823</id>
+        <link href="https://www.neweconomy.jp/posts/386823"/>
+        <updated>2024-04-30T11:27:48.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港のETFが期待外れに終わり、ビットコインは6万2000ドルを割り込む]]></title>
         <id>https://www.coindeskjapan.com/?p=230701</id>
@@ -697,16 +707,6 @@ NEARとSHIBが上昇をリード：CoinDesk Indicesマーケットアップデ�
         <summary type="html"><![CDATA[米大手資産運用企業フランクリン・テンプルトンは、米国政府マネーのトークン化ファンドFOBXXで資産のピアツーピア送信を可能にしたと発表した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[強気相場継続の兆しか？　パンテラが新たな仮想通貨ファンドで1500億円以上調達計画]]></title>
-        <id>https://coinpost.jp/?p=527254</id>
-        <link href="https://coinpost.jp/?p=527254"/>
-        <updated>2024-04-25T23:30:11.000Z</updated>
-        <summary type="html"><![CDATA[2024年の仮想通貨相場感が2023年から好転しておりVCの調達案件も着実に増えている状況だ。昨日、野村グループのLaser Digitalが主導するラウンドで、zkSync Era基盤のWeb3ゲーム開発会社Tevaeraは500万ドルを調達した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
