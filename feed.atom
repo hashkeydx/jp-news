@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-30T08:27:33.173Z</updated>
+    <updated>2024-04-30T09:25:00.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港証券取引所、ビットコインとイーサリアム現物ETFの取引開始]]></title>
+        <id>https://www.neweconomy.jp/?p=386811</id>
+        <link href="https://www.neweconomy.jp/posts/386811"/>
+        <updated>2024-04-30T09:13:28.000Z</updated>
+        <summary type="html"><![CDATA[香港でビットコインとイーサリアム現物ETFが取引開始 香港にて、ビットコイン（Bitcoin）とイーサリアム（Ethereum）の現物ETF（上場投資信託）6銘柄が、4月30日9:30（現地時間）より取引開始された。なお […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EIgenlayerが独自トークン「EIGEN」リリースへ、エアドロップ割り当て量の確認開始]]></title>
         <id>https://www.neweconomy.jp/?p=386805</id>
@@ -746,27 +756,6 @@ NEARとSHIBが上昇をリード：CoinDesk Indicesマーケットアップデ�
         <link href="https://coinpost.jp/?p=527234"/>
         <updated>2024-04-25T21:50:04.000Z</updated>
         <summary type="html"><![CDATA[Stripeは2014年に初めて仮想通貨ビットコインの決済を導入した経緯がある。しかしその4年後の2018年にビットコインのバブル崩壊を受け同社はその取り組みを中止した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープン・ファイナンスこそ未来]]></title>
-        <id>https://www.coindeskjapan.com/?p=230144</id>
-        <link href="https://www.coindeskjapan.com/230144/"/>
-        <updated>2024-04-25T21:10:00.000Z</updated>
-        <summary type="html"><![CDATA[簡単に言えば、現在の金融の構造が、何十億もの人々が基本的な金融サービスや経済的チャンスにアクセスすることを妨げている。 不均衡な金融へのアクセス 中央集権的な金 ...
-オープン・ファイナンスこそ未来 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>山口 晶子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モルガン・スタンレー、ブローカーによるビットコインETF勧誘を検討]]></title>
-        <id>https://coinpost.jp/?p=527229</id>
-        <link href="https://coinpost.jp/?p=527229"/>
-        <updated>2024-04-25T20:50:18.000Z</updated>
-        <summary type="html"><![CDATA[最近の仮想通貨ビットコインETF資金流入状況に関しては昨日、ブラックロックのIBITが1月11日ローンチ以来初めて資金流入がゼロとなり、71日連続の流入記録が終了したことが確認された。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
