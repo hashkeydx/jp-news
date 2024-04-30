@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-30T05:25:20.966Z</updated>
+    <updated>2024-04-30T06:28:51.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SECは一年前にイーサリアムの「正式調査命令」を承認していた　コンセンシスの訴状で明らかに]]></title>
+        <id>https://coinpost.jp/?p=527963</id>
+        <link href="https://coinpost.jp/?p=527963"/>
+        <updated>2024-04-30T05:45:47.000Z</updated>
+        <summary type="html"><![CDATA[米Web3企業コンセンシスは、対米SEC裁判で新たな書類を提出した。SECは一年前にイーサリアムを調査する正式命令を発行したと申し立てている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人マイナーがビットコインのブロック生成に成功、報酬3500万円相当を獲得]]></title>
+        <id>https://coinpost.jp/?p=528011</id>
+        <link href="https://coinpost.jp/?p=528011"/>
+        <updated>2024-04-30T05:34:04.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインのマイニングを行う個人マイナーがブロック生成に成功し、ブロック報酬と取引手数料で3,400万円の採掘報酬を獲得した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH再ステーキング「EigenLayer」、独自トークンをローンチへ　エアドロップ発表]]></title>
         <id>https://coinpost.jp/?p=527953</id>
