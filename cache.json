@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=225563",
+          "author": "山口 晶子",
+          "description": "彼はペテン師だった 私は2021年5月、オンラインで行われた暗号資産（仮想通貨）サミットの一環として、サム・バンクマン-フリード（Sam Bankman-Fri ...\nなぜメディアは今回、ビットコインにあまり関心を示さないのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/225563/",
+          "publishedOn": "2024-04-30T22:00:00.000Z",
+          "wordCount": 1300,
+          "title": "なぜメディアは今回、ビットコインにあまり関心を示さないのか",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/JVJ5SGO4CFFVJOL3S3VSLR4ASA.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=230701",
           "author": "Omkar Godbole",
           "description": "ビットコイン（BTC）は、香港で新たに上場されたビットコインとイーサリアムに連動する上場投資信託（ETF）の人気が低いというデータが示された後、欧州時間に売り圧 ...\n香港のETFが期待外れに終わり、ビットコインは6万2000ドルを割り込む first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -200,16 +210,6 @@
           "wordCount": 1393,
           "title": "マトリックス法によるテクニカル分析（2024/4/26）ビットコイン、オール3、レンジ取引のチャンスか？【楽天ウォレット】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/tr-thumb_240426.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=230435",
-          "author": "Sam Reynolds",
-          "description": "ビットコイン上場投資信託（ETF）からの資金流出が大幅に増加する中でも、ビットコイン（BTC）はアジア取引時間の午後に6万4000ドルを超えて取引されている。  ...\nビットコイン、ETFからの流出が拡大するも6万4000ドル台で安定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/230435/",
-          "publishedOn": "2024-04-26T10:15:00.000Z",
-          "wordCount": 1303,
-          "title": "ビットコイン、ETFからの流出が拡大するも6万4000ドル台で安定",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_1231385731.jpg"
         }
       ]
     },
@@ -224,6 +224,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=528280",
+          "author": "K.Kobayashi",
+          "description": "日本にXRPL基盤の企業向けソリューションを導入するため、リップル社とHashKey DXが提携。このソリューションを最初に利用するのはSBIグループの企業である。",
+          "link": "https://coinpost.jp/?p=528280",
+          "publishedOn": "2024-04-30T22:20:26.000Z",
+          "wordCount": 2504,
+          "title": "日本にXRPL基盤の企業向けソリューション導入へ　リップル社・HashKey・SBIが連携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=528272",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所Binance Japanは今年2月に、ラップドビットコイン、ファイルコイン、スイに対応追加。国内では、最多のラインアップを有する取引所として50銘柄を提供。",
+          "link": "https://coinpost.jp/?p=528272",
+          "publishedOn": "2024-04-30T21:45:59.000Z",
+          "wordCount": 2419,
+          "title": "バイナンスジャパン、ソラナ・XRPなどで日本円取引拡充",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=528256",
           "author": "菊谷ルイス",
