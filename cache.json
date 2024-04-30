@@ -265,6 +265,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=527975",
+          "author": "CoinPost編集部",
+          "description": "CoinPostが主催する日本最大のWeb3カンファレンス「WebX2024」。最大73%割引のお得な開幕セールは2024年4月30日まで実施中です。",
+          "link": "https://coinpost.jp/?p=527975",
+          "publishedOn": "2024-04-30T01:12:10.000Z",
+          "wordCount": 2450,
+          "title": "WebX2024、最大73%割引の開幕セール限定チケットは本日販売終了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/webx202401.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/webx202401.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=526088",
+          "author": "M.Somekawa",
+          "description": "Binance Japan株式会社はオンラインプレスセミナーを開催。代表取締役である千野剛司氏が登壇した。「2024年ビットコイン半減期と暗号資産市場の展望」をテーマに、メカニズムや価格動向、今後の注目点をまとめた。",
+          "link": "https://coinpost.jp/?p=526088",
+          "publishedOn": "2024-04-30T01:00:18.000Z",
+          "wordCount": 2540,
+          "title": "半減期後のビットコイン市場、過去のトレンドと現在の特異点　Binance Japan千野氏",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/bitcoin-extension-of-western-civil.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/bitcoin-extension-of-western-civil.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=522511",
           "author": "CoinPost編集部",
           "description": "株の信用取引とは、最大約3.3倍のレバレッジをかけられ、売りからも始められる取引です。そのため現物取引に比べて利益の幅が大きく、投資機会が多いです。仮想通貨の分散投資先の候補として考えてみてください。",
@@ -725,16 +755,6 @@
           "wordCount": 633,
           "title": "米コンセンシス、イーサリアム（ETH）規制めぐり米SECを提訴",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/26082119/d36f5580bb51e3d7b6da8a1a5d485fe1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=386187",
-          "author": "HitomotoToshikazu",
-          "description": "ビットコイン改善提案「BIP-420」が公開 ビットコイン（BTC）におけるスマートコントラクト実装などの機能拡充に向けた、改善提案「BIP-420」が正式公開された。「BIP-420」提案者ウディ・ヴェルトハイマー（U […]",
-          "link": "https://www.neweconomy.jp/posts/386187",
-          "publishedOn": "2024-04-25T13:00:10.000Z",
-          "wordCount": 675,
-          "title": "ビットコインの改善提案「BIP420」公開、スマコン追加やゼロ知識証明など実装に向け",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/04/25215856/d511f226d009bc39196245c0fd9fb9fd.jpg"
         }
       ]
     }

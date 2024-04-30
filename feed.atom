@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-29T23:21:33.259Z</updated>
+    <updated>2024-04-30T01:29:16.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WebX2024、最大73%割引の開幕セール限定チケットは本日販売終了]]></title>
+        <id>https://coinpost.jp/?p=527975</id>
+        <link href="https://coinpost.jp/?p=527975"/>
+        <updated>2024-04-30T01:12:10.000Z</updated>
+        <summary type="html"><![CDATA[CoinPostが主催する日本最大のWeb3カンファレンス「WebX2024」。最大73%割引のお得な開幕セールは2024年4月30日まで実施中です。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半減期後のビットコイン市場、過去のトレンドと現在の特異点　Binance Japan千野氏]]></title>
+        <id>https://coinpost.jp/?p=526088</id>
+        <link href="https://coinpost.jp/?p=526088"/>
+        <updated>2024-04-30T01:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Binance Japan株式会社はオンラインプレスセミナーを開催。代表取締役である千野剛司氏が登壇した。「2024年ビットコイン半減期と暗号資産市場の展望」をテーマに、メカニズムや価格動向、今後の注目点をまとめた。]]></summary>
+        <author>
+            <name>M.Somekawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融大手が手がける暗号資産：金融の未来がやってきた]]></title>
         <id>https://www.coindeskjapan.com/?p=230129</id>
@@ -598,16 +618,6 @@ NEARとSHIBが上昇をリード：CoinDesk Indicesマーケットアップデ�
         <summary type="html"><![CDATA[最近の仮想通貨ビットコインETF資金流入状況に関しては昨日、ブラックロックのIBITが1月11日ローンチ以来初めて資金流入がゼロとなり、71日連続の流入記録が終了したことが確認された。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの改善提案「BIP420」公開、スマコン追加やゼロ知識証明など実装に向け]]></title>
-        <id>https://www.neweconomy.jp/?p=386187</id>
-        <link href="https://www.neweconomy.jp/posts/386187"/>
-        <updated>2024-04-25T13:00:10.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン改善提案「BIP-420」が公開 ビットコイン（BTC）におけるスマートコントラクト実装などの機能拡充に向けた、改善提案「BIP-420」が正式公開された。「BIP-420」提案者ウディ・ヴェルトハイマー（U […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
