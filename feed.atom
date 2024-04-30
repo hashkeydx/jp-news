@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-04-30T20:22:22.307Z</updated>
+    <updated>2024-04-30T21:22:07.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1つのソラナミームコインの時価総額が300兆ドルに、その理由は]]></title>
+        <id>https://coinpost.jp/?p=528256</id>
+        <link href="https://coinpost.jp/?p=528256"/>
+        <updated>2024-04-30T21:15:21.000Z</updated>
+        <summary type="html"><![CDATA[この仮想通貨ミームコインの9割以上の発行数はトークン発行者に保有されており、「凍結権限」が発動されたため、購入した投資家はトークンの送信をすることができなくなっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米マイクロストラテジー、4月にもビットコイン買い増し]]></title>
+        <id>https://coinpost.jp/?p=528249</id>
+        <link href="https://coinpost.jp/?p=528249"/>
+        <updated>2024-04-30T20:50:02.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインを大量に保有しているが、2024年1Q業績については、売上高は前年同期比5%減の1億1,520万ドルとなった。株価は暴落している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/30話題】香港でBTCとETHの現物ETFが取引開始、EIgenlayerの「EIGEN」エアドロ量が確認開始]]></title>
         <id>https://www.neweconomy.jp/?p=386823</id>
@@ -554,16 +574,6 @@ NEARとSHIBが上昇をリード：CoinDesk Indicesマーケットアップデ�
 ビットコイン、ETFからの流出が拡大するも6万4000ドル台で安定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オーケーコインジャパンにオプティミズム（OP）上場へ、国内3例目]]></title>
-        <id>https://www.neweconomy.jp/?p=386323</id>
-        <link href="https://www.neweconomy.jp/posts/386323"/>
-        <updated>2024-04-26T08:23:21.000Z</updated>
-        <summary type="html"><![CDATA[オーケーコインジャパンがOP取り扱いへ 国内暗号資産（仮想通貨）取引所オーケーコイン・ジャパン（OKCoinJapan）が、暗号資産オプティミズム（OP）の取り扱い予定を4月26日発表した。取り扱い開始は5月9日17:0 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
