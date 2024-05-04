@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-04T09:22:22.267Z</updated>
+    <updated>2024-05-04T10:25:24.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Web3.0 - 分散型テクノロジーの未来」Gavin Wood（ギャビン・ウッド）氏講演レポート]]></title>
+        <id>https://coinpost.jp/?p=511400</id>
+        <link href="https://coinpost.jp/?p=511400"/>
+        <updated>2024-05-04T10:00:25.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、Gavin Wood（ギャヴィン・ウッド）氏の「Web3.0 - 分散型テクノロジーの未来」東京大学とMbSC2030共済の講演をレポート。社会での「真実」と「信頼」の役割や分散型社会の構築についての洞察、CBDCや経済分散化の討論を紹介します。]]></summary>
+        <author>
+            <name>M.Somekawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FXの「スワップポイント」とは｜概念や特徴、おすすめ運用方法も解説]]></title>
         <id>https://coinpost.jp/?p=513502</id>
@@ -1023,17 +1033,6 @@ Wasabi WalletとPhoenixが米国から撤退──「ノンカストディアル
 強気相場は終わったかもしれない：2018年のビットコイン下落を予測したベテラン チャートアナリストが示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Base」が次世代の暗号資産ユーザーを獲得し得る理由]]></title>
-        <id>https://www.coindeskjapan.com/?p=230400</id>
-        <link href="https://www.coindeskjapan.com/230400/"/>
-        <updated>2024-04-29T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは今年、誕生から15年を迎えた。そして今、我々は1990年代と同じような段階にいる。つまり、暗号資産（仮想通貨）はインターネットと同様に、ブロックチ ...
-「Base」が次世代の暗号資産ユーザーを獲得し得る理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Kelly Ye</name>
         </author>
     </entry>
 </feed>
