@@ -300,16 +300,6 @@
           "wordCount": 1370,
           "title": "チャンポン・ジャオ被告、禁錮4カ月",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/image-1-710x458-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=225563",
-          "author": "山口 晶子",
-          "description": "彼はペテン師だった 私は2021年5月、オンラインで行われた暗号資産（仮想通貨）サミットの一環として、サム・バンクマン-フリード（Sam Bankman-Fri ...\nなぜメディアは今回、ビットコインにあまり関心を示さないのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/225563/",
-          "publishedOn": "2024-04-30T22:00:00.000Z",
-          "wordCount": 1300,
-          "title": "なぜメディアは今回、ビットコインにあまり関心を示さないのか",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/JVJ5SGO4CFFVJOL3S3VSLR4ASA.jpg"
         }
       ]
     },
@@ -324,6 +314,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=522457",
+          "author": "CoinPost編集部",
+          "description": "自治体のPR活動や魅力的な返礼品の充実により、受入額と受入件数は増加し続けています。本記事では、「ふるさと納税の寄附額の推移」や「人気の自治体ランキングTOP10」「ビットコインを受け取る方法」の3つを解説しています。",
+          "link": "https://coinpost.jp/?p=522457",
+          "publishedOn": "2024-05-05T10:00:25.000Z",
+          "wordCount": 2578,
+          "title": "ふるさと納税受入額が約1兆円に、最新人気自治体ランキングTOP10",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/head.ranking.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/head.ranking.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=522506",
           "author": "CoinPost編集部",
@@ -758,36 +763,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=528280",
-          "author": "K.Kobayashi",
-          "description": "日本にXRPL基盤の企業向けソリューションを導入するため、リップル社とHashKey DXが提携。このソリューションを最初に利用するのはSBIグループの企業である。",
-          "link": "https://coinpost.jp/?p=528280",
-          "publishedOn": "2024-04-30T22:20:26.000Z",
-          "wordCount": 2504,
-          "title": "日本にXRPL基盤の企業向けソリューション導入へ　リップル社・HashKey・SBIが連携",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=528272",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨取引所Binance Japanは今年2月に、ラップドビットコイン、ファイルコイン、スイに対応追加。国内では、最多のラインアップを有する取引所として50銘柄を提供。",
-          "link": "https://coinpost.jp/?p=528272",
-          "publishedOn": "2024-04-30T21:45:59.000Z",
-          "wordCount": 2419,
-          "title": "バイナンスジャパン、ソラナ・XRPなどで日本円取引拡充",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
         }
       ]
     },

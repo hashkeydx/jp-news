@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-05T09:23:55.471Z</updated>
+    <updated>2024-05-05T10:26:17.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ふるさと納税受入額が約1兆円に、最新人気自治体ランキングTOP10]]></title>
+        <id>https://coinpost.jp/?p=522457</id>
+        <link href="https://coinpost.jp/?p=522457"/>
+        <updated>2024-05-05T10:00:25.000Z</updated>
+        <summary type="html"><![CDATA[自治体のPR活動や魅力的な返礼品の充実により、受入額と受入件数は増加し続けています。本記事では、「ふるさと納税の寄附額の推移」や「人気の自治体ランキングTOP10」「ビットコインを受け取る方法」の3つを解説しています。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ふるさと納税とは｜投資利益に対する税金を軽減できる仕組みを解説]]></title>
         <id>https://coinpost.jp/?p=522506</id>
@@ -833,37 +843,6 @@ Wasabi WalletとPhoenixが米国から撤退──「ノンカストディアル
 チャンポン・ジャオ被告、禁錮4カ月 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本にXRPL基盤の企業向けソリューション導入へ　リップル社・HashKey・SBIが連携]]></title>
-        <id>https://coinpost.jp/?p=528280</id>
-        <link href="https://coinpost.jp/?p=528280"/>
-        <updated>2024-04-30T22:20:26.000Z</updated>
-        <summary type="html"><![CDATA[日本にXRPL基盤の企業向けソリューションを導入するため、リップル社とHashKey DXが提携。このソリューションを最初に利用するのはSBIグループの企業である。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜメディアは今回、ビットコインにあまり関心を示さないのか]]></title>
-        <id>https://www.coindeskjapan.com/?p=225563</id>
-        <link href="https://www.coindeskjapan.com/225563/"/>
-        <updated>2024-04-30T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[彼はペテン師だった 私は2021年5月、オンラインで行われた暗号資産（仮想通貨）サミットの一環として、サム・バンクマン-フリード（Sam Bankman-Fri ...
-なぜメディアは今回、ビットコインにあまり関心を示さないのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>山口 晶子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンスジャパン、ソラナ・XRPなどで日本円取引拡充]]></title>
-        <id>https://coinpost.jp/?p=528272</id>
-        <link href="https://coinpost.jp/?p=528272"/>
-        <updated>2024-04-30T21:45:59.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所Binance Japanは今年2月に、ラップドビットコイン、ファイルコイン、スイに対応追加。国内では、最多のラインアップを有する取引所として50銘柄を提供。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
