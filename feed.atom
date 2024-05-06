@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-06T21:21:41.003Z</updated>
+    <updated>2024-05-06T22:26:35.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グローバルで不統一なステーブルコイン規制、対応に現れるテザーとサークルの違い]]></title>
+        <id>https://www.coindeskjapan.com/?p=229257</id>
+        <link href="https://www.coindeskjapan.com/229257/"/>
+        <updated>2024-05-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最大規模の米ドル連動型ステーブルコインを発行するTether（テザー）とCircle（サークル）は、伝統的な金融ルールに縛られたシステムが暗号資産エコノミーにま ...
+グローバルで不統一なステーブルコイン規制、対応に現れるテザーとサークルの違い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再び盛り上がるDeFiが直面する4大リスク──スケール、スピード、複雑性、相互接続性]]></title>
         <id>https://www.coindeskjapan.com/?p=230694</id>
@@ -382,27 +393,6 @@ FTXヨーロッパの元代表、タイタニックの遺品を過去最高額�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ビットコインETF、FRB利上げ見送りでも過去最高の5億6300万ドル流出]]></title>
-        <id>https://www.coindeskjapan.com/?p=230980</id>
-        <link href="https://www.coindeskjapan.com/230980/"/>
-        <updated>2024-05-02T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ連邦準備制度理事会（FRB）のジェローム・パウエル（Jerome Powell）議長が利上げの見通しを否定したことを受けても、投資家はアメリカのビットコ ...
-米ビットコインETF、FRB利上げ見送りでも過去最高の5億6300万ドル流出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーベ（AAVE）、v4開発に向け温度感チェック実施へ]]></title>
-        <id>https://www.neweconomy.jp/?p=387432</id>
-        <link href="https://www.neweconomy.jp/posts/387432"/>
-        <updated>2024-05-02T09:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Aave v4プロトコルの開発に向けた温度感チェック実施へ DeFi（分散型金融）レンディングプラットフォーム「Aave（アーベ）」開発元のAave Labs（アーベラボ）が、「Aave」新バージョンのプロトコル「Aav […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
