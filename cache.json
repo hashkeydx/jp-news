@@ -525,7 +525,18 @@
       "title": "ニュース – あたらしい経済",
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=387740",
+          "author": "OtsugaShinya",
+          "description": "ロビンフッドが米SECから「ウェルズ通知」 投資アプリ提供の米ロビンフッド・マーケッツ（Robinhood Markets）が、同社アプリ上で取引されている暗号資産（仮想通貨）をめぐり、5月4日に米SEC（証券取引委員会 […]",
+          "link": "https://www.neweconomy.jp/posts/387740",
+          "publishedOn": "2024-05-07T03:13:30.000Z",
+          "wordCount": 794,
+          "title": "ロビンフッドが米SECから強制措置の警告、暗号資産取引の提供で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/07121324/521fa06123d58b3013583270a2a7a97f.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
