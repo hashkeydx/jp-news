@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-07T11:21:18.094Z</updated>
+    <updated>2024-05-07T12:39:14.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アスター、「Astar zkEVM」上でのTGE支援プログラム「TGE Catalyst Grant」発表]]></title>
+        <id>https://www.neweconomy.jp/?p=387878</id>
+        <link href="https://www.neweconomy.jp/posts/387878"/>
+        <updated>2024-05-07T12:29:07.000Z</updated>
+        <summary type="html"><![CDATA[「Astar zkEVM」上でのTGE支援プログラムが公開 イーサリアム（Ethereum）のレイヤー2ブロックチェーン「Astar zkEVM」上でのTGE（トークン生成イベント）を支援する「TGE Catalyst  […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIトークンが暗号資産市場の回復を牽引──エヌビディア決算への期待が高まる]]></title>
+        <id>https://www.coindeskjapan.com/?p=231273</id>
+        <link href="https://www.coindeskjapan.com/231273/"/>
+        <updated>2024-05-07T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[人工知能（AI）を活用しているとされるブロックチェーンプロジェクトのネイティブ暗号資産（仮想通貨）が、ここ数日の暗号資産市場の回復を牽引しており、ナスダック上場 ...
+AIトークンが暗号資産市場の回復を牽引──エヌビディア決算への期待が高まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/7話題】ロビンフッドが米SECから強制措置の警告、JPYCが電算システムから資金調達など]]></title>
         <id>https://www.neweconomy.jp/?p=387818</id>
@@ -545,17 +566,6 @@ LRT（リキッド・リステーキング・トークン）とは？ なぜ重�
         <summary type="html"><![CDATA[仮想通貨ソラナの開発を行うソラナラボは、独自Web3ゲームプラットフォーム「GameShift」とグーグルクラウドの提携を発表した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTXヨーロッパの元代表、タイタニックの遺品を過去最高額で落札]]></title>
-        <id>https://www.coindeskjapan.com/?p=231008</id>
-        <link href="https://www.coindeskjapan.com/231008/"/>
-        <updated>2024-05-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FTXヨーロッパ（FTX Europe）の元代表であるパトリック・グルーン（Patrick Gruhn）氏は、タイタニック号の最も裕福な乗客の遺体から回収された ...
-FTXヨーロッパの元代表、タイタニックの遺品を過去最高額で落札 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
         </author>
     </entry>
 </feed>
