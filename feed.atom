@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-08T10:28:31.078Z</updated>
+    <updated>2024-05-08T11:21:22.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【5/8話題】FTXが再編計画修正案を提出、グレースケールがイーサリアム先物ETFの申請を撤回]]></title>
+        <id>https://www.neweconomy.jp/?p=388198</id>
+        <link href="https://www.neweconomy.jp/posts/388198"/>
+        <updated>2024-05-08T11:06:38.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットパンダ、銀行との提携でオーストリアでの存在感を拡大──欧州以外ではUAEに進出]]></title>
         <id>https://www.coindeskjapan.com/?p=231401</id>
@@ -752,27 +762,6 @@ RWAトークン化大手セキュリタイズ、4700万ドル（72億円）調�
 LRT（リキッド・リステーキング・トークン）とは？ なぜ重要なのか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>山口 晶子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜEigenLayerのエアドロップは物議を醸しているのか]]></title>
-        <id>https://www.coindeskjapan.com/?p=230832</id>
-        <link href="https://www.coindeskjapan.com/230832/"/>
-        <updated>2024-05-03T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム・リステーキングのパイオニアであるEigenLayer（アイゲンレイヤー）のユーザー（その多くは、新しいEIGENトークンの大規模なエアドロップで恩 ...
-なぜEigenLayerのエアドロップは物議を醸しているのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Daniel Kuhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケールのビットコインETFに約100億円の資金、1月デビュー以来初の純流入]]></title>
-        <id>https://coinpost.jp/?p=528701</id>
-        <link href="https://coinpost.jp/?p=528701"/>
-        <updated>2024-05-03T22:50:33.000Z</updated>
-        <summary type="html"><![CDATA[GBTCはローンチ以来78日連続ですべて純流出だったが、今回はデビュー以来初の純流入となった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
