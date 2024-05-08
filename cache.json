@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=231464",
+          "author": "Omkar Godbole",
+          "description": "1週間前、暗号資産（仮想通貨）取引所ビットメックス（BitMEX）の創業者で元CEOのアーサー・ヘイズ（Arthur Hayes）氏は、ビットコイン（BTC）は ...\nビットコインの主要な指標、暗号資産市場が平穏期に入ることを予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/231464/",
+          "publishedOn": "2024-05-08T12:20:00.000Z",
+          "wordCount": 1278,
+          "title": "ビットコインの主要な指標、暗号資産市場が平穏期に入ることを予測",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/OMBGWFKFMBAJHG2VSOTYH4YCGE.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=231401",
           "author": "Ian Allison",
           "description": "オーストリアの暗号資産（仮想通貨）取引所ビットパンダ（Bitpanda）は、同国のライファイゼン（Raiffeisen）銀行とのウィーンでの提携を拡大し、同国内 ...\nビットパンダ、銀行との提携でオーストリアでの存在感を拡大──欧州以外ではUAEに進出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -280,16 +290,6 @@
           "wordCount": 1295,
           "title": "ビットコインのボラティリティが低下。成熟するにつれてこの傾向は続く：フィデリティ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/03/btc0306.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=223044",
-          "author": "山口 晶子",
-          "description": "LRT（Liquid Restaking Tokens：リキッド・リステーキング・トークン）のリーダーであるEigenLayer（アイゲンレイヤー）のTVL（預 ...\nLRT（リキッド・リステーキング・トークン）とは？ なぜ重要なのか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/223044/",
-          "publishedOn": "2024-05-04T00:00:00.000Z",
-          "wordCount": 1328,
-          "title": "LRT（リキッド・リステーキング・トークン）とは？ なぜ重要なのか？",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/shutterstock_662800036.jpg"
         }
       ]
     },
@@ -304,6 +304,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=529294",
+          "author": "CoinPost編集部",
+          "description": "国内最大手暗号資産（仮想通貨）メディアCoinPostが企画・運営するWeb3カンファレンス「WebX2024」。先着順の読者限定割引コードを配布開始しました。",
+          "link": "https://coinpost.jp/?p=529294",
+          "publishedOn": "2024-05-08T11:31:39.000Z",
+          "wordCount": 2514,
+          "title": "日本最大のWeb3カンファレンス「WebX2024」、先着順の読者限定割引コードを配布開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/webx2024.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/webx2024.png"
+        },
         {
           "id": "https://coinpost.jp/?p=529397",
           "author": "幸田直子",
@@ -678,21 +693,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/Solana-0630.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/Solana-0630.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=528702",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨ビットコインを大量保有するマイクロストラテジーのマイケル・セイラー会長は、イーサリアムなどのアルトコインは証券に該当すると主張。それらの銘柄の現物ETFは米国で承認されないだろうと述べている。",
-          "link": "https://coinpost.jp/?p=528702",
-          "publishedOn": "2024-05-04T00:00:44.000Z",
-          "wordCount": 2438,
-          "title": "「イーサやソラナなどは有価証券」ビットコイン強気派M・セイラー氏が主張",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
         }
       ]
     },
