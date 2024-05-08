@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-08T21:22:14.348Z</updated>
+    <updated>2024-05-08T22:25:47.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨zkSync基盤のSophon、ノード販売で93億円調達]]></title>
+        <id>https://coinpost.jp/?p=529627</id>
+        <link href="https://coinpost.jp/?p=529627"/>
+        <updated>2024-05-08T22:20:56.000Z</updated>
+        <summary type="html"><![CDATA[ノード販売とは、Sophonチェーンのノードを運用するためのNFT（ERC-721規格）ライセンスの販売で、早期段階でプロジェクトの仮想通貨トークンを割引価格で入手させるいわゆるトークンセールの一種だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカの金融業界、マルチアセット取引のための共有台帳技術を共同研究]]></title>
+        <id>https://www.coindeskjapan.com/?p=231446</id>
+        <link href="https://www.coindeskjapan.com/231446/"/>
+        <updated>2024-05-08T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シティ（Citi）、JPモルガン（JPMorgan）、マスターカード（Mastercard）、スウィフト（Swift）、デロイト（Deloitte）は、金融サー ...
+アメリカの金融業界、マルチアセット取引のための共有台帳技術を共同研究 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Amitoj Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Scientific黒字転換、1Qに270億円相当のビットコインを採掘]]></title>
+        <id>https://coinpost.jp/?p=529619</id>
+        <link href="https://coinpost.jp/?p=529619"/>
+        <updated>2024-05-08T21:45:52.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダック上場の仮想通貨ビットコインマイニング企業コア・サイエンティフィック社は、2024年第1四半期に2,825 BTCを自己採掘した。しかし半減期による影響はまだ反映されていない。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ライラ・ファイナンス、リキッドリステーキングトークンの保有者に追加の利回りを提供]]></title>
+        <id>https://www.coindeskjapan.com/?p=231423</id>
+        <link href="https://www.coindeskjapan.com/231423/"/>
+        <updated>2024-05-08T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[分散型オプションプラットフォームのライラ・ファイナンス（Lyra Finance）は、リキッドリステーキングトークン（LRT）の保有者が追加利回りを得られるよう ...
+ライラ・ファイナンス、リキッドリステーキングトークンの保有者に追加の利回りを提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インドネシア規制当局、暗号資産業界の運営とコンプライアンスを監視する委員会を設置]]></title>
         <id>https://www.coindeskjapan.com/?p=231413</id>
@@ -710,16 +752,6 @@ RWAオンチェーン・プライベート・クレジットとは──メイ�
 取引開始からの流出がようやく途切れる──グレイスケールのビットコインETF、初の純流入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Web3.0 - 分散型テクノロジーの未来」Gavin Wood（ギャビン・ウッド）氏講演レポート]]></title>
-        <id>https://coinpost.jp/?p=511400</id>
-        <link href="https://coinpost.jp/?p=511400"/>
-        <updated>2024-05-04T10:00:25.000Z</updated>
-        <summary type="html"><![CDATA[この記事では、Gavin Wood（ギャヴィン・ウッド）氏の「Web3.0 - 分散型テクノロジーの未来」東京大学とMbSC2030共済の講演をレポート。社会での「真実」と「信頼」の役割や分散型社会の構築についての洞察、CBDCや経済分散化の討論を紹介します。]]></summary>
-        <author>
-            <name>M.Somekawa</name>
         </author>
     </entry>
 </feed>
