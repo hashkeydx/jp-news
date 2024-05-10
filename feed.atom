@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-10T21:22:23.383Z</updated>
+    <updated>2024-05-10T22:26:24.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナJupiter、モバイルアプリのリリース時期発表]]></title>
+        <id>https://coinpost.jp/?p=530095</id>
+        <link href="https://coinpost.jp/?p=530095"/>
+        <updated>2024-05-10T22:00:16.000Z</updated>
+        <summary type="html"><![CDATA[モバイル版の最新情報のほか、Jupiterは第三回のLFG投票の予定についても情報を公開。来週あたりに新たなローンチパッド候補の仮想通貨プロジェクトを公開し、5月22日から投票を開始する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TONとRNDR、13%以上の上昇──ビットコインは一時6万3000ドル台を回復]]></title>
         <id>https://www.coindeskjapan.com/?p=231875</id>
@@ -1212,17 +1222,6 @@ AIトークンが暗号資産市場の回復を牽引──エヌビディア決
 再び盛り上がるDeFiが直面する4大リスク──スケール、スピード、複雑性、相互接続性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jesus Rodriguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン、リアルな人間による取引高は10％以下：リサーチ]]></title>
-        <id>https://www.coindeskjapan.com/?p=231182</id>
-        <link href="https://www.coindeskjapan.com/231182/"/>
-        <updated>2024-05-06T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインの取引高のうち、オーガニックなもの、あるいはリアルな人間によるものは10％未満であることがVisaとデータプラットフォームAllium Labs ...
-ステーブルコイン、リアルな人間による取引高は10％以下：リサーチ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
