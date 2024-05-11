@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-11T05:25:21.605Z</updated>
+    <updated>2024-05-11T06:27:05.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン上のステーブルコイン発行計画　Taproot Assetsのテストが進行]]></title>
+        <id>https://coinpost.jp/?p=530151</id>
+        <link href="https://coinpost.jp/?p=530151"/>
+        <updated>2024-05-11T06:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Lightning LabsのCEOエリザベス・スターク氏が、暗号資産（仮想通貨）ビットコインのブロックチェーンにステーブルコインを導入する新技術「Taproot Assetsプロトコル」について解説。ライトニングネットワークを使った即時、低手数料の国際取引が可能に。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Friend.TechなどでBaseがイーサリアムL2を主導」フランクリン・テンプルトン分析]]></title>
         <id>https://coinpost.jp/?p=530155</id>
