@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-11T09:22:35.884Z</updated>
+    <updated>2024-05-11T10:28:04.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは6万1000ドル割れ、緩やかな上昇基調は終了]]></title>
+        <id>https://www.coindeskjapan.com/?p=231889</id>
+        <link href="https://www.coindeskjapan.com/231889/"/>
+        <updated>2024-05-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[5月10日朝の米国市場でビットコイン（BTC）の価格は急落し、6万3500ドルに達していた上昇基調を反転させた。 急落の主な要因は、米国の経済指標が期待外れだっ ...
+ビットコインは6万1000ドル割れ、緩やかな上昇基調は終了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shun Ide</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン上のステーブルコイン発行計画　Taproot Assetsのテストが進行]]></title>
         <id>https://coinpost.jp/?p=530151</id>
@@ -1313,17 +1324,6 @@ AIトークンが暗号資産市場の回復を牽引──エヌビディア決
 ビットコインは6万3000ドルに下落──暗号資産市場にアメリカの規制圧力 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グローバルで不統一なステーブルコイン規制、対応に現れるテザーとサークルの違い]]></title>
-        <id>https://www.coindeskjapan.com/?p=229257</id>
-        <link href="https://www.coindeskjapan.com/229257/"/>
-        <updated>2024-05-06T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最大規模の米ドル連動型ステーブルコインを発行するTether（テザー）とCircle（サークル）は、伝統的な金融ルールに縛られたシステムが暗号資産エコノミーにま ...
-グローバルで不統一なステーブルコイン規制、対応に現れるテザーとサークルの違い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>
