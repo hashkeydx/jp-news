@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-13T11:19:29.270Z</updated>
+    <updated>2024-05-13T12:41:26.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、6万ドルを割れば「パニック売り」が始まる可能性]]></title>
+        <id>https://www.coindeskjapan.com/?p=232059</id>
+        <link href="https://www.coindeskjapan.com/232059/"/>
+        <updated>2024-05-13T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[FxProのシニア・アナリスト、アレックス・クプツィケビッチ（Alex Kuptsikevich）氏によると、ビットコイン（BTC）は今後数日のうちに6万ドル台 ...
+ビットコイン、6万ドルを割れば「パニック売り」が始まる可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/13話題】バイナンスがインドでの業務再開目指す、SBI VCトレードにAPT・HBAR・ZPG上場へなど]]></title>
         <id>https://www.neweconomy.jp/?p=389171</id>
@@ -964,17 +975,6 @@ MarketVector、人気のミームコインを追跡するインデックスを�
         <summary type="html"><![CDATA[Polyhedra Networkが新たに発表したZK証明プルーバー「Expander」は、業界標準を超えるゼロ知識証明の生成スピードを実現し、セキュリティと効率を大幅に向上する。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインチェック、米ナスダック上場計画を再度前進]]></title>
-        <id>https://www.coindeskjapan.com/?p=231487</id>
-        <link href="https://www.coindeskjapan.com/231487/"/>
-        <updated>2024-05-08T23:38:16.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所大手のコインチェックが米ナスダック上場の計画を再び前進させた。 同社は5月8日、「Coincheck Group B.V.のThund ...
-コインチェック、米ナスダック上場計画を再度前進 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
