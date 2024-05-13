@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-13T05:28:21.729Z</updated>
+    <updated>2024-05-13T06:30:04.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップルCEO「米国政府は、ステーブルコインUSDT発行企業のテザー社を標的にしている」]]></title>
+        <id>https://coinpost.jp/?p=530427</id>
+        <link href="https://coinpost.jp/?p=530427"/>
+        <updated>2024-05-13T06:05:34.000Z</updated>
+        <summary type="html"><![CDATA[リップル社のブラッド・ガーリングハウスCEOはインタビューで、米国政府がステーブルコインUSDTの発行企業テザーに監視の目を強めていることを注視していると語った。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユニスワップ創設者ら、SECの仮想通貨規制はバイデンの大統領選に悪影響と指摘]]></title>
+        <id>https://coinpost.jp/?p=530402</id>
+        <link href="https://coinpost.jp/?p=530402"/>
+        <updated>2024-05-13T05:32:09.000Z</updated>
+        <summary type="html"><![CDATA[ユニスワップの創設者らは仮想通貨業界に対する米SECの姿勢を批判し、大統領選で現職バイデン氏の再選に不利になる可能性を示唆した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、コインベースの仮抗告申し立て却下を裁判所に要請]]></title>
         <id>https://www.neweconomy.jp/?p=389038</id>
