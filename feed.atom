@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-14T05:26:45.924Z</updated>
+    <updated>2024-05-14T06:30:25.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベースのシステム全体が停止中、現在は問題調査中]]></title>
+        <id>https://www.neweconomy.jp/?p=389391</id>
+        <link href="https://www.neweconomy.jp/posts/389391"/>
+        <updated>2024-05-14T06:27:53.000Z</updated>
+        <summary type="html"><![CDATA[コインベースがシステム障害 5月14日15:22現在、米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）のウェブサイトに現在アクセスが出来ない状況だ。日本時間5月14日13:34に同社のCoinbase S […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米Coinbase、オフラインに]]></title>
+        <id>https://www.coindeskjapan.com/?p=232157</id>
+        <link href="https://www.coindeskjapan.com/232157/"/>
+        <updated>2024-05-14T05:56:55.000Z</updated>
+        <summary type="html"><![CDATA[米暗号資産取引所Coinbase（コインベース）がオフラインになっている。日本時間14日15時現在、同取引所のWebサイトにアクセスすると「503 Servic ...
+米Coinbase、オフラインに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fireblocks、認可済みカストディアンへのネットワーク提供へ、NYDFS規制下の信託会社設立も]]></title>
+        <id>https://www.neweconomy.jp/?p=389367</id>
+        <link href="https://www.neweconomy.jp/posts/389367"/>
+        <updated>2024-05-14T05:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Fireblocksが高まる規制基準に対応する取り組み開始 米Fireblocks（ファイアブロックス）が、規制認可されたデジタル資産カストディアンによるグローバルネットワーク「Fireblocks Global Cus […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米暗号資産団体がPAC発足、連邦議会選の候補支援　会員44万人から資金募る]]></title>
         <id>https://www.neweconomy.jp/?p=389329</id>
