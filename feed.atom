@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-15T10:28:22.009Z</updated>
+    <updated>2024-05-15T11:19:37.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トルネード・キャッシュ開発者、5年4カ月の実刑判決]]></title>
+        <id>https://www.coindeskjapan.com/?p=232240</id>
+        <link href="https://www.coindeskjapan.com/232240/"/>
+        <updated>2024-05-15T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[トルネード・キャッシュ（Tornado Cash）の開発者、アレクセイ・ペルツェフ（Alexey Pertsev）氏が5月14日、オランダの裁判でマネーロンダリ ...
+トルネード・キャッシュ開発者、5年4カ月の実刑判決 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shun Ide</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヴィタリック、コールデータ用の新ガス料金システム導入する「EIP-7706」発表]]></title>
         <id>https://www.neweconomy.jp/?p=389790</id>
@@ -987,26 +998,6 @@ DePIN（分散型物理インフラ・ネットワーク）：VCが注目する�
 アメリカは米ドルのコントロールを失うかもしれない？／暗号資産企業の提訴が止まらない【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ARK、イーサリアム現物ETFの申請からステーキング要素取り除く]]></title>
-        <id>https://coinpost.jp/?p=530106</id>
-        <link href="https://coinpost.jp/?p=530106"/>
-        <updated>2024-05-10T23:00:12.000Z</updated>
-        <summary type="html"><![CDATA[現在、5月中に仮想通貨イーサリアムの現物ETFが承認される期待はすでに大幅に後退。専門家らはその可能性を2ヶ月前の約70％から25％に引き下げた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「2030年のBTC価格は100万ドル超へ」J・ドーシー氏がビットコインの魅力語る]]></title>
-        <id>https://coinpost.jp/?p=530092</id>
-        <link href="https://coinpost.jp/?p=530092"/>
-        <updated>2024-05-10T22:30:18.000Z</updated>
-        <summary type="html"><![CDATA[2030年のBTC価格は100万ドル超まで上昇する可能性があると強気な見方を示すなど、ジャック・ドーシー氏が仮想通貨ビットコインの魅力を語った。同氏は以前からビットコインを支持している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
