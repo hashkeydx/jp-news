@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-15T09:25:06.582Z</updated>
+    <updated>2024-05-15T10:28:22.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック、コールデータ用の新ガス料金システム導入する「EIP-7706」発表]]></title>
+        <id>https://www.neweconomy.jp/?p=389790</id>
+        <link href="https://www.neweconomy.jp/posts/389790"/>
+        <updated>2024-05-15T09:35:53.000Z</updated>
+        <summary type="html"><![CDATA[ヴィタリックが「EIP-7706」を発表 イーサリアム（Ethereum）の共同創業者ヴィタリック・ブテリン（Vitalik Buterin）氏が、コールデータ用の新しいガス料金システムの導入を目的としたEIP：Ethe […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ホワイトハウス、核ミサイル基地近くの中国関連マイニング施設に閉鎖命令]]></title>
         <id>https://www.coindeskjapan.com/?p=232354</id>
@@ -997,16 +1007,6 @@ DePIN（分散型物理インフラ・ネットワーク）：VCが注目する�
         <summary type="html"><![CDATA[2030年のBTC価格は100万ドル超まで上昇する可能性があると強気な見方を示すなど、ジャック・ドーシー氏が仮想通貨ビットコインの魅力を語った。同氏は以前からビットコインを支持している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナJupiter、モバイルアプリのリリース時期発表]]></title>
-        <id>https://coinpost.jp/?p=530095</id>
-        <link href="https://coinpost.jp/?p=530095"/>
-        <updated>2024-05-10T22:00:16.000Z</updated>
-        <summary type="html"><![CDATA[モバイル版の最新情報のほか、Jupiterは第三回のLFG投票の予定についても情報を公開。来週あたりに新たなローンチパッド候補の仮想通貨プロジェクトを公開し、5月22日から投票を開始する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
