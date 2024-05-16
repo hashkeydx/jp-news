@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-16T05:23:58.542Z</updated>
+    <updated>2024-05-16T06:26:11.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン現物ETFに5月の最大規模の資金流入、直近はアークとフィデリティが牽引]]></title>
+        <id>https://coinpost.jp/?p=531222</id>
+        <link href="https://coinpost.jp/?p=531222"/>
+        <updated>2024-05-16T06:14:04.000Z</updated>
+        <summary type="html"><![CDATA[米国のビットコイン現物ETFに巨額の資金流入が2日間続いている。直近ではブラックロックのiシェアーズ・ビットコイン・トラスト（IBIT）への資金流入が一服した一方、ARKBとFBTCが注目され、累積純流入額は121億ドルに達した。暗号資産（仮想通貨）投資信託に対する直近の流入動向を分析。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ウォレット「メタマスク」、ボット対策の取引機能を提供開始]]></title>
+        <id>https://coinpost.jp/?p=531208</id>
+        <link href="https://coinpost.jp/?p=531208"/>
+        <updated>2024-05-16T05:30:37.000Z</updated>
+        <summary type="html"><![CDATA[米Web3ソフトウェア企業Consensysは、 仮想通貨ウォレットのMetaMaskで同社が開発した新技術「スマート・トランザクション」が利用可能になったと発表した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Bitcoin Core」コントリビューター、ビットコインの存続危機をブログで警告]]></title>
         <id>https://www.neweconomy.jp/?p=390024</id>
