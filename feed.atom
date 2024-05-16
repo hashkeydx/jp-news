@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-16T04:22:45.164Z</updated>
+    <updated>2024-05-16T05:23:58.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Bitcoin Core」コントリビューター、ビットコインの存続危機をブログで警告]]></title>
+        <id>https://www.neweconomy.jp/?p=390024</id>
+        <link href="https://www.neweconomy.jp/posts/390024"/>
+        <updated>2024-05-16T05:11:30.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの存続危機が警告される ビットコイン（Bitcoin）ネットワークの主要なノードクライアント実装である「ビットコインコア（Bitcoin Core）」のコントリビューター（貢献者）であるマット・コラロ（Mat […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米デリバティブ大手CME、ビットコイン現物取引の提供を計画]]></title>
+        <id>https://coinpost.jp/?p=531232</id>
+        <link href="https://coinpost.jp/?p=531232"/>
+        <updated>2024-05-16T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[現物の仮想通貨ビットコインへの直接アクセスは、規制された最大のデリバティブプラットフォームを通じて、金融商品として本格的な普及につながる見込みだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エルサルバドル、過去3年間で約474BTCをマイニング、ビットコイン保有数を増やす]]></title>
+        <id>https://www.neweconomy.jp/?p=390013</id>
+        <link href="https://www.neweconomy.jp/posts/390013"/>
+        <updated>2024-05-16T04:50:22.000Z</updated>
+        <summary type="html"><![CDATA[エルサルバドルが過去3年間で約474BTCをマイニング エルサルバドルは、火山を燃料とする地熱発電所のおかげで、2021年以来474BTC近くをマイニングしていることが、5月14日の公式データで明らかになった。これにより […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米資産運用大手Vanguard、ビットコインETFに前向きな新CEO就任へ]]></title>
         <id>https://coinpost.jp/?p=531189</id>
