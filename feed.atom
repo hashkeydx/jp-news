@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-17T04:27:00.005Z</updated>
+    <updated>2024-05-17T05:28:17.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル、「XRP Ledger」をコスモスのインターチェーンに接続へ]]></title>
+        <id>https://www.neweconomy.jp/?p=390292</id>
+        <link href="https://www.neweconomy.jp/posts/390292"/>
+        <updated>2024-05-17T04:30:52.000Z</updated>
+        <summary type="html"><![CDATA[「XRPL EVMサイドチェーン」がコスモスのインターチェーンと接続へ 米フィンテック企業のリップル（Ripple）社が、現在開発者向けネットワーク「Devnet」上にある「XRP Ledger（XRPL）EVMサイドチ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワールドコイン、秘匿化技術で生体認証データの保護・オープンソース化を発表]]></title>
         <id>https://coinpost.jp/?p=531561</id>
