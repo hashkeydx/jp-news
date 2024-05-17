@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-17T08:27:26.439Z</updated>
+    <updated>2024-05-17T09:25:18.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DTCC、大手銀行らとファンドのトークン化推進する「Smart NAV」の実証実験完了。チェーンリンク活用で]]></title>
+        <id>https://www.neweconomy.jp/?p=390363</id>
+        <link href="https://www.neweconomy.jp/posts/390363"/>
+        <updated>2024-05-17T08:44:57.000Z</updated>
+        <summary type="html"><![CDATA[CCIP活用で 米証券保管振替機関（DTCC）が、チェーンリンク（Chainlink）や大手銀行らと協力し、トークン化ファンドを促進させる実証実験を行ったと5月16日発表した。 なお「スマートNAV（Smart NAV） […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2024/5/17）ビットコイン、土俵際から逆転勝利？【楽天ウォレット】]]></title>
         <id>https://www.coindeskjapan.com/?p=232719</id>
@@ -1387,17 +1397,6 @@ DOGEとNEARが上昇をリード：CoinDesk Indicesマーケットアップデ�
 EigenLayerのエアドロップは「ポイント」人気の終焉を告げるかもしれない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Kessler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DePIN（分散型物理インフラ・ネットワーク）：VCが注目する暗号資産の最新分野は人気に相応した成果を作れるのか？]]></title>
-        <id>https://www.coindeskjapan.com/?p=229591</id>
-        <link href="https://www.coindeskjapan.com/229591/"/>
-        <updated>2024-05-12T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産業界の多くは、実体のない世界に存在する。ブロックチェーン上で動くデータ、価格グラフ上で上下する線など、ほとんど無形のものだ。 しかし、VCが期待を寄せて ...
-DePIN（分散型物理インフラ・ネットワーク）：VCが注目する暗号資産の最新分野は人気に相応した成果を作れるのか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Lyllah Ledesma</name>
         </author>
     </entry>
 </feed>
