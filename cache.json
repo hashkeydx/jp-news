@@ -340,26 +340,6 @@
           "wordCount": 1266,
           "title": "香港のビットコイン・イーサリアムETF、13日に3900万ドルの流出：ファーサイド・インベスターズ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/YJKVVHZBQ5FXTPRG3VLYIHZ3JQ.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=232094",
-          "author": "Shun Ide",
-          "description": "ビットコイン（BTC）のマイニング難易度は先週、約6％低下した。これは2022年12月に始まった「暗号資産の冬」以来の大きな下落幅だが、一部のマイナーにとっては ...\nビットコインのマイニング難易度、「暗号資産の冬」以来の大幅低下：バーンスタイン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/232094/",
-          "publishedOn": "2024-05-14T00:00:00.000Z",
-          "wordCount": 1252,
-          "title": "ビットコインのマイニング難易度、「暗号資産の冬」以来の大幅低下：バーンスタイン",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/mining.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=230922",
-          "author": "CoinDesk JAPAN 広告制作チーム",
-          "description": "CoinDeskJAPANは「セキュリティ・トークンを学ぶ！入門シリーズ」の動画を5月9日に公開した。動画はCoinDeskJAPANのYouTubeチャンネル ...\nセキュリティ・トークンは「暗号資産」や「NFT」と何が違う？ 野村證券の専門家が初心者むけにわかりやすく解説 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/230922/",
-          "publishedOn": "2024-05-13T23:30:00.000Z",
-          "wordCount": 1806,
-          "title": "セキュリティ・トークンは「暗号資産」や「NFT」と何が違う？ 野村證券の専門家が初心者むけにわかりやすく解説",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/1280×848.jpg"
         }
       ]
     },
@@ -370,10 +350,25 @@
       "articles": []
     },
     {
-      "title": "次のビットコインになりうる6つの仮想通貨",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=531793",
+          "author": "AKIRA.H",
+          "description": "Clearpool Primeがアバランチでローンチし、RWA分野に新たな進展。機関投資家向けに安全かつ効率的な取引環境を提供するプライベート・クレジット市場。",
+          "link": "https://coinpost.jp/?p=531793",
+          "publishedOn": "2024-05-18T12:00:21.000Z",
+          "wordCount": 2484,
+          "title": "Clearpool Prime、アバランチでデビュー　RWA対応のプライベート・クレジット市場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/avalanche_logo1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/avalanche_logo1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=531778",
           "author": "AKIRA.H",
@@ -1063,21 +1058,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/chaina_illegal2_0322.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/chaina_illegal2_0322.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=530625",
-          "author": "菊谷ルイス",
-          "description": "「Degen Chain」という仮想通貨イーサリアム系のレイヤー3ネットワークは、24時間以上トランザクション処理が停止している。このブロックチェーンはArbitrumとBaseを利用している。",
-          "link": "https://coinpost.jp/?p=530625",
-          "publishedOn": "2024-05-13T23:45:56.000Z",
-          "wordCount": 2496,
-          "title": "ArbitrumとBase利用のレイヤー3チェーンDegen Chain、24時間以上稼働停止",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/network-stop-out.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/network-stop-out.jpeg"
         }
       ]
     },
