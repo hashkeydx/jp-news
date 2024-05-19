@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-19T20:23:30.083Z</updated>
+    <updated>2024-05-19T21:21:17.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[半減期の影響とマクロのシフト、ビットコインの追い風に]]></title>
+        <id>https://www.coindeskjapan.com/?p=232552</id>
+        <link href="https://www.coindeskjapan.com/232552/"/>
+        <updated>2024-05-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4月の4回目の半減期により、ビットコイン（BTC）の10分ごとの新規発行に対する報酬は3.125BTCに減少し、大きな興味と投機を引き起こした。 半減期後 半減 ...
+半減期の影響とマクロのシフト、ビットコインの追い風に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットトレードのビットコイン・ピザ・デー記念キャンペーン　BTCやシバイヌなどが当たるチャンス]]></title>
         <id>https://coinpost.jp/?p=531798</id>
@@ -821,17 +832,6 @@ CoinDesk JAPANと野村證券が送る「セキュリティ・トークンを学
         <summary type="html"><![CDATA[ヴィタリックが「EIP-7706」を発表 イーサリアム（Ethereum）の共同創業者ヴィタリック・ブテリン（Vitalik Buterin）氏が、コールデータ用の新しいガス料金システムの導入を目的としたEIP：Ethe […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ホワイトハウス、核ミサイル基地近くの中国関連マイニング施設に閉鎖命令]]></title>
-        <id>https://www.coindeskjapan.com/?p=232354</id>
-        <link href="https://www.coindeskjapan.com/232354/"/>
-        <updated>2024-05-15T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[バイデン大統領は5月13日、ワイオミング州のウォーレン空軍基地近くにある暗号資産（仮想通貨）マイニング施設に対して、国家安全保障に対する脅威であるとして操業停止 ...
-米ホワイトハウス、核ミサイル基地近くの中国関連マイニング施設に閉鎖命令 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
