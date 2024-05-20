@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-19T23:24:56.619Z</updated>
+    <updated>2024-05-20T01:33:40.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ワールドコイン財団が虹彩コード削除、データを分散・秘密共有できるシステム導入で]]></title>
+        <id>https://www.neweconomy.jp/?p=390538</id>
+        <link href="https://www.neweconomy.jp/posts/390538"/>
+        <updated>2024-05-20T00:43:22.000Z</updated>
+        <summary type="html"><![CDATA[ワールドコイン財団がSMPC導入 ワールドコイン財団（Worldcoin Foundation）が、データを個別に暗号化及び秘密に共有・分散できるシステム 「SMPC（Secure Multi-Party Computa […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ、月末までに200ドルに達する可能性：ヘッジファンド創設者]]></title>
         <id>https://www.coindeskjapan.com/?p=232839</id>
@@ -812,27 +822,6 @@ CoinDesk JAPANと野村證券が送る「セキュリティ・トークンを学
 4月の米CPIは予想より鈍化、ビットコインは6万3700ドルまで上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5/15話題】ソラナのSuperteam Japanが発足、DeNAのtrivia. techが6月にグローバルで配信へなど]]></title>
-        <id>https://www.neweconomy.jp/?p=389787</id>
-        <link href="https://www.neweconomy.jp/posts/389787"/>
-        <updated>2024-05-15T13:19:50.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは6万3000ドルに迫る──強気勢が「テイカー売り」を咀嚼]]></title>
-        <id>https://www.coindeskjapan.com/?p=232423</id>
-        <link href="https://www.coindeskjapan.com/232423/"/>
-        <updated>2024-05-15T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は5月15日に小幅な上昇を記録し、重要なアメリカの4月のインフレデータ発表を前にドルインデックスが急落する中、バイナンス（Binance） ...
-ビットコインは6万3000ドルに迫る──強気勢が「テイカー売り」を咀嚼 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
