@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-21T12:41:20.439Z</updated>
+    <updated>2024-05-21T13:27:36.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【5/21話題】デジタルカーボンクレジット決済に「JPYC」活用の検討、英判事がクレイグライトは嘘ついたと指摘など]]></title>
+        <id>https://www.neweconomy.jp/?p=391272</id>
+        <link href="https://www.neweconomy.jp/posts/391272"/>
+        <updated>2024-05-21T13:24:23.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムETFへの期待でビットコインが7万1000ドル台に──ショートトレーダーは2億6000万ドルを失う]]></title>
         <id>https://www.coindeskjapan.com/?p=233093</id>
@@ -913,26 +923,6 @@ EigenLayerのエアドロップは「ポイント」人気の終焉か／大和�
         <summary type="html"><![CDATA[Slash FintechがVプリカ販売サービスを開始。暗号資産（仮想通貨）決済でVプリカ購入可能。特典としてSlash Genesis NFTをプレゼント。利用方法から使い方まで解説。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院、SECの暗号資産会計ルール「SAB121」を覆す決議案を可決]]></title>
-        <id>https://www.neweconomy.jp/?p=390256</id>
-        <link href="https://www.neweconomy.jp/posts/390256"/>
-        <updated>2024-05-17T01:21:38.000Z</updated>
-        <summary type="html"><![CDATA[大統領は拒否権発動の姿勢 米上院議員の過半数が、SECの指針「SAB 121（Special Accounting Bulletin 121）」を覆す法案を5月16日可決した。 同法案はマイク・フラッド（Mike Flo […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ブラックロックのビットコインETFの購入者数は記録的な数字」シニアアナリストが高評価]]></title>
-        <id>https://coinpost.jp/?p=531524</id>
-        <link href="https://coinpost.jp/?p=531524"/>
-        <updated>2024-05-17T01:00:49.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックの仮想通貨ビットコインETFの購入者数は記録的な数字であると、ブルームバーグのシニアアナリストが高評価。レポートが提出され、ビットコインETFのパフォーマンスを分析した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
