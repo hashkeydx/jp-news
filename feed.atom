@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-20T23:23:15.710Z</updated>
+    <updated>2024-05-21T01:32:50.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gala Games、300億円相当のGALAトークンが不正鋳造　価格急落]]></title>
+        <id>https://coinpost.jp/?p=532215</id>
+        <link href="https://coinpost.jp/?p=532215"/>
+        <updated>2024-05-21T01:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Web3ゲームGala Gamesで何者かが2億ドル以上に相当する「GALA」トークンを不正に鋳造し売却した。管理者アドレスが悪用されたとみられる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カーボンクレジットの決済にステーブルコイン活用──三菱UFJ信託、プログマ、JPYC、KlimaDAOなどが連携]]></title>
+        <id>https://www.coindeskjapan.com/?p=233007</id>
+        <link href="https://www.coindeskjapan.com/233007/"/>
+        <updated>2024-05-21T01:00:57.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンのユースケースとして期待される2つの大きな取り組みが融合する。三菱UFJ信託、プログマ、JPYC、KlimaDAO、オプテージは、「Progma ...
+カーボンクレジットの決済にステーブルコイン活用──三菱UFJ信託、プログマ、JPYC、KlimaDAOなどが連携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムとの互換性実現へ　高速L1「Sei」、アップグレードの投票開始]]></title>
+        <id>https://coinpost.jp/?p=532214</id>
+        <link href="https://coinpost.jp/?p=532214"/>
+        <updated>2024-05-21T00:30:04.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムとの互換性を持たせるため、L1ブロックチェーンのSeiがアップグレード実施のための投票を開始。投票後の計画も明らかになっている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムスポットETFの審査は急速に進展している：関係者が証言]]></title>
         <id>https://www.coindeskjapan.com/?p=232972</id>
@@ -788,27 +819,6 @@ CMEがビットコインのスポット取引の提供を計画：報道 first a
         <summary type="html"><![CDATA[米仮想通貨取引所大手コインベースは16日、3つのソラナ基盤の銘柄のパーペチュアル先物取引を新たに提供した。JupiterやJitoが対象となった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5/16話題】エルサルバドルが過去3年間で約474BTCをマイニング、MEVで暗号資産盗んだ兄弟が起訴など]]></title>
-        <id>https://www.neweconomy.jp/?p=390082</id>
-        <link href="https://www.neweconomy.jp/posts/390082"/>
-        <updated>2024-05-16T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界初のミームコインカンファレンス「MEMECON」、ポルトガル・リスボンで開催]]></title>
-        <id>https://www.coindeskjapan.com/?p=232638</id>
-        <link href="https://www.coindeskjapan.com/232638/"/>
-        <updated>2024-05-16T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ミームコインをテーマにした世界初のカンファレンス「MEMECON」が5月28日から30日（現地時間）、ポルトガル・リスボンで開催される。 ミームをモチーフにジョ ...
-世界初のミームコインカンファレンス「MEMECON」、ポルトガル・リスボンで開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
