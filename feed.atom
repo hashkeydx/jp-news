@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-21T20:24:23.273Z</updated>
+    <updated>2024-05-21T21:21:38.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIエージェント、暗号資産の普及を牽引──マシンにとって完璧な金融システム]]></title>
+        <id>https://www.coindeskjapan.com/?p=232172</id>
+        <link href="https://www.coindeskjapan.com/232172/"/>
+        <updated>2024-05-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2000年代、我々は銀行の支店に行くことをやめ、オンラインバンキングを始めた。10年後、我々は今と同じ方法で資産を管理しているだろうか？ 我々に代わって金融業務 ...
+AIエージェント、暗号資産の普及を牽引──マシンにとって完璧な金融システム first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共和党大統領候補トランプ氏、仮想通貨での政治献金受付開始]]></title>
+        <id>https://coinpost.jp/?p=532530</id>
+        <link href="https://coinpost.jp/?p=532530"/>
+        <updated>2024-05-21T20:45:22.000Z</updated>
+        <summary type="html"><![CDATA[トランプ氏のウェブサイトによると、同氏の選挙運動は、ビットコイン、イーサリアム、ソラナを含む暗号通貨を受け入れている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/21話題】デジタルカーボンクレジット決済に「JPYC」活用の検討、英判事がクレイグライトは嘘ついたと指摘など]]></title>
         <id>https://www.neweconomy.jp/?p=391272</id>
@@ -792,16 +813,6 @@ EigenLayerのエアドロップは「ポイント」人気の終焉か／大和�
 ファントムが1週間で13％の上昇、TVLも一時2億ドルを超える first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTCC、大手銀行らとファンドのトークン化推進する「Smart NAV」の実証実験完了。チェーンリンク活用で]]></title>
-        <id>https://www.neweconomy.jp/?p=390363</id>
-        <link href="https://www.neweconomy.jp/posts/390363"/>
-        <updated>2024-05-17T08:44:57.000Z</updated>
-        <summary type="html"><![CDATA[CCIP活用で 米証券保管振替機関（DTCC）が、チェーンリンク（Chainlink）や大手銀行らと協力し、トークン化ファンドを促進させる実証実験を行ったと5月16日発表した。 なお「スマートNAV（Smart NAV） […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
         </author>
     </entry>
 </feed>
