@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=233674",
+          "author": "松田康生",
+          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2024/5/24）ビットコイン、レンジ上抜けは本物か？【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/233674/",
+          "publishedOn": "2024-05-24T09:00:00.000Z",
+          "wordCount": 1507,
+          "title": "マトリックス法によるテクニカル分析（2024/5/24）ビットコイン、レンジ上抜けは本物か？【楽天ウォレット】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/tr-thumb_240524.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=233524",
+          "author": "高橋 祐太",
+          "description": "米下院は、連邦準備制度理事会（FRB）が中央銀行デジタル通貨を発行することを禁止する法案を可決した。 下院多数党院内総務のトム・エマー（Tom Emmer）議員 ...\n米下院、FRBのCBDC発行を禁止する法案を可決 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/233524/",
+          "publishedOn": "2024-05-24T08:30:00.000Z",
+          "wordCount": 1521,
+          "title": "米下院、FRBのCBDC発行を禁止する法案を可決",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/Louis-VelazquezUnsplash.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=233642",
           "author": "増田 隆幸",
           "description": "ドージコイン（DOGE）をはじめ、いくつかのミームコインのアイコンとなっていた柴犬「かぼす」が24日朝、この世を去った。飼い主のかぼすママがブログに記した。 「 ...\nさようなら、かぼす──ドージコインなどミームコインのきっかけになった柴犬 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -470,16 +490,6 @@
           "wordCount": 1212,
           "title": "暗号資産カストディを理解する──イノベーションとリスク管理のバランス",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/VJACDSVMFREKHPKVXPZTCCPY3Q.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=232552",
-          "author": "山口 晶子",
-          "description": "4月の4回目の半減期により、ビットコイン（BTC）の10分ごとの新規発行に対する報酬は3.125BTCに減少し、大きな興味と投機を引き起こした。 半減期後 半減 ...\n半減期の影響とマクロのシフト、ビットコインの追い風に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/232552/",
-          "publishedOn": "2024-05-19T21:00:00.000Z",
-          "wordCount": 1239,
-          "title": "半減期の影響とマクロのシフト、ビットコインの追い風に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/shutterstock_762934558.jpg"
         }
       ]
     },
@@ -494,6 +504,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=532634",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨投資家のGrypto氏がマルウェア被害でデジタルウォレットの資金を抜かれ大きな損失を被った事例が発生しました。さらなるハッキング被害を抑止するため、Web3セキュリティアプリ開発KEKKAIとCoinPostの共同企画で、ハッキングの手法や対策について解説します。",
+          "link": "https://coinpost.jp/?p=532634",
+          "publishedOn": "2024-05-24T08:49:47.000Z",
+          "wordCount": 2621,
+          "title": "深刻化する仮想通貨の盗難被害を専門家が分析、リスクと対策を解説｜KEKKAI共同企画",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/Kekkai_0522.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/Kekkai_0522.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=533216",
+          "author": "AKIRA.H",
+          "description": "Kudasaiの関連会社Omakaseが、野村ホールディングスからの出資を受け、Web3インフラ・エンジニアリング需要に対応する体制を強化。Avalanche、Eigenlayerなどのノード運営で400億円相当の暗号資産（仮想通貨）の委託を受けており、将来的なステーキング事業の開発も目指す。",
+          "link": "https://coinpost.jp/?p=533216",
+          "publishedOn": "2024-05-24T08:40:25.000Z",
+          "wordCount": 2519,
+          "title": "Kudasai子会社Omakase、野村ホールディングスから資金調達　Web3インフラ構築強化へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/Omakase_0524.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/Omakase_0524.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=533190",
           "author": "AKIRA.H",
@@ -1206,6 +1246,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=392416",
+          "author": "gentosha_takahashi",
+          "description": "BTC100万ドルへのシナリオ 暗号資産（仮想通貨）取引所ビットメックス（BitMEX）の共同創業者で元CEOのアーサー・ヘイズ（Arthur Hayes）氏は、ビットコイン価格が100万ドルに上昇する重要な原動力になる […]",
+          "link": "https://www.neweconomy.jp/posts/392416",
+          "publishedOn": "2024-05-24T08:44:33.000Z",
+          "wordCount": 626,
+          "title": "「FRBと日銀がビットコインを100万ドルに上昇させるカギ」、アーサーヘイズ考察",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/24174422/3bb3e76e230bf974ac2a4282d47007ed.jpeg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=392405",
+          "author": "HitomotoToshikazu",
+          "description": "web3ライフスタイルアプリSTEPN GOリリースへ ︎Move-and-Earn（動いて稼ぐ）web3ゲーム「ステップン（STEPN）」運営のファインドサトシラボ（Find Satoshi Lab Limited：F […]",
+          "link": "https://www.neweconomy.jp/posts/392405",
+          "publishedOn": "2024-05-24T08:39:50.000Z",
+          "wordCount": 689,
+          "title": "STEPN運営のFSL、web3ライフスタイルアプリ「STEPN GO」αテスト開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/24173516/8cb1f23135ab86b037465b88ecaa652e.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=392383",
           "author": "OtsugaShinya",
