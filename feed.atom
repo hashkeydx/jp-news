@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-24T20:23:45.793Z</updated>
+    <updated>2024-05-24T21:22:08.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、PoWとPoS併用の仮想通貨銘柄「Core」上場予定]]></title>
+        <id>https://coinpost.jp/?p=533373</id>
+        <link href="https://coinpost.jp/?p=533373"/>
+        <updated>2024-05-24T21:10:54.000Z</updated>
+        <summary type="html"><![CDATA[コインベースは最近、ソラナ基盤のデリバティブ取引所DriftのDRIFTトークンの新規上場も行った。また、オフショア版コインベースインターナショナルでは、昨日BONKやFLOKIの永久先物取引も開始する予定を明かした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/24話題】米SECがイーサリアム現物ETF承認、NYでXRPの取引再開、かぼすちゃん亡くなるなど]]></title>
         <id>https://www.neweconomy.jp/?p=392428</id>
@@ -1331,16 +1341,6 @@ DTCCとチェーンリンク、ファンドのトークン化加速を目指す�
 イーサリアムとビットコインは横ばい──ETF承認とエヌビディア決算を前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アバランチで高級ワインファンドをトークン化、暗号資産証券取引所ATSに上場]]></title>
-        <id>https://www.neweconomy.jp/?p=390758</id>
-        <link href="https://www.neweconomy.jp/posts/390758"/>
-        <updated>2024-05-20T08:43:20.000Z</updated>
-        <summary type="html"><![CDATA[アバランチでワインファンドがトークン化 高級ワイン投資会社ワインキャピタルファンド（Wine Capital Investments）によるワインファンドが、アバランチ（Avalanche）Cチェーン上でトークン化され、 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
