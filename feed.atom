@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-27T08:28:30.749Z</updated>
+    <updated>2024-05-27T09:25:26.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Graph、AI推論とエージェントサービス導入へ　AI駆動型アプリケーションの開発を強化]]></title>
+        <id>https://coinpost.jp/?p=533744</id>
+        <link href="https://coinpost.jp/?p=533744"/>
+        <updated>2024-05-27T08:59:45.000Z</updated>
+        <summary type="html"><![CDATA[The Graphのコア開発チーム「Semiotic Labs」は28日、AI（人工知能）サービスを提案する新しいホワイトペーパーを発表し、The Graph上に構築されたChatGPTを基盤としたプラットフォーム「Agentc」の公開デモを公開した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RWAトークン化基盤提供「MANTRA」、野村HDの子会社Laser Digitalから資金調達]]></title>
         <id>https://www.neweconomy.jp/?p=392851</id>
@@ -981,37 +991,6 @@ ETF期待で今週取引所に2億3100万ドルのイーサリアムが流入─
 ウィズダムツリー、ビットコインとイーサリアムのETPをロンドン証券取引所に上場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナスダック、ブラックロックのイーサリアム現物申請ETFフォームを更新]]></title>
-        <id>https://coinpost.jp/?p=532840</id>
-        <link href="https://coinpost.jp/?p=532840"/>
-        <updated>2024-05-22T21:05:31.000Z</updated>
-        <summary type="html"><![CDATA[ナスダックによる書類の更新内容は、これまでアークやフィデリティなどのものに類似し、仮想通貨ETH保有資産のステーキングを行わないことを明記している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム時価総額の上昇、1日でソラナ全体分に迫る勢い]]></title>
-        <id>https://www.coindeskjapan.com/?p=233264</id>
-        <link href="https://www.coindeskjapan.com/233264/"/>
-        <updated>2024-05-22T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[プログラマブル・ブロックチェーン、ソラナ（Solana）のSOLの時価総額は、次の強気サイクルにおいて、ライバルのイーサリアムのETHを超える可能性があると、あ ...
-イーサリアム時価総額の上昇、1日でソラナ全体分に迫る勢い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エヌビディア好決算、AI関連の仮想通貨銘柄連れ高]]></title>
-        <id>https://coinpost.jp/?p=532838</id>
-        <link href="https://coinpost.jp/?p=532838"/>
-        <updated>2024-05-22T20:50:38.000Z</updated>
-        <summary type="html"><![CDATA[半導体大手エヌビディアの好決算を受けて、FETやRender、AR、AGIX、TAOなどの仮想通貨AI関連銘柄は全面高になった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

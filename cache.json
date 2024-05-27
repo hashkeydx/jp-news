@@ -380,16 +380,6 @@
           "wordCount": 1484,
           "title": "ウィズダムツリー、ビットコインとイーサリアムのETPをロンドン証券取引所に上場",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/OU2ZEA3RIZCTZLRFSA3TGY465I.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=233264",
-          "author": "Omkar Godbole",
-          "description": "プログラマブル・ブロックチェーン、ソラナ（Solana）のSOLの時価総額は、次の強気サイクルにおいて、ライバルのイーサリアムのETHを超える可能性があると、あ ...\nイーサリアム時価総額の上昇、1日でソラナ全体分に迫る勢い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/233264/",
-          "publishedOn": "2024-05-22T21:00:00.000Z",
-          "wordCount": 1536,
-          "title": "イーサリアム時価総額の上昇、1日でソラナ全体分に迫る勢い",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_2186021207.jpg"
         }
       ]
     },
@@ -404,6 +394,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=533744",
+          "author": "CoinPost編集部",
+          "description": "The Graphのコア開発チーム「Semiotic Labs」は28日、AI（人工知能）サービスを提案する新しいホワイトペーパーを発表し、The Graph上に構築されたChatGPTを基盤としたプラットフォーム「Agentc」の公開デモを公開した。",
+          "link": "https://coinpost.jp/?p=533744",
+          "publishedOn": "2024-05-27T08:59:45.000Z",
+          "wordCount": 2530,
+          "title": "The Graph、AI推論とエージェントサービス導入へ　AI駆動型アプリケーションの開発を強化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/The-Graph-GRT.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/The-Graph-GRT.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=533676",
           "author": "A.Yamada",
@@ -913,36 +918,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/metamask-new-alert-point.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/metamask-new-alert-point.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=532840",
-          "author": "菊谷ルイス",
-          "description": "ナスダックによる書類の更新内容は、これまでアークやフィデリティなどのものに類似し、仮想通貨ETH保有資産のステーキングを行わないことを明記している。",
-          "link": "https://coinpost.jp/?p=532840",
-          "publishedOn": "2024-05-22T21:05:31.000Z",
-          "wordCount": 2394,
-          "title": "ナスダック、ブラックロックのイーサリアム現物申請ETFフォームを更新",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/nasdaq-defi-data-transfer-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/nasdaq-defi-data-transfer-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=532838",
-          "author": "菊谷ルイス",
-          "description": "半導体大手エヌビディアの好決算を受けて、FETやRender、AR、AGIX、TAOなどの仮想通貨AI関連銘柄は全面高になった。",
-          "link": "https://coinpost.jp/?p=532838",
-          "publishedOn": "2024-05-22T20:50:38.000Z",
-          "wordCount": 2395,
-          "title": "エヌビディア好決算、AI関連の仮想通貨銘柄連れ高",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/nvidia-omniverse-free-1-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/nvidia-omniverse-free-1-1.jpeg"
         }
       ]
     },
