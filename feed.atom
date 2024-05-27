@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-26T23:24:13.729Z</updated>
+    <updated>2024-05-27T01:35:22.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米トランプ前大統領「米国は急成長する仮想通貨業界のリーダーでなければならない、2位はありえない」]]></title>
+        <id>https://coinpost.jp/?p=533651</id>
+        <link href="https://coinpost.jp/?p=533651"/>
+        <updated>2024-05-27T01:01:13.000Z</updated>
+        <summary type="html"><![CDATA[米大統領候補のドナルド・トランプ氏は、民主党バイデン政権や米SECによる暗号資産（仮想通貨）業界への過度な規制や締め付けを批判し、米国は新興産業業界のリーダーになるべきだと主張、ビットコインなど仮想通貨支持を表明した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DePINで成功をつかめ：ギグエコノミーのメリットを拡大する]]></title>
         <id>https://www.coindeskjapan.com/?p=231581</id>
@@ -890,28 +900,6 @@ ETF期待で今週取引所に2億3100万ドルのイーサリアムが流入─
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手のひらスキャンのヒューマニティ・プロトコル、3000万ドル調達──ワールドコインに対抗]]></title>
-        <id>https://www.coindeskjapan.com/?p=233155</id>
-        <link href="https://www.coindeskjapan.com/233155/"/>
-        <updated>2024-05-22T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ゼロ知識証明による分散型IDプロジェクトのヒューマニティ・プロトコル（Human Protocol）は、キングズウェイ・キャピタル（Kingsway Capit ...
-手のひらスキャンのヒューマニティ・プロトコル、3000万ドル調達──ワールドコインに対抗 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shun Ide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル人民元、香港での越境試験運用を拡大──市民はウォレット利用が可能に]]></title>
-        <id>https://www.coindeskjapan.com/?p=233148</id>
-        <link href="https://www.coindeskjapan.com/233148/"/>
-        <updated>2024-05-22T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[香港金融管理局（HKMA）と中国人民銀行は、デジタル人民元の越境試験運用のスコープを拡大、香港市民はデジタル人民元（e-CNY）ウォレットを利用できるようになっ ...
-デジタル人民元、香港での越境試験運用を拡大──市民はウォレット利用が可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shun Ide</name>
         </author>
     </entry>
 </feed>
