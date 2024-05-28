@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=234121",
+          "author": "Shaurya Malwa",
+          "description": "ソラナ（Solana）のバリデーターは、優先手数料の100％を彼らに与えるというガバナンスの提案が5月27日遅くに77％の賛成で可決された後、データが示すように ...\nソラナ、バリデーターに優先手数料の全額を与えることを決定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/234121/",
+          "publishedOn": "2024-05-28T22:30:00.000Z",
+          "wordCount": 1239,
+          "title": "ソラナ、バリデーターに優先手数料の全額を与えることを決定",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/KVX2X55KMZDGTFDCXBRBRIH4TA.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=234096",
           "author": "Jesse Hamilton",
           "description": "アメリカの有権者の3人に1人が、選挙で投票する前に暗号資産（仮想通貨）に関する候補者の立場を考慮すると答えた。 一方で、ビットコインETF発行会社のグレイスケー ...\nアメリカの有権者の3分の1が候補者の暗号資産への見解を考慮して投票：最新調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -304,6 +314,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=534182",
+          "author": "K.Kobayashi",
+          "description": "マウントゴックスのウォレットから仮想通貨ビットコインが大量移動し、売り圧の警戒が高まるも、弁済はまだ準備中であると同社は説明。弁済期限が徐々に近づく中、投資家は動向を注視している。",
+          "link": "https://coinpost.jp/?p=534182",
+          "publishedOn": "2024-05-28T22:50:07.000Z",
+          "wordCount": 2576,
+          "title": "マウントゴックスのビットコインが大量移動　売り圧の警戒高まるも「弁済はまだ準備中」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/mt.gox-dec-delay.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/mt.gox-dec-delay.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=534181",
           "author": "菊谷ルイス",
@@ -915,16 +940,6 @@
           "wordCount": 843,
           "title": "米下院、FRBによる「中銀デジタル通貨」発行禁じる法案を可決",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/23145534/3c04fc29febda194e40b7e0b471305f9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=392428",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/392428",
-          "publishedOn": "2024-05-24T10:33:42.000Z",
-          "wordCount": 757,
-          "title": "【5/24話題】米SECがイーサリアム現物ETF承認、NYでXRPの取引再開、かぼすちゃん亡くなるなど",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/24184353/news_head_20240524.jpg"
         }
       ]
     }
