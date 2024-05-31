@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=234734",
+          "author": "Omkar Godbole",
+          "description": "ビットコイン（BTC）は過去最高値をわずかに下回る高値水準で推移しており、典型的な一時的な強気相場の休止を示唆しているが、少なくとも1人のオブザーバーは、最近の ...\nビットコインはまだ強いが、マクロ要因がリスクをもたらす：アナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/234734/",
+          "publishedOn": "2024-05-31T09:55:00.000Z",
+          "wordCount": 1300,
+          "title": "ビットコインはまだ強いが、マクロ要因がリスクをもたらす：アナリストが指摘",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/shutterstock_2075188639.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=234408",
           "author": "Daniel Kuhn",
           "description": "米CoinDesk主催のカンファレンス「Consensus 2024」の参加者が頭を悩ませているのは、次のようなことだろう。 現在の市場センチメントをどう表現し ...\n待ち受けるのは、強気相場か弱気相場か──「Consensus 2024」をバロメーターに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -500,16 +510,6 @@
           "wordCount": 1215,
           "title": "ブリリアンクリプトトークン（BRIL）のIEO、13分で目標の15億1200万円達成",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/bilian_top.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=231581",
-          "author": "山口 晶子",
-          "description": "暗号資産（仮想通貨）業界が普及の新たな局面を迎える中、多くの人は、この市場サイクルを制するのはどのストーリーかと考えているだろう。 ミームコインか、AIトークン ...\nDePINで成功をつかめ：ギグエコノミーのメリットを拡大する first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/231581/",
-          "publishedOn": "2024-05-26T21:30:00.000Z",
-          "wordCount": 1240,
-          "title": "DePINで成功をつかめ：ギグエコノミーのメリットを拡大する",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/depin.jpg"
         }
       ]
     },
@@ -524,6 +524,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=534732",
+          "author": "AKIRA.H",
+          "description": "スクウェア・エニックスのNFTプロジェクト『SYMBIOGENESIS』は、5月31日から3日間のパブリックオークションを開催中。初日にはNFTキャラクター1体が78.6万円で落札された。",
+          "link": "https://coinpost.jp/?p=534732",
+          "publishedOn": "2024-05-31T10:00:51.000Z",
+          "wordCount": 2542,
+          "title": "SYMBIOGENESIS第2章、NFTキャラ1200体のオークション　初日は最高額78.6万円も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/eni_main.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/eni_main.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=534724",
           "author": "CoinPost編集部",
@@ -1275,6 +1290,16 @@
           "wordCount": 758,
           "title": "ジャックドーシー支援のBTCマイニングプール「オーシャン」、エルサルバドルに法人設立",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/31180343/408e09e27b8d2d92a6f4166e39323372.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=394150",
+          "author": "NewEconomy",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/394150",
+          "publishedOn": "2024-05-31T08:40:05.000Z",
+          "wordCount": 764,
+          "title": "【5/31話題】プログマのステーブルコインがイーサリアムとBSC間で移転可能に、Nデジのウォレットがサンリオ導入など",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/31173956/news_head_20240531.jpg"
         },
         {
           "id": "https://www.neweconomy.jp/?p=394103",
