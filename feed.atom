@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-31T12:42:17.678Z</updated>
+    <updated>2024-05-31T13:24:37.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DMMBitcoin、480億円相当のビットコインが不正流出被害か＝日本経済新聞]]></title>
+        <id>https://coinpost.jp/?p=534799</id>
+        <link href="https://coinpost.jp/?p=534799"/>
+        <updated>2024-05-31T13:22:38.000Z</updated>
+        <summary type="html"><![CDATA[DMMビットコインでハッキング被害か日本経済新聞が報じた。日経の報道によれば、流出額は480億円相当とされるが、ハッキング被害かどうかなど詳細は明らかになっていない。保有分の暗号資産（仮想通貨）と取引所保有分の暗号資産（仮想通貨）を分別管理...]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの短期モメンタムは弱気に反転──6万4870ドルが支持線に]]></title>
         <id>https://www.coindeskjapan.com/?p=234745</id>
@@ -1475,16 +1485,6 @@ GMOと野村HD、ステーブルコイン発行を検討へ──「ステーブ
         <summary type="html"><![CDATA[暗号資産（仮想通貨）市場ではETFが米国で初承認されたイーサリアムが週足大陽線となり、強気シグナルが出ている。ビットコイン（BTC）ドミナンスに変化の兆しも見受けられ、一部ミームコインが買われている。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米トランプ前大統領「米国は急成長する仮想通貨業界のリーダーでなければならない、2位はありえない」]]></title>
-        <id>https://coinpost.jp/?p=533651</id>
-        <link href="https://coinpost.jp/?p=533651"/>
-        <updated>2024-05-27T01:01:13.000Z</updated>
-        <summary type="html"><![CDATA[米大統領候補のドナルド・トランプ氏は、民主党バイデン政権や米SECによる暗号資産（仮想通貨）業界への過度な規制や締め付けを批判し、米国は新興産業業界のリーダーになるべきだと主張、ビットコインなど仮想通貨支持を表明した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
