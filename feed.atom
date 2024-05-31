@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-31T05:28:45.449Z</updated>
+    <updated>2024-05-31T06:30:03.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本銀行がCBDC（中央銀行デジタル通貨）実験の進捗報告、Startale HQらが実装に貢献]]></title>
+        <id>https://coinpost.jp/?p=534724</id>
+        <link href="https://coinpost.jp/?p=534724"/>
+        <updated>2024-05-31T06:16:30.000Z</updated>
+        <summary type="html"><![CDATA[日本銀行は31日、「中央銀行デジタル通貨実験の進捗報告書（2024年4月）」を公開した。Startale HQがその実装に貢献している。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインステーキングの「バビロン」、Paradigm主導で7000万ドルの資金調達]]></title>
         <id>https://www.neweconomy.jp/?p=394088</id>
