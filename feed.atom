@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-31T21:23:01.833Z</updated>
+    <updated>2024-05-31T22:26:23.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナJupiter、EVMブリッジdebridgeを統合]]></title>
+        <id>https://coinpost.jp/?p=534905</id>
+        <link href="https://coinpost.jp/?p=534905"/>
+        <updated>2024-05-31T22:00:23.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ基盤の仮想通貨DEXアグリゲーター「Jupiter Exchange」はトークンブリッジサービス「deBridge」をプラットフォームに統合した。Jupiterのユーザーはプラットフォーム内で、EVMチェーンとソラナ間の高い流動性クロスチェーンスワップができるようになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、Enjin Coin（ENJ）取引停止予定]]></title>
+        <id>https://coinpost.jp/?p=534903</id>
+        <link href="https://coinpost.jp/?p=534903"/>
+        <updated>2024-05-31T21:35:08.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所大手コインベースは1日、銘柄Enjin Coin（ENJ）の取引停止予定を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クラーケン、6つのソラナ基盤銘柄を新規上場]]></title>
         <id>https://coinpost.jp/?p=534899</id>
@@ -1363,27 +1383,6 @@ KONAMIのWeb3タイトル「PROJECT ZIRCON」で初のNFTセール、コミュ�
         <summary type="html"><![CDATA[北國銀行とJPYCらが「トチカ」と「JPYC」交換の検討開始 北國銀行発行の預金型ステーブルコイン「トチカ」とJPYC社発行予定の資金移動業型ステーブルコイン「JPYC」の交換を可能にすることで、決済分野や送金などの幅広 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEPEとMOGが史上最高値に──イーサリアム現物ETFへの期待から]]></title>
-        <id>https://www.coindeskjapan.com/?p=233927</id>
-        <link href="https://www.coindeskjapan.com/233927/"/>
-        <updated>2024-05-27T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[先週、アメリカでイーサリアム（ETH）ETF（上場投資信託）の上場申請が承認され、一部のトレーダーがミームトークンをベータベットとして検討するようになったことが ...
-PEPEとMOGが史上最高値に──イーサリアム現物ETFへの期待から first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5/27話題】ブリリアンクリプトトークンのIEO調達額が国内最大に、GMOと野村HDらが日本でステーブルコイン発行検討など]]></title>
-        <id>https://www.neweconomy.jp/?p=392917</id>
-        <link href="https://www.neweconomy.jp/posts/392917"/>
-        <updated>2024-05-27T09:41:23.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
