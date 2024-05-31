@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-31T06:30:03.537Z</updated>
+    <updated>2024-05-31T07:22:53.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[zkSyncによるティッカー「ZK」使用に非難集まる、PolygonやStarkWareらが共同声明も]]></title>
+        <id>https://www.neweconomy.jp/?p=394103</id>
+        <link href="https://www.neweconomy.jp/posts/394103"/>
+        <updated>2024-05-31T06:53:42.000Z</updated>
+        <summary type="html"><![CDATA[zkSyncがティッカー「ZK」を使用することに非難集まる Matter Labs（マターラボ）が新たにリリースを予定するトークンのティッカーに「ZK」が使用される予定であることに対し、非難が集まっている。マターラボは、 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本銀行がCBDC（中央銀行デジタル通貨）実験の進捗報告、Startale HQらが実装に貢献]]></title>
         <id>https://coinpost.jp/?p=534724</id>
