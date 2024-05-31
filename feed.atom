@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-05-31T14:25:23.291Z</updated>
+    <updated>2024-05-31T15:26:12.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DMM Bitcoin、482億円相当のビットコインが不正流出]]></title>
+        <id>https://www.coindeskjapan.com/?p=234780</id>
+        <link href="https://www.coindeskjapan.com/234780/"/>
+        <updated>2024-05-31T14:49:09.000Z</updated>
+        <summary type="html"><![CDATA[DMM Bitcoinから、4,502.9BTC（約482億円相当）が不正流出した。同社の発表によると、5月31日13時26分頃に、同社ウォレットからの不正流出 ...
+DMM Bitcoin、482億円相当のビットコインが不正流出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>CoinDesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DMM Bitcoin で482億円相当のビットコイン不正流出、顧客資産は全額保証]]></title>
         <id>https://www.neweconomy.jp/?p=394281</id>
@@ -1485,16 +1496,6 @@ GMOと野村HD、ステーブルコイン発行を検討へ──「ステーブ
         <summary type="html"><![CDATA[CBDC Anti-Surveillance State Actが下院で可決 米下院で「中央銀行デジタル通貨（CBDC）反監視国家法（CBDC Anti-Surveillance State Act）：H.R. 5403 […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETF米国初承認のイーサリアム週足大陽線、BTCドミナンスに変化の兆しも]]></title>
-        <id>https://coinpost.jp/?p=533660</id>
-        <link href="https://coinpost.jp/?p=533660"/>
-        <updated>2024-05-27T03:15:46.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場ではETFが米国で初承認されたイーサリアムが週足大陽線となり、強気シグナルが出ている。ビットコイン（BTC）ドミナンスに変化の兆しも見受けられ、一部ミームコインが買われている。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
         </author>
     </entry>
 </feed>
