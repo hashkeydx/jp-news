@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=234727",
+          "author": "Benjamin Dean",
+          "description": "ビットコインのソースコードがオンラインで配布されてから15年が経った。そのアイデアは、仲介者がその取引を承認する必要なく、人々が価値を交換する方法を提供すること ...\n暗号資産と伝統的金融（TradFi）の融合、進化か憂鬱か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/234727/",
+          "publishedOn": "2024-06-02T21:00:00.000Z",
+          "wordCount": 1235,
+          "title": "暗号資産と伝統的金融（TradFi）の融合、進化か憂鬱か",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/shutterstock_1174852135-710x458-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=234889",
           "author": "林 理南",
           "description": "ユニスワップ財団（Uniswap Foundation）は5月31日、ユニスワップ（UNI）をステーキング・デリゲートした保有者に報酬を与えることを可能にするア ...\nユニスワップがプロトコルのアップグレードめぐる投票を延期──UNIは9%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -430,16 +440,6 @@
           "wordCount": 1329,
           "title": "ブラックロックのIBIT、GBTCを抜いて最大のビットコイン現物ETFに",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_1858889500.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=234237",
-          "author": "CoinDesk JAPAN",
-          "description": "アニモカブランズジャパン（Animoca Brands Japan：Web3領域に大規模な投資を行う香港のAnimoca Brandsの戦略的子会社）は5月29 ...\nアニモカブランズジャパン、三井物産、日本コロムビア、エーライツ、Web3を活用したロイヤリティプログラム創出に向け協業 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/234237/",
-          "publishedOn": "2024-05-29T08:40:00.000Z",
-          "wordCount": 1229,
-          "title": "アニモカブランズジャパン、三井物産、日本コロムビア、エーライツ、Web3を活用したロイヤリティプログラム創出に向け協業",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/screenshot02.jpg"
         }
       ]
     },
@@ -1155,26 +1155,6 @@
           "wordCount": 751,
           "title": "メルカリの「ビットコイン取引サービス」、暗号資産口座の開設数が業界1位に＝2023年度データで",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/30123631/8fa9ef8e8cd434baaa906eec8cb2ab23.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=393545",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/393545",
-          "publishedOn": "2024-05-29T09:00:14.000Z",
-          "wordCount": 770,
-          "title": "【5/29話題】アニモカJPらがIVVYのライブでweb3ロイヤリティプログラム、NTTデジタルがOpenWallet Foundation加盟など",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/29180009/news_head_20240529.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=393540",
-          "author": "TamuraSeiji",
-          "description": "ソラナの手数料モデル変更が承認 レイヤー1ブロックチェーン「ソラナ（Solana）」ネットワークの手数料モデル変更を提案する「SIMD-0096」が5月28日に賛成多数で可決された。 この提案は、ソラナネットワークのバリ […]",
-          "link": "https://www.neweconomy.jp/posts/393540",
-          "publishedOn": "2024-05-29T08:51:55.000Z",
-          "wordCount": 752,
-          "title": "ソラナ（SOL）の手数料モデル変更が承認、バリデーター報酬が向上へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/29175145/36bf63ff6c93403efe62df9cacbd8ccf.jpg"
         }
       ]
     }
