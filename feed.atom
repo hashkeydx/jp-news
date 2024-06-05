@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-05T02:36:57.127Z</updated>
+    <updated>2024-06-05T03:28:51.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米マイニング企業Core ScientificがAIインフラ企業と契約　12年間で推定5400億円の収益見込む]]></title>
+        <id>https://coinpost.jp/?p=535843</id>
+        <link href="https://coinpost.jp/?p=535843"/>
+        <updated>2024-06-05T03:03:50.000Z</updated>
+        <summary type="html"><![CDATA[米上場ビットコインマイニング企業コア・サイエンティフィックはAI関連インフラ提供で、CoreWeaveと12年間に渡る契約を結んだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DMMビットコイン、550億円の資金調達計画を発表　不正流出したBTCの買い戻しへ]]></title>
         <id>https://coinpost.jp/?p=535849</id>
@@ -901,17 +911,6 @@ DMM Bitcoinから482億円相当のビットコイン流出／ゲームストッ
         <summary type="html"><![CDATA[米仮想通貨取引所クラーケンは、6つのソラナ基盤銘柄を新たに上場する予定を発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DMM Bitcoin、482億円相当のビットコインが不正流出]]></title>
-        <id>https://www.coindeskjapan.com/?p=234780</id>
-        <link href="https://www.coindeskjapan.com/234780/"/>
-        <updated>2024-05-31T14:49:09.000Z</updated>
-        <summary type="html"><![CDATA[DMM Bitcoinから、4,502.9BTC（約482億円相当）が不正流出した。同社の発表によると、5月31日13時26分頃に、同社ウォレットからの不正流出 ...
-DMM Bitcoin、482億円相当のビットコインが不正流出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
