@@ -385,6 +385,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=535849",
+          "author": "AKIRA.H",
+          "description": "DMMビットコインは、不正流出に対処するため、グループ内から550億円の資金調達計画を発表。暗号資産（仮想通貨）ビットコインの買い戻しを市場に影響を与えないよう慎重に進める方針だ。",
+          "link": "https://coinpost.jp/?p=535849",
+          "publishedOn": "2024-06-05T02:34:24.000Z",
+          "wordCount": 2476,
+          "title": "DMMビットコイン、550億円の資金調達計画を発表　不正流出したBTCの買い戻しへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427d_jpg-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427d_jpg-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=535830",
+          "author": "K.Kobayashi",
+          "description": "アスターネットワークは、仮想通貨ASTRの供給量の5%をバーンすることを提案。これから議論されて、ガバナンス投票で承認されればバーンが実施される。",
+          "link": "https://coinpost.jp/?p=535830",
+          "publishedOn": "2024-06-05T01:35:52.000Z",
+          "wordCount": 2497,
+          "title": "アスターネットワーク、仮想通貨ASTRのバーンを提案　価格が前日比8%超上昇",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/ASTR-Burn.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/ASTR-Burn.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=535814",
           "author": "K.Kobayashi",
           "description": "仮想通貨イーサリアムの現物ETFには最初の5カ月で最大48億ドルが純流入する可能性があるとK33リサーチが分析。先に現物ETFが米国でローンチされたビットコインの市況と比較している。",
@@ -812,6 +842,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=395060",
+          "author": "OtsugaShinya",
+          "description": "DMM Bitcoinがグループ内から550億円調達へ 国内暗号資産（仮想通貨）取引所DMM Bitcoinが、5月31日に発生した同取引所からのビットコイン不正流出に関連して、DMMグループ内から合計550億円の資金調 […]",
+          "link": "https://www.neweconomy.jp/posts/395060",
+          "publishedOn": "2024-06-05T02:24:10.000Z",
+          "wordCount": 769,
+          "title": "DMM Bitcoinがグループ内から550億円調達へ、ビットコイン流出保証で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/05112405/31df0eec63d8e94895ea76e97b738bd5.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=394937",
           "author": "NewEconomy",
           "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1010,16 +1050,6 @@
           "wordCount": 879,
           "title": "バイデン大統領、SECの暗号資産会計ルール「SAB121」無効化法案に拒否権発動",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/03123244/5229e7458e7b4962c5d060207cc4189f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=394281",
-          "author": "gentosha_shidara",
-          "description": "DMMビットコインで不正流出 国内暗号資産（仮想通貨）取引所のDMM Bitcoinで、482億円相当のビットコインが不正流出した。同社の発表によると5月31日13時26分頃に、同社のウォレットからビットコインの不正流出 […]",
-          "link": "https://www.neweconomy.jp/posts/394281",
-          "publishedOn": "2024-05-31T13:51:03.000Z",
-          "wordCount": 768,
-          "title": "DMM Bitcoin で482億円相当のビットコイン不正流出、顧客資産は全額保証",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/05/31225045/dmme.jpg"
         }
       ]
     }
