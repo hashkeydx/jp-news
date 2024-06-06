@@ -420,10 +420,25 @@
       "articles": []
     },
     {
-      "title": "初心者でもわかるOntology（オントロジー）｜仕組みや今後の将来性について",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=536229",
+          "author": "AKIRA.H",
+          "description": "テレグラム創設者パーヴェル・ドゥーロフは、寄付された暗号資産（仮想通貨）Notcoin（NOT）が価格4倍に上昇し、現在2,400万ドルの価値があることを発表。NOTは多くのテレグラムユーザーをWeb3に取り込む目的のバイラル・ゲーム。",
+          "link": "https://coinpost.jp/?p=536229",
+          "publishedOn": "2024-06-06T07:15:15.000Z",
+          "wordCount": 2527,
+          "title": "Notcoinの勢い、テレグラム創設者への寄付から4倍に急成長",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/NOT_0606.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/NOT_0606.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=536199",
           "author": "幸田直子",
@@ -926,6 +941,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=395355",
+          "author": "gentosha_takahashi",
+          "description": "贈られたミームコインの価格高騰で 米前大統領で2024年米大統領選の候補者であるドナルド・トランプ（Donald Trump）氏が、6月5日時点で約3,339万ドル（約52億円）の暗号資産（仮想通貨）を保有していることが […]",
+          "link": "https://www.neweconomy.jp/posts/395355",
+          "publishedOn": "2024-06-06T07:08:09.000Z",
+          "wordCount": 773,
+          "title": "トランプ前大統領の暗号資産ウォレット、保有額が一時3300万ドル超に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/06160805/35925c7c943e9d0131bb9943ddc05f1c.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=395317",
           "author": "NewEconomy",
