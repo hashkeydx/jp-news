@@ -400,10 +400,25 @@
       "articles": []
     },
     {
-      "title": "ハッキング  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=537019",
+          "author": "S.Ninomiya",
+          "description": "重要指標の米CPIやFOMC発表を週内に控える中、8日に急落後のビットコインは様子見基調でジリ上げの展開に。そんな中CME先物市場ではヘッジファンドのネットショートが過去最大規模に膨らんでおり、さまざまな見解が交錯する。",
+          "link": "https://coinpost.jp/?p=537019",
+          "publishedOn": "2024-06-10T02:33:23.000Z",
+          "wordCount": 2645,
+          "title": "急落後のビットコイン動向、ヘッジファンドのネットショートは過去最大規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427k-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427k-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=536901",
           "author": "CoinPost編集部",
@@ -966,6 +981,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=395853",
+          "author": "gentosha_takahashi",
+          "description": "3月には預かり資産額が1000億ドル突破を報告 大手暗号資産（仮想通貨）取引所バイナンス（Binance）が、同取引所における全世界のユーザー数が2億人に達したと6月8日発表した。 これに続けてバイナンスはユーザーの10 […]",
+          "link": "https://www.neweconomy.jp/posts/395853",
+          "publishedOn": "2024-06-10T03:56:05.000Z",
+          "wordCount": 792,
+          "title": "バイナンス、ユーザー数が2億人に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/10125935/66f4b80d04c3d00c71771cfe56d54bfd.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=395832",
+          "author": "OtsugaShinya",
+          "description": "バイナンスにIO.NET（IO）上場へ 大手海外暗号資産（仮想通貨）取引所バイナンス（Binance）が、同社提供の「バイナンスローンチプール（Binance Launchpool）」における暗号資産IO.NET（IO） […]",
+          "link": "https://www.neweconomy.jp/posts/395832",
+          "publishedOn": "2024-06-10T03:37:57.000Z",
+          "wordCount": 677,
+          "title": "バイナンスローンチプール、ソラナ上の分散型GPUネットワーク「IO. NET（IO）」取扱",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/10123752/0d8633287f7f0875a764121158ec4e3f.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=395818",
           "author": "OtsugaShinya",
