@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-10T23:23:59.358Z</updated>
+    <updated>2024-06-11T01:37:03.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2のOP Mainnet、「Fault Proof」をローンチ　ネットワークの分散化へ]]></title>
+        <id>https://coinpost.jp/?p=537165</id>
+        <link href="https://coinpost.jp/?p=537165"/>
+        <updated>2024-06-11T01:30:30.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2プロジェクトOptimismは、Fault Proofの機能をOP Mainnetに実装したことを発表。セキュリティ向上や分散化促進が期待される。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国、NFTを仮想通貨と定義するガイドライン発行]]></title>
+        <id>https://coinpost.jp/?p=537161</id>
+        <link href="https://coinpost.jp/?p=537161"/>
+        <updated>2024-06-11T01:00:13.000Z</updated>
+        <summary type="html"><![CDATA[韓国の金融当局は、仮想通貨に相当するNFTを定義するガイドラインを発表した。7月の新たな規制枠組みに先立つものだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI関連トークン下落──アップルのAI計画、市場の期待を満たさず]]></title>
+        <id>https://www.coindeskjapan.com/?p=235917</id>
+        <link href="https://www.coindeskjapan.com/235917/"/>
+        <updated>2024-06-11T00:40:52.000Z</updated>
+        <summary type="html"><![CDATA[AI（人工知能）関連の暗号資産（仮想通貨）は6月10日、アップルが年次の開発者向けイベントでトレーダーを刺激できなかったことを受けて下落した。 レンダー（Ren ...
+AI関連トークン下落──アップルのAI計画、市場の期待を満たさず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユニスワップラボ、Web3ゲーム「Crypto: The Game」を買収]]></title>
+        <id>https://coinpost.jp/?p=537151</id>
+        <link href="https://coinpost.jp/?p=537151"/>
+        <updated>2024-06-10T23:45:26.000Z</updated>
+        <summary type="html"><![CDATA[ユニスワップ・ラボのメンバー数名はゲームのシーズン1に参加し「カスタムクリプトスカベンジャーハント」というチャレンジの1つをスポンサーすることで、第2シーズンにも参加していた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ財団、サンドイッチ攻撃関与のバリデータを支援プログラムから除外]]></title>
         <id>https://coinpost.jp/?p=537149</id>
@@ -982,27 +1023,6 @@ AI × ブロックチェーンでビジネスモデル創出──AI+DAOATHON、
         <summary type="html"><![CDATA[仮想通貨IOトークンは、プラットフォームのユーティリティおよびガバナンストークンであり、未利用GPUコンピューティングパワーの購入/供給、GPUクラスターの展開など、io.netエコシステム内での支払いと取引手数料として利用される。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEPN運営のFSL、ブロックチェーンゲーム開発のミシカルゲームズへ出資]]></title>
-        <id>https://www.neweconomy.jp/?p=395517</id>
-        <link href="https://www.neweconomy.jp/posts/395517"/>
-        <updated>2024-06-06T12:38:30.000Z</updated>
-        <summary type="html"><![CDATA[FSLがMythical Gamesへ出資 Move-and-Earn（動いて稼ぐ）web3ゲーム「ステップン（STEPN）」運営のファインドサトシラボ（Find Satoshi Lab Limited：FSL）が、ブロ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロビンフッドがビットスタンプを買収──暗号資産事業を米国外に拡大]]></title>
-        <id>https://www.coindeskjapan.com/?p=235486</id>
-        <link href="https://www.coindeskjapan.com/235486/"/>
-        <updated>2024-06-06T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[トレーディングプラットフォームのロビンフッド（Robinhood）は、暗号資産（仮想通貨）取引所のビットスタンプ（Bitstamp）を買収することで合意したと6 ...
-ロビンフッドがビットスタンプを買収──暗号資産事業を米国外に拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>
