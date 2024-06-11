@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-11T22:25:50.680Z</updated>
+    <updated>2024-06-11T23:22:44.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カナダ上場企業DeFi Technologies、ビットコイン財務戦略採用]]></title>
+        <id>https://coinpost.jp/?p=537364</id>
+        <link href="https://coinpost.jp/?p=537364"/>
+        <updated>2024-06-11T22:45:32.000Z</updated>
+        <summary type="html"><![CDATA[東証上場のメタプラネットは11日新たに2億5000万円相当のビットコインを購入することを報告した。合計141 BTCの保有数となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「仮想通貨投資家は米FOMCに注目を」K33最新レポート]]></title>
         <id>https://coinpost.jp/?p=537360</id>
@@ -931,48 +941,6 @@ AI × ブロックチェーンでビジネスモデル創出──AI+DAOATHON、
         <summary type="html"><![CDATA[コロプラがCBIと資本業務提携 コロプラが、ユーロネクスト・グロース・パリ上場の仏クリプトブロックチェーンインダストリーズ（Crypto Blockchain Industries：CBI）との資本業務提携を6月7日発表 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コスモスハブで約5時間のチェーン停止が発生、現在は復旧済み]]></title>
-        <id>https://www.neweconomy.jp/?p=395738</id>
-        <link href="https://www.neweconomy.jp/posts/395738"/>
-        <updated>2024-06-07T11:21:48.000Z</updated>
-        <summary type="html"><![CDATA[Cosmos Hubでチェーン停止発生 コスモス（Cosmos）ネットワークの中心となるブロックチェーン「コスモスハブ（Cosmos Hub）」で、約5時間にもおよぶチェーン停止が6月6日に発生した。なお現在、チェーン停 […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは今後数日で8万3000ドルまで上昇する可能性：テクニカル分析]]></title>
-        <id>https://www.coindeskjapan.com/?p=235668</id>
-        <link href="https://www.coindeskjapan.com/235668/"/>
-        <updated>2024-06-07T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[10x Researchのテクニカル分析によると、ビットコイン（BTC）は日足チャートで強気なパターンを形成しており、8万3000ドルまで上昇する可能性がある。 ...
-ビットコインは今後数日で8万3000ドルまで上昇する可能性：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内初、オーケーコインジャパンに「ネオ（NEO）」上場へ]]></title>
-        <id>https://www.neweconomy.jp/?p=395734</id>
-        <link href="https://www.neweconomy.jp/posts/395734"/>
-        <updated>2024-06-07T11:13:14.000Z</updated>
-        <summary type="html"><![CDATA[オーケーコインジャパンがNEO取り扱いへ 国内暗号資産（仮想通貨）取引所オーケーコイン・ジャパン（OKCoinJapan）が、暗号資産ネオ（NEO）の取り扱い予定を6月7日発表した。取り扱い開始は6月17日17:00を予 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン先物の建玉が過去最高の377億ドルに──トレーダーは最高値更新を期待]]></title>
-        <id>https://www.coindeskjapan.com/?p=235655</id>
-        <link href="https://www.coindeskjapan.com/235655/"/>
-        <updated>2024-06-07T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[6月6日遅くに建玉が377億ドル（約5兆8435億円、1ドル=155円換算）を超えた。ビットコイン（BTC）トレーダーは、BTC先物で史上最高のポジションを築い ...
-ビットコイン先物の建玉が過去最高の377億ドルに──トレーダーは最高値更新を期待 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
