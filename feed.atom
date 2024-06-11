@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-11T11:21:38.456Z</updated>
+    <updated>2024-06-11T12:44:09.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ETFへの記録的な資金流入の中、ビットコイン価格が冴えない理由とは]]></title>
+        <id>https://www.coindeskjapan.com/?p=236083</id>
+        <link href="https://www.coindeskjapan.com/236083/"/>
+        <updated>2024-06-11T12:18:21.000Z</updated>
+        <summary type="html"><![CDATA[米国上場の現物ETF（上場投資信託）への記録的な資金流入にもかかわらず、ビットコイン価格が狭いレンジで推移しているため、暗号資産市場関係者の見通しは流動的だ。  ...
+ETFへの記録的な資金流入の中、ビットコイン価格が冴えない理由とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/11話題】コインチェックIEO「BRIL」購入申込金額が333億円、韓国がNFTの暗号資産該当判別ガイドラインなど]]></title>
         <id>https://www.neweconomy.jp/?p=396261</id>
@@ -1135,16 +1146,6 @@ AI × ブロックチェーンでビジネスモデル創出──AI+DAOATHON、
         <summary type="html"><![CDATA[仮想通貨ビットコインは米大統領選が近づくにつれて10万ドルに到達する可能性があると、スタンダードチャータード銀行のアナリストが分析。他にも期間を分けて価格を予想している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ザ・サンドボックス、転換社債で31億円調達]]></title>
-        <id>https://coinpost.jp/?p=536482</id>
-        <link href="https://coinpost.jp/?p=536482"/>
-        <updated>2024-06-06T23:30:58.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨・Web3メタバースを提供するザ・サンドボックスは6日、転換可能約束手形を通じて2,000万ドルの戦略的資金を調達したことを報告した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
