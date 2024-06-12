@@ -23,6 +23,36 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=236297",
+          "author": "Will Canny",
+          "description": "資産運用会社のビットワイズ（Bitwise）が6月12日に発表した報告書によると、人工知能（AI）と暗号資産（仮想通貨）は2030年までに世界経済に合計20兆ド ...\n暗号資産と人工知能は20兆ドルのメガトレンドになる：ビットワイズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/236297/",
+          "publishedOn": "2024-06-12T23:00:00.000Z",
+          "wordCount": 1286,
+          "title": "暗号資産と人工知能は20兆ドルのメガトレンドになる：ビットワイズ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_2284091341.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=236325",
+          "author": "林 理南",
+          "description": "CryptoQuantのレポートによると、ビットコインのマイニングプールから暗号資産（仮想通貨）取引所への送金は、今週2か月ぶりの高水準に達した。ビットコイン価 ...\nビットコインマイナーが価格上昇時に現金化──暗号資産取引所への送金が2か月ぶりの高水準 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/236325/",
+          "publishedOn": "2024-06-12T22:47:46.000Z",
+          "wordCount": 1254,
+          "title": "ビットコインマイナーが価格上昇時に現金化──暗号資産取引所への送金が2か月ぶりの高水準",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/N3UJAHECAWJHEDFWBL2LUDPXTOM.png"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=236276",
+          "author": "Sam Kessler",
+          "description": "イーサリアム（ETH）で最も人気のあるウォレット、メタマスク（MetaMask）は、今週からユーザーに「プール型ステーキング（Pooled Staking）」機 ...\nメタマスク、プール型ステーキングを提供──リキッドステーキングトークンは発行せず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/236276/",
+          "publishedOn": "2024-06-12T22:30:00.000Z",
+          "wordCount": 1229,
+          "title": "メタマスク、プール型ステーキングを提供──リキッドステーキングトークンは発行せず",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/T3DVPUYHXFCSLH7G6LJ3MAMC2Y.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=236316",
           "author": "林 理南",
           "description": "45億ドルの支払いで和解 テラフォーム・ラボ（Terraform Labs）とその元CEOのド・クォン（Do Kwon）氏は、米証券取引委員会（SEC）との和解 ...\nテラフォーム・ラボとド・クォン氏、民事詐欺訴訟でSECに合計45億ドルを支払うことに同意 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -465,6 +495,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=537715",
+          "author": "菊谷ルイス",
+          "description": "ジョー・バイデン米大統領の選挙キャンペーンチームは、コインベース・コマースを通じて仮想通貨による寄付を受け入れることを検討しているようだ。",
+          "link": "https://coinpost.jp/?p=537715",
+          "publishedOn": "2024-06-12T23:05:23.000Z",
+          "wordCount": 2501,
+          "title": "バイデン米大統領も選挙キャンペーンで仮想通貨寄付の受け付けを検討か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/biden-joe-bank-dont-worry.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/biden-joe-bank-dont-worry.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=537704",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの価格上昇には現物ETFの純粋な買い需要が必要な可能性があるとGlassnodeが分析。同様の見方は市場関係者からも上がっている。",
+          "link": "https://coinpost.jp/?p=537704",
+          "publishedOn": "2024-06-12T23:00:40.000Z",
+          "wordCount": 2517,
+          "title": "「ビットコインの価格上昇には現物ETFの純粋な買い需要が必要」Glassnode分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/etf-bitcoin-canada.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/etf-bitcoin-canada.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=537711",
+          "author": "菊谷ルイス",
+          "description": "これまで、イーサリアムブロックチェーンで最低限必要とされる32ETH（1,780万円）以上を持っているユーザーだけが、Consensys社が運営するバリデータにネイティブにステークすることができたが、新機能では少額でもステーキングが可能となった。",
+          "link": "https://coinpost.jp/?p=537711",
+          "publishedOn": "2024-06-12T22:30:07.000Z",
+          "wordCount": 2495,
+          "title": "メタマスク、イーサリアムの少額ステーキング機能をリリース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/Metamask_1125.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/Metamask_1125.png"
+        },
         {
           "id": "https://coinpost.jp/?p=537703",
           "author": "菊谷ルイス",
