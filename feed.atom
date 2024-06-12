@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-12T09:25:20.593Z</updated>
+    <updated>2024-06-12T10:29:08.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン現物ETF、2億ドルの純流出──CPI発表と金利決定を前にリスク回避]]></title>
+        <id>https://www.coindeskjapan.com/?p=236180</id>
+        <link href="https://www.coindeskjapan.com/236180/"/>
+        <updated>2024-06-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカで上場されているビットコイン（BTC）現物ETF（上場投資信託）は、6月12日に予定されている重要なマクロ経済報告を前に、トレーダーがリスク回避を行った ...
+ビットコイン現物ETF、2億ドルの純流出──CPI発表と金利決定を前にリスク回避 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OP Mainnet、ステージ1にランクアップ - Fault Proof実装でL2をリード]]></title>
+        <id>https://coinpost.jp/?p=537525</id>
+        <link href="https://coinpost.jp/?p=537525"/>
+        <updated>2024-06-12T09:42:50.000Z</updated>
+        <summary type="html"><![CDATA[OP Mainnetがステージ1に到達し、Fault Proofを実装してセキュリティを強化しました。イーサリアムL2の中でもステージ2獲得に向けて一歩リードしている状況]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ財団、サンドイッチ攻撃に加担したバリデーターを除外]]></title>
+        <id>https://www.neweconomy.jp/?p=396522</id>
+        <link href="https://www.neweconomy.jp/posts/396522"/>
+        <updated>2024-06-12T09:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Solana Foundationが悪意のあるバリデーターへの支援を停止 パブリックブロックチェーンのソラナ（Solana）の開発を支援するソラナ財団（Solana Foundation）が、ソラナブロックチェーン上でサ […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、アルトコイン5銘柄（通貨ペア）を6月14日に上場廃止へ]]></title>
         <id>https://coinpost.jp/?p=537564</id>
@@ -1115,26 +1146,6 @@ AI × ブロックチェーンでビジネスモデル創出──AI+DAOATHON、
         <summary type="html"><![CDATA[仮想通貨ビットコインの最高値更新は24年4Q頃になる可能性があるとBitfinexのアナリストは分析。今のサイクルの最高値は最低でも1BTC＝12万ドルだと予想している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GMEなどのミームコイン急落、ロアリング・キティ3年ぶりのライブ配信で]]></title>
-        <id>https://coinpost.jp/?p=536751</id>
-        <link href="https://coinpost.jp/?p=536751"/>
-        <updated>2024-06-07T21:50:06.000Z</updated>
-        <summary type="html"><![CDATA[ミーム株の火付け役「ロアリング・キティ」が3年ぶりにライブ配信を行ったことで、ゲームストップ株からインスパイアされた仮想通貨ミームコインは大きく急落していた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKCoinJapan、仮想通貨ネオ（NEO）新規上場へ]]></title>
-        <id>https://coinpost.jp/?p=536747</id>
-        <link href="https://coinpost.jp/?p=536747"/>
-        <updated>2024-06-07T21:25:31.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ネオは国内初として6月17日17時より取扱いを開始する予定で、販売所、積立、および入出庫で対応する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=236180",
+          "author": "Shaurya Malwa",
+          "description": "アメリカで上場されているビットコイン（BTC）現物ETF（上場投資信託）は、6月12日に予定されている重要なマクロ経済報告を前に、トレーダーがリスク回避を行った ...\nビットコイン現物ETF、2億ドルの純流出──CPI発表と金利決定を前にリスク回避 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/236180/",
+          "publishedOn": "2024-06-12T10:00:00.000Z",
+          "wordCount": 1278,
+          "title": "ビットコイン現物ETF、2億ドルの純流出──CPI発表と金利決定を前にリスク回避",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/07/shutterstock_1386484187.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=236165",
           "author": "増田 隆幸",
           "description": "ステーブルコイン発行を手がけるテザー（Tether）の投資部門は来年、10億ドル規模の取引を行う見込みとパオロ・アルドイーノ（Paolo Ardoino）CEO ...\nテザー、来年10億ドル超を投資にあてる予定：ブルームバーグ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -434,6 +444,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=537525",
+          "author": "AKIRA.H",
+          "description": "OP Mainnetがステージ1に到達し、Fault Proofを実装してセキュリティを強化しました。イーサリアムL2の中でもステージ2獲得に向けて一歩リードしている状況",
+          "link": "https://coinpost.jp/?p=537525",
+          "publishedOn": "2024-06-12T09:42:50.000Z",
+          "wordCount": 2570,
+          "title": "OP Mainnet、ステージ1にランクアップ - Fault Proof実装でL2をリード",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/Layer2_1121-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/Layer2_1121-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=537564",
           "author": "CoinPost編集部",
@@ -1048,36 +1073,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin04045-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin04045-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=536751",
-          "author": "菊谷ルイス",
-          "description": "ミーム株の火付け役「ロアリング・キティ」が3年ぶりにライブ配信を行ったことで、ゲームストップ株からインスパイアされた仮想通貨ミームコインは大きく急落していた。",
-          "link": "https://coinpost.jp/?p=536751",
-          "publishedOn": "2024-06-07T21:50:06.000Z",
-          "wordCount": 2481,
-          "title": "GMEなどのミームコイン急落、ロアリング・キティ3年ぶりのライブ配信で",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=536747",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨ネオは国内初として6月17日17時より取扱いを開始する予定で、販売所、積立、および入出庫で対応する。",
-          "link": "https://coinpost.jp/?p=536747",
-          "publishedOn": "2024-06-07T21:25:31.000Z",
-          "wordCount": 2476,
-          "title": "OKCoinJapan、仮想通貨ネオ（NEO）新規上場へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/neo-okcion.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/neo-okcion.jpg"
         }
       ]
     },
@@ -1086,6 +1081,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=396522",
+          "author": "TamuraSeiji",
+          "description": "Solana Foundationが悪意のあるバリデーターへの支援を停止 パブリックブロックチェーンのソラナ（Solana）の開発を支援するソラナ財団（Solana Foundation）が、ソラナブロックチェーン上でサ […]",
+          "link": "https://www.neweconomy.jp/posts/396522",
+          "publishedOn": "2024-06-12T09:40:57.000Z",
+          "wordCount": 776,
+          "title": "ソラナ財団、サンドイッチ攻撃に加担したバリデーターを除外",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/12184047/386a70978bd9956946cef014c825475f.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=396488",
           "author": "HitomotoToshikazu",
