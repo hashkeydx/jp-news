@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-13T11:21:18.268Z</updated>
+    <updated>2024-06-13T12:43:26.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カーブ創設者の借り入れが精算に直面、CRVが 30%急落]]></title>
+        <id>https://www.coindeskjapan.com/?p=236430</id>
+        <link href="https://www.coindeskjapan.com/236430/"/>
+        <updated>2024-06-13T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所（DEX）カーブ・ファイナンス（Curve Finance）のトークン、カーブ・ダオ・トークン（CRV）は、アジア時間の開始直後に30%急落した。創 ...
+カーブ創設者の借り入れが精算に直面、CRVが 30%急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国内初、Zaifにボラ（BORA）上場へ]]></title>
         <id>https://www.neweconomy.jp/?p=396735</id>
@@ -1351,17 +1362,6 @@ DEXのスシスワップ、ビットコインサイドチェーンのルート�
 プライベート資産トークン化の将来性と課題 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>山口 晶子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Consensus 2024」振り返り──何が話題なのか、何が起きようとしているのか。]]></title>
-        <id>https://www.coindeskjapan.com/?p=235735</id>
-        <link href="https://www.coindeskjapan.com/235735/"/>
-        <updated>2024-06-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[テキサス州オースティンで現地時間5月29日〜31日まで開催された米CoinDeskの「Consensus 2024」。今年もさまざまなニュースが伝わってきた。  ...
-「Consensus 2024」振り返り──何が話題なのか、何が起きようとしているのか。 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
         </author>
     </entry>
 </feed>
