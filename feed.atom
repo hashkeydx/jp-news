@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-14T02:38:38.710Z</updated>
+    <updated>2024-06-14T03:27:20.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン相場はCPI・FOMC通過で乱高下、売り買いのシグナル交錯へ]]></title>
+        <id>https://coinpost.jp/?p=537956</id>
+        <link href="https://coinpost.jp/?p=537956"/>
+        <updated>2024-06-14T03:19:12.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場では、CPIやFOMC結果を受けビットコイン（BTC）が乱高下するなど一時ボラティリティが急上昇した。大手マイナーの売りシグナルやCMEの先物ショートの行方にも関心が集まる。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC発行の米サークル、「プログラマブルウォレット」をソラナ対応開始]]></title>
+        <id>https://www.neweconomy.jp/?p=396860</id>
+        <link href="https://www.neweconomy.jp/posts/396860"/>
+        <updated>2024-06-14T03:02:20.000Z</updated>
+        <summary type="html"><![CDATA[サークルがプログラマブルウォレットをソラナ対応へ 米ドルステーブルコイン「USDC」等を発行するサークル（Circle）が、「プログラマブルウォレット（Programmable Wallet）」のソラナ（Solana）対 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNBチェーンとバイナンスラボ、BNB基盤プロジェクト支援へ]]></title>
         <id>https://coinpost.jp/?p=537952</id>
