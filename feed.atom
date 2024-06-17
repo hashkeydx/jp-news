@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-17T22:26:22.681Z</updated>
+    <updated>2024-06-17T23:24:05.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米上場のビットコイン採掘企業、合計時価総額が最高値更新＝JPモルガン]]></title>
+        <id>https://coinpost.jp/?p=538705</id>
+        <link href="https://coinpost.jp/?p=538705"/>
+        <updated>2024-06-17T22:25:39.000Z</updated>
+        <summary type="html"><![CDATA[米上場の仮想通貨ビットコインのマイニング企業について、合計時価総額が最高値を更新したとJPモルガンのアナリストが指摘。最高値更新の要因を分析している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新興国および発展途上国におけるステーブルコインのリスクへの取り組みを拡大：金融安定理事会]]></title>
         <id>https://www.coindeskjapan.com/?p=236728</id>
@@ -864,27 +874,6 @@ AIロボットの「空間把握」という大きな課題──DePINが提供�
 カーブ創設者の借り入れが精算に直面、CRVが 30%急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内初、Zaifにボラ（BORA）上場へ]]></title>
-        <id>https://www.neweconomy.jp/?p=396735</id>
-        <link href="https://www.neweconomy.jp/posts/396735"/>
-        <updated>2024-06-13T10:34:19.000Z</updated>
-        <summary type="html"><![CDATA[ZaifにBORA上場へ 国内暗号資産（仮想通貨）取引所Zaif（ザイフ）が、暗号資産ボラ（BORA）の取り扱い予定を6月13日発表した。 発表によるとBORAに関するサービス提供開始は、6月26日を予定しているとのこと […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パクソス、従業員の20％に当たる65人を解雇]]></title>
-        <id>https://www.coindeskjapan.com/?p=236399</id>
-        <link href="https://www.coindeskjapan.com/236399/"/>
-        <updated>2024-06-13T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ブルームバーグの報道によると、ステーブルコインの発行などを手がけるパクソス（Paxos）は、従業員の 20%に当たる65人を解雇した。 ブルームバーグが入手した ...
-パクソス、従業員の20％に当たる65人を解雇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
         </author>
     </entry>
 </feed>
