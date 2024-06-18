@@ -23,6 +23,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=236954",
+          "author": "T. Minamoto",
+          "description": "暗号資産関連のグーグル（Google）検索クエリが急上昇するのは、これまでも大きな好況時のピークで発生しており、伝説の投資家ウォーレン・バフェットによる名言「不 ...\nAI関連トークンが下落──グーグルトレンド分析からは個人投資家の関心がピークに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/236954/",
+          "publishedOn": "2024-06-18T22:00:00.000Z",
+          "wordCount": 1256,
+          "title": "AI関連トークンが下落──グーグルトレンド分析からは個人投資家の関心がピークに",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/AI.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=236855",
+          "author": "山口 晶子",
+          "description": "マイクロソフトはアリゾナ州とウィスコンシン州に巨大なAIデータセンターを建設し、AIを支えるインフラを提供しようとしている。AIは文字通り、アツい。 このような ...\nビットコインマイニングがAIで逼迫する送電網を安定させる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/236855/",
+          "publishedOn": "2024-06-18T21:30:00.000Z",
+          "wordCount": 1266,
+          "title": "ビットコインマイニングがAIで逼迫する送電網を安定させる",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/E2OYTNNFBRFH5NYDQ6RSOJEK5A.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=236905",
           "author": "Omkar Godbole",
           "description": "暗号資産（仮想通貨）市場の好転の兆しを探しているトレーダーは、エックス・アール・ピー（XRP）、チェーンリンク（LINK）、イーサリアム（ETH）を検討するとよ ...\nXRP、LINK、ETHは勢いを増す可能性。DOGE、SOLは低迷：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -301,16 +321,6 @@
           "wordCount": 1209,
           "title": "ミームコインで50万円を14億円にしたトレーダー／DAOの第一人者で弁護士の29歳が四国で「革命」【週末に読みたい厳選10本】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/shutterstock_517447828.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=236531",
-          "author": "Shaurya Malwa",
-          "description": "アメリカで上場されているビットコイン（BTC）現物ETF（上場投資信託）は6月13日、2億2600万ドル（約350億円、1ドル=155円換算）を超える資金流出を ...\nビットコイン現物ETF、2億2600万ドルの資金流出──純流入はブラックロックのみ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/236531/",
-          "publishedOn": "2024-06-14T10:00:00.000Z",
-          "wordCount": 1253,
-          "title": "ビットコイン現物ETF、2億2600万ドルの資金流出──純流入はブラックロックのみ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/shutterstock_2127109961-scaled-e1692856649392.jpg"
         }
       ]
     },
@@ -321,10 +331,70 @@
       "articles": []
     },
     {
-      "title": "キャッシュレス  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=538969",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの価格は6万ドルの水準まで下落する可能性があるとCryptoQuantが分析。相場の勢いが弱まっているとみる背景を説明した。",
+          "link": "https://coinpost.jp/?p=538969",
+          "publishedOn": "2024-06-18T22:05:12.000Z",
+          "wordCount": 2477,
+          "title": "「ビットコインは6万ドルの水準まで下落する可能性」CryptoQuant分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin0407-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin0407-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=538968",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所Upholdは、欧州のMiCA規制環境に備え、7月1日までに欧州市場でUSDTを含むすべてのステーブルコインを上場廃止する。",
+          "link": "https://coinpost.jp/?p=538968",
+          "publishedOn": "2024-06-18T21:50:33.000Z",
+          "wordCount": 2463,
+          "title": "Uphold、欧州MiCA法準拠でUSDTなどのステーブルコイン上場廃止へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=538960",
+          "author": "菊谷ルイス",
+          "description": "ブロックチェーンインテレジェンスサービスArkhamはSNSで、仮想通貨DJTの本当の創造者を特定した人に、15万ドルの賞金をかけると投稿し、プラットフォーム内でバウンティを設定した。",
+          "link": "https://coinpost.jp/?p=538960",
+          "publishedOn": "2024-06-18T21:25:10.000Z",
+          "wordCount": 2523,
+          "title": "自称トランプ氏の公式ミームコイン「DJT」高騰、未だ真偽不明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/trump-new-stimulus.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/trump-new-stimulus.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=538957",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所クラーケンは19日、複数のミームコイン無期限先物を提供し始めた。また、現物取引では銘柄の新規上場も実施した。",
+          "link": "https://coinpost.jp/?p=538957",
+          "publishedOn": "2024-06-18T20:50:11.000Z",
+          "wordCount": 2454,
+          "title": "米クラーケン、ソラナとベース基盤のミームコインの先物を提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/kraken-dot.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/kraken-dot.png"
+        },
         {
           "id": "https://coinpost.jp/?p=538827",
           "author": "AKIRA.H",
@@ -996,26 +1066,6 @@
           "wordCount": 747,
           "title": "ムーンペイ、ペイパルアカウントでの暗号資産購入がEU24ヵ国・英国全域に拡大",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/16143010/9b540e47e20fe6d3c9eaa775af82cf22.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=397064",
-          "author": "OtsugaShinya",
-          "description": "コインベストが関東財務局から行政処分 国内暗号資産（仮想通貨）交換業者CoinBest（コインベスト）が、関東財務局より行政処分を受けたことを6月14日発表した。 同社には行政処分により、IEO業務について業務停止命令が […]",
-          "link": "https://www.neweconomy.jp/posts/397064",
-          "publishedOn": "2024-06-14T10:24:49.000Z",
-          "wordCount": 636,
-          "title": "コインベストが関東財務局から行政処分、IEO業務態勢の改善命令で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/14192440/c54192e89dd501cf63addc7149224541.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=397054",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/397054",
-          "publishedOn": "2024-06-14T09:36:49.000Z",
-          "wordCount": 648,
-          "title": "【6/14話題】イーサリアム現物ETFの米承認は今夏中か、BORAが国内初上場へ、マイクロストラテジーの転換社債など",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/14182453/news_head_20240614.jpg"
         }
       ]
     }

@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-18T21:22:19.022Z</updated>
+    <updated>2024-06-18T22:27:17.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインは6万ドルの水準まで下落する可能性」CryptoQuant分析]]></title>
+        <id>https://coinpost.jp/?p=538969</id>
+        <link href="https://coinpost.jp/?p=538969"/>
+        <updated>2024-06-18T22:05:12.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインの価格は6万ドルの水準まで下落する可能性があるとCryptoQuantが分析。相場の勢いが弱まっているとみる背景を説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI関連トークンが下落──グーグルトレンド分析からは個人投資家の関心がピークに]]></title>
+        <id>https://www.coindeskjapan.com/?p=236954</id>
+        <link href="https://www.coindeskjapan.com/236954/"/>
+        <updated>2024-06-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産関連のグーグル（Google）検索クエリが急上昇するのは、これまでも大きな好況時のピークで発生しており、伝説の投資家ウォーレン・バフェットによる名言「不 ...
+AI関連トークンが下落──グーグルトレンド分析からは個人投資家の関心がピークに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>T. Minamoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uphold、欧州MiCA法準拠でUSDTなどのステーブルコイン上場廃止へ]]></title>
+        <id>https://coinpost.jp/?p=538968</id>
+        <link href="https://coinpost.jp/?p=538968"/>
+        <updated>2024-06-18T21:50:33.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所Upholdは、欧州のMiCA規制環境に備え、7月1日までに欧州市場でUSDTを含むすべてのステーブルコインを上場廃止する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイニングがAIで逼迫する送電網を安定させる]]></title>
+        <id>https://www.coindeskjapan.com/?p=236855</id>
+        <link href="https://www.coindeskjapan.com/236855/"/>
+        <updated>2024-06-18T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトはアリゾナ州とウィスコンシン州に巨大なAIデータセンターを建設し、AIを支えるインフラを提供しようとしている。AIは文字通り、アツい。 このような ...
+ビットコインマイニングがAIで逼迫する送電網を安定させる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自称トランプ氏の公式ミームコイン「DJT」高騰、未だ真偽不明]]></title>
+        <id>https://coinpost.jp/?p=538960</id>
+        <link href="https://coinpost.jp/?p=538960"/>
+        <updated>2024-06-18T21:25:10.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンインテレジェンスサービスArkhamはSNSで、仮想通貨DJTの本当の創造者を特定した人に、15万ドルの賞金をかけると投稿し、プラットフォーム内でバウンティを設定した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP、LINK、ETHは勢いを増す可能性。DOGE、SOLは低迷：テクニカル分析]]></title>
         <id>https://www.coindeskjapan.com/?p=236905</id>
@@ -15,6 +67,16 @@
 XRP、LINK、ETHは勢いを増す可能性。DOGE、SOLは低迷：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米クラーケン、ソラナとベース基盤のミームコインの先物を提供]]></title>
+        <id>https://coinpost.jp/?p=538957</id>
+        <link href="https://coinpost.jp/?p=538957"/>
+        <updated>2024-06-18T20:50:11.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所クラーケンは19日、複数のミームコイン無期限先物を提供し始めた。また、現物取引では銘柄の新規上場も実施した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -832,37 +894,6 @@ DMM Bitcoin、流出相当分のビットコインの調達完了──原因は
         <summary type="html"><![CDATA[暗号資産取引所DMMビットコインは顧客への保証のためのビットコインをすべて調達した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベストが関東財務局から行政処分、IEO業務態勢の改善命令で]]></title>
-        <id>https://www.neweconomy.jp/?p=397064</id>
-        <link href="https://www.neweconomy.jp/posts/397064"/>
-        <updated>2024-06-14T10:24:49.000Z</updated>
-        <summary type="html"><![CDATA[コインベストが関東財務局から行政処分 国内暗号資産（仮想通貨）交換業者CoinBest（コインベスト）が、関東財務局より行政処分を受けたことを6月14日発表した。 同社には行政処分により、IEO業務について業務停止命令が […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン現物ETF、2億2600万ドルの資金流出──純流入はブラックロックのみ]]></title>
-        <id>https://www.coindeskjapan.com/?p=236531</id>
-        <link href="https://www.coindeskjapan.com/236531/"/>
-        <updated>2024-06-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカで上場されているビットコイン（BTC）現物ETF（上場投資信託）は6月13日、2億2600万ドル（約350億円、1ドル=155円換算）を超える資金流出を ...
-ビットコイン現物ETF、2億2600万ドルの資金流出──純流入はブラックロックのみ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【6/14話題】イーサリアム現物ETFの米承認は今夏中か、BORAが国内初上場へ、マイクロストラテジーの転換社債など]]></title>
-        <id>https://www.neweconomy.jp/?p=397054</id>
-        <link href="https://www.neweconomy.jp/posts/397054"/>
-        <updated>2024-06-14T09:36:49.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
