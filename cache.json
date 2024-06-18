@@ -23,6 +23,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=236813",
+          "author": "増田 隆幸",
+          "description": "暗号資産（仮想通貨）市場は6月17日に急反発し、ビットコイン（BTC）は一時6万5000ドルまで下落したが3日ぶりに6万7000ドル付近まで回復した。 6万50 ...\nビットコイン、6万7000ドル付近まで回復──XRPとマイニング株が上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/236813/",
+          "publishedOn": "2024-06-18T01:14:00.000Z",
+          "wordCount": 1271,
+          "title": "ビットコイン、6万7000ドル付近まで回復──XRPとマイニング株が上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/price0618.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=236801",
+          "author": "林 理南",
+          "description": "レイヤー2ブロックチェーンのZKsyncは、待ち望まれていたZKトークンのエアドロップを開始した。チームは17日、トークンの45%がすでに請求されていると発表し ...\nZKsyncのZKトークンがエアドロップ──時価総額は8億ドルに迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/236801/",
+          "publishedOn": "2024-06-18T00:16:48.000Z",
+          "wordCount": 1299,
+          "title": "ZKsyncのZKトークンがエアドロップ──時価総額は8億ドルに迫る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/C3SUEDEDBBEOFC6IXAO7XYKPWU-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=236728",
           "author": "Amitoj Singh",
           "description": "金融システムにシステミックリスクをもたらす可能性のある事象を監視する金融安定理事会（FSB）は、新興国および発展途上国においてステーブルコインがもたらす課題につ ...\n新興国および発展途上国におけるステーブルコインのリスクへの取り組みを拡大：金融安定理事会 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -311,16 +331,6 @@
           "wordCount": 1268,
           "title": "利回り付きステーブルコインのインパクト──数兆ドルの市場をめぐって競争激化",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/HW73WVJBJRE2XCZ2GHUM62ON7M.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=236430",
-          "author": "Shaurya Malwa",
-          "description": "分散型取引所（DEX）カーブ・ファイナンス（Curve Finance）のトークン、カーブ・ダオ・トークン（CRV）は、アジア時間の開始直後に30%急落した。創 ...\nカーブ創設者の借り入れが精算に直面、CRVが 30%急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/236430/",
-          "publishedOn": "2024-06-13T11:30:00.000Z",
-          "wordCount": 1318,
-          "title": "カーブ創設者の借り入れが精算に直面、CRVが 30%急落",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/shutterstock_2145286765-710x458-1.jpg"
         }
       ]
     },
@@ -335,6 +345,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=538722",
+          "author": "A.Yamada",
+          "description": "米証券取引委員会の執行部仮想通貨・サイバーユニットの責任者を務めていたデイビッド・ハーシュ氏がSECを退職した。",
+          "link": "https://coinpost.jp/?p=538722",
+          "publishedOn": "2024-06-18T00:50:30.000Z",
+          "wordCount": 2496,
+          "title": "米SEC仮想通貨部門の責任者が退任",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=538718",
+          "author": "菊谷ルイス",
+          "description": "ステーブルコインUSDTの発行企業テザーは、「Alloy by Tether」と呼ばれる新しい仮想通貨カテゴリーを発表した。",
+          "link": "https://coinpost.jp/?p=538718",
+          "publishedOn": "2024-06-17T23:30:36.000Z",
+          "wordCount": 2496,
+          "title": "テザー、ゴールド裏付けの新たなステーブルコイン「aUSDT」発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/tether-alloy.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/tether-alloy.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=538705",
           "author": "K.Kobayashi",
