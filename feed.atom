@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-19T11:21:21.621Z</updated>
+    <updated>2024-06-19T12:43:52.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米カンバーランド、ニューヨーク州のBitLicense取得]]></title>
+        <id>https://www.coindeskjapan.com/?p=236866</id>
+        <link href="https://www.coindeskjapan.com/236866/"/>
+        <updated>2024-06-19T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[大手暗号資産トレーディング企業で流動性プロバイダーのカンバーランドDRW（Cumberland DRW）は6月17日、同社ニューヨーク部門がニューヨーク州金融サ ...
+米カンバーランド、ニューヨーク州のBitLicense取得 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソニー銀行、Web3エンタメ向けアプリ「Sony Bank CONNECT」リリース間近か──事前登録キャンペーン開始]]></title>
         <id>https://www.coindeskjapan.com/?p=237091</id>
@@ -1048,37 +1059,6 @@ DMM Bitcoin、流出相当分のビットコインの調達完了──原因は
 マイクロストラテジーを高評価、ビットコインが10年以内に100万ドルに達する可能性を示唆：バーンスタイン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜビットコインはナスダックに追いつけないのか──ナスダックは史上最高値更新、BTCは1週間で6％下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=236567</id>
-        <link href="https://www.coindeskjapan.com/236567/"/>
-        <updated>2024-06-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は7日間で6%以上下落し、通常見られる、ハイテク株中心のナスダック総合指数との正の相関関係から逸脱した。 ビットコインの下落は、アメリカ連 ...
-なぜビットコインはナスダックに追いつけないのか──ナスダックは史上最高値更新、BTCは1週間で6％下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインレイヤー2「Stacks」、9時間ほどブロック生成停止]]></title>
-        <id>https://coinpost.jp/?p=538187</id>
-        <link href="https://coinpost.jp/?p=538187"/>
-        <updated>2024-06-14T23:50:57.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインに属するレイヤー2ネットワーク「Stacks」は14日、ブロック生成が約9時間停止し、混乱に見舞われた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、海外仮想通貨取引所LBankに警告]]></title>
-        <id>https://coinpost.jp/?p=538181</id>
-        <link href="https://coinpost.jp/?p=538181"/>
-        <updated>2024-06-14T23:30:18.000Z</updated>
-        <summary type="html"><![CDATA[金融庁は6月14日、海外仮想通貨取引所「LBank Exchange」に対して、事務ガイドラインに基づき、無登録で仮想通貨取引を提供しているとして警告した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
