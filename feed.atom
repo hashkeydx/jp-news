@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-20T03:27:19.334Z</updated>
+    <updated>2024-06-20T04:27:01.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米クラーケン、入金システムバグ発見の「セキュリティ研究者」と対立]]></title>
+        <id>https://www.neweconomy.jp/?p=397932</id>
+        <link href="https://www.neweconomy.jp/posts/397932"/>
+        <updated>2024-06-20T03:45:39.000Z</updated>
+        <summary type="html"><![CDATA[バグは修正済 暗号資産（仮想通貨）取引所クラーケン（Kraken）が、預金および入金システムにバグが発生したことを6月19日報告した。 クラーケンは今回の発表に至るまで、顧客資産に影響や脆弱性ははなく、バグはすでに修正さ […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハッシュキーのグローバル向け暗号資産取引所「HashKey Global」、先物取引のサービス提供開始]]></title>
         <id>https://www.neweconomy.jp/?p=397914</id>
