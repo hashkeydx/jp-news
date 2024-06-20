@@ -23,6 +23,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=237047",
+          "author": "Daniel Kuhn",
+          "description": "ドナルド・トランプ前大統領は、米国内でビットコインマイニング産業を発展させるよう呼びかけている。共和党の大統領候補であるトランプ氏は先日、多少は誇張かもしれない ...\nトランプ氏のビットコインマイナーへのアピールは、暗号資産は「非政治的」であるべきとの警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/237047/",
+          "publishedOn": "2024-06-20T21:00:00.000Z",
+          "wordCount": 1275,
+          "title": "トランプ氏のビットコインマイナーへのアピールは、暗号資産は「非政治的」であるべきとの警告",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/ZFG7F66S2FDTFJ4GHXP36EUO2E.jpg-2.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=237346",
           "author": "Omkar Godbole",
           "description": "1カ月前、CoinDeskはイーサリアム（ETH）スポットETF（上場投資信託）の投機的取引が、ソラナ（SOL）を含むアルトコインからETHへの資金流出を加速さ ...\nSOL/ETHレシオが3カ月ぶりの低水準に──アナリストはさらなる下落を予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -431,16 +441,6 @@
           "wordCount": 1273,
           "title": "マイナーの保有量削減でビットコインの短期的な弱気目標は6万ドルか",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/ZONBWQJ4UBFQPHDD24F746QTTU-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=236668",
-          "author": "CoinDesk JAPAN",
-          "description": "DMM Bitcoinは6月14日、5月31日に発生したビットコイン（BTC）の不正流出に関して第三報を発表。グループ会社からの資金支援はすでに完了、また流出相 ...\nDMM Bitcoin、流出相当分のビットコインの調達完了──原因は依然調査中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/236668/",
-          "publishedOn": "2024-06-16T09:01:20.000Z",
-          "wordCount": 1252,
-          "title": "DMM Bitcoin、流出相当分のビットコインの調達完了──原因は依然調査中",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/DMM0614.jpg"
         }
       ]
     },
@@ -455,6 +455,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=539562",
+          "author": "菊谷ルイス",
+          "description": "トークンを取得するために、Protocol Guildという組織に寄付することを強制しており、コミュニティから大きな反発を買っている。",
+          "link": "https://coinpost.jp/?p=539562",
+          "publishedOn": "2024-06-20T21:15:38.000Z",
+          "wordCount": 2484,
+          "title": "レイヤーゼロの仮想通貨ZRO、バイナンスやBybitに上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/zero-listing.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/zero-listing.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=539558",
+          "author": "菊谷ルイス",
+          "description": "カナダの大手仮想通貨資産運用会社3iQ Digital Asset Managementは20日、ソラナの現物ETFの仮目論見書を規制当局に提出したと報告した。北米で上場する初のソラナ現物ETFとなることを目指している。",
+          "link": "https://coinpost.jp/?p=539558",
+          "publishedOn": "2024-06-20T20:50:41.000Z",
+          "wordCount": 2492,
+          "title": "北米初のソラナ現物ETF、3iQがカナダでローンチへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_02.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_02.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=539521",
           "author": "菊谷ルイス",
