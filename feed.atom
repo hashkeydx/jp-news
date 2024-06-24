@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-24T22:27:33.159Z</updated>
+    <updated>2024-06-24T23:25:33.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインUSDT、アルゴランドとEOSで発行終了]]></title>
+        <id>https://coinpost.jp/?p=540306</id>
+        <link href="https://coinpost.jp/?p=540306"/>
+        <updated>2024-06-24T23:05:53.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインUSDTを発行するテザーは24日、アルゴランドとEOSという2つのブロックチェーンへの対を終了するを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「日本の機関投資家の54%が仮想通貨に投資する意向」野村が調査実施]]></title>
         <id>https://coinpost.jp/?p=540292</id>
@@ -891,16 +901,6 @@ Web3マーケティングがクッキーを変え、インターネットを変�
 SOL/ETHレシオが3カ月ぶりの低水準に──アナリストはさらなる下落を予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野村HD子会社レーザーデジタル、アブダビグローバルマーケット（ADGM）のライセンス取得プロセス完了]]></title>
-        <id>https://www.neweconomy.jp/?p=398106</id>
-        <link href="https://www.neweconomy.jp/posts/398106"/>
-        <updated>2024-06-20T10:33:49.000Z</updated>
-        <summary type="html"><![CDATA[レーザーデジタルがADGMのライセンス取得 野村ホールディングスの関連子会社レーザーデジタル（Laser Digital）が、アブダビ・グローバル・マーケット（ADGM）のライセンス取得プロセスが完了したことを6月19日 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
