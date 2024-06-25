@@ -416,6 +416,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=540426",
+          "author": "CoinPost編集部",
+          "description": "暗号資産（仮想通貨）の損益計算サービス「Gtax」を提供する株式会社Aerial Partners所属の税理士が、STEPNやブレヒロなどの人気ブロックチェーンゲームの煩雑な税金計算の基本について初心者向けに解説。国内最大手暗号資産（仮想通貨）メディアCoinPostに寄稿しました。",
+          "link": "https://coinpost.jp/?p=540426",
+          "publishedOn": "2024-06-25T08:03:06.000Z",
+          "wordCount": 2581,
+          "title": "ブロックチェーンゲームでも税金が発生する？課税のタイミングやNFT取引における所得の注意点などを解説｜Aerial Partners寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/bcg4.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/bcg4.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=540341",
           "author": "菊谷ルイス",
           "description": "ビットコイン、イーサリアム、ソラナなど時価総額上位の暗号資産（仮想通貨）やその他の注目銘柄について、過去1週間の材料をまとめた。",
@@ -977,6 +992,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=398909",
+          "author": "HitomotoToshikazu",
+          "description": "ブラストがガバナンスを管理する財団設立 イーサリアム（Ethereum）レイヤー2プロトコル「ブラスト（Blast）」のガバナンスを管理する非営利団体「ブラスト財団（Blast Foundation）」が設立された。「ブ […]",
+          "link": "https://www.neweconomy.jp/posts/398909",
+          "publishedOn": "2024-06-25T07:53:58.000Z",
+          "wordCount": 784,
+          "title": "イーサリアムL2「ブラスト」、プロトコルのガバナンスを管理するブラスト財団設立",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/25113143/e98699a19b85d9c43660ba8c86dcd2db.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=399050",
+          "author": "TamuraSeiji",
+          "description": "EigenDAがシビル攻撃やDDoS攻撃の対策のためセキュリティ強化 イーサリアム（Ethereum）ベースのリステーキングプロトコル「アイゲンレイヤー（EigenLayer）」をもとに構築された独自のDA（データ可用性 […]",
+          "link": "https://www.neweconomy.jp/posts/399050",
+          "publishedOn": "2024-06-25T07:31:27.000Z",
+          "wordCount": 667,
+          "title": "アイゲンレイヤーの「EigenDA」、シビル攻撃やDDoS攻撃の対策でセキュリティ強化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/25163115/d5dd4ed1c81e17c3176ec0a46f1297b0.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=399006",
           "author": "gentosha_takahashi",
