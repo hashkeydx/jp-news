@@ -397,7 +397,18 @@
       "title": "日本暗号資産ビジネス協会（JCBA） – メディア特設サイト",
       "feedUrl": "https://media.cryptocurrency-association.org/?feed=rss2",
       "siteUrl": "https://media.cryptocurrency-association.org",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://media.cryptocurrency-association.org/?p=581",
+          "author": "media-master",
+          "description": "本協会の取組や、暗号資産業界の情報を発信していきます",
+          "link": "https://media.cryptocurrency-association.org/?p=581",
+          "publishedOn": "2024-06-25T03:04:19.000Z",
+          "wordCount": 3179,
+          "title": "Blockchain Week 2024で基調講演を行ってわかったオーストラリアでのweb3市場の熱気",
+          "imageUrl": "https://media.cryptocurrency-association.org/cms/wp-content/uploads/2023/11/tw2-scaled.jpg"
+        }
+      ]
     },
     {
       "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
@@ -922,6 +933,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=398961",
+          "author": "gentosha_takahashi",
+          "description": "7月から弁済開始 暗号資産（仮想通貨）取引所マウントゴックス（Mt.Gox）が、ビットコイン（BTC）及びビットコインキャッシュ（BCH）で弁済を開始すると6月24日発表した。 弁済が開始されるのは今年7月はじめから。弁 […]",
+          "link": "https://www.neweconomy.jp/posts/398961",
+          "publishedOn": "2024-06-25T03:22:30.000Z",
+          "wordCount": 748,
+          "title": "マウントゴックスが7月から弁済開始、ビットコインとビットコインキャッシュで",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/25122218/48258c39dfe5212647133581cc87049a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=398901",
+          "author": "HitomotoToshikazu",
+          "description": "テザー社が台湾の大学で教育プログラム開始 USDTなどのステーブルコイン発行元であるテザー（Tether）社が、台湾にある国立台北科技大学（NTUT）と提携し、同国の学生向け教育プログラムコース「ブロックチェーンとデジタ […]",
+          "link": "https://www.neweconomy.jp/posts/398901",
+          "publishedOn": "2024-06-25T03:11:25.000Z",
+          "wordCount": 751,
+          "title": "テザー社、台湾の大学でブロックチェーン関連の教育プログラム開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/25121028/cb033e7165c463a7235b5dd37bb68ac6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=398935",
+          "author": "OtsugaShinya",
+          "description": "「Yay!」が「World ID」と認証連携 バーチャルワールド「Yay!」が、ワールドコイン（Worldcoin）の個人認証機能である「World ID」との認証連携を開始した。「Yay!」運営元のナナメウエが6月25 […]",
+          "link": "https://www.neweconomy.jp/posts/398935",
+          "publishedOn": "2024-06-25T02:59:22.000Z",
+          "wordCount": 772,
+          "title": "ナナメウエ「Yay!」、ワールドコインの「WorldID」との認証連携を開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/25115916/0dc7d1fd1746dc4b2946b8c9b2e43230.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=398915",
           "author": "OtsugaShinya",
           "description": "ビットポイントにDOGE上場 国内暗号資産（仮想通貨）取引所BITPOINT（ビットポイント）が、暗号資産ドージコイン（DOGE）の取り扱い開始を6月25日発表した。 DOGEは、ネットミームの「ドージ」をモチーフに誕生 […]",
@@ -1090,16 +1131,6 @@
           "wordCount": 791,
           "title": "米マイクロストラテジーがビットコイン追加購入、保有総数226331BTCに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/21120114/a03e35795a67cdb2eecfa5eead220143.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=398192",
-          "author": "OtsugaShinya",
-          "description": "ビットフライヤーがFTX Japanを買収へ 国内暗号資産（仮想通貨）取引所ビットフライヤー（bitFlyer）が、FTX Japanの買収合意を6月20日23:00頃に正式発表した。また買収後、FTX Japanは社名 […]",
-          "link": "https://www.neweconomy.jp/posts/398192",
-          "publishedOn": "2024-06-20T14:48:14.000Z",
-          "wordCount": 785,
-          "title": "ビットフライヤーがFTX Japanの買収合意を正式発表、暗号資産のカストディと現物ETF提供を目指す",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/20234807/c11cee99a65583d9febd488fb13f19c7.jpg"
         }
       ]
     }
