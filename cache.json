@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=237813",
+          "author": "増田 隆幸",
+          "description": "マウントゴックスの再生債務者MTGOXと再生管財人の小林信明氏は、2014年にビットコイン取引所マウントゴックスから盗まれた資産について、顧客への弁済を7月第1 ...\nマウントゴックス、7月から弁済開始──ビットコインは6万ドルをめぐる攻防 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/237813/",
+          "publishedOn": "2024-06-24T23:39:09.000Z",
+          "wordCount": 1237,
+          "title": "マウントゴックス、7月から弁済開始──ビットコインは6万ドルをめぐる攻防",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/BDYQ3AVPBFFGBEUUOTP5726E74.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=237738",
           "author": "T. Minamoto",
           "description": "米政府の債務管理に対する懸念が強まる中、米国債の主要な買い手としてステーブルコインの発行体が急速に台頭している。 タガス・キャピタル（Tagus Capital ...\nステーブルコイン発行体、世界18位の米国債保有額──債務問題の中、テザーやUSDコインの台頭 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -370,16 +380,6 @@
           "wordCount": 1275,
           "title": "トランプ氏のビットコインマイナーへのアピールは、暗号資産は「非政治的」であるべきとの警告",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/ZFG7F66S2FDTFJ4GHXP36EUO2E.jpg-2.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=237346",
-          "author": "Omkar Godbole",
-          "description": "1カ月前、CoinDeskはイーサリアム（ETH）スポットETF（上場投資信託）の投機的取引が、ソラナ（SOL）を含むアルトコインからETHへの資金流出を加速さ ...\nSOL/ETHレシオが3カ月ぶりの低水準に──アナリストはさらなる下落を予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/237346/",
-          "publishedOn": "2024-06-20T11:45:00.000Z",
-          "wordCount": 1271,
-          "title": "SOL/ETHレシオが3カ月ぶりの低水準に──アナリストはさらなる下落を予想",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/2FWSVIAHSNDJFGT36DJTQ7BQGQ.png"
         }
       ]
     },
@@ -394,6 +394,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=540326",
+          "author": "K.Kobayashi",
+          "description": "米バイデン政権は、SECに批判的なキャロル・ハウス氏をNSCの特別顧問に任命。ハウス氏は、仮想通貨やブロックチェーン、CBDCに精通した人物である。",
+          "link": "https://coinpost.jp/?p=540326",
+          "publishedOn": "2024-06-25T01:05:02.000Z",
+          "wordCount": 2515,
+          "title": "米バイデン政権、SECの仮想通貨政策に批判的な人物をNSC特別顧問に任命",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/whitehouse_usa1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/whitehouse_usa1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=540313",
+          "author": "菊谷ルイス",
+          "description": "ライフスタイルアプリ「STEPN GO」のアップルiOS版アプリは、日本時間25日17時よりダウンロード可能になる予定だ。",
+          "link": "https://coinpost.jp/?p=540313",
+          "publishedOn": "2024-06-24T23:50:52.000Z",
+          "wordCount": 2571,
+          "title": "STEPN GO（ステップンゴー）、iOS版25日にローンチ予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/STEPN-GO.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/STEPN-GO.png"
+        },
         {
           "id": "https://coinpost.jp/?p=540306",
           "author": "菊谷ルイス",
@@ -843,21 +873,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_02.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/solana_20210513_02.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=539521",
-          "author": "菊谷ルイス",
-          "description": "今回は、65,883ドルの平均購入価格で11,931 BTCを購入。1200億円に相当する費用は、新たな転換社債の売却によって調達されたものだ。",
-          "link": "https://coinpost.jp/?p=539521",
-          "publishedOn": "2024-06-20T12:35:26.000Z",
-          "wordCount": 2523,
-          "title": "米マイクロストラテジー、1200億円相当のビットコインを買い増し",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
         }
       ]
     },
@@ -1035,16 +1050,6 @@
           "wordCount": 785,
           "title": "ビットフライヤーがFTX Japanの買収合意を正式発表、暗号資産のカストディと現物ETF提供を目指す",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/20234807/c11cee99a65583d9febd488fb13f19c7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=398174",
-          "author": "OtsugaShinya",
-          "description": "ビットフライヤーがFTX Japan買収か 国内暗号資産（仮想通貨）取引所ビットフライヤー（bitFlyer）が、FTX Japan株式会社を買収すると6月20日NHKおよび日経新聞が報じた。 FTX Japan株式会社 […]",
-          "link": "https://www.neweconomy.jp/posts/398174",
-          "publishedOn": "2024-06-20T12:28:17.000Z",
-          "wordCount": 757,
-          "title": "ビットフライヤー、FTX Japanを数十億円で買収か＝報道",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/06/20212240/22e9bd52d28230c1e87f13753701d533.jpg"
         }
       ]
     }
