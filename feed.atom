@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-26T06:32:28.823Z</updated>
+    <updated>2024-06-26T07:21:52.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団の公式メルアドがハッキング、ステーキング誘導リンクが添付される]]></title>
+        <id>https://www.neweconomy.jp/?p=399253</id>
+        <link href="https://www.neweconomy.jp/posts/399253"/>
+        <updated>2024-06-26T07:13:37.000Z</updated>
+        <summary type="html"><![CDATA[updates@ethereum.orgがハッキング イーサリアム財団（Ethereum Foundation）の公式メールアドレスがハッキングされ、フィッシングメールが送信されている。イーサリアム（Ethereum）の […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBI出資の英ゾディアカストディが21Sharesと提携、欧州での暗号資産ETPのカストディ提供へ]]></title>
         <id>https://www.neweconomy.jp/?p=399274</id>
