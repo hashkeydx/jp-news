@@ -340,16 +340,6 @@
           "wordCount": 1294,
           "title": "暗号資産投資、なぜポートフォリオを分散すべきなのか",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/shutterstock_2216604693.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=237280",
-          "author": "山口 晶子",
-          "description": "2024年上半期、暗号資産（仮想通貨）普及の新たなサイクルが始まった。待ちに待ったビットコイン現物ETF（上場投資信託）の承認は、ビットコインが史上最高値を更新 ...\nアルトコインのロングテールな創造的破壊トレンド first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/237280/",
-          "publishedOn": "2024-06-23T02:10:24.000Z",
-          "wordCount": 1221,
-          "title": "アルトコインのロングテールな創造的破壊トレンド",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/4ZOCRBN6RBB5ZOFPMJBHBEV33A.jpg"
         }
       ]
     },
@@ -375,6 +365,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=541189",
+          "author": "CoinPost編集部",
+          "description": "大手資産運用会社VanEckが、米国で初となる暗号資産（仮想通貨）ソラナの現物ETF（上場投資信託）「VanEck Solana Trust」の登録届出書を米SEC（証券取引委員会）に提出したことがわかった。これに伴い、ソラナ（SOL）価格が急騰している。",
+          "link": "https://coinpost.jp/?p=541189",
+          "publishedOn": "2024-06-27T13:50:15.000Z",
+          "wordCount": 2603,
+          "title": "大手資産運用会社VanEck、米国初のソラナ現物ETF「VanEck Solana Trust」を申請　SOL価格が急騰",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/solana-jupiter-airdrop.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/solana-jupiter-airdrop.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=540968",
           "author": "AKIRA.H",
@@ -1034,36 +1039,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/bitcoin_crash-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/03/bitcoin_crash-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=539872",
-          "author": "CoinPost編集部",
-          "description": "今週は、米SECによるイーサリアムの証券性判断、マイナーのビットコイン保有量の減少、自民党議員による仮想通貨についての発言に関するニュースが最も関心を集めた。",
-          "link": "https://coinpost.jp/?p=539872",
-          "publishedOn": "2024-06-23T02:00:03.000Z",
-          "wordCount": 2535,
-          "title": "週刊仮想通貨ニュース（+アジア特集）｜米SECのイーサリアムの証券性判断やビットコインマイナーの動向に高い関心",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=539745",
-          "author": "CoinPost編集部",
-          "description": "bitbankアナリストが、下落中の今週の暗号資産（仮想通貨）ビットコイン相場を分析。米国大統領選前の初回テレビ討論会など材料豊富な来週の展望を読み解く。",
-          "link": "https://coinpost.jp/?p=539745",
-          "publishedOn": "2024-06-23T01:30:46.000Z",
-          "wordCount": 2521,
-          "title": "ムード悪化のビットコインは売りシグナル点灯、来週は材料豊富な1週間に｜bitbankアナリスト寄稿",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": ""
-          },
-          "imageUrl": "https://coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
         }
       ]
     },
