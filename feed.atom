@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-28T21:24:12.404Z</updated>
+    <updated>2024-06-28T22:27:15.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米政府・休眠だったクジラ、98億円相当のビットコインを移動]]></title>
+        <id>https://coinpost.jp/?p=541504</id>
+        <link href="https://coinpost.jp/?p=541504"/>
+        <updated>2024-06-28T21:45:07.000Z</updated>
+        <summary type="html"><![CDATA[6月28日に米政府、およびクジラ投資家から、98億円相当のビットコインが取引所へ送金されたことが確認されており、売却目的と見られる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VanEckに続き21シェアーズもソラナ現物ETFの上場を申請]]></title>
         <id>https://coinpost.jp/?p=541482</id>
@@ -1376,58 +1386,6 @@ DePIN、問題を抱えたままのIoTの解決策に first appeared on CoinDesk
 メタプラネット、ビットコインに約10億円を追加投資──株価は12％上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインチャートがダブルトップを形成。5万ドルまで下落する可能性も：テクニカル分析]]></title>
-        <id>https://www.coindeskjapan.com/?p=237705</id>
-        <link href="https://www.coindeskjapan.com/237705/"/>
-        <updated>2024-06-24T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）のチャートはダブルトップのパターンを形成しており、アメリカ連邦準備制度理事会（FRB）の金利動向に影響を与える可能性のある重要なデータの発 ...
-ビットコインチャートがダブルトップを形成。5万ドルまで下落する可能性も：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マウントゴックス、7月初旬からビットコインとビットコインキャッシュの弁済開始を発表]]></title>
-        <id>https://coinpost.jp/?p=540182</id>
-        <link href="https://coinpost.jp/?p=540182"/>
-        <updated>2024-06-24T09:55:01.000Z</updated>
-        <summary type="html"><![CDATA[2014年に破綻した暗号資産（仮想通貨）取引所マウントゴックス（Mt.Gox）が今年7月初めよりビットコイン（BTC）とビットコインキャッシュ（BCH）の返済を開始することがわかった。この発表を受け、ビットコイン（BTC）が急落した。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、6万1000ドル台まで下落──強気派は1億5000万ドルの清算]]></title>
-        <id>https://www.coindeskjapan.com/?p=237699</id>
-        <link href="https://www.coindeskjapan.com/237699/"/>
-        <updated>2024-06-24T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が先週の利益を帳消しにしたこともあり、主要トークンは過去24時間で最大7.5％下落し、週末に1億5000万ドル（約240億円、1ドル=16 ...
-ビットコイン、6万1000ドル台まで下落──強気派は1億5000万ドルの清算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ、ZK圧縮技術でブロックチェーンの保存コストを大幅削減]]></title>
-        <id>https://www.neweconomy.jp/?p=398817</id>
-        <link href="https://www.neweconomy.jp/posts/398817"/>
-        <updated>2024-06-24T09:32:25.000Z</updated>
-        <summary type="html"><![CDATA[ソラナブロックチェーンの保存コストが大幅削減 ZK圧縮（ZK Compression）技術提供のライトプロトコル（Light Protocol）が、データインフラを提供するヘリウス（Helius）と連携し、ソラナ（Sol […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【6/24話題】メタプラネットが10億円分のビットコイン追加購入へ、リップル社に対する民事訴訟の一部が棄却など]]></title>
-        <id>https://www.neweconomy.jp/?p=398813</id>
-        <link href="https://www.neweconomy.jp/posts/398813"/>
-        <updated>2024-06-24T09:30:06.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
