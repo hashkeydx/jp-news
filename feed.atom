@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-06-28T20:24:07.532Z</updated>
+    <updated>2024-06-28T21:24:12.404Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VanEckに続き21シェアーズもソラナ現物ETFの上場を申請]]></title>
+        <id>https://coinpost.jp/?p=541482</id>
+        <link href="https://coinpost.jp/?p=541482"/>
+        <updated>2024-06-28T21:10:36.000Z</updated>
+        <summary type="html"><![CDATA[21シェアーズによるソラナ現物ETFは、「21SHARES CORE SOLANA ETF」というもので、Cboe BZX取引所への上場を目指す。ETFの償還は、現物SOLではなく、現金のみとなるが、ビットコイン現物ETFと同様な仕組みが採用されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/28話題】ソラナの現物ETFが米国で初申請、デジタルガレージがNFT活用の神奈川県実証事業など]]></title>
         <id>https://www.neweconomy.jp/?p=399835</id>
@@ -1418,16 +1428,6 @@ DePIN、問題を抱えたままのIoTの解決策に first appeared on CoinDesk
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaikoが仮想通貨取引所の世界ランキング発表　国内最上位はビットバンクやビットフライヤーがランクイン]]></title>
-        <id>https://coinpost.jp/?p=540140</id>
-        <link href="https://coinpost.jp/?p=540140"/>
-        <updated>2024-06-24T08:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Kaikoは2024年Q2の暗号資産（仮想通貨）取引所ランキングを発表。日本のビットバンク、ビットフライヤー、コインチェックがトップ30にランクイン。詳細なスコアと評価基準を解説]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
