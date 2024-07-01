@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-01T20:24:28.160Z</updated>
+    <updated>2024-07-01T21:23:59.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米連邦保安局、52億円の契約でコインベースに仮想通貨保管を委託]]></title>
+        <id>https://coinpost.jp/?p=542034</id>
+        <link href="https://coinpost.jp/?p=542034"/>
+        <updated>2024-07-01T20:50:37.000Z</updated>
+        <summary type="html"><![CDATA[コインベースは米連邦裁判所の執行機関である米国連邦保安局がコインベース・プライムとの52億円（3250万ドル）の契約で、暗号資産（仮想通貨）の保管を委託したと発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット、2億円相当のビットコインを追加購入──保有量は161BTCに]]></title>
         <id>https://www.coindeskjapan.com/?p=238729</id>
@@ -900,26 +910,6 @@ DePIN、問題を抱えたままのIoTの解決策に first appeared on CoinDesk
 ビットコインとPoliFiトークン、米大統領候補の第1回討論会を前に下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースなど主要取引所にイーサL2の「Blast（BLAST）」上場]]></title>
-        <id>https://www.neweconomy.jp/?p=399567</id>
-        <link href="https://www.neweconomy.jp/posts/399567"/>
-        <updated>2024-06-27T09:08:30.000Z</updated>
-        <summary type="html"><![CDATA[コインベースにBLAST上場 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、暗号資産ブラスト：Blast（BLAST）の取り扱い予定を6月27日に発表した。 BLASTの取り扱いは「コインベース（C […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bitFlyer提供のブロックチェーン情報で犯罪グループ摘発に貢献　神奈川県警から感謝状]]></title>
-        <id>https://coinpost.jp/?p=540968</id>
-        <link href="https://coinpost.jp/?p=540968"/>
-        <updated>2024-06-27T08:37:47.000Z</updated>
-        <summary type="html"><![CDATA[株式会社bitFlyerが提供したブロックチェーン解析情報により、神奈川県警が地下銀行を摘発し感謝状を受賞。暗号資産が犯罪収益送金に利用される現状とその対策に迫る。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
