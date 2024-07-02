@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-02T10:29:19.263Z</updated>
+    <updated>2024-07-02T11:20:49.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WebX 2024サイドイベント体験創出に向けて、主催者・パートナー団体の募集開始]]></title>
+        <id>https://coinpost.jp/?p=542196</id>
+        <link href="https://coinpost.jp/?p=542196"/>
+        <updated>2024-07-02T11:12:39.000Z</updated>
+        <summary type="html"><![CDATA[WebX 2024のサイドイベントで充実した体験を創出するための主催・パートナー企業の募集が開始されました。詳細を確認して申請してください。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パクソス、シンガポールでステーブルコイン発行の認可を取得]]></title>
         <id>https://www.coindeskjapan.com/?p=238921</id>
@@ -1134,38 +1144,6 @@ SEC、コンセンシスを提訴──メタマスクの取引・ステーキ�
         <summary type="html"><![CDATA[仮想通貨などに関する米SECの執行措置に制約がかかる可能性が浮上。最高裁が過去の詐欺事例を調査し、判断を行った。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「暗号資産の女王」に8億円の報奨金：米国務省──FBI最重要指名手配のワンコイン創業者]]></title>
-        <id>https://www.coindeskjapan.com/?p=238256</id>
-        <link href="https://www.coindeskjapan.com/238256/"/>
-        <updated>2024-06-27T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米国務省は、2017年にアテネで失踪した、自称「暗号資産の女王（クリプトクイーン）」でワンコイン（OneCoin）創業者であるルジャ・イグナトワ（Ruja Ig ...
-「暗号資産の女王」に8億円の報奨金：米国務省──FBI最重要指名手配のワンコイン創業者 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StripeとCoinbaseが提携、仮想通貨決済にBaseチェーンを導入]]></title>
-        <id>https://coinpost.jp/?p=541267</id>
-        <link href="https://coinpost.jp/?p=541267"/>
-        <updated>2024-06-27T22:55:38.000Z</updated>
-        <summary type="html"><![CDATA[米大手オンライン決済サービス企業Stripe（ストライプ）社は27日、仮想通貨取引所大手コインベースと仮想通貨の世界的普及に向けて提携したことを発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワールドコインの競合アプリ、RariMeがローンチ── 匿名の本人確認機能を提供]]></title>
-        <id>https://www.coindeskjapan.com/?p=238265</id>
-        <link href="https://www.coindeskjapan.com/238265/"/>
-        <updated>2024-06-27T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Rarimoは6月27日、ワールドコイン（Worldcoin）の競合製品となるRariMeをリリースした。このアプリは、ユーザーが自身の身元を明かすことなく、パ ...
-ワールドコインの競合アプリ、RariMeがローンチ── 匿名の本人確認機能を提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Amitoj Singh</name>
         </author>
     </entry>
 </feed>
