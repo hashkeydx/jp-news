@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-01T23:23:24.857Z</updated>
+    <updated>2024-07-02T01:37:49.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米シルバーゲート銀がSECと和解へ、仮想通貨監視システムの不備が原因]]></title>
+        <id>https://coinpost.jp/?p=542070</id>
+        <link href="https://coinpost.jp/?p=542070"/>
+        <updated>2024-07-02T01:25:52.000Z</updated>
+        <summary type="html"><![CDATA[FTXなど仮想通貨企業にサービス提供していたシルバーゲート銀行は、米SECと和解し80億円の罰金を支払うことに同意した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワームホールがWorldcoinの「ワールドID」をソラナに統合、クロスチェーンID検証を可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=400445</id>
+        <link href="https://www.neweconomy.jp/posts/400445"/>
+        <updated>2024-07-02T01:05:37.000Z</updated>
+        <summary type="html"><![CDATA[WormholeがワールドIDをソラナに統合 クロスチェーンプロトコルのワームホール（Wormhole）が、分散型IDプロトコルのワールドコイン（Worldcoin）の認証システム「ワールドID（World ID）」を、 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産現物ETFが市場の価格変動に与える影響はより大きくなるだろう：カナコード]]></title>
+        <id>https://www.coindeskjapan.com/?p=238794</id>
+        <link href="https://www.coindeskjapan.com/238794/"/>
+        <updated>2024-07-02T00:57:56.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）とイーサリアム（ETH）の現物ETF（上場投資信託）の承認は心強いものであり、デジタル資産のパフォーマンスは第2四半期に伝統的な資産を下回 ...
+暗号資産現物ETFが市場の価格変動に与える影響はより大きくなるだろう：カナコード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ビットコイン価格は7月に上昇する可能性が高い」コインベースやQCPが分析]]></title>
+        <id>https://coinpost.jp/?p=542063</id>
+        <link href="https://coinpost.jp/?p=542063"/>
+        <updated>2024-07-02T00:45:38.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインやイーサリアムの価格は7月に上昇する可能性が高いとQCPやコインベースが分析。一方、コインベースは懸念点も指摘している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジュピターの夏ロードマップ、DAO参加報酬の分配や仮想通貨CLOUDの販売など]]></title>
         <id>https://coinpost.jp/?p=542057</id>
@@ -973,16 +1014,6 @@ DePIN、問題を抱えたままのIoTの解決策に first appeared on CoinDesk
         <summary type="html"><![CDATA[大手資産運用会社VanEckが、米国で初となる暗号資産（仮想通貨）ソラナの現物ETF（上場投資信託）「VanEck Solana Trust」の登録届出書を米SEC（証券取引委員会）に提出したことがわかった。これに伴い、ソラナ（SOL）価格が急騰している。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【6/27話題】「俺だけレベルアップな件」がアバランチ採用、7/4にもイーサリアム現物ETF発行体へ承認かなど]]></title>
-        <id>https://www.neweconomy.jp/?p=399578</id>
-        <link href="https://www.neweconomy.jp/posts/399578"/>
-        <updated>2024-06-27T11:37:45.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
