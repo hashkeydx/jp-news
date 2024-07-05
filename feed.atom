@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-05T21:22:47.110Z</updated>
+    <updated>2024-07-05T22:27:59.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大口による大量売却が増加傾向、バイナンスへ9,500 BTC（860億円相当）入金]]></title>
+        <id>https://coinpost.jp/?p=543128</id>
+        <link href="https://coinpost.jp/?p=543128"/>
+        <updated>2024-07-05T21:30:05.000Z</updated>
+        <summary type="html"><![CDATA[先週6月27日より、2つの仮想通貨ウォレットから、9,500 BTC（860億円）を取引所バイナンスに入金されており、大量に清算した可能性が浮上した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイントレーダー、5万ドル台への下落も視野に──売り圧力の増加で]]></title>
         <id>https://www.coindeskjapan.com/?p=239477</id>
@@ -1371,27 +1381,6 @@ EUの厳しいステーブルコイン規則が発効──発行者は対応で
 メタプラネット、2億円相当のビットコインを追加購入──保有量は161BTCに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sheldon Reback</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、6万5000ドルで抵抗に直面する可能性──オンチェーンデータ分析で]]></title>
-        <id>https://www.coindeskjapan.com/?p=238708</id>
-        <link href="https://www.coindeskjapan.com/238708/"/>
-        <updated>2024-07-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が損失から回復する兆しを見せている中、新たな課題が迫っており、オンチェーンデータは6万5000ドルでの潜在的な抵抗を示唆している。 時価総 ...
-ビットコイン、6万5000ドルで抵抗に直面する可能性──オンチェーンデータ分析で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7/1話題】ソニーがアンバージャパン買収、イーサリアム現物ETF開始時期は先延ばしかなど]]></title>
-        <id>https://www.neweconomy.jp/?p=400373</id>
-        <link href="https://www.neweconomy.jp/posts/400373"/>
-        <updated>2024-07-01T09:52:38.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
