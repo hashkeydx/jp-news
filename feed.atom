@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-04T23:23:46.260Z</updated>
+    <updated>2024-07-05T01:37:29.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米コインベース、対SEC訴訟でゲンスラー委員長のメール開示を要求]]></title>
+        <id>https://coinpost.jp/?p=542908</id>
+        <link href="https://coinpost.jp/?p=542908"/>
+        <updated>2024-07-05T01:30:45.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所コインベースは、米SECとの裁判で新たに書類を提出。ゲンスラーSEC委員長のメールの公開を求めている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックス、47229 BTCのビットコイン移動　返済準備へ]]></title>
+        <id>https://coinpost.jp/?p=542916</id>
+        <link href="https://coinpost.jp/?p=542916"/>
+        <updated>2024-07-05T01:10:01.000Z</updated>
+        <summary type="html"><![CDATA[マウントゴックス（Mt.Gox）のウォレットから、47,229　BTCの仮想通貨ビットコインが他のアドレスへ移行したことが確認された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[約2000BTCのビットコインが仮想通貨取引所クラーケンへ送金＝クジラアラート]]></title>
         <id>https://coinpost.jp/?p=542898</id>
