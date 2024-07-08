@@ -345,6 +345,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=543413",
+          "author": "AKIRA.H",
+          "description": "海外の取引所バイナンスは4種類の暗号資産（仮想通貨）の上場廃止を発表。2024年7月22日以降、適応される。これに伴い、該当取引ペアも削除される。",
+          "link": "https://coinpost.jp/?p=543413",
+          "publishedOn": "2024-07-08T07:56:30.000Z",
+          "wordCount": 2447,
+          "title": "バイナンス、アルトコイン4銘柄を7月22日に上場廃止へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/Binance_0626-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/Binance_0626-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=543356",
           "author": "幸田直子",
           "description": "仮想通貨投資企業CoinSharesの調査責任者James Butterfill氏は、ビットコイン価格が、マイナーの平均採掘コストに非常に近い水準で推移していると指摘した。",
@@ -906,6 +921,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=401871",
+          "author": "TamuraSeiji",
+          "description": "「Napier Finance」がローンチ 大手DeFi（分散型金融）プロトコル「カーブファイナンス（Curve Finace）」の創業者らが出資するなどで注目を集めるDeFiプロジェクト「ネイピアファイナンス（Napi […]",
+          "link": "https://www.neweconomy.jp/posts/401871",
+          "publishedOn": "2024-07-08T07:35:54.000Z",
+          "wordCount": 808,
+          "title": "Curve Finace創業者ら出資する「Napier Finance」がローンチ、翌日にTVLが500万ドルに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/08163626/c21b4ff6cb3361d8f58688c1fe13ebaa.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=401873",
+          "author": "TamuraSeiji",
+          "description": "アプトスがキーレスウォレットをリリース レイヤー1ブロックチェーン「アプトス（Aptos）」を開発する「アプトスラボ（Aptos Labs）」が、キーレスかつwebベースのweb3ウォレット「アプトスコネクト（Aptos […]",
+          "link": "https://www.neweconomy.jp/posts/401873",
+          "publishedOn": "2024-07-08T07:32:41.000Z",
+          "wordCount": 832,
+          "title": "アプトス、キーレスウォレット「Aptos Connect」リリース",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/08163145/3f82b91991668b31077ef79a3e38c74a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=401862",
           "author": "HitomotoToshikazu",

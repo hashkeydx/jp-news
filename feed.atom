@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-08T07:23:03.418Z</updated>
+    <updated>2024-07-08T08:29:25.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、アルトコイン4銘柄を7月22日に上場廃止へ]]></title>
+        <id>https://coinpost.jp/?p=543413</id>
+        <link href="https://coinpost.jp/?p=543413"/>
+        <updated>2024-07-08T07:56:30.000Z</updated>
+        <summary type="html"><![CDATA[海外の取引所バイナンスは4種類の暗号資産（仮想通貨）の上場廃止を発表。2024年7月22日以降、適応される。これに伴い、該当取引ペアも削除される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve Finace創業者ら出資する「Napier Finance」がローンチ、翌日にTVLが500万ドルに]]></title>
+        <id>https://www.neweconomy.jp/?p=401871</id>
+        <link href="https://www.neweconomy.jp/posts/401871"/>
+        <updated>2024-07-08T07:35:54.000Z</updated>
+        <summary type="html"><![CDATA[「Napier Finance」がローンチ 大手DeFi（分散型金融）プロトコル「カーブファイナンス（Curve Finace）」の創業者らが出資するなどで注目を集めるDeFiプロジェクト「ネイピアファイナンス（Napi […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アプトス、キーレスウォレット「Aptos Connect」リリース]]></title>
+        <id>https://www.neweconomy.jp/?p=401873</id>
+        <link href="https://www.neweconomy.jp/posts/401873"/>
+        <updated>2024-07-08T07:32:41.000Z</updated>
+        <summary type="html"><![CDATA[アプトスがキーレスウォレットをリリース レイヤー1ブロックチェーン「アプトス（Aptos）」を開発する「アプトスラボ（Aptos Labs）」が、キーレスかつwebベースのweb3ウォレット「アプトスコネクト（Aptos […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チェーントープと九工大、DIDとVC活用の「無人リサイクルボックスの開錠検証」実施]]></title>
         <id>https://www.neweconomy.jp/?p=401862</id>
