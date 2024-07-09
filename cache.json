@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=239858",
+          "author": "林 理南",
+          "description": "シカゴ・オプション取引所（CBOE）は、資産運用会社のヴァンエク（VanEck）と21シェアーズ（21Shares）がソラナ現物ETF（上場投資信託）を発売する ...\nヴァンエクと21シェアーズのソラナETF計画、CBOEの提出書類で確認される first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/239858/",
+          "publishedOn": "2024-07-09T01:32:01.000Z",
+          "wordCount": 1254,
+          "title": "ヴァンエクと21シェアーズのソラナETF計画、CBOEの提出書類で確認される",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/shutterstock_2423893233.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=239742",
           "author": "Shaurya Malwa",
           "description": "イーサリアム（Ethereum）のICO（イニシャルコインオファリング）の1つであるゴーレム（Golem）は、先月1億ドル（約160億円、1ドル=160円換算） ...\nイーサリアムICO時代の雄、ゴーレムが1億ドル相当のイーサリアムを取引所に移動 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -284,6 +294,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=543572",
+          "author": "A.Yamada",
+          "description": "Bitgetは、日本の仮想通貨ユーザーの特徴や好みを分析するレポートを発表。日次トレーダー数は年末までに50万人に達すると予測した。",
+          "link": "https://coinpost.jp/?p=543572",
+          "publishedOn": "2024-07-09T01:30:24.000Z",
+          "wordCount": 2444,
+          "title": "「日本の日次仮想通貨トレーダーは年内50万人に到達へ」Bitget予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan9_0419.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan9_0419.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=543564",
+          "author": "K.Kobayashi",
+          "description": "マウントゴックス債権者へのビットコイン返済について、仮想通貨取引所Bitstampは即座に対応を開始する意向であることがわかった。一方、債権者への弁済期間は60日設けているという。",
+          "link": "https://coinpost.jp/?p=543564",
+          "publishedOn": "2024-07-09T00:35:15.000Z",
+          "wordCount": 2498,
+          "title": "Bitstamp、MTGOX債権者へのビットコイン返済を受領後即座に開始へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/09/refundmtgox0921.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/09/refundmtgox0921.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=543563",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所Bybitは8日、テレグラムのタップ・トゥ・アーン（タップして稼ぐ）ゲーム「Hamster Kombat」の独自の仮想通貨HMSTRの取引をプレマーケットで提供し始めた。",
+          "link": "https://coinpost.jp/?p=543563",
+          "publishedOn": "2024-07-08T23:50:17.000Z",
+          "wordCount": 2426,
+          "title": "Bybit、テレグラムタップゲーム「Hamster Kombat」の仮想通貨取引をプレマーケットで提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bybit_20210913_kk1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bybit_20210913_kk1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=543553",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ソラナのフランケンダンサーはファイアダンサーの最初のバージョンで、バグを発見するプログラマーを対象に、100万ドル（1.6億円相当）を提供する。",
+          "link": "https://coinpost.jp/?p=543553",
+          "publishedOn": "2024-07-08T23:30:15.000Z",
+          "wordCount": 2426,
+          "title": "ソラナ性能向上「ファイアダンサー」、1.6億円相当のバグ報奨金プログラムを開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/solana-firedancer.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/solana-firedancer.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=543541",
           "author": "K.Kobayashi",
@@ -905,16 +975,6 @@
           "wordCount": 759,
           "title": "ロシア、海外取引決済にデジタル資産を活用すべき＝中銀総裁",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/05115904/b66c32593ccdf5c5c42c8edf4917ef22.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=401431",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/401431",
-          "publishedOn": "2024-07-04T12:40:16.000Z",
-          "wordCount": 793,
-          "title": "【7/4話題】コンセンシスがウォレットガード買収、Aave「GHO」がArbitrumでローンチなど",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/04214000/news_head_20240704.jpg"
         }
       ]
     }
