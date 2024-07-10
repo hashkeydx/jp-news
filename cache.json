@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=240118",
+          "author": "Jesse Hamilton",
+          "description": "7月10日に発表された暗号資産（仮想通貨）業界が支援した世論調査によると、ドナルド・トランプ（Donald Trump）前大統領が長年懐疑的だった暗号資産を最近 ...\nトランプ氏、暗号資産支持がより多くの得票につながる可能性：世論調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/240118/",
+          "publishedOn": "2024-07-10T10:35:00.000Z",
+          "wordCount": 1302,
+          "title": "トランプ氏、暗号資産支持がより多くの得票につながる可能性：世論調査",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/shutterstock_2272007735.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=240105",
           "author": "Omkar Godbole",
           "description": "ブロックチェーンデータソリューション、セレスティア（Celestia）のネイティブトークンであるTIAは今週25%上昇し、7.30ドルを記録した。これは時価総額 ...\nセレスティアのTIAが25%急騰──トレーダーは空売りを継続 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -350,16 +360,6 @@
           "wordCount": 1267,
           "title": "マトリックス法によるテクニカル分析（2024/7/5）底値固め失敗、どこまで下がる？【楽天ウォレット】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/tr-thumb_240705.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=239370",
-          "author": "T. Minamoto",
-          "description": "ギャラクシー（GLXY）リサーチによると、四半期として見れば直近よりも活発な資金調達環境にあると創業者や投資家が報告しており、暗号資産（仮想通貨）ベンチャーキャ ...\n暗号資産ベンチャーキャピタル市場の反発は継続中とのレポート：ギャラクシー first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/239370/",
-          "publishedOn": "2024-07-05T23:00:00.000Z",
-          "wordCount": 1245,
-          "title": "暗号資産ベンチャーキャピタル市場の反発は継続中とのレポート：ギャラクシー",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/02/shutterstock_263344688.jpg"
         }
       ]
     },
@@ -928,21 +928,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/usa_crypto1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/03/usa_crypto1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=543139",
-          "author": "菊谷ルイス",
-          "description": "マウントゴックス返済分を含むこれらの仮想通貨ビットコインは今後清算されていく公算が高いが、売却の終了が相場の底を示す「可能性が高い」と一部の有識者は指摘している。",
-          "link": "https://coinpost.jp/?p=543139",
-          "publishedOn": "2024-07-05T23:20:54.000Z",
-          "wordCount": 2522,
-          "title": "USDCの大量新規発行、押し目買い狙いか　相場底打ちはいつ？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/new-market.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/01/new-market.png"
         }
       ]
     },
@@ -951,6 +936,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=402722",
+          "author": "OtsugaShinya",
+          "description": "「TON」上でファーミングゲーム「TonFarm」 β版がリリース 国内ブロックチェーンゲーム開発企業のCryptoGames（クリプトゲームス）が、パブリックブロックチェーン「The Open Network（オープン […]",
+          "link": "https://www.neweconomy.jp/posts/402722",
+          "publishedOn": "2024-07-10T11:20:39.000Z",
+          "wordCount": 650,
+          "title": "クリプトゲームス、「TON」上でファーミングゲーム「TonFarm」 β版リリース",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/10202021/781ca8c6e907b7deba0e1b22abc1fcb1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=402605",
+          "author": "NewEconomy",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/402605",
+          "publishedOn": "2024-07-10T10:39:04.000Z",
+          "wordCount": 821,
+          "title": "【7/10話題】オーストラリア証券取引所がDigitalXの「ビットコイン現物ETF」上場へ、TONがPolygon LabsとL2構築へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/10174958/news_head_20240710.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=402611",
           "author": "HitomotoToshikazu",
