@@ -505,6 +505,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=544499",
+          "author": "幸田直子",
+          "description": "米連邦地裁のファイラ判事は、米大手取引所コインベースが証券取引委員会に対する訴訟で、ゲンスラー委員長の私的通信の開示を求める申し立てを行ったことについて強い懸念を示した。",
+          "link": "https://coinpost.jp/?p=544499",
+          "publishedOn": "2024-07-12T04:45:32.000Z",
+          "wordCount": 2405,
+          "title": "米連邦地裁、コインベースによるゲンスラーSEC委員長のメール開示請求を批判",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/gensler-sec.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/gensler-sec.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=544453",
           "author": "A.Yamada",
           "description": "米コインベースは大統領選と仮想通貨に関する調査を発表。共和党、民主党いずれの支持者にも同程度、仮想通貨ユーザーがいるとしている。",
@@ -1246,6 +1261,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=403094",
+          "author": "gentosha_takahashi",
+          "description": "強制執行を行わないと正式に通知 企業向けブロックチェーンインフラ提供やステーブルコイン発行を行うパクソス（Paxos）が、米ドルステーブルコイン「Binance USD（BUSD）」に関する米証券取引委員会（SEC）の調 […]",
+          "link": "https://www.neweconomy.jp/posts/403094",
+          "publishedOn": "2024-07-12T04:59:39.000Z",
+          "wordCount": 770,
+          "title": "米SEC、BUSDに関するパクソスの調査を終了。強制執行は実施せず",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/12135929/705b8388dc6df0e81649f5ed2eab440a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=403083",
+          "author": "OtsugaShinya",
+          "description": "Fireblocksの「グローバル・カストディアン・パートナー」に5社参加 米Fireblocks（ファイアブロックス）が、規制認可されたデジタル資産カストディアンによるグローバルネットワーク「Fireblocks Gl […]",
+          "link": "https://www.neweconomy.jp/posts/403083",
+          "publishedOn": "2024-07-12T04:54:05.000Z",
+          "wordCount": 780,
+          "title": "Fireblocks、「グローバル・カストディアン・パートナー」にSBI出資のゾディアや野村のコマイヌらが参加",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/12135401/33fd116440669f47a953f72b763cb6fb.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=403018",
           "author": "OtsugaShinya",
