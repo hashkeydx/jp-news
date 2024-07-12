@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-12T08:29:18.281Z</updated>
+    <updated>2024-07-12T09:25:57.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CompoundとCelerのウェブサイトがハッキング被害、DNSドメイン攻撃を受け]]></title>
+        <id>https://www.neweconomy.jp/?p=403251</id>
+        <link href="https://www.neweconomy.jp/posts/403251"/>
+        <updated>2024-07-12T08:43:03.000Z</updated>
+        <summary type="html"><![CDATA[CompoundとCelerのウェブサイトがハッキング被害 DeFi（分散型金融）レンディングプラットフォーム「コンパウンド（Compound）」および、異なるブロックチェーンの相互運用を目指す「Celer Networ […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガンのアナリストはビットコイン相場の8月反発を予想　売り圧力緩和を示唆]]></title>
+        <id>https://coinpost.jp/?p=544524</id>
+        <link href="https://coinpost.jp/?p=544524"/>
+        <updated>2024-07-12T08:30:53.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンは、仮想通貨ビットコインの生産コストや金価格を考慮し、市場全体への資金流入予測を120億ドルから80億ドルに引き下げた。ビットコインの大量売却が7月中に緩和し、8月以降の市場反発が期待される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベースがオンチェーン資産を一括管理できるWebサイト公開、複数ウォレット接続で]]></title>
         <id>https://www.neweconomy.jp/?p=403151</id>
