@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-16T11:19:55.457Z</updated>
+    <updated>2024-07-16T12:42:15.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産トレーダーはソラナの三角持ち合いパターンに注目：テクニカル分析]]></title>
+        <id>https://www.coindeskjapan.com/?p=240876</id>
+        <link href="https://www.coindeskjapan.com/240876/"/>
+        <updated>2024-07-16T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラマブルブロックチェーン、ソラナ（Solana）のトークンであるSOLの次の動きのヒントを探している暗号資産（仮想通貨）トレーダーは、数カ月続く三角形持ち ...
+暗号資産トレーダーはソラナの三角持ち合いパターンに注目：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカースペイン代表のファントークン、UEFA欧州選手権の優勝後に20%下落]]></title>
         <id>https://www.coindeskjapan.com/?p=240846</id>
@@ -806,16 +817,6 @@ BNBチェーン、ハッキングとラグプルにより創設以来16億ドル
         <summary type="html"><![CDATA[BUSDは有価証券ではないと主張してきたパクソスは、米SECの調査が終了したことを発表。BUSDについて、SECは同社を提訴しないと決断したと説明した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Walletの新たなウェブアプリ、仮想通貨ポートフォリオを360度でチェック可能]]></title>
-        <id>https://coinpost.jp/?p=544377</id>
-        <link href="https://coinpost.jp/?p=544377"/>
-        <updated>2024-07-11T23:20:30.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所大手コインベースは12日、新版のCoinbase Walletのウェブアプリをローンチした。より利便性の高いユーザー体験を提供する機能を導入している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
