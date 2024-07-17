@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=240936",
+          "author": "増田 隆幸",
+          "description": "トランプ氏は、16日にブルームバーグ・ビジネスウィーク（Bloomberg Businessweek）に掲載されインタビューで、4つ目のNFTコレクションをリリ ...\nトランプ氏、第4弾のNFTコレクションをリリース予定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/240936/",
+          "publishedOn": "2024-07-17T01:32:55.000Z",
+          "wordCount": 1261,
+          "title": "トランプ氏、第4弾のNFTコレクションをリリース予定",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/shutterstock_2455396913.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=240922",
           "author": "増田 隆幸",
           "description": "ビットコイン（BTC）は7月16日、4週間ぶりの高値まで上昇。先週の安値からの反発は止まる気配がない。 ビットコインは6月後半以来となる6万5000ドル超えとな ...\nビットコイン、一時6万5000ドル超え──マウントゴックス弁済の懸念を一蹴、XRPが上昇をリード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -340,16 +350,6 @@
           "wordCount": 1279,
           "title": "『進撃の巨人』がメタバースに進出／アプトス（Aptos）が日本参入を本格化：CEOインタビュー【週末に読みたい厳選10本・IVS Crypto/JWB Summit編】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/image-7.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=240484",
-          "author": "CoinDesk JAPAN",
-          "description": "Ginco・GiveFirst主催「Web3 Future 2024」の全パネルディスカッションおよび全36名の登壇者が決定した。 「Web3 Future 2 ...\n「Web3 Future 2024」全パネルディスカション・全36名の登壇者が決定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/240484/",
-          "publishedOn": "2024-07-12T12:10:00.000Z",
-          "wordCount": 1632,
-          "title": "「Web3 Future 2024」全パネルディスカション・全36名の登壇者が決定",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/31033-156-048139e748a7b0253c7b9b-1-1.jpg"
         }
       ]
     },
@@ -364,6 +364,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=545300",
+          "author": "A.Yamada",
+          "description": "リップル社は、仮想通貨に否定的なウォーレン議員に代わり、仮想通貨支持派の候補を当選させようとするPACに1.6億円を寄付した。",
+          "link": "https://coinpost.jp/?p=545300",
+          "publishedOn": "2024-07-17T01:05:38.000Z",
+          "wordCount": 2399,
+          "title": "米リップル社、仮想通貨支持の議員候補者を支援する団体に1.6億円寄付",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/political_donation1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/political_donation1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=545295",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所DMMビットコインの不正流出に、北朝鮮のハッカー集団「ラザルス」が関与している疑いが浮上。すでに流出したビットコインは資金洗浄されているようだ。",
+          "link": "https://coinpost.jp/?p=545295",
+          "publishedOn": "2024-07-17T00:30:55.000Z",
+          "wordCount": 2450,
+          "title": "DMMビットコインの不正流出、北朝鮮ハッカー集団「ラザルス」が関与か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/northkorea-hacking3_0405.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/northkorea-hacking3_0405.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=545293",
           "author": "菊谷ルイス",
