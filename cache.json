@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=241725",
+          "author": "Omkar Godbole",
+          "description": "ドナルド・トランプ（Donald Trump）氏が7月25日から27日にナッシュビルで行われるビットコインカンファレンスに出席することが明らかになり、トレーダー ...\nトレーダーはトランプ氏の「ビットコインカンファレンス」での演説に期待し、価格変動に備える first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/241725/",
+          "publishedOn": "2024-07-22T10:20:00.000Z",
+          "wordCount": 1275,
+          "title": "トレーダーはトランプ氏の「ビットコインカンファレンス」での演説に期待し、価格変動に備える",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/shutterstock_2430065795-scaled.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=241660",
+          "author": "増田 隆幸",
+          "description": "自民党デジタル社会推進本部web3プロジェクトチーム（web3PT）の座長を務める平将明議員が、会員証「タイラくんSBT第二弾」の配付記念イベントとして、Ast ...\nディストリビューションの重要性、NTFで日本の価値を高める、SBTを選挙に活用……web3PT座長の平氏とアスターの渡辺氏が「web3の現在位置と未来」を語る動画公開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/241660/",
+          "publishedOn": "2024-07-22T09:49:59.000Z",
+          "wordCount": 1292,
+          "title": "ディストリビューションの重要性、NTFで日本の価値を高める、SBTを選挙に活用……web3PT座長の平氏とアスターの渡辺氏が「web3の現在位置と未来」を語る動画公開",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/DSC_0631のコピー-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=241632",
           "author": "CoinDesk JAPAN",
           "description": "地球温暖化にはさまざまな捉え方があるが、体感ベースでは加速度的な進行を実感する。地球が直面している異常気象にブロックチェーンと、その上で機能するアプリケーション ...\nブロックチェーンで脱炭素、地球温暖化に挑む──日本で期待されるユースケースとは【N.Avenue clubラウンドテーブルレポート 6月】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -400,26 +420,6 @@
           "wordCount": 1276,
           "title": "いいえ、サトシ・ナカモトではありません──偽物ビットコイン発明者が裁判所命令で告知文",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/01/shutterstock_1976951954.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=241030",
-          "author": "Will Canny",
-          "description": "来週にもアメリカでイーサリアム（ETH）現物ETF（上場投資信託）が上場されると予想されており、これにより、時価総額第2位の暗号資産（仮想通貨）であるイーサリア ...\nイーサリアム現物ETFへの流入で、ETH価格は5000ドルに：ビットワイズが予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/241030/",
-          "publishedOn": "2024-07-17T22:00:00.000Z",
-          "wordCount": 1276,
-          "title": "イーサリアム現物ETFへの流入で、ETH価格は5000ドルに：ビットワイズが予測",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/shutterstock_2472008131.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=241021",
-          "author": "Omkar Godbole",
-          "description": "世界最大の暗号資産（仮想通貨）オプション取引所のデリビット（Deribit）は7月16日、今年11月4日に行われるアメリカ大統領選挙の結果に関連して、トレーダー ...\nデリビット、米大統領選の結果をヘッジするビットコインとイーサリアムのオプションを発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/241021/",
-          "publishedOn": "2024-07-17T21:30:00.000Z",
-          "wordCount": 1330,
-          "title": "デリビット、米大統領選の結果をヘッジするビットコインとイーサリアムのオプションを発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/11/shutterstock_2057471903.jpg"
         }
       ]
     },
@@ -913,36 +913,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/solana-firedancer.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/solana-firedancer.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=545582",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨イーサリアムの価格は米国の現物ETFローンチで最高値を更新するだろうとBitwise幹部が予想。5,000ドルを超える可能性があるとも述べ、分析を公開している。",
-          "link": "https://coinpost.jp/?p=545582",
-          "publishedOn": "2024-07-17T22:10:56.000Z",
-          "wordCount": 2402,
-          "title": "「イーサリアムは現物ETFローンチで最高値更新へ」Bitwise幹部が予想",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/eth-etf-new.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/eth-etf-new.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=545581",
-          "author": "菊谷ルイス",
-          "description": "Movie2K事件は終結していないが、ドイツ当局は声明で5万ほどの仮想通貨BTCを売却せざるを得なかった理由を説明している。",
-          "link": "https://coinpost.jp/?p=545581",
-          "publishedOn": "2024-07-17T21:40:19.000Z",
-          "wordCount": 2378,
-          "title": "ドイツ当局、約5万ビットコイン売りで計4500億円の利益",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/german-sold-bitcoin-reason-.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/german-sold-bitcoin-reason-.jpeg"
         }
       ]
     },
@@ -951,6 +921,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=404996",
+          "author": "NewEconomy",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/404996",
+          "publishedOn": "2024-07-22T09:31:13.000Z",
+          "wordCount": 787,
+          "title": "【7/22話題】メタプラネットがビットコイン追加購入、メッサリ共同創業者が政治的発言でCEO退くなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/22181054/news_head_20240722.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=404965",
           "author": "HitomotoToshikazu",
