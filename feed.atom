@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-22T23:23:26.906Z</updated>
+    <updated>2024-07-23T01:40:35.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米仮想通貨業界団体、ハリス米副大統領に3つの要望]]></title>
+        <id>https://coinpost.jp/?p=546532</id>
+        <link href="https://coinpost.jp/?p=546532"/>
+        <updated>2024-07-23T01:02:15.000Z</updated>
+        <summary type="html"><![CDATA[米国のデジタル商工会議所は、バイデン氏の後任候補ハリス副大統領に書簡を送付。仮想通貨の支持や育成を呼びかけた。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ好調、ETFへの期待とファンダメンタルズの改善が寄与]]></title>
+        <id>https://www.coindeskjapan.com/?p=241833</id>
+        <link href="https://www.coindeskjapan.com/241833/"/>
+        <updated>2024-07-23T00:45:37.000Z</updated>
+        <summary type="html"><![CDATA[トランザクションの増加とETFへの期待が、最近のソラナの好調さにつながっているようだと、複数の市場関係者が米CoinDeskに語った。 暗号資産（仮想通貨）ソラ ...
+ソラナ好調、ETFへの期待とファンダメンタルズの改善が寄与 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウィンクルボス兄弟出資の英サッカークラブ、7億円相当のビットコインを購入]]></title>
         <id>https://coinpost.jp/?p=546517</id>
@@ -858,17 +879,6 @@ BlockFi、顧客への暫定的な弁済を開始 first appeared on CoinDesk JAP
 ポリゴン、MATICからPOLへの移行を9月4日から開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産詐欺を防止、承認フィッシング対抗「スピンキャスター作戦」の成果を発表：チェイナリシス]]></title>
-        <id>https://www.coindeskjapan.com/?p=241168</id>
-        <link href="https://www.coindeskjapan.com/241168/"/>
-        <updated>2024-07-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[チェイナリシス（Chainalysis）は7月18日、国際ロマンス詐欺などの犯罪に用いられている攻撃「Approval Phishing（承認フィッシング）」に ...
-暗号資産詐欺を防止、承認フィッシング対抗「スピンキャスター作戦」の成果を発表：チェイナリシス first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>渡辺一樹</name>
         </author>
     </entry>
 </feed>
