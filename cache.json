@@ -650,36 +650,6 @@
           "wordCount": 1249,
           "title": "DEA、スタートアップワールドカップに日本代表として出場──東京予選前日にはN.Avenue clubに登壇",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/KER7305.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=241725",
-          "author": "Omkar Godbole",
-          "description": "ドナルド・トランプ（Donald Trump）氏が7月25日から27日にナッシュビルで行われるビットコインカンファレンスに出席することが明らかになり、トレーダー ...\nトレーダーはトランプ氏の「ビットコインカンファレンス」での演説に期待し、価格変動に備える first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/241725/",
-          "publishedOn": "2024-07-22T10:20:00.000Z",
-          "wordCount": 1275,
-          "title": "トレーダーはトランプ氏の「ビットコインカンファレンス」での演説に期待し、価格変動に備える",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/shutterstock_2430065795-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=241660",
-          "author": "増田 隆幸",
-          "description": "自民党デジタル社会推進本部web3プロジェクトチーム（web3PT）の座長を務める平将明議員が、会員証「タイラくんSBT第二弾」の配付記念イベントとして、Ast ...\nディストリビューションの重要性、NTFで日本の価値を高める、SBTを選挙に活用……web3PT座長の平氏とアスターの渡辺氏が「web3の現在位置と未来」を語る動画公開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/241660/",
-          "publishedOn": "2024-07-22T09:49:59.000Z",
-          "wordCount": 1292,
-          "title": "ディストリビューションの重要性、NTFで日本の価値を高める、SBTを選挙に活用……web3PT座長の平氏とアスターの渡辺氏が「web3の現在位置と未来」を語る動画公開",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/DSC_0631のコピー-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=241632",
-          "author": "CoinDesk JAPAN",
-          "description": "地球温暖化にはさまざまな捉え方があるが、体感ベースでは加速度的な進行を実感する。地球が直面している異常気象にブロックチェーンと、その上で機能するアプリケーション ...\nブロックチェーンで脱炭素、地球温暖化に挑む──日本で期待されるユースケースとは【N.Avenue clubラウンドテーブルレポート 6月】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/241632/",
-          "publishedOn": "2024-07-22T09:27:43.000Z",
-          "wordCount": 1761,
-          "title": "ブロックチェーンで脱炭素、地球温暖化に挑む──日本で期待されるユースケースとは【N.Avenue clubラウンドテーブルレポート 6月】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/0003.jpg"
         }
       ]
     },
@@ -694,6 +664,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=547671",
+          "author": "菊谷ルイス",
+          "description": "野村ホールディングスの仮想通貨資産子会社であるLaser Digital（レーザーデジタル）は、イーサリアム現物ETFの代替商品の導入を計画しているようだ。",
+          "link": "https://coinpost.jp/?p=547671",
+          "publishedOn": "2024-07-26T22:05:24.000Z",
+          "wordCount": 2382,
+          "title": "野村傘下のレーザーデジタル、利回り提供のイーサリアムファンド販売予定か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/nomura-new-invest.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/nomura-new-invest.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=547663",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨投資企業グレースケールが提供するGBTCは手数料（1.5％）が最も高く資金流出は続いていたが、新商品を導入し0.15％という業界最安の手数料設定で競争力を高める狙いだ。",
+          "link": "https://coinpost.jp/?p=547663",
+          "publishedOn": "2024-07-26T21:40:12.000Z",
+          "wordCount": 2383,
+          "title": "米SEC、グレースケールのミニ版ビットコインETFを承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=547656",
           "author": "菊谷ルイス",
@@ -1775,16 +1775,6 @@
           "wordCount": 770,
           "title": "海外暗号資産取引所Gate .io、日本向けサービス終了へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/23115429/abe185564e60fde92b52c198f26df9f5.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=404996",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/404996",
-          "publishedOn": "2024-07-22T09:31:13.000Z",
-          "wordCount": 787,
-          "title": "【7/22話題】メタプラネットがビットコイン追加購入、メッサリ共同創業者が政治的発言でCEO退くなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/22181054/news_head_20240722.jpg"
         }
       ]
     }
