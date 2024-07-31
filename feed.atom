@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-07-31T01:18:38.177Z</updated>
+    <updated>2024-07-31T02:22:25.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル社、米SECによるソラナなどの証券性に関する訴え修正を「場当たり的」と批判]]></title>
+        <id>https://coinpost.jp/?p=548460</id>
+        <link href="https://coinpost.jp/?p=548460"/>
+        <updated>2024-07-31T01:20:24.000Z</updated>
+        <summary type="html"><![CDATA[米リップル社CEOらは、SECが対バイナンス訴訟でソラナやエイダなどの証券性についての主張を修正する意向を示したことを批判した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの価値保存としての可能性を語る、ゴールドマン・サックスCEO]]></title>
         <id>https://coinpost.jp/?p=548449</id>
@@ -891,17 +901,6 @@ EigenLayerの23億ドル流出はセクターの下落を示唆 first appeared o
         <summary type="html"><![CDATA[ビットコインを最も保有する米上場企業マイクロストラテジーのマイケル・セイラー氏はカンファレンス「ビットコイン2024」で、BTCの将来における強気予想のプレゼンテーションを行った。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン、時価総額が1640億ドルに急増──暗号資産エコシステムの活況を示唆]]></title>
-        <id>https://www.coindeskjapan.com/?p=242802</id>
-        <link href="https://www.coindeskjapan.com/242802/"/>
-        <updated>2024-07-26T13:33:43.000Z</updated>
-        <summary type="html"><![CDATA[さまざまな暗号資産（仮想通貨）取引を行うのに必要となるステーブルコインは、数カ月の停滞を経て成長を遂げており、暗号資産市場への新たな資本流入の兆候となっている。 ...
-ステーブルコイン、時価総額が1640億ドルに急増──暗号資産エコシステムの活況を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
