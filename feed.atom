@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-02T21:23:48.121Z</updated>
+    <updated>2024-08-02T22:27:36.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン一時62000ドル割れ　米雇用統計受け景気後退リスク高まる]]></title>
+        <id>https://coinpost.jp/?p=549253</id>
+        <link href="https://coinpost.jp/?p=549253"/>
+        <updated>2024-08-02T22:10:08.000Z</updated>
+        <summary type="html"><![CDATA[2日夜発表された米国の雇用統計データを受け、リセッションリスクが高まり、米国株市場が大幅に続落した。この影響はビットコイン相場にも波及し、暗号通貨市場で大量の清算が発生している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モルガン・スタンレー、ビットコインETF売り込みを許可]]></title>
+        <id>https://coinpost.jp/?p=549250</id>
+        <link href="https://coinpost.jp/?p=549250"/>
+        <updated>2024-08-02T21:35:05.000Z</updated>
+        <summary type="html"><![CDATA[米金融大手モルガン・スタンレーは投資アドバイザーに対し、近日中にビットコインの現物上場投資信託（ETF）を一部の顧客に提供することを許可したようだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RWAプラットフォームのオープンエデン、「XRPレジャー」で米国財務省短期証券をトークン化]]></title>
         <id>https://www.neweconomy.jp/?p=407949</id>
@@ -1387,38 +1407,6 @@ JVCEAとJCBA、税制改正に関する要望書を発表 first appeared on Coin
 ビットコイン半減から100日──過去の例では、強気な影響はここから始まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏の演説を受けて、ビットコインが7万ドルに迫る──ビットコインキャッシュも上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=243052</id>
-        <link href="https://www.coindeskjapan.com/243052/"/>
-        <updated>2024-07-29T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[共和党大統領候補のドナルド・トランプ（Donald Trump）氏が、11月の選挙で勝利した場合にはビットコイン（BTC）を国家戦略資産にすると発表してから数日 ...
-トランプ氏の演説を受けて、ビットコインが7万ドルに迫る──ビットコインキャッシュも上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【7/29話題】RFKジュニアがトランプの暗号資産支持に疑問、トランプが「大統領就任初日にSEC委員長を解雇する」など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=406462</id>
-        <link href="https://www.neweconomy.jp/posts/406462"/>
-        <updated>2024-07-29T10:01:42.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成AIのAI for UとZKロールアップのINTMAX、データセキュリティ強化に向けた事業提携を発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=243058</id>
-        <link href="https://www.coindeskjapan.com/243058/"/>
-        <updated>2024-07-29T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[日本の生成AI企業AI for Uは、イーサリアムのレイヤー2プロジェクト「INTMAX zkRollup」や最新の暗号技術を搭載したウォレット「INTMAX  ...
-生成AIのAI for UとZKロールアップのINTMAX、データセキュリティ強化に向けた事業提携を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>

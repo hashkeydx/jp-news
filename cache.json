@@ -530,26 +530,6 @@
           "wordCount": 1533,
           "title": "ビットコイン半減から100日──過去の例では、強気な影響はここから始まる",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/02/shutterstock_1487694677.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=243052",
-          "author": "Sam Reynolds",
-          "description": "共和党大統領候補のドナルド・トランプ（Donald Trump）氏が、11月の選挙で勝利した場合にはビットコイン（BTC）を国家戦略資産にすると発表してから数日 ...\nトランプ氏の演説を受けて、ビットコインが7万ドルに迫る──ビットコインキャッシュも上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/243052/",
-          "publishedOn": "2024-07-29T10:15:00.000Z",
-          "wordCount": 1309,
-          "title": "トランプ氏の演説を受けて、ビットコインが7万ドルに迫る──ビットコインキャッシュも上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/shutterstock_1888907947.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=243058",
-          "author": "井上 俊彦",
-          "description": "日本の生成AI企業AI for Uは、イーサリアムのレイヤー2プロジェクト「INTMAX zkRollup」や最新の暗号技術を搭載したウォレット「INTMAX  ...\n生成AIのAI for UとZKロールアップのINTMAX、データセキュリティ強化に向けた事業提携を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/243058/",
-          "publishedOn": "2024-07-29T09:55:00.000Z",
-          "wordCount": 1221,
-          "title": "生成AIのAI for UとZKロールアップのINTMAX、データセキュリティ強化に向けた事業提携を発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/07/main.png"
         }
       ]
     },
@@ -564,6 +544,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=549253",
+          "author": "菊谷ルイス",
+          "description": "2日夜発表された米国の雇用統計データを受け、リセッションリスクが高まり、米国株市場が大幅に続落した。この影響はビットコイン相場にも波及し、暗号通貨市場で大量の清算が発生している。",
+          "link": "https://coinpost.jp/?p=549253",
+          "publishedOn": "2024-08-02T22:10:08.000Z",
+          "wordCount": 2404,
+          "title": "ビットコイン一時62000ドル割れ　米雇用統計受け景気後退リスク高まる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/market-up-and-down-recession.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/market-up-and-down-recession.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=549250",
+          "author": "菊谷ルイス",
+          "description": "米金融大手モルガン・スタンレーは投資アドバイザーに対し、近日中にビットコインの現物上場投資信託（ETF）を一部の顧客に提供することを許可したようだ。",
+          "link": "https://coinpost.jp/?p=549250",
+          "publishedOn": "2024-08-02T21:35:05.000Z",
+          "wordCount": 2375,
+          "title": "モルガン・スタンレー、ビットコインETF売り込みを許可",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/morganstanley0928211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/morganstanley0928211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=549177",
           "author": "AKIRA.H",
@@ -1600,16 +1610,6 @@
           "wordCount": 809,
           "title": "DMMのweb3子会社「DM2C Studio」、「DMM Crypto」に社名変更",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/30115136/953fa0e2c00e64f49e51f5bae3a370f1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=406462",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/406462",
-          "publishedOn": "2024-07-29T10:01:42.000Z",
-          "wordCount": 813,
-          "title": "【7/29話題】RFKジュニアがトランプの暗号資産支持に疑問、トランプが「大統領就任初日にSEC委員長を解雇する」など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/07/29172436/news_head_20240729.jpg"
         }
       ]
     }
