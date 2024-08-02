@@ -515,6 +515,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=549114",
+          "author": "A.Yamada",
+          "description": "米BitwiseのCIOは「ビットコイン2024」について報告。米政府がビットコインを備蓄する提案が複数なされたことについて見解を述べた。",
+          "link": "https://coinpost.jp/?p=549114",
+          "publishedOn": "2024-08-02T04:00:04.000Z",
+          "wordCount": 2395,
+          "title": "米ビットワイズCIO、ビットコインの躍進可能性を指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/touch-of-bit.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/touch-of-bit.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=549087",
           "author": "K.Kobayashi",
           "description": "ビットコインなどの仮想通貨相場への影響が指摘される中、米大統領選でハリス氏が勝利する可能性がポリマーケットで過去最高に。その分、トランプ氏勝利の可能性が下がっている。",
@@ -1196,6 +1211,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=407695",
+          "author": "TamuraSeiji",
+          "description": "ElixirがステーブルコインdeUSDを発表 モジュラーブロックチェーンの「エリクサー（Elixir）」が、新しい米ドルペッグのステーブルコイン「deUSD」をリリースした。同チェーンの公式Xより7月31日発表されてい […]",
+          "link": "https://www.neweconomy.jp/posts/407695",
+          "publishedOn": "2024-08-02T04:14:34.000Z",
+          "wordCount": 645,
+          "title": "モジュラーブロックチェーン「Elixir」、ステーブルコイン「deUSD」リリース",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/08/02131427/10413a84187160b26f70cca3ed87190d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=407681",
+          "author": "OtsugaShinya",
+          "description": "キリン「氷結」に使用の果実サプライチェーンがブロックチェーンで可視化 キリンビールより今年5月に発売された「キリン 氷結 mottainai 浜なし（期間限定）」の製造について、日本アイ・ビー・エム（日本IBM）が、ブロ […]",
+          "link": "https://www.neweconomy.jp/posts/407681",
+          "publishedOn": "2024-08-02T04:03:43.000Z",
+          "wordCount": 637,
+          "title": "日本IBM、キリン「氷結」に使用の果実サプライチェーンをブロックチェーンで可視化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/08/02130158/78474b5f8e5d57fe96ed41748174f7af.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=407654",
           "author": "gentosha_takahashi",
