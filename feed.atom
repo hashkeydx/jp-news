@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-02T08:30:10.789Z</updated>
+    <updated>2024-08-02T09:26:14.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キリンビール　氷結mottainaiプロジェクトでブロックチェーンを活用]]></title>
+        <id>https://coinpost.jp/?p=549152</id>
+        <link href="https://coinpost.jp/?p=549152"/>
+        <updated>2024-08-02T09:15:08.000Z</updated>
+        <summary type="html"><![CDATA[キリンビールが氷結mottainaiプロジェクトでIBMのブロックチェーン技術を活用し、サプライチェーンの可視化とフードロス削減を実現。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、第2四半期収益が予想を上回り株価が上昇──取引高は減少]]></title>
         <id>https://www.coindeskjapan.com/?p=243858</id>
@@ -1457,17 +1467,6 @@ JVCEAとJCBA、税制改正に関する要望書を発表 first appeared on Coin
 イーサリアムETF：4つの注目ポイント first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>George Kaloudis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我々が（まだ）Web3ゲームに投資し続けている理由]]></title>
-        <id>https://www.coindeskjapan.com/?p=241726</id>
-        <link href="https://www.coindeskjapan.com/241726/"/>
-        <updated>2024-07-28T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年、ゲームトークンが全体で37％下落していることで「Web3ゲームは終わった」という辛口の意見も出ている。しかし、暗号資産（仮想通貨）は周期的なものであり、現 ...
-我々が（まだ）Web3ゲームに投資し続けている理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Leah Callon-Butler</name>
         </author>
     </entry>
 </feed>
