@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-02T05:28:19.564Z</updated>
+    <updated>2024-08-02T06:33:43.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[海外暗号資産取引所バイビット、フランスでのサービス提供停止へ]]></title>
+        <id>https://www.neweconomy.jp/?p=407717</id>
+        <link href="https://www.neweconomy.jp/posts/407717"/>
+        <updated>2024-08-02T05:50:43.000Z</updated>
+        <summary type="html"><![CDATA[バイビットがフランスでのサービス提供停止へ 海外暗号資産（仮想通貨）取引所バイビット（Bybit）が、フランス国民およびフランス居住者へのサービス提供を停止すると8月1日発表した。 停止の理由は、フランスの規制当局による […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イングランド銀行、ホールセール型CBDCと同期化の実験へ]]></title>
+        <id>https://www.neweconomy.jp/?p=407718</id>
+        <link href="https://www.neweconomy.jp/posts/407718"/>
+        <updated>2024-08-02T05:50:31.000Z</updated>
+        <summary type="html"><![CDATA[既存の決済システムにDLTを適用 イングランド銀行（BoE）が、ホールセール型中央銀行デジタル通貨（wCBDC）と即時グロス決済（RTGS）システムを使った実験プログラムを行う予定だ。ディスカッションペーパーにて7月30 […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ現物ETF承認の可能性に強気、米大手資産管理会社VanEck]]></title>
         <id>https://coinpost.jp/?p=549111</id>
