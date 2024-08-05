@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-05T20:25:03.811Z</updated>
+    <updated>2024-08-05T21:26:33.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧州4位のヘッジファンド、670億円相当のビットコインETF保有]]></title>
+        <id>https://coinpost.jp/?p=549590</id>
+        <link href="https://coinpost.jp/?p=549590"/>
+        <updated>2024-08-05T21:00:55.000Z</updated>
+        <summary type="html"><![CDATA[保有していたのは、ブラックロックとフィデリティの仮想通貨ビットコイン現物ETFで、6月30日時点の保有株が反映されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/5話題】米次期政権はいずれでも暗号資産に好意的、MiCAに基づく暗号資産サービスプロバイダーの認可申請受付開始など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=408175</id>
@@ -931,16 +941,6 @@ MiCA準拠の事業免許、仏で申請開始──EU主要国で初 first appe
 ステーブルコインのバランスシートは監視可能──BISとイングランド銀行のプロジェクトが主張 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マウントゴックス　ビットコイン弁済の経過報告「17,000人超の債権者に実施」]]></title>
-        <id>https://coinpost.jp/?p=548899</id>
-        <link href="https://coinpost.jp/?p=548899"/>
-        <updated>2024-08-01T09:09:49.000Z</updated>
-        <summary type="html"><![CDATA[2014年に破綻したマウントゴックスが、ビットコインとビットコインキャッシュによる弁済を進行中。17,000名超の債権者に対する返済状況を明らかにした。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
