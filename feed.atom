@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-06T20:23:31.619Z</updated>
+    <updated>2024-08-06T21:23:22.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨銀行アンカレージ、機関向けにソラナ関連トークンを保管開始]]></title>
+        <id>https://coinpost.jp/?p=549966</id>
+        <link href="https://coinpost.jp/?p=549966"/>
+        <updated>2024-08-06T21:10:02.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨銀行アンカレージ（Anchorage Digital Bank）はソラナ関連トークンを保管し始めた。機関からの需要が高まってきたようだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米アーク、市場低迷でコインベース株を1780万ドル、ロビンフッド株を1120万ドル分購入]]></title>
+        <id>https://www.coindeskjapan.com/?p=244346</id>
+        <link href="https://www.coindeskjapan.com/244346/"/>
+        <updated>2024-08-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アーク・インベスト（ARK Invest）は8月5日の大幅な市場低迷に乗じて、コインベース（Coinbase）とロビンフッド（Robinhood）株を数カ月ぶり ...
+米アーク、市場低迷でコインベース株を1780万ドル、ロビンフッド株を1120万ドル分購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/6話題】米医療機器メーカーSemler Scientificがビットコイン追加購入、ヴィタリックが柴犬ねいろモチーフの暗号資産売却など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=408421</id>
@@ -911,16 +932,6 @@ MiCA準拠の事業免許、仏で申請開始──EU主要国で初 first appe
 世界的な資産売りが続く中、ビットコイントレーダーは5万5000ドルまでの下落を恐れる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キリンビール　氷結mottainaiプロジェクトでブロックチェーンを活用]]></title>
-        <id>https://coinpost.jp/?p=549152</id>
-        <link href="https://coinpost.jp/?p=549152"/>
-        <updated>2024-08-02T09:15:08.000Z</updated>
-        <summary type="html"><![CDATA[キリンビールが氷結mottainaiプロジェクトでIBMのブロックチェーン技術を活用し、サプライチェーンの可視化とフードロス削減を実現。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
