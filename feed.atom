@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-06T21:23:22.208Z</updated>
+    <updated>2024-08-06T22:28:16.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[市場急落時にコインベース株を26億円分購入、米アークのETF]]></title>
+        <id>https://coinpost.jp/?p=549980</id>
+        <link href="https://coinpost.jp/?p=549980"/>
+        <updated>2024-08-06T22:20:09.000Z</updated>
+        <summary type="html"><![CDATA[米大手投資企業アーク・インベストは2023年6月以来、仮想通貨取引所コインベースの株式を買い戻した。一方、月曜日相場急落時にはイーサリアム先物ETFを売却した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインはデスクロスが再び迫る、ただし信頼性に欠ける]]></title>
+        <id>https://www.coindeskjapan.com/?p=244381</id>
+        <link href="https://www.coindeskjapan.com/244381/"/>
+        <updated>2024-08-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[指標の中には、本質的に遅れており予測の精度が限られるにもかかわらず旧来からの市場や暗号資産（仮想通貨）市場では常に話題となるものがある。結果的に、経験の浅い投資 ...
+ビットコインはデスクロスが再び迫る、ただし信頼性に欠ける first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>T. Minamoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米マラソン社、7月に保有ビットコインを180億円分増加]]></title>
+        <id>https://coinpost.jp/?p=549974</id>
+        <link href="https://coinpost.jp/?p=549974"/>
+        <updated>2024-08-06T21:35:12.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダック上場のマイニング企業マラソンは6日、7月の仮想通貨ビットコイン保有報告を発表し、BTCの保有数を増やしたことを明らかにした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨銀行アンカレージ、機関向けにソラナ関連トークンを保管開始]]></title>
         <id>https://coinpost.jp/?p=549966</id>
@@ -889,49 +920,6 @@ MiCA準拠の事業免許、仏で申請開始──EU主要国で初 first appe
 ハリス副大統領は暗号資産をトランプ氏に譲ることはできない：シンクタンクが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Amitoj Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米アーク、コインベースの決算発表直前に同社株を1480万ドル分売却]]></title>
-        <id>https://www.coindeskjapan.com/?p=243900</id>
-        <link href="https://www.coindeskjapan.com/243900/"/>
-        <updated>2024-08-02T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[キャシー・ウッド（Cathie Wood）氏の投資会社アーク・インベスト（Ark Invest ）は8月1日、暗号資産（仮想通貨）取引所コインベース（Coinb ...
-米アーク、コインベースの決算発表直前に同社株を1480万ドル分売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインマイナーのマラソン、収益が予想を下回り株価が急落]]></title>
-        <id>https://www.coindeskjapan.com/?p=243888</id>
-        <link href="https://www.coindeskjapan.com/243888/"/>
-        <updated>2024-08-02T10:14:24.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインマイナーのマラソン・デジタル（Marathon Digital）の株価は、同社の第2四半期の収益がウォール街の予想を下回ったことを受けて、8月1日の ...
-ビットコインマイナーのマラソン、収益が予想を下回り株価が急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、4種類の現物通貨ペアを取扱い中止｜MANTA/BNBなど対象]]></title>
-        <id>https://coinpost.jp/?p=549177</id>
-        <link href="https://coinpost.jp/?p=549177"/>
-        <updated>2024-08-02T10:00:54.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスは、MANTA/BNBを含む4種類の通貨ペアの取扱いを中止した。流動性向上を目的とした定期的な見直しの一環で、他の通貨ペアでの取引は引き続き可能。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界的な資産売りが続く中、ビットコイントレーダーは5万5000ドルまでの下落を恐れる]]></title>
-        <id>https://www.coindeskjapan.com/?p=243835</id>
-        <link href="https://www.coindeskjapan.com/243835/"/>
-        <updated>2024-08-02T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、中東の地政学的緊張によって悪化した世界資産全般の売りが3日目に入る中、8月2日のアジア時間午前に下落から反転した。 1日のアメリカ時間 ...
-世界的な資産売りが続く中、ビットコイントレーダーは5万5000ドルまでの下落を恐れる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
