@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-09T20:26:08.659Z</updated>
+    <updated>2024-08-09T21:23:17.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル社、ステーブルコイン「RLUSD」のテストを開始]]></title>
+        <id>https://coinpost.jp/?p=550771</id>
+        <link href="https://coinpost.jp/?p=550771"/>
+        <updated>2024-08-09T21:15:41.000Z</updated>
+        <summary type="html"><![CDATA[リップル社が新しいステーブルコイン「RLUSD」のプライベート・テストを始めた。この仮想通貨は、XRPレジャーとイーサリアムの両方で試験運用されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/9話題】米国政府マネーファンドがアービトラムに展開、金融庁長官が暗号資産ETF承認は「慎重に検討する必要がある」など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=409444</id>
@@ -1451,17 +1461,6 @@ DeFi大手のアーべ、暗号資産市場の急落で600万ドルの収益 fir
 日経平均は史上最大の下げ幅、ビットコイン円建て価格は15％下落して760万円付近 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン急落でキャリートレードに影]]></title>
-        <id>https://www.coindeskjapan.com/?p=244173</id>
-        <link href="https://www.coindeskjapan.com/244173/"/>
-        <updated>2024-08-05T09:03:22.000Z</updated>
-        <summary type="html"><![CDATA[直近のビットコイン（BTC）価格急落により、先物価格とスポット価格の差が縮小し、2つの市場の乖離から利益を得ようとするキャリートレードの魅力が損なわれている。  ...
-ビットコイン急落でキャリートレードに影 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>T. Minamoto</name>
         </author>
     </entry>
 </feed>
