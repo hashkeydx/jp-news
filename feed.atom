@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-09T21:23:17.079Z</updated>
+    <updated>2024-08-09T22:28:36.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、Hashdexのビットコインとイーサの混合ETF申請に対する決定を延期]]></title>
+        <id>https://coinpost.jp/?p=550785</id>
+        <link href="https://coinpost.jp/?p=550785"/>
+        <updated>2024-08-09T21:50:15.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会は9日、仮想通貨投資企業Hashdexが申請した、現物ビットコインとイーサリアムを直接保有する上場投資信託（ETF）に関する決定を9月までに延期した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップル社、ステーブルコイン「RLUSD」のテストを開始]]></title>
         <id>https://coinpost.jp/?p=550771</id>
@@ -1439,28 +1449,6 @@ DeFi大手のアーべ、暗号資産市場の急落で600万ドルの収益 fir
 暗号資産関連株も大きく下落──コインベース、マイクロストラテジー、マイニング企業も first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sheldon Reback</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産先物、ビットコイン急落で10億ドルの清算──イーサリアムは2021年以来の大幅下落]]></title>
-        <id>https://www.coindeskjapan.com/?p=244199</id>
-        <link href="https://www.coindeskjapan.com/244199/"/>
-        <updated>2024-08-05T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）の先物は過去24時間で、10億ドル（1400億円、1ドル=140円換算）以上の清算を記録した。この大混乱は、円高とマーケットメーカーであるジ ...
-暗号資産先物、ビットコイン急落で10億ドルの清算──イーサリアムは2021年以来の大幅下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日経平均は史上最大の下げ幅、ビットコイン円建て価格は15％下落して760万円付近]]></title>
-        <id>https://www.coindeskjapan.com/?p=244182</id>
-        <link href="https://www.coindeskjapan.com/244182/"/>
-        <updated>2024-08-05T09:40:02.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）の円建て価格は、東京の暗号資産（仮想通貨）取引所bitFlyer（ビットフライヤー）で15％近く下落し、欧米の取引所で11％下落したドル建 ...
-日経平均は史上最大の下げ幅、ビットコイン円建て価格は15％下落して760万円付近 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
