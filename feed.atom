@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-19T01:43:56.500Z</updated>
+    <updated>2024-08-19T02:44:33.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アイゲンレイヤー、「パーミッションレストークンサポート」導入へ、あらゆるERC20トークンのリステーキング可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=410384</id>
+        <link href="https://www.neweconomy.jp/posts/410384"/>
+        <updated>2024-08-19T02:35:46.000Z</updated>
+        <summary type="html"><![CDATA[EigenLayerでパーミッションレストークンサポート導入 イーサリアム（Ethereum）ベースのリステーキングプロトコル「アイゲンレイヤー（EigenLayer）」に、分散型ネットワークのセキュリティ強化を目的とし […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークンが「多過ぎる」、暗号資産の世界にM&Aの波がやって来る]]></title>
         <id>https://www.coindeskjapan.com/?p=228047</id>
