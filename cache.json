@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=246631",
+          "author": "T. Minamoto",
+          "description": "ハードウェアに特化したスタートアップ企業ファブリック・クリプトグラフィー（Fabric Cryptography）は、ブロックチェーン・キャピタル（Blockc ...\n暗号化の速度とコスト改善のVPU開発企業、50億円規模の資金調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/246631/",
+          "publishedOn": "2024-08-20T04:30:06.000Z",
+          "wordCount": 1243,
+          "title": "暗号化の速度とコスト改善のVPU開発企業、50億円規模の資金調達",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/Fabric-Cryptography.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=246756",
+          "author": "廣瀬 優香",
+          "description": "オーストラリア証券投資委員会（ASIC）は、偽の投資サイトに対処するためのプログラムで、初年度に615件の暗号資産（仮想通貨）投資詐欺サイトを停止させたと発表し ...\nオーストラリア規制当局、1年間で600件を超える暗号資産投資詐欺を摘発 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/246756/",
+          "publishedOn": "2024-08-20T03:30:00.000Z",
+          "wordCount": 1198,
+          "title": "オーストラリア規制当局、1年間で600件を超える暗号資産投資詐欺を摘発",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/PMO2YVOPL5ENFIWYB5YS7WH354.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=246682",
           "author": "Jamie Crawley",
           "description": "暗号資産（仮想通貨）運用会社のビットワイズ（Bitwise）は、ロンドンを拠点とするETCグループ（ETC Group）を買収して欧州に進出し、同地域の9つの上 ...\nビットワイズ、ロンドンのETP提供企業ETCグループを買収して欧州進出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -474,6 +494,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=552609",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）相場では堅調な米主要株価指数を背景にビットコイン（BTC）が反発し、再び6万ドル台を回復した。マイナー動向では投降イベントを示唆するデータが指摘された。",
+          "link": "https://coinpost.jp/?p=552609",
+          "publishedOn": "2024-08-20T03:30:42.000Z",
+          "wordCount": 2505,
+          "title": "ビットコイン6万ドル台復帰、データはマイナーの投降を示唆",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/bitcoin-extension-of-western-civil.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/bitcoin-extension-of-western-civil.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=552617",
           "author": "A.Yamada",
@@ -1081,6 +1116,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=410818",
+          "author": "OtsugaShinya",
+          "description": "「UXD Protocol」がプロトコル廃止へ ソラナ（Solana）ブロックチェーン上のステーブルコインプロジェクト「UXDプロトコル（UXD Protocol）」が、プロトコル廃止の決定を8月20日発表した。 「UX […]",
+          "link": "https://www.neweconomy.jp/posts/410818",
+          "publishedOn": "2024-08-20T03:40:14.000Z",
+          "wordCount": 834,
+          "title": "ソラナ上のステーブルコインプロジェクト「UXD Protocol」、運営終了へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/08/20123958/ae51f3b969136ed28de13f6596f7dae6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=410811",
+          "author": "OtsugaShinya",
+          "description": "USDTがアプトス上に発行へ 米ドルペッグのステーブルコイン「テザー（USDT）」が、アプトス（Aptos）のネットワーク上で発行される予定だ。「USDT」発行元のテザー社（Tether Operations）およびセロ […]",
+          "link": "https://www.neweconomy.jp/posts/410811",
+          "publishedOn": "2024-08-20T03:31:24.000Z",
+          "wordCount": 797,
+          "title": "テザー「USDT」、アプトス上に発行へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/08/20123118/1a310f6f6166c229597ca49c42c3fb60.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=410649",
           "author": "HitomotoToshikazu",
