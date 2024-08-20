@@ -495,6 +495,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=552663",
+          "author": "幸田直子",
+          "description": "イーサリアムL2プロジェクトのOptimismが、Fault Proofシステムの脆弱性を受けて許可制に戻すことを発表。9月10日に予定されているハードフォークを含むアップグレードで脆弱性の修正を行う。",
+          "link": "https://coinpost.jp/?p=552663",
+          "publishedOn": "2024-08-20T05:30:42.000Z",
+          "wordCount": 2488,
+          "title": "オプティミズム、9月にハードフォーク予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/Optimism-OP-Mainnet.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/Optimism-OP-Mainnet.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=552609",
           "author": "S.Ninomiya",
           "description": "暗号資産（仮想通貨）相場では堅調な米主要株価指数を背景にビットコイン（BTC）が反発し、再び6万ドル台を回復した。マイナー動向では投降イベントを示唆するデータが指摘された。",
@@ -1116,6 +1131,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=410840",
+          "author": "gentosha_takahashi",
+          "description": "Googleは削除に3カ月を要したと原告が主張 グーグル（Google）が、暗号資産（仮想通貨）関連の詐欺アプリをGoogle Playストアからダウンロードしたユーザーから訴えられている。各社が8月18日報じている。  […]",
+          "link": "https://www.neweconomy.jp/posts/410840",
+          "publishedOn": "2024-08-20T05:34:51.000Z",
+          "wordCount": 791,
+          "title": "Google、500万ドル超被害の暗号資産資産詐欺アプリユーザーから訴えられる＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/08/20143440/0d6d493f5065c46fbd635f4691899ccc.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=410818",
           "author": "OtsugaShinya",
