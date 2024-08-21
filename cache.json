@@ -455,6 +455,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=553021",
+          "author": "AKIRA.H",
+          "description": "マウントゴックスの管財人が新たに暗号資産（仮想通貨）ビットコインを移動し、12,000BTCがビットスタンプへ送金された。現在も4,000億円相当のBTCを保有し、弁済が進行中。",
+          "link": "https://coinpost.jp/?p=553021",
+          "publishedOn": "2024-08-21T06:57:42.000Z",
+          "wordCount": 2400,
+          "title": "マウントゴックス、1000億円相当のビットコインを取引所に送付　弁済が進行中か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/mtgox-65.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/mtgox-65.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=552986",
           "author": "幸田直子",
           "description": "カマラ・ハリスべい副大統領の経済政策が物議を醸している。法人税率28%への引き上げ、44.6%のキャピタルゲイン税、食品価格統制などに批判の声が上がっている。",
@@ -1091,6 +1106,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=411205",
+          "author": "OtsugaShinya",
+          "description": "バイナンスが取引ペアDOGE/JPY・NEAR/JPY・ MATIC/JPYを追加 国内暗号資産（仮想通貨）取引所Binance Japan（バイナンスジャパン）取り扱いの暗号資産現物取引において、新たに3種の日本円取引 […]",
+          "link": "https://www.neweconomy.jp/posts/411205",
+          "publishedOn": "2024-08-21T06:34:30.000Z",
+          "wordCount": 758,
+          "title": "バイナンス、日本円取引ペアにDOGE・NEAR・MATIC追加",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/08/21153411/96b20ee3ab6c2bd400fc574048279822.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=411187",
           "author": "gentosha_takahashi",
