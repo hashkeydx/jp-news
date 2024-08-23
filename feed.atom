@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-23T11:22:09.761Z</updated>
+    <updated>2024-08-23T12:45:21.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グレースケール、暗号資産アバランチ（AVAX）の投資信託を提供開始]]></title>
+        <id>https://www.neweconomy.jp/?p=412010</id>
+        <link href="https://www.neweconomy.jp/posts/412010"/>
+        <updated>2024-08-23T12:30:40.000Z</updated>
+        <summary type="html"><![CDATA[グレースケールがAVAXの投資信託を提供開始 暗号資産（仮想通貨）運用会社のグレースケール・インベストメンツ（Grayscale Investments）が、暗号資産アバランチ（AVAX）の投資信託の提供開始を8月22日 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサL2「Starknet」、STRK保有者向け初のガバナンス投票開始へ]]></title>
+        <id>https://www.neweconomy.jp/?p=412003</id>
+        <link href="https://www.neweconomy.jp/posts/412003"/>
+        <updated>2024-08-23T11:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Starknetが最初のガバナンス投票を開始へ イーサリアム（Ethereum）のレイヤー2スケーリングソリューション「スタークネット（Starknet）」で、「STRK」トークン保有者に向けた最初のガバナンス投票が9月 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/23話題】ソニーとスターテイルがイーサL2「Soneium」共同開発、DMMがプログマと独自ステーブルコイン発行検討など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=411874</id>
@@ -1760,26 +1780,6 @@ DMM Crypto、米ハイブマッパーと提携──日本でAI✕ブロック�
         <summary type="html"><![CDATA[EigenLayerでパーミッションレストークンサポート導入 イーサリアム（Ethereum）ベースのリステーキングプロトコル「アイゲンレイヤー（EigenLayer）」に、分散型ネットワークのセキュリティ強化を目的とし […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン「欧州のMiCA規制はUSDTに不利な影響を及ぼしかねない」]]></title>
-        <id>https://coinpost.jp/?p=552303</id>
-        <link href="https://coinpost.jp/?p=552303"/>
-        <updated>2024-08-19T00:39:21.000Z</updated>
-        <summary type="html"><![CDATA[EUの仮想通貨規制MiCAがテザー社のUSDTに及ぼす影響について、JPモルガンの分析とテザー社の反論を解説。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナジャパン主催の「SuperTokyo」開催、国内外のビルダーが東京に集結]]></title>
-        <id>https://coinpost.jp/?p=552304</id>
-        <link href="https://coinpost.jp/?p=552304"/>
-        <updated>2024-08-19T00:28:30.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ財団が出資するSuperteam Japan主催の「SuperTokyo」が東京で開催。約1000人の参加者が集まり、活発な議論が展開されました。9月に予定されているColosseum Globalハッカソンに向けて、意義深い交流が期待される。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
         </author>
     </entry>
 </feed>
