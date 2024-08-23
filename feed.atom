@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-08-23T21:23:10.266Z</updated>
+    <updated>2024-08-23T22:27:44.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所OKX、6銘柄上場廃止へ　フィットネスアプリやRPGゲームのトークン]]></title>
+        <id>https://coinpost.jp/?p=553661</id>
+        <link href="https://coinpost.jp/?p=553661"/>
+        <updated>2024-08-23T21:30:49.000Z</updated>
+        <summary type="html"><![CDATA[上場廃止の対象銘柄は、FITFI、GARI、XPR、AKITA、TAMA、WNCGの7銘柄で、ステーブルコインUSDTの通貨ペアは日本時間8月30日17時から17時30分に上場廃止となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グレースケール、暗号資産アバランチ（AVAX）の投資信託を提供開始]]></title>
         <id>https://www.neweconomy.jp/?p=412010</id>
@@ -1585,17 +1595,6 @@ WebX 2024：日本のWeb3革命の最前線に触れるブロックチェーン�
 伝説的バスケ選手が未登録証券を販売との裁定──米NFT集団訴訟 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワールドコイン、マレーシア政府との提携で基本合意──国民は虹彩認証でワールドIDを取得可能に]]></title>
-        <id>https://www.coindeskjapan.com/?p=246598</id>
-        <link href="https://www.coindeskjapan.com/246598/"/>
-        <updated>2024-08-19T09:25:00.000Z</updated>
-        <summary type="html"><![CDATA[オープンAI（OpenAI）創設者サム・アルトマン（Sam Altman）氏が手がける分散型IDプロジェクトのワールドコイン（Worldcoin）とマレーシア政 ...
-ワールドコイン、マレーシア政府との提携で基本合意──国民は虹彩認証でワールドIDを取得可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
