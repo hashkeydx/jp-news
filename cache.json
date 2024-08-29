@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=248424",
+          "author": "廣瀬 優香",
+          "description": "オーストラリア連邦警察（AFP）は28日の発表で、オーストラリア国民はわずか12カ月間で1億2200万ドル（約177億円）相当の暗号資産（仮想通貨）を投資詐欺で ...\nオーストラリア国民、12カ月間で1億2200万ドル相当の暗号資産を詐欺で失う：警察 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/248424/",
+          "publishedOn": "2024-08-29T01:00:00.000Z",
+          "wordCount": 1209,
+          "title": "オーストラリア国民、12カ月間で1億2200万ドル相当の暗号資産を詐欺で失う：警察",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/shutterstock_1095096365.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=248436",
+          "author": "Sheldon Reback",
+          "description": "バイナンスのCEO、リチャード・テン（Richard Teng）氏は、同暗号資産取引所がイスラエル国防軍の要請を受けて全パレスチナ人顧客の資産を凍結したという主 ...\nバイナンスCEO、パレスチナ人の資金を凍結との主張を否定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/248436/",
+          "publishedOn": "2024-08-28T23:50:00.000Z",
+          "wordCount": 1201,
+          "title": "バイナンスCEO、パレスチナ人の資金を凍結との主張を否定",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/QXGDV6HDRJBKPMVVHWMGEM2LEI.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=248426",
           "author": "Stephen Alpher",
           "description": "8月27日、アメリカの心地よい夏の夕べが、ビットコイン（BTC）がわずか数分で6％近く急落したことで台無しになった。パウエル米連邦準備制度理事会（FRB）議長の ...\nビットコインの反発弱まる──エヌビディア株の下落でリスクオフムードに拍車 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -620,10 +640,55 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "ニュース  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=554830",
+          "author": "菊谷ルイス",
+          "description": "米大手資産運用会社ブラックロックは、米国で提供している仮想通貨イーサリアムの現物ETFを、ブラジルでも提供開始した。",
+          "link": "https://coinpost.jp/?p=554830",
+          "publishedOn": "2024-08-29T01:35:27.000Z",
+          "wordCount": 2371,
+          "title": "ブラックロック、ブラジルでイーサリアム現物ETFを提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/brazil-etf-trading.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/brazil-etf-trading.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=554803",
+          "author": "A.Yamada",
+          "description": "米AI・GPU関連大手エヌビディアの2024年5~7月期決算が発表。AIブームで売上高・利益ともに記録的成長。データセンター事業が牽引し、ゲーム部門も好調。",
+          "link": "https://coinpost.jp/?p=554803",
+          "publishedOn": "2024-08-29T00:35:58.000Z",
+          "wordCount": 2385,
+          "title": "エヌビディア、AI需要で過去最高業績",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/nvidia-eth-mining.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/nvidia-eth-mining.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=554795",
+          "author": "K.Kobayashi",
+          "description": "NFT電子市場OpenSeaが米SECからウェルズ通知を受領。NFTの有価証券性が問題になっており、OpenSeaが提訴される可能性がある。",
+          "link": "https://coinpost.jp/?p=554795",
+          "publishedOn": "2024-08-29T00:00:07.000Z",
+          "wordCount": 2440,
+          "title": "NFTの有価証券性で提訴の可能性、米SECがOpenSeaにウェルズ通知を送付",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/OpenSea0830211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/OpenSea0830211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=554611",
           "author": "CoinPost編集部",
