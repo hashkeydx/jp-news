@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=249019",
+          "author": "Ian Allison",
+          "description": "野村ホールディングスのスイス子会社であるレーザー・デジタル（Laser Digital）と英ヘッジファンドのブレンバン・ハワード（Brevan Howard）が ...\nトークン化ファンドのリブレ、ニアプロトコルに進出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/249019/",
+          "publishedOn": "2024-09-02T21:30:00.000Z",
+          "wordCount": 1269,
+          "title": "トークン化ファンドのリブレ、ニアプロトコルに進出",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/09/DLIP3Z7RMZDQBJXAEDRZ4EMTQY-710x458-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=248929",
           "author": "廣瀬 優香",
           "description": "数年前にアービトラム（Arbitrum）とオプティミズム（Optimism）に代表されるほんの一握りのパイオニアたちから始まり、通常はより安価で高速なトランザク ...\n断片化の解決が拡大するレイヤー2の次の大きな課題：ZKsync開発者 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -360,26 +370,6 @@
           "wordCount": 1307,
           "title": "テレグラムCEOが保釈──予測市場ポリマーケットの賭け手は27万ドルを失う",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/3SSTZ7EITNBHNHYR7BXXAVEMFA.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=248541",
-          "author": "Sam Reynolds",
-          "description": "TONネットワークは2度目の障害の後、再びオンラインに戻った。 「TONネットワークは完全に稼働している！」と香港時間の8月29日午前9時半過ぎ、TONコミュニ ...\nTONネットワーク、2度目の停止の後に再稼働──トンコインは8%上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/248541/",
-          "publishedOn": "2024-08-29T09:55:00.000Z",
-          "wordCount": 1245,
-          "title": "TONネットワーク、2度目の停止の後に再稼働──トンコインは8%上昇",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2019/09/telegram.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=248502",
-          "author": "廣瀬 優香",
-          "description": "ビットコインネットワークを強化するレイヤー2ブロックチェーン、スタックス（Stacks）は、トランザクションをさらに高速化することを目的としたアップグレード「N ...\nビットコインレイヤー2のスタックス、アップグレード「Nakamoto」を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/248502/",
-          "publishedOn": "2024-08-29T09:30:00.000Z",
-          "wordCount": 1203,
-          "title": "ビットコインレイヤー2のスタックス、アップグレード「Nakamoto」を開始",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/BID6IGVLENFFRELP5QVLVLQPQU.jpg"
         }
       ]
     },
@@ -394,6 +384,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=555742",
+          "author": "菊谷ルイス",
+          "description": "ビットコインや多くのアルトコインを提供するOKXのシンガポール法人（OKX SG）は、同国の中央銀行から主要決済機関（MPI）ライセンスを取得した。",
+          "link": "https://coinpost.jp/?p=555742",
+          "publishedOn": "2024-09-02T21:40:08.000Z",
+          "wordCount": 2345,
+          "title": "大手仮想通貨取引所OKX、シンガポールで決済ライセンス取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/singapore_sunrise1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/singapore_sunrise1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=554347",
           "author": "CoinPost編集部",
@@ -693,36 +698,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/sbi-holdings_20200430.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/sbi-holdings_20200430.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=554800",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨現物ETFの課題大型Web3カンファレンス「WebX」では29日、ETF（上場投資信託）と資産トークン化に関するディスカッションが開催された。登壇したのは以下のメンバー。KatherineDowling（キャサリン・ダウリング）氏：...",
-          "link": "https://coinpost.jp/?p=554800",
-          "publishedOn": "2024-08-29T10:00:45.000Z",
-          "wordCount": 2437,
-          "title": "ビットワイズが語る：ビットコイン現物ETF承認の壁　WebX2024",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/bitwise-DIGIft-etf.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/bitwise-DIGIft-etf.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=554971",
-          "author": "CoinPost編集部",
-          "description": "WebX代表理事でCoinPostの青木誠は、第3回となる国際カンファレンス「WebX2025」の東京と大阪の開催を発表した。スポンサーとチケット販売の先行受付を開始する。",
-          "link": "https://coinpost.jp/?p=554971",
-          "publishedOn": "2024-08-29T09:39:13.000Z",
-          "wordCount": 2388,
-          "title": "WebX2025、東京（メイン）と大阪（招待制）で同時期開催決定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/webx2025_osaka.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/webx2025_osaka.png"
         }
       ]
     },
@@ -950,16 +925,6 @@
           "wordCount": 786,
           "title": "EVM互換の国産ブロックチェーン「Japan Open Chain」、バリデータにCAC参画",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/08/29193115/91ec038a7e2465dc64accced0df5b70d.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=413332",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/413332",
-          "publishedOn": "2024-08-29T10:24:46.000Z",
-          "wordCount": 772,
-          "title": "【8/29話題】オープンシーが米SECから「NFTは証券」としてウェルズ通知、GMOあおぞら発行DCJPYをIIJが決済取引開始など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/08/29191728/news_head_20240829.jpg"
         }
       ]
     }
