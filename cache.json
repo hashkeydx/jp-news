@@ -415,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=555660",
+          "author": "幸田直子",
+          "description": "WebX2024で語られたGame-Fi（Web3ゲーム）の最新動向。STEPN、メイプルストーリー、The Sandboxの代表者が、エコシステムにおけるコミュニティの重要性、クリエーター報酬、ユーザーオンボーディング、マルチプラットフォーム展開などについて語った。",
+          "link": "https://coinpost.jp/?p=555660",
+          "publishedOn": "2024-09-03T05:58:04.000Z",
+          "wordCount": 2394,
+          "title": "Web2オンラインゲームとWeb3ゲームの大御所が語る、業界の課題点とイノベーションの展望｜WebX2024",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/gamefi_webx1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/gamefi_webx1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=555765",
           "author": "A.Yamada",
           "description": "米SECがFTXの破産処理で仮想通貨による元ユーザーらへの返済に警告。ステーブルコインでの返済に異議を唱える可能性に、業界から批判の声も。",
@@ -796,6 +811,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=414466",
+          "author": "gentosha_takahashi",
+          "description": "SECがチャプター11に権利保留を執行 米証券取引委員会（SEC）が、破産した暗号資産（仮想通貨）取引所FTXの破産計画の一部に変更を求める可能性が出てきた。8月30日付けの裁判所への提出書類にて明らかとなった。 提出書 […]",
+          "link": "https://www.neweconomy.jp/posts/414466",
+          "publishedOn": "2024-09-03T06:09:03.000Z",
+          "wordCount": 751,
+          "title": "米SECがFTXに警告、債権者の返済にステーブルコインなどの暗号資産を使わないよう求める",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/09/03150848/069912b866e741b692b0d5bcab854214.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=414395",
           "author": "OtsugaShinya",
