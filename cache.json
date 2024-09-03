@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=555765",
+          "author": "A.Yamada",
+          "description": "米SECがFTXの破産処理で仮想通貨による元ユーザーらへの返済に警告。ステーブルコインでの返済に異議を唱える可能性に、業界から批判の声も。",
+          "link": "https://coinpost.jp/?p=555765",
+          "publishedOn": "2024-09-03T02:15:40.000Z",
+          "wordCount": 2347,
+          "title": "米SEC、FTXを牽制　仮想通貨ステーブルコインでの巨額返済に異議か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/sec-new-virtual-meetup.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/sec-new-virtual-meetup.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=555757",
           "author": "A.Yamada",
           "description": "CoinSharesの週次レポートによると、ビットコインETFなど仮想通貨投資商品から500億円超の資金が流出。投資家心理の悪化が示唆された。",
@@ -771,6 +786,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=414347",
+          "author": "OtsugaShinya",
+          "description": "OKX SGがシンガポールのMPIライセンス取得 海外大手暗号資産（仮想通貨）取引所OKX（オーケーエックス）のシンガポール法人OKX SGが、シンガポール金融管理局（MAS）から主要決済機関（MPI）ライセンスを正式に […]",
+          "link": "https://www.neweconomy.jp/posts/414347",
+          "publishedOn": "2024-09-03T02:36:59.000Z",
+          "wordCount": 806,
+          "title": "OKX、シンガポールの主要決済機関（MPI）ライセンス取得",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/09/03113652/17a2404e9ddfddaa4cc46e8b089fac7f.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=414118",
           "author": "NewEconomy",
