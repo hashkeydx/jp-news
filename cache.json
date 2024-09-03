@@ -415,6 +415,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=555638",
+          "author": "A.Yamada",
+          "description": "現実資産（RWA）トークン化がもたらす革新を語るWebXセッション。メルカリ、プログマ、デジタルアセットマーケッツらが現在取り組んでいるプロジェクトを発表した。",
+          "link": "https://coinpost.jp/?p=555638",
+          "publishedOn": "2024-09-03T06:37:53.000Z",
+          "wordCount": 2361,
+          "title": "RWAによる流動性革命　物のトークン化で何が変わる？｜WebX2024",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/webx_RWA.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/webx_RWA.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=555660",
           "author": "幸田直子",
           "description": "WebX2024で語られたGame-Fi（Web3ゲーム）の最新動向。STEPN、メイプルストーリー、The Sandboxの代表者が、エコシステムにおけるコミュニティの重要性、クリエーター報酬、ユーザーオンボーディング、マルチプラットフォーム展開などについて語った。",
@@ -811,6 +826,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=414480",
+          "author": "OtsugaShinya",
+          "description": "TOKIがテストネットローンチ クロスチェーンブリッジ開発のTOKI（トキ）によるインセンティブテストネットのローンチが9月2日に発表された。クロスチェーンブリッジは、パブリックブロックチェーン間でクロスチェーン取引を可 […]",
+          "link": "https://www.neweconomy.jp/posts/414480",
+          "publishedOn": "2024-09-03T06:59:54.000Z",
+          "wordCount": 800,
+          "title": "TOKIがテストネットローンチ、イーサリアムとBNBチェーンをIBCで繋ぐ初の事例へ、貢献者にはエアドロも",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/09/03155947/1d491d2165bfff6b67274121323c5156.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=414466",
           "author": "gentosha_takahashi",
