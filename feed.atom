@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-05T10:31:37.962Z</updated>
+    <updated>2024-09-05T11:22:56.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Penpieで27Mドルの不正流出、Pendleは105Mドルの保護に成功]]></title>
+        <id>https://www.neweconomy.jp/?p=415201</id>
+        <link href="https://www.neweconomy.jp/posts/415201"/>
+        <updated>2024-09-05T10:41:39.000Z</updated>
+        <summary type="html"><![CDATA[Pendleが流出する恐れのあった1億500万ドルを保護 分散型金融（DeFi）プロトコル「ペンピー（Penpie）」にてエクスプロイトが9月3日に発生し、約38.8億円（約2700万ドル）相当の暗号資産（仮想通貨）が不 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CMEイーサリアム先物の取引高が減少──投資家はリスク回避でビットコインへ]]></title>
         <id>https://www.coindeskjapan.com/?p=249723</id>
@@ -1376,17 +1386,6 @@ DePINプロジェクト「Chirp」、ソラナではなくスイを選んだ理�
 暗号資産保有者、米大統領選でトランプ氏を支持する傾向が強い：大学調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Cheyenne Ligon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBI北尾氏がオアシスへの出資を発表／テレグラムCEO逮捕でTON下落【Weekly Review：8/24〜8/30】]]></title>
-        <id>https://www.coindeskjapan.com/?p=248791</id>
-        <link href="https://www.coindeskjapan.com/248791/"/>
-        <updated>2024-08-31T22:50:00.000Z</updated>
-        <summary type="html"><![CDATA[今週の注目！ Web3カンファレンス「WebX」が開催された今週、注目の発表が続きました。SBI北尾氏はWebXに登壇し、SBIグループのさまざま取り組みを紹介 ...
-SBI北尾氏がオアシスへの出資を発表／テレグラムCEO逮捕でTON下落【Weekly Review：8/24〜8/30】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
