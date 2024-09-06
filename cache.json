@@ -730,10 +730,25 @@
       "articles": []
     },
     {
-      "title": "Augur(REP)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=556658",
+          "author": "AKIRA.H",
+          "description": "ビットバンクは、ポリゴン（MATIC）から新トークン「ポリゴンエコシステムトークン（POL）」への移行を完了し、POLの現物取引を開始。トークンの特徴と取引方法について解説。",
+          "link": "https://coinpost.jp/?p=556658",
+          "publishedOn": "2024-09-06T07:26:28.000Z",
+          "wordCount": 2317,
+          "title": "ビットバンク、ポリゴンエコシステムトークン（POL）の取扱いを開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/POL_0908.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/POL_0908.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=556609",
           "author": "幸田直子",
@@ -1386,6 +1401,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=415555",
+          "author": "NewEconomy",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/415555",
+          "publishedOn": "2024-09-06T10:27:58.000Z",
+          "wordCount": 651,
+          "title": "【9/6話題】テレグラムCEOが逮捕後初の声明、トランプが米国を「暗号資産とBTCの世界的中心地」にすると宣言など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/09/06172427/news_head_20240906.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=415549",
           "author": "OtsugaShinya",
