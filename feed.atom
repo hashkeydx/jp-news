@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-10T08:31:15.190Z</updated>
+    <updated>2024-09-10T09:28:27.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン現物ETF、記録的な連敗の後に2870万ドルの流入]]></title>
+        <id>https://www.coindeskjapan.com/?p=250408</id>
+        <link href="https://www.coindeskjapan.com/250408/"/>
+        <updated>2024-09-10T09:05:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカで上場しているビットコイン（BTC）現物ETF（上場投資信託）は、9月9日に2870万ドル（約41億6150万円、1ドル=145円換算）強の純流入を記録 ...
+ビットコイン現物ETF、記録的な連敗の後に2870万ドルの流入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタプラネット社、ビットコイン保有量を398 BTCに拡大]]></title>
+        <id>https://coinpost.jp/?p=557510</id>
+        <link href="https://coinpost.jp/?p=557510"/>
+        <updated>2024-09-10T08:50:13.000Z</updated>
+        <summary type="html"><![CDATA[東証上場のメタプラネット社がビットコインを3億円追加購入し、保有量が398.832BTCに。ホテル事業からの転換と今後の成長戦略、業界動向を解説。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルシーの米選挙予測市場、早くとも13日金曜日まで延期]]></title>
+        <id>https://www.coindeskjapan.com/?p=250407</id>
+        <link href="https://www.coindeskjapan.com/250407/"/>
+        <updated>2024-09-10T08:32:01.000Z</updated>
+        <summary type="html"><![CDATA[カルシー（Kalshi）は、規制当局に対する裁判での勝利の栄光に浸っているかもしれないが、来たる米国選挙に関する長年求めてきた予測市場を上場させるには、少なくと ...
+カルシーの米選挙予測市場、早くとも13日金曜日まで延期 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインETFは40億円の資金純流入を記録、8日連続の純流出も一服]]></title>
+        <id>https://coinpost.jp/?p=557504</id>
+        <link href="https://coinpost.jp/?p=557504"/>
+        <updated>2024-09-10T08:31:18.000Z</updated>
+        <summary type="html"><![CDATA[米国市場でビットコイン現物ETFへの資金流入が2870万ドルに達し、フィデリティとビットワイズが資金を集めている。機関投資家の動きとETF市場の最新動向を解説。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ前大統領とイーロン・マスク氏の動向　ドージコイン投資家に波紋を広げる]]></title>
         <id>https://coinpost.jp/?p=557489</id>
@@ -1097,27 +1139,6 @@ DePINプロジェクトがSuiを選んだ理由／債券トークン市場が急
         <updated>2024-09-05T21:30:00.000Z</updated>
         <summary type="html"><![CDATA[ブロックストリーム・マイニング（Blockstream Mining）は、ハッシュレートに裏付けられたトークン化債券について3回目の投資ラウンドを開始すると発表 ...
 ブロックストリーム・マイニング、3回目となるトークン化した債券の販売を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社のガーリングハウスCEOが来日、平議員と意見交換]]></title>
-        <id>https://coinpost.jp/?p=556495</id>
-        <link href="https://coinpost.jp/?p=556495"/>
-        <updated>2024-09-05T21:15:36.000Z</updated>
-        <summary type="html"><![CDATA[米リップル社のブラッド・ガーリングハウスCEOは今週来日し、自由民主党web3プロジェクトチーム座長の平将明議員と面会した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル資産を守る堅牢なシステムを構築するには]]></title>
-        <id>https://www.coindeskjapan.com/?p=249556</id>
-        <link href="https://www.coindeskjapan.com/249556/"/>
-        <updated>2024-09-05T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブリッシュ（Bullish）のカストディ・エンジニアリング・ディレクターであるモハメド・ナウマン（ Mohammad Nauman）氏が、プライベートブロックチ ...
-デジタル資産を守る堅牢なシステムを構築するには first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
         </author>
