@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-10T20:27:19.061Z</updated>
+    <updated>2024-09-10T21:24:50.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨決済簡素化へ、米PaypalとVenmoがイーサリアムのENSを導入]]></title>
+        <id>https://coinpost.jp/?p=557666</id>
+        <link href="https://coinpost.jp/?p=557666"/>
+        <updated>2024-09-10T21:15:55.000Z</updated>
+        <summary type="html"><![CDATA[米決済大手米Paypal（ペイパル）と傘下のVenmo（ヴェンモ）はイーサリアムのネームサービスENSを決済サービスに導入した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世論調査の結果にも賭ける予測市場ポリマーケット、ハリス氏初の討論会に注目]]></title>
+        <id>https://www.coindeskjapan.com/?p=250461</id>
+        <link href="https://www.coindeskjapan.com/250461/"/>
+        <updated>2024-09-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2回目の米大統領選討論会、そして民主党候補カマラ・ハリス氏にとっては初の討論会が現地時間9月10日にABCで放送される。 Polymarket（以下、ポリマーケ ...
+世論調査の結果にも賭ける予測市場ポリマーケット、ハリス氏初の討論会に注目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[いくつかの逆風にもかかわらず、暗号資産の普及は安定している：ジェミナイが調査報告]]></title>
         <id>https://www.coindeskjapan.com/?p=250474</id>
@@ -883,17 +904,6 @@ DePINプロジェクトがSuiを選んだ理由／債券トークン市場が急
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム現物ETFのデビュー以降、ETHの流動性は20%低下]]></title>
-        <id>https://www.coindeskjapan.com/?p=249914</id>
-        <link href="https://www.coindeskjapan.com/249914/"/>
-        <updated>2024-09-06T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ETF（上場投資信託）は市場の流動性を確実に高め、大口の買い注文や売り注文を安定した価格で執行しやすくする。これは、アメリカでビットコイン現物ETFが承認される ...
-イーサリアム現物ETFのデビュー以降、ETHの流動性は20%低下 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
