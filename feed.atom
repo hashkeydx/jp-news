@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-13T06:34:45.681Z</updated>
+    <updated>2024-09-13T07:25:25.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国内ライトニングネットワーク企業Nayuta、事業終了へ]]></title>
+        <id>https://www.neweconomy.jp/?p=417563</id>
+        <link href="https://www.neweconomy.jp/posts/417563"/>
+        <updated>2024-09-13T06:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Nayutaが事業終了へ 国内を拠点にビットコイン（Bitcoin）の「Lightning Network（ライトニングネットワーク）」関連の開発を行うNayuta（ナユタ）が、事業終了することを9月13日発表した。 発 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイニングはかつてないほど困難に──BTC価格への影響とは]]></title>
+        <id>https://www.coindeskjapan.com/?p=251122</id>
+        <link href="https://www.coindeskjapan.com/251122/"/>
+        <updated>2024-09-13T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[新たなビットコイン（BTC）を生み出すのに必要な計算能力が過去最高に急上昇し、マイナーにとって問題を引き起こし、価格に影響を与える可能性がある。 マイニング（採 ...
+ビットコインマイニングはかつてないほど困難に──BTC価格への影響とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、ラップドビットコイン「cbBTC」をBaseとEthereum上に展開]]></title>
         <id>https://www.neweconomy.jp/?p=417455</id>
