@@ -785,6 +785,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=558325",
+          "author": "A.Yamada",
+          "description": "SWIFTがトークン化資産と法定通貨の相互運用性を高めるソリューションを開発中。CBDCやステーブルコインも利用予定。",
+          "link": "https://coinpost.jp/?p=558325",
+          "publishedOn": "2024-09-13T04:40:24.000Z",
+          "wordCount": 2345,
+          "title": "SWIFT、現実資産（RWA）トークン化分野で新たなソリューションを開発",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/swift0909-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/swift0909-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=558308",
           "author": "A.Yamada",
           "description": "eToroがSECと和解し、2億円の罰金支払いに同意。米国顧客向け仮想通貨取引をビットコインなど3銘柄に限定へ。",
@@ -1451,6 +1466,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=417542",
+          "author": "gentosha_takahashi",
+          "description": "銀行に対しデジタルルーブルに対応義務化へ ロシア国内の大手銀行は、ユーザー対し中央銀行デジタル通貨（CBDC）「デジタル・ルーブル」での取引を2025年7月1日までに提供しなくてはならないようだ。ロシア連邦中央銀行が関連 […]",
+          "link": "https://www.neweconomy.jp/posts/417542",
+          "publishedOn": "2024-09-13T05:19:39.000Z",
+          "wordCount": 587,
+          "title": "ロシア、来年7月までに「CBDC」普及目指す計画。中銀が発表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/09/13141932/7093f2039558891dd01347f29d23a6dc.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=417509",
           "author": "OtsugaShinya",
