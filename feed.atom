@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-16T04:31:21.484Z</updated>
+    <updated>2024-09-16T05:31:39.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム次期アップグレード「Pectra」、2段階の実施案が浮上]]></title>
+        <id>https://coinpost.jp/?p=558824</id>
+        <link href="https://coinpost.jp/?p=558824"/>
+        <updated>2024-09-16T05:23:58.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの次期アップグレード「Pectra」を2段階で実施する可能性を開発者会議が検討中。Pectraの内容も解説。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米サークルとソニー・ブロック・ソリューションズ・ラボが提携──ソニュームでUSDCが利用可能に]]></title>
+        <id>https://www.coindeskjapan.com/?p=251448</id>
+        <link href="https://www.coindeskjapan.com/251448/"/>
+        <updated>2024-09-16T04:51:19.000Z</updated>
+        <summary type="html"><![CDATA[ソニーが手がけるイーサリアム（Ethereum）レイヤー2ネットワーク「ソニューム（Soneium）」でステーブルコイン「USDコイン（USDC）」が利用できる ...
+米サークルとソニー・ブロック・ソリューションズ・ラボが提携──ソニュームでUSDCが利用可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化の複雑さにおける仲介者の役割、彼らは必要悪か]]></title>
         <id>https://www.coindeskjapan.com/?p=250789</id>
@@ -1041,17 +1062,6 @@ CD20は2.1％下落、上昇は2銘柄のみ：CoinDesk 20 パフォーマンス
 ビットコインマイニングは8月に収益性低下も、業務効率は改善：ジェフリーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインが5万6000ドルを下回る──米株式市場も弱い]]></title>
-        <id>https://www.coindeskjapan.com/?p=250779</id>
-        <link href="https://www.coindeskjapan.com/250779/"/>
-        <updated>2024-09-11T16:37:23.000Z</updated>
-        <summary type="html"><![CDATA[11日の米国取引時間の序盤に、暗号資産（仮想通貨）は再び売られ、ビットコイン（BTC）は5万6000ドル（約784万円、1ドル140円換算）を下回った。 ビット ...
-ビットコインが5万6000ドルを下回る──米株式市場も弱い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
