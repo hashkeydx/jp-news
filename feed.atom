@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-17T08:32:08.551Z</updated>
+    <updated>2024-09-17T09:27:41.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エルサルバドル、2025年予算で対外債務ゼロへ　ビットコイン戦略も奏功か]]></title>
+        <id>https://coinpost.jp/?p=558994</id>
+        <link href="https://coinpost.jp/?p=558994"/>
+        <updated>2024-09-17T08:47:58.000Z</updated>
+        <summary type="html"><![CDATA[エルサルバドルが2025年予算で対外債務なしを発表した。仮想通貨ビットコインへの投資戦略が奏功か。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、5万9000ドルに迫る──先物市場はFRBの大幅利下げの可能性が67%と予想]]></title>
         <id>https://www.coindeskjapan.com/?p=251622</id>
@@ -904,16 +914,6 @@ XRP、NEARが上昇をリード：CoinDesk 20 パフォーマンスアップデ�
 アメリカの消費者は、暗号資産は定着するがステーブルコインはそうではないと考えている：ドイツ銀行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨XRP投資信託、グレースケールが再開　価格急上昇]]></title>
-        <id>https://coinpost.jp/?p=558263</id>
-        <link href="https://coinpost.jp/?p=558263"/>
-        <updated>2024-09-12T21:15:18.000Z</updated>
-        <summary type="html"><![CDATA[米資産運用会社グレースケールは12日、新たに暗号資産（仮想通貨）XRPを対象とした投資信託「グレースケール・XRP・トラスト」の販売を発表した。この発表を受けて、XRPは一時前日比+7%上昇していた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
