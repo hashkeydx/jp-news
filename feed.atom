@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-17T20:27:52.084Z</updated>
+    <updated>2024-09-17T21:24:52.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ氏のDeFiプロジェクト、WLFIトークン販売計画]]></title>
+        <id>https://coinpost.jp/?p=559254</id>
+        <link href="https://coinpost.jp/?p=559254"/>
+        <updated>2024-09-17T21:20:40.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ前米大統領らが関わる仮想通貨プロジェクト「ワールド・リバティ・ファイナンシャル」について、WLFIトークンの販売計画が明かされた。トークンの販売予定日はまだ明確ではない。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH/BTCレシオが2021年4月以来の低水準まで低下、その重要な意味とは]]></title>
+        <id>https://www.coindeskjapan.com/?p=251626</id>
+        <link href="https://www.coindeskjapan.com/251626/"/>
+        <updated>2024-09-17T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）のビットコイン（BTC）に対する相対的な強さを追跡するETH/BTCレシオは、2021年4月以来の低水準まで下落しており、イーサリアムに対 ...
+ETH/BTCレシオが2021年4月以来の低水準まで低下、その重要な意味とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グルメアプリSARAH、World ID連携を全ユーザーに拡大]]></title>
         <id>https://www.coindeskjapan.com/?p=251632</id>
@@ -687,16 +708,6 @@ SBINFT、NFTの海外公演チケット化を発表──韓国ミュージカ�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリックがL2の分散化に圧力、ステージ1定義未達は来年以降認められず]]></title>
-        <id>https://www.neweconomy.jp/?p=417626</id>
-        <link href="https://www.neweconomy.jp/posts/417626"/>
-        <updated>2024-09-13T08:56:44.000Z</updated>
-        <summary type="html"><![CDATA[ヴィタリックがL2ネットワークの分散化に圧力 イーサリアム（Ethereum）の共同創業者ヴィタリック・ブテリン（Vitalik Buterin）氏によるイーサリアムのレイヤー2ネットワークについて言及したXでの投稿が、 […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
