@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-20T21:24:41.392Z</updated>
+    <updated>2024-09-20T22:30:33.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ「ファイアダンサー」、初期版がメインネットにローンチ｜Breakpoint 2024]]></title>
+        <id>https://coinpost.jp/?p=560054</id>
+        <link href="https://coinpost.jp/?p=560054"/>
+        <updated>2024-09-20T22:25:34.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナのバリデータ・クライアント「ファイアダンサー」の最初のバージョン「フランケンダンサー」がメインネットにローンチ。開発を主導するJumpの最高科学責任者がBreakpointで発表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、ブラックロック提供のビットコインETFのオプション取引を許可]]></title>
+        <id>https://coinpost.jp/?p=560044</id>
+        <link href="https://coinpost.jp/?p=560044"/>
+        <updated>2024-09-20T21:52:11.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）は20日、金融大手ブラックロックによるビットコイン現物ETFのオプション取引の上場申請を承認した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米マイクロストラテジー、660億円相当のビットコインを買い増し]]></title>
+        <id>https://coinpost.jp/?p=560025</id>
+        <link href="https://coinpost.jp/?p=560025"/>
+        <updated>2024-09-20T21:30:07.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロストラテジーは20日に仮想通貨ビットコイン（BTC）をさらに追加購入したことを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワールドコイン、「World ID」認証ユーザーのみが利用できる顔認証技術「Face Auth」発表]]></title>
         <id>https://www.neweconomy.jp/?p=419422</id>
