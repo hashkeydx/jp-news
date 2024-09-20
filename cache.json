@@ -760,10 +760,25 @@
       "articles": []
     },
     {
-      "title": "BitcoinCash(BCH)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=559823",
+          "author": "幸田直子",
+          "description": "米ナスダック上場の仮想通貨マイニング企業Hut 8は、ビットメイン社と提携して開発したビットコイン（BTC）の次世代ASICマイナー「U3S21EXPH」の発売を発表した。",
+          "link": "https://coinpost.jp/?p=559823",
+          "publishedOn": "2024-09-20T05:56:16.000Z",
+          "wordCount": 2394,
+          "title": "米マイニング企業Hut8とBitmainが提携強化、次世代ASICマシン販売へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/asic_0412.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/asic_0412.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=559766",
           "author": "A.Yamada",
