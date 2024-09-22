@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-22T08:30:02.801Z</updated>
+    <updated>2024-09-22T09:25:30.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ財団幹部が語る、エコシステムの現状や今後のビジョン｜WebX2024インタビュー]]></title>
+        <id>https://coinpost.jp/?p=558319</id>
+        <link href="https://coinpost.jp/?p=558319"/>
+        <updated>2024-09-22T09:00:48.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ財団幹部のダニエル・アルバート氏をCoinPostが独自取材。仮想通貨ソラナのエコシステムの現状、ソラナスマホの普及、今後のビジョンなどについて質問した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインと金、通貨の価値下落を察知か──記録的高値に迫る]]></title>
         <id>https://www.coindeskjapan.com/?p=252726</id>
@@ -1478,27 +1488,6 @@ DEX大手のdYdX、予測市場に参入 first appeared on CoinDesk JAPAN（コ�
 ヒマラヤの小国ブータン、7億8000万ドル以上のビットコインを保有 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏のDeFiプロジェクト、WLFIトークン販売計画]]></title>
-        <id>https://coinpost.jp/?p=559254</id>
-        <link href="https://coinpost.jp/?p=559254"/>
-        <updated>2024-09-17T21:20:40.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ前米大統領らが関わる仮想通貨プロジェクト「ワールド・リバティ・ファイナンシャル」について、WLFIトークンの販売計画が明かされた。トークンの販売予定日はまだ明確ではない。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH/BTCレシオが2021年4月以来の低水準まで低下、その重要な意味とは]]></title>
-        <id>https://www.coindeskjapan.com/?p=251626</id>
-        <link href="https://www.coindeskjapan.com/251626/"/>
-        <updated>2024-09-17T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）のビットコイン（BTC）に対する相対的な強さを追跡するETH/BTCレシオは、2021年4月以来の低水準まで下落しており、イーサリアムに対 ...
-ETH/BTCレシオが2021年4月以来の低水準まで低下、その重要な意味とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
