@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=560651",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）相場ではビットコイン（BTC）が65000ドルのレジスタンスラインで売り優勢に。前週比ではアルトコインが強気に買われ、ビットコインをアウトパフォームした。",
+          "link": "https://coinpost.jp/?p=560651",
+          "publishedOn": "2024-09-24T03:28:39.000Z",
+          "wordCount": 2559,
+          "title": "ビットコイン上昇一服、機関投資家の先週の資金フローは3億2100万ドルの純流入に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoindollar040221.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/bitcoindollar040221.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=560623",
           "author": "K.Kobayashi",
           "description": "モジュラー型ブロックチェーンのCelestiaは、約143億円の資金を調達したことを発表。これからVisaを超えるネットワークの構築を目指すと説明している。",
@@ -801,6 +816,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=419821",
+          "author": "NewEconomy",
+          "description": "セキュリタイズとワームホールが提携 デジタル資産発行プラットフォーム運営のセキュリタイズ（Securitize）が、クロスチェーンプロトコル「ワームホール（Wormhole）」を管理するワームホール財団（Wormhole […]",
+          "link": "https://www.neweconomy.jp/posts/419821",
+          "publishedOn": "2024-09-24T03:23:42.000Z",
+          "wordCount": 613,
+          "title": "セキュリタイズ、公式ブロックチェーン相互運用性プロバイダーにワームホールを採用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/09/24122336/351d8c887a63e25777fcf2b7113cf4ee.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=419820",
+          "author": "OtsugaShinya",
+          "description": "旭化成TISが「Akliteia」を美術品の真贋鑑定に活用開始 旭化成とTIS共同構築の偽造防止デジタルプラットフォーム「Akliteia（アクリティア）」が、美術品の真贋鑑定へ活用開始されたことが、9月24日発表された […]",
+          "link": "https://www.neweconomy.jp/posts/419820",
+          "publishedOn": "2024-09-24T02:57:15.000Z",
+          "wordCount": 749,
+          "title": "旭化成TIS、Corda活用の偽造防止デジタルプラットフォーム「Akliteia」を美術品の真贋鑑定に活用開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/09/24115636/36ec8fb91b499fafe4e1169f3518c1b0.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=419695",
           "author": "HitomotoToshikazu",

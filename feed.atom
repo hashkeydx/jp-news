@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-24T02:55:59.486Z</updated>
+    <updated>2024-09-24T03:32:46.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン上昇一服、機関投資家の先週の資金フローは3億2100万ドルの純流入に]]></title>
+        <id>https://coinpost.jp/?p=560651</id>
+        <link href="https://coinpost.jp/?p=560651"/>
+        <updated>2024-09-24T03:28:39.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）相場ではビットコイン（BTC）が65000ドルのレジスタンスラインで売り優勢に。前週比ではアルトコインが強気に買われ、ビットコインをアウトパフォームした。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュリタイズ、公式ブロックチェーン相互運用性プロバイダーにワームホールを採用]]></title>
+        <id>https://www.neweconomy.jp/?p=419821</id>
+        <link href="https://www.neweconomy.jp/posts/419821"/>
+        <updated>2024-09-24T03:23:42.000Z</updated>
+        <summary type="html"><![CDATA[セキュリタイズとワームホールが提携 デジタル資産発行プラットフォーム運営のセキュリタイズ（Securitize）が、クロスチェーンプロトコル「ワームホール（Wormhole）」を管理するワームホール財団（Wormhole […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旭化成TIS、Corda活用の偽造防止デジタルプラットフォーム「Akliteia」を美術品の真贋鑑定に活用開始]]></title>
+        <id>https://www.neweconomy.jp/?p=419820</id>
+        <link href="https://www.neweconomy.jp/posts/419820"/>
+        <updated>2024-09-24T02:57:15.000Z</updated>
+        <summary type="html"><![CDATA[旭化成TISが「Akliteia」を美術品の真贋鑑定に活用開始 旭化成とTIS共同構築の偽造防止デジタルプラットフォーム「Akliteia（アクリティア）」が、美術品の真贋鑑定へ活用開始されたことが、9月24日発表された […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベースがラップドビットコイン「cbBTC」をソラナで展開へ、イーサリアムとベースに続き]]></title>
         <id>https://www.neweconomy.jp/?p=419695</id>
