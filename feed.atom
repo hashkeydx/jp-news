@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-25T12:51:04.593Z</updated>
+    <updated>2024-09-25T13:33:20.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テレグラム、CEOの逮捕後にプライバシー条項に大幅な変更──当局と共有されるユーザーデータが拡大]]></title>
+        <id>https://www.coindeskjapan.com/?p=253293</id>
+        <link href="https://www.coindeskjapan.com/253293/"/>
+        <updated>2024-09-25T13:17:01.000Z</updated>
+        <summary type="html"><![CDATA[メッセージアプリのテレグラム（Telegram）が利用規約に大幅な変更を加えた。パベル・ドゥロフ（Pavel Durov）CEOが23日にアプリ上の投稿で明らか ...
+テレグラム、CEOの逮捕後にプライバシー条項に大幅な変更──当局と共有されるユーザーデータが拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デジタル資産ファンド、2週連続で資金流入：コインシェアーズ]]></title>
         <id>https://www.coindeskjapan.com/?p=253284</id>
@@ -927,27 +938,6 @@ LINE BITMAX、PayPayマネー連携で購入金額約4倍に──サービス5�
         <summary type="html"><![CDATA[いちごオーナーズ株式会社は、デジタル不動産事業の一環として「いちご・レジデンス・トークン」第5号の販売を開始した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ、2代目暗号資産スマホ「Seeker」の詳細発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=252195</id>
-        <link href="https://www.coindeskjapan.com/252195/"/>
-        <updated>2024-09-21T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[シンガポールで開催されたトークン2049（Token2049）で9月19日、ソラナラボ（Solana Labs）傘下で携帯電話の設計を手がけるソラナモバイル（S ...
-ソラナ、2代目暗号資産スマホ「Seeker」の詳細発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米大統領選ハリス氏勝利で「ビットコインに限り」強気か＝レポート]]></title>
-        <id>https://coinpost.jp/?p=560151</id>
-        <link href="https://coinpost.jp/?p=560151"/>
-        <updated>2024-09-21T00:55:51.000Z</updated>
-        <summary type="html"><![CDATA[米大統領選の結果が仮想通貨市場に与える影響をVanEckが分析。ハリス氏勝利はビットコインに限って有利との見方も。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
