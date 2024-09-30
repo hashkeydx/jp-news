@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-30T03:38:35.501Z</updated>
+    <updated>2024-09-30T04:32:37.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DEX「dYdX」、暗号資産ウォレット「Phantom」対応]]></title>
+        <id>https://www.neweconomy.jp/?p=421247</id>
+        <link href="https://www.neweconomy.jp/posts/421247"/>
+        <updated>2024-09-30T03:25:34.000Z</updated>
+        <summary type="html"><![CDATA[dYdXがPhantomに対応 DEX（分散型取引所）「dYdX」が、ソラナ（Solana）ブロックチェーン対応の暗号資産（仮想通貨）ウォレット「ファントム（Phantom）」と統合したことを9月26日発表した。 これに […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ上のDeFi「マンゴー・マーケッツ」がSECと和解へ、MNGOトークン破棄に合意]]></title>
+        <id>https://www.neweconomy.jp/?p=421253</id>
+        <link href="https://www.neweconomy.jp/posts/421253"/>
+        <updated>2024-09-30T03:24:17.000Z</updated>
+        <summary type="html"><![CDATA[罰金支払いとガバナンストークン破棄に合意 米証券取引委員会（SEC）が、「マンゴー・ダオ（Mango DAO）」、「マンゴー・ラボ（Mango Labs）」、「ブロックワークス財団（Blockworks Foundati […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン上昇の背景を10x Researchが解説、シバイヌ（SHIB）は前週比30%超に]]></title>
         <id>https://coinpost.jp/?p=562197</id>
