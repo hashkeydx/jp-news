@@ -490,16 +490,6 @@
           "wordCount": 1302,
           "title": "20銘柄中、19銘柄が上昇：CoinDesk 20 パフォーマンスアップデート",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/09/W53TLGMGSVFXBM44YMXODYURRY.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=253220",
-          "author": "Shaurya Malwa",
-          "description": "イーサリアムETF23日に7900万ドル（約114億円、1ドル144円換算）超の純流出を記録、7月以来最大の流出額となった。イーサリアムに対する機関投資家の需要 ...\nイーサリアムETF、7月以来最大の流出額は機関投資家需要の低さを反映 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/253220/",
-          "publishedOn": "2024-09-25T21:00:00.000Z",
-          "wordCount": 1328,
-          "title": "イーサリアムETF、7月以来最大の流出額は機関投資家需要の低さを反映",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/09/shutterstock_2480840709.jpg"
         }
       ]
     },
@@ -514,6 +504,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=562258",
+          "author": "AKIRA.H",
+          "description": "台湾金融監督管理委員会が、証券会社を通じたプロ投資家向けの海外仮想資産ETF投資を解禁。厳格な適合性制度と投資家保護措置を義務付け、仮想資産市場の健全な発展を目指す。",
+          "link": "https://coinpost.jp/?p=562258",
+          "publishedOn": "2024-09-30T08:52:40.000Z",
+          "wordCount": 2340,
+          "title": "台湾、証券会社仲介の海外仮想通貨ETF投資を許可　プロ投資家限定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/01/etf-thursday-.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=562212",
           "author": "A.Yamada",
@@ -933,21 +938,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/visa-tokenized-fiat-bank-eth.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/visa-tokenized-fiat-bank-eth.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=561331",
-          "author": "菊谷ルイス",
-          "description": "米決済大手のペイパルは26日、米国の法人顧客が暗号資産（仮想通貨）を売買、保有、送金できるようにする計画を発表した。",
-          "link": "https://coinpost.jp/?p=561331",
-          "publishedOn": "2024-09-25T21:15:03.000Z",
-          "wordCount": 2289,
-          "title": "ペイパル、法人アカウントで仮想通貨の売買と送金を可能に　米国で",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/paypalcrypto1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/paypalcrypto1.png"
         }
       ]
     },
@@ -956,6 +946,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=421385",
+          "author": "NewEconomy",
+          "description": "香港で初の英国法に基づくデジタル債券 英ロンドンに本社を置く大手銀行HSBCが、分散型台帳技術（DLT）を使用し、香港ドル建てのシニア無担保固定金利デジタル債券を香港で発行したと、中国メディア「智通财经」が9月26日報じ […]",
+          "link": "https://www.neweconomy.jp/posts/421385",
+          "publishedOn": "2024-09-30T09:02:01.000Z",
+          "wordCount": 738,
+          "title": "HSBC、トークン化プラットフォーム「Orion」上で約183億円のデジタル債券を発行＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/09/30180058/53e564984aeef7a119a020018b95a3c6.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=421364",
           "author": "HitomotoToshikazu",
