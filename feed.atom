@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-09-30T21:26:06.862Z</updated>
+    <updated>2024-09-30T22:29:48.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sui、分散型ストレージ「Walrus」発表　仮想通貨WAL導入予定も]]></title>
+        <id>https://coinpost.jp/?p=562452</id>
+        <link href="https://coinpost.jp/?p=562452"/>
+        <updated>2024-09-30T21:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Suiブロックチェーンのコア開発を担うミステンラボは、シンガポールで開催されたSui Builder Houseイベントにおいて、分散型ストレージおよびデータ可用性プロトコル「Walrus」を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ氏の仮想通貨プロジェクト「WLF」、本人確認手続きを開始]]></title>
         <id>https://coinpost.jp/?p=562450</id>
@@ -852,17 +862,6 @@ DMM Crypto、Play＆Earnゲーム続編を2025年リリース──100万ダウ�
 金融庁、DMM Bitcoinに業務改善命令──暗号資産流出、対応に「重大な問題」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの韓国ディスカウントが2023年10月以来最大に]]></title>
-        <id>https://www.coindeskjapan.com/?p=253390</id>
-        <link href="https://www.coindeskjapan.com/253390/"/>
-        <updated>2024-09-26T09:47:08.000Z</updated>
-        <summary type="html"><![CDATA[韓国の取引所の暗号資産（仮想通貨）トレーダーは、最近のアメリカの利下げを受けてアナリストの強気な予測が出る中、ビットコイン（BTC）からアルトコインにシフトして ...
-ビットコインの韓国ディスカウントが2023年10月以来最大に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
