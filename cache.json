@@ -420,10 +420,40 @@
       "articles": []
     },
     {
-      "title": "ニュース  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=562790",
+          "author": "K.Kobayashi",
+          "description": "ビットコインなどの仮想通貨相場上昇の1つの目安となりうるステーブルコインの時価総額が今年最高額に。USDTは過去最高額になっていることなどをCryptoQuantが指摘している。",
+          "link": "https://coinpost.jp/?p=562790",
+          "publishedOn": "2024-10-02T02:41:13.000Z",
+          "wordCount": 2324,
+          "title": "仮想通貨相場上昇の燃料になるか　ステーブルコインの時価総額が今年最高額に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin2020a-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin2020a-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=562806",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨XRP（リップル）のETF（上場投資信託）を米国で申請する準備をBitwiseが進めていることがわかった。ビットコインETFやイーサリアムETFに次ぐ商品となるか注目される。",
+          "link": "https://coinpost.jp/?p=562806",
+          "publishedOn": "2024-10-02T02:31:08.000Z",
+          "wordCount": 2329,
+          "title": "仮想通貨XRPのETF、米国でBitwiseが申請へ＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/xrp-ripple-cto-cant-stop.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/xrp-ripple-cto-cant-stop.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=562535",
           "author": "AKIRA.H",
@@ -836,6 +866,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=421758",
+          "author": "OtsugaShinya",
+          "description": "プレイシンクの「NewLo」がアニモカJPと提携 国内Web3関連企業プレイシンク率いる「NewLo（ニューロー）」プロジェクトが、アニモカブランズジャパン（アニモカブランズジャパン）と提携したことが10月1日発表された […]",
+          "link": "https://www.neweconomy.jp/posts/421758",
+          "publishedOn": "2024-10-02T02:52:04.000Z",
+          "wordCount": 762,
+          "title": "プレイシンク率いるロイヤリティプログラム「NewLo」、アニモカJPと提携",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/02115154/7dde6dfad1b5b5c2a2a79fab223aab8d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=421741",
+          "author": "OtsugaShinya",
+          "description": "バイナンスジャパンがTON取り扱いへ 国内暗号資産（仮想通貨）取引所Binance Japan（バイナンスジャパン）が、暗号資産トンコイン（TON）の取扱予定を10月2日発表した。 なおTONの取り扱いは国内で4例目。現 […]",
+          "link": "https://www.neweconomy.jp/posts/421741",
+          "publishedOn": "2024-10-02T02:16:20.000Z",
+          "wordCount": 732,
+          "title": "バイナンスジャパンにトンコイン（TON）上場へ、国内4例目",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/02110335/92b668052e4f7b0efb76a2178210199b.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=421619",
           "author": "NewEconomy",
