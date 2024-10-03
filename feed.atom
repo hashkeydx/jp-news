@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-03T03:32:47.521Z</updated>
+    <updated>2024-10-03T04:33:29.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パレットチェーン、アプトスに完全移行へ　HashPaletteが子会社化予定]]></title>
+        <id>https://coinpost.jp/?p=563088</id>
+        <link href="https://coinpost.jp/?p=563088"/>
+        <updated>2024-10-03T04:10:14.000Z</updated>
+        <summary type="html"><![CDATA[アプトスがHashPaletteを子会社化する計画。パレットトークン（PLT）、大阪万博ウォレット、ゲームなどもアプトスチェーンに移行予定。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKJがパレットトークン（PLT）のアプトス（APT）引き換え全面サポート、ビットフライヤーは取扱い継続不可のリスク報告]]></title>
+        <id>https://www.neweconomy.jp/?p=422019</id>
+        <link href="https://www.neweconomy.jp/posts/422019"/>
+        <updated>2024-10-03T03:42:46.000Z</updated>
+        <summary type="html"><![CDATA[PLTのAPT引き換えについての取引所の反応 アプトスラボ（Aptos Labs）のハッシュパレット（HashPalette）買収による「パレットトークン（PLT）」の「アプトス（APT）」への引き換え発表を受け、国内暗 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのマイニング収益、3ヶ月連続で低下＝JPモルガン]]></title>
         <id>https://coinpost.jp/?p=563074</id>
