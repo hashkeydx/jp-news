@@ -535,6 +535,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=563079",
+          "author": "A.Yamada",
+          "description": "フランクリン・テンプルトンが、米国債MMFのトークン化ファンドFOBXXをアプトスに拡大。従来型金融とWeb3の融合を加速。",
+          "link": "https://coinpost.jp/?p=563079",
+          "publishedOn": "2024-10-03T05:00:28.000Z",
+          "wordCount": 2307,
+          "title": "フランクリン・テンプルトン、米国債トークン化ファンドFOBXXを「アプトス」に拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/aptos-unlock-november.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/09/aptos-unlock-november.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=563088",
           "author": "A.Yamada",
           "description": "アプトスがHashPaletteを子会社化する計画。パレットトークン（PLT）、大阪万博ウォレット、ゲームなどもアプトスチェーンに移行予定。",
@@ -1066,6 +1081,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=421845",
+          "author": "HitomotoToshikazu",
+          "description": "スイブリッジがメインネット稼働開始 レイヤー1ブロックチェーン「スイ（Sui）」が、トークンブリッジ機能「スイブリッジ（Sui Bridge）」のメインネット稼働開始を9月30日発表した。「スイブリッジ」のテストネットは […]",
+          "link": "https://www.neweconomy.jp/posts/421845",
+          "publishedOn": "2024-10-03T05:13:55.000Z",
+          "wordCount": 663,
+          "title": "スイ（SUI）、トークンブリッジ機能「Sui Bridge」のメインネット稼働開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/02170941/fbd1c67aa0c712d579c814d456f6b617.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=422019",
           "author": "OtsugaShinya",

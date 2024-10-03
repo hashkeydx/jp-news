@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-03T04:33:29.136Z</updated>
+    <updated>2024-10-03T05:30:39.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スイ（SUI）、トークンブリッジ機能「Sui Bridge」のメインネット稼働開始]]></title>
+        <id>https://www.neweconomy.jp/?p=421845</id>
+        <link href="https://www.neweconomy.jp/posts/421845"/>
+        <updated>2024-10-03T05:13:55.000Z</updated>
+        <summary type="html"><![CDATA[スイブリッジがメインネット稼働開始 レイヤー1ブロックチェーン「スイ（Sui）」が、トークンブリッジ機能「スイブリッジ（Sui Bridge）」のメインネット稼働開始を9月30日発表した。「スイブリッジ」のテストネットは […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランクリン・テンプルトン、米国債トークン化ファンドFOBXXを「アプトス」に拡大]]></title>
+        <id>https://coinpost.jp/?p=563079</id>
+        <link href="https://coinpost.jp/?p=563079"/>
+        <updated>2024-10-03T05:00:28.000Z</updated>
+        <summary type="html"><![CDATA[フランクリン・テンプルトンが、米国債MMFのトークン化ファンドFOBXXをアプトスに拡大。従来型金融とWeb3の融合を加速。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パレットチェーン、アプトスに完全移行へ　HashPaletteが子会社化予定]]></title>
         <id>https://coinpost.jp/?p=563088</id>
