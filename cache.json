@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=254968",
+          "author": "増田 隆幸",
+          "description": "国内5例のIEOのうち、2例を手がけたハッシュパレットの買収は、課題を打破するためにアプトスに助けを求めたと見ることもできるが、一方で、日本のWeb3ビジネス、 ...\nアプトスがハッシュパレット買収／日本の巨大産業からユースケースは生まれる：チャールズ・ホスキンソン氏インタビュー【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/254968/",
+          "publishedOn": "2024-10-04T23:00:00.000Z",
+          "wordCount": 1244,
+          "title": "アプトスがハッシュパレット買収／日本の巨大産業からユースケースは生まれる：チャールズ・ホスキンソン氏インタビュー【週末に読みたい厳選10本】",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/shutterstock_517447828.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=255023",
           "author": "林 理南",
           "description": "グレイスケールは3日、イーサリアムブロックチェーン上に構築された分散型レンディングプラットフォームであるアーベ（Aave）のトークン、アーベ（AAVE）に対する ...\nグレイスケール、アーベのファンドを立ち上げ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -610,16 +620,6 @@
           "wordCount": 1315,
           "title": "金融庁、暗号資産規制の見直しを計画。税率低減、ETFなどへ道筋をつける可能性：ブルームバーグが報道",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/09/shutterstock_1685258881.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=254043",
-          "author": "Amitoj Singh",
-          "description": "暗号資産（仮想通貨）運用会社のコインシェアーズ（CoinShares）によると、暗号資産ファンドへの資金流入額は先週12億ドル（約1740億円、1ドル=145円 ...\n先週は暗号資産ファンドに12億ドルの流入、7月以来の最高額：コインシェアーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/254043/",
-          "publishedOn": "2024-09-30T11:20:00.000Z",
-          "wordCount": 1271,
-          "title": "先週は暗号資産ファンドに12億ドルの流入、7月以来の最高額：コインシェアーズ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/09/up.jpeg"
         }
       ]
     },
@@ -634,6 +634,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=563598",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインへの公的な投資に制限を課すことなどをIMFはエルサルバドルに勧告。IMFの報道官が会見で、同国のビットコイン政策に言及した。",
+          "link": "https://coinpost.jp/?p=563598",
+          "publishedOn": "2024-10-04T22:40:40.000Z",
+          "wordCount": 2333,
+          "title": "IMF「エルサルバドルはビットコイン投資に制限を」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Elsalvadorbitcoin1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/Elsalvadorbitcoin1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=563607",
           "author": "菊谷ルイス",
@@ -1293,21 +1308,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/trump-not-selling-bitcoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/trump-not-selling-bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=562276",
-          "author": "AKIRA.H",
-          "description": "資金決済法から金融商品取引法への移行を視野に、金融庁が暗号資産（仮想通貨）規制の抜本的見直しに着手する。税率引下げやビットコインETF承認の可能性にも波及か。",
-          "link": "https://coinpost.jp/?p=562276",
-          "publishedOn": "2024-09-30T10:47:29.000Z",
-          "wordCount": 2328,
-          "title": "金融庁、暗号資産規制の抜本的見直しへ　金商法適用も視野＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/law_lawsuit_220825_3.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/law_lawsuit_220825_3.png"
         }
       ]
     },
