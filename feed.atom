@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-07T02:59:32.272Z</updated>
+    <updated>2024-10-07T03:35:19.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン長期保有者が利益確定、短期保有者にリスク選好傾向　CryptoQuant分析]]></title>
+        <id>https://coinpost.jp/?p=563928</id>
+        <link href="https://coinpost.jp/?p=563928"/>
+        <updated>2024-10-07T03:13:59.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨分析企業CryptoQuantが、ビットコインの長期・短期保有者の動向を分析。長期保有者の利益確定傾向から、新高値（ATH）到達までに時間を要する可能性を指摘した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米コインベースが欧州で一部のステーブルコイン上場廃止へ、新規制「MiCA」に先立ち]]></title>
         <id>https://www.neweconomy.jp/?p=422664</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[米コインベースが欧州で一部のステーブルコイン上場廃止へ 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、欧州経済地域（EEA）において、年末までに特定のステーブルコインを上場廃止する予定だと10月4日 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン200MA上回る反発、中東リスク警戒もETF資金フローは改善傾向]]></title>
+        <id>https://coinpost.jp/?p=563915</id>
+        <link href="https://coinpost.jp/?p=563915"/>
+        <updated>2024-10-07T02:42:01.000Z</updated>
+        <summary type="html"><![CDATA[中東の軍事的緊張が燻り9月3日以来最大の純流出を記録したビットコインETFだったがその後回復。ビットコイン（BTC）現物の市場価格も、200日移動平均線（200MA）の63,551ドルを超える反発を見せた。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
         </author>
     </entry>
     <entry>

@@ -460,10 +460,40 @@
       "articles": []
     },
     {
-      "title": "CoinPost  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=563928",
+          "author": "A.Yamada",
+          "description": "仮想通貨分析企業CryptoQuantが、ビットコインの長期・短期保有者の動向を分析。長期保有者の利益確定傾向から、新高値（ATH）到達までに時間を要する可能性を指摘した。",
+          "link": "https://coinpost.jp/?p=563928",
+          "publishedOn": "2024-10-07T03:13:59.000Z",
+          "wordCount": 2355,
+          "title": "ビットコイン長期保有者が利益確定、短期保有者にリスク選好傾向　CryptoQuant分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/morning-market-days-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=563915",
+          "author": "S.Ninomiya",
+          "description": "中東の軍事的緊張が燻り9月3日以来最大の純流出を記録したビットコインETFだったがその後回復。ビットコイン（BTC）現物の市場価格も、200日移動平均線（200MA）の63,551ドルを超える反発を見せた。",
+          "link": "https://coinpost.jp/?p=563915",
+          "publishedOn": "2024-10-07T02:42:01.000Z",
+          "wordCount": 2536,
+          "title": "ビットコイン200MA上回る反発、中東リスク警戒もETF資金フローは改善傾向",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/meta-planet-bitcoin-new-buy.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/meta-planet-bitcoin-new-buy.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=563908",
           "author": "A.Yamada",
