@@ -465,6 +465,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=563942",
+          "author": "幸田直子",
+          "description": "DoS攻撃などへの脆弱性対策を踏まえ、ビットコインコアの重要アップグレードである「Bitcoin Core 28.0」がリリースされた。なお、ビットコイン現物ETFは10月4日に純流入に転じ、約38億円の資金が流入した。",
+          "link": "https://coinpost.jp/?p=563942",
+          "publishedOn": "2024-10-07T05:25:09.000Z",
+          "wordCount": 2490,
+          "title": "重要コアアップデート「Bitcoin Core 28.0」リリースへ、攻撃に対する脆弱性を解消",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=563928",
           "author": "A.Yamada",
           "description": "仮想通貨分析企業CryptoQuantが、ビットコインの長期・短期保有者の動向を分析。長期保有者の利益確定傾向から、新高値（ATH）到達までに時間を要する可能性を指摘した。",
@@ -1026,6 +1041,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=422714",
+          "author": "OtsugaShinya",
+          "description": "BitGoがステーブルコイン「USDA」のカストディ提供へ 暗号資産（仮想通貨）などデジタル資産のカストディサービスを提供するビットゴー（BitGo）が、米ドルステーブルコイン「USDA」のカストディサービスを提供すると […]",
+          "link": "https://www.neweconomy.jp/posts/422714",
+          "publishedOn": "2024-10-07T05:08:38.000Z",
+          "wordCount": 627,
+          "title": "BitGo、Cardanoネイティブのステーブルコイン「USDA」のカストディ提供へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/07140831/848dc46e5eed6e0647e47cb4659a1c74.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=422704",
           "author": "OtsugaShinya",
