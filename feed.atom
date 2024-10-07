@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-07T05:31:17.229Z</updated>
+    <updated>2024-10-07T06:36:17.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタプラネット、ビットコイン購入総額は約60億円に　10億円分を追加購入]]></title>
+        <id>https://coinpost.jp/?p=563953</id>
+        <link href="https://coinpost.jp/?p=563953"/>
+        <updated>2024-10-07T06:05:44.000Z</updated>
+        <summary type="html"><![CDATA[メタプラネットは、10月7日に10億円分のビットコインを追加購入し、累計保有量は639.5BTCに達した。プットオプション取引で2億円超の利益も確保。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重要コアアップデート「Bitcoin Core 28.0」リリースへ、攻撃に対する脆弱性を解消]]></title>
         <id>https://coinpost.jp/?p=563942</id>
