@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=255255",
+          "author": "佐藤 茂",
+          "description": "米国で今年初めて上場されたビットコインETF（上場投資信託）は、なぜ日本で生まれないのか？ 2024年、日本版・ビットコインETFの構想を巡って、国内の証券会社 ...\nビットコイン規制はどう変わる──動き出した金融庁、ザワつく金融界と暗号資産業界 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/255255/",
+          "publishedOn": "2024-10-08T21:00:00.000Z",
+          "wordCount": 1395,
+          "title": "ビットコイン規制はどう変わる──動き出した金融庁、ザワつく金融界と暗号資産業界",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/shutterstock_2178321981.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=255394",
           "author": "Jamie Crawley",
           "description": "SoSoValueのデータによると、アメリカのイーサリアム（ETH）現物ETF（上場投資信託）は、7月の上場以来、2度目の資金流入ゼロを記録した。 一方、ビット ...\nビットコイン現物ETF、9月27日以降で最大の流入──イーサリアムETFは2度目の資金流入ゼロ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -360,16 +370,6 @@
           "wordCount": 1295,
           "title": "マトリックス法によるテクニカル分析（2024/10/4）どちらかと言えば上？【楽天ウォレット】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/tr-thumb_241004.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=254937",
-          "author": "栃山直樹",
-          "description": "大阪市博物館機構は、2024年11月からNFTを活用した新しい観光プロモーション事業を開始すると発表した。この取り組みでは、機構が運営する6つの博物館・美術館の ...\n大阪市博物館、EXPO2025デジタルウォレットを活用したNFTで新観光サービス展開 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/254937/",
-          "publishedOn": "2024-10-04T08:51:06.000Z",
-          "wordCount": 1249,
-          "title": "大阪市博物館、EXPO2025デジタルウォレットを活用したNFTで新観光サービス展開",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/スクリーンショット-2024-10-04-17.35.57.jpg"
         }
       ]
     },
@@ -818,21 +818,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/Sanctum002.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/Sanctum002.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=559651",
-          "author": "AKIRA.H",
-          "description": "Web3時代のセキュリティ課題に挑むAI駆動スマートコントラクト監査サービス「Bunzz Audit」を解説。従来の監査の問題点と革新的解決策を探る。DeFi、NFT事業者必見。",
-          "link": "https://coinpost.jp/?p=559651",
-          "publishedOn": "2024-10-04T08:30:28.000Z",
-          "wordCount": 2585,
-          "title": "Bunzz Audit、AI搭載監査でWeb3事業のセキュリティを強化【独自取材】",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/Bunzz-Audit_Logo_Black_2024-02-25_Medium-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/Bunzz-Audit_Logo_Black_2024-02-25_Medium-1.png"
         }
       ]
     },
@@ -1050,26 +1035,6 @@
           "wordCount": 609,
           "title": "【10/4話題】SWIFTがデジタル資産・通貨を来年試行、グレースケールがAAVEの投資信託など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/04180957/news_head_20241004.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=422388",
-          "author": "HitomotoToshikazu",
-          "description": "MastercardとAmazon Payment Servicesが提携 米決済大手マスターカード（Mastercard）が、中東・北アフリカ（MENA）地域におけるデジタル決済の普及に向け、同地域のオンライン決済ソリ […]",
-          "link": "https://www.neweconomy.jp/posts/422388",
-          "publishedOn": "2024-10-04T09:25:54.000Z",
-          "wordCount": 600,
-          "title": "マスターカードとアマゾンペイメントサービスが提携、中東・北アフリカでデジタル決済拡大へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/04182544/51378e69c909dfeaccbfdeed6ec4aa67.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=422396",
-          "author": "NewEconomy",
-          "description": "国家介入回避のためプロトコルレベルでサービス設計すべき 米中央情報局（CIA）の元職員エドワード・スノーデン（Edward Snowden）氏が、「国家の介入に抵抗できるようにプロトコルレベルからサービスを設計しなければ […]",
-          "link": "https://www.neweconomy.jp/posts/422396",
-          "publishedOn": "2024-10-04T08:57:23.000Z",
-          "wordCount": 621,
-          "title": "エドワード・スノーデンが「ビットコインは最悪のシナリオを想定して設計されたシステム」と評価、ソラナの運用モデル指摘も",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/04174715/57764d6876222a51ebd3d6dc09f60275.jpeg"
         }
       ]
     }
