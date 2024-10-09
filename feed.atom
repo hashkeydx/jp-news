@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-09T09:29:11.174Z</updated>
+    <updated>2024-10-09T10:33:22.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MARA、ビットコインマイニング事業にシェールガスを活用する試験開始]]></title>
+        <id>https://www.neweconomy.jp/?p=423382</id>
+        <link href="https://www.neweconomy.jp/posts/423382"/>
+        <updated>2024-10-09T09:41:11.000Z</updated>
+        <summary type="html"><![CDATA[MARAがビットコインマイニング事業にシェールガスを活用する試験開始 世界最大の上場ビットコインマイニング業者であるMARAホールディングス（MARA Holdings 旧：Marathon Digital Holdin […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米アーク、220万ドル相当のコインベース株を購入]]></title>
+        <id>https://www.coindeskjapan.com/?p=255657</id>
+        <link href="https://www.coindeskjapan.com/255657/"/>
+        <updated>2024-10-09T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[キャシー・ウッド（Cathie Wood）氏の投資運用会社、アーク・インベスト（ARK Invest）はコインベース（Coinbase）の株式を220万ドル（約 ...
+米アーク、220万ドル相当のコインベース株を購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、アンホステッド・ウォレットサービスは暗号資産交換業に該当せずと判断]]></title>
+        <id>https://www.coindeskjapan.com/?p=255663</id>
+        <link href="https://www.coindeskjapan.com/255663/"/>
+        <updated>2024-10-09T09:30:42.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は、認証技術を用いたアンホステッド・ウォレットを提供するサービスが暗号資産（仮想通貨）交換業（管理業）に該当しないとの見解を10月8日に公表した。この判断 ...
+金融庁、アンホステッド・ウォレットサービスは暗号資産交換業に該当せずと判断 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサL2「Scroll」、独自トークン「SCR」のエアドロを10月22日実施へ]]></title>
         <id>https://www.neweconomy.jp/?p=423316</id>
@@ -1099,26 +1131,6 @@ SWIFT、2025年にデジタル資産・通貨取引の実証実験──デフ�
         <summary type="html"><![CDATA[仮想通貨ビットコインへの公的な投資に制限を課すことなどをIMFはエルサルバドルに勧告。IMFの報道官が会見で、同国のビットコイン政策に言及した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所コインベース、欧州でUSDTなどのステーブルコイン廃止へ　MiCA法準拠で]]></title>
-        <id>https://coinpost.jp/?p=563607</id>
-        <link href="https://coinpost.jp/?p=563607"/>
-        <updated>2024-10-04T22:15:44.000Z</updated>
-        <summary type="html"><![CDATA[大手仮想通貨取引所コインベースは10月4日、年末までに欧州連合（EU）域内で規制に準拠していない「ステーブルコイン」の上場廃止を行うと発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインクジラ、2009年採掘のBTCを5億円分取引所へ送金]]></title>
-        <id>https://coinpost.jp/?p=563597</id>
-        <link href="https://coinpost.jp/?p=563597"/>
-        <updated>2024-10-04T21:45:05.000Z</updated>
-        <summary type="html"><![CDATA[古参のビットコインクジラが5日、5億円相当のビットコインを米仮想通貨取引所クラーケンに送金したことが明らかになった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
