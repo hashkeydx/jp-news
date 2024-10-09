@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-09T12:49:51.410Z</updated>
+    <updated>2024-10-09T13:33:05.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HBOのドキュメンタリー「Money Electric」がビットコインの生みの親はピーター・トッドだと主張し話題に＝ロイター]]></title>
+        <id>https://www.neweconomy.jp/?p=423460</id>
+        <link href="https://www.neweconomy.jp/posts/423460"/>
+        <updated>2024-10-09T13:32:25.000Z</updated>
+        <summary type="html"><![CDATA[主張は事実ではないものの一見の価値あり 2009年初頭、サトシ・ナカモトはビットコインを世に送り出した。 それ以来、彼の創造物は銀行や政府に対する世界的な反乱を引き起こし、その価値は1兆ドルをはるかに超え、テスラとJPモ […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/9話題】Crypto[.]comがウェルズ通知を受けて米SEC提訴、博報堂がワールドコインと提携など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=423379</id>
@@ -1098,17 +1108,6 @@ HBOのドキュメンタリーが明かすサトシ・ナカモトの正体、�
         <summary type="html"><![CDATA[イーサリアムのリステーキングプロジェクトEigenLayerで約8億円相当のEIGENトークンが不正売却。投資家のメールが侵害され、攻撃者がトークンを売却。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC小委員会、トークン化MMFを担保として使用することを認める勧告を提出：ブルームバーグ]]></title>
-        <id>https://www.coindeskjapan.com/?p=255031</id>
-        <link href="https://www.coindeskjapan.com/255031/"/>
-        <updated>2024-10-05T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブルームバーグ（Bloomberg）は1日、米商品先物取引委員会（CFTC）の傘下にある主要グループがトークン化されたマネーマーケットファンド（MMF）の持分の ...
-CFTC小委員会、トークン化MMFを担保として使用することを認める勧告を提出：ブルームバーグ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
