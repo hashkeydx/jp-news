@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-09T01:52:18.003Z</updated>
+    <updated>2024-10-09T02:56:12.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[博報堂、広告詐欺対策で「ワールドコイン」と提携：日経新聞報じる]]></title>
+        <id>https://www.coindeskjapan.com/?p=255478</id>
+        <link href="https://www.coindeskjapan.com/255478/"/>
+        <updated>2024-10-09T02:50:13.000Z</updated>
+        <summary type="html"><![CDATA[博報堂が、OpenAIのCEOサム・アルトマン（Sam Altman）氏が手掛ける暗号資産（仮想通貨）プロジェクト「ワールドコイン（Worldcoin）」の運営 ...
+博報堂、広告詐欺対策で「ワールドコイン」と提携：日経新聞報じる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのブロック生成間隔を短くする提案「EIP-7781」が提出、スループットの大幅改善か]]></title>
+        <id>https://www.neweconomy.jp/?p=423268</id>
+        <link href="https://www.neweconomy.jp/posts/423268"/>
+        <updated>2024-10-09T02:46:16.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムのブロック生成間隔を短くする「EIP-7781」が提出 イーサリアム（Ethereum）の新たな改善提案として、スロットタイムを12秒から8秒に短縮する「EIP-7781」が、イリュリアドゲームズ（Illyr […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[株や金が大きく変動するなか、ビットコインは6万2000ドル台で停滞]]></title>
+        <id>https://www.coindeskjapan.com/?p=255474</id>
+        <link href="https://www.coindeskjapan.com/255474/"/>
+        <updated>2024-10-09T02:20:35.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）はボラティリティが高いという評判を裏切り、暗号資産は8日、主要な伝統的資産の大きな動きに反応しなかったようだ。 ビットコイン（BTC）は6万 ...
+株や金が大きく変動するなか、ビットコインは6万2000ドル台で停滞 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto[.]com、「ウェルズ通知」を受け米SECを提訴]]></title>
+        <id>https://www.neweconomy.jp/?p=423259</id>
+        <link href="https://www.neweconomy.jp/posts/423259"/>
+        <updated>2024-10-09T02:20:09.000Z</updated>
+        <summary type="html"><![CDATA[クリプトドットコムがSECを提訴 海外暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）が、米国証券取引委員会（SEC）に対して10月8日に訴訟を起こし、同連邦機関が暗号資産業界を規制することは、管轄権 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン・プロトコルのバビロンがステーキング上限を引き上げ──預金が15億ドルに到達]]></title>
+        <id>https://www.coindeskjapan.com/?p=255477</id>
+        <link href="https://www.coindeskjapan.com/255477/"/>
+        <updated>2024-10-09T02:06:32.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインブロックチェーンのステーキングプラットフォーム、バビロン（Babylon）は8日、追加の預金を一時的に受け付けたことで、約15億ドル（約2250億円 ...
+ビットコイン・プロトコルのバビロンがステーキング上限を引き上げ──預金が15億ドルに到達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、アンホステッド・ウォレット向けサービス事業者を暗号資産交換業から除外]]></title>
+        <id>https://coinpost.jp/?p=564443</id>
+        <link href="https://coinpost.jp/?p=564443"/>
+        <updated>2024-10-09T01:55:07.000Z</updated>
+        <summary type="html"><![CDATA[金融庁がアンホステッド・ウォレット関連サービスを暗号資産交換業から除外した。グレーゾーン解消制度の初適用事例としても注目される。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港規制当局、申請中の暗号資産取引所ライセンスを年内一括承認する意向＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=423247</id>
@@ -900,16 +963,6 @@ SWIFT、2025年にデジタル資産・通貨取引の実証実験──デフ�
         <summary type="html"><![CDATA[古参のビットコインクジラが5日、5億円相当のビットコインを米仮想通貨取引所クラーケンに送金したことが明らかになった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanctum（サンクタム）でソラナのステーキング利益最大化　INFトークンの活用法]]></title>
-        <id>https://coinpost.jp/?p=563388</id>
-        <link href="https://coinpost.jp/?p=563388"/>
-        <updated>2024-10-04T14:26:55.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナ（SOL）のブロックチェーン上のDeFiプロトコル「Sanctum（サンクタム）」を詳しく解説。LSTの仕組みやCLOUDトークン、具体的な使用方法、将来展望まで網羅。SOLのステーキングなど、投資利益を最適化したい方必見の情報。]]></summary>
-        <author>
-            <name>Shusaku.Akaji</name>
         </author>
     </entry>
 </feed>
