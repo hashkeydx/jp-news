@@ -525,6 +525,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=564926",
+          "author": "幸田直子",
+          "description": "チェイナリシスの最新レポートによると、ラテンアメリカでステーブルコインの需要が急増している。同地域においてステーブルコインは、自国通貨の価値下落への対策として、重要な金融ツールとなっている。",
+          "link": "https://coinpost.jp/?p=564926",
+          "publishedOn": "2024-10-10T06:00:10.000Z",
+          "wordCount": 2378,
+          "title": "ステーブルコイン需要、ラテンアメリカで急増＝Chainalysis",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=564913",
           "author": "A.Yamada",
           "description": "著名経済学者コーエン氏とタバロック氏が対談。イーサリアム共同創設者ヴィタリック氏がノーベル経済学賞に値すると評価。ビットコイン創設者サトシ・ナカモトについても言及。",
@@ -1086,6 +1101,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=423565",
+          "author": "OtsugaShinya",
+          "description": "FBIが捜査のため独自トークン発行 暗号資産（仮想通貨）市場を操作しトークン価格を人為的に押し上げたとして、米司法省（DOJ：Department of Justice）が18の個人と企業に対して提起した広範な刑事事件の […]",
+          "link": "https://www.neweconomy.jp/posts/423565",
+          "publishedOn": "2024-10-10T05:53:20.000Z",
+          "wordCount": 635,
+          "title": "FBI、捜査のために独自トークン「NexFundAI」発行",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/10145313/c36984a63189f8143abbcebbe96f7769.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=423564",
+          "author": "NewEconomy",
+          "description": "RWA需要の高まり受け コロンビア拠点でモバイルバンキングサービスを提供するリッティオ（Littio）が、RWAの需要の高まりを受け、イーサリアム（Ethereum）からアバランチ（Avalanche）にブロックチェーン […]",
+          "link": "https://www.neweconomy.jp/posts/423564",
+          "publishedOn": "2024-10-10T05:49:09.000Z",
+          "wordCount": 631,
+          "title": "コロンビアのネオバンクLittioがイーサリアムからアバランチへネットワーク移行。RWA需要の高まり受け",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/10144858/d34e6495e786b2fe4dc2b59b66572ed2.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=423543",
           "author": "HitomotoToshikazu",
