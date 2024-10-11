@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-11T01:53:25.151Z</updated>
+    <updated>2024-10-11T02:55:14.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブロックチェーンで牛を追跡するCattleProof、米農務省から公式認定取得]]></title>
+        <id>https://coinpost.jp/?p=565185</id>
+        <link href="https://coinpost.jp/?p=565185"/>
+        <updated>2024-10-11T02:35:08.000Z</updated>
+        <summary type="html"><![CDATA[家畜のデジタルID管理を行うCattleProofが、ブロックチェーンを活用したもので初めて米農務省のプロセス検証プログラム認定を取得。トレーサビリティ向上へ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップル、カストディ事業を拡大──暗号資産企業に「銀行グレード」のサービスを提供]]></title>
         <id>https://www.coindeskjapan.com/?p=255771</id>
