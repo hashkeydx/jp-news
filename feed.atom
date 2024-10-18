@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-18T20:27:41.000Z</updated>
+    <updated>2024-10-18T21:25:50.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、11銘柄のビットコイン現物ETFのオプション取引を許可]]></title>
+        <id>https://coinpost.jp/?p=566868</id>
+        <link href="https://coinpost.jp/?p=566868"/>
+        <updated>2024-10-18T21:20:43.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）は19日、複数のビットコイン現物ETFのオプション取引の上場申請を承認した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/18話題】ワールドコインが「ワールドネットワーク」に改称、ラップドビットコイン「Kraken Bitcoin（kBTC）」リリースなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=425290</id>
@@ -1515,17 +1525,6 @@ CMEのビットコイン・フライデー先物はイベント主導取引に�
 暗号資産業界に根を伸ばす北朝鮮 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チャート分析：ビットコインは5万4000ドルからの上昇トレンド再開へ、イーサリアムは200日平均を維持]]></title>
-        <id>https://www.coindeskjapan.com/?p=256203</id>
-        <link href="https://www.coindeskjapan.com/256203/"/>
-        <updated>2024-10-14T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）のアジア時間14日のポジティブな値動きは、9月初旬に5万4000ドル付近で始まった上昇が再開する可能性が高いことを示している。 ビットコイ ...
-チャート分析：ビットコインは5万4000ドルからの上昇トレンド再開へ、イーサリアムは200日平均を維持 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
