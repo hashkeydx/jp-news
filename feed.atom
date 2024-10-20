@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-20T02:01:08.186Z</updated>
+    <updated>2024-10-20T03:02:06.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン1000万円の大台に、ハッシュリボンの買いシグナルも点灯｜bitbankアナリスト寄稿]]></title>
+        <id>https://coinpost.jp/?p=566831</id>
+        <link href="https://coinpost.jp/?p=566831"/>
+        <updated>2024-10-20T02:30:08.000Z</updated>
+        <summary type="html"><![CDATA[bitbankアナリストが2カ月半ぶりに1000万円の大台に乗せたビットコイン（BTC）相場を分析。米大統領選のトランプトレードの影響や、マイナー指標であるハッシュリボンの点灯といった買いシグナルについて解説した。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース（+アジア特集）｜BTCと金価格上昇シナリオやETHステーキング要件の提案に高い関心]]></title>
         <id>https://coinpost.jp/?p=566888</id>
@@ -1275,17 +1285,6 @@ CMEのビットコイン・フライデー先物はイベント主導取引に�
 コインベースのレイヤー2「Base」は、技術力ではなくマーケティングの勝利 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏のワールド・リバティ・ファイナンシャル、トークンセール開始でWebサイトダウン]]></title>
-        <id>https://www.coindeskjapan.com/?p=256428</id>
-        <link href="https://www.coindeskjapan.com/256428/"/>
-        <updated>2024-10-15T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[トランプ一家が支援するワールド・リバティ・ファイナンシャル（World Liberty Financial）のトークンセールが開始されたようだ。最初の1時間、サ ...
-トランプ氏のワールド・リバティ・ファイナンシャル、トークンセール開始でWebサイトダウン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
