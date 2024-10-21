@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-21T22:29:55.072Z</updated>
+    <updated>2024-10-21T23:26:31.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新たな「ブロックチェーンのトリレンマ」が登場、だがテクノロジーに関してではない]]></title>
+        <id>https://www.coindeskjapan.com/?p=257349</id>
+        <link href="https://www.coindeskjapan.com/257349/"/>
+        <updated>2024-10-21T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[従来の「ブロックチェーンのトリレンマ」は、ブロックチェーンの分散性、スケーラビリティ、セキュリティにはトレードオフがあり、同時には2つしか成立しないというものだ ...
+新たな「ブロックチェーンのトリレンマ」が登場、だがテクノロジーに関してではない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Paul Brody</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル共同創設者ラーセン氏、15億円分のXRPをハリス氏の支援団体に再び寄付]]></title>
+        <id>https://coinpost.jp/?p=567589</id>
+        <link href="https://coinpost.jp/?p=567589"/>
+        <updated>2024-10-21T22:25:38.000Z</updated>
+        <summary type="html"><![CDATA[リップル社の共同創設者であるクリス・ラーセン氏はカマラ・ハリス氏を支援する「Future Forward」に仮想通貨XRPで新たに1,000万ドル（約15億円）を寄付した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナミームコイン「MEW」、韓国取引所アップビットでウォンペア提供開始]]></title>
         <id>https://coinpost.jp/?p=567585</id>
@@ -807,16 +828,6 @@ DMM Cryptoが資金調達、ファイナンスサービスの拡充とグロー�
 FBI、「ビットコインETF承認」との偽ツイートに関与した容疑で男を逮捕 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Danny Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/17話題】ロビンフッドのデスクトップ版公開、Zaifが全サービス一時停止、コスモスハブのLSMに北朝鮮工作員が関与など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=425067</id>
-        <link href="https://www.neweconomy.jp/posts/425067"/>
-        <updated>2024-10-17T10:33:22.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
