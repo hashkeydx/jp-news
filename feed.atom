@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-22T20:28:03.100Z</updated>
+    <updated>2024-10-22T21:25:26.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アバランチ、自己管理型ウォレット対応のVisaカードを導入]]></title>
+        <id>https://coinpost.jp/?p=567916</id>
+        <link href="https://coinpost.jp/?p=567916"/>
+        <updated>2024-10-22T21:01:27.000Z</updated>
+        <summary type="html"><![CDATA[アバランチ財団は22日、暗号資産（仮想通貨）決済用のVisaカード「アバランチカード」を発表した。スマホ版と実物カードが利用できる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インドネシア当局、規制更新を受けて取引所のライセンス要件の期限を延長]]></title>
+        <id>https://www.coindeskjapan.com/?p=257506</id>
+        <link href="https://www.coindeskjapan.com/257506/"/>
+        <updated>2024-10-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[インドネシアの商品先物取引規制当局（BAPPEBTI）は、暗号資産（仮想通貨）取引所が物理的暗号資産トレーダー（Physical Crypto Asset Tr ...
+インドネシア当局、規制更新を受けて取引所のライセンス要件の期限を延長 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Callan Quinn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/22話題】ソニューム初ミームコインの「PIPO」エアドロ、メルカリのイーサリアムつみたて機能など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=425891</id>
@@ -756,16 +777,6 @@ SEC、NYSEとCboeに対してビットコインETFのオプション取引を承
 「ハイリスク」な暗号資産担保ローン残高、2年ぶりの高水準──清算の連鎖の可能性も first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ソラナ（SOL）の将来価格予測｜技術的注目点と成長の見通し]]></title>
-        <id>https://coinpost.jp/?p=558766</id>
-        <link href="https://coinpost.jp/?p=558766"/>
-        <updated>2024-10-18T09:23:12.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナ（SOL）の将来価格予測を詳しく解説。高速処理能力と低コストが特徴のソラナの技術的優位性、VanEckなどの機関による価格シミュレーションを中心に分析します。]]></summary>
-        <author>
-            <name>M.Somekawa</name>
         </author>
     </entry>
 </feed>
