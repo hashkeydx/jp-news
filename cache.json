@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=257746",
+          "author": "T. Minamoto",
+          "description": "テザーのCEOであるパオロ・アルドイノ氏は現地時間10月22日、米国の聴衆に対し、まもなく米国において賢明な暗号資産（仮想通貨）規制が施行されることを期待してい ...\nテザーCEO、米国における暗号資産規制の前進を期待 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/257746/",
+          "publishedOn": "2024-10-23T09:44:20.000Z",
+          "wordCount": 1383,
+          "title": "テザーCEO、米国における暗号資産規制の前進を期待",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/Tether-CEO-Paolo-Ardoino-appears-remotely-at-a-DC-Fintech-Week-event-in-the-U.S.-Jesse-HamiltonCoinDesk-.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=257724",
           "author": "Shaurya Malwa",
           "description": "アメリカのビットコイン（BTC）現物ETF（上場投資信託）の流入は7日間で途切れ、ドージコイン（DOGE）とエックス・アール・ピー（XRP）が幅広い市場の下落の ...\nビットコインETF、8000万ドルの流出──DOGE, XRPが主要コインの下落をリード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -434,6 +444,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=567973",
+          "author": "AKIRA.H",
+          "description": "IoTデバイス向けブロックチェーンプラットフォーム「IoTeX」のネイティブトークンIOTXが、OKJで国内初上場となる。取引所・販売所・積立の3サービスで取扱開始する。DePIN（分散型物理インフラネットワーク）のプラットフォームとして注目されるIOTXについて解説。",
+          "link": "https://coinpost.jp/?p=567973",
+          "publishedOn": "2024-10-23T08:13:56.000Z",
+          "wordCount": 2358,
+          "title": "仮想通貨取引所OKJ、アイオーテックス（IOTX）国内初の取扱いを発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/OKJ-IOTX.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/OKJ-IOTX.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=568084",
           "author": "AKIRA.H",
@@ -913,36 +938,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=566882",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨関連株高騰暗号資産（仮想通貨）ビットコイン（BTC）が再び70,000ドルの大台に向けて上昇を続ける中、仮想通貨関連株は連れ高の展開となっている。ビットコイン価格は週間ベースで約9%上昇し、68,300ドル付近で取引されており、7月...",
-          "link": "https://coinpost.jp/?p=566882",
-          "publishedOn": "2024-10-18T22:20:07.000Z",
-          "wordCount": 2321,
-          "title": "コインベースなどが仮想通貨関連株の上昇を牽引、ビットコイン7万ドル台接近",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/new-morning-report-buy-and-sell.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=566760",
-          "author": "幸田直子",
-          "description": "ソラナブロックチェーン上で誕生したミームコイン「GOAT」の時価総額が、発行からわずか1週間で500億円を突破した。この急成長の背後には、AIが生成したミームの影響がある。",
-          "link": "https://coinpost.jp/?p=566760",
-          "publishedOn": "2024-10-18T21:50:41.000Z",
-          "wordCount": 2481,
-          "title": "AIボットが仕掛けたミームコインGOAT、1週間で時価総額600億円突破",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/AI-goat-coin.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/AI-goat-coin.jpeg"
         }
       ]
     },
@@ -951,6 +946,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=426197",
+          "author": "TamuraSeiji",
+          "description": "web3決済インフラ「トランサック」、9万人以上の個人情報を流出 web3決済インフラ提供のトランサック（Transak）の従業員のラップトップがフィッシング攻撃を受けたことにより、同サービス全ユーザーの1.14%にあた […]",
+          "link": "https://www.neweconomy.jp/posts/426197",
+          "publishedOn": "2024-10-23T09:57:16.000Z",
+          "wordCount": 591,
+          "title": "web3決済インフラ「Transak」、フィッシング攻撃により個人情報を流出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/23185710/1ba3ec5de0d09441d3b0ccf302b766c8.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=426092",
           "author": "OtsugaShinya",

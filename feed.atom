@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-23T09:28:19.306Z</updated>
+    <updated>2024-10-23T10:32:07.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[web3決済インフラ「Transak」、フィッシング攻撃により個人情報を流出]]></title>
+        <id>https://www.neweconomy.jp/?p=426197</id>
+        <link href="https://www.neweconomy.jp/posts/426197"/>
+        <updated>2024-10-23T09:57:16.000Z</updated>
+        <summary type="html"><![CDATA[web3決済インフラ「トランサック」、9万人以上の個人情報を流出 web3決済インフラ提供のトランサック（Transak）の従業員のラップトップがフィッシング攻撃を受けたことにより、同サービス全ユーザーの1.14%にあた […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テザーCEO、米国における暗号資産規制の前進を期待]]></title>
+        <id>https://www.coindeskjapan.com/?p=257746</id>
+        <link href="https://www.coindeskjapan.com/257746/"/>
+        <updated>2024-10-23T09:44:20.000Z</updated>
+        <summary type="html"><![CDATA[テザーのCEOであるパオロ・アルドイノ氏は現地時間10月22日、米国の聴衆に対し、まもなく米国において賢明な暗号資産（仮想通貨）規制が施行されることを期待してい ...
+テザーCEO、米国における暗号資産規制の前進を期待 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>T. Minamoto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインETF、8000万ドルの流出──DOGE, XRPが主要コインの下落をリード]]></title>
         <id>https://www.coindeskjapan.com/?p=257724</id>
@@ -26,6 +47,16 @@
 オプショントレーダーは選挙の結果にかかわらず、ビットコインが8万ドルに上昇すると予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所OKJ、アイオーテックス（IOTX）国内初の取扱いを発表]]></title>
+        <id>https://coinpost.jp/?p=567973</id>
+        <link href="https://coinpost.jp/?p=567973"/>
+        <updated>2024-10-23T08:13:56.000Z</updated>
+        <summary type="html"><![CDATA[IoTデバイス向けブロックチェーンプラットフォーム「IoTeX」のネイティブトークンIOTXが、OKJで国内初上場となる。取引所・販売所・積立の3サービスで取扱開始する。DePIN（分散型物理インフラネットワーク）のプラットフォームとして注目されるIOTXについて解説。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
@@ -995,26 +1026,6 @@ SEC、NYSEとCboeに対してビットコインETFのオプション取引を承
 ビットコインは新たな不動産／ゲンスラー委員長が去るのは寂しい？【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースなどが仮想通貨関連株の上昇を牽引、ビットコイン7万ドル台接近]]></title>
-        <id>https://coinpost.jp/?p=566882</id>
-        <link href="https://coinpost.jp/?p=566882"/>
-        <updated>2024-10-18T22:20:07.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨関連株高騰暗号資産（仮想通貨）ビットコイン（BTC）が再び70,000ドルの大台に向けて上昇を続ける中、仮想通貨関連株は連れ高の展開となっている。ビットコイン価格は週間ベースで約9%上昇し、68,300ドル付近で取引されており、7月...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIボットが仕掛けたミームコインGOAT、1週間で時価総額600億円突破]]></title>
-        <id>https://coinpost.jp/?p=566760</id>
-        <link href="https://coinpost.jp/?p=566760"/>
-        <updated>2024-10-18T21:50:41.000Z</updated>
-        <summary type="html"><![CDATA[ソラナブロックチェーン上で誕生したミームコイン「GOAT」の時価総額が、発行からわずか1週間で500億円を突破した。この急成長の背後には、AIが生成したミームの影響がある。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>
