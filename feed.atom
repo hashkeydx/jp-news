@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-23T11:23:18.429Z</updated>
+    <updated>2024-10-23T12:50:08.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスク氏のテスラ、7億8000万ドル相当のビットコインを引き続き保有]]></title>
+        <id>https://www.coindeskjapan.com/?p=257797</id>
+        <link href="https://www.coindeskjapan.com/257797/"/>
+        <updated>2024-10-23T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[テスラ（Tesla）はビットコイン（BTC）を保有し続けている。最近、コインを新しいウォレットに移したことで、流動化の恐れが浮上したとアーカム・インテリジェンス ...
+イーロン・マスク氏のテスラ、7億8000万ドル相当のビットコインを引き続き保有 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化は金融システムにリスクをもたらす可能性──FSBとBISが警告]]></title>
         <id>https://www.coindeskjapan.com/?p=257745</id>
@@ -1016,17 +1027,6 @@ SEC、NYSEとCboeに対してビットコインETFのオプション取引を承
 クラーケン、ラップドビットコインの kBTCをローンチ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産の利用、記録的な水準に：A16zがレポート発行]]></title>
-        <id>https://www.coindeskjapan.com/?p=256943</id>
-        <link href="https://www.coindeskjapan.com/256943/"/>
-        <updated>2024-10-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大手ベンチャーキャピタル（VC）のアンドリーセン・ホロウィッツ（a16z）が10月16日に発表した年次レポート「State of Crypto」によると、暗号資 ...
-暗号資産の利用、記録的な水準に：A16zがレポート発行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Kessler</name>
         </author>
     </entry>
 </feed>
