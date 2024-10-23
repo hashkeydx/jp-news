@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=257591",
+          "author": "Callan Quinn",
+          "description": "国民民主党の玉木雄一郎代表は、10月27日の投票日を前に「暗号資産に関して明確な減税＆規制改革」をアピールすることで有権者の支持を集めようとしている。 「暗号資 ...\n衆院選投票日は27日、各党が暗号資産の税制改革をアピール first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/257591/",
+          "publishedOn": "2024-10-23T00:15:00.000Z",
+          "wordCount": 1271,
+          "title": "衆院選投票日は27日、各党が暗号資産の税制改革をアピール",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/shutterstock_2417243573.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=257577",
           "author": "James Van Straten",
           "description": "メタプラネットは10月21日、第11回新株予約権の行使結果（一般投資家分）などについて発表した。 新株予約権の割当ては、8月6日に発表された。新株予約権は株主に ...\nメタプラネット、100億円の資金調達を完了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -364,6 +374,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=567940",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの採掘難易度が、過去最高値を更新。21日にはハッシュレートの7日平均の数値も過去最高値を更新していた。",
+          "link": "https://coinpost.jp/?p=567940",
+          "publishedOn": "2024-10-23T01:30:03.000Z",
+          "wordCount": 2334,
+          "title": "ビットコイン、採掘難易度とハッシュレートが過去最高値を更新",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=567927",
           "author": "菊谷ルイス",
@@ -792,6 +817,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=426027",
+          "author": "HitomotoToshikazu",
+          "description": "ソラナのミームコイン特化取引プラットフォーム公開 「ジュピターエクスチェンジ（Jupiter Exchange）」提供のジュピター（Jupiter）が、ソラナ上のミームコイン取引に特化したプロトレーダー向けプラットフォー […]",
+          "link": "https://www.neweconomy.jp/posts/426027",
+          "publishedOn": "2024-10-23T01:01:33.000Z",
+          "wordCount": 768,
+          "title": "DEX「Jupiter」、ソラナ上のミームコイン取引特化の「Ape Pro」立ち上げ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/23085905/fadb84b4c8730e42cba7518e03db1536.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=425891",
           "author": "NewEconomy",
           "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -930,16 +965,6 @@
           "wordCount": 749,
           "title": "欧州中央銀行、「ビットコインは早期保有者が富を得て、後発や非保有者は損をするゼロサムゲーム」と指摘",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/21114751/d431201ce6fb97e7dc8ddd14135a01db.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=425290",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/425290",
-          "publishedOn": "2024-10-18T12:36:39.000Z",
-          "wordCount": 758,
-          "title": "【10/18話題】ワールドコインが「ワールドネットワーク」に改称、ラップドビットコイン「Kraken Bitcoin（kBTC）」リリースなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/18183137/news_head_20241018.jpg"
         }
       ]
     }
