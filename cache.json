@@ -405,6 +405,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=567964",
+          "author": "A.Yamada",
+          "description": "SECが2025年度の優先検査項目に仮想通貨をリストアップした。登録事業者のコンプライアンス体制などを重点的に監視する方針だ。",
+          "link": "https://coinpost.jp/?p=567964",
+          "publishedOn": "2024-10-23T04:30:33.000Z",
+          "wordCount": 2328,
+          "title": "米SEC、2025年も仮想通貨を重点的に監視　優先検査事項に挙げる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-not-backing-down-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-not-backing-down-1.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=567945",
           "author": "A.Yamada",
           "description": "経済学者のラッド博士らが、ECBによるビットコイン批判に対して反論。仮想通貨ビットコインの分散性や経済的有用性を主張する論文を公開した。",
@@ -861,6 +876,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=426072",
+          "author": "OtsugaShinya",
+          "description": "JPYCが韓国IT大手ITCENと共同研究 前払式支払手段による日本円ステーブルコイン「JPYC」を取り扱うJPYC社が、韓国ITCEN（アイティーセン）とステーブルコイン分野における共同研究を開始することを10月21日 […]",
+          "link": "https://www.neweconomy.jp/posts/426072",
+          "publishedOn": "2024-10-23T04:04:09.000Z",
+          "wordCount": 589,
+          "title": "JPYC、韓国IT大手ITCENとステーブルコインの共同研究を開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/23130402/fde683f9935bc1c21f78974b32bbab2e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=426065",
+          "author": "OtsugaShinya",
+          "description": "JCBと富士通らがCBDCに関するWP発行 ジェーシービー（JCB）と富士通により共同作成されたホワイトペーパー「CBDCを活用したブリッジ（中継サービス）によるインターオペラビリティの実現」が公開された。両社が10月2 […]",
+          "link": "https://www.neweconomy.jp/posts/426065",
+          "publishedOn": "2024-10-23T03:58:49.000Z",
+          "wordCount": 742,
+          "title": "JCBと富士通らが共同で「中銀デジタル通貨」活用の異なるキャッシュレスサービス間での取引実現に向け、WP公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/23125842/7f681599c4738798eb6fc11fdfc2355a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=426056",
+          "author": "OtsugaShinya",
+          "description": "コマイヌがシンガポールの暗号資産カストディ事業者を買収へ 機関投資家向けのデジタル資産カストディ事業を展開するコマイヌ（Komainu）が、シンガポール規制対象のデジタル資産カストディ事業者であるプロパイン（Propin […]",
+          "link": "https://www.neweconomy.jp/posts/426056",
+          "publishedOn": "2024-10-23T03:43:37.000Z",
+          "wordCount": 604,
+          "title": "野村証券らのコマイヌ、シンガポールの暗号資産カストディアンPropine Holdings買収へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/23124332/40a86190e81b67d7affbc02f21320742.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=426027",
           "author": "HitomotoToshikazu",
