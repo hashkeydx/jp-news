@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-25T21:27:02.768Z</updated>
+    <updated>2024-10-25T22:29:42.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マイクロストラテジー、24年ぶりの高値　ビットコイン売却の可能性は「極めて低い」　BitMEXが分析]]></title>
+        <id>https://coinpost.jp/?p=568775</id>
+        <link href="https://coinpost.jp/?p=568775"/>
+        <updated>2024-10-25T22:20:26.000Z</updated>
+        <summary type="html"><![CDATA[BitMEX Researchのアナリストは、マイクロストラテジーが現在の債務構造に基づいて保有しているビットコインを強制的に売却する可能性は「極めて低い」と主張した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハッカー、米政府の仮想通貨ウォレットに大部分の流出資金を返還]]></title>
+        <id>https://coinpost.jp/?p=568747</id>
+        <link href="https://coinpost.jp/?p=568747"/>
+        <updated>2024-10-25T21:35:39.000Z</updated>
+        <summary type="html"><![CDATA[米政府の仮想通貨ウォレットから流出した約30億円相当の資金のほとんどが、24時間以内に返還されたことが観測された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニュームのミームコイン「PIPO」、エアドロ請求を中止：非公式性を明確化]]></title>
+        <id>https://www.coindeskjapan.com/?p=258421</id>
+        <link href="https://www.coindeskjapan.com/258421/"/>
+        <updated>2024-10-25T21:31:18.000Z</updated>
+        <summary type="html"><![CDATA[バーチャルワールド「Yay!」を運営するナナメウエは10月25日、ステーカー向けに実施していたミームコイン「PIPO」のクレーム（請求）を中止するとX（Twit ...
+ソニュームのミームコイン「PIPO」、エアドロ請求を中止：非公式性を明確化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テザーCEO、米政府捜査の報道を否定]]></title>
         <id>https://coinpost.jp/?p=568738</id>
@@ -1404,39 +1435,6 @@ ApeCoinトレーダー、オプション市場で大胆な賭け first appeared 
 ビットコイン7万ドルに向け、モメンタム指標が強気に反転 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「DBSトークンサービス」を機関投資家に提供──EVM互換パーミッションドチェーン活用：シンガポールのDBS銀行]]></title>
-        <id>https://www.coindeskjapan.com/?p=257324</id>
-        <link href="https://www.coindeskjapan.com/257324/"/>
-        <updated>2024-10-21T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[シンガポールに拠点を置くDBS銀行は、機関投資家向けにトークン化とスマートコントラクト機能を統合した新たな銀行サービスを発表した。 「DBSトークンサービス（D ...
-「DBSトークンサービス」を機関投資家に提供──EVM互換パーミッションドチェーン活用：シンガポールのDBS銀行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Callan Quinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英年金大手のL&G、トークン化分野への参入を検討]]></title>
-        <id>https://www.coindeskjapan.com/?p=257294</id>
-        <link href="https://www.coindeskjapan.com/257294/"/>
-        <updated>2024-10-21T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ロンドンに本社を置く年金保険および投資運用会社で、運用資産総額1兆5000億ドル（約225兆円、1ドル=150円換算）を誇るリーガル・アンド・ ゼネラル（Leg ...
-英年金大手のL&G、トークン化分野への参入を検討 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DMM Crypto、暗号資産の「ポイ活」ゲームリリース──ステーブルコインUSDCに交換可能]]></title>
-        <id>https://www.coindeskjapan.com/?p=257295</id>
-        <link href="https://www.coindeskjapan.com/257295/"/>
-        <updated>2024-10-21T09:30:36.000Z</updated>
-        <summary type="html"><![CDATA[DMM Cryptoは10月21日、ゲームプレイを通じて暗号資産（仮想通貨）を獲得できる新機能「SMP Trade」の提供を開始した。この機能は、同社のWeb3 ...
-DMM Crypto、暗号資産の「ポイ活」ゲームリリース──ステーブルコインUSDCに交換可能 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>
