@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-25T06:35:40.068Z</updated>
+    <updated>2024-10-25T07:27:12.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米政府ウォレットから30億円相当の暗号資産が不正流出か]]></title>
+        <id>https://www.neweconomy.jp/?p=426809</id>
+        <link href="https://www.neweconomy.jp/posts/426809"/>
+        <updated>2024-10-25T07:18:30.000Z</updated>
+        <summary type="html"><![CDATA[アーカムが報告 米政府（USG）が管理する暗号資産（仮想通貨）ウォレットから2000万ドル（約30億円）相当の暗号資産が流出したとみられる。オンチェーン情報の追跡プラットフォーム「アーカム（Arkham）」が公式Xより1 […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラーケンがDeFi向け独自チェーン「Ink」を来年Q1ローンチへ、オプティミズムスーパーチェーンで]]></title>
+        <id>https://www.neweconomy.jp/?p=426804</id>
+        <link href="https://www.neweconomy.jp/posts/426804"/>
+        <updated>2024-10-25T06:57:22.000Z</updated>
+        <summary type="html"><![CDATA[クラーケンがDeFi向け独自チェーン「Ink」を来年Q1ローンチへ 米大手暗号資産（仮想通貨）取引所クラーケン（Kraken）が、独自ブロックチェーン「インク（Ink）」のリリース予定を10月24日発表した。 発表による […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ユニスワップが「暗号資産ブリッジ機能」追加、9ブロックチェーン間に対応]]></title>
         <id>https://www.neweconomy.jp/?p=426780</id>
