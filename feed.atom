@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-26T08:30:23.852Z</updated>
+    <updated>2024-10-26T09:26:08.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー社への司法省調査めぐる報道で暗号資産上昇が頓挫]]></title>
+        <id>https://www.coindeskjapan.com/?p=258468</id>
+        <link href="https://www.coindeskjapan.com/258468/"/>
+        <updated>2024-10-26T09:05:49.000Z</updated>
+        <summary type="html"><![CDATA[25日の暗号資産（仮想通貨）市場は当初上昇していたが、ステーブルコイン発行企業テザー（Tether）をめぐるウォール・ストリート・ジャーナル（Wall Stre ...
+テザー社への司法省調査めぐる報道で暗号資産上昇が頓挫 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ビットコイン現物ETF、個人投資家が需要の8割を占める」バイナンスが報告]]></title>
         <id>https://coinpost.jp/?p=568817</id>
@@ -1456,16 +1467,6 @@ ApeCoinトレーダー、オプション市場で大胆な賭け first appeared 
 ビットコインのハッシュレートが史上最高を記録──上場マイナーのネットワーク内シェアがピークに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VanEckのソラナ指標連動証券、欧州でステーキングによる複利を導入]]></title>
-        <id>https://coinpost.jp/?p=567579</id>
-        <link href="https://coinpost.jp/?p=567579"/>
-        <updated>2024-10-21T21:20:49.000Z</updated>
-        <summary type="html"><![CDATA[米大手資産管理会社VanEck（ヴァンエック）は21日、欧州で提供するしているソラナの指標連動証券に、ステーキング報酬の仕組みを新たに導入し、複利の恩恵を提供し始めた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
