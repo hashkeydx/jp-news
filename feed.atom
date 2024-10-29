@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-10-29T11:23:33.502Z</updated>
+    <updated>2024-10-29T12:51:16.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのアップグレード「ザ・パージ」、ヴィタリックが解説]]></title>
+        <id>https://www.neweconomy.jp/?p=427746</id>
+        <link href="https://www.neweconomy.jp/posts/427746"/>
+        <updated>2024-10-29T11:23:59.000Z</updated>
+        <summary type="html"><![CDATA[ヴィタリックが「The Purge」を解説 イーサリアム（Ethereum）の共同創業者ヴィタリック・ブテリン（Vitalik Buterin）氏が、イーサリアムの未来のアップグレードである「ザ・パージ（The Purg […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「アルケミーペイ」、ソラナ仮想マシン基盤のL1ブロックチェーン立ち上げへ]]></title>
         <id>https://www.neweconomy.jp/?p=427731</id>
@@ -1123,38 +1133,6 @@ FTX、バイビットと2億2800万ドルで和解──壮大な返済が終結
 マイクロソフト、ビットコイン投資を求める株主提案に反対を表明 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国ビットコイン現物ETF、約100万BTCの保有でサトシ・ナカモトに迫る]]></title>
-        <id>https://coinpost.jp/?p=568626</id>
-        <link href="https://coinpost.jp/?p=568626"/>
-        <updated>2024-10-25T00:35:05.000Z</updated>
-        <summary type="html"><![CDATA[米国ビットコイン現物ETFの保有BTCが98.5万枚を突破。サトシ・ナカモトの推定110万枚に接近している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、3%上昇で6万8000ドル回復──ソラナが好調、イーサリアムは相対的に弱含み]]></title>
-        <id>https://www.coindeskjapan.com/?p=258185</id>
-        <link href="https://www.coindeskjapan.com/258185/"/>
-        <updated>2024-10-25T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は米国時間24日に上昇し、ビットコイン（BTC）が21日に7万ドル回復に失敗してから続いた小幅な下落局面を覆した。 時価総額トップ20の ...
-ビットコイン、3%上昇で6万8000ドル回復──ソラナが好調、イーサリアムは相対的に弱含み first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン強気相場到来の兆し──マイニング難易度が過去最高、マイニング収益増]]></title>
-        <id>https://www.coindeskjapan.com/?p=257984</id>
-        <link href="https://www.coindeskjapan.com/257984/"/>
-        <updated>2024-10-25T00:19:32.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）のマイニング難易度は、現地時間10月22日に3.9％上昇し、史上最高の95.67テラハッシュ（T）に達したと、グラスノード（Glassno ...
-ビットコイン強気相場到来の兆し──マイニング難易度が過去最高、マイニング収益増 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>T. Minamoto</name>
         </author>
     </entry>
 </feed>
