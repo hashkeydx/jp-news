@@ -710,10 +710,25 @@
       "articles": []
     },
     {
-      "title": "海外仮想通貨ニュース  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=570194",
+          "author": "A.Yamada",
+          "description": "Messariが7～9月期のソラナについてレポート。ソラナ上のDeFi TVLやステーブルコイン時価総額が前四半期比で増加している。",
+          "link": "https://coinpost.jp/?p=570194",
+          "publishedOn": "2024-11-02T03:30:24.000Z",
+          "wordCount": 2404,
+          "title": "ソラナのDeFi預け入れ総額8700億円到達　Messariの7～9月期レポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=570145",
           "author": "A.Yamada",
