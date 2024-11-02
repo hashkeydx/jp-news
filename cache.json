@@ -690,16 +690,6 @@
           "wordCount": 1303,
           "title": "コア・サイエンティフィックはAI需要を狙うのに有利な立場にある──ジェフリーズは「買い」推奨",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/UQQVJY76TFAKZAMQ4QCVDJTAKY.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=258617",
-          "author": "Marc Boiron",
-          "description": "ブロックチェーンはサイロ化して、流動性を分断し、使い勝手の悪いUXを生み出している。今こそ、その壁を取り払う時だと、ポリゴンラボ（Polygon Labs）のマ ...\nアグリゲーション、Web3を統合する唯一の方法 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/258617/",
-          "publishedOn": "2024-10-28T21:00:00.000Z",
-          "wordCount": 1284,
-          "title": "アグリゲーション、Web3を統合する唯一の方法",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/3P7CJZHILVGVXLEVXNV6PZFTCA.jpg"
         }
       ]
     },
@@ -714,6 +704,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=569462",
+          "author": "Shusaku.Akaji",
+          "description": "暗号資産（仮想通貨）業界で注目を集めるSuiがAI監査ツール開発やGoogle Cloudとの提携を通じてAI統合を加速。AIを活用することで、Web2の使いやすさとWeb3の革新性を組み合わせ、利便性向上とブロックチェーン普及を目指す。",
+          "link": "https://coinpost.jp/?p=569462",
+          "publishedOn": "2024-11-02T09:00:30.000Z",
+          "wordCount": 2524,
+          "title": "Sui（スイ）、Web3をAIで変革　エコシステムの最新動向",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/SUI-AI-1031.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/SUI-AI-1031.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=570219",
           "author": "菊谷ルイス",
@@ -1388,21 +1393,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/GbAGwOJbcAAy8fh.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/GbAGwOJbcAAy8fh.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=569155",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨ビットコインの価格が70,000ドルに迫る中、世界情勢の緩和と米国選挙を巡る投資家の動きが注目されている。",
-          "link": "https://coinpost.jp/?p=569155",
-          "publishedOn": "2024-10-28T21:25:22.000Z",
-          "wordCount": 2340,
-          "title": "ビットコイン7万ドルに迫る、アナリストが米大統領選とFOMCの影響を分析",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/pivot-fomc-new-market.jpeg"
         }
       ]
     },
