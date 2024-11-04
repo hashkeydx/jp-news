@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-04T07:26:50.004Z</updated>
+    <updated>2024-11-04T08:33:18.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイニングで生産コスト高騰が深刻化＝CoinSharesレポート]]></title>
+        <id>https://ec2-13-114-170-70.ap-northeast-1.compute.amazonaws.com/?p=570404</id>
+        <link href="https://coinpost.jp/?p=570404"/>
+        <updated>2024-11-04T06:30:25.000Z</updated>
+        <summary type="html"><![CDATA[CoinSharesは最新レポートで、ビットコインマイニングの収益が下落する中、難易度が上昇し、生産コストの高騰が深刻化していると指摘した。減価償却や株式ベースの報酬を含めると、1BTCあたりの平均生産コストは96,100ドル（約1,460万円）に達する可能性がある。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米Strive、ビットコイン組み入れ型の資産運用サービスを開始]]></title>
+        <id>https://coinpost.jp/?p=570398</id>
+        <link href="https://coinpost.jp/?p=570398"/>
+        <updated>2024-11-04T06:00:20.000Z</updated>
+        <summary type="html"><![CDATA[米資産運用会社Striveが新部門でポートフォリオにビットコイン投資を組み入れる。トランプ陣営のラマスワミ氏が共同設立した企業だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11月のトークン総アンロック量、前月比52%減の27億ドル規模に]]></title>
+        <id>https://coinpost.jp/?p=570393</id>
+        <link href="https://coinpost.jp/?p=570393"/>
+        <updated>2024-11-04T05:43:25.000Z</updated>
+        <summary type="html"><![CDATA[11月の主要な仮想通貨トークンのロック解除スケジュールを解説。Sui、アービトラム、アプトスなど、総額27億ドル規模の解除が予定されている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刑務所出所のバイナンス創業者CZ氏にドバイで喝采──新たな教育ベンチャーについて語る]]></title>
         <id>https://www.coindeskjapan.com/?p=259958</id>
