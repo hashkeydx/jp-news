@@ -390,36 +390,6 @@
           "wordCount": 1322,
           "title": "トークン化は有望、だが中央集権的コントロールが必要か：米財務省借入諮問委員会",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/BNLT2TDYMNCURJMVEURBQMNGMQ.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=259575",
-          "author": "T. Minamoto",
-          "description": "香港は中国本土の景気減速の余波を感じており、金融セクターや専門サービスの企業は需要の減退に対処すべく不動産の規模を縮小している。 一方で、NFT（非代替性トーク ...\nアニモカ、香港で他社が縮小する中、テニスコート10面分のワークスペースを拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/259575/",
-          "publishedOn": "2024-10-31T12:54:26.000Z",
-          "wordCount": 1358,
-          "title": "アニモカ、香港で他社が縮小する中、テニスコート10面分のワークスペースを拡大",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/Evan-Auyang-president-of-Animoca-Brands-speaks-in-an-interview-at-the-companys-new-Web3-workspace-in-Hong-Kong-Chris-LamCoinDesk.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=259472",
-          "author": "林 理南",
-          "description": "今年、2つのマイクロストラテジー（MicroStrategy）株式を追跡するETF（上場投資信託）が発売された。8月15日に導入されたディファイアンス・デイリー ...\n投機家がマイクロストラテジー株で高レバレッジを探し、大勝利 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/259472/",
-          "publishedOn": "2024-10-31T12:23:06.000Z",
-          "wordCount": 1285,
-          "title": "投機家がマイクロストラテジー株で高レバレッジを探し、大勝利",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/H4NCXNY4VBBEZN4CNHK4APOVFI.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=259564",
-          "author": "T. Minamoto",
-          "description": "米司法省は、暗号資産（仮想通貨）の「マーケットメーカー」であるマイトレードの運営者から有罪を認める言質を得たと発表した。同社は今月、市場操作の容疑をかけた複数の ...\n米司法省が市場操作の容疑をかけた企業群で初めて有罪を認めたマイトレード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/259564/",
-          "publishedOn": "2024-10-31T12:13:16.000Z",
-          "wordCount": 1347,
-          "title": "米司法省が市場操作の容疑をかけた企業群で初めて有罪を認めたマイトレード",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/08/shutterstock_1348640642.jpg"
         }
       ]
     },
@@ -434,6 +404,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=570582",
+          "author": "A.Yamada",
+          "description": "英国の年金サービス企業カートライトが、年金基金に仮想通貨ビットコイン投資を導入した。ポートフォリオ分散化などを期待している。",
+          "link": "https://coinpost.jp/?p=570582",
+          "publishedOn": "2024-11-05T01:48:23.000Z",
+          "wordCount": 2333,
+          "title": "英企業カートライト、年金基金のポートフォリオにビットコイン導入へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427d_jpg-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427d_jpg-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=570572",
+          "author": "K.Kobayashi",
+          "description": "ドイツテレコム子会社Telekom MMSは、余剰エネルギーを活用して仮想通貨ビットコインのマイニングのインフラを運営する試験的なプロジェクトの実施を発表。今後のエネルギープロジェクトのためにデータや情報を提供する。",
+          "link": "https://coinpost.jp/?p=570572",
+          "publishedOn": "2024-11-05T01:27:37.000Z",
+          "wordCount": 2349,
+          "title": "欧州通信大手ドイツテレコム子会社、ビットコイン採掘の実験プロジェクト実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/mine-of-bitcoin.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/mine-of-bitcoin.jpeg"
+        },
         {
           "id": "https://ec2-13-114-170-70.ap-northeast-1.compute.amazonaws.com/?p=570404",
           "author": "幸田直子",
@@ -875,16 +875,6 @@
           "wordCount": 772,
           "title": "バイナンス共同創業者、「Web3が身近な社会実現目指す」と語る。伝統的金融や規制当局と協力の姿勢も＝BBW",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/01111532/5f9367e74a70a204fabbc40f239f0498.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=428282",
-          "author": "HitomotoToshikazu",
-          "description": "SuiPlay0X1に『サムライスピリッツ』が登場 レイヤー1（L1）ブロックチェーン「スイ（Sui）」に対応した世界初の携帯型ゲーム機「スイプレイ0X1（SuiPlay0X1）」に、格闘ゲーム『サムライスピリッツR（S […]",
-          "link": "https://www.neweconomy.jp/posts/428282",
-          "publishedOn": "2024-10-31T13:09:46.000Z",
-          "wordCount": 766,
-          "title": "Sui対応の携帯型ゲーム機「SuiPlay0X1」に格闘ゲーム『サムライスピリッツR』登場",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/10/31211348/SUI-241031koyu.jpg"
         }
       ]
     }
