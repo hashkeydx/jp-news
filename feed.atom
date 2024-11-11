@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-11T09:28:35.946Z</updated>
+    <updated>2024-11-11T10:32:25.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【11/11話題】ビットコインが初の8万ドル台に、ビットトレードで「JOCトークン」IEOなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=430310</id>
+        <link href="https://www.neweconomy.jp/posts/430310"/>
+        <updated>2024-11-11T10:24:53.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは長期的には強気だが、8万ドル超えはやや行き過ぎ：テクニカル分析]]></title>
         <id>https://www.coindeskjapan.com/?p=261162</id>
@@ -1113,36 +1123,6 @@ JPモルガン、ブロックチェーン決済基盤「Onyx」を「Kinexys」�
 ビットコイン、7万6000ドルを史上初めて突破──約4億ドルのショートポジションが清算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「米国史上最も仮想通貨に肯定的な議会」誕生か　共和党が上院の過半数奪還]]></title>
-        <id>https://coinpost.jp/?p=570972</id>
-        <link href="https://coinpost.jp/?p=570972"/>
-        <updated>2024-11-06T22:30:11.000Z</updated>
-        <summary type="html"><![CDATA[米大統領選と同時に行われた連邦議会選は、仮想通貨に肯定的な候補者が否定的な候補者よりも多く当選している。仮想通貨の規制整備の観点からは大統領選に加え、議会選も重要である。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのビットコイン現物ETFの出来高急増、トランプ氏勝利を受け]]></title>
-        <id>https://coinpost.jp/?p=570977</id>
-        <link href="https://coinpost.jp/?p=570977"/>
-        <updated>2024-11-06T22:10:31.000Z</updated>
-        <summary type="html"><![CDATA[米大統領選でトランプ氏の当選が確実となった翌日、ブラックロックのIBITビットコイン現物ETFの取引高は急増したこと確認された。投資家からの需要が一気に高まったようだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、最高値更新で76000ドル到達　トランプ氏当選確実で市場が活気づく]]></title>
-        <id>https://coinpost.jp/?p=570966</id>
-        <link href="https://coinpost.jp/?p=570966"/>
-        <updated>2024-11-06T21:30:03.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは日本時間7日5時45分ごろ、史上最高値を更新し、76,000ドル（1175万円）に到達した。トランプ氏や多くの仮想通貨支持派議員候補が当選したことが好感された。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
