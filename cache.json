@@ -505,6 +505,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=572097",
+          "author": "幸田直子",
+          "description": "バイナンス・ブロックチェーンウィーク2024での独自取材を基に、最高マーケティング責任者のRachel Conlan氏が語る10億人ユーザー獲得戦略と日本市場への展望を詳説する。",
+          "link": "https://coinpost.jp/?p=572097",
+          "publishedOn": "2024-11-13T07:00:51.000Z",
+          "wordCount": 3046,
+          "title": "バイナンス幹部が語る10億人ユーザー獲得のための戦略とは【独自取材　前編】",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/binance_20200108_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/binance_20200108_2.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=572341",
           "author": "Shusaku.Akaji",
           "description": "国内の主要暗号資産取引所SBI VCトレードは、預かり総資産が2,000億円を突破したことを発表した。ビットコイン（BTC）やアルトコインの高騰が後押ししており、需要が急拡大した。",
@@ -1067,6 +1082,36 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=430907",
+          "author": "NewEconomy",
+          "description": "ステーキング報酬提供も 米暗号資産運用会社ビットワイズ（Bitwise）が、「アプトスステーキングETP（Aptos Staking ETP：APTB）」を上場予定だと11月12日発表した。 発表によれば、同ETPは11 […]",
+          "link": "https://www.neweconomy.jp/posts/430907",
+          "publishedOn": "2024-11-13T06:48:03.000Z",
+          "wordCount": 684,
+          "title": "ビットワイズ、世界初のアプトス（APT）のETPをスイスで上場へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/13154744/06cd9efb3ce54b31b01a2bc9bd8ed748.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=430780",
+          "author": "HitomotoToshikazu",
+          "description": "NEARで400以上のイーサリアムウォレットに直接統合 レイヤー1（L1）ブロックチェーン「ニアプロトコル（Near Protocol）」で、メタマスク（MetaMask）をはじめとした400種類以上のイーサリアム（Et […]",
+          "link": "https://www.neweconomy.jp/posts/430780",
+          "publishedOn": "2024-11-13T06:40:49.000Z",
+          "wordCount": 783,
+          "title": "ニアプロトコル（NEAR）、メタマスクなど400以上のイーサリアムウォレットが直接統合",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/13152105/56b1cc683c1a428cfe9c227ca251ed0d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=430892",
+          "author": "TamuraSeiji",
+          "description": "Story Protocolの最終テストネット「Odyssey」が稼働開始 IPのトークン化に特化したEVM互換のレイヤー1（L1）ブロックチェーンであるストーリープロトコル（Story Protocol）の最終テストネ […]",
+          "link": "https://www.neweconomy.jp/posts/430892",
+          "publishedOn": "2024-11-13T06:36:41.000Z",
+          "wordCount": 656,
+          "title": "IPトークン化ブロックチェーン「Story Protocol」、最終テストネット「Odyssey」稼働開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/13153627/8c793e38dff5bfb08a491eba2167388f.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=430854",
           "author": "HitomotoToshikazu",
           "description": "STRKのステーキングが11月26日から開始 イーサリアム（Ethereum）のレイヤー（L2）スケーリングソリューション「スタークネット（StarkNet）」で、ガバナンストークン「STRK」のステーキングが11月26 […]",
@@ -1275,16 +1320,6 @@
           "wordCount": 738,
           "title": "ビットコイン（BTC）が初の8万ドル台、トランプに期待",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/11102752/46e3ffad12a314460ca6deef298ea7ee.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=429940",
-          "author": "NewEconomy",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/429940",
-          "publishedOn": "2024-11-08T18:54:46.000Z",
-          "wordCount": 772,
-          "title": "【11/8話題】ビットバンクがBitbank Ventures設立、米デトロイト市が暗号資産での納税を受け入れへなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/08162923/news_head_20241108.jpg"
         }
       ]
     }
