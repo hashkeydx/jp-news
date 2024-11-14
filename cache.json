@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=261640",
+          "author": "林 理南",
+          "description": "ビットコイン（BTC）は今週これ以前に9万ドル（約1395万円、1ドル155円換算）のレベルに何度か跳ね返されたが、13日アメリカ時間午前にこのレジスタンスを突 ...\nビットコインが9万3000ドル超えで史上最高値を更新──アメリカの強い需要でレジスタンスを突破 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/261640/",
+          "publishedOn": "2024-11-14T00:01:55.000Z",
+          "wordCount": 1368,
+          "title": "ビットコインが9万3000ドル超えで史上最高値を更新──アメリカの強い需要でレジスタンスを突破",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/NZDM537T5FZDKJJIHCEXL4RVN3E.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=261628",
           "author": "Helene Braun",
           "description": "イギリスのロンドンを拠点とするデジタルバンクのRevolut（レボリュート）は11月13日、暗号資産（仮想通貨）取引へのアクセスを欧州連合全域に拡大すると発表し ...\nRevolut、イギリスでの成功を受けて暗号資産取引所をEU全域に拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -510,16 +520,6 @@
           "wordCount": 1284,
           "title": "イーサリアム、3000ドルを突破──トランプ氏勝利とFRB利下げ後に強気のモメンタム",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/NWJHG5G35GJGYXPUEQLDI3QGLYA.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=260933",
-          "author": "林 理南",
-          "description": "テザー（Tether）社は、同社の投資部門が大手石油会社とコモディティ（商品）トレーダーの間の4500万ドル（約6750億円、1ドル150円換算）の原油取引に資 ...\nステーブルコイン大手テザー、4500万ドル資金提供で中東原油取引に参入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/260933/",
-          "publishedOn": "2024-11-09T13:48:37.000Z",
-          "wordCount": 1286,
-          "title": "ステーブルコイン大手テザー、4500万ドル資金提供で中東原油取引に参入",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/MMSDIG7M3BBRVE7YSEYQGGUUM4.jpg"
         }
       ]
     },
@@ -534,6 +534,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=572630",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ウォレットアプリPhantomの開発元が14日、一部のiOSユーザーでアプリのリセット問題が発生していると公表した。この問題は、アプリの最新アップデート後に一部のユーザーが自動的にログアウトされ、ウォレットへのアクセスができなくなるというものだ。",
+          "link": "https://coinpost.jp/?p=572630",
+          "publishedOn": "2024-11-13T23:30:20.000Z",
+          "wordCount": 3007,
+          "title": "復元フレーズのバックアップを推奨、Phantomウォレット　iOSアップデート問題めぐり",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/phantom_0811.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/phantom_0811.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=572621",
           "author": "K.Kobayashi",
