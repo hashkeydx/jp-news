@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-15T11:24:09.874Z</updated>
+    <updated>2024-11-15T12:51:01.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【11/15話題】DMM CryptoのSeamoon Protocolが中止、FBIがポリマーケットCEO宅を捜索など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=431443</id>
+        <link href="https://www.neweconomy.jp/posts/431443"/>
+        <updated>2024-11-15T11:47:44.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインオプション市場の指標は急落を予測するパターンを示している]]></title>
         <id>https://www.coindeskjapan.com/?p=261961</id>
@@ -1552,16 +1562,6 @@ Japan Open Chainが「JOCトークン」のIEO、15億円調達を目指す─�
         <summary type="html"><![CDATA[ビットコイン（BTC）が初の8万ドル台 暗号資産（仮想通貨）ビットコイン（BTC）が10月10日の取引で一時、初の8万ドル台に乗せた。米大統領選でドナルド・トランプ（Donald Trump）氏が決定的な勝利を収めたこと […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドージコイン（DOGE）が3年ぶり高値まで上昇　米大統領選とイーロンマスクの動向背景に]]></title>
-        <id>https://coinpost.jp/?p=571684</id>
-        <link href="https://coinpost.jp/?p=571684"/>
-        <updated>2024-11-11T00:40:55.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ドージコイン（DOGE）が急騰し、2021年のバブル以来3年ぶりの高値水準を記録した。トランプ氏の米大統領再選とイーロン・マスク氏の動向が背景にある。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
