@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-19T12:52:44.146Z</updated>
+    <updated>2024-11-19T13:35:12.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル吉川氏、退任「次の挑戦に向けてじっくり検討」]]></title>
+        <id>https://www.coindeskjapan.com/?p=262671</id>
+        <link href="https://www.coindeskjapan.com/262671/"/>
+        <updated>2024-11-19T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[米リップル（Ripple）社戦略イニシアチブ担当バイスプレジデントの吉川絵美氏が同社を去る。同氏が19日朝、Xに投稿した。 SEC（米証券取引委員会）との長年の ...
+リップル吉川氏、退任「次の挑戦に向けてじっくり検討」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>増田 隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本円ステーブルコイン「JPYC」活用で健康経営の実証実験へ]]></title>
         <id>https://www.neweconomy.jp/?p=432409</id>
@@ -1282,16 +1293,6 @@ DMM Crypto、Web3事業「Seamoon Protocol」撤退を発表──独自トー�
         <summary type="html"><![CDATA[仮想通貨イーサリアムL2のStarknetがビットコインにも対応する可能性がある。StarkWare CEOが1年以内のOP_CAT導入に期待を示した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カナダ上場企業、ビットコインステーキング「Core」に戦略投資へ　マイクロストラテジーをモデルに]]></title>
-        <id>https://coinpost.jp/?p=572814</id>
-        <link href="https://coinpost.jp/?p=572814"/>
-        <updated>2024-11-15T01:25:23.000Z</updated>
-        <summary type="html"><![CDATA[カナダの上場企業DeFi Technologiesが、ビットコインステーキングプロトコル「Core」への投資を目的とした新会社を設立した、]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
