@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-19T10:34:58.546Z</updated>
+    <updated>2024-11-19T11:24:47.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pendle、利回り取引の新プラットフォーム「Boros」発表]]></title>
+        <id>https://www.neweconomy.jp/?p=432391</id>
+        <link href="https://www.neweconomy.jp/posts/432391"/>
+        <updated>2024-11-19T11:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Pendleが証拠金による利回り取引を可能にするプラットフォーム「Boros」を発表 分散型金融（DeFi）プロトコルのペンドル（Pendle）が利回り取引の新しいプラットフォームである「ボロス（Boros）」を11月1 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOLがBTCをアウトパフォーム──ソラナベースのDEXでの週取引高が過去最高に]]></title>
         <id>https://www.coindeskjapan.com/?p=262628</id>
@@ -15,6 +25,16 @@
 SOLがBTCをアウトパフォーム──ソラナベースのDEXでの週取引高が過去最高に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタプラネット、ビットコイン追加購入　BTC保有総額160億円規模に、株価15%上昇]]></title>
+        <id>https://coinpost.jp/?p=573873</id>
+        <link href="https://coinpost.jp/?p=573873"/>
+        <updated>2024-11-19T10:15:30.000Z</updated>
+        <summary type="html"><![CDATA[メタプラネットが17.5億円分のビットコインを追加購入し、BTC保有総額が約160億円規模に拡大。1BTCあたり約1,410万円で124.117BTCを取得し、保有数は1,142BTCに。株価も15.1%高となった。]]></summary>
+        <author>
+            <name>Shusaku.Akaji</name>
         </author>
     </entry>
     <entry>
@@ -1252,27 +1272,6 @@ DMM Crypto、Web3事業「Seamoon Protocol」撤退を発表──独自トー�
         <summary type="html"><![CDATA[仮想通貨ステーブルコインの最大手テザーは14日、あらゆる資産のトークン化を簡素化するプラットフォーム「Hadron by Tether」を発表した。株式、債券、ステーブルコイン、ロイヤリティポイントなど、幅広い資産のトークン化に対応し、機関投資家やファンドマネージャー、政府から民間企業まで幅広い層に向けた発行・投資・資本市場テクノロジーの新たな道を開くとしている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米NYSE、ビットワイズの仮想通貨指数ファンドをETPとして上場する申請を提出]]></title>
-        <id>https://coinpost.jp/?p=572803</id>
-        <link href="https://coinpost.jp/?p=572803"/>
-        <updated>2024-11-14T23:05:56.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨資産運用会社Bitwiseは15日、同社が運用する時価総額2,000億円の仮想通貨インデックスファンド「Bitwise 10 Crypto Index Fund」について、NYSE ArcaがETPへの転換申請を行ったと発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインチェック、米ナスダック上場の目的・グローバル戦略──メジャーで戦うために“世界共通買収通貨”を手に入れる【松本大氏 緊急インタビュー】]]></title>
-        <id>https://www.coindeskjapan.com/?p=261734</id>
-        <link href="https://www.coindeskjapan.com/261734/"/>
-        <updated>2024-11-14T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[マネックスグループが2022年3月に発表した暗号資産（仮想通貨）取引所コインチェック（Coincheck）の米ナスダック上場がまもなく実現する見通しだ。12月1 ...
-コインチェック、米ナスダック上場の目的・グローバル戦略──メジャーで戦うために“世界共通買収通貨”を手に入れる【松本大氏 緊急インタビュー】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
         </author>
     </entry>
 </feed>
