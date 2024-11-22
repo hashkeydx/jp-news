@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-22T14:31:29.367Z</updated>
+    <updated>2024-11-22T15:30:08.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【11/22話題】SECゲンスラー委員長が退任へ、金融庁が暗号資産・ステーブルコイン仲介業の新設検討など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=433239</id>
+        <link href="https://www.neweconomy.jp/posts/433239"/>
+        <updated>2024-11-22T14:44:32.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suiネットワークがバグが原因で約2時間停止、現在は復旧済み]]></title>
+        <id>https://www.neweconomy.jp/?p=433378</id>
+        <link href="https://www.neweconomy.jp/posts/433378"/>
+        <updated>2024-11-22T14:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Suiのネットワークが約2時間停止 レイヤー1ブロックチェーン「Sui（スイ）」のメインネットネットワークが、バグにより11月21日に約2時間にわたり完全停止した。なお現在では回復しており通常通り利用可能だ。 「スイ（S […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チャールズ・シュワブが顧客に直接暗号資産を提供する計画──次期CEOが明かす]]></title>
         <id>https://www.coindeskjapan.com/?p=263208</id>
@@ -1782,37 +1802,6 @@ CATトークンがソラナに拡大──強気相場の準備が整う first a
         <summary type="html"><![CDATA[「Phantom」がウォレットのリセットを警告 暗号資産（仮想通貨）ウォレット「ファントム（Phantom）」で、iOS版のアプリのアップデートを行った場合にアプリから強制ログアウトされリカバリフレーズのバックアップを行 […]]]></summary>
         <author>
             <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米資産運用会社VanEck、EUで「スイ（SUI）」のETN提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=431711</id>
-        <link href="https://www.neweconomy.jp/posts/431711"/>
-        <updated>2024-11-18T03:21:30.000Z</updated>
-        <summary type="html"><![CDATA[VanEckがSui ETN提供開始 米資産運用会社ヴァンエック（VanEck）が、暗号資産（仮想通貨）スイ：Sui（SUI）の価格に連動するETN（Exchange Traded Note：上場投資証券）「VanEck […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBINFT、NFT販売プラットフォーム「LAUNCHPAD」提供開始──「コインムスメ」などローンチパートナー]]></title>
-        <id>https://www.coindeskjapan.com/?p=262227</id>
-        <link href="https://www.coindeskjapan.com/262227/"/>
-        <updated>2024-11-18T02:59:26.000Z</updated>
-        <summary type="html"><![CDATA[SBINFTは、NFTの発行・販売に特化したB2B向けプラットフォーム「SBINFT LAUNCHPAD」の提供を開始した。同サービスは、NFT販売事業者向けに ...
-SBINFT、NFT販売プラットフォーム「LAUNCHPAD」提供開始──「コインムスメ」などローンチパートナー first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨相場はトランプ・トレード継続か、主要アルトはXRPに続きソラナ（SOL）が買い優勢に]]></title>
-        <id>https://coinpost.jp/?p=573406</id>
-        <link href="https://coinpost.jp/?p=573406"/>
-        <updated>2024-11-18T02:52:53.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場では、規制緩和路線の見込めるトランプ政権の誕生を見込み、トランプトレードが継続している。時価総額上位の主要アルトコインでは、ドージコイン（DOGE）、XRP（リップル）に続きソラナ（SOL）が買われた。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
         </author>
     </entry>
 </feed>
