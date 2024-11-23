@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-23T01:55:35.741Z</updated>
+    <updated>2024-11-23T03:00:15.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP・SOLOなど高騰、トランプ新政権でリップル技術採用への期待高まる]]></title>
+        <id>https://coinpost.jp/?p=574932</id>
+        <link href="https://coinpost.jp/?p=574932"/>
+        <updated>2024-11-23T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米SECのゲンスラー委員長が2025年1月に退任することが発表され、過去4年間の厳格な仮想通貨規制からの転換期待からXRPの価格が高騰している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米仮想通貨業界団体、トランプ新政権に5つの優先事項を提案]]></title>
+        <id>https://coinpost.jp/?p=574860</id>
+        <link href="https://coinpost.jp/?p=574860"/>
+        <updated>2024-11-23T01:50:51.000Z</updated>
+        <summary type="html"><![CDATA[米ブロックチェーン協会が次期トランプ政権に仮想通貨の取り組みにおける優先事項を提案した。SEC新体制など5つの項目を掲げている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ次期米大統領、仮想通貨支持派のベセント氏を財務長官に起用する方向]]></title>
         <id>https://coinpost.jp/?p=574892</id>
@@ -1659,16 +1679,6 @@ SOLがBTCをアウトパフォーム──ソラナベースのDEXでの週取�
         <summary type="html"><![CDATA[米マイクロストラテジーの仮想通貨ビットコイン保有額が初めて4兆円を突破した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/18話題】JPYCの累計発行額30億円に、イーロンマスクがDOGEを不正操作したとする訴訟が終了など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=431849</id>
-        <link href="https://www.neweconomy.jp/posts/431849"/>
-        <updated>2024-11-18T14:12:52.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
