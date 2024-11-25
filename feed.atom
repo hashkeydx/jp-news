@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-24T23:27:12.359Z</updated>
+    <updated>2024-11-25T02:01:13.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カストディ大手BitGo、シンガポールで事業拡大]]></title>
+        <id>https://www.neweconomy.jp/?p=433280</id>
+        <link href="https://www.neweconomy.jp/posts/433280"/>
+        <updated>2024-11-25T01:59:43.000Z</updated>
+        <summary type="html"><![CDATA[BitGoがシンガポールで事業拡大 ビットゴー・シンガポール（BitGo Singapore Pte. Ltd.）が、シンガポールでの事業を拡大し、アジア太平洋地域（APAC）において最高水準のデジタル資産ソリューション […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFiプロトコル「スカイ（旧メイカー）」、独自ステーブルコインUSDSをソラナ展開]]></title>
+        <id>https://www.neweconomy.jp/?p=433451</id>
+        <link href="https://www.neweconomy.jp/posts/433451"/>
+        <updated>2024-11-25T01:59:08.000Z</updated>
+        <summary type="html"><![CDATA[SkyがUSDSをSolana展開 DeFi（分散型金融）プロトコル「スカイ（Sky：旧Maker）」発行の独自ステーブルコイン「USDS」が、ソラナ（Solana）上に展開された。「スカイ」公式Xアカウントより11月1 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年：ビットコインがメインストリームに浮上した年]]></title>
         <id>https://www.coindeskjapan.com/?p=263303</id>
@@ -957,36 +977,6 @@ XRPとドージコインの取引高、韓国でビットコインを超える f
 ロビンフッドは暗号資産の規制緩和で最も恩恵を受ける銘柄：バーンスタイン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジェミナイ、フランスで正式にサービス展開]]></title>
-        <id>https://www.neweconomy.jp/?p=432708</id>
-        <link href="https://www.neweconomy.jp/posts/432708"/>
-        <updated>2024-11-20T12:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Geminiがフランスでサービス展開 ウィンクルボス（Winklevoss）兄弟が運営する暗号資産（仮想通貨）取引所のジェミナイ（Gemini）が、フランスで正式にサービス展開した。ジェミナイの公式Xアカウントが、web […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/20話題】ビットコインが94000ドルの最高値更新、サントリーが数量限定ビールにアバランチNFTなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=432589</id>
-        <link href="https://www.neweconomy.jp/posts/432589"/>
-        <updated>2024-11-20T12:11:07.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVM互換のL1ブロックチェーン「Monad」、テストネットを段階的に公開へ]]></title>
-        <id>https://www.neweconomy.jp/?p=432555</id>
-        <link href="https://www.neweconomy.jp/posts/432555"/>
-        <updated>2024-11-20T12:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Monadがテストネットをローンチへ 高性能なEVM（イーサリアムバーチャルマシン）互換のレイヤー1（L1）ブロックチェーン「モナド（Monad）」のテストネットが、順次公開される予定であることがWeb3メディア「The […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
