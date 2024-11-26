@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-26T21:26:50.226Z</updated>
+    <updated>2024-11-26T22:31:44.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラジル下院、ビットコイン準備金の設立を提案]]></title>
+        <id>https://coinpost.jp/?p=575754</id>
+        <link href="https://coinpost.jp/?p=575754"/>
+        <updated>2024-11-26T22:09:18.000Z</updated>
+        <summary type="html"><![CDATA[南米ブラジルの下院が提案する法案は、国家財政の5%に相当する約185億ドル相当の仮想通貨ビットコインを戦略的な準備金として確保することを目指している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインを売らない」米マイクロストラテジーのセイラー会長が再度強調]]></title>
+        <id>https://coinpost.jp/?p=575747</id>
+        <link href="https://coinpost.jp/?p=575747"/>
+        <updated>2024-11-26T21:45:09.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロストラテジーのマイケル・セイラー会長は再び、投資家からの売却観測に対して明確な姿勢を示した。SNS上で「売らない」と断言し、同社の強固なビットコイン投資戦略を改めて強調した]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン下落の背景　アナリストが米経済データの影響などを分析]]></title>
         <id>https://coinpost.jp/?p=575740</id>
@@ -891,28 +911,6 @@ XRP、DOGEが損失を主導──ビットコインの週末の下落で5億ド
         <summary type="html"><![CDATA[トランプ次期政権下でのXRP現物ETF承認の可能性を詳しく解説。SEC委員長交代や規制緩和への期待、市場への影響を専門家の見解とともに分析。ビットコイン、イーサリアムに続く承認タイミングと価格への影響を予測します。2025年のXRP市場展望を徹底解説。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスターカードとJPモルガン、ブロックチェーン上の国際決済を目指し提携]]></title>
-        <id>https://www.coindeskjapan.com/?p=263173</id>
-        <link href="https://www.coindeskjapan.com/263173/"/>
-        <updated>2024-11-22T10:12:34.000Z</updated>
-        <summary type="html"><![CDATA[決済大手マスターカード（Mastercard）は、トークン化資産を移動させるためのブロックチェーンベースのシステムである自社のマルチトークン・ネットワーク（MT ...
-マスターカードとJPモルガン、ブロックチェーン上の国際決済を目指し提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ、2年半ぶりの高値更新──クジラや機関投資家の関与がオンチェーンデータで示される]]></title>
-        <id>https://www.coindeskjapan.com/?p=263174</id>
-        <link href="https://www.coindeskjapan.com/263174/"/>
-        <updated>2024-11-22T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）が初めて10万ドルに迫る中（11月22日に9万9000ドルを突破）、資本がアルトコインに流入し、暗号資産（仮想通貨）市場全体が盛況となって ...
-カルダノ、2年半ぶりの高値更新──クジラや機関投資家の関与がオンチェーンデータで示される first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
