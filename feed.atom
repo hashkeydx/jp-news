@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-26T05:30:55.317Z</updated>
+    <updated>2024-11-26T06:37:15.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サトシ・ナカモトめぐる新仮説、2010年のクジラウォレット所有者の可能性が浮上]]></title>
+        <id>https://coinpost.jp/?p=575397</id>
+        <link href="https://coinpost.jp/?p=575397"/>
+        <updated>2024-11-26T06:27:01.000Z</updated>
+        <summary type="html"><![CDATA[BTCparserが独自のブロックチェーン分析から、サトシ・ナカモトについて新たな仮説を発表。サトシが2010年に匿名でマイニングを再開し、戦略的にビットコインを蓄積・売却した可能性が指摘された。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アバランチ大型アップグレード「Avalanche 9000」、テストネットで稼働開始]]></title>
+        <id>https://www.neweconomy.jp/?p=433975</id>
+        <link href="https://www.neweconomy.jp/posts/433975"/>
+        <updated>2024-11-26T06:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Avalanche 9000がテストネットで稼働開始 レイヤー1ブロックチェーンのアバランチ（Avalanche）による大型ネットワークアップグレードイベント「Avalanche 9000」が、同チェーンのテストネット「 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Pay日本開始、56銘柄の暗号資産を即時送金可能に　基本手数料無料]]></title>
+        <id>https://coinpost.jp/?p=575425</id>
+        <link href="https://coinpost.jp/?p=575425"/>
+        <updated>2024-11-26T06:20:54.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の暗号資産取引所Binanceの日本法人が、新送金サービス「Binance Pay」を開始した。ビットコインなど56銘柄に対応し、手数料無料・24時間即時送金が可能。QRコードやメールアドレスで簡単に送金可能だ。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phantomウォレット、イーサL2「Base」に正式対応]]></title>
+        <id>https://www.neweconomy.jp/?p=433957</id>
+        <link href="https://www.neweconomy.jp/posts/433957"/>
+        <updated>2024-11-26T05:41:12.000Z</updated>
+        <summary type="html"><![CDATA[PhantomがBaseに正式対応 暗号資産（仮想通貨）ウォレット「ファントム（Phantom）」が、イーサリアム（Ethereum）レイヤー2ブロックチェーンのベース（Base）対応を正式に開始した。「ファントム」公式 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスラボ、BNBチェーン基盤のリステーキングプラットフォーム「Kernel」に出資]]></title>
         <id>https://www.neweconomy.jp/?p=433940</id>
