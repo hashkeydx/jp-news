@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-26T10:34:53.776Z</updated>
+    <updated>2024-11-26T11:24:26.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バビロンラボらがビットコイン（BTC）をスイに統合]]></title>
+        <id>https://www.neweconomy.jp/?p=434160</id>
+        <link href="https://www.neweconomy.jp/posts/434160"/>
+        <updated>2024-11-26T11:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Suiにビットコイン統合 バビロンラボ（Babylon Labs）、ロンバード（Lombard）、キュービスト（Cubist）が、ビットコイン（BTC）をレイヤー1ブロックチェーン「スイ（Sui）」に統合することを11月 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル、XRPレジャー上でのトークン化MMFを立ち上げ──Archax、アバディーンと共同で]]></title>
+        <id>https://www.coindeskjapan.com/?p=263724</id>
+        <link href="https://www.coindeskjapan.com/263724/"/>
+        <updated>2024-11-26T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[イギリスで認可を受けた暗号資産（仮想通貨）取引・カストディ会社のArchaxが、緊密に連携するリップル・ラボ（Ripple Labs）および投資会社アバディーン ...
+リップル、XRPレジャー上でのトークン化MMFを立ち上げ──Archax、アバディーンと共同で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVM互換のzkロールアップ「Zircuit」、独自トークン「ZRC」正式ローンチ]]></title>
         <id>https://www.neweconomy.jp/?p=434039</id>
@@ -1072,26 +1093,6 @@ XRP、DOGEが損失を主導──ビットコインの週末の下落で5億ド
         <link href="https://coinpost.jp/?p=574620"/>
         <updated>2024-11-22T00:55:27.000Z</updated>
         <summary type="html"><![CDATA[約2.5時間稼働を停止していた仮想通貨SUIのブロックチェーンが復旧。その後、原因や今後の対策を公表している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロストラテジー、ビットコイン追加購入のための30億ドル調達を完了]]></title>
-        <id>https://coinpost.jp/?p=574604</id>
-        <link href="https://coinpost.jp/?p=574604"/>
-        <updated>2024-11-21T23:20:51.000Z</updated>
-        <summary type="html"><![CDATA[米マイクロストラテジーは21日に仮想通貨ビットコイン追加購入のための、2029年満期の無利息転換社債の募集を完了したと報告した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨のイノベーションと利用者保護の両立へ　金融庁、仲介業の新設を検討]]></title>
-        <id>https://coinpost.jp/?p=574595</id>
-        <link href="https://coinpost.jp/?p=574595"/>
-        <updated>2024-11-21T22:50:27.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨のイノベーションと利用者保護の両立に向けて、金融庁が仲介業の新設を検討。この会議ではステーブルコインも議題に上がった。]]></summary>
         <author>
             <name>K.Kobayashi</name>
         </author>
