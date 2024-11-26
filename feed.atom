@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-26T12:53:45.347Z</updated>
+    <updated>2024-11-26T13:35:47.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oasys、ゲーム特化型NFTマーケットプレイス「Bazaar」始動 ── RaribleXと提携]]></title>
+        <id>https://www.coindeskjapan.com/?p=263733</id>
+        <link href="https://www.coindeskjapan.com/263733/"/>
+        <updated>2024-11-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム特化型ブロックチェーンを展開するオアシス（Oasys）は11月26日、マルチチェーン対応のNFTマーケットプレイスソリューション「RaribleX」と提携 ...
+Oasys、ゲーム特化型NFTマーケットプレイス「Bazaar」始動 ── RaribleXと提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの長期保有者は、さらに16万3000BTCを売却する可能性がある]]></title>
         <id>https://www.coindeskjapan.com/?p=263759</id>
@@ -1086,26 +1097,6 @@ XRP、DOGEが損失を主導──ビットコインの週末の下落で5億ド
         <summary type="html"><![CDATA[米SEC委員長が来年1月に退任へ 米証券取引委員会（SEC）のゲイリー・ゲンスラー（Gary Gensler）委員長が、ドナルド・トランプ（Donald Trump）次期大統領が就任する来年1月20日に退任することになっ […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨擬人化BCG「コインムスメ」、板野友美がアンバサダー就任]]></title>
-        <id>https://coinpost.jp/?p=574611</id>
-        <link href="https://coinpost.jp/?p=574611"/>
-        <updated>2024-11-22T01:10:05.000Z</updated>
-        <summary type="html"><![CDATA[タレントの板野友美氏がWeb3ゲーム「コインムスメ」のアンバサダーに就任。板野氏プロデュースのアイドルグループとのコラボユニットも結成する。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約2.5時間停止していたSuiのブロックチェーンが復旧　原因や対策を公表]]></title>
-        <id>https://coinpost.jp/?p=574620</id>
-        <link href="https://coinpost.jp/?p=574620"/>
-        <updated>2024-11-22T00:55:27.000Z</updated>
-        <summary type="html"><![CDATA[約2.5時間稼働を停止していた仮想通貨SUIのブロックチェーンが復旧。その後、原因や今後の対策を公表している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
