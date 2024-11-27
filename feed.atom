@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-11-27T02:02:42.229Z</updated>
+    <updated>2024-11-27T03:06:33.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カナダバンクーバーの市長、ビットコイン財務戦略の採用を提議]]></title>
+        <id>https://coinpost.jp/?p=575788</id>
+        <link href="https://coinpost.jp/?p=575788"/>
+        <updated>2024-11-27T02:20:07.000Z</updated>
+        <summary type="html"><![CDATA[カナダ・バンクーバー市のケン・シム市長は26日に仮想通貨ビットコインを市の貸借対照表に加える動議を提出した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産の利益で低所得者層が住宅購入──しかしリスクの可能性も]]></title>
+        <id>https://www.coindeskjapan.com/?p=263787</id>
+        <link href="https://www.coindeskjapan.com/263787/"/>
+        <updated>2024-11-27T02:10:52.000Z</updated>
+        <summary type="html"><![CDATA[米財務省金融調査局（Office of Financial Research）が26日に発表した論文によると、暗号資産（仮想通貨）への投資により、低所得のアメリ ...
+暗号資産の利益で低所得者層が住宅購入──しかしリスクの可能性も first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[長期保有者が3000億円の利確、ビットコイン売却トレンドをGlassnodeが分析]]></title>
         <id>https://coinpost.jp/?p=575772</id>
@@ -952,26 +973,6 @@ XRP、DOGEが損失を主導──ビットコインの週末の下落で5億ド
         <summary type="html"><![CDATA[ビットコインをさらに買い増し米マイニング大手のMARAHoldings（マラソン）は23日、2030年満期のゼロクーポン転換社債10億ドル（1500億円）の発行を完了し、その一部を活用してビットコイン（BTC）の購入を実施した。同社は平均価...]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/22話題】SECゲンスラー委員長が退任へ、金融庁が暗号資産・ステーブルコイン仲介業の新設検討など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=433239</id>
-        <link href="https://www.neweconomy.jp/posts/433239"/>
-        <updated>2024-11-22T14:44:32.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suiネットワークがバグが原因で約2時間停止、現在は復旧済み]]></title>
-        <id>https://www.neweconomy.jp/?p=433378</id>
-        <link href="https://www.neweconomy.jp/posts/433378"/>
-        <updated>2024-11-22T14:38:21.000Z</updated>
-        <summary type="html"><![CDATA[Suiのネットワークが約2時間停止 レイヤー1ブロックチェーン「Sui（スイ）」のメインネットネットワークが、バグにより11月21日に約2時間にわたり完全停止した。なお現在では回復しており通常通り利用可能だ。 「スイ（S […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
