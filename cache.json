@@ -485,6 +485,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=576173",
+          "author": "S.Ninomiya",
+          "description": "暗号資産（仮想通貨）市場ではコインマーケットキャップ時価総額上位の主要アルトコインで、イーサリアム（ETH）が前日比+8.1%とビットコイン（BTC）の+3.7%をアウトパフォームした。大口投資家（クジラ）の動向では流入量は714,430ETHと4週間で最高を記録している。",
+          "link": "https://coinpost.jp/?p=576173",
+          "publishedOn": "2024-11-28T03:24:32.000Z",
+          "wordCount": 3053,
+          "title": "イーサリアム反発、ビットコインのパフォーマンスを上回る",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/eth_20201110-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/eth_20201110-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=576182",
           "author": "A.Yamada",
           "description": "CoinGeckoが2024年レイヤー1ブロックチェーンの上昇率ランキングを発表。Mantra、AIOZ、SUIが3位までにランクインしている。",
@@ -1106,6 +1121,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=434756",
+          "author": "OtsugaShinya",
+          "description": "モロッコで暗号資産を認める法律が準備中 モロッコで、暗号資産（仮想通貨）に関する草案法が採択に向けた手続き中であると、同国中央銀行の総裁であるアブデラティフ・ジュアフリ（Abdellatif Jouahri）氏が11月2 […]",
+          "link": "https://www.neweconomy.jp/posts/434756",
+          "publishedOn": "2024-11-28T03:43:05.000Z",
+          "wordCount": 621,
+          "title": "モロッコ中央銀行総裁、暗号資産を認める法律を準備中と発言",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/28124257/8f7354d0fe15cf225a4afb219e5b2bc8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=434732",
+          "author": "OtsugaShinya",
+          "description": "東映アニメーションが韓国WEMADEとMOU締結 東映アニメーションが、韓国のゲーム開発・運営会社Wemade（ウィーメイド）とのブロックチェーンゲームの製作協力を主軸とする戦略的提携への検討（MOU）締結を11月25日 […]",
+          "link": "https://www.neweconomy.jp/posts/434732",
+          "publishedOn": "2024-11-28T03:19:50.000Z",
+          "wordCount": 734,
+          "title": "東映アニメーション、韓国Wemadeとブロックチェーンゲーム開発協力でMOU締結",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/28122641/WEMADE-241128Who_I_am.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=434692",
           "author": "OtsugaShinya",
