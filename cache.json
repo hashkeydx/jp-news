@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=264093",
+          "author": "栃山直樹",
+          "description": "ゲーム特化型ブロックチェーンのオアシス（Oasys）は11月28日、インド最大級のゲームプラットフォームKGeNとのパートナーシップを発表した。この提携により、 ...\nOasys、インド最大級のゲームプラットフォームKGeNと提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/264093/",
+          "publishedOn": "2024-11-28T03:02:55.000Z",
+          "wordCount": 1259,
+          "title": "Oasys、インド最大級のゲームプラットフォームKGeNと提携",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/スクリーンショット-2024-11-28-11.47.34.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=264022",
           "author": "廣瀬 優香",
           "description": "日本のメッセージアプリ大手LINEは、1億9600万人のアクティブユーザーがゲームやユーティリティなどのDapps（分散型アプリケーション）を利用できるようにす ...\nLINE、2025年にミニDappsをローンチ予定──テレグラムのWeb3ゲーム成功を受けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -474,6 +484,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=576182",
+          "author": "A.Yamada",
+          "description": "CoinGeckoが2024年レイヤー1ブロックチェーンの上昇率ランキングを発表。Mantra、AIOZ、SUIが3位までにランクインしている。",
+          "link": "https://coinpost.jp/?p=576182",
+          "publishedOn": "2024-11-28T02:30:11.000Z",
+          "wordCount": 3039,
+          "title": "2024年のレイヤー1系仮想通貨上昇率ランキング　Mantraが7000%以上上昇＝CoinGecko",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/market-week-3.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/market-week-3.png"
+        },
         {
           "id": "https://coinpost.jp/?p=576167",
           "author": "菊谷ルイス",
@@ -1081,6 +1106,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=434692",
+          "author": "OtsugaShinya",
+          "description": "ムスメコイン（MSM）がMEXC Globalに上場へ ブロックチェーンゲーム「コインムスメ」開発中のEureka Entertainment（エウレカ・エンターテイメント）発行のトークン「ムスメコイン（MSM）」が、海 […]",
+          "link": "https://www.neweconomy.jp/posts/434692",
+          "publishedOn": "2024-11-28T02:59:20.000Z",
+          "wordCount": 636,
+          "title": "コインムスメの独自トークン「ムスメコイン（MSM）」、MEXC Globalに上場",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/28115909/db03af919d31539f1529e6316e5b12aa.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=434663",
+          "author": "OtsugaShinya",
+          "description": "JPYCがJPYC Prepaidに名称変更 日本円ステーブルコイン「JPYC」を取り扱うJPYC社が、現在流通している「プリペイド型JPYC（前払式支払手段）」に関する名称を「JPY Coin（JPYC）」から「JPY […]",
+          "link": "https://www.neweconomy.jp/posts/434663",
+          "publishedOn": "2024-11-28T02:56:06.000Z",
+          "wordCount": 758,
+          "title": "日本円ステーブルコイン「JPYC」、「JPYC Prepaid」に名称変更",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/28115557/80eefdbe87f062c092c50778aed60de9.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=434641",
+          "author": "HitomotoToshikazu",
+          "description": "Zodia CustodyがSecuritizeと提携 機関投資家向けカストディソリューションを提供するゾディアカストディ（Zodia Custody）が、機関投資家向けにトークン化資産のカストディ（保管）ソリューション […]",
+          "link": "https://www.neweconomy.jp/posts/434641",
+          "publishedOn": "2024-11-28T02:51:05.000Z",
+          "wordCount": 663,
+          "title": "Zodia Custodyが機関投資家向けトークン化資産用保管ソリューション提供へ、Securitizeと提携で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/28105727/bf0dc57416e96e857f36617037f77a6c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=434659",
+          "author": "OtsugaShinya",
+          "description": "ZaifにSNPT上場へ 国内暗号資産（仮想通貨）取引所Zaif（ザイフ）が、暗号資産スナップイットトークン（SNPT）の取り扱い予定を11月27日発表した。 発表によるとSNPTに関するサービス提供開始は、12月4日を […]",
+          "link": "https://www.neweconomy.jp/posts/434659",
+          "publishedOn": "2024-11-28T02:02:39.000Z",
+          "wordCount": 624,
+          "title": "国内初、Snap to Earn「SNPIT」の「スナップイットトークン（SNPT）」がZaifに上場へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/11/28110235/55eae9aa66796dd9f8e29b91ae2cffef.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=434476",
           "author": "NewEconomy",
