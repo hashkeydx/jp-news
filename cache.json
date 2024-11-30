@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=264481",
+          "author": "Oliver Knight",
+          "description": "分散型暗号資産（仮想通貨）取引所（DEX）のHyperLiquidは、ネイティブトークンであるHYPEを配布し、需要を喚起した。これにより、価格は当初の3.2ド ...\n分散型取引所HyperLiquidのネイティブトークンHYPE、時価総額42億ドルでデビュー first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/264481/",
+          "publishedOn": "2024-11-30T01:00:00.000Z",
+          "wordCount": 1301,
+          "title": "分散型取引所HyperLiquidのネイティブトークンHYPE、時価総額42億ドルでデビュー",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/11/shutterstock_156212846-710x458-1.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=264468",
+          "author": "Will Canny",
+          "description": "スタンダード・チャータード（Standard Chartered）とゾディア・マーケット（Zodia Markets）は11月28日に発表したレポートで、ステー ...\nステーブルコインはアメリカの通貨供給量の10%にまで成長する可能性がある：レポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/264468/",
+          "publishedOn": "2024-11-30T00:00:00.000Z",
+          "wordCount": 1303,
+          "title": "ステーブルコインはアメリカの通貨供給量の10%にまで成長する可能性がある：レポート",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/UTJGQR2VU5HRZBHVBEIU4SNLYY.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=264487",
           "author": "増田 隆幸",
           "description": "米財務省金融調査局（Office of Financial Research）が26日に発表した論文によると、暗号資産（仮想通貨）への投資により、低所得のアメリ ...\n暗号資産の利益で低所得者層が住宅購入／3つのAIがビットコインは14万ドルに達すると予測【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -554,6 +574,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=576920",
+          "author": "A.Yamada",
+          "description": "ロシアで仮想通貨マイニング収益への課税を規定する法律が成立した。ロシアは国際取引での仮想通貨決済も限定的に解禁している。",
+          "link": "https://coinpost.jp/?p=576920",
+          "publishedOn": "2024-11-30T01:50:57.000Z",
+          "wordCount": 3251,
+          "title": "ロシア、仮想通貨マイニングに課税制度を導入　プーチン大統領が法律に署名",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/russia34593-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/russia34593-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=576919",
+          "author": "菊谷ルイス",
+          "description": "FOXビジネスの29日の報道によれば、米ニューヨーク州の金融規制当局が、リップル社の新しいステーブルコイン「RLUSD」を承認する可能性が高まっている。ニューヨーク州金融サービス局は、12月4日を目処にRLUSDを承認する見込みだという。",
+          "link": "https://coinpost.jp/?p=576919",
+          "publishedOn": "2024-11-30T01:10:27.000Z",
+          "wordCount": 3043,
+          "title": "承認間近か、リップルのステーブルコイン「RLUSD」　ニューヨークで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=576916",
+          "author": "菊谷ルイス",
+          "description": "ドージコインは元々ジョークとして始まったが、現在では時価総額約620億ドルの第7位の仮想通貨に成長。アメリカの新政権の動きや仮想通貨規制の進展を背景に、ドージコインETF承認への期待が高まる中、ウォール街の反応や今後の展望を探る。",
+          "link": "https://coinpost.jp/?p=576916",
+          "publishedOn": "2024-11-30T00:25:29.000Z",
+          "wordCount": 3048,
+          "title": "「今日のミームは明日のETFになる」ドージコイン現物ETFの実現可能性は？　アナリストが見解",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/Doge_0711.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/Doge_0711.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=576896",
           "author": "菊谷ルイス",
@@ -1348,21 +1413,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/Webx_studio.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/Webx_studio.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=575289",
-          "author": "菊谷ルイス",
-          "description": "米マイクロストラテジーの仮想通貨ビットコイン保有額はさらに55,500 BTC増え、386,700 BTCの総保有量となった。",
-          "link": "https://coinpost.jp/?p=575289",
-          "publishedOn": "2024-11-25T13:40:05.000Z",
-          "wordCount": 3000,
-          "title": "8300億円でビットコインを追加購入、米マイクロストラテジー",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/micro-saylor-bitcoin.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/micro-saylor-bitcoin.png"
         }
       ]
     },
