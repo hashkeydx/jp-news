@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-12-02T10:36:00.423Z</updated>
+    <updated>2024-12-02T11:25:07.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SBI VCトレードとメタプラネット、総額3000万円相当のビットコインが当たるキャンペーンを発表]]></title>
+        <id>https://coinpost.jp/?p=577449</id>
+        <link href="https://coinpost.jp/?p=577449"/>
+        <updated>2024-12-02T10:45:43.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引大手のSBI VCトレードが、メタプラネントと共同で総額3000万円相当のビットコインプレゼントキャンペーンを開始。2024年12月31日時点のメタプラネント株主（100株以上）が対象。新規口座開設で2350名に当選のチャンス。応募期限は2025年3月31日まで。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/2話題】DMM Bitcoinの全資産がSBI VCトレードに来春移管へ、JOCトークン先行優先販売の予定口数が目標突破など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=435718</id>
@@ -1207,26 +1217,6 @@ LINE、2025年にミニDappsをローンチ予定──テレグラムのWeb3ゲ
         <summary type="html"><![CDATA[米国トランプ次期政権のSEC委員長候補として仮想通貨に前向きなポール・アトキンス氏が最有力と伝えられる。CFTC委員長も検討が行われているところだ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「米SECはリップル社への提訴を取り下げる可能性」元CFTC委員長が予想]]></title>
-        <id>https://coinpost.jp/?p=576121</id>
-        <link href="https://coinpost.jp/?p=576121"/>
-        <updated>2024-11-27T23:15:41.000Z</updated>
-        <summary type="html"><![CDATA[米CFTCの元委員長のクリス・ジャンカルロ氏は、SECはリップル社への提訴を取り下げるだろうとの見方を示した。同氏は、次期トランプ政権下の仮想通貨政策に特化したポジションに関心を示している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、ビットコイン・ソラナ・XRP含む指数ETFを申請]]></title>
-        <id>https://coinpost.jp/?p=576125</id>
-        <link href="https://coinpost.jp/?p=576125"/>
-        <updated>2024-11-27T22:45:47.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨資産運用会社Bitwise（ビットワイズ）は27日、「Bitwise 10 Crypto Index Fund」のETF化についてSECへ申請書を提出した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
