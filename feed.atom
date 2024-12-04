@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-12-04T09:30:40.603Z</updated>
+    <updated>2024-12-04T10:35:22.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[決済関連の仮想通貨ヘデラ（HBAR）やXRPに注目集まる　高騰の背景は]]></title>
+        <id>https://coinpost.jp/?p=578076</id>
+        <link href="https://coinpost.jp/?p=578076"/>
+        <updated>2024-12-04T09:46:40.000Z</updated>
+        <summary type="html"><![CDATA[米国の決済市場で注目が集まるヘデラ（HBAR）が2週間で2.6倍に急騰。FedNowシステムとの連携やリップル社の新規ステーブルコイン承認への期待から、XRPも7年ぶりの高値を更新。決済関連の仮想通貨市場が活況を呈している。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トロン（TRX）が過去最高値を更新]]></title>
+        <id>https://www.coindeskjapan.com/?p=265183</id>
+        <link href="https://www.coindeskjapan.com/265183/"/>
+        <updated>2024-12-04T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[トロン（Tron）のTRXは、最初のリリースから約7年後の12月4日早朝、目立ったきっかけもなく過去最高値を更新し、2100万ドル（約3億1500万円、1ドル= ...
+トロン（TRX）が過去最高値を更新 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRPの400%上昇はコインベースのクジラが貢献している]]></title>
         <id>https://www.coindeskjapan.com/?p=265168</id>
@@ -1250,16 +1271,6 @@ XRP、14%急騰──2ドルが視野に first appeared on CoinDesk JAPAN（コ�
         <summary type="html"><![CDATA[L1ブロックチェーンやDEXを提供するHyperliquidは、仮想通貨HYPEのエアドロップを実施。Hyperliquidは公平な金融システムの構築を目指すプロジェクトである。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[400回以上の死亡宣言を乗り越えたビットコイン、10万ドルに向かって反発]]></title>
-        <id>https://coinpost.jp/?p=576880</id>
-        <link href="https://coinpost.jp/?p=576880"/>
-        <updated>2024-11-29T22:05:27.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは400回以上「死亡」宣告されながらも、驚くべき復活と成長を遂げている。単なる通貨や投資手段を超えた存在となり、従来の金融システムに挑戦する技術として認識されつつある。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
