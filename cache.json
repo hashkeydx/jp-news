@@ -710,16 +710,6 @@
           "wordCount": 1259,
           "title": "DMMビットコイン廃業、SBIVCトレードに事業譲渡：日経報じる",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/スクリーンショット-2024-12-02-9.58.29.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=264620",
-          "author": "CoinDesk JAPAN編集長 増田隆幸",
-          "description": "日本国内にバリデーターとデータを置くことを謳う「日本発・主権型」イーサリアム完全互換レイヤー1ブロックチェーン「「Japan Smart Chain（JSC）」 ...\nなぜ今「日本発」ローカルチェーンが必要なのか──インターネットにおけるLANの役割に喩えた「Japan Smart Chain」伊藤穰一氏プレゼンテーション全文とQ&A first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/264620/",
-          "publishedOn": "2024-12-01T21:00:00.000Z",
-          "wordCount": 1421,
-          "title": "なぜ今「日本発」ローカルチェーンが必要なのか──インターネットにおけるLANの役割に喩えた「Japan Smart Chain」伊藤穰一氏プレゼンテーション全文とQ&A",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/DSC_1326のコピー2.jpg"
         }
       ]
     },
@@ -730,10 +720,40 @@
       "articles": []
     },
     {
-      "title": "ビットコインゴールドハードフォークを終え、アルトコインのターンか？",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=578716",
+          "author": "CoinPost編集部",
+          "description": "米国ビットコインETFの売却益に対する国税庁の見解が明らかに。申告分離課税（20%）適用の判断が、日本の仮想通貨課税制度の見直し議論に波紋を呼ぶ。国内ETF解禁への課題も検証する。",
+          "link": "https://coinpost.jp/?p=578716",
+          "publishedOn": "2024-12-06T09:22:37.000Z",
+          "wordCount": 3195,
+          "title": "国税庁、日本居住者による米国ビットコインETFの譲渡所得は「分離課税」の認識示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/leverage-etf-bitcoin-sec-first.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/leverage-etf-bitcoin-sec-first.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=578442",
+          "author": "Shusaku.Akaji",
+          "description": "仮想通貨の基本的な分類と代表的な銘柄を初心者向けに解説。決済通貨（BTC・XRP）、プラットフォーム通貨（ETH・SOL）、ユーティリティトークン、ミームコインの特徴や違いがわかります。",
+          "link": "https://coinpost.jp/?p=578442",
+          "publishedOn": "2024-12-06T09:00:24.000Z",
+          "wordCount": 3453,
+          "title": "仮想通貨を種類別に解説｜アルトコイン、ミームコインまでわかりやすく",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/2024pickup.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/2024pickup.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=578656",
           "author": "AKIRA.H",
