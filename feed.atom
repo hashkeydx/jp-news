@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-12-10T20:30:29.474Z</updated>
+    <updated>2024-12-10T21:27:11.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル社のステーブルコインRLUSD、ニューヨークで規制許可を取得]]></title>
+        <id>https://coinpost.jp/?p=580039</id>
+        <link href="https://coinpost.jp/?p=580039"/>
+        <updated>2024-12-10T21:05:01.000Z</updated>
+        <summary type="html"><![CDATA[リップル社が開発する独自のステーブルコイン「RLUSD」に関して、ニューヨーク州金融サービス局から最終承認を獲得した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleの量子コンピューターチップ、ビットコインへの脅威か]]></title>
+        <id>https://www.coindeskjapan.com/?p=266109</id>
+        <link href="https://www.coindeskjapan.com/266109/"/>
+        <updated>2024-12-10T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グーグル（Google）の新しい量子コンピューターチップはビットコイン（BTC）の終焉を意味するかもしれない。これは、9日、グーグルが量子スーパーコンピューター ...
+Googleの量子コンピューターチップ、ビットコインへの脅威か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト株主総会、ビットコイン投資の提案を却下　BTC価格続落]]></title>
+        <id>https://coinpost.jp/?p=580034</id>
+        <link href="https://coinpost.jp/?p=580034"/>
+        <updated>2024-12-10T20:55:17.000Z</updated>
+        <summary type="html"><![CDATA[11日開催のマイクロソフトの株主総会において、株主たちは仮想通貨ビットコインをバランスシートに追加する提案を却下した。しかしアナリストは今回の事例が重要であると指摘。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/10話題】リミックスポイントとマイクロストラテジーがビットコイン追加購入、Zaifにジパングコイン上場へなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=438079</id>
@@ -973,26 +1004,6 @@ Slash Fintechが、日本国内居住者を対象としたSlash Cardの発行に
 メルカリの売上金で暗号資産積立が可能に──メルコイン、自動引き落とし機能を実装 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国税庁、日本居住者による米国ビットコインETFの譲渡所得は「分離課税」の認識示す]]></title>
-        <id>https://coinpost.jp/?p=578716</id>
-        <link href="https://coinpost.jp/?p=578716"/>
-        <updated>2024-12-06T09:22:37.000Z</updated>
-        <summary type="html"><![CDATA[米国ビットコインETFの売却益に対する国税庁の見解が明らかに。申告分離課税（20%）適用の判断が、日本の仮想通貨課税制度の見直し議論に波紋を呼ぶ。国内ETF解禁への課題も検証する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨を種類別に解説｜アルトコイン、ミームコインまでわかりやすく]]></title>
-        <id>https://coinpost.jp/?p=578442</id>
-        <link href="https://coinpost.jp/?p=578442"/>
-        <updated>2024-12-06T09:00:24.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨の基本的な分類と代表的な銘柄を初心者向けに解説。決済通貨（BTC・XRP）、プラットフォーム通貨（ETH・SOL）、ユーティリティトークン、ミームコインの特徴や違いがわかります。]]></summary>
-        <author>
-            <name>Shusaku.Akaji</name>
         </author>
     </entry>
 </feed>
