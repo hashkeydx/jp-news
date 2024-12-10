@@ -370,26 +370,6 @@
           "wordCount": 1314,
           "title": "イーサリアム現物ETFに過去最高の流入──ビットコインETFにも11月21日以降で最大の流入",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/255edc4f7b2fceee2a279bceb4ca6615c0594a81-1440x1080-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=265609",
-          "author": "Will Canny",
-          "description": "ビットコイン（BTC）は今週初め、複数の追い風が吹いたことで、アメリカ大統領選後の上昇が加速し、10万ドルを上回る史上最高値を記録した。シティ（Citi）は12 ...\nアルトコインは寛容な規制環境からビットコインよりも多くの恩恵を受ける：シティ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/265609/",
-          "publishedOn": "2024-12-06T10:00:00.000Z",
-          "wordCount": 1334,
-          "title": "アルトコインは寛容な規制環境からビットコインよりも多くの恩恵を受ける：シティ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/9a07983c870c24ea45f7cec092ac9c67b110ef19-1335x751-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=265600",
-          "author": "栃山直樹",
-          "description": "メルカリの子会社で暗号資産（仮想通貨）サービスを展開するメルコインは12月6日、暗号資産のつみたて機能において、メルペイ残高からの自動引き落としに対応すると発表 ...\nメルカリの売上金で暗号資産積立が可能に──メルコイン、自動引き落とし機能を実装 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/265600/",
-          "publishedOn": "2024-12-06T09:36:03.000Z",
-          "wordCount": 1271,
-          "title": "メルカリの売上金で暗号資産積立が可能に──メルコイン、自動引き落とし機能を実装",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/アセット-123-100.jpg"
         }
       ]
     },
@@ -404,6 +384,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=580050",
+          "author": "K.Kobayashi",
+          "description": "ドナルド・トランプ氏は米大統領就任後、早くに仮想通貨ビットコインの価格が15万ドルに到達することを望んでいることがわかった。もう1つの株式市場のように、ビットコインの価格を重視しているという。",
+          "link": "https://coinpost.jp/?p=580050",
+          "publishedOn": "2024-12-10T22:02:00.000Z",
+          "wordCount": 3217,
+          "title": "トランプ次期大統領「就任早々のビットコイン15万ドル到達を望む」＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/trump03-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/trump03-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=580044",
+          "author": "菊谷ルイス",
+          "description": "米グーグルが9日に発表した新量子チップ「Willow」が、先週ビットコインの価格が10万ドルを突破した後の急落と重なり、暗号化されたプライベートキーが解読されるリスクへの懸念を再燃させた。アナリストや物理学者たちは心配が行きすぎたと指摘。",
+          "link": "https://coinpost.jp/?p=580044",
+          "publishedOn": "2024-12-10T21:40:44.000Z",
+          "wordCount": 3227,
+          "title": "ビットコイン・仮想通貨への量子脅威、実用化は「数十年先」　アナリスト指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/bitcoin-15th-gensler.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/bitcoin-15th-gensler.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=580039",
           "author": "菊谷ルイス",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-12-10T21:27:11.936Z</updated>
+    <updated>2024-12-10T22:31:49.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ次期大統領「就任早々のビットコイン15万ドル到達を望む」＝報道]]></title>
+        <id>https://coinpost.jp/?p=580050</id>
+        <link href="https://coinpost.jp/?p=580050"/>
+        <updated>2024-12-10T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ氏は米大統領就任後、早くに仮想通貨ビットコインの価格が15万ドルに到達することを望んでいることがわかった。もう1つの株式市場のように、ビットコインの価格を重視しているという。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン・仮想通貨への量子脅威、実用化は「数十年先」　アナリスト指摘]]></title>
+        <id>https://coinpost.jp/?p=580044</id>
+        <link href="https://coinpost.jp/?p=580044"/>
+        <updated>2024-12-10T21:40:44.000Z</updated>
+        <summary type="html"><![CDATA[米グーグルが9日に発表した新量子チップ「Willow」が、先週ビットコインの価格が10万ドルを突破した後の急落と重なり、暗号化されたプライベートキーが解読されるリスクへの懸念を再燃させた。アナリストや物理学者たちは心配が行きすぎたと指摘。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップル社のステーブルコインRLUSD、ニューヨークで規制許可を取得]]></title>
         <id>https://coinpost.jp/?p=580039</id>
@@ -982,28 +1002,6 @@ Slash Fintechが、日本国内居住者を対象としたSlash Cardの発行に
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコインは寛容な規制環境からビットコインよりも多くの恩恵を受ける：シティ]]></title>
-        <id>https://www.coindeskjapan.com/?p=265609</id>
-        <link href="https://www.coindeskjapan.com/265609/"/>
-        <updated>2024-12-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は今週初め、複数の追い風が吹いたことで、アメリカ大統領選後の上昇が加速し、10万ドルを上回る史上最高値を記録した。シティ（Citi）は12 ...
-アルトコインは寛容な規制環境からビットコインよりも多くの恩恵を受ける：シティ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メルカリの売上金で暗号資産積立が可能に──メルコイン、自動引き落とし機能を実装]]></title>
-        <id>https://www.coindeskjapan.com/?p=265600</id>
-        <link href="https://www.coindeskjapan.com/265600/"/>
-        <updated>2024-12-06T09:36:03.000Z</updated>
-        <summary type="html"><![CDATA[メルカリの子会社で暗号資産（仮想通貨）サービスを展開するメルコインは12月6日、暗号資産のつみたて機能において、メルペイ残高からの自動引き落としに対応すると発表 ...
-メルカリの売上金で暗号資産積立が可能に──メルコイン、自動引き落とし機能を実装 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>
