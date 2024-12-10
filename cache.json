@@ -435,6 +435,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=579806",
+          "author": "AKIRA.H",
+          "description": "株式会社リミックスポイントが暗号資産追加投資を実施。ビットコインを13.24BTC（約2億円）購入し、投資総額40億円規模に。6銘柄で構成される暗号資産ポートフォリオの評価益は9.7億円に到達。",
+          "link": "https://coinpost.jp/?p=579806",
+          "publishedOn": "2024-12-10T05:30:12.000Z",
+          "wordCount": 3226,
+          "title": "リミックスポイント、ビットコインを2億円分追加購入　仮想通貨投資は40億円規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/crypto_20240807-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/crypto_20240807-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=579768",
+          "author": "菊谷ルイス",
+          "description": "米Googleは105個の量子ビットを搭載する新量子チップ「Willow」を発表した。この発表を受け、量子コンピューティングの進展が仮想通貨やブロックチェーンの堅牢な暗号技術に与える突破リスクが懸念されている。",
+          "link": "https://coinpost.jp/?p=579768",
+          "publishedOn": "2024-12-10T04:30:33.000Z",
+          "wordCount": 3043,
+          "title": "仮想通貨の暗号技術への影響は？　グーグル　量子チップ「Willow」を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=579731",
           "author": "A.Yamada",
           "description": "イーサリアムからソラナへ移籍したマックス・レズニック氏がその背景を語った。トランプ新政権の仮想通貨特命官もソラナへの初期投資で知られる。",
@@ -1131,6 +1161,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=437738",
+          "author": "HitomotoToshikazu",
+          "description": "STEPN GOとadidasがランニングシューズ展開へ web3ライフスタイルアプリ「ステップン・ゴー（STEPN GO）」と大手スポーツファッションブランド「アディダス（adidas）」のパートナーシップの一環として […]",
+          "link": "https://www.neweconomy.jp/posts/437738",
+          "publishedOn": "2024-12-10T05:24:27.000Z",
+          "wordCount": 768,
+          "title": "web3ライフスタイルアプリ「STEPN GO」、adidasと共同で物理ランニングシューズ展開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/10142411/b093c80cd7a92356fd1fbb5d6892c403.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=437819",
+          "author": "HitomotoToshikazu",
+          "description": "Crypto[.]comがMastercardと提携 海外暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）が、米決済大手マスターカード（Mastercard）と主要ライセンス契約を締結し、マスターカー […]",
+          "link": "https://www.neweconomy.jp/posts/437819",
+          "publishedOn": "2024-12-10T05:18:08.000Z",
+          "wordCount": 736,
+          "title": "Crypto[.]comがMastercardと提携、バーレーンで新カード発行へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/10141746/51b760b7d198b35bcae41bbce22f68a6-1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=438037",
+          "author": "OtsugaShinya",
+          "description": "JOCのバリデーターにNethermind参画へ ジャパンオープンチェーン（Japan Open Chain：JOC）のバリデータに、イーサリアム（Ethereum）のノードソフトウェア「ネザーマインド（Nethermi […]",
+          "link": "https://www.neweconomy.jp/posts/438037",
+          "publishedOn": "2024-12-10T05:16:50.000Z",
+          "wordCount": 629,
+          "title": "EVM互換の国産ブロックチェーン「Japan Open Chain」、バリデータにNethermindが参画へ、日本法人を新設で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/10141644/8b53e96e8b675c72d739b443ca0d219b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=437582",
+          "author": "HitomotoToshikazu",
+          "description": "MEトークンの割り当てチェッカー公開 NFTマーケットプレイス「マジック・エデン（Magic Eden）」を支援する独立組織「ME財団（ME Foundation）」が、「ME」トークンの割り当て数を確認できるチェッカー […]",
+          "link": "https://www.neweconomy.jp/posts/437582",
+          "publishedOn": "2024-12-10T05:15:48.000Z",
+          "wordCount": 659,
+          "title": "Magic Eden支援のME財団が「ME」トークンの割当チェッカー公開、請求は12月10日開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/09163319/37250b0ae89839618494de3deb1135e0.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=438018",
           "author": "NewEconomy",
