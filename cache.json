@@ -425,6 +425,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=581441",
+          "author": "AKIRA.H",
+          "description": "米国のイーサリアムETFが週間流入額で過去最高を更新。ブラックロックとフィデリティのETFが好調な一方、グレイスケールからは資金流出。また、機関投資家とみられる約1,754万ドル相当の大規模取引も確認された。",
+          "link": "https://coinpost.jp/?p=581441",
+          "publishedOn": "2024-12-16T06:36:57.000Z",
+          "wordCount": 3243,
+          "title": "イーサリアムETF、週間純流入額が過去最高の1,300億円を記録",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=581418",
+          "author": "A.Yamada",
+          "description": "ミームコインFlokiがBNBチェーン上のAIエージェントプロジェクト「BAD」をサポートする。トークンエアドロップも行われる見込みだ。",
+          "link": "https://coinpost.jp/?p=581418",
+          "publishedOn": "2024-12-16T05:55:08.000Z",
+          "wordCount": 3014,
+          "title": "ミームコインFloki、BNBチェーンのAIエージェント「BAD」を立ち上げ支援へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/Floki-bad.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/Floki-bad.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=581389",
           "author": "A.Yamada",
           "description": "小口投資家が現在の価格帯でもビットコインを蓄積している傾向が観測されている。またBitfinexがBTC長期保有者の動向を分析した。",
@@ -1136,6 +1166,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=439413",
+          "author": "OtsugaShinya",
+          "description": "ロイヤリティ マーケティングが独自ブロックチェーン「MUGEN Chain」構築 共通ポイントサービス「Ponta」を運営するロイヤリティ マーケティング（LM）が、1億人超のPonta会員基盤と連携する独自ブロックチェ […]",
+          "link": "https://www.neweconomy.jp/posts/439413",
+          "publishedOn": "2024-12-16T06:31:30.000Z",
+          "wordCount": 643,
+          "title": "ロイヤリティ マーケティング、独自ブロックチェーン「MUGEN Chain」構築、1億人超Ponta会員をweb3に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/16153104/f473a83934265de7faf04b92210042d8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=439393",
+          "author": "NewEconomy",
+          "description": "コインベースを提訴 中国の暗号資産（仮想通貨）関連の起業家で、トロンブロックチェーン（TRON Blockchain）の創設者であるジャスティン・サン（Justin Sun）氏と同氏の関連企業ビットグローバル（BiT G […]",
+          "link": "https://www.neweconomy.jp/posts/439393",
+          "publishedOn": "2024-12-16T06:11:24.000Z",
+          "wordCount": 624,
+          "title": "ジャスティンサンと関連会社がコインベース訴える、「WBTC」取扱い廃止で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/16151116/3ae6c4de455206778866e0071ba55ebb.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=439394",
+          "author": "OtsugaShinya",
+          "description": "JOCのバリデータにSBINFT参画 ジャパンオープンチェーン（Japan Open Chain：JOC）のバリデータに、SBINFTが参画した。JOCのコンソーシアムを運営・管理する日本ブロックチェーン基盤社が12月1 […]",
+          "link": "https://www.neweconomy.jp/posts/439394",
+          "publishedOn": "2024-12-16T06:10:13.000Z",
+          "wordCount": 628,
+          "title": "EVM互換の国産ブロックチェーン「Japan Open Chain」、バリデータにSBINFT参画",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/16151007/c4b2aab2cdaff6127e4b1f5949380566.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=439302",
           "author": "OtsugaShinya",
