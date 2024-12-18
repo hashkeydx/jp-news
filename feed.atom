@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-12-18T10:33:40.680Z</updated>
+    <updated>2024-12-18T11:23:46.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル、独自米ドルステーブルコイン「RLUSD」ローンチ、国際決済と金融ユースケース拡大へ]]></title>
+        <id>https://www.neweconomy.jp/?p=440245</id>
+        <link href="https://www.neweconomy.jp/posts/440245"/>
+        <updated>2024-12-18T10:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Ripple社の独自米ドル建てステーブルコイン「RLUSD」ローンチ 米リップル（Ripple）社が、独自の米ドル建てステーブルコイン「リップルUSD（RLUSD）」のローンチを12月16日発表した。「RLUSD」は17 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【12/18話題】メルカリがイーサリアム保有者に毎月ポイント付与、メタプラネットがビットコイン購入資金調達など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=440187</id>
@@ -1280,48 +1290,6 @@ HyperLiquidのイーサリアム取引高、ビットコインを上回る──
         <summary type="html"><![CDATA[XRPレジャーに関してはステーブルコインRLUSDのローンチに伴い、多くの仮想通貨XRPが焼却される可能性が注目を集めている。同社のCTOはXで見解を示した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイニング大手Riot、5000BTC以上のビットコインを追加購入]]></title>
-        <id>https://coinpost.jp/?p=581142</id>
-        <link href="https://coinpost.jp/?p=581142"/>
-        <updated>2024-12-13T23:15:01.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨マイニング企業のRiot Platformsが13日、2024年12月10日から12日の間に5117ビットコインを784億円で購入したと発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ETFやマイクロストラテジーよりも大規模な集団がビットコイン価格を決定：CoinDeskアナリスト]]></title>
-        <id>https://www.coindeskjapan.com/?p=266758</id>
-        <link href="https://www.coindeskjapan.com/266758/"/>
-        <updated>2024-12-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[11月5日にドナルド・トランプ（Donald Trump）氏がアメリカ大統領選挙で勝利して以来、ビットコイン（BTC）は6万7000ドルから約10万ドル（約15 ...
-米ETFやマイクロストラテジーよりも大規模な集団がビットコイン価格を決定：CoinDeskアナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[平デジタル大臣は円建てステーブルコインに期待／マネックス松本氏が語るSPAC上場のメリットと秘められた意図【週末に読みたい厳選10本】]]></title>
-        <id>https://www.coindeskjapan.com/?p=266616</id>
-        <link href="https://www.coindeskjapan.com/266616/"/>
-        <updated>2024-12-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今週はインタビューが2本、続いた。12日はコインチェックの親会社を米ナスダックに上場させた松本大氏がSPAC上場のメリット、その意図を語った。翌13日には平デジ ...
-平デジタル大臣は円建てステーブルコインに期待／マネックス松本氏が語るSPAC上場のメリットと秘められた意図【週末に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN編集長 増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブテリン氏出資のブロックチェーン「MegaETH」、2分超で15億円を調達]]></title>
-        <id>https://coinpost.jp/?p=581131</id>
-        <link href="https://coinpost.jp/?p=581131"/>
-        <updated>2024-12-13T22:45:15.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムと互換性があり、ヴィタリック・ブテリン氏が出資するブロックチェーンMegaETHは、約15億円を資金調達。募集開始後、2分超で調達を完了した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
