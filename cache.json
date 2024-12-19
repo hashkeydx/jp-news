@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=267544",
+          "author": "Shaurya Malwa",
+          "description": "ビットコイン（BTC）の下落は、主要トークンを追跡する先物取引で7億ドル（約1085億円、1ドル=155円換算）以上の清算につながり、エックス・アール・ピー（X ...\nビットコインが一時10万ドルを割り込み、7億ドル相当の暗号資産ロングが清算──XRPは5%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/267544/",
+          "publishedOn": "2024-12-19T09:00:00.000Z",
+          "wordCount": 1337,
+          "title": "ビットコインが一時10万ドルを割り込み、7億ドル相当の暗号資産ロングが清算──XRPは5%下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/12/shutterstock_2155380637.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=267538",
+          "author": "CoinDesk JAPAN編集長 増田隆幸",
+          "description": "自民党政調審議会で19日、「暗号資産を国民経済に資する資産とするための緊急提言」が正式に承認されたと、自民党デジタル社会推進本部 web3主査の塩崎彰久議員がX ...\n「暗号資産を国民経済に資する資産とするための緊急提言」自民党デジタル社会推進本部・金融調査会 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/267538/",
+          "publishedOn": "2024-12-19T08:50:00.000Z",
+          "wordCount": 1310,
+          "title": "「暗号資産を国民経済に資する資産とするための緊急提言」自民党デジタル社会推進本部・金融調査会",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/shutterstock_2037953909.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=267512",
           "author": "CoinDesk JAPAN編集長 増田隆幸",
           "description": "Japan Open Chainのネイティブトークン 「ジャパンオープンチェーン（JOC）トークン」は12月23日12時、世界6取引所に同時上場する。Japan ...\nJapan Open Chainのネイティブトークン「JOCトークン」、12月23日に世界6取引所同時上場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -550,10 +570,70 @@
       "articles": []
     },
     {
-      "title": "銀行  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=582405",
+          "author": "Shusaku.Akaji",
+          "description": "ビットバンク株式会社は18日より、クリスマス限定キャンペーンを開催中。販売所での5,000円以上の仮想通貨購入者から抽選で100名にAmazonギフトカード500円分をプレゼントする。",
+          "link": "https://coinpost.jp/?p=582405",
+          "publishedOn": "2024-12-19T09:25:31.000Z",
+          "wordCount": 2999,
+          "title": "仮想通貨取引所bitbankがクリスマスキャンペーン　100名にAmazonギフトカードをプレゼント",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitbank_20210913_01.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitbank_20210913_01.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=582431",
+          "author": "AKIRA.H",
+          "description": "G.U.Technologiesが開発するJapan Open ChainのネイティブトークンJOCが、国内初となる世界6取引所での同時上場を発表した。ソニーグループ、電通、NTTコムなど14社が参画する信頼性の高いブロックチェーンプロジェクト。",
+          "link": "https://coinpost.jp/?p=582431",
+          "publishedOn": "2024-12-19T09:05:23.000Z",
+          "wordCount": 3010,
+          "title": "JOCトークン、12月23日に世界同時上場　IEO成功で初値にも注目",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/JOC_1223.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/JOC_1223.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=582424",
+          "author": "CoinPost編集部",
+          "description": "自民党・政調審議会が暗号資産に関する緊急提言を承認した。Web3推進と国際競争力強化のため、申告分離課税（20%）への税制改正、ビットコインなど暗号資産の金融商品化とETF検討、セキュリティ体制強化の3つの重要施策を提示した。",
+          "link": "https://coinpost.jp/?p=582424",
+          "publishedOn": "2024-12-19T08:41:19.000Z",
+          "wordCount": 3216,
+          "title": "自民党・政調審議会、「暗号資産を国民経済に資する資産とするための緊急提言」を正式承認へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/venturefunding1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/venturefunding1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=582397",
+          "author": "Shusaku.Akaji",
+          "description": "バイナンス・ジャパンが新サービス「Launchpool」の国内提供を発表。仮想通貨BNB保有者は新規プロジェクトからの報酬獲得が可能に。法規制に対応し、トークンをBNBに変換して配布。世界的な仮想通貨取引所による日本市場での新たな投資機会の創出へ。",
+          "link": "https://coinpost.jp/?p=582397",
+          "publishedOn": "2024-12-19T07:40:09.000Z",
+          "wordCount": 3000,
+          "title": "バイナンスジャパン、Launchpoolを国内導入へ　BNBで新規トークン報酬が獲得可能に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance_2021c-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance_2021c-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=582373",
           "author": "菊谷ルイス",
