@@ -650,16 +650,6 @@
           "wordCount": 1239,
           "title": "JCBA、ブロックチェーンゲーム部会設立──コナミ、スクエニなど参加",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/アセット-128-100.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=266926",
-          "author": "Shaurya Malwa",
-          "description": "ビットコイン（BTC）は12月16日に10万6000ドルを上回る新たな記録を樹立し、季節的に強気な12月も後半に入ったことで、トレーダーらは現在12万ドルの水準 ...\nビットコイントレーダーは「強気の12月」に12万ドル超えを予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/266926/",
-          "publishedOn": "2024-12-16T09:00:00.000Z",
-          "wordCount": 1299,
-          "title": "ビットコイントレーダーは「強気の12月」に12万ドル超えを予想",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/shutterstock_1922305823.jpg"
         }
       ]
     },
@@ -674,6 +664,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=582866",
+          "author": "菊谷ルイス",
+          "description": "メタプラネットは20日、2024年12月20日に第5回普通社債として総額50億円の私募債を発行することを発表した。",
+          "link": "https://coinpost.jp/?p=582866",
+          "publishedOn": "2024-12-20T20:50:27.000Z",
+          "wordCount": 3162,
+          "title": "メタプラネット、ビットコイン追加購入のため50億円調達へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=582675",
           "author": "CoinPost編集部",
@@ -2045,46 +2050,6 @@
           "wordCount": 827,
           "title": "【12/16話題】ビットコインが10万6000ドル突破、ロイヤリティ マーケティングが独自チェーン「MUGEN Chain」構築など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/16195758/news_head_20241216.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=439473",
-          "author": "TamuraSeiji",
-          "description": "テキサス州議員がビットコイン準備金を提案 米テキサス州の下院議員であるジョヴァンニ・カプリリオーネ（Giovanni Capriglione）氏が、同州の財政の一部としてビットコイン準備金を創設する法案を12月12日に提 […]",
-          "link": "https://www.neweconomy.jp/posts/439473",
-          "publishedOn": "2024-12-16T08:56:36.000Z",
-          "wordCount": 766,
-          "title": "米テキサス州の下院議員、ビットコインを準備金とする法案提出",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/16175629/36bd96c24441521b9ac2c199e03f6c5f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=439468",
-          "author": "HitomotoToshikazu",
-          "description": "バイナンスにVELODROME上場 大手海外暗号資産（仮想通貨）取引所バイナンス（Binance）が、暗号資産（仮想通貨）「ベロドローム・ファイナンス：Velodrome Finance（VELODROME）」を取り扱い […]",
-          "link": "https://www.neweconomy.jp/posts/439468",
-          "publishedOn": "2024-12-16T08:55:11.000Z",
-          "wordCount": 622,
-          "title": "バイナンスでOP Mainnet上のAMM「ベロドロームファイナンス（VELODROME）」上場",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/16175449/5076ee7653576048a633e9358e80283a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=439412",
-          "author": "HitomotoToshikazu",
-          "description": "プロジェクトダイヤモンドでトークン化資産を相互運用可能に 大手暗号資産（仮想通貨）取引所コインベース（Coinbase）提供の機関投資家向けプラットフォーム「プロジェクト・ダイヤモンド（Project Diamond）」 […]",
-          "link": "https://www.neweconomy.jp/posts/439412",
-          "publishedOn": "2024-12-16T08:44:34.000Z",
-          "wordCount": 752,
-          "title": "コインベースの「プロジェクトダイヤモンド」でトークン化資産を相互運用可能に、チェーンリンク「CCIP」統合で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/16174416/1ac29543e282b81f7c45e5af48929c22.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=439443",
-          "author": "NewEconomy",
-          "description": "WLFのトークン購入が続く 次期米大統領ドナルド・トランプ（Donald Trump）氏とその家族が関わる暗号資産（仮想通貨）プロジェクト「ワールド・リバティ・ファイナンシャル（World Liberty Financi […]",
-          "link": "https://www.neweconomy.jp/posts/439443",
-          "publishedOn": "2024-12-16T08:35:15.000Z",
-          "wordCount": 771,
-          "title": "トランプ一族のDeFiプロジェクトが「ENA」と「ONDO」購入、ウォレットには総額約129億円保有に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/16173512/0ecd18e9cee42d9e0ef38e2e0aabdc44.jpg"
         }
       ]
     }
