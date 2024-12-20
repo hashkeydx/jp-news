@@ -640,10 +640,40 @@
       "articles": []
     },
     {
-      "title": "仮想通貨のウォレット一覧 マルチカレンシーやコールドウォレットなど",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=582675",
+          "author": "CoinPost編集部",
+          "description": "自民党の2025年度税制改正大綱に暗号資産（仮想通貨）取引の課税見直しが初めて明記された。金融商品としての法整備を前提に、上場株式並みの税制優遇を検討。Web3人材の国外流出防止と国内産業育成が期待される。",
+          "link": "https://coinpost.jp/?p=582675",
+          "publishedOn": "2024-12-20T04:07:06.000Z",
+          "wordCount": 3194,
+          "title": "2025年度税制改正大綱に「仮想通貨の税制見直し検討」を明記、分離課税の道筋示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai02062.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/kokkai02062.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=582638",
+          "author": "S.Ninomiya",
+          "description": "仮想通貨ビットコイン価格が10万ドルの大台を下回る展開に。一方で米マイニング大手マラソンデジタルやHut8は積極的な買い増し戦略を継続した。市場の強弱材料を分析。",
+          "link": "https://coinpost.jp/?p=582638",
+          "publishedOn": "2024-12-20T03:16:19.000Z",
+          "wordCount": 3241,
+          "title": "続落のビットコイン10万ドル割り込む、マイニング大手はBTC買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/health-care-bitcoin.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/health-care-bitcoin.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=582636",
           "author": "A.Yamada",
@@ -1581,6 +1611,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=440756",
+          "author": "HitomotoToshikazu",
+          "description": "WormholeがWorld Chain対応 クロスチェーンプロトコルのワームホール（Wormhole）が、ワールドチェーン（World Chain）の相互運用性プロトコルとして対応開始した。「ワームホール」公式ブログに […]",
+          "link": "https://www.neweconomy.jp/posts/440756",
+          "publishedOn": "2024-12-20T03:44:00.000Z",
+          "wordCount": 788,
+          "title": "ワームホールがワールドチェーン対応、WLD・USDC.e・WBTCの転送可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/20124345/02268f2dc7bb3bfbe99572f6e324f89f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=440750",
+          "author": "OtsugaShinya",
+          "description": "2024年の暗号資産の盗難総額は22億ドル ブロックチェーン分析会社チェイナリシス（Chainalysis）が12月19日に公開した報告書によると、2024年に暗号資産プラットフォームのハッキングによって盗まれた資金は、 […]",
+          "link": "https://www.neweconomy.jp/posts/440750",
+          "publishedOn": "2024-12-20T03:34:46.000Z",
+          "wordCount": 622,
+          "title": "2024年の暗号資産の盗難総額は22億ドル=チェイナリシス報告",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2024/12/20123440/0e7ef35fe7b759bbf705e99eff38e2ef.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=440725",
           "author": "NewEconomy",
