@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2024-12-27T22:28:48.188Z</updated>
+    <updated>2024-12-27T23:24:50.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国のビットコイン現物ETF、資金フローがプラスに　26日に約750億円の純流入]]></title>
+        <id>https://coinpost.jp/?p=584445</id>
+        <link href="https://coinpost.jp/?p=584445"/>
+        <updated>2024-12-27T23:15:52.000Z</updated>
+        <summary type="html"><![CDATA[米国の仮想通貨ビットコインの現物ETFは26日に資金フローがプラスに転じた。4日連続でマイナスを記録した後、26日は約750億円の純流入となった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年 CoinDesk JAPAN人気記事ランキング（4-6月）]]></title>
+        <id>https://www.coindeskjapan.com/?p=268405</id>
+        <link href="https://www.coindeskjapan.com/268405/"/>
+        <updated>2024-12-27T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年はどんな一年だったのか。CoinDesk JAPANの人気記事で振り返ります。4月〜6月は、4月に半減期を迎えたビットコインに関するニュースが上位を占 ...
+2024年 CoinDesk JAPAN人気記事ランキング（4-6月） first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>CoinDesk JAPAN</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国税庁、仮想通貨DeFi業者に新たな税報告義務を規定　業界から猛反発]]></title>
         <id>https://coinpost.jp/?p=584440</id>
@@ -1364,27 +1385,6 @@ XRPが下落率でトップ──メタプラネットが過去最高の620BTC�
 トランプ次期大統領、CEA委員長に暗号資産支持のスティーブン・ミラン氏を指名 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、8月以来の大幅な下落──市場専門家は短期的にはさらなる損失を予想]]></title>
-        <id>https://www.coindeskjapan.com/?p=267980</id>
-        <link href="https://www.coindeskjapan.com/267980/"/>
-        <updated>2024-12-23T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）について数カ月間、正確に強気な見方を示してきたビットワイズ（Bitwise）の欧州リサーチ部門のトップは、先週の8%の下落を受けて慎重な姿 ...
-ビットコイン、8月以来の大幅な下落──市場専門家は短期的にはさらなる損失を予想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンチェーン分析「Arkham」、「スイ（SUI）」対応へ]]></title>
-        <id>https://www.neweconomy.jp/?p=441152</id>
-        <link href="https://www.neweconomy.jp/posts/441152"/>
-        <updated>2024-12-23T10:39:23.000Z</updated>
-        <summary type="html"><![CDATA[ArkhamがSui対応へ オンチェーン情報の追跡プラットフォーム「アーカム（Arkham）」が、レイヤー1（L1）ブロックチェーンのスイ（Sui）に対応予定だ。「アーカム」を提供するアーカム・インテリジェンス（Arkh […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
