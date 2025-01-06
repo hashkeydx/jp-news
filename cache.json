@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=269303",
+          "author": "栃山直樹",
+          "description": "デジタル証券（ST）やステーブルコイン（SC）の発行・管理基盤を手がけるプログマ（Progmat）は1月6日、「デジタル証券（ST）マーケットアウトルック202 ...\nセキュリティトークン（ST）市場、2025年に3400億円規模へ──プログマが市場展望 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/269303/",
+          "publishedOn": "2025-01-06T01:59:50.000Z",
+          "wordCount": 1390,
+          "title": "セキュリティトークン（ST）市場、2025年に3400億円規模へ──プログマが市場展望",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/スクリーンショット-2025-01-06-10.43.56.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=269286",
           "author": "林 理南",
           "description": "トロンブロックチェーン、ステーブルコイン発行企業のテザー（Tether）、ブロックチェーンインテリジェンス企業のTRMラボ（TRM Labs）による共同プロジェ ...\nトロンのT3金融犯罪対策ユニット、凍結テザーが1億ドルに到達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -505,7 +515,18 @@
       "title": "ニュース – あたらしい経済",
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=443031",
+          "author": "OtsugaShinya",
+          "description": "スイス中銀でビットコイン準備金保有への動き スイス国立銀行（SNB）にビットコインの保有を義務付ける提案が、スイス連邦首相府が12月31日に発表したイニシアチブで動き出した。 このイニシアチブは、スイス中央銀行が準備金の […]",
+          "link": "https://www.neweconomy.jp/posts/443031",
+          "publishedOn": "2025-01-06T02:45:44.000Z",
+          "wordCount": 743,
+          "title": "スイス中銀、ビットコイン準備金保有へ動き",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/01/06114538/974a38ebd72a1dc4a28d2b9b092c21de.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
