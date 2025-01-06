@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-06T03:00:15.947Z</updated>
+    <updated>2025-01-06T03:35:49.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Base開発者、コインベース株などのオンチェーン導入構想を明かす]]></title>
+        <id>https://coinpost.jp/?p=585348</id>
+        <link href="https://coinpost.jp/?p=585348"/>
+        <updated>2025-01-06T03:19:01.000Z</updated>
+        <summary type="html"><![CDATA[コインベースのL2「Base」が株式のオンチェーン取引を検討しているようだ。2025年中のCOIN株導入へ規制対応を模索する。日次1,100万件の取引で他L2を圧倒し、124億ドルの資産をロックするポテンシャルで、仮想通貨と株式のシームレスな取引実現を目指す。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン年明け早々の反発、10万ドルの大台回復へ向かう　トランプ新政権の発足控え]]></title>
+        <id>https://coinpost.jp/?p=585315</id>
+        <link href="https://coinpost.jp/?p=585315"/>
+        <updated>2025-01-06T03:03:45.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）ビットコインは年末の大幅下落から年明け以降に反発し、三尊のネックライン割れを回避した。注目されるトランプ次期政権のビットコイン準備金構想は実現性40%との予測があり、投資家は固唾を呑んで見守っている。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スイス中銀、ビットコイン準備金保有へ動き]]></title>
         <id>https://www.neweconomy.jp/?p=443031</id>
