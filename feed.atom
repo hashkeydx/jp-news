@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-07T22:30:00.998Z</updated>
+    <updated>2025-01-07T23:25:11.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リップル、Chainlinkと提携しRLUSDの価格データをオンチェーン提供開始]]></title>
+        <id>https://coinpost.jp/?p=585887</id>
+        <link href="https://coinpost.jp/?p=585887"/>
+        <updated>2025-01-07T23:05:32.000Z</updated>
+        <summary type="html"><![CDATA[リップル社は、同社が発行する米ドル連動型ステーブルコインRipple USDの価格データを、Chainlinkのオラクルネットワークを活用してイーサリアムブロックチェーン上に提供することを発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIトークン、強気要因のエヌビディア基調講演にもかかわらず2024年の大躍進を再現できず]]></title>
+        <id>https://www.coindeskjapan.com/?p=269573</id>
+        <link href="https://www.coindeskjapan.com/269573/"/>
+        <updated>2025-01-07T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[人工知能（AI）暗号資産トークンは、世界最大のテックイベント「CES」におけるエヌビディアCEOによる基調講演が伝統的市場におけるAI銘柄の強気なセンチメントに ...
+AIトークン、強気要因のエヌビディア基調講演にもかかわらず2024年の大躍進を再現できず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>山口 晶子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チェコの中銀、ビットコインの準備金保有を議論　総裁が購入を提案]]></title>
+        <id>https://coinpost.jp/?p=585876</id>
+        <link href="https://coinpost.jp/?p=585876"/>
+        <updated>2025-01-07T22:25:15.000Z</updated>
+        <summary type="html"><![CDATA[チェコ国立銀行の総裁は、準備金として仮想通貨ビットコインを保有する可能性に言及。保有の目的や現状、購入規模などについて語った。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのコインベースプレミアムとマイナー収益性に新たな動き]]></title>
         <id>https://coinpost.jp/?p=585880</id>
