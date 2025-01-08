@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-07T23:25:11.473Z</updated>
+    <updated>2025-01-08T01:53:37.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2のアービトラム、ロッテのメタバースに過去最大の助成金提供]]></title>
+        <id>https://coinpost.jp/?p=585897</id>
+        <link href="https://coinpost.jp/?p=585897"/>
+        <updated>2025-01-08T01:25:15.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2「アービトラム」を開発するOffchain Labsは、ロッテグループのメタバース「カリバース」に過去最大規模の助成金を提供することを発表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン100万円幅急落、金利上昇とFOMC議事録に注目｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=585886</id>
+        <link href="https://coinpost.jp/?p=585886"/>
+        <updated>2025-01-07T23:25:28.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場は急落の局面を迎えた。ビットコインは24時間比で一時100万円幅を超える大幅な下落となり、ドルベースでも心理的節目となる10万ドルを割り込み、執筆時点では9万7千ドル付近で推移している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップル、Chainlinkと提携しRLUSDの価格データをオンチェーン提供開始]]></title>
         <id>https://coinpost.jp/?p=585887</id>
@@ -818,17 +838,6 @@ USDTの時価総額、FTX崩壊以来の急激な下落──EUでのMiCA施行�
 史上最高値でのビットコインの「流れ星」警告に注意：CoinDeskアナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロストラテジーの強気なスキューは解消、慎重な市場センチメントへ]]></title>
-        <id>https://www.coindeskjapan.com/?p=269149</id>
-        <link href="https://www.coindeskjapan.com/269149/"/>
-        <updated>2025-01-03T13:01:07.000Z</updated>
-        <summary type="html"><![CDATA[トレーダーは、ビットコイン（BTC）にレバレッジをかけるという、ナスダック上場企業のマイクロストラテジーのアップサイドを追いかけなくなり、市場センチメントが慎重 ...
-マイクロストラテジーの強気なスキューは解消、慎重な市場センチメントへ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>T. Minamoto</name>
         </author>
     </entry>
 </feed>
