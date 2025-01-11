@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-11T03:32:03.516Z</updated>
+    <updated>2025-01-11T04:30:15.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アルトマン氏のワールドコイン、認証ユーザーが世界で1000万人突破]]></title>
+        <id>https://coinpost.jp/?p=586785</id>
+        <link href="https://coinpost.jp/?p=586785"/>
+        <updated>2025-01-11T04:02:03.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIのアルトマン氏が立ち上げた仮想通貨ワールドコインで、本人確認が1,000万人に到達した。プライバシー保護技術の強化も進めている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFiの基本から実践まで｜初心者向けに分かりやすく解説]]></title>
+        <id>https://coinpost.jp/?p=586458</id>
+        <link href="https://coinpost.jp/?p=586458"/>
+        <updated>2025-01-11T04:00:53.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨のDeFi（分散型金融）の基本から実践まで、初心者向けに分かりやすく解説。貸付・借入、取引、ステーキング、ステーブルコイン、エアドロップなど、主要サービスと特徴や活用方法、リスクを分かりやすく紹介します。]]></summary>
+        <author>
+            <name>Shusaku.Akaji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtuals Protocolとアニモカ、自律型AIゲームエージェントに共同投資へ 　次世代ゲーム開発支援]]></title>
         <id>https://coinpost.jp/?p=586734</id>
