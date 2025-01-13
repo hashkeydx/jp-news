@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-13T13:31:11.239Z</updated>
+    <updated>2025-01-13T14:31:02.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米マイニング企業CleanSpark、ビットコイン保有量1万BTCを突破]]></title>
+        <id>https://coinpost.jp/?p=586934</id>
+        <link href="https://coinpost.jp/?p=586934"/>
+        <updated>2025-01-13T14:13:31.000Z</updated>
+        <summary type="html"><![CDATA[米マイニング企業CleanSparkのビットコイン保有量が1万BTCを超え、前年比236%増を達成。米国内の施設拡大と効率的なマイニング運営により、創業4年で2万BTCのマイニング成功という節目にも到達するとともに、さらなる戦略的目標の実行に向けて、1,000億円規模のゼロクーポン転換社債発行も完了した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン現物ETFの上場承認から1周年　累計取引高は100兆円規模に]]></title>
         <id>https://coinpost.jp/?p=586930</id>
@@ -893,27 +903,6 @@ Japan Open Chain、プロトレーダー向けNFTマーケット「X2Y2 Pro」�
         <summary type="html"><![CDATA[RippleがChainlink standard採用 米リップル（Ripple）社が、独自の米ドル建てステーブルコイン「リップルUSD（RLUSD）」の実用性向上のため、チェーンリンク（Chainlink）提供のインフ […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナのリステーキングプロトコル「Solayer」、独自チェーン「InfiniSVM」開発へ]]></title>
-        <id>https://www.neweconomy.jp/?p=443609</id>
-        <link href="https://www.neweconomy.jp/posts/443609"/>
-        <updated>2025-01-09T02:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Solayer、「InfiniSVM」を開発中 ソラナ（Solana）エコシステム内のリステーキングプロトコル「ソレイヤー（Solayer）」による2025年のロードマップが公開され、同プロジェクトによるハードウェアアク […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPへの関心が急上昇──リップルCEOがトランプ氏と会食で]]></title>
-        <id>https://www.coindeskjapan.com/?p=269754</id>
-        <link href="https://www.coindeskjapan.com/269754/"/>
-        <updated>2025-01-09T01:34:57.000Z</updated>
-        <summary type="html"><![CDATA[リップル社のエックス・アール・ピー（XRP）は11月の米大統領選以降、すでに主要暗号資産（仮想通貨）のなかで最大の上昇率を記録しており、同社のCEOのブラッド・ ...
-XRPへの関心が急上昇──リップルCEOがトランプ氏と会食で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>
