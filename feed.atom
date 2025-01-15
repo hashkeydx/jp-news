@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-15T06:34:02.429Z</updated>
+    <updated>2025-01-15T07:24:05.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GMOコイン、イーサリアムのステーキングを開始へ 　総額200万円相当のキャンペーンも]]></title>
+        <id>https://coinpost.jp/?p=587396</id>
+        <link href="https://coinpost.jp/?p=587396"/>
+        <updated>2025-01-15T07:10:25.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所GMOコインがイーサリアム（ETH）のステーキングサービスを開始。手数料控除後の年利2.0%～2.2%に加え、総額200万円相当のETH山分けキャンペーンを実施。3ETH以上の保有で最大5万円相当の報酬獲得可能。]]></summary>
+        <author>
+            <name>Shusaku.Akaji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スイスのデジタル資産銀行シグナムがユニコーン企業に、フルガーから資金調達で評価額10億ドル超]]></title>
+        <id>https://www.neweconomy.jp/?p=444418</id>
+        <link href="https://www.neweconomy.jp/posts/444418"/>
+        <updated>2025-01-15T06:56:11.000Z</updated>
+        <summary type="html"><![CDATA[シグナムが約91億円を調達 スイスのデジタル銀行シグナム（Sygnum）が、戦略的成長ラウンドで5,800万ドル（約91億円）を調達したことを1月14日に発表した。 これにより同社の評価額は10億ドル（1,574億円）を […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサL2「Starknet」、独自アプリチェーン構築用ツール「SN Stack」公開]]></title>
         <id>https://www.neweconomy.jp/?p=444402</id>
