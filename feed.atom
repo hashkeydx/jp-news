@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-15T03:29:11.848Z</updated>
+    <updated>2025-01-15T04:30:07.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米連邦議員のXRP購入が初事例に、価格が前日比12%高]]></title>
+        <id>https://coinpost.jp/?p=587371</id>
+        <link href="https://coinpost.jp/?p=587371"/>
+        <updated>2025-01-15T04:20:21.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨XRPについて、米議員が初めて購入したことが判明した。XRP（リップル）の価格は過去1ヶ月でビットコインやイーサリアムを上回っている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テザー社と創設者、エルサルバドルへの本拠地移転を最終調整＝ロイター]]></title>
         <id>https://www.neweconomy.jp/?p=444269</id>
@@ -839,17 +849,6 @@ EUのMiCAはユーロ連動型ステーブルコインを後押しする可能�
         <summary type="html"><![CDATA[仮想通貨取引所バイナンスは10日、3つのAIエージェント仮想通貨銘柄を新規上場する予定を発表した。発表を受けて各銘柄の価格は高騰。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP・XLM・ドージコイン、米国での需要が回復]]></title>
-        <id>https://www.coindeskjapan.com/?p=270229</id>
-        <link href="https://www.coindeskjapan.com/270229/"/>
-        <updated>2025-01-10T15:38:48.000Z</updated>
-        <summary type="html"><![CDATA[今週の暗号資産（仮想通貨）市場では、特に主要アルトコインであるエックス・アール・ピー（XRP）、ドージコイン（DOGE）、ステラルーメン（XLM）の価格が顕著に ...
-XRP・XLM・ドージコイン、米国での需要が回復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
