@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-15T12:48:50.158Z</updated>
+    <updated>2025-01-15T13:28:53.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/15話題】スイスのデジタル資産銀行シグナムがユニコーンに、英国のCBDC導入判断は2年見送りなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=444458</id>
+        <link href="https://www.neweconomy.jp/posts/444458"/>
+        <updated>2025-01-15T13:20:48.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドージコイン（DOGE）、コインチェックが取扱い開始]]></title>
         <id>https://coinpost.jp/?p=587446</id>
@@ -933,27 +943,6 @@ Telegram、ネガティブなニュースがありつつも暗号資産の普及
         <summary type="html"><![CDATA[Virtuals ProtocolとAnimoca Brandsは10日、自律型人工知能（AI）エージェントとゲームアプリケーションの融合を促進するための共同投資イニシアチブを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジル規制当局、仮想通貨キャピタルゲインへの課税方法を変更へ]]></title>
-        <id>https://coinpost.jp/?p=586727</id>
-        <link href="https://coinpost.jp/?p=586727"/>
-        <updated>2025-01-11T01:25:50.000Z</updated>
-        <summary type="html"><![CDATA[ブラジルの連邦歳入庁が仮想通貨取引への課税方法変更を発表した。新税制への変更は2025年3月までに行う予定だ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引所Bybit、規制を理由にインドでの取引サービスを一時停止へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=270254</id>
-        <link href="https://www.coindeskjapan.com/270254/"/>
-        <updated>2025-01-11T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所Bybitは、インドの規制を受け、同国ユーザーへのサービス提供を一時停止すると発表した。 ドバイを拠点とする同社は、1月12日以降、インドの顧客が ...
-暗号資産取引所Bybit、規制を理由にインドでの取引サービスを一時停止へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Camomile Shumba</name>
         </author>
     </entry>
 </feed>
