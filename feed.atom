@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-01-15T23:25:29.330Z</updated>
+    <updated>2025-01-16T01:49:52.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米政府、司法省保有ビットコインの一部をBitfinexに返還すべきと申し立て]]></title>
+        <id>https://coinpost.jp/?p=587584</id>
+        <link href="https://coinpost.jp/?p=587584"/>
+        <updated>2025-01-16T01:25:47.000Z</updated>
+        <summary type="html"><![CDATA[米国政府は、過去にBitfinexから流出した9万以上のビットコインを同取引所に返還するよう申し立てた。トランプ氏のBTC備蓄構想にも影響か。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テキサスなど米13州が検討中、ビットコイン準備金法案に進展]]></title>
+        <id>https://coinpost.jp/?p=587598</id>
+        <link href="https://coinpost.jp/?p=587598"/>
+        <updated>2025-01-16T00:50:52.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのテキサス州とオクラホマ州を中心に、仮想通貨ビットコインを州の戦略的準備資産として採用する動きが本格化している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン10万ドル回復、CPIと米州の戦略備蓄報道が後押し｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=587574</id>
+        <link href="https://coinpost.jp/?p=587574"/>
+        <updated>2025-01-15T23:50:10.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場は続伸し一時ビットコイン価格が10万ドルを回復した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[統合や移行を経て、国内のチェーン事情はどうなる【後編・レイヤー1編】──グローバル vs ローカルの第2幕]]></title>
         <id>https://www.coindeskjapan.com/?p=270992</id>
@@ -1051,17 +1081,6 @@ DePIN、温室効果ガス排出ゼロに欠かせない first appeared on CoinD
 Telegram、ネガティブなニュースがありつつも暗号資産の普及をけん引 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Daniel Cawrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン1時間足で14本連続の陽線を記録──2017年以来の最長記録]]></title>
-        <id>https://www.coindeskjapan.com/?p=270273</id>
-        <link href="https://www.coindeskjapan.com/270273/"/>
-        <updated>2025-01-11T12:56:16.000Z</updated>
-        <summary type="html"><![CDATA[10日の欧州時間中、多くのトレーダーがビットコイン（BTC）の価格動向を注視していた。やや混乱していたが、それには正当な理由があった。 暗号資産（仮想通貨）取引 ...
-ビットコイン1時間足で14本連続の陽線を記録──2017年以来の最長記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
