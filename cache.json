@@ -530,26 +530,6 @@
           "wordCount": 1315,
           "title": "ビットコイン、トランプ大統領就任式に向けて最高値更新の可能性──主要コインは10％の価格変動も",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/08/t.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=271144",
-          "author": "栃山直樹",
-          "description": "ソニーグループが手がけるイーサリアムレイヤー2「Soneium（ソニューム）」は日本時間1月16日、「Soneium’s Philosophy fo ...\nソニーSoneiumからIP保護の声明──ブラックリスト規制で波紋 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/271144/",
-          "publishedOn": "2025-01-16T09:03:17.000Z",
-          "wordCount": 1250,
-          "title": "ソニーSoneiumからIP保護の声明──ブラックリスト規制で波紋",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/スクリーンショット-2025-01-16-17.46.03.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=271148",
-          "author": "Omkar Godbole",
-          "description": "インドの通信およびテクノロジー企業であるジオ・プラットフォームズ（Jio Platforms）は、4億5000万人を超えるユーザーのデジタル体験を向上させるため ...\nインド通信大手のジオ、ポリゴンと提携して4.5億人にWeb3を提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/271148/",
-          "publishedOn": "2025-01-16T08:55:00.000Z",
-          "wordCount": 1287,
-          "title": "インド通信大手のジオ、ポリゴンと提携して4.5億人にWeb3を提供",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/a3ca1a900cfb768d293ebe566d1d7eb79e924040-1500x974-1.jpg"
         }
       ]
     },
@@ -564,6 +544,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=588992",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所コインベースは21日、トランプ大統領による公式ミームコイン「TRUMP」の新規上場を実施する予定を発表した。",
+          "link": "https://coinpost.jp/?p=588992",
+          "publishedOn": "2025-01-20T21:15:41.000Z",
+          "wordCount": 3181,
+          "title": "コインベース、トランプ大統領のミームコイン「TRUMP」を現物上場",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/coinbase-reopen-case.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/coinbase-reopen-case.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=588988",
+          "author": "菊谷ルイス",
+          "description": "米ホワイトハウスは21日、トランプ大統領が証券取引委員会（SEC）の共和党委員であるマーク・ウエダ氏を同委員会の委員長代行に指名したと発表した。",
+          "link": "https://coinpost.jp/?p=588988",
+          "publishedOn": "2025-01-20T21:00:33.000Z",
+          "wordCount": 3186,
+          "title": "仮想通貨支持派のウエダ氏が米SEC委員長代行に就任 　ゲンスラー氏退任",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/SECUSAFLAG.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/SECUSAFLAG.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=588980",
+          "author": "菊谷ルイス",
+          "description": "トランプ一族が推進する仮想通貨DeFiプロジェクト「ワールド・リバティ・ファイナンシャル」は、トランプ大統領の就任式に際し、7.3億円ビットコインを購入したことが判明した。",
+          "link": "https://coinpost.jp/?p=588980",
+          "publishedOn": "2025-01-20T20:45:26.000Z",
+          "wordCount": 3183,
+          "title": "トランプ一族の「WLFI」、7.3億円相当のビットコインを購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/trump-new-1-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/trump-new-1-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=588978",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコインは21日、トランプ大統領が就任スピーチで仮想通貨やビットコインの国家的戦略準備金に言及しなかったことを受け反落し、一時101,406ドルまで値下がりした。",
+          "link": "https://coinpost.jp/?p=588978",
+          "publishedOn": "2025-01-20T20:30:19.000Z",
+          "wordCount": 3188,
+          "title": "トランプ大統領、就任演説でビットコインや仮想通貨に言及せず　価格反落",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/trump-btc-usa.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/trump-btc-usa.png"
+        },
         {
           "id": "https://coinpost.jp/?p=588752",
           "author": "AKIRA.H",
@@ -1360,16 +1400,6 @@
           "wordCount": 760,
           "title": "【1/16話題】トランプ次期政権で暗号資産規制見直し着手か、リミックスポイントが2日連続でビットコイン追加購入など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/01/16173233/news_head_20250116.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=444677",
-          "author": "HitomotoToshikazu",
-          "description": "Polymarketがタイで閉鎖か 分散型予測市場プラットフォーム「ポリマーケット（Polymarket）」が、タイで閉鎖される可能性がある。タイのニュースポータルサイト「MGRオンライン（MGR Online：Mana […]",
-          "link": "https://www.neweconomy.jp/posts/444677",
-          "publishedOn": "2025-01-16T08:36:43.000Z",
-          "wordCount": 722,
-          "title": "分散型予測市場「ポリマーケット」がタイで閉鎖か、シンガポール・台湾・フランスに続き",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/01/16173626/b6fad8c58379af9ddd3d00080bca30a0.jpg"
         }
       ]
     }
