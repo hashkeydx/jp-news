@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-03T11:21:55.942Z</updated>
+    <updated>2025-02-03T12:48:41.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー社、2024年の純利益130億ドル達成。米国債保有額は過去最高の1130億ドルに]]></title>
+        <id>https://www.neweconomy.jp/?p=448450</id>
+        <link href="https://www.neweconomy.jp/posts/448450"/>
+        <updated>2025-02-03T11:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Tether社の米国債保有額が約17.5兆円に USDTなどのステーブルコイン発行企業テザー（Tether）社が、2024年第4四半期の財務情報を1月31日に公開した。 公開情報によると、同社の年間純利益は130億ドル（ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[インド、世界的な流れを受けて暗号資産への姿勢を見直し：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=274353</id>
@@ -1321,48 +1331,6 @@ TRUMPでトランプ公式グッズが購入可能に──実用性向上で時
         <summary type="html"><![CDATA[仮想通貨カルダノがPlominアップグレードを完了し、ADA保有者による分散型ガバナンスへ移行した。ADA保有者は投票で意志決定に参加できるようになる。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPやSOL、DOGE含む銘柄の総合的パフォーマンスを追う指数、GMCIが提供開始]]></title>
-        <id>https://coinpost.jp/?p=591138</id>
-        <link href="https://coinpost.jp/?p=591138"/>
-        <updated>2025-01-30T00:40:39.000Z</updated>
-        <summary type="html"><![CDATA[米GMCIは新たに、主に米国を拠点とする仮想通貨銘柄の価格パフォーマンスを追跡する新たな指数「USA Select Index」を立ち上げた。この指数は、米国市場に焦点を当てた仮想通貨戦略の標準的なベンチマークを提供することを目的としており投資家にとって重要な指標ととなる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ、「Plomin」アップグレードを有効化──オンチェーンガバナンスに本格移行]]></title>
-        <id>https://www.coindeskjapan.com/?p=273606</id>
-        <link href="https://www.coindeskjapan.com/273606/"/>
-        <updated>2025-01-30T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum（イーサリアム）の共同創設者チャールズ・ホスキンソン（Charles Hoskinson）氏が2017年にスタートさせたレイヤー1ブロックチェー ...
-カルダノ、「Plomin」アップグレードを有効化──オンチェーンガバナンスに本格移行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロストラテジーの優先株、機関投資家には魅力]]></title>
-        <id>https://www.coindeskjapan.com/?p=273594</id>
-        <link href="https://www.coindeskjapan.com/273594/"/>
-        <updated>2025-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[マイクロストラテジーは、大量のビットコインを購入するための独創的な資金調達で他をリードしてきたと言っても過言ではないだろう。エグゼクティブ・チェアマンのマイケル ...
-マイクロストラテジーの優先株、機関投資家には魅力 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOMC後のビットコイン価格と投資家心理の変化｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=591136</id>
-        <link href="https://coinpost.jp/?p=591136"/>
-        <updated>2025-01-29T23:35:54.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場は、米連邦公開市場委員会後の記者会見で、パウエルFRB議長が「銀行は暗号資産の顧客に完全に対応できる」と発言したことで上昇。さらにチェコ中銀が外貨準備でビットコイン保有を検討していることが伝えられ上昇を後押しした。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
