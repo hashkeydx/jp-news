@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-03T20:27:04.979Z</updated>
+    <updated>2025-02-03T21:24:19.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ米大統領が政府系ファンドの設立を指示　ビットコイン投資への期待も]]></title>
+        <id>https://coinpost.jp/?p=591998</id>
+        <link href="https://coinpost.jp/?p=591998"/>
+        <updated>2025-02-03T20:50:08.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインは3日の暴落を経て、4日にはメキシコに対する米国の関税実施が1カ月延期されることや、トランプ大統領が政府系ファンドを設立する大統領令に署名したことを受け大きく反発し一時102,000ドル台を回復した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領、政府系ファンドの設立を指示]]></title>
         <id>https://www.coindeskjapan.com/?p=274369</id>
@@ -1082,28 +1092,6 @@ CMEグループのビットコイン金曜先物、2月に毎日決済のオプ�
 日本中から地方創生DAOが渋谷に結集──「渋谷DAO DAY」2月28日開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRUMPでトランプ公式グッズが購入可能に──実用性向上で時価総額も上昇]]></title>
-        <id>https://www.coindeskjapan.com/?p=273785</id>
-        <link href="https://www.coindeskjapan.com/273785/"/>
-        <updated>2025-01-30T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[GetTrumpWatches.com、GetTrumpFragrances.com、GetTrumpSneakers.comなど、ドナルド・トランプ（Dona ...
-TRUMPでトランプ公式グッズが購入可能に──実用性向上で時価総額も上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリマーケットは米政府のビットコイン準備金創設に懐疑的]]></title>
-        <id>https://www.coindeskjapan.com/?p=273759</id>
-        <link href="https://www.coindeskjapan.com/273759/"/>
-        <updated>2025-01-30T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[分散型予測市場のポリマーケット（Polymarket）は、トランプ政権の暗号資産（仮想通貨）責任者であるデービッド・サックス（David Sacks）氏が、その ...
-ポリマーケットは米政府のビットコイン準備金創設に懐疑的 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
         </author>
     </entry>
 </feed>
