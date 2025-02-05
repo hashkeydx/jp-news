@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-05T11:22:13.612Z</updated>
+    <updated>2025-02-05T12:49:38.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【2/5話題】BlockstreamとDiamond Handsが提携、リミックスポイントが5億円でBTCとXRP追加購入など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=449021</id>
+        <link href="https://www.neweconomy.jp/posts/449021"/>
+        <updated>2025-02-05T12:17:34.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygon Labs、「AggLayer v0.2」をメインネットで稼働開始]]></title>
         <id>https://www.neweconomy.jp/?p=449149</id>
@@ -1212,49 +1222,6 @@ XRP台帳、クローバック機能を実装──リップルUSD取引を後�
         <summary type="html"><![CDATA[ラスベガス・スフィアがドッグウィズハット（WIF）の広告投影計画を否定した。一方、WIFチームは実現に向け交渉継続中としている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ、1月のステーブルコイン供給高が112％急増──「TRUMP」ミームコインブームが牽引]]></title>
-        <id>https://www.coindeskjapan.com/?p=274135</id>
-        <link href="https://www.coindeskjapan.com/274135/"/>
-        <updated>2025-02-01T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CCDataが1月31日に発表した調査レポートによると、ソラナ上のステーブルコインの供給高は1月、112％急増し、過去最高の111億ドルに達した。 この急増は、 ...
-ソラナ、1月のステーブルコイン供給高が112％急増──「TRUMP」ミームコインブームが牽引 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1月はビットコインにとって過去10カ月で2番目に好調な月になる可能性]]></title>
-        <id>https://www.coindeskjapan.com/?p=274131</id>
-        <link href="https://www.coindeskjapan.com/274131/"/>
-        <updated>2025-02-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[現状では、1月はビットコインにとって過去10カ月で2番目に好調な月となっており、上回るのは米大統領選挙でトランプ氏が勝利し、価格が37％急騰した2024年11月 ...
-1月はビットコインにとって過去10カ月で2番目に好調な月になる可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国で初のポルカドット現物ETF申請へ、21Shares]]></title>
-        <id>https://coinpost.jp/?p=591678</id>
-        <link href="https://coinpost.jp/?p=591678"/>
-        <updated>2025-01-31T23:50:41.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ETF運用の大手21Sharesは米証券取引委員会に対し、米国初となるポルカドット現物ETFの登録届出書を提出した。トランプ新政権下での規制環境の改善を見越した申請ラッシュとされる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン市場が約31兆円を突破──暗号資産価格上昇の可能性を示唆]]></title>
-        <id>https://www.coindeskjapan.com/?p=274120</id>
-        <link href="https://www.coindeskjapan.com/274120/"/>
-        <updated>2025-01-31T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CryptoQuantによると、ステーブルコインの時価総額は2000億ドルを突破して過去最高を記録した。暗号資産市場がさらなる成長を遂げる兆しかもしれない。 ス ...
-ステーブルコイン市場が約31兆円を突破──暗号資産価格上昇の可能性を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>
