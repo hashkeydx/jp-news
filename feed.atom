@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-05T07:25:36.216Z</updated>
+    <updated>2025-02-05T08:30:37.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米上院議員のハガディ氏、ステーブルコインの規制枠組み創設の法案を提出へ]]></title>
+        <id>https://www.neweconomy.jp/?p=449016</id>
+        <link href="https://www.neweconomy.jp/posts/449016"/>
+        <updated>2025-02-05T08:21:45.000Z</updated>
+        <summary type="html"><![CDATA[超党派メンバーでの作業グループ結成も 米共和党のビル・ハガティ（Bill Hagerty）上院議員が、ステーブルコインの規制枠組みを創設する法案を提出するようだ。ブルームバーグが2月4日報じた。 報道によれば、この法案は […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムが「ガスリミット」引き上げ、PoS移行後に初]]></title>
+        <id>https://www.neweconomy.jp/?p=449006</id>
+        <link href="https://www.neweconomy.jp/posts/449006"/>
+        <updated>2025-02-05T08:11:31.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムが「ガスリミット」引き上げ イーサリアム（Ethereum）の「ガスリミット」が、バリデーターの半数以上の承認により、2月4日に引き上げられた。この調整は、ハードフォークを必要とせずに自動的に実行された。 今 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セムラーサイエンティフィックがビットコイン追加購入、総保有数3192BTCに]]></title>
+        <id>https://www.neweconomy.jp/?p=448974</id>
+        <link href="https://www.neweconomy.jp/posts/448974"/>
+        <updated>2025-02-05T07:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Semler ScientificのBTC保有数が3192BTCに 米ナスダック上場企業の医療機器メーカーであるセムラーサイエンティフィック（Semler Scientific）が、ビットコインの追加購入を2月4日発表し […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Berachain、2/6にTGEとメインネットローンチ]]></title>
         <id>https://www.neweconomy.jp/?p=448957</id>
@@ -492,6 +522,16 @@ XRPとドージコインは20％急騰したが、中国の報復関税発表で
 マイクロストラテジー、決算発表前にビットコインの連続購入を停止 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの買い方（始め方）｜最適な取引所の選び方と投資メリットを解説]]></title>
+        <id>https://coinpost.jp/?p=512830</id>
+        <link href="https://coinpost.jp/?p=512830"/>
+        <updated>2025-02-04T01:54:30.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの価格が日本円建てで史上最高値を更新するなどして、仮想通貨への注目度が改めて高まってきています。本記事では初心者向けに、ビットコインの買い方、投資のメリットやリスクなどを解説しています。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -1160,17 +1200,6 @@ XRP台帳、クローバック機能を実装──リップルUSD取引を後�
         <summary type="html"><![CDATA[カナダの大手資産運用会社Purpose Investments Inc.は30日、XRPに特化した上場投資信託の設立を目指し、カナダの証券規制当局に予備目論見書を提出したことを発表した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ関税、2日連続でビットコインの値上がりに冷や水]]></title>
-        <id>https://www.coindeskjapan.com/?p=274126</id>
-        <link href="https://www.coindeskjapan.com/274126/"/>
-        <updated>2025-01-31T20:07:44.000Z</updated>
-        <summary type="html"><![CDATA[関税の延期に関する希望的観測がホワイトハウスによって否定された後、暗号資産（仮想通貨）の世界ではデジャブが繰り返されている。 トランプ大統領は1月30日、2月1 ...
-トランプ関税、2日連続でビットコインの値上がりに冷や水 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Stephen Alpher</name>
         </author>
     </entry>
 </feed>
