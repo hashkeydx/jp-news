@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-09T13:26:14.132Z</updated>
+    <updated>2025-02-09T14:25:56.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DEXアグリゲーター1インチがZKsyncを統合──クロスチェーンスワップを強化]]></title>
+        <id>https://www.coindeskjapan.com/?p=275384</id>
+        <link href="https://www.coindeskjapan.com/275384/"/>
+        <updated>2025-02-09T13:28:36.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所（DEX）アグリゲーターの1インチネットワーク（1inch Network）は、イーサリアムブロックチェーンのレイヤー2スケーリングソリューションで ...
+DEXアグリゲーター1インチがZKsyncを統合──クロスチェーンスワップを強化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[カニエ・ウェスト氏、「コインはファンを食い物にする」──トークン発行予想する割合が急落]]></title>
         <id>https://www.coindeskjapan.com/?p=275377</id>
@@ -1358,26 +1369,6 @@ XRP、対ビットコインで2017年のような強気パターンを示唆：C
         <summary type="html"><![CDATA[RWA銘柄反発仮想通貨市場が米中貿易戦争に伴う不確実性で揺れる中、現実資産をトークン化するRWA（RealWorldAssets）関連銘柄は2月3日の暴落から大きく反発。一週間スパンでみると、ブロックチェーン資産運用プラットフォームのChi...]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコイン準備金の検討はトランプ大統領の優先事項」仮想通貨特命官サックス氏が会見]]></title>
-        <id>https://coinpost.jp/?p=592243</id>
-        <link href="https://coinpost.jp/?p=592243"/>
-        <updated>2025-02-05T02:00:18.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン準備金の検討は米トランプ大統領の優先事項であると仮想通貨特命官サックス氏が会見で語った。米国でイノベーションを起こすことも強調している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX、今月下旬より債権者への返済開始予定]]></title>
-        <id>https://coinpost.jp/?p=592239</id>
-        <link href="https://coinpost.jp/?p=592239"/>
-        <updated>2025-02-05T01:32:23.000Z</updated>
-        <summary type="html"><![CDATA[破綻した仮想通貨取引所FTXが債権者への返済を2月に開始する。5万ドル未満の債権者から順次実施する予定だ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
