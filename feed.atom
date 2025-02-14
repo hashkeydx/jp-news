@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T11:22:11.525Z</updated>
+    <updated>2025-02-14T12:49:09.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある]]></title>
+        <id>https://www.coindeskjapan.com/?p=276234</id>
+        <link href="https://www.coindeskjapan.com/276234/"/>
+        <updated>2025-02-14T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Glassnodeによると、ビットコイン（BTC）の短期保有者（STH）は9月以来150万BTCを追加し、総数は400万BTCを超えた。 これは、平均すると毎月 ...
+ビットコインの短期保有者、400万BTC以上を保有──サイクルにはまだ上昇の余地がある first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2025/2/14）下げ止まった？まだ下がる？見極めのポイントは？【楽天ウォレット】]]></title>
         <id>https://www.coindeskjapan.com/?p=276214</id>
@@ -47,6 +58,16 @@ SECがETF申請を受理したことでXRPとDOGEが上昇 first appeared on Coi
         <summary type="html"><![CDATA[Lidoが「Lido v3」を発表 リキッドステーキングプロトコルのライド（Lido）による、「ライド v3（Lido v3）」が2月11日に発表された。この「ライド v3」は、イーサリアム（Ethereum）のステーキ […]]]></summary>
         <author>
             <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap（パンケーキスワップ）の使い方│特徴から注意点まで]]></title>
+        <id>https://coinpost.jp/?p=594774</id>
+        <link href="https://coinpost.jp/?p=594774"/>
+        <updated>2025-02-14T08:55:33.000Z</updated>
+        <summary type="html"><![CDATA[BNBチェーン上で最大規模のDEX、PancakeSwap（パンケーキスワップ）の基本機能と特徴を解説。低コストな取引手数料、豊富な収益機会、NFT取引など多彩な機能を備え、メタマスクで簡単に利用可能。使い方から注意点まで詳しく紹介。]]></summary>
+        <author>
+            <name>Shusaku.Akaji</name>
         </author>
     </entry>
     <entry>
@@ -1695,16 +1716,6 @@ BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額�
         <summary type="html"><![CDATA[トヨタファイナンスが初のセキュリティトークン社債を発行。総額10億円、1口10万円で個人投資家向けに2025年2月20日から募集する。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「政府支出のブロックチェーン化で監査容易に」米コインベースCEOがイーロン・マスクを支持]]></title>
-        <id>https://coinpost.jp/?p=593194</id>
-        <link href="https://coinpost.jp/?p=593194"/>
-        <updated>2025-02-10T00:24:18.000Z</updated>
-        <summary type="html"><![CDATA[米コインベースCEOが政府支出のブロックチェーン化でマスク氏に賛同した。透明性向上や支出の監査効率化に期待している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
