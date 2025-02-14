@@ -580,26 +580,6 @@
           "wordCount": 1251,
           "title": "gumi、10億円分のビットコイン購入へ──企業の暗号資産保有が加速",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/スクリーンショット-2025-02-10-20.07.34.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=275483",
-          "author": "廣瀬 優香",
-          "description": "事情に詳しい関係者によると、シティグループ（Citigroup）の元幹部らが設立したスタートアップであるReceipts Depositary Corp.（RD ...\nシティ元幹部が設立したスタートアップ、XRP担保証券を発行へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/275483/",
-          "publishedOn": "2025-02-10T09:45:00.000Z",
-          "wordCount": 1310,
-          "title": "シティ元幹部が設立したスタートアップ、XRP担保証券を発行へ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2470698987.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=275500",
-          "author": "Omkar Godbole",
-          "description": "1週間前、貿易戦争への懸念が市場を揺るがし、ビットコイン（BTC）は9万1000ドル近くまで暴落した。暗号資産分析会社のIntoTheBlockによると、同じ日 ...\nBTC価格が9万ドルへ下落した際、取引所へのテザーの流入額が27億ドルに急増 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/275500/",
-          "publishedOn": "2025-02-10T09:30:00.000Z",
-          "wordCount": 1317,
-          "title": "BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額が27億ドルに急増",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/THWADL6HLRAQXGDQHVVMM6BOOU.jpeg"
         }
       ]
     },
@@ -614,6 +594,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=594811",
+          "author": "K.Kobayashi",
+          "description": "イーサリアム財団が、仮想通貨ETHの次期大型アップグレード「ペクトラ」のテスト実施時期を公表。メインネットで4月に実施できるか注目が集まっている。",
+          "link": "https://coinpost.jp/?p=594811",
+          "publishedOn": "2025-02-14T22:25:29.000Z",
+          "wordCount": 3340,
+          "title": "イーサリアムの大型アップグレード「ペクトラ」、3月5日に最終テスト実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/ethereum-network-value.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=594814",
+          "author": "菊谷ルイス",
+          "description": "アブダビの政府系ファンド「ムバダラ」が、ブラックロックのビットコイン現物ETFに665億円を投資。2024年第4四半期の投資実施が明らかになった。",
+          "link": "https://coinpost.jp/?p=594814",
+          "publishedOn": "2025-02-14T21:50:21.000Z",
+          "wordCount": 3320,
+          "title": "アブダビ政府系ファンド、昨年4QにブラックロックのビットコインETFに665億円投資",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/abu-hut-71.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/abu-hut-71.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=594810",
+          "author": "菊谷ルイス",
+          "description": "Jito LabsとMulticoin Capitalは、米SECの仮想通貨規制タスクフォースとの会議で、ステーキングをETFに組み込む可能性について議論した。会議では、ステーキングが投資家に与える利益や、ETF内でのステーキングモデルについての提案が行われた。",
+          "link": "https://coinpost.jp/?p=594810",
+          "publishedOn": "2025-02-14T21:40:54.000Z",
+          "wordCount": 3341,
+          "title": "Jito Labsなど、米SECとの会議でステーキングをETFに組み込む方法を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=594805",
           "author": "菊谷ルイス",
@@ -1348,21 +1373,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/pando-etf.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/pando-etf.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=592758",
-          "author": "CoinPost編集部",
-          "description": "独自仮想通貨を4つの取引所に同時上場することを、ブロックチェーンの相互運用レイヤーAnalogが発表。ブロックチェーン接続の再構築やトークンのリーチ拡大に向け、大胆な一歩を踏み出すとした。",
-          "link": "https://coinpost.jp/?p=592758",
-          "publishedOn": "2025-02-10T10:00:45.000Z",
-          "wordCount": 3074,
-          "title": "独自仮想通貨を4つの取引所に同時上場へ　ブロックチェーンの相互運用レイヤー「Analog」が発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Analog-1-listing.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Analog-1-listing.jpeg"
         }
       ]
     },
