@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-14T18:35:04.277Z</updated>
+    <updated>2025-02-14T19:22:10.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、5週末連続の下落を脱するか]]></title>
+        <id>https://www.coindeskjapan.com/?p=276269</id>
+        <link href="https://www.coindeskjapan.com/276269/"/>
+        <updated>2025-02-14T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は2月14日、米国取引セッション序盤に小幅な上昇を見せたが、その動きはすぐに消えた。強気派は週末を前にポジションを軽くしているのだろうか？ ...
+ビットコイン、5週末連続の下落を脱するか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Stephen Alpher</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、強い短期モメンタムの恩恵を受けて2025年は好スタート：JMP証券]]></title>
         <id>https://www.coindeskjapan.com/?p=276255</id>
@@ -1635,26 +1646,6 @@ BTC価格が9万ドルへ下落した際、取引所へのテザーの流入額�
         <summary type="html"><![CDATA[国内上場企業のgumiが取締役会で10億円規模の仮想通貨ビットコイン購入を決議した。Babylonプロトコルのバリデータとして、価格上昇益とステーキング報酬の獲得を目指す。BTC保有でマイクロストラテジーやメタプラネットに追従しつつ、国内上場企業による暗号資産運用の新たなモデルケースとして注目される。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBI HD、暗号資産事業の過去最高収益を報告]]></title>
-        <id>https://www.neweconomy.jp/?p=450039</id>
-        <link href="https://www.neweconomy.jp/posts/450039"/>
-        <updated>2025-02-10T07:16:14.000Z</updated>
-        <summary type="html"><![CDATA[活況な市場環境受け SBIホールディングスが、2025年3月期第3四半期の連結決算を2月7日に発表し、グループ全体及び暗号資産事業の収益がともに過去最高を更新したと報告した。 暗号資産（仮想通貨）事業は、前年同期（202 […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gumiのシンガポール子会社、EigenLayerのノード運営開始]]></title>
-        <id>https://www.neweconomy.jp/?p=450011</id>
-        <link href="https://www.neweconomy.jp/posts/450011"/>
-        <updated>2025-02-10T06:49:46.000Z</updated>
-        <summary type="html"><![CDATA[gC Games SingaporeがEigenLayerのノード運営開始 gumi（グミ）の連結子会社gC Games Singapore（gcゲームズシンガポール）が、EigenLayer（アイゲンレイヤー）のバリデ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
