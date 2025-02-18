@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-18T21:25:10.360Z</updated>
+    <updated>2025-02-18T22:29:28.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム「Geth」、経済的損失防止でノードに即時アップデートを要請]]></title>
+        <id>https://coinpost.jp/?p=595886</id>
+        <link href="https://coinpost.jp/?p=595886"/>
+        <updated>2025-02-18T22:15:42.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのソフトウェアGethのチームは、ノードに対し即座にアップデートを行うよう要請。現状のままではブロック生成に失敗する可能性があると説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SECがBitwiseのXRP現物ETF申請を受理　年内の承認予測率は78%]]></title>
+        <id>https://coinpost.jp/?p=595885</id>
+        <link href="https://coinpost.jp/?p=595885"/>
+        <updated>2025-02-18T21:50:02.000Z</updated>
+        <summary type="html"><![CDATA[米SECが新たにBitwiseのXRP現物ETF申請についてのパブリックコメントを募集開始。グレースケールや21Sharesの申請に続き審査手続きが進行中。予測市場では2025年内の承認確率78%を示し、投資家の期待が高止まりだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン買い増し予定、米ストラテジーが新たな資金調達へ]]></title>
         <id>https://coinpost.jp/?p=595881</id>
@@ -1059,27 +1079,6 @@ XRP ETF、SECが申請受理で実現に一歩近づく first appeared on CoinDe
 SECがETF申請を受理したことでXRPとDOGEが上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲームストップ、ビットコインへの投資を検討中：報道]]></title>
-        <id>https://www.coindeskjapan.com/?p=276183</id>
-        <link href="https://www.coindeskjapan.com/276183/"/>
-        <updated>2025-02-14T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ゲームストップ（GameStop）は、代替資産クラスへの投資を検討しており、その中にはビットコイン（BTC）などの暗号資産（仮想通貨）も含まれていると、CNBC ...
-ゲームストップ、ビットコインへの投資を検討中：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Stephen Alpher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リキッドステーキングプロトコル「Lido」が「Lido v3」展開へ]]></title>
-        <id>https://www.neweconomy.jp/?p=451283</id>
-        <link href="https://www.neweconomy.jp/posts/451283"/>
-        <updated>2025-02-14T09:38:41.000Z</updated>
-        <summary type="html"><![CDATA[Lidoが「Lido v3」を発表 リキッドステーキングプロトコルのライド（Lido）による、「ライド v3（Lido v3）」が2月11日に発表された。この「ライド v3」は、イーサリアム（Ethereum）のステーキ […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
