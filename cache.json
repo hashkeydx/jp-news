@@ -785,6 +785,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=596462",
+          "author": "A.Yamada",
+          "description": "マイクロソフトが革新的量子チップ「Majorana 1」を発表。ビットコインなど仮想通貨の量子コンピュータリスクは以前より議論されてきた。今後はより迅速な対応が求められる可能性がある。",
+          "link": "https://coinpost.jp/?p=596462",
+          "publishedOn": "2025-02-21T04:20:09.000Z",
+          "wordCount": 3201,
+          "title": "マイクロソフト、新量子コンピュータチップを発表　仮想通貨でもセキュリティリスクが再燃か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=596434",
           "author": "K.Kobayashi",
           "description": "AI活用のWeb3情報プラットフォームKaitoが、独自仮想通貨のエアドロップの請求受付を開始し、同時にトークノミクスを公開。コインベースやクラーケンが上場を発表している。",
@@ -1616,6 +1631,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=452960",
+          "author": "OtsugaShinya",
+          "description": "TOKIがメインネットローンチ クロスチェーンブリッジの「TOKI（トキ）」が、ベータメインネットとして本番環境で稼働開始した。また同時に「TOKIポイントプログラム」が正式に開始された。「TOKI」公式SNSより2月1 […]",
+          "link": "https://www.neweconomy.jp/posts/452960",
+          "publishedOn": "2025-02-21T03:55:11.000Z",
+          "wordCount": 795,
+          "title": "「TOKI」が本番環境で稼働開始、イーサリアムとBNBチェーン間で初のIBC接続",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/21125508/b72281563a9c35438ddf48f5a9688bdb.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=452760",
           "author": "NewEconomyPodcast",
