@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T08:32:08.859Z</updated>
+    <updated>2025-02-21T09:27:36.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨の税務調査で追徴課税？確定申告のミスが引き起こす具体的リスクと対策｜Gtax寄稿]]></title>
+        <id>https://coinpost.jp/?p=596268</id>
+        <link href="https://coinpost.jp/?p=596268"/>
+        <updated>2025-02-21T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[資家必見の税務リスク対策ガイド。仮想通貨取引の確定申告ミスが招く税務調査と追徴課税のリスクについて、Gtax提供企業の税理士が徹底解説。損益計算のチェックポイントから実際の追徴課税事例、対策方法まで徹底解説。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米グーグル、ビットコインウォレットのログインにGoogle認証技術活用か＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=453090</id>
@@ -2026,17 +2036,6 @@ SEC、コインベース訴訟の期限延長を裁判所に要請──和解�
 ソラナDEXの取引高、6000万ドル突破──イーサリアムに対する4カ月の連勝記録をさらに伸ばすか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Based Rollups」はイーサリアムのレイヤー2問題を解決できるか？]]></title>
-        <id>https://www.coindeskjapan.com/?p=276301</id>
-        <link href="https://www.coindeskjapan.com/276301/"/>
-        <updated>2025-02-16T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムコミュニティはここ数週間、混乱状態にある。メンバーは、いくつかの設計上の重要な問題に対処しなければ、チェーンは競争力を失うと警鐘している。 問題とな ...
-「Based Rollups」はイーサリアムのレイヤー2問題を解決できるか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
         </author>
     </entry>
 </feed>
