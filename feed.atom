@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-21T23:26:11.419Z</updated>
+    <updated>2025-02-22T01:50:35.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米当局、保有ビットコイン総額把握できず＝報道]]></title>
+        <id>https://coinpost.jp/?p=596859</id>
+        <link href="https://coinpost.jp/?p=596859"/>
+        <updated>2025-02-22T01:45:04.000Z</updated>
+        <summary type="html"><![CDATA[米保安官署（USMS）の仮想通貨管理体制に深刻な問題がありそうだ。海外報道によると、押収ビットコインの正確な保有額を把握できない状況が明らかに。国家仮想通貨備蓄構想にも影響の懸念が浮上した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週のビットコインは揉み合いに、レジスタンス上抜けすればセンチメント改善も｜bitbankアナリスト寄稿]]></title>
+        <id>https://coinpost.jp/?p=596580</id>
+        <link href="https://coinpost.jp/?p=596580"/>
+        <updated>2025-02-22T01:30:57.000Z</updated>
+        <summary type="html"><![CDATA[bitbankアナリストによる2月16日〜21日のビットコイン週次分析。FOMCのQT減速・停止検討が相場を下支えする一方、テクニカル面では三役逆転が示す警戒感も。米国4州でSBR法案が議会審議へ進展、BTCは1400万円台での推移が継続。9.9万〜10万ドルのレジスタンスラインに要注目。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX債権者の8割が仮想通貨再投資に意欲的　ソラナやAI銘柄にも注目＝レポート]]></title>
+        <id>https://coinpost.jp/?p=596845</id>
+        <link href="https://coinpost.jp/?p=596845"/>
+        <updated>2025-02-22T01:30:26.000Z</updated>
+        <summary type="html"><![CDATA[FTXの債権者の80％が返済資金を仮想通貨に再投資する予定。ソラナ保有者はソラナへ積極姿勢を維持しておりミームコインやAI銘柄への関心も高まっている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アフリカ上場企業で初のビットコイン購入事例　Altvest Capital]]></title>
+        <id>https://coinpost.jp/?p=596817</id>
+        <link href="https://coinpost.jp/?p=596817"/>
+        <updated>2025-02-22T00:45:32.000Z</updated>
+        <summary type="html"><![CDATA[初めて仮想通貨ビットコインを購入したことを、南アフリカ上場の投資企業Altvest Capitalが発表。購入した理由やアルトコインを現状では購入していない理由を説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybitハッキング後のイーサリアム巻き戻し論争 、ヘイズ氏発言で再燃するDAO事件の教訓]]></title>
+        <id>https://coinpost.jp/?p=596846</id>
+        <link href="https://coinpost.jp/?p=596846"/>
+        <updated>2025-02-22T00:10:43.000Z</updated>
+        <summary type="html"><![CDATA[Bybitから約2,100億円相当のETH流出を受け、BitMEX創設者が巻き戻し（ロールバック）を提案。2016年DAO事件の議論が再燃している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybit史上最大規模（約2100億円）の流出で仮想通貨市場急落｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=596835</id>
+        <link href="https://coinpost.jp/?p=596835"/>
+        <updated>2025-02-21T23:50:55.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場は米SECが2023年にコインベースに対して提起した未登録有価証券に関連する訴訟を取り下げる予定であるとの報道を受け、一時ビットコイン価格は1,500万円まで上昇した。しかし、その後Bybitにおける過去最大規模となる2,100億円相当のETHハッキングが報じられたことを受け、市場は急落し一時約80万円の下落となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[グレースケールのXRP現物ETF上場申請、SECが240日以内判断へ]]></title>
         <id>https://coinpost.jp/?p=596821</id>
@@ -1814,38 +1874,6 @@ SOLとXRPが暗号資産の下落を主導、米国は「大統領の日」で�
 都内高級ホテルの宿泊権NFT化、最大半額で提供へ──報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州の後払い決済大手Klarna、暗号資産の採用を表明]]></title>
-        <id>https://www.coindeskjapan.com/?p=276589</id>
-        <link href="https://www.coindeskjapan.com/276589/"/>
-        <updated>2025-02-17T12:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ヨーロッパで人気のあるスウェーデンのフィンテック企業、Klarnaはプラットフォームで暗号資産（仮想通貨）を採用する計画だと、セバスチャン・シェミャートコフスキ ...
-欧州の後払い決済大手Klarna、暗号資産の採用を表明 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス元CEOの愛犬、ミームコイン作成者に莫大な利益をもたらす──トレーダーは損失を被る]]></title>
-        <id>https://www.coindeskjapan.com/?p=276541</id>
-        <link href="https://www.coindeskjapan.com/276541/"/>
-        <updated>2025-02-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人生はあっという間だ。ミームコインは…さらに速く循環する。 ミームコイン戦線で血まみれの13日に起きた出来事は、まさにそのような感じだった。その日のトレンドは、 ...
-バイナンス元CEOの愛犬、ミームコイン作成者に莫大な利益をもたらす──トレーダーは損失を被る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2/17話題】メタプラネットが40億円分のビットコイン購入へ、日立がデジタル資産取引のAML実効性向上の実証実験など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=451649</id>
-        <link href="https://www.neweconomy.jp/posts/451649"/>
-        <updated>2025-02-17T11:54:05.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
