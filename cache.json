@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=277937",
+          "author": "栃山直樹",
+          "description": "ビットコイン（BTC）投資企業のメタプラネットは2月25日、135BTCの追加購入を発表した。今回の追加購入額は約19億3900万円、平均単価は1BTCあたり約 ...\nメタプラネット、約20億円分のビットコインを追加購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/277937/",
+          "publishedOn": "2025-02-25T05:23:21.000Z",
+          "wordCount": 1241,
+          "title": "メタプラネット、約20億円分のビットコインを追加購入",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/メタプラネット　ビットコインと未来へ-710x458-1-710.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=277898",
           "author": "CoinDesk JAPAN",
           "description": "世界最大級のマーケットメーカー（流動性提供者）のCitadel Securities（シタデル・セキュリティーズ）は、暗号資産（仮想通貨）業界により深く関与する ...\n世界最大級のマーケットメーカー、暗号資産の流動性提供へ：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -340,10 +350,40 @@
       "articles": []
     },
     {
-      "title": "Lisk(LSK)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=597471",
+          "author": "AKIRA.H",
+          "description": "メタプラネットが135BTCを追加購入し、ビットコイン保有量が2,235BTCに到達。1BTCあたり約1,436万円、総額19億3,900万円の投資で累計278億円超え。BTCイールドは第1四半期に23.2%を記録。EVO FUNDとの新株予約権行使も進行中。",
+          "link": "https://coinpost.jp/?p=597471",
+          "publishedOn": "2025-02-25T03:30:31.000Z",
+          "wordCount": 3234,
+          "title": "メタプラネット、20億円でビットコインを追加購入　保有量2,235 BTCに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/meta-planet-bitcoin-new-buy.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/meta-planet-bitcoin-new-buy.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=597431",
+          "author": "S.Ninomiya",
+          "description": "暗号資産市場は全面安の展開に。ビットコインは9.2万ドル台まで下落し、アルトコインは軒並み10%前後の下落。背景にはインフレ懸念、トランプ関税リスク、モンタナ州BTC準備金法案否決、Bybitハッキング事件など複数の悪材料が続出している。",
+          "link": "https://coinpost.jp/?p=597431",
+          "publishedOn": "2025-02-25T03:00:09.000Z",
+          "wordCount": 3322,
+          "title": "仮想通貨市場は全面安、アルトコインの下落率が顕著に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/bitcoin-dollar-trade.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/bitcoin-dollar-trade.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=597434",
           "author": "K.Kobayashi",
@@ -861,6 +901,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=453824",
+          "author": "HitomotoToshikazu",
+          "description": "USDCとEURCがDIFC認定の暗号資産に 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」およびユーロ建てステーブルコイン「EURC」が、ドバイ国際金融セン […]",
+          "link": "https://www.neweconomy.jp/posts/453824",
+          "publishedOn": "2025-02-25T05:28:17.000Z",
+          "wordCount": 597,
+          "title": "ステーブルコインの「USDC」と「EURC」、ドバイ国際金融センターで認定暗号資産に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/25142744/49e037554c76b8c3bad72f2d14df97f3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=453809",
+          "author": "OtsugaShinya",
+          "description": "米SECがロビンフッドの調査を終了 株式や暗号資産（仮想通貨）の取引アプリを提供する米ロビンフッド（Robinhood）は、米国証券取引委員会（SEC）の執行部門からの同社暗号資産部門に対する調査が終了し、措置が取られな […]",
+          "link": "https://www.neweconomy.jp/posts/453809",
+          "publishedOn": "2025-02-25T05:17:13.000Z",
+          "wordCount": 619,
+          "title": "米SEC、ロビンフッドの調査を措置なしで終了",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/25141705/fb117d4325583bd0680da843439f1a77.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=453803",
+          "author": "NewEconomy",
+          "description": "現在流通しているトークンとの関連は否定 ヒップホップ界の著名人で実業家のカニエ・ウェスト（Kanye West）ことイェ（Ye）が、自身とYZYトークンとの関係を否定し、近日中に自身の独自トークンを立ち上げる意思を2月2 […]",
+          "link": "https://www.neweconomy.jp/posts/453803",
+          "publishedOn": "2025-02-25T05:11:26.000Z",
+          "wordCount": 607,
+          "title": "カニエ・ウェスト、近日中に独自トークン発行か＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/25141117/519ebbd1184062e91f983aae75a18b7d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=453780",
+          "author": "OtsugaShinya",
+          "description": "メタプラネットのビットコイン保有数が2,235BTCに ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、新たにビットコインの追加購入を実施したことを2月25日に発表した。 今回メ […]",
+          "link": "https://www.neweconomy.jp/posts/453780",
+          "publishedOn": "2025-02-25T04:51:02.000Z",
+          "wordCount": 606,
+          "title": "メタプラネットがビットコイン追加購入、合計保有数2,235BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/02/25135058/66c31f066315206040164be9b75ac228.jpeg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=453743",
           "author": "OtsugaShinya",
