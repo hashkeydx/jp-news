@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-25T06:35:43.654Z</updated>
+    <updated>2025-02-25T07:25:49.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pacific Meta、「Bifrost Network」のバリデータ運用を開始]]></title>
+        <id>https://www.neweconomy.jp/?p=453884</id>
+        <link href="https://www.neweconomy.jp/posts/453884"/>
+        <updated>2025-02-25T06:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Pacific MetaとBifrost Networkが提携 Pacific Meta（パシフィックメタ）が、Bifrost（バイフロスト）との戦略的パートナーシップ締結を2月21日に発表した。 Pacific Met […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、米国初となる利子付きステーブルコイン「YLDS」の申請を承認]]></title>
         <id>https://www.neweconomy.jp/?p=453870</id>
@@ -1036,17 +1046,6 @@ SECの新サイバー部門、暗号資産に対する執行措置重視の姿�
         <summary type="html"><![CDATA[米証券取引委員会が新設したCETUは、AI・暗号資産分野での投資家保護と技術革新の促進を目指す。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、小幅上昇──アトランタ連銀総裁のハト派発言を受けて]]></title>
-        <id>https://www.coindeskjapan.com/?p=277369</id>
-        <link href="https://www.coindeskjapan.com/277369/"/>
-        <updated>2025-02-20T19:09:45.000Z</updated>
-        <summary type="html"><![CDATA[2025年に米連邦準備制度理事会（FRB）が利下げを実施する可能性を諦めつつあった投資家たちは2月20日、アトランタ連銀のボスティック総裁の控えめなハト派的発言 ...
-ビットコイン、小幅上昇──アトランタ連銀総裁のハト派発言を受けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Stephen Alpher</name>
         </author>
     </entry>
 </feed>
