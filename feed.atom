@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-26T11:23:48.816Z</updated>
+    <updated>2025-02-26T12:51:13.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【2/26話題】イーサリアム財団の宮口あやがエグゼクティブ・ディレクター退任、SECがユニスワップの調査終了など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=454413</id>
+        <link href="https://www.neweconomy.jp/posts/454413"/>
+        <updated>2025-02-26T12:35:41.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは2月25日の大暴落で底を打った──オンチェーン指標からアナリストが指摘]]></title>
         <id>https://www.coindeskjapan.com/?p=278315</id>
@@ -1063,36 +1073,6 @@ SEC、Coinbaseに対する訴訟を取り下げへ──暗号資産にとって
         <summary type="html"><![CDATA[FTXの債権者の80％が返済資金を仮想通貨に再投資する予定。ソラナ保有者はソラナへ積極姿勢を維持しておりミームコインやAI銘柄への関心も高まっている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アフリカ上場企業で初のビットコイン購入事例　Altvest Capital]]></title>
-        <id>https://coinpost.jp/?p=596817</id>
-        <link href="https://coinpost.jp/?p=596817"/>
-        <updated>2025-02-22T00:45:32.000Z</updated>
-        <summary type="html"><![CDATA[初めて仮想通貨ビットコインを購入したことを、南アフリカ上場の投資企業Altvest Capitalが発表。購入した理由やアルトコインを現状では購入していない理由を説明した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybitハッキング後のイーサリアム巻き戻し論争 、ヘイズ氏発言で再燃するDAO事件の教訓]]></title>
-        <id>https://coinpost.jp/?p=596846</id>
-        <link href="https://coinpost.jp/?p=596846"/>
-        <updated>2025-02-22T00:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Bybitから約2,100億円相当のETH流出を受け、BitMEX創設者が巻き戻し（ロールバック）を提案。2016年DAO事件の議論が再燃している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit史上最大規模（約2100億円）の流出で仮想通貨市場急落｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=596835</id>
-        <link href="https://coinpost.jp/?p=596835"/>
-        <updated>2025-02-21T23:50:55.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場は米SECが2023年にコインベースに対して提起した未登録有価証券に関連する訴訟を取り下げる予定であるとの報道を受け、一時ビットコイン価格は1,500万円まで上昇した。しかし、その後Bybitにおける過去最大規模となる2,100億円相当のETHハッキングが報じられたことを受け、市場は急落し一時約80万円の下落となった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
