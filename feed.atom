@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-02-27T21:25:53.380Z</updated>
+    <updated>2025-02-27T22:31:08.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC「ミームコインは証券法の対象外に」　詐欺リスクへの注意も]]></title>
+        <id>https://coinpost.jp/?p=598580</id>
+        <link href="https://coinpost.jp/?p=598580"/>
+        <updated>2025-02-27T22:25:19.000Z</updated>
+        <summary type="html"><![CDATA[米SEC企業財務部門がミームコインは証券法適用外との見解を正式発表。ハウイーテスト基準で非該当と判断したが、一部の市場関係者は今後ミームコインを利用した詐欺が横行してしまうと懸念。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、コインベース訴訟を正式に取り下げ申請]]></title>
+        <id>https://coinpost.jp/?p=598577</id>
+        <link href="https://coinpost.jp/?p=598577"/>
+        <updated>2025-02-27T21:30:45.000Z</updated>
+        <summary type="html"><![CDATA[米SECがコインベースに対する訴訟を正式取り下げた。2023年6月から続いた法的争いに終止符。メタマスク、ジェミニ案件も続々終結し、トランプ政権下での仮想通貨規制環境が劇的に変化している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、仮想通貨ウォレットメタマスク訴訟終結へ]]></title>
         <id>https://coinpost.jp/?p=598575</id>
