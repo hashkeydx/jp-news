@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-02T08:30:13.815Z</updated>
+    <updated>2025-03-02T09:27:31.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mantle、Bybitから不正流出の42Mドル分のcmETHを回収]]></title>
+        <id>https://www.neweconomy.jp/?p=455218</id>
+        <link href="https://www.neweconomy.jp/posts/455218"/>
+        <updated>2025-03-02T08:44:56.000Z</updated>
+        <summary type="html"><![CDATA[Mantleが不正流出被害を受けた4200万ドル分の資産を回収 Mantle（マントル）が、2月21日に発生した海外大手暗号資産（仮想通貨）取引所Bybit（バイビット）のハッキング被害で不正流出した資産のうち、約4,2 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スイス国立銀行総裁、ビットコイン準備資産案を否定：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=279013</id>
@@ -1516,26 +1526,6 @@ Bybit、ラザルスに宣戦布告──盗まれた資金凍結のためのク
         <link href="https://coinpost.jp/?p=597904"/>
         <updated>2025-02-25T21:40:08.000Z</updated>
         <summary type="html"><![CDATA[CryptoQuantのキCEOは2025年のアルトコイン市場で勝者となる条件を分析。ETF承認の可能性、持続可能な注目度、収益生成能力を持つプロジェクトが優位に立つ一方、多くのアルトコインは生き残れないと予測した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国複数州でビットコイン準備金法案が否決続く　BTC価格急落の要因に]]></title>
-        <id>https://coinpost.jp/?p=597899</id>
-        <link href="https://coinpost.jp/?p=597899"/>
-        <updated>2025-02-25T21:10:31.000Z</updated>
-        <summary type="html"><![CDATA[米サウスダコタ州議会でビットコイン戦略的準備金法案が否決。モンタナ州など複数州での否決が続き、ビットコイン価格は一時86000ドルまで下落。一方でオクラホマ州では委員会通過など明るい兆しも。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SECがユニスワップラボ調査を終了、DeFiセクターに追い風]]></title>
-        <id>https://coinpost.jp/?p=597897</id>
-        <link href="https://coinpost.jp/?p=597897"/>
-        <updated>2025-02-25T20:40:24.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会が世界最大の分散型取引所開発企業Uniswap Labsへの調査を執行措置なしで終了。コインベース、OpenSeaなど他の仮想通貨企業への調査も相次いで打ち切り、新体制下での規制アプローチ変更が具現化している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
