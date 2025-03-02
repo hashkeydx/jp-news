@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-02T22:29:18.699Z</updated>
+    <updated>2025-03-02T23:24:51.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領がXRP、SOL、ADAを含む「仮想通貨準備金」の創設を発表]]></title>
+        <id>https://coinpost.jp/?p=599530</id>
+        <link href="https://coinpost.jp/?p=599530"/>
+        <updated>2025-03-02T22:38:38.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領が暗号資産（仮想通貨）に関して、ビットコイン（BTC）、イーサリアム（ETH）XRP、ソラナ（SOL）、エイダ（ADA）を含む『暗号資産戦略準備金』の創設を発表した。今週開催予定のサミットで詳細が発表される見通し。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム財団、新共同エグゼクティブ・ディレクターを選出──リーダー陣を再編]]></title>
         <id>https://www.coindeskjapan.com/?p=279001</id>
@@ -1188,17 +1198,6 @@ FBI、Bybitハッキングは北朝鮮が関与と強調──資金洗浄の阻
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは2月25日の大暴落で底を打った──オンチェーン指標からアナリストが指摘]]></title>
-        <id>https://www.coindeskjapan.com/?p=278315</id>
-        <link href="https://www.coindeskjapan.com/278315/"/>
-        <updated>2025-02-26T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産市場は2月25日に深刻な下落を経験したが、多くのオンチェーン指標によると、ビットコイン（BTC）の価格が底を打ったとアナリストが指摘している。 暗号資産 ...
-ビットコインは2月25日の大暴落で底を打った──オンチェーン指標からアナリストが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>
