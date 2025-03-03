@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=279164",
+          "author": "Shaurya Malwa",
+          "description": "主要トークンへの弱気な賭けは、ドナルド・トランプ（Donald Trump）大統領が複数のトークンに対する戦略的備蓄を発表したことを受け、トレーダーが対応に追わ ...\nビットコイン、一時9万3000ドルまで上昇──弱気派は5億5000万ドルの清算 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/279164/",
+          "publishedOn": "2025-03-03T09:30:00.000Z",
+          "wordCount": 1362,
+          "title": "ビットコイン、一時9万3000ドルまで上昇──弱気派は5億5000万ドルの清算",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2261521435.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=279149",
+          "author": "Shaurya Malwa",
+          "description": "ドナルド・トランプ（Donald Trump）大統領がソラナ（SOL）、カルダノ（ADA）、エックス・アール・ピー（XRP）の国家戦略備蓄を確立する意向を示した ...\n「準備金」の発表でカルダノが60%、XRPが25%上昇── トレーダーは完全に強気というわけではない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/279149/",
+          "publishedOn": "2025-03-03T08:40:00.000Z",
+          "wordCount": 1304,
+          "title": "「準備金」の発表でカルダノが60%、XRPが25%上昇── トレーダーは完全に強気というわけではない",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/08/shutterstock_261085280-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=278194",
           "author": "CoinDesk JAPAN",
           "description": "経済産業省が進める「Web3.0・ブロックチェーンを活用したデジタル公共財等構築実証事業」は、「産業及び社会における課題の解決等に資する公共性の高いユースケース ...\nWeb3.0の社会受容へ──経済産業省「Web3.0・ブロックチェーンを活用したデジタル公共財等構築実証事業」最終の第3回ワークショップ開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -480,26 +500,6 @@
           "wordCount": 1290,
           "title": "金連動型トークン、好調──金ETFへの資金流入は約3年ぶりの高水準",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/f90caaf4b82ef4b0227b9980c47eb796e7e87c0a-1920x1280-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=278336",
-          "author": "Helene Braun",
-          "description": "これまで暗号資産業界では後塵を拝してきたバンク・オブ・アメリカ（ＢｏｆＡ）だが、米国議会が合法化すれば、ドルを裏付けにした独自のステーブルコインを発行する用意が ...\nバンク・オブ・アメリカCEO、独自ステーブルコインのローンチに意欲 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/278336/",
-          "publishedOn": "2025-02-26T21:30:00.000Z",
-          "wordCount": 1349,
-          "title": "バンク・オブ・アメリカCEO、独自ステーブルコインのローンチに意欲",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_2398741435.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=278331",
-          "author": "James Van Straten",
-          "description": "今週はビットコインの急激な価格下落がニュースの見出しを賑わせているが、ビットコイン保有大手企業のストラテジー株（MSTR）は、3カ月以上下落トレンドにある。 ス ...\nストラテジー株、史上最高値から50％下落──約6兆5000億円相当の保有ビットコインへの影響は？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/278331/",
-          "publishedOn": "2025-02-26T21:00:00.000Z",
-          "wordCount": 1341,
-          "title": "ストラテジー株、史上最高値から50％下落──約6兆5000億円相当の保有ビットコインへの影響は？",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/e0eb300f690ee8c43ed5d164f50d0421b7db2fa3-720x406-1.jpeg"
         }
       ]
     },
@@ -510,7 +510,7 @@
       "articles": []
     },
     {
-      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "Dogecoin(DOGE)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1278,36 +1278,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/buy-and-sell-and-hold-market-weekend.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/buy-and-sell-and-hold-market-weekend.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=598183",
-          "author": "菊谷ルイス",
-          "description": "バンク・オブ・アメリカのCEOがステーブルコイン事業への参入意向を表明。テザーが2024年第4四半期に230億ドル以上のUSDTを新規発行し、米国債の利息から巨額の利益を得る中、米国第2位の銀行の動きが市場に与える影響を解説。",
-          "link": "https://coinpost.jp/?p=598183",
-          "publishedOn": "2025-02-26T21:20:25.000Z",
-          "wordCount": 3210,
-          "title": "バンカメ、法制化でステーブルコイン参入へ　テザーの莫大な利益が要因か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bankofamerica_0516.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/bankofamerica_0516.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=598174",
-          "author": "菊谷ルイス",
-          "description": "トランプ大統領がEU製品に25%の関税を課す方針を表明。カナダ・メキシコへの関税も予定。貿易戦争懸念から仮想通貨ビットコインは急落した。",
-          "link": "https://coinpost.jp/?p=598174",
-          "publishedOn": "2025-02-26T20:40:42.000Z",
-          "wordCount": 3215,
-          "title": "ビットコイン急落、トランプ大統領がEU製品に25%関税表明",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-bear-hayes.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-bear-hayes.jpg"
         }
       ]
     },
