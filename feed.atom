@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-04T22:28:42.552Z</updated>
+    <updated>2025-03-04T23:25:43.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IMF、エルサルバドルのビットコイン戦略に制限追加か　融資契約でリスクを指摘]]></title>
+        <id>https://coinpost.jp/?p=600057</id>
+        <link href="https://coinpost.jp/?p=600057"/>
+        <updated>2025-03-04T23:02:41.000Z</updated>
+        <summary type="html"><![CDATA[IMFは、エルサルバドルとの融資契約のレポートを公開し、同国の仮想通貨ビットコインの戦略に改めて懸念を表明。今後、ビットコイン購入に制限が課される可能性もある。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン120万円上昇、市場反発の背景とは？｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=600051</id>
+        <link href="https://coinpost.jp/?p=600051"/>
+        <updated>2025-03-04T22:25:38.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコイン市場は反転の兆しを見せ一時120万円幅の上昇を記録した。ホワイトハウスのAI・仮想通貨責任者であるデイビッド・サックス氏が、DeFi取引に関する報告義務の撤廃を支持する姿勢を示したことや、米証券取引委員会に新設された暗号資産タスクフォースが3月21日に活動を開始すると発表されたことも市場に好意的に受け止められた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セイラー会長やコインベースCEOも招待、ホワイトハウス初の仮想通貨サミットへ]]></title>
         <id>https://coinpost.jp/?p=600048</id>
@@ -377,6 +397,16 @@ SBI VCトレード、ステーブルコイン「USDC」のサービスを3月12�
         <summary type="html"><![CDATA[堂島取引所が今月末までにビットコイン先物の上場認可申請準備を整える方針。早ければ2025年度中に円建て取引開始へ。アジア初の伝統的取引所でのビットコイン先物となり、日本における仮想通貨ETF解禁の重要な布石になると期待される。]]></summary>
         <author>
             <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヘデラ（HBAR）の特徴や将来性、おすすめ取引所、買い方まで徹底解説]]></title>
+        <id>https://coinpost.jp/?p=577961</id>
+        <link href="https://coinpost.jp/?p=577961"/>
+        <updated>2025-03-04T01:46:14.000Z</updated>
+        <summary type="html"><![CDATA[ヘデラ・ハッシュグラフ（HBAR）の特徴や投資メリット、おすすめの取引所を詳しく解説。Google、IBMなど大手企業が参画する次世代の分散型台帳技術として注目を集めるHBARの投資方法をご紹介。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
@@ -1167,16 +1197,6 @@ CMEグループ、暗号資産デリバティブの需要拡大に伴いソラ�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMaskがロードマップ公開、ビットコイン・ソラナ対応など予定]]></title>
-        <id>https://www.neweconomy.jp/?p=454991</id>
-        <link href="https://www.neweconomy.jp/posts/454991"/>
-        <updated>2025-02-28T10:29:14.000Z</updated>
-        <summary type="html"><![CDATA[MetaMaskがロードマップを発表 Web3ウォレット「メタマスク（MetaMask）」の今後のロードマップが2月28日に公開された。そのロードマップでは、ビットコイン（Bitcoin）やソラナ（Solana）ネットワ […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
