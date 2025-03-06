@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-06T20:29:03.625Z</updated>
+    <updated>2025-03-06T21:26:07.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BTCマイナーのコア・サイエンティフィック、株価が15%下落]]></title>
+        <id>https://www.coindeskjapan.com/?p=280146</id>
+        <link href="https://www.coindeskjapan.com/280146/"/>
+        <updated>2025-03-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）マイナーであるコア・サイエンティフィックの株価は、マイクロソフトが上場間近のクラウドコンピューティング企業コアウィーブとの契約の一部から手 ...
+BTCマイナーのコア・サイエンティフィック、株価が15%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産が反落する中、関税への懸念に代わって金利への懸念が高まる]]></title>
         <id>https://www.coindeskjapan.com/?p=280142</id>
@@ -1756,16 +1767,6 @@ XRP・SOL・ADAのコインベースプレミアム、1カ月ぶり高水準に�
 ビットコインETF、32億ドルの8日間連続資金流出が止まる──9430万ドルの資金流入を記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantle、Bybitから不正流出の42Mドル分のcmETHを回収]]></title>
-        <id>https://www.neweconomy.jp/?p=455218</id>
-        <link href="https://www.neweconomy.jp/posts/455218"/>
-        <updated>2025-03-02T08:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Mantleが不正流出被害を受けた4200万ドル分の資産を回収 Mantle（マントル）が、2月21日に発生した海外大手暗号資産（仮想通貨）取引所Bybit（バイビット）のハッキング被害で不正流出した資産のうち、約4,2 […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
