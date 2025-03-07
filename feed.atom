@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-07T04:31:50.219Z</updated>
+    <updated>2025-03-07T05:30:11.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム「ペクトラ」、テスト不具合でメインネット実装延期に]]></title>
+        <id>https://coinpost.jp/?p=600837</id>
+        <link href="https://coinpost.jp/?p=600837"/>
+        <updated>2025-03-07T05:01:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの次期大型アップグレード「ペクトラ」が、Holeskyと Sepoliaの両テストネットで発生した不具合により、メインネットの実装を延期することとなった。Holeskyネットワークの回復には時間がかかるため、シャドーフォークの立ち上げが決定された。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナのリキッドステーキング大手Jito、開発者が収益のユーザー還元など議論]]></title>
+        <id>https://coinpost.jp/?p=600805</id>
+        <link href="https://coinpost.jp/?p=600805"/>
+        <updated>2025-03-07T04:45:12.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナのリキッドステーキング大手Jitoの開発者が手数料収益の活用法を提案した。JTOトークンの買い戻しや他のプロジェクトとの「物々交換」などを議論している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国のビットコイン準備金設立で「他国も追随か」　Bitwise CIO分析]]></title>
+        <id>https://coinpost.jp/?p=600820</id>
+        <link href="https://coinpost.jp/?p=600820"/>
+        <updated>2025-03-07T04:30:31.000Z</updated>
+        <summary type="html"><![CDATA[米国の戦略的ビットコイン準備金設立がもたらす4つの重大影響をBitwise CIOが分析。他国の追随加速や機関投資家の参入障壁低下など、仮想通貨市場の構造的変化が予測される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ一族のDeFiプロジェクト、スイ財団と提携]]></title>
         <id>https://www.neweconomy.jp/?p=456847</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[戦略的トークン準備金にSuiの資産組み込みへ ドナルド・トランプ（Donald Trump）大統領と、その家族が関わる暗号資産（仮想通貨）プロジェクト「ワールド・リバティ・ファイナンシャル（World Liberty F […]]]></summary>
         <author>
             <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米トランプ政権の「準備金」詳細判明でビットコイン失望売り]]></title>
+        <id>https://coinpost.jp/?p=600802</id>
+        <link href="https://coinpost.jp/?p=600802"/>
+        <updated>2025-03-07T03:52:21.000Z</updated>
+        <summary type="html"><![CDATA[米トランプ大統領の発表した仮想通貨準備資産をめぐり、政府が20万BTCの備蓄構想を発表も、追加購入なし明言でビットコイン（BTC）市場反応は失望売りが先行した。NYダウやナスダックの下落に連動し仮想通貨も大幅安に。関連プロジェクトWLFは巨額の含み損抱える中でETH買い増し続ける。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
         </author>
     </entry>
     <entry>
