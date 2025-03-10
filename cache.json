@@ -465,6 +465,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=601172",
+          "author": "A.Yamada",
+          "description": "米トランプ政権は「米国はビットコイン超大国になる」と改めて仮想通貨推進の姿勢を強調した。ビットコイン準備金創設や仮想通貨推進政策の最新動向を解説する。",
+          "link": "https://coinpost.jp/?p=601172",
+          "publishedOn": "2025-03-10T01:15:55.000Z",
+          "wordCount": 3252,
+          "title": "「米国はビットコイン超大国になる」ホワイトハウス宣言",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/whitehouse1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/whitehouse1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=600792",
           "author": "CoinPost編集部",
           "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
@@ -1078,21 +1093,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/trump-not-selling-bitcoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/trump-not-selling-bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=600242",
-          "author": "菊谷ルイス",
-          "description": "トランプ政権下で、ビットコインが準備金戦略の中心に浮上。財務長官が金曜日の仮想通貨サミットでビットコインの戦略的重要性を強調し、他の銘柄との差別化戦略を明らかにする。",
-          "link": "https://coinpost.jp/?p=600242",
-          "publishedOn": "2025-03-05T13:05:19.000Z",
-          "wordCount": 3236,
-          "title": "「ビットコインには特別な地位を」米財務長官が仮想通貨準備金構想について発言　BTCやADA大幅高",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-us-cant-find-out.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-us-cant-find-out.jpeg"
         }
       ]
     },
@@ -1270,16 +1270,6 @@
           "wordCount": 747,
           "title": "ロビンフッドクリプト、イーサL2「アービトラム（ARB）」取扱開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/06090704/d6c9c84ec2c2c596bfe3b636f04ea150.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=456295",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/456295",
-          "publishedOn": "2025-03-05T12:01:04.000Z",
-          "wordCount": 769,
-          "title": "【3/5話題】JOCのDeFi型貸暗号資産プログラムが提供開始、インタートレードが米Fireblocksと提携など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/05175513/news_head_20250305.jpg"
         }
       ]
     }
