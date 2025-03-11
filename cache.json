@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=281449",
+          "author": "増田隆幸",
+          "description": "自民党ブロックチェーン推進議員連盟の第27回会合が3月10日に開催された。議題は「ブロックチェーンの活用事例（公共、防災、ReFi）」、以下の3つのテーマに取り ...\n公共、防災、ReFiへのブロックチェーン活用を議論：自民党ブロックチェーン推進議員連盟 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/281449/",
+          "publishedOn": "2025-03-11T23:00:00.000Z",
+          "wordCount": 1400,
+          "title": "公共、防災、ReFiへのブロックチェーン活用を議論：自民党ブロックチェーン推進議員連盟",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/IMG_2999のコピー.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=281557",
           "author": "Omkar Godbole",
           "description": "最近の暗号資産市場の低迷により、デリビットでかつて最も人気のあった12万ドルのビットコインオプションは、10万ドルのコールに王座を奪われ、トレーダーが強気予想を ...\nDeribitで一番人気のBTCコールオプション、12万ドルから10万ドルへ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -380,10 +390,85 @@
       "articles": []
     },
     {
-      "title": "NEO(NEO)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=601702",
+          "author": "K.Kobayashi",
+          "description": "キャンターフィッツジェラルドは、仮想通貨ビットコインの融資事業でAnchorage DigitalとCopperが担保の管理とカストディを担当すると発表。両社のセキュリティを高く評価している。",
+          "link": "https://coinpost.jp/?p=601702",
+          "publishedOn": "2025-03-11T22:30:21.000Z",
+          "wordCount": 3281,
+          "title": "米金融大手キャンターフィッツジェラルド、ビットコイン融資事業のカストディアンを決定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/Cantor-Fitzgerald.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/Cantor-Fitzgerald.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=601707",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨資産運用会社ビットワイズが1000BTC以上を保有する企業の株式に投資する新ETF「OWNB」を発表。組入比率上位にはマイクロストラテジー、MARA、クリーンスパーク、メタプラネットなど。",
+          "link": "https://coinpost.jp/?p=601707",
+          "publishedOn": "2025-03-11T22:05:42.000Z",
+          "wordCount": 3332,
+          "title": "メタプラネットも構成銘柄に　ビットワイズが1000ビットコイン以上の保有企業ETFを立ち上げ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-onchain-activities.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=601670",
+          "author": "菊谷ルイス",
+          "description": "トランプ政権が史上初の仮想通貨サミット後の方針を転換。ハインズ大統領デジタル資産作業部会事務局長が「分野別小規模サミット」へのシフトを表明。ステーブルコインや取引所規制など個別テーマに焦点を当てた効率的な政策形成を目指す。",
+          "link": "https://coinpost.jp/?p=601670",
+          "publishedOn": "2025-03-11T21:20:09.000Z",
+          "wordCount": 3255,
+          "title": "トランプ政権、仮想通貨政策は大規模サミットから分野別小規模会議へ　担当局長が見解",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/trump-whitehouse.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/trump-whitehouse.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=601655",
+          "author": "菊谷ルイス",
+          "description": "大手資産運用会社フランクリン・テンプルトンもXRP現物ETF申請をSECに提出。ビットコイン・イーサリアム以外にもアバランチ、ポルカドット、ドージコインなど多様な仮想通貨ETFの申請が相次ぎトランプ政権下での仮想通貨市場の変化を反映。",
+          "link": "https://coinpost.jp/?p=601655",
+          "publishedOn": "2025-03-11T21:00:31.000Z",
+          "wordCount": 3330,
+          "title": "米フランクリン・テンプルトン、XRP現物ETF申請を提出　SECは複数申請の判断を延期",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=601641",
+          "author": "菊谷ルイス",
+          "description": "ルミス米上院議員がトランプ大統領の戦略的ビットコイン準備金計画を法制化するBITCOIN法案を再提出した。財務省による100万ビットコイン購入プログラムの創設と国家債務削減を目指す。",
+          "link": "https://coinpost.jp/?p=601641",
+          "publishedOn": "2025-03-11T20:35:30.000Z",
+          "wordCount": 3252,
+          "title": "100万BTC取得目指す　ルミス議員、トランプ大統領のビットコイン準備金計画を法制化するBITCOIN法案を再提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/lumis-fck-fdic.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/lumis-fck-fdic.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=601446",
           "author": "Ritsuki.Kumazawa",
@@ -1205,26 +1290,6 @@
           "wordCount": 630,
           "title": "SBI VCトレードが秋元康プロデュースのアイドルNFTプレゼント、NIDT取扱い記念で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/08133104/2346dfe9de9bf42ca769ffb5d8b42cba.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=456884",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/456884",
-          "publishedOn": "2025-03-07T11:19:39.000Z",
-          "wordCount": 630,
-          "title": "【3/7話題】トランプが「戦略的ビットコイン準備金」設立の大統領令、自民党web3WGが分離課税を目指す改正案など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/07165208/news_head_20250307.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=456970",
-          "author": "OtsugaShinya",
-          "description": "「JPCrypto-ISAC」が設立 日本で初となる暗号資産（仮想通貨）のサイバー対策組織「一般社団法人JPCrypto-ISAC」の設立が3月7日に発表された。なお同組織は1月17日に設立されていたとのこと。 「JPC […]",
-          "link": "https://www.neweconomy.jp/posts/456970",
-          "publishedOn": "2025-03-07T11:01:17.000Z",
-          "wordCount": 757,
-          "title": "暗号資産のサイバー対策組織「JPCrypto-ISAC」が設立、業界内での情報共有・連携へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/07200108/ISAC.jpg"
         }
       ]
     }
