@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-12T11:24:08.697Z</updated>
+    <updated>2025-03-12T12:52:46.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、米CPI発表直前に強気なRSIの乖離が出現]]></title>
+        <id>https://www.coindeskjapan.com/?p=281930</id>
+        <link href="https://www.coindeskjapan.com/281930/"/>
+        <updated>2025-03-12T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[市場参加者が3月12日のアメリカのインフレデータに注目し、リスク資産の下支えを期待する中、ビットコイン（BTC）の日足チャートに強気転換を示唆するテクニカルパタ ...
+ビットコイン、米CPI発表直前に強気なRSIの乖離が出現 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「MoveVM」で構築のイーサL2「Movement」、パブリックメインネットベータ開始]]></title>
         <id>https://www.neweconomy.jp/?p=458105</id>
@@ -55,6 +66,16 @@
         <summary type="html"><![CDATA[TISとgC Labsがノード運営の合弁会社を設立へ TISインテックグループのTISとgumiの連結子会社としてブロックチェーン事業を展開するgC Labsが、合弁会社Hinode Technologies（ヒノデテク […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー系Soneium　Web3ゲームのLINEミニアプリ版展開へ]]></title>
+        <id>https://coinpost.jp/?p=601926</id>
+        <link href="https://coinpost.jp/?p=601926"/>
+        <updated>2025-03-12T09:38:13.000Z</updated>
+        <summary type="html"><![CDATA[ソニーブロックソリューションズラボのSoneiumがLINEミニアプリの展開を発表。約2億人のユーザーに向け、米欧亜を代表するウェブ3ゲームの関連版4つをLINEミニアプリとして展開する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
         </author>
     </entry>
     <entry>
@@ -1317,37 +1338,6 @@ DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」�
         <summary type="html"><![CDATA[日本政府が資金決済法改正案を閣議決定した。暗号資産仲介業の新設や、ステーブルコイン裏付け資産の柔軟化など、イノベーション促進と利用者保護を図るものだ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン100万円急落、トランプ大統領令への失望売り拡大｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=600842</id>
-        <link href="https://coinpost.jp/?p=600842"/>
-        <updated>2025-03-08T00:30:31.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは一時、約100万円幅の下落となった。7日に発表されたビットコイン準備金に関する大統領令は、市場が期待していた追加のビットコイン購入に関する内容が乏しく、失望感が広がった。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、コミュニティ主導の仮想通貨上場投票システムを導入]]></title>
-        <id>https://coinpost.jp/?p=601095</id>
-        <link href="https://coinpost.jp/?p=601095"/>
-        <updated>2025-03-07T23:40:16.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスが新たに「Vote to List」と「Vote to Delist」のコミュニティ共同ガバナンスメカニズムを導入。上場予算の透明性向上とユーザー参加型の仮想通貨プロジェクト選定プロセスを実現する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3週間で30%安のコインベース株、買いのチャンス]]></title>
-        <id>https://www.coindeskjapan.com/?p=280410</id>
-        <link href="https://www.coindeskjapan.com/280410/"/>
-        <updated>2025-03-07T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[株式全般や暗号資産市場とともに、コインベース株（COIN）にとってもこの数週間は大荒れだった。コインベース株は2月中旬から約30％下落し、12月初旬に52週ぶり ...
-3週間で30%安のコインベース株、買いのチャンス first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>
