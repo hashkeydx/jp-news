@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-14T20:28:30.008Z</updated>
+    <updated>2025-03-14T21:27:40.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム　新テストネットを3月17日に立ち上げへ]]></title>
+        <id>https://coinpost.jp/?p=602368</id>
+        <link href="https://coinpost.jp/?p=602368"/>
+        <updated>2025-03-14T21:02:03.000Z</updated>
+        <summary type="html"><![CDATA[新テストネット立ち上げイーサリアム財団の開発者たちは13日に開催された「AllDevsCall」において、「Hoodi」と名付けられた新しいテストネットを立ち上げることを発表した。この「長期運用型」テストネットは3月17日に開始される予定だ...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、8万4000ドルを突破し、強気派にとって重要な水準との戦い]]></title>
         <id>https://www.coindeskjapan.com/?p=282711</id>
@@ -1785,27 +1795,6 @@ ETH、1900ドル割れ──約191億円相当のETHを担保としたDeFiロー
 ビットコイン、7万ドルまで下落する可能性──日本の国債利回りが17年ぶりの高水準に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」に]]></title>
-        <id>https://www.coindeskjapan.com/?p=280780</id>
-        <link href="https://www.coindeskjapan.com/280780/"/>
-        <updated>2025-03-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場の売りは2週目に突入し、ビットコイン（BTC）の価格が日曜の深夜に8万ドル近くまで下落したことで、主要トークンやアルトコインの新たな下落 ...
-DOGE、ADA、XRPが10%下落──恐怖と貪欲指数は「極度の恐怖」に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年の上場仮想通貨銘柄とパフォーマンスを分析　アニモカ最新レポート]]></title>
-        <id>https://coinpost.jp/?p=601294</id>
-        <link href="https://coinpost.jp/?p=601294"/>
-        <updated>2025-03-10T08:35:48.000Z</updated>
-        <summary type="html"><![CDATA[アモニモカブランズが2024年の仮想通貨上場動向を分析したレポートを発表。3,000件以上の上場イベントから、取引所の選択が価格と取引量に与える影響や、DEX先行上場の台頭などについて、トークン上場を取り巻く実態を解説した。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
 </feed>
