@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-18T21:26:10.538Z</updated>
+    <updated>2025-03-18T22:30:12.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国のビットコイン現物ETF、17日に410億円の資金が純流入　2月5日以降で最大規模]]></title>
+        <id>https://coinpost.jp/?p=603091</id>
+        <link href="https://coinpost.jp/?p=603091"/>
+        <updated>2025-03-18T22:05:31.000Z</updated>
+        <summary type="html"><![CDATA[米国の仮想通貨ビットコインの現物ETFは17日、約410億円の資金が純流入した。この純流入額は2月5日以降で最大規模。アナリストが背景を分析している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ政権、予算中立のビットコイン取得計画進行中か　高官発言]]></title>
+        <id>https://coinpost.jp/?p=603095</id>
+        <link href="https://coinpost.jp/?p=603095"/>
+        <updated>2025-03-18T21:45:02.000Z</updated>
+        <summary type="html"><![CDATA[トランプ政権のデジタル資産顧問会議ディレクターが米国政府によるビットコイン積極取得計画を明らかにした。納税者負担なしの方法を模索し、ビットコインを商品として位置づける戦略を推進している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[東証グロース市場上場のバリュークリエーション、1億円分ビットコイン購入完了　株価は最高値更新]]></title>
         <id>https://coinpost.jp/?p=603087</id>
@@ -999,38 +1019,6 @@ S&P500が調整局面入り、ビットコインへの影響は？ first appeare
         <summary type="html"><![CDATA[Amber International Holdingがナスダックに上場 Amber Group（アンバーグループ）で機関投資家や富裕層（HNWI） 向けの資産管理ソリューション「Amber Premium」を提供するA […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム「Pectra」アップグレード、メインネット実装前にテストネット「Hoodi」立ち上げ]]></title>
-        <id>https://www.neweconomy.jp/?p=458788</id>
-        <link href="https://www.neweconomy.jp/posts/458788"/>
-        <updated>2025-03-14T10:26:32.000Z</updated>
-        <summary type="html"><![CDATA[「Pectra」メインネット実装前にテストネット「Hoodi」立ち上げ イーサリアム（Ethereum）の大型アップグレード「ペクトラ（Pectra）」をテストネット「ホルスキー（Holesky）」および「セポリア（Se […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「成長しなければ、終わり」マネックス・松本氏がナスダック上場の次に描く戦略【GFTN 2025】]]></title>
-        <id>https://www.coindeskjapan.com/?p=282615</id>
-        <link href="https://www.coindeskjapan.com/282615/"/>
-        <updated>2025-03-14T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[3月3日から7日まで都内で開催された「GFTNフォーラム・ジャパン2025」内で5日、マネックスグループ取締役会議長兼代表執行役会長の松本大氏とN.Avenue ...
-「成長しなければ、終わり」マネックス・松本氏がナスダック上場の次に描く戦略【GFTN 2025】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、「ペクトラ」アップグレードに向けた新たなテストネットを立ち上げ]]></title>
-        <id>https://www.coindeskjapan.com/?p=282616</id>
-        <link href="https://www.coindeskjapan.com/282616/"/>
-        <updated>2025-03-14T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（Ethereum）の次期アップグレードであるペクトラ（Pectra）の2回のテストで問題が発生したことを受け、ネットワークのコア開発者たちは3月1 ...
-イーサリアム、「ペクトラ」アップグレードに向けた新たなテストネットを立ち上げ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Kessler</name>
         </author>
     </entry>
 </feed>
