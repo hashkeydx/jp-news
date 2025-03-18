@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-18T11:24:15.349Z</updated>
+    <updated>2025-03-18T12:53:33.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの年末の目標価格、1万ドルから4000ドルに引き下げ：スタンダードチャータード]]></title>
+        <id>https://www.coindeskjapan.com/?p=283212</id>
+        <link href="https://www.coindeskjapan.com/283212/"/>
+        <updated>2025-03-18T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[英銀大手スタンダードチャータード（Standard Chartered）は3月17日に発表したリサーチレポートで、イーサリアム（ETH）の構造的な下落は今後も続 ...
+イーサリアムの年末の目標価格、1万ドルから4000ドルに引き下げ：スタンダードチャータード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/18話題】マイクロストラテジー・メタプラネット・Sサイエンスがビットコイン購入、米国初のスイ現物ETFが申請など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=459545</id>
@@ -1229,26 +1240,6 @@ gumiのブロックチェーン事業、売上高257%増で黒字転換──第
         <summary type="html"><![CDATA[BlackRockのトークン化ファンドBUIDLが運用資産10億ドルを突破。Ethenaによる2億ドル配分が寄与し、複数チェーンに展開されるトークン化米国債市場のトッププレイヤーとしての地位を確立した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starknet、ビットコインとイーサリアム統合するL2開発へ]]></title>
-        <id>https://www.neweconomy.jp/?p=458566</id>
-        <link href="https://www.neweconomy.jp/posts/458566"/>
-        <updated>2025-03-14T00:37:26.000Z</updated>
-        <summary type="html"><![CDATA[StarknetがBitcoinとEthereumを統合するレイヤー2を開発へ イーサリアム（Ethereum）のレイヤー2スケーリングソリューション「スタークネット（Starknet）」が、ビットコイン（Bitcoin […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン50万円超の下落、景気減速が価格に影響｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=602206</id>
-        <link href="https://coinpost.jp/?p=602206"/>
-        <updated>2025-03-13T23:25:57.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは24時間比で一時50万円超の下落となった。マクロ要因としてトランプ政権による欧州連合との貿易摩擦激化への警戒感が高まり株価が下落したことが影響した。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
