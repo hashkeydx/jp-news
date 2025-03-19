@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-19T11:24:21.819Z</updated>
+    <updated>2025-03-19T12:53:15.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/19話題】ストラテジーが優先株式500万株を公募、マイクロソフトがウォレット標的のマルウェア警告など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=459920</id>
+        <link href="https://www.neweconomy.jp/posts/459920"/>
+        <updated>2025-03-19T11:29:53.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日銀が金利を据え置き──ビットコイン価格はほとんど変動なし]]></title>
         <id>https://www.coindeskjapan.com/?p=283418</id>
@@ -1191,28 +1201,6 @@ S&P500が調整局面入り、ビットコインへの影響は？ first appeare
         <summary type="html"><![CDATA[ドナルド・トランプ一族のDeFiプロジェクトWLFIが2回目のトークン販売を完了し累計880億円を調達した。WLFIは様々な仮想通貨からなる準備金も設立する計画だ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン戦略採用企業の転換社債に特化したETF、登場]]></title>
-        <id>https://www.coindeskjapan.com/?p=282720</id>
-        <link href="https://www.coindeskjapan.com/282720/"/>
-        <updated>2025-03-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[REXシェアーズは、バランスシートにビットコイン（BTC）を追加するために企業が発行した転換社債へのエクスポージャーを投資家に提供する、初の転換社債ETFをロー ...
-ビットコイン戦略採用企業の転換社債に特化したETF、登場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3ACによるFTXへの約2300億円の請求を裁判所が承認──債権者への弁済、さらに複雑化の懸念]]></title>
-        <id>https://www.coindeskjapan.com/?p=282716</id>
-        <link href="https://www.coindeskjapan.com/282716/"/>
-        <updated>2025-03-14T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[FTXの財産を扱うデラウェア州の破産裁判所は3月13日、スリー・アローズ・キャピタル（3AC）がFTXの破産管財人に対する請求を1億2000万ドルから15億30 ...
-3ACによるFTXへの約2300億円の請求を裁判所が承認──債権者への弁済、さらに複雑化の懸念 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Kessler</name>
         </author>
     </entry>
 </feed>
