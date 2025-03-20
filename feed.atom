@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-20T11:24:19.652Z</updated>
+    <updated>2025-03-20T12:52:21.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mantle NetworkがEigenDAを統合、モジュラーブロックチェーンのスケーリングにおけるデータ可用性を強化]]></title>
+        <id>https://www.neweconomy.jp/?p=460301</id>
+        <link href="https://www.neweconomy.jp/posts/460301"/>
+        <updated>2025-03-20T11:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Mantle NetworkがEigenDAを統合 レイヤー2ブロックチェーン「マントルネットワーク（Mantle Network）」が、イーサリアム（Ethereum）ベースのリステーキングプロトコル「アイゲンレイヤー […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リップルCEO、米戦略的準備金へのXRP組み入れに自信──IPOは「可能」と発言]]></title>
         <id>https://www.coindeskjapan.com/?p=283513</id>
@@ -1401,17 +1411,6 @@ NRI、野村證券、三井住友銀行ら5社、デジタル証券の拡大に�
 ドル基軸体制強化を狙う米国の動きを捉え、拡大・対抗──SBI北尾氏の刺激的な40分【FIN/SUM 2025】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P500が調整局面入り、ビットコインへの影響は？]]></title>
-        <id>https://www.coindeskjapan.com/?p=282749</id>
-        <link href="https://www.coindeskjapan.com/282749/"/>
-        <updated>2025-03-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[S&P500は今、史上最高値から10%下落した調整局面に入っている。さらに10%下落すれば、弱気相場入りとなる。パニックに陥るときが来たのだろうか？ ビ ...
-S&P500が調整局面入り、ビットコインへの影響は？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>
