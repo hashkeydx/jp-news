@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-23T20:28:10.134Z</updated>
+    <updated>2025-03-23T21:24:44.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SEC、暗号資産業界との関係をリセット]]></title>
+        <id>https://www.coindeskjapan.com/?p=283866</id>
+        <link href="https://www.coindeskjapan.com/283866/"/>
+        <updated>2025-03-23T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、新委員長が議会で正式に承認される前から、暗号資産（仮想通貨）業界との関係を再構築しようとしている。3月21日、ワシントンD.C.に ...
+SEC、暗号資産業界との関係をリセット first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Nikhilesh De</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米フィデリティ、トークン化MMF参入──シェアクラス「OnChain」申請]]></title>
         <id>https://www.coindeskjapan.com/?p=283900</id>
@@ -1042,17 +1053,6 @@ XRP、10%急伸──SECがリップル社に対する控訴取り下げとCEO�
         <summary type="html"><![CDATA[マイクロソフトのセキュリティチームが仮想通貨ウォレット拡張機能を標的とする新型マルウェア「StilachiRAT」について注意喚起した。MetaMask（メタマスク）など主要ウォレットを狙い、Windowsシステムを介してユーザーの秘密鍵やパスワードを窃取する危険性がある。感染経路や対策、モバイル端末の安全性など、暗号資産保有者が知っておくべき最新の脅威情報を解説。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アークのキャシー・ウッド氏、同社のファンドをトークン化したいと発言]]></title>
-        <id>https://www.coindeskjapan.com/?p=283404</id>
-        <link href="https://www.coindeskjapan.com/283404/"/>
-        <updated>2025-03-19T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）への投資をいち早く開始した伝統的金融投資家の一人であるアーク・インベスト（Ark Invest）のキャシー・ウッド（Cathie Wood） ...
-アークのキャシー・ウッド氏、同社のファンドをトークン化したいと発言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>
