@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-24T10:34:38.072Z</updated>
+    <updated>2025-03-24T11:24:22.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/24話題】OmakaseがBitGoの日本初のバリデータパートナーに、米財務省がトルネードキャッシュの制裁解除など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=460843</id>
+        <link href="https://www.neweconomy.jp/posts/460843"/>
+        <updated>2025-03-24T11:10:21.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG、スマートTV向けNFTプラットフォーム「Art Lab」を6月末に終了へ=報道]]></title>
+        <id>https://www.neweconomy.jp/?p=460920</id>
+        <link href="https://www.neweconomy.jp/posts/460920"/>
+        <updated>2025-03-24T10:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Art Labを6月17日に閉鎖へ 韓国総合電機メーカーのLGエレクトロニクス（LG Electronics）提供のスマートTV向けNFTプラットフォーム「LGアートラボ（LG Art Lab）」が、今年6月17日に閉鎖 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国当局が未登録の海外暗号資産取引所に制裁準備、BitMEXやKuCoinなど対象か=報道]]></title>
+        <id>https://www.neweconomy.jp/?p=460911</id>
+        <link href="https://www.neweconomy.jp/posts/460911"/>
+        <updated>2025-03-24T10:47:05.000Z</updated>
+        <summary type="html"><![CDATA[韓国当局がBitMEXやKuCoinなど制裁か 韓国金融委員会（FSC）下の金融情報分析院（FIU）が、同機関への登録を行わずにサービスを提供している海外暗号資産（仮想通貨）取引所に対して、制裁措置の準備を進めているよう […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中央集権型取引所におけるイーサリアム供給量、9年ぶりの低水準に]]></title>
         <id>https://www.coindeskjapan.com/?p=284072</id>
@@ -1284,28 +1314,6 @@ BTC、ETH、SOLの価格、FOMC金利決定で3～5%変動の可能性──Volm
 シーメンス、IoT機器にブロックチェーンを組み込み first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Ian Allison</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オアシス上でトークン発行が可能──yukichi.fun、ローンチから2週間でコイン200種が誕生]]></title>
-        <id>https://www.coindeskjapan.com/?p=283039</id>
-        <link href="https://www.coindeskjapan.com/283039/"/>
-        <updated>2025-03-19T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本発のゲーム特化型ブロックチェーン「オアシス（Oasys）」上で、簡単にトークン発行ができるプラットフォーム「yukichi.fun（ユキチドットファン）」が ...
-オアシス上でトークン発行が可能──yukichi.fun、ローンチから2週間でコイン200種が誕生 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC、8万4000ドル付近を維持──FRBの金利据え置き発表後]]></title>
-        <id>https://www.coindeskjapan.com/?p=283463</id>
-        <link href="https://www.coindeskjapan.com/283463/"/>
-        <updated>2025-03-19T22:46:38.000Z</updated>
-        <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）は3月19日、予想通りに基準となるFF金利のレンジを4.25％～4.50％に据え置いた。2024年末までの3回連続の利下げ後、2回 ...
-BTC、8万4000ドル付近を維持──FRBの金利据え置き発表後 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
