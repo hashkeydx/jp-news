@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-24T20:28:23.910Z</updated>
+    <updated>2025-03-24T21:26:12.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドージコイン、1000万DOGEの公式準備金設立で実用化へ一歩前進]]></title>
+        <id>https://coinpost.jp/?p=604257</id>
+        <link href="https://coinpost.jp/?p=604257"/>
+        <updated>2025-03-24T21:10:07.000Z</updated>
+        <summary type="html"><![CDATA[ハウス・オブ・ドージが1000万の仮想通貨ドージコインの準備金を設立。日常的な決済手段としての可能性を追求し、低コストで効率的な新しい支払いソリューションを目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン上のDeFi実現に向け、開発者はゼロ知識証明を検討──フォークによるリスクも]]></title>
+        <id>https://www.coindeskjapan.com/?p=283805</id>
+        <link href="https://www.coindeskjapan.com/283805/"/>
+        <updated>2025-03-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンにおける分散型金融（DeFi）機能の拡張を目するビットコインの開発者は、ゼロ知識証明について検討している可能性が高い。これについては現在利用でき ...
+ビットコイン上のDeFi実現に向け、開発者はゼロ知識証明を検討──フォークによるリスクも first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>T. Minamoto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー社、買い増しでビットコイン保有数50万BTC突破]]></title>
+        <id>https://coinpost.jp/?p=604253</id>
+        <link href="https://coinpost.jp/?p=604253"/>
+        <updated>2025-03-24T20:45:53.000Z</updated>
+        <summary type="html"><![CDATA[米ストラテジー社は24日、6,911 BTCの仮想通貨ビットコインをさらに追加購入したことを公表し、BTC保有数が50万枚を超えた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/24話題】OmakaseがBitGoの日本初のバリデータパートナーに、米財務省がトルネードキャッシュの制裁解除など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=460843</id>
@@ -1096,16 +1127,6 @@ SBI VCトレード、ステーブルコイン「USDC」本格提供に向け取�
 リップルCEO、米戦略的準備金へのXRP組み入れに自信──IPOは「可能」と発言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トロン（TRX）がソラナ上で近日ローンチか、TRON創設者ジャスティン・サン言及]]></title>
-        <id>https://www.neweconomy.jp/?p=460198</id>
-        <link href="https://www.neweconomy.jp/posts/460198"/>
-        <updated>2025-03-20T08:56:22.000Z</updated>
-        <summary type="html"><![CDATA[TRXがソラナ上で近日ローンチか トロン（TRON）ブロックチェーンのネイティブトークンであるトロン（TRX）が、ソラナ（Solana）ブロックチェーン上に近日中に発行予定であるようだ。 トロンの創設者であるジャスティン […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
