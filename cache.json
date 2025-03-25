@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=284341",
+          "author": "Helene Braun",
+          "description": "フィデリティ・インベストメンツが、ソラナの価格に連動するETFの発行を検討していることが、3月25日に米証券取引委員会（SEC）に提出された書類で明らかになった ...\nフィデリティ、Cboeへのソラナ現物ETF上場を申請 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/284341/",
+          "publishedOn": "2025-03-25T23:13:58.000Z",
+          "wordCount": 1307,
+          "title": "フィデリティ、Cboeへのソラナ現物ETF上場を申請",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/28e87adb43f83a3935d7b2c2c584334ce66f83ec-1440x960-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=284337",
           "author": "Helene Braun",
           "description": "コンピュータゲーム小売大手のゲームストップは、急速に増加する、ビットコイン財務戦略を採用する上場企業の一団にその名を加えた。 同社は第4四半期の業績報告とともに ...\nゲームストップ、バランスシートにビットコインを追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -474,6 +484,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=604506",
+          "author": "K.Kobayashi",
+          "description": "ブラックロックのトークン化ファンドBUIDLが仮想通貨ソラナのブロックチェーンに拡大。トークン化を担うセキュリタイズがソラナを採用した理由を説明している。",
+          "link": "https://coinpost.jp/?p=604506",
+          "publishedOn": "2025-03-25T23:15:56.000Z",
+          "wordCount": 3213,
+          "title": "ブラックロックのトークン化ファンド「BUIDL」、ソラナに拡大　運用資産残高は計2550億円",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/blackrock-build-ondo-shit.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/03/blackrock-build-ondo-shit.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=604518",
+          "author": "菊谷ルイス",
+          "description": "QCPキャピタルの市場分析によると、Q2は過去最高のリスク資産パフォーマンス期間。株式市場と仮想通貨ビットコインの動向に注目が集まる。",
+          "link": "https://coinpost.jp/?p=604518",
+          "publishedOn": "2025-03-25T22:35:44.000Z",
+          "wordCount": 3210,
+          "title": "ビットコインの展望「2Qは過去最高のリスク資産パフォーマンス期間」　QCPが分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/buy-and-sell-and-hold-market-weekend.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/buy-and-sell-and-hold-market-weekend.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=604515",
           "author": "菊谷ルイス",
@@ -1345,26 +1385,6 @@
           "wordCount": 789,
           "title": "【3/21話題】エリック・トランプがメタプラネットの戦略アドバイザーに、PENGUとNFTの現物ETFが米SECに申請など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/21173154/news_head_20250321.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=460652",
-          "author": "TamuraSeiji",
-          "description": "Evmosがオープンソースに コスモス（Cosmos）のインフラストラクチャの開発・運営を支援するインターチェーン財団（ICF）が、Evmos（エヴモス）をオープンソース化し、コスモスのマルチチェーンエコシステム向けの標 […]",
-          "link": "https://www.neweconomy.jp/posts/460652",
-          "publishedOn": "2025-03-21T11:08:48.000Z",
-          "wordCount": 624,
-          "title": "ICFが「Evmos」をオープンソース化、公式ソフトウェア「Cosmos EVM」へ移行",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/21200844/5750ce9f669cca639099bfb7aa7e83f5.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=460430",
-          "author": "HitomotoToshikazu",
-          "description": "EOS Networkがリブランディング 「イオスネットワーク（EOS Network）」を運営する非営利団体イオスネットワーク財団（EOS Network Foundation：ENF）が、同ネットワークをWeb3バン […]",
-          "link": "https://www.neweconomy.jp/posts/460430",
-          "publishedOn": "2025-03-21T10:43:46.000Z",
-          "wordCount": 661,
-          "title": "EOS NetworkがWeb3バンキング特化「Vaulta」にリブランディング、新トークン発行とスワップを予定",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/03/21194337/94861fe165d1afc396355d00c50d75d0.jpg"
         }
       ]
     }
