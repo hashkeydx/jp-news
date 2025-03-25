@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-25T09:30:14.593Z</updated>
+    <updated>2025-03-25T10:34:48.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロック、欧州でビットコインETPの提供を開始]]></title>
+        <id>https://www.coindeskjapan.com/?p=284271</id>
+        <link href="https://www.coindeskjapan.com/284271/"/>
+        <updated>2025-03-25T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ最大のビットコイン（BTC）現物ETF（上場投資信託）を運用する世界的な資産運用会社ブラックロック（BlackRock）は、ヨーロッパでビットコインET ...
+ブラックロック、欧州でビットコインETPの提供を開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBI VCトレード、ステーブルコインUSDCの一般取引開始へ　26日から]]></title>
         <id>https://coinpost.jp/?p=604413</id>
@@ -1461,37 +1472,6 @@ SBI VCトレード、ステーブルコイン「USDC」本格提供に向け取�
         <summary type="html"><![CDATA[仮想通貨ビットコインは前日比で50万円以上の下落となった。20日に開催されたデジタル資産サミットにおいてトランプ大統領が演説を行ったものの、新たな政策関連の発言や大統領令の署名に関する具体的な発表はなかったことで、市場では失望売りが広がった。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界初、米カナリーがPudgy Penguins NFTとPENGUトークン連動のETFをSECに申請]]></title>
-        <id>https://coinpost.jp/?p=603530</id>
-        <link href="https://coinpost.jp/?p=603530"/>
-        <updated>2025-03-20T22:15:30.000Z</updated>
-        <summary type="html"><![CDATA[米Canary Capitalが業界初となるPudgy Penguins NFTとPENGUトークンを保有するETFの申請書をSECに提出。トランプ政権下での仮想通貨規制緩和を背景に、アルトコインETF申請が加速している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインマイナーに圧迫感──ハッシュ価格が選挙後の上昇を失う]]></title>
-        <id>https://www.coindeskjapan.com/?p=283554</id>
-        <link href="https://www.coindeskjapan.com/283554/"/>
-        <updated>2025-03-20T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TheMinerMagの2025年2月のレポートによれば、取引手数料の減少とハッシュ価格の下落により運営コストが増加したことで、ビットコイン（BTC）のマイナー ...
-ビットコインマイナーに圧迫感──ハッシュ価格が選挙後の上昇を失う first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、弱気相場入りの兆候か　CryptoQuantの強気スコアが低値を記録]]></title>
-        <id>https://coinpost.jp/?p=603525</id>
-        <link href="https://coinpost.jp/?p=603525"/>
-        <updated>2025-03-20T21:40:33.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインが1月のピークから23%下落し、CryptoQuantのBull Score Indexが2023年1月以来の最低値20を記録。CEOのKi氏は「強気サイクルは終わり、今後6〜12ヶ月間は弱気または横ばいの価格行動」と予測している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
