@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-28T10:33:29.351Z</updated>
+    <updated>2025-03-28T11:24:35.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/28話題】イーサリアムPectraのメインネット実装が仮決定、ゲームストップ株急落、Seiが23andMe買収検討など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=462286</id>
+        <link href="https://www.neweconomy.jp/posts/462286"/>
+        <updated>2025-03-28T10:55:45.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Animoca BrandsとSoneiumが提携、アニメ特化型デジタルID公開]]></title>
         <id>https://www.neweconomy.jp/?p=462185</id>
@@ -2078,17 +2088,6 @@ BTC、XRP、SOLが米株先物とともに上昇──トランプ氏が的を�
         <summary type="html"><![CDATA[カルダノ創設者チャールズ・ホスキンソン氏が、トランプ政権の仮想通貨政策、SpaceXとの提携計画、日本の税制などについて語った独占インタビュー。仮想通貨の課題についても話している。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[現実資産の預かり資産が100億ドルを突破：DeFiLlama]]></title>
-        <id>https://www.coindeskjapan.com/?p=283912</id>
-        <link href="https://www.coindeskjapan.com/283912/"/>
-        <updated>2025-03-23T22:45:41.000Z</updated>
-        <summary type="html"><![CDATA[DeFiLlamaが収集したデータによると、現実資産（RWA）は現在100億ドル（約1兆5000億円、1ドル150円換算）の資産カテゴリーとなり、メーカー（Ma ...
-現実資産の預かり資産が100億ドルを突破：DeFiLlama first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
