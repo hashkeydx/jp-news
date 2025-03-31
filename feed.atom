@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-31T21:27:16.844Z</updated>
+    <updated>2025-03-31T22:31:33.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、S&P500との相関性低下か　クジラ数は3ヶ月ぶりの高水準]]></title>
+        <id>https://coinpost.jp/?p=605654</id>
+        <link href="https://coinpost.jp/?p=605654"/>
+        <updated>2025-03-31T22:00:17.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインはS&P500が下落する中でプラス推移し相関性の低下を示唆。1,000BTC以上保有のクジラウォレットは3月から11増加し1,991に到達。Cryptoquantアナリストは2020年の強気相場と類似したパターンを指摘した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2880億円規模のビットコイン買い増し、ストラテジー社]]></title>
+        <id>https://coinpost.jp/?p=605652</id>
+        <link href="https://coinpost.jp/?p=605652"/>
+        <updated>2025-03-31T21:30:34.000Z</updated>
+        <summary type="html"><![CDATA[米ストラテジー社は3月31日、22,048の仮想通貨ビットコインをさらに追加購入したことを公表した。今回の購入規模は2880億円相当のもので、このニュースが好感されビットコイン市場は一時83,757ドルまで反発。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USDC発行のサークル社、4月下旬IPO申請へ　JPモルガンとシティを起用]]></title>
         <id>https://coinpost.jp/?p=605645</id>
@@ -1014,27 +1034,6 @@ Sei財団、23andMe買収で遺伝子データのブロックチェーン移行�
 XRPの急騰は、市場の過熱とビットコインのピークを示す指標となる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノーザン・トラスト、ステーブルコイン発行元のヘイセンにカストディ・サービスを提供]]></title>
-        <id>https://www.coindeskjapan.com/?p=284625</id>
-        <link href="https://www.coindeskjapan.com/284625/"/>
-        <updated>2025-03-27T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[3月27日に発表されたプレスリリースによると、伝統的金融の大手であるノーザン・トラスト・（Northern Trust）は、貿易金融に焦点を当てたステーブルコイ ...
-ノーザン・トラスト、ステーブルコイン発行元のヘイセンにカストディ・サービスを提供 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンスが「MOVE」の不正取引でマーケットメイカー排除、ムーブメントの準備金設立でトークンが一時急騰]]></title>
-        <id>https://www.neweconomy.jp/?p=461974</id>
-        <link href="https://www.neweconomy.jp/posts/461974"/>
-        <updated>2025-03-27T09:59:03.000Z</updated>
-        <summary type="html"><![CDATA[不正取引でマーケットメイカーを排除 暗号資産（仮想通貨）取引所大手バイナンス（Binance）が、ムーブメント（Movement）プロジェクトに関連する不正行為を理由に、あるマーケットメイカーを排除したと3月25日発表し […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
         </author>
     </entry>
 </feed>
