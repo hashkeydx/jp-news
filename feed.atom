@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-03-31T10:34:40.555Z</updated>
+    <updated>2025-03-31T11:25:35.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、取引所残高で対象4チェーン上の全トークンが直接取引可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=462503</id>
+        <link href="https://www.neweconomy.jp/posts/462503"/>
+        <updated>2025-03-31T11:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Binance Walletで対応チェーン上のトークン取引可能に 暗号資産（仮想通貨）取引所大手Binance（バイナンス）提供の「Binance Wallet（バイナンスウォレット）」に、取引所アカウントの残高で、対応 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプファミリー、ビットコインマイニングに参入：報道]]></title>
+        <id>https://www.coindeskjapan.com/?p=285178</id>
+        <link href="https://www.coindeskjapan.com/285178/"/>
+        <updated>2025-03-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウォール・ストリート・ジャーナルの報道によると、トランプ一族はビットコイン（BTC）のマイニング事業への大規模な参入により、暗号資産（仮想通貨）への関与を深めて ...
+トランプファミリー、ビットコインマイニングに参入：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETH/BTCレシオ、5年ぶりの低水準に]]></title>
         <id>https://www.coindeskjapan.com/?p=285152</id>
@@ -1249,27 +1270,6 @@ gumiも参入、暗号資産の株主優待──総額1600万円相当のビッ
         <summary type="html"><![CDATA[仮想通貨ビットコインは前日比で約30万円の下落となった。一時、米ゲーム小売大手ゲームストップ社がビットコイン購入を主目的とした約2,000億円規模の転換社債を発行するとの報道を受け上昇する局面も見られたが、ダウ工業株30種平均が4日ぶりに反落したことに連れ安となり下落に転じた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国の北カロライナ議員、公的資金の最大10%をビットコインに投資する法案を提出]]></title>
-        <id>https://coinpost.jp/?p=604773</id>
-        <link href="https://coinpost.jp/?p=604773"/>
-        <updated>2025-03-26T23:12:51.000Z</updated>
-        <summary type="html"><![CDATA[北カロライナ州が年金資金の最大5%をビットコインに投資可能にする法案を提出。ビットコイン投資の新たな可能性を探る画期的な提案の詳細とは。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲームストップ、ビットコイン購入のため転換社債で約1960億円を調達]]></title>
-        <id>https://www.coindeskjapan.com/?p=284521</id>
-        <link href="https://www.coindeskjapan.com/284521/"/>
-        <updated>2025-03-26T23:08:25.000Z</updated>
-        <summary type="html"><![CDATA[ビデオゲーム小売大手のゲームストップは3月25日、バランスシートへ追加するためにビットコインの購入を開始する意向を明らかにした。 ビットコイン財務戦略を採用する ...
-ゲームストップ、ビットコイン購入のため転換社債で約1960億円を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Stephen Alpher</name>
         </author>
     </entry>
 </feed>
