@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-01T10:35:10.050Z</updated>
+    <updated>2025-04-01T11:25:37.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[関税発動前にビットコインが8万5000ドルに迫る──DOGE、XRP、ADAが主要銘柄の上昇をリード]]></title>
+        <id>https://www.coindeskjapan.com/?p=285367</id>
+        <link href="https://www.coindeskjapan.com/285367/"/>
+        <updated>2025-04-01T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[4月1日の欧州取引時間帯で、ビットコイン（BTC）は8万5000ドルに近づいた。多くのトレーダーは、2日に発動が予定されているアメリカの関税の影響を待っている。 ...
+関税発動前にビットコインが8万5000ドルに迫る──DOGE、XRP、ADAが主要銘柄の上昇をリード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのプットオプションに100万ドルのプレミアム──下落懸念が浮き彫りに]]></title>
         <id>https://www.coindeskjapan.com/?p=285332</id>
@@ -1247,47 +1258,6 @@ FTX、債権者への114億ドルの弁済を5月に開始へ first appeared on 
 Sei財団、23andMe買収で遺伝子データのブロックチェーン移行を計画 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berachain、「Proof of Liquidity」稼働開始]]></title>
-        <id>https://www.neweconomy.jp/?p=462003</id>
-        <link href="https://www.neweconomy.jp/posts/462003"/>
-        <updated>2025-03-27T23:20:03.000Z</updated>
-        <summary type="html"><![CDATA[BerachainがPoLを稼働開始 ベラチェーン（Berachain）の「Proof of Liquidity（PoL）」が3月24日に稼働を開始した。 「ベラチェーン」は、「コスモスSDK（Cosmos SDK）」で […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニューヨーク証券取引所の親会社ICEがCircleと提携、ステーブルコインUSDC活用で次世代金融商品開発へ]]></title>
-        <id>https://coinpost.jp/?p=605087</id>
-        <link href="https://coinpost.jp/?p=605087"/>
-        <updated>2025-03-27T23:15:37.000Z</updated>
-        <summary type="html"><![CDATA[米金融大手によるステーブルコイン取り組みが加速中。Intercontinental ExchangeとCircleが提携し、USDCの新たな市場を開拓へ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゲームストップ株、ビットコイン購入資金調達のための転換社債発行計画発表後に25%急落]]></title>
-        <id>https://www.coindeskjapan.com/?p=284679</id>
-        <link href="https://www.coindeskjapan.com/284679/"/>
-        <updated>2025-03-27T23:15:34.000Z</updated>
-        <summary type="html"><![CDATA[経営不振に陥っていたビデオゲーム小売業から一転してミーム株取引の寵児となったゲームストップの株価は3月27日、25％急落し、今週初めに同社がビットコインを準備資 ...
-ゲームストップ株、ビットコイン購入資金調達のための転換社債発行計画発表後に25%急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニーのソニュームとアニモカが提携　アニメファンのWeb3参入を推進へ]]></title>
-        <id>https://coinpost.jp/?p=605068</id>
-        <link href="https://coinpost.jp/?p=605068"/>
-        <updated>2025-03-27T22:50:51.000Z</updated>
-        <summary type="html"><![CDATA[アニモカブランズは、仮想通貨イーサリアムのソニーグループのL2ソニュームと提携。IDレイヤーを構築して、アニメファンをWeb3領域に取り込みやすし、ユーザーの関与を強化する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
