@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-04T02:01:31.564Z</updated>
+    <updated>2025-04-04T03:05:50.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金融市場にトランプ関税ショックの波紋広がる、ビットコインは82000ドルを推移]]></title>
+        <id>https://coinpost.jp/?p=606504</id>
+        <link href="https://coinpost.jp/?p=606504"/>
+        <updated>2025-04-04T02:42:10.000Z</updated>
+        <summary type="html"><![CDATA[米国株がコロナショック以来の下落率を記録する中、ビットコイン価格は比較的底堅い動き。市場の恐怖指数は「Fear」に傾く一方、ビットコイン先物の未決済建玉は過去最高を記録した。4月15日の税申告期限までに76,500ドルを維持できるかが今後の方向性を左右する。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイビット、14.5億ドルのハッキングを受けて資産セキュリティ強化]]></title>
+        <id>https://www.coindeskjapan.com/?p=285821</id>
+        <link href="https://www.coindeskjapan.com/285821/"/>
+        <updated>2025-04-04T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[6週間前に14億5000万ドル（約2100億円）のハッキングを受けた暗号資産（仮想通貨）取引所のバイビット（Bybit）は、ゾディア・カストディ（Zodia C ...
+バイビット、14.5億ドルのハッキングを受けて資産セキュリティ強化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインステーキング「Babylon」、独自トークンBABYの概要公開　エアドロップの計画も]]></title>
+        <id>https://coinpost.jp/?p=606531</id>
+        <link href="https://coinpost.jp/?p=606531"/>
+        <updated>2025-04-04T01:40:23.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインのステーキングプロトコルBabylonは、独自トークンBABYの情報を公開。早期利用者へのエアドロップの内容も説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウィズダムツリー、RWAを複数ブロックチェーンに拡大　AVAXやBaseなどでも提供へ]]></title>
+        <id>https://coinpost.jp/?p=606507</id>
+        <link href="https://coinpost.jp/?p=606507"/>
+        <updated>2025-04-04T01:12:54.000Z</updated>
+        <summary type="html"><![CDATA[米投資大手ウィズダムツリーが機関投資家向けRWAプラットフォームを強化。13のトークン化資産を、イーサリアムに加え、AVAX、Baseその他のチェーンで提供開始する。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムの「ペクトラ」アップグレード、メインネット導入を5月7日に確定]]></title>
         <id>https://www.coindeskjapan.com/?p=285815</id>
@@ -15,6 +56,26 @@
 イーサリアムの「ペクトラ」アップグレード、メインネット導入を5月7日に確定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨アバランチ（AVAX）の価格を2029年に250ドル到達と予測　スタンダード・チャータード銀]]></title>
+        <id>https://coinpost.jp/?p=606510</id>
+        <link href="https://coinpost.jp/?p=606510"/>
+        <updated>2025-04-04T00:35:50.000Z</updated>
+        <summary type="html"><![CDATA[スタンダード・チャータード銀行が仮想通貨アバランチの価格予測を開始し、2029年末までに250ドルへの上昇を予想。Avalanche9000アップグレードによるサブネット構築コスト削減と開発者数40%増加が評価され、三井住友FGもAva Labsと協業しステーブルコイン開発を計画。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECとブラックロック、ビットコイン・イーサリアムETFの現物償還方式移行を協議]]></title>
+        <id>https://coinpost.jp/?p=606493</id>
+        <link href="https://coinpost.jp/?p=606493"/>
+        <updated>2025-04-03T23:45:56.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックと米SECが仮想通貨ETFの現物償還方式への移行について協議。ETF株式と原資産の直接交換を可能にし、効率性向上とコスト削減が期待される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
