@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-04T20:29:45.581Z</updated>
+    <updated>2025-04-04T21:26:11.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、USDCなどの米ドル連動ステーブルコインは証券ではないと公式見解]]></title>
+        <id>https://coinpost.jp/?p=606799</id>
+        <link href="https://coinpost.jp/?p=606799"/>
+        <updated>2025-04-04T21:15:42.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）が「カバード」ステーブルコインを証券と見なさないとする公式見解を発表。実物資産で裏付けられ、米ドルと1対1で交換可能なステーブルコインの発行・償還プロセスはSECへの登録が不要となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、XRP先物取引を4月21日から提供開始へ　SEC訴訟解決を受け新商品展開]]></title>
+        <id>https://coinpost.jp/?p=606781</id>
+        <link href="https://coinpost.jp/?p=606781"/>
+        <updated>2025-04-04T20:45:08.000Z</updated>
+        <summary type="html"><![CDATA[米コインベース・デリバティブがCFTCに仮想通貨XRP先物とナノXRP先物の上場申請を実施。SECのリップル訴訟上訴断念を受け、4月21日から取引開始予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/4話題】イーサリアム「Pectra」メインネット実装は5/7に、米下院がステーブルコイン規制「STABLE法」可決など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=463764</id>
@@ -1788,38 +1808,6 @@ NFTマーケットプレイスX2Y2、取引高激減で閉鎖へ first appeared 
 ETH/BTCレシオ、5年ぶりの低水準に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、ビットコイン購入のため第10回普通社債20億円を発行]]></title>
-        <id>https://www.coindeskjapan.com/?p=285142</id>
-        <link href="https://www.coindeskjapan.com/285142/"/>
-        <updated>2025-03-31T09:01:04.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）保有戦略を進めるメタプラネットは3月31日、EVO FUNDを引受先とする20億円の第10回普通社債の発行を決定した。調達資金はビットコイ ...
-メタプラネット、ビットコイン購入のため第10回普通社債20億円を発行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBI VCトレード、gumi株主向けにビットコイン1,600万円分を抽選配布キャンペーン]]></title>
-        <id>https://coinpost.jp/?p=605550</id>
-        <link href="https://coinpost.jp/?p=605550"/>
-        <updated>2025-03-31T08:51:18.000Z</updated>
-        <summary type="html"><![CDATA[SBI VCトレードがgumi株主向けに総額1,600万円相当のビットコインを抽選配布する。口座開設とエントリーで参加可能な注目の株主優待キャンペーン。]]></summary>
-        <author>
-            <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「D.O.G.E.では、DOGEその他の暗号資産は使わない」──イーロン・マスク氏が明言]]></title>
-        <id>https://www.coindeskjapan.com/?p=285118</id>
-        <link href="https://www.coindeskjapan.com/285118/"/>
-        <updated>2025-03-31T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ドージコイン（DOGE）がアメリカ政府効率化省（D.O.G.E.）に採用されるのではないかというかすかな期待は、3月30日、同省の顔であるイーロン・マスク（El ...
-「D.O.G.E.では、DOGEその他の暗号資産は使わない」──イーロン・マスク氏が明言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
