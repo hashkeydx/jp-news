@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-05T03:40:01.143Z</updated>
+    <updated>2025-04-05T04:31:57.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFiのTVL、12月から30％下落　世界経済不安とトランプ関税政策の影響鮮明に]]></title>
+        <id>https://coinpost.jp/?p=607110</id>
+        <link href="https://coinpost.jp/?p=607110"/>
+        <updated>2025-04-05T04:30:41.000Z</updated>
+        <summary type="html"><![CDATA[米国の関税政策やインフレ懸念を背景にDeFiの預かり資産総額が12月のピーク時から約30％減少している。識者はイノベーションやRWAが回復の鍵になるとの見解を示した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン開発者　量子コンピュータ対策のハードフォークを提案]]></title>
+        <id>https://coinpost.jp/?p=607108</id>
+        <link href="https://coinpost.jp/?p=607108"/>
+        <updated>2025-04-05T03:55:56.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコイン開発者が量子コンピュータからの資産保護のため、古いアドレスから安全なウォレットへの強制移行案を提案。マイクロソフトの新技術「マヨラナ・ワン」開発で量子脅威が現実味を帯びる中、仮想通貨業界全体で対策議論が加速している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ基盤DePIN「XNET」、通信大手AT&Tと提携　WiFiホットスポット提供へ]]></title>
         <id>https://coinpost.jp/?p=607099</id>
