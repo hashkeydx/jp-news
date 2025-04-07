@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-07T11:24:58.138Z</updated>
+    <updated>2025-04-07T12:55:25.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/7話題】OKJがAIフュージョンキャピタルGと提携、コインチェックがLSK廃止でイーサ上の新LSK付与へなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=464063</id>
+        <link href="https://www.neweconomy.jp/posts/464063"/>
+        <updated>2025-04-07T11:47:01.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ関税による下落で、イーサリアムに1億ドルの清算が迫る]]></title>
         <id>https://www.coindeskjapan.com/?p=286325</id>
@@ -1230,37 +1240,6 @@ XRP、下降トレンドにつながる「三尊天井」パターンに近づ�
         <summary type="html"><![CDATA[仮想通貨ヘデラを支援するHBAR財団がWeb3プラットフォームZoopと協力し、TikTok買収に名乗りを上げた。Zoopはブロックチェーンでクリエイターに収益還元するプラットフォームを目指す。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社、ステーブルコイン「RLUSD」のリップルペイメント導入を発表]]></title>
-        <id>https://coinpost.jp/?p=606187</id>
-        <link href="https://coinpost.jp/?p=606187"/>
-        <updated>2025-04-03T00:25:19.000Z</updated>
-        <summary type="html"><![CDATA[リップル社は、ステーブルコインRLUSDが国際送金ソリューションのリップルペイメントで利用できるようになったと発表。企業向けの実用性と需要がさらに促進されるだろうと期待を示している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、第1四半期にBTC利回り95.6%を達成──第2四半期は160BTC取得でスタート]]></title>
-        <id>https://www.coindeskjapan.com/?p=285609</id>
-        <link href="https://www.coindeskjapan.com/285609/"/>
-        <updated>2025-04-03T00:14:44.000Z</updated>
-        <summary type="html"><![CDATA[日本のホテル企業メタプラネットは、平均購入価格約1250万円（1BTCあたり8万3600ドル）で160BTCを追加取得し、投資総額は19億9800万円（約134 ...
-メタプラネット、第1四半期にBTC利回り95.6%を達成──第2四半期は160BTC取得でスタート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン100万円超急落、トランプ大統領の関税発表が引き金に｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=606007</id>
-        <link href="https://coinpost.jp/?p=606007"/>
-        <updated>2025-04-02T23:36:47.000Z</updated>
-        <summary type="html"><![CDATA[米国のトランプ大統領による相互関税の詳細発表を受けて、ビットコインは前日比で100万円超の急落。現物売りが増加し、CMEの未決済建玉も減少していることから機関投資家の撤退が進んでいる可能性が示唆される。米国の納税期限も迫り、仮想通貨市場は厳しい状況に直面している。X-Bankクリプトアナリストによる最新分析。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
