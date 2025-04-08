@@ -330,26 +330,6 @@
           "wordCount": 1329,
           "title": "ナスダックは2000年以降で最悪の日になったが、ビットコインは安定した動き",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/03/shutterstock_2527574775.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=285917",
-          "author": "Shaurya Malwa",
-          "description": "アメリカの暗号資産（仮想通貨）大手コインベース・インスティテューショナル（Coinbase Institutional）は4月4日、リップル（Ripple）と密 ...\nコインベース、XRP先物取引の申請書を米CFTCに提出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/285917/",
-          "publishedOn": "2025-04-04T10:10:00.000Z",
-          "wordCount": 1394,
-          "title": "コインベース、XRP先物取引の申請書を米CFTCに提出",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/02/shutterstock_2072493677-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=285900",
-          "author": "Omkar Godbole",
-          "description": "重要なアメリカの3月非農業部門雇用者数（NFP）の発表が近づくにつれ、ビットコイン（BTC）の強気派は、映画『ダークナイト』に登場するトゥーフェイス（ハーヴィー ...\n3月の米雇用統計がどのような結果でも、ビットコイン強気派が優勢になる可能性が高い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/285900/",
-          "publishedOn": "2025-04-04T09:40:00.000Z",
-          "wordCount": 1328,
-          "title": "3月の米雇用統計がどのような結果でも、ビットコイン強気派が優勢になる可能性が高い",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/shutterstock_1917774089.jpg"
         }
       ]
     },
@@ -364,6 +344,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=607709",
+          "author": "菊谷ルイス",
+          "description": "キャンター・フィッツジェラルドが仮想通貨取引所コインベースを「買い」推奨。目標株価245ドルで現在から53%上昇余地と評価。",
+          "link": "https://coinpost.jp/?p=607709",
+          "publishedOn": "2025-04-08T22:00:38.000Z",
+          "wordCount": 3239,
+          "title": "コインベース株に強気評価、キャンター・フィッツジェラルドがBaseチェーンやUSDCに注目",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/Coinbase-L2-Base.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/Coinbase-L2-Base.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=607690",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨決済企業リップルがプライム・ブローカレッジのHidden Roadを12.5億ドルで買収。機関投資家向けサービス強化とステーブルコインRLUSDの統合で業界リーダーの立ち位置を確保する狙いだ。",
+          "link": "https://coinpost.jp/?p=607690",
+          "publishedOn": "2025-04-08T21:15:24.000Z",
+          "wordCount": 3255,
+          "title": "リップル社、プライム・ブローカー『Hidden Road』を約1900億円で買収",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=607681",
+          "author": "菊谷ルイス",
+          "description": "英スタンダード・チャータード銀行が新レポートでXRPの大幅上昇を予想。決済・トークン化用途の拡大により2028年に5倍以上の12.5ドルへ。",
+          "link": "https://coinpost.jp/?p=607681",
+          "publishedOn": "2025-04-08T20:50:58.000Z",
+          "wordCount": 3327,
+          "title": "XRPが2028年に12.5ドル到達か、イーサリアム超えの可能性も　スタンダードチャータードの価格予測",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=607585",
           "author": "AKIRA.H",
@@ -903,21 +928,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/xrp-coinbase.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/xrp-coinbase.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=606754",
-          "author": "CoinPost編集部",
-          "description": "暗号資産決済プラットフォームUPCXで管理アカウントの不正アクセスが発生。約7000万ドル相当の1847万UPCトークンの流出懸念があるが、UPCXは約1847万トークンが管理下にあると発表した。ユーザー資産は影響なしとするも、入出金機能は一時停止中。調査完了後に詳細と今後の対応策を公表予定。",
-          "link": "https://coinpost.jp/?p=606754",
-          "publishedOn": "2025-04-04T09:58:30.000Z",
-          "wordCount": 3225,
-          "title": "仮想通貨決済プラットフォームUPCX、セキュリティ侵害の臨時対応策を発表「顧客資産への影響はなし」",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
         }
       ]
     },
