@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-08T10:35:02.659Z</updated>
+    <updated>2025-04-08T11:25:06.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/8話題】ギャラクシーデジタルが5月にナスダック上場、香港が認可事業者のステーキングサービス提供許可へなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=464274</id>
+        <link href="https://www.neweconomy.jp/posts/464274"/>
+        <updated>2025-04-08T11:07:40.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cboe、新たなFTSEビットコイン指数先物を提供へ]]></title>
         <id>https://www.coindeskjapan.com/?p=286492</id>
@@ -1204,37 +1214,6 @@ CoinDesk Weekly Recap：ビットコイン、市場が混乱する中で安定 f
 Web3最新事例を19社が一挙発表【N.Avenue club Summit企業発表会】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>CoinDesk Japan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン一時1200万円割れ、世界同時株安が波及｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=606490</id>
-        <link href="https://coinpost.jp/?p=606490"/>
-        <updated>2025-04-03T23:20:15.000Z</updated>
-        <summary type="html"><![CDATA[トランプ大統領による相互関税の詳細発表を受けて世界同時株安が発生しており、このような市場環境下では、、仮想通貨ビットコインが株価指数と高い相関関係を持っていることから、下落を余儀なくされている。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WisdomTree、機関投資家向けトークン化ファンドプラットフォームをアービトラム、アバランチ、ベース、オプティミズムに拡大]]></title>
-        <id>https://www.coindeskjapan.com/?p=285795</id>
-        <link href="https://www.coindeskjapan.com/285795/"/>
-        <updated>2025-04-03T23:04:03.000Z</updated>
-        <summary type="html"><![CDATA[資産運用会社のウィズダムツリーは4月3日、機関投資家向け投資プラットフォーム「WisdomTree Connect」を拡大し、5つのブロックチェーンネットワーク ...
-WisdomTree、機関投資家向けトークン化ファンドプラットフォームをアービトラム、アバランチ、ベース、オプティミズムに拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ財団、量子耐性を持つオープンソースデジタルID「Veridian」を発表]]></title>
-        <id>https://coinpost.jp/?p=606487</id>
-        <link href="https://coinpost.jp/?p=606487"/>
-        <updated>2025-04-03T23:00:09.000Z</updated>
-        <summary type="html"><![CDATA[カルダノ財団が新たなデジタルアイデンティティプラットフォーム「Veridian」を発表。KERIとACDC技術を活用し、個人と組織に安全で分散型のID管理を提供する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
