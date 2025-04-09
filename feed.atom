@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-09T08:38:19.502Z</updated>
+    <updated>2025-04-09T09:31:49.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[損益計算が複雑、投資額は100～500万円が最多──クリプタクト、暗号資産の確定申告に関して調査]]></title>
+        <id>https://www.coindeskjapan.com/?p=286682</id>
+        <link href="https://www.coindeskjapan.com/286682/"/>
+        <updated>2025-04-09T09:24:20.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）の自動損益計算サービス「クリプタクト」を運営するpafinは4月1日、ユーザーを対象に実施した暗号資産の確定申告に関する調査結果を発表した。 ...
+損益計算が複雑、投資額は100～500万円が最多──クリプタクト、暗号資産の確定申告に関して調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>橋本 祐樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインをDeFiで運用　WBTCのメリット・買い方、運用法まで徹底解説]]></title>
+        <id>https://coinpost.jp/?p=607669</id>
+        <link href="https://coinpost.jp/?p=607669"/>
+        <updated>2025-04-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WBTC（Wrapped Bitcoin）はビットコインをイーサリアム上で運用できる暗号資産（仮想通貨）です。メリットや買い方、リスクを初心者にもわかりやすく解説します。]]></summary>
+        <author>
+            <name>M.Somekawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国初のXRP連動レバレッジ型ETF「XXRP」、TeucriumがNYSEアーカで提供開始]]></title>
         <id>https://www.neweconomy.jp/?p=464512</id>
@@ -1203,26 +1224,6 @@ CoinDesk Weekly Recap：ビットコイン、市場が混乱する中で安定 f
 米国株が暴落する中、ビットコインがナスダックから乖離し始める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、USDCなどの米ドル連動ステーブルコインは証券ではないと公式見解]]></title>
-        <id>https://coinpost.jp/?p=606799</id>
-        <link href="https://coinpost.jp/?p=606799"/>
-        <updated>2025-04-04T21:15:42.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）が「カバード」ステーブルコインを証券と見なさないとする公式見解を発表。実物資産で裏付けられ、米ドルと1対1で交換可能なステーブルコインの発行・償還プロセスはSECへの登録が不要となる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、XRP先物取引を4月21日から提供開始へ　SEC訴訟解決を受け新商品展開]]></title>
-        <id>https://coinpost.jp/?p=606781</id>
-        <link href="https://coinpost.jp/?p=606781"/>
-        <updated>2025-04-04T20:45:08.000Z</updated>
-        <summary type="html"><![CDATA[米コインベース・デリバティブがCFTCに仮想通貨XRP先物とナノXRP先物の上場申請を実施。SECのリップル訴訟上訴断念を受け、4月21日から取引開始予定。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=286682",
+          "author": "橋本 祐樹",
+          "description": "暗号資産（仮想通貨）の自動損益計算サービス「クリプタクト」を運営するpafinは4月1日、ユーザーを対象に実施した暗号資産の確定申告に関する調査結果を発表した。 ...\n損益計算が複雑、投資額は100～500万円が最多──クリプタクト、暗号資産の確定申告に関して調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/286682/",
+          "publishedOn": "2025-04-09T09:24:20.000Z",
+          "wordCount": 1354,
+          "title": "損益計算が複雑、投資額は100～500万円が最多──クリプタクト、暗号資産の確定申告に関して調査",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/main.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=286665",
           "author": "Shaurya Malwa",
           "description": "ビットコイン（BTC）は4月9日の早朝、トランプ大統領の広範囲にわたる世界的な関税が発効したことにより、一時7万5000ドル付近まで下落したが、その後やや回復し ...\n関税が世界的な脅威となり、ビットコイン弱気派は7万ドルを視野に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -414,6 +424,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=607669",
+          "author": "M.Somekawa",
+          "description": "WBTC（Wrapped Bitcoin）はビットコインをイーサリアム上で運用できる暗号資産（仮想通貨）です。メリットや買い方、リスクを初心者にもわかりやすく解説します。",
+          "link": "https://coinpost.jp/?p=607669",
+          "publishedOn": "2025-04-09T09:00:00.000Z",
+          "wordCount": 2548,
+          "title": "ビットコインをDeFiで運用　WBTCのメリット・買い方、運用法まで徹底解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/WBTC_0409.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/WBTC_0409.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=607801",
           "author": "菊谷ルイス",
@@ -1118,36 +1143,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/trump-pump-the-fck-uop.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/trump-pump-the-fck-uop.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=606799",
-          "author": "菊谷ルイス",
-          "description": "米証券取引委員会（SEC）が「カバード」ステーブルコインを証券と見なさないとする公式見解を発表。実物資産で裏付けられ、米ドルと1対1で交換可能なステーブルコインの発行・償還プロセスはSECへの登録が不要となる。",
-          "link": "https://coinpost.jp/?p=606799",
-          "publishedOn": "2025-04-04T21:15:42.000Z",
-          "wordCount": 3185,
-          "title": "米SEC、USDCなどの米ドル連動ステーブルコインは証券ではないと公式見解",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/Stablecoin_1201-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=606781",
-          "author": "菊谷ルイス",
-          "description": "米コインベース・デリバティブがCFTCに仮想通貨XRP先物とナノXRP先物の上場申請を実施。SECのリップル訴訟上訴断念を受け、4月21日から取引開始予定。",
-          "link": "https://coinpost.jp/?p=606781",
-          "publishedOn": "2025-04-04T20:45:08.000Z",
-          "wordCount": 3195,
-          "title": "コインベース、XRP先物取引を4月21日から提供開始へ　SEC訴訟解決を受け新商品展開",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/xrp-coinbase.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/xrp-coinbase.jpg"
         }
       ]
     },
