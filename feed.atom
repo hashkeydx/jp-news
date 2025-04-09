@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-09T11:24:56.623Z</updated>
+    <updated>2025-04-09T12:55:07.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/9話題】Progmatが農中信託銀行・あおぞら銀行・ケネディクスから資金調達、リップルがHidden Roadを買収へなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=464548</id>
+        <link href="https://www.neweconomy.jp/posts/464548"/>
+        <updated>2025-04-09T12:28:06.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cboe、ビットコイン指数先物取引を提供へ]]></title>
         <id>https://www.neweconomy.jp/?p=464699</id>
@@ -1227,26 +1237,6 @@ CoinDesk Weekly Recap：ビットコイン、市場が混乱する中で安定 f
         <summary type="html"><![CDATA[決済大手PayPalとVenmoが仮想通貨サービスを拡充し、ChainlinkとSolanaの購入・保有・販売・送金に対応。サービスは米国居住者に限定される。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界同時株安のなかでのビットコイン市場分析｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=607082</id>
-        <link href="https://coinpost.jp/?p=607082"/>
-        <updated>2025-04-05T00:05:04.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは株式市場が歴史的な下落幅を記録するなかで下落基調となっている。中国が米国に対する報復関税を発表したことを受けて急落し、一時は70万円幅の下落となった。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックの「BUIDL」、3月の分配金額は約6億円　トークン化国債ファンドの史上最高額に]]></title>
-        <id>https://coinpost.jp/?p=607012</id>
-        <link href="https://coinpost.jp/?p=607012"/>
-        <updated>2025-04-04T23:25:37.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックのBUIDLのトークン化を担うセキュリタイズは、25年3月のBUIDLの分配金が推定で6億円超だったと発表。この金額はトークン化した国債ファンドの1カ月の分配金として史上最高額だという。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
