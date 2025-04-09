@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-09T10:37:35.961Z</updated>
+    <updated>2025-04-09T11:24:56.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cboe、ビットコイン指数先物取引を提供へ]]></title>
+        <id>https://www.neweconomy.jp/?p=464699</id>
+        <link href="https://www.neweconomy.jp/posts/464699"/>
+        <updated>2025-04-09T11:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Cboeがビットコイン指数先物取引を提供へ 取引所運営会社のシーボーグローバルマーケット（Cboe Global Markets）が、ビットコインに関連する新たなデリバティブ商品の提供計画を4月7日に発表した。 提供が計 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラーケン、マスターカードと提携して暗号資産デビットカードを導入]]></title>
+        <id>https://www.coindeskjapan.com/?p=286789</id>
+        <link href="https://www.coindeskjapan.com/286789/"/>
+        <updated>2025-04-09T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所クラーケン（Kraken）とマスターカード（Mastercard）が提携し、イギリスおよびヨーロッパの暗号資産保有者が世界中の1億50 ...
+クラーケン、マスターカードと提携して暗号資産デビットカードを導入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米暗号資産取引所コインベースなど人気の米国株に連動するETF：JTG証券]]></title>
         <id>https://www.coindeskjapan.com/?p=286776</id>
@@ -1226,27 +1247,6 @@ CoinDesk Weekly Recap：ビットコイン、市場が混乱する中で安定 f
         <summary type="html"><![CDATA[ブラックロックのBUIDLのトークン化を担うセキュリタイズは、25年3月のBUIDLの分配金が推定で6億円超だったと発表。この金額はトークン化した国債ファンドの1カ月の分配金として史上最高額だという。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ関税で金融市場混乱もビットコインは注目される存在に　「米国孤立のヘッジ」とする見解も]]></title>
-        <id>https://coinpost.jp/?p=606979</id>
-        <link href="https://coinpost.jp/?p=606979"/>
-        <updated>2025-04-04T23:10:04.000Z</updated>
-        <summary type="html"><![CDATA[トランプ大統領の全世界に対する関税政策発表で市場が急落する中、アーサー・ヘイズ氏は「ビットコインにとって好材料」と分析。スタンダード・チャータード銀行専門家も「米国孤立のヘッジとして機能」と指摘し、88000ドル復帰の可能性を予測。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金連動型暗号資産、株式市場の暴落の中で史上最高値から後退]]></title>
-        <id>https://www.coindeskjapan.com/?p=286044</id>
-        <link href="https://www.coindeskjapan.com/286044/"/>
-        <updated>2025-04-04T22:57:10.000Z</updated>
-        <summary type="html"><![CDATA[パックスゴールド（PAXG）やテザーゴールド（XAUT）のような金に裏付けられた暗号資産（仮想通貨）は、ドナルド・トランプ米大統領が相互関税を発表した後、1日で ...
-金連動型暗号資産、株式市場の暴落の中で史上最高値から後退 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
         </author>
     </entry>
 </feed>
