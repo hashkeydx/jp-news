@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-11T22:31:55.463Z</updated>
+    <updated>2025-04-11T23:26:50.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ関税でビットコインマイニング収益悪化　赤字企業続出]]></title>
+        <id>https://coinpost.jp/?p=608630</id>
+        <link href="https://coinpost.jp/?p=608630"/>
+        <updated>2025-04-11T23:15:02.000Z</updated>
+        <summary type="html"><![CDATA[米国トランプ大統領の関税政策により、ビットコインのマイニング収益率が大幅に下落。多くのマイニング企業が損益分岐点を下回り、S19 Pro機器の大規模シャットダウンの可能性が高まっていると指摘されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CryptoPunk #3100、約1億円の損失で売却──希少価値はまだ健在]]></title>
+        <id>https://www.coindeskjapan.com/?p=287102</id>
+        <link href="https://www.coindeskjapan.com/287102/"/>
+        <updated>2025-04-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[かつてCryptoPunks（クリプトパンクス）は、究極のステータスシンボルだったことを覚えているだろうか？ 2017年にLarva Labsが発行した1万体の ...
+CryptoPunk #3100、約1億円の損失で売却──希少価値はまだ健在 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナの主要ミームコイン『Fartcoin』一週間で75%高騰、関税緩和期待で資金が流入]]></title>
+        <id>https://coinpost.jp/?p=608608</id>
+        <link href="https://coinpost.jp/?p=608608"/>
+        <updated>2025-04-11T22:35:46.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨Fartcoinが30％上昇。トランプ大統領の相互関税停止表明を受け、ミームコイン市場は貿易戦争の軟化を受けて反発ムードに。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米消費者心理はトランプ関税発動後に悪化も、暗号資産は持ちこたえる]]></title>
         <id>https://www.coindeskjapan.com/?p=287167</id>
@@ -1698,27 +1729,6 @@ XRP、DOGEなどが10%急騰──暗号資産市場は安堵のラリーを展�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ関税による下落で、イーサリアムに1億ドルの清算が迫る]]></title>
-        <id>https://www.coindeskjapan.com/?p=286325</id>
-        <link href="https://www.coindeskjapan.com/286325/"/>
-        <updated>2025-04-07T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[DefiLlamaが収集したオンチェーンデータの分析によると、イーサリアム（ETH）の価格が15%下落すると、約1億ドルのポジションが危険にさらされる。 アジア ...
-トランプ関税による下落で、イーサリアムに1億ドルの清算が迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分散型SNS「Lens」、イーサL2「Lens Chain」をメインネットローンチ]]></title>
-        <id>https://www.neweconomy.jp/?p=464095</id>
-        <link href="https://www.neweconomy.jp/posts/464095"/>
-        <updated>2025-04-07T10:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Lensが「Lens Chain」メインネットをローンチ 大手DeFi（分散型金融）アーベ（Aave）開発元によるSocialFiプロトコル「レンズ（Lens）」が、独自のEVM互換レイヤー2ネットワーク「レンズチェーン […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
