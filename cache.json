@@ -590,10 +590,25 @@
       "articles": []
     },
     {
-      "title": "Tether(USDT)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=608395",
+          "author": "菊谷ルイス",
+          "description": "リップルとSECが4月10日に第2巡回控訴裁判所へ法的手続き一時停止を共同申請。原則的合意に達し和解へ前進。リップルは同時期に12億5000万ドルでHidden Road買収を発表し、仮想通貨業界初のグローバルプライムブローカーとなった。",
+          "link": "https://coinpost.jp/?p=608395",
+          "publishedOn": "2025-04-11T04:00:49.000Z",
+          "wordCount": 3221,
+          "title": "リップルとSEC、和解に向け法的手続き一時停止を共同申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ripple_20210510_kk_3.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=608301",
           "author": "菊谷ルイス",
@@ -1501,6 +1516,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=465002",
+          "author": "OtsugaShinya",
+          "description": "NY州司法長官が議会に暗号資産の規制強化を要請 米ニューヨーク州司法長官のレティシア・ジェームズ（Letitia James）氏が、暗号資産（仮想通貨）に関する連邦規制の枠組みを創設する法案を可決するよう議会に4月10日 […]",
+          "link": "https://www.neweconomy.jp/posts/465002",
+          "publishedOn": "2025-04-11T04:20:15.000Z",
+          "wordCount": 626,
+          "title": "米NY州司法長官、暗号資産・ステーブルコインの規制強化を議会に要請、登録制度や上場基準など",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11132011/33bdd5f2b2e8d6e7fd2a783dd3780e76.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=464996",
+          "author": "gentosha_takahashi",
+          "description": "NFTは証券ではないとの立場も再度表明 大手NFTマーケットプレイスオープンシー（OpenSea）が、2025年4月9日付で米証券取引委員会（SEC）の暗号資産タスクフォースに意見書を提出し、NFTマーケットプレイスが連 […]",
+          "link": "https://www.neweconomy.jp/posts/464996",
+          "publishedOn": "2025-04-11T03:58:15.000Z",
+          "wordCount": 753,
+          "title": "OpenSea、SEC暗号資産タスクフォースに意見書提出。取引所・ブローカー該当を否定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11125807/f3d0f26b8fc317662cddc60572515c7c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=464990",
+          "author": "OtsugaShinya",
+          "description": "トランプ大統領が「DeFiブローカー規則」撤回法案に署名 ドナルド・トランプ（Donald Trump）米大統領は4月10日、DeFi（分散型金融）プラットフォームを「仲介業者（ブローカー）」に含めるという米内国歳入庁（ […]",
+          "link": "https://www.neweconomy.jp/posts/464990",
+          "publishedOn": "2025-04-11T03:44:46.000Z",
+          "wordCount": 640,
+          "title": "トランプ大統領、DeFi課税ルールを撤回、IRSの「ブローカー」定義を無効化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/11124440/b48a2133435739f36403c2796f3cd4d2.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=464970",
           "author": "HitomotoToshikazu",
