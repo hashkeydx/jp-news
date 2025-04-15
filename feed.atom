@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-15T10:35:06.239Z</updated>
+    <updated>2025-04-15T11:24:55.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JASRACの楽曲管理システム「KENDRIX」がSoneiumに移行]]></title>
+        <id>https://www.coindeskjapan.com/?p=287591</id>
+        <link href="https://www.coindeskjapan.com/287591/"/>
+        <updated>2025-04-15T10:51:54.000Z</updated>
+        <summary type="html"><![CDATA[日本音楽著作権協会（JASRAC）は4月15日、楽曲情報管理システム「KENDRIX」のブロックチェーン基盤を、ソニーグループが手がけるイーサリアムレイヤー2「 ...
+JASRACの楽曲管理システム「KENDRIX」がSoneiumに移行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン現物ETF、4月に8億ドルが流出する見込み──機関投資家は債券に固執]]></title>
+        <id>https://www.coindeskjapan.com/?p=287587</id>
+        <link href="https://www.coindeskjapan.com/287587/"/>
+        <updated>2025-04-15T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[「債券を売ってビットコイン（BTC）を買おう」と先週、人気の高いソーシャルメディアのアカウントが発信した。これは、世界金融の要である米国債市場の関税による変動が ...
+ビットコイン現物ETF、4月に8億ドルが流出する見込み──機関投資家は債券に固執 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Omkar Godbole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JASRAC、楽曲情報管理システム「KENDRIX」がSoneium（ソニューム）に対応]]></title>
         <id>https://coinpost.jp/?p=609139</id>
@@ -1339,27 +1361,6 @@ Web3時代の地方スポーツクラブ経営戦略──トークンによる�
         <summary type="html"><![CDATA[仮想通貨ビットコインは11日、米政権による関税政策の方針が二転三転したことにより、政権への不信感が強まり米国債が急落したことを背景に、24時間で約100万円幅の下落となった。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン生命保険会社Meanwhile、グローバル展開のため約58億円を調達]]></title>
-        <id>https://www.coindeskjapan.com/?p=286964</id>
-        <link href="https://www.coindeskjapan.com/286964/"/>
-        <updated>2025-04-10T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）建ての生命保険と年金を提供するスタートアップのMeanwhileは、シリーズA資金調達ラウンドで4000万ドルを調達したと、ザック・タウン ...
-ビットコイン生命保険会社Meanwhile、グローバル展開のため約58億円を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babylon Genesis始動、6500億円超ビットコインをステーキング]]></title>
-        <id>https://coinpost.jp/?p=608335</id>
-        <link href="https://coinpost.jp/?p=608335"/>
-        <updated>2025-04-10T22:40:22.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインのステーキングプロトコルBabylonが「Genesis」メインネットを正式立ち上げ。40億ドル超のBTCをロックし、ビットコインを分散型経済の基盤へ変革。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
