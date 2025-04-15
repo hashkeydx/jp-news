@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-15T09:31:15.094Z</updated>
+    <updated>2025-04-15T10:35:06.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JASRAC、楽曲情報管理システム「KENDRIX」がSoneium（ソニューム）に対応]]></title>
+        <id>https://coinpost.jp/?p=609139</id>
+        <link href="https://coinpost.jp/?p=609139"/>
+        <updated>2025-04-15T09:56:26.000Z</updated>
+        <summary type="html"><![CDATA[JASRACの楽曲情報管理システム「KENDRIX」がSoneiumへ移行し、ブロックチェーン技術を活用。音源の存在証明や著作権管理を簡素化し、音楽クリエイターを強力に支援する。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分散型取引所のKiloEx、オラクル操作攻撃で700万ドルを失う]]></title>
+        <id>https://www.coindeskjapan.com/?p=287568</id>
+        <link href="https://www.coindeskjapan.com/287568/"/>
+        <updated>2025-04-15T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[永久先物取引のための分散型暗号資産（仮想通貨）取引所（DEX）であるKiloExは、4月15日の早い時間に高度な攻撃を受け、ユーザーは約700万ドル（約10億1 ...
+分散型取引所のKiloEx、オラクル操作攻撃で700万ドルを失う first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30年物日本国債の利回りが2004年以来の高水準に──投資家の懸念が高まる]]></title>
         <id>https://www.coindeskjapan.com/?p=287545</id>
@@ -1339,16 +1360,6 @@ Web3時代の地方スポーツクラブ経営戦略──トークンによる�
         <summary type="html"><![CDATA[仮想通貨ビットコインのステーキングプロトコルBabylonが「Genesis」メインネットを正式立ち上げ。40億ドル超のBTCをロックし、ビットコインを分散型経済の基盤へ変革。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノのホスキンソン氏が強気予想「BTCは25年に25万ドル到達の可能性」]]></title>
-        <id>https://coinpost.jp/?p=608305</id>
-        <link href="https://coinpost.jp/?p=608305"/>
-        <updated>2025-04-10T21:55:39.000Z</updated>
-        <summary type="html"><![CDATA[カルダノ創設者チャールズ・ホスキンソン氏は、仮想通貨ビットコインの価格は2025年か2026年に25万ドルまで上昇する可能性があるとの見方を示した。その根拠を説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
