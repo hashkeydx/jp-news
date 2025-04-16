@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-16T10:35:54.178Z</updated>
+    <updated>2025-04-16T11:24:58.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン短期保有者の含み損が拡大──長期保有者は買い増し中]]></title>
+        <id>https://www.coindeskjapan.com/?p=287816</id>
+        <link href="https://www.coindeskjapan.com/287816/"/>
+        <updated>2025-04-16T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）のオンチェーン指標が再び重要なシグナルを発している。Glassnodeのデータによると、短期保有者（STH）のMVRV比率（時価総額対実現 ...
+ビットコイン短期保有者の含み損が拡大──長期保有者は買い増し中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米サークル「USDC」、EVM互換のL1ブロックチェーン「Monad」でネイティブ発行へ]]></title>
         <id>https://www.neweconomy.jp/?p=466104</id>
@@ -1334,27 +1345,6 @@ PAXG、XAUTが暗号資産市場全体をアウトパフォーム──金ETFへ
 SECとバイナンス、進行中の訴訟の一時停止期間延長を判事に要請 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Nikhilesh De</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ関税でビットコインマイニング収益悪化　赤字企業続出]]></title>
-        <id>https://coinpost.jp/?p=608630</id>
-        <link href="https://coinpost.jp/?p=608630"/>
-        <updated>2025-04-11T23:15:02.000Z</updated>
-        <summary type="html"><![CDATA[米国トランプ大統領の関税政策により、ビットコインのマイニング収益率が大幅に下落。多くのマイニング企業が損益分岐点を下回り、S19 Pro機器の大規模シャットダウンの可能性が高まっていると指摘されている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoPunk #3100、約1億円の損失で売却──希少価値はまだ健在]]></title>
-        <id>https://www.coindeskjapan.com/?p=287102</id>
-        <link href="https://www.coindeskjapan.com/287102/"/>
-        <updated>2025-04-11T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[かつてCryptoPunks（クリプトパンクス）は、究極のステータスシンボルだったことを覚えているだろうか？ 2017年にLarva Labsが発行した1万体の ...
-CryptoPunk #3100、約1億円の損失で売却──希少価値はまだ健在 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
