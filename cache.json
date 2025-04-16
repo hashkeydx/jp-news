@@ -495,6 +495,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=609362",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所OKXが米国市場での事業展開を発表。中央集権型取引所とウォレットサービスを提供開始する。",
+          "link": "https://coinpost.jp/?p=609362",
+          "publishedOn": "2025-04-16T05:40:01.000Z",
+          "wordCount": 3203,
+          "title": "仮想通貨取引所大手OKX、米国市場に本格進出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/okx-kom.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/okx-kom.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=609338",
           "author": "幸田直子",
           "description": "マイニング企業Bitdeerが自社マイニングを強化し、今年後半には米国でマイニング機器の製造を開始する計画を明らかにした。マイニング機器の需要低下とトランプ政権の関税政策による不確実性に対応する狙いがある。",
@@ -1221,6 +1236,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=466015",
+          "author": "OtsugaShinya",
+          "description": "AWS障害で複数取引所に一時不具合 暗号資産（仮想通貨）取引所バイナンス（Binance）は、アマゾン・ウェブ・サービス（Amazon Web Services：AWS）のデータセンターに関連する問題のため、一時的にプラ […]",
+          "link": "https://www.neweconomy.jp/posts/466015",
+          "publishedOn": "2025-04-16T06:06:53.000Z",
+          "wordCount": 910,
+          "title": "AWS障害でBinanceなど複数取引所に一時不具合",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/16150646/9d9fd7c3136834e20831dcab62097fca.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=465995",
+          "author": "OtsugaShinya",
+          "description": "OKXが米国市場に進出 海外大手暗号資産（仮想通貨）取引所OKXが、米国市場への進出開始を4月16日に発表した。 OKXの発表によると同取引所は、米カルフォルニア州サンノゼに地域本部を設立したとのこと。これによりOKXの […]",
+          "link": "https://www.neweconomy.jp/posts/465995",
+          "publishedOn": "2025-04-16T05:32:31.000Z",
+          "wordCount": 778,
+          "title": "OKXが米国市場に進出、取引所とウォレット展開開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/16143224/5cbd23fa9cea6c92d298562b8f17daff.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=465974",
           "author": "OtsugaShinya",
