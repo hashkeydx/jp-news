@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-18T21:27:30.479Z</updated>
+    <updated>2025-04-18T22:31:18.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインクジラの最新動向　1万BTC以上の超大口保有者は蓄積継続]]></title>
+        <id>https://coinpost.jp/?p=610286</id>
+        <link href="https://coinpost.jp/?p=610286"/>
+        <updated>2025-04-18T21:55:18.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインの大口保有者の行動に焦点を当て、超大型クジラの市場吸収と大口投資家の動きの違いを解説。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ギャラクシーリサーチ、ソラナのトークンインフレ改革に新提案]]></title>
         <id>https://coinpost.jp/?p=610283</id>
@@ -1762,17 +1772,6 @@ JPモルガン、ブロックチェーン決済サービス「Kinexys」に英�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レイ・ダリオ氏、グローバルなシステミック・リスクを警告──ビットコインは依然として堅調]]></title>
-        <id>https://www.coindeskjapan.com/?p=287373</id>
-        <link href="https://www.coindeskjapan.com/287373/"/>
-        <updated>2025-04-14T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[レイ・ダリオ（Ray Dalio）氏は、4月13日にCNBCのインタビューで、単なる景気後退の可能性についてだけでなく、より深刻な世界経済と政治秩序のシステムの ...
-レイ・ダリオ氏、グローバルなシステミック・リスクを警告──ビットコインは依然として堅調 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
         </author>
     </entry>
 </feed>
