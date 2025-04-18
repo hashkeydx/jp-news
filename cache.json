@@ -665,6 +665,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=607805",
+          "author": "Ritsuki.Kumazawa",
+          "description": "LINE NEXT CSOのキム・ウソク氏がWeb3の大衆化戦略を語る独占インタビュー。LINEの強みを活かし、ウォレット体験の改善、直感的なUI、メッセンジャーとの連携強化で1,000万人のユーザー獲得を目指す。Web2からWeb3への架け橋となる挑戦に注目。",
+          "link": "https://coinpost.jp/?p=607805",
+          "publishedOn": "2025-04-18T03:29:46.000Z",
+          "wordCount": 2329,
+          "title": "LINE NEXT CSO「キム・ウソク」氏が語るWeb3大衆化戦略とは",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/linenextthumbnail0409.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/linenextthumbnail0409.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=610004",
           "author": "S.Ninomiya",
           "description": "ビットコイン価格が下降トレンドラインと200日移動平均線の狭間で重要局面を迎える中、「ビッグショート」のスティーブ・アイズマン氏はマクロ市場に警戒感を示す。Google検索データが示す個人投資家の関心回復も相まって、市場は混沌とした展開を見せている。",
@@ -1616,6 +1631,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=466548",
+          "author": "TamuraSeiji",
+          "description": "Raydiumが独自トークンローンチパッド「LaunchLab」をローンチ Solana（ソラナ）上の分散型取引所（DEX）であるRaydium（レイディウム）が、独自のトークンローンチパッド「LaunchLab（ローン […]",
+          "link": "https://www.neweconomy.jp/posts/466548",
+          "publishedOn": "2025-04-18T03:40:07.000Z",
+          "wordCount": 622,
+          "title": "Solana上のDEX「Raydium」、トークンローンチパッド「LaunchLab」リリース",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/18124002/08199bc519d59d333c814dc125cf8e48.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=466540",
+          "author": "NewEconomy",
+          "description": "楽曲情報管理システム「KENDRIX」がSoneiumに対応 JASRAC（日本音楽著作権協会）が、同社運営の楽曲情報管理システム「KENDRIX」のアップデートを行い、同システムの採用ブロックチェーンをSoneium（ […]",
+          "link": "https://www.neweconomy.jp/posts/466540",
+          "publishedOn": "2025-04-18T03:34:31.000Z",
+          "wordCount": 612,
+          "title": "JASRAC、楽曲情報管理システム「KENDRIX」をSoneiumに対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/18123427/JASRAC-250416-PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=466531",
+          "author": "OtsugaShinya",
+          "description": "バリュークリエーションが3回目のビットコイン購入 マーケティングおよび不動産のDX事業を手掛ける東証グロース上場企業のバリュークリエーションが、ビットコインの追加購入実施を4月16日に発表した。 同社は、1億円にて8.1 […]",
+          "link": "https://www.neweconomy.jp/posts/466531",
+          "publishedOn": "2025-04-18T03:23:37.000Z",
+          "wordCount": 597,
+          "title": "バリュークリエーション、3度目のビットコイン購入、1億円で8.141BTC追加",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/04/18122333/4a1f8b21a97f185cfde47ecb14d41e50.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=466517",
           "author": "HitomotoToshikazu",
