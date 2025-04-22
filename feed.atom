@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-22T20:31:17.017Z</updated>
+    <updated>2025-04-22T21:27:36.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン需要縮小のペース緩和も回復には至らず──CryptoQuant週間分析]]></title>
+        <id>https://coinpost.jp/?p=610750</id>
+        <link href="https://coinpost.jp/?p=610750"/>
+        <updated>2025-04-22T21:10:28.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析企業CryptoQuantの週次レポートによると、仮想通貨ビットコインの需要縮小は緩和されているものの、需要モメンタムは64万BTC減と2024年10月以降で最悪の水準。米国ETFの資金流入停滞と合わせ、91,000〜92,000ドルの価格抵抗突破には複数条件の改善が必要と分析した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップルのステーブルコイン「RLUSD」、アーベV3イーサリアム市場で利用可能に]]></title>
+        <id>https://www.coindeskjapan.com/?p=288558</id>
+        <link href="https://www.coindeskjapan.com/288558/"/>
+        <updated>2025-04-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アーベ（Aave）は21日のXへの投稿で、同分散型レンディングプラットフォームのV3イーサリアム・コア市場において、ユーザーがリップル（Ripple）のステーブ ...
+リップルのステーブルコイン「RLUSD」、アーベV3イーサリアム市場で利用可能に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプメディア企業TMTG、「米国製」テーマの仮想通貨ETFを下半期に発売へ]]></title>
+        <id>https://coinpost.jp/?p=610739</id>
+        <link href="https://coinpost.jp/?p=610739"/>
+        <updated>2025-04-22T20:45:01.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領のTruth Socialを運営するTMTG社は、独自ETF提供のために取引所Crypto.comと最終合意に達した。『メイド・イン・アメリカ』に重点を置いた仮想通貨関連商品を2025年後半に国際展開予定だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、3月初旬以来初めて9万ドルを突破]]></title>
         <id>https://www.coindeskjapan.com/?p=288568</id>
@@ -1021,26 +1052,6 @@ Canary Capital、ステーキング機能付きトロンETFを申請 first appea
         <summary type="html"><![CDATA[香港Web3 Festivalで、TON Foundation取締役のスティーブ・ユン氏、香港立法会議員のダンカン・チウ氏、CoinMarketCap CEOのラッシュ・ルー氏にインタビュー。マクロ経済の影響、規制環境の変化、アジア市場の可能性について、業界リーダーたちの見解を独占取材した。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Japan、Launchpoolで「イニシア（INIT）」取扱い開始]]></title>
-        <id>https://www.neweconomy.jp/?p=466605</id>
-        <link href="https://www.neweconomy.jp/posts/466605"/>
-        <updated>2025-04-18T08:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Binance LaunchpoolでINIT取扱い開始 国内暗号資産（仮想通貨）取引所Binance Japan（バイナンスジャパン）提供のローンチプールサービス「Binance Launchpool」における、暗号資 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国、違法取引で押収の暗号資産処理めぐる議論活発化]]></title>
-        <id>https://www.neweconomy.jp/?p=466628</id>
-        <link href="https://www.neweconomy.jp/posts/466628"/>
-        <updated>2025-04-18T08:31:16.000Z</updated>
-        <summary type="html"><![CDATA[押収暗号資産の扱いで議論活発化 中国で違法取引から押収された暗号資産の量が急増していることを受け、地方政府はこれらの資産の処分方法を探る一方、裁判所や金融業界からは規制強化を求める声が強まっている。 本土での取引が禁止さ […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
         </author>
     </entry>
 </feed>
