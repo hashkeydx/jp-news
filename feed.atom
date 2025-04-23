@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-04-23T08:36:33.833Z</updated>
+    <updated>2025-04-23T09:31:15.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カルダノとイーサリアムが市場を牽引──ビットコインは株式からの乖離が進む]]></title>
+        <id>https://www.coindeskjapan.com/?p=288754</id>
+        <link href="https://www.coindeskjapan.com/288754/"/>
+        <updated>2025-04-23T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[カルダノ（ADA）とイーサリアム（ETH）は過去24時間で14%以上急騰し、主要暗号資産（仮想通貨）の上昇を牽引した。これはビットコイン（BTC）は4月22日夜 ...
+カルダノとイーサリアムが市場を牽引──ビットコインは株式からの乖離が進む first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、イーサリアム、ドージコインなどが急騰──5億ドルのショートポジションが清算]]></title>
         <id>https://www.coindeskjapan.com/?p=288746</id>
@@ -1215,16 +1226,6 @@ Canary Capital、ステーキング機能付きトロンETFを申請 first appea
         <link href="https://coinpost.jp/?p=610286"/>
         <updated>2025-04-18T21:55:18.000Z</updated>
         <summary type="html"><![CDATA[仮想通貨ビットコインの大口保有者の行動に焦点を当て、超大型クジラの市場吸収と大口投資家の動きの違いを解説。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ギャラクシーリサーチ、ソラナのトークンインフレ改革に新提案]]></title>
-        <id>https://coinpost.jp/?p=610283</id>
-        <link href="https://coinpost.jp/?p=610283"/>
-        <updated>2025-04-18T21:20:15.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナ（Solana）コミュニティの経済モデル改革に向け、Galaxy Researchが新たな投票方式「MESA」を提案した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
