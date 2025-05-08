@@ -580,16 +580,6 @@
           "wordCount": 1343,
           "title": "NOT A HOTEL、群馬に新ヴィラ開業──暗号資産NACレンディング対象に追加予定",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/80389-53-4f8adb1d875796d16478aaf.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=232356",
-          "author": "Alyssa Hertig",
-          "description": "DeFiとは「Decentralized Finance（分散型金融）」の略で、金融仲介機関をディスラプト（創造的破壊）することを目的とした、暗号資産（仮想通貨 ...\nDeFi（分散型金融）とは【GWに学ぶ基礎知識】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/232356/",
-          "publishedOn": "2025-05-04T00:00:00.000Z",
-          "wordCount": 1317,
-          "title": "DeFi（分散型金融）とは【GWに学ぶ基礎知識】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/shutterstock_2027959100.jpg"
         }
       ]
     },
@@ -604,6 +594,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=596261",
+          "author": "CoinPost編集部",
+          "description": "Oasysの松原代表とSBIVCの近藤代表が語る、Web2からWeb3への進化と今後の展望。NFTの限界を超えるトークンの可能性、日本の規制環境を活かした独自戦略、そしてSBIグループとの協業による新たな価値創造の取り組みとは。",
+          "link": "https://coinpost.jp/?p=596261",
+          "publishedOn": "2025-05-08T09:00:17.000Z",
+          "wordCount": 3244,
+          "title": "Oasys × SBI VC Tradeトップ対談　NFTからトークンへの戦略シフト、その背景は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/SBIVC_Oasys1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/SBIVC_Oasys1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=608053",
           "author": "Ritsuki.Kumazawa",
@@ -1241,6 +1246,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=470025",
+          "author": "HitomotoToshikazu",
+          "description": "CoinbaseがUSDC決済対応プロトコル公開 HTTPステータスコード「402ペイメントリクワイアード（402 Payment Required）」を再活用する新たな決済プロトコル「x402」が、オープンソースで公開 […]",
+          "link": "https://www.neweconomy.jp/posts/470025",
+          "publishedOn": "2025-05-08T12:02:59.000Z",
+          "wordCount": 769,
+          "title": "米コインベース、USDC決済対応プロトコル「x402」をオープンソースで公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/08210053/9fb820006e4900dd9994ebe4f2c01f3d.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=469965",
           "author": "NewEconomyPodcast",
