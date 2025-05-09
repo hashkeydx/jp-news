@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-09T21:26:57.981Z</updated>
+    <updated>2025-05-09T22:31:24.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックが米SECと協議、仮想通貨ETFのステーキングとオプション取引について]]></title>
+        <id>https://coinpost.jp/?p=614662</id>
+        <link href="https://coinpost.jp/?p=614662"/>
+        <updated>2025-05-09T22:05:27.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の資産運用会社ブラックロックがSECと仮想通貨規制について会談。ステーキング機能付きETFやオプション取引の基準を協議。アトキンス新議長の下、規制アプローチの転換が進行中。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バンス米副大統領、Bitcoin 2025カンファレンスで基調講演予定]]></title>
+        <id>https://coinpost.jp/?p=614657</id>
+        <link href="https://coinpost.jp/?p=614657"/>
+        <updated>2025-05-09T21:30:27.000Z</updated>
+        <summary type="html"><![CDATA[バンス米副大統領が5月の『Bitcoin 2025』カンファレンスで基調講演を行う予定。かつてビットコイン保有を公表していたバンス氏の登壇は、トランプ政権の仮想通貨支持姿勢を鮮明に示す動きとなる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラジル証券取引所B3、イーサリアム・ソラナ先物取引を6月導入]]></title>
         <id>https://coinpost.jp/?p=614653</id>
@@ -1660,27 +1680,6 @@ ETH/BTCのスクイーズ、ボラティリティ急上昇の予兆──イー�
         <summary type="html"><![CDATA[セイラー氏率いるストラテジー社は5月5日、1,895BTCのビットコインを追加購入したと発表した。購入額は約260億円に相当。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ルミス議員「ビットコイン法こそ米国の債務危機を解消可能する唯一の手段だ」]]></title>
-        <id>https://coinpost.jp/?p=613376</id>
-        <link href="https://coinpost.jp/?p=613376"/>
-        <updated>2025-05-05T09:45:48.000Z</updated>
-        <summary type="html"><![CDATA[シンシア・ルミス米上院議員が36兆ドルの国家債務の解決策としてビットコイン法を提唱した。トランプ大統領による支持に言及すると同時に、現在米国の債務危機が深刻化していることに警鐘を鳴らした。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン9万4000ドル超で推移──市場は米中貿易協議の進展を待つ]]></title>
-        <id>https://www.coindeskjapan.com/?p=290986</id>
-        <link href="https://www.coindeskjapan.com/290986/"/>
-        <updated>2025-05-05T09:39:57.000Z</updated>
-        <summary type="html"><![CDATA[トレーダーがアメリカとの貿易協議の進捗状況に関する中国からのニュースを待つ中、ビットコイン（BTC）は9万4000ドル（約1363万円、1ドル145円換算）を上 ...
-ビットコイン9万4000ドル超で推移──市場は米中貿易協議の進展を待つ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
