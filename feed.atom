@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-10T04:33:46.123Z</updated>
+    <updated>2025-05-10T05:30:04.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、暗号資産デリバティブ取引所デリビットを29億ドルで買収]]></title>
+        <id>https://www.neweconomy.jp/?p=470404</id>
+        <link href="https://www.neweconomy.jp/posts/470404"/>
+        <updated>2025-05-10T05:24:48.000Z</updated>
+        <summary type="html"><![CDATA[コインベースがデリビットを買収 米大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が、暗号資産デリバティブ取引所デリビット（Deribit）を買収する契約が締結したと5月8日に発表した。 コインベースは今回 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベースCEO明かす「企業資産の80%をビットコインに投資検討も断念」]]></title>
         <id>https://coinpost.jp/?p=614707</id>
@@ -1730,17 +1740,6 @@ ERC-7265トークン標準とは【GWに学ぶ基礎知識】 first appeared on 
         <summary type="html"><![CDATA[ハイブリッド型ブロックチェーンを採用する仮想通貨XDCの特徴や将来性を解説。SBIとの提携や買い方、リスクについても詳しく紹介します。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、9万ドルまで下落する可能性──トレーダーはFOMCに注目]]></title>
-        <id>https://www.coindeskjapan.com/?p=291026</id>
-        <link href="https://www.coindeskjapan.com/291026/"/>
-        <updated>2025-05-05T16:41:25.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は5日、9万5000ドル（約1378万円、1ドル145円換算）を下回った。マクロ経済への不確実性が高まり、市場の焦点が今週の連邦公開市場委 ...
-ビットコイン、9万ドルまで下落する可能性──トレーダーはFOMCに注目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
