@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-11T06:37:03.934Z</updated>
+    <updated>2025-05-11T07:26:28.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Polygon Labs、チェーン開発キットに「OP Stack」追加、zkとOptimism選択可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=470461</id>
+        <link href="https://www.neweconomy.jp/posts/470461"/>
+        <updated>2025-05-11T07:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Agglayer CDKがマルチスタック化 Polygon Labs（ポリゴンラボ）提供のブロックチェーン開発キット「Agglayer CDK（アグレイヤーCDK：旧Polygon CDK）」が「OP Stack（OPス […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sei、EVM専用チェーン化を視野に「SIP-3」提出、Cosmosトランザクション廃止か]]></title>
+        <id>https://www.neweconomy.jp/?p=470454</id>
+        <link href="https://www.neweconomy.jp/posts/470454"/>
+        <updated>2025-05-11T07:17:36.000Z</updated>
+        <summary type="html"><![CDATA[セイがEVM専用チェーンへ移行か レイヤー1ブロックチェーン「Sei（セイ）」のネットワークのアーキテクチャをEVM専用のチェーンに変換する提案がコミュニティに5月7日に提出された。「Sei」の主要開発元であるSei L […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitcoinOS、世界初のブリッジレス転送でビットコインとカルダノ間の直接トランザクション成功]]></title>
+        <id>https://www.neweconomy.jp/?p=470448</id>
+        <link href="https://www.neweconomy.jp/posts/470448"/>
+        <updated>2025-05-11T07:11:16.000Z</updated>
+        <summary type="html"><![CDATA[BitcoinOSがビットコインとカルダノ間のブリッジレス転送を実現 ビットコイン（Bitcoin：BTC）上でゼロ知識証明（ZKP）技術を活用し複数のブロックチェーンを統合するシステムBitcoinOS（ビットコインO […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインチェックが法人向けビットコインステーキングサービス提供を検討開始、バビロン採用で]]></title>
+        <id>https://www.neweconomy.jp/?p=470443</id>
+        <link href="https://www.neweconomy.jp/posts/470443"/>
+        <updated>2025-05-11T07:06:38.000Z</updated>
+        <summary type="html"><![CDATA[コインチェックが法人向けビットコインステーキングサービス提供を検討開始 暗号資産（仮想通貨）取引サービス「Coincheck」運営のコインチェックが、Babylon Labs（バビロンラボ）およびNext Finance […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニーとバンダイ、Web3企業ガウディと提携、総額100億円の出資も]]></title>
+        <id>https://www.neweconomy.jp/?p=470437</id>
+        <link href="https://www.neweconomy.jp/posts/470437"/>
+        <updated>2025-05-11T07:01:07.000Z</updated>
+        <summary type="html"><![CDATA[ソニーとバンダイがガウディと提携 ソニーグループ、バンダイナムコホールディングス（BNHD）、Gaudiy（ガウディ）が、エンターテインメントとテクノロジー領域における戦略的パートナーシップを開始したことを5月8日に発表 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、ビットコイン10万ドル復帰やリップルとSEC裁判の和解合意など]]></title>
         <id>https://coinpost.jp/?p=614282</id>
