@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-12T09:32:41.669Z</updated>
+    <updated>2025-05-12T10:36:30.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国の個人投資家、XRPとDOGEへの投資を拡大──貿易摩擦緩和でリスクオンが再燃]]></title>
+        <id>https://www.coindeskjapan.com/?p=292020</id>
+        <link href="https://www.coindeskjapan.com/292020/"/>
+        <updated>2025-05-12T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国の個人投資家がエックス・アール・ピー（XRP）とドージコイン（DOGE）に殺到しており、投機的な投資家の間でリスクオンの雰囲気が戻りつつある。 過去24時間 ...
+韓国の個人投資家、XRPとDOGEへの投資を拡大──貿易摩擦緩和でリスクオンが再燃 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doodles、ソラナ上で独自トークン「DOOD」ローンチ]]></title>
         <id>https://www.neweconomy.jp/?p=470602</id>
@@ -25,6 +36,17 @@
 メタプラネット、184億円で1241BTCを新たに購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shaurya Malwa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタプラネット、「ビットコインの国」エルサルバドルの保有量を上回る──1241BTC追加購入]]></title>
+        <id>https://www.coindeskjapan.com/?p=291989</id>
+        <link href="https://www.coindeskjapan.com/291989/"/>
+        <updated>2025-05-12T07:57:29.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）保有戦略を進めるメタプラネットは5月12日、1241BTCを追加購入したと発表した。これにより、同社のビットコイン保有総量は6796BTC ...
+メタプラネット、「ビットコインの国」エルサルバドルの保有量を上回る──1241BTC追加購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
         </author>
     </entry>
     <entry>
@@ -1428,36 +1450,6 @@ LINE NEXTとKaia DLT財団、テザーと連携──USDTをMINI Dappでの決�
         <link href="https://coinpost.jp/?p=613863"/>
         <updated>2025-05-07T23:25:23.000Z</updated>
         <summary type="html"><![CDATA[億万長者投資家ティム・ドレイパーが企業のビットコイン保有を強く推奨。2025年末に25万ドル到達を予測し、ビットコイン完全運用のファンド構想も発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米銀行への仮想通貨規制緩和、顧客指示での売買など可能に]]></title>
-        <id>https://coinpost.jp/?p=613858</id>
-        <link href="https://coinpost.jp/?p=613858"/>
-        <updated>2025-05-07T22:35:03.000Z</updated>
-        <summary type="html"><![CDATA[米通貨監督庁（OCC）が国法銀行と連邦貯蓄金融機関による仮想通貨カストディサービスの範囲を明確化。顧客指示による仮想通貨の売買や第三者へのサービス委託が正式に認められ、3月の「評判リスク」調査終了と合わせて規制緩和の動きが加速。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブータン、国家の観光決済にバイナンスペイ導入　BNB・BTCなど100種類以上の仮想通貨に対応]]></title>
-        <id>https://coinpost.jp/?p=613848</id>
-        <link href="https://coinpost.jp/?p=613848"/>
-        <updated>2025-05-07T22:15:36.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスは、ブータンがBinance Payを国家の観光産業の決済システムに導入したと発表。ユーザーはBNBやビットコインなど100種類以上の仮想通貨を旅行で利用できる。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米金融大手キャンター、ビットコイン関連のストラテジーに資産の約40%集中投資　4Qデータ]]></title>
-        <id>https://coinpost.jp/?p=613846</id>
-        <link href="https://coinpost.jp/?p=613846"/>
-        <updated>2025-05-07T22:00:14.000Z</updated>
-        <summary type="html"><![CDATA[米証券大手キャンター・フィッツジェラルドが保有株式の約40%をビットコイン保有企業ストラテジーに集中投資していることが判明。ラトニック米商務長官がCEOだった会社が示した大胆な投資戦略と、息子ブランドン氏率いる新会社による4.2万BTCの取得計画が市場に与える影響に注目が集まる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
