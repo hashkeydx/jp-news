@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-12T08:38:36.198Z</updated>
+    <updated>2025-05-12T09:32:41.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doodles、ソラナ上で独自トークン「DOOD」ローンチ]]></title>
+        <id>https://www.neweconomy.jp/?p=470602</id>
+        <link href="https://www.neweconomy.jp/posts/470602"/>
+        <updated>2025-05-12T08:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Doodlesがソラナ上でDOODローンチ NFTプロジェクト「ドゥードゥルズ（Doodles）」が、独自トークン「DOOD」をソラナ（Solana）上でローンチしたと5月9日Xで発表した。 これにより、ドゥードゥルズ保 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット、184億円で1241BTCを新たに購入]]></title>
         <id>https://www.coindeskjapan.com/?p=291984</id>
@@ -1448,49 +1458,6 @@ LINE NEXTとKaia DLT財団、テザーと連携──USDTをMINI Dappでの決�
         <link href="https://coinpost.jp/?p=613846"/>
         <updated>2025-05-07T22:00:14.000Z</updated>
         <summary type="html"><![CDATA[米証券大手キャンター・フィッツジェラルドが保有株式の約40%をビットコイン保有企業ストラテジーに集中投資していることが判明。ラトニック米商務長官がCEOだった会社が示した大胆な投資戦略と、息子ブランドン氏率いる新会社による4.2万BTCの取得計画が市場に与える影響に注目が集まる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビザ、ブロックチェーン決済企業BVNKへの投資でステーブルコインにさらに肩入れ]]></title>
-        <id>https://www.coindeskjapan.com/?p=291310</id>
-        <link href="https://www.coindeskjapan.com/291310/"/>
-        <updated>2025-05-07T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[世界的な決済サービスプロバイダーであるビザのベンチャーキャピタル部門は、ステーブルコインをベースとした決済インフラを開発するスタートアップBVNKに戦略的投資を ...
-ビザ、ブロックチェーン決済企業BVNKへの投資でステーブルコインにさらに肩入れ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRB、金利を据え置き──失業率上昇とインフレ率上昇のリスクが高まったと指摘]]></title>
-        <id>https://www.coindeskjapan.com/?p=291314</id>
-        <link href="https://www.coindeskjapan.com/291314/"/>
-        <updated>2025-05-07T21:02:56.000Z</updated>
-        <summary type="html"><![CDATA[米連邦準備制度理事会（FRB）は5月7日、大方の予想通り、FF金利のレンジを4.25％～4.50％に据え置き、金融緩和の一時停止を3会合連続で延長した。 「経済 ...
-FRB、金利を据え置き──失業率上昇とインフレ率上昇のリスクが高まったと指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースの業績予想、リテール取引の不振で下方修正：ウォール街のアナリストらが警告]]></title>
-        <id>https://www.coindeskjapan.com/?p=291306</id>
-        <link href="https://www.coindeskjapan.com/291306/"/>
-        <updated>2025-05-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所コインベースは、不安定な状況で第1四半期決算報告を迎えている。ウォール街のアナリスト4人は、リテール取引の低迷がコインベースの最も収益性の高い事業 ...
-コインベースの業績予想、リテール取引の不振で下方修正：ウォール街のアナリストらが警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「5月は売らずに保有せよ」、K33がビットコインの夏相場を強気予測]]></title>
-        <id>https://coinpost.jp/?p=613830</id>
-        <link href="https://coinpost.jp/?p=613830"/>
-        <updated>2025-05-07T20:55:17.000Z</updated>
-        <summary type="html"><![CDATA[K33のアナリストが伝統的格言「セル・イン・メイ」に反し「5月に保有して留まれ」戦略を推奨。トランプ大統領の戦略的ビットコイン準備金創設など仮想通貨政策が追い風となり、夏相場に向けビットコインの相対的強さが予想される。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
