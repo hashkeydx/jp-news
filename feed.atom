@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-16T05:32:52.663Z</updated>
+    <updated>2025-05-16T06:42:11.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SecuritizeがBUIDLのERC20「sBUIDL」提供開始、アバランチDeFi「Euler」に対応]]></title>
+        <id>https://www.neweconomy.jp/?p=471321</id>
+        <link href="https://www.neweconomy.jp/posts/471321"/>
+        <updated>2025-05-16T06:18:01.000Z</updated>
+        <summary type="html"><![CDATA[SecuritizeがERC20「sBUIDL」提供開始 実物資産（RWA）のトークン化プラットフォームを提供するセキュリタイズ（Securitize）が、トークン化ファンド「BUIDL」を元に発行するERC-20トーク […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米NY地裁がリップルとSECの共同和解申し立てを却下、和解ではなく判決修正に該当のため]]></title>
+        <id>https://www.neweconomy.jp/?p=471332</id>
+        <link href="https://www.neweconomy.jp/posts/471332"/>
+        <updated>2025-05-16T06:01:08.000Z</updated>
+        <summary type="html"><![CDATA[リップルとSECの共同和解申し立てが却下 米証券取引委員会（SEC）原告による米リップル（Ripple Labs）社を被告とした訴訟の和解案承認を求める共同申立書が却下された。米連邦地裁判事アナリサ・トーレス（Anali […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタマスクに独自トークン発行の可能性？共同創業者が発言]]></title>
+        <id>https://www.neweconomy.jp/?p=471326</id>
+        <link href="https://www.neweconomy.jp/posts/471326"/>
+        <updated>2025-05-16T05:41:08.000Z</updated>
+        <summary type="html"><![CDATA[トークン発行は「もしかしたら」 Web3ウォレット「メタマスク（MetaMask）」の共同創設者であるダン・フィンレイ（Dan Finlay）氏が、メタマスクの独自トークン発行を検討している可能性があることを示唆した。メ […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ステーブルコイン法案、来週末までの成立視野に　次の「起爆剤」との見解も]]></title>
         <id>https://coinpost.jp/?p=617566</id>
