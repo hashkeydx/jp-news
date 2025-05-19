@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=293423",
+          "author": "林 理南",
+          "description": "CryptoQuantの新しいレポートによると、イーサリアム（ETH）がビットコイン（BTC）と比較して非常に過小評価されていることを示すある市場シグナルがある ...\n過小評価されたイーサリアム、ETF購入者の注目を集める：CryptoQuant first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/293423/",
+          "publishedOn": "2025-05-19T21:00:00.000Z",
+          "wordCount": 1361,
+          "title": "過小評価されたイーサリアム、ETF購入者の注目を集める：CryptoQuant",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2472008131.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=293412",
           "author": "林 理南",
           "description": "ビットコイン（BTC）は18日終盤、毎週恒例のボラティリティの高まりを享受した。価格は10万7000ドル（約1552万円、1ドル145円換算）付近まで上昇した後 ...\nビットコインの流動性変動は史上最高値更新につながる可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -530,16 +540,6 @@
           "wordCount": 1316,
           "title": "ビットコインのドミナンスが低下──6月に「アルトコインの季節」が到来するとアナリストが予測",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2507159419.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=292754",
-          "author": "Jamie Crawley",
-          "description": "アーク・インベスト（ARK Invest）は、ためらうことなくeToroをポートフォリオに追加した。 キャシー・ウッド（Cathie Wood）氏が率いる投資運 ...\n米アーク、940万ドル相当のeToro株を上場初日に購入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/292754/",
-          "publishedOn": "2025-05-15T09:25:00.000Z",
-          "wordCount": 1280,
-          "title": "米アーク、940万ドル相当のeToro株を上場初日に購入",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/etoro.jpeg"
         }
       ]
     },
@@ -554,6 +554,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=618867",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所Bybitが株式取引機能をGold & FXに追加。ストラテジーやコインベース、マグニフィセント7を含む78社株式をUSDTで取引可能。CFDモデル採用で実株保有は不要。",
+          "link": "https://coinpost.jp/?p=618867",
+          "publishedOn": "2025-05-19T21:15:19.000Z",
+          "wordCount": 3203,
+          "title": "Bybit、USDT使用の株式取引開始　ストラテジーなど78社が対象",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bybit2020-04-30-16.01.40.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bybit2020-04-30-16.01.40.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=618865",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会が21SharesとBitwiseのソラナETF提案について決定期限を延期し、パブリックコメントを求めると発表。Canary、VanEckも含む複数企業が仮想通貨ETF承認を競う中、SECの審査が本格化へ。",
+          "link": "https://coinpost.jp/?p=618865",
+          "publishedOn": "2025-05-19T21:05:18.000Z",
+          "wordCount": 3207,
+          "title": "SEC、ソラナ現物ETFへの決定を延期　21SharesとBitwiseが対象",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/etf-new-position.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/etf-new-position.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=618862",
+          "author": "菊谷ルイス",
+          "description": "CNBCによると、JPモルガンのダイモンCEOが顧客によるビットコイン購入を許可すると発表。長年の仮想通貨批判にも関わらず顧客選択の自由を重視。",
+          "link": "https://coinpost.jp/?p=618862",
+          "publishedOn": "2025-05-19T20:45:53.000Z",
+          "wordCount": 3204,
+          "title": "米メガバンクJPモルガン、顧客のビットコイン購入を許可",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/jp-morgan-bitcoin-play.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/jp-morgan-bitcoin-play.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=618859",
+          "author": "菊谷ルイス",
+          "description": "米ストラテジー社は19日夜、2025年5月12日から18日の間に総額1,100億円を投じて、7,390 BTCを購入したことを報告した。",
+          "link": "https://coinpost.jp/?p=618859",
+          "publishedOn": "2025-05-19T20:35:34.000Z",
+          "wordCount": 3207,
+          "title": "1100億円相当のビットコインを買い増し、セイラーのストラテジー社",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/microstra.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/microstra.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=618519",
           "author": "AKIRA.H",
@@ -1078,21 +1138,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/Ethereumnetwork1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/Ethereumnetwork1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=617056",
-          "author": "CoinPost編集部",
-          "description": "リミックスポイントが25年3月期の決算を発表。暗号資産（仮想通貨）評価損が影響し、5.4億円の経常赤字となった。一方、来期はビットコインETF資金流入やトランプ政権政策を背景に、業績の大幅回復を見込んだ。",
-          "link": "https://coinpost.jp/?p=617056",
-          "publishedOn": "2025-05-15T08:44:04.000Z",
-          "wordCount": 3177,
-          "title": "リミックスポイントが決算発表、経常赤字5.4億円に　来期の暗号資産は強気シナリオ想定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/RemixPoint_0515.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/RemixPoint_0515.png"
         }
       ]
     },
@@ -1340,16 +1385,6 @@
           "wordCount": 796,
           "title": "ソラナ共同創設者が「メタブロックチェーン」構想を提案、複数チェーン間のデータ統合へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/15202741/1a137c17d187c72532aef2ae877213c9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=471155",
-          "author": "OtsugaShinya",
-          "description": "Hinode TechnologiesがSide Protocolのバリデータに Hinode Technologies（ヒノデテクノロジーズ）が、「Side Protocol（サイドプロトコル）」のバリデータとして参加 […]",
-          "link": "https://www.neweconomy.jp/posts/471155",
-          "publishedOn": "2025-05-15T09:03:56.000Z",
-          "wordCount": 655,
-          "title": "TISとgC LabsのHinode Technologies、「Side Protocol」のノード運営に参加",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/15180344/TIS-250515royyimzy.jpg"
         }
       ]
     }
