@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-20T21:28:54.812Z</updated>
+    <updated>2025-05-20T22:32:08.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国を「有価証券2.0」の時代へ　ロビンフッド、SECにRWAトークン化の規制案提出]]></title>
+        <id>https://coinpost.jp/?p=619099</id>
+        <link href="https://coinpost.jp/?p=619099"/>
+        <updated>2025-05-20T22:25:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨などの投資アプリを提供するロビンフッドは、RWAトークン化の規制に関する提案書を米SECに提出。将来的に、トークン化したRWAの取引所を運営する計画があるようだ。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRP・ドージコインETFの判断延期継続　米SEC、承認は早くても夏ごろか]]></title>
+        <id>https://coinpost.jp/?p=619109</id>
+        <link href="https://coinpost.jp/?p=619109"/>
+        <updated>2025-05-20T22:10:34.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会がXRPとドージコインのETF申請について判断を延期し、パブリックコメントを募集。BitwiseのイーサリアムETFステーキング機能審査も先送りに。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ退任前にビットコイン価格5倍上昇を予測　大手銀アナリスト]]></title>
+        <id>https://coinpost.jp/?p=619098</id>
+        <link href="https://coinpost.jp/?p=619098"/>
+        <updated>2025-05-20T21:55:36.000Z</updated>
+        <summary type="html"><![CDATA[大手銀アナリストは政府機関がマイクロストラテジー株を通じてビットコイン保有を増加させていると指摘。この傾向がトランプ大統領退任前のビットコイン50万ドル予測を裏付けると主張。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アダムスNY市長、暗号資産諮問委員会を立ち上げ]]></title>
+        <id>https://www.coindeskjapan.com/?p=293753</id>
+        <link href="https://www.coindeskjapan.com/293753/"/>
+        <updated>2025-05-20T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ニューヨーク市のエリック・アダムス市長は5月20日、フィンテックの雇用をニューヨークにもたらすため、デジタル資産諮問委員会を立ち上げると発表した。 アダムス氏は ...
+アダムスNY市長、暗号資産諮問委員会を立ち上げ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Cheyenne Ligon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン保有量でサトシに迫る世界2位　ブラックロックETF]]></title>
+        <id>https://coinpost.jp/?p=619093</id>
+        <link href="https://coinpost.jp/?p=619093"/>
+        <updated>2025-05-20T21:05:31.000Z</updated>
+        <summary type="html"><![CDATA[ブラックロックがビットコイン保有量でサトシ・ナカモトに次ぐ世界第2位に浮上。米国ビットコインETFの急速な資産集積でバイナンスを上回り、テキサス州でもビットコイン準備金法案が進展中。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは史上最高値付近で足踏みするも、「実現価格」分析は楽観的な見通し]]></title>
         <id>https://www.coindeskjapan.com/?p=293745</id>
@@ -15,6 +66,16 @@
 ビットコインは史上最高値付近で足踏みするも、「実現価格」分析は楽観的な見通し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMEのXRP先物、27億円の初日取引高でソラナ超え]]></title>
+        <id>https://coinpost.jp/?p=619088</id>
+        <link href="https://coinpost.jp/?p=619088"/>
+        <updated>2025-05-20T20:40:30.000Z</updated>
+        <summary type="html"><![CDATA[米CMEグループが仮想通貨XRPの先物取引を開始し、初日に1900万ドルの取引高を記録。ビットコイン、イーサリアム、ソラナに続く4番目の仮想通貨先物として注目される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1121,27 +1182,6 @@ DeFi Development株、BONKとの提携とSOLの追加購入で30％急伸 first 
 米司法省、ジェネシス債権者から2億6300万ドル相当の暗号資産を盗んだ容疑などで12人を起訴 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Parikshit Mishra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルダノ創設者、3700万ウォレットに「Midnight」トークン配布へ]]></title>
-        <id>https://www.neweconomy.jp/?p=471404</id>
-        <link href="https://www.neweconomy.jp/posts/471404"/>
-        <updated>2025-05-16T10:19:13.000Z</updated>
-        <summary type="html"><![CDATA[カルダノ創設者が大規模エアドロップを計画 カルダノ（Cardano）の創設者チャールズ・ホスキンソン（Charles Hoskinson）氏が、8つの異なるブロックチェーン上の約3700万ウォレットに向けて「Midnig […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、データ漏洩で顧客に最大580億円を支払う可能性]]></title>
-        <id>https://www.coindeskjapan.com/?p=292874</id>
-        <link href="https://www.coindeskjapan.com/292874/"/>
-        <updated>2025-05-16T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のコインベースは、犯罪者がユーザーの個人情報にアクセスした事件に関連する修復費用と自発的な顧客への弁済に関連して、1億8000万ドル～ ...
-コインベース、データ漏洩で顧客に最大580億円を支払う可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Oliver Knight</name>
         </author>
     </entry>
 </feed>
