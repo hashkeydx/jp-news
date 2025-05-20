@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=293683",
+          "author": "James Van Straten",
+          "description": "アメリカのビットコイン現物ETF（上場投資信託）は、5月19日に6億6740万ドル（約967億7300万円）の純流入を記録し、5月2日以来の単日最大を記録した。 ...\nビットコインETFへの流入が急増、ベーシス取引の利回りが9%に迫る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/293683/",
+          "publishedOn": "2025-05-20T10:05:00.000Z",
+          "wordCount": 1353,
+          "title": "ビットコインETFへの流入が急増、ベーシス取引の利回りが9%に迫る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_2411169983.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=293615",
           "author": "Shaurya Malwa",
           "description": "エックス・アール・ピー（XRP）先物は5月19日にシカゴ・マーカンタイル取引所（CME）グループのデリバティブ取引プラットフォームで取引を開始し、初日のセッショ ...\nXRP先物、CME上場初日に150万ドルの取引高を記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -580,16 +590,6 @@
           "wordCount": 1252,
           "title": "「デジタル・ニッポン2025」自民党発表──「この四半世紀のデジタル政策の成果を真摯に反省」",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/IMG_3506.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=292878",
-          "author": "Cheyenne Ligon",
-          "description": "米証券取引委員会（SEC）は、暗号資産取引所コインベースが過去の有価証券報告書やマーケティング資料でユーザー数を偽っていたかどうかを調査している。 最初にこの件 ...\nコインベース、ユーザー数虚偽申告の疑いで米証券取引委員会が調査中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/292878/",
-          "publishedOn": "2025-05-15T22:30:00.000Z",
-          "wordCount": 1455,
-          "title": "コインベース、ユーザー数虚偽申告の疑いで米証券取引委員会が調査中",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2226806119-1.jpg"
         }
       ]
     },
@@ -1308,51 +1308,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/coinbase-2q-ventures.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=617419",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨ビットコインをロングしストラテジーの株をショートしていると、著名空売り投資家ジム・チェイノス氏が明かした。自身のアービトラージ戦略について語っている。",
-          "link": "https://coinpost.jp/?p=617419",
-          "publishedOn": "2025-05-15T22:35:15.000Z",
-          "wordCount": 3162,
-          "title": "「ビットコインを買いストラテジーの株を売る」著名空売り投資家ジム・チェイノス氏が投資戦略明かす",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=617431",
-          "author": "菊谷ルイス",
-          "description": "米国NASDAQ上場のアデンタックスグループが8000ビットコインとトランプコインを含む8億ドル相当の仮想通貨取得に向けた協議を進行中。株式発行による取得を検討し、バランスシート強化と仮想通貨業界のネットワーク構築を目指す。",
-          "link": "https://coinpost.jp/?p=617431",
-          "publishedOn": "2025-05-15T22:10:39.000Z",
-          "wordCount": 3148,
-          "title": "米上場の中国系アパレル企業、1200億円相当のビットコイン・トランプコイン取得へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=617372",
-          "author": "菊谷ルイス",
-          "description": "アーサー・ヘイズ氏が最新ブログで、米国債市場の信頼低下と海外資本の本国送還によりビットコインが2028年までに100万ドルに達すると予測。トランプ政権下での資本規制強化が仮想通貨市場を押し上げる要因になると分析した。",
-          "link": "https://coinpost.jp/?p=617372",
-          "publishedOn": "2025-05-15T21:40:20.000Z",
-          "wordCount": 3153,
-          "title": "アーサー・ヘイズ、米国債信頼低下で2028年までのビットコイン100万ドル到達を予測",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
         }
       ]
     },
