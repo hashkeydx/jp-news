@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-20T04:35:23.313Z</updated>
+    <updated>2025-05-20T05:32:42.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインへの51%攻撃はイーサリアムよりも安価」PoS設計者が発言＝報道]]></title>
+        <id>https://www.neweconomy.jp/?p=471840</id>
+        <link href="https://www.neweconomy.jp/posts/471840"/>
+        <updated>2025-05-20T05:24:49.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム共同設計者がPoSはBTCより高い防御力を提供すると主張 イーサリアム（Ethereum）のプルーフオブステーク（PoS）移行の主要設計者であるジャスティン・ドレイク（Justin Drake）氏が、ビットコ […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロック「BUIDL」で利回り増やす取引戦略　BounceBitが実証試験]]></title>
+        <id>https://coinpost.jp/?p=618920</id>
+        <link href="https://coinpost.jp/?p=618920"/>
+        <updated>2025-05-20T05:00:06.000Z</updated>
+        <summary type="html"><![CDATA[BounceBitがブラックロックのトークン化米国債「BUIDL」を担保に利用して、年利20%を実現した取引戦略を公開した。ステーブルコインを担保とするよりも利点があるとしている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「USDC」発行の米サークル、売却に向けリップルおよびコインベースと協議か＝報道]]></title>
+        <id>https://www.neweconomy.jp/?p=471828</id>
+        <link href="https://www.neweconomy.jp/posts/471828"/>
+        <updated>2025-05-20T04:49:24.000Z</updated>
+        <summary type="html"><![CDATA[米サークルがリップルおよびコインベースと売却の協議か ステーブルコインで時価総額2位の「USDC」発行元の米サークル（Circle Internet Financia）が売却に向けた協議を、米大手暗号資産（仮想通貨）取引 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人ノード運用を容易に、ヴィタリックの新たなイーサリアム拡張案とは]]></title>
         <id>https://coinpost.jp/?p=618942</id>
