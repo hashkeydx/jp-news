@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=293863",
+          "author": "Shaurya Malwa",
+          "description": "シカゴ・マーカンタイル取引所（CME）で取引されるXRP先物契約は、初日に名目取引高が1900万ドル（約27億5500万円、1ドル=145円換算）を超え、20日 ...\nCMEのXRP先物、上場以来3000万ドル近くの取引高を記録──現物ETFへの期待を高める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/293863/",
+          "publishedOn": "2025-05-21T09:15:00.000Z",
+          "wordCount": 1328,
+          "title": "CMEのXRP先物、上場以来3000万ドル近くの取引高を記録──現物ETFへの期待を高める",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/shutterstock_1196231665.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=293861",
+          "author": "栃山直樹",
+          "description": "日本発のパブリックブロックチェーンAstar Network（アスターネットワーク）は5月21日、ブロックチェーンゲームおよびデジタルプロパティ権の分野で活動す ...\nアスターにアニモカブランズが出資、IP特化ファンド構想も浮上 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/293861/",
+          "publishedOn": "2025-05-21T09:03:57.000Z",
+          "wordCount": 1271,
+          "title": "アスターにアニモカブランズが出資、IP特化ファンド構想も浮上",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/ダウンロード-23.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=293848",
           "author": "Omkar Godbole",
           "description": "ビットコイン（BTC）は24時間365日取引可能ですが、そのローソク足は外国為替市場と同様に毎日締切がある。TradingViewの最新データによると、5月20 ...\nビットコイン、日足終値で過去最高値を記録──次の注目すべき水準は11万ドル first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -574,6 +594,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=619247",
+          "author": "AKIRA.H",
+          "description": "GMOコインが6種類の暗号資産（仮想通貨）の取扱い廃止を発表。対象は、ネムやベーシックアテンショントークンなど（XEM、BAT、QTUM、ENJ、XYM、MONA）流動性不足を理由に8月2日までに段階的終了する。",
+          "link": "https://coinpost.jp/?p=619247",
+          "publishedOn": "2025-05-21T08:58:11.000Z",
+          "wordCount": 3241,
+          "title": "GMOコイン、ネムやモナコインなど6種類の仮想通貨を取扱廃止へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/gmocoin20200615_3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/gmocoin20200615_3.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=619224",
           "author": "AKIRA.H",
@@ -1353,36 +1388,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=617840",
-          "author": "菊谷ルイス",
-          "description": "イーロン・マスク氏がツイッターのプロフィール画像とユーザー名をミームトークン「Kekius Maximus」に変更し、関連トークンが2倍以上急騰。昨年の900%上昇・急落事例に続くマスク氏のSNS活動による仮想通貨市場への影響力を示す展開に。",
-          "link": "https://coinpost.jp/?p=617840",
-          "publishedOn": "2025-05-16T21:25:25.000Z",
-          "wordCount": 3226,
-          "title": "イーロン・マスク、再び『Kekius Maximus』をプロフィールに設定しミームコインが2倍以上急騰",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Elon-musk_0712.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Elon-musk_0712.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=617837",
-          "author": "菊谷ルイス",
-          "description": "サウジ中央銀行がセイラーのストラテジー社の株を25656株取得し仮想通貨ビットコインへの間接投資を開始したことが確認された。",
-          "link": "https://coinpost.jp/?p=617837",
-          "publishedOn": "2025-05-16T21:05:22.000Z",
-          "wordCount": 3158,
-          "title": "サウジ中央銀行、15億円相当のストラテジー株保有でビットコインに間接投資",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/saudi-arabia-bitcoin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/saudi-arabia-bitcoin.jpg"
         }
       ]
     },
