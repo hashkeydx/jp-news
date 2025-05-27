@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-27T09:31:46.592Z</updated>
+    <updated>2025-05-27T10:36:29.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[量子コンピューターは、当初予想よりもはるかに簡単にビットコインのような暗号を解読：グーグルの研究者が発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=294781</id>
+        <link href="https://www.coindeskjapan.com/294781/"/>
+        <updated>2025-05-27T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Quantum AIの研究者であるクレイグ・ギドニー（Craig Gidney）氏による新たな研究論文によると、広く使用されているRSA暗号を解読 ...
+量子コンピューターは、当初予想よりもはるかに簡単にビットコインのような暗号を解読：グーグルの研究者が発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainlinkのクロスチェーンプロトコル「CCIP」がSolanaに対応、RWA経済やDeFi展開を加速へ]]></title>
         <id>https://www.neweconomy.jp/?p=473083</id>
@@ -1307,37 +1318,6 @@ JPYC Prepaid、電子決済手段へ移行──新規発行終了 first appeare
         <link href="https://coinpost.jp/?p=619788"/>
         <updated>2025-05-22T22:45:18.000Z</updated>
         <summary type="html"><![CDATA[トランプ政権のサックス特命官が米上院のステーブルコイン規制法案「GENIUS法案」通過に自信を示し、米国債への数兆ドル需要創出を予想。超党派支持で26日までの可決目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA、アバランチ上に「FIFAブロックチェーン」を立ち上げ]]></title>
-        <id>https://coinpost.jp/?p=619776</id>
-        <link href="https://coinpost.jp/?p=619776"/>
-        <updated>2025-05-22T22:30:03.000Z</updated>
-        <summary type="html"><![CDATA[FIFA Collectは、新たにローンチしたFIFAブロックチェーンにプラットフォームを移行。仮想通貨アバランチの技術を活用し、イーサリアム互換のブロックチェーンを開発した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セントリフュージ、トークン化されたRWAをソラナに拡大──約580億円の米国債ファンドからスタート]]></title>
-        <id>https://www.coindeskjapan.com/?p=294090</id>
-        <link href="https://www.coindeskjapan.com/294090/"/>
-        <updated>2025-05-22T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[トークン化された資産プラットフォームのセントリフュージは、アネモイが管理する4億ドル（約580億円、1ドル＝144円換算）のトークン化された米国債ファンドを皮切 ...
-セントリフュージ、トークン化されたRWAをソラナに拡大──約580億円の米国債ファンドからスタート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、『5月は保有継続』か　11万ドル突破でアナリストが戦略維持]]></title>
-        <id>https://coinpost.jp/?p=619775</id>
-        <link href="https://coinpost.jp/?p=619775"/>
-        <updated>2025-05-22T22:15:18.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインが23日に111,814ドルの高値を記録。スタンダードチャータード銀行のアナリストがトランプ政権下での50万ドル目標を維持し、従来の「セル・イン・メイ」に反する保有戦略を提唱。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
