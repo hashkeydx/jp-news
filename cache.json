@@ -460,10 +460,25 @@
       "articles": []
     },
     {
-      "title": "S.Ninomiya  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=620569",
+          "author": "幸田直子",
+          "description": "米暗号資産取引所大手コインベースが、2024年12月発生のデータ漏洩事件の開示遅延により集団訴訟に直面している。これはインドで発生した従業員による不正行為に由来し、米司法省も調査に乗り出している。",
+          "link": "https://coinpost.jp/?p=620569",
+          "publishedOn": "2025-05-27T04:15:50.000Z",
+          "wordCount": 3196,
+          "title": "コインベースに集団訴訟、顧客データ漏洩に伴う株価下落で「重大な損失」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=620526",
           "author": "S.Ninomiya",
@@ -478,6 +493,21 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/bitcoin-lightning-network.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=620542",
+          "author": "A.Yamada",
+          "description": "イーサリアム共同創設者ヴィタリック・ブテリン氏が、危機の際にETHがデジタル決済システムの代替となる可能性を提示した。北欧のキャッシュレス社会見直しを受けている。",
+          "link": "https://coinpost.jp/?p=620542",
+          "publishedOn": "2025-05-27T02:30:14.000Z",
+          "wordCount": 3195,
+          "title": "イーサリアムがキャッシュレス社会のリスクに対応可能＝ヴィタリック",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/vitalik-eth_0524.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/vitalik-eth_0524.jpg"
         },
         {
           "id": "https://coinpost.jp/?p=620523",
