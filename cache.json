@@ -700,10 +700,25 @@
       "articles": []
     },
     {
-      "title": "2月14日の価格上昇仮想通貨(SRN・PDC)",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=621572",
+          "author": "Ritsuki.Kumazawa",
+          "description": "サイバーセキュリティ研究者が1億8400万件のパスワード流出を発見。暗号資産ウォレット、銀行、SNSなどの認証情報が漏洩。2FA設定など今すぐ実施すべき対策を紹介。",
+          "link": "https://coinpost.jp/?p=621572",
+          "publishedOn": "2025-05-30T07:47:15.000Z",
+          "wordCount": 3183,
+          "title": "1億8400万件のログイン情報が流出、マルウェアで収集か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/security0930-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/security0930-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=621583",
           "author": "菊谷ルイス",
@@ -1671,6 +1686,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=473736",
+          "author": "NewEconomyPodcast",
+          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/473736",
+          "publishedOn": "2025-05-30T10:35:54.000Z",
+          "wordCount": 788,
+          "title": "【5/30話題】米SECがバイナンスへの訴訟を取り下げ、タイSECがバイビットやOKXなど5社のアクセス遮断へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/05/30165402/bdcea26a9b5144aaf57f5e8d68acac43.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=473758",
           "author": "HitomotoToshikazu",
