@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-05-31T13:35:38.660Z</updated>
+    <updated>2025-05-31T14:29:53.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週末の暗号資産売りでドージコインは8%超、ペペコインは12%下落]]></title>
+        <id>https://www.coindeskjapan.com/?p=295706</id>
+        <link href="https://www.coindeskjapan.com/295706/"/>
+        <updated>2025-05-31T13:49:25.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）は週末に下落してスタートした。ドージコイン（DOGE）は8%超の下落で、主要暗号資産の中で最も下落が激しかった。ペペコイン（PEPE）は12 ...
+週末の暗号資産売りでドージコインは8%超、ペペコインは12%下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロンがDOGE退任、火星移住計画に本格着手]]></title>
         <id>https://coinpost.jp/?p=621815</id>
@@ -1732,27 +1743,6 @@ DOGEとXRPが下落──米インフレデータ発表を控え、暗号資産�
         <summary type="html"><![CDATA[イーサリアム共同創設者ヴィタリック・ブテリン氏が、危機の際にETHがデジタル決済システムの代替となる可能性を提示した。北欧のキャッシュレス社会見直しを受けている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス・スクエア、トレーダー向けライブストリーミングを開始──他のソーシャルメディアに対抗]]></title>
-        <id>https://www.coindeskjapan.com/?p=294701</id>
-        <link href="https://www.coindeskjapan.com/294701/"/>
-        <updated>2025-05-27T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所バイナンス（Binance）が2022年10月に公開したソーシャルネットワークプラットフォーム「バイナンス・スクエア（Binance  ...
-バイナンス・スクエア、トレーダー向けライブストリーミングを開始──他のソーシャルメディアに対抗 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン暗号化への影響は？　グーグル研究で暗号解読に必要な量子ビット数が激減]]></title>
-        <id>https://coinpost.jp/?p=620523</id>
-        <link href="https://coinpost.jp/?p=620523"/>
-        <updated>2025-05-27T01:50:07.000Z</updated>
-        <summary type="html"><![CDATA[グーグルの量子コンピューター研究で、RSA暗号の解読に必要な量子ビット数が従来の20分の1の100万個未満で可能と判明。仮想通貨ビットコインの楕円曲線暗号も同様の影響を受ける可能性浮上。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
