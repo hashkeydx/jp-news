@@ -660,10 +660,25 @@
       "articles": []
     },
     {
-      "title": "Ontology(ONT)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=621815",
+          "author": "A.Yamada",
+          "description": "イーロン・マスク氏が政府効率化省を退任し、壮大な人類火星移住計画を発表した。スペースXは2026年無人ミッション開始、その数年後に人類居住地建設を目指す。",
+          "link": "https://coinpost.jp/?p=621815",
+          "publishedOn": "2025-05-31T04:40:52.000Z",
+          "wordCount": 3168,
+          "title": "イーロンがDOGE退任、火星移住計画に本格着手",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/elon-leaving-doge.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/elon-leaving-doge.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=621793",
           "author": "菊谷ルイス",
