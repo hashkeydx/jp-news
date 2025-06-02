@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-01T23:28:08.132Z</updated>
+    <updated>2025-06-02T02:22:13.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTXの50億ドルの弁済、市場にプラスの影響を与える可能性：コインベース]]></title>
+        <id>https://www.coindeskjapan.com/?p=295826</id>
+        <link href="https://www.coindeskjapan.com/295826/"/>
+        <updated>2025-06-02T01:42:05.000Z</updated>
+        <summary type="html"><![CDATA[FTXリカバリートラスト（FTX Recovery Trust）は、5月30日から債権者に50億ドル（約7200億ドル）以上の現金とステーブルコインの分配を開始 ...
+FTXの50億ドルの弁済、市場にプラスの影響を与える可能性：コインベース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRPの価格動向と注目点を読み解く]]></title>
         <id>https://www.coindeskjapan.com/?p=295801</id>
@@ -66,6 +77,16 @@ XRPの価格動向と注目点を読み解く first appeared on CoinDesk JAPAN�
         <link href="https://coinpost.jp/?p=621477"/>
         <updated>2025-06-01T05:00:40.000Z</updated>
         <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メタマスクの使い方、仮想通貨の送金や交換：スワップ、便利機能を図解で簡単に]]></title>
+        <id>https://coinpost.jp/?p=419065</id>
+        <link href="https://coinpost.jp/?p=419065"/>
+        <updated>2025-06-01T03:00:27.000Z</updated>
+        <summary type="html"><![CDATA[MetaMaskのインストール方法から送金手順、暗号資産（仮想通貨）取引所への送金や取引所からの出庫方法、セキュリティ対策までを初心者向けに詳しく解説。自己管理型ウォレットの基本知識を身に付けましょう。]]></summary>
         <author>
             <name>CoinPost編集部</name>
         </author>
@@ -1205,36 +1226,6 @@ eToro、DOGE、XRP、SHIBを含む12の暗号資産を米プラットフォー�
 テレグラム、イーロン・マスク氏のxAIと3億ドルの契約締結でGrokを統合──トンコインは16%上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AvalancheとFilecoinが接続、クロスチェーンデータブリッジのプロトタイプ公開]]></title>
-        <id>https://www.neweconomy.jp/?p=473400</id>
-        <link href="https://www.neweconomy.jp/posts/473400"/>
-        <updated>2025-05-28T13:17:08.000Z</updated>
-        <summary type="html"><![CDATA[AvalancheとFilecoinが接続 アバランチ（Avalanche）Cチェーン（Contract Chain）と分散型ストレージネットワークのファイルコインを接続する、ネイティブなクロスチェーンデータブリッジのプ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4710BTC購入　米ゲームストップ、ビットコイン財務戦略を実行]]></title>
-        <id>https://coinpost.jp/?p=620984</id>
-        <link href="https://coinpost.jp/?p=620984"/>
-        <updated>2025-05-28T12:35:54.000Z</updated>
-        <summary type="html"><![CDATA[米ゲーム小売大手ゲームストップが4710BTCの仮想通貨ビットコインの購入を完了。4月の15億ドル転換社債調達資金を活用し企業財務戦略をビットコインへ転換。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5/28話題】ソニー銀行がweb3関連子会社、サークルがNYSEにIPO申請、TMTGがBTC投資で25億ドル調達など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=473334</id>
-        <link href="https://www.neweconomy.jp/posts/473334"/>
-        <updated>2025-05-28T12:14:12.000Z</updated>
-        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
