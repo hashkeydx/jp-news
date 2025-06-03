@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-03T10:36:57.805Z</updated>
+    <updated>2025-06-03T11:27:07.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コンセンシスがWeb3Auth買収、MetaMaskのシードフレーズ管理不要に]]></title>
+        <id>https://www.neweconomy.jp/?p=474486</id>
+        <link href="https://www.neweconomy.jp/posts/474486"/>
+        <updated>2025-06-03T11:15:15.000Z</updated>
+        <summary type="html"><![CDATA[ConsensysがWeb3Auth買収 Web3ウォレットのメタマスク（MetaMask）を提供するコンセンシス（Consensys）が、Web3アプリケーション向けのキー管理および組み込み型ウォレットインフラを手がけ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナの次世代版NFT圧縮技術「Bubblegum v2」、メタプレックス財団が公開]]></title>
         <id>https://www.neweconomy.jp/?p=474376</id>
@@ -1384,36 +1394,6 @@ OpenSea、プラットフォーム「OS2」のアップグレードを発表─�
         <summary type="html"><![CDATA[Crazzyblockkが29日発表した分析で、バイナンスへのビットコイン流入が4-5月に急増。中堅投資家層が主導し長期保有者の利確も進む一方、大口は買い増しの姿勢を維持。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パリ・サンジェルマン、ビットコイン準備金採用]]></title>
-        <id>https://coinpost.jp/?p=621434</id>
-        <link href="https://coinpost.jp/?p=621434"/>
-        <updated>2025-05-29T23:25:31.000Z</updated>
-        <summary type="html"><![CDATA[パリ・サンジェルマンFCが昨年からビットコイン購入・保有を継続していると発表。世界最大級クラブとしてスポーツ界最大の仮想通貨採用プレーヤーと位置づけ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの買い方｜初心者向け取引所比較とリスク・税金まで解説]]></title>
-        <id>https://coinpost.jp/?p=516165</id>
-        <link href="https://coinpost.jp/?p=516165"/>
-        <updated>2025-05-29T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ財務を強化へ　ナスダック上場のJanover、リキッド・ステーキング戦略を採用]]></title>
-        <id>https://coinpost.jp/?p=621410</id>
-        <link href="https://coinpost.jp/?p=621410"/>
-        <updated>2025-05-29T22:45:10.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナの財務戦略を実践する上場企業DeFi Development Corp.（旧Janover）は、リキッド・ステーキング・トークン技術を採用すると発表。戦略の狙いを説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
