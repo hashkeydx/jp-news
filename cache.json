@@ -500,16 +500,6 @@
           "wordCount": 1338,
           "title": "トランプ・メディア、資金調達完了で約3300億円のビットコイン購入資金確保",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2609397369.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=295639",
-          "author": "Will Canny",
-          "description": "米国上場のビットコイン（BTC）現物ETFは5月29日、10取引日ぶりに純流出を記録したと、JPモルガンの調査報告書が指摘した。 JPモルガンは、30日発表の報 ...\nビットコイン現物ETF、資金流入連続記録が10日で途絶える：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/295639/",
-          "publishedOn": "2025-05-30T23:00:00.000Z",
-          "wordCount": 1332,
-          "title": "ビットコイン現物ETF、資金流入連続記録が10日で途絶える：JPモルガン",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2411169825.jpg"
         }
       ]
     },
@@ -524,6 +514,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=622707",
+          "author": "CoinPost編集部",
+          "description": "暗号資産（仮想通貨）交換業者ガイアが事前登録不要の暗号資産ATM「BTM」サービスを新たに開始する。訪日外国人はパスポートのみでビットコイン・イーサリアムを日本円に両替可能。手数料10%、1日10万円上限となる。",
+          "link": "https://coinpost.jp/?p=622707",
+          "publishedOn": "2025-06-04T10:17:03.000Z",
+          "wordCount": 3204,
+          "title": "パスポート1枚でビットコインを日本円に　ガイアが新たな仮想通貨ATMサービス開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=621505",
           "author": "Ritsuki.Kumazawa",
@@ -1228,36 +1233,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=621734",
-          "author": "K.Kobayashi",
-          "description": "Sui上のDEXのCetusは、攻撃者に盗難された仮想通貨について、凍結した分を移動する特別なトランザクションを実行するための提案がガバナンス投票で承認されたと発表。今後の計画を説明している。",
-          "link": "https://coinpost.jp/?p=621734",
-          "publishedOn": "2025-05-30T23:15:35.000Z",
-          "wordCount": 3170,
-          "title": "Sui上のDEX「Cetus」、凍結した攻撃者の仮想通貨を移動へ　ガバナンス投票で90%超が賛成",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/SUi_0618.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/SUi_0618.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=621738",
-          "author": "菊谷ルイス",
-          "description": "トランプ大統領の新たな対中貿易発言を受け仮想通貨市場が急落。24時間で8億2700万ドル超のポジションがロスカットされる事態に。",
-          "link": "https://coinpost.jp/?p=621738",
-          "publishedOn": "2025-05-30T22:50:02.000Z",
-          "wordCount": 3168,
-          "title": "ビットコイン・イーサリアム・XRP続落、トランプの対中貿易発言で市場混乱",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/germna-bitcoin-return-6.07.34.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/germna-bitcoin-return-6.07.34.jpg"
         }
       ]
     },
