@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=296719",
+          "author": "Shaurya Malwa",
+          "description": "台湾の暗号資産（仮想通貨）取引所BitoProはCoinDeskに対し、5月に古いホットウォレットに対するサイバー攻撃を受け、1100万ドル（約15億9500万 ...\n台湾の取引所Bitopro、1100万ドル相当のハッキング被害を認める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/296719/",
+          "publishedOn": "2025-06-06T09:20:00.000Z",
+          "wordCount": 1321,
+          "title": "台湾の取引所Bitopro、1100万ドル相当のハッキング被害を認める",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/11/shutterstock_1480094903.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=296701",
           "author": "Shaurya Malwa",
           "description": "暗号資産（仮想通貨）トレーダーが、ドナルド・トランプ（Donald Trump）大統領とIT界の巨人イーロン・マスク（Elon Musk）氏の対立激化によって引 ...\nDOGE、ADAが7%急落──暗号資産トレーダーは「景気後退」センチメントを消化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -590,16 +600,6 @@
           "wordCount": 1307,
           "title": "34.5兆円相当の不動産証書をアバランチでトークン化：米ニュージャージー州バーゲン郡",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/03/VDCPBMLAAFG2NCGGENRQGBS7AY.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=294399",
-          "author": "T. Minamoto",
-          "description": "ビットコインで「この世で最初に行われた買い物」の歴史的瞬間は、ビットコイン界隈のSNSで称賛され、評論家たちはといえば、ビットコインでピザを買ったこの有名な話を ...\n今なら1440億円相当のビットコインをピザに使った男の言い分 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/294399/",
-          "publishedOn": "2025-06-01T21:00:00.000Z",
-          "wordCount": 1391,
-          "title": "今なら1440億円相当のビットコインをピザに使った男の言い分",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_1340591954.jpg"
         }
       ]
     },
@@ -610,10 +610,40 @@
       "articles": []
     },
     {
-      "title": "香港  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=623334",
+          "author": "Ritsuki.Kumazawa",
+          "description": "メタプラネットが日本の資本市場史上最大級となる7,674億円の新株予約権発行を決議した。「555ミリオンプラン」により、ビットコイン保有目標を従来の2万BTCから21万BTCへ26倍超に上方修正。アジアを代表する仮想通貨ビットコイントレジャリー企業としての地位確立を図る。",
+          "link": "https://coinpost.jp/?p=623334",
+          "publishedOn": "2025-06-06T09:21:33.000Z",
+          "wordCount": 3204,
+          "title": "メタプラネット、ビットコイン保有計画で26倍超の上方修正　21万BTCの保有目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetB.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetB.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=623326",
+          "author": "AKIRA.H",
+          "description": "Binance Japanが6月11日よりDAI/JPY・TRX/JPYの新規取引ペアを開始。記念キャンペーンでメーカー手数料1ヶ月無料。ステーブルコインDAIと高速処理のTRXが円建てで取引可能に。",
+          "link": "https://coinpost.jp/?p=623326",
+          "publishedOn": "2025-06-06T08:39:42.000Z",
+          "wordCount": 3189,
+          "title": "Binance Japan、トロン・ダイの円建て取引ペア追加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/Binance_0626-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/Binance_0626-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=623243",
           "author": "幸田直子",
