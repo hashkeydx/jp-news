@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-07T22:31:43.784Z</updated>
+    <updated>2025-06-07T23:29:27.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ドルは今夏、さらに下落する／メタ株主がビットコイン財務戦略検討案を圧倒的多数で否決【日曜日に読みたい厳選10本】]]></title>
+        <id>https://www.coindeskjapan.com/?p=296604</id>
+        <link href="https://www.coindeskjapan.com/296604/"/>
+        <updated>2025-06-07T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バンク・オブ・アメリカ（Bank of America）は、今年すでに急落している米ドルが、この夏に厳しい状況に陥る可能性があると警告している。米ドルの弱さは、 ...
+米ドルは今夏、さらに下落する／メタ株主がビットコイン財務戦略検討案を圧倒的多数で否決【日曜日に読みたい厳選10本】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>橋本 祐樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドイツ銀行、独自ステーブルコイン発行やトークン化預金を検討＝報道]]></title>
         <id>https://coinpost.jp/?p=623483</id>
@@ -1356,26 +1367,6 @@ XRP、価格上昇に期待──建玉の急増はショートスクイーズ�
         <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンセンシスがWeb3Auth買収、MetaMaskのシードフレーズ管理不要に]]></title>
-        <id>https://www.neweconomy.jp/?p=474486</id>
-        <link href="https://www.neweconomy.jp/posts/474486"/>
-        <updated>2025-06-03T11:15:15.000Z</updated>
-        <summary type="html"><![CDATA[ConsensysがWeb3Auth買収 Web3ウォレットのメタマスク（MetaMask）を提供するコンセンシス（Consensys）が、Web3アプリケーション向けのキー管理および組み込み型ウォレットインフラを手がけ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナの次世代版NFT圧縮技術「Bubblegum v2」、メタプレックス財団が公開]]></title>
-        <id>https://www.neweconomy.jp/?p=474376</id>
-        <link href="https://www.neweconomy.jp/posts/474376"/>
-        <updated>2025-06-03T10:34:52.000Z</updated>
-        <summary type="html"><![CDATA[メタプレックス財団が圧縮NFTの次世代版「Bubblegum v2」をリリース メタプレックス財団（Metaplex Foundation）が、ソラナ（Solana）とSVM（Solana Virtual Machine […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
