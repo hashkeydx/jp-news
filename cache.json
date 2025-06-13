@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=297715",
+          "author": "栃山直樹",
+          "description": "ビットコイン（BTC）保有戦略を強める東証スタンダード上場企業のリミックスポイントは6月13日、前日12日に8億8725万円相当のビットコインを追加購入したと発 ...\nリミックスポイント、4日連続ビットコイン購入で1000BTC保有目標を達成 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/297715/",
+          "publishedOn": "2025-06-13T08:18:51.000Z",
+          "wordCount": 1276,
+          "title": "リミックスポイント、4日連続ビットコイン購入で1000BTC保有目標を達成",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/02/Remixpoint｜リミックスポイント-710x458-1-7.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=297711",
+          "author": "Francisco Rodrigues",
+          "description": "マーキュリー・フィンテック・ホールディング（Mercurity Fintech Holding：MFH）は、ビットコイン（BTC）の財務資産を構築するために8億 ...\nマーキュリー・フィンテック、8億ドルのビットコイン財務計画を発表──ラッセル2000採用を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/297711/",
+          "publishedOn": "2025-06-13T08:15:00.000Z",
+          "wordCount": 1353,
+          "title": "マーキュリー・フィンテック、8億ドルのビットコイン財務計画を発表──ラッセル2000採用を目指す",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_709061209-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=297667",
           "author": "廣瀬 優香",
           "description": "イスラエル軍がイランの首都テヘランの攻撃目標を爆撃したことを受け、ビットコイン（BTC）はこれまでの損失を大幅に拡大し、現在は過去24時間で4%以上下落して10 ...\nビットコイン、イスラエルのイラン攻撃を受けて10万4000ドルを割り込む first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -570,10 +590,40 @@
       "articles": []
     },
     {
-      "title": "海外仮想通貨ニュース  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=625085",
+          "author": "幸田直子",
+          "description": "米大手金融機関BNY Mellonが公開した最新のファミリーオフィスの投資動向調査レポートで、超富裕層による投資戦略の大きな転換が明らかになった。上場株式への投資から、プライベート市場や仮想通貨を含むオルタナティブ投資へと積極的なシフトが進んでいる。",
+          "link": "https://coinpost.jp/?p=625085",
+          "publishedOn": "2025-06-13T08:00:43.000Z",
+          "wordCount": 3203,
+          "title": "超富裕層の投資戦略が大転換、株式から仮想通貨などへシフト＝BNYレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/bny-mellon-fireblock.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/bny-mellon-fireblock.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=625114",
+          "author": "Ritsuki.Kumazawa",
+          "description": "リミックスポイントが56.87BTCを8.9億円で追加購入し、保有量が目標の1000BTCを突破。暗号資産全体の時価評価額は172億円、評価益21億円に。",
+          "link": "https://coinpost.jp/?p=625114",
+          "publishedOn": "2025-06-13T06:46:15.000Z",
+          "wordCount": 3201,
+          "title": "リミックスポイントのビットコイン保有量が目標の1000BTC突破　8.9億円買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/remixpointthunbnail0605.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/remixpointthunbnail0605.png"
+        },
         {
           "id": "https://coinpost.jp/?p=625095",
           "author": "菊谷ルイス",
@@ -1691,6 +1741,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=476606",
+          "author": "HitomotoToshikazu",
+          "description": "Ant Internationalがステーブルコイン発行者ライセンス申請へ アリペイ（Alipay）を運営するアントインターナショナル（Ant International）が、香港、シンガポール、ルクセンブルクでステーブ […]",
+          "link": "https://www.neweconomy.jp/posts/476606",
+          "publishedOn": "2025-06-13T08:35:16.000Z",
+          "wordCount": 602,
+          "title": "アントインターナショナルが香港、シンガポール、ルクセンブルクでステーブルコイン発行者ライセンス申請へ＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/13163255/021082cd2b1286bd8914d6f905af612b.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=476597",
           "author": "OtsugaShinya",
