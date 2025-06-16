@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=298027",
+          "author": "増田隆幸",
+          "description": "暗号資産（仮想通貨）取引所Coincheckを運営するコインチェックと、マイナンバーカードを活用したweb3ウォレットを提供するマイナウォレットが協業を開始した ...\nコインチェックとマイナウォレットが協業──マイナウォレットは伊藤穰一氏のVC、コインチェック親会社から2億円調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/298027/",
+          "publishedOn": "2025-06-16T02:11:51.000Z",
+          "wordCount": 1278,
+          "title": "コインチェックとマイナウォレットが協業──マイナウォレットは伊藤穰一氏のVC、コインチェック親会社から2億円調達",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/coincheck.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=298003",
           "author": "林 理南",
           "description": "ブラジルは、長年続いてきた暗号資産（仮想通貨）の利益に対する免税措置を廃止し、新たな暫定措置（MP 1303）により、個人のすべての暗号資産の利益に17.5％の ...\nブラジル、個人の暗号資産利益に一律17.5％の課税を導入──小規模投資家への免税措置を終了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -440,16 +450,6 @@
           "wordCount": 1344,
           "title": "5月米CPIは予想を下回る0.1%上昇──ビットコインは上昇",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2508062141.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=297452",
-          "author": "Jamie Crawley",
-          "description": "ウクライナの議員たちは、暗号資産（仮想通貨）準備金の創設に向けた最初のステップを踏み出した。 ウクライナ議会（ヴェルホーヴナ・ラーダ）の議員8人からなるグループ ...\nウクライナの議員グループ、暗号資産準備金創設のための法案を提出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/297452/",
-          "publishedOn": "2025-06-11T11:35:00.000Z",
-          "wordCount": 1335,
-          "title": "ウクライナの議員グループ、暗号資産準備金創設のための法案を提出",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2094300322.jpg"
         }
       ]
     },
@@ -464,6 +464,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=625456",
+          "author": "A.Yamada",
+          "description": "経済学者らが仮想通貨ビットコインの将来価格を分析した。供給制約と需要増加により強気シナリオで2027年初頭に100万ドル到達の可能性があると予想している。",
+          "link": "https://coinpost.jp/?p=625456",
+          "publishedOn": "2025-06-16T01:56:03.000Z",
+          "wordCount": 3213,
+          "title": "経済学者らが需給モデルからビットコイン強気予想「2027年初頭までに100万ドルの可能性」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/bitcoin-new-surge-may-3rd.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/bitcoin-new-surge-may-3rd.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=625041",
           "author": "CoinPost編集部",
@@ -1252,6 +1267,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=476813",
+          "author": "HitomotoToshikazu",
+          "description": "バイビットがオンチェーン流動性ネットワーク公開へ 海外大手暗号資産（仮想通貨）取引所バイビット（Bybit）が、ソラナ（Solana）基盤のオンチェーン流動性ネットワーク「バイリアル（Byreal）」をローンチ予定である […]",
+          "link": "https://www.neweconomy.jp/posts/476813",
+          "publishedOn": "2025-06-16T02:15:45.000Z",
+          "wordCount": 784,
+          "title": "Bybit、CEXとDeFiを組み合わせたソラナのオンチェーン流動性ネットワーク「Byreal」公開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/16111407/e7ebcc912193100f1f931aa2a8659c47.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=476634",
           "author": "NewEconomyPodcast",
           "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1540,16 +1565,6 @@
           "wordCount": 754,
           "title": "リップル社、「XRP Ledger」EVM対応サイドチェーンをQ2にローンチへ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/12101516/9b0638e1adf8f4769c290e84a23c5996.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=475990",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/475990",
-          "publishedOn": "2025-06-11T11:55:19.000Z",
-          "wordCount": 780,
-          "title": "【6/11話題】gumiとリミポがビットコイン購入、SBIが暗号資産運用ファンド、XRPLで米国債担保のCPなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/06/11174304/d9c03a91d62662359ada8c282c65bd55.jpg"
         }
       ]
     }
