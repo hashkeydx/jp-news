@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-18T11:27:02.781Z</updated>
+    <updated>2025-06-18T13:00:00.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【6/18話題】米上院がステーブルコイン規制「GENIUS法案」可決、AIフュージョンが保有暗号資産の運用事業など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=477539</id>
+        <link href="https://www.neweconomy.jp/posts/477539"/>
+        <updated>2025-06-18T12:17:10.000Z</updated>
+        <summary type="html"><![CDATA[web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブロックチェーン・グループが182BTCを購入──総保有額は約1億4900万ユーロに]]></title>
         <id>https://www.coindeskjapan.com/?p=298606</id>
@@ -1177,37 +1187,6 @@ TONベースのプロトコルのAffluent、テレグラムをスーパーアプ
         <summary type="html"><![CDATA[ブラジル下院委員会が仮想通貨ビットコイン戦略準備金法案を可決。外貨準備の最大5%をビットコインで保有する「RESBiT」創設を目指し、中央銀行デジタル通貨の担保活用も検討。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ドン・キホーテ」運営のPPIH、オンチェーンでデジタル証券発行へ　若年層支援の仕組み]]></title>
-        <id>https://coinpost.jp/?p=625313</id>
-        <link href="https://coinpost.jp/?p=625313"/>
-        <updated>2025-06-14T00:50:58.000Z</updated>
-        <summary type="html"><![CDATA[ドン・キホーテ運営のPPIHは、セキュリタイズジャパンと提携し若年層支援の仕組みを持つデジタル社債を発行する。majicaポイントなどで利息支払いし、若者に特典を付与する。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ現物ETF承認へ前進か、複数企業がSEC要請でS-1書類を修正提出]]></title>
-        <id>https://coinpost.jp/?p=625306</id>
-        <link href="https://coinpost.jp/?p=625306"/>
-        <updated>2025-06-14T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米SEC要請を受けフランクリン・テンプルトンやフィデリティなど複数企業がソラナ現物ETFのS-1書類を修正提出。ステーキング機能組み込みも検討され承認に向け前進。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャープリンク、約670億円相当のイーサリアム購入──株価は66%安のまま]]></title>
-        <id>https://www.coindeskjapan.com/?p=297905</id>
-        <link href="https://www.coindeskjapan.com/297905/"/>
-        <updated>2025-06-13T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）に焦点を当てた暗号資産（仮想通貨）財務戦略への転換を進める上場企業シャープリンク・ゲーミングは6月13日、約4億6300万ドル（約670億 ...
-シャープリンク、約670億円相当のイーサリアム購入──株価は66%安のまま first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
