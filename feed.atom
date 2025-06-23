@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-23T13:45:27.332Z</updated>
+    <updated>2025-06-23T14:35:51.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーがビットコイン追加購入、総保有数59万2,345BTCに]]></title>
+        <id>https://www.neweconomy.jp/?p=478663</id>
+        <link href="https://www.neweconomy.jp/posts/478663"/>
+        <updated>2025-06-23T14:02:08.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーがBTC追加購入 ビットコイン（BTC）の購入を積極的に進めている米ナスダック上場企業ストラテジー（Strategy）が、BTCの追加購入を6月23日に発表した。 ストラテジーは、6月16日から6月22日まで […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/23話題】メタプラネットの保有ビットコインが11,111BTCに、NEIROがバイナンスジャパンに国内初上場へなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=478459</id>
@@ -1256,26 +1266,6 @@ SOLストラテジーズ、ナスダック上場を申請 first appeared on Coin
         <summary type="html"><![CDATA[マクロ経済と金融市場前週末24日の米NY株式市場は、ダウ平均株価が前日比-44.1(0.10%)の42,171ドル、ナスダック株価指数は+25.18(0.13%)ポイントの19,546で取引を終えた。中東情勢の緊迫化が懸念される中、東京株式...]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKXが欧州でサービス提供開始、ドイツとポーランドで取引所を正式開設]]></title>
-        <id>https://www.neweconomy.jp/?p=477754</id>
-        <link href="https://www.neweconomy.jp/posts/477754"/>
-        <updated>2025-06-19T02:34:39.000Z</updated>
-        <summary type="html"><![CDATA[OKXがドイツとポーランドで取引所を正式開設 グローバルに展開する海外暗号資産（仮想通貨）取引所OKXが、ドイツおよびポーランドにて正式に中央集権型の暗号資産取引所（CEX）を開設したと6月17日に発表した。 OKXは今 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ関連組織SPI、米SECに法的枠組み案を提出]]></title>
-        <id>https://coinpost.jp/?p=626241</id>
-        <link href="https://coinpost.jp/?p=626241"/>
-        <updated>2025-06-19T02:30:58.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ関連組織SPIは、米SECの仮想通貨タスクフォースに包括的な法的枠組み案を提出。ブロックチェーン上で規制に準拠した資本市場を構築しようとしている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
