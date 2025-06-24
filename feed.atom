@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-24T03:56:12.729Z</updated>
+    <updated>2025-06-24T04:42:53.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シフ米上院議員が『COIN法案』提出、大統領と家族の仮想通貨事業を禁止する内容]]></title>
+        <id>https://coinpost.jp/?p=627536</id>
+        <link href="https://coinpost.jp/?p=627536"/>
+        <updated>2025-06-24T04:30:58.000Z</updated>
+        <summary type="html"><![CDATA[民主党のアダム・シフ上院議員は大統領と副大統領、その家族による仮想通貨関連事業を禁止するCOIN法案を提出。違反には罰金と最大5年の禁錮刑を規定しトランプ大統領の仮想通貨関連事業を牽制する狙いだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テキサス州、犯罪関連の仮想通貨押収を認める法案が成立]]></title>
+        <id>https://coinpost.jp/?p=627492</id>
+        <link href="https://coinpost.jp/?p=627492"/>
+        <updated>2025-06-24T04:00:16.000Z</updated>
+        <summary type="html"><![CDATA[米国テキサス州で犯罪関連の仮想通貨やNFTの押収を認める法案SB1498が成立した。先日、ビットコイン準備金設立法案も承認されたところだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインなど仮想通貨急反発、トランプ大統領の停戦発表報道を受けショートスクイーズ発生]]></title>
         <id>https://coinpost.jp/?p=627468</id>
@@ -1263,17 +1283,6 @@ SOLストラテジーズ、ナスダック上場を申請 first appeared on Coin
         <summary type="html"><![CDATA[サイバーセキュリティ研究チームが160億件のログイン認証情報流出を発見。Apple、Google、Telegramなど主要サービスが対象。情報窃取マルウェアによる被害拡大が懸念される。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスク氏のX、投資と取引を「間もなく」開始へ：FT]]></title>
-        <id>https://www.coindeskjapan.com/?p=298860</id>
-        <link href="https://www.coindeskjapan.com/298860/"/>
-        <updated>2025-06-19T16:32:25.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク（Elon Musk）氏のX（旧Twitter）は、Xを「あらゆるものを扱うアプリ」に変革する取り組みを強化している。フィナンシャル・タイムズ（ ...
-イーロン・マスク氏のX、投資と取引を「間もなく」開始へ：FT first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
