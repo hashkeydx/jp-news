@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-06-30T13:00:05.823Z</updated>
+    <updated>2025-06-30T13:43:50.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[coinbook買収の暗号資産取引所BACKSEAT、累計14億円を調達]]></title>
+        <id>https://www.coindeskjapan.com/?p=300898</id>
+        <link href="https://www.coindeskjapan.com/300898/"/>
+        <updated>2025-06-30T13:41:23.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所を運営するBACKSEATは6月30日、シードラウンドの資金調達を実施し、創業1年での累計調達額が約14億円に達したことを発表した。本 ...
+coinbook買収の暗号資産取引所BACKSEAT、累計14億円を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国銀行、政府がステーブルコイン法案を提出したことを受けてCBDCプロジェクトを中止：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=300886</id>
@@ -1533,36 +1544,6 @@ XRP、記録的な上昇に期待──BTCの10万ドル突破前の強気パタ
         <summary type="html"><![CDATA[投資プラットフォームRepublicが、イーロン・マスク氏のSpaceX社の株価に連動する仮想通貨トークン「rSpaceX」の販売を開始。最低50ドルから投資可能で、従来アクセス困難だった非公開企業への投資機会を一般投資家に提供。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos LabsとJump Crypto、分散型ストレージ「Shelby」を発表]]></title>
-        <id>https://coinpost.jp/?p=628228</id>
-        <link href="https://coinpost.jp/?p=628228"/>
-        <updated>2025-06-26T01:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Aptos LabsとJump Cryptoが分散型ホットストレージ「Shelby」を発表。クラウド並みの性能でWeb3アプリのデータ基盤を実現。2025年Q4にDevnet公開予定。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「EU内外のステーブルコインを交換可能に」欧州委員会が提案へ＝報道]]></title>
-        <id>https://coinpost.jp/?p=628225</id>
-        <link href="https://coinpost.jp/?p=628225"/>
-        <updated>2025-06-26T01:10:19.000Z</updated>
-        <summary type="html"><![CDATA[EUの欧州委員会は、EUの内外で発行されるステーブルコイン同士を交換可能にすることを提案する予定。背景に米トランプ政権下で規制整備が進んでいることがあるとの指摘が上がった。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NewLo、あたらしいWeb3キャンペーンプラットフォーム「NewLo Quest」のβ版をSony Block Solutions Labs運営のSoneium 上でリリース]]></title>
-        <id>https://coinpost.jp/?p=627893</id>
-        <link href="https://coinpost.jp/?p=627893"/>
-        <updated>2025-06-26T01:01:45.000Z</updated>
-        <summary type="html"><![CDATA[NewLoがSoneium上でWeb3キャンペーンプラットフォーム「NewLo Quest」β版を公開。暗号資産・NFT報酬に対応したグローバルポイ活サービスとして展開される予定。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
 </feed>
