@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-01T10:37:10.066Z</updated>
+    <updated>2025-07-01T11:27:23.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東証グロース上場の東京通信グループ、ビットコイン購入を決定]]></title>
+        <id>https://www.neweconomy.jp/?p=480391</id>
+        <link href="https://www.neweconomy.jp/posts/480391"/>
+        <updated>2025-07-01T11:07:56.000Z</updated>
+        <summary type="html"><![CDATA[東京通信グループがビットコイン購入を決定 スマホアプリの開発・運用を主要事業とする東証グロース上場企業の東京通信グループが、ビットコインの購入を決定したと6月30日に発表した。 発表によると購入期間は7月から11月の予定 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アーク、コインベース株の記録的高値を受けて約9500万ドル分を売却]]></title>
         <id>https://www.coindeskjapan.com/?p=301130</id>
@@ -1459,26 +1469,6 @@ XRPのボラティリティ指標が昨年11月以来の低水準に first appea
         <summary type="html"><![CDATA[アセットマネジメントOneは、世界の仮想通貨関連企業の株を運用対象にした投資信託を販売することがわかった。仮想通貨関連企業に特化した投資信託の提供は大手では初とみられる。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル、Wormholeと提携しXRPLのマルチチェーン相互運用性を拡張]]></title>
-        <id>https://coinpost.jp/?p=628542</id>
-        <link href="https://coinpost.jp/?p=628542"/>
-        <updated>2025-06-26T23:25:59.000Z</updated>
-        <summary type="html"><![CDATA[リップルXが大手クロスチェーンプロトコルWormholeと提携を発表。XRPレジャーとXRPL EVMサイドチェーンでマルチチェーン機能を強化し、DeFiや実物資産トークン化分野での活用拡大を目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bakkt、10億ドル調達でビットコイン投資戦略など採用　事業転換目指す]]></title>
-        <id>https://coinpost.jp/?p=628539</id>
-        <link href="https://coinpost.jp/?p=628539"/>
-        <updated>2025-06-26T22:55:25.000Z</updated>
-        <summary type="html"><![CDATA[NYSE傘下の仮想通貨取引プラットフォームBakktが10億ドルのSEC登録を提出し、ビットコインや他の仮想通貨への投資方針を正式承認。資本調達で事業再生・拡大を目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
