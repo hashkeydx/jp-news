@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-01T04:06:32.647Z</updated>
+    <updated>2025-07-01T04:49:47.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン需要減少で市場脆弱性指摘、イーサリアム大口投資家は巨額含み損で売却継続＝アナリスト]]></title>
+        <id>https://coinpost.jp/?p=629503</id>
+        <link href="https://coinpost.jp/?p=629503"/>
+        <updated>2025-07-01T04:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Cryptoquant分析によると、ビットコインのオンチェーン需要指標がマイナス転換し短期調整リスクが高まる。一方でETH大口投資家は3週間で9万5313ETHを償還、4260万ドルの含み損を抱える状況。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ家支援のAmerican Bitcoin、約320億円調達でビットコイン購入とマイニング機器導入へ]]></title>
+        <id>https://coinpost.jp/?p=629496</id>
+        <link href="https://coinpost.jp/?p=629496"/>
+        <updated>2025-07-01T04:05:05.000Z</updated>
+        <summary type="html"><![CDATA[エリックとトランプ・ジュニア氏が支援するビットコインマイニング企業American Bitcoinが2億2000万ドルを調達。ビットコイン購入とマイニング機器導入に充当予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融庁、ステーブルコイン健全発展のための報告書を公表　不正リスクや今後の課題を分析]]></title>
         <id>https://coinpost.jp/?p=629461</id>
@@ -1384,17 +1404,6 @@ RWAトークン化市場、3年間でほぼ5倍に成長 first appeared on CoinD
         <summary type="html"><![CDATA[ニューヨーク連邦地裁のトーレス判事が、リップル社とSECが共同申請した差し止め命令解除と1.25億ドル制裁金の60%削減要求を再び却下。両者は5000万ドルをSECに支払い、残額をリップルに返還する和解案を提示していた。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックストーンとテザーの元幹部、複数トークンを扱う暗号資産トレジャリー構築に10億ドルを調達へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=300195</id>
-        <link href="https://www.coindeskjapan.com/300195/"/>
-        <updated>2025-06-26T16:15:46.000Z</updated>
-        <summary type="html"><![CDATA[資産運用会社ブラックストーン（Blackstone）の元ディールメーカーであるチン・チュー（Chinh Chu）氏と、テザー（Tether）の共同創業者であるリ ...
-ブラックストーンとテザーの元幹部、複数トークンを扱う暗号資産トレジャリー構築に10億ドルを調達へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
