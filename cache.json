@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=301489",
+          "author": "廣瀬 優香",
+          "description": "AI大手のオープンAI（OpenAI）はソーシャルメディアの投稿で、欧州のロビンフッド（Robinhood）ユーザーに提供されているオープンAIのトークン化株式 ...\nオープンAI、ロビンフッド提供のトークン化株式は無許可だと警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/301489/",
+          "publishedOn": "2025-07-03T21:00:00.000Z",
+          "wordCount": 1546,
+          "title": "オープンAI、ロビンフッド提供のトークン化株式は無許可だと警告",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/5a122415610cceab78062fc6c02a35b1a575c94e-2639x1485-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=301510",
           "author": "Oliver Knight",
           "description": "ビットコイン（BTC）が11万ドルを上回り、11万2000ドルを超える新たな史上最高値を狙っているにもかかわらず、暗号資産（仮想通貨）トレーダーは弱気な行動を見 ...\nビットコインが史上最高値に迫る中、トレーダーはショートポジションを積み増し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -654,6 +664,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=630322",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のナノ・ラボが74,315BNBを約5000万ドルで購入。総額5億ドルの転換社債プログラム第1弾として、BNB流通量の5-10%保有を目指す。",
+          "link": "https://coinpost.jp/?p=630322",
+          "publishedOn": "2025-07-03T21:10:54.000Z",
+          "wordCount": 3186,
+          "title": "米上場ナノ・ラボ、72億円で仮想通貨BNB追加購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bnb-nano-labs.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bnb-nano-labs.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=630315",
+          "author": "菊谷ルイス",
+          "description": "フランクリン・テンプルトンのアナリストが流行する企業の仮想通貨トレジャリー戦略について分析。プレミアム維持の困難さと市場下落時の負の連鎖リスクに警告。",
+          "link": "https://coinpost.jp/?p=630315",
+          "publishedOn": "2025-07-03T20:50:31.000Z",
+          "wordCount": 3194,
+          "title": "上場企業の仮想通貨トレジャリー戦略に警鐘、F・テンプルトンが「負の連鎖」リスク指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/riskfinance349584-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/riskfinance349584-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=630311",
+          "author": "菊谷ルイス",
+          "description": "ルミス上院議員が仮想通貨税制改正法案を再提出。300ドル未満の小額取引免税、マイニング・ステーキング報酬の二重課税解消など包括的な改正を提案。",
+          "link": "https://coinpost.jp/?p=630311",
+          "publishedOn": "2025-07-03T20:35:56.000Z",
+          "wordCount": 3199,
+          "title": "ルミス議員、仮想通貨税制改正法案を再提出　300ドル未満取引の免税など盛り込む",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/cryptotax040221.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/cryptotax040221.png"
+        },
         {
           "id": "https://coinpost.jp/?p=630121",
           "author": "幸田直子",
