@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-04T10:35:53.438Z</updated>
+    <updated>2025-07-04T11:27:14.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マクロ経済の追い風が強まり、ビットコインは7月に史上最高値を更新する勢い]]></title>
+        <id>https://www.coindeskjapan.com/?p=302023</id>
+        <link href="https://www.coindeskjapan.com/302023/"/>
+        <updated>2025-07-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は、投資家をリスク資産へと駆り立てるマクロ経済と市場の力が相まって、7月に史上最高値を更新する勢いを見せている。 アメリカの株価指数はすで ...
+マクロ経済の追い風が強まり、ビットコインは7月に史上最高値を更新する勢い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインマイナーのハット8、5年間のエネルギー供給契約の締結で株価15%上昇]]></title>
         <id>https://www.coindeskjapan.com/?p=301965</id>
@@ -2268,16 +2279,6 @@ DEXのビットコイントレーダーはプットオプションで下落に�
         <summary type="html"><![CDATA[米TIME誌が発表した「最も影響力のある企業100選」に米国の仮想通貨取引所最大手であるコインベースが選出された。株価は先週最高値を更新した。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スイスTaurus、プライバシー機能付き「プライベートステーブルコイン契約」導入]]></title>
-        <id>https://www.neweconomy.jp/?p=479796</id>
-        <link href="https://www.neweconomy.jp/posts/479796"/>
-        <updated>2025-06-29T23:12:32.000Z</updated>
-        <summary type="html"><![CDATA[トーラスがPrivate Stablecoin Contract導入 スイスのフィンテック企業トーラス（Taurus）が、認可された関係者のみをアクセス可能にしつつ機密性・追跡不可能性・匿名性を備えた初の「プライベートス […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
