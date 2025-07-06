@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-06T20:31:11.084Z</updated>
+    <updated>2025-07-06T21:28:03.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインを支援しなければ、金融における存在感を失う：ECB元理事が警告]]></title>
+        <id>https://www.coindeskjapan.com/?p=302153</id>
+        <link href="https://www.coindeskjapan.com/302153/"/>
+        <updated>2025-07-06T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインは急速に成長している。だがRWA.xyzのデータによると、2550億ドル（約37兆円、1ドル145円換算）規模のステーブルコイン市場の大部分は現 ...
+ステーブルコインを支援しなければ、金融における存在感を失う：ECB元理事が警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[貿易摩擦緩和でポリマーケット上の米景気後退確率は22%に急落]]></title>
         <id>https://www.coindeskjapan.com/?p=302241</id>
@@ -1326,17 +1337,6 @@ USDC担保の後払いサービス「Slash Card」事前登録を開始──SLA
         <summary type="html"><![CDATA[ビットポイントジャパンがMidnight財団と国内初連携。カルダノ（ADA）保有者やステーキング参加者に「NIGHT」トークンのエアドロップ参加機会を提供。2025年7月開始予定の「Glacier Drop」メカニズムの詳細と参加条件を解説。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi利回り付きビットコインETP、ヨーロッパで取引開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=301228</id>
-        <link href="https://www.coindeskjapan.com/301228/"/>
-        <updated>2025-07-02T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[分散型金融（DeFi）市場から利回りを生み出すビットコインETP（上場取引型金融商品）が7月1日にデビューした。発行元であるフィネキア（Fineqia）は、この ...
-DeFi利回り付きビットコインETP、ヨーロッパで取引開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
