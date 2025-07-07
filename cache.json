@@ -505,6 +505,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=631063",
+          "author": "AKIRA.H",
+          "description": "イーロン・マスク氏が新政党「アメリカ党」でビットコイン支持を表明。「法定通貨は絶望的」と発言し、暗号資産への姿勢を鮮明に。トランプ氏との対立から第3政党設立へ。2026年中間選挙で限定的な議席獲得を目指す戦略も明らかに。",
+          "link": "https://coinpost.jp/?p=631063",
+          "publishedOn": "2025-07-07T03:21:10.000Z",
+          "wordCount": 3220,
+          "title": "イーロン・マスク、新政党でビットコイン支持示唆　法定通貨への懸念表明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-elon-feud.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/trump-elon-feud.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=631033",
+          "author": "A.Yamada",
+          "description": "アラブ首長国連邦当局がトンコインのステーキングでゴールデンビザを取得できるプログラムを否定した。当ビザの要件で仮想通貨投資家は対象外と表明している。",
+          "link": "https://coinpost.jp/?p=631033",
+          "publishedOn": "2025-07-07T03:15:53.000Z",
+          "wordCount": 3216,
+          "title": "UAE当局、トンコインによるゴールデンビザ取得プログラムを否定＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/TON_0628-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/TON_0628-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=631021",
+          "author": "S.Ninomiya",
+          "description": "ビットコインは109,060ドルで小幅上昇。取引所流入・流出比率が0.9まで低下し、2023年弱気相場以来の最低水準を記録。昨年11月の米大統領選以降、約20万BTCが取引所から流出し、残高は280万BTCと7年ぶりの低水準となった。これは投資家の長期保有志向の強まりを示しており、短期投機から長期価値投資へのシフトが鮮明になっている。",
+          "link": "https://coinpost.jp/?p=631021",
+          "publishedOn": "2025-07-07T03:07:11.000Z",
+          "wordCount": 3314,
+          "title": "ビットコイン高値圏で推移、取引所の流入・流出比率は3年ぶり低水準に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=631023",
           "author": "A.Yamada",
           "description": "米シークレットサービスが過去10年間で4億ドル相当の仮想通貨を押収した。米国では豚解体詐欺による銀行破綻も発生しており捜査当局は仮想通貨が関連する犯罪への対処を進める。",
@@ -1321,6 +1366,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=481179",
+          "author": "HitomotoToshikazu",
+          "description": "Mercado BitcoinがRWAをXRPLでトークン化へ ラテンアメリカ最大級の暗号資産（仮想通貨）取引所メルカドビットコイン（Mercado Bitcoin）が、分散型レイヤー1ブロックチェーンであるXRPレジャ […]",
+          "link": "https://www.neweconomy.jp/posts/481179",
+          "publishedOn": "2025-07-07T03:26:06.000Z",
+          "wordCount": 651,
+          "title": "メルカドビットコイン、「XRPL」上で2億ドル規模のRWAトークン化計画",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/07122526/62a072903b0c791c72e7a810c9b192b4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=481175",
+          "author": "gentosha_takahashi",
+          "description": "TRON基盤のステーブルコイン ロシアの国営企業ロステック（Rostec）が、年内にトロン（Tron）ブロックチェーン基盤のステーブルコイン「RUBx」を発行するようだ。現地メディアのタス（TASS）通信が7月3日報じた […]",
+          "link": "https://www.neweconomy.jp/posts/481175",
+          "publishedOn": "2025-07-07T03:20:40.000Z",
+          "wordCount": 591,
+          "title": "露国有企業ロステック、トロン上でルーブル建てステーブルコイン「RUBx」年内発行へ＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/07122034/c75cfabae36b2e12170a1240bd765d6d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=481170",
+          "author": "OtsugaShinya",
+          "description": "JPYCがJVCEAの第二種会員（資金移動業）に 第1号電子決済手段として日本円ステーブルコイン「JPYC」の発行を目指すJPYC社が、JVCEA（日本暗号資産等取引業協会）に第二種会員（資金移動業）として入会したことが […]",
+          "link": "https://www.neweconomy.jp/posts/481170",
+          "publishedOn": "2025-07-07T03:05:27.000Z",
+          "wordCount": 603,
+          "title": "JPYC、資金移動業でJVCEAの第二種会員に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/07120520/3c1b9d6aeacb63c71133044e9844afe9.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=481114",
           "author": "NewEconomyPodcast",
