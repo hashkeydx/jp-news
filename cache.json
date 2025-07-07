@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=302408",
+          "author": "Helene Braun",
+          "description": "ソラナ（SOL）現物ETF誕生への道のりは、予想よりはるかに短くなるかもしれない。 米証券取引委員会（SEC）は、発行を希望する企業に対し、7月末までにコメント ...\nSEC、ソラナ現物ETFの再申請の期限を7月末に設定──10月前の承認に道開く first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/302408/",
+          "publishedOn": "2025-07-07T22:00:19.000Z",
+          "wordCount": 1415,
+          "title": "SEC、ソラナ現物ETFの再申請の期限を7月末に設定──10月前の承認に道開く",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2426097137.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=299117",
           "author": "Dan Roberts",
           "description": "再保険のトークン化は、RWA（現実資産）トークン化の大きな進展を示していると OnReのダン・ロバーツ（Dan Roberts）氏は述べている。再保険のトークン ...\nRWA（現実資産）の次の進化が暗号資産の真の強みとなる理由 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -430,26 +440,6 @@
           "wordCount": 1337,
           "title": "ビットコインが11万ドルを突破──BONKとFARTCOINは20%以上上昇",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/05/shutterstock_2155640725.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=301463",
-          "author": "Omkar Godbole",
-          "description": "決済に特化した暗号資産（仮想通貨）エックス・アール・ピー（XRP）は過去24時間で3.5%以上上昇しており、デリビット（Deribit）に上場されたオプションの ...\nXRPの行使価格3ドルのコールオプションが人気──XRP/BTC日足チャートは上昇を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/301463/",
-          "publishedOn": "2025-07-03T10:25:00.000Z",
-          "wordCount": 1429,
-          "title": "XRPの行使価格3ドルのコールオプションが人気──XRP/BTC日足チャートは上昇を示唆",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2022/03/shutterstock_1973622566-1-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=301452",
-          "author": "Helene Braun",
-          "description": "ヘッジファンドのスカイブリッジ・キャピタル（SkyBridge Capital）の創業者兼CEOであるアンソニー・スカラムッチ（Anthony Scaramuc ...\nビットコイン財務戦略は一時的な流行で、まもなく勢いを失う：スカラムッチ氏 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/301452/",
-          "publishedOn": "2025-07-03T09:30:00.000Z",
-          "wordCount": 1396,
-          "title": "ビットコイン財務戦略は一時的な流行で、まもなく勢いを失う：スカラムッチ氏",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/image-20-1-990x660-1.jpg"
         }
       ]
     },
@@ -464,6 +454,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=631260",
+          "author": "K.Kobayashi",
+          "description": "米SECが新たに仮想通貨のETFを承認するのは、秋の初めごろになる可能性があるとの見方が上がった。SECは現在、XRPやドージコインなどの複数の現物ETFの承認判断を延期している。",
+          "link": "https://coinpost.jp/?p=631260",
+          "publishedOn": "2025-07-07T22:15:22.000Z",
+          "wordCount": 3220,
+          "title": "米国の仮想通貨現物ETF、次の商品のローンチは秋の初めか＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/usa0206.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/usa0206.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=631259",
+          "author": "菊谷ルイス",
+          "description": "米上場企業ビット・デジタルが企業資産のイーサリアム完全転換を発表。280BTCを売却し10万ETH超を保有。株価は一時20%急騰し時価総額10億ドルまで拡大。",
+          "link": "https://coinpost.jp/?p=631259",
+          "publishedOn": "2025-07-07T22:05:19.000Z",
+          "wordCount": 3223,
+          "title": "米上場Bit Digital、企業資産をビットコインからイーサリアムに転換完了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-to-ethereum-poor-strategy-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-to-ethereum-poor-strategy-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=631251",
           "author": "菊谷ルイス",
