@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-08T13:46:48.225Z</updated>
+    <updated>2025-07-08T14:34:32.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LNのBTCウォレット「Wallet of Satoshi」が米国市場に復活へ、L2スパーク上でプライベートβ版公開]]></title>
+        <id>https://www.neweconomy.jp/?p=481717</id>
+        <link href="https://www.neweconomy.jp/posts/481717"/>
+        <updated>2025-07-08T14:03:39.000Z</updated>
+        <summary type="html"><![CDATA[「Wallet of Satoshi」が米国市場に復活へ ビットコイン（BTC）のウォレット「ウォレット・オブ・サトシ（Wallet of Satoshi）」が、米国市場で約2年ぶりに提供再開される。同プロダクトの公式X […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、暗号資産連動型ETFの開示要件で新指針。承認へ前進]]></title>
         <id>https://www.neweconomy.jp/?p=481712</id>
@@ -1338,37 +1348,6 @@ JPモルガン、ステーブルコイン市場が2028年までに5000億ドル�
         <summary type="html"><![CDATA[米国6月雇用統計が予想を上回る14万7000人となり、ビットコインは一時11万500ドルまで上昇した。しかしBitMEX創業者アーサー・ヘイズ氏は、米財務省がステーブルコインを国債購入の受け皿として活用することで市場から流動性が奪われ、8月開催のジャクソンホール会議前に9万ドル水準へ下落すると予測した。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC、グレースケールの暗号資産ファンド「GDLC」のETF承認を一時停止]]></title>
-        <id>https://www.neweconomy.jp/?p=480952</id>
-        <link href="https://www.neweconomy.jp/posts/480952"/>
-        <updated>2025-07-04T02:21:22.000Z</updated>
-        <summary type="html"><![CDATA[SEC事務局がGDLCを再審査 米証券取引委員会（SEC）の事務局が、暗号資産（仮想通貨）バスケット型ファンド「グレースケール・デジタル・ラージキャップ・ファンド（Grayscale Digital Large Cap  […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みんなの銀行、ステーブルコインとWeb3ウォレットの検討開始──ソラナ、Fireblocks、TISと共同【速報】]]></title>
-        <id>https://www.coindeskjapan.com/?p=301625</id>
-        <link href="https://www.coindeskjapan.com/301625/"/>
-        <updated>2025-07-04T02:00:55.000Z</updated>
-        <summary type="html"><![CDATA[ふくおかフィナンシャルグループ傘下の「みんなの銀行」は7月4日、Solana Japan、Fireblocks、TISと、ステーブルコインおよびWeb3ウォレッ ...
-みんなの銀行、ステーブルコインとWeb3ウォレットの検討開始──ソラナ、Fireblocks、TISと共同【速報】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトコイン取引の増加傾向続く　25年上半期の仮想通貨OTCレポートが公開]]></title>
-        <id>https://coinpost.jp/?p=630466</id>
-        <link href="https://coinpost.jp/?p=630466"/>
-        <updated>2025-07-04T02:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Finery Marketsは、仮想通貨のOTC取引に関する2025年上半期のレポートを公開。ビットコインやイーサリアム、ステーブルコインの他にアルトコインの取引が増加傾向を継続していると指摘した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
