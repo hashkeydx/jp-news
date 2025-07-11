@@ -560,16 +560,6 @@
           "wordCount": 1323,
           "title": "ビットコインのクジラは史上最高値付近でも買い増しを続けている",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2020/12/whales-feeding.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=302362",
-          "author": "Omkar Godbole",
-          "description": "ビットコイン（BTC）市場のコンセンサスは、価格が過去2カ月間のうち1日を除いて10万ドルを上回っているにもかかわらず、依然として強気な見方が支配的だ。アナリス ...\nビットコインの強気相場における潜在的な抵抗線は11万5000ドルか、それとも22万3000ドルか：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/302362/",
-          "publishedOn": "2025-07-07T10:10:00.000Z",
-          "wordCount": 1380,
-          "title": "ビットコインの強気相場における潜在的な抵抗線は11万5000ドルか、それとも22万3000ドルか：テクニカル分析",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2019/10/Bull.jpg"
         }
       ]
     },
@@ -584,6 +574,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=632874",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムの価格は節目となる3,000ドルを約5カ月ぶりに突破した。価格上昇の要因には、ETFへの資金流入や企業購入の増加などが挙げられる。",
+          "link": "https://coinpost.jp/?p=632874",
+          "publishedOn": "2025-07-11T22:30:39.000Z",
+          "wordCount": 3243,
+          "title": "イーサリアム、5カ月ぶりに3000ドル突破　ETFの資金流入や企業購入などが相場を後押し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=632873",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコインが史上最高値11万8000ドルを更新する中、取引所流入量は2015年以来最低水準に。グラスノードとクリプトクアントが売り圧力減少の実態を分析。",
+          "link": "https://coinpost.jp/?p=632873",
+          "publishedOn": "2025-07-11T22:10:56.000Z",
+          "wordCount": 3226,
+          "title": "ビットコイン11.8万ドル突破も売り圧力低下、長期保有者は静観か＝グラスノード",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bitcoin-big-jump-no-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bitcoin-big-jump-no-sell.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=632867",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のeコマース企業ウペクシが2億ドルの私募調達を発表。ビッグブレイン・ホールディングスが主導し、ソラナ保有量を73万6000枚から165万枚に倍増へ。",
+          "link": "https://coinpost.jp/?p=632867",
+          "publishedOn": "2025-07-11T21:20:32.000Z",
+          "wordCount": 3222,
+          "title": "Upexi、2億ドル調達でソラナ保有量を165万SOLに拡大予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=632863",
+          "author": "菊谷ルイス",
+          "description": "ナスダック上場のシャープリンク・ゲーミングが、イーサリアム財団から1万ETH（約37億円）を直接購入。同社のETH保有量は215,634枚となり、世界第2位の企業保有量を拡大。",
+          "link": "https://coinpost.jp/?p=632863",
+          "publishedOn": "2025-07-11T20:55:39.000Z",
+          "wordCount": 3225,
+          "title": "シャープリンク、イーサリアム財団から1万ETH直接購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/sharplink.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/sharplink.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=632743",
           "author": "Ritsuki.Kumazawa",
