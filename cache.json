@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=303448",
+          "author": "James Van Straten",
+          "description": "上場企業として最も多くのビットコイン（BTC）を保有するストラテジー社は先週、4億7250万ドル（約700億円、1ドル＝148円換算）で4225BTCを購入した ...\nストラテジー社、4225BTCを追加購入──保有総数は60万1550枚に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/303448/",
+          "publishedOn": "2025-07-14T23:00:00.000Z",
+          "wordCount": 1346,
+          "title": "ストラテジー社、4225BTCを追加購入──保有総数は60万1550枚に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/5e80dd67adba91ef6d23544aaa065cde5f65ecfd-5184x2916-1-990x660-1-990x660-1.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=303457",
+          "author": "Krisztian Sandor",
+          "description": "ビットコイン（BTC）は7月14日、米国取引時間中に12万3000ドルの目前に迫った後、一時的に下落したが、アナリストは「市場のピークを宣言するのは時期尚早だ」 ...\nビットコイン、12万ドルで小休止──ピークは「まだまだ先」とアナリスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/303457/",
+          "publishedOn": "2025-07-14T22:46:51.000Z",
+          "wordCount": 1368,
+          "title": "ビットコイン、12万ドルで小休止──ピークは「まだまだ先」とアナリスト",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/c8be8a451706b2678b2e22756abd398efbdd370d-2354x1334-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=303436",
           "author": "林 理南",
           "description": "暗号資産（仮想通貨）運用会社コインシェアーズ（CoinShares）が追跡しているデータによると、先週のデジタル資産ファンドへの資金流入は37億ドル（約5365 ...\n先週のデジタル資産ファンドへの資金流入は37億ドル、過去2番目に高い水準：コインシェアーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -404,6 +424,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=633265",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨資産運用大手グレースケールが米証券取引委員会にIPO申請を秘密裏に提出。株式数や価格帯は未定、市場環境次第で上場時期が変動する可能性。",
+          "link": "https://coinpost.jp/?p=633265",
+          "publishedOn": "2025-07-14T22:45:31.000Z",
+          "wordCount": 3236,
+          "title": "グレースケール、IPO申請を米SECに提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/grayscalebitcoin1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/grayscalebitcoin1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=633249",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの時価総額が一時アマゾンを抜き、金融資産の5位になったことが注目を集めている。ビットコインの価格は最近、史上最高値を更新して上昇基調にある。",
+          "link": "https://coinpost.jp/?p=633249",
+          "publishedOn": "2025-07-14T22:25:08.000Z",
+          "wordCount": 3273,
+          "title": "ビットコイン、時価総額で一時アマゾン抜く　金融資産で5位に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/bitcoin-bull-glassnode.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/bitcoin-bull-glassnode.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=633253",
+          "author": "菊谷ルイス",
+          "description": "米最大仮想通貨取引所コインベースの株価が月曜日に史上最高値を更新し、時価総額が初めて1000億ドルを突破。過去1カ月で50%上昇し、ビットコインのATH更新や米規制環境改善が追い風に。",
+          "link": "https://coinpost.jp/?p=633253",
+          "publishedOn": "2025-07-14T21:50:04.000Z",
+          "wordCount": 3239,
+          "title": "コインベース株価、史上最高値更新で時価総額1000億ドル突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/one-more-coinbase.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/11/one-more-coinbase.png"
+        },
         {
           "id": "https://coinpost.jp/?p=633245",
           "author": "菊谷ルイス",
@@ -1420,16 +1485,6 @@
           "wordCount": 754,
           "title": "独取引所Bullishがソラナ財団と提携、Solana基盤ステーブルコインを取引・決済に採用へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/10220342/6936a7b221d1599d4173006aa5800b6b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=482249",
-          "author": "TamuraSeiji",
-          "description": "分散型デリバティブ取引所GMXで約4200万ドルの資金流出 分散型パーペチュアル（無期限）先物取引所「GMX」のバージョン1（V1）が7月9日にハッキング攻撃を受け、約4,200万ドル（約613億円）の資金が流出したこと […]",
-          "link": "https://www.neweconomy.jp/posts/482249",
-          "publishedOn": "2025-07-10T11:23:41.000Z",
-          "wordCount": 776,
-          "title": "分散型デリバティブ取引所「GMX」で約42億円の資金流出、GLP流動性プールが標的に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/10202333/GMX-250710doomu.jpg"
         }
       ]
     }
