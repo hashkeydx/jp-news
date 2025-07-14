@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-14T14:36:12.221Z</updated>
+    <updated>2025-07-14T15:34:36.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムがzkEVMの1年以内の実装目指す。財団がリアルタイムプルービングの要件公開]]></title>
+        <id>https://www.neweconomy.jp/?p=482850</id>
+        <link href="https://www.neweconomy.jp/posts/482850"/>
+        <updated>2025-07-14T15:15:25.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム財団がL1 zkEVMの1年以内実装を目指す イーサリアム（Ethereum）財団のプロトコルエンジニアであるソフィア・ゴールド（Sophia Gold）氏が、レイヤー1（イーサリアム）へのゼロ知識証明仮想マ […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジーがビットコイン追加購入、総保有数60万1,550BTCに]]></title>
         <id>https://www.neweconomy.jp/?p=482842</id>
@@ -1354,37 +1364,6 @@ SBI VCトレード、預かり資産5000億円突破──DMM資産移管やUSDC
         <summary type="html"><![CDATA[ARK Investが仮想通貨ビットコイン市場の最新レポートを発表。長期保有者の割合が74％と15年ぶりの高水準を記録したと指摘した。また、ビットコインドミナンスも上昇している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所ステーキング利率徹底比較｜高年率銘柄・サービスの選び方]]></title>
-        <id>https://coinpost.jp/?p=531571</id>
-        <link href="https://coinpost.jp/?p=531571"/>
-        <updated>2025-07-10T03:00:21.000Z</updated>
-        <summary type="html"><![CDATA[【2025年7月最新】国内主要取引所のステーキング対応銘柄と年率を一覧比較。イーサリアムやソラナなど人気コインの高利率サービスを紹介し、各取引所のメリット・デメリットや税金のポイントも解説します。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン過去最高値更新　機関投資家の買いが相次ぐ中、アルトコインの買い戻し進む]]></title>
-        <id>https://coinpost.jp/?p=632103</id>
-        <link href="https://coinpost.jp/?p=632103"/>
-        <updated>2025-07-10T02:49:18.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインが史上最高値の111,320ドルを更新。機関投資家による大規模な資金流入が続く中、ETF市場では7月だけで45億ドルが流入。イーサリアムやXRP（リップル）などアルトコイン市場にも上昇の波が波及し、幅広い暗号資産が堅調な回復基調を示している。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナETFに7800万ドルの資金流入──アルトコイン投資商品への関心高まる]]></title>
-        <id>https://www.coindeskjapan.com/?p=302879</id>
-        <link href="https://www.coindeskjapan.com/302879/"/>
-        <updated>2025-07-10T02:40:10.000Z</updated>
-        <summary type="html"><![CDATA[米国で上場しているソラナ（SOL）に特化した3つのETF（上場投資信託）は、過去1カ月間で静かに7800万ドル（約113億8800万円）の資金を集めた。これは、 ...
-ソラナETFに7800万ドルの資金流入──アルトコイン投資商品への関心高まる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>
