@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=301725",
+          "author": "橋本 祐樹",
+          "description": "AIとWeb3技術を活用した分散型音楽配信プラットフォーム「DMC」（Decentralized Music Chain）がローンチされ、6月28日にナイトクラ ...\nAIとWeb3が変える音楽の形──分散型プラットフォーム「DMC」が始動、世界的DJが祝福ライブ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/301725/",
+          "publishedOn": "2025-07-14T02:30:00.000Z",
+          "wordCount": 1273,
+          "title": "AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC」が始動、世界的DJが祝福ライブ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/DMC_2.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=303290",
           "author": "Aoyon Ashraf",
           "description": "「ハイパービットコイン化（Hyperbitcoinization）」──終末的な法定通貨の崩壊と、ビットコイン（BTC）の急上昇によるグローバル準備資産としての ...\n「ハイパービットコイン化」、もはやマキシマリストの幻想ではないかも：Chart of the Week first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -404,6 +414,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=633037",
+          "author": "A.Yamada",
+          "description": "リップル社の発行するエックスアールピー（XRP）価格が急騰した背景に韓国投資家の動きがあったと指摘されている。アップビットが買い圧力の70%を占めていた。韓国は仮想通貨への課税を2027年まで延期する見込みだ。",
+          "link": "https://coinpost.jp/?p=633037",
+          "publishedOn": "2025-07-14T00:43:35.000Z",
+          "wordCount": 3313,
+          "title": "XRP上昇を牽引したのは韓国市場か　Upbitが7割占めるとアナリストが分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/xrp-new-new-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/xrp-new-new-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=632540",
           "author": "CoinPost編集部",
@@ -1252,6 +1277,16 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=482606",
+          "author": "gentosha_takahashi",
+          "description": "投資家保護を目的に召喚状発付 虚偽のマーケティングを行っていた可能性があるとして、米ロビンフッド・クリプト（Robinhood Crypto）がフロリダ州の調査を受けている。フロリダ州司法長官ジェームズ・ウースマイヤー（ […]",
+          "link": "https://www.neweconomy.jp/posts/482606",
+          "publishedOn": "2025-07-14T02:24:55.000Z",
+          "wordCount": 735,
+          "title": "フロリダ州、「最安取引」うたう虚偽広告の疑いでロビンフッド・クリプトを調査",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/14112443/2658820b28068cb28b2870d151c18056.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=482579",
           "author": "OtsugaShinya",
           "description": "アントチェーンにUSDC統合か 中国のテクノロジー・コングロマリットであるアリババグループ（Alibaba）のフィンテック関連企業であるアント・グループ（Ant Group）が、独自チェーン「アントチェーン（AntCha […]",
@@ -1560,16 +1595,6 @@
           "wordCount": 728,
           "title": "ビットコイン（BTC）が史上最高値を更新、11万2,000ドル突破",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/10092717/BTC10PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=481830",
-          "author": "NewEconomyPodcast",
-          "description": "web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/481830",
-          "publishedOn": "2025-07-09T11:44:03.000Z",
-          "wordCount": 787,
-          "title": "【7/9話題】マックハウスはドルコスト平均法でビットコイン取得へ、PhantomがEU向けパーペチュアル先物取引など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/09165726/5b0642fb6d13f651541b5adf69fc015a.jpg"
         }
       ]
     }
