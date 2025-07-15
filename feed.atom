@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-15T04:50:48.660Z</updated>
+    <updated>2025-07-15T05:39:32.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グレイスケール、米SECにIPO申請書類を非公開で提出]]></title>
+        <id>https://www.neweconomy.jp/?p=482938</id>
+        <link href="https://www.neweconomy.jp/posts/482938"/>
+        <updated>2025-07-15T05:31:58.000Z</updated>
+        <summary type="html"><![CDATA[グレースケールが米SECにIPO申請 米暗号資産（仮想通貨）運用会社グレースケール（Grayscale）が、米証券取引委員会（SEC）に対し、IPO（新規株式公開）の申請書類を非公開で提出したと7月14日に発表した。 今 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米議会で「仮想通貨週間」開始、GENIUS法案など3つの主要法案を集中審議]]></title>
+        <id>https://coinpost.jp/?p=633420</id>
+        <link href="https://coinpost.jp/?p=633420"/>
+        <updated>2025-07-15T04:50:32.000Z</updated>
+        <summary type="html"><![CDATA[米議会で仮想通貨週間が始まり、GENIUS法案、CLARITY法案、反CBDC監視国家法案の3つの主要法案が審議される。ステーブルコイン規制や仮想通貨の監督体制確立に向けた重要な1週間となると期待されており、業界も支援に力を入れている。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIフュージョンがWeb3事業本格展開に向け組織再編、元OKJ八角COOが子会社社長に就任]]></title>
         <id>https://www.neweconomy.jp/?p=482927</id>
@@ -1404,17 +1424,6 @@ Oasys、不動産テックのGATES GROUPと提携──RWA領域に本格参入�
         <summary type="html"><![CDATA[仮想通貨取引所大手コインベースがパープレキシティAIと連携し、リアルタイム仮想通貨データサービスを開始。トレーダーの意思決定支援を目的とし、AI統合による市場分析機能を段階的に展開する。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、11万2700ドルで史上最高値更新]]></title>
-        <id>https://www.coindeskjapan.com/?p=303042</id>
-        <link href="https://www.coindeskjapan.com/303042/"/>
-        <updated>2025-07-10T17:38:03.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は7月10日、11万2000ドルを突破して史上最高値を更新し、数カ月間取引されていたレンジから抜け出そうとしている。 CoinDeskの価 ...
-ビットコイン、11万2700ドルで史上最高値更新 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
