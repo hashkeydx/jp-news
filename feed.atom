@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-15T10:38:42.923Z</updated>
+    <updated>2025-07-15T11:28:36.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米銀行監督当局、暗号資産カストディに関する声明を発表──新たな政策推進ではないと明言]]></title>
+        <id>https://www.coindeskjapan.com/?p=303572</id>
+        <link href="https://www.coindeskjapan.com/303572/"/>
+        <updated>2025-07-15T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[FRBと米国の他の銀行監督当局は14日、暗号資産（仮想通貨）の適切な取り扱いに関する新たな声明を発表した。これは、顧客のデジタル資産を「保管」する銀行が従うべき ...
+米銀行監督当局、暗号資産カストディに関する声明を発表──新たな政策推進ではないと明言 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[靴卸売の東邦レマック、10億円規模でビットコインなど暗号資産投資へ]]></title>
         <id>https://www.coindeskjapan.com/?p=303618</id>
@@ -1531,26 +1542,6 @@ Oasys、不動産テックのGATES GROUPと提携──RWA領域に本格参入�
         <summary type="html"><![CDATA[仮想通貨ビットコインは7月11日、前日に続いて続伸し2日連続で史上最高値を更新した。背景には、FRB高官による早期利下げ示唆と、米新規失業保険申請件数が7か月ぶりに低水準となったことを受けた株高がある。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブータン政府、2週間で計50億円超相当のビットコインをバイナンスに送金]]></title>
-        <id>https://coinpost.jp/?p=632456</id>
-        <link href="https://coinpost.jp/?p=632456"/>
-        <updated>2025-07-10T23:00:53.000Z</updated>
-        <summary type="html"><![CDATA[ブータン政府は先週から今週にかけて、ビットコインを仮想通貨取引所バイナンスに送金。送金のタイミングが相場の上昇と一致していることから、売却の可能性を指摘する見方が上がった。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン供給ショック、次の急騰で15万ドル到達可能か　利確警戒も]]></title>
-        <id>https://coinpost.jp/?p=632463</id>
-        <link href="https://coinpost.jp/?p=632463"/>
-        <updated>2025-07-10T22:45:39.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインの流通量の8割以上が長期保有者に集中し、企業による保有も加速。供給逼迫と新たな需要が重なり、価格は連日過去最高値を更新した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
