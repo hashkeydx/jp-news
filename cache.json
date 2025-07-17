@@ -640,16 +640,6 @@
           "wordCount": 1334,
           "title": "ビットコイン・トレジャリー企業に、ビジネスプランはあるか──このままでは「高い株価」は崩壊する",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2623001117.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=303268",
-          "author": "林 理南",
-          "description": "テザー（Tether）社は、利用頻度の低い5つのブロックチェーンでのテザー（USDT）利用が減少したことを受け、これらのネットワークでのサポートを終了すると発表 ...\nオムニ、ビットコインキャッシュ、クサマ、イオス、アルゴランドでテザー終了──レイヤー2への移行に集中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/303268/",
-          "publishedOn": "2025-07-13T10:15:20.000Z",
-          "wordCount": 1318,
-          "title": "オムニ、ビットコインキャッシュ、クサマ、イオス、アルゴランドでテザー終了──レイヤー2への移行に集中",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/54596c79d7b42f98aafbe2f421c7c7531529e5fd-4032x2268-1-scaled.jpg"
         }
       ]
     },
@@ -664,6 +654,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=634293",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨イーサリアムのL2「Base」のプロジェクトは、Baseの処理が10倍速くなったことを発表。ゲームやリアルタイムのトレードなど、速い処理が必要なユースケースでの活用が期待される。",
+          "link": "https://coinpost.jp/?p=634293",
+          "publishedOn": "2025-07-17T22:20:33.000Z",
+          "wordCount": 3275,
+          "title": "コインベースのL2「Base」、10倍の高速化を実現　ゲームなどでの活用に期待感",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/base-family.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/base-family.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634294",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領が401k退職金制度への仮想通貨、金、プライベートエクイティ投資を解禁する大統領令を準備。9兆ドル規模の退職金市場開放で投資選択肢が大幅拡大される見込み。",
+          "link": "https://coinpost.jp/?p=634294",
+          "publishedOn": "2025-07-17T21:55:42.000Z",
+          "wordCount": 3253,
+          "title": "9兆ドルの年金市場に仮想通貨投資解禁へ、トランプが大統領令準備＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/trump-coin-dinner.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634289",
+          "author": "菊谷ルイス",
+          "description": "シャープリンク・ゲーミングがA.G.P.との契約を改訂し、最大60億ドルの普通株発行へ。調達資金は主に仮想通貨イーサリアムの追加取得と運転資金に活用。",
+          "link": "https://coinpost.jp/?p=634289",
+          "publishedOn": "2025-07-17T21:30:43.000Z",
+          "wordCount": 3260,
+          "title": "シャープリンク、ETH追加購入のため最大60億ドルの株式発行へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/Ethereumnetwork1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/Ethereumnetwork1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=634287",
           "author": "菊谷ルイス",

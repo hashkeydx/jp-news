@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-17T21:30:28.144Z</updated>
+    <updated>2025-07-17T22:35:17.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベースのL2「Base」、10倍の高速化を実現　ゲームなどでの活用に期待感]]></title>
+        <id>https://coinpost.jp/?p=634293</id>
+        <link href="https://coinpost.jp/?p=634293"/>
+        <updated>2025-07-17T22:20:33.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのL2「Base」のプロジェクトは、Baseの処理が10倍速くなったことを発表。ゲームやリアルタイムのトレードなど、速い処理が必要なユースケースでの活用が期待される。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9兆ドルの年金市場に仮想通貨投資解禁へ、トランプが大統領令準備＝報道]]></title>
+        <id>https://coinpost.jp/?p=634294</id>
+        <link href="https://coinpost.jp/?p=634294"/>
+        <updated>2025-07-17T21:55:42.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領が401k退職金制度への仮想通貨、金、プライベートエクイティ投資を解禁する大統領令を準備。9兆ドル規模の退職金市場開放で投資選択肢が大幅拡大される見込み。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャープリンク、ETH追加購入のため最大60億ドルの株式発行へ]]></title>
+        <id>https://coinpost.jp/?p=634289</id>
+        <link href="https://coinpost.jp/?p=634289"/>
+        <updated>2025-07-17T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[シャープリンク・ゲーミングがA.G.P.との契約を改訂し、最大60億ドルの普通株発行へ。調達資金は主に仮想通貨イーサリアムの追加取得と運転資金に活用。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベースとロビンフッド株、史上最高値を更新──米下院が画期的な暗号資産関連法案を可決]]></title>
         <id>https://www.coindeskjapan.com/?p=304043</id>
@@ -1837,17 +1867,6 @@ AIとWeb3が変える音楽の形──分散型プラットフォーム「DMC�
 ビットコイン・トレジャリー企業に、ビジネスプランはあるか──このままでは「高い株価」は崩壊する first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Torbjørn Bull Jenssen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オムニ、ビットコインキャッシュ、クサマ、イオス、アルゴランドでテザー終了──レイヤー2への移行に集中]]></title>
-        <id>https://www.coindeskjapan.com/?p=303268</id>
-        <link href="https://www.coindeskjapan.com/303268/"/>
-        <updated>2025-07-13T10:15:20.000Z</updated>
-        <summary type="html"><![CDATA[テザー（Tether）社は、利用頻度の低い5つのブロックチェーンでのテザー（USDT）利用が減少したことを受け、これらのネットワークでのサポートを終了すると発表 ...
-オムニ、ビットコインキャッシュ、クサマ、イオス、アルゴランドでテザー終了──レイヤー2への移行に集中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
