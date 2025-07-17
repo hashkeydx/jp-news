@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-17T02:27:37.299Z</updated>
+    <updated>2025-07-17T04:04:41.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベース、次世代アプリ「Base App」を発表　ソーシャル・決済・NFT機能統合へ]]></title>
+        <id>https://coinpost.jp/?p=634017</id>
+        <link href="https://coinpost.jp/?p=634017"/>
+        <updated>2025-07-17T03:55:01.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所コインベースがCoinbase Walletを多機能アプリ「Base App」にリブランドした。SNS投稿による収益獲得やUSDC報酬など様々な機能を搭載している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アルトシーズンの兆候、イーサリアム大幅上昇でビットコインドミナンスに変化の兆し]]></title>
+        <id>https://coinpost.jp/?p=633954</id>
+        <link href="https://coinpost.jp/?p=633954"/>
+        <updated>2025-07-17T03:24:13.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムが週間23.3%上昇でビットコインを上回るパフォーマンスに。ETH/BTC比率回復とアルトコイン市場への資金流入加速で、待望のアルトシーズン開始の可能性が高まる。米仮想通貨法案審議の混乱も市場に影響。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LN Trends 2025年7月（vol.9）]]></title>
+        <id>https://www.coindeskjapan.com/?p=303553</id>
+        <link href="https://www.coindeskjapan.com/303553/"/>
+        <updated>2025-07-17T03:01:09.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所bitbankを運営するビットバンクが公開した「LN Trends」最新号を転載してお届けします（LN：Lightning Netwo ...
+LN Trends 2025年7月（vol.9） first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>bitbank Ventures</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産取引テック企業タロス、データプラットフォームのコイン・メトリクスを150億円超で買収へ]]></title>
         <id>https://www.coindeskjapan.com/?p=303811</id>
@@ -26,6 +57,16 @@
 アパレル企業ANAP、ビットコイン建て増資で再生加速──BTCは企業再建の切り札となるか？「本業との融合」に挑む新戦略【立役者・川合氏、山本氏インタビュー】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クジラ投資家や企業がイーサリアムを大量購入、ETH価格1週間で22%上昇の背景]]></title>
+        <id>https://coinpost.jp/?p=633990</id>
+        <link href="https://coinpost.jp/?p=633990"/>
+        <updated>2025-07-17T01:55:19.000Z</updated>
+        <summary type="html"><![CDATA[大口投資家が仮想通貨イーサリアムを連日大量購入し、ETH価格が過去1週間で22.3%上昇。シャープリンクやピーター・ティール投資の上場企業も大量投資を継続。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -62,6 +103,26 @@ BTC、12万ドルを回復──ETHは10%高騰で、年初比でも値上がり
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「ビットコイン・ジーザス」ロジャー・バー、スペイン当局を提訴　脱税容疑めぐり]]></title>
+        <id>https://coinpost.jp/?p=633963</id>
+        <link href="https://coinpost.jp/?p=633963"/>
+        <updated>2025-07-17T00:50:32.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン初期投資家のロジャー・バー氏が米国への身柄引き渡し阻止のためスペイン当局を提訴した。4,800万ドルの脱税容疑で懲役109年の刑に直面しており、恩赦を求める声もある。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トロン保有のナスダック上場企業SRM、社名を「Tron Inc.」に変更完了]]></title>
+        <id>https://coinpost.jp/?p=633960</id>
+        <link href="https://coinpost.jp/?p=633960"/>
+        <updated>2025-07-17T00:35:54.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨トロン保有のナスダック上場企業SRM Entertainmentは、企業名を正式にTron Inc.に変更。株のティッカーシンボルもTRONに変わる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[バンク・オブ・アメリカCEO、ステーブルコインは「すでに着手済み」]]></title>
         <id>https://www.coindeskjapan.com/?p=303781</id>
         <link href="https://www.coindeskjapan.com/303781/"/>
@@ -70,6 +131,46 @@ BTC、12万ドルを回復──ETHは10%高騰で、年初比でも値上がり
 バンク・オブ・アメリカCEO、ステーブルコインは「すでに着手済み」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン乱高下、米下院「仮想通貨週間」への造反議員出現で法案審議が二転三転｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=633951</id>
+        <link href="https://coinpost.jp/?p=633951"/>
+        <updated>2025-07-17T00:15:12.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコインは、7月14日より米下院で開始された「仮想通貨週間」において、関連法案の採決が二転三転している影響を受け、相場が乱高下する展開が続いている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ一族関連のWLFIトークン、取引解禁承認　99.94%の賛成票で]]></title>
+        <id>https://coinpost.jp/?p=633953</id>
+        <link href="https://coinpost.jp/?p=633953"/>
+        <updated>2025-07-16T23:50:28.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領と関連するWorld Liberty FinancialのWLFIトークンが公開市場で取引可能になる予定だ。7月9日の提案が99.94%の支持で承認され、投機取引と価格発見の道が開かれる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベースとストラテジーの時価総額、史上最高値更新]]></title>
+        <id>https://coinpost.jp/?p=633944</id>
+        <link href="https://coinpost.jp/?p=633944"/>
+        <updated>2025-07-16T23:30:52.000Z</updated>
+        <summary type="html"><![CDATA[コインベースが16日に株価405.88ドルで再び史上最高値を記録し、ストラテジーの時価総額も1,284億ドルに達した。今週のビットコイン12万ドル突破を背景に仮想通貨関連株が軒並み上昇している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステラ（XLM）価格、過去2週間で約2倍高騰の背景は？]]></title>
+        <id>https://coinpost.jp/?p=633935</id>
+        <link href="https://coinpost.jp/?p=633935"/>
+        <updated>2025-07-16T22:35:45.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ステラは、PayPalでステーブルコインを主導したホセ・フェルナンデス・ダ・ポンテ氏がステラ開発財団に加わったことを発表。ステラの価格は前年比300%超上昇している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
