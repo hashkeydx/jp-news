@@ -710,16 +710,6 @@
           "wordCount": 1345,
           "title": "サトシ・ナカモトの資産が世界第10位に迫る",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/04/Satoshi_Nakamoto-t.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=303365",
-          "author": "James Van Straten",
-          "description": "ビットコイン（BTC）は前週の週次終値が過去最高の11万9500ドルを記録したのに続き、12万2000ドルを超えて史上最高値を更新した。年初来では、ビットコイン ...\nビットコイン、上昇率でゴールド（金）を上回る──「非生産的資産」に資金が流入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/303365/",
-          "publishedOn": "2025-07-14T09:30:00.000Z",
-          "wordCount": 1336,
-          "title": "ビットコイン、上昇率でゴールド（金）を上回る──「非生産的資産」に資金が流入",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/f8106989a21b7be3c7f12f1086de730787f938a8-1500x1000-1.jpg"
         }
       ]
     },
@@ -730,10 +720,40 @@
       "articles": []
     },
     {
-      "title": "コインチェックハッキング事件の記者会見内容まとめ",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=634798",
+          "author": "菊谷ルイス",
+          "description": "米ナスダック上場のビットデジタル社が18日、6730万ドルの資金調達で19683ETHの仮想通貨イーサリアムを追加購入。総保有量は120,306ETHで、時価4.24億ドルに拡大。",
+          "link": "https://coinpost.jp/?p=634798",
+          "publishedOn": "2025-07-18T21:20:30.000Z",
+          "wordCount": 3240,
+          "title": "米上場ビットデジタル、イーサリアム保有量12万ETHに拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/eth-prediction-down-60.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/eth-prediction-down-60.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634790",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領が19日、ステーブルコイン規制枠組みを定めるGENIUS法案に署名し米初の仮想通貨包括規制法が成立。2500億ドル規模のステーブルコイン市場に明確な規制導入。",
+          "link": "https://coinpost.jp/?p=634790",
+          "publishedOn": "2025-07-18T20:40:38.000Z",
+          "wordCount": 3239,
+          "title": "トランプ大統領がステーブルコイン法案に署名、米初の仮想通貨包括規制法が成立",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-token-truthfi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-token-truthfi.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=634541",
           "author": "幸田直子",
