@@ -735,6 +735,81 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=634850",
+          "author": "菊谷ルイス",
+          "description": "元NYSE社長トム・ファーレイ率いるブリッシュが証券取引委員会にIPOを申請。コインデスク買収実績を持つ同社の上場計画と業界動向を報告。",
+          "link": "https://coinpost.jp/?p=634850",
+          "publishedOn": "2025-07-19T02:30:38.000Z",
+          "wordCount": 3232,
+          "title": "ピーター・ティール支援の仮想通貨取引所ブリッシュがIPO申請＝CNBC",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/IPO-sumbnail.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/IPO-sumbnail.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634844",
+          "author": "菊谷ルイス",
+          "description": "ウィリー・ウー氏らがアルトシーズン開始を予測。仮想通貨ビットコインからイーサリアムへの資金ローテーションが本格化し、アルトコイン市場の上昇環境が形成。",
+          "link": "https://coinpost.jp/?p=634844",
+          "publishedOn": "2025-07-19T02:02:14.000Z",
+          "wordCount": 3240,
+          "title": "著名アナリストが分析、「ビットコインからイーサリアムへ資金移動、アルトシーズンの兆し」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-to-ethereum-poor-strategy-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-to-ethereum-poor-strategy-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634836",
+          "author": "A.Yamada",
+          "description": "日本ブロックチェーン協会が暗号資産税制アンケート結果を公表した。保有者の84%が分離課税20%で投資増額すると回答した。また、10人に1人以上が暗号資産を保有などの結果も出た。",
+          "link": "https://coinpost.jp/?p=634836",
+          "publishedOn": "2025-07-19T01:05:16.000Z",
+          "wordCount": 3246,
+          "title": "JBA、暗号資産アンケート　分離課税20%導入の場合84%が投資増額意向",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan9_0419.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/japan9_0419.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634819",
+          "author": "CoinPost編集部",
+          "description": "今週の仮想通貨市場は、米下院で開催された「仮想通貨週間」において、ビットコインが史上最高値となる12万ドルを超える展開となった。アルトコイン市場においても大幅な上昇が見られた。",
+          "link": "https://coinpost.jp/?p=634819",
+          "publishedOn": "2025-07-18T23:50:59.000Z",
+          "wordCount": 3330,
+          "title": "仮想通貨全面高の一週間、米下院クリプトウィーク振り返りと今後の見通し｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=634821",
+          "author": "菊谷ルイス",
+          "description": "独立の格付け機関ブルーチップがリップルのRLUSDステーブルコインにA評価を付与。BNYメロンでの準備金管理と堅牢なコンプライアンス体制などが評価された。",
+          "link": "https://coinpost.jp/?p=634821",
+          "publishedOn": "2025-07-18T23:30:20.000Z",
+          "wordCount": 3309,
+          "title": "リップル発行のRLUSD、ブルーチップから最高評価獲得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=634803",
           "author": "K.Kobayashi",
           "description": "米SECのアトキンス委員長が、SECは証券のトークン化における規制の例外措置を検討していると明かした。RWAのトークン化は仮想通貨・ブロックチェーン領域で大きなトレンドになっている。",
@@ -2305,16 +2380,6 @@
           "wordCount": 726,
           "title": "バリュークリエーション、1億円相当のビットコイン追加購入を予告",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/15111540/BTC1-250714-PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=482850",
-          "author": "TamuraSeiji",
-          "description": "イーサリアム財団がL1 zkEVMの1年以内実装を目指す イーサリアム（Ethereum）財団のプロトコルエンジニアであるソフィア・ゴールド（Sophia Gold）氏が、レイヤー1（イーサリアム）へのゼロ知識証明仮想マ […]",
-          "link": "https://www.neweconomy.jp/posts/482850",
-          "publishedOn": "2025-07-14T15:15:25.000Z",
-          "wordCount": 736,
-          "title": "イーサリアムがzkEVMの1年以内の実装目指す。財団がリアルタイムプルービングの要件公開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/15001519/2a5d47464afa6b9cf68c71997d642eb1.jpg"
         }
       ]
     }
