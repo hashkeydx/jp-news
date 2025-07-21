@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=304512",
+          "author": "林 理南",
+          "description": "暗号資産（仮想通貨）の資産運用会社コインシェアーズ（CoinShares）が追跡したデータによれば、先週のデジタル資産ファンドへの資金流入額は43億9000万ド ...\n暗号資産ファンド、週間流入額43億9000万ドルで過去最高を記録：コインシェアーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/304512/",
+          "publishedOn": "2025-07-21T12:19:44.000Z",
+          "wordCount": 1294,
+          "title": "暗号資産ファンド、週間流入額43億9000万ドルで過去最高を記録：コインシェアーズ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/N92f704973b2590d162ed4e93004dc677840e9935-685x385-1.png"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=304501",
+          "author": "林 理南",
+          "description": "1999年から2002年にかけて、当時イギリスの財務大臣だったゴードン・ブラウン（Gordon Brown）氏の指揮の下、イギリスは国家の金準備のおよそ半分を1 ...\nゴードン・ブラウン氏の再来？ 英国、50億ポンド相当のビットコイン売却を検討か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/304501/",
+          "publishedOn": "2025-07-21T11:42:05.000Z",
+          "wordCount": 1305,
+          "title": "ゴードン・ブラウン氏の再来？ 英国、50億ポンド相当のビットコイン売却を検討か",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2374491263.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=304429",
           "author": "蓮田光則",
           "description": "ビットマイン・イマージョン・テクノロジーズ（BitMine Immersion Technologies、BMNR）は、ファンドストラット（Fundstrat） ...\nビットマイン、イーサリアム保有が10億ドルを超える──トレジャリー戦略加速 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -450,26 +470,6 @@
           "wordCount": 1409,
           "title": "CME、24時間365日の暗号資産取引を検討中──ミームコイン関連商品は検討せず",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2102906566.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=303783",
-          "author": "Krisztian Sandor",
-          "description": "今週前半に小幅に下落したイーサリアム（ETH）は7月16日、高騰し、暗号資産（仮想通貨）市場の上昇を牽引した。 CoinDeskのデータによると、イーサリアムは ...\nBTC、12万ドルを回復──ETHは10%高騰で、年初比でも値上がり first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/303783/",
-          "publishedOn": "2025-07-17T01:04:05.000Z",
-          "wordCount": 1335,
-          "title": "BTC、12万ドルを回復──ETHは10%高騰で、年初比でも値上がり",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/330f650a600e03613d3ab0ae7e6ca30dd062f49d-2123x1194-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=303781",
-          "author": "Helene Braun",
-          "description": "バンク・オブ・アメリカ（Bank of America）は、ステーブルコイン市場への参入に向けて準備しており、すでに基礎的な作業を終え、適切なタイミングを見極め ...\nバンク・オブ・アメリカCEO、ステーブルコインは「すでに着手済み」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/303781/",
-          "publishedOn": "2025-07-17T00:33:04.000Z",
-          "wordCount": 1370,
-          "title": "バンク・オブ・アメリカCEO、ステーブルコインは「すでに着手済み」",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2235873643.jpg"
         }
       ]
     },
@@ -1068,81 +1068,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/EthereumMining1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=633963",
-          "author": "A.Yamada",
-          "description": "ビットコイン初期投資家のロジャー・バー氏が米国への身柄引き渡し阻止のためスペイン当局を提訴した。4,800万ドルの脱税容疑で懲役109年の刑に直面しており、恩赦を求める声もある。",
-          "link": "https://coinpost.jp/?p=633963",
-          "publishedOn": "2025-07-17T00:50:32.000Z",
-          "wordCount": 3272,
-          "title": "「ビットコイン・ジーザス」ロジャー・バー、スペイン当局を提訴　脱税容疑めぐり",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/law_judge1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/law_judge1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=633960",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨トロン保有のナスダック上場企業SRM Entertainmentは、企業名を正式にTron Inc.に変更。株のティッカーシンボルもTRONに変わる。",
-          "link": "https://coinpost.jp/?p=633960",
-          "publishedOn": "2025-07-17T00:35:54.000Z",
-          "wordCount": 3264,
-          "title": "トロン保有のナスダック上場企業SRM、社名を「Tron Inc.」に変更完了",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/tron-defi-up.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/tron-defi-up.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=633951",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨ビットコインは、7月14日より米下院で開始された「仮想通貨週間」において、関連法案の採決が二転三転している影響を受け、相場が乱高下する展開が続いている。",
-          "link": "https://coinpost.jp/?p=633951",
-          "publishedOn": "2025-07-17T00:15:12.000Z",
-          "wordCount": 3275,
-          "title": "ビットコイン乱高下、米下院「仮想通貨週間」への造反議員出現で法案審議が二転三転｜仮想NISHI",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0557.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=633953",
-          "author": "菊谷ルイス",
-          "description": "トランプ大統領と関連するWorld Liberty FinancialのWLFIトークンが公開市場で取引可能になる予定だ。7月9日の提案が99.94%の支持で承認され、投機取引と価格発見の道が開かれる。",
-          "link": "https://coinpost.jp/?p=633953",
-          "publishedOn": "2025-07-16T23:50:28.000Z",
-          "wordCount": 3256,
-          "title": "トランプ一族関連のWLFIトークン、取引解禁承認　99.94%の賛成票で",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=633944",
-          "author": "菊谷ルイス",
-          "description": "コインベースが16日に株価405.88ドルで再び史上最高値を記録し、ストラテジーの時価総額も1,284億ドルに達した。今週のビットコイン12万ドル突破を背景に仮想通貨関連株が軒並み上昇している。",
-          "link": "https://coinpost.jp/?p=633944",
-          "publishedOn": "2025-07-16T23:30:52.000Z",
-          "wordCount": 3252,
-          "title": "コインベースとストラテジーの時価総額、史上最高値更新",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/price-up-a-lot-euphoria.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/price-up-a-lot-euphoria.jpeg"
         }
       ]
     },
