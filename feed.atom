@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-21T14:38:43.150Z</updated>
+    <updated>2025-07-21T15:35:03.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ・メディア、20億ドル相当のビットコイン保有を発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=304519</id>
+        <link href="https://www.coindeskjapan.com/304519/"/>
+        <updated>2025-07-21T14:48:06.000Z</updated>
+        <summary type="html"><![CDATA[トランプ・メディア・アンド・テクノロジー・グループ（Trump Media and Technology Group）は20日午前、約20億ドル（約2900億円 ...
+トランプ・メディア、20億ドル相当のビットコイン保有を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産ファンド、週間流入額43億9000万ドルで過去最高を記録：コインシェアーズ]]></title>
         <id>https://www.coindeskjapan.com/?p=304512</id>
@@ -1055,27 +1066,6 @@ HashPort、万博ミャクミャク撮影券NFT（SBT）を発行──毎日30�
         <summary type="html"><![CDATA[仮想通貨取引所コインベースがCoinbase Walletを多機能アプリ「Base App」にリブランドした。SNS投稿による収益獲得やUSDC報酬など様々な機能を搭載している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルトシーズンの兆候、イーサリアム大幅上昇でビットコインドミナンスに変化の兆し]]></title>
-        <id>https://coinpost.jp/?p=633954</id>
-        <link href="https://coinpost.jp/?p=633954"/>
-        <updated>2025-07-17T03:24:13.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムが週間23.3%上昇でビットコインを上回るパフォーマンスに。ETH/BTC比率回復とアルトコイン市場への資金流入加速で、待望のアルトシーズン開始の可能性が高まる。米仮想通貨法案審議の混乱も市場に影響。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LN Trends 2025年7月（vol.9）]]></title>
-        <id>https://www.coindeskjapan.com/?p=303553</id>
-        <link href="https://www.coindeskjapan.com/303553/"/>
-        <updated>2025-07-17T03:01:09.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所bitbankを運営するビットバンクが公開した「LN Trends」最新号を転載してお届けします（LN：Lightning Netwo ...
-LN Trends 2025年7月（vol.9） first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>bitbank Ventures</name>
         </author>
     </entry>
 </feed>
