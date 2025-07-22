@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=304717",
+          "author": "Krisztian Sandor",
+          "description": "イーサリアム共同創設者ジョセフ・ルービン氏が率いる、イーサリアム（ETH）財務戦略企業のシャープリンク・ゲーミングは、買い増しを継続し、総保有額が13億ドル（約 ...\nシャープリンク、ETH追加購入で保有総額は1900億円超え first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/304717/",
+          "publishedOn": "2025-07-22T23:10:00.000Z",
+          "wordCount": 1315,
+          "title": "シャープリンク、ETH追加購入で保有総額は1900億円超え",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/1f3fb73348fe1ac7e0117c7ef400c3875221209c-8114x4565-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=304713",
           "author": "Ian Allison",
           "description": "最近10億ドル（約1470億円、1ドル＝147円換算）の評価額を達成した、暗号資産を活用した予測市場のポリマーケットは、独自のステーブルコインを導入するか、プラ ...\n予測市場ポリマーケット、独自ステーブルコイン発行を計画か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -270,16 +280,6 @@
           "wordCount": 1384,
           "title": "暗号資産に55%課税は「重すぎる」──JBAが分離課税など5項目要望、税制の「ねじれ」懸念も",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/DSC_4633-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=304099",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2025/7/18）上昇一服も、まだ上値余地ありそう【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/304099/",
-          "publishedOn": "2025-07-18T11:26:17.000Z",
-          "wordCount": 1366,
-          "title": "マトリックス法によるテクニカル分析（2025/7/18）上昇一服も、まだ上値余地ありそう【楽天ウォレット】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/tr-thumb_250718.jpg"
         }
       ]
     },
@@ -294,6 +294,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=635458",
+          "author": "菊谷ルイス",
+          "description": "米SECがビットワイズの仮想通貨10銘柄のインデックスETF承認を火曜日に決定後、すぐに一時停止して委員会での見直しを開始。グレースケールファンドに続く慎重な審査姿勢を示している。",
+          "link": "https://coinpost.jp/?p=635458",
+          "publishedOn": "2025-07-22T22:45:44.000Z",
+          "wordCount": 3214,
+          "title": "米SEC、ビットワイズの仮想通貨指数連動型ETF承認を一時停止",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=635453",
+          "author": "CoinPost編集部",
+          "description": "『金持ち父さん貧乏父さん』の著者ロバート・キヨサキ氏は、バブルが崩壊し始めようとしていると警告。実際にバブルが崩壊すれば金、銀、仮想通貨ビットコインを購入すると予告した。",
+          "link": "https://coinpost.jp/?p=635453",
+          "publishedOn": "2025-07-22T22:25:43.000Z",
+          "wordCount": 3233,
+          "title": "金持ち父さん著者キヨサキ、バブル崩壊の可能性を警告　ビットコイン購入宣言も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitcoinupdown0628211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/bitcoinupdown0628211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=635452",
+          "author": "菊谷ルイス",
+          "description": "21シェアーズが仮想通貨ONDOの現物ETF申請をSECに提出。トランプ大統領関連のWLFIも投資する現実資産トークン化プラットフォームに機関投資家の関心が集まっているようだ。",
+          "link": "https://coinpost.jp/?p=635452",
+          "publishedOn": "2025-07-22T21:55:24.000Z",
+          "wordCount": 3215,
+          "title": "21シェアーズがONDOの現物ETFを申請、トランプ政権下でRWAトークン注目高まる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/FT-index-etf.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/FT-index-etf.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=635448",
+          "author": "菊谷ルイス",
+          "description": "世界最大級マーケットメーカーのシタデル・セキュリティーズが米SECに書簡送付。証券トークン化で規制例外措置ではなく正式なルール策定プロセスを要求。",
+          "link": "https://coinpost.jp/?p=635448",
+          "publishedOn": "2025-07-22T21:30:58.000Z",
+          "wordCount": 3217,
+          "title": "米金融大手シタデル、SECに証券トークン化の慎重対応求める",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Citadel.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/Citadel.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=635442",
           "author": "菊谷ルイス",
@@ -835,16 +895,6 @@
           "wordCount": 748,
           "title": "ペレナ（Perena）、米ステーブルコイン法に準拠「USD’」発表",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/21184258/news_perena.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=483837",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/483837",
-          "publishedOn": "2025-07-18T11:05:07.000Z",
-          "wordCount": 823,
-          "title": "【7/18話題】XRPが史上最高値を更新、SBI VCトレードの預かり総資産が6,000億円突破など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/18175307/1120f4ef01bb25f08f23aece7f5c463d.jpg"
         }
       ]
     }
