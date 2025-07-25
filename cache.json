@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=305080",
+          "author": "廣瀬 優香",
+          "description": "分散型金融（DeFi）プラットフォームのエセナ（Ethena）は、15億ドル（約2205億円）規模のステーブルコインを米国市場に導入する予定で、暗号資産（仮想通 ...\nジーニアス法成立で、エセナが米ステーブルコイン市場参入──15億ドル規模「USDtb」を発行へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305080/",
+          "publishedOn": "2025-07-25T06:00:00.000Z",
+          "wordCount": 1324,
+          "title": "ジーニアス法成立で、エセナが米ステーブルコイン市場参入──15億ドル規模「USDtb」を発行へ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/12aadf777b36dc32a0cd75e657cfee15fdcd5e22-1893x1065-2.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=305094",
           "author": "栃山直樹",
           "description": "トークン発行プラットフォーム「FiNANCiE」を提供するフィナンシェは7月25日、Solana（ソラナ）ブロックチェーン上で最大規模のDEX（分散型取引所）ア ...\nフィナンシェ、Solana最大DEXアグリゲーター「Jupiter」と接続 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -530,10 +540,70 @@
       "articles": []
     },
     {
-      "title": "ニュース  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=634128",
+          "author": "CoinPost編集部",
+          "description": "MEXCの概要暗号資産（仮想通貨）取引所MEXCの成長が著しい。CoinGeckoのデータ（2025年3月29日時点）によると、暗号資産取引高ランキングでは日間取引高が約55億ドルに達し、トップ10にランクインしている。MEXCは現物取引と...",
+          "link": "https://coinpost.jp/?p=634128",
+          "publishedOn": "2025-07-25T06:30:31.000Z",
+          "wordCount": 3231,
+          "title": "暗号資産取引所MEXC、MEXC Alpha機能で上場前トークンが現物アカウントから直接取引可能に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/mexcthumbnail-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/mexcthumbnail-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=636242",
+          "author": "hiroto.yoshii",
+          "description": "ソラナの利回り報酬に対応した米国初のETF「SSK」にJitoSOLが正式採用。ウォレット不要でステーキング収益へアクセス可能に。",
+          "link": "https://coinpost.jp/?p=636242",
+          "publishedOn": "2025-07-25T04:50:10.000Z",
+          "wordCount": 3231,
+          "title": "利回り提供のJitoSOLを採用、米国初のソラナステーキングETF『SSK』発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/Jitoetf0725.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/Jitoetf0725.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=636360",
+          "author": "Ritsuki.Kumazawa",
+          "description": "フィナンシェがSolana最大級DEXのJupiterエコシステムに連携。日本の仮想通貨IPトークンをグローバル市場へ展開する新たな取り組みで、第一弾としてGACHIHOトークンをローンチ予定。",
+          "link": "https://coinpost.jp/?p=636360",
+          "publishedOn": "2025-07-25T04:20:26.000Z",
+          "wordCount": 3286,
+          "title": "フィナンシェ、Jupiter連携で日本発IPトークンをグローバル展開へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/financejupiterthumbnail0725.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/financejupiterthumbnail0725.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=636349",
+          "author": "A.Yamada",
+          "description": "インジェクティブが仮想通貨イーサリアム保有戦略を取るシャープリンクの株式をトークン化する。このトークンはステーキングやDeFi戦略、担保などに活用できるようになる見込みだ。",
+          "link": "https://coinpost.jp/?p=636349",
+          "publishedOn": "2025-07-25T03:55:00.000Z",
+          "wordCount": 3288,
+          "title": "インジェクティブ、イーサリアム財務戦略企業シャープリンクの株式をトークン化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/20220121.INJECTIVE.p2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/20220121.INJECTIVE.p2.png"
+        },
         {
           "id": "https://coinpost.jp/?p=636251",
           "author": "S.Ninomiya",
@@ -1276,6 +1346,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=484904",
+          "author": "HitomotoToshikazu",
+          "description": "TOKYO BEASTが運営コストを理由に終了決定 ブロックチェーンゲーム「トウキョービースト（TOKYO BEAST）」が日本時間8月24日17:00をもってサービス終了する。同タイトルの公式ブログより7月23日に発表 […]",
+          "link": "https://www.neweconomy.jp/posts/484904",
+          "publishedOn": "2025-07-25T06:39:50.000Z",
+          "wordCount": 808,
+          "title": "ブロックチェーンゲーム「TOKYO BEAST」が8/24にサービス終了へ、リリースから1.5カ月で決定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/25151824/b53c4052555448c5d5269c7c453fff34.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=484900",
           "author": "gentosha_takahashi",
