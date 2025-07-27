@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-27T05:40:18.084Z</updated>
+    <updated>2025-07-27T06:45:35.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、ETHの上値目標やSOL上のポケモンカード市場の急成長など]]></title>
+        <id>https://coinpost.jp/?p=636301</id>
+        <link href="https://coinpost.jp/?p=636301"/>
+        <updated>2025-07-27T05:00:24.000Z</updated>
+        <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[渋谷のWeb3拠点「Centrum」が2年の歩みに幕──新拠点は開発者とクリエイターが集う共生の一軒家]]></title>
         <id>https://www.coindeskjapan.com/?p=305276</id>
@@ -1588,17 +1598,6 @@ FARTCOINが先物建玉でトップ10入り──このミームコインへの�
         <summary type="html"><![CDATA[米共和党議員が仮想通貨市場構造法案の討議草案を公開。下院で超党派支持を得たクラリティー法を基盤に包括的規制枠組み構築を目指す。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH、4000ドルに到達するか──アナリストらはクジラの購入と調整リスクを天秤に：テクニカル分析]]></title>
-        <id>https://www.coindeskjapan.com/?p=304704</id>
-        <link href="https://www.coindeskjapan.com/304704/"/>
-        <updated>2025-07-22T17:52:59.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）の4000ドルに向けた複数週にわたる上昇は抵抗に直面し、3%以上下落して3696ドル付近まで下落した。 強気派は上昇トレンドが維持されてい ...
-ETH、4000ドルに到達するか──アナリストらはクジラの購入と調整リスクを天秤に：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Siamak Masnavi</name>
         </author>
     </entry>
 </feed>
