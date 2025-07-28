@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=305542",
+          "author": "Ian Allison",
+          "description": "イーサリアムベースの暗号資産ウォレット、メタマスクは、分散型レンディングプロトコル、アーベとの新たな提携により、ユーザーがステーブルコインで利息を獲得できる機能 ...\nメタマスク、DeFi大手アーベと提携し、ステーブルコインの利回り獲得機能を追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305542/",
+          "publishedOn": "2025-07-28T21:30:00.000Z",
+          "wordCount": 1376,
+          "title": "メタマスク、DeFi大手アーベと提携し、ステーブルコインの利回り獲得機能を追加",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_2165339191.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=305528",
+          "author": "林 理南",
+          "description": "投資銀行ジェフリーズ（Jefferies）のレポートによれば、ビットコイン（BTC）のマイニング収益性は6月に5.3%上昇した。これは、ビットコイン価格が1.2 ...\n6月のマイニング収益性は5%以上上昇──ハッシュレート低下とビットコイン価格上昇で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/305528/",
+          "publishedOn": "2025-07-28T21:00:00.000Z",
+          "wordCount": 1331,
+          "title": "6月のマイニング収益性は5%以上上昇──ハッシュレート低下とビットコイン価格上昇で",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/e7982f2cd16aaa896fdd1b231cf766d18f1f1cc2-1440x1080-3.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=305516",
           "author": "Francisco Rodrigues",
           "description": "暗号資産（仮想通貨）はかつてないほど簡単に購入できるようになったかもしれないが、ほとんどのアメリカ人は依然として手を出そうとしていない。 ギャラップ（Gallu ...\n暗号資産の保有率は2018年から8倍に急増──しかしアメリカの投資家は依然として「リスクが高い」と見ている：調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -400,26 +420,6 @@
           "wordCount": 1323,
           "title": "ジャック・ドーシー氏のスクエア、ビットコイン決済導入──来年までに全加盟店への展開目指す",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/3ef891a3e5f94795af5e969c8924d934daa6fa59-1920x1280-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=304953",
-          "author": "栃山直樹",
-          "description": "AIソリューション事業を手掛ける東証スタンダード上場のクオンタムソリューションズは7月23日、今後12カ月で最大3000BTC（同日レート換算で約538.5億円 ...\nAI企業のクオンタム、500億円超のビットコイン投資計画を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/304953/",
-          "publishedOn": "2025-07-24T08:46:53.000Z",
-          "wordCount": 1265,
-          "title": "AI企業のクオンタム、500億円超のビットコイン投資計画を発表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/スクリーンショット-2025-07-24-17.41.55.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=304934",
-          "author": "Omkar Godbole",
-          "description": "7月24日の主要暗号資産（仮想通貨）の価格下落は、弱気相場への転換ではなく、ロングスクイーズ、つまりレバレッジをかけた強気相場の解消によるものと考えられる。 主 ...\n主要トークンの下落は弱気相場入りではなく、強気ポジションの解消が要因 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/304934/",
-          "publishedOn": "2025-07-24T08:40:00.000Z",
-          "wordCount": 1362,
-          "title": "主要トークンの下落は弱気相場入りではなく、強気ポジションの解消が要因",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/shutterstock_695324398.jpg"
         }
       ]
     },
@@ -434,6 +434,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=637330",
+          "author": "菊谷ルイス",
+          "description": "ストラテジー社が28日、新優先株「ストレッチ」で25億ドル調達完了。2025年最大のIPOとなり、調達資金でビットコイン2万500枚購入予定。週次購入は一時見送り。",
+          "link": "https://coinpost.jp/?p=637330",
+          "publishedOn": "2025-07-28T21:20:57.000Z",
+          "wordCount": 3217,
+          "title": "マイケル・セイラー率いるストラテジー、BTC購入目的で3700億円調達成功",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=637327",
+          "author": "菊谷ルイス",
+          "description": "米SECが28日、トランプメディア運営のトゥルースソーシャルが申請したビットコインETFの承認判断を9月18日まで延期すると発表。",
+          "link": "https://coinpost.jp/?p=637327",
+          "publishedOn": "2025-07-28T20:55:56.000Z",
+          "wordCount": 3207,
+          "title": "米SEC、トランプメディアのビットコインETF審査を延期",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=637319",
+          "author": "菊谷ルイス",
+          "description": "米上場のCEAインダストリーズが28日、5億ドルの資金調達でBNB特化型財務戦略を発表。世界最大の上場BNB財務会社設立を目指し、機関投資家向けにBNBチェーンエコシステムへのアクセス提供。",
+          "link": "https://coinpost.jp/?p=637319",
+          "publishedOn": "2025-07-28T20:35:43.000Z",
+          "wordCount": 3206,
+          "title": "株価が6倍に　米CEAインダストリーズ、740億円でBNB財務戦略開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bnb-nano-labs.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/bnb-nano-labs.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=636953",
           "author": "Ritsuki.Kumazawa",
@@ -1018,21 +1063,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=635975",
-          "author": "Ritsuki.Kumazawa",
-          "description": "NOT A HOTELがジェットやヘリ、クルーザーを必要な分だけ所有できる新サービスを発表。1つ購入で陸海空の複数の乗り物が利用可能。",
-          "link": "https://coinpost.jp/?p=635975",
-          "publishedOn": "2025-07-24T09:05:14.000Z",
-          "wordCount": 3299,
-          "title": "NOT A HOTEL、クルーザーから始まるモビリティシェア購入サービス『NOT A GARAGE』開始",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/notagarage.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/notagarage.png"
         }
       ]
     },
