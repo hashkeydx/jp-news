@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-07-29T11:29:24.253Z</updated>
+    <updated>2025-07-29T13:06:16.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【7/29話題】ペイパルが米国で暗号資産決済を提供へ、メタマスクのステーブルコインアーン、PayPayポイント運用にETHなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=485402</id>
+        <link href="https://www.neweconomy.jp/posts/485402"/>
+        <updated>2025-07-29T11:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム財務戦略は利回り目標を設定しているが、リスクも存在する：バーンスタイン]]></title>
         <id>https://www.coindeskjapan.com/?p=305747</id>
@@ -1312,36 +1322,6 @@ XRP、DOGE、SOLが暗号資産の急落を主導──アルトコインシー�
         <summary type="html"><![CDATA[ブラックロックが提供する仮想通貨イーサリアムの現物ETF「ETHA」の運用資産残高が、ETF史上3番目の速さで100億ドルに到達。ETHAは上場から1年でこの水準に達した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨で高級不動産を購入可能に、米クリスティーズ＝報道]]></title>
-        <id>https://coinpost.jp/?p=636234</id>
-        <link href="https://coinpost.jp/?p=636234"/>
-        <updated>2025-07-25T01:00:12.000Z</updated>
-        <summary type="html"><![CDATA[米クリスティーズの不動産部門が仮想通貨による取引専門チームを設立する。仮想通貨決済による売買物件のポートフォリオは総額10億ドルを超えている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムとアルトコインへ資金シフトの兆候＝クリプトクアント分析]]></title>
-        <id>https://coinpost.jp/?p=636227</id>
-        <link href="https://coinpost.jp/?p=636227"/>
-        <updated>2025-07-25T00:40:46.000Z</updated>
-        <summary type="html"><![CDATA[クリプトクアントの分析で仮想通貨イーサリアムがビットコインを72%上回る。週間取引量も1年ぶりに逆転、アルトコイン取引高は3月以来最高水準に。機関投資家が主導する相場展開が継続するとの分析も。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHトレジャリー企業ゲームスクエア、7.5億円でクリプトパンクNFT購入]]></title>
-        <id>https://coinpost.jp/?p=636218</id>
-        <link href="https://coinpost.jp/?p=636218"/>
-        <updated>2025-07-24T23:40:53.000Z</updated>
-        <summary type="html"><![CDATA[米上場のゲームスクエアがCompound創設者からカウボーイエイプ・クリプトパンクを515万ドルで購入。NFT利回り戦略で年6-10%リターン目標、イーサリアム保有額は約76億円に。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
