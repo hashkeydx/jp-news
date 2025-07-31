@@ -565,6 +565,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=638061",
+          "author": "Ritsuki.Kumazawa",
+          "description": "金融庁は7月31日、暗号資産制度に関するWGの第1回会合を開催。暗号資産規制への金商法の仕組み活用について検討を開始した。国内口座数1,213万、預かり資産5兆円超。政府方針では分離課税導入を含む税制見直しも言及。",
+          "link": "https://coinpost.jp/?p=638061",
+          "publishedOn": "2025-07-31T05:56:03.000Z",
+          "wordCount": 3230,
+          "title": "金融庁が仮想通貨WG第1回会合を開催、金商法活用で本格検討へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=638230",
           "author": "菊谷ルイス",
           "description": "韓国中央銀行が仮想通貨専門チーム新設とデジタル通貨室改名で組織改編。ウォン建てステーブルコイン市場監視と政策対応強化。李在明大統領の資本流出防止策を受けた動き。",
@@ -1351,6 +1366,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=485779",
+          "author": "OtsugaShinya",
+          "description": "Slash Paymentがカイアに対応開始 暗号資産（仮想通貨）決済「スラッシュペイメント（Slash Payments）」が、カイアDLT財団（Kaia DLT Foundation）開発提供のレイヤー1ブロックチェ […]",
+          "link": "https://www.neweconomy.jp/posts/485779",
+          "publishedOn": "2025-07-31T06:18:51.000Z",
+          "wordCount": 753,
+          "title": "暗号資産決済「Slash Payment」、カイアに対応開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/31151846/071ea52679a7882360e856af8d168075.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=485771",
+          "author": "OtsugaShinya",
+          "description": "メルカリ「暗号資産つみたて機能」に「毎日つみたて」追加 フリマアプリ「メルカリ」の「暗号資産つみたて機能」において、「毎日つみたて」が提供開始された。メルカリ提供のメルカリ社の子会社で、暗号資産やブロックチェーンに関する […]",
+          "link": "https://www.neweconomy.jp/posts/485771",
+          "publishedOn": "2025-07-31T06:11:25.000Z",
+          "wordCount": 588,
+          "title": "メルコイン、メルカリ「暗号資産つみたて機能」に「毎日つみたて」追加",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/31151112/57df2bdaa237be4ef35555297f39a6c6.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=485765",
+          "author": "OtsugaShinya",
+          "description": "ビットトレードにCRTS上場へ 国内暗号資産（仮想通貨）取引所ビットトレード（BitTrade）が、暗号資産クラトス（CRTS）の取り扱い予定を7月31日に発表した。8月中に取り扱い開始予定とのこと。 なおCRTSが予定 […]",
+          "link": "https://www.neweconomy.jp/posts/485765",
+          "publishedOn": "2025-07-31T06:03:13.000Z",
+          "wordCount": 729,
+          "title": "国内初、ビットトレードにクラトス（CRTS）上場へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/31150306/ba4b619a6d4c8c575a1f42906598e10f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=485759",
+          "author": "OtsugaShinya",
+          "description": "ビットトレードにOPとÅRB上場 国内暗号資産（仮想通貨）取引所ビットトレード（BitTrade）が、暗号資産オプティミズム（OP）とアービトラム（ARB）を7月30日より取り扱い開始した。 OPとARBが国内暗号資産取 […]",
+          "link": "https://www.neweconomy.jp/posts/485759",
+          "publishedOn": "2025-07-31T05:54:50.000Z",
+          "wordCount": 742,
+          "title": "ビットトレードにオプティミズム（OP）とアービトラム（ARB）上場",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/07/31145444/OP-ARB-250731Ninja-Studio.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=485751",
           "author": "HitomotoToshikazu",
