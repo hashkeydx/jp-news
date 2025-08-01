@@ -880,6 +880,21 @@
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/sec-fight-back.png"
         },
         {
+          "id": "https://coinpost.jp/?p=206659",
+          "author": "CoinPost編集部",
+          "description": "国内大手仮想通貨取引所bitFlyerについて、投資家目線でおすすめする3つの注目ポイントを紹介。中でもビットコインFXトレードでは、世界有数の圧倒的なシェアを誇っています。",
+          "link": "https://coinpost.jp/?p=206659",
+          "publishedOn": "2025-07-31T08:55:35.000Z",
+          "wordCount": 2442,
+          "title": "ビットフライヤー｜国内最大級の実績・信頼性の高い仮想通貨取引所",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/202507.bitFlyer.1200x630_02-2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/202507.bitFlyer.1200x630_02-2.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=638347",
           "author": "AKIRA.H",
           "description": "ビットトレードが暗号資産クラトス（CRTS）を国内初上場へ。韓国発V2Eトークンの特徴や取扱い開始時期、注意点を詳しく解説。",
@@ -1606,6 +1621,66 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=486071",
+          "author": "OtsugaShinya",
+          "description": "ネイティブUSDCがハイリキに対応へ 米サークル（Circle Internet Financial）発行の米ドル建てステーブルコイン「USDC」のネイティブ型トークンが、「ハイパーリキッド（Hyperliquid）」へ […]",
+          "link": "https://www.neweconomy.jp/posts/486071",
+          "publishedOn": "2025-08-01T07:27:32.000Z",
+          "wordCount": 690,
+          "title": "米サークル「USDC」、Hyperliquidにネイティブ対応へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01162711/USDC-250801Vit_Mar.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486069",
+          "author": "gentosha_takahashi",
+          "description": "ドイツ初のBaFin認可ユーロ建てステーブルコイン 資産運用会社のDWS、マーケットメイカーのフロートレーダーズ（Flow Traders）、デジタル資産企業のギャラクシー（Galaxy Digital）の3社によるジョ […]",
+          "link": "https://www.neweconomy.jp/posts/486069",
+          "publishedOn": "2025-08-01T07:27:31.000Z",
+          "wordCount": 613,
+          "title": "ギャラクシーらのジョイントベンチャー「AllUnity」、ドイツ初のBaFin認可ユーロ建てステーブルコイン「EURAU」ローンチ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01162717/cdf743ab1cdbfde48bd0d5a407f81cd7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486058",
+          "author": "OtsugaShinya",
+          "description": "コンヴァノが約15億円でビットコイン購入 ネイルサロン「FASTNAIL」運営の東証グロース上場企業コンヴァノが、ビットコインの購入実施を7月31日に発表した。 同社は14億9,999万9,982円にて、85.0035B […]",
+          "link": "https://www.neweconomy.jp/posts/486058",
+          "publishedOn": "2025-08-01T06:44:26.000Z",
+          "wordCount": 731,
+          "title": "ネイルサロン運営のコンヴァノ、約15億円でビットコイン購入",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01154415/6d6f0845c7876efd69fbea6b6f7f11ad.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486050",
+          "author": "gentosha_takahashi",
+          "description": "「米国をイノベーションのリーダーへ」 米証券取引委員会（SEC）のポール・アトキンス（Paul S. Atkins）委員長が、「プロジェクト・クリプト（Project Crypto）」を開始すると宣言し、米国における暗号 […]",
+          "link": "https://www.neweconomy.jp/posts/486050",
+          "publishedOn": "2025-08-01T06:41:12.000Z",
+          "wordCount": 741,
+          "title": "米SECが「プロジェクト・クリプト」開始。現代型規制に転換へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01154104/b1d7e66321ce18a8f7a5cd3d5aca0bd0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486036",
+          "author": "HitomotoToshikazu",
+          "description": "Mill City Ventures IIIがSUIトレジャリー構築 米ミネソタ州の金融サービス会社ミルシティベンチャーズIII（Mill City Ventures III：以下ミルシティ）が、4億5,000万ドル（約 […]",
+          "link": "https://www.neweconomy.jp/posts/486036",
+          "publishedOn": "2025-08-01T06:37:17.000Z",
+          "wordCount": 760,
+          "title": "ミルシティが「スイ（SUI）」財務戦略開始、4.5億ドル調達で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01153511/c1bca7fb1b1ed8c05968345ce68effa7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486023",
+          "author": "OtsugaShinya",
+          "description": "ANAPが約3億円でビットコイン追加購入 東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を7月31日に発表した。 ANAPホールディングスは、 […]",
+          "link": "https://www.neweconomy.jp/posts/486023",
+          "publishedOn": "2025-08-01T05:51:29.000Z",
+          "wordCount": 741,
+          "title": "ANAPが約3億円でビットコイン追加購入、保有数は約831BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/01145121/4dbad2c8870211874cb570ce5cea8d7a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=486018",
           "author": "OtsugaShinya",
