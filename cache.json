@@ -450,16 +450,6 @@
           "wordCount": 1314,
           "title": "WLFI、オンチェーン・ドルの流動性向上目指しファルコン・ファイナンスに1000万ドルを投資",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/0469313dfda8d51565fcec0eeb87746d4b45ae47-2400x1350-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=305949",
-          "author": "林 理南",
-          "description": "ビットコイン（BTC）は本記事執筆時点で11万8000ドル（約1711万円、1ドル145円換算）を下回って取引されている。アメリカの経済成長データが予想を上回り ...\nビットコインは11万8000ドル割れ、ドルインデックスは5週間ぶりの高値──米GDPは第2四半期に3%成長 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/305949/",
-          "publishedOn": "2025-07-30T14:46:58.000Z",
-          "wordCount": 1327,
-          "title": "ビットコインは11万8000ドル割れ、ドルインデックスは5週間ぶりの高値──米GDPは第2四半期に3%成長",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/f2e16f6f36ec6db779ac152cbb276564d7f05c43-1420x799-1.jpg"
         }
       ]
     },
@@ -474,6 +464,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=639124",
+          "author": "A.Yamada",
+          "description": "トランプ・メディアが2Qの決算を報告。3,000億円相当の仮想通貨ビットコインおよび関連証券を蓄積している。ETF申請やユーティリティトークン構想についても説明した。",
+          "link": "https://coinpost.jp/?p=639124",
+          "publishedOn": "2025-08-04T04:00:57.000Z",
+          "wordCount": 3241,
+          "title": "トランプ・メディア決算、ビットコインと関連証券を3000億円相当購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/Truth-Social-Trump.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/Truth-Social-Trump.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=639053",
           "author": "A.Yamada",
@@ -1201,6 +1206,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=486247",
+          "author": "OtsugaShinya",
+          "description": "コインベース株が15%急落 米大手暗号資産（仮想通貨）取引所コインベースの株価が8月1日に15%下落し、1ヶ月ぶりの安値を付けた。取引の減速で第2四半期の調整後利益が減少したと、コインベースが報告したことを受けた下落であ […]",
+          "link": "https://www.neweconomy.jp/posts/486247",
+          "publishedOn": "2025-08-04T04:17:20.000Z",
+          "wordCount": 766,
+          "title": "コインベース株が15%急落、Q2の減益報告を受け",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/04131550/db337a7462310c1cd970e42c42dabe2c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486232",
+          "author": "NewEconomy",
+          "description": "香港でフィンテックが相次ぎ資本調達 香港ではフィンテック企業が暗号資産（仮想通貨）事業の拡大に向けた資金を確保しようと資本調達を急ぎ進めている。背景には香港で8月1日からステーブルコインに関する規則が施行されて発行体によ […]",
+          "link": "https://www.neweconomy.jp/posts/486232",
+          "publishedOn": "2025-08-04T03:31:36.000Z",
+          "wordCount": 747,
+          "title": "香港でフィンテックが相次ぎ資本調達、ステーブルコイン規則施行で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/04123131/03f57d0b24e49629c3eee5ab46578ad5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486225",
+          "author": "OtsugaShinya",
+          "description": "メタプラのビットコイン総保有数が17,595BTCに ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、ビットコインの追加購入実施を8月4日に発表した。 今回メタプラネットが追加購 […]",
+          "link": "https://www.neweconomy.jp/posts/486225",
+          "publishedOn": "2025-08-04T03:16:56.000Z",
+          "wordCount": 768,
+          "title": "メタプラが約78億円でビットコイン追加購入、総保有数17,595BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/04121651/BTC20-250714-PIXTA.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=486209",
           "author": "gentosha_takahashi",
