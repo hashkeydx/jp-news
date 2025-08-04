@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-04T13:07:14.986Z</updated>
+    <updated>2025-08-04T13:52:51.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FedEx、JPモルガンのブロックチェーン決済基盤「Kinexys」導入]]></title>
+        <id>https://www.neweconomy.jp/?p=486442</id>
+        <link href="https://www.neweconomy.jp/posts/486442"/>
+        <updated>2025-08-04T13:27:32.000Z</updated>
+        <summary type="html"><![CDATA[FedExがKinexys導入 国際総合貨物輸送会社フェデックス（FedEx）が、米銀行大手JPモルガン（JPMorgan Chase）のブロックチェーン決済ソリューション「キネクシス（Kinexys）」を導入した。JP […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/4話題】メタプラとAMNがビットコイン追加購入、コンヴァノが21,000BTC取得計画、英FCAが個人への暗号資産ETN販売解禁など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=486332</id>
@@ -1280,16 +1290,6 @@ AIとブロックチェーンが交差する夏、JBWが8月開幕──業界�
         <summary type="html"><![CDATA[トークン発行プロトコルの仮想通貨ZORAの価格が7月20日以降高騰。背景には、コインベースが2週間前に行った次世代アプリBase Appの発表があるとの見方が多い。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[環境フレンドリーHD、太陽光発電活用でビットコインマイニング事業開始]]></title>
-        <id>https://coinpost.jp/?p=638070</id>
-        <link href="https://coinpost.jp/?p=638070"/>
-        <updated>2025-07-31T01:45:02.000Z</updated>
-        <summary type="html"><![CDATA[東証上場環境フレンドリーホールディングスが太陽光発電所にBESS併設してビットコインマイニング事業開始を決議。系統連系待機期間活用の新収益モデルを構築へ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
