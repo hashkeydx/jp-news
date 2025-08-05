@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=306929",
+          "author": "Oliver Knight",
+          "description": "コインベース（Coinbase）のイーサリアム（Ethereum）・レイヤー2スケーリング製品であるBaseは、2023年のデビュー以来初めて停止し、ブロック生 ...\nBaseが稼働開始以来初のダウンタイムに見舞われ、29分間の運用停止 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/306929/",
+          "publishedOn": "2025-08-05T10:20:00.000Z",
+          "wordCount": 1316,
+          "title": "Baseが稼働開始以来初のダウンタイムに見舞われ、29分間の運用停止",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_1092945194.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=306917",
+          "author": "James Van Straten",
+          "description": "1年前の今日、市場は円キャリートレードの巻き戻しに動揺した。日本が金融引き締め政策に転換し、国債利回りが上昇するにつれ、日本円のような低金利通貨で借り入れ、高利 ...\nビットコインは4万9000ドルだった1年前から130％上昇──長期保有者のシェアも2倍に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/306917/",
+          "publishedOn": "2025-08-05T09:45:00.000Z",
+          "wordCount": 1372,
+          "title": "ビットコインは4万9000ドルだった1年前から130％上昇──長期保有者のシェアも2倍に",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/407794f935472834c6db97419da9312fa1a1e83a-3200x1800-1.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=306865",
           "author": "Omkar Godbole",
           "description": "かつて自信を持って未来を見据えていたビットコイン（BTC）強気派は、長期的な強気路線への確信を見直しつつある。 これは、デリビット（Deribit）上場のアウト ...\nインフレ懸念の高まりを受け、ビットコインの長期的なセンチメントは強気から中立へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -480,26 +500,6 @@
           "wordCount": 1439,
           "title": "18万台接続の米DIMOが日本上陸──車をスマホ化するDePINプロジェクトの正体とは【DIMO JAPAN代表・林氏に聞く】",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/DSC_4552-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=306216",
-          "author": "Krisztian Sandor",
-          "description": "ビットコイン（BTC）は12万ドルをわずかに下回る非常に狭いレンジで取引されているが、ビットコインにとって歴史的に軟調な8月に突入する中、その上昇は急速に勢いを ...\nビットコイン、歴史的に軟調な8月を控え、勢いにかげり：10x Research first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/306216/",
-          "publishedOn": "2025-07-31T22:25:14.000Z",
-          "wordCount": 1432,
-          "title": "ビットコイン、歴史的に軟調な8月を控え、勢いにかげり：10x Research",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2491707351.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=306212",
-          "author": "Helene Braun",
-          "description": "暗号資産取引所コインベースは7月31日、予想を下回る第2四半期決算を発表し、時間外取引で株価が7%下落した。 コインベースは、第2四半期の総収益が15億ドル（約 ...\nコインベース株、期待外れの第2四半期決算を受け7%急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/306212/",
-          "publishedOn": "2025-07-31T21:52:37.000Z",
-          "wordCount": 1358,
-          "title": "コインベース株、期待外れの第2四半期決算を受け7%急落",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2569554851.jpg"
         }
       ]
     },
@@ -1233,36 +1233,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bitcoin-new-high-after-big-correction-.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bitcoin-new-high-after-big-correction-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=638470",
-          "author": "菊谷ルイス",
-          "description": "ビザが決済プラットフォームを拡張し、ペイパルUSD、グローバルダラー、EURCの3ステーブルコインとステラー、アバランチの2ブロックチェーンを新たに支援開始。",
-          "link": "https://coinpost.jp/?p=638470",
-          "publishedOn": "2025-07-31T22:30:23.000Z",
-          "wordCount": 3198,
-          "title": "ビザ、ステーブルコイン決済で3銘柄と2ブロックチェーンを追加",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/visa-tokenized-fiat-bank-eth.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/visa-tokenized-fiat-bank-eth.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=638459",
-          "author": "K.Kobayashi",
-          "description": "リップル社は、Swellにナスダックのアデナ・フリードマン会長兼CEOが登壇することと話すトピックを発表。今年のSwellは11月4日から5日に米ニューヨークで開催される。",
-          "link": "https://coinpost.jp/?p=638459",
-          "publishedOn": "2025-07-31T22:02:18.000Z",
-          "wordCount": 3223,
-          "title": "リップル社の年次イベント「Swell」、ナスダックCEOなどが登壇予定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103003.jpg"
         }
       ]
     },
@@ -1271,6 +1241,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=486590",
+          "author": "HitomotoToshikazu",
+          "description": "Grayscale Decentralized AI Fund提供開始 米暗号資産（仮想通貨）運用会社のグレースケール（Grayscale）が、AI・ブロックチェーン関連の暗号資産を組み入れたバスケット型ファンド「Gra […]",
+          "link": "https://www.neweconomy.jp/posts/486590",
+          "publishedOn": "2025-08-05T10:23:47.000Z",
+          "wordCount": 821,
+          "title": "グレースケール、TAO・NEAR・RENDER・FIL・GRTを含む分散型AIファンド提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/05192326/91c8dbf7cfaf42c2dcc7034be485cdca.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=486585",
+          "author": "gentosha_takahashi",
+          "description": "TONコインを財務準備資産として大量取得予定 ナスダック上場企業のヴァーブ・テクノロジー・カンパニー（Verb Technology Company：VERB）が、超過申込されたプライベートプレースメント（PIPE取引： […]",
+          "link": "https://www.neweconomy.jp/posts/486585",
+          "publishedOn": "2025-08-05T09:47:55.000Z",
+          "wordCount": 755,
+          "title": "ナスダック上場企業VERB、TON財務戦略を掲げ社名変更へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/05184749/ce7d7b3bbc0c4853474d02caefc281e2.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=486554",
           "author": "TamuraSeiji",
