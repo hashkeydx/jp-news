@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-05T20:33:25.313Z</updated>
+    <updated>2025-08-05T21:32:10.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米シャープリンク、イーサリアム保有量を52万ETHに拡大]]></title>
+        <id>https://coinpost.jp/?p=639768</id>
+        <link href="https://coinpost.jp/?p=639768"/>
+        <updated>2025-08-05T21:20:13.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場のシャープリンクゲーミングが8月5日、7月28日-8月3日に8.3万ETHを平均3634ドルで購入し総保有量52.1万ETHに拡大と発表。ETHトレジャリー企業で世界2位。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、約3000億円の転換社債発行を発表]]></title>
+        <id>https://coinpost.jp/?p=639764</id>
+        <link href="https://coinpost.jp/?p=639764"/>
+        <updated>2025-08-05T20:50:54.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所コインベースが8月5日、10億ドルずつ2029年・2032年満期の転換社債20億ドル発行計画を発表。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、「リキッドステーキング活動は有価証券に該当せず」]]></title>
         <id>https://coinpost.jp/?p=639760</id>
@@ -1127,38 +1147,6 @@ Visa、ステーブルコイン決済をアバランチ、ステラに拡大 fir
 トレーダーはイーサリアムを見限った？──オプション市場では、ETHの下落リスクはBTCよりも高い first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wi-FiルーターだけでソラナのDePINプロジェクトに参加できる「ヘリウム・プラス」を提供開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=306295</id>
-        <link href="https://www.coindeskjapan.com/306295/"/>
-        <updated>2025-08-01T09:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ（Solana）で最も有名なDePIN（分散型物理インフラネットワーク）プロジェクトの一つであるヘリウム（Helium）は、企業がヘリウム・ネットワーク（ ...
-Wi-FiルーターだけでソラナのDePINプロジェクトに参加できる「ヘリウム・プラス」を提供開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年、ビットコインとイーサリアムの最高値は？ 予測市場が示す価格予想と注目トピック]]></title>
-        <id>https://coinpost.jp/?p=637701</id>
-        <link href="https://coinpost.jp/?p=637701"/>
-        <updated>2025-08-01T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨市場の未来について、現在もポリマーケットなどで予測が活発に行われている。本記事では、2024年に精度で注目を集めた予測市場が示す2025年後半の仮想通貨相場展望をまとめた。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、BTCの保有量を増やす──トークン化株式と予測市場の立ち上げも発表]]></title>
-        <id>https://www.coindeskjapan.com/?p=306287</id>
-        <link href="https://www.coindeskjapan.com/306287/"/>
-        <updated>2025-08-01T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[コインベース（Coinbase）は、ビットコイン（BTC）保有量を増やしており、今後数カ月以内にトークン化された米国株と予測市場を立ち上げる計画を発表した。これ ...
-コインベース、BTCの保有量を増やす──トークン化株式と予測市場の立ち上げも発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>
