@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-06T14:42:05.622Z</updated>
+    <updated>2025-08-06T15:36:48.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの実現価格が上昇──投資家は蓄積を継続]]></title>
+        <id>https://www.coindeskjapan.com/?p=307088</id>
+        <link href="https://www.coindeskjapan.com/307088/"/>
+        <updated>2025-08-06T15:13:51.000Z</updated>
+        <summary type="html"><![CDATA[3つの主要なビットコイン（BTC）実現価格の指標はいずれも明確な上昇傾向にあり、各グループの投資家が引き続き高値でビットコインを蓄積していることを示している。  ...
+ビットコインの実現価格が上昇──投資家は蓄積を継続 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/6話題】SECがリキッドステーキングは証券取引に該当せずと見解、ビットコインでDMMポイント購入可能になど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=486826</id>
@@ -1310,16 +1321,6 @@ Visa、ステーブルコイン決済をアバランチ、ステラに拡大 fir
         <summary type="html"><![CDATA[OpenAIが新たに1.2兆円の資金調達を完了。経常収益が急成長する中、汎用人工知能（AGI）達成後のマイクロソフトとの技術利用権について協議を進めていると伝えられる。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GENIUS法成立、サークル株に対する影響と今後の展望は]]></title>
-        <id>https://coinpost.jp/?p=637191</id>
-        <link href="https://coinpost.jp/?p=637191"/>
-        <updated>2025-08-02T03:00:38.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインUSDCの発行元サークルが米国で上場し、株価は急騰後に一時300ドル近くまで上昇。GENIUS法案の追い風もあり注目を集めたが、その後は調整局面へ。本記事では株価動向、成長の可能性、リスク、そしてUSDCの仕組みやDeFiでの活用方法を総合的に解説する。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
