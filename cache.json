@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=307378",
+          "author": "Helene Braun",
+          "description": "ETFプロバイダーのプロシェアーズは、サークル社の株式に対し、パフォーマンスの2倍のリターンを提供することを目指す新商品をローンチした。これによってトレーダーは ...\nプロシェアーズ、レバレッジ型「ウルトラCRCL」ETFを上場──サークル株の2倍のリターン提供を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/307378/",
+          "publishedOn": "2025-08-07T21:30:00.000Z",
+          "wordCount": 1398,
+          "title": "プロシェアーズ、レバレッジ型「ウルトラCRCL」ETFを上場──サークル株の2倍のリターン提供を目指す",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2641980601.jpg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=307328",
+          "author": "林 理南",
+          "description": "リップル社（Ripple）は7日、ステーブルコイン決済プラットフォームであるレイル（Rail）を2億ドル（約290億円、1ドル145円換算）で買収すると発表した ...\nリップル社、ステーブルコイン決済企業レイルを2億ドルで買収へ──RLUSDの強化目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/307328/",
+          "publishedOn": "2025-08-07T21:00:00.000Z",
+          "wordCount": 1295,
+          "title": "リップル社、ステーブルコイン決済企業レイルを2億ドルで買収へ──RLUSDの強化目指す",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/489fbcdb82aa6e8d6f96e8034657472b913fecbd-4096x3072-1-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=307317",
           "author": "Oliver Knight",
           "description": "ブルームバーグによると、ドナルド・トランプ（Donald Trump）大統領は、401(k)プランに暗号資産（仮想通貨）、プライベートエクイティ、不動産を組み入 ...\nトランプ大統領、401(k)プランの暗号資産への投資を承認へ──ビットコインが急上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -620,16 +640,6 @@
           "wordCount": 1393,
           "title": "ホワイトハウスの暗号資産レポート、ビットコイン備蓄には触れず",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/image-28.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=304740",
-          "author": "蓮田光則",
-          "description": "ナスダック上場の米バイオテクノロジー企業、ウィンドツリー・セラピューティクス（Windtree Therapeutics）は米暗号資産（仮想通貨）取引所クラーケ ...\nBNBトレジャリー戦略を採用するナスダック上場企業が登場、クラーケンがサポート first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/304740/",
-          "publishedOn": "2025-08-03T08:40:00.000Z",
-          "wordCount": 1315,
-          "title": "BNBトレジャリー戦略を採用するナスダック上場企業が登場、クラーケンがサポート",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/07/ee573bd500e18702c47e5dd9d481aea9b76b3c7f-1000x734-r.jpg"
         }
       ]
     },
@@ -644,6 +654,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=640501",
+          "author": "菊谷ルイス",
+          "description": "シャープリンク・ゲーミングが機関投資家4社から2億ドルを調達し、イーサリアム保有量の大幅拡大計画を発表した。現在521,900 ETH保有で世界最大級の企業ETHトレジャリーを目指している。",
+          "link": "https://coinpost.jp/?p=640501",
+          "publishedOn": "2025-08-07T21:10:07.000Z",
+          "wordCount": 3222,
+          "title": "米シャープリンク、2億ドル資金調達でイーサリアム保有拡大へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=640491",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領が政治的理由による銀行口座閉鎖を禁止する大統領令に署名した。仮想通貨業界への差別的扱い解消を目指し、連邦規制当局に風評リスク概念の撤廃を指示している。",
+          "link": "https://coinpost.jp/?p=640491",
+          "publishedOn": "2025-08-07T20:50:02.000Z",
+          "wordCount": 3220,
+          "title": "トランプ、仮想通貨業界への「ディバンキング」禁止大統領令に署名",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-family-wallet-dispute.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-family-wallet-dispute.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=640485",
+          "author": "菊谷ルイス",
+          "description": "トランプ米大統領が401k退職金制度での仮想通貨やプライベートエクイティ投資を解禁する大統領令に署名。9兆ドル規模の退職金市場開放でビットワイズは最大8000億ドルの資金流入を試算。",
+          "link": "https://coinpost.jp/?p=640485",
+          "publishedOn": "2025-08-07T20:35:25.000Z",
+          "wordCount": 3227,
+          "title": "トランプ、12兆ドル規模退職金制度での仮想通貨投資解禁を大統領令で指示",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-token-truthfi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-token-truthfi.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=640289",
           "author": "菊谷ルイス",
