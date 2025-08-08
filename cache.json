@@ -710,10 +710,25 @@
       "articles": []
     },
     {
-      "title": "ニュース  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=640672",
+          "author": "幸田直子",
+          "description": "ブロックチェーン分析企業Glassnodeは週次市場レポートで、ビットコイン市場は現在、最高値更新後の「優柔不断な」調整局面にあり、価格は「エアギャップ」と呼ばれる流動性の低い領域に留まっていると分析した。",
+          "link": "https://coinpost.jp/?p=640672",
+          "publishedOn": "2025-08-08T04:40:24.000Z",
+          "wordCount": 3237,
+          "title": "ビットコイン市場、最高値更新後「優柔不断」な局面に＝Glassnode分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin-hash-highest.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/bitcoin-hash-highest.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=640680",
           "author": "菊谷ルイス",
@@ -743,6 +758,21 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/remixpointwebx2025.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/remixpointwebx2025.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=640209",
+          "author": "S.Ninomiya",
+          "description": "XRP価格が前日比10%急騰。リップル社と米SECの5年間の法廷闘争が終結し、法的地位が確立された。同時にトランプ大統領が政治的理由による銀行サービス拒否を禁止する大統領令と401k制度改革を発表し、9000万人の米国労働者に仮想通貨投資機会を開放した。ビットコインも上昇し、仮想通貨市場全体に強気材料が重なっている。",
+          "link": "https://coinpost.jp/?p=640209",
+          "publishedOn": "2025-08-08T02:59:10.000Z",
+          "wordCount": 3248,
+          "title": "リップル社とSEC和解でXRP急伸、トランプ政権の仮想通貨政策など複数の材料が相場押し上げ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/xrppurple1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/xrppurple1.png"
         },
         {
           "id": "https://coinpost.jp/?p=640648",
@@ -1696,6 +1726,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=487342",
+          "author": "OtsugaShinya",
+          "description": "ビットバンクがSUI取り扱いへ 国内暗号資産（仮想通貨）取引所ビットバンク（bitbank）が、暗号資産スイ（SUI）の取り扱い予定を8月8日に発表した。8月14日より取り扱い開始するとのこと。 予定通り上場すれば国内暗 […]",
+          "link": "https://www.neweconomy.jp/posts/487342",
+          "publishedOn": "2025-08-08T06:36:37.000Z",
+          "wordCount": 770,
+          "title": "ビットバンクにスイ（SUI）上場へ、国内5例目",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08153633/49fdf81dd32b70b5c535dc8942b46a30.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=487333",
+          "author": "OtsugaShinya",
+          "description": "北紡がビットコイン購入 東証スタンダード上場の北紡が、ビットコインの購入を8月7日に発表した。なお同社は7月1日より北日本紡績から北紡へ社名変更している。 北紡は、石川県白山市に本社を置く繊維メーカーだ。今年5月、同社は […]",
+          "link": "https://www.neweconomy.jp/posts/487333",
+          "publishedOn": "2025-08-08T06:16:57.000Z",
+          "wordCount": 728,
+          "title": "繊維メーカーの北紡がビットコイン取得開始、毎営業日で200万円分の購入へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08151647/BTC49-250714-PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=487321",
+          "author": "OtsugaShinya",
+          "description": "東邦レマックがBTCとETH購入 婦人・紳士靴の卸売業等を行う東証スタンダード上場企業の東邦レマックが、ビットコイン（BTC）およびイーサリアム（ETH）の購入を8月6日に発表した。 同社は7月15日、7月から2026年 […]",
+          "link": "https://www.neweconomy.jp/posts/487321",
+          "publishedOn": "2025-08-08T05:53:40.000Z",
+          "wordCount": 724,
+          "title": "靴卸売業の東邦レマック、5000万円でビットコイン（BTC）とイーサリアム（ETH）購入",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08145328/7b8da6f64f1e069f31e551476053aa9f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=487319",
+          "author": "HitomotoToshikazu",
+          "description": "RippleとRailがステーブルコイン決済提供へ 米リップル（Ripple）社が、ステーブルコイン決済プラットフォームを提供する「レイル（Rail）」を2億ドル（約294億円）で買収予定であると8月7日に発表した。 発 […]",
+          "link": "https://www.neweconomy.jp/posts/487319",
+          "publishedOn": "2025-08-08T05:52:49.000Z",
+          "wordCount": 737,
+          "title": "米リップルがステーブルコイン決済提供のRail買収へ、BDACSが韓国でXRPカストディ提供開始も",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/08145221/1a926b5bad1ed921b58ebd54d8807707.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=487300",
           "author": "OtsugaShinya",
