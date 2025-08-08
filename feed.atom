@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-08T21:29:33.889Z</updated>
+    <updated>2025-08-08T22:34:08.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コインベースがDEX統合機能を開始、取引可能資産を300から数百万に拡大]]></title>
+        <id>https://coinpost.jp/?p=640923</id>
+        <link href="https://coinpost.jp/?p=640923"/>
+        <updated>2025-08-08T22:00:46.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースが分散型取引所の統合機能を発表。従来300銘柄から数百万の仮想通貨資産取引が可能になり、Aerodromeやユニスワップにも対応。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レックス・シェアーズ、ギャラクシー・デジタル株の2倍レバレッジETFを提供]]></title>
+        <id>https://coinpost.jp/?p=640919</id>
+        <link href="https://coinpost.jp/?p=640919"/>
+        <updated>2025-08-08T21:30:20.000Z</updated>
+        <summary type="html"><![CDATA[米レックス・シェアーズとタトル・キャピタル・マネジメントが米国でマイク・ノボグラッツ氏率いるギャラクシー・デジタル株の2倍レバレッジETF「GLXU」を新規上場。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、スペイン大手銀行BBVAと提携]]></title>
         <id>https://coinpost.jp/?p=640917</id>
@@ -1955,17 +1975,6 @@ Baseが稼働開始以来初のダウンタイムに見舞われ、29分間の�
 フランスの国会議員グループ、原子力発電所の余剰電力でビットコインをマイニングする計画を発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Francisco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース株、約20%下落──2024年9月以来最悪のパフォーマンス]]></title>
-        <id>https://www.coindeskjapan.com/?p=306613</id>
-        <link href="https://www.coindeskjapan.com/306613/"/>
-        <updated>2025-08-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TradingViewのデータによると、ナスダック上場の暗号資産（仮想通貨）取引所コインベース（Coinbase）の株価は先週、19.6%下落して314.69ド ...
-コインベース株、約20%下落──2024年9月以来最悪のパフォーマンス first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
