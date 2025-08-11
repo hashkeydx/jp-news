@@ -500,26 +500,6 @@
           "wordCount": 1327,
           "title": "バックト、日本の堀田丸正の株式約30%を取得──グローバルなビットコイントレジャリー戦略を展開",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/a21a9198f6194f8a96be6374ffca9d7487595d99-1280x800-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=307147",
-          "author": "Will Canny",
-          "description": "グローバル金融サービスプラットフォームであるマレックスは8月6日、Brevan Howard Digitalとの協力により、JPモルガンが開発したブロックチェー ...\nマレックス、JPモルガンのKinexysを採用する初の清算会社に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/307147/",
-          "publishedOn": "2025-08-06T22:30:00.000Z",
-          "wordCount": 1330,
-          "title": "マレックス、JPモルガンのKinexysを採用する初の清算会社に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/35886883dce738e2713563ca6be4fb91d69d02d9-942x1024-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=307134",
-          "author": "林 理南",
-          "description": "ミシガン州退職年金制度（SMRS）はビットコイン（BTC）への投資を大幅に拡大している。これはリスク選好度の高まり、または暗号資産（仮想通貨）の将来価値に対する ...\nミシガン州退職年金制度がビットコインETFへの投資を増加──暗号資産の将来への慎重な信頼感を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/307134/",
-          "publishedOn": "2025-08-06T22:00:00.000Z",
-          "wordCount": 1324,
-          "title": "ミシガン州退職年金制度がビットコインETFへの投資を増加──暗号資産の将来への慎重な信頼感を示唆",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/51086907a98a0069d3b87fcbf270ce27fdf3735a-4032x3024-1-scaled.jpg"
         }
       ]
     },
@@ -534,6 +514,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=641056",
+          "author": "A.Yamada",
+          "description": "米ホワイトハウス仮想通貨評議会のボー・ハインズ事務局長が退任し民間復帰する予定だ。同氏はトランプ政権の仮想通貨政策報告書作成をデビッド・サックス氏と共に主導していた。",
+          "link": "https://coinpost.jp/?p=641056",
+          "publishedOn": "2025-08-11T09:45:43.000Z",
+          "wordCount": 3217,
+          "title": "トランプ政権、仮想通貨評議会高官が退任　民間復帰へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/white-house-new-policy-crafting.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/white-house-new-policy-crafting.png"
+        },
         {
           "id": "https://coinpost.jp/?p=641047",
           "author": "A.Yamada",
@@ -1171,6 +1166,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=487591",
+          "author": "HitomotoToshikazu",
+          "description": "Base AppにAerodromeとUniswap対応 米暗号資産（仮想通貨）取引所コインベース（Coinbase）提供のベースアプリ（Base App）で分散型取引所（DEX）の取引が可能になったことが8月8日に発表 […]",
+          "link": "https://www.neweconomy.jp/posts/487591",
+          "publishedOn": "2025-08-11T10:06:37.000Z",
+          "wordCount": 747,
+          "title": "「Base App」内でDEX取引提供開始、イーサL2「ベース」上の資産対応、ソラナ対応も予定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/11190605/SBI-250117monsitj.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=487585",
+          "author": "HitomotoToshikazu",
+          "description": "SygnumがSUIステーキング提供へ スイスのデジタル銀行シグナム（Sygnum）が、機関投資家向けに暗号資産（仮想通貨）スイ（SUI）のステーキングおよびロンバードローン（資産担保ローン）を提供開始予定であると8月8 […]",
+          "link": "https://www.neweconomy.jp/posts/487585",
+          "publishedOn": "2025-08-11T10:01:19.000Z",
+          "wordCount": 771,
+          "title": "スイスのデジタル資産銀行シグナム、「スイ（SUI）」のステーキングと担保ローン提供開始へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/11185926/da643d7e0478f93fde17ef194ed9a763.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=487549",
           "author": "HitomotoToshikazu",
