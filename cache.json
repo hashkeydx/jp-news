@@ -490,16 +490,6 @@
           "wordCount": 1323,
           "title": "カルダノのMidnight、8つのブロックチェーンで「NIGHT」トークンのエアドロップを開始",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/4d6663dec418e7bb45029bf936ef7017c90bfb3b-5616x3744-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=307039",
-          "author": "CoinDesk JAPAN",
-          "description": "デジタル資産・ブロックチェーンを深く理解し、新たな事業創出を目指すビジネスパーソン・投資家必携の1冊です。 CoinDesk JAPANを運営するN.Avenu ...\n『Web3・暗号資産 13人の未来予測』8月20日に発売──CoinDesk JAPANを運営するN.AvenueのCEO、神本侑季が編著 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/307039/",
-          "publishedOn": "2025-08-07T00:00:00.000Z",
-          "wordCount": 1394,
-          "title": "『Web3・暗号資産 13人の未来予測』8月20日に発売──CoinDesk JAPANを運営するN.AvenueのCEO、神本侑季が編著",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/book01-2.jpg"
         }
       ]
     },
@@ -514,6 +504,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=641069",
+          "author": "幸田直子",
+          "description": "エルサルバドルが投資銀行法を可決し、機関投資家向けビットコイン投資サービスが解禁となる。投資銀行の設立条件は、最低資本金5000万ドルで、25万ドル以上の資産保有者がサービスの対象となる。",
+          "link": "https://coinpost.jp/?p=641069",
+          "publishedOn": "2025-08-11T10:45:21.000Z",
+          "wordCount": 3239,
+          "title": "エルサルバドル、新法可決でビットコイン投資銀行実現へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/elsalvador-e-colone-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/elsalvador-e-colone-1.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=641056",
           "author": "A.Yamada",
@@ -1113,36 +1118,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/US-bitcoin-czar-criticize.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=640200",
-          "author": "A.Yamada",
-          "description": "米SECの「プロジェクト・クリプト」開始により期待できる投資機会をビットワイズCIOが分析した。SEC委員長のスピーチを背景にして3つの分野を特定している。",
-          "link": "https://coinpost.jp/?p=640200",
-          "publishedOn": "2025-08-07T00:30:56.000Z",
-          "wordCount": 3246,
-          "title": "米SEC「プロジェクト・クリプト」で注目すべき3つの仮想通貨投資チャンス＝Bitwise",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/value-investment.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/value-investment.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=640193",
-          "author": "菊谷ルイス",
-          "description": "ファンドストラットのトム・リー氏がビットコイン価格25万ドル到達の予測を維持。機関投資家の関心高まりと市場懐疑論を根拠に強気見通しを示すが、アナリスト間で意見分かれる。",
-          "link": "https://coinpost.jp/?p=640193",
-          "publishedOn": "2025-08-06T23:35:23.000Z",
-          "wordCount": 3296,
-          "title": "ビットコイン、年末に最大25万ドル到達の可能性＝トム・リー予測",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427h-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/04/bitcoin_0427h-1.jpg"
         }
       ]
     },
