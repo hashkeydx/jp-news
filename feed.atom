@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-12T22:32:59.803Z</updated>
+    <updated>2025-08-12T23:29:31.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米金融機関、カントン・ネットワークでの初めてのトークン化米国債24時間365日取引を完了]]></title>
+        <id>https://www.coindeskjapan.com/?p=307971</id>
+        <link href="https://www.coindeskjapan.com/307971/"/>
+        <updated>2025-08-12T23:10:09.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン企業のデジタルアセット（Digital Asset）と複数の米大手金融機関が、デジタルアセットが手がけるカントン・ネットワーク（Canton N ...
+米金融機関、カントン・ネットワークでの初めてのトークン化米国債24時間365日取引を完了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークル、ステーブルコイン特化のL1チェーン「Arc」ローンチへ　25年2Qの決算発表も]]></title>
+        <id>https://coinpost.jp/?p=641598</id>
+        <link href="https://coinpost.jp/?p=641598"/>
+        <updated>2025-08-12T22:35:44.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインUSDCを発行するサークルは、独自のL1ブロックチェーン「Arc」を発表。ローンチに向けたスケジュールや機能などに加え、同日に25年2Qの決算も発表している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストライプ、決済特化型ブロックチェーン「Tempo」開発中：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=307960</id>
@@ -779,16 +800,6 @@ DeFiレンダーCrediX、450万ドルのハッキング被害後に失踪 first 
 香港上場のIVDメディカル、イーサリアムに約30億円を投資──医療資産などのトークン化に活用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港アニモカがProvLabsと提携、RWAマーケットプレイス「NUVA」共同開発へ]]></title>
-        <id>https://www.neweconomy.jp/?p=487477</id>
-        <link href="https://www.neweconomy.jp/posts/487477"/>
-        <updated>2025-08-08T11:25:33.000Z</updated>
-        <summary type="html"><![CDATA[Animoca BrandsがRWAマーケットプレイス提供へ ブロックチェーンゲーム開発やNFT分野への投資を行う香港拠点のアニモカブランズ（Animoca Brands）が、RWA（現実資産）の管理を手がけるプロヴィナ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
