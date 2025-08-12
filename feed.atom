@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-12T13:45:16.823Z</updated>
+    <updated>2025-08-12T14:35:08.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムETF、1日の資金流入額が初の10億ドル超え]]></title>
+        <id>https://www.coindeskjapan.com/?p=307926</id>
+        <link href="https://www.coindeskjapan.com/307926/"/>
+        <updated>2025-08-12T14:15:01.000Z</updated>
+        <summary type="html"><![CDATA[米国上場のイーサリアム（ETH）現物ETF（上場投資信託）は8月11日、1日あたりの資金流入学が初めて10億ドル（1480億円）を超えた。イーサリアム価格も3年 ...
+イーサリアムETF、1日の資金流入額が初の10億ドル超え first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サークル、レイヤー1ブロックチェーン「アーク（Arc）」発表──IPO後初の四半期決算は4億2800万ドルの損失]]></title>
         <id>https://www.coindeskjapan.com/?p=307918</id>
@@ -974,16 +985,6 @@ XRPが12%急騰──トレーダーは「ストラドル」戦略で大きな�
         <summary type="html"><![CDATA[XRP価格が前日比10%急騰。リップル社と米SECの5年間の法廷闘争が終結し、法的地位が確立された。同時にトランプ大統領が政治的理由による銀行サービス拒否を禁止する大統領令と401k制度改革を発表し、9000万人の米国労働者に仮想通貨投資機会を開放した。ビットコインも上昇し、仮想通貨市場全体に強気材料が重なっている。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン、ブロックチェーン「Kinexys」でオンチェーンレポ取引開始]]></title>
-        <id>https://coinpost.jp/?p=640648</id>
-        <link href="https://coinpost.jp/?p=640648"/>
-        <updated>2025-08-08T02:25:40.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンがKinexysブロックチェーンを活用したオンチェーン日中レポ取引サービスを開始した。HQLAx、Owneraと協力し、すでに日次最大1470億円の取引量を実現している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
