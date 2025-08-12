@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-12T08:40:35.258Z</updated>
+    <updated>2025-08-12T09:34:04.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットフライヤー、イーサリアムのステーキングサービスを開始]]></title>
+        <id>https://coinpost.jp/?p=641425</id>
+        <link href="https://coinpost.jp/?p=641425"/>
+        <updated>2025-08-12T08:54:17.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所ビットフライヤーがイーサリアム（ETH）ステーキングサービスを開始。年利2.03%で毎週報酬付与、資産ロック不要でいつでも売却・送付可能となっている。]]></summary>
+        <author>
+            <name>AKIRA.H</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Web3決済の社会実装へ」UPCXのCEOが語る実用化戦略｜WebXスポンサーインタビュー]]></title>
+        <id>https://coinpost.jp/?p=626036</id>
+        <link href="https://coinpost.jp/?p=626036"/>
+        <updated>2025-08-12T08:00:12.000Z</updated>
+        <summary type="html"><![CDATA[大規模カンファレンス「WebX 2025」のタイトルスポンサーとしてブース出展を決めた、UPCX中野誠CEOの独占インタビュー。2016年からブロックチェーン開発に従事し、日本の暗号資産取引所への上場を実現。WebX 2025での展示内容や決済分野でのWeb3実装について聞く。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラが約90億円でビットコイン追加購入、総保有数18,113BTCに]]></title>
         <id>https://www.neweconomy.jp/?p=487801</id>
@@ -1065,48 +1085,6 @@ XRPが12%急騰──トレーダーは「ストラドル」戦略で大きな�
         <link href="https://coinpost.jp/?p=640507"/>
         <updated>2025-08-07T21:35:47.000Z</updated>
         <summary type="html"><![CDATA[東証スタンダード上場の北紡がビットコイン累計購入額3.32BTCと発表した。8月8日から毎営業日200万円相当の定期購入を開始し、総額8億円の投資枠で仮想通貨トレジャリー事業に本格参入する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロシェアーズ、レバレッジ型「ウルトラCRCL」ETFを上場──サークル株の2倍のリターン提供を目指す]]></title>
-        <id>https://www.coindeskjapan.com/?p=307378</id>
-        <link href="https://www.coindeskjapan.com/307378/"/>
-        <updated>2025-08-07T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ETFプロバイダーのプロシェアーズは、サークル社の株式に対し、パフォーマンスの2倍のリターンを提供することを目指す新商品をローンチした。これによってトレーダーは ...
-プロシェアーズ、レバレッジ型「ウルトラCRCL」ETFを上場──サークル株の2倍のリターン提供を目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米シャープリンク、2億ドル資金調達でイーサリアム保有拡大へ]]></title>
-        <id>https://coinpost.jp/?p=640501</id>
-        <link href="https://coinpost.jp/?p=640501"/>
-        <updated>2025-08-07T21:10:07.000Z</updated>
-        <summary type="html"><![CDATA[シャープリンク・ゲーミングが機関投資家4社から2億ドルを調達し、イーサリアム保有量の大幅拡大計画を発表した。現在521,900 ETH保有で世界最大級の企業ETHトレジャリーを目指している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社、ステーブルコイン決済企業レイルを2億ドルで買収へ──RLUSDの強化目指す]]></title>
-        <id>https://www.coindeskjapan.com/?p=307328</id>
-        <link href="https://www.coindeskjapan.com/307328/"/>
-        <updated>2025-08-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[リップル社（Ripple）は7日、ステーブルコイン決済プラットフォームであるレイル（Rail）を2億ドル（約290億円、1ドル145円換算）で買収すると発表した ...
-リップル社、ステーブルコイン決済企業レイルを2億ドルで買収へ──RLUSDの強化目指す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ、仮想通貨業界への「ディバンキング」禁止大統領令に署名]]></title>
-        <id>https://coinpost.jp/?p=640491</id>
-        <link href="https://coinpost.jp/?p=640491"/>
-        <updated>2025-08-07T20:50:02.000Z</updated>
-        <summary type="html"><![CDATA[トランプ大統領が政治的理由による銀行口座閉鎖を禁止する大統領令に署名した。仮想通貨業界への差別的扱い解消を目指し、連邦規制当局に風評リスク概念の撤廃を指示している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
