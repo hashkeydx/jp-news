@@ -545,6 +545,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=636727",
+          "author": "M.Somekawa",
+          "description": "CoinbaseのBase Appの特徴、始め方、エアドロップの可能性を詳しく解説。Web3スーパーアプリとして進化するBase Appで、ソーシャル・決済・DeFi機能を一つのアプリで体験。国内取引所からの送金方法も完全ガイド。",
+          "link": "https://coinpost.jp/?p=636727",
+          "publishedOn": "2025-08-15T08:21:39.000Z",
+          "wordCount": 2553,
+          "title": "Base Appとは？コインベースのWeb3アプリの使い方を徹底解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/basesamune0815.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/basesamune0815.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=626587",
           "author": "Ritsuki.Kumazawa",
           "description": "大規模カンファレンス「WebX 2025」のタイトルスポンサーとしてブース出展を決めた、TRONのジャスティン・サン（Justin Sun）独占インタビュー。80億人の金融自由実現に向けたビジョンと、日本のWeb3市場への期待、WebX 2025参画について聞く。",
@@ -1421,6 +1436,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=488399",
+          "author": "OtsugaShinya",
+          "description": "Hinode TechnologiesがCanton Networkのノード運営参加 ヒノデテクノロジーズ（Hinode Technologies）によるカントンネットワーク（Canton Network）のノード運営開 […]",
+          "link": "https://www.neweconomy.jp/posts/488399",
+          "publishedOn": "2025-08-15T09:28:32.000Z",
+          "wordCount": 627,
+          "title": "TISとgC Labsのヒノデテクノロジーズ、機関投資家向けブロックチェーン「Canton Network」のノード運営開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/15182823/gumi-250815ririe777.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=488391",
+          "author": "TamuraSeiji",
+          "description": "LayerZero FoundationがStargate買収を提案 クロスチェーン相互運用性プロトコル「レイヤーゼロ(LayerZero）」を監督するレイヤーゼロ財団（LayerZero Foundation）が、分散 […]",
+          "link": "https://www.neweconomy.jp/posts/488391",
+          "publishedOn": "2025-08-15T09:05:49.000Z",
+          "wordCount": 620,
+          "title": "レイヤーゼロ財団、スターゲート買収を総額110Mドルで提案",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/15180543/925f5276de63944d09cd00fa91851ec5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=488309",
+          "author": "HitomotoToshikazu",
+          "description": "ユニスワップ財団が新法人の設立提案 ユニスワップ財団（Uniswap Foundation）が、米ワイオミング州のDAO（自律分散型組織）向け法的枠組み「DUNA」に基づき、分散型取引所（DEX）ユニスワップ（Unisw […]",
+          "link": "https://www.neweconomy.jp/posts/488309",
+          "publishedOn": "2025-08-15T08:40:26.000Z",
+          "wordCount": 775,
+          "title": "ユニスワップ財団、ワイオミング州「DUNA」枠組みで新法人「DUNI」設立計画を提案",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/15173009/2ccc759d5675a8e856544034582ac9ca.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=488360",
           "author": "gentosha_takahashi",
