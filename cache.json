@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=308429",
+          "author": "Krisztian Sandor",
+          "description": "8月の暗号資産上昇に失速の兆候が見られる中、暗号資産価格に対するハイベータ投資先と見なされているデジタルトレジャリー企業株は8月15日、急落した。 ストラテジー ...\nビットコインは11万7000ドル割れ、イーサリアムは4400ドルに──デジタル資産トレジャリー企業株も大幅下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/308429/",
+          "publishedOn": "2025-08-15T21:03:27.000Z",
+          "wordCount": 1427,
+          "title": "ビットコインは11万7000ドル割れ、イーサリアムは4400ドルに──デジタル資産トレジャリー企業株も大幅下落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/a5bde1c34a282ba362d3fbad54887f3128a8f918-1920x1442-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=308411",
           "author": "James Van Straten",
           "description": "ビットコイン（BTC）のリスク調整後パフォーマンスは引き続き際立っており、シャープ・レシオは主要資産の中で最も高い2.15だ。これは、ボラティリティの高さと比較 ...\nボラティリティの低下により、ビットコインとストラテジーがリスク調整後リターンで優位に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -520,16 +530,6 @@
           "wordCount": 1313,
           "title": "週末のビットコイン高騰によるCMEの窓に注意",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/ce68e934bf755bc9f11e9dfa80732206d607ebad-1651x972-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=307829",
-          "author": "林 理南",
-          "description": "トレーダーがアメリカのインフレ指標発表を待つ中、ビットコイン（BTC）強気派は重要なレジスタンス水準に向けた新たな挑戦を始めた。 ビットコインは12万2056ド ...\nインフレ指標発表を控え、ビットコイン強気派は12万2000ドル超のフィボナッチ黄金比に再挑戦 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/307829/",
-          "publishedOn": "2025-08-11T09:13:59.000Z",
-          "wordCount": 1371,
-          "title": "インフレ指標発表を控え、ビットコイン強気派は12万2000ドル超のフィボナッチ黄金比に再挑戦",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/69af97327f32f98432d26ab0e79ca8f4a65e5e31-1500x997-1.jpg"
         }
       ]
     },
@@ -544,6 +544,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=642880",
+          "author": "菊谷ルイス",
+          "description": "株価大幅下落イーサリアム（ETH）共同創設者ジョセフ・ルービン氏が後援するシャープリンク・ゲーミングが15日、第2四半期（4〜6月）決算を発表した。同社は1億300万ドルの純損失を計上し、株価は前日比約15%下落し19.85ドルで取引されて...",
+          "link": "https://coinpost.jp/?p=642880",
+          "publishedOn": "2025-08-15T21:00:51.000Z",
+          "wordCount": 3228,
+          "title": "イーサリアムトレジャリー企業シャープリンク、四半期決算で大幅赤字",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sharplink-Q2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sharplink-Q2.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=642876",
+          "author": "菊谷ルイス",
+          "description": "米連邦準備制度理事会が2023年開始の仮想通貨・フィンテック特別監督プログラムを終了し、通常監督へ統合。トランプ政権の規制緩和方針が牽引。",
+          "link": "https://coinpost.jp/?p=642876",
+          "publishedOn": "2025-08-15T20:35:43.000Z",
+          "wordCount": 3221,
+          "title": "米FRB、仮想通貨監督の特別プログラムを終了　トランプ政権の規制緩和受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=642752",
           "author": "hiroto.yoshii",
