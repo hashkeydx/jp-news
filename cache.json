@@ -545,6 +545,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=642883",
+          "author": "菊谷ルイス",
+          "description": "ETHトレジャリー企業ビットマインが過去2時間でギャラクシー・デジタルのOTCアドレスから大口ETH移転を受領。総保有量120万ETHから拡大継続。",
+          "link": "https://coinpost.jp/?p=642883",
+          "publishedOn": "2025-08-15T21:30:17.000Z",
+          "wordCount": 3226,
+          "title": "ビットマイン、186億円相当イーサリアムを追加取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=642880",
           "author": "菊谷ルイス",
           "description": "株価大幅下落イーサリアム（ETH）共同創設者ジョセフ・ルービン氏が後援するシャープリンク・ゲーミングが15日、第2四半期（4〜6月）決算を発表した。同社は1億300万ドルの純損失を計上し、株価は前日比約15%下落し19.85ドルで取引されて...",
@@ -1443,21 +1458,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/elsalvador-e-colone-1.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/elsalvador-e-colone-1.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=641056",
-          "author": "A.Yamada",
-          "description": "米ホワイトハウス仮想通貨評議会のボー・ハインズ事務局長が退任し民間復帰する予定だ。同氏はトランプ政権の仮想通貨政策報告書作成をデビッド・サックス氏と共に主導していた。",
-          "link": "https://coinpost.jp/?p=641056",
-          "publishedOn": "2025-08-11T09:45:43.000Z",
-          "wordCount": 3217,
-          "title": "トランプ政権、仮想通貨評議会高官が退任　民間復帰へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/white-house-new-policy-crafting.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/06/white-house-new-policy-crafting.png"
         }
       ]
     },
@@ -1755,36 +1755,6 @@
           "wordCount": 731,
           "title": "バイナンスがスペインBBVAと連携、顧客資産を米国債で保管し取引所外管理へ＝報道",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/12120059/21bd3c971ff695acfd4fe60ad0b3af9f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487591",
-          "author": "HitomotoToshikazu",
-          "description": "Base AppにAerodromeとUniswap対応 米暗号資産（仮想通貨）取引所コインベース（Coinbase）提供のベースアプリ（Base App）で分散型取引所（DEX）の取引が可能になったことが8月8日に発表 […]",
-          "link": "https://www.neweconomy.jp/posts/487591",
-          "publishedOn": "2025-08-11T10:06:37.000Z",
-          "wordCount": 747,
-          "title": "「Base App」内でDEX取引提供開始、イーサL2「ベース」上の資産対応、ソラナ対応も予定",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/11190605/SBI-250117monsitj.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487585",
-          "author": "HitomotoToshikazu",
-          "description": "SygnumがSUIステーキング提供へ スイスのデジタル銀行シグナム（Sygnum）が、機関投資家向けに暗号資産（仮想通貨）スイ（SUI）のステーキングおよびロンバードローン（資産担保ローン）を提供開始予定であると8月8 […]",
-          "link": "https://www.neweconomy.jp/posts/487585",
-          "publishedOn": "2025-08-11T10:01:19.000Z",
-          "wordCount": 771,
-          "title": "スイスのデジタル資産銀行シグナム、「スイ（SUI）」のステーキングと担保ローン提供開始へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/11185926/da643d7e0478f93fde17ef194ed9a763.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=487549",
-          "author": "HitomotoToshikazu",
-          "description": "テザーがスペイン語圏最大級の暗号資産取引所Bit2Meの調達ラウンド主導、少数株式取得も テザー（Tether）社が、スペイン語圏最大級のグローバル暗号資産（仮想通貨）取引所ビットゥーミー（Bit2Me）の資金調達ラウン […]",
-          "link": "https://www.neweconomy.jp/posts/487549",
-          "publishedOn": "2025-08-11T09:27:09.000Z",
-          "wordCount": 741,
-          "title": "テザーがBit2Meの調達ラウンド主導、少数株式も取得",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/11182647/771c677683ef4870ebf468f7a0124014.jpg"
         }
       ]
     }
