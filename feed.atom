@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-17T10:33:44.914Z</updated>
+    <updated>2025-08-17T11:25:23.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[金融庁、日本円建てステーブルコイン「JPYC」承認へ＝日本経済新聞]]></title>
+        <id>https://coinpost.jp/?p=643009</id>
+        <link href="https://coinpost.jp/?p=643009"/>
+        <updated>2025-08-17T10:37:16.000Z</updated>
+        <summary type="html"><![CDATA[金融庁が国内初の円建てステーブルコイン「JPYC」を承認へ。今秋にも発行開始予定で、3年間で1兆円分の発行を目標とする。JPYC代表の岡部氏は「ステーブルコインは巨大な国債消化装置」とコメントし、日本国債市場への影響を予測。国際送金やDeFi活用に期待が集まる]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今週の主要材料まとめ、ビットコイン6年以内1000万ドル到達の可能性やリップル訴訟終了発表など]]></title>
         <id>https://coinpost.jp/?p=642560</id>
@@ -1275,27 +1285,6 @@ eToro、第2四半期も売上の9割以上が暗号資産取引 first appeared 
         <summary type="html"><![CDATA[仮想通貨取引所コインベースが約6年ぶりにステーブルコイン基金を再開した。AaveやMorphoなどDeFiプロトコルの流動性向上を目指し、資金提供を行う。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米金融機関、カントン・ネットワークでの初めてのトークン化米国債24時間365日取引を完了]]></title>
-        <id>https://www.coindeskjapan.com/?p=307971</id>
-        <link href="https://www.coindeskjapan.com/307971/"/>
-        <updated>2025-08-12T23:10:09.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン企業のデジタルアセット（Digital Asset）と複数の米大手金融機関が、デジタルアセットが手がけるカントン・ネットワーク（Canton N ...
-米金融機関、カントン・ネットワークでの初めてのトークン化米国債24時間365日取引を完了 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、ステーブルコイン特化のL1チェーン「Arc」ローンチへ　25年2Qの決算発表も]]></title>
-        <id>https://coinpost.jp/?p=641598</id>
-        <link href="https://coinpost.jp/?p=641598"/>
-        <updated>2025-08-12T22:35:44.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインUSDCを発行するサークルは、独自のL1ブロックチェーン「Arc」を発表。ローンチに向けたスケジュールや機能などに加え、同日に25年2Qの決算も発表している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
