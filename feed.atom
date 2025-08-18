@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-18T10:38:43.746Z</updated>
+    <updated>2025-08-18T11:28:23.093Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、利益確定で一時11万5000ドルを下回る]]></title>
+        <id>https://www.coindeskjapan.com/?p=308661</id>
+        <link href="https://www.coindeskjapan.com/308661/"/>
+        <updated>2025-08-18T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Glassnodeのデータによると、ビットコイン（BTC）は12万4000ドルを超える史上最高値を記録して以来、7%以上下落し、一時11万5000ドルを下回った ...
+ビットコイン、利益確定で一時11万5000ドルを下回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソラナ、ストレス負荷下で一時的に10万TPSを達成──SOLの魅力をさらに高める]]></title>
         <id>https://www.coindeskjapan.com/?p=308652</id>
@@ -1334,17 +1345,6 @@ Binance Academy、Web3出張授業ツアーを全国7都市で開催 first appea
         <summary type="html"><![CDATA[米大手運用会社グレースケールがカルダノ・ヘデラETFの法定信託をデラウェア州で登録。米SEC申請に向けた動きとして注目を集める。]]></summary>
         <author>
             <name>hiroto.yoshii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領による労働統計局長解任で経済統計の正確性に疑問]]></title>
-        <id>https://www.coindeskjapan.com/?p=308134</id>
-        <link href="https://www.coindeskjapan.com/308134/"/>
-        <updated>2025-08-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ（Donald Trump）大統領が2週間前、労働統計局長のエリカ・マッケンターファー（Erika McEntarfer）氏を解任し、EJ・ア ...
-トランプ大統領による労働統計局長解任で経済統計の正確性に疑問 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
