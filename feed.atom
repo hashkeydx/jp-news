@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-19T13:40:08.222Z</updated>
+    <updated>2025-08-19T14:33:32.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【8/19話題】DAMSが電算システム社のステーブルコイン決済送金基盤を構築支援、BackpackがZKP活用の日次準備金証明など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=489106</id>
+        <link href="https://www.neweconomy.jp/posts/489106"/>
+        <updated>2025-08-19T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クジラから小口まで、すべてのビットコインウォレットが現在は売却モード]]></title>
         <id>https://www.coindeskjapan.com/?p=308806</id>
@@ -1359,46 +1369,6 @@ Binance Academy、Web3出張授業ツアーを全国7都市で開催 first appea
         <summary type="html"><![CDATA[スコット・ベセント財務長官の相次ぐ発言変更でビットコイン市場の混乱を招いた。13日の購入否定から14日の取得検討表明まで24時間で方針転換となった。機関投資家のコインベース購入比率75%も話題に。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米シティ、暗号資産ETFとステーブルコイン向けの資産保管サービス参入検討]]></title>
-        <id>https://www.neweconomy.jp/?p=488264</id>
-        <link href="https://www.neweconomy.jp/posts/488264"/>
-        <updated>2025-08-15T02:26:51.000Z</updated>
-        <summary type="html"><![CDATA[シティが暗号資産カストディ提供を検討 米シティグループ（Citigroup）が、ステーブルコインのカストディ（保管）やその他のサービスの提供を検討していると、同社の幹部が「ロイター（Reuters）」に語った。このことは […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、BTC建てで強気転換も売り圧力増加の兆候＝クリプトクアント分析]]></title>
-        <id>https://coinpost.jp/?p=642595</id>
-        <link href="https://coinpost.jp/?p=642595"/>
-        <updated>2025-08-15T02:25:01.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムがビットコインに対して強気サイクル入りし投資家需要が急増。一方で取引所への流入増加により利確の動きが活発化し警戒感高まる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楽天、NFTチケットでスポーツ観戦チケットの公式リセール開始]]></title>
-        <id>https://coinpost.jp/?p=642558</id>
-        <link href="https://coinpost.jp/?p=642558"/>
-        <updated>2025-08-15T01:55:38.000Z</updated>
-        <summary type="html"><![CDATA[楽天グループが運営するRakuten NFTは、楽天イーグルスとヴィッセル神戸の公式チケットリセールにNFT技術を導入。ブロックチェーンによる偽造防止と取引透明性を確保し、出品者による自由な価格設定が可能に。2025年9月から順次開始。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、USDC活用の企業向けL1チェーン「Arc」今秋ローンチへ]]></title>
-        <id>https://www.neweconomy.jp/?p=488242</id>
-        <link href="https://www.neweconomy.jp/posts/488242"/>
-        <updated>2025-08-15T01:53:57.000Z</updated>
-        <summary type="html"><![CDATA[USDC活用の企業向けレイヤー1公開へ 米サークルインターネットグループ（Circle Internet Group）が、レイヤー1ブロックチェーン「アーク（Arc）」のローンチ予定を8月12日に発表した。 アークは、サ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
