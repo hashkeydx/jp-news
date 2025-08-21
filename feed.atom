@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-21T21:27:34.571Z</updated>
+    <updated>2025-08-21T22:31:51.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタマスク、独自ステーブルコイン「mUSD」を正式発表　25年内にローンチ予定]]></title>
+        <id>https://coinpost.jp/?p=644621</id>
+        <link href="https://coinpost.jp/?p=644621"/>
+        <updated>2025-08-21T22:25:13.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ウォレットのメタマスクは、独自ステーブルコインmUSDをローンチすると正式発表。まずは2025年内にイーサリアムとLinea上にローンチする計画である。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シンプレクスとアバランチのAva Labs、ステーブルコインの送金・決済ネットワークの共同検証を実施]]></title>
+        <id>https://www.neweconomy.jp/?p=489680</id>
+        <link href="https://www.neweconomy.jp/posts/489680"/>
+        <updated>2025-08-21T22:23:42.000Z</updated>
+        <summary type="html"><![CDATA[シンプレクスとアバラボがステーブルコインネットワークの共同検証 金融機関向けにコンサルからシステム開発・運用まで提供するシンプレクスが、レイヤー1ブロックチェーン「アバランチ（Avalanche）」開発元のアバラボ（Av […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、政府へ暗号資産取引の分離課税を要望＝日経]]></title>
+        <id>https://www.neweconomy.jp/?p=489660</id>
+        <link href="https://www.neweconomy.jp/posts/489660"/>
+        <updated>2025-08-21T22:15:49.000Z</updated>
+        <summary type="html"><![CDATA[金融庁が暗号資産の課税見直し要望か 金融庁が、2026年度の税制改正要望で暗号資産（仮想通貨）取引について課税制度の見直しを求めると日経新聞が8月21日に報じた。 また報道によると暗号資産のETF（上場投資信託）について […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステートストリート、JPモルガンのデジタル債務サービス初のサードパーティー保管機関に]]></title>
+        <id>https://coinpost.jp/?p=644620</id>
+        <link href="https://coinpost.jp/?p=644620"/>
+        <updated>2025-08-21T21:55:45.000Z</updated>
+        <summary type="html"><![CDATA[金融大手ステートストリートがJPモルガンのブロックチェーン債券保管サービスに参加。OCBC発行1億ドルのコマーシャルペーパー取引でキネクシス基盤のT+0決済を実現。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デュアルアセット投資家の過半数、今後10年間で暗号資産の成長が株式を上回ると予測：クラーケンの調査]]></title>
+        <id>https://www.coindeskjapan.com/?p=309108</id>
+        <link href="https://www.coindeskjapan.com/309108/"/>
+        <updated>2025-08-21T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所クラーケンによる新しい調査によると、暗号資産と株式の両方を保有する投資家の過半数が、長期的にはデジタル資産が株式をアウトパフォームすると見込んでい ...
+デュアルアセット投資家の過半数、今後10年間で暗号資産の成長が株式を上回ると予測：クラーケンの調査 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガン分析、イーサリアムパフォーマンス向上の4つの要因とは]]></title>
+        <id>https://coinpost.jp/?p=644611</id>
+        <link href="https://coinpost.jp/?p=644611"/>
+        <updated>2025-08-21T21:00:19.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンが仮想通貨イーサリアムの好調な理由を分析。54億ドルのETF資金流入、企業財務採用、規制明確化、構造改善の4要因でビットコインを上回ると見ている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコイン市場、2028年までに約180兆円規模に達し、米国債利回りに影響を与える可能性：コインベース]]></title>
         <id>https://www.coindeskjapan.com/?p=309104</id>
@@ -15,6 +76,26 @@
 ステーブルコイン市場、2028年までに約180兆円規模に達し、米国債利回りに影響を与える可能性：コインベース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上場バーブテクノロジー、1000億円相当のトンコイン（TON）を取得]]></title>
+        <id>https://coinpost.jp/?p=644609</id>
+        <link href="https://coinpost.jp/?p=644609"/>
+        <updated>2025-08-21T20:45:58.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場のバーブテクノロジーが7億1300万ドル相当のトンコインを取得し、循環供給量の8.5%を保有。TON戦略会社への社名変更も計画中。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、トランプ関連ステーブルコインUSD1の上場検討を発表]]></title>
+        <id>https://coinpost.jp/?p=644606</id>
+        <link href="https://coinpost.jp/?p=644606"/>
+        <updated>2025-08-21T20:30:35.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所コインベースがトランプ大統領関連のワールドリバティファイナンシャルのステーブルコインUSD1を上場ロードマップに追加。総供給量24億ドルに拡大し注目集まる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
