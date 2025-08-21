@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-21T22:31:51.744Z</updated>
+    <updated>2025-08-21T23:27:30.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタマスクが米ドルステーブルコイン「mUSD」発行へ、イーサリアムとリネアで、自己保管型ウォレットで初]]></title>
+        <id>https://www.neweconomy.jp/?p=489695</id>
+        <link href="https://www.neweconomy.jp/posts/489695"/>
+        <updated>2025-08-21T22:47:14.000Z</updated>
+        <summary type="html"><![CDATA[MetaMaskがステーブルコイン発行へ Web3ウォレット「メタマスク（MetaMask）」が、独自ステーブルコイン「メタマスクUSD（mUSD）」の提供開始予定を8月21日に発表した。セルフカストディ（自己保管）型ウ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタマスク、独自ステーブルコイン「mUSD」を正式発表　25年内にローンチ予定]]></title>
         <id>https://coinpost.jp/?p=644621</id>
@@ -1762,16 +1772,6 @@ RWA（現実資産）トークン化、次の展開を探る：米Securitize共�
 金融庁、国内初の円建てステーブルコインを承認へ──JPYC岡部代表、報道内容認める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、日本円建てステーブルコイン「JPYC」承認へ＝日本経済新聞]]></title>
-        <id>https://coinpost.jp/?p=643009</id>
-        <link href="https://coinpost.jp/?p=643009"/>
-        <updated>2025-08-17T10:37:16.000Z</updated>
-        <summary type="html"><![CDATA[金融庁が国内初の円建てステーブルコイン「JPYC」を承認へ。今秋にも発行開始予定で、3年間で1兆円分の発行を目標とする。JPYC代表の岡部氏は「ステーブルコインは巨大な国債消化装置」とコメントし、日本国債市場への影響を予測。国際送金やDeFi活用に期待が集まる]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
