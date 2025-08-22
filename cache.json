@@ -640,26 +640,6 @@
           "wordCount": 1350,
           "title": "ビットコイン、利益確定で一時11万5000ドルを下回る",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/f82174fce3f89234250e61665209471c797c9255-1000x667-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=308652",
-          "author": "Shaurya Malwa",
-          "description": "ブロックデータによると、ソラナ（Solana）は週末にメインネット上で1秒あたり10万件を超えるトランザクションを一時的に記録した。 ブロックは4万3016件の ...\nソラナ、ストレス負荷下で一時的に10万TPSを達成──SOLの魅力をさらに高める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/308652/",
-          "publishedOn": "2025-08-18T10:30:00.000Z",
-          "wordCount": 1387,
-          "title": "ソラナ、ストレス負荷下で一時的に10万TPSを達成──SOLの魅力をさらに高める",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/02/7GD2JLUUCBBX3HS4SKXOTEESPU.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=308644",
-          "author": "Sam Reynolds",
-          "description": "タイは外貨でバーツでのQR決済を可能にする「ツーリストウォレット」を導入したが、暗号資産（仮想通貨）への変換機能は8月下旬までに終了する予定の規制当局による審査 ...\nタイ、旅行者向けデジタルウォレットを導入──暗号資産の使用は規制当局の審査待ち first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/308644/",
-          "publishedOn": "2025-08-18T09:40:00.000Z",
-          "wordCount": 1403,
-          "title": "タイ、旅行者向けデジタルウォレットを導入──暗号資産の使用は規制当局の審査待ち",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/04/shutterstock_1979631941.jpg"
         }
       ]
     },
@@ -674,6 +654,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=645110",
+          "author": "菊谷ルイス",
+          "description": "バンエックが世界初のリキッドステーキングトークンETFとなるジトSOL ETFを米SECに申請。SECが8月にリキッドステーキングの証券法適用除外を明確化したことが追い風。",
+          "link": "https://coinpost.jp/?p=645110",
+          "publishedOn": "2025-08-22T21:50:07.000Z",
+          "wordCount": 4598,
+          "title": "VanEck、ジトSOL現物ETFを米SECに申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/JitoSOL-ETF.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/JitoSOL-ETF.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645108",
+          "author": "菊谷ルイス",
+          "description": "7年間休眠していた大口投資家が約10万BTCを売却してイーサリアムに投資。23日にETHが4,878ドルの史上最高値を突破し、仮想通貨市場全体が急騰している。",
+          "link": "https://coinpost.jp/?p=645108",
+          "publishedOn": "2025-08-22T21:30:43.000Z",
+          "wordCount": 4601,
+          "title": "7年間休眠のビットコインクジラ投資家、イーサリアムに乗り換え",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/new-crypto-market-btc-eth.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/new-crypto-market-btc-eth.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=645103",
           "author": "菊谷ルイス",
@@ -2365,16 +2375,6 @@
           "wordCount": 654,
           "title": "ウィンクルボス兄弟の米ジェミナイ、IPO申請で収益減少と損失拡大を明らかに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18204010/2e08767b525166ee0180126412edca6f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488880",
-          "author": "HitomotoToshikazu",
-          "description": "SharpLink Gamingが72万8,804ETH到達 米ナスダック（Nasdaq）上場シャープリンクゲーミング（SharpLink Gaming：以下、シャープリンク）が、同社の第2四半期決算において、暗号資産（ […]",
-          "link": "https://www.neweconomy.jp/posts/488880",
-          "publishedOn": "2025-08-18T09:47:33.000Z",
-          "wordCount": 745,
-          "title": "シャープリンクのイーサリアム保有量72万8,804ETHに、ステーキングで1,326ETH獲得も",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18184722/aa5c9cf7a7935da5e50d5e4ae8c8e070.jpg"
         }
       ]
     }

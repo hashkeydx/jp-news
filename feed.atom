@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-22T21:27:04.722Z</updated>
+    <updated>2025-08-22T22:30:33.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VanEck、ジトSOL現物ETFを米SECに申請]]></title>
+        <id>https://coinpost.jp/?p=645110</id>
+        <link href="https://coinpost.jp/?p=645110"/>
+        <updated>2025-08-22T21:50:07.000Z</updated>
+        <summary type="html"><![CDATA[バンエックが世界初のリキッドステーキングトークンETFとなるジトSOL ETFを米SECに申請。SECが8月にリキッドステーキングの証券法適用除外を明確化したことが追い風。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7年間休眠のビットコインクジラ投資家、イーサリアムに乗り換え]]></title>
+        <id>https://coinpost.jp/?p=645108</id>
+        <link href="https://coinpost.jp/?p=645108"/>
+        <updated>2025-08-22T21:30:43.000Z</updated>
+        <summary type="html"><![CDATA[7年間休眠していた大口投資家が約10万BTCを売却してイーサリアムに投資。23日にETHが4,878ドルの史上最高値を突破し、仮想通貨市場全体が急騰している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETHトレジャリー企業シャープリンク、15億ドルの自社株買いプログラム承認]]></title>
         <id>https://coinpost.jp/?p=645103</id>
@@ -2007,38 +2027,6 @@ ETH、XRP、SOLが急落──暗号資産トレーダーはジャクソンホ�
 ビットコイン、利益確定で一時11万5000ドルを下回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ、ストレス負荷下で一時的に10万TPSを達成──SOLの魅力をさらに高める]]></title>
-        <id>https://www.coindeskjapan.com/?p=308652</id>
-        <link href="https://www.coindeskjapan.com/308652/"/>
-        <updated>2025-08-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ブロックデータによると、ソラナ（Solana）は週末にメインネット上で1秒あたり10万件を超えるトランザクションを一時的に記録した。 ブロックは4万3016件の ...
-ソラナ、ストレス負荷下で一時的に10万TPSを達成──SOLの魅力をさらに高める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャープリンクのイーサリアム保有量72万8,804ETHに、ステーキングで1,326ETH獲得も]]></title>
-        <id>https://www.neweconomy.jp/?p=488880</id>
-        <link href="https://www.neweconomy.jp/posts/488880"/>
-        <updated>2025-08-18T09:47:33.000Z</updated>
-        <summary type="html"><![CDATA[SharpLink Gamingが72万8,804ETH到達 米ナスダック（Nasdaq）上場シャープリンクゲーミング（SharpLink Gaming：以下、シャープリンク）が、同社の第2四半期決算において、暗号資産（ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[タイ、旅行者向けデジタルウォレットを導入──暗号資産の使用は規制当局の審査待ち]]></title>
-        <id>https://www.coindeskjapan.com/?p=308644</id>
-        <link href="https://www.coindeskjapan.com/308644/"/>
-        <updated>2025-08-18T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[タイは外貨でバーツでのQR決済を可能にする「ツーリストウォレット」を導入したが、暗号資産（仮想通貨）への変換機能は8月下旬までに終了する予定の規制当局による審査 ...
-タイ、旅行者向けデジタルウォレットを導入──暗号資産の使用は規制当局の審査待ち first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Sam Reynolds</name>
         </author>
     </entry>
 </feed>
