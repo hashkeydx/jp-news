@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-22T13:37:17.604Z</updated>
+    <updated>2025-08-22T14:31:53.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【8/22話題】SBIとスターテイルがトークン化株式の取引基盤を共同開発、金融庁、政府へ暗号資産取引の分離課税を要望など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=489974</id>
+        <link href="https://www.neweconomy.jp/posts/489974"/>
+        <updated>2025-08-22T13:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[片山さつき議員「トランプ政権の暗号資産推進が日本市場に影響」円ステーブルコイン普及へ規制緩和議論｜WebX Fintech EXPO powered by SBI Group]]></title>
         <id>https://coinpost.jp/?p=644996</id>
@@ -2181,16 +2191,6 @@ SOLとXRPが利益確定売りで5%下落──ビットコイントレーダー
         <summary type="html"><![CDATA[仮想通貨市場ではビットコインETFやイーサリアムETFに過去最高水準の資金流入が続く中、BTC価格は調整中。ジャクソンホール会議でパウエルFRB議長の利下げ示唆に期待が高まる一方、機関投資家の買いと個人の利益確定売りが交錯している。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米FRB、暗号資産銀行への特別監督を撤回。通常プロセスへ移行へ]]></title>
-        <id>https://www.neweconomy.jp/?p=488677</id>
-        <link href="https://www.neweconomy.jp/posts/488677"/>
-        <updated>2025-08-18T01:52:17.000Z</updated>
-        <summary type="html"><![CDATA[規制緩和の流れ強まる 米連邦準備制度理事会（FRB）が、暗号資産（仮想通貨）やフィンテック関連の業務を行う銀行に対する監督プログラムを終了すると8月15日に発表した。今後は通常の監督プロセスに戻される。この動きは、暗号資 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
         </author>
     </entry>
 </feed>
