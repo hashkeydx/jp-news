@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-23T08:33:17.776Z</updated>
+    <updated>2025-08-23T09:27:38.222Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナエコシステムを解説｜ウォレット設定から.solドメインの取得まで]]></title>
+        <id>https://coinpost.jp/?p=644888</id>
+        <link href="https://coinpost.jp/?p=644888"/>
+        <updated>2025-08-23T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[SolanaはWeb3分野で急成長する効率的かつユーザーフレンドリーなブロックチェーンSolanaはWeb3分野で最も効率的かつユーザーフレンドリーなブロックチェーンの一つとして急成長している。高い処理能力、低手数料、優れたスケーラビリティ...]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[武藤 経済産業大臣「ご挨拶」｜WebX2025]]></title>
         <id>https://coinpost.jp/?p=645178</id>
@@ -2079,26 +2089,6 @@ ETH、XRP、SOLが急落──暗号資産トレーダーはジャクソンホ�
         <link href="https://coinpost.jp/?p=643351"/>
         <updated>2025-08-18T21:50:48.000Z</updated>
         <summary type="html"><![CDATA[米財務省が18日、ステーブルコイン規制のジーニアス法に基づき仮想通貨の不正活動検出手法についてパブリックコメントを募集。AI、ブロックチェーン技術、デジタル身元確認などの革新的手法に関する意見を10月17日まで受付。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、複数の仮想通貨ETFの承認判断を延期]]></title>
-        <id>https://coinpost.jp/?p=643349</id>
-        <link href="https://coinpost.jp/?p=643349"/>
-        <updated>2025-08-18T21:10:57.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会が、トランプメディア運営のトゥルースソーシャルが申請したビットコイン・イーサリアムETFの承認判断を再延期。コインシェアーズのライトコインETFやXRP ETFも同時に延期決定。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、ストラテジーに次ぐ最大の仮想通貨保有企業に]]></title>
-        <id>https://coinpost.jp/?p=643346</id>
-        <link href="https://coinpost.jp/?p=643346"/>
-        <updated>2025-08-18T20:50:37.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場のビットマインが66億ドル相当のイーサリアム保有を発表し、マイケル・セイラー氏のストラテジーに次ぐ世界第2位のデジタル資産保有（DAT）企業となった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
