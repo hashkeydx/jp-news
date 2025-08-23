@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=309273",
+          "author": "廣瀬 優香",
+          "description": "イーサリアム（ETH）は22日金曜日、米連邦準備制度理事会（FRB）のジェローム・パウエル（Jerome Powell）議長が利下げを示唆する発言を行い、週末に ...\nイーサリアム、史上最高値を更新──9月利下げの可能性を受けて first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/309273/",
+          "publishedOn": "2025-08-23T01:15:00.000Z",
+          "wordCount": 1340,
+          "title": "イーサリアム、史上最高値を更新──9月利下げの可能性を受けて",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/322e3b4c48a4e129c8e1733add59954a55015878-7952x5304-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=309267",
           "author": "Will Canny",
           "description": "暗号資産（仮想通貨）運用会社のビットワイズは、ビットコイン（BTC）の将来に大きく賭けており、今後10年間は世界最大の暗号資産にとって並外れた成長の時期になると ...\nビットコイン価格、2035年までに130万ドルに達する：暗号資産運用会社ビットワイズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -630,16 +640,6 @@
           "wordCount": 1414,
           "title": "複数の著名暗号資産トレーダー、BTCとETHに対して弱気に転換──センチメントが大きくシフト",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2142319699.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=308671",
-          "author": "栃山直樹",
-          "description": "メタプラネットは8月18日、ビットコイントレジャリー事業の一環として775ビットコイン（BTC）を追加取得したと発表した。 今回の購入における平均取得単価は1B ...\nメタプラネット、137億円のビットコイン追加購入も株価軟調続く──社長「落胆の声、理解している」 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/308671/",
-          "publishedOn": "2025-08-18T11:59:18.000Z",
-          "wordCount": 1281,
-          "title": "メタプラネット、137億円のビットコイン追加購入も株価軟調続く──社長「落胆の声、理解している」",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/メタプラネット-2025-05-07-16.45.47-990x660-1-990x660-1-990x660-1-990x660-1.jpg"
         }
       ]
     },
@@ -654,6 +654,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=645145",
+          "author": "菊谷ルイス",
+          "description": "香港上場のチャイナルネッサンスがYZi Labsとの戦略提携でBNB資産に約1億ドル投資。香港初のBNB専用デジタル資産配分を目指し規制取引所上場も推進。",
+          "link": "https://coinpost.jp/?p=645145",
+          "publishedOn": "2025-08-23T01:50:00.000Z",
+          "wordCount": 3250,
+          "title": "香港上場のチャイナルネッサンス、1億ドルのBNB専用配分投資を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance-bnb-burn-biggest.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance-bnb-burn-biggest.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645137",
+          "author": "A.Yamada",
+          "description": "ビットワイズなど7社が仮想通貨XRP現物ETFの申請で修正書を提出した。米証券取引委員会との協議進展を示唆しており、年内の承認に向けて期待が高まっている。",
+          "link": "https://coinpost.jp/?p=645137",
+          "publishedOn": "2025-08-23T01:30:58.000Z",
+          "wordCount": 3271,
+          "title": "ビットワイズら7社、XRP現物ETFの修正書を一斉提出　SECとの協議が進捗か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/xrpstablestable.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/xrpstablestable.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=645134",
+          "author": "菊谷ルイス",
+          "description": "トランプ一族関連のワールドリバティファイナンシャルのWLFIトークンが米時間9月1日午前8時から取引可能に。早期支援者の20%がアンロック対象、残り80%はコミュニティ投票で決定。",
+          "link": "https://coinpost.jp/?p=645134",
+          "publishedOn": "2025-08-23T00:35:03.000Z",
+          "wordCount": 4565,
+          "title": "トランプ関連WLFI、9月1日にイーサリアムで取引開始へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=645118",
           "author": "菊谷ルイス",
@@ -2365,46 +2410,6 @@
           "wordCount": 755,
           "title": "タイ当局、外国人観光客向けに暗号資産からバーツへの両替サービスを試験提供",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/19110153/487b307e8607bc440bdaa5c6e032dea5.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488900",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/488900",
-          "publishedOn": "2025-08-18T13:40:28.000Z",
-          "wordCount": 739,
-          "title": "【8/18話題】JPYCが資金移動業の登録で日本初の円建てステーブルコイン発行へ、メタプラがビットコイン追加購入など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18194941/270a1b05aafbd3ce2527fc196f90893f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488954",
-          "author": "OtsugaShinya",
-          "description": "ストラテジーがビットコイン追加購入 ビットコイン（BTC）の保有数で上場企業世界第1位のストラテジー（Strategy）が、BTCの追加購入を8月18日に発表した。 ストラテジーは8月11日から8月17日までに、430B […]",
-          "link": "https://www.neweconomy.jp/posts/488954",
-          "publishedOn": "2025-08-18T12:39:35.000Z",
-          "wordCount": 649,
-          "title": "ストラテジーがビットコイン追加購入、総保有数62万9,376BTCに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18213922/BTC46-250714-PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488948",
-          "author": "OtsugaShinya",
-          "description": "OKJがTRUMP取り扱いへ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産「OFFICIAL TRUMP：オフィシャルトランプ（TRUMP）」の取り扱い予定を8月18日に発表した。取扱い開始は8月28日17:00の予 […]",
-          "link": "https://www.neweconomy.jp/posts/488948",
-          "publishedOn": "2025-08-18T12:06:03.000Z",
-          "wordCount": 751,
-          "title": "OKJにトランプ大統領のミームコイン「TRUMP」上場へ、国内2例目",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18210600/cabbe165c6912e9a19bec762255f30fc.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=488942",
-          "author": "OtsugaShinya",
-          "description": "ジェミナイがIPO目論見書を公開 米暗号資産（仮想通貨）取引所ジェミナイ（Gemini）の収益は2025年上半期に減少し、損失は拡大したと、同社は米国での新規株式公開（IPO）目論見書で明らかにした。ジェミナイは、公募市 […]",
-          "link": "https://www.neweconomy.jp/posts/488942",
-          "publishedOn": "2025-08-18T11:40:16.000Z",
-          "wordCount": 654,
-          "title": "ウィンクルボス兄弟の米ジェミナイ、IPO申請で収益減少と損失拡大を明らかに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/18204010/2e08767b525166ee0180126412edca6f.jpg"
         }
       ]
     }
