@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-24T05:30:53.408Z</updated>
+    <updated>2025-08-24T06:40:33.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VISA・日銀・Ant、国際決済の3大課題をデジタル通貨で解決へ｜WebX Fintech EXPO powered by SBI Group]]></title>
+        <id>https://coinpost.jp/?p=644927</id>
+        <link href="https://coinpost.jp/?p=644927"/>
+        <updated>2025-08-24T06:10:20.000Z</updated>
+        <summary type="html"><![CDATA[WebX Fintech EXPO 2025で、VISA、日本銀行、Ant Internationalが国際決済の課題を議論。高い手数料、長い決済時間、透明性の欠如という3大課題に対し、CBDCやステーブルコインなどデジタル通貨による解決策を提示した。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、BTCの次の上昇タイミングやETHのパフォーマンス向上要因など]]></title>
+        <id>https://coinpost.jp/?p=644714</id>
+        <link href="https://coinpost.jp/?p=644714"/>
+        <updated>2025-08-24T05:00:51.000Z</updated>
+        <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン1680万円台で軟調推移、ジャクソンホール警戒｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=644941</id>
@@ -1744,17 +1764,6 @@ IPOでの調達資金11.5億ドル（約1700億円）、全額ステーブルコ
         <summary type="html"><![CDATA[仮想通貨取引所ブリッシュがIPO調達資金11.5億ドルを全てステーブルコインで受け取り、米国IPO史上初の事例を達成。ソラナネットワークを活用しコインベースが保管。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCは11万4000ドルを割り込み、ETHは4200ドル割れ──ジャクソンホールでのタカ派的サプライズに身構える投資家たち]]></title>
-        <id>https://www.coindeskjapan.com/?p=308825</id>
-        <link href="https://www.coindeskjapan.com/308825/"/>
-        <updated>2025-08-19T18:06:26.000Z</updated>
-        <summary type="html"><![CDATA[投資家たちは、8月22日にジャクソンホールで行われるFRBのパウエル議長の講演にタカ派的なサプライズがあるかもしれないと慎重になり、ビットコイン（BTC）が11 ...
-BTCは11万4000ドルを割り込み、ETHは4200ドル割れ──ジャクソンホールでのタカ派的サプライズに身構える投資家たち first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
