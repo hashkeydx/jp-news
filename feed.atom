@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-25T17:28:27.613Z</updated>
+    <updated>2025-08-25T18:42:00.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カルダノ価格にサポートラインが出現──チャールズ・ホスキンソン氏が市場とネットワークの将来について語る]]></title>
+        <id>https://www.coindeskjapan.com/?p=309608</id>
+        <link href="https://www.coindeskjapan.com/309608/"/>
+        <updated>2025-08-25T17:41:03.000Z</updated>
+        <summary type="html"><![CDATA[カルダノブロックチェーンのネイティブトークンであるカルダノ（ADA）は、過去24時間で3%下落し、本記事執筆時点で0.87ドル（約126円、1ドル145円換算） ...
+カルダノ価格にサポートラインが出現──チャールズ・ホスキンソン氏が市場とネットワークの将来について語る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンスCZ氏が予測する暗号資産の未来、「AIの通貨はクリプトに」｜WebX2025]]></title>
         <id>https://coinpost.jp/?p=645409</id>
@@ -1519,17 +1530,6 @@ SBIとスターテイル、合弁会社を設立──あらゆる価値のオ�
         <summary type="html"><![CDATA[機関投資家によるポルカドットの採用促進に向け ポルカドット（Polkadot）によるキャピタルマーケットに特化した部門「ポルカドット・キャピタル・グループ（Polkadot Capital Group）」の設立が8月19 […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本円ステーブルコイン「JPYC」と企業システムをノーコードで連携、アステリアが新アダプター開発へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=309018</id>
-        <link href="https://www.coindeskjapan.com/309018/"/>
-        <updated>2025-08-21T05:54:52.000Z</updated>
-        <summary type="html"><![CDATA[ソフトウェア開発のアステリアは8月21日、JPYC株式会社が発行予定の日本円連動型ステーブルコイン「JPYC」と、企業の基幹システムなどをノーコードで連携させる ...
-日本円ステーブルコイン「JPYC」と企業システムをノーコードで連携、アステリアが新アダプター開発へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
         </author>
     </entry>
 </feed>
