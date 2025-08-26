@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-26T09:32:36.870Z</updated>
+    <updated>2025-08-26T10:35:21.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットパンダ、株式上場を検討中。ただしロンドンは除外：フィナンシャル・タイムズ]]></title>
+        <id>https://www.coindeskjapan.com/?p=309742</id>
+        <link href="https://www.coindeskjapan.com/309742/"/>
+        <updated>2025-08-26T09:41:23.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所ビットパンダ（Bitpanda）の共同創業者エリック・デムース（Eric Demuth）氏は、フィナンシャル・タイムズのインタビューで ...
+ビットパンダ、株式上場を検討中。ただしロンドンは除外：フィナンシャル・タイムズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強気相場はいつまで続く？仮想通貨のトップアナリスト3人が価格予想｜WebX2025]]></title>
         <id>https://coinpost.jp/?p=645911</id>
@@ -1636,46 +1647,6 @@ SBIとスターテイル、合弁会社を設立──あらゆる価値のオ�
         <summary type="html"><![CDATA[MetaMaskがステーブルコイン発行へ Web3ウォレット「メタマスク（MetaMask）」が、独自ステーブルコイン「メタマスクUSD（mUSD）」の提供開始予定を8月21日に発表した。セルフカストディ（自己保管）型ウ […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタマスク、独自ステーブルコイン「mUSD」を正式発表　25年内にローンチ予定]]></title>
-        <id>https://coinpost.jp/?p=644621</id>
-        <link href="https://coinpost.jp/?p=644621"/>
-        <updated>2025-08-21T22:25:13.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ウォレットのメタマスクは、独自ステーブルコインmUSDをローンチすると正式発表。まずは2025年内にイーサリアムとLinea上にローンチする計画である。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シンプレクスとアバランチのAva Labs、ステーブルコインの送金・決済ネットワークの共同検証を実施]]></title>
-        <id>https://www.neweconomy.jp/?p=489680</id>
-        <link href="https://www.neweconomy.jp/posts/489680"/>
-        <updated>2025-08-21T22:23:42.000Z</updated>
-        <summary type="html"><![CDATA[シンプレクスとアバラボがステーブルコインネットワークの共同検証 金融機関向けにコンサルからシステム開発・運用まで提供するシンプレクスが、レイヤー1ブロックチェーン「アバランチ（Avalanche）」開発元のアバラボ（Av […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、政府へ暗号資産取引の分離課税を要望＝日経]]></title>
-        <id>https://www.neweconomy.jp/?p=489660</id>
-        <link href="https://www.neweconomy.jp/posts/489660"/>
-        <updated>2025-08-21T22:15:49.000Z</updated>
-        <summary type="html"><![CDATA[金融庁が暗号資産の課税見直し要望か 金融庁が、2026年度の税制改正要望で暗号資産（仮想通貨）取引について課税制度の見直しを求めると日経新聞が8月21日に報じた。 また報道によると暗号資産のETF（上場投資信託）について […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステートストリート、JPモルガンのデジタル債務サービス初のサードパーティー保管機関に]]></title>
-        <id>https://coinpost.jp/?p=644620</id>
-        <link href="https://coinpost.jp/?p=644620"/>
-        <updated>2025-08-21T21:55:45.000Z</updated>
-        <summary type="html"><![CDATA[金融大手ステートストリートがJPモルガンのブロックチェーン債券保管サービスに参加。OCBC発行1億ドルのコマーシャルペーパー取引でキネクシス基盤のT+0決済を実現。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
