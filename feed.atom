@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-26T10:35:21.570Z</updated>
+    <updated>2025-08-26T11:26:49.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニモカ・ブランズとAntler Ibex、日本IP特化のWeb3投資ファンドを発表｜WebX2025]]></title>
+        <id>https://coinpost.jp/?p=646019</id>
+        <link href="https://coinpost.jp/?p=646019"/>
+        <updated>2025-08-26T10:00:40.000Z</updated>
+        <summary type="html"><![CDATA[WebX2025でアニモカ・ブランズとアンラーが日本IPに特化したWeb3エンタメ投資ファンドを発表。未活用の日本IPを世界展開し、NFTやトークン化で新市場開拓へ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小池都知事の閉会挨拶「Web3市場のさらなる成長に期待」｜WebX2025]]></title>
+        <id>https://coinpost.jp/?p=646032</id>
+        <link href="https://coinpost.jp/?p=646032"/>
+        <updated>2025-08-26T09:47:21.000Z</updated>
+        <summary type="html"><![CDATA[25・26日開催のWebX2025閉会式で小池百合子都知事がビデオ登壇。Web3技術によるイノベーション創出を評価し、気候変動や国際情勢の課題解決に向け「世界の叡智結集」を訴えた。国際金融都市・東京実現に向けブロックチェーン活用による金融デジタル化支援も表明。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットパンダ、株式上場を検討中。ただしロンドンは除外：フィナンシャル・タイムズ]]></title>
         <id>https://www.coindeskjapan.com/?p=309742</id>
@@ -1627,26 +1647,6 @@ SBIとスターテイル、合弁会社を設立──あらゆる価値のオ�
         <summary type="html"><![CDATA[米CFTC代行委員長が8月21日、仮想通貨スプリント第2段階開始を発表。トランプ政権デジタル資産市場報告書の全勧告実装に向けステークホルダー協議も開始。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米下院国防予算法案、CBDC禁止条項追加]]></title>
-        <id>https://coinpost.jp/?p=644629</id>
-        <link href="https://coinpost.jp/?p=644629"/>
-        <updated>2025-08-21T22:50:48.000Z</updated>
-        <summary type="html"><![CDATA[米下院が国防予算法案にCBDC発行禁止条項を追加。エマー議員の反CBDC監視国家法案が組み込まれ、FRBの個人向け中央銀行デジタル通貨発行を阻止。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタマスクが米ドルステーブルコイン「mUSD」発行へ、イーサリアムとリネアで、自己保管型ウォレットで初]]></title>
-        <id>https://www.neweconomy.jp/?p=489695</id>
-        <link href="https://www.neweconomy.jp/posts/489695"/>
-        <updated>2025-08-21T22:47:14.000Z</updated>
-        <summary type="html"><![CDATA[MetaMaskがステーブルコイン発行へ Web3ウォレット「メタマスク（MetaMask）」が、独自ステーブルコイン「メタマスクUSD（mUSD）」の提供開始予定を8月21日に発表した。セルフカストディ（自己保管）型ウ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
