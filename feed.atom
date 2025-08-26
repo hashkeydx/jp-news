@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-26T19:22:40.192Z</updated>
+    <updated>2025-08-26T20:30:44.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラトニック米商務長官「CPIやGDPなどの統計データをオンチェーンに」]]></title>
+        <id>https://coinpost.jp/?p=646151</id>
+        <link href="https://coinpost.jp/?p=646151"/>
+        <updated>2025-08-26T20:25:13.000Z</updated>
+        <summary type="html"><![CDATA[ハワード・ラトニック米商務長官が26日の閣議でトランプ大統領に対し商務省統計データのブロックチェーン発行を宣言。GDP、CPI、PCE等経済データの透明性向上を目指す新政策を表明した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/26話題】EXPOウォレットが万博終了後「HashPort Wallet」に、SBIとチェーンリンクが提携など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=490712</id>
@@ -1288,37 +1298,6 @@ VanEck、JitoSOL ETFをSECに申請──リキッドステーキングを伝統
 パウエルFRB議長のジャクソンホール講演はビットコインにどれほどのボラティリティをもたらすのか first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットポイント、ビットコイン「ライトニングネットワーク」 対応の本格検討を開始]]></title>
-        <id>https://www.neweconomy.jp/?p=489944</id>
-        <link href="https://www.neweconomy.jp/posts/489944"/>
-        <updated>2025-08-22T08:11:35.000Z</updated>
-        <summary type="html"><![CDATA[ビットポイントがライトニングネットワーク 対応の検討開始 国内暗号資産（仮想通貨）取引所ビットポイント（BITPOINT）が、ビットコイン（Bitcoin）のライトニングネットワーク（Lightning Network） […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは11万3000ドル台で停滞──ETFからの資金流出でETH、XRP、SOLの今後は？]]></title>
-        <id>https://www.coindeskjapan.com/?p=309198</id>
-        <link href="https://www.coindeskjapan.com/309198/"/>
-        <updated>2025-08-22T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は8月21日に11万3700ドル付近で取引されたが、50日単純移動平均線（SMA）の抵抗に阻まれ、11万5000ドルに到達できなかった。  ...
-ビットコインは11万3000ドル台で停滞──ETFからの資金流出でETH、XRP、SOLの今後は？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コーギアとみん銀、RWAトークン化とステーブルコイン活用の新事業モデル構築に向け協業検討]]></title>
-        <id>https://www.neweconomy.jp/?p=489929</id>
-        <link href="https://www.neweconomy.jp/posts/489929"/>
-        <updated>2025-08-22T07:49:38.000Z</updated>
-        <summary type="html"><![CDATA[コーギアとみん銀がRWAトークン化等の新事業を検討へ ソニーグループ内スタートアップのコーギアと、ふくおかフィナンシャルグループ傘下のみんなの銀行が、RWA（現実資産）のトークン化サービスおよびステーブルコインの活用に関 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
