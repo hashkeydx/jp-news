@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-26T13:00:21.318Z</updated>
+    <updated>2025-08-26T13:42:28.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オードリー・タン、渡辺創太、大西基文がAI・Web3産業変革を議論｜WebX2025]]></title>
+        <id>https://coinpost.jp/?p=645791</id>
+        <link href="https://coinpost.jp/?p=645791"/>
+        <updated>2025-08-26T13:03:21.000Z</updated>
+        <summary type="html"><![CDATA[WebXカンファレンスでオードリー・タン氏、渡辺創太氏、大西基文氏がAIとWeb3技術の融合による産業変革について討論。プルラリティ技術やステーブルコイン活用事例を紹介。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bakkt CEOが語る企業トレジャリー革命　日本市場を基点とした国際戦略とは｜WebX2025]]></title>
         <id>https://coinpost.jp/?p=645963</id>
@@ -1597,36 +1607,6 @@ SBIとスターテイル、合弁会社を設立──あらゆる価値のオ�
 渡辺創太氏×廣末紀之氏×齊藤達哉氏、ステーブルコインから米国最新事情まで──「Web3本出版記念トーク in X space」ダイジェスト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米司法省高官「悪意なくコードを書くことは犯罪ではない」　トルネードキャッシュ有罪判決後に]]></title>
-        <id>https://coinpost.jp/?p=644634</id>
-        <link href="https://coinpost.jp/?p=644634"/>
-        <updated>2025-08-22T01:35:17.000Z</updated>
-        <summary type="html"><![CDATA[米司法省が分散型ソフトウェア開発者に対する無認可送金での訴追停止を表明した。8月初め、仮想通貨ミキサー「トルネードキャッシュ」創設者に有罪判決が出たところだ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テゾス（XTZ）とは？特徴・将来性・取引所での買い方を徹底解説【2025年最新】]]></title>
-        <id>http://coinpost.jp/?p=37551</id>
-        <link href="https://coinpost.jp/?p=37551"/>
-        <updated>2025-08-22T01:30:03.000Z</updated>
-        <summary type="html"><![CDATA[テゾス（XTZ）の特徴、将来性、国内取引所での購入方法を分かりやすく解説。年利3%のステーキング報酬、スマートコントラクトの数学的検証、RWA分野での採用事例、注目のTezos Xプロジェクトまで、投資前に知っておきたい情報を網羅的にご紹介します。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン需要3分の2減少、利確フェーズ継続＝クリプトクアント週次分析]]></title>
-        <id>https://coinpost.jp/?p=644646</id>
-        <link href="https://coinpost.jp/?p=644646"/>
-        <updated>2025-08-22T01:00:37.000Z</updated>
-        <summary type="html"><![CDATA[クリプトクアント最新分析で仮想通貨ビットコイン需要が7月ピーク17万4000BTCから5万9000BTCへ大幅減少。ETF購入も4月以来最低水準で利確フェーズ継続。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
