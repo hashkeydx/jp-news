@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-08-29T23:25:56.453Z</updated>
+    <updated>2025-08-30T01:56:56.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン相場、古参クジラ売却で高リスク領域入り＝Bitcoin Vector分析]]></title>
+        <id>https://coinpost.jp/?p=647156</id>
+        <link href="https://coinpost.jp/?p=647156"/>
+        <updated>2025-08-30T01:40:54.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインベクターの最新分析によると、仮想通貨ビットコイン価格が10万7千ドルを下回れば高リスク領域に突入し10万ドル台をテストする可能性がある。現在10万7750ドルで推移し、構造的安定性の重要な局面を迎えている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国石油大手ペトロチャイナ、ステーブルコインによる国際決済を検討か]]></title>
+        <id>https://coinpost.jp/?p=647148</id>
+        <link href="https://coinpost.jp/?p=647148"/>
+        <updated>2025-08-30T01:05:10.000Z</updated>
+        <summary type="html"><![CDATA[ペトロチャイナがステーブルコインによる国際決済を検討する予定だ。香港の新条例施行を背景にしている。中国政府も人民建てステーブルコインの活用を検討していると伝えられる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21シェアーズ、DEXデリバティブ最大手ハイパーリキッド（HYPE）のETPを世界初上場]]></title>
+        <id>https://coinpost.jp/?p=647147</id>
+        <link href="https://coinpost.jp/?p=647147"/>
+        <updated>2025-08-30T00:45:13.000Z</updated>
+        <summary type="html"><![CDATA[スイスの21シェアーズが29日、分散型取引所ハイパーリキッドに投資するETP「HYPE」をSIXスイス取引所に上場。日次80億ドルの取引量を誇る分散型パーペチュアル市場の80%シェアを握る銘柄への機関投資家向けアクセスを提供。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高頻度取引ツールをオンチェーンに導入するaPriori、約29億円の資金を調達]]></title>
+        <id>https://www.coindeskjapan.com/?p=310481</id>
+        <link href="https://www.coindeskjapan.com/310481/"/>
+        <updated>2025-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ジャンプ・トレーディング（Jump Trading）、コインベース（Coinbase）、シタデル・セキュリティーズ（Citadel Securities）の元エ ...
+高頻度取引ツールをオンチェーンに導入するaPriori、約29億円の資金を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Oliver Knight</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイナーIRENの目標株価、60％高の37ドルに：カナコード]]></title>
+        <id>https://www.coindeskjapan.com/?p=310477</id>
+        <link href="https://www.coindeskjapan.com/310477/"/>
+        <updated>2025-08-29T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ブローカーのカナコード・ジェニュイティ（Canaccord Genuity）が8月29日に発表したリサーチレポートによると、ビットコインマイナーIRENの第4四 ...
+ビットコインマイナーIRENの目標株価、60％高の37ドルに：カナコード first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、支援金プログラム公募を一時停止]]></title>
+        <id>https://coinpost.jp/?p=647136</id>
+        <link href="https://coinpost.jp/?p=647136"/>
+        <updated>2025-08-29T23:25:48.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム財団エコシステムサポートプログラム（ESP）が29日、オープングラント公募の一時停止を発表。2024年に105プロジェクトに300万ドルを提供した後、より戦略的な資金配分モデルへの移行を表明。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム財団、UXの最優先課題として相互運用性に取り組む]]></title>
         <id>https://www.coindeskjapan.com/?p=310473</id>
@@ -1874,16 +1936,6 @@ ETHZilla、イーサリアム保有高を4億8900万ドルに拡大──最大2
         <summary type="html"><![CDATA[WebX2025で金融調査会長らが暗号資産制度改革を議論。税制改正による市場活性化、2類型規制の導入、事業者コスト増加など金商法移行の課題と展望を解説。]]></summary>
         <author>
             <name>hiroto.yoshii</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコインETF日本上場の実現可能性と解決すべき課題」金融業界リーダーが議論｜WebX2025]]></title>
-        <id>https://coinpost.jp/?p=645526</id>
-        <link href="https://coinpost.jp/?p=645526"/>
-        <updated>2025-08-25T11:58:37.000Z</updated>
-        <summary type="html"><![CDATA[野村、SBI、KPMGの幹部が登壇。投資信託法の制約やカストディ問題など実務的課題をWebXで議論。投資家の6割以上が暗号資産（仮想通貨）投資に関心を示す中、実現への具体的な道筋が明らかに。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
 </feed>
