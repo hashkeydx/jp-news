@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=310834",
+          "author": "Omkar Godbole",
+          "description": "金価格は4月以来の最高水準に急騰しており、米財務省短期証券イールドカーブのスティープ化という、しばしば見過ごされがちな要素が勢いを増していることから、さらなる上 ...\n金価格の上昇を支える大きな要因、ビットコインにも追い風となる可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/310834/",
+          "publishedOn": "2025-09-01T22:30:00.000Z",
+          "wordCount": 1379,
+          "title": "金価格の上昇を支える大きな要因、ビットコインにも追い風となる可能性",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/06459a5f278c79f4095c8d3c6c664bcc7185d1c5-6000x4000-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=310813",
           "author": "林 理南",
           "description": "ビットコイン（BTC）の実現時価総額（各コインの最後に取引された価格での価値を測定するオンチェーン指標）は、現物価格の下落にもかかわらず上昇を続けている。これは ...\n現物価格の下落にもかかわらず、ビットコインの実現時価総額は過去最高を記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -489,6 +499,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=647635",
+          "author": "菊谷ルイス",
+          "description": "7年間休眠していた大口ビットコイン投資家が今週月曜日に2億1500万ドル相当のBTCを売却し、イーサリアム購入を継続。総保有額40億ドル超に拡大しシャープリンクのETH保有を超えている。",
+          "link": "https://coinpost.jp/?p=647635",
+          "publishedOn": "2025-09-01T23:15:15.000Z",
+          "wordCount": 3185,
+          "title": "ビットコインクジラがイーサリアム大量購入継続、38億ドル超を保有",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/eth-cancun-.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/eth-cancun-.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=647628",
+          "author": "K.Kobayashi",
+          "description": "金融庁は、仮想通貨を現行の規制である資金決済法の規定ではなく、基本的に金商法のみで規制することを検討する。理由はルールが複雑になったり、企業の負担が生じたりする懸念があるためである。",
+          "link": "https://coinpost.jp/?p=647628",
+          "publishedOn": "2025-09-01T22:30:16.000Z",
+          "wordCount": 3196,
+          "title": "「仮想通貨は基本的に金商法のみで規制を」金融庁が検討へ　分離課税移行やETF解禁につながるか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=647626",
+          "author": "菊谷ルイス",
+          "description": "深セン市福田投資控股が世界初のイーサリアム公開上場RWAデジタル債券を香港で発行。5億人民元、期間2年、利率2.62%でフィッチA-格付け。",
+          "link": "https://coinpost.jp/?p=647626",
+          "publishedOn": "2025-09-01T21:55:27.000Z",
+          "wordCount": 3173,
+          "title": "中国の国有企業が世界初のRWAデジタル債券発行、イーサリアム上で103億円相当調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/shenzhen-rwa-token-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/shenzhen-rwa-token-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=647622",
+          "author": "菊谷ルイス",
+          "description": "大手仮想通貨取引所OKXが上場基準未達を理由にWBTC、JST、BTT、ERN、GLMR、MOVRの12取引ペアを9月8日に上場廃止すると発表。",
+          "link": "https://coinpost.jp/?p=647622",
+          "publishedOn": "2025-09-01T21:30:45.000Z",
+          "wordCount": 3168,
+          "title": "OKX、6銘柄の上場廃止を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/okxtitle0818.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/okxtitle0818.png"
+        },
         {
           "id": "https://coinpost.jp/?p=647617",
           "author": "菊谷ルイス",
@@ -1390,16 +1460,6 @@
           "wordCount": 753,
           "title": "アーベラボ、RWA担保型レンディングマーケット「Horizon」ローンチ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/28205723/AAVE-250828Maksim-Tkachenko.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=491146",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/491146",
-          "publishedOn": "2025-08-28T10:57:22.000Z",
-          "wordCount": 651,
-          "title": "【8/28話題】「SOKUYAKU」のジェイフロンティアがビットコイン購入とマイニング事業、メタプラが海外募集による新株発行へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/08/28171418/0c42bf37d726fbf39177acacd8c0139f.jpg"
         }
       ]
     }
