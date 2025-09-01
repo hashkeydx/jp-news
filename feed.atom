@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-01T09:33:22.109Z</updated>
+    <updated>2025-09-01T10:34:59.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、S&P500構成銘柄の基準を満たす──次の組み換え発表は9月5日]]></title>
+        <id>https://www.coindeskjapan.com/?p=310769</id>
+        <link href="https://www.coindeskjapan.com/310769/"/>
+        <updated>2025-09-01T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー（Strategy）は、過去最高の四半期業績を達成したことを受け、S&P 500構成銘柄への組み入れ資格を正式に取得した。 2025年第2四 ...
+ストラテジー、S&P500構成銘柄の基準を満たす──次の組み換え発表は9月5日 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>James Van Straten</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融庁、暗号資産規制「金商法」への一本化を提案]]></title>
         <id>https://www.coindeskjapan.com/?p=310759</id>
@@ -1410,28 +1421,6 @@ CMEのイーサリアム先物の建玉、過去最高の100億ドル超に─�
 エヌビディア株、予想を上回る決算発表後も小幅安──暗号資産はほぼ横ばい first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヘミ・ラボ、ビットコインのプログラマビリティ拡大に向け約22億円を調達]]></title>
-        <id>https://www.coindeskjapan.com/?p=310030</id>
-        <link href="https://www.coindeskjapan.com/310030/"/>
-        <updated>2025-08-27T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ジェフ・ガージック（Jeff Garzik）氏が設立したビットコイン・プログラマビリティ・ネットワークであるヘミ・ラボは、開発を加速し、そのエコシステムを拡大す ...
-ヘミ・ラボ、ビットコインのプログラマビリティ拡大に向け約22億円を調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Jamie Crawley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーベ・ラボ、ホライズンを立ち上げ──機関投資家がトークン化資産を担保にステーブルコインを借入可能]]></title>
-        <id>https://www.coindeskjapan.com/?p=310020</id>
-        <link href="https://www.coindeskjapan.com/310020/"/>
-        <updated>2025-08-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アーベ・ラボ（Aave Labs）は、新プラットフォーム「ホライズン（Horizon）」を立ち上げた。このプラットフォームは機関投資家の借り手向けのもので、米国 ...
-アーベ・ラボ、ホライズンを立ち上げ──機関投資家がトークン化資産を担保にステーブルコインを借入可能 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
