@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=310813",
+          "author": "林 理南",
+          "description": "ビットコイン（BTC）の実現時価総額（各コインの最後に取引された価格での価値を測定するオンチェーン指標）は、現物価格の下落にもかかわらず上昇を続けている。これは ...\n現物価格の下落にもかかわらず、ビットコインの実現時価総額は過去最高を記録 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/310813/",
+          "publishedOn": "2025-09-01T21:00:00.000Z",
+          "wordCount": 1320,
+          "title": "現物価格の下落にもかかわらず、ビットコインの実現時価総額は過去最高を記録",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/N08a71e70866d4154715478f67f418d9ca0e9c3fa-3200x1800-1.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=310827",
           "author": "Krisztian Sandor",
           "description": "イーサリアムのスケーリングネットワークであるポリゴンのネイティブトークンPOLは週末を通じて、広範な暗号資産市場のベンチマークであるCoinDesk 20 In ...\nポリゴン、週末に16％急騰で暗号資産の上昇を牽引──CoinDesk 20 Indexは横ばい first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -475,26 +485,6 @@
           "wordCount": 1332,
           "title": "米アーク、イーサリアム財務企業ビットマインの株式を1560万ドル分取得",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/10/HHH2GWKS5ZDVNHXVGTB6WSHTTE.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310165",
-          "author": "Oliver Knight",
-          "description": "メタバースプラットフォーム「ザ・サンドボックス（The Sandbox）」は、約250人の従業員の半数以上を解雇する大規模なリストラを実施するとフランスの暗号資 ...\nザ・サンドボックス、従業員の半数以上をリストラ──アニモカ・ブランズが経営権を握る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310165/",
-          "publishedOn": "2025-08-28T09:00:00.000Z",
-          "wordCount": 1353,
-          "title": "ザ・サンドボックス、従業員の半数以上をリストラ──アニモカ・ブランズが経営権を握る",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/6df19fdd47d0d6b10f10fb7a269904e81f7deb8d-1600x900-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310141",
-          "author": "Omkar Godbole",
-          "description": "WWEのプロレスラーから俳優に転身したザ・ロックことドウェイン・ジョンソン（Dwayne Johnson）氏は、分散型予測市場のポリマーケット（Polymark ...\nドウェイン・ジョンソン氏、ポリマーケットで次期大統領選挙の民主党候補第4位に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310141/",
-          "publishedOn": "2025-08-28T08:40:00.000Z",
-          "wordCount": 1422,
-          "title": "ドウェイン・ジョンソン氏、ポリマーケットで次期大統領選挙の民主党候補第4位に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/08/shutterstock_2444350463.jpg"
         }
       ]
     },
@@ -509,6 +499,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=647617",
+          "author": "菊谷ルイス",
+          "description": "ブルームバーグ報道によると、オーストラリアの4.3兆豪ドル規模年金制度で仮想通貨投資が拡大。コインベースとOKXが自主管理年金基金向けサービスを開始。",
+          "link": "https://coinpost.jp/?p=647617",
+          "publishedOn": "2025-09-01T21:05:28.000Z",
+          "wordCount": 3185,
+          "title": "豪州年金基金に仮想通貨流入加速、コインベースとOKXが専用サービス展開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/australia-post-office-bitcoin-buying.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/australia-post-office-bitcoin-buying.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=647615",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領一族支援の仮想通貨プロジェクトワールドリバティファイナンシャル（WLFI）がバイナンスやコインベースで取引開始。",
+          "link": "https://coinpost.jp/?p=647615",
+          "publishedOn": "2025-09-01T20:45:13.000Z",
+          "wordCount": 3179,
+          "title": "トランプ関連WLFIがバイナンスやコインベース上場、トークン販売価格から10倍超上昇",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=645939",
           "author": "Enzo",
@@ -1078,36 +1098,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-140106-6809_web2k-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/WebX-2025-140106-6809_web2k-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=645949",
-          "author": "hiroto.yoshii",
-          "description": "WebX 2025のブース出展企業を現地取材でレポート。LINE NEXTのMini Dapp、TRONやバイナンスの豪華企画、DIMOインタビューなど注目ブースを詳しく紹介します",
-          "link": "https://coinpost.jp/?p=645949",
-          "publishedOn": "2025-08-28T08:58:19.000Z",
-          "wordCount": 3598,
-          "title": "WebX 2025ブース出展レポート｜Mini Dapp・RWA・DIMO現地取材など注目企画を総まとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/webx2025_official_keyvisual_1920x1080.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/webx2025_official_keyvisual_1920x1080.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=645763",
-          "author": "菊谷ルイス",
-          "description": "マネックスグループ松本大会長がWebXのFiresideチャットステージでデジタル資産事業の戦略を詳しく語った。2027年の税制改正や機関投資家参入予測、ブロックチェーン活用による会計業務革命について解説している。",
-          "link": "https://coinpost.jp/?p=645763",
-          "publishedOn": "2025-08-28T08:50:49.000Z",
-          "wordCount": 3272,
-          "title": "「仮想通貨税制改正と会計革命への展望」マネックス松本会長が語るデジタル資産の未来｜WebX2025",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/firesidechat_webx.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/firesidechat_webx.jpg"
         }
       ]
     },
