@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-03T10:31:35.984Z</updated>
+    <updated>2025-09-03T11:24:00.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインネットワークのハッシュレート、8月に過去最高水準を回復：JPモルガン]]></title>
+        <id>https://www.coindeskjapan.com/?p=311471</id>
+        <link href="https://www.coindeskjapan.com/311471/"/>
+        <updated>2025-09-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインネットワークのハッシュレートは先月、過去最高水準に回復した。JPモルガン（JPMorgan）が9月2日に発表した調査報告書によると、約50エクサハッ ...
+ビットコインネットワークのハッシュレート、8月に過去最高水準を回復：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Will Canny</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジ・イーサ・マシン、ジェフリー・バーンズ氏から15万ETHの現物拠出を獲得]]></title>
         <id>https://www.coindeskjapan.com/?p=311455</id>
@@ -1444,17 +1455,6 @@ Pump.funの買い戻しがPUMP回復を後押し──暗号資産市場が低�
         <summary type="html"><![CDATA[イーサリアム財団エコシステムサポートプログラム（ESP）が29日、オープングラント公募の一時停止を発表。2024年に105プロジェクトに300万ドルを提供した後、より戦略的な資金配分モデルへの移行を表明。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、UXの最優先課題として相互運用性に取り組む]]></title>
-        <id>https://www.coindeskjapan.com/?p=310473</id>
-        <link href="https://www.coindeskjapan.com/310473/"/>
-        <updated>2025-08-29T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団は8月29日、増加するイーサリアムのレイヤー2ネットワーク間の障壁を取り除くことを目的とした、主要なイニシアチブを詳述した新しいブログ記事を公開 ...
-イーサリアム財団、UXの最優先課題として相互運用性に取り組む first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Margaux Nijkerk</name>
         </author>
     </entry>
 </feed>
