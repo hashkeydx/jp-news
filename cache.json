@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=311560",
+          "author": "廣瀬 優香",
+          "description": "ウォール街の機関投資家によるイーサリアム（Ethereum）採用を支援するインフラを開発するスタートアップ、Etherealizeは、エレクトリック・キャピタル ...\nEtherealize、ウォール街にイーサリアムを導入するため4000万ドルを調達 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/311560/",
+          "publishedOn": "2025-09-04T06:15:00.000Z",
+          "wordCount": 1332,
+          "title": "Etherealize、ウォール街にイーサリアムを導入するため4000万ドルを調達",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/fa6071502c26654c46db7f3a7f628b5a6787e4a5-2560x1440-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=311526",
           "author": "Krisztian Sandor",
           "description": "オンド・ファイナンスは9月3日、オンド・グローバル・マーケッツと名付けられたトークン化された株式プラットフォームを立ち上げ、米国外の投資家に、オンチェーンで10 ...\nオンド・ファイナンス、トークン化された米国株・ETFの取引サービスを開始──株式トークン化の流れ、加速 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -634,6 +644,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=648622",
+          "author": "AKIRA.H",
+          "description": "Rippleの米ドル建てステーブルコイン「RLUSD」がアフリカで利用開始。Chipper CashやVALRと提携し、国際展開を拡大中。",
+          "link": "https://coinpost.jp/?p=648622",
+          "publishedOn": "2025-09-04T05:49:15.000Z",
+          "wordCount": 3184,
+          "title": "リップル社、ステーブルコイン『RLUSD』をアフリカ3社と提携し提供開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=648592",
           "author": "菊谷ルイス",
@@ -1466,6 +1491,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=493105",
+          "author": "OtsugaShinya",
+          "description": "アメリカン・ビットコインがナスダック上場 米大統領ドナルド・トランプ（Donald Trump）氏の長男と次男が関わるビットコインマイニング企業がナスダック（Nasdaq）で9月3日に上場初日を迎え、株価が一時2倍超まで […]",
+          "link": "https://www.neweconomy.jp/posts/493105",
+          "publishedOn": "2025-09-04T06:36:21.000Z",
+          "wordCount": 795,
+          "title": "トランプの息子2人、アメリカン・ビットコイン株上場で持ち分評価額15億ドルに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04153604/ced15a87720a7d6a338cfc5cfbf685aa.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493081",
+          "author": "gentosha_takahashi",
+          "description": "スーパーステートと提携で 暗号資産（仮想通貨）運用企業ギャラクシーデジタル（Galaxy Digital Holdings）が、フィンテック企業スーパーステート（Superstate）と提携し、自社株式をオンチェーンでト […]",
+          "link": "https://www.neweconomy.jp/posts/493081",
+          "publishedOn": "2025-09-04T05:57:00.000Z",
+          "wordCount": 744,
+          "title": "ギャラクシーデジタル、自社株式をソラナ上で初のオンチェーン化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04145650/0c030a98dfe95b5059bbd80a94721f20.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493072",
+          "author": "HitomotoToshikazu",
+          "description": "Ondo Financeがトークン化米国株式・ETFを売買可能に RWA（現実資産）のトークン化プラットフォーム提供オンドファイナンス（Ondo Finance）が、100以上のトークン化米国株式・ETF（上場投資信託） […]",
+          "link": "https://www.neweconomy.jp/posts/493072",
+          "publishedOn": "2025-09-04T05:53:27.000Z",
+          "wordCount": 767,
+          "title": "オンドファイナンスが「Ondo Global Markets」をイーサリアムで公開、100以上のトークン化米国株・ETFの取引提供",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04145321/8cdcb0356e16c2c2669ed5088399a60e-1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493054",
+          "author": "NewEconomy",
+          "description": "クーコインがVBAらとMoU 海外暗号資産（仮想通貨）取引所クーコイン（KuCoin）が、ベトナムブロックチェーン・デジタル資産協会（VBA）およびワンマトリックス（1Matrix Joint Stock Company […]",
+          "link": "https://www.neweconomy.jp/posts/493054",
+          "publishedOn": "2025-09-04T05:44:45.000Z",
+          "wordCount": 739,
+          "title": "クーコイン、ベトナムの国家ブロックチェーン戦略を支援へ、VBAらとMoU締結",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04144303/4693d4f5aebffc22ec121b16506a0ddd.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=493056",
+          "author": "NewEconomy",
+          "description": "OKXにMiCA導入前の違反で罰金 オランダ国立銀行（DNB）が、グローバル暗号資産（仮想通貨）取引所OKXに対し、225万ユーロ（約3億9,000万円）の罰金を科したと9月3日に発表した。 今回の処分理由は、2023年 […]",
+          "link": "https://www.neweconomy.jp/posts/493056",
+          "publishedOn": "2025-09-04T05:43:22.000Z",
+          "wordCount": 739,
+          "title": "OKXに225万ユーロの罰金、DNBがMiCA導入前の登録違反を指摘",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/04144302/c3a859200bae6a4537abb7c51fb92668.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=493035",
           "author": "OtsugaShinya",
