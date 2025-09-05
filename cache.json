@@ -710,36 +710,6 @@
           "wordCount": 1302,
           "title": "金融庁、暗号資産規制「金商法」への一本化を提案",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/shutterstock_1685258881-1-710x45-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310498",
-          "author": "CoinDesk JAPAN",
-          "description": "試行錯誤の消費財ブランドWeb3事業、新たなキラーユースケースの誕生を予測\" />\n\nCoinDesk JAPANを運営するN.Avenueが2023年7月より展開している「N.Avenue club」は、Web3をリサーチ・推進する企業リーダー ...\n【N.Avenue club 3期3回ラウンドテーブル】試行錯誤の消費財ブランドWeb3事業、新たなキラーユースケースの誕生を予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310498/",
-          "publishedOn": "2025-09-01T08:55:32.000Z",
-          "wordCount": 1819,
-          "title": "【N.Avenue club 3期3回ラウンドテーブル】試行錯誤の消費財ブランドWeb3事業、新たなキラーユースケースの誕生を予測",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/【img-KV】1200-x-800-px.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310735",
-          "author": "Shaurya Malwa",
-          "description": "ビットコイン（BTC）は9月に入り10万7000ドル付近で取引が始まったが、歴史は味方していない。 過去12年間の市場データでは、9月はビットコインにとって最も ...\n暗号資産の一年で最も弱い月が始まった──ビットコインは過去12年で8回マイナス first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310735/",
-          "publishedOn": "2025-09-01T08:40:00.000Z",
-          "wordCount": 1326,
-          "title": "暗号資産の一年で最も弱い月が始まった──ビットコインは過去12年で8回マイナス",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2021/08/shutterstock_261085280-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=310718",
-          "author": "廣瀬 優香",
-          "description": "バイナンス（Binance）は、トランプ一家に関連する分散型金融（DeFi）プロジェクト「ワールド・リバティ・ファイナンシャル（World Liberty Fi ...\nバイナンス、トランプ氏関連の「WLFIトークン」を上場する初の取引所に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/310718/",
-          "publishedOn": "2025-09-01T08:30:00.000Z",
-          "wordCount": 1406,
-          "title": "バイナンス、トランプ氏関連の「WLFIトークン」を上場する初の取引所に",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/43a6fb7a9422642158529d0f3322e52bde71df2a-1190x792-1.jpg"
         }
       ]
     },
@@ -754,6 +724,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=649110",
+          "author": "菊谷ルイス",
+          "description": "SEC・CFTC両委員長が5日、規制統一化に向けた共同ラウンドテーブルを29日開催すると発表。仮想通貨商品定義統一や資本枠組み整合などを協議する。",
+          "link": "https://coinpost.jp/?p=649110",
+          "publishedOn": "2025-09-05T21:00:02.000Z",
+          "wordCount": 3169,
+          "title": "米SECとCFTC、規制統一化へ　月末に共同ラウンドテーブルを開催",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=649107",
+          "author": "菊谷ルイス",
+          "description": "2014年ICO参加の大口投資家が5日、3年間休眠状態だった15万ETH（960億円相当）をステーキングサービスに移動。入場待ち数が退場数を上回る。",
+          "link": "https://coinpost.jp/?p=649107",
+          "publishedOn": "2025-09-05T20:40:13.000Z",
+          "wordCount": 3180,
+          "title": "イーサリアムICO時代のクジラ、3年ぶりに960億円相当のETHをステーキングへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/ethereum23414-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/ethereum23414-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=649075",
           "author": "M.Somekawa",
@@ -2255,16 +2255,6 @@
           "wordCount": 749,
           "title": "イーサリアム財団、L2間の相互運用性強化に向けた包括的フレームワーク発表",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/01193629/8fe7e89db2f7394ea0dfaee572fc29cc.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=492094",
-          "author": "HitomotoToshikazu",
-          "description": "21Shares Hyperliquid ETPがSIX上場 スイス拠点の資産運用会社21シェアーズ（21Shares）による「21Shares Hyperliquid ETP」が、スイスのSIXスイス証券取引所（SIX […]",
-          "link": "https://www.neweconomy.jp/posts/492094",
-          "publishedOn": "2025-09-01T08:36:47.000Z",
-          "wordCount": 777,
-          "title": "21Sharesのハイパーリキッド（HYPE）現物ETP、SIXスイス証券取引所に上場",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/01173602/25ee6f682b07263cd2279f633213efd8.jpg"
         }
       ]
     }
