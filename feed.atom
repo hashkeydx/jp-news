@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-05T22:29:11.136Z</updated>
+    <updated>2025-09-05T23:25:30.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「時価総額上位20銘柄」などの基準を設定　韓国当局、仮想通貨レンディングのガイドライン発表]]></title>
+        <id>https://coinpost.jp/?p=649143</id>
+        <link href="https://coinpost.jp/?p=649143"/>
+        <updated>2025-09-05T23:05:49.000Z</updated>
+        <summary type="html"><![CDATA[韓国の金融委員会は仮想通貨のレンディングに関するガイドラインを発表。サービス対象銘柄を時価総額上位20位などのルールで制限することなど、規制を明確化した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプメディア、6.8億CROトークン取得]]></title>
+        <id>https://coinpost.jp/?p=649146</id>
+        <link href="https://coinpost.jp/?p=649146"/>
+        <updated>2025-09-05T23:00:09.000Z</updated>
+        <summary type="html"><![CDATA[トランプメディア・テクノロジーグループがクリプトドットコムとの買収契約を完了し、6.84億枚のCROトークンを現金・株式で取得。Truth Socialとの戦略的提携も開始される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム熱、冷める──ETFから4日間で約740億円流出]]></title>
+        <id>https://www.coindeskjapan.com/?p=312134</id>
+        <link href="https://www.coindeskjapan.com/312134/"/>
+        <updated>2025-09-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）ETFは4日連続で資金流出を記録した。1カ月間にわたる大幅な資金流入でビットコイン（BTC）ETFを上回るパフォーマンスを示した後、市場心 ...
+イーサリアム熱、冷める──ETFから4日間で約740億円流出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Helene Braun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジー、S&P500編入されず　ビットコイン小幅反落]]></title>
         <id>https://coinpost.jp/?p=649117</id>
@@ -1934,46 +1965,6 @@ XRPは「底打ち」を示唆、BTCは下降トレンドラインを上抜け�
 ポリゴン、週末に16％急騰で暗号資産の上昇を牽引──CoinDesk 20 Indexは横ばい first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9/1話題】ゆうちょ銀行がトークン化預金の取扱検討、メタプラのビットコイン保有数が2万BTCになど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=492089</id>
-        <link href="https://www.neweconomy.jp/posts/492089"/>
-        <updated>2025-09-01T11:10:11.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パジーペンギンズのモバイルゲーム「Pudgy Party」がiOSとAndroidで公開、NFT対応でアイテム取引も可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=492145</id>
-        <link href="https://www.neweconomy.jp/posts/492145"/>
-        <updated>2025-09-01T10:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Pudgy Penguinsがモバイルゲーム公開 NFTプロジェクト「パジーペンギンズ（Pudgy Penguins）」のモバイルゲーム「パジーパーティー（Pudgy Party）」が、iOSおよびAndroid向けにリ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、L2間の相互運用性強化に向けた包括的フレームワーク発表]]></title>
-        <id>https://www.neweconomy.jp/?p=492136</id>
-        <link href="https://www.neweconomy.jp/posts/492136"/>
-        <updated>2025-09-01T10:36:57.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団がシームレスなL2体験実現へ イーサリアム財団（Ethereum Foundation）が、レイヤー2（L2）ネットワーク間の相互運用性を強化し「1つのチェーンのような体験」を提供するための包括的なプロト […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スイ（SUI）2025年の価格予想と将来性｜特徴・取引所比較・リスク解説]]></title>
-        <id>https://coinpost.jp/?p=642752</id>
-        <link href="https://coinpost.jp/?p=642752"/>
-        <updated>2025-09-01T10:30:17.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）スイ（SUI）の2025年価格予想や将来性を徹底解説。VanEckの16ドル予測、現物ETF申請、技術的特徴、投資リスクまで網羅。国内取引所比較や最新エコシステム情報も掲載。]]></summary>
-        <author>
-            <name>hiroto.yoshii</name>
         </author>
     </entry>
 </feed>
