@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-05T08:34:49.201Z</updated>
+    <updated>2025-09-05T09:29:13.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[独大手証券取引所シュトゥットガルト、欧州全域対象のトークン化資産決済基盤「セチュリオン」ローンチ]]></title>
+        <id>https://www.neweconomy.jp/?p=493648</id>
+        <link href="https://www.neweconomy.jp/posts/493648"/>
+        <updated>2025-09-05T09:25:11.000Z</updated>
+        <summary type="html"><![CDATA[独大手取引所グループがトークン化資産の決済基盤ローンチ ドイツの大手証券取引所ベールゼ・シュトゥットガルト・グループ（Boerse Stuttgart Group：以下シュトゥットガルト）が、欧州全域対応のトークン化資産 […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国内企業Robot Consulting、10億円規模のイーサリアムトレジャリー戦略を発表──「ビットマインを模範」]]></title>
         <id>https://www.coindeskjapan.com/?p=312057</id>
@@ -2132,17 +2142,6 @@ CoinDesk JAPANを運営するN.Avenueが2023年7月より展開している「N.
 量子コンピュータの脅威に備えビットコインの保管方法を見直し：エルサルバドル政府 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>T. Minamoto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、ストライプ……なぜ多くの企業が独自ブロックチェーンを立ち上げるのか？]]></title>
-        <id>https://www.coindeskjapan.com/?p=310575</id>
-        <link href="https://www.coindeskjapan.com/310575/"/>
-        <updated>2025-08-31T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインのための新チェーン ステーブルコイン向けの新しいブロックチェーンが毎日のように発表されている。 USDCを発行するサークルが独自の決済ネットワー ...
-サークル、ストライプ……なぜ多くの企業が独自ブロックチェーンを立ち上げるのか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
