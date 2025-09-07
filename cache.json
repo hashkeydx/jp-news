@@ -570,16 +570,6 @@
           "wordCount": 1316,
           "title": "ビットコインの7日間平均ハッシュレート、初めて1ゼタハッシュに到達",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/Neb0202d46b6d0d5fd1732c67ecbd7583b2b3b785-3200x1800-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=311206",
-          "author": "Margaux Nijkerk",
-          "description": "ソラナ（Solana）コミュニティは、待望の「アルペングロー（Alpenglow）」アップグレードに圧倒的多数で賛成票を投じ、ネットワークは史上最も重要な技術的 ...\nソラナ、98％の賛成で「アルペングロー」アップグレードを承認──大幅刷新へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/311206/",
-          "publishedOn": "2025-09-02T21:00:00.000Z",
-          "wordCount": 1363,
-          "title": "ソラナ、98％の賛成で「アルペングロー」アップグレードを承認──大幅刷新へ",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2187510541.jpg"
         }
       ]
     },
@@ -590,10 +580,25 @@
       "articles": []
     },
     {
-      "title": "仮想通貨ビットコインのニュース  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=648944",
+          "author": "幸田直子",
+          "description": "米大手仮想通貨取引所コインベースの事業開発担当副社長ダン・キム氏が大型Web3カンファレンス「WebX」に登壇し、同社がAI領域で大きな注目を集める「エージェントコマース」に投資を本格化する理由と背景について詳説した。",
+          "link": "https://coinpost.jp/?p=648944",
+          "publishedOn": "2025-09-07T07:00:23.000Z",
+          "wordCount": 3201,
+          "title": "AIが自律的に売買する時代へ、コインベースが描くエージェントコマースの未来｜WebX2025",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/webx2025_keyvisual-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/webx2025_keyvisual-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=648857",
           "author": "CoinPost編集部",
@@ -1463,36 +1468,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=648004",
-          "author": "菊谷ルイス",
-          "description": "米SECとCFTCが仮想通貨市場に関する共同声明を発表。現行法は仮想通貨現物の商品取引を禁止せず、登録取引所での上場を促進する方針を明確化した。",
-          "link": "https://coinpost.jp/?p=648004",
-          "publishedOn": "2025-09-02T21:15:45.000Z",
-          "wordCount": 3149,
-          "title": "米SEC・CFTC、仮想通貨の取引所上場促進で規制明確化",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=647999",
-          "author": "菊谷ルイス",
-          "description": "アリババ創設者ジャック・マー氏と関係の深い香港上場企業ユンフェン・フィナンシャルがイーサリアム1万枚を取得。アジア上場企業による今年最大級の購入規模に。",
-          "link": "https://coinpost.jp/?p=647999",
-          "publishedOn": "2025-09-02T20:50:42.000Z",
-          "wordCount": 3155,
-          "title": "ジャック・マー関連企業ユンフェン、1万イーサリアムを65億円で取得",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
         }
       ]
     },
