@@ -440,16 +440,6 @@
           "wordCount": 1347,
           "title": "上場企業のビットコイン保有量、100万632BTCを超える",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2056188308.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=311787",
-          "author": "林 理南",
-          "description": "欧州中央銀行（ECB）のピエロ・チポローネ（Piero Cipollone）理事は4日にブリュッセルで開かれた欧州議会で、大規模な機能停止時でもユーザーが支払い ...\nデジタルユーロは大規模混乱時に必要なツール：ECB理事 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/311787/",
-          "publishedOn": "2025-09-04T15:49:34.000Z",
-          "wordCount": 1312,
-          "title": "デジタルユーロは大規模混乱時に必要なツール：ECB理事",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/3dcb2409e6126213d2e1847688138180e8753a06-2400x1350-1.jpg"
         }
       ]
     },
@@ -464,6 +454,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=649703",
+          "author": "菊谷ルイス",
+          "description": "ハッカーがNPM開発者アカウントを乗っ取り、週10億ダウンロードのライブラリに仮想通貨盗難コードを仕入込んだ。ウォレットアドレス置換による新たな攻撃手法が明らかに。",
+          "link": "https://coinpost.jp/?p=649703",
+          "publishedOn": "2025-09-09T04:10:31.000Z",
+          "wordCount": 3149,
+          "title": "不正コード混入で仮想通貨オンチェーン送金にすり替えリスク、専門家指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/dns-attack-fruitcake.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/dns-attack-fruitcake.png"
+        },
         {
           "id": "https://coinpost.jp/?p=649648",
           "author": "A.Yamada",
@@ -1206,6 +1211,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=494466",
+          "author": "HitomotoToshikazu",
+          "description": "Grayscale Chainlink TrustをETF転換へ 暗号資産（仮想通貨）チェーンリンク（LINK）の投資信託「Grayscale Chainlink Trust（GLNK）」をETF（上場投資信託）に転換す […]",
+          "link": "https://www.neweconomy.jp/posts/494466",
+          "publishedOn": "2025-09-09T04:00:52.000Z",
+          "wordCount": 630,
+          "title": "グレースケール、チェーンリンク（LINK）の現物ETF転換をSECへ申請",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/09130027/d88d195434d98bdb63eb583f2412d8e0.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=494404",
           "author": "HitomotoToshikazu",
