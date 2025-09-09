@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=312699",
+          "author": "James Van Straten",
+          "description": "ネビウス・グループ（Nebius Group）の株価は、同社がマイクロソフト（Microsoft）にGPUを供給する契約を締結したと発表したことを受け、市場前取 ...\nネビウスとマイクロソフトの174億ドルの契約により、AIマイニング関連銘柄が市場前取引で上昇 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/312699/",
+          "publishedOn": "2025-09-09T10:00:00.000Z",
+          "wordCount": 1387,
+          "title": "ネビウスとマイクロソフトの174億ドルの契約により、AIマイニング関連銘柄が市場前取引で上昇",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/221e18acfc966b240dac694ad970947d105e1d34-3035x1750-1.png"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=312685",
+          "author": "Omkar Godbole",
+          "description": "9月9日午前の主要な動きは、ビットコイン（BTC）のドル建て価格を示すBTC/USDと、バイナンス（Binance）に上場されているドージコイン対ビットコイン（ ...\nBTC/USD、DOGE/BTCが逆三尊パターンを形成──主要な暗号資産の指標は強気：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/312685/",
+          "publishedOn": "2025-09-09T09:45:00.000Z",
+          "wordCount": 1533,
+          "title": "BTC/USD、DOGE/BTCが逆三尊パターンを形成──主要な暗号資産の指標は強気：テクニカル分析",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/06/shutterstock_63021178.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=312660",
           "author": "Sam Reynolds",
           "description": "ハイパーリキッド（Hyperliquid）のネイティブステーブルコインであるUSDHを発行する権利を巡る争いに、新たに有力な参加者が現れた。 スカイ（Sky、旧 ...\nハイパーリキッドのステーブルコイン「USDH」発行権争いにスカイも参戦──4.85%の利回りなどを提案 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -450,26 +470,6 @@
           "wordCount": 1337,
           "title": "ストライプとパラダイム、独自ブロックチェーン「Tempo」発表──高速ステーブルコイン決済をめぐる競争激化",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_1511489354.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=309758",
-          "author": "瑞澤 圭",
-          "description": "2025年8月22日、SBIグループとリップル社は、米ドル建てステーブルコイン「Ripple USD（RLUSD）」を日本で発行・流通させるための基本合意書を締 ...\nリップルのステーブルコイン「RLUSD」、日本導入の勝算と差別化戦略──戦略を主導するキーパソンに聞く first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/309758/",
-          "publishedOn": "2025-09-04T22:30:00.000Z",
-          "wordCount": 1436,
-          "title": "リップルのステーブルコイン「RLUSD」、日本導入の勝算と差別化戦略──戦略を主導するキーパソンに聞く",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/0009のコピー.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=311804",
-          "author": "林 理南",
-          "description": "4日に公開されたプログラムによると、米証券取引委員会（SEC）のポール・アトキンス（Paul Atkins）委員長は、これまでに示していた通り、暗号資産（仮想通 ...\nSECのアトキンス委員長、暗号資産関連の取り組みが多数含まれる短期アジェンダを公表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/311804/",
-          "publishedOn": "2025-09-04T22:00:00.000Z",
-          "wordCount": 1346,
-          "title": "SECのアトキンス委員長、暗号資産関連の取り組みが多数含まれる短期アジェンダを公表",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/fd51f9f5e20179bc0e007999827636f83eabd525-3582x2015-1.jpg"
         }
       ]
     },
@@ -484,6 +484,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=649825",
+          "author": "AKIRA.H",
+          "description": "BBVAスイスはRipple傘下Metacoの「Harmonize」を導入。高水準セキュリティとマルチチェーン対応でカストディサービスを強化。",
+          "link": "https://coinpost.jp/?p=649825",
+          "publishedOn": "2025-09-09T10:13:18.000Z",
+          "wordCount": 3154,
+          "title": "リップル社、BBVAとスペインで協業　仮想通貨保管を支援",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103001.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=649803",
           "author": "CoinPost編集部",
@@ -1173,36 +1188,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitcoinsupply0913211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/bitcoinsupply0913211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=648815",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨インフラ大手Fireblocksは、ステーブルコインのためのネットワークをローンチしたことを発表。USDCを発行するサークルなど40超の企業がローンチ時点で参加している。",
-          "link": "https://coinpost.jp/?p=648815",
-          "publishedOn": "2025-09-04T22:00:52.000Z",
-          "wordCount": 3189,
-          "title": "仮想通貨インフラ大手Fireblocks、ステーブルコインのネットワークをローンチ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/Fireblocks-Thumbnail.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/Fireblocks-Thumbnail.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=648819",
-          "author": "菊谷ルイス",
-          "description": "ワールド・リバティ・ファイナンシャルがトロン創設者ジャスティン・サンのウォレットを9月5日にブラックリスト化。900万ドル相当のWLFIトークン移動後に制裁措置。",
-          "link": "https://coinpost.jp/?p=648819",
-          "publishedOn": "2025-09-04T21:55:28.000Z",
-          "wordCount": 3167,
-          "title": "ワールドリバティ（WLFI）、ジャスティン・サンのアドレスに制裁措置か",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/world-liberty-new-token-trump-wealthy.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/world-liberty-new-token-trump-wealthy.jpg"
         }
       ]
     },
