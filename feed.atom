@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-10T15:29:11.418Z</updated>
+    <updated>2025-09-10T16:35:10.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは強気の逆ヘッドアンドショルダーを形成──次の動きは？]]></title>
+        <id>https://www.coindeskjapan.com/?p=313119</id>
+        <link href="https://www.coindeskjapan.com/313119/"/>
+        <updated>2025-09-10T16:19:09.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの生産者物価指数（PPI）が予想より軟調だったため、ビットコイン（BTC）は11万3828ドル（約1651万円、1ドル145円換算）まで上昇し、今週注目 ...
+ビットコインは強気の逆ヘッドアンドショルダーを形成──次の動きは？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軟調な生産者物価指数で暗号資産市場が上昇──ビットコインは11万3000ドルを突破]]></title>
         <id>https://www.coindeskjapan.com/?p=313108</id>
@@ -1322,16 +1333,6 @@ AIエージェントには信頼できるネットワークが必要 first appea
         <summary type="html"><![CDATA[米SEC・CFTCは金融市場24時間取引市場拡大、永続契約の国内回帰、予測市場とポートフォリオ証拠金制度の導入などを検討。仮想通貨規制統一化で共同声明を発表。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパーリキッド（HYPE）、独自ステーブルコインUSDH発行計画　手数料80％削減へ]]></title>
-        <id>https://coinpost.jp/?p=649184</id>
-        <link href="https://coinpost.jp/?p=649184"/>
-        <updated>2025-09-06T04:00:17.000Z</updated>
-        <summary type="html"><![CDATA[分散型取引所ハイパーリキッドが独自ステーブルコインUSDH発行と手数料の80％削減などを計画している。仮想通貨HYPEは過去1年間で630％上昇しているところだ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
