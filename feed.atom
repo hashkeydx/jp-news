@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-10T12:54:38.948Z</updated>
+    <updated>2025-09-10T13:34:20.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【9/10話題】アップビットの独自イーサL2「GIWA」テストネット、リップルがBBVAにカストディ技術提供など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=495061</id>
+        <link href="https://www.neweconomy.jp/posts/495061"/>
+        <updated>2025-09-10T13:05:45.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット、海外公募で2041億円調達へ──株価16%急騰]]></title>
         <id>https://www.coindeskjapan.com/?p=313023</id>
@@ -1321,16 +1331,6 @@ AIエージェントには信頼できるネットワークが必要 first appea
         <summary type="html"><![CDATA[量子コンピュータが主要仮想通貨の暗号基盤を破る可能性について、米SECに提出された報告書で警告。2034年までの脅威確率や対策フレームワークを解説。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トークン化ポケモンカード市場「Collector Crypt」、独自トークンCARDSが10倍上昇]]></title>
-        <id>https://coinpost.jp/?p=649162</id>
-        <link href="https://coinpost.jp/?p=649162"/>
-        <updated>2025-09-06T01:25:05.000Z</updated>
-        <summary type="html"><![CDATA[ポケモンカードをトークン化する「Collector Crypt」の仮想通貨CARDSが1週間で10倍上昇した。ガチャ需要が24億円に達し、NFT市場に新風が吹いている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
