@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-15T17:27:43.421Z</updated>
+    <updated>2025-09-15T18:38:27.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エヌビディア株価が3%下落──中国が独占禁止法違反と発表]]></title>
+        <id>https://www.coindeskjapan.com/?p=314162</id>
+        <link href="https://www.coindeskjapan.com/314162/"/>
+        <updated>2025-09-15T17:31:31.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）価格が本記事執筆時点で過去2時間下落している理由について疑問を持つ人もいるだろう。その原因はウォール街のプレマーケット取引である可能性があ ...
+エヌビディア株価が3%下落──中国が独占禁止法違反と発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、保有量別の全グループで売り超過に戻る──市場は保ち合いが続く]]></title>
         <id>https://www.coindeskjapan.com/?p=314138</id>
@@ -968,16 +979,6 @@ NFT市場の停滞を受け、クリスティーズがデジタルアート部�
         <summary type="html"><![CDATA[アバランチ財団が米国で10億ドルを調達し、AVAXトークンを大量購入する計画をFTが報道。NASDAQ上場企業とSPACの2つのスキームで資金調達を実施予定。ファイナンシャルタイムズ報道。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産ウォレットを狙った「NPMサプライチェーン攻撃」、流出額は503ドルで「ほぼ失敗」に終わる]]></title>
-        <id>https://www.neweconomy.jp/?p=495399</id>
-        <link href="https://www.neweconomy.jp/posts/495399"/>
-        <updated>2025-09-11T06:17:01.000Z</updated>
-        <summary type="html"><![CDATA[大規模なNPMサプライチェーン攻撃が発生 大手ハードウェアウォレット開発企業レジャー（Ledger）の最高技術責任者（CTO）であるシャルル・ギルメ（Charles Guillemet）氏が、Node Package M […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
         </author>
     </entry>
 </feed>
