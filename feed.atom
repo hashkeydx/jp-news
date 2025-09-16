@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-16T12:56:22.229Z</updated>
+    <updated>2025-09-16T13:36:58.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【9/16話題】クレディセゾンの海外CVCがブロックチェーン特化ファンド、中小企業と退役軍人の支援でRLUSD寄付など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=496845</id>
+        <link href="https://www.neweconomy.jp/posts/496845"/>
+        <updated>2025-09-16T13:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメックス、ブロックチェーンベースの「トラベルスタンプ」提供開始]]></title>
         <id>https://www.coindeskjapan.com/?p=314405</id>
@@ -1113,16 +1123,6 @@ NFT市場の停滞を受け、クリスティーズがデジタルアート部�
         <summary type="html"><![CDATA[Ethreactorが始動 イーサリアム（Ethereum）エコシステムにおけるグローバルなインキュベーションを推進する新たなDAO「Ethreactor（イーサリアクター）」が発足した。同DAOの共同発起人でファシリテ […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン市場は依然として岐路、重要な下値水準は？　Glassnode分析]]></title>
-        <id>https://coinpost.jp/?p=650620</id>
-        <link href="https://coinpost.jp/?p=650620"/>
-        <updated>2025-09-12T01:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Glassnodeによる仮想通貨ビットコイン市場の最新レポートは短期的に市場回復する価格基準などを分析。機関投資家のリスク管理が安定した市場構造へ導いているとも述べる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
