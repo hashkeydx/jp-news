@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-17T04:32:18.875Z</updated>
+    <updated>2025-09-17T05:30:27.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[（ルイス担当）ビットコイン・スタンダード著者、アルゼンチン・ミレイ政権の経済政策を「ポンジスキーム」と痛烈批判]]></title>
+        <id>https://coinpost.jp/?p=651633</id>
+        <link href="https://coinpost.jp/?p=651633"/>
+        <updated>2025-09-17T05:04:45.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン・スタンダード著者のサファディーン・アモス氏が、アルゼンチンのミレイ政権の経済政策を「国家規模のポンジスキーム」と痛烈に批判。キャリートレードによる金融システムの崩壊リスクと、自由主義政策の矛盾を解説した。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメックスがNFT旅行スタンプ「Amex Passport」提供開始、イーサL2「Base」とFireblocks採用で]]></title>
+        <id>https://www.neweconomy.jp/?p=497298</id>
+        <link href="https://www.neweconomy.jp/posts/497298"/>
+        <updated>2025-09-17T04:35:27.000Z</updated>
+        <summary type="html"><![CDATA[アメックスが旅行者向け新サービスをNFTで開始 米アメリカン・エキスプレス（American Express）が、旅行履歴をNFTとして記録する新サービス「アメックス・パスポート（Amex Passport）」の提供開始 […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11年間休眠のビットコインクジラが1000BTC移動、170億円相当]]></title>
+        <id>https://coinpost.jp/?p=651610</id>
+        <link href="https://coinpost.jp/?p=651610"/>
+        <updated>2025-09-17T04:30:53.000Z</updated>
+        <summary type="html"><![CDATA[11年以上休眠していたビットコインクジラが17日朝、1000BTCを4つの新しいアドレスに移動したことがオンチェーンデータで判明した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース開発のL2「Base」、ネットワークトークン発行の検討開始]]></title>
         <id>https://www.neweconomy.jp/?p=497286</id>
