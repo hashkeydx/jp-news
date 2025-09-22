@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-22T11:25:27.919Z</updated>
+    <updated>2025-09-22T12:59:43.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【9/22話題】メタプラのビットコイン総保有数が上場企業で世界第5位に、イーサリアム「Fusaka」が実装日設定など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=498795</id>
+        <link href="https://www.neweconomy.jp/posts/498795"/>
+        <updated>2025-09-22T12:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインが下落した1時間後にゴールド（金）が上昇──利益確定資金のローテーションを示唆]]></title>
         <id>https://www.coindeskjapan.com/?p=315662</id>
@@ -1491,26 +1501,6 @@ N.Avenue、26年3月に「デジタル通貨カンファレンス」を開催予
         <summary type="html"><![CDATA[ヴィタリック・ブテリン氏は、仮想通貨イーサリアムの開発計画についてプレゼンを行った。大阪で開催されているイーサリアムのカンファレンスEDCONに登壇した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォワード・インダストリーズ、最大5900億円規模の資金調達でソラナ戦略を推進]]></title>
-        <id>https://coinpost.jp/?p=651818</id>
-        <link href="https://coinpost.jp/?p=651818"/>
-        <updated>2025-09-18T00:40:22.000Z</updated>
-        <summary type="html"><![CDATA[米上場企業フォワード・インダストリーズが最大40億ドル規模のATM増資で仮想通貨ソラナトレジャリー戦略を推進する。DeFi Development Corpもソラナ買い増しを発表した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ・ジュニア出資のサムザップ、750万ドージコインを初購入]]></title>
-        <id>https://coinpost.jp/?p=651798</id>
-        <link href="https://coinpost.jp/?p=651798"/>
-        <updated>2025-09-17T23:45:09.000Z</updated>
-        <summary type="html"><![CDATA[米ナスダック上場のサムザップメディアが750万ドージコインを200万ドルで公開市場から初回取得したと発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
