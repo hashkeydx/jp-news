@@ -445,6 +445,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=654063",
+          "author": "A.Yamada",
+          "description": "中国最大級の資産運用会社チャイナAMCが運用するイーサリアム上トークン化MMFが750億円規模に達している。一方で中国当局はRWA製品について監視強化していると伝えられる。",
+          "link": "https://coinpost.jp/?p=654063",
+          "publishedOn": "2025-09-29T00:55:44.000Z",
+          "wordCount": 3180,
+          "title": "中国の大手資産運用会社「チャイナAMC香港」、イーサリアム上MMFの総資産額750億円規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/hourax-hongkong-scam.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/hourax-hongkong-scam.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=653591",
           "author": "CoinPost編集部",
           "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
@@ -1375,56 +1390,6 @@
           "wordCount": 738,
           "title": "イクヨが「ステーブルコイン決済協会」設立計画、日本の貿易金融の課題解決で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/25114554/46a3f688916c62a309b4649909ce4782.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=499588",
-          "author": "TamuraSeiji",
-          "description": "ヴィタリック・ブテリンがBaseの分散性を擁護 コインベース（Coinbase）開発のレイヤー2ネットワーク「ベース（Base）」について、「中央集権的な管理者としてではなく、適切に設計されたL2である」と擁護する発言を […]",
-          "link": "https://www.neweconomy.jp/posts/499588",
-          "publishedOn": "2025-09-24T12:09:18.000Z",
-          "wordCount": 806,
-          "title": "イーサリアム共同創設者ヴィタリック、L2「Base」の分散性を擁護",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24210910/5692cc1f553177f376dfe4c1f0dec10a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=499581",
-          "author": "NewEconomy",
-          "description": "SBINFTマーケットがJOCに対応へ SBINFT運営のNFTマーケットプレイス「SBINFTマーケット（SBINFT Market）」に、日本発のEVM互換ブロックチェーン「ジャパンオープンチェーン（Japan Op […]",
-          "link": "https://www.neweconomy.jp/posts/499581",
-          "publishedOn": "2025-09-24T12:03:49.000Z",
-          "wordCount": 784,
-          "title": "SBINFTマーケット、Japan Open Chainに対応へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24210343/SBI-250924artsstock.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=499566",
-          "author": "NewEconomy",
-          "description": "クリプトドットコムが情報漏洩を未公開か 海外暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）が、過去に情報漏洩被害を受け、そのことを未公開にしていたと「ブルームバーグ（Bloomberg）」が9月18 […]",
-          "link": "https://www.neweconomy.jp/posts/499566",
-          "publishedOn": "2025-09-24T11:54:06.000Z",
-          "wordCount": 803,
-          "title": "クリプトドットコム、過去に未公開の情報漏洩か、CEOは報道を否定",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24205356/03d04bb481f3c6b0fdbd00e4981fa5ff.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=499557",
-          "author": "HitomotoToshikazu",
-          "description": "Eトレードで暗号資産取引提供へ 米金融大手モルガンスタンレー（Morgan Stanley）が、同社のオンライン証券取引プラットフォーム「Eトレード（E*Trade）」上で、暗号資産（仮想通貨）取引サービスを2026年上 […]",
-          "link": "https://www.neweconomy.jp/posts/499557",
-          "publishedOn": "2025-09-24T11:51:18.000Z",
-          "wordCount": 739,
-          "title": "モルガンスタンレー、2026年上半期に「Eトレード」で暗号資産取引提供へ＝報道",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24205055/b36b4c2778345354091bad9b1fe268ad.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=499558",
-          "author": "NewEconomy",
-          "description": "クラーケン新サービスを発表 米暗号資産（仮想通貨）取引所クラーケン（Kraken）が、ICOや初期トークン販売に参加可能となる新機能「クラーケン・ローンチ（Kraken Launch）」の提供開始を9月18日に発表した。 […]",
-          "link": "https://www.neweconomy.jp/posts/499558",
-          "publishedOn": "2025-09-24T11:46:56.000Z",
-          "wordCount": 826,
-          "title": "クラーケン、トークンローンチ機能「Kraken Launch」提供開始、第1弾はイールドベーシスの「YB」",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/09/24204652/7862692b6b0fc91afa513283ce38caef.jpg"
         }
       ]
     }
