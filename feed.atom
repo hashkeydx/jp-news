@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-29T21:25:29.522Z</updated>
+    <updated>2025-09-29T22:26:03.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナのさらなる高速化へ　ファイアダンサー開発チームが計算リソース上限の撤廃を提案]]></title>
+        <id>https://coinpost.jp/?p=654415</id>
+        <link href="https://coinpost.jp/?p=654415"/>
+        <updated>2025-09-29T22:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Jump Cryptoで仮想通貨ソラナのファイアダンサーの開発を担当するチームは、ソラナブロックチェーンの速度をさらに速める提案を行なった。提案の背景や内容を説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米マサチューセッツ州、ビットコイン準備金法案の公聴会を来週開催]]></title>
+        <id>https://coinpost.jp/?p=654412</id>
+        <link href="https://coinpost.jp/?p=654412"/>
+        <updated>2025-09-29T21:50:23.000Z</updated>
+        <summary type="html"><![CDATA[マサチューセッツ州議会が10月7日にビットコイン戦略準備金法案の公聴会を開催すると現地メディアが報じた。アンチ仮想通貨の民主党が優勢な州議会で仮想通貨準備金法案が審議される初事例となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SECがXRPやDOGEなどの仮想通貨ETF申請撤回を要請、包括基準で個別申請が不要に]]></title>
         <id>https://coinpost.jp/?p=654400</id>
@@ -1162,17 +1182,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
 香港金融管理局、規制に準拠しないステーブルコイン発行に警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Francisco Rodrigues</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州の銀行9行がMiCA準拠のユーロ建てステーブルコインで協力──2026年後半に発行予定]]></title>
-        <id>https://www.coindeskjapan.com/?p=316120</id>
-        <link href="https://www.coindeskjapan.com/316120/"/>
-        <updated>2025-09-25T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ヨーロッパの主要銀行9行が連携し、欧州連合（EU）の暗号資産市場規制（MiCA）下で規制されるユーロ建てステーブルコインを発行する。 参加する銀行はING（オラ ...
-欧州の銀行9行がMiCA準拠のユーロ建てステーブルコインで協力──2026年後半に発行予定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>
