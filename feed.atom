@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-29T15:29:52.148Z</updated>
+    <updated>2025-09-29T16:29:43.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SWIFT、ブロックチェーンベースの台帳を開発へ──24時間365日対応の国際決済向け]]></title>
+        <id>https://www.coindeskjapan.com/?p=316560</id>
+        <link href="https://www.coindeskjapan.com/316560/"/>
+        <updated>2025-09-29T15:33:54.000Z</updated>
+        <summary type="html"><![CDATA[世界規模の伝統的金融（TradFi）決済システムであるSWIFTは29日、そのネットワークにブロックチェーンベースの台帳を追加すると発表した。 発表によると、S ...
+SWIFT、ブロックチェーンベースの台帳を開発へ──24時間365日対応の国際決済向け first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フィンテック大手Revolut、ロンドンとニューヨークで750億ドル規模の同時上場を検討：報道]]></title>
         <id>https://www.coindeskjapan.com/?p=316546</id>
@@ -1255,26 +1266,6 @@ EXPOウォレット後継「HashPort Wallet」、ステーブルコイン「USDC
         <summary type="html"><![CDATA[SBFが「gm」投稿で影響力を示す 2022年に経営破綻した暗号資産（仮想通貨）取引所FTXトレーディング（FTX Trading）の創業者、サム・バンクマン＝フリード（Samuel Bankman-Fried：SBF） […]]]></summary>
         <author>
             <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン大規模清算後のリバウンドは一時的か、予断許さぬ状況続く]]></title>
-        <id>https://coinpost.jp/?p=653276</id>
-        <link href="https://coinpost.jp/?p=653276"/>
-        <updated>2025-09-25T03:44:29.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは前日比0.41%高の112,600ドル。22日に今年最大級14.5億ドルの強制清算後に短期底打ち示唆も、予断を許さない状況にある。ファンドストラット共同創業者がイーサリアム（ETH）の年末目標15,000ドルに上方修正したほか、SBF代理投稿でFTTが急騰した。]]></summary>
-        <author>
-            <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コイントレードに「スイ（SUI）」と「アイオーテックス（IOTX）」上場]]></title>
-        <id>https://www.neweconomy.jp/?p=499641</id>
-        <link href="https://www.neweconomy.jp/posts/499641"/>
-        <updated>2025-09-25T03:33:42.000Z</updated>
-        <summary type="html"><![CDATA[コイントレードにSUIとIOTX上場 国内暗号資産（仮想通貨）取引所CoinTrade（コイントレード）が、暗号資産スイ（SUI）とアイオーテックス（IOTX）の2銘柄の取り扱い開始を9月24日に発表した。 同2銘柄は、 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
