@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-30T09:30:02.928Z</updated>
+    <updated>2025-09-30T10:33:54.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインから利回りを狙う｜Lombard（ロンバード）・LBTCの始め方と注意点]]></title>
+        <id>https://coinpost.jp/?p=650055</id>
+        <link href="https://coinpost.jp/?p=650055"/>
+        <updated>2025-09-30T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Lombardを通じてビットコインを利回り資産として活用する方法を解説。LBTCの仕組みや始め方に加え、注意点やリスクも整理しました。]]></summary>
+        <author>
+            <name>M.Somekawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDHはなぜハイパーリキッドを強化するのか？仕組み・収益、HYPEへの影響までわかりやすく解説]]></title>
+        <id>https://coinpost.jp/?p=654451</id>
+        <link href="https://coinpost.jp/?p=654451"/>
+        <updated>2025-09-30T10:11:16.000Z</updated>
+        <summary type="html"><![CDATA[USDHはなぜハイパーリキッドを強化するのか？仕組みから収益循環、HYPEへの影響までわかりやすく解説します。]]></summary>
+        <author>
+            <name>M.Somekawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソシエテ・ジェネラルの暗号資産部門、ユニスワップとモルフォにユーロとドル建てステーブルコインを上場]]></title>
+        <id>https://www.coindeskjapan.com/?p=316754</id>
+        <link href="https://www.coindeskjapan.com/316754/"/>
+        <updated>2025-09-30T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ソシエテ・ジェネラル（Societe Generale）の暗号資産子会社SG-FORGEは、ユーロ建ておよびドル建てステーブルコインを分散型金融（DeFi）に導 ...
+ソシエテ・ジェネラルの暗号資産部門、ユニスワップとモルフォにユーロとドル建てステーブルコインを上場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Ian Allison</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リミックスポイント、就任わずか3カ月で社長交代──田代氏が辞任、高橋氏が復帰]]></title>
+        <id>https://www.coindeskjapan.com/?p=316775</id>
+        <link href="https://www.coindeskjapan.com/316775/"/>
+        <updated>2025-09-30T09:30:58.000Z</updated>
+        <summary type="html"><![CDATA[リミックスポイントは9月30日、代表取締役社長CEOの異動を発表した。同日開催の取締役会決議により、田代卓（たしろ たかし）氏が代表取締役社長CEOを辞任し、後 ...
+リミックスポイント、就任わずか3カ月で社長交代──田代氏が辞任、高橋氏が復帰 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チェーンリンク、主要金融機関と提携──580億ドル規模のコーポレートアクション問題の解決目指す]]></title>
         <id>https://www.coindeskjapan.com/?p=316690</id>
@@ -1409,37 +1451,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
         <summary type="html"><![CDATA[世界最大の運用会社ブラックロックがカバードコール戦略を用いるビットコイン・プレミアム・インカムETFの申請を準備していることが明らかになった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、ハイパーリキッド現物ETFの上場をSECに申請]]></title>
-        <id>https://coinpost.jp/?p=653532</id>
-        <link href="https://coinpost.jp/?p=653532"/>
-        <updated>2025-09-25T22:15:30.000Z</updated>
-        <summary type="html"><![CDATA[米資産運用会社ビットワイズがハイパーリキッドETFの申請をSECに提出したことが明らかになった。バイナンス支援のAsterが高騰する中、分散型デリバティブ取引所への投資商品として注目を集めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧州主要銀行9社、ユーロステーブルコイン発行へ]]></title>
-        <id>https://coinpost.jp/?p=653526</id>
-        <link href="https://coinpost.jp/?p=653526"/>
-        <updated>2025-09-25T21:40:44.000Z</updated>
-        <summary type="html"><![CDATA[オランダのINGなど欧州主要銀行9行がMiCAR規制準拠のユーロ建てステーブルコインを共同発行すると発表した。2026年後半の発行開始を予定。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン市場、2030年までに約600兆円規模に達する可能性も：シティグループ]]></title>
-        <id>https://www.coindeskjapan.com/?p=316192</id>
-        <link href="https://www.coindeskjapan.com/316192/"/>
-        <updated>2025-09-25T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[シティのレポートによると、ステーブルコイン市場は予想よりも速く拡大しており、発行額は2025年初めの約2000億ドル（約30兆円、1ドル＝150円換算）から、9 ...
-ステーブルコイン市場、2030年までに約600兆円規模に達する可能性も：シティグループ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>
