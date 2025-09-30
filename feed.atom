@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-09-29T23:25:14.377Z</updated>
+    <updated>2025-09-30T01:57:58.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[急成長の分散型取引所Aster、トークンの分割エアドロップを検討　CZとの関係性も明らかに]]></title>
+        <id>https://coinpost.jp/?p=654436</id>
+        <link href="https://coinpost.jp/?p=654436"/>
+        <updated>2025-09-30T01:50:33.000Z</updated>
+        <summary type="html"><![CDATA[分散型デリバティブ取引所Asterが独自仮想通貨ASTERのベスティング方式エアドロップを検討している。Asterは前バイナンスCEOであるCZ氏の支持も背景に躍進している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン急騰、米政府閉鎖リスクで「無国籍資産」への逃避資金流入｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=654445</id>
+        <link href="https://coinpost.jp/?p=654445"/>
+        <updated>2025-09-30T01:15:36.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ビットコイン市場は28日から30日朝にかけて急騰した。BTCは法定通貨や国家に依存しない無国籍資産であり、政府機能や金融システムが不安定化する局面において上昇する傾向を持つ。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブルームバーグETF専門家予測、SEC包括基準でアルトコインETF承認確率「ほぼ100%」に]]></title>
+        <id>https://coinpost.jp/?p=654435</id>
+        <link href="https://coinpost.jp/?p=654435"/>
+        <updated>2025-09-30T00:55:46.000Z</updated>
+        <summary type="html"><![CDATA[米SECが仮想通貨ETFの包括的上場基準を承認し、原則上個別審査が不要となった。ブルームバーグのETFアナリストは承認確率が事実上100%と予測している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーがビットコイン追加購入、総保有数64万31BTCに]]></title>
+        <id>https://www.neweconomy.jp/?p=501201</id>
+        <link href="https://www.neweconomy.jp/posts/501201"/>
+        <updated>2025-09-30T00:12:57.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーがビットコイン追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を9月30日に発表した。 ストラテジーは9月22日から9月28日まで […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12年間休眠のビットコインウォレットが活動再開、65億円相当BTCを移動]]></title>
+        <id>https://coinpost.jp/?p=654427</id>
+        <link href="https://coinpost.jp/?p=654427"/>
+        <updated>2025-09-29T23:30:40.000Z</updated>
+        <summary type="html"><![CDATA[12年間休眠していたビットコインウォレットが29日に400BTCを移動したとアーカム・インテリジェンスが報告した。2013年11月以来初めての取引で、当時の取得価格から約16000%上昇している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産ETF、「異例の速さで」承認の可能性──SECが発行企業に「19b-4」の撤回を指示]]></title>
         <id>https://www.coindeskjapan.com/?p=316594</id>
@@ -15,6 +65,16 @@
 暗号資産ETF、「異例の速さで」承認の可能性──SECが発行企業に「19b-4」の撤回を指示 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Helene Braun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SWIFTがコンセンシスと提携しブロックチェーンを開発　30超の金融機関が参加]]></title>
+        <id>https://coinpost.jp/?p=654421</id>
+        <link href="https://coinpost.jp/?p=654421"/>
+        <updated>2025-09-29T22:55:05.000Z</updated>
+        <summary type="html"><![CDATA[国際銀行間決済ネットワークSWIFTがブロックチェーン基盤の共有台帳をインフラに追加すると発表した。30以上の金融機関と協力し、24時間365日のリアルタイム国際決済を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1142,26 +1202,6 @@ Web3時代のVisaを目指すPlatON──創立者が語る伝統金融とデジ
 ビットコイン、11万1000ドル割れ、暗号資産株急落──米GDP改定値で利下げ期待後退 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9/25話題】ソニー銀行のweb3子会社「BlockBloom」、FTX創業者SBFの「gm」投稿、イクヨがステーブルコイン決済協会など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=499791</id>
-        <link href="https://www.neweconomy.jp/posts/499791"/>
-        <updated>2025-09-25T12:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lib Workが株主優待にビットコイン提供追加、SBI VCトレードと連携で]]></title>
-        <id>https://www.neweconomy.jp/?p=500037</id>
-        <link href="https://www.neweconomy.jp/posts/500037"/>
-        <updated>2025-09-25T11:37:17.000Z</updated>
-        <summary type="html"><![CDATA[リブワークが株主優待でビットコイン提供 リブワーク（Lib Work）が、現行の株主優待制度を拡充し、新たにビットコインを提供すると9月24日に発表した。 リブワークは、インターネットやVRを活用した戸建て・住宅・不動産 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
