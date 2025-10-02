@@ -660,10 +660,70 @@
       "articles": []
     },
     {
-      "title": "IOTA(IOT)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=655231",
+          "author": "幸田直子",
+          "description": "米アークインベストがミームコイン発行プラットフォームPump.funを高く評価した。再導入されたストリーミング機能が「新たなクリエーター経済を構築」と指摘し、PUMPトークンは24時間で30%以上急騰した。",
+          "link": "https://coinpost.jp/?p=655231",
+          "publishedOn": "2025-10-02T04:55:01.000Z",
+          "wordCount": 3257,
+          "title": "PUMPトークン30%急騰、アークインベストが「新クリエーター経済」と評価",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/Pumpfun-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/Pumpfun-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=655188",
+          "author": "A.Yamada",
+          "description": "仮想通貨取引所バイナンスがポケモンなどトレーディングカードのトークン化市場のポテンシャルを指摘する記事を公開した。新市場として注目を集める背景を解説している。",
+          "link": "https://coinpost.jp/?p=655188",
+          "publishedOn": "2025-10-02T04:35:28.000Z",
+          "wordCount": 3176,
+          "title": "トークン化ポケモンカードが次のビッグトレンドとなる可能性＝バイナンス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/pokeca-cards.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/pokeca-cards.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=655211",
+          "author": "菊谷ルイス",
+          "description": "SBIホールディングス傘下のマイニング事業である「SBIクリプト」から約2100万ドル相当の仮想通貨が不正流出した。ブロックチェーン調査員が9月24日に疑わしい資金移動を報告し、北朝鮮による攻撃との類似点を指摘。SBIは連結業績への影響は軽微とコメント。",
+          "link": "https://coinpost.jp/?p=655211",
+          "publishedOn": "2025-10-02T04:18:42.000Z",
+          "wordCount": 3173,
+          "title": "SBIホールディングス子会社のマイニング企業「SBI Crypto」から仮想通貨が不正流出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/liquid-global-hack-report-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/liquid-global-hack-report-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=655205",
+          "author": "菊谷ルイス",
+          "description": "2名のスウェーデン民主党議員が国家によるビットコイン準備金創設を求める動議を議会に提出した。押収したビットコインを中央銀行に移管する予算中立的なアプローチを提案し、10月15日から財務委員会で審議される予定だ。",
+          "link": "https://coinpost.jp/?p=655205",
+          "publishedOn": "2025-10-02T04:10:44.000Z",
+          "wordCount": 3166,
+          "title": "スウェーデン野党議員、ビットコイン準備金創設の動議を議会に提出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Sweden-Bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/Sweden-Bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=655168",
           "author": "S.Ninomiya",
@@ -1511,6 +1571,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=502093",
+          "author": "NewEconomy",
+          "description": "スタークネットがBTCステーキングに対応 イーサリアム（Ethereum）のレイヤー2スケーリングソリューション「スタークネット（Starknet）」のメインネットで、ビットコイン（BTC）のステーキングが稼働開始した。 […]",
+          "link": "https://www.neweconomy.jp/posts/502093",
+          "publishedOn": "2025-10-02T04:38:31.000Z",
+          "wordCount": 790,
+          "title": "イーサL2スタークネット、ビットコイン（BTC）ステーキング稼働開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/02133828/069d271178cf3f0673dee7a6bcf0c1f3.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=502063",
           "author": "HitomotoToshikazu",
