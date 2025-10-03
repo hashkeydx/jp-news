@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=317654",
+          "author": "Krisztian Sandor",
+          "description": "ステーブルコインのUSDTを手がけるテザー社は、暗号資産マイナー向け金融会社アンタルファと協力し、トークン化された金に特化した新しいデジタル資産トレジャリー企業 ...\nテザー、トークン化された金トレジャリー企業設立に向け2億ドル調達へ：ブルームバーグ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/317654/",
+          "publishedOn": "2025-10-03T23:00:00.000Z",
+          "wordCount": 1333,
+          "title": "テザー、トークン化された金トレジャリー企業設立に向け2億ドル調達へ：ブルームバーグ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/2eb0857f0b0966cab98f03b11f710f1db49fa56f-1920x1080-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=317640",
           "author": "林 理南",
           "description": "サムスン（Samsung）はコインベース（Coinbase）と提携し、アメリカのギャラクシー（Galaxy）端末ユーザー7500万人にコインベースの優先取引サー ...\nサムスン、ギャラクシー端末ユーザー7500万人にコインベースの暗号資産アクセスを追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -830,16 +840,6 @@
           "wordCount": 1298,
           "title": "SWIFT、ブロックチェーンベースの台帳を開発へ──24時間365日対応の国際決済向け",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/f1c1707d4430151a9adf8b5454171566a92821b7-1919x1080-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=316546",
-          "author": "Francisco Rodrigues",
-          "description": "欧州で最も価値のあるスタートアップの一つであるレボリュート（Revolut）が、大型新規株式公開（IPO）に向けロンドンとニューヨークでの二重上場を検討している ...\nフィンテック大手Revolut、ロンドンとニューヨークで750億ドル規模の同時上場を検討：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/316546/",
-          "publishedOn": "2025-09-29T10:30:00.000Z",
-          "wordCount": 1342,
-          "title": "フィンテック大手Revolut、ロンドンとニューヨークで750億ドル規模の同時上場を検討：報道",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/05/shutterstock_2386693551Revolut.jpg"
         }
       ]
     },
@@ -854,6 +854,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=655674",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所大手コインベースが3日に通貨監督庁に国家信託会社認可を申請したと発表した。カストディ事業を拡大し決済関連サービスを提供する計画で、銀行になる意図はないと明言。",
+          "link": "https://coinpost.jp/?p=655674",
+          "publishedOn": "2025-10-03T22:50:38.000Z",
+          "wordCount": 3149,
+          "title": "コインベースが連邦信託認可を申請、決済サービス拡大の狙いで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/coinbase-commerce-new-update.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/11/coinbase-commerce-new-update.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=655667",
+          "author": "K.Kobayashi",
+          "description": "コインベースとSamsungがパートナーシップを締結。まずは米国のGalaxyスマホユーザーがCoinbase Oneを試験利用できるようにして、仮想通貨の利用機会を提供する。",
+          "link": "https://coinpost.jp/?p=655667",
+          "publishedOn": "2025-10-03T22:42:36.000Z",
+          "wordCount": 3172,
+          "title": "コインベースとSamsung、Galaxyスマホユーザーに仮想通貨体験を提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/Samsung-Coinbase.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/Samsung-Coinbase.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=655661",
           "author": "菊谷ルイス",
