@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-06T09:31:47.760Z</updated>
+    <updated>2025-10-06T10:33:53.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサL2のパーペチュアルDEX「Lighter」がパブリックメインネットをローンチ、8ヶ月のテスト経て]]></title>
+        <id>https://www.neweconomy.jp/?p=503377</id>
+        <link href="https://www.neweconomy.jp/posts/503377"/>
+        <updated>2025-10-06T10:14:32.000Z</updated>
+        <summary type="html"><![CDATA[ライターがメインネットローンチ イーサリアム（Ethereum）レイヤー2のパーペチュアル（無期限先物）DEX（分散型取引所）「ライター（Lighter）」が、約8ヶ月間のプライベートベータテストを経て、パブリックメイン […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DefiLlama、アスターの永久先物取引データを削除──市場の熱狂に疑問符]]></title>
+        <id>https://www.coindeskjapan.com/?p=317845</id>
+        <link href="https://www.coindeskjapan.com/317845/"/>
+        <updated>2025-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）データ大手のDefiLlamaは10月6日、分散型取引所（DEX）のアスター（Aster）の永久先物データを追跡ページから削除した。エックス ...
+DefiLlama、アスターの永久先物取引データを削除──市場の熱狂に疑問符 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Shaurya Malwa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポリマーケット、米政府閉鎖は長期化するものの1カ月以内に終了すると予想]]></title>
         <id>https://www.coindeskjapan.com/?p=317829</id>
@@ -1571,16 +1592,6 @@ SBI Crypto、2100万ドル（31.5億円）のハッキング被害か──北�
         <summary type="html"><![CDATA[ロンドン警視庁は、仮想通貨ビットコインに関連する大規模な詐欺を巡り、中国籍の被告に有罪判決が言い渡されたことを発表。今回の捜査では1兆円相当のビットコインが押収されている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ一族の不動産資産トークン化、WLFIが計画明かす＝報道]]></title>
-        <id>https://coinpost.jp/?p=655114</id>
-        <link href="https://coinpost.jp/?p=655114"/>
-        <updated>2025-10-01T22:15:45.000Z</updated>
-        <summary type="html"><![CDATA[ワールド・リバティの創設者はトランプ一族の不動産ポートフォリオをブロックチェーン上でトークン化する構想を明らかにした。ドバイのトランプタワーなどを例に挙げ、幅広い投資家層への開放を目指すとしている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
