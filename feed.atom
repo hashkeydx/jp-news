@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-06T10:33:53.582Z</updated>
+    <updated>2025-10-06T11:24:20.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港上場の中国金融リースグループ、暗号資産投資プラットフォーム構築を表明]]></title>
+        <id>https://www.coindeskjapan.com/?p=317862</id>
+        <link href="https://www.coindeskjapan.com/317862/"/>
+        <updated>2025-10-06T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[香港上場企業の中国金融リースグループ（China Financial Leasing Group）は、約8650万香港ドル（約16億4350億円、1香港ドル=1 ...
+香港上場の中国金融リースグループ、暗号資産投資プラットフォーム構築を表明 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Jamie Crawley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサL2のパーペチュアルDEX「Lighter」がパブリックメインネットをローンチ、8ヶ月のテスト経て]]></title>
         <id>https://www.neweconomy.jp/?p=503377</id>
@@ -1572,26 +1583,6 @@ SBI Crypto、2100万ドル（31.5億円）のハッキング被害か──北�
 ステーブルコインと連携可能な「トークン化MMF」、国内でも組成へ──Progmat、オンチェーン金融の活性化に向けた報告書発表 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>増田 隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サムザップ、ドージハッシュに250万ドル融資　Dogecoinマイニング能力拡大へ]]></title>
-        <id>https://coinpost.jp/?p=655123</id>
-        <link href="https://coinpost.jp/?p=655123"/>
-        <updated>2025-10-01T23:10:39.000Z</updated>
-        <summary type="html"><![CDATA[米上場のサムザップ・メディアがドージハッシュ・テクノロジーズに250万ドルの融資を実行した。買収完了前の資金提供で500台以上のASICマイナー追加を支援し、年内に総数4000台超の稼働を目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界最大規模の仮想通貨押収事例、英当局が1兆円相当のビットコインを差し押さえ]]></title>
-        <id>https://coinpost.jp/?p=655124</id>
-        <link href="https://coinpost.jp/?p=655124"/>
-        <updated>2025-10-01T22:50:42.000Z</updated>
-        <summary type="html"><![CDATA[ロンドン警視庁は、仮想通貨ビットコインに関連する大規模な詐欺を巡り、中国籍の被告に有罪判決が言い渡されたことを発表。今回の捜査では1兆円相当のビットコインが押収されている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
