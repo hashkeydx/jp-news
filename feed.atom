@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-07T11:24:17.791Z</updated>
+    <updated>2025-10-07T12:57:00.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【10/7話題】ビットコインが12万6,000ドル突破、戸田建設・JTB・富士通がNFT活用の観光DX、オンドがオアシスプロ買収完了など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=503826</id>
+        <link href="https://www.neweconomy.jp/posts/503826"/>
+        <updated>2025-10-07T12:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モルガン・スタンレー、ポートフォリオの最大4%を暗号資産に配分することを推奨]]></title>
         <id>https://www.coindeskjapan.com/?p=318043</id>
@@ -1352,26 +1362,6 @@ BNBが1100ドルを突破──エコシステムトークンに注目が集ま�
         <summary type="html"><![CDATA[仮想通貨スイのトレジャリーであるスイ・グループと、スイ財団、エセナが協力し、独自ステーブルコイン「suiUSDe」「USDi」を発行する計画だ。特徴など詳細を解説する。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TONエコシステムに拡大　トークン化株式xStocksが「Wallet in Telegram」に対応へ]]></title>
-        <id>https://coinpost.jp/?p=655471</id>
-        <link href="https://coinpost.jp/?p=655471"/>
-        <updated>2025-10-03T00:45:37.000Z</updated>
-        <summary type="html"><![CDATA[トークン化株式のxStocksは、テレグラム向けの仮想通貨ウォレットWallet in Telegramに対応を拡大すると発表。10月の終わりから段階的にローンチする計画である。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム「フサカ」、ホレスキーテストネットで稼働開始]]></title>
-        <id>https://coinpost.jp/?p=655456</id>
-        <link href="https://coinpost.jp/?p=655456"/>
-        <updated>2025-10-02T23:45:55.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム開発者はホレスキーテストネットで次期アップグレード「フサカ」が稼働したと報告。10月14日と28日に他のテストネットで実施後、12月3日のメインネット実装を予定している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
