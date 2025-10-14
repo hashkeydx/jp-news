@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-14T11:24:56.335Z</updated>
+    <updated>2025-10-14T12:59:46.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OKJに「スカイ（SKY）」上場へ、「メイカー（MKR）」は出庫停止に]]></title>
+        <id>https://www.neweconomy.jp/?p=506324</id>
+        <link href="https://www.neweconomy.jp/posts/506324"/>
+        <updated>2025-10-14T12:09:16.000Z</updated>
+        <summary type="html"><![CDATA[OKJにSKY上場へ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産「スカイ（SKY）」の取り扱い予定を10月10日に発表した。取扱い開始は10月20日17:00の予定だ。 発表によるとOKJのSKY取り扱い対象サービ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュリタイズがSPAC上場協議、ハッシュキーはIPO申請＝報道]]></title>
+        <id>https://www.neweconomy.jp/?p=506321</id>
+        <link href="https://www.neweconomy.jp/posts/506321"/>
+        <updated>2025-10-14T12:08:04.000Z</updated>
+        <summary type="html"><![CDATA[セキュリタイズとハッシュキーが上場か セキュリタイズ（Securitize）が、SPAC（上場特別目的買収会社）合併による上場を巡り協議していると「ブルームバーグ（Bloomberg）」が事情に詳しい関係者の話として10 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米シティ、2026年に暗号資産カストディサービス開始を目指す＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=506305</id>
@@ -1045,37 +1065,6 @@ BitLendingが最高料率10%を出せる理由──J-CAM運営メディアIolit
         <link href="https://coinpost.jp/?p=656725"/>
         <updated>2025-10-10T01:18:28.000Z</updated>
         <summary type="html"><![CDATA[ルクセンブルクの財務大臣は、同国の政府系ファンドFSILがポートフォリオの1%を仮想通貨ビットコインのETFに投資していると明かした。政府承認の新たな投資方針を適用している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGINが示す「国際標準」の行方──日本の金融規制とセキュリティはどう変わるか【ジョージタウン大学・松尾教授に聞く】]]></title>
-        <id>https://www.coindeskjapan.com/?p=318165</id>
-        <link href="https://www.coindeskjapan.com/318165/"/>
-        <updated>2025-10-10T00:59:04.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン領域の共通したガバナンス形成を目指す国際団体BGIN（ビギン、Blockchain Governance Initiative Network） ...
-BGINが示す「国際標準」の行方──日本の金融規制とセキュリティはどう変わるか【ジョージタウン大学・松尾教授に聞く】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーサー・ヘイズが「ビットコイン相場の4年サイクル」終焉を主張　米中通貨供給に注目]]></title>
-        <id>https://coinpost.jp/?p=656724</id>
-        <link href="https://coinpost.jp/?p=656724"/>
-        <updated>2025-10-10T00:47:53.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨アナリストのアーサー・ヘイズ氏が、ビットコインの半減期サイクル終焉を予想した。米中の通貨供給変化が価格を左右すると分析し、トランプ政権下での上昇要因を解説している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのビットコイン現物ETF、BTC保有数量が80万枚超え　最大供給量の3.8%超に]]></title>
-        <id>https://coinpost.jp/?p=656704</id>
-        <link href="https://coinpost.jp/?p=656704"/>
-        <updated>2025-10-10T00:32:14.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックの仮想通貨ビットコイン現物ETFのIBITは、保有するビットコインの数量が節目の80万BTCを超えた。ビットコインの最大供給量の3.8%超に達している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
         </author>
