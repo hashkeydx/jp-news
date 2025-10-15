@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=319300",
+          "author": "Omkar Godbole",
+          "description": "アメリカ連邦準備制度理事会（FRB）のジェローム・パウエル（Jerome Powell）議長は10月14日、まもなく、長期にわたるバランスシート縮小プログラムを ...\nパウエル議長の量的引き締め終了を示唆する発言にもビットコインは反応せず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/319300/",
+          "publishedOn": "2025-10-15T09:25:00.000Z",
+          "wordCount": 1398,
+          "title": "パウエル議長の量的引き締め終了を示唆する発言にもビットコインは反応せず",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/04/shutterstock_2284599845-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=319282",
           "author": "Siamak Masnavi",
           "description": "コインベース（Coinbase）は、インド最大級の暗号資産（仮想通貨）取引所であるCoinDCXへの出資に合意した。この取引の完了には規制当局の承認やその他の慣 ...\nコインベース、インド最大級の暗号資産取引所CoinDCXへの投資を増額 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -354,6 +364,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=658149",
+          "author": "hiroto.yoshii",
+          "description": "リップルは南アフリカのアブサ銀行と提携し、アフリカで初の大手カストディパートナーを獲得。デジタル資産の安全な保管と事業拡大を進めます。",
+          "link": "https://coinpost.jp/?p=658149",
+          "publishedOn": "2025-10-15T09:30:17.000Z",
+          "wordCount": 3122,
+          "title": "リップル、南アフリカでカストディ事業強化　金融大手アブサバンクと提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=658071",
+          "author": "Enzo",
+          "description": "イーサリアムの次期アップグレード「Fusaka」が10月14日、テストネットSepoliaで稼働開始した。PeerDAS技術により処理負担を大幅軽減し、取引速度を最大12,000件/秒まで向上。12月のメインネット実装に向けて段階的にテスト展開中。年内2度目の大型アップグレードでスケーラビリティをさらに強化へ。",
+          "link": "https://coinpost.jp/?p=658071",
+          "publishedOn": "2025-10-15T08:55:39.000Z",
+          "wordCount": 3218,
+          "title": "イーサリアムFusakaアップグレード、テストネットSepoliaで有効化　12月メインネット実装へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/pectra-fusaka-ethereum.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=658094",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Coincheck Groupが仏Aploの買収を完了し、国内では事業法人向けクリプト・トレジャリー支援を開始。海外と国内の両面で機関投資家向け事業を拡大する。",
+          "link": "https://coinpost.jp/?p=658094",
+          "publishedOn": "2025-10-15T08:28:03.000Z",
+          "wordCount": 3235,
+          "title": "コインチェックグループ、機関投資家向け事業を強化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/coincheck_group_thumbnail.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/coincheck_group_thumbnail.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=658117",
+          "author": "Enzo",
+          "description": "米暗号資産取引所大手コインベース・グローバルが、インドの暗号資産取引所CoinDCXに追加出資。投資後の企業価値は24.5億ドルと評価される。この出資はCoinDCXが今年7月にハッキング被害に遭った数カ月後。コインベースはインドと中東地域での事業拡大を目指す。",
+          "link": "https://coinpost.jp/?p=658117",
+          "publishedOn": "2025-10-15T08:19:35.000Z",
+          "wordCount": 3215,
+          "title": "コインベース、インド大手の仮想通貨取引所CoinDCXへ投資　評価額3700億円相当",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=658018",
           "author": "幸田直子",
@@ -1043,51 +1113,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/etf-new-pic.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/etf-new-pic.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=656962",
-          "author": "菊谷ルイス",
-          "description": "モルガン・スタンレーが仮想通貨ファンドへのアクセス制限を撤廃し全顧客が投資可能にとCNBCが報道。10月15日から退職金口座を含むあらゆる口座で利用可能になる。",
-          "link": "https://coinpost.jp/?p=656962",
-          "publishedOn": "2025-10-10T21:30:06.000Z",
-          "wordCount": 3155,
-          "title": "モルガン・スタンレー、仮想通貨ファンドの顧客制限を撤廃＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/morgan-stan-new-fund-bitcoin.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/morgan-stan-new-fund-bitcoin.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=656958",
-          "author": "菊谷ルイス",
-          "description": "バイナンス創設者CZ氏への恩赦に関するホワイトハウス内の協議が進展していると報道された。トランプ大統領は恩赦に前向きだが体裁を懸念する声も。",
-          "link": "https://coinpost.jp/?p=656958",
-          "publishedOn": "2025-10-10T21:13:03.000Z",
-          "wordCount": 3156,
-          "title": "バイナンス創設者CZ氏への恩赦検討が進展　ホワイトハウス内で協議＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-family-wallet-dispute.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-family-wallet-dispute.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=656946",
-          "author": "菊谷ルイス",
-          "description": "トランプ大統領が中国製品への関税大幅引き上げを警告し仮想通貨市場が大幅安に。ビットコインは3.3%下落し市場全体で1250億ドル超の時価総額が消失した。",
-          "link": "https://coinpost.jp/?p=656946",
-          "publishedOn": "2025-10-10T20:45:23.000Z",
-          "wordCount": 3168,
-          "title": "ビットコイン暴落、1200億円規模のロスカット発生　トランプの対中100%関税追加を受け",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/market-down-60.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/market-down-60.jpg"
         }
       ]
     },
