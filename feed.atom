@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-17T05:30:09.972Z</updated>
+    <updated>2025-10-17T06:40:17.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロック、GENIUS法準拠の改良型マネーマーケットファンド導入へ]]></title>
+        <id>https://www.neweconomy.jp/?p=507402</id>
+        <link href="https://www.neweconomy.jp/posts/507402"/>
+        <updated>2025-10-17T06:27:59.000Z</updated>
+        <summary type="html"><![CDATA[米規制下でのステーブルコイン準備金運用に対応 米資産運用大手ブラックロック（BlackRock）が、ステーブルコイン発行企業の準備金ニーズに応えるべく、ジーニアス法（GENIUS Act）に準拠した改良版マネーマーケット […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOC初のネイティブステーブルコイン「USDA」「JPYA」「EURA」発行へ]]></title>
+        <id>https://www.neweconomy.jp/?p=507387</id>
+        <link href="https://www.neweconomy.jp/posts/507387"/>
+        <updated>2025-10-17T05:46:02.000Z</updated>
+        <summary type="html"><![CDATA[JOC初のネイティブステーブルコイン発行へ 日本企業が運営するEVM（イーサリアムバーチャルマシン）互換の国産ブロックチェーン「ジャパンオープンチェーン（Japan Open Chain：JOC）」のネイティブステーブル […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、ステーブルコイン決済プラットフォームを開始　USDC保有で年利4.1%]]></title>
         <id>https://coinpost.jp/?p=658711</id>
