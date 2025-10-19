@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-19T20:29:28.348Z</updated>
+    <updated>2025-10-19T21:24:53.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XRP、SOLは強気相場に──ビットコイン、イーサリアムは低調]]></title>
+        <id>https://www.coindeskjapan.com/?p=319801</id>
+        <link href="https://www.coindeskjapan.com/319801/"/>
+        <updated>2025-10-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[XRPとSOLは、大手暗号資産の中で、主要なセンチメントの指標が強気を示している。一方、BTCとETHは、依然として低調である。 25デルタ・リスクリバーサル（ ...
+XRP、SOLは強気相場に──ビットコイン、イーサリアムは低調 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>T. Minamoto</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビルドアンドビルド・旧バイナンスコイン（BNB）の今後とは？最新の価格予想や見通しを徹底解説！]]></title>
         <id>https://www.coindeskjapan.com/?p=308042</id>
@@ -1361,16 +1372,6 @@ G.U.Group、ステーブルコイン発行へ──円建てなど3種類 first 
 パウエル議長の量的引き締め終了を示唆する発言にもビットコインは反応せず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムFusakaアップグレード、テストネットSepoliaで有効化　12月メインネット実装へ]]></title>
-        <id>https://coinpost.jp/?p=658071</id>
-        <link href="https://coinpost.jp/?p=658071"/>
-        <updated>2025-10-15T08:55:39.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムの次期アップグレード「Fusaka」が10月14日、テストネットSepoliaで稼働開始した。PeerDAS技術により処理負担を大幅軽減し、取引速度を最大12,000件/秒まで向上。12月のメインネット実装に向けて段階的にテスト展開中。年内2度目の大型アップグレードでスケーラビリティをさらに強化へ。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
