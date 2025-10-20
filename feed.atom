@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-20T21:27:12.850Z</updated>
+    <updated>2025-10-20T22:29:57.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ共同創設者、分散型永久先物取引所「パーコレーター」を設計中]]></title>
+        <id>https://coinpost.jp/?p=659442</id>
+        <link href="https://coinpost.jp/?p=659442"/>
+        <updated>2025-10-20T22:05:12.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ創設者ヤコベンコCEOが高性能な分散型永久先物取引所プロトコル「パーコレーター」を開発していることが判明した。独自の「スラブ」機能で流動性競争を促進する設計となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインマイニングの収益性、9月に7%以上低下：ジェフリーズ]]></title>
+        <id>https://www.coindeskjapan.com/?p=319983</id>
+        <link href="https://www.coindeskjapan.com/319983/"/>
+        <updated>2025-10-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[投資銀行ジェフリーズ（Jefferies）によると、ビットコイン（BTC）価格が2%下落してネットワークのハッシュレートが約9%上昇したことにより、ビットコイン ...
+ビットコインマイニングの収益性、9月に7%以上低下：ジェフリーズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨企業幹部が米上院議員と市場構造法案協議へ＝報道]]></title>
         <id>https://coinpost.jp/?p=659438</id>
@@ -1457,28 +1478,6 @@ G.U.Group、ステーブルコイン発行へ──円建てなど3種類 first 
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは季節的な強気期待にもかかわらず、強い売り圧力に直面]]></title>
-        <id>https://www.coindeskjapan.com/?p=319467</id>
-        <link href="https://www.coindeskjapan.com/319467/"/>
-        <updated>2025-10-16T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は11万ドル前後で低迷を続けており、ゴールド（金）と比較すると圧力にさらされている。 Glassnodeのオンチェーンデータは、長期保有者 ...
-ビットコインは季節的な強気期待にもかかわらず、強い売り圧力に直面 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>James Van Straten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パクソス、誤操作でペイパルのステーブルコインPYUSDを300兆ドル分発行]]></title>
-        <id>https://www.coindeskjapan.com/?p=319435</id>
-        <link href="https://www.coindeskjapan.com/319435/"/>
-        <updated>2025-10-16T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA[10月15日、ステーブルコイン発行元のパクソス（Paxos）が誤ってペイパル（PayPal）のステーブルコイン「PYUSD」を300兆ドル（約4京5000兆円、 ...
-パクソス、誤操作でペイパルのステーブルコインPYUSDを300兆ドル分発行 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
         </author>
     </entry>
 </feed>
