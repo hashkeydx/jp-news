@@ -510,10 +510,25 @@
       "articles": []
     },
     {
-      "title": "中国  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=659284",
+          "author": "AKIRA.H",
+          "description": "コンヴァノ（6574）はBTC高値売却・安値買戻しのトレーディング戦略で約7億円の利益を確保。保有量は665BTCに増加し、累計投資額は約114億円へ拡大。",
+          "link": "https://coinpost.jp/?p=659284",
+          "publishedOn": "2025-10-20T07:13:24.000Z",
+          "wordCount": 3259,
+          "title": "コンヴァノ、ビットコイン売買で7億円の利益確保　ディーリング戦略で保有BTC拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Convano0805.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/Convano0805.png"
+        },
         {
           "id": "https://coinpost.jp/?p=659255",
           "author": "Enzo",
@@ -1301,6 +1316,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=507823",
+          "author": "OtsugaShinya",
+          "description": "ラオスでマイニング事業者への電力供給が停止へ ラオス政府が、暗号資産（仮想通貨）マイニング事業者への電力供給を2026年第1四半期末までに停止する方針を検討している。国内電力を、経済成長により寄与する産業へ振り向けるため […]",
+          "link": "https://www.neweconomy.jp/posts/507823",
+          "publishedOn": "2025-10-20T07:16:46.000Z",
+          "wordCount": 768,
+          "title": "ラオス、暗号資産マイニング事業者への電力供給停止へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/20161642/706e02b993648e9c243b9577d5e88cf8.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=507805",
           "author": "OtsugaShinya",
