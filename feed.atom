@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-20T03:53:52.530Z</updated>
+    <updated>2025-10-20T04:36:05.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ワンキーがビットコイン秘密鍵の大規模脆弱性を報告、Trust Walletなどに影響]]></title>
+        <id>https://www.neweconomy.jp/?p=507710</id>
+        <link href="https://www.neweconomy.jp/posts/507710"/>
+        <updated>2025-10-20T04:02:37.000Z</updated>
+        <summary type="html"><![CDATA[OneKeyが約12万件のビットコイン秘密鍵に影響する脆弱性を報告 暗号資産（仮想通貨）ウォレット企業ワンキー（OneKey）が、ビットコイン（Bitcoin）の秘密鍵がクラッキング可能になる深刻な脆弱性を10月17日に […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムに火がついた──第3四半期、BTCから資金が流出しETHは急騰]]></title>
         <id>https://www.coindeskjapan.com/?p=319843</id>
