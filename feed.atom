@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-20T11:26:13.191Z</updated>
+    <updated>2025-10-20T12:58:33.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロビンフッドEU部門、アービトラム上の株式・ETFトークンを80銘柄追加。合計500銘柄に]]></title>
+        <id>https://www.neweconomy.jp/?p=507909</id>
+        <link href="https://www.neweconomy.jp/posts/507909"/>
+        <updated>2025-10-20T11:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Robinhood Stock Tokensの米国株・ETFが約500銘柄に ロビンフッドヨーロッパ（Robinhood Europe）提供の株式連動型トークンプラットフォーム「ロビンフッド・ストックトークン（Robin […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットポイント、デフコンサルティングのイーサリアム活用支援を開始]]></title>
+        <id>https://www.neweconomy.jp/?p=507902</id>
+        <link href="https://www.neweconomy.jp/posts/507902"/>
+        <updated>2025-10-20T11:28:43.000Z</updated>
+        <summary type="html"><![CDATA[ビットポイントがデフコンサルティングを支援 国内暗号資産（仮想通貨）取引所ビットポイント（BITPoint）が、デフコンサルティング（Def consulting）とイーサリアム（ETH）トレジャリー事業の高度化を目的と […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仏当局、暗号資産取引所へのマネロン審査拡大。バイナンスなど対象に]]></title>
         <id>https://www.neweconomy.jp/?p=507895</id>
@@ -1545,26 +1565,6 @@ G.U.Group、ステーブルコイン発行へ──円建てなど3種類 first 
 ステーブルコイン市場、新規プラットフォーム台頭で取引の枠を超え、3000億ドルに迫る：アルテミス first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNBチェーン、中国招商銀行の5,700億円規模MMFをトークン化]]></title>
-        <id>https://coinpost.jp/?p=658293</id>
-        <link href="https://coinpost.jp/?p=658293"/>
-        <updated>2025-10-16T00:45:43.000Z</updated>
-        <summary type="html"><![CDATA[BNBチェーンが中国招商銀行CMBによる38億ドル規模のマネーマーケットファンドをオンチェーン化する。CMBMINTとCMBIMINTトークンでDeFi運用も可能になる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「仮想通貨市場へのトランプ関税ショックの影響は一時的」Bitwiseが3つの判断基準を公開]]></title>
-        <id>https://coinpost.jp/?p=658289</id>
-        <link href="https://coinpost.jp/?p=658289"/>
-        <updated>2025-10-16T00:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Bitwiseの最高投資責任者は、米中対立激化への懸念から起きたビットコインなどの仮想通貨市場の急落は一時的なもので、大きな影響はないとの見方を示した。3つの判断基準を説明している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
