@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=320155",
+          "author": "廣瀬 優香",
+          "description": "今年初めに世界最大の暗号資産（仮想通貨）オプション取引所であるデリビット（Deribit）を29億ドル（約4400億円、1ドル152円換算）で買収した暗号資産取 ...\n伝統的金融機関が暗号資産デリバティブブームを牽引する：コインベース first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/320155/",
+          "publishedOn": "2025-10-22T05:30:00.000Z",
+          "wordCount": 1339,
+          "title": "伝統的金融機関が暗号資産デリバティブブームを牽引する：コインベース",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/440b7e0a2b40d273f47adc5f1286aa54834f2ccc.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=320154",
           "author": "Jesse Hamilton",
           "description": "暗号資産を推進するトランプ大統領が米政府の暗号資産に対する慎重な抵抗姿勢を覆した今年の最初の6カ月間に、米国での暗号資産取引高は約50%急増して1兆ドル（約15 ...\n米国における暗号資産取引活動、トランプ政権下で急増：TRMラボ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -574,6 +584,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=659937",
+          "author": "幸田直子",
+          "description": "CoinMetrics共同創業者ニック・カーター氏が、量子コンピュータがビットコインの暗号セキュリティに及ぼす脅威について警告する論説を発表。ビットコインのセキュリティの仕組みについて解説し、量子技術の進化が現在の状況を変える可能性があると指摘した。",
+          "link": "https://coinpost.jp/?p=659937",
+          "publishedOn": "2025-10-22T05:30:14.000Z",
+          "wordCount": 3274,
+          "title": "「量子コンピュータはビットコインの最大リスク」、CoinMetrics共同創設者が警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=659947",
+          "author": "菊谷ルイス",
+          "description": "ビットワイズが3月から提供する「OWNB」ETFに、日本企業メタプラネット、リミックスポイント、ネクソンも組み入れられている。",
+          "link": "https://coinpost.jp/?p=659947",
+          "publishedOn": "2025-10-22T04:50:15.000Z",
+          "wordCount": 3257,
+          "title": "リミックスポイント、米ビットワイズのBTC保有企業ETFに新規採用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/remixpointthunbnail0605.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/remixpointthunbnail0605.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=659910",
+          "author": "A.Yamada",
+          "description": "Ark LabsがビットコインL2「Arkade」のベータ版を公開した。オフチェーンでステーブルコインやレンディング機能を実現し、ライトニングネットワークを補完する新基盤を目指す。",
+          "link": "https://coinpost.jp/?p=659910",
+          "publishedOn": "2025-10-22T04:30:54.000Z",
+          "wordCount": 3282,
+          "title": "ビットコインL2「Arkade」ベータ版公開、BTC上のステーブルコインや貸借の基盤に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/arkade.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/arkade.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=659911",
+          "author": "Enzo",
+          "description": "創業110年の米百貨店チェーンBeallsが仮想通貨決済を導入。Flexa経由でビットコイン、イーサリアムなどに対応。全米初、複数ブロックチェーンから同時決済を受け入れる小売業者に。",
+          "link": "https://coinpost.jp/?p=659911",
+          "publishedOn": "2025-10-22T04:15:10.000Z",
+          "wordCount": 3254,
+          "title": "米国初で百貨店チェーンが仮想通貨決済導入、創業110年の「Bealls」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/substack-bitcoin-payment-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/substack-bitcoin-payment-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=659893",
+          "author": "Enzo",
+          "description": "ソラナ・モバイルが仮想通貨スマホ「サガ」のサポートを発売から2年で終了。2万台の完売を成し遂げ、ミームコインのエアドロップで注目を集めた。同社は現在、第2世代端末「シーカー」に注力し、15万台以上の予約を獲得している。",
+          "link": "https://coinpost.jp/?p=659893",
+          "publishedOn": "2025-10-22T03:55:44.000Z",
+          "wordCount": 3265,
+          "title": "「Saga」スマホ、発売から2年でサポート終了　次世代端末「シーカー」へ移行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/solana_saga.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/solana_saga.png"
+        },
         {
           "id": "https://coinpost.jp/?p=659886",
           "author": "菊谷ルイス",
