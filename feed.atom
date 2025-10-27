@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-27T11:26:23.180Z</updated>
+    <updated>2025-10-27T13:00:12.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソラナ創設者、L2の分散性に疑問。「イーサリアムのセキュリティ継承は誤り」と指摘]]></title>
+        <id>https://www.neweconomy.jp/?p=510107</id>
+        <link href="https://www.neweconomy.jp/posts/510107"/>
+        <updated>2025-10-27T12:43:37.000Z</updated>
+        <summary type="html"><![CDATA[L2の分散性についてX上で議論 ソラナ（Solana）の共同創設者アナトリー・ヤコベンコ（Anatoly Yakovenko）氏が、イーサリアム（Ethereum）のレイヤー2（L2）ネットワークの分散性および安全性につ […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10/27話題】JPYCリリース初日に発行額1,500万円突破、JPモルガンが融資の担保にBTCとETHを導入かなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=510095</id>
+        <link href="https://www.neweconomy.jp/posts/510095"/>
+        <updated>2025-10-27T12:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マウントゴックス、債権者への返済期限を2026年10月に延期]]></title>
         <id>https://www.coindeskjapan.com/?p=320949</id>
@@ -1533,28 +1553,6 @@ AIやHPC関連のマイナー株が市場前取引で上昇──オラクルの
         <summary type="html"><![CDATA[Bitwiseは、ゴールドの価格上昇は仮想通貨ビットコインにとって好材料であるとの見方を示した。ゴールドの価格上昇の要因や市況を分析した上で、ビットコインにも同様のことが起きうると予測している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本郵政キャピタル、ウォレットレスNFT技術のSUSHI TOPに出資]]></title>
-        <id>https://www.coindeskjapan.com/?p=320428</id>
-        <link href="https://www.coindeskjapan.com/320428/"/>
-        <updated>2025-10-22T23:39:30.000Z</updated>
-        <summary type="html"><![CDATA[日本郵政キャピタルは10月22日、SUSHI TOP MARKETINGへの出資を実行したことを発表した。 SUSHI TOPは、特許取得済みの「ウォレットレス ...
-日本郵政キャピタル、ウォレットレスNFT技術のSUSHI TOPに出資 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPO準備を進めるクラーケン、第3四半期の収益が2倍以上に増加]]></title>
-        <id>https://www.coindeskjapan.com/?p=320427</id>
-        <link href="https://www.coindeskjapan.com/320427/"/>
-        <updated>2025-10-22T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所クラーケンは、来年に予想される上場に向けて準備を進める中、収益が第3四半期に倍増した。 クラーケンの第3四半期収益は6億4800万ドル ...
-IPO準備を進めるクラーケン、第3四半期の収益が2倍以上に増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
         </author>
     </entry>
 </feed>
