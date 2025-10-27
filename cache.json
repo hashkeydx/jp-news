@@ -63,6 +63,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=320912",
+          "author": "廣瀬 優香",
+          "description": "イーサリアム（ETH）は協定世界時（UTC）10月25日13時57分時点で、3946ドル前後で推移し、4000ドル付近で大量の売り注文が入ったことで、価格はレジ ...\nイーサリアム1万ドルへの道筋をアナリストが予測──クジラとサメが「信頼回復の兆候」示す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/320912/",
+          "publishedOn": "2025-10-27T07:25:00.000Z",
+          "wordCount": 1370,
+          "title": "イーサリアム1万ドルへの道筋をアナリストが予測──クジラとサメが「信頼回復の兆候」示す",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/b7dd683e48326c2ace004e4e6c4b4f6ff6c84c77-1920x1080-2.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=320913",
           "author": "増田 隆幸",
           "description": "JPYC社は10月27日、円ステーブルコイン「JPYC」の発行（具体的には、JPYCの発行・償還を担う専用プラットフォーム「JPYC EX」の同日午後1時の公開 ...\nJPYC、発行を控え記者会見──「平等な競争ができる社会に」岡部氏 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -575,6 +585,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=661028",
+          "author": "幸田直子",
+          "description": "キルギス共和国が自国通貨ソム建ステーブルコイン「KGST」をBNBチェーン上で発行する。バイナンス創設者CZ氏が戦略顧問として支援し、CBDC「デジタルソム」の試験運用開始や国家仮想通貨準備金の設立を推進している。",
+          "link": "https://coinpost.jp/?p=661028",
+          "publishedOn": "2025-10-27T05:03:04.000Z",
+          "wordCount": 3197,
+          "title": "キルギス共和国、自国通貨建ステーブルコイン「KGST」発行へ　バイナンスCZ支援で国家仮想通貨戦略を推進",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/paypal-stable-congress-urge.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/paypal-stable-congress-urge.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=660995",
+          "author": "A.Yamada",
+          "description": "仮想通貨取引所コインベースのCEOが、エコー買収を背景に、起業家が企業設立から資金調達、IPOまでをオンチェーンで可能にする構想を語った。",
+          "link": "https://coinpost.jp/?p=660995",
+          "publishedOn": "2025-10-27T04:58:30.000Z",
+          "wordCount": 3182,
+          "title": "コインベースCEO、オンチェーン資金調達で起業のあり方革新を構想　エコー買収で実現へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/espresso_hero_still_1920x1080.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/espresso_hero_still_1920x1080.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=661016",
           "author": "Ritsuki.Kumazawa",
@@ -1377,6 +1417,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=509841",
+          "author": "TamuraSeiji",
+          "description": "Berachainが新提案「BRIP-0007」を発表 ブロックチェーンネットワーク「ベラチェーン（Berachain）」の開発チームが、トランザクションのインクルージョン（ブロックチェーンへの取り込み）時間を現在の2秒 […]",
+          "link": "https://www.neweconomy.jp/posts/509841",
+          "publishedOn": "2025-10-27T07:17:24.000Z",
+          "wordCount": 783,
+          "title": "プリコンファメーションで取引処理時間を200ミリ秒に短縮、ベラチェーンが新提案「BRIP-0007」で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/27161719/6901c22935a835c55903e493a86c31eb.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=509829",
+          "author": "NewEconomy",
+          "description": "LayerZeroがSuiに対応 相互運用プロトコルの「レイヤーゼロ（LayerZero）」が、レイヤー1ブロックチェーン「スイ（Sui）」で稼働を開始したと、レイヤーゼロの公式Xで10月22日に発表された。今回のスイ統 […]",
+          "link": "https://www.neweconomy.jp/posts/509829",
+          "publishedOn": "2025-10-27T07:05:48.000Z",
+          "wordCount": 839,
+          "title": "レイヤーゼロがスイで稼働開始、クロスチェーン接続を拡大",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/27160544/03fa8f0a408e8f5b6f4151498b23de9c.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=509798",
           "author": "gentosha_takahashi",
