@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-27T21:26:19.100Z</updated>
+    <updated>2025-10-27T22:29:57.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ビットコインが二度と10万ドル割らない可能性」スタンダードチャータード分析]]></title>
+        <id>https://coinpost.jp/?p=661189</id>
+        <link href="https://coinpost.jp/?p=661189"/>
+        <updated>2025-10-27T22:15:39.000Z</updated>
+        <summary type="html"><![CDATA[スタンダードチャータード銀行の仮想通貨アナリストが米中貿易協議の改善を背景に、ビットコインが10万ドルを下回らない可能性があると予測。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[S&Pグローバル、ストラテジーに初の格付け「B-」付与　その理由は]]></title>
+        <id>https://coinpost.jp/?p=661180</id>
+        <link href="https://coinpost.jp/?p=661180"/>
+        <updated>2025-10-27T21:45:13.000Z</updated>
+        <summary type="html"><![CDATA[S&Pグローバル・レーティングスがビットコイン保有最大手のストラテジーに発行体格付け「B-」を付与したと発表した。その理由は？]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNBチェーン、四半期バーンで1800億円相当のBNBを永久焼却]]></title>
+        <id>https://coinpost.jp/?p=661176</id>
+        <link href="https://coinpost.jp/?p=661176"/>
+        <updated>2025-10-27T21:20:37.000Z</updated>
+        <summary type="html"><![CDATA[BNB財団が第33回四半期トークンバーンの完了を発表し、1800億円相当の144万BNBを永久焼却したことを明らかにした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインが50日移動平均線を上回るも、BTIは「弱気」維持]]></title>
         <id>https://www.coindeskjapan.com/?p=320929</id>
@@ -18,6 +48,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[トム・リー率いるビットマイン、過去一週間で488億円相当のイーサリアムを追加購入]]></title>
+        <id>https://coinpost.jp/?p=661174</id>
+        <link href="https://coinpost.jp/?p=661174"/>
+        <updated>2025-10-27T21:00:17.000Z</updated>
+        <summary type="html"><![CDATA[ナスダック上場のビットマインが仮想通貨イーサリアム保有が331万ETHに達し、仮想通貨と現金の総保有額が2.1兆円になったと発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[シティとコインベース、デジタル資産決済サービスの拡大に向け提携]]></title>
         <id>https://www.coindeskjapan.com/?p=321016</id>
         <link href="https://www.coindeskjapan.com/321016/"/>
@@ -26,6 +66,26 @@
 シティとコインベース、デジタル資産決済サービスの拡大に向け提携 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上場企業が61億円相当のイーサリアム売却で自社株買い実施、株価急騰]]></title>
+        <id>https://coinpost.jp/?p=661172</id>
+        <link href="https://coinpost.jp/?p=661172"/>
+        <updated>2025-10-27T20:45:26.000Z</updated>
+        <summary type="html"><![CDATA[ETHジラが61億円相当の仮想通貨イーサリアムを売却しその資金で自社株買いを実施したと発表。株価が急騰した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米政府閉鎖中も仮想通貨ETF上場へ、ソラナやライトコインなど今週取引開始]]></title>
+        <id>https://coinpost.jp/?p=661166</id>
+        <link href="https://coinpost.jp/?p=661166"/>
+        <updated>2025-10-27T20:30:14.000Z</updated>
+        <summary type="html"><![CDATA[米国政府閉鎖が続く中、ソラナやライトコインなど複数の仮想通貨ETFが今週上場する予定。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1268,17 +1328,6 @@ AIやHPC関連のマイナー株が市場前取引で上昇──オラクルの
         <summary type="html"><![CDATA[野村傘下レーザーデジタルのファンドがセイ上でトークン化。カイオ経由でブラックロックやブレバン・ハワードなどグローバル大手と並ぶ機関投資家向けRWA商品として展開。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハッキングされた取引所WazirX、1年間の停止を経て取引を再開へ]]></title>
-        <id>https://www.coindeskjapan.com/?p=320562</id>
-        <link href="https://www.coindeskjapan.com/320562/"/>
-        <updated>2025-10-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[債権者へのメールによると、かつて取引高でインド最大の暗号資産（仮想通貨）取引所だったWazirXが、10月24日に営業を再開する。 これにより、同国の暗号資産史 ...
-ハッキングされた取引所WazirX、1年間の停止を経て取引を再開へ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
