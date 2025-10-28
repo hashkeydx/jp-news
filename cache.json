@@ -350,16 +350,6 @@
           "wordCount": 1389,
           "title": "初期のビットコインマイナーのウォレット、14年ぶりに活動を再開──150BTCを移動",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/12/shutterstock_2524086717-scaled.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=320680",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2025/10/24）テクニカルはまちまち、どちらもある？【楽天ウォレット】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/320680/",
-          "publishedOn": "2025-10-24T08:47:22.000Z",
-          "wordCount": 1375,
-          "title": "マトリックス法によるテクニカル分析（2025/10/24）テクニカルはまちまち、どちらもある？【楽天ウォレット】",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/tr-thumb_251024.jpg"
         }
       ]
     },
@@ -374,6 +364,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=661523",
+          "author": "菊谷ルイス",
+          "description": "フーディテストネットで最終稼働開始イーサリアムの次期ハードフォーク「フサカ」は10月29日、フーディテストネットで稼働を開始した。これは年内に予定されているメインネット実装に向けた最終ステップとなる。フーディは今月初めにホレスキーとセポリア...",
+          "link": "https://coinpost.jp/?p=661523",
+          "publishedOn": "2025-10-28T21:20:18.000Z",
+          "wordCount": 3269,
+          "title": "イーサリアム「フサカ」、テストネット最終段階に　12月実装に向けて",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ethereum-new-vitalik.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ethereum-new-vitalik.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=661519",
+          "author": "菊谷ルイス",
+          "description": "フランスの中道右派政党UDRは仮想通貨に関する包括的な法案を議会に提出した。国家ビットコイン戦略的備蓄の創設とデジタルユーロの禁止を求めている。",
+          "link": "https://coinpost.jp/?p=661519",
+          "publishedOn": "2025-10-28T21:10:37.000Z",
+          "wordCount": 3271,
+          "title": "フランスでビットコイン戦略的備蓄法案が提出、デジタルユーロ禁止も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/france-new-regu.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/france-new-regu.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=661514",
+          "author": "菊谷ルイス",
+          "description": "米送金大手ウエスタン・ユニオンは2026年前半にソラナ基盤のステーブルコインUSDPTを発行する計画を発表した。",
+          "link": "https://coinpost.jp/?p=661514",
+          "publishedOn": "2025-10-28T20:45:09.000Z",
+          "wordCount": 3273,
+          "title": "米送金大手ウエスタン・ユニオン、ソラナ上でUSDPT発行計画　来年上半期目処に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new-3.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=661508",
+          "author": "菊谷ルイス",
+          "description": "ビットワイズのソラナ・ステーキングETFは火曜日に取引を開始し、初日に約2.2億ドルの資産（AUM）を集めた。今年のETF上場の中で最も多い取引量を記録している。",
+          "link": "https://coinpost.jp/?p=661508",
+          "publishedOn": "2025-10-28T20:30:10.000Z",
+          "wordCount": 3275,
+          "title": "上場初日のソラナステーキングETF、今年新規上場ETFの中で出来高最多　85億円に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/etf-new-position.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/etf-new-position.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=661391",
           "author": "Enzo",
