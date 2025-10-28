@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-28T02:03:57.666Z</updated>
+    <updated>2025-10-28T03:16:10.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マウントゴックス、債権者への弁済期限を2026年10月まで延長へ]]></title>
+        <id>https://www.neweconomy.jp/?p=510157</id>
+        <link href="https://www.neweconomy.jp/posts/510157"/>
+        <updated>2025-10-28T03:12:05.000Z</updated>
+        <summary type="html"><![CDATA[未受領債権者が依然多数 暗号資産（仮想通貨）取引所マウントゴックス（Mt.Gox）が、返済を受け取れていない再生債権者への弁済期限を2025年10月31日から2026年10月31日に変更した。再生管財人の小林信明氏が10 […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyFuとエポスカード、GameFiとVisaクレカ融合の「Web3ロイヤルティカード」発行へ]]></title>
+        <id>https://www.neweconomy.jp/?p=510148</id>
+        <link href="https://www.neweconomy.jp/posts/510148"/>
+        <updated>2025-10-28T03:01:55.000Z</updated>
+        <summary type="html"><![CDATA[SyFuとEpos Cardが提携 GameFi（ゲーム×金融）機能を搭載するWeb3ライフスタイルアプリのサイフ（SyFu）が、エポスカード（Epos Card）との業務提携により、ビザ（Visa）ブランドのクレジット […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ステーブルコインは世界の金融安定性に対する脅威」中国人民銀行総裁が表明]]></title>
+        <id>https://coinpost.jp/?p=661252</id>
+        <link href="https://coinpost.jp/?p=661252"/>
+        <updated>2025-10-28T02:20:33.000Z</updated>
+        <summary type="html"><![CDATA[中国人民銀行の潘功勝総裁がステーブルコインを世界的な金融安定への脅威と表明した。米ドル建てステーブルコインの台頭と人民元国際化の競争が背景にあるとみられる。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBMがデジタル資産プラットフォームを発表──トークン化とステーブルコインの需要が高まる中]]></title>
+        <id>https://www.coindeskjapan.com/?p=321035</id>
+        <link href="https://www.coindeskjapan.com/321035/"/>
+        <updated>2025-10-28T02:15:07.000Z</updated>
+        <summary type="html"><![CDATA[世界的テクノロジープロバイダーであるIBMは、複数のブロックチェーン上でデジタル資産を安全に管理したい銀行や政府、大企業向けに設計した新たなプラットフォームを発 ...
+IBMがデジタル資産プラットフォームを発表──トークン化とステーブルコインの需要が高まる中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETHトレジャリー企業ETHZilla、NAV割れを受けて自社株買い戻しのため4000万ドル相当のETHを売却]]></title>
+        <id>https://www.coindeskjapan.com/?p=321044</id>
+        <link href="https://www.coindeskjapan.com/321044/"/>
+        <updated>2025-10-28T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）に特化したデジタル資産トレジャリー企業のETHZillaは10月27日、保有するイーサリアムのうち4000万ドル（約61億円、1ドル＝15 ...
+ETHトレジャリー企業ETHZilla、NAV割れを受けて自社株買い戻しのため4000万ドル相当のETHを売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開始数分で約76億円を調達　ブテリン氏出資のブロックチェーン「MegaETH」がトークンセール実施]]></title>
+        <id>https://coinpost.jp/?p=661224</id>
+        <link href="https://coinpost.jp/?p=661224"/>
+        <updated>2025-10-28T02:00:35.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンMegaETHは、独自トークンMEGAのパブリックセールを開始。開始から数分で上限額に到達しており、投資家の関心の高さを示していて、仮想通貨領域で注目を集めている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アマゾン提携でNFTキャラクター販売、ユガラボの「アザーサイド」11月に正式リリース]]></title>
         <id>https://coinpost.jp/?p=661230</id>
@@ -1322,72 +1384,6 @@ AIやHPC関連のマイナー株が市場前取引で上昇──オラクルの
         <updated>2025-10-23T15:16:00.000Z</updated>
         <summary type="html"><![CDATA[「フィナンシェトークン（FNCT）って何？」「好きなクリエイターやスポーツチームを応援しながら特典も受け取れるって本当？」「暗号資産やNFTの知識がなくても始め ...
 【2025年完全版】フィナンシェトークン（FNCT）とは？買い方・使い方から特典まで初心者向けに徹底解説 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>ryosuke imai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025年最新版】ビットコイン（BTC）の今後を徹底予想｜専門家の価格見通し・影響要因・投資判断を完全解説]]></title>
-        <id>https://www.coindeskjapan.com/?p=318383</id>
-        <link href="https://www.coindeskjapan.com/318383/"/>
-        <updated>2025-10-23T15:13:35.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）に投資したいが、今後の価格はどうなるのか、今から買っても遅くないか、専門家の予想はどれほど信頼できるのかと悩んでいないだろうか。 2025 ...
-【2025年最新版】ビットコイン（BTC）の今後を徹底予想｜専門家の価格見通し・影響要因・投資判断を完全解説 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>ryosuke imai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025年最新版】ビットコイン（BTC）の税金はいくら？税率・計算方法・確定申告のやり方から節税対策まで完全解説]]></title>
-        <id>https://www.coindeskjapan.com/?p=318396</id>
-        <link href="https://www.coindeskjapan.com/318396/"/>
-        <updated>2025-10-23T15:11:52.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）で利益が出たけれど、いくら税金がかかるのか分からない、確定申告のやり方が複雑で何から手をつければいいか困っている、最大55％も税金を取られ ...
-【2025年最新版】ビットコイン（BTC）の税金はいくら？税率・計算方法・確定申告のやり方から節税対策まで完全解説 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>ryosuke imai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025年最新】パレットトークン（PLT）とは？日本初IEO銘柄の特徴・買い方・将来性を完全解説]]></title>
-        <id>https://www.coindeskjapan.com/?p=318386</id>
-        <link href="https://www.coindeskjapan.com/318386/"/>
-        <updated>2025-10-23T15:10:26.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産やNFTに興味はあるけれど、「パレットトークンって何？」「バレットトークンという名前で検索したけど正しい情報が見つからない」「日本発のNFT関連トークン ...
-【2025年最新】パレットトークン（PLT）とは？日本初IEO銘柄の特徴・買い方・将来性を完全解説 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>ryosuke imai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025年最新版】ビルドアンドビルド（BNB）の特徴とは？5つのメリット・デメリット・買い方まで徹底解説]]></title>
-        <id>https://www.coindeskjapan.com/?p=318384</id>
-        <link href="https://www.coindeskjapan.com/318384/"/>
-        <updated>2025-10-23T15:07:49.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）のビルドアンドビルド（BNB）について調べているものの、「具体的にどんな特徴があるのか分からない」「他の取引所トークンと何が違うのか理解でき ...
-【2025年最新版】ビルドアンドビルド（BNB）の特徴とは？5つのメリット・デメリット・買い方まで徹底解説 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>ryosuke imai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025年最新版】バイナンスの評判・口コミを徹底調査！実際に使ってわかったメリット・デメリット・安全性]]></title>
-        <id>https://www.coindeskjapan.com/?p=318391</id>
-        <link href="https://www.coindeskjapan.com/318391/"/>
-        <updated>2025-10-23T15:07:05.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスを使ってみたいけれど、実際の評判はどうなのか気になりませんか？ 手数料の安さや取扱銘柄の豊富さは魅力的だが、海外取引所ゆえの安全性は大丈夫なのか、日本 ...
-【2025年最新版】バイナンスの評判・口コミを徹底調査！実際に使ってわかったメリット・デメリット・安全性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>ryosuke imai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【2025年10月最新】ネム（NEM）の値動きを完全解説！最新価格・変動要因・チャート分析から今後の予想まで徹底ガイド]]></title>
-        <id>https://www.coindeskjapan.com/?p=318379</id>
-        <link href="https://www.coindeskjapan.com/318379/"/>
-        <updated>2025-10-23T15:05:18.000Z</updated>
-        <summary type="html"><![CDATA[ネム（NEM）の価格が今どうなっているのか気になっていないだろうか。 「今日のネム（NEM）の値段はいくらなのか」「なぜ急に値動きしているのか」「このタイミング ...
-【2025年10月最新】ネム（NEM）の値動きを完全解説！最新価格・変動要因・チャート分析から今後の予想まで徹底ガイド first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>ryosuke imai</name>
         </author>
