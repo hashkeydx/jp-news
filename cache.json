@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=321067",
+          "author": "廣瀬 優香",
+          "description": "暗号資産（仮想通貨）デリバティブ取引所のデリビット（Deribit）によると、米中貿易協定に関する暫定的な合意により、ビットコイン（BTC）に新たな上昇余地が生 ...\n米中貿易協議の暫定合意が、ビットコインを上昇させる可能性：デリビットが指摘 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/321067/",
+          "publishedOn": "2025-10-28T06:40:00.000Z",
+          "wordCount": 1343,
+          "title": "米中貿易協議の暫定合意が、ビットコインを上昇させる可能性：デリビットが指摘",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/afb72db5244609c27e04ac1bb3950f260319c35e-3840x2160_1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=321035",
           "author": "林 理南",
           "description": "世界的テクノロジープロバイダーであるIBMは、複数のブロックチェーン上でデジタル資産を安全に管理したい銀行や政府、大企業向けに設計した新たなプラットフォームを発 ...\nIBMがデジタル資産プラットフォームを発表──トークン化とステーブルコインの需要が高まる中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -404,6 +414,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=661328",
+          "author": "AKIRA.H",
+          "description": "メタプラネットが自己株買い枠（上限750億円）を新設し、BTCを担保に最大5億ドルの資金枠を確保。\r\n株価がmNAVを下回る局面で資本効率の改善と株主還元を狙う。",
+          "link": "https://coinpost.jp/?p=661328",
+          "publishedOn": "2025-10-28T05:19:15.000Z",
+          "wordCount": 3175,
+          "title": "メタプラネット、自己株買いへ　ビットコイン担保で最大5億ドル調達",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetC.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetC.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=661315",
+          "author": "幸田直子",
+          "description": "米取引所最大手のコインベースが、大手銀行Citiと資産運用会社Apolloとの戦略的提携を発表した。Citiとは24時間365日対応の仮想通貨決済機能を、Apolloとはステーブルコイン活用の信用投資戦略を共同開発する。",
+          "link": "https://coinpost.jp/?p=661315",
+          "publishedOn": "2025-10-28T05:10:31.000Z",
+          "wordCount": 3289,
+          "title": "コインべースが伝統金融大手2社と提携、決済・融資分野でステーブルコイン活用拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/coinbase-new-pic.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=661308",
+          "author": "Enzo",
+          "description": "ソラナ共同創業者のヤコヴェンコ氏が、イーサリアムL2のセキュリティ継承に疑問を呈し、ブテリン氏らと公開論争に発展。マルチシグによる中央集権的リスクを指摘し、478億ドルのTVLを抱えるL2の安全性が焦点に。",
+          "link": "https://coinpost.jp/?p=661308",
+          "publishedOn": "2025-10-28T04:55:29.000Z",
+          "wordCount": 3200,
+          "title": "ソラナ共同創設者、レイヤー2安全性を疑問視　ヴィタリックらの議論を受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eth-new-eth.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=661266",
+          "author": "Enzo",
+          "description": "カナダ政府が11月4日の連邦予算でステーブルコイン規制導入を急ぐ背景を解説。米国のジーニアス法成立を受け、金融主権の維持と資本流出阻止のため、規制の空白を埋める必要性に迫られている。",
+          "link": "https://coinpost.jp/?p=661266",
+          "publishedOn": "2025-10-28T04:35:22.000Z",
+          "wordCount": 3280,
+          "title": "カナダ、ステーブルコインの枠組み構築を加速　米国政策に足並み",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/canada-coinbase.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/canada-coinbase.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=661274",
+          "author": "菊谷ルイス",
+          "description": "ベセント米財務長官は次期FRB議長候補を5人に絞り込んだ。仮想通貨に前向きなバウマン理事やウォーラー理事が含まれており、今秋後半にトランプ大統領に推薦を提出する予定だ。",
+          "link": "https://coinpost.jp/?p=661274",
+          "publishedOn": "2025-10-28T04:10:34.000Z",
+          "wordCount": 3265,
+          "title": "ベセント米財務長官選出、次期FRB議長候補に仮想通貨支持派も",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/fed-gov-payment-efficiency.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/fed-gov-payment-efficiency.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=661252",
           "author": "A.Yamada",
@@ -1326,6 +1411,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=510241",
+          "author": "HitomotoToshikazu",
+          "description": "BitMineのETH保有率2.8％に ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を […]",
+          "link": "https://www.neweconomy.jp/posts/510241",
+          "publishedOn": "2025-10-28T06:26:16.000Z",
+          "wordCount": 733,
+          "title": "ビットマイン、イーサリアム総保有数は約331万ETHに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/28152300/c7d58061814c079c440d36416a81c27a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=510236",
+          "author": "HitomotoToshikazu",
+          "description": "American BitcoinとStrategyがBTC購入 米大統領ドナルド・トランプ（Donald Trump）氏の長男と次男が関わるビットコイン（BTC）マイニング企業アメリカン・ビットコイン（American  […]",
+          "link": "https://www.neweconomy.jp/posts/510236",
+          "publishedOn": "2025-10-28T06:23:26.000Z",
+          "wordCount": 787,
+          "title": "トランプの息子関与のアメリカンビットコインとストラテジー、BTC追加購入",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/28152301/25650c7bf536f287f2d6387cab1cee63.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=510223",
+          "author": "gentosha_takahashi",
+          "description": "SEC新ガイダンスが上場を後押し 米国で暗号資産（仮想通貨）に連動する複数の上場投資信託（ETF）が、政府機関の部分閉鎖下にもかかわらず今週新規上場するようだ。 元米フォックス・ビジネス（FOX Business）の記者 […]",
+          "link": "https://www.neweconomy.jp/posts/510223",
+          "publishedOn": "2025-10-28T05:44:35.000Z",
+          "wordCount": 803,
+          "title": "米国でアルトコイン関連ETFが複数上場へ。カナリーがLTC・HBAR、ビットワイズがSOL",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/28144427/NYSE-ETF-251028TaiChesco.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=510218",
           "author": "OtsugaShinya",
