@@ -330,16 +330,6 @@
           "wordCount": 1337,
           "title": "JPモルガン、ビットコインとイーサを担保として受け入れへ：報道",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/shutterstock_1184027227.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=320720",
-          "author": "James Van Straten",
-          "description": "ブルームバーグによると、史上最大規模のAI（人工知能）インフラ資金調達を受けて、AIとHPC（高性能コンピューティング）関連のマイニング株が市場前取引で上昇して ...\nAIやHPC関連のマイナー株が市場前取引で上昇──オラクルのデータセンター向け資金調達の報道で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/320720/",
-          "publishedOn": "2025-10-24T10:40:00.000Z",
-          "wordCount": 1386,
-          "title": "AIやHPC関連のマイナー株が市場前取引で上昇──オラクルのデータセンター向け資金調達の報道で",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/01/f1bdcebb1d44752a3cf516316a50e307c904632b-1440x810-1.jpg"
         }
       ]
     },
@@ -354,6 +344,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=661543",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ETH保有企業シャープリンクが300億円相当のETHをライネア上で展開。ステーキングとリステーキングで収益を最大化する戦略。",
+          "link": "https://coinpost.jp/?p=661543",
+          "publishedOn": "2025-10-28T23:15:00.000Z",
+          "wordCount": 3286,
+          "title": "シャープリンク、300億円相当のイーサリアムをLinearに展開　ステーキングで収益化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/sharplink-staking.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/sharplink-staking.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=661537",
+          "author": "K.Kobayashi",
+          "description": "トランプ米大統領のSNSと呼ばれるTruth Socialの運営企業は、予測市場をローンチすることを発表。仮想通貨取引所Crypto.comと協業し、近くベータ版をローンチする。",
+          "link": "https://coinpost.jp/?p=661537",
+          "publishedOn": "2025-10-28T22:30:49.000Z",
+          "wordCount": 3308,
+          "title": "トランプ氏のSNS「Truth Social」、予測市場をローンチへ　クリプトドットコムと協業",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/Truth-Social-Prediction-Markets.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/Truth-Social-Prediction-Markets.png"
+        },
         {
           "id": "https://coinpost.jp/?p=661536",
           "author": "菊谷ルイス",
