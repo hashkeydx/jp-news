@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-28T11:25:24.809Z</updated>
+    <updated>2025-10-28T12:58:35.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ステーブルコイン決済インフラの実験完了」──万博を起点にHashPortが描くウォレット構想]]></title>
+        <id>https://www.coindeskjapan.com/?p=321241</id>
+        <link href="https://www.coindeskjapan.com/321241/"/>
+        <updated>2025-10-28T12:21:54.000Z</updated>
+        <summary type="html"><![CDATA[HashPort（ハッシュポート）は10月28日、大阪で「【大阪・関西万博 閉幕記念】アフター万博に大阪から生まれるFinTechの取り組み〜EXPO2025デ ...
+「ステーブルコイン決済インフラの実験完了」──万博を起点にHashPortが描くウォレット構想 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[楽天ウォレット、「オアシス（OAS）」取扱い廃止へ]]></title>
         <id>https://www.neweconomy.jp/?p=510514</id>
@@ -1445,27 +1456,6 @@ AIやHPC関連のマイナー株が市場前取引で上昇──オラクルの
         <summary type="html"><![CDATA[Glassnodeが仮想通貨ビットコイン市場の最新レポートを分析。需要枯渇や長期保有者の売却増加から、市場の不安定な局面が続く可能性を指摘している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領、CZ氏の恩赦について発言]]></title>
-        <id>https://coinpost.jp/?p=660451</id>
-        <link href="https://coinpost.jp/?p=660451"/>
-        <updated>2025-10-24T00:35:37.000Z</updated>
-        <summary type="html"><![CDATA[トランプ大統領はバイナンス創業者のCZ氏への恩赦について「彼がやったことは犯罪ですらなかった」とコメント。多くの善良な人々の要請を受けて恩赦を与えたと明かした。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[機関投資家、CMEの暗号資産オプション建玉を90億ドルに押し上げる──ETH・SOL・XRP先物で過去最高を更新]]></title>
-        <id>https://www.coindeskjapan.com/?p=320588</id>
-        <link href="https://www.coindeskjapan.com/320588/"/>
-        <updated>2025-10-23T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[機関投資家はCMEグループの規制された暗号資産デリバティブ市場に殺到しており、イーサリアム（ETH）、ソラナ（SOL）、およびエックス・アール・ピー（XRP）に ...
-機関投資家、CMEの暗号資産オプション建玉を90億ドルに押し上げる──ETH・SOL・XRP先物で過去最高を更新 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Helene Braun</name>
         </author>
     </entry>
 </feed>
