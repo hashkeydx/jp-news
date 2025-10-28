@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-28T13:40:46.141Z</updated>
+    <updated>2025-10-28T14:34:21.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【10/28話題】JPYCの発行額が3,700万円に、TISとアバラボが「マルチトークンプラットフォーム」提供など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=510329</id>
+        <link href="https://www.neweconomy.jp/posts/510329"/>
+        <updated>2025-10-28T13:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ステーブルコイン決済インフラの実験完了」──万博を起点にHashPortが描くウォレット構想]]></title>
         <id>https://www.coindeskjapan.com/?p=321241</id>
@@ -1405,47 +1415,6 @@ AIやHPC関連のマイナー株が市場前取引で上昇──オラクルの
         <summary type="html"><![CDATA[暗号資産（仮想通貨）ビットコインは11万ドル台で軟調推移。オプション建玉増加やETF流出が重荷も、需給整理進み反発期待の声。トランプ大統領によるバイナンス創設者CZ恩赦を受け、BNBは5%高、WLFIは15%急騰した。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルシとレッドストーン提携　予測市場データを110超のチェーンで展開]]></title>
-        <id>https://coinpost.jp/?p=660461</id>
-        <link href="https://coinpost.jp/?p=660461"/>
-        <updated>2025-10-24T02:30:38.000Z</updated>
-        <summary type="html"><![CDATA[DeFiレッドストーンとカルシが提携し、CFTC規制下の予測市場データを110以上のブロックチェーンで提供開始。オラクル技術により実世界イベントデータのオンチェーン化を実現、DeFi開発者に新たな構築基盤を提供。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[資産運用大手ティー・ロウ・プライスが仮想通貨ETF市場に参入へ　BTCなど複数銘柄へ投資]]></title>
-        <id>https://coinpost.jp/?p=660470</id>
-        <link href="https://coinpost.jp/?p=660470"/>
-        <updated>2025-10-24T02:05:02.000Z</updated>
-        <summary type="html"><![CDATA[資産運用大手ティー・ロウ・プライスは、仮想通貨ETFの申請書を米SECに提出。投資対象にはビットコインやイーサリアム、XRP、ソラナなど時価総額が高い銘柄が含まれる。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCマイニング株、ビットコイン価格と連動せずAI事業シフトで上昇＝JPモルガンレポート]]></title>
-        <id>https://coinpost.jp/?p=660459</id>
-        <link href="https://coinpost.jp/?p=660459"/>
-        <updated>2025-10-24T01:50:59.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンの最新レポートによると、上場ビットコインマイニング企業の株価は仮想通貨価格との相関関係が崩れ、AI事業への転換により独自の動きを見せている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金連動型トークンは“信じてくれ”トークンだ──バイナンス創業者が批判、時価総額39億ドルに増加]]></title>
-        <id>https://www.coindeskjapan.com/?p=320577</id>
-        <link href="https://www.coindeskjapan.com/320577/"/>
-        <updated>2025-10-24T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[金価格が史上最高値から後退し、1オンスあたり4100ドル前後で安定する中でも、金に価値が連動するトークンは暗号資産（仮想通貨）市場で人気を集めている。だが、誰も ...
-金連動型トークンは“信じてくれ”トークンだ──バイナンス創業者が批判、時価総額39億ドルに増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>
