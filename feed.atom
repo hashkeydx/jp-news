@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-10-29T10:35:27.500Z</updated>
+    <updated>2025-10-29T11:26:38.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【10/29話題】Secured FinanceのJPYCレンディング機能など、メタプラが最大750億円の自己株買いなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=510699</id>
+        <link href="https://www.neweconomy.jp/posts/510699"/>
+        <updated>2025-10-29T10:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DBSとゴールドマン・サックス、初の店頭取引による暗号資産オプション取引を実行]]></title>
         <id>https://www.coindeskjapan.com/?p=321508</id>
@@ -1698,16 +1708,6 @@ APACの主要証券取引所、暗号資産トレジャリー（DAT）戦略に�
 JPモルガン、ビットコインとイーサを担保として受け入れへ：報道 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン、コインベースのBaseトークン発行で最大5兆円の価値創出を予測]]></title>
-        <id>https://coinpost.jp/?p=660773</id>
-        <link href="https://coinpost.jp/?p=660773"/>
-        <updated>2025-10-24T22:55:59.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンがコインベースのBaseトークン発行により最大340億ドルの価値が創出される可能性があると分析した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
