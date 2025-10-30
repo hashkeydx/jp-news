@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=321616",
+          "author": "廣瀬 優香",
+          "description": "コインベース（Coinbase）は、30日の市場終了後に第3四半期決算を発表する予定で、ウォール街では収益予想を上回るとの見方が大勢を占めている。 FactSe ...\nアナリストらはコインベースの第3四半期好調を予想──だが、将来見通しでは意見割れる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/321616/",
+          "publishedOn": "2025-10-30T06:30:00.000Z",
+          "wordCount": 1386,
+          "title": "アナリストらはコインベースの第3四半期好調を予想──だが、将来見通しでは意見割れる",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/e7cba0b23a0129275c92f036e0de39926924a27c-1920x1080_1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=321592",
           "author": "廣瀬 優香",
           "description": "現実資産（RWA）専門企業であるオンド・ファイナンス（Ondo Finance）は、同社のトークン化証券プラットフォーム「オンド・グローバル・マーケッツ（Ond ...\nオンド・ファイナンス、トークン化された米国株をBNBチェーンへ──市場規模は倍増し7億ドルに first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -624,6 +634,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=662061",
+          "author": "A.Yamada",
+          "description": "イーサリアム系仮想通貨ウォレットで知られるコンセンシスがIPOを準備していると伝えられる。JPモルガンとゴールドマン・サックスをアドバイザーに起用した。",
+          "link": "https://coinpost.jp/?p=662061",
+          "publishedOn": "2025-10-30T06:15:22.000Z",
+          "wordCount": 3160,
+          "title": "メタマスク開発企業のコンセンシスがIPO検討か　JPモルガンらをアドバイザーに起用＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/IPO-sumbnail.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/IPO-sumbnail.png"
+        },
         {
           "id": "https://coinpost.jp/?p=662022",
           "author": "Enzo",
@@ -1681,6 +1706,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=511080",
+          "author": "NewEconomy",
+          "description": "RWA市場の機関投資家向けにオンチェーン化が加速 実物資産（RWA）のトークン化プラットフォーム提供のセキュリタイズ（Securitize）が、AAA格付けのローン担保証券（CLO）に特化したトークン化ファンド「セキュリ […]",
+          "link": "https://www.neweconomy.jp/posts/511080",
+          "publishedOn": "2025-10-30T06:14:04.000Z",
+          "wordCount": 782,
+          "title": "セキュリタイズ、AAAのローン担保証券をトークン化。BNYと共同で新ファンド立ち上げ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/30151400/d78c5203645eb30d914ef4d619ea907f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=511072",
+          "author": "NewEconomy",
+          "description": "最終テストネット「フーディ」が有効化 イーサリアム（Ethereum）の次期大型アップグレード「フサカ（Fusaka）」が、最終テストネット「フーディ（Hoodi）」上で有効化された。イーサリアム関連の開発企業コンセンシ […]",
+          "link": "https://www.neweconomy.jp/posts/511072",
+          "publishedOn": "2025-10-30T06:09:21.000Z",
+          "wordCount": 797,
+          "title": "イーサリアム次期アップグレード「Fusaka」最終テスト完了。メインネット実装は12/3予定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/30150918/007fa5113d2db0f3b87b88760131e351.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=511064",
+          "author": "NewEconomy",
+          "description": "ビザがステーブルコイン対応を強化へ 米決済大手ビザ（Visa）が4種類のステーブルコインを4つの異なるブロックチェーン上でサポートする計画を同社CEOのライアン・マキナニー（Ryan McInerney）氏が明らかにした […]",
+          "link": "https://www.neweconomy.jp/posts/511064",
+          "publishedOn": "2025-10-30T06:03:35.000Z",
+          "wordCount": 746,
+          "title": "VISA、4種類のステーブルコインを4つのブロックチェーンでサポートへ＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/30150332/VISA_251030-PIXTA.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=511050",
           "author": "HitomotoToshikazu",
