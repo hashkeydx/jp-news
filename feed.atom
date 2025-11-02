@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-02T22:29:11.080Z</updated>
+    <updated>2025-11-02T23:25:50.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは「インフレヘッジ」ではない：NYDIG]]></title>
+        <id>https://www.coindeskjapan.com/?p=321719</id>
+        <link href="https://www.coindeskjapan.com/321719/"/>
+        <updated>2025-11-02T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は長く「デジタル・ゴールド」と呼ばれ、金と同様にインフレヘッジとして語られてきた。しかし、デジタル資産企業NYDIG（ニューヨーク・デジタ ...
+ビットコインは「インフレヘッジ」ではない：NYDIG first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPYCの買い方・使い方まとめ｜何ができる？今後の活用法・注意点を徹底解説]]></title>
+        <id>https://coinpost.jp/?p=643693</id>
+        <link href="https://coinpost.jp/?p=643693"/>
+        <updated>2025-11-02T22:00:17.000Z</updated>
+        <summary type="html"><![CDATA[JPYCが資金移動業ライセンスを取得し、日本初の円建てステーブルコイン「JPYC EX」を発行へ。特徴や将来性を徹底解説。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本初ステーブルコイン「JPYC」、発行額が1億円突破、リリース後6日で]]></title>
         <id>https://www.neweconomy.jp/?p=511975</id>
@@ -1348,16 +1369,6 @@ USDコイン、オンチェーン活動でテザーを抜く──規制が変�
         <summary type="html"><![CDATA[21shares Pendle ETPがSIX上場 スイスの資産運用会社21シェアーズ（21Shares）による「21shares Pendle ETP」が、同国の証券取引所「SIXスイス証券取引所（SIX Swiss  […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/29話題】Secured FinanceのJPYCレンディング機能など、メタプラが最大750億円の自己株買いなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=510699</id>
-        <link href="https://www.neweconomy.jp/posts/510699"/>
-        <updated>2025-10-29T10:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
