@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-04T10:37:20.462Z</updated>
+    <updated>2025-11-04T11:27:22.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス創業者CZ、暗号資産「ASTER」購入を公表。継続保有を示唆]]></title>
+        <id>https://www.neweconomy.jp/?p=512683</id>
+        <link href="https://www.neweconomy.jp/posts/512683"/>
+        <updated>2025-11-04T11:19:58.000Z</updated>
+        <summary type="html"><![CDATA[CZが自己資金でASTERを購入 暗号資産（仮想通貨）取引所バイナンス（Binance）の創業者であるチャンポン・ジャオ（Changpeng Zhao、通称CZ）氏が、分散型取引所（DEX）「アスター（Aster）」が発 […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOCKON、独自トークン「LOCK」のTGE実施へ]]></title>
+        <id>https://www.neweconomy.jp/?p=512674</id>
+        <link href="https://www.neweconomy.jp/posts/512674"/>
+        <updated>2025-11-04T11:09:46.000Z</updated>
+        <summary type="html"><![CDATA[LOCKONが独自トークン「LOCK」のTGE実施へ DeFi（分散型金融）プロジェクト「ロックオン（LOCKON）」が、独自のユーティリティトークン「LOCK」のTGE（Token Generation Event：ト […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは10万3500ドル付近まで下落、6月以来の安値に迫る]]></title>
         <id>https://www.coindeskjapan.com/?p=322480</id>
@@ -1415,16 +1435,6 @@ ALTERNA（オルタナ）、初のオフィスビル案件を募集開始──�
         <summary type="html"><![CDATA[BNB ChainでOndo Global Markets利用可能に 100以上のトークン化米国株式・ETF（上場投資信託）を売買できるトークン化証券プラットフォーム「オンド・グローバル・マーケッツ（Ondo Globa […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米投資銀行バーンスタイン、イーサリアム保有企業シャープリンクの目標株価を大幅引き上げ]]></title>
-        <id>https://coinpost.jp/?p=662332</id>
-        <link href="https://coinpost.jp/?p=662332"/>
-        <updated>2025-10-30T23:15:28.000Z</updated>
-        <summary type="html"><![CDATA[バーンスタインがイーサリアム保有企業シャープリンクのカバレッジを開始し、2026年末の目標株価24ドルを設定した。現在の株価から約75%の上昇余地があると評価。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
