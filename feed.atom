@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-04T13:03:10.629Z</updated>
+    <updated>2025-11-04T13:44:08.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【11/4話題】OKJにMEME国内初上場へ、イーサリアム新助成モデル、バランサー不正流出、ストラテジーとリミポがBTC追加取得など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=512695</id>
+        <link href="https://www.neweconomy.jp/posts/512695"/>
+        <updated>2025-11-04T13:07:11.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKJがミームコイン（MEME）の取り扱いを11月11日から開始]]></title>
         <id>https://www.coindeskjapan.com/?p=322494</id>
@@ -1376,36 +1386,6 @@ ALTERNA（オルタナ）、初のオフィスビル案件を募集開始──�
         <summary type="html"><![CDATA[イーサリアム開発者が12月3日に「フサか」アップグレードを実施。PeerDAS技術の導入によりバリデーターの効率が向上し、ブロックガスリミットが5倍に拡大。レイヤー2ネットワークの高速化と低コスト化を実現する2025年2回目の大型アップグレード。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスターカードCEO「AIエージェントとステーブルコインが新成長軸」、決算報告]]></title>
-        <id>https://coinpost.jp/?p=662345</id>
-        <link href="https://coinpost.jp/?p=662345"/>
-        <updated>2025-10-31T01:30:35.000Z</updated>
-        <summary type="html"><![CDATA[マスターカードが2025年7～9月期決算を発表した。ミーバッハCEOはAIエージェント型コマースとステーブルコインを新成長戦略と位置付け、関連サービスについて説明した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサL2「Base」、30日間でガスリミット倍増を計画]]></title>
-        <id>https://www.neweconomy.jp/?p=511402</id>
-        <link href="https://www.neweconomy.jp/posts/511402"/>
-        <updated>2025-10-31T01:29:01.000Z</updated>
-        <summary type="html"><![CDATA[BaseがスケーリングでガスリミットをQ4に倍増予定 大手暗号資産（仮想通貨）取引所コインベース（Coinbase）が提供するイーサリアム（Ethereum）レイヤー2ネットワーク「ベース（Base）」が、2025年第4 […]]]></summary>
-        <author>
-            <name>TamuraSeiji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ソラナの投資妙味、Bitwiseの最高投資責任者が解説]]></title>
-        <id>https://coinpost.jp/?p=662347</id>
-        <link href="https://coinpost.jp/?p=662347"/>
-        <updated>2025-10-31T01:10:08.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨運用企業Bitwiseの最高投資責任者は、ソラナの成長可能性を考察したメモを公開。ビットコインと比較しながら、成長の相乗効果が働く可能性があるという投資妙味を解説している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
