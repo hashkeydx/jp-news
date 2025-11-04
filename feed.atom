@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-04T06:44:41.764Z</updated>
+    <updated>2025-11-04T07:29:13.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガーデンファイナンス、約11Mドル超のハッキング被害、10％ホワイトハット提示も]]></title>
+        <id>https://www.neweconomy.jp/?p=512381</id>
+        <link href="https://www.neweconomy.jp/posts/512381"/>
+        <updated>2025-11-04T07:27:50.000Z</updated>
+        <summary type="html"><![CDATA[GardenFinanceがハッキング被害 DeFi（分散型金融）プラットフォームの「ガーデンファイナンス（GardenFinance）」がハッキング被害を受けたことが10月31日に公式Xから発表された。 当初被害額は5 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEXバランサーが約120Mドルの流出被害。V2プールの脆弱性を悪用か]]></title>
+        <id>https://www.neweconomy.jp/?p=512369</id>
+        <link href="https://www.neweconomy.jp/posts/512369"/>
+        <updated>2025-11-04T07:10:29.000Z</updated>
+        <summary type="html"><![CDATA[バランサーV2で不正資金流出が発生 分散型取引所（DEX）「バランサー（Balancer）」が外部からの攻撃を受け、約1億2,000万ドル（約180億円）相当の暗号資産（仮想通貨）が流出した。オンチェーンセキュリティ企業 […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム財団が新助成モデルに転換、的を絞った戦略的支援へ]]></title>
         <id>https://www.neweconomy.jp/?p=512363</id>
