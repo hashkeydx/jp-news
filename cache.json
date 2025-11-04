@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=322506",
+          "author": "Helene Braun",
+          "description": "XRPレジャーに密接に関連するブロックチェーン決済企業リップルが手がける米ドル連動型ステーブルコインRLUSDは、2024年12月の立ち上げから1年も経たないう ...\nリップルのステーブルコイン、時価総額10億ドルの大台到達──成長加速に向けたM&A戦略について社長が語る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/322506/",
+          "publishedOn": "2025-11-04T23:00:00.000Z",
+          "wordCount": 1386,
+          "title": "リップルのステーブルコイン、時価総額10億ドルの大台到達──成長加速に向けたM&A戦略について社長が語る",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/52e718bbdab16a0cf6ba3d68b69b59aa472f7bd6-1920x1080-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=322500",
           "author": "Krisztian Sandor",
           "description": "ビットコイン（BTC）は11月4日、コインベース（Coinbase）、ジェミナイ（Gemini）、クラーケン（Kraken）など、少なくともいくつかの主要な取引 ...\nビットコイン、6月以来初の10万ドル割れ──暗号資産の調整局面悪化 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -410,16 +420,6 @@
           "wordCount": 1351,
           "title": "ビットコインマイナーのライオット株、市場前取引で急騰──過去最高売上高と予想外の黒字",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/c77e34d08de8f1e448919dfaa84ec416fa87f7d5-1080x1080-2.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=321997",
-          "author": "Sam Reynolds",
-          "description": "サム・バンクマン-フリード（Sam Bankman-Fried）氏は再び無実を主張している。 破綻した暗号資産（仮想通貨）取引所FTXの元CEOは今週、Xに長文 ...\nサム・バンクマン-フリード氏、「FTXは破綻していなかった」と主張する長文を投稿 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/321997/",
-          "publishedOn": "2025-10-31T11:00:00.000Z",
-          "wordCount": 1441,
-          "title": "サム・バンクマン-フリード氏、「FTXは破綻していなかった」と主張する長文を投稿",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/10/77ad15a0485578d33f9b49c3cab8f6b8e72ec45d-1920x1080-1.jpeg"
         }
       ]
     },
@@ -434,6 +434,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=663540",
+          "author": "菊谷ルイス",
+          "description": "クリプトクアントの責任者はビットコインが10万ドルの水準を維持できなければ今後1~2カ月で72000ドルまで下落する可能性があると警告。10月の清算イベント後、現物需要が縮小していると分析している。",
+          "link": "https://coinpost.jp/?p=663540",
+          "publishedOn": "2025-11-04T23:02:48.000Z",
+          "wordCount": 3145,
+          "title": "ビットコイン価格、10万ドル維持できなければ72000ドルまで下落の可能性＝クリプトクアント分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/bitcoin-2025-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663528",
+          "author": "K.Kobayashi",
+          "description": "トム・リー氏が率いるビットマインは、過去1週間で400億円相当の仮想通貨イーサリアムを買い増ししたことを発表。現金についても1週間で約598億円に増加したと説明した。",
+          "link": "https://coinpost.jp/?p=663528",
+          "publishedOn": "2025-11-04T22:15:33.000Z",
+          "wordCount": 3150,
+          "title": "トム・リー率いるビットマイン、1週間で400億円相当のイーサリアムを買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/BitMine_Dark_Background___Logo-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/BitMine_Dark_Background___Logo-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663526",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ソラナを財務資産とするフォワード・インダストリーズが10億ドル規模の自社株買いプログラムを承認した。2027年9月まで有効で、同社のSOL戦略への確信を示すものとしている。",
+          "link": "https://coinpost.jp/?p=663526",
+          "publishedOn": "2025-11-04T21:45:08.000Z",
+          "wordCount": 3138,
+          "title": "ソラナ保有企業フォワード・インダストリーズ、10億ドルの自社株買いプログラム承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/G460MDwXAAErhE_-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/G460MDwXAAErhE_-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663517",
+          "author": "菊谷ルイス",
+          "description": "株価大幅安米ナスダック上場のIoT半導体メーカーのセカンス・コミュニケーションズは4日、保有ビットコインから970BTCを売却し転換社債の50%を償還したと発表した。7月7日に発行した転換社債の削減を目的とした戦略的資産再配分と位置づけてい...",
+          "link": "https://coinpost.jp/?p=663517",
+          "publishedOn": "2025-11-04T20:55:36.000Z",
+          "wordCount": 3137,
+          "title": "米上場セカンス、保有ビットコインから970BTC売却で債務削減",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=663512",
+          "author": "菊谷ルイス",
+          "description": "ビットコインが11月5日に6カ月ぶりに10万ドルを下回り、一時99,954ドルまで下落した。過去24時間で16億ドル超相当のポジションが清算され、イーサリアムも年初来上昇分を帳消しにした。",
+          "link": "https://coinpost.jp/?p=663512",
+          "publishedOn": "2025-11-04T20:35:54.000Z",
+          "wordCount": 3133,
+          "title": "ビットコインが10万ドル割れ、2500億円以上のロスカット発生　6カ月ぶりの安値",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/pipe-dat-sotck-price-down.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/pipe-dat-sotck-price-down.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=663338",
           "author": "Ritsuki.Kumazawa",
@@ -1140,16 +1215,6 @@
           "wordCount": 799,
           "title": "【10/31話題】金融庁が暗号資産ETF原資産デリバティブ取引に否定的な見解、バイビットが日本での新規ユーザー登録停止などなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/31192817/f43211e5c62eaac8d67a5760077d952e.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=511625",
-          "author": "OtsugaShinya",
-          "description": "モブキャストHDがソラナ追加取得 東証グロース上場のモブキャストホールディングスが、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を10月31日に発表した。 今回同社は、10月29日、30日、31日にSOLを取得。これに […]",
-          "link": "https://www.neweconomy.jp/posts/511625",
-          "publishedOn": "2025-10-31T10:47:22.000Z",
-          "wordCount": 747,
-          "title": "モブキャストHD、ソラナ追加取得で総保有数は約5,177SOLに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/10/31194711/0d54617fded2a1a57bb3856c21f52382.jpg"
         }
       ]
     }
