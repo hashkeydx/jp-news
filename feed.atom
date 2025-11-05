@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-05T10:35:55.692Z</updated>
+    <updated>2025-11-05T11:26:49.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【11/5話題】メタプラがビットコイン担保で1億ドル借入、SBFの控訴主張に懐疑的、RLUSDが時価総額10億ドル規模になど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=512838</id>
+        <link href="https://www.neweconomy.jp/posts/512838"/>
+        <updated>2025-11-05T10:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UBSとチェーンリンク、100兆ドル規模の市場で初のオンチェーン・トークン化ファンド償還を実行]]></title>
         <id>https://www.coindeskjapan.com/?p=322730</id>
@@ -1283,27 +1293,6 @@ DeFiの荒野に恐る恐る第一歩──「Hashport Wallet」ファースト�
 コインベース株、「買い」へ2段階格上げ、目標株価は425ドル：H.C. ウェインライト first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Will Canny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザーの利益、年初来9カ月で約1兆5400億円を突破──自社株買いプログラムを開始]]></title>
-        <id>https://www.coindeskjapan.com/?p=322034</id>
-        <link href="https://www.coindeskjapan.com/322034/"/>
-        <updated>2025-10-31T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[世界最大のステーブルコインUSDTを発行するテザー社は10月31日、その主力トークンの時価総額が2025年第3四半期に1740億ドル（約27兆円、1ドル＝154 ...
-テザーの利益、年初来9カ月で約1兆5400億円を突破──自社株買いプログラムを開始 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、サトシ・ナカモト執筆のホワイトペーパー公開から17周年に]]></title>
-        <id>https://coinpost.jp/?p=662718</id>
-        <link href="https://coinpost.jp/?p=662718"/>
-        <updated>2025-10-31T22:40:30.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは10月31日、ホワイトペーパー公開から17周年を迎えた。SNSでは祝福の声が投稿されており、コインベースのCEOは、1つのPDFが世界を変えたとコメントしている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
