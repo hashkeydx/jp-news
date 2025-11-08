@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-08T05:29:54.756Z</updated>
+    <updated>2025-11-08T06:38:12.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JPモルガンのビットコインETF保有量、3ヶ月間で64%増]]></title>
+        <id>https://coinpost.jp/?p=664609</id>
+        <link href="https://coinpost.jp/?p=664609"/>
+        <updated>2025-11-08T04:55:20.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンが第3四半期にブラックロックのビットコインETFを207万株追加し、保有総数は528万株となった。6月から64%増加。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムのバリデータ参加待ちが増加　将来性への信頼高まり示すか]]></title>
+        <id>https://coinpost.jp/?p=664576</id>
+        <link href="https://coinpost.jp/?p=664576"/>
+        <updated>2025-11-08T04:30:35.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのバリデータ参加待ちが増加している。The Blockが長期視点の投資家増加が示唆されると指摘した。ステーブルコインのインフラとしての期待も高まっている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ビットコインは重要なサポートレベル付近で推移」CryptoQuantレポート]]></title>
         <id>https://coinpost.jp/?p=664554</id>
@@ -2120,17 +2140,6 @@ gumi、予測市場サービスの事業化検討──日本版「ポリマー�
         <updated>2025-11-03T21:00:00.000Z</updated>
         <summary type="html"><![CDATA[JPモルガン（JPMorgan）は3日のレポートで、ビットコインネットワークのハッシュレートが10月に過去最高を記録したと指摘した。 このレポートによると、月間 ...
 ビットコインネットワークのハッシュレート、10月に過去最高を記録：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産急落でビットコインは10万6000ドルを下回る──10月暴落時の安値に再び接近]]></title>
-        <id>https://www.coindeskjapan.com/?p=322298</id>
-        <link href="https://www.coindeskjapan.com/322298/"/>
-        <updated>2025-11-03T17:40:47.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）市場は3日に再び急落し、10月10日の暴落からの反発はほぼ消失した。 ビットコイン（BTC）は一晩で11万ドル台から下落して10万8000ド ...
-暗号資産急落でビットコインは10万6000ドルを下回る──10月暴落時の安値に再び接近 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
         </author>
