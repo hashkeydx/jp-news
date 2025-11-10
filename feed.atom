@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-10T02:19:07.556Z</updated>
+    <updated>2025-11-10T03:56:06.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン「deUSD」がサービス終了、Stream Financeの損失問題を受け全額償還へ]]></title>
+        <id>https://www.neweconomy.jp/?p=514182</id>
+        <link href="https://www.neweconomy.jp/posts/514182"/>
+        <updated>2025-11-10T03:47:17.000Z</updated>
+        <summary type="html"><![CDATA[Elixirが「deUSD」のサービス終了を決定 分散型流動性プロトコル「エリクサー（Elixir）」提供の合成ドルステーブルコイン「deUSD」のサービス終了が11月6日に発表された。この決定は、DeFi（分散型金融） […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン105,500ドルに反発、トランプ給付金案と政府機能回復への期待高まる]]></title>
+        <id>https://coinpost.jp/?p=664775</id>
+        <link href="https://coinpost.jp/?p=664775"/>
+        <updated>2025-11-10T03:28:39.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨市場ではビットコインやアルトコイン相場が反発し105,500ドルに。米国で2,000ドルの特別給付案が浮上し、2020年の景気刺激策時のような流動性流入への期待が高まる。政府閉鎖の終息見通しと90億ドルの取引所資金流入も追い風。]]></summary>
+        <author>
+            <name>S.Ninomiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チェーンリンクとウィズダムツリー、トークン化プライベートクレジットファンドのNAVデータをオンチェーン化]]></title>
+        <id>https://www.neweconomy.jp/?p=514165</id>
+        <link href="https://www.neweconomy.jp/posts/514165"/>
+        <updated>2025-11-10T03:22:47.000Z</updated>
+        <summary type="html"><![CDATA[ChainlinkとWisdomTreeが連携 分散型オラクルネットワーク提供のチェーンリンク（Chainlink）が、米資産管理会社ウィズダムツリー（WisdomTree）と連携し、トークン化プライベート・クレジット・ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウィンクルボス兄弟のジェミナイ、予測市場取引を提供か＝報道]]></title>
+        <id>https://www.neweconomy.jp/?p=514152</id>
+        <link href="https://www.neweconomy.jp/posts/514152"/>
+        <updated>2025-11-10T03:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Gemini Space Stationが予測市場取引を提供か ウィンクルボス（Winklevoss）兄弟創設のジェミナイ・スペース・ステーション（Gemini Space Station）が、予測市場取引の提供を準備し […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RWAトークン市場で金（ゴールド）担保型が躍進、機関投資家の関心集まる]]></title>
+        <id>https://coinpost.jp/?p=664802</id>
+        <link href="https://coinpost.jp/?p=664802"/>
+        <updated>2025-11-10T03:09:27.000Z</updated>
+        <summary type="html"><![CDATA[ゴールド価格の上昇を背景に、金担保トークンXAUTの時価総額が30日で39%増の成長を示している。10月にはXAUT専門のトレジャリー企業オーレリオン社が誕生した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ウォレットのLedger、米国でIPOまたは資金調達を検討＝報道]]></title>
+        <id>https://coinpost.jp/?p=664776</id>
+        <link href="https://coinpost.jp/?p=664776"/>
+        <updated>2025-11-10T02:48:44.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインなど仮想通貨のハードウェアウォレット大手Ledgerが米国でのIPOまたは資金調達を検討。仮想通貨盗難が増加する中、2025年の売上は過去最高を記録している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領、国民1人あたり「少なくとも」2000ドルの関税配当発表──暗号資産価格が上昇]]></title>
         <id>https://www.coindeskjapan.com/?p=323347</id>
@@ -1338,17 +1398,6 @@ JPモルガンの顧客、ビットコイン現物ETFの保有量が前四半期
         <summary type="html"><![CDATA[リップルはフォートレス・インベストメント・グループとシタデル・セキュリティーズ主導で5億ドルの戦略的投資を実施した。評価額は400億ドルで、決済サービスの総取引量は950億ドルを超えている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[調整を引き起こしたビットコインパターンが出現──2023年後半以降で3回目]]></title>
-        <id>https://www.coindeskjapan.com/?p=322751</id>
-        <link href="https://www.coindeskjapan.com/322751/"/>
-        <updated>2025-11-05T15:17:32.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は4日に6月以来初めて一時10万ドル（約1500万円、1ドル150円換算）を下回り、9万8951ドル付近で安値を付けた。この下落により、ビ ...
-調整を引き起こしたビットコインパターンが出現──2023年後半以降で3回目 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
