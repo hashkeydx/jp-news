@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=323489",
+          "author": "Krisztian Sandor",
+          "description": "ウォール街のストラテジスト、トーマス・リー（Thomas Lee）氏が率いるイーサリアム特化型デジタル資産トレジャリー（DAT）企業であるビットマイン・イマージ ...\nビットマイン、先週の価格下落時に11万ETH買い増し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/323489/",
+          "publishedOn": "2025-11-10T21:00:00.000Z",
+          "wordCount": 1318,
+          "title": "ビットマイン、先週の価格下落時に11万ETH買い増し",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/13c2f3d8f4a14835d564bac5cf5d5cdd106bdcfd-1919x1080-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=323481",
           "author": "林 理南",
           "description": "Veloのデータによれば、過去1カ月間の月曜日は平均してマイナスのリターンとなっている。しかし今週の月曜日はプラスでスタートした。ビットコイン（BTC）は上昇し ...\n暗号資産関連株はプレマーケット取引で上昇──ただし、ビットコインでCMEの窓が発生 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -454,6 +464,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=665089",
+          "author": "菊谷ルイス",
+          "description": "堀田丸正の筆頭株主Bakkt（バックト）が第3四半期に売上高4億220万ドル、調整後EBITDA2,870万ドルを達成し黒字転換した。ロイヤルティ事業を売却し、機関投資家向け仮想通貨インフラ企業やAIサービスへの転換を進めている。",
+          "link": "https://coinpost.jp/?p=665089",
+          "publishedOn": "2025-11-10T21:15:46.000Z",
+          "wordCount": 3138,
+          "title": "Bakkt決算、黒字転換で売上高27%増　事業再編が完了段階に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bakkt-earning-cal.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bakkt-earning-cal.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=665084",
+          "author": "菊谷ルイス",
+          "description": "米財務省とIRSが仮想通貨ETPによるステーキングと報酬分配を承認する新ガイダンスを発表した。イーサリアムやソラナ、ADAなど主要資産が対象で規制された枠組み内で投資家に報酬を提供できるようになる。",
+          "link": "https://coinpost.jp/?p=665084",
+          "publishedOn": "2025-11-10T20:55:12.000Z",
+          "wordCount": 3121,
+          "title": "米財務省、仮想通貨ETFのステーキング報酬分配を正式承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/FT-index-etf.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/FT-index-etf.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=665079",
+          "author": "菊谷ルイス",
+          "description": "ビットマインが仮想通貨イーサリアム保有量350万ETHに達し、供給量の2.9%を保有。",
+          "link": "https://coinpost.jp/?p=665079",
+          "publishedOn": "2025-11-10T20:33:38.000Z",
+          "wordCount": 3130,
+          "title": "トム・リー率いるビットマイン、イーサリアム保有量が総供給量の2.9%に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/eth-fusaka-new-gas-limit.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/eth-fusaka-new-gas-limit.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=664343",
           "author": "CoinPost編集部",
