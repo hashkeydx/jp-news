@@ -525,6 +525,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=665552",
+          "author": "Enzo",
+          "description": "ナスダック上場のターボ・エナジーがタウラス、ステラと提携し、スペインでクリーンエネルギー融資のトークン化実証実験を開始。ブロックチェーン活用で744億ドル規模のEaaS市場参入を目指す。",
+          "link": "https://coinpost.jp/?p=665552",
+          "publishedOn": "2025-11-12T04:00:02.000Z",
+          "wordCount": 3133,
+          "title": "米上場ターボ・エナジー、ステラ・タウラスと提携　スペインで再エネ融資をトークン化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/01/bcenergy.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/01/bcenergy.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=665548",
           "author": "A.Yamada",
           "description": "JPモルガンとDBS銀行がトークン化預金の相互運用性フレームワーク開発に取り組んでいると発表した。KinexysとDBSトークンサービス間でリアルタイム決済の実現を目指す。",
@@ -1416,6 +1431,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=515177",
+          "author": "NewEconomy",
+          "description": "MEGAのセール一部参加者のトークン配分権利が取り消し 10月末に実施されたイーサリアム（Ethereum）レイヤー2ネットワーク「メガイーサ（MegaETH）」の独自トークン「MEGA」のトークンセールの参加者が、トー […]",
+          "link": "https://www.neweconomy.jp/posts/515177",
+          "publishedOn": "2025-11-12T04:32:50.000Z",
+          "wordCount": 821,
+          "title": "メガイーサの「MEGA」トークンセール参加者一部で配分取消し発生。売却示唆が規約違反か",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/12133247/6152a002cbc533112abe2b9aeb7bc17d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=515169",
+          "author": "gentosha_takahashi",
+          "description": "米連邦政府閉鎖が今週にも終了か 史上最長となった米連邦政府の閉鎖が、終わりに向かう兆しを見せている。 この動きは、米上院が11月10日に「2026会計年度の継続的歳出および延長法案（Continuing Appropri […]",
+          "link": "https://www.neweconomy.jp/posts/515169",
+          "publishedOn": "2025-11-12T04:25:46.000Z",
+          "wordCount": 609,
+          "title": "上院がつなぎ予算案可決で米政府閉鎖終結へ。暗号資産政策も再始動の兆し",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/12132539/9a54a32fb8c4221f42db077f0f6de812.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=515155",
+          "author": "OtsugaShinya",
+          "description": "LINE BITMAXにDOT上場 LINEの暗号資産（仮想通貨）取引サービス「ラインビットマックス（LINE BITMAX）」にて暗号資産ポルカドット（DOT）の取り扱いが開始した。同サービス運営のラインジェネシス（L […]",
+          "link": "https://www.neweconomy.jp/posts/515155",
+          "publishedOn": "2025-11-12T03:51:40.000Z",
+          "wordCount": 759,
+          "title": "LINE BITMAXに「ポルカドット（DOT）」上場",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/12125136/b3ad51a7aa29598d78995d83a582b1c2.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=515144",
           "author": "OtsugaShinya",
