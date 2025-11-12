@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=323728",
+          "author": "廣瀬 優香",
+          "description": "ジョセフ・チャロム（Joseph Chalom）氏にとって、イーサリアム（Ethereum）は単なるブロックチェーンではない。ウォール街が最終的に利用することに ...\nイーサリアムはウォール街の「インフラ」になる：ブラックロック元幹部 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/323728/",
+          "publishedOn": "2025-11-12T02:30:00.000Z",
+          "wordCount": 1337,
+          "title": "イーサリアムはウォール街の「インフラ」になる：ブラックロック元幹部",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/462aa44fc614504ef506e076687060227de07a47.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=323730",
           "author": "CoinDesk JAPAN",
           "description": "N.Avenueは11月12日、日鉄ソリューションズと日本におけるデジタル資産市場の健全な発展と国際競争力強化を目的に、「暗号資産インデックス協議会」を共同で設 ...\n暗号資産インデックス協議会、発足──N.Avenueと日鉄ソリューションズが共同開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -514,6 +524,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=665548",
+          "author": "A.Yamada",
+          "description": "JPモルガンとDBS銀行がトークン化預金の相互運用性フレームワーク開発に取り組んでいると発表した。KinexysとDBSトークンサービス間でリアルタイム決済の実現を目指す。",
+          "link": "https://coinpost.jp/?p=665548",
+          "publishedOn": "2025-11-12T03:45:20.000Z",
+          "wordCount": 3140,
+          "title": "JPモルガンとDBS、トークン化預金の相互運用で取り組み",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/jpmorgan_0423.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/jpmorgan_0423.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=665490",
+          "author": "Ritsuki.Kumazawa",
+          "description": "エネルギー軸でビットコインとAIを融合BitcoinJapan株式会社（旧堀田丸正）は11日、臨時株主総会で商号変更を完了し、ビットコイン財務戦略の詳細を発表した。関連：堀田丸正、「BitcoinJapan株式会社」への商号変更と新経営陣を...",
+          "link": "https://coinpost.jp/?p=665490",
+          "publishedOn": "2025-11-12T03:37:49.000Z",
+          "wordCount": 3159,
+          "title": "Bitcoin JapanのCEO、ビットコイン準備金基盤のAIインフラ投資計画など明かす",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bitcoin_japan1112thumbnail.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bitcoin_japan1112thumbnail.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=665543",
+          "author": "菊谷ルイス",
+          "description": "日本のソフトバンクグループが保有のエヌビディア株を全売却し、オープンAIへの最大400億ドル投資に充てる。ビジョンファンドは234億ドルの投資利益を計上し、純利益は前年比2倍以上となった。",
+          "link": "https://coinpost.jp/?p=665543",
+          "publishedOn": "2025-11-12T02:40:11.000Z",
+          "wordCount": 3131,
+          "title": "ソフトバンクG、エヌビディア株を9000億円で全売却、オープンAI投資へシフト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/nvidia-omniverse-free-1-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/nvidia-omniverse-free-1-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=665530",
+          "author": "菊谷ルイス",
+          "description": "カナリー・キャピタルがXRP現物ETFのナスダック上場に向けた8-Aフォームを提出した。専門家は明日か木曜日のローンチを示唆しており、米国で2つ目のXRP追跡ETFとなる見込みだ。",
+          "link": "https://coinpost.jp/?p=665530",
+          "publishedOn": "2025-11-12T02:15:50.000Z",
+          "wordCount": 3144,
+          "title": "XRP現物ETF、今週中に米国で上場見込みか　最終書類提出＝専門家",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/xrp-etf-etf-etf-win-win-win.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/xrp-etf-etf-etf-win-win-win.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=665483",
           "author": "A.Yamada",
@@ -1346,6 +1416,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=515144",
+          "author": "OtsugaShinya",
+          "description": "スーパーアプリ「Startale App」提供へ スターテイルグループ（Startale Group）が、同社およびイーサリアム（Ethereum）レイヤー2ブロックチェーン「ソニューム（Soneium）」エコシステムの […]",
+          "link": "https://www.neweconomy.jp/posts/515144",
+          "publishedOn": "2025-11-12T03:31:11.000Z",
+          "wordCount": 761,
+          "title": "スターテイル、スーパーアプリ「Startale App」提供へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/12123106/64d95f30a846c2fc182b8746dfc77e9d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=515127",
+          "author": "OtsugaShinya",
+          "description": "モブキャストとOKJが提携 東証グロース上場のモブキャストホールディングスと国内暗号資産（仮想通貨）取引所OKJ運営のオーケーコイン・ジャパンが、ソラナ（Solana）の運用を軸としたトレジャリー事業領域における戦略的パ […]",
+          "link": "https://www.neweconomy.jp/posts/515127",
+          "publishedOn": "2025-11-12T03:00:29.000Z",
+          "wordCount": 745,
+          "title": "モブキャストがOKJと提携、ソラナ（SOL）トレジャリー事業強化で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/12120027/850d22ecd77463efd0338d17fbfbdcc5.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=515080",
           "author": "NewEconomyPodcast",
