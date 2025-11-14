@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-14T20:32:25.910Z</updated>
+    <updated>2025-11-14T21:28:13.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、8%急落──ETFから約2160億円流出し、長期保有者も売却]]></title>
+        <id>https://www.coindeskjapan.com/?p=324247</id>
+        <link href="https://www.coindeskjapan.com/324247/"/>
+        <updated>2025-11-14T21:26:08.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（ETH）は、11月13日から14日にかけて10％以上急落した。ビットコイン（BTC）が10万ドルを割り込むなど、暗号資産市場全体の下落も加速した。 ...
+イーサリアム、8%急落──ETFから約2160億円流出し、長期保有者も売却 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Krisztian Sandor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【11/14話題】TISとJPYCがステーブルコイン決済支援で協業、グレースケールがIPO申請、XRP現物ETF「XRPC」が米ナスダックに上場など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=516243</id>
@@ -2192,37 +2203,6 @@ IREN株、マイクロソフトとのAI契約で2028年までに約500％急騰�
         <summary type="html"><![CDATA[USDCをSBI VCトレードで買う手順を画像つきで解説。販売所スプレッド約0.35%、売買・出庫手数料無料、ETH出庫・海外送金・DeFi運用まで完全ガイド。国内唯一のUSDC取扱い最新情報【2025年】。]]></summary>
         <author>
             <name>AKIRA.H</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコインの正式認可を背景に、通貨の新時代をテーマとした金融カンファレンス「MoneyX（マネーエックス）」開催決定]]></title>
-        <id>https://coinpost.jp/?p=664343</id>
-        <link href="https://coinpost.jp/?p=664343"/>
-        <updated>2025-11-10T09:00:33.000Z</updated>
-        <summary type="html"><![CDATA[MoneyX 2026年2月27日開催、日本円建ステーブルコインの社会実装を議論する次世代金融カンファレンスが発表された。WebX実行委員会主催、JPYC・Progmat・SBI・CoinPost企画運営。参加無料、オフライン限定。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領の「関税配当」、パンデミック期の景気刺激策と同様にリスクオンムードを高める]]></title>
-        <id>https://www.coindeskjapan.com/?p=323444</id>
-        <link href="https://www.coindeskjapan.com/323444/"/>
-        <updated>2025-11-10T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）と主要な暗号資産（仮想通貨）は11月10日、ドナルド・トランプ（Donald Trump）大統領が提案した、輸入関税を財源とする全国民に2 ...
-トランプ大統領の「関税配当」、パンデミック期の景気刺激策と同様にリスクオンムードを高める first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタマスクのガス代とは？初心者向けに仕組みと節約方法をわかりやすく解説]]></title>
-        <id>https://coinpost.jp/?p=664373</id>
-        <link href="https://coinpost.jp/?p=664373"/>
-        <updated>2025-11-10T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[メタマスクで暗号資産を送金する際に必要な「ガス代」を初心者向けに解説。イーサリアム、Polygon、Solanaなど各ネットワークで必要なトークンの違いや、リアルタイム確認方法、手数料を節約するコツまで図解付きでわかりやすく紹介します。]]></summary>
-        <author>
-            <name>hiroto.yoshii</name>
         </author>
     </entry>
 </feed>
