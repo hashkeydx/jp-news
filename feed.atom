@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-17T11:27:25.683Z</updated>
+    <updated>2025-11-17T13:00:31.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産の金商法移行が本格化、分離課税実現へ最終局面＝ブロックチェーン議連]]></title>
+        <id>https://coinpost.jp/?p=666979</id>
+        <link href="https://coinpost.jp/?p=666979"/>
+        <updated>2025-11-17T11:08:01.000Z</updated>
+        <summary type="html"><![CDATA[金融庁が暗号資産を金商法に位置づけ、インサイダー取引規制を整備する方向を明示。業界団体は20%申告分離課税を要望。来年の通常国会での法整備を目指す。第31回ブロックチェーン推進議員連盟で議論。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XRP、365日間で際立つ89％の上昇──BTC、ETH、CD20などを大きく上回る]]></title>
         <id>https://www.coindeskjapan.com/?p=324596</id>
@@ -1578,46 +1588,6 @@ JPYCホルダー数が1日で約6.6倍に急増、3万人突破 first appeared o
 ビットコインの投げ売り指標、価格底打ちの可能性を示す first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヤフー・ファイナンス、ポリマーケットと提携し予測市場ハブを数カ月以内に開設へ]]></title>
-        <id>https://coinpost.jp/?p=665824</id>
-        <link href="https://coinpost.jp/?p=665824"/>
-        <updated>2025-11-13T00:45:08.000Z</updated>
-        <summary type="html"><![CDATA[ヤフー・ファイナンスが予測市場プラットフォームのポリマーケットと提携し、新たな予測市場ハブを立ち上げる。経済や市場動向の確率データと分析を組み合わせて投資家を支援。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、2026年にICO復活で数十億ドル規模の資金調達を予測　コインベーストークン販売サービス立ち上げを受け]]></title>
-        <id>https://coinpost.jp/?p=665816</id>
-        <link href="https://coinpost.jp/?p=665816"/>
-        <updated>2025-11-13T00:20:58.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨資産運用会社ビットワイズのホーガンCIOが、コインベースのトークンセール・プラットフォーム立ち上げを受けて2026年にICOが資本調達の重要手段として復活すると予測。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モバイルゲーム大手KLab、ビットコインをトレジャリー資産として購入]]></title>
-        <id>https://coinpost.jp/?p=665606</id>
-        <link href="https://coinpost.jp/?p=665606"/>
-        <updated>2025-11-12T23:50:00.000Z</updated>
-        <summary type="html"><![CDATA[モバイルゲーム開発のKLabが約2,000万円のビットコインを購入。国内では今夏以降、Defコンサルティング約50億円、イオレ約160億円など上場企業のトレジャリー戦略が加速。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン、ベースチェーンで「JPMコイン」提供開始]]></title>
-        <id>https://coinpost.jp/?p=665812</id>
-        <link href="https://coinpost.jp/?p=665812"/>
-        <updated>2025-11-12T23:30:36.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンが米ドル建て預金トークン「JPMコイン」を機関投資家向けにイーサリアムL2のBase上で提供開始した。B2C2、コインベース、マスターカードがテスト取引を完了している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
