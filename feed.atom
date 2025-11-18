@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-18T09:33:07.753Z</updated>
+    <updated>2025-11-18T10:36:47.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの支配率は価格とともに低下しているが「アルトコインの季節」ではない]]></title>
+        <id>https://www.coindeskjapan.com/?p=324789</id>
+        <link href="https://www.coindeskjapan.com/324789/"/>
+        <updated>2025-11-18T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は今月急落し、ドミナンス（支配率：市場全体に占めるBTC時価総額の割合）も低下した。 ドミナンスの低下は、投資家がビットコインからアルトコ ...
+ビットコインの支配率は価格とともに低下しているが「アルトコインの季節」ではない first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エルサルバドル、価格下落とIMFからの圧力の中、約1000BTCを追加購入]]></title>
         <id>https://www.coindeskjapan.com/?p=324752</id>
@@ -1637,17 +1648,6 @@ USDTのドミナンスが4月以来の最高値に first appeared on CoinDesk JA
         <summary type="html"><![CDATA[チェコの中央銀行は、歴史上初めてデジタル資産を購入したと発表。購入したのは仮想通貨ビットコインで、他にも米ドルステーブルコインとトークン化預金も保有すると説明している。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、10万ドル割り込む──流動性危機がリスク市場を直撃し、暗号資産関連株も急落]]></title>
-        <id>https://www.coindeskjapan.com/?p=324045</id>
-        <link href="https://www.coindeskjapan.com/324045/"/>
-        <updated>2025-11-13T22:03:35.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）をはじめとする暗号資産（仮想通貨）市場は下落傾向を継続し、特に米国取引時間帯に顕著な下落幅を記録した。 最近のパターンに従い、ビットコイン ...
-ビットコイン、10万ドル割り込む──流動性危機がリスク市場を直撃し、暗号資産関連株も急落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Krisztian Sandor</name>
         </author>
     </entry>
 </feed>
