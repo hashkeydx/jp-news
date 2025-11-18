@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=324803",
+          "author": "林 理南",
+          "description": "ビットコイン（BTC）は10月の史上最高値である12万6250ドル（約1894万円、1ドル150円換算）から30％下落した水準にあり、11月には17％下落した。 ...\nビットコインの調整は4月の下落の再現──2025年の購入者は損失に転落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/324803/",
+          "publishedOn": "2025-11-18T16:22:17.000Z",
+          "wordCount": 1312,
+          "title": "ビットコインの調整は4月の下落の再現──2025年の購入者は損失に転落",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/NNNb6e86d3c478c946aab7381aeb157e4f38634bda5-3200x1800-1.png"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=324799",
           "author": "栃山直樹",
           "description": "デジタルガレージ創業者の伊藤穰一氏と、Paidy創業者ラッセル・カマー氏が共同で立ち上げ、レイヤー1ブロックチェーン「Japan Smart Chain（JSC ...\nJapan Smart Chain上で日本法準拠ステーブルコインを検討、AltXとGMO Trustが契約締結 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -1323,21 +1333,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Circle-StableFX.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Circle-StableFX.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=666260",
-          "author": "hiroto.yoshii",
-          "description": "JPYC株式会社は、日本円建ステーブルコイン「JPYC」の累計発行額が2億円を突破したと発表。正式発行から約18日間での達成。保有者数は約3.1万人に達し、JPYC EXの口座開設数も6,000件に到達した。",
-          "link": "https://coinpost.jp/?p=666260",
-          "publishedOn": "2025-11-14T04:35:27.000Z",
-          "wordCount": 3130,
-          "title": "日本円ステーブルコインJPYC、発行額2億円突破",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/JPYC1114.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/JPYC1114.png"
         }
       ]
     },
@@ -1735,46 +1730,6 @@
           "wordCount": 744,
           "title": "TISとJPYC、「ステーブルコイン決済支援サービス」提供に向け協業、26年内に提供へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/14135333/f9d033e9d886e0123a4bd35d7f9c29cd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=516096",
-          "author": "gentosha_takahashi",
-          "description": "100万ドル規模のデジタル資産テスト運用開始 チェコ共和国の中央銀行にあたるチェコ国立銀行（CNB）が、同行初となるデジタル資産の購入をおこなったと、11月13日に発表した。 今回の購入でCNBは、総額100万ドル（約1 […]",
-          "link": "https://www.neweconomy.jp/posts/516096",
-          "publishedOn": "2025-11-14T04:35:05.000Z",
-          "wordCount": 729,
-          "title": "チェコ中銀、初のデジタル資産投資を実施。1Mドル規模でブロックチェーン実験ポートフォリオ構築",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/14133502/123029b73c2b6418f7e3941398868230.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=516080",
-          "author": "OtsugaShinya",
-          "description": "2026年にトークン化「MAS債」実証へ シンガポールの中央銀行であるシンガポール金融管理局（MAS）が、トークン化した「MAS債（MAS bills）」の発行実験を2026年に行い、あわせてステーブルコインを規制する法 […]",
-          "link": "https://www.neweconomy.jp/posts/516080",
-          "publishedOn": "2025-11-14T04:12:26.000Z",
-          "wordCount": 758,
-          "title": "シンガポール中銀がトークン化「MAS債」実証へ、ステーブルコイン規制の導入も計画",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/14131222/3a7bddf3f10b1fe70e4839dce064b107.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=516070",
-          "author": "HitomotoToshikazu",
-          "description": "Coinbase Businessがシンガポール展開 暗号資産（仮想通貨）取引所コインベース（Coinbase）が、USDC活用の企業向け取引プラットフォーム「コインベース・ビジネス（Coinbase Business） […]",
-          "link": "https://www.neweconomy.jp/posts/516070",
-          "publishedOn": "2025-11-14T04:09:57.000Z",
-          "wordCount": 768,
-          "title": "コインベース、USDC活用の企業向け取引プラットフォームをシンガポールで展開、米国外で初",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/14130618/cbdded775eff1fc6defac393a0adcb2c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=516072",
-          "author": "NewEconomy",
-          "description": "ムーンペイが独自ステーブルコイン発行サービス開始 暗号資産（仮想通貨）決済サービスを提供するムーンペイ（MoonPay）が、企業向けのステーブルコイン発行事業を開始したと11月13日に発表した。同社は併せて、アプリケーシ […]",
-          "link": "https://www.neweconomy.jp/posts/516072",
-          "publishedOn": "2025-11-14T03:44:50.000Z",
-          "wordCount": 770,
-          "title": "ムーンペイ、企業向けステーブルコイン発行事業を開始。M0と統合で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/14124447/9ba34abed21789d14beb1cfe0237f64d.jpg"
         }
       ]
     }
