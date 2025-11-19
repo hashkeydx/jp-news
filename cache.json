@@ -1348,51 +1348,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0556.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=666577",
-          "author": "A.Yamada",
-          "description": "トランプ一族の仮想通貨マイニング企業「アメリカン・ビットコイン」が2025年7～9月期決算を発表した。前年同期比で黒字転換し、ビットコイン保有量は4,090BTCに到達している。",
-          "link": "https://coinpost.jp/?p=666577",
-          "publishedOn": "2025-11-15T00:50:36.000Z",
-          "wordCount": 3273,
-          "title": "トランプ一族関連のアメリカン・ビットコイン、売上高99億円に増加　決算発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-son-bitcoin-mining.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-son-bitcoin-mining.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=666576",
-          "author": "菊谷ルイス",
-          "description": "決済アプリのキャッシュアップがステーブルコインの送受信機能を含む11の新機能を発表した。ライトニングネットワークを使用したビットコイン決済機能も拡充している。",
-          "link": "https://coinpost.jp/?p=666576",
-          "publishedOn": "2025-11-15T00:35:59.000Z",
-          "wordCount": 3249,
-          "title": "ジャック・ドーシーのCash App、ステーブルコイン決済機能を導入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/cash-app-new-high-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/cash-app-new-high-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=666560",
-          "author": "K.Kobayashi",
-          "description": "ソニー銀行が米国で信託銀行の国家免許を申請したことについて、米組織ICBAが強く反対すると表明。通貨監督庁に書簡を送付して反対理由を説明し、ソニー銀行の申請を認可しないように要求した。",
-          "link": "https://coinpost.jp/?p=666560",
-          "publishedOn": "2025-11-14T23:50:10.000Z",
-          "wordCount": 3258,
-          "title": "ソニー銀行の米銀免許申請、通貨監督庁に全米独立コミュニティ銀行家協会が否認を要求",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/sony-vr.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/sony-vr.jpeg"
         }
       ]
     },
@@ -1401,6 +1356,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=518353",
+          "author": "NewEconomy",
+          "description": "DappRadarが7年間の運営に幕 分散型アプリケーション（dApps）の分析プラットフォーム「ダップレーダー（DappRadar）」のサービス終了予定が11月17日に発表した。 現在の環境ではプラットフォーム運営を財 […]",
+          "link": "https://www.neweconomy.jp/posts/518353",
+          "publishedOn": "2025-11-19T12:41:34.000Z",
+          "wordCount": 756,
+          "title": "オンチェーン分析プラットフォーム「DappRadar」、サービス終了へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/19214112/1f778de583e1e06ae1e5cbf9d8752d18.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=518343",
+          "author": "HitomotoToshikazu",
+          "description": "Fidelity Solana Fund取引開始 米大手資産運用会社フィデリティ（Fidelity）が、暗号資産（仮想通貨）ソラナ（SOL）のステーキング対応現物ETF（上場投資信託）のローンチを11月18日に発表した。 […]",
+          "link": "https://www.neweconomy.jp/posts/518343",
+          "publishedOn": "2025-11-19T11:40:21.000Z",
+          "wordCount": 760,
+          "title": "フィデリティのステーキング対応「ソラナ（SOL）現物ETF」、NYSEアーカで取引開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/19203954/63b82dbc1218e2caaf62bf43a5be77c2.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=516696",
           "author": "NewEconomyPodcast",
