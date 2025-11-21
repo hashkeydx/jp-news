@@ -675,6 +675,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=668216",
+          "author": "Enzo",
+          "description": "CAICAテクノロジーズが日本円ステーブルコインJPYCの決済ソリューション提供を開始。企業向けにコンサルティングサービスと決済モジュールを提供し、ステーブルコイン決済の導入を支援する。",
+          "link": "https://coinpost.jp/?p=668216",
+          "publishedOn": "2025-11-21T07:10:12.000Z",
+          "wordCount": 3251,
+          "title": "CAICAテクノロジーズ、JPYC決済ソリューションの提供を開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/main-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/main-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=668177",
+          "author": "Ritsuki.Kumazawa",
+          "description": "HashPortとナッジが日本初となる後払い型クリプトクレジットカード「HashPortカード」を発行開始。ステーブルコインJPYCで決済・還元が可能で、利用額の0.3%をJPYCで還元。年会費無料、カード発行手数料2,500円。",
+          "link": "https://coinpost.jp/?p=668177",
+          "publishedOn": "2025-11-21T07:03:19.000Z",
+          "wordCount": 3259,
+          "title": "ナッジ、ステーブルコイン決済・還元対応クレカ「HashPortカード」発行開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/hashportwallet_thumbnail1121.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/hashportwallet_thumbnail1121.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=665838",
+          "author": "Ritsuki.Kumazawa",
+          "description": "金融庁独占取材。暗号資産規制の金商法移行について、銀行グループ子会社の参入、インサイダー取引規制導入、分散型取引所(DEX)対応の狙いを詳しく聞く。投資家保護と健全なイノベーション両立への取り組みを解説。",
+          "link": "https://coinpost.jp/?p=665838",
+          "publishedOn": "2025-11-21T06:44:12.000Z",
+          "wordCount": 3268,
+          "title": "金融庁が語る暗号資産規制改革の全貌──銀行参入、インサイダー規制、DEX対応の狙い｜独占取材",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/kinyuchou1001-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=668163",
           "author": "幸田直子",
           "description": "ビットコインの基盤ソフトウェアBitcoin Coreが16年の歴史で初となる第三者セキュリティ監査を完了した。Quarkslabによる4ヶ月間の徹底調査で致命的な脆弱性は発見されず、300兆円規模のネットワークの安全性が裏付けられた。",
@@ -1806,6 +1851,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=519181",
+          "author": "OtsugaShinya",
+          "description": "HashPortカードが発行開始 ハッシュポート（HashPort）とナッジの提携により、ステーブルコインでの後払い決済・還元体験を提供する「HashPortカード」が11月21日に発行開始した。両社が11月21日に発表 […]",
+          "link": "https://www.neweconomy.jp/posts/519181",
+          "publishedOn": "2025-11-21T07:19:17.000Z",
+          "wordCount": 756,
+          "title": "ナッジ、「JPYC」決済・還元対応クレカ「HashPortカード」発行開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/21161913/03fbad9385b9a89934f51042f753dd21-1.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=519144",
           "author": "HitomotoToshikazu",
