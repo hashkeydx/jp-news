@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-21T21:27:16.916Z</updated>
+    <updated>2025-11-21T22:32:01.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[個人マイナーがビットコイン採掘に成功、1億8000万分の1の確率を克服]]></title>
+        <id>https://coinpost.jp/?p=668409</id>
+        <link href="https://coinpost.jp/?p=668409"/>
+        <updated>2025-11-21T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[極めて小規模な個人マイナーがわずか6TH/sのパワーでビットコインブロックの採掘に成功し、約26万5000ドル相当を獲得した。確率は1億8000万分の1で、近年最も幸運なソロ採掘となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トム・リー率いるビットマイン、初の配当実施もイーサリアム保有の含み損は6250億円超]]></title>
+        <id>https://coinpost.jp/?p=668405</id>
+        <link href="https://coinpost.jp/?p=668405"/>
+        <updated>2025-11-21T21:25:47.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム最大の企業保有者ビットマイン・イマージョン・テクノロジーズが11月21日、2025年8月期通期で純利益3億2816万ドルを計上し、大手仮想通貨企業として初めて配当を実施すると発表した。しかしイーサリアム価格下落で含み損は40億ドル超に達している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金持ち父さん著者キヨサキ、3.5億円分ビットコインを売却し不動産投資へ　以前の姿勢から一転]]></title>
+        <id>https://coinpost.jp/?p=668399</id>
+        <link href="https://coinpost.jp/?p=668399"/>
+        <updated>2025-11-21T21:02:41.000Z</updated>
+        <summary type="html"><![CDATA[『金持ち父さん貧乏父さん』の著者ロバート・キヨサキ氏が11月22日、約225万ドル相当のビットコインを売却し、外科センターと看板広告事業に投資すると発表した。以前の「売らずに買い続ける」発言から一転した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アーク、暗号資産関連株を2日連続で約4000万ドル分買い増し]]></title>
         <id>https://www.coindeskjapan.com/?p=325476</id>
@@ -26,6 +56,16 @@
 ビットコイン、8万4000ドル台まで反発──NY連銀総裁が12月利下げの余地を示唆 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Krisztian Sandor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイケル・セイラー、指数除外懸念に反論「ストラテジーはファンドではない」]]></title>
+        <id>https://coinpost.jp/?p=668397</id>
+        <link href="https://coinpost.jp/?p=668397"/>
+        <updated>2025-11-21T20:45:21.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジー社のマイケル・セイラー会長は主要株価指数からの除外懸念に対し「我々はファンドではなく上場事業会社だ」と反論した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -2056,17 +2096,6 @@ Cboe、ビットコインとイーサリアムの継続先物取引を12月15日
 XRP、365日間で際立つ89％の上昇──BTC、ETH、CD20などを大きく上回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産が犯罪金融システムを支えている──国際的な調査報道ネットワークが問題提起]]></title>
-        <id>https://www.coindeskjapan.com/?p=324586</id>
-        <link href="https://www.coindeskjapan.com/324586/"/>
-        <updated>2025-11-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[国際調査報道ジャーナリスト連合（ICIJ）は数百人の記者からなる世界的なネットワークで、パナマ文書のような大規模な資金洗浄作戦を明るみに出すのに貢献した。同連合 ...
-暗号資産が犯罪金融システムを支えている──国際的な調査報道ネットワークが問題提起 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Ian Allison</name>
         </author>
     </entry>
 </feed>
