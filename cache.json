@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=325632",
+          "author": "林 理南",
+          "description": "分散型取引所アグリゲーターである1インチ（1inch）の最新レポートによると、分散型金融（DeFi）における危機が深刻化している。主要なDeFi流動性プールに投 ...\nDeFi流動性120億ドルが遊休状態の「流動性危機」──資本の95％が未使用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/325632/",
+          "publishedOn": "2025-11-23T14:09:26.000Z",
+          "wordCount": 1310,
+          "title": "DeFi流動性120億ドルが遊休状態の「流動性危機」──資本の95％が未使用",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/1ad691bbf124d26626541457dd96bc2f834faabc-2500x1667-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=325622",
           "author": "林 理南",
           "description": "ビットコイン（BTC）価格が暴落し、ストラテジー（Strategy）の普通株式が昨年の最高値から約70％下落する中、ストラテジーに対して清算を求める外部からの声 ...\nビットコイン急落でストラテジー保有資産が損益分岐点に近づく──重要な試金石は18ヶ月後 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -480,16 +490,6 @@
           "wordCount": 1298,
           "title": "ブラックロックのビットコインETF、過去最大12億6000万ドルの資金流出",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/711d8eba55c79dead214a9d293ceab37247a27e1-3840x2160-1.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=324840",
-          "author": "廣瀬 優香",
-          "description": "ルクソール・テクノロジー（Luxor Technology）によると、ビットコイン（BTC）のハッシュ価格は5年ぶりの低水準に下落し、現在は1ペタハッシュ/秒（ ...\nビットコインのハッシュ価格、5年ぶりの低水準に下落 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/324840/",
-          "publishedOn": "2025-11-19T02:00:00.000Z",
-          "wordCount": 1330,
-          "title": "ビットコインのハッシュ価格、5年ぶりの低水準に下落",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/b39442e73d12979bb4bf600cd99f4d6a90b21854-1853x74-2.jpg"
         }
       ]
     },
@@ -1328,36 +1328,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum3_0418.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum3_0418.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=667410",
-          "author": "Enzo",
-          "description": "コインベースで開始されたモナド（Monad）のトークンセールは、開始23分で64.5億円を調達したが、その後失速。高いFDV評価額やVC比率の高さが投資家の慎重姿勢を招いたとみられる。",
-          "link": "https://coinpost.jp/?p=667410",
-          "publishedOn": "2025-11-19T01:50:27.000Z",
-          "wordCount": 3234,
-          "title": "コインベース上のモナドICO、開始23分で65億円弱調達も販売ペース鈍化",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/Monad-Thumbnail.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/11/Monad-Thumbnail.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=667409",
-          "author": "菊谷ルイス",
-          "description": "ニューハンプシャー州が全米初のビットコイン担保地方債を承認した。1億ドル規模の債券でデジタル資産が140兆ドル規模の世界債券市場に参入する道を開く可能性が出た。",
-          "link": "https://coinpost.jp/?p=667409",
-          "publishedOn": "2025-11-19T01:33:20.000Z",
-          "wordCount": 3234,
-          "title": "全米初のビットコイン担保地方債、米ニューハンプシャー州が承認",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/NH-bitcoin-bond.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/NH-bitcoin-bond.jpg"
         }
       ]
     },
