@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-26T16:40:46.313Z</updated>
+    <updated>2025-11-26T17:31:36.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グレイスケール、米で初めてジーキャッシュETF上場を申請──価格は1000％上昇中]]></title>
+        <id>https://www.coindeskjapan.com/?p=326242</id>
+        <link href="https://www.coindeskjapan.com/326242/"/>
+        <updated>2025-11-26T17:00:20.000Z</updated>
+        <summary type="html"><![CDATA[グレイスケール（Grayscale）は、ジーキャッシュ（ZEC）の価格を追跡するアメリカ初のETF（上場投資信託）の上場を目指している。ジーキャッシュはかつては ...
+グレイスケール、米で初めてジーキャッシュETF上場を申請──価格は1000％上昇中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>林 理南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、短期保有者の投げ売りで信頼される底値シグナルが点灯]]></title>
         <id>https://www.coindeskjapan.com/?p=326232</id>
@@ -1312,16 +1323,6 @@ DeFi流動性120億ドルが遊休状態の「流動性危機」──資本の9
 ビットコインの強欲・恐怖指数は極度の悲観主義を示す──テクニカル的な底が近い可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANAPホールディングス、企業向けビットコイン戦略支援「ビットコイン道場」を開始]]></title>
-        <id>https://coinpost.jp/?p=668458</id>
-        <link href="https://coinpost.jp/?p=668458"/>
-        <updated>2025-11-22T04:45:20.000Z</updated>
-        <summary type="html"><![CDATA[ANAPホールディングスが企業のビットコイン活用を支援する継続型プログラム「ANAPビットコイン道場」の提供を開始した。会計や税務などの実務を専門家が包括的にサポートし、参加企業がコミュニティ形式で課題解決に取り組む仕組みを提供する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
