@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=326652",
+          "author": "林 理南",
+          "description": "韓国最大の暗号資産（仮想通貨）取引所アップビット（Upbit）は、27日に起きたハッキングで59億ウォン（約6億4900万円、1ウォン0.11円換算）の損失を出 ...\nアップビット、直近のハッキングでの59億ウォンの企業損失を公表──ユーザーに全額補償 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/326652/",
+          "publishedOn": "2025-11-28T21:00:00.000Z",
+          "wordCount": 1301,
+          "title": "アップビット、直近のハッキングでの59億ウォンの企業損失を公表──ユーザーに全額補償",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/afb72db5244609c27e04ac1bb3950f260319c35e-3840x2160-3-1-scaled.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=326662",
           "author": "林 理南",
           "description": "12月初旬に行われるFRB（米連邦準備制度理事会）による金利引き下げの可能性が急上昇したことを受けてビットコイン（BTC）は上昇を継続し、28日のアメリカの取引 ...\nビットコイン、感謝祭後にやや上昇モード──12月のFRB金利見通しが固定 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -754,6 +764,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=670106",
+          "author": "菊谷ルイス",
+          "description": "韓国当局が27日に発生したアップビットからの約48億円相当の仮想通貨流出について、北朝鮮のハッキンググループ「ラザルス」の関与を疑っていることが明らかになった。",
+          "link": "https://coinpost.jp/?p=670106",
+          "publishedOn": "2025-11-28T20:55:42.000Z",
+          "wordCount": 3252,
+          "title": "アップビットの48億円ハッキング、当局が北朝鮮ラザルス集団の関与を本格調査",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/northkoreahack021821.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/northkoreahack021821.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=670091",
+          "author": "菊谷ルイス",
+          "description": "世界最大の先物取引所運営会社CMEグループが28日、データセンターの冷却システム障害により11時間以上にわたり先物取引を停止した。株式、債券、商品、通貨の先物取引が中断され、トレーダーからは批判の声が上がっている。",
+          "link": "https://coinpost.jp/?p=670091",
+          "publishedOn": "2025-11-28T20:45:15.000Z",
+          "wordCount": 3257,
+          "title": "米CME、11時間超の取引停止から復旧　データセンター冷却障害で株式・ビットコイン含む商品先物が一時中断",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/cme_0514.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/cme_0514.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=669577",
           "author": "M.Somekawa",
@@ -1758,21 +1798,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2018/04/rekinyuutyou.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2018/04/rekinyuutyou.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=668609",
-          "author": "幸田直子",
-          "description": "世界最大の資産運用会社ブラックロックのデジタル資産部門責任者が、機関投資家がビットコインに投資する理由を解説した。「デジタルゴールド」としての価値保存機能が重視される一方、決済手段としての利用は依然投機的との見方を示した。",
-          "link": "https://coinpost.jp/?p=668609",
-          "publishedOn": "2025-11-24T08:50:49.000Z",
-          "wordCount": 3269,
-          "title": "ブラックロック、ビットコイン投資の本質は「デジタルゴールド」　機関投資家が重視する“真の価値”とは？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
         }
       ]
     },
