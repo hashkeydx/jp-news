@@ -750,16 +750,6 @@
           "wordCount": 1420,
           "title": "1台の古いマシンで4200万円獲得──個人マイナーが「1億8000万分の1の確率」でBTCブロック採掘",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/image-4.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=325646",
-          "author": "Siamak Masnavi",
-          "description": "暗号資産（仮想通貨）市場は23日、ビットコインが極度の売られ過ぎシグナルを点灯し、2億ドル超の清算が主要トークン全体の売り圧を緩和したことで上昇した。 ビットコ ...\nビットコインは“極度の売られ過ぎ”から反発、XRPは7％、ZECは14％上場 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/325646/",
-          "publishedOn": "2025-11-23T22:57:29.000Z",
-          "wordCount": 1361,
-          "title": "ビットコインは“極度の売られ過ぎ”から反発、XRPは7％、ZECは14％上場",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/image-78.jpg"
         }
       ]
     },
@@ -774,6 +764,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=669577",
+          "author": "M.Somekawa",
+          "description": "Secured FinanceでJPYCを使った固定金利運用が可能に。満期と金利が事前確定する仕組み、メタマスクの準備から貸し出し・借り入れの手順、リスクまで初心者向けに詳しく解説。",
+          "link": "https://coinpost.jp/?p=669577",
+          "publishedOn": "2025-11-28T10:05:08.000Z",
+          "wordCount": 2956,
+          "title": "Secured Finance（セキュアード・ファイナンス）とは？JPYCの運用方法を徹底解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/SecuredFinance1127.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/SecuredFinance1127.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=670049",
+          "author": "Ritsuki.Kumazawa",
+          "description": "シノケングループ、ゆうちょ銀行、ディーカレットDCPの3社がトークン化預金の活用に向けた基本合意書を締結。賃貸管理における月次賃料の支払いをユースケースに、決済の自動化・効率化を検証する。2025年12月末に実証実験を完了し、2026年以降の本格導入を目指す。",
+          "link": "https://coinpost.jp/?p=670049",
+          "publishedOn": "2025-11-28T09:47:33.000Z",
+          "wordCount": 3268,
+          "title": "ゆうちょ銀行のトークン化預金が不動産決済に進出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/yucho_thumbnail-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/yucho_thumbnail-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=669076",
           "author": "CoinPost編集部",
@@ -1801,6 +1821,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=522281",
+          "author": "OtsugaShinya",
+          "description": "USDT0がマントルとモナドに対応開始 オムニチェーン対応ステーブルコイン「USDT0」が、イーサリアム（Ethereum）レイヤー2ネットワークのマントルネットワーク（Mantle Network）およびEVM互換のレ […]",
+          "link": "https://www.neweconomy.jp/posts/522281",
+          "publishedOn": "2025-11-28T11:09:52.000Z",
+          "wordCount": 827,
+          "title": "オムニチェーン対応ステーブルコイン「USDT0」、マントルとモナドに対応開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/28200940/87c3ed80d604f94ad4d39c6553c8caad.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=522089",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/522089",
+          "publishedOn": "2025-11-28T10:58:18.000Z",
+          "wordCount": 800,
+          "title": "【11/28話題】クシムがKushim Labs創設とINTMAXと提携、RLUSDがアブダビで認定、モブキャストがSFDPに採択など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/11/28192806/df4e662181928b7f7be29b41f32c31b7.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=522048",
           "author": "OtsugaShinya",
