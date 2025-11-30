@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-11-30T02:28:03.012Z</updated>
+    <updated>2025-11-30T04:02:59.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeFiで株式市場はどう変わる？　Progmat齊藤達哉氏が語るオンチェーン金融の未来｜独占インタビュー【後編】]]></title>
+        <id>https://ec2-13-114-170-70.ap-northeast-1.compute.amazonaws.com/?p=669526</id>
+        <link href="https://coinpost.jp/?p=669526"/>
+        <updated>2025-11-30T03:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Progmat齊藤達哉氏インタビュー後編。議決権付きトークン化株式で日本が世界初となる理由、2028年施行を目指すトークン化法のロードマップ、DeFi・AIエージェントを見据えた将来ビジョンを聞いた。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース｜個人マイナーのビットコイン採掘成功やアップビットの約48億円の不正流出に高い関心]]></title>
         <id>https://coinpost.jp/?p=670173</id>
@@ -1846,17 +1856,6 @@ SGXのビットコイン・イーサリアム永久先物、約55億円の取引
         <summary type="html"><![CDATA[ステラ（XLM）の基礎から最新動向まで完全解説。2024年注目のSorobanプラットフォーム、マネーグラムとの戦略的提携、DeFiエコシステムの発展など、投資・運用に必要な情報を詳しく紹介。国内取引所の比較や将来性まで徹底解説します。]]></summary>
         <author>
             <name>S.Ninomiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、今月133億ドルのオプション満期に直面──価格はマックス・ペインを大きく下回る]]></title>
-        <id>https://www.coindeskjapan.com/?p=325941</id>
-        <link href="https://www.coindeskjapan.com/325941/"/>
-        <updated>2025-11-25T15:02:12.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）は、今週金曜日に今月のオプション満期を迎える。価格には急激な調整が発生しており、35％の下落となる8万1000ドルまで下落した後に8万70 ...
-ビットコイン、今月133億ドルのオプション満期に直面──価格はマックス・ペインを大きく下回る first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
