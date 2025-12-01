@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=326932",
+          "author": "廣瀬 優香",
+          "description": "ビットコイン（BTC）、イーサリアム（ETH）、その他の主要トークンは12月1日序盤に下落し、DeFiプラットフォームのヤーン・ファイナンス（Yearn Fin ...\nBTC、ETH、XRP、12月は下落でスタート──DeFiプラットフォームYearn Financeでインシデント発生 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/326932/",
+          "publishedOn": "2025-12-01T05:05:00.000Z",
+          "wordCount": 1358,
+          "title": "BTC、ETH、XRP、12月は下落でスタート──DeFiプラットフォームYearn Financeでインシデント発生",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/25db3d30a9c7dba441732664498c65887047d7fe-1500x1001-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=326845",
           "author": "橋本 祐樹",
           "description": "Web3の認知拡大や普及を目的に活動する学生団体WeCreate3と千葉工業大学web3研究会は11月30日、AI時代のキャリアやブロックチェーンによって変わる ...\n金融インフラの進化が変えるキャリアの選択肢──大学生×専門家が語った未来像【Web3&AI超会議レポート】 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -540,16 +550,6 @@
           "wordCount": 1348,
           "title": "ビットコイン、9万ドル台を回復──感謝祭前の典型的な値動きから脱却",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/18892d2e390457ff09ea2709e0e62ad7e839561c-1920x1080-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=326242",
-          "author": "林 理南",
-          "description": "グレイスケール（Grayscale）は、ジーキャッシュ（ZEC）の価格を追跡するアメリカ初のETF（上場投資信託）の上場を目指している。ジーキャッシュはかつては ...\nグレイスケール、米で初めてジーキャッシュETF上場を申請──価格は1000％上昇中 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/326242/",
-          "publishedOn": "2025-11-26T17:00:20.000Z",
-          "wordCount": 1319,
-          "title": "グレイスケール、米で初めてジーキャッシュETF上場を申請──価格は1000％上昇中",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/b026b9c5faaa8762017c067c09982780b8b94ec1-1920x1080-1.jpg"
         }
       ]
     },
@@ -1426,6 +1426,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=522565",
+          "author": "HitomotoToshikazu",
+          "description": "Backpack WalletでMonad追加可能に バックパックウォレット（Backpack Wallet）に、EVM互換のレイヤー1ブロックチェーン「モナド（Monad）」メインネットの対応を開始した。同ウォレットを […]",
+          "link": "https://www.neweconomy.jp/posts/522565",
+          "publishedOn": "2025-12-01T05:09:18.000Z",
+          "wordCount": 787,
+          "title": "バックパックウォレットがモナド対応開始、エアドロキャンペーン実施",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/01140815/73c573105038a4ec0c9875c7b7328e3b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=522555",
+          "author": "NewEconomy",
+          "description": "ヤーンファイナンスは不審な資金移動に対し「調査中」と投稿 イーサリアム（Ethereum）上で利回り運用サービスを提供するヤーンファイナンス（Yearn Finance）が提供する複数のリキッドステーキングトークン（LS […]",
+          "link": "https://www.neweconomy.jp/posts/522555",
+          "publishedOn": "2025-12-01T05:00:41.000Z",
+          "wordCount": 803,
+          "title": "ヤーンファイナンスのyETHで不審な資金移動が発覚。約300万ドル相当のETHがトルネードキャッシュへ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/01140000/yETH-251201PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=522542",
+          "author": "gentosha_takahashi",
+          "description": "AMMも制度対象に 英国政府機関の歳入関税庁（HMRC）が、暗号資産（仮想通貨）のレンディングおよび流動性プール取引に関する新たな課税ルールの導入を検討していることが明らかになった。DeFi（分散型金融）における取引の経 […]",
+          "link": "https://www.neweconomy.jp/posts/522542",
+          "publishedOn": "2025-12-01T04:44:58.000Z",
+          "wordCount": 755,
+          "title": "英国、DeFi関連取引の課税ルール見直しへ。利確まで課税繰延へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/01134447/e5ccf30ceefd8b50d1939e31971d3885.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=522541",
+          "author": "HitomotoToshikazu",
+          "description": "UniswapがMonadに対応開始 DEX（分散型取引所）ユニスワップ（Uniswap）が、EVM互換のレイヤー1ブロックチェーン「モナド（Monad）」に対応開始した。 ユニスワップが11月24日に発表した。 モナド […]",
+          "link": "https://www.neweconomy.jp/posts/522541",
+          "publishedOn": "2025-12-01T04:42:20.000Z",
+          "wordCount": 773,
+          "title": "ユニスワップ、EVM互換L1「モナド」に対応開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/01134149/eb9dc4477346b678e56f1415bd993743.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=522493",
           "author": "TamuraSeiji",
