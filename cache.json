@@ -660,16 +660,6 @@
           "wordCount": 1314,
           "title": "サイクル底値を読み取るビットコインのハッシュリボンが点灯",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/N887cd68d4da8e5da4708523d78be3720b317ba07-3200x1800-1.png"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=326454",
-          "author": "林 理南",
-          "description": "クジラと初期のビットコイン（BTC）保有者は、2025年を通して、特に8月以降、大幅な売り越しを続けてきた。大口保有者が10万ドル（約1550万円、1ドル155 ...\nビットコイン、クジラが8月以来初めて買いに回帰──価格は9万ドルを回復 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/326454/",
-          "publishedOn": "2025-11-27T16:30:28.000Z",
-          "wordCount": 1325,
-          "title": "ビットコイン、クジラが8月以来初めて買いに回帰──価格は9万ドルを回復",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/11/bb36c9290384741e4ed65159d58c7567fbd662e1-1920x1080-1.jpg"
         }
       ]
     },
@@ -684,6 +674,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=670734",
+          "author": "A.Yamada",
+          "description": "米FDIC代行議長がステーブルコイン規制「ジーニアス法」の運用規則案を今月に公表する予定だと表明。トークン化預金や仮想通貨業界のデバンキング問題についても対処を説明した。",
+          "link": "https://coinpost.jp/?p=670734",
+          "publishedOn": "2025-12-02T04:15:11.000Z",
+          "wordCount": 3241,
+          "title": "米FDIC、ステーブルコイン規制「ジーニアス法」運用規則案を12月下旬に公表予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/Federal-Deposit-Insurance-Corporation-FDIC.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/Federal-Deposit-Insurance-Corporation-FDIC.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=670753",
+          "author": "Enzo",
+          "description": "米予測市場カルシがソラナ上で予測市場契約のトークン化を開始。オンチェーン取引により匿名性が向上し、開発者のサードパーティ構築も可能に。評価額110億ドル、約3500市場を運営する同社は仮想通貨ユーザーの流動性獲得を目指す。",
+          "link": "https://coinpost.jp/?p=670753",
+          "publishedOn": "2025-12-02T03:29:13.000Z",
+          "wordCount": 3243,
+          "title": "カルシ、ソラナ上で予測市場トークン化を開始　仮想通貨の流動性取り込みへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/kalshi-kalshi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/kalshi-kalshi.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=670686",
           "author": "A.Yamada",
@@ -1606,6 +1626,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=523123",
+          "author": "NewEconomy",
+          "description": "BitMineのETH保有率約3％に ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を1 […]",
+          "link": "https://www.neweconomy.jp/posts/523123",
+          "publishedOn": "2025-12-02T04:41:25.000Z",
+          "wordCount": 805,
+          "title": "ビットマイン、イーサリアム総保有数は約373万ETHに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/02133929/8fd6c6952a1e980a85a31b16db879526.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=523098",
+          "author": "HitomotoToshikazu",
+          "description": "アムンディがトークン化シェアクラス立ち上げ 欧州大手の資産運用会社アムンディ・アセット・マネジメント（Amundi Asset Management：以下、アムンディ）が、同社運用のユーロ建てマネーマーケットファンド「A […]",
+          "link": "https://www.neweconomy.jp/posts/523098",
+          "publishedOn": "2025-12-02T04:12:24.000Z",
+          "wordCount": 748,
+          "title": "欧州資産運用アムンディ、イーサリアム上で初のトークン化シェアクラス立ち上げ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/02131207/2ffedc6176a339596ba6e73e11387b91.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=523048",
           "author": "gentosha_takahashi",
