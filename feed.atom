@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-02T22:30:41.021Z</updated>
+    <updated>2025-12-02T23:28:55.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧州10銀行がユーロ連動ステーブルコイン発行へ、2026年後半に開始予定]]></title>
+        <id>https://coinpost.jp/?p=670990</id>
+        <link href="https://coinpost.jp/?p=670990"/>
+        <updated>2025-12-02T22:25:02.000Z</updated>
+        <summary type="html"><![CDATA[INGやBNPパリバなど欧州10銀行がユーロ連動ステーブルコイン発行を計画中。新会社キバリスを設立し2026年後半の発行を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バンカメ「資産管理サービスの顧客は仮想通貨投資を検討すべき」　最大4%のポートフォリオ配分を推奨]]></title>
         <id>https://coinpost.jp/?p=670978</id>
@@ -139,6 +149,16 @@ AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研�
         <summary type="html"><![CDATA[Strategyが米ドル準備金設定、BTC追加購入も 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、14.4億ドル（約2,242億円）規模の米ドル準備金（USD Reser […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムの買い方｜初心者向け取引所比較とリスク・税金まで解説]]></title>
+        <id>https://coinpost.jp/?p=516165</id>
+        <link href="https://coinpost.jp/?p=516165"/>
+        <updated>2025-12-02T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[米国初のビットコインETF承認の影響でBTC価格が過去最高値を更新し、仮想通貨投資による資産運用の注目度が急上昇しています。本記事では初心者向けに高騰するイーサリアム（ETH）の買い方、アルトコイン投資のメリットやデメリット、リスクなどを解説しています。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
         </author>
     </entry>
     <entry>
@@ -1552,26 +1572,6 @@ DeFiの550億ドル急落を、心配し過ぎなくてよい理由 first appear
 ブラックロックの自社運用インカムファンド、ビットコインETF保有量を14％増加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オムニチェーン対応ステーブルコイン「USDT0」、マントルとモナドに対応開始]]></title>
-        <id>https://www.neweconomy.jp/?p=522281</id>
-        <link href="https://www.neweconomy.jp/posts/522281"/>
-        <updated>2025-11-28T11:09:52.000Z</updated>
-        <summary type="html"><![CDATA[USDT0がマントルとモナドに対応開始 オムニチェーン対応ステーブルコイン「USDT0」が、イーサリアム（Ethereum）レイヤー2ネットワークのマントルネットワーク（Mantle Network）およびEVM互換のレ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/28話題】クシムがKushim Labs創設とINTMAXと提携、RLUSDがアブダビで認定、モブキャストがSFDPに採択など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=522089</id>
-        <link href="https://www.neweconomy.jp/posts/522089"/>
-        <updated>2025-11-28T10:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
