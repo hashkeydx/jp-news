@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-02T09:38:17.812Z</updated>
+    <updated>2025-12-02T10:37:45.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研究者が警告]]></title>
+        <id>https://www.coindeskjapan.com/?p=327255</id>
+        <link href="https://www.coindeskjapan.com/327255/"/>
+        <updated>2025-12-02T10:05:00.000Z</updated>
+        <summary type="html"><![CDATA[アンスロピック・フェローズ・プログラム（Anthropic Fellows Program）が発表した新たな研究によると、AI（人工知能）エージェントはスマート ...
+AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研究者が警告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、6万5000ドル以下に下落の可能性──ETH、XRP、ADAなど主要暗号資産に悪影響か]]></title>
+        <id>https://www.coindeskjapan.com/?p=327202</id>
+        <link href="https://www.coindeskjapan.com/327202/"/>
+        <updated>2025-12-02T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は12月1日終盤、流動性の低さ、日本発の週末のマクロ経済不安、MSCIの算出方法変更への懸念の高まりが重なり、急速かつ無秩序な下落によって ...
+ビットコイン、6万5000ドル以下に下落の可能性──ETH、XRP、ADAなど主要暗号資産に悪影響か first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サンタラリーは来ないかも。XRPとBTCは瀬戸際、ナスダックも天井を示唆：テクニカル分析]]></title>
         <id>https://www.coindeskjapan.com/?p=327216</id>
@@ -1873,27 +1895,6 @@ UAEの新しい中央銀行法は、世界の暗号資産市場における地�
         <summary type="html"><![CDATA[ネイバーとアップビット運営のドゥナムが、AIとブロックチェーンを組み合わせた次世代金融インフラ構築に向け、今後5年間で1兆円超を投資する計画を発表した。韓国ウォン連動型ステーブルコイン発行も視野に入れている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム、ブロックのガスリミットを6000万ユニットに引き上げ　処理能力が向上]]></title>
-        <id>https://coinpost.jp/?p=669749</id>
-        <link href="https://coinpost.jp/?p=669749"/>
-        <updated>2025-11-27T22:10:45.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムは、ブロックのガスリミットが6000万ユニットに引き上げられた。これにより、フサカアップグレードの前にトランザクション処理能力が向上した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アバランチETFの競争が激化──ビットワイズが初めてステーキング機能を追加]]></title>
-        <id>https://www.coindeskjapan.com/?p=326498</id>
-        <link href="https://www.coindeskjapan.com/326498/"/>
-        <updated>2025-11-27T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットワイズ（Bitwise）は米証券取引委員会（SEC）に提出した現物アバランチ（AVAX）ETF（上場投資信託）の申請を更新した。これにより、このETFは市 ...
-アバランチETFの競争が激化──ビットワイズが初めてステーキング機能を追加 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
         </author>
     </entry>
 </feed>
