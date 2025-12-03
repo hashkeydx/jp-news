@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-03T11:28:49.010Z</updated>
+    <updated>2025-12-03T13:04:00.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/3話題】ビットコインとUSDCでau PAY ギフトカード購入可能に、欧州10銀行のユーロ連動ステーブルコインの新会社など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=523796</id>
+        <link href="https://www.neweconomy.jp/posts/523796"/>
+        <updated>2025-12-03T11:47:58.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産業界で最も影響力のある女性、イー・ハー氏がバイナンスの共同CEOに就任]]></title>
         <id>https://www.coindeskjapan.com/?p=327414</id>
@@ -1841,16 +1851,6 @@ DeFiの550億ドル急落を、心配し過ぎなくてよい理由 first appear
         <summary type="html"><![CDATA[国際通貨基金が資産トークン化のメリットとリスクを解説。自動取引による「フラッシュクラッシュ」の可能性や断片化の問題を指摘した。米SECなどの当局も規制を協議中だ。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー、中央銀行級の116トンの金を保有　世界最大の民間保有者に]]></title>
-        <id>https://coinpost.jp/?p=670179</id>
-        <link href="https://coinpost.jp/?p=670179"/>
-        <updated>2025-11-29T00:35:11.000Z</updated>
-        <summary type="html"><![CDATA[世界最大のステーブルコイン発行企業テザーが116トンの金を保有し、中央銀行以外で世界最大の金保有者となった。第3四半期に26トンの金を購入し、韓国やハンガリーの国家準備金に匹敵する規模に。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
