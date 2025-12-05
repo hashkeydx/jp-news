@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-05T20:34:19.187Z</updated>
+    <updated>2025-12-05T21:28:46.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨評価損不計上でフィスコとクシムに課徴金勧告　金融庁監視委が虚偽報告を指摘]]></title>
+        <id>https://coinpost.jp/?p=672020</id>
+        <link href="https://coinpost.jp/?p=672020"/>
+        <updated>2025-12-05T20:55:22.000Z</updated>
+        <summary type="html"><![CDATA[証券取引等監視委員会が5日、フィスコとクシムに対し、仮想通貨の評価損を適切に計上せず有価証券報告書に虚偽記載を行ったとして、それぞれ1500万円と1200万円の課徴金納付を勧告した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産セクターが急落──ビットコインは9万ドルに下落]]></title>
         <id>https://www.coindeskjapan.com/?p=327802</id>
@@ -2054,36 +2064,6 @@ AIエージェントはDeFiに対する攻撃能力がある：Anthropicの研�
 香港最大の取引所ハッシュキー、低手数料戦略などでIPOを前に損失が拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Sam Reynolds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クーコインがオーストリアでMiCARライセンス取得、EEA29カ国でサービス提供へ]]></title>
-        <id>https://www.neweconomy.jp/?p=522815</id>
-        <link href="https://www.neweconomy.jp/posts/522815"/>
-        <updated>2025-12-01T08:54:54.000Z</updated>
-        <summary type="html"><![CDATA[KuCoinがMiCARライセンス取得 海外暗号資産（仮想通貨）取引所クーコイン（KuCoin）が、オーストリアでEU（欧州連合）の「暗号資産市場規制（MiCA/MiCAR：Markets in Crypto Asset […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルアセットマーケッツが13億円調達、法人向け暗号資産サービス開始へ]]></title>
-        <id>https://www.neweconomy.jp/?p=522810</id>
-        <link href="https://www.neweconomy.jp/posts/522810"/>
-        <updated>2025-12-01T08:51:32.000Z</updated>
-        <summary type="html"><![CDATA[デジタルアセットマーケッツが13億円調達 暗号資産交換業登録企業でデジタルアセット事業を展開するデジタルアセットマーケッツ（Digital Asset Markets）が、総額13億円の資金調達を実施したと11月25日に […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザーCEO、S＆PのUSDT格下げに「財務基盤は強固」と反論]]></title>
-        <id>https://www.neweconomy.jp/?p=522795</id>
-        <link href="https://www.neweconomy.jp/posts/522795"/>
-        <updated>2025-12-01T08:41:14.000Z</updated>
-        <summary type="html"><![CDATA[USDTの安定性評価が引き下げ 米ドル建てステーブルコイン「USDT」発行元のテザー（Tether）CEOであるパオロ・アルドイーノ（Paolo Ardoino）氏が、同社の財務状況に関する懸念に対する反論を、自身のXア […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
         </author>
     </entry>
 </feed>
