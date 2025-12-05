@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-05T09:32:57.006Z</updated>
+    <updated>2025-12-05T10:36:16.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/5話題】SBI VCトレードとサッポロビールがWeb3実証実験、Gincoがカントンのバリデータ、ベースとソラナの公式ブリッジなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=525156</id>
+        <link href="https://www.neweconomy.jp/posts/525156"/>
+        <updated>2025-12-05T10:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベースとチェーンリンク、BaseとSolanaをつなぐブリッジを導入]]></title>
+        <id>https://www.coindeskjapan.com/?p=327753</id>
+        <link href="https://www.coindeskjapan.com/327753/"/>
+        <updated>2025-12-05T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[コインベース（Coinbase）が開発したレイヤー2ブロックチェーン「Base」とソラナ（Solana）ブロックチェーンを結ぶ新たなブリッジがメインネット上で稼 ...
+コインベースとチェーンリンク、BaseとSolanaをつなぐブリッジを導入 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Francisco Rodrigues</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マレーシア、1万4000のビットコインマイニングリグを閉鎖するため対策委員会を結成：ブルームバーグ]]></title>
         <id>https://www.coindeskjapan.com/?p=327702</id>
@@ -2550,17 +2571,6 @@ BTC、ETH、XRP、12月は下落でスタート──DeFiプラットフォー�
         <summary type="html"><![CDATA[欧州大手のコインシェアーズが、XRP・ソラナ・ライトコインのETF申請を取り下げた。米国市場での大手運用会社への集中により、差別化や利益率確保が困難になるとの懸念を示し、ナスダック上場を控え、仮想通貨関連株式やアクティブ運用戦略など新商品の投入を計画している。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サンパウロ、小規模農家向けマイクロローンに独自チェーン活用]]></title>
-        <id>https://www.coindeskjapan.com/?p=326700</id>
-        <link href="https://www.coindeskjapan.com/326700/"/>
-        <updated>2025-11-30T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラジルのフィンテック企業Tanssiは、サンパウロの小規模農家向けマイクロローンなど、政府支援のブロックチェーンプロジェクトを開始する。 サンパウロで開催され ...
-サンパウロ、小規模農家向けマイクロローンに独自チェーン活用 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Francisco Rodrigues</name>
         </author>
     </entry>
 </feed>
