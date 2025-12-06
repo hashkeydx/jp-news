@@ -620,10 +620,85 @@
       "articles": []
     },
     {
-      "title": "BitcoinGold(BTG)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=672101",
+          "author": "菊谷ルイス",
+          "description": "メタマスクが12月4日、トラストウォレットが12月2日に予測市場機能を相次いで発表した。ユーザーは自己管理型ウォレット内で実世界のイベント結果を予測し仮想通貨で取引できるようになる。",
+          "link": "https://coinpost.jp/?p=672101",
+          "publishedOn": "2025-12-06T02:15:29.000Z",
+          "wordCount": 3266,
+          "title": "メタマスク、予測市場取引機能を導入　ポリマーケットと連携しウォレット内で完結",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Prediction_Markets-metamask.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Prediction_Markets-metamask.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=672098",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所SBI VCトレードとサッポロビールがWeb3技術を活用した実証実験を12月5日に開始した。黒ラベルTHE BARのリニューアルを記念し、応募者全員にNFTを配布。保有者は店舗で特別なビール体験が受けられる。",
+          "link": "https://coinpost.jp/?p=672098",
+          "publishedOn": "2025-12-06T01:45:40.000Z",
+          "wordCount": 3275,
+          "title": "SBI VCトレードとサッポロビール、黒ラベルTHE BARリニューアル記念でNFT配布キャンペーン開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/sbi-sapporo.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/sbi-sapporo.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=672090",
+          "author": "A.Yamada",
+          "description": "ブラックロックの仮想通貨ビットコイン現物ETF「IBIT」から5週連続で約4200億円が流出した。上場以来最長の流出超過を記録。同社の事業開発ディレクターは「正常な動き」と述べた。",
+          "link": "https://coinpost.jp/?p=672090",
+          "publishedOn": "2025-12-06T01:10:04.000Z",
+          "wordCount": 3286,
+          "title": "ブラックロックのビットコイン現物ETF「IBIT」、5週連続で資金流出　4200億円規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/BlackRock-BTC-Bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/BlackRock-BTC-Bitcoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=672079",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会が金融監視とプライバシーをテーマにした円卓会議を12月15日に開催予定。ジーキャッシュ創設者ゾーコ・ウィルコックス氏を含む専門家がパネリストとして参加し、仮想通貨の匿名技術と監視措置について議論を行う。",
+          "link": "https://coinpost.jp/?p=672079",
+          "publishedOn": "2025-12-06T00:30:55.000Z",
+          "wordCount": 3263,
+          "title": "米SEC、仮想通貨プライバシー円卓会議を来週開催　ジーキャッシュ創設者も参加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=672066",
+          "author": "菊谷ルイス",
+          "description": "ビットマインは今週もETHの押し目買いを実施し9万7650イーサリアムを追加購入した。アーカムのデータによると、同社の総保有額は1.8兆円に達しETH総供給量の3.16%を占めている。",
+          "link": "https://coinpost.jp/?p=672066",
+          "publishedOn": "2025-12-05T23:35:56.000Z",
+          "wordCount": 3265,
+          "title": "トム・リーのビットマイン、今週約9.8万ETHを追加購入　総保有額1.8兆円相当",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bitmine-eth-down-bad.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bitmine-eth-down-bad.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=672036",
           "author": "K.Kobayashi",
