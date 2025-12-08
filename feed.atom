@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-08T09:41:20.116Z</updated>
+    <updated>2025-12-08T10:39:46.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、アブダビで包括的な規制認可を取得──取引所、決済、仲介の3社を運営]]></title>
+        <id>https://www.coindeskjapan.com/?p=328104</id>
+        <link href="https://www.coindeskjapan.com/328104/"/>
+        <updated>2025-12-08T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス（Binance）は、アラブ首長国連邦（UAE）首都アブダビの金融特別経済区であるアブダビ・グローバル・マーケット（ADGM）から、取引所、清算、仲介 ...
+バイナンス、アブダビで包括的な規制認可を取得──取引所、決済、仲介の3社を運営 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>Sam Reynolds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、FRB利下げ期待から小幅上昇──ETH、ADA、XRPが上昇を牽引]]></title>
         <id>https://www.coindeskjapan.com/?p=328050</id>
@@ -1554,37 +1565,6 @@ Ginco、ゴールドマン等参加の「Canton Network」にバリデータ参�
         <summary type="html"><![CDATA[AI企業アンソロピックが早ければ来年にもIPOを検討している。マイクロソフトとエヌビディアから合計150億ドルの出資確約を得ており、オープンAIと上場を競う。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firelight、XRPのステーキング機能をローンチ　DeFiの保険市場構築へ]]></title>
-        <id>https://coinpost.jp/?p=671263</id>
-        <link href="https://coinpost.jp/?p=671263"/>
-        <updated>2025-12-03T22:35:12.000Z</updated>
-        <summary type="html"><![CDATA[DeFiの保険サービスを開発するFirelightは、Firelight Protocolをローンチ。まずは仮想通貨XRPをステーキングできる機能を提供する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム「フサカ」実装完了、レイヤー2取引手数料削減]]></title>
-        <id>https://coinpost.jp/?p=671034</id>
-        <link href="https://coinpost.jp/?p=671034"/>
-        <updated>2025-12-03T22:00:43.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムの「フサカ」アップグレードが実施された。PeerDAS技術の導入によりバリデーターの処理負担が軽減され、レイヤー2の取引速度向上と手数料削減が実現。次期アップグレード「グラムステルダム」の準備も進行中だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム「フサカ」アップグレード、オンチェーン金融決済レイヤーとしての役割を確固たるものに：ビットワイズ]]></title>
-        <id>https://www.coindeskjapan.com/?p=327461</id>
-        <link href="https://www.coindeskjapan.com/327461/"/>
-        <updated>2025-12-03T22:00:30.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）運用会社ビットワイズは、12月3日に実施予定のイーサリアム「フサカ」アップグレードについて、市場がリアルタイムでは見落としがちだが、後にネッ ...
-イーサリアム「フサカ」アップグレード、オンチェーン金融決済レイヤーとしての役割を確固たるものに：ビットワイズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Will Canny</name>
         </author>
     </entry>
 </feed>
