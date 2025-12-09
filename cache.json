@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=328150",
+          "author": "廣瀬 優香",
+          "description": "ビットコイン（BTC）が約9万2000ドルとなる中、ビットコインカンファレンス「Bitcoin MENA 2025」がアブダビで開幕し、投資家たちはこのイベント ...\n2025年、主要なビットコインカンファレンスのたびに価格が下落──今週のアブダビ開催は例外となるか？ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/328150/",
+          "publishedOn": "2025-12-09T01:10:00.000Z",
+          "wordCount": 1337,
+          "title": "2025年、主要なビットコインカンファレンスのたびに価格が下落──今週のアブダビ開催は例外となるか？",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/cf88d99ec3caa5941122271b4cd5faab0612b798-1473x868-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=328145",
           "author": "Olivier Acuna",
           "description": "クオンタム・エコノミクス（Quantum Economics） の創設者であるマティ・グリーンスパン（Mati Greenspan）氏によると、米国上場のエック ...\n米XRP現物ETF、15日連続資金流入で10億ドルの大台目前に first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -384,6 +394,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=672669",
+          "author": "Enzo",
+          "description": "ストラテジー社のマイケル・セイラー会長がアブダビで、ビットコイン担保型の高利回りデジタル銀行システムを各国政府に提案。20兆〜50兆ドルの資本流入を見込むが、価格変動性への懸念も。中東の全政府系ファンドと会談を実施。",
+          "link": "https://coinpost.jp/?p=672669",
+          "publishedOn": "2025-12-09T01:22:16.000Z",
+          "wordCount": 3263,
+          "title": "マイケル・セイラー氏、国家主導のビットコイン銀行システムを提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=672648",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ハイパーリキッドの財務企業ハイパーリキッド・ストラテジーズは、最大約47億円規模の自社株買いを実施すると発表。延期や中止の可能性もあるが最大で12カ月間実施する計画である。",
+          "link": "https://coinpost.jp/?p=672648",
+          "publishedOn": "2025-12-09T01:00:31.000Z",
+          "wordCount": 3255,
+          "title": "ハイパーリキッド・ストラテジーズ、最大約47億円規模の自社株買い実施へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Hyperliquid-Logo.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Hyperliquid-Logo.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=672649",
+          "author": "A.Yamada",
+          "description": "ビットコイン支持のミレイ政権下で、アルゼンチン中央銀行が民間銀行による仮想通貨取引サービスの許可を検討中だと伝えられる。実現すれば普及が促進される可能性もある。",
+          "link": "https://coinpost.jp/?p=672649",
+          "publishedOn": "2025-12-09T00:40:47.000Z",
+          "wordCount": 3252,
+          "title": "アルゼンチン中銀、民間銀行による仮想通貨取引の解禁を検討か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/bitcoin-argentine-search-google-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/01/bitcoin-argentine-search-google-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=672655",
+          "author": "菊谷ルイス",
+          "description": "UAE拠点のイスラム銀行ルヤが8日、仮想通貨インフラプロバイダーのフューズと提携し、モバイルアプリを通じてビットコイン投資サービスを開始した。イスラム系銀行として初めて顧客にBTCの売買を可能にする。",
+          "link": "https://coinpost.jp/?p=672655",
+          "publishedOn": "2025-12-09T00:35:37.000Z",
+          "wordCount": 3244,
+          "title": "UAE初、イスラム系銀行ルヤがビットコイン投資サービスを開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/UAE_Dubai1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/UAE_Dubai1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=672631",
           "author": "菊谷ルイス",
@@ -1520,16 +1590,6 @@
           "wordCount": 804,
           "title": "フランクリン・テンプルトンの「ソラナ（SOL）」現物ETF、NYSEアーカで取引開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/05105847/9e9f4324e25d795c069536ac12141a11.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=524357",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/524357",
-          "publishedOn": "2025-12-04T13:43:42.000Z",
-          "wordCount": 779,
-          "title": "【12/4話題】イーサリアムのFusakaがメインネット実装完了、MUFGとプログマが日本初のトークン化投資信託を開発へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/04183112/ec70860cf9df86f78615e6fbad65679b.jpg"
         }
       ]
     }
