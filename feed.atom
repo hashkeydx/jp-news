@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-09T03:56:36.977Z</updated>
+    <updated>2025-12-09T04:40:47.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カナダ税務当局、仮想通貨利用者の4割が未申告と推定]]></title>
+        <id>https://coinpost.jp/?p=672756</id>
+        <link href="https://coinpost.jp/?p=672756"/>
+        <updated>2025-12-09T04:20:48.000Z</updated>
+        <summary type="html"><![CDATA[カナダ歳入庁が過去3年間で仮想通貨関連監査により1億カナダドル以上を徴収したが、2020年以降刑事告発は行われていない。同庁は仮想通貨プラットフォーム利用者の40%が未申告または高リスクだと推定している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、デリバティブ市場でのBTC・ETH・USDCの証拠金利用を試験運用。旧ガイダンスも撤回]]></title>
+        <id>https://www.neweconomy.jp/?p=526264</id>
+        <link href="https://www.neweconomy.jp/posts/526264"/>
+        <updated>2025-12-09T04:18:04.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産証拠金の実証開始 米商品先物取引委員会（CFTC）が、ビットコイン（BTC）、イーサリアム（ETH）、および米ドル建てステーブルコインUSDCをデリバティブ取引の証拠金として利用可能とするデジタル資産パイロットプ […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asterが2026年上半期ロードマップ公開、L1チェーンやステーキング機能など予定]]></title>
+        <id>https://www.neweconomy.jp/?p=526258</id>
+        <link href="https://www.neweconomy.jp/posts/526258"/>
+        <updated>2025-12-09T04:11:04.000Z</updated>
+        <summary type="html"><![CDATA[AsterDEXが2026年上半期のロードマップを発表 分散型パーペチュアル取引所「アスター（Aster）」が、2026年上半期のプロダクトロードマップを12月4日に公開した。 同プロジェクトは2025年の主要マイルスト […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ガス先物市場』、ヴィタリックがイーサリアム手数料を安定させるアイデアを披露]]></title>
+        <id>https://coinpost.jp/?p=672717</id>
+        <link href="https://coinpost.jp/?p=672717"/>
+        <updated>2025-12-09T03:50:54.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムの共同創設者ヴィタリック・ブテリン氏がガス代先物市場を提案した。将来の手数料をヘッジ可能にする構想であり、コミュニティ内で議論が活発化している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム開発者、ZKP活用の「ZKシークレットサンタ」プロトコル仕様を公開]]></title>
         <id>https://www.neweconomy.jp/?p=526230</id>
@@ -47,6 +87,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[米大手銀行CEO、上院議員と仮想通貨市場構造法案を協議予定　ステーブルコインの利息付与に反対表明へ＝報道]]></title>
+        <id>https://coinpost.jp/?p=672708</id>
+        <link href="https://coinpost.jp/?p=672708"/>
+        <updated>2025-12-09T02:45:01.000Z</updated>
+        <summary type="html"><![CDATA[バンク・オブ・アメリカ、シティグループ、ウェルズ・ファーゴのCEOが9日、上院議員と会談し仮想通貨市場法案を協議する。銀行側はステーブルコインへの利息付与に反対し、仮想通貨分野での競争能力確保を求める姿勢だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ジュピターとカミノ、「Jupiter Lend」の隔離担保を巡り議論]]></title>
         <id>https://www.neweconomy.jp/?p=526158</id>
         <link href="https://www.neweconomy.jp/posts/526158"/>
@@ -54,6 +104,16 @@
         <summary type="html"><![CDATA[議論は「隔離」の定義の違いに収束 ソラナ（Solana）基盤のDEXアグリゲーター「ジュピター（Jupiter）」のレンディング機能「ジュピター・レンド（Jupiter Lend）」に関するリスク説明を巡り、ジュピターと […]]]></summary>
         <author>
             <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テザーのUSDT、アブダビで「法定通貨参照トークン」認定範囲が拡大　9チェーン追加]]></title>
+        <id>https://coinpost.jp/?p=672712</id>
+        <link href="https://coinpost.jp/?p=672712"/>
+        <updated>2025-12-09T02:23:28.000Z</updated>
+        <summary type="html"><![CDATA[テザーのUSDT、アブダビで法定通貨参照トークンの認定範囲を拡大。新たに9つのブロックチェーンで規制業務が可能に。USDC、USD1、RLUSDも承認済み。UAEがステーブルコイン規制拠点として台頭。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
