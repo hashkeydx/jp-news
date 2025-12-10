@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-10T11:29:27.814Z</updated>
+    <updated>2025-12-10T13:04:53.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/10話題】米OCCが銀行の暗号資産売買仲介を正式容認、XRP現物ETFのAUMが10億ドルに、Tempoのパブリックテストネット公開など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=527091</id>
+        <link href="https://www.neweconomy.jp/posts/527091"/>
+        <updated>2025-12-10T11:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークル、アブダビで「金融サービス許可」ライセンス取得、マネーサービスプロバイダー事業運営へ]]></title>
+        <id>https://www.neweconomy.jp/?p=527268</id>
+        <link href="https://www.neweconomy.jp/posts/527268"/>
+        <updated>2025-12-10T11:34:41.000Z</updated>
+        <summary type="html"><![CDATA[サークルがアブダビでFSPライセンス取得 米サークルインターネットグループ（Circle Internet Group：以下、サークル）が、アブダビグローバルマーケット（ADGM）の金融サービス規制当局（FSRA）から、 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、トークン分類とトークン化証券を軸に制度整備を加速。ICOの多くは「非証券」との認識示す]]></title>
+        <id>https://www.neweconomy.jp/?p=527267</id>
+        <link href="https://www.neweconomy.jp/posts/527267"/>
+        <updated>2025-12-10T11:33:27.000Z</updated>
+        <summary type="html"><![CDATA[非証券トークンはCFTC、SECはトークン化証券に注力 米証券取引委員会（SEC）のポール・アトキンス（Paul Atkins）委員長が、12月9日にワシントンD.C.で開催されたブロックチェーン協会（Blockchai […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化された米国株の規制をめぐる議論が激化：HSBC]]></title>
         <id>https://www.coindeskjapan.com/?p=328457</id>
@@ -1485,48 +1515,6 @@ BTCトレジャリー企業Twenty One、厳しい環境下でも12月9日にNYSE
         <summary type="html"><![CDATA[ブラックロックの仮想通貨ビットコイン現物ETF「IBIT」から5週連続で約4200億円が流出した。上場以来最長の流出超過を記録。同社の事業開発ディレクターは「正常な動き」と述べた。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産評価で虚偽記載、金融庁監視委がフィスコ・クシムへ課徴金勧告]]></title>
-        <id>https://www.coindeskjapan.com/?p=327846</id>
-        <link href="https://www.coindeskjapan.com/327846/"/>
-        <updated>2025-12-06T00:42:41.000Z</updated>
-        <summary type="html"><![CDATA[金融庁の証券取引等監視委員会（監視委）は12月5日、暗号資産（仮想通貨）発行業者のフィスコに対し、自社発行の暗号資産の価格を不当に吊り上げ、決算上の損失計上を回 ...
-暗号資産評価で虚偽記載、金融庁監視委がフィスコ・クシムへ課徴金勧告 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、仮想通貨プライバシー円卓会議を来週開催　ジーキャッシュ創設者も参加]]></title>
-        <id>https://coinpost.jp/?p=672079</id>
-        <link href="https://coinpost.jp/?p=672079"/>
-        <updated>2025-12-06T00:30:55.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会が金融監視とプライバシーをテーマにした円卓会議を12月15日に開催予定。ジーキャッシュ創設者ゾーコ・ウィルコックス氏を含む専門家がパネリストとして参加し、仮想通貨の匿名技術と監視措置について議論を行う。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トム・リーのビットマイン、今週約9.8万ETHを追加購入　総保有額1.8兆円相当]]></title>
-        <id>https://coinpost.jp/?p=672066</id>
-        <link href="https://coinpost.jp/?p=672066"/>
-        <updated>2025-12-05T23:35:56.000Z</updated>
-        <summary type="html"><![CDATA[ビットマインは今週もETHの押し目買いを実施し9万7650イーサリアムを追加購入した。アーカムのデータによると、同社の総保有額は1.8兆円に達しETH総供給量の3.16%を占めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのビットコインETF、記録的な資金流出続く──ビットコインは上昇トレンド回帰に苦戦]]></title>
-        <id>https://www.coindeskjapan.com/?p=327825</id>
-        <link href="https://www.coindeskjapan.com/327825/"/>
-        <updated>2025-12-05T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックの主力ビットコイン（BTC）現物ETFは、上場以来最大の交換サイクルに直面しており、年末に向けて機関投資家の資金流出が続く中、過去5週間で27億ド ...
-ブラックロックのビットコインETF、記録的な資金流出続く──ビットコインは上昇トレンド回帰に苦戦 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Shaurya Malwa</name>
         </author>
     </entry>
 </feed>
