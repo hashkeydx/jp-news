@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-15T04:10:49.381Z</updated>
+    <updated>2025-12-15T05:39:35.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アブダビで「アバランチDLT財団」法人化、MENAでの取り組み強化へ]]></title>
+        <id>https://www.neweconomy.jp/?p=528763</id>
+        <link href="https://www.neweconomy.jp/posts/528763"/>
+        <updated>2025-12-15T05:36:59.000Z</updated>
+        <summary type="html"><![CDATA[アバランチDLT財団がADGMで法人化 レイヤー1ブロックチェーン「アバランチ（Avalanche）」を支援する非営利団体アバランチ財団（Avalanche Foundation）が、アブダビグローバルマーケット（ADG […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル決済、欧州初の銀行採用　スイスのAMINA銀行と提携]]></title>
+        <id>https://coinpost.jp/?p=674505</id>
+        <link href="https://coinpost.jp/?p=674505"/>
+        <updated>2025-12-15T05:36:56.000Z</updated>
+        <summary type="html"><![CDATA[リップルがスイスのAMINA銀行と提携し、欧州初のリップル決済導入を実現。ブロックチェーンと従来の銀行システムを統合し、ほぼ即時の国際送金サービスを提供。両社の協力関係はステーブルコイン保管から決済へと拡大。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スーパーステートがトークン化株式の直接発行プログラム公開、ソラナとイーサリアムに対応]]></title>
+        <id>https://www.neweconomy.jp/?p=528752</id>
+        <link href="https://www.neweconomy.jp/posts/528752"/>
+        <updated>2025-12-15T05:30:37.000Z</updated>
+        <summary type="html"><![CDATA[米SuperstateがDirect Issuance Programsを発表 金融テクノロジー企業のスーパーステート（Superstate）は、イーサリアム（Ethereum）とソラナ（Solana）のブロックチェーン […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国で「予測市場連合」発足、カルシやクリプトドットコムなど参加。CFTCはデータ規制で柔軟対応]]></title>
+        <id>https://www.neweconomy.jp/?p=528693</id>
+        <link href="https://www.neweconomy.jp/posts/528693"/>
+        <updated>2025-12-15T04:58:52.000Z</updated>
+        <summary type="html"><![CDATA[予測市場業界の成長を受け、主要企業が連合を結成 予測市場プラットフォーム運営のカルシ（Kalshi）と大手暗号資産（仮想通貨）取引所クリプトドットコム（Crypto.com）が、予測市場事業者の全米連合である「予測市場連 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム「フサカ」実装直後にPrysm障害、1.8億円の報酬損失が判明]]></title>
+        <id>https://coinpost.jp/?p=674472</id>
+        <link href="https://coinpost.jp/?p=674472"/>
+        <updated>2025-12-15T04:44:26.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの大型アップグレード「フサカ」実装直後、Prysmクライアントでバグが発生し382ETH（約1.8億円）の報酬機会が失われたことが判明し、ネットワークの堅牢性においてクライアント多様性の重要性が再確認された。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国、2027年に仮想通貨規制を本格導入へ　政治献金も禁止方針]]></title>
+        <id>https://coinpost.jp/?p=674466</id>
+        <link href="https://coinpost.jp/?p=674466"/>
+        <updated>2025-12-15T04:22:47.000Z</updated>
+        <summary type="html"><![CDATA[英国財務省が2027年施行予定の仮想通貨規制案を策定中。英国金融行動監視機構の監督下で取引所やウォレット企業に透明性基準を義務付け、消費者保護を強化。仮想通貨による政治献金も禁止へ。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガンがソラナ上でギャラクシーの商業証券発行を手配、コインベースらが購入]]></title>
+        <id>https://www.neweconomy.jp/?p=528674</id>
+        <link href="https://www.neweconomy.jp/posts/528674"/>
+        <updated>2025-12-15T04:19:20.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンがソラナ上でCP発行を手配 米金融大手JPモルガン（J.P. Morgan）が、ギャラクシー・デジタル・ホールディングス（Galaxy Digital Holdings）の米国コマーシャルペーパー（USCP） […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国税庁が暗号資産取引の調査結果を発表、追徴税額は46億円]]></title>
+        <id>https://www.neweconomy.jp/?p=528659</id>
+        <link href="https://www.neweconomy.jp/posts/528659"/>
+        <updated>2025-12-15T04:12:34.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引の追徴課税は46億円 国税庁が、令和6事務年度（2024年7月1日から2025年6月30日）における所得税および消費税調査等の状況を12月11日に公表した。暗号資産（仮想通貨）取引に関する調査件数および追徴税 […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026年、暗号資産市場は大きなカタリストがなく「低迷の年」になる：Barclaysが予測]]></title>
         <id>https://www.coindeskjapan.com/?p=328957</id>
