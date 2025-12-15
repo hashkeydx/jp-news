@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=328857",
+          "author": "CoinDesk JAPAN",
+          "description": "メディア、コミュニティ、インデックスを統合した “日本の投資家・ビジネスパーソン向けのデジタル資産市場の情報インフラ” へ進化 CoinDesk JAPANは2 ...\nCoinDesk JAPANから「NADA NEWS」へ──2026年、独自ブランドとしてリニューアル first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/328857/",
+          "publishedOn": "2025-12-15T00:00:00.000Z",
+          "wordCount": 1335,
+          "title": "CoinDesk JAPANから「NADA NEWS」へ──2026年、独自ブランドとしてリニューアル",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/NADA_NEWS.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=328913",
           "author": "Francisco Rodrigues",
           "description": "ビットコイン（BTC）を大量保有し、DAT（デジタルアセットトレジャリー）企業のパイオニアとされるStrategy（ストラテジー：MSTR）は、ナスダック100 ...\n米Strategy、ナスダック100指数に踏みとどまる first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -464,6 +474,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=674431",
+          "author": "A.Yamada",
+          "description": "世界最大のビットコイン保有企業ストラテジーのナスダック100指数への残留が決定した。セイラー会長はビットコイン追加購入への意欲を示唆している。",
+          "link": "https://coinpost.jp/?p=674431",
+          "publishedOn": "2025-12-15T01:50:34.000Z",
+          "wordCount": 3303,
+          "title": "ストラテジー、ナスダック100指数への残留決定　ビットコイン買い増しの意欲示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/nasdaq-bitcoin-futures-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/nasdaq-bitcoin-futures-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674378",
+          "author": "Enzo",
+          "description": "日本銀行が12月19日の金融政策決定会合で政策金利を0.75%に引き上げる方針。30年ぶりの高水準となる利上げが、円キャリートレード巻き戻しを通じてビットコインなど仮想通貨市場に与える影響を分析。米FRBのQT終了による影響緩和の可能性も解説。",
+          "link": "https://coinpost.jp/?p=674378",
+          "publishedOn": "2025-12-15T01:41:06.000Z",
+          "wordCount": 3291,
+          "title": "日銀30年ぶりの0.75%利上げ見込み　仮想通貨市場への影響は？",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/boj-digital-yen-.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/boj-digital-yen-.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674384",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨の税金の仕組みと、年末までにできる節税対策を解説。損益圧縮やふるさと納税・iDeCoの活用法、確定申告に向けた取引履歴・経費の整理ポイントをまとめています。",
+          "link": "https://coinpost.jp/?p=674384",
+          "publishedOn": "2025-12-15T01:10:57.000Z",
+          "wordCount": 3352,
+          "title": "2025年末までに済ませておきたい仮想通貨に関する税金と確定申告への準備｜Gtax寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/crypto-new-tax-relief-in-the-US.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/crypto-new-tax-relief-in-the-US.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674367",
+          "author": "A.Yamada",
+          "description": "米証券取引委員会が個人投資家向けにビットコインなど仮想通貨を保管する方法に関して推奨事項を提示した。ウォレットの選び方やカストディアン選定の注意点を解説している。",
+          "link": "https://coinpost.jp/?p=674367",
+          "publishedOn": "2025-12-14T23:50:33.000Z",
+          "wordCount": 3286,
+          "title": "米SEC、個人投資家向けの仮想通貨保管ガイドラインを提示　姿勢転換示すか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/new-sec-firing-and-50k.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=673793",
           "author": "CoinPost編集部",
@@ -1495,36 +1565,6 @@
           "wordCount": 812,
           "title": "暗号資産特化のAIインテリジェン提供「Surf」、パンテラやコインベースらから1,500万ドル調達",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/10235912/surf_news.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=527091",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/527091",
-          "publishedOn": "2025-12-10T11:45:35.000Z",
-          "wordCount": 800,
-          "title": "【12/10話題】米OCCが銀行の暗号資産売買仲介を正式容認、XRP現物ETFのAUMが10億ドルに、Tempoのパブリックテストネット公開など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/10195009/520bb35485eb995f1ded56f3bfb36bae.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=527268",
-          "author": "HitomotoToshikazu",
-          "description": "サークルがアブダビでFSPライセンス取得 米サークルインターネットグループ（Circle Internet Group：以下、サークル）が、アブダビグローバルマーケット（ADGM）の金融サービス規制当局（FSRA）から、 […]",
-          "link": "https://www.neweconomy.jp/posts/527268",
-          "publishedOn": "2025-12-10T11:34:41.000Z",
-          "wordCount": 801,
-          "title": "サークル、アブダビで「金融サービス許可」ライセンス取得、マネーサービスプロバイダー事業運営へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/10203424/c8e796e82b58540ba421e5548b3e9edd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=527267",
-          "author": "gentosha_takahashi",
-          "description": "非証券トークンはCFTC、SECはトークン化証券に注力 米証券取引委員会（SEC）のポール・アトキンス（Paul Atkins）委員長が、12月9日にワシントンD.C.で開催されたブロックチェーン協会（Blockchai […]",
-          "link": "https://www.neweconomy.jp/posts/527267",
-          "publishedOn": "2025-12-10T11:33:27.000Z",
-          "wordCount": 798,
-          "title": "米SEC、トークン分類とトークン化証券を軸に制度整備を加速。ICOの多くは「非証券」との認識示す",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/10203323/5a1f426fea78efad66fd4fc9b9e668ac.jpg"
         }
       ]
     }
