@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-15T20:35:53.001Z</updated>
+    <updated>2025-12-15T21:31:19.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム保有企業ビットマイン、先週10万ETH超を追加購入]]></title>
+        <id>https://coinpost.jp/?p=674662</id>
+        <link href="https://coinpost.jp/?p=674662"/>
+        <updated>2025-12-15T21:05:33.000Z</updated>
+        <summary type="html"><![CDATA[米上場企業ビットマインが15日、先週10万2259イーサリアムを購入したと発表した。総保有量は397万枚に達し、ETH供給量の3.2%を占める。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、2週連続でビットコインを1万BTC以上追加購入]]></title>
+        <id>https://coinpost.jp/?p=674652</id>
+        <link href="https://coinpost.jp/?p=674652"/>
+        <updated>2025-12-15T20:45:15.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン保有企業ストラテジーが16日、12月8日から14日の間に1万645BTCを約10億ドルで追加購入したと発表。2週連続で1万BTC超の購入となり、総保有量は67万1268BTCに達した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CME、XRPとソラナの現物建て先物を開始　既存の標準先物とは異なる商品設計]]></title>
         <id>https://coinpost.jp/?p=674648</id>
@@ -1243,37 +1263,6 @@ Coincheck、ソラナ（SOL）の取り扱いを開始 first appeared on CoinDes
         <summary type="html"><![CDATA[ニューヨーク証券取引所がビットコイン創始者サトシ・ナカモトの像を設置。設置者のトゥエンティワン・キャピタルは約4万BTC保有で世界3位。伝統的金融が仮想通貨を受け入れる象徴的出来事に。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザーとHoneyCoinが提携、アフリカでUSDT決済を拡大]]></title>
-        <id>https://coinpost.jp/?p=673590</id>
-        <link href="https://coinpost.jp/?p=673590"/>
-        <updated>2025-12-11T08:56:19.000Z</updated>
-        <summary type="html"><![CDATA[テザーはHoneyCoinと戦略的提携を発表し、アフリカでのUSDT決済拡大を目指す。HoneyCoinはQRコードや専用端末に対応したPOSネットワークを導入し、加盟店が直接USDTを受け取れる仕組みを構築。まずケニアでサービスを開始し、他市場へ展開予定。現地通貨の変動リスクを避けたいユーザーの需要に応え、アフリカにおけるステーブルコイン普及を加速させる。]]></summary>
-        <author>
-            <name>Austin Mwendia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[なぜビットコインは下落したのか──市場の不確実性は続いている]]></title>
-        <id>https://www.coindeskjapan.com/?p=328589</id>
-        <link href="https://www.coindeskjapan.com/328589/"/>
-        <updated>2025-12-11T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[時価総額トップの暗号資産（仮想通貨）であるビットコイン（BTC）は、アメリカ連邦準備制度理事会（FRB）による前夜の利下げを受けて下落している。その理由は、FR ...
-なぜビットコインは下落したのか──市場の不確実性は続いている first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>Omkar Godbole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領のWeb3ビジネスゲーム、事前登録開始。「TRUMP」報酬キャンペーン実施も]]></title>
-        <id>https://www.neweconomy.jp/?p=527590</id>
-        <link href="https://www.neweconomy.jp/posts/527590"/>
-        <updated>2025-12-11T08:43:06.000Z</updated>
-        <summary type="html"><![CDATA[TRUMP Billionaires Clubの事前登録開始 ドナルド・トランプ（Donald Trump）米大統領の名を冠したWeb3ゲーム「トランプ・ビリオネアズ・クラブ（TRUMP Billionaires Clu […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
