@@ -12,6 +12,26 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=329227",
+          "author": "Helene Braun",
+          "description": "ビットコイン（BTC）は12月16日、活発な午前の取引の後、米国午後の取引で8万7500ドル台でほぼ横ばいとなり、過去24時間で約2%の上昇を維持した。 イーサ ...\nビットコイン、株式に著しく劣る第4四半期のパフォーマンスが、1月の好材料となる可能性：K33 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/329227/",
+          "publishedOn": "2025-12-16T22:30:00.000Z",
+          "wordCount": 1384,
+          "title": "ビットコイン、株式に著しく劣る第4四半期のパフォーマンスが、1月の好材料となる可能性：K33",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/b81c35dd4f0b09a5c98720073c197697107b540b-3840x2160-1.jpeg"
+        },
+        {
+          "id": "https://www.coindeskjapan.com/?p=329223",
+          "author": "Krisztian Sandor",
+          "description": "暗号資産は12月16日、前日の急落を経て安定し、ビットコイン（BTC）は8万7000ドル台を回復した。 ビットコインが前夜の安値から約3％上昇した一方、イーサリ ...\nビットコイン、反発するも次に8万ドル割れが来る可能性 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/329223/",
+          "publishedOn": "2025-12-16T21:40:41.000Z",
+          "wordCount": 1381,
+          "title": "ビットコイン、反発するも次に8万ドル割れが来る可能性",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/29f9136a0f3e243a10963feb35ba5a9bb4621b98-2136x1164-1.jpeg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=329216",
           "author": "廣瀬 優香",
           "description": "ヘルスケアおよびビットコイン（BTC）トレジャリー企業のKindly MD（カインドリーMD）は、株価が最低上場要件を満たせなかったため、ナスダック取引所で上場 ...\nKindlyMD、ナスダック上場廃止の危機──最低株価要件を満たせず first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -320,26 +340,6 @@
           "wordCount": 1342,
           "title": "ビットコイン、9万ドル割れ──AI巡る不安感でナスダック、暗号資産関連株も下落",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/226994d25489dbe0929e16c6954ff1638303b38e-2250x1194-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=328828",
-          "author": "Margaux Nijkerk",
-          "description": "ソラナ（Solana）を基盤とする分散型無線ネットワーク「ヘリウム（Helium）」は、ブラジルのWiFiプロバイダー「Mambo WiFi」との合弁事業を通じ ...\nDePINプロジェクトのヘリウム、Mambo WiFiと提携してブラジルに進出 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/328828/",
-          "publishedOn": "2025-12-12T10:20:00.000Z",
-          "wordCount": 1353,
-          "title": "DePINプロジェクトのヘリウム、Mambo WiFiと提携してブラジルに進出",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2024/06/shutterstock_1421446100.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=328817",
-          "author": "Ian Allison",
-          "description": "暗号資産（仮想通貨）取引所のコインベース（Coinbase）と暗号資産に積極的なスタンダード・チャータード（Standard Chartered）銀行は、機関投 ...\nスタンダード・チャータードとコインベース、機関投資家向け暗号資産プライムサービスを拡大 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/328817/",
-          "publishedOn": "2025-12-12T09:45:00.000Z",
-          "wordCount": 1298,
-          "title": "スタンダード・チャータードとコインベース、機関投資家向け暗号資産プライムサービスを拡大",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2023/10/Q7EN4KB4RZACDME22FA7MJGN6Y.jpg"
         }
       ]
     },
@@ -354,6 +354,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=674966",
+          "author": "K.Kobayashi",
+          "description": "Visaは、米ドルステーブルコインUSDCでの機関向け決済を米国で開始したことを発表。銀行の初期の参加者が仮想通貨ソラナのブロックチェーン上でUSDCを使った決済を開始したと説明した。",
+          "link": "https://coinpost.jp/?p=674966",
+          "publishedOn": "2025-12-16T22:10:59.000Z",
+          "wordCount": 3298,
+          "title": "Visa、米国でステーブルコインUSDCによる機関向け決済を開始　ソラナが基盤",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/visa-tokenized-fiat-bank-eth.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/visa-tokenized-fiat-bank-eth.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674965",
+          "author": "菊谷ルイス",
+          "description": "米国のXRP現物上場投資信託の累計資金流入額が月曜日に10億ドルを突破した。11月13日の取引開始以降の節目となり、アルトコイン系ETFへの機関投資家の関心の高まりを示している。",
+          "link": "https://coinpost.jp/?p=674965",
+          "publishedOn": "2025-12-16T21:35:30.000Z",
+          "wordCount": 3286,
+          "title": "米国XRP現物ETFの累計流入額、開始1ヶ月で10億ドルの大台突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/xrp-etf-21shares.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/xrp-etf-21shares.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674962",
+          "author": "菊谷ルイス",
+          "description": "米連邦預金保険公社が銀行によるステーブルコイン発行の規則案を承認した。今夏成立したジーニアス法に基づき金融機関が子会社を通じて決済用ステーブルコインを発行する申請プロセスを定める。",
+          "link": "https://coinpost.jp/?p=674962",
+          "publishedOn": "2025-12-16T21:02:26.000Z",
+          "wordCount": 3276,
+          "title": "米FDICがステーブルコイン発行規則案を承認、銀行子会社の申請手続きを整備",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/fdic-crypto-no-insurance.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/fdic-crypto-no-insurance.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674959",
+          "author": "菊谷ルイス",
+          "description": "ロシア最大の銀行スベルバンクが分散型金融商品のテストを開始した。顧客の仮想通貨取引への関心増加に対応し、5月にはビットコイン仕組債の発行も開始している。",
+          "link": "https://coinpost.jp/?p=674959",
+          "publishedOn": "2025-12-16T20:45:18.000Z",
+          "wordCount": 3275,
+          "title": "ロシア最大手銀スベルバンク、分散型金融商品をテスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/russia34593-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/russia34593-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=674956",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会が分散型金融プラットフォームのAaveに対する約4年間の調査を終了した。法的措置の勧告はなく、創業者のクレチョフ氏が17日に調査終了を公表している。",
+          "link": "https://coinpost.jp/?p=674956",
+          "publishedOn": "2025-12-16T20:30:54.000Z",
+          "wordCount": 3276,
+          "title": "米SEC、4年にわたるAave調査を法的措置なしで終了",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/sec-criticism.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=674879",
           "author": "Enzo",
