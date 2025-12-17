@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=329252",
+          "author": "廣瀬 優香",
+          "description": "米銀のBank of America（バンク・オブ・アメリカ）は15日のレポートで、OCC（米通貨監督庁）、FDIC（米連邦預金保険公社）、FRB（米連邦準備制 ...\n米国の銀行、複数年かけてオンチェーンに移行へ：Bank of America first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/329252/",
+          "publishedOn": "2025-12-17T06:50:00.000Z",
+          "wordCount": 1374,
+          "title": "米国の銀行、複数年かけてオンチェーンに移行へ：Bank of America",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/2a64c40625f594e168abdd2371e2f3aefb404a21-1920x1080-1.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=329263",
           "author": "橋本 祐樹",
           "description": "大手からスタートアップまで、Web3をリサーチ・推進する企業を中心とした国内最大の法人会員制ビジネスコミュニティ「N.Avenue club」を運営する当社N. ...\n片山さつき氏、Web3・暗号資産の「未来は非常に明るい」──ガバナンスの重要性を強調：N.Avenue Club「Year End Party 2025」開催 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -404,6 +414,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=675142",
+          "author": "Enzo",
+          "description": "トランプ大統領次男エリック・トランプ氏が支援するアメリカン・ビットコインが、39日間で4社を追い抜き世界20位の上場企業BTC保有量を達成。2025年に企業のビットコイン保有が急拡大する中、同社は5,098BTCを保有し急成長を遂げている。",
+          "link": "https://coinpost.jp/?p=675142",
+          "publishedOn": "2025-12-17T06:52:42.000Z",
+          "wordCount": 3286,
+          "title": "トランプ一族関連のアメリカン・ビットコイン、BTC保有量で世界20位と発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eric-trump-bitcoin-asia.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/eric-trump-bitcoin-asia.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675114",
+          "author": "Enzo",
+          "description": "パンプ・ファンとソラナを相手取った集団訴訟で、裁判所が第二次修正訴状を許可。内部告発者から入手した5000件のチャット記録を新証拠として提出へ。40億~55億ドルの不正搾取疑惑でRICO法違反を主張。",
+          "link": "https://coinpost.jp/?p=675114",
+          "publishedOn": "2025-12-17T05:58:59.000Z",
+          "wordCount": 3279,
+          "title": "パンプ・ファンとソラナへの55億ドル訴訟、5000件の内部チャット提出へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/pumpfun-token-pump-pump-pump.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/pumpfun-token-pump-pump-pump.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=675112",
           "author": "菊谷ルイス",
@@ -1311,6 +1351,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=530082",
+          "author": "NewEconomy",
+          "description": "ソラナが大規模DDoS攻撃下に レイヤー1ブロックチェーン「ソラナ（Solana）」のネットワークが、最大で約6Tbps（テラビット毎秒）規模のDDoS攻撃を受けていると、同プロジェクトの共同創業者アナトリー・ヤコベンコ […]",
+          "link": "https://www.neweconomy.jp/posts/530082",
+          "publishedOn": "2025-12-17T07:24:38.000Z",
+          "wordCount": 845,
+          "title": "ソラナ、史上最大級のDDoS攻撃に影響なし、共同創業者は「強気材料」との見方",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/17162406/fae6ddcd64bb4c37910dfac72ab154c2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=530053",
+          "author": "OtsugaShinya",
+          "description": "ノナゴンがオアシスのバリデーター運用開始 東証グロース上場のホットリンクのグループ企業ノナゴン・キャピタル（Nonagon Capital）が、レイヤー1ブロックチェーン「オアシス（Oasys）」のバリデーター運用を開始 […]",
+          "link": "https://www.neweconomy.jp/posts/530053",
+          "publishedOn": "2025-12-17T06:51:52.000Z",
+          "wordCount": 752,
+          "title": "ホットリンクG傘下のNonagon Capital、「オアシス」のバリデーター運用開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2025/12/17155114/e527a97b7fae93e2fead3c050bf5af58.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=530040",
           "author": "HitomotoToshikazu",
