@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-19T11:28:51.847Z</updated>
+    <updated>2025-12-19T13:01:51.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産が「申告分離課税」へ、但し「特定銘柄」に限るなど条件付き＝税制改正大綱]]></title>
+        <id>https://www.neweconomy.jp/?p=531375</id>
+        <link href="https://www.neweconomy.jp/posts/531375"/>
+        <updated>2025-12-19T12:37:56.000Z</updated>
+        <summary type="html"><![CDATA[令和8年度税制改正大綱が公開 自由民主党・日本維新の会が12月19日に公開した「令和8年度税制改正大綱」において、暗号資産（仮想通貨）の分離課税化に関する内容が記載された。 税制改正大綱とは、各省庁からあがる税制改正の要 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC取引・市場部門、証券性暗号資産のカストディ解釈を明示]]></title>
         <id>https://www.neweconomy.jp/?p=531160</id>
@@ -2472,27 +2482,6 @@ XRP現物ETFはビットコインやイーサリアムとは異なり、30日連
         <summary type="html"><![CDATA[仮想通貨の税金の仕組みと、年末までにできる節税対策を解説。損益圧縮やふるさと納税・iDeCoの活用法、確定申告に向けた取引履歴・経費の整理ポイントをまとめています。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinDesk JAPANから「NADA NEWS」へ──2026年、独自ブランドとしてリニューアル]]></title>
-        <id>https://www.coindeskjapan.com/?p=328857</id>
-        <link href="https://www.coindeskjapan.com/328857/"/>
-        <updated>2025-12-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[メディア、コミュニティ、インデックスを統合した “日本の投資家・ビジネスパーソン向けのデジタル資産市場の情報インフラ” へ進化 CoinDesk JAPANは2 ...
-CoinDesk JAPANから「NADA NEWS」へ──2026年、独自ブランドとしてリニューアル first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>CoinDesk JAPAN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC、個人投資家向けの仮想通貨保管ガイドラインを提示　姿勢転換示すか]]></title>
-        <id>https://coinpost.jp/?p=674367</id>
-        <link href="https://coinpost.jp/?p=674367"/>
-        <updated>2025-12-14T23:50:33.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会が個人投資家向けにビットコインなど仮想通貨を保管する方法に関して推奨事項を提示した。ウォレットの選び方やカストディアン選定の注意点を解説している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
