@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-19T13:01:51.228Z</updated>
+    <updated>2025-12-19T13:44:03.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NTT Digital、消滅へ──ドコモ・グローバルに吸収合併]]></title>
+        <id>https://www.coindeskjapan.com/?p=329869</id>
+        <link href="https://www.coindeskjapan.com/329869/"/>
+        <updated>2025-12-19T13:35:45.000Z</updated>
+        <summary type="html"><![CDATA[NTT Digitalは19日、2026年2月1日付でNTTドコモ・グローバルに吸収合併されることを発表した。これにより、グループのWeb3戦略を牽引してきた専 ...
+NTT Digital、消滅へ──ドコモ・グローバルに吸収合併 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>栃山直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産が「申告分離課税」へ、但し「特定銘柄」に限るなど条件付き＝税制改正大綱]]></title>
         <id>https://www.neweconomy.jp/?p=531375</id>
@@ -2462,26 +2473,6 @@ XRP現物ETFはビットコインやイーサリアムとは異なり、30日連
         <summary type="html"><![CDATA[世界最大のビットコイン保有企業ストラテジーのナスダック100指数への残留が決定した。セイラー会長はビットコイン追加購入への意欲を示唆している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日銀30年ぶりの0.75%利上げ見込み　仮想通貨市場への影響は？]]></title>
-        <id>https://coinpost.jp/?p=674378</id>
-        <link href="https://coinpost.jp/?p=674378"/>
-        <updated>2025-12-15T01:41:06.000Z</updated>
-        <summary type="html"><![CDATA[日本銀行が12月19日の金融政策決定会合で政策金利を0.75%に引き上げる方針。30年ぶりの高水準となる利上げが、円キャリートレード巻き戻しを通じてビットコインなど仮想通貨市場に与える影響を分析。米FRBのQT終了による影響緩和の可能性も解説。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年末までに済ませておきたい仮想通貨に関する税金と確定申告への準備｜Gtax寄稿]]></title>
-        <id>https://coinpost.jp/?p=674384</id>
-        <link href="https://coinpost.jp/?p=674384"/>
-        <updated>2025-12-15T01:10:57.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨の税金の仕組みと、年末までにできる節税対策を解説。損益圧縮やふるさと納税・iDeCoの活用法、確定申告に向けた取引履歴・経費の整理ポイントをまとめています。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
