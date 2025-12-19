@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-19T05:35:15.192Z</updated>
+    <updated>2025-12-19T06:47:13.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの「実現時価総額」、1兆ドル超の過去最高水準を維持──4年サイクルに疑問符]]></title>
+        <id>https://www.coindeskjapan.com/?p=329777</id>
+        <link href="https://www.coindeskjapan.com/329777/"/>
+        <updated>2025-12-19T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）の「実現時価総額」は過去最高の1兆1250億ドル（約175兆5000億円）に達しており、過去10週間で価格が40%近く下落したにもかかわら ...
+ビットコインの「実現時価総額」、1兆ドル超の過去最高水準を維持──4年サイクルに疑問符 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国法銀行初、SoFiがステーブルコイン「ソーファイUSD」を発行]]></title>
+        <id>https://coinpost.jp/?p=675875</id>
+        <link href="https://coinpost.jp/?p=675875"/>
+        <updated>2025-12-19T06:33:22.000Z</updated>
+        <summary type="html"><![CDATA[米ソーファイ・テクノロジーズが完全準備型の米ドルステーブルコイン「ソーファイUSD」を発表した。パブリックブロックチェーン上でステーブルコインを発行する米国法銀行として初の事例となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルシ、米国ユーザーがトロンの「TRX」と「USDT」入出金可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=531063</id>
+        <link href="https://www.neweconomy.jp/posts/531063"/>
+        <updated>2025-12-19T06:22:22.000Z</updated>
+        <summary type="html"><![CDATA[KalshiがTRXとTron上のUSDT対応開始 米予測市場プラットフォームのカルシ（Kalshi）に、トロン（Tron）ネットワークが対応した。トロンネットワークの自立分散型組織（DAO）トロンDAO（TRON DA […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナで「ニア（NEAR）」利用可能に、Intents基盤でクロスチェーン実装]]></title>
+        <id>https://www.neweconomy.jp/?p=531068</id>
+        <link href="https://www.neweconomy.jp/posts/531068"/>
+        <updated>2025-12-19T05:57:03.000Z</updated>
+        <summary type="html"><![CDATA[SolanaでNEARトークン対応 レイヤー1ブロックチェーン「ニア（NEAR）」のネイティブトークン「NEAR」が、ソラナ（Solana）上で利用可能になった。ソラナおよびニア・プロトコル（NEAR Protocol） […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米ビットコイン金融企業フォールドが全米でのサービス展開開始、OCC認可ビットゴーと提携で]]></title>
         <id>https://www.neweconomy.jp/?p=531055</id>
@@ -14,6 +55,26 @@
         <summary type="html"><![CDATA[フォールドが全米でサービス展開へ 米ナスダック上場として初のビットコインサービス企業であるフォールド（Fold）が、デジタル資産インフラ企業ビットゴーホールディングス（BitGo Holdings）との提携により、自社サ […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年の仮想通貨盗難被害額5300億円突破、北朝鮮関連グループの犯行目立つ＝チェイナリシス]]></title>
+        <id>https://coinpost.jp/?p=675795</id>
+        <link href="https://coinpost.jp/?p=675795"/>
+        <updated>2025-12-19T05:15:27.000Z</updated>
+        <summary type="html"><![CDATA[チェイナリシスが2025年の仮想通貨盗難事件についてレポートを発表。総額5300億円規模であり、Bybitハッキングなど北朝鮮関連グループによる犯行が目立っている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークル、インテュイットと提携　USDC で税金還付や企業決済に対応]]></title>
+        <id>https://coinpost.jp/?p=675844</id>
+        <link href="https://coinpost.jp/?p=675844"/>
+        <updated>2025-12-19T05:13:50.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン大手サークルが金融テクノロジー企業インテュイットと複数年の戦略的提携を締結。TurboTaxやQuickBooksなどでUSDCを活用した税金還付、送金、決済サービスを展開し、年間15兆円超の取引に対応へ。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
