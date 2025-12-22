@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-22T11:28:18.769Z</updated>
+    <updated>2025-12-22T13:02:12.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/22話題】JPYCとITCENがステーブルコインの共同研究開始、税制改正大綱で暗号資産が申告分離課税に、ビットコインでQUOカードPay購入可能になど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=531745</id>
+        <link href="https://www.neweconomy.jp/posts/531745"/>
+        <updated>2025-12-22T12:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bybit、日本居住者向けサービス終了へ　2026年1月が最終期限]]></title>
         <id>https://coinpost.jp/?p=676379</id>
@@ -1511,37 +1521,6 @@ XRPは暴落中なのか？ 2ドルを下回る状況が続いているのは問
         <summary type="html"><![CDATA[仮想通貨ビットコインは直近24時間で約80万円の乱高下となった。米株式市場の取引開始前、FRBのウォーラー理事が今後も利下げを継続すべきとの見解を示したことを受け、リスク資産全般が買われ、一時は9万ドルを突破した。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カリフォルニア州知事がトランプ大統領の仮想通貨関連恩赦を批判、CZ氏ら含む]]></title>
-        <id>https://coinpost.jp/?p=675361</id>
-        <link href="https://coinpost.jp/?p=675361"/>
-        <updated>2025-12-18T00:45:15.000Z</updated>
-        <summary type="html"><![CDATA[米カリフォルニア州のニューサム知事がトランプ大統領による仮想通貨関連の恩赦決定を批判している。バイナンス創設者CZ氏やシルクロード創設者ロス・ウルブリヒト氏、ビットメックス共同創設者らへの恩赦が対象となっている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【独自】暗号資産ETF、2028年解禁へ──税制改正と同時施行で調整]]></title>
-        <id>https://www.coindeskjapan.com/?p=329459</id>
-        <link href="https://www.coindeskjapan.com/329459/"/>
-        <updated>2025-12-18T00:15:30.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）税制の「申告分離課税」への移行が2028年1月までずれ込む見通しとなったことを受け、暗号資産ETF（上場投資信託）の国内解禁についても、同時 ...
-【独自】暗号資産ETF、2028年解禁へ──税制改正と同時施行で調整 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>栃山直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベースが株式・予測市場など新サービス展開、総合取引所へ移行]]></title>
-        <id>https://coinpost.jp/?p=675358</id>
-        <link href="https://coinpost.jp/?p=675358"/>
-        <updated>2025-12-17T23:35:00.000Z</updated>
-        <summary type="html"><![CDATA[米コインベースが単なる仮想通貨取引を超えた大規模拡張を発表した。株式取引、予測市場、ソラナDEX統合、カスタムステーブルコインなど複数の新機能を導入し多様な資産を扱う総合プラットフォームを目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
