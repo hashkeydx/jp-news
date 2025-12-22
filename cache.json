@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=330111",
+          "author": "Will Canny",
+          "description": "“DeFi is Dead.” Maple Finance（メイプル・ファイナンス）の共同創業者兼CEO、Sid Powell（シド・パウエル）氏は、今後数年で ...\n“DeFi is Dead” オンチェーン市場がウォール街を飲み込む：Maple Finance CEO first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/330111/",
+          "publishedOn": "2025-12-22T21:00:00.000Z",
+          "wordCount": 1402,
+          "title": "“DeFi is Dead” オンチェーン市場がウォール街を飲み込む：Maple Finance CEO",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/image-81.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=330143",
           "author": "井上 俊彦",
           "description": "暗号資産（仮想通貨）指数プロバイダー大手、CF Benchmarks（CFベンチマーク）は、最新の資本市場想定フレームワークで、ビットコイン（BTC）の価格が2 ...\nビットコインは2035年に140万ドル超に到達：CF Benchmarksが予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -390,16 +400,6 @@
           "wordCount": 1361,
           "title": "予測市場ではロビンフッドがコインベースより有利な立場：みずほ",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/09/shutterstock_2060451872.jpg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=329571",
-          "author": "Omkar Godbole",
-          "description": "ダムの放水を見たことがあるだろうか。溜め込まれた水が止めようのない洪水となって押し寄せるのだ。 市場でも同じことが起きる。長く支えてきた価格の支持線が一旦崩れる ...\nXRPは暴落中なのか？ 2ドルを下回る状況が続いているのは問題：テクニカル分析 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/329571/",
-          "publishedOn": "2025-12-18T09:10:00.000Z",
-          "wordCount": 1423,
-          "title": "XRPは暴落中なのか？ 2ドルを下回る状況が続いているのは問題：テクニカル分析",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/06/shutterstock_2477249035.jpg"
         }
       ]
     },
@@ -414,6 +414,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=676484",
+          "author": "菊谷ルイス",
+          "description": "これまで仮想通貨を否定してきたJPモルガン・チェースは機関投資家向けに仮想通貨取引サービスの提供を検討している。現物取引とデリバティブ取引が含まれる可能性がある。",
+          "link": "https://coinpost.jp/?p=676484",
+          "publishedOn": "2025-12-22T21:05:37.000Z",
+          "wordCount": 3298,
+          "title": "JPモルガン、機関投資家向け仮想通貨取引の提供を検討＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=676478",
+          "author": "菊谷ルイス",
+          "description": "主要イーサリアム保有企業ビットマインが過去1週間で約10万ETHを追加購入し、保有が406万ETHに達したと発表した。弱気相場で買い増しを加速。",
+          "link": "https://coinpost.jp/?p=676478",
+          "publishedOn": "2025-12-22T20:50:30.000Z",
+          "wordCount": 3308,
+          "title": "ビットマイン、イーサリアム蓄積を継続　先週も約10万ETH買い増し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=676470",
+          "author": "菊谷ルイス",
+          "description": "ピーター・ティール氏支援のETHジラが債務返済のため2万4291ETHを売却し、仮想通貨イーサリアム蓄積戦略から現実世界資産トークン化事業への転換を表明した。",
+          "link": "https://coinpost.jp/?p=676470",
+          "publishedOn": "2025-12-22T20:30:59.000Z",
+          "wordCount": 3306,
+          "title": "主要イーサリアム保有企業ETHジラ、債務返済のため116億円相当ETHを売却",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ethereum-new-vitalik.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ethereum-new-vitalik.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=676379",
           "author": "Enzo",
@@ -1073,21 +1118,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/bnbchain1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/bnbchain1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=675591",
-          "author": "Enzo",
-          "description": "分散型取引所ユニスワップが1億UNI焼却を含む「ユニフィケーション提案」の最終投票を12月19日に開始。可決されれば手数料スイッチが起動し、UNIトークンは収益を生む資産へと転換する。",
-          "link": "https://coinpost.jp/?p=675591",
-          "publishedOn": "2025-12-18T09:27:42.000Z",
-          "wordCount": 3286,
-          "title": "ユニスワップ、1億UNI焼却提案の最終投票開始へ　流通量の16%",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/uniswap-v3-thumbnail.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/uniswap-v3-thumbnail.png"
         }
       ]
     },
