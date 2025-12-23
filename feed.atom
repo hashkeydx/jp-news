@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-23T06:49:50.952Z</updated>
+    <updated>2025-12-23T07:33:52.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Satori Coin Gi」オークションで443万円相当のビットコイン寄付、グラコネがコーディネーション担当]]></title>
+        <id>https://www.neweconomy.jp/?p=532346</id>
+        <link href="https://www.neweconomy.jp/posts/532346"/>
+        <updated>2025-12-23T07:27:07.000Z</updated>
+        <summary type="html"><![CDATA[KIZUNA HUBがSatori Coinオークションでコーディネーション担当 グラコネが、Satori Coin（サトリコイン）による10周年記念モデル「Satori Coin Gi」のチャリティーオークションにおい […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ガーナ、暗号資産サービス提供者法案を議会可決]]></title>
+        <id>https://www.neweconomy.jp/?p=532347</id>
+        <link href="https://www.neweconomy.jp/posts/532347"/>
+        <updated>2025-12-23T07:21:46.000Z</updated>
+        <summary type="html"><![CDATA[正式に規制枠組み提供へ ガーナ中央銀行（BoG）のジョンソン・アシアマ（Johnson Asiama）総裁が、議会で可決された「2025年暗号資産サービス提供者法案（Virtual Asset Service Provi […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[予測市場カルシ、BNBチェーンでの入出金サポートを開始]]></title>
+        <id>https://coinpost.jp/?p=676639</id>
+        <link href="https://coinpost.jp/?p=676639"/>
+        <updated>2025-12-23T06:46:32.000Z</updated>
+        <summary type="html"><![CDATA[CFTC規制下の予測市場カルシがBNBチェーンの入出金に対応。BSCユーザーはブリッジ不要で直接アクセス可能に。予測市場業界は2025年に急成長、取引高は400億ドル規模へ。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETHZilla、転換社債の償還資金として7450万ドル相当のイーサリアム売却]]></title>
         <id>https://www.neweconomy.jp/?p=532305</id>
@@ -69,6 +99,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ソラナ財団、手数料代行サービス「Kora」を発表　SOL不要で取引可能に]]></title>
+        <id>https://coinpost.jp/?p=676623</id>
+        <link href="https://coinpost.jp/?p=676623"/>
+        <updated>2025-12-23T05:34:24.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ財団が12月23日に発表した「Kora」により、ユーザーはSOLを保有せずにUSDCなど任意のトークンで取引手数料を支払えるようになる。手数料代行の仕組みと応用例を解説。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ストラテジー、株式売却で米ドル準備金を約7.5億ドル分積み増し]]></title>
         <id>https://www.neweconomy.jp/?p=532239</id>
         <link href="https://www.neweconomy.jp/posts/532239"/>
@@ -110,6 +150,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[仮想通貨ウォレット狙う情報窃盗マルウェア「Stealka」検出＝Kaspersky]]></title>
+        <id>https://coinpost.jp/?p=676579</id>
+        <link href="https://coinpost.jp/?p=676579"/>
+        <updated>2025-12-23T04:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Kasperskyが仮想通貨ウォレットなどを狙う高度マルウェア「Stealka」を報告した。海賊版ソフトなどに偽装し100種類以上のブラウザやウォレットを標的に。被害を防ぐ対策も解説。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AIフュージョンキャピタルG子会社のMWM、英暗号資産投資会社Re7と提携]]></title>
         <id>https://www.neweconomy.jp/?p=532184</id>
         <link href="https://www.neweconomy.jp/posts/532184"/>
@@ -130,6 +180,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ビットコイン採掘者の降伏、価格底打ちのシグナルか＝VanEck分析]]></title>
+        <id>https://coinpost.jp/?p=676598</id>
+        <link href="https://coinpost.jp/?p=676598"/>
+        <updated>2025-12-23T03:39:24.000Z</updated>
+        <summary type="html"><![CDATA[資産運用会社VanEckは、ビットコインのハッシュレートが4%低下したことについて、価格底打ちを示唆する強気シグナルと分析。過去のデータでは180日後に77%の確率で価格上昇。ただし一部専門家は慎重な見方も。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[コインベース、予測市場企業クリアリングカンパニーと買収合意]]></title>
         <id>https://www.neweconomy.jp/?p=532125</id>
         <link href="https://www.neweconomy.jp/posts/532125"/>
@@ -137,6 +197,16 @@
         <summary type="html"><![CDATA[CoinbaseがThe Clearing Companyと買収合意 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、予測市場を手がけるクリアリング・カンパニー（The Clearing Company） […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットポイント、P2P.orgを含む3社連携　法人向けETH活用支援を強化]]></title>
+        <id>https://coinpost.jp/?p=676555</id>
+        <link href="https://coinpost.jp/?p=676555"/>
+        <updated>2025-12-23T03:16:37.000Z</updated>
+        <summary type="html"><![CDATA[SBIグループのビットポイントジャパンが世界最大級のステーキング企業P2P.orgと連携。東証上場のDef consultingが進めるイーサリアムトレジャリー戦略を、グローバル基準の技術で支援する体制を構築した。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
     <entry>
