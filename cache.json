@@ -12,6 +12,16 @@
       "siteUrl": "https://www.coindeskjapan.com",
       "articles": [
         {
+          "id": "https://www.coindeskjapan.com/?p=330325",
+          "author": "増田隆幸",
+          "description": "QRコード決済ゲートウェイを手がけるネットスターズは12月23日、米ドル建てステーブルコイン「USDC」を用いた店舗支払いのサービス実証を、羽田空港第3ターミナ ...\nステーブルコイン「USDC」での店舗支払いを羽田空港で実証──QRコード活用でインバウンド対応：ネットスターズ first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
+          "link": "https://www.coindeskjapan.com/330325/",
+          "publishedOn": "2025-12-23T08:40:32.000Z",
+          "wordCount": 1280,
+          "title": "ステーブルコイン「USDC」での店舗支払いを羽田空港で実証──QRコード活用でインバウンド対応：ネットスターズ",
+          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/shutterstock_2599150923.jpg"
+        },
+        {
           "id": "https://www.coindeskjapan.com/?p=330307",
           "author": "井上 俊彦",
           "description": "ビットコイン（BTC）は歴史的に約4年周期で大きな価格変動を繰り返してきた。この「4年サイクル」は、約21万ブロックごとに新規発行量が半分になる「半減期（hal ...\nビットコインの4年サイクルは有効。2026年は「冬」に：Fidelityが予測 first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
@@ -480,16 +490,6 @@
           "wordCount": 1398,
           "title": "ビットコイン、8万6000ドルまで反落──CPI鈍化を受けた上昇分を失う",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/f0ba20f8c0968d308606fd0e21f26ded82b7a46f-2204x1188-1.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=329632",
-          "author": "廣瀬 優香",
-          "description": "ARK Invest（アーク・インベスト）は17日、主要暗号資産（仮想通貨）の価格下落に伴い暗号資産関連株が下落する中、暗号資産関連株を2540万ドル（約39億 ...\n米ARK、暗号資産関連株が下落する中でCoinbase、Bullish、Bitmine株を2540万ドル分買い増し first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/329632/",
-          "publishedOn": "2025-12-18T21:00:00.000Z",
-          "wordCount": 1322,
-          "title": "米ARK、暗号資産関連株が下落する中でCoinbase、Bullish、Bitmine株を2540万ドル分買い増し",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/340ef5bf4733bac7b1687aef57e5cadf230e5155-1920x1080-1.jpg"
         }
       ]
     },
@@ -504,6 +504,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=676642",
+          "author": "A.Yoshida",
+          "description": "1日1,400兆円超のFX市場に、Circle社がステーブルコインで挑む。StableFXの仕組み・強み・日本円ステーブルコインJPYC採択の背景まで、戦略を読み解きます。",
+          "link": "https://coinpost.jp/?p=676642",
+          "publishedOn": "2025-12-23T09:30:57.000Z",
+          "wordCount": 2266,
+          "title": "CircleのStableFXとは？外国為替をステーブルコインで効率化する戦略を読み解く",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/FX.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/FX.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=676663",
+          "author": "Enzo",
+          "description": "ギャラクシー・デジタルの研究者がインフレ調整後、ビットコインは「真の10万ドル」に未達と指摘。しかし日本の投資家は円安効果により米国投資家を大きく上回る実質リターンを獲得。円キャリートレードの典型例を分析。",
+          "link": "https://coinpost.jp/?p=676663",
+          "publishedOn": "2025-12-23T09:16:42.000Z",
+          "wordCount": 3305,
+          "title": "ビットコイン、インフレ調整後の購買力ベースでは10万ドル突破せず＝Galaxy分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/bitcoin-rate-cut-effect.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/bitcoin-rate-cut-effect.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=676302",
+          "author": "hiroto.yoshii",
+          "description": "edgeX（エッジエックス）は累計取引高5,900億ドル超の永久先物DEX。独自トークンの発行やエアドロップも予定されています。本記事では特徴や使い方、流動性提供の方法、手数料・リスクまでわかりやすく解説します。",
+          "link": "https://coinpost.jp/?p=676302",
+          "publishedOn": "2025-12-23T09:00:25.000Z",
+          "wordCount": 2383,
+          "title": "edgeX（エッジエックス）とは？エアドロップ情報・使い方を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/EdgeX1222.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/EdgeX1222.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=675410",
+          "author": "CoinPost編集部",
+          "description": "SBIホールディングスが、2026年2月27日にザ・プリンスパークタワー東京で開催される次世代金融カンファレンス「MoneyX 2026」に共催企業として参画。通貨のデジタル化と社会実装をテーマに開催される。",
+          "link": "https://coinpost.jp/?p=675410",
+          "publishedOn": "2025-12-23T09:00:20.000Z",
+          "wordCount": 3308,
+          "title": "SBIホールディングス株式会社、次世代金融カンファレンスMoneyX 2026の企画・運営として参画決定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/sbi_group_moneyx1218.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/sbi_group_moneyx1218.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=676639",
           "author": "Enzo",
@@ -1358,36 +1418,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/ripple-xrp-new-new.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=675715",
-          "author": "菊谷ルイス",
-          "description": "台湾の法務部が犯罪捜査で押収した210枚以上のビットコインを保有していることを明らかにした。戦略的備蓄の検討も進んでいる。",
-          "link": "https://coinpost.jp/?p=675715",
-          "publishedOn": "2025-12-18T21:12:49.000Z",
-          "wordCount": 3292,
-          "title": "台湾政府が210BTCの押収ビットコインを保有、世界10位の政府保有者に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/taiwan0823211.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/taiwan0823211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=675706",
-          "author": "菊谷ルイス",
-          "description": "米資産運用会社ビットワイズが2026年までに100本以上の仮想通貨ETFが米国で上場すると予測した。SECの一般的な上場基準公表により規制が明確化され、発行障壁が低下したことが背景にある。",
-          "link": "https://coinpost.jp/?p=675706",
-          "publishedOn": "2025-12-18T20:55:18.000Z",
-          "wordCount": 3286,
-          "title": "2026年までに米国で100超の仮想通貨ETF上場を予測、ビットワイズ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/etf-bitwise-100.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/etf-bitwise-100.jpg"
         }
       ]
     },
