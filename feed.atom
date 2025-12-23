@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-23T13:03:51.309Z</updated>
+    <updated>2025-12-23T13:46:25.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/23話題】羽田空港T3でUSDC決済の実証、バイビットが日本向けサービス終了へ、ストラテジーが米ドル準備金積み増しなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=532377</id>
+        <link href="https://www.neweconomy.jp/posts/532377"/>
+        <updated>2025-12-23T13:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JPモルガン、機関投資家向け暗号資産取引を検討か：ブルームバーグ]]></title>
         <id>https://www.coindeskjapan.com/?p=330386</id>
@@ -1502,37 +1512,6 @@ LN Trends 2025年11月（vol.13） first appeared on CoinDesk JAPAN（コイン�
 2026年、新たな暗号資産ETPが急増と予測：Bitwise first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Olivier Acuna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ保有企業フォワード・インダストリーズが株式をトークン化、DeFiで利用可能に]]></title>
-        <id>https://coinpost.jp/?p=675748</id>
-        <link href="https://coinpost.jp/?p=675748"/>
-        <updated>2025-12-19T01:35:41.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナの財務企業フォワード・インダストリーズは、自社の株式がソラナブロックチェーン上でトークン化されたことを発表。トークン化株式はDeFiで利用できるとした。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ・メディア株、25%急騰──核融合企業TAEテクノロジーズとの合併合意で]]></title>
-        <id>https://www.coindeskjapan.com/?p=329695</id>
-        <link href="https://www.coindeskjapan.com/329695/"/>
-        <updated>2025-12-19T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ドナルド・トランプ大統領のTruth Social（トゥルース・ソーシャル）の親会社であるTrump Media & Technology Group（ ...
-トランプ・メディア株、25%急騰──核融合企業TAEテクノロジーズとの合併合意で first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨保有企業株、MSCI除外で約2兆円売却圧力　来年1月に判断]]></title>
-        <id>https://coinpost.jp/?p=675756</id>
-        <link href="https://coinpost.jp/?p=675756"/>
-        <updated>2025-12-19T01:05:17.000Z</updated>
-        <summary type="html"><![CDATA[MSCIが仮想通貨保有企業を指数から除外する提案を検討。実施されれば39社で最大150億ドル（約2.2兆円）の強制売却が発生する可能性。業界は1,268の署名を集め強く反発。2026年1月15日に最終判断。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
