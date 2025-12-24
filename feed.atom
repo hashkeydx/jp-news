@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-24T08:44:13.969Z</updated>
+    <updated>2025-12-24T09:35:07.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本デジタル分散型金融協会が設立、暗号資産交換業・銀行・証券会社ら会員に]]></title>
+        <id>https://www.neweconomy.jp/?p=532858</id>
+        <link href="https://www.neweconomy.jp/posts/532858"/>
+        <updated>2025-12-24T09:07:38.000Z</updated>
+        <summary type="html"><![CDATA[日本デジタル分散型金融協会が設立 一般社団法人日本デジタル分散型金融協会（JDFA）の設立が12月24日に発表された。 同協会は、国内におけるデジタル技術およびブロックチェーン技術を基盤とする金融規制対象の暗号資産やステ […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EU理事会、デジタルユーロ法整備の方針固める。本格議論へ前進]]></title>
         <id>https://www.neweconomy.jp/?p=532848</id>
@@ -1435,37 +1445,6 @@ FRB、暗号資産企業を想定した簡易版マスター口座開設へ一�
         <link href="https://coinpost.jp/?p=675995"/>
         <updated>2025-12-19T21:50:25.000Z</updated>
         <summary type="html"><![CDATA[著名トレーダーであるアーサー・ヘイズ氏がFRBの準備金管理購入プログラムを分析し、実質的な資金供給（QE）により仮想通貨ビットコインの従来の4年サイクルが崩れたとの見解を示した。ビットコインは2026年に20万ドルに向かうと予測。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[強気サイクルは終了か、フィデリティ責任者がビットコインの2026年底値を6.5万ドル付近と予測]]></title>
-        <id>https://coinpost.jp/?p=675989</id>
-        <link href="https://coinpost.jp/?p=675989"/>
-        <updated>2025-12-19T21:20:50.000Z</updated>
-        <summary type="html"><![CDATA[フィデリティのグローバルマクロ責任者ジュリアン・ティマー氏がビットコインの強気サイクル終了の可能性を指摘し、2026年の底値を6.5万ドルから7.5万ドルと予測した。機関投資家の参入により従来のサイクル論が変化しているとの見方が広がっている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコイン市場、2028年までに6000億ドルに成長する可能性：JPモルガン]]></title>
-        <id>https://www.coindeskjapan.com/?p=329886</id>
-        <link href="https://www.coindeskjapan.com/329886/"/>
-        <updated>2025-12-19T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ウォール街の銀行JPモルガン・チェース（JPMorgan Chase & Co.）は、ステーブルコインの供給量が2028年までに5000億ドルから600 ...
-ステーブルコイン市場、2028年までに6000億ドルに成長する可能性：JPモルガン first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>林 理南</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米FRB、仮想通貨企業向け「簡易版マスターアカウント」の提案でパブリックコメント募集]]></title>
-        <id>https://coinpost.jp/?p=675984</id>
-        <link href="https://coinpost.jp/?p=675984"/>
-        <updated>2025-12-19T20:45:12.000Z</updated>
-        <summary type="html"><![CDATA[米連邦準備制度理事会が仮想通貨関連企業を含む適格機関に決済サービスへの限定的なアクセスを提供する「ペイメントアカウント」案についてパブリックコメントを募集開始。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
