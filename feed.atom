@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-24T13:42:26.499Z</updated>
+    <updated>2025-12-24T14:33:25.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【12/24話題】日本デジタル分散型金融協会が設立、ロシア中銀が暗号資産の新規制案、IMFがエルサルバドルの報告書公表など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=532879</id>
+        <link href="https://www.neweconomy.jp/posts/532879"/>
+        <updated>2025-12-24T13:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「企業のビットコイン活用」を紐解く──ANAP、CoinDesk JAPANにブランドチャンネル開設]]></title>
         <id>https://www.coindeskjapan.com/?p=330492</id>
@@ -1376,16 +1386,6 @@ VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコ
         <summary type="html"><![CDATA[ブラックロックのビットコイン現物ETF「IBIT」が年初来のETF流入で6位にランクインした。一方でリターンはマイナスとなっており背景にある投資家心理が注目される。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット、米国預託証券プログラム設立]]></title>
-        <id>https://coinpost.jp/?p=676097</id>
-        <link href="https://coinpost.jp/?p=676097"/>
-        <updated>2025-12-20T01:50:06.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン保有企業メタプラネットがドイツ銀行を預託銀行とする米国預託証券プログラムを設立し、19日より米国店頭市場で取引を開始する。米国投資家の利便性向上と流動性拡大を目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
