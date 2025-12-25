@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-25T06:49:23.512Z</updated>
+    <updated>2025-12-25T07:31:42.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SBI VCトレードとアプラス、USDCによる店舗決済の実証実験を来春開始]]></title>
+        <id>https://coinpost.jp/?p=677254</id>
+        <link href="https://coinpost.jp/?p=677254"/>
+        <updated>2025-12-25T07:21:27.000Z</updated>
+        <summary type="html"><![CDATA[SBI VCトレードとアプラスが米ドル建てステーブルコインUSDCを活用した店舗決済の実証実験を2026年春に開始。大阪・関西万博のデジタルウォレット成果を発展させ、QRコード決済でインバウンド顧客向けに新たな決済モデルを創出する。国内唯一の電子決済手段等取引業者であるSBI VCトレードと、豊富な加盟店ネットワークを持つアプラスが協力し、ステーブルコイン決済の社会実装を加速。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBI VCトレードとアプラス、「USDC」の店舗決済を来春に実証へ]]></title>
         <id>https://www.neweconomy.jp/?p=533219</id>
@@ -44,6 +54,16 @@
         <summary type="html"><![CDATA[クシムが「HODL1」に商号変更へ デジタル資産領域に関する研究開発および投資活動を行う東証スタンダード上場企業のクシムが、新商号「株式会社HODL 1 （ホドルワン）」への変更予定を12月24日に発表した。 変更理由は […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子コンピュータは仮想通貨の脅威か　専門家が語る「共存」の可能性]]></title>
+        <id>https://coinpost.jp/?p=677236</id>
+        <link href="https://coinpost.jp/?p=677236"/>
+        <updated>2025-12-25T05:55:54.000Z</updated>
+        <summary type="html"><![CDATA[量子コンピューティングが仮想通貨業界に与える影響について、楽観論と懸念論が交錯する中、専門家は「共存」の可能性を指摘。ビットコインベテラン投資家やマイクロストラテジー会長は量子が仮想通貨を強化すると主張する一方、開発者は5～10年の移行期間が必要と警告。ソラナやイーサリアムなど主要ブロックチェーンは既に量子耐性技術の実装を開始している。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
