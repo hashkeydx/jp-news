@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-26T08:42:05.024Z</updated>
+    <updated>2025-12-26T09:33:57.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aave、ブランド資産移管案を否決　DAOガバナンスの課題浮き彫りに]]></title>
+        <id>https://coinpost.jp/?p=677626</id>
+        <link href="https://coinpost.jp/?p=677626"/>
+        <updated>2025-12-26T09:02:08.000Z</updated>
+        <summary type="html"><![CDATA[Aaveのブランド資産移管提案が26日のSnapshot投票で否決。反対55%、棄権41%、賛成わずか3.5%。CoW Swap手数料問題が発端となった所有権紛争は、DeFiガバナンスの構造的課題を浮き彫りに。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WLFIの米ドルステーブルコイン「USD1」、供給量が30億ドル超に]]></title>
         <id>https://www.neweconomy.jp/?p=533711</id>
@@ -2182,17 +2192,6 @@ NFT市場の再定義──バブル完全崩壊で見えてきた知的財産�
         <summary type="html"><![CDATA[VanEckが米SECに提出したアバランチETF申請書を修正し、ステーキング報酬機能を追加。保有AVAXの最大70%をステーキングし利回りを創出する計画。米IRSの新規則が後押し。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコインを採用、その意味とは]]></title>
-        <id>https://www.coindeskjapan.com/?p=329959</id>
-        <link href="https://www.coindeskjapan.com/329959/"/>
-        <updated>2025-12-21T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VISA（ビザ）は12月16日、米国でUSDC決済を開始したと発表した。 これにより、米国でビザカードを発行する銀行、および加盟店（店舗やEC事業者）のカード決 ...
-VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコインを採用、その意味とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
         </author>
     </entry>
 </feed>

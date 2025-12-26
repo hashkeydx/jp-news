@@ -650,16 +650,6 @@
           "wordCount": 1262,
           "title": "トークン化預金でクリエイターへの収益分配を検証──ディーカレットDCP、北海道美唄市で実証実験",
           "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/55fcc2a7-cb35-42f5-8c3e-776a3df56afa.jpeg"
-        },
-        {
-          "id": "https://www.coindeskjapan.com/?p=329959",
-          "author": "増田隆幸",
-          "description": "VISA（ビザ）は12月16日、米国でUSDC決済を開始したと発表した。 これにより、米国でビザカードを発行する銀行、および加盟店（店舗やEC事業者）のカード決 ...\nVISA、米国でUSDC決済を開始──清算レイヤーにステーブルコインを採用、その意味とは first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.",
-          "link": "https://www.coindeskjapan.com/329959/",
-          "publishedOn": "2025-12-21T21:00:00.000Z",
-          "wordCount": 1280,
-          "title": "VISA、米国でUSDC決済を開始──清算レイヤーにステーブルコインを採用、その意味とは",
-          "imageUrl": "https://www.coindeskjapan.com/wp-content/uploads/2025/12/shutterstock_2462664791.jpg"
         }
       ]
     },
@@ -674,6 +664,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=677626",
+          "author": "Enzo",
+          "description": "Aaveのブランド資産移管提案が26日のSnapshot投票で否決。反対55%、棄権41%、賛成わずか3.5%。CoW Swap手数料問題が発端となった所有権紛争は、DeFiガバナンスの構造的課題を浮き彫りに。",
+          "link": "https://coinpost.jp/?p=677626",
+          "publishedOn": "2025-12-26T09:02:08.000Z",
+          "wordCount": 3306,
+          "title": "Aave、ブランド資産移管案を否決　DAOガバナンスの課題浮き彫りに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/aave.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/aave.png"
+        },
         {
           "id": "https://coinpost.jp/?p=677568",
           "author": "Enzo",
