@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-29T08:46:51.589Z</updated>
+    <updated>2025-12-29T09:43:16.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL2「Base」でのデジタル通貨発行を検証──マイナウォレット、しずおかフィナンシャルグループと共同研究]]></title>
+        <id>https://www.nadanews.com/?p=331519</id>
+        <link href="https://www.nadanews.com/331519/"/>
+        <updated>2025-12-29T08:49:11.000Z</updated>
+        <summary type="html"><![CDATA[マイナンバーカードを活用したWeb3ウォレットを提供するマイナウォレット は12月29日、しずおかフィナンシャルグループとWeb3事業の社会受容に向けた共同研究 ...
+イーサリアムL2「Base」でのデジタル通貨発行を検証──マイナウォレット、しずおかフィナンシャルグループと共同研究 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化預金「DCJPY」、九州FG・肥後銀行・鹿児島銀行が共同検討へ]]></title>
         <id>https://www.nadanews.com/?p=331514</id>
@@ -1141,26 +1152,6 @@ ETFは記録的な資金流入、それでもビットコインが伸び悩む�
 ビットコイン、2026年は「トップパフォーマー」に：VanEck first appeared on CoinDesk JAPAN（コインデスク・ジャパン）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーサー・ヘイズがイーサリアム売却継続、DeFiトークンに資金移動か]]></title>
-        <id>https://coinpost.jp/?p=677070</id>
-        <link href="https://coinpost.jp/?p=677070"/>
-        <updated>2025-12-24T21:15:33.000Z</updated>
-        <summary type="html"><![CDATA[アーサー・ヘイズ氏が過去1週間で1800ETH以上のイーサリアムを売却し、仮想通貨ENA、PENDLE、ETHFIなどのDeFi銘柄に資金を振り向けている。ポートフォリオのリバランス計画の一環とみられる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マウントゴックスハッキング容疑者関連ウォレット、177億円相当ビットコインを売却か]]></title>
-        <id>https://coinpost.jp/?p=677064</id>
-        <link href="https://coinpost.jp/?p=677064"/>
-        <updated>2025-12-24T20:50:33.000Z</updated>
-        <summary type="html"><![CDATA[マウントゴックスハッキング容疑者に関連するウォレットが過去1週間で1300BTCを取引所に送金した。10月以降の総売却額は2300BTCにのぼる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
