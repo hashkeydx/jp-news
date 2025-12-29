@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-28T23:29:41.521Z</updated>
+    <updated>2025-12-29T02:34:12.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スベルバンク銀、ロシア初の仮想通貨担保ローン発行]]></title>
+        <id>https://coinpost.jp/?p=677860</id>
+        <link href="https://coinpost.jp/?p=677860"/>
+        <updated>2025-12-29T00:44:52.000Z</updated>
+        <summary type="html"><![CDATA[ロシア最大の銀行スベルバンクが同国初の仮想通貨担保ローンを発行した。ビットコインマイニング企業に融資し、デジタル資産担保の仕組みを検証している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[調整局面に差し込むわずかな光──ビットコイン市場の需給構造に起きている変化【エックスウィンリサーチ】]]></title>
         <id>https://www.nadanews.com/?p=331405</id>
@@ -1109,16 +1119,6 @@ ETFは記録的な資金流入、それでもビットコインが伸び悩む�
         <summary type="html"><![CDATA[マウントゴックスハッキング容疑者に関連するウォレットが過去1週間で1300BTCを取引所に送金した。10月以降の総売却額は2300BTCにのぼる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/24話題】日本デジタル分散型金融協会が設立、ロシア中銀が暗号資産の新規制案、IMFがエルサルバドルの報告書公表など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=532879</id>
-        <link href="https://www.neweconomy.jp/posts/532879"/>
-        <updated>2025-12-24T13:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
