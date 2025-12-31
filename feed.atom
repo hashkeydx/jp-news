@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2025-12-31T13:43:39.935Z</updated>
+    <updated>2025-12-31T14:33:54.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【ソラナ価格分析】トランプ系ETF5本がナスダック上場、ソラナ価格を125ドルへ押し上げる──2025年末の取引は強気傾向に]]></title>
+        <id>https://www.nadanews.com/?p=331827</id>
+        <link href="https://www.nadanews.com/331827/"/>
+        <updated>2025-12-31T14:07:46.000Z</updated>
+        <summary type="html"><![CDATA[●Trump Media & Technology Groupが「アメリカファースト」を掲げるETF5本を上場し、ソラナ（Solana）のDEX取引高は ...
+【ソラナ価格分析】トランプ系ETF5本がナスダック上場、ソラナ価格を125ドルへ押し上げる──2025年末の取引は強気傾向に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Ibrahim Ajibade</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックロックの2026年投資展望　AI投資が米株式市場を牽引、ステーブルコインは金融の架け橋に]]></title>
         <id>https://ec2-13-114-170-70.ap-northeast-1.compute.amazonaws.com/?p=671424</id>
@@ -383,27 +394,6 @@ Coinbaseが予想する2026年の暗号資産市場──「期待」から「�
         <summary type="html"><![CDATA[金融庁が2026年度税制改正の資料を公開した。暗号資産取引を総合課税55%から申告分離課税20%へ変更することに加えて、ETF解禁や繰越控除などについても挙げられた。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年、暗号資産デリバティブ市場を振り返る：CoinGlass]]></title>
-        <id>https://www.nadanews.com/?p=331230</id>
-        <link href="https://www.nadanews.com/331230/"/>
-        <updated>2025-12-27T02:15:00.000Z</updated>
-        <summary type="html"><![CDATA[機関資本の支配、オンチェーン化、そして高まるシステミックリスク 2025年は、暗号資産（仮想通貨）市場の進化において明確な構造的転換点となった年だ。かつて周縁的 ...
-2025年、暗号資産デリバティブ市場を振り返る：CoinGlass first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東証上場KLab、ビットコインとゴールドを購入開始　分析レポート「岐路に立つBTC」も公開]]></title>
-        <id>https://coinpost.jp/?p=677741</id>
-        <link href="https://coinpost.jp/?p=677741"/>
-        <updated>2025-12-27T02:10:11.000Z</updated>
-        <summary type="html"><![CDATA[東証プライム上場のKLabが25日にビットコインとゴールドの購入を開始。AIを活用した市場分析レポートの不定期発刊も開始した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
