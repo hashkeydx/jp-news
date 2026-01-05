@@ -175,6 +175,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=678495",
+          "author": "Enzo",
+          "description": "ブロックチェーンセキュリティ企業スローミストのCSO・23pds氏が、メタマスクユーザーを標的とした「2FA認証」を装う新型フィッシング詐欺を警告。メタマスクは2FA機能を提供しておらず、復元フレーズを要求するサイトは詐欺。2025年のブロックチェーン被害総額は約4,600億円に。",
+          "link": "https://coinpost.jp/?p=678495",
+          "publishedOn": "2026-01-05T05:40:26.000Z",
+          "wordCount": 3295,
+          "title": "メタマスクユーザー狙う新型フィッシング詐欺、スローミストのCSOが警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/metamask-new-alert-point.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/02/metamask-new-alert-point.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=678496",
+          "author": "CoinPost編集部",
+          "description": "片山金融相が東京証券取引所の大発会で年頭挨拶を行い、今年を「デジタル元年」と宣言。国民がブロックチェーン型デジタル資産の恩恵を受けるには証券取引所の役割が重要と述べ、米国のETF普及事例を挙げて日本での展開にも期待を示した。",
+          "link": "https://coinpost.jp/?p=678496",
+          "publishedOn": "2026-01-05T05:34:38.000Z",
+          "wordCount": 3302,
+          "title": "片山財務・金融相、2026年を「デジタル元年」と位置づけ　証券取引所通じた普及に期待示す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/shutterstock_601525469.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/shutterstock_601525469.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=678451",
           "author": "A.Yamada",
           "description": "仮想通貨イーサリアム保有企業ビットマインのCEOが発行可能株式数を500億株に増やす提案を行った。イーサリアム価格が上昇した場合の株式分割に対応するとしている。",
@@ -406,6 +436,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=535078",
+          "author": "NewEconomy",
+          "description": "リトアニア中銀が暗号資産ライセンス義務化を本格執行へ リトアニア中央銀行（Lietuvos Bankas）が、EU（欧州連合）の「暗号資産市場規制（MiCA/MiCAR：Markets in Crypto Assets  […]",
+          "link": "https://www.neweconomy.jp/posts/535078",
+          "publishedOn": "2026-01-05T05:07:55.000Z",
+          "wordCount": 747,
+          "title": "リトアニア、無許可の暗号資産事業者を違法化＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05140743/25fd4c58133fb4011b7efb2d78fdb514.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535066",
+          "author": "NewEconomy",
+          "description": "ビットファームズがパラグアイ拠点を売却 北米のエネルギーおよびデジタルインフラ企業であるビットファームズ（Bitfarms）が、パラグアイのパソ・ペにある同社拠点を売却すると1月2日に発表した。この売却により、同社はラテ […]",
+          "link": "https://www.neweconomy.jp/posts/535066",
+          "publishedOn": "2026-01-05T05:02:03.000Z",
+          "wordCount": 816,
+          "title": "ビットファームズ、パラグアイ拠点売却でラテンアメリカから完全撤退へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05140143/65ff6f3c291f4d9b88a71c44e378dcce.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535048",
+          "author": "NewEconomy",
+          "description": "ビットマインがETHのPoSステーキング開始 ビットマインイマージョンテクノロジーズ（BitMine Immersion Technologies：以下、ビットマイン）が、自社保有のイーサ（ETH）をプルーフ・オブ・ステ […]",
+          "link": "https://www.neweconomy.jp/posts/535048",
+          "publishedOn": "2026-01-05T04:55:41.000Z",
+          "wordCount": 784,
+          "title": "ビットマインがETHステーキング開始、イーサリアムPoS契約に約2億ドル入金",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05135520/57409afa7f29356accf54af7a2b7a0e0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535053",
+          "author": "TamuraSeiji",
+          "description": "ユニスワップのUNIバーンが有効化 12月25日に可決された分散型取引所ユニスワップ（Uniswap）のガバナンス提案「ユニフィケーション（UNIfication）」が、12月27日（投票サイト表示では米国西部時間）に「 […]",
+          "link": "https://www.neweconomy.jp/posts/535053",
+          "publishedOn": "2026-01-05T04:52:55.000Z",
+          "wordCount": 813,
+          "title": "ユニスワップの「UNIfication」提案がオンチェーンで実行",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05135232/f3d1d64232b42064554bb7ae8c07f396.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535043",
+          "author": "NewEconomy",
+          "description": "ジョーカーズが「コード・オブ・ジョーカー」最新作の開発中止を発表 ジョーカーズ（Jokers）がセガ（SEGA）からライセンス許諾を受けて開発を進めていたWeb3ゲームタイトル「コード・オブ・ジョーカー・エヴォリューショ […]",
+          "link": "https://www.neweconomy.jp/posts/535043",
+          "publishedOn": "2026-01-05T04:34:05.000Z",
+          "wordCount": 785,
+          "title": "ジョーカーズ、Web3ゲーム「CODE OF JOKER EVOLUTIONS」の開発中止",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05133328/881a44747c24582cfb001e361a082d25.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=535036",
           "author": "NewEconomy",
