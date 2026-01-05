@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=331980",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ●米国によるベネズエラ攻撃を受けて、市場参加者がリスクを取る姿勢を強めるなか、ビットコイン（BTC）は一時9万3000ドル ...\nビットコイン、一時9万3000ドルに──XRP、ソラナも上昇 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/331980/",
+          "publishedOn": "2026-01-05T06:23:44.000Z",
+          "wordCount": 1449,
+          "title": "ビットコイン、一時9万3000ドルに──XRP、ソラナも上昇",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-142.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=331959",
           "author": "増田隆幸",
           "description": "米国で上場する暗号資産現物ETFについて、上場以降の累積取引高（cumulative trading volume）が2兆ドルを超えたと、複数の海外メディアが伝 ...\n暗号資産ETFの累積取引高が2兆ドルを突破──流動性の高い金融商品へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -174,6 +184,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=678488",
+          "author": "幸田直子",
+          "description": "米上院銀行委員会は1月15日にクラリティ法案の修正審議を開始する予定だ。仮想通貨の証券・商品分類を明確化し、SECとCFTCの監督責任を定める重要法案の成立に期待が高まっている。",
+          "link": "https://coinpost.jp/?p=678488",
+          "publishedOn": "2026-01-05T06:19:01.000Z",
+          "wordCount": 3312,
+          "title": "米クラリティ法案、1月15日に修正審議開始　仮想通貨規制の進展に期待",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ussenate0827211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ussenate0827211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=678495",
           "author": "Enzo",
@@ -436,6 +461,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=535128",
+          "author": "TanakaShuya",
+          "description": "メタプラがビットコイン追加購入 ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネットが、ビットコインの追加購入実施を12月30日に発表した。なお同社によるビットコイン追加購入は9月30日 […]",
+          "link": "https://www.neweconomy.jp/posts/535128",
+          "publishedOn": "2026-01-05T06:23:41.000Z",
+          "wordCount": 742,
+          "title": "メタプラネットが10月ぶりにビットコイン追加購入を報告、総保有数35102BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05152319/104306474b78485e70f9b66f49c64627.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535103",
+          "author": "NewEconomy",
+          "description": "コインベースがアルゼンチン事業を一時停止 米暗号資産（仮想通貨）取引所の コインベース（Coinbase） が、アルゼンチンにおける現地向けサービスを一時停止すると現地メディア「フォーブス・アルゼンチン（Forbes A […]",
+          "link": "https://www.neweconomy.jp/posts/535103",
+          "publishedOn": "2026-01-05T06:16:27.000Z",
+          "wordCount": 807,
+          "title": "コインベース、アルゼンチンでUSDCのペソ売買停止。現地サービスを一時縮小=報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05151552/b5eeb6254e0ff009c36bd4b45d436cd7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535110",
+          "author": "TanakaShuya",
+          "description": "ストラテジーがビットコイン追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を12月29日に発表した。 ストラテジーは12月22日から12月28 […]",
+          "link": "https://www.neweconomy.jp/posts/535110",
+          "publishedOn": "2026-01-05T06:12:18.000Z",
+          "wordCount": 787,
+          "title": "ストラテジーがビットコイン追加購入、総保有数67万2,497BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05151150/6aa599c1bef29d31593dcbff634b468e.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=535078",
           "author": "NewEconomy",
