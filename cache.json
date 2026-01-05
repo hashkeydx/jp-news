@@ -160,16 +160,6 @@
           "wordCount": 1598,
           "title": "デジタルアセット・ビッグバン ── 2026年、金商法と「オンチェーン金融」が変えるもの",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2706087743.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=331597",
-          "author": "増田隆幸",
-          "description": "2026年、暗号資産は金融商品取引法（金商法）の枠組みに組み込まれる。 これは、ひとつの業界ルールが変わるという話ではない。暗号資産が「周縁的なテクノロジー」や ...\nNew Atlas for Digital Assets ── デジタル資産市場の「地図」と「コンパス」を目指して：創刊特集ラインナップ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/331597/",
-          "publishedOn": "2025-12-31T15:00:00.000Z",
-          "wordCount": 1481,
-          "title": "New Atlas for Digital Assets ── デジタル資産市場の「地図」と「コンパス」を目指して：創刊特集ラインナップ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/2026_key_A_1.jpg"
         }
       ]
     },
@@ -184,6 +174,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=678451",
+          "author": "A.Yamada",
+          "description": "仮想通貨イーサリアム保有企業ビットマインのCEOが発行可能株式数を500億株に増やす提案を行った。イーサリアム価格が上昇した場合の株式分割に対応するとしている。",
+          "link": "https://coinpost.jp/?p=678451",
+          "publishedOn": "2026-01-05T02:42:14.000Z",
+          "wordCount": 3305,
+          "title": "ビットマイン、発行可能株式数を100倍に増やす提案　イーサリアム上昇に備えた対応で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=678441",
           "author": "Enzo",
@@ -400,7 +405,68 @@
       "title": "ニュース – あたらしい経済",
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=535036",
+          "author": "NewEconomy",
+          "description": "BNBスマートチェーンを対象にハードフォークを実施 BNBチェーン（BNB Chain）が、BNBスマートチェーン（BNB Smart Chain：BSC）メインネットの「フェルミ（Fermi）」アップグレード（ハードフ […]",
+          "link": "https://www.neweconomy.jp/posts/535036",
+          "publishedOn": "2026-01-05T04:24:07.000Z",
+          "wordCount": 817,
+          "title": "BNBチェーン、Fermiハードフォーク実施へ。トランザクション確定を高速化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05132253/05727e99c8812b582526785f8ae7baa5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535018",
+          "author": "NewEconomy",
+          "description": "アーベでブランド資産のDAO管理是非を問う投票を実施 分散型金融（DeFi）プロトコル「アーベ（Aave）」の分散型自律組織（DAO）であるアーベDAO（Aave DAO）が、アーベのブランド資産をDAO管理下に移管する […]",
+          "link": "https://www.neweconomy.jp/posts/535018",
+          "publishedOn": "2026-01-05T03:25:54.000Z",
+          "wordCount": 809,
+          "title": "Aave DAO、ブランド資産のDAO移管案を否決。ガバナンス巡り議論",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05122522/a0ceacd44a1624dbdf2d9407e61ffd18.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535012",
+          "author": "NewEconomy",
+          "description": "イオレが約1億6,630万円でビットコイン追加購入 暗号資産（仮想通貨）のトレジャリーとレンディングを推進する東証グロース上場企業のイオレが、ビットコイン（BTC）の追加取得を12月26日に発表した。 今回同社は、12月 […]",
+          "link": "https://www.neweconomy.jp/posts/535012",
+          "publishedOn": "2026-01-05T03:11:10.000Z",
+          "wordCount": 745,
+          "title": "イオレが約1.6億円でビットコイン追加購入、総保有数は約113BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05121053/643fa4d4519dc541d4b153602213c14f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535001",
+          "author": "NewEconomy",
+          "description": "暗号資産投資で税制・制度項目が上位に 国内暗号資産（仮想通貨）交換業者ビットバンク（bitbank）」が、一般インターネットユーザーを対象に実施した「暗号資産投資実態・市場に関するアンケート調査」の結果を12月26日に公 […]",
+          "link": "https://www.neweconomy.jp/posts/535001",
+          "publishedOn": "2026-01-05T03:04:55.000Z",
+          "wordCount": 751,
+          "title": "ビットバンク、2025年の暗号資産投資に関するアンケート調査結果を公表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05120429/fe2bf586af5aeeee7ff1f7baa21289ad.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=534993",
+          "author": "gentosha_takahashi",
+          "description": "暗号資産の脱税・申告漏れに終止符 英国で、経済協力開発機構（OECD）が策定した暗号資産（仮想通貨）の国際報告ルール「Crypto-Asset Reporting Framework（CARF）」に基づく新制度が1月1日 […]",
+          "link": "https://www.neweconomy.jp/posts/534993",
+          "publishedOn": "2026-01-05T02:57:57.000Z",
+          "wordCount": 740,
+          "title": "英国、CARFの国際報告ルール施行で取引データを年次報告へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05115732/9109ca7599ceb4978225793d200e8d46.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=534990",
+          "author": "NewEconomy",
+          "description": "USDCと金・銀のスワップをうたう偽サイトに注意喚起 米ドル建てステーブルコインUSDCの発行企業であるサークル（Circle）が、同社を装った偽のプラットフォームに関する情報が出回っていると、米暗号資産（仮想通貨）メデ […]",
+          "link": "https://www.neweconomy.jp/posts/534990",
+          "publishedOn": "2026-01-05T02:56:37.000Z",
+          "wordCount": 789,
+          "title": "サークル装う偽の金・銀トークン化プラットフォームの情報出回る=報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/05115613/8e37dd3c6fd37d4952bcd74f979a9812.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
