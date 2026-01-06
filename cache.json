@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=332137",
+          "author": "Shoko Galaviz",
+          "description": "米ウォール街の名門、Morgan Stanley（モルガン・スタンレー）が、暗号資産（仮想通貨）戦略を一段と前進させた。同行は1月6日、米証券取引委員会（SEC ...\nMorgan Stanley、ビットコインとソラナの現物ETFをSECに申請 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/332137/",
+          "publishedOn": "2026-01-06T21:15:00.000Z",
+          "wordCount": 1453,
+          "title": "Morgan Stanley、ビットコインとソラナの現物ETFをSECに申請",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2437501061.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=332128",
           "author": "栃山 直樹",
           "description": "2026年1月1日から、暗号資産（仮想通貨）の取引情報を世界各国の税務当局間で共有する新しい仕組み「暗号資産等報告枠組み（CARF：Crypto-Asset R ...\n暗号資産の国際的税務枠組み「CARF」が国内で始動──コインチェック、ユーザーへ申告求める first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -274,6 +284,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=679008",
+          "author": "菊谷ルイス",
+          "description": "ビットメックス共同創設者アーサー・ヘイズ氏が、トランプ政権によるベネズエラ介入がビットコイン上昇につながると分析した。原油価格を抑制しながらドル印刷を続ければ仮想通貨市場に追い風となる。",
+          "link": "https://coinpost.jp/?p=679008",
+          "publishedOn": "2026-01-06T21:25:54.000Z",
+          "wordCount": 3276,
+          "title": "ヘイズ氏、トランプ米政権のベネズエラ介入でビットコイン上昇と予測　原油価格抑制が鍵",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/venezuela-us.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/venezuela-us.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=679002",
+          "author": "菊谷ルイス",
+          "description": "テザーがテザーゴールドの新会計単位「スクード」を導入した。1スクードは金1オンスの1000分の1で、小額取引をより簡単にする。金価格が好調な中、金担保トークンの利用拡大を狙う。",
+          "link": "https://coinpost.jp/?p=679002",
+          "publishedOn": "2026-01-06T20:55:26.000Z",
+          "wordCount": 3256,
+          "title": "金連動のテザーゴールド、サトシモデル反映の新単位「スクード」導入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/tether-gold-small-unit.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/tether-gold-small-unit.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=678996",
+          "author": "菊谷ルイス",
+          "description": "米モルガン・スタンレーがビットコインとソラナに連動するETFの登録届出書をSECに提出した。米国の大手銀行による仮想通貨ETF申請は初めてで、主流金融機関のデジタル資産採用が加速。",
+          "link": "https://coinpost.jp/?p=678996",
+          "publishedOn": "2026-01-06T20:35:56.000Z",
+          "wordCount": 3270,
+          "title": "モルガン・スタンレー、ビットコインとソラナのETFを申請　米大手銀初",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/morganstanley0928211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/morganstanley0928211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=673365",
           "author": "CoinPost編集部",
