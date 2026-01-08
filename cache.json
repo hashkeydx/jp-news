@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=332311",
+          "author": "廣瀬 優香",
+          "description": "デジタル資産インフラ企業のFireblocksは、暗号資産（仮想通貨）の会計および財務報告プラットフォームであるTRES Financeの買収を発表した。 この ...\nFireblocks、暗号資産会計プラットフォームTRESを買収──1億3000万ドルで買収と報道 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/332311/",
+          "publishedOn": "2026-01-08T03:00:00.000Z",
+          "wordCount": 1412,
+          "title": "Fireblocks、暗号資産会計プラットフォームTRESを買収──1億3000万ドルで買収と報道",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2505840849.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=332353",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ●Babylon Labs（バビロンラボ）は、暗号資産に特化したVCであるアンドリーセン・ホロウィッツのa16z cryp ...\nBabylon Labs、ビットコイン担保インフラ開発で1500万ドル調達──a16z cryptoが出資 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/332353/",
+          "publishedOn": "2026-01-08T02:35:00.000Z",
+          "wordCount": 1397,
+          "title": "Babylon Labs、ビットコイン担保インフラ開発で1500万ドル調達──a16z cryptoが出資",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-242.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=332292",
           "author": "Shoko Galaviz",
           "description": "米動画共有プラットフォームを運営するRumble Inc.（ランブル）と、世界最大規模のデジタル資産企業であるTether（テザー）は、ランブルプラットフォーム ...\nRumbleとTether、暗号資産ウォレットをローンチ──ビットコインでの「投げ銭」が可能に first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -494,6 +514,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=679450",
+          "author": "A.Yamada",
+          "description": "数十億ドル規模の仮想通貨詐欺を指揮した陳志氏がカンボジアから中国へ送還された。この件では米国が関連資金をハッキングで押収した可能性を中国が指摘していた。",
+          "link": "https://coinpost.jp/?p=679450",
+          "publishedOn": "2026-01-08T04:05:01.000Z",
+          "wordCount": 3288,
+          "title": "仮想通貨詐欺のチェン・ジー容疑者が中国へ送還　米国は資金押収でハッキングか",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/xrp-steal-arrest.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/xrp-steal-arrest.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=679449",
           "author": "Enzo",
@@ -1431,6 +1466,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=535803",
+          "author": "OtsugaShinya",
+          "description": "JPMDがカントンネットワークで発行へ 米大手銀行JPモルガン（J.P. Morgan）提供の機関投資家向け米ドル建て預金トークン「JPMコイン：J.P. Morgan Deposit Token（JPMD）」を機関投資 […]",
+          "link": "https://www.neweconomy.jp/posts/535803",
+          "publishedOn": "2026-01-08T04:08:03.000Z",
+          "wordCount": 778,
+          "title": "JPモルガンの「JPMコイン」、カントンネットワークでネイティブ発行へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/08130727/547d6fe8345b4fe94c7d1efc114b6564.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535799",
+          "author": "gentosha_takahashi",
+          "description": "FRNTがクラーケンに上場 米ワイオミング州の公的機関であるワイオミング・ステーブル・トークン委員会（Wyoming Stable Token Commission）が発行する独自ステーブルコイン「フロンティア・ステーブ […]",
+          "link": "https://www.neweconomy.jp/posts/535799",
+          "publishedOn": "2026-01-08T03:50:41.000Z",
+          "wordCount": 767,
+          "title": "米ワイオミング州発行の独自ステーブルコイン「FRNT」、クラーケンで購入可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/08125028/51606671ee753d7c88719b7709edf5b8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535780",
+          "author": "NewEconomy",
+          "description": "動画共有プラットフォーム上で暗号資産ウォレットを実装 動画共有プラットフォームを展開する米ランブル（Rumble Inc.）と、ステーブルコイン発行企業のテザー（Tether）が、暗号資産（仮想通貨）ウォレット「ランブル […]",
+          "link": "https://www.neweconomy.jp/posts/535780",
+          "publishedOn": "2026-01-08T03:07:11.000Z",
+          "wordCount": 851,
+          "title": "ランブルとテザー、動画共有プラットフォームに暗号資産ウォレット「Rumble Wallet」実装",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/08120633/52619926683557506c4d1782d11ffe84.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535763",
+          "author": "TamuraSeiji",
+          "description": "Arbitrumがガス代スポンサーシッププログラムを実施 イーサリアム（Ethereum）のレイヤー2スケーリングソリューション「アービトラム（Arbitrum）」による、初期段階のプロジェクトチームを支援するガス代スポ […]",
+          "link": "https://www.neweconomy.jp/posts/535763",
+          "publishedOn": "2026-01-08T02:57:27.000Z",
+          "wordCount": 786,
+          "title": "アービトラム、ガス代スポンサーシッププログラム「ArbiFuel」を1月末までに実施へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/08115646/d49d4ca060c6db0bf0fcc201dbe9cdee.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=535757",
+          "author": "TanakaShuya",
+          "description": "北紡がビットコイン追加購入 東証スタンダード上場の北紡が、ビットコインの追加購入を1月6日に発表した。 今回の発表によると北紡は、2025年12月1日から31日までの1ヶ月間で、合計2.6BTCを購入。購入金額は3,65 […]",
+          "link": "https://www.neweconomy.jp/posts/535757",
+          "publishedOn": "2026-01-08T02:33:44.000Z",
+          "wordCount": 732,
+          "title": "繊維メーカーの北紡がビットコイン追加購入、総保有数14.14BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/08113322/00aeb2c9277a4d31e9fecf0796bf9d90.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=535725",
           "author": "OtsugaShinya",
