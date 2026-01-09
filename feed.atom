@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-09T10:40:18.663Z</updated>
+    <updated>2026-01-09T11:30:25.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/9話題】Zcash開発全スタッフ退職で元CEOは新会社設立、コインチェックGが3iQを傘下へ、OPトークン買戻し提案など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=536234</id>
+        <link href="https://www.neweconomy.jp/posts/536234"/>
+        <updated>2026-01-09T11:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイナンス、金・銀に対応するUSDT決済の無期限先物を提供開始]]></title>
         <id>https://www.neweconomy.jp/?p=536239</id>
@@ -2253,27 +2263,6 @@ PwC、アメリカの規制明確化で暗号資産関連の取り組みを強�
         <summary type="html"><![CDATA[イラン国防省輸出センターが弾道ミサイルやドローンなど軍事装備品の支払いに仮想通貨を受け付けると表明している。米国などからの制裁回避も背景の一つにある。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産ETFの累積取引高が2兆ドルを突破──流動性の高い金融商品へ]]></title>
-        <id>https://www.nadanews.com/?p=331959</id>
-        <link href="https://www.nadanews.com/331959/"/>
-        <updated>2026-01-04T23:20:51.000Z</updated>
-        <summary type="html"><![CDATA[米国で上場する暗号資産現物ETFについて、上場以降の累積取引高（cumulative trading volume）が2兆ドルを超えたと、複数の海外メディアが伝 ...
-暗号資産ETFの累積取引高が2兆ドルを突破──流動性の高い金融商品へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットワイズ、11銘柄の仮想通貨ETF申請　AAVE・UNI・HYPE含む]]></title>
-        <id>https://coinpost.jp/?p=678418</id>
-        <link href="https://coinpost.jp/?p=678418"/>
-        <updated>2026-01-04T23:16:17.000Z</updated>
-        <summary type="html"><![CDATA[米ビットワイズが11銘柄の仮想通貨ETFを米SECに申請。AAVE、UNI、HYPE、SUIなどを対象に、資産の60%を直接投資、40%をデリバティブに配分する戦略で2026年3月の取引開始を予定。各ファンドは純資産の80%以上を対象トークンに集中配分。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
