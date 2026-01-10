@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-10T02:22:39.785Z</updated>
+    <updated>2026-01-10T04:02:38.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ripple、英FCAの認可を取得]]></title>
+        <id>https://www.nadanews.com/?p=332490</id>
+        <link href="https://www.nadanews.com/332490/"/>
+        <updated>2026-01-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米フィンテック企業Ripple（リップル）は1月9日、英国金融行動監視機構（FCA）から電子マネー機関（EMI）ライセンスおよび暗号資産（仮想通貨）登録（Cry ...
+Ripple、英FCAの認可を取得 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「2026年は3つの仮想通貨技術がより広い分野に浸透」a16z予測]]></title>
         <id>https://coinpost.jp/?p=680065</id>
@@ -2075,16 +2086,6 @@ PolymarketとParcl、不動産価格予測市場で提携 first appeared on NADA
         <summary type="html"><![CDATA[ファンドストラットのトム・リー氏がビットコインは2026年1月末までに新たな最高値を更新できると予測。同氏が会長を務めるビットマインは先週仮想通貨イーサリアムを32977ETH追加購入した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【1/5話題】英国で暗号資産の国際報告ルール施行、メタプラネットが10月ぶりにビットコイン追加購入など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=535252</id>
-        <link href="https://www.neweconomy.jp/posts/535252"/>
-        <updated>2026-01-05T15:28:28.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
