@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-13T11:32:05.679Z</updated>
+    <updated>2026-01-13T13:08:32.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/13話題】BNB貯まるBinance Japan Cardの申込受付開始、ストラテジーが約12億ドルでビットコイン追加購入など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=537050</id>
+        <link href="https://www.neweconomy.jp/posts/537050"/>
+        <updated>2026-01-13T12:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元ニューヨーク市長が関与したミームコイン、流動性流出で批判の的に]]></title>
         <id>https://www.nadanews.com/?p=332775</id>
@@ -1042,46 +1052,6 @@ Polygon Labs、ステーブルコイン決済の新フレームワーク「Open 
         <summary type="html"><![CDATA[コインチェックグループは、親会社のマネックスから仮想通貨資産運用企業3iQの株式の譲渡を受ける契約を締結したと発表。契約の目的や今後の計画を説明した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロック、3日間で約1300億円相当のビットコインを購入]]></title>
-        <id>https://coinpost.jp/?p=679711</id>
-        <link href="https://coinpost.jp/?p=679711"/>
-        <updated>2026-01-09T00:55:07.000Z</updated>
-        <summary type="html"><![CDATA[世界最大級の資産運用会社ブラックロックが2026年1月第1週に約1300億円相当のビットコインを購入。長期保有者の売却圧力が低下する中、市場は価格調整後の蓄積段階に移行しつつあると専門家は分析している。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムL2オプティミズム、OPトークン買い戻し提案]]></title>
-        <id>https://coinpost.jp/?p=679697</id>
-        <link href="https://coinpost.jp/?p=679697"/>
-        <updated>2026-01-09T00:50:16.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムL2のオプティミズム財団が、スーパーチェーン収益50%でのOPトークン買い戻しを提案した。スーパーチェーンの成長がOPの価値向上に直結する仕組みを構想している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨市場が安定化、ETF資金流出に底打ちの兆し＝JPモルガン分析]]></title>
-        <id>https://coinpost.jp/?p=679696</id>
-        <link href="https://coinpost.jp/?p=679696"/>
-        <updated>2026-01-09T00:13:15.000Z</updated>
-        <summary type="html"><![CDATA[「仮想通貨の冬」は早くも終了か？JPモルガンのアナリストが仮想通貨市場で安定化の兆しが見られたと報告した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジーキャッシュの元開発チーム、新たなウォレット「cashZ」開発へ　集団離脱後に発表]]></title>
-        <id>https://coinpost.jp/?p=679693</id>
-        <link href="https://coinpost.jp/?p=679693"/>
-        <updated>2026-01-08T23:35:05.000Z</updated>
-        <summary type="html"><![CDATA[ECCを集団離脱した元開発チームが、ジーキャッシュの主力ウォレット「ザシ」と競合する新ウォレット「cashZ」を開発している。同じコードベースを使用し数週間後にサービス開始予定だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
