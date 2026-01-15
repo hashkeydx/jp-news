@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=331765",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● 予測市場Polymarketで、ある1人のトレーダーが「米国が1月14日までにイランを攻撃する」との見通しに4万ドル（ ...\n「米国が今夜イランを攻撃する」に4万ドル──予測市場Polymarketで1人のトレーダーが賭け first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/331765/",
+          "publishedOn": "2026-01-15T06:21:09.000Z",
+          "wordCount": 1372,
+          "title": "「米国が今夜イランを攻撃する」に4万ドル──予測市場Polymarketで1人のトレーダーが賭け",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/image-95-scaled.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=333003",
+          "author": "栃山 直樹",
+          "description": "SBINFTは15日、総合建設大手の大林組が運営する「みんまちSHOP」において、NFTを活用したユーザーエンゲージメント強化の実証実験に技術協力すると発表した ...\nSBINFT、大手ゼネコン大林組に技術提供──Polygon基盤のNFTで行動可視化 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333003/",
+          "publishedOn": "2026-01-15T06:06:38.000Z",
+          "wordCount": 1375,
+          "title": "SBINFT、大手ゼネコン大林組に技術提供──Polygon基盤のNFTで行動可視化",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/13931-137-07e677d0dc9e05b2b403cb.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=332944",
           "author": "Shoko Galaviz",
           "description": "ブロックチェーン金融を手がける米Figure（フィギュア）は1月14日、On-chain Public Equity Network（OPEN）の立ち上げを発表 ...\nFigure、株式取引をブロックチェーン上に移行する新ネットワーク「OPEN」を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -480,10 +500,55 @@
       "articles": []
     },
     {
-      "title": "Bitcoin(BTC)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=681159",
+          "author": "Enzo",
+          "description": "BitMEX共同創業者アーサー・ヘイズ氏が最新分析を発表。2025年ビットコイン低迷の原因は米ドル流動性収縮と指摘し、2026年はFRBの資産拡大、銀行融資増、住宅ローン金利低下により反発を予測。",
+          "link": "https://coinpost.jp/?p=681159",
+          "publishedOn": "2026-01-15T05:52:11.000Z",
+          "wordCount": 3330,
+          "title": "ヘイズ氏、2026年ビットコイン反発予測　米ドル流動性拡大が追い風と指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/bitcoin_1223-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/bitcoin_1223-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=681130",
+          "author": "幸田直子",
+          "description": "ハッシュレート上昇とブロックシェア低下ビットコインマイニング業界に特化したコンサルティング会社BlocksBridgeConsulting（BBC）は8日に発表したレポートで、2025年に同業界が決定的な構造転換の局面を迎えたと主張した。同...",
+          "link": "https://coinpost.jp/?p=681130",
+          "publishedOn": "2026-01-15T05:00:02.000Z",
+          "wordCount": 3334,
+          "title": "ビットコインマイニング業界で進む構造転換、2025年に米国シェアが5%低下",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/american-super-pac-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/american-super-pac-bitcoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=681133",
+          "author": "Enzo",
+          "description": "米ロードアイランド州が月5000ドル(約79万円)までのビットコイン取引を州税免除する法案を提出。アリゾナ州も同様の動きを見せ、連邦レベルでもステーブルコイン免税案が検討されるなど、トランプ政権下で仮想通貨税制改革が加速している。",
+          "link": "https://coinpost.jp/?p=681133",
+          "publishedOn": "2026-01-15T04:51:23.000Z",
+          "wordCount": 3328,
+          "title": "米ロードアイランド州、ビットコイン取引の州税免除法案を提出　月約79万円まで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-custody-state-street.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/bitcoin-custody-state-street.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=681118",
           "author": "菊谷ルイス",
@@ -1286,6 +1351,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=537815",
+          "author": "OtsugaShinya",
+          "description": "アルパカの評価額は11.5億ドルに 日本人2名が共同創業した証券インフラ提供の米アルパカ（Alpaca）が、企業評価額が11.5億ドル（約1,823億円）に達し、ユニコーン企業になったと1月14日に発表した。今回アルパカ […]",
+          "link": "https://www.neweconomy.jp/posts/537815",
+          "publishedOn": "2026-01-15T06:40:45.000Z",
+          "wordCount": 749,
+          "title": "日本人創業の証券インフラ米アルパカ、評価額11.5億ドルでユニコーンに。クラーケンなど出資で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/15154001/24023fc80ffec81b78e4e1a8836804c1.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=537776",
           "author": "OtsugaShinya",
