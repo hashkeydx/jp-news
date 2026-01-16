@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-16T11:31:02.473Z</updated>
+    <updated>2026-01-16T13:05:39.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7月開催「WebX 2026」と2月初開催「MoneyX」の新情報を公開｜WebX 2026 Visionary Night]]></title>
+        <id>https://coinpost.jp/?p=681556</id>
+        <link href="https://coinpost.jp/?p=681556"/>
+        <updated>2026-01-16T10:44:08.000Z</updated>
+        <summary type="html"><![CDATA[CoinPostは「WebX Visionary Night 2026」でアジア最大級Web3カンファレンス「WebX 2026」の7月13-14日開催を発表。併せてステーブルコイン特化の「MoneyX 2026」を2月27日に初開催。平将明前デジタル大臣がAI×Web3の重要性に言及した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次世代金融カンファレンス「MoneyX 2026」発表第一弾]]></title>
         <id>https://coinpost.jp/?p=681464</id>
@@ -2123,49 +2133,6 @@ CLARITY法案が映し出すビットコインの構造転換 ──オンチェ
         <summary type="html"><![CDATA[米仮想通貨取引所コインベースが、ステーブルコイン利回り規制次第でクラリティ法案支持を見直す可能性が浮上している。法案の行方や成立した場合の業界への影響を解説する。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テネシー州がPolymarket、Kalshi、Crypto.comにスポーツ関連取引の停止を命令──無許可ギャンブルと判断]]></title>
-        <id>https://www.nadanews.com/?p=332615</id>
-        <link href="https://www.nadanews.com/332615/"/>
-        <updated>2026-01-12T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ●テネシー州の規制当局は、無許可のギャンブルに該当するとして、予測市場のPolymarketとKalshi、およびCryp ...
-テネシー州がPolymarket、Kalshi、Crypto.comにスポーツ関連取引の停止を命令──無許可ギャンブルと判断 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスクのX、「スマートキャッシュタグ」開発中　仮想通貨にも対応か]]></title>
-        <id>https://coinpost.jp/?p=680222</id>
-        <link href="https://coinpost.jp/?p=680222"/>
-        <updated>2026-01-12T00:40:16.000Z</updated>
-        <summary type="html"><![CDATA[SNS大手X（旧称ツイッター）が資産価格をリアルタイム表示する「スマートキャッシュタグ」を開発中。株式の他、ビットコインなど仮想通貨にも対応する可能性がある。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood、独自レイヤー2をArbitrum上に構築──「イーサリアムのセキュリティが欲しかった」]]></title>
-        <id>https://www.nadanews.com/?p=332602</id>
-        <link href="https://www.nadanews.com/332602/"/>
-        <updated>2026-01-12T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ●Robinhood（ロビンフッド）の暗号資産部門は2025年、ブロックチェーンインフラへの投資を積極化させてきた。具体的 ...
-Robinhood、独自レイヤー2をArbitrum上に構築──「イーサリアムのセキュリティが欲しかった」 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPMorgan、ブロックチェーン戦略を拡大──「相互運用可能なデジタルマネー」構築へ]]></title>
-        <id>https://www.nadanews.com/?p=332576</id>
-        <link href="https://www.nadanews.com/332576/"/>
-        <updated>2026-01-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ●JPMorgan（JPモルガン）は、トークン化預金（あるいはデポジットトークン）「JPM Coin（JPMコイン）」を、 ...
-JPMorgan、ブロックチェーン戦略を拡大──「相互運用可能なデジタルマネー」構築へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
         </author>
     </entry>
 </feed>
