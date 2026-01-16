@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333175",
+          "author": "栃山 直樹",
+          "description": "マーケティング支援事業を展開する東証グロース上場のアライドアーキテクツは16日、最高暗号資産責任者（CCO）の役職を新設し、同日付でソラナ（Solana）のスー ...\nアライドアーキテクツDAT始動へ、最高暗号資産責任者を新設──Solanaスーパーチームジャパン前代表が就任 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333175/",
+          "publishedOn": "2026-01-16T06:33:12.000Z",
+          "wordCount": 1365,
+          "title": "アライドアーキテクツDAT始動へ、最高暗号資産責任者を新設──Solanaスーパーチームジャパン前代表が就任",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/名称_未_設定-80.png"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333147",
           "author": "廣瀬 優香",
           "description": "取引量で世界第2位の暗号資産（仮想通貨）取引所であるBybit（バイビット）は、独自の決済サービスであるBybit Payを、ペルーで最も人気のある2つのデジタ ...\nBybit Pay、ペルーの人気デジタルウォレット「Yape」「Plin」に暗号資産決済を導入 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -610,10 +620,70 @@
       "articles": []
     },
     {
-      "title": "IoT分野を牛耳るのはイーサリアムクラシック(ETC)かIOTAか",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=681517",
+          "author": "Enzo",
+          "description": "韓国国会が1月15日、トークン証券の発行・取引を合法化する法改正を可決。2027年施行で不動産や美術品など非標準資産への投資が拡大。BCGは2030年に2490億ドル市場と予測。",
+          "link": "https://coinpost.jp/?p=681517",
+          "publishedOn": "2026-01-16T06:45:15.000Z",
+          "wordCount": 3310,
+          "title": "韓国、トークン証券の法的枠組みを承認　2027年施行へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/korea-coinstitution.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/01/korea-coinstitution.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=681469",
+          "author": "幸田直子",
+          "description": "チェイナリシスの最新レポートによると、イランの仮想通貨経済は2025年に約1.2兆円規模へ拡大した。リアル暴落90%とインフレ率50%の中、国民の資産保全手段として急成長し、イスラム革命防衛隊も30億ドル超の資金調達に利用する実態が明らかになった。",
+          "link": "https://coinpost.jp/?p=681469",
+          "publishedOn": "2026-01-16T05:45:09.000Z",
+          "wordCount": 3321,
+          "title": "イラン、仮想通貨経済が1.2兆円規模に拡大　革命防衛隊も積極活用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/iran-bitcoin_0523.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/iran-bitcoin_0523.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=681498",
+          "author": "Enzo",
+          "description": "ロシア中央銀行が商業銀行に対し、顧客の仮想通貨取引について詳細な報告を義務付ける新規制案を準備。送金者・受取人の身元、手数料、NFT取引など包括的な情報提供が求められる見通し。2026年夏の包括的規制法案に先立つ措置。",
+          "link": "https://coinpost.jp/?p=681498",
+          "publishedOn": "2026-01-16T05:23:40.000Z",
+          "wordCount": 3313,
+          "title": "ロシア、銀行に仮想通貨取引の詳細報告を義務付けへ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/digital-asset-russia-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/digital-asset-russia-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=681438",
+          "author": "Ritsuki.Kumazawa",
+          "description": "東証グロース上場のアライドアーキテクツは、CCO（最高暗号資産責任者）を新設しSuperteam Japan前代表の大木悠氏を任命。自社での暗号資産保有・運用を含む次世代DAT構想の策定に着手する。",
+          "link": "https://coinpost.jp/?p=681438",
+          "publishedOn": "2026-01-16T05:14:15.000Z",
+          "wordCount": 3335,
+          "title": "アライドアーキテクツがDAT構想を発表　新設の「最高暗号資産責任者」にSolana Superteam Japan前代表就任",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/alliedarchitects_thumbnail.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/alliedarchitects_thumbnail.png"
+        },
         {
           "id": "https://coinpost.jp/?p=681452",
           "author": "菊谷ルイス",
@@ -1701,6 +1771,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=538330",
+          "author": "OtsugaShinya",
+          "description": "JCB・デジタルガレージ・りそながステーブルコイン決済で協業 ジェーシービー（JCB）、デジタルガレージ、りそなホールディングス（HD）の3社が、ステーブルコイン決済の社会実装に向けた協業を開始すると1月16日に発表した […]",
+          "link": "https://www.neweconomy.jp/posts/538330",
+          "publishedOn": "2026-01-16T06:34:08.000Z",
+          "wordCount": 737,
+          "title": "JCB・デジタルガレージ・りそな、ステーブルコイン決済の社会実装に向け協業へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16153404/8aded96cbdaeac00967f7016f5ebb18f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=538314",
+          "author": "HitomotoToshikazu",
+          "description": "CMEがADA、LINK、XLMの先物提供へ 金融・商品デリバティブ取引市場運営の米CMEグループ（CME Group）が、暗号資産（仮想通貨）カルダノ（ADA）、チェーンリンク（LINK）、ステラルーメン（XLM）の3 […]",
+          "link": "https://www.neweconomy.jp/posts/538314",
+          "publishedOn": "2026-01-16T06:23:39.000Z",
+          "wordCount": 743,
+          "title": "米CMEグループ、ADA、LINK、XLMの先物取引を2/9提供へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/16150635/ba49083add49af552f5c5dbb14c25bed.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=538301",
           "author": "OtsugaShinya",
