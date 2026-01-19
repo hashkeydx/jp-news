@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-19T09:48:32.593Z</updated>
+    <updated>2026-01-19T10:47:05.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地方創生×Web3、福岡県田川市が市民参加型デジタルプラットフォーム公開──キリフダが構築やNFT発行支援]]></title>
+        <id>https://www.nadanews.com/?p=333556</id>
+        <link href="https://www.nadanews.com/333556/"/>
+        <updated>2026-01-19T10:40:27.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーンやNFT関連事業を行うキリフダは1月19日、福岡県田川市が、地域活動への参加実績をNFTやデジタルバッジとして可視化する市民参加型プラットフォー ...
+地方創生×Web3、福岡県田川市が市民参加型デジタルプラットフォーム公開──キリフダが構築やNFT発行支援 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>橋本 祐樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコインが日常の決済利用にシフト──暗号資産カード支出が年180億ドルに到達]]></title>
         <id>https://www.nadanews.com/?p=333539</id>
@@ -1854,26 +1865,6 @@ Visa、BVNKと提携しステーブルコイン決済を強化 first appeared on
         <summary type="html"><![CDATA[Bitwiseのリサーチチームは、ポートフォリオの15%を仮想通貨ビットコインと金に配分した場合の効果を分析。どちらか一方ではなく、両方を保有しておくことが現実的でベストなアプローチであると主張した。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジーキャッシュ財団、SEC調査終了で執行措置なしと発表　プライバシー銘柄に追い風か]]></title>
-        <id>https://coinpost.jp/?p=680988</id>
-        <link href="https://coinpost.jp/?p=680988"/>
-        <updated>2026-01-14T22:30:24.000Z</updated>
-        <summary type="html"><![CDATA[米SECがジーキャッシュ財団への約2年半の調査を終了し、執行措置を勧告しない方針を通知した。トランプ政権下での仮想通貨規制アプローチの転換が背景にある。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースCEO、上院の仮想通貨法案を現状では支持できないと表明　その理由は]]></title>
-        <id>https://coinpost.jp/?p=680984</id>
-        <link href="https://coinpost.jp/?p=680984"/>
-        <updated>2026-01-14T22:05:17.000Z</updated>
-        <summary type="html"><![CDATA[コインベースのアームストロングCEOが上院銀行委員会の仮想通貨法案草案を現状では支持できないと表明した。トークン化株式の禁止、DeFi規制、ステーブルコイン報酬制限などが主な懸念事項となっている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
