@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-20T11:34:11.516Z</updated>
+    <updated>2026-01-20T13:12:27.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/20話題】LINEでのJPYC活用が検討開始、NYSEがトークン化証券の24H取引と即時決済へ、TORICOがETH追加購入など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=539265</id>
+        <link href="https://www.neweconomy.jp/posts/539265"/>
+        <updated>2026-01-20T12:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump.fun、投資部門「Pump Fund」の設立を発表──賞金300万ドルのハッカソンも]]></title>
         <id>https://www.nadanews.com/?p=333711</id>
@@ -1669,36 +1679,6 @@ Bybit Pay、ペルーの人気デジタルウォレット「Yape」「Plin」に
         <summary type="html"><![CDATA[Xのプロダクト部門のトップは、投稿に報酬を支払うInfoFiアプリを認めないようにしたと発表。この変更は仮想通貨プロジェクトに影響を与えている。]]></summary>
         <author>
             <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、スポーツプラットフォーム「SportFun」のトークン上場]]></title>
-        <id>https://coinpost.jp/?p=681408</id>
-        <link href="https://coinpost.jp/?p=681408"/>
-        <updated>2026-01-16T00:58:21.000Z</updated>
-        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースは1月15日、スポーツゲームプラットフォームSportFunのトークンFUNの現物取引を開始。ティッカーシンボルはFUN1。バイナンス・アルファ、クラーケン、MEXC、KuCoinなど複数の主要取引所でも同時上場を果たした。SportFunは元々Football.Funという名称でサッカーゲームとしてスタートし、取引高1億ドル超、収益1000万ドルを達成。コインベースのBase上に構築されている。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、著名ユーチューバ ー「ミスタービースト」の企業に300億円の出資]]></title>
-        <id>https://coinpost.jp/?p=681399</id>
-        <link href="https://coinpost.jp/?p=681399"/>
-        <updated>2026-01-16T00:40:56.000Z</updated>
-        <summary type="html"><![CDATA[トム・リー率いるビットマイン社がミスタービースト運営のビースト・インダストリーズに2億ドル出資する。DeFiなどの金融サービス拡大を目指して提携していく可能性がある。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ステート・ストリート、トークン化金融サービスを開始]]></title>
-        <id>https://coinpost.jp/?p=681392</id>
-        <link href="https://coinpost.jp/?p=681392"/>
-        <updated>2026-01-15T23:55:28.000Z</updated>
-        <summary type="html"><![CDATA[米金融大手ステート・ストリートがデジタル資産プラットフォームを立ち上げた。トークン化されたMMFやETF、ステーブルコインなどの商品開発を支援し、従来型金融とデジタル金融の橋渡しを目指す。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
