@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333764",
+          "author": "廣瀬 優香",
+          "description": "Chainlink（チェーンリンク）は、「Chainlink Data Streams」の拡張版である「Chainlink 24/5 U.S. Equities ...\nChainlink、米国株式市場データを週5日24時間体制で提供 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333764/",
+          "publishedOn": "2026-01-21T05:35:00.000Z",
+          "wordCount": 1396,
+          "title": "Chainlink、米国株式市場データを週5日24時間体制で提供",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2086447633.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=333786",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコイン（BTC）は20日、世界的なリスクセンチメントの急変を背景に一時8万9000ドル付近まで下落。レバレッジを ...\nビットコイン、8万9000ドル台まで下落──強気ポジションで10億ドルの清算 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333786/",
+          "publishedOn": "2026-01-21T05:31:38.000Z",
+          "wordCount": 1388,
+          "title": "ビットコイン、8万9000ドル台まで下落──強気ポジションで10億ドルの清算",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/0112.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333774",
           "author": "増田隆幸",
           "description": "近年、bitFlyerの「定期貸しコイン」やCoincheckの「Coincheckステーキング」など、国内取引所でも暗号資産（仮想通貨）のレンディングやステー ...\n取引所ステーキング、レンディングの活用と税金計算のポイント【クリプタクト寄稿】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -554,6 +574,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=682698",
+          "author": "Enzo",
+          "description": "ギャラクシーデジタルのノヴォグラッツCEOは、ステーブルコインの利回り問題により仮想通貨市場構造法案が頓挫する可能性があると警告。コインベースが支持撤回し、上院委員会の採決は延期。業界内で意見が分かれる中、ホワイトハウスは妥協を促している。",
+          "link": "https://coinpost.jp/?p=682698",
+          "publishedOn": "2026-01-21T05:41:38.000Z",
+          "wordCount": 3297,
+          "title": "ギャラクシーCEO、仮想通貨法案の成立リスクを警告　ホワイトハウスは妥協促す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ussenate0827211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/ussenate0827211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=682650",
           "author": "Enzo",
@@ -1431,6 +1466,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=539644",
+          "author": "OtsugaShinya",
+          "description": "ストラテジーがビットコイン追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を1月20日に発表した。 ストラテジーは1月12日から1月19日まで […]",
+          "link": "https://www.neweconomy.jp/posts/539644",
+          "publishedOn": "2026-01-21T05:04:41.000Z",
+          "wordCount": 776,
+          "title": "ストラテジーがビットコイン追加購入、総保有数は約709,715BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/21140434/c98fde8eee72438c629bed653c647a37.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=539610",
+          "author": "NewEconomy",
+          "description": "インジェニコとウォレットコネクトが提携 電子決済端末メーカー大手のインジェニコ（Ingenico）とウォレットコネクト（WalletConnect）が提携し、実店舗のPOSレジでステーブルコインの直接決済を可能にするデジ […]",
+          "link": "https://www.neweconomy.jp/posts/539610",
+          "publishedOn": "2026-01-21T04:14:03.000Z",
+          "wordCount": 767,
+          "title": "実店舗の決済端末にステーブルコインのウォレット支払いが導入可能に、インジェニコとウォレットコネクト提携で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/21131357/374d8eaf4bb7758ad5fc77de4a9821ee.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=539591",
           "author": "HitomotoToshikazu",
