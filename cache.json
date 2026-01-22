@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=333982",
+          "author": "栃山 直樹",
+          "description": "ニッケルなどの金属製品の販売を行ってきた東証スタンダード上場のエス・サイエンスは1月20日、これまで未確定要素が多いとして非開示としていた2026年3月期の通期 ...\nビットコイン企業転換のエス・サイエンス、今期最終14億円の赤字拡大へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333982/",
+          "publishedOn": "2026-01-22T03:44:31.000Z",
+          "wordCount": 1361,
+          "title": "ビットコイン企業転換のエス・サイエンス、今期最終14億円の赤字拡大へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/スクリーンショット-2025-12-15-18.08.22-99.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=333876",
           "author": "廣瀬 優香",
           "description": "Dogecoin Foundation（ドージコイン財団）の公式企業部門House of Dogeは、合併パートナーのBrag House Holdingsと共 ...\nDogecoin Foundationの公式企業部門、決済アプリ「Such」をリリース予定 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -714,6 +724,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=682946",
+          "author": "Ritsuki.Kumazawa",
+          "description": "ANAPホールディングスは21日、約10億円で70BTCを追加購入したと発表。総保有量は1,417BTCとなり、2026年8月末までにグローバル・トップ35位以内を目指す新目標を掲げた。",
+          "link": "https://coinpost.jp/?p=682946",
+          "publishedOn": "2026-01-22T02:44:10.000Z",
+          "wordCount": 3298,
+          "title": "東証上場のANAP、10億円で70BTC追加購入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/new-bitcoin-sell.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=682938",
           "author": "Enzo",
@@ -1621,6 +1646,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=540106",
+          "author": "mikajirikoka",
+          "description": "ANAPがビットコイン追加購入 ビットコインの財務戦略を進める東証スタンダード上場企業のANAPホールディングスが、同社子会社のANAPライトニングキャピタルによるビットコインの追加取得を1月21日に発表した。 発表によ […]",
+          "link": "https://www.neweconomy.jp/posts/540106",
+          "publishedOn": "2026-01-22T04:12:49.000Z",
+          "wordCount": 747,
+          "title": "ANAPがビットコイン追加購入、総保有数は約1417BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22125335/08e175807e43c311216008ef3c541e49.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=540090",
+          "author": "NewEconomy",
+          "description": "ビットパンダが暗号資産と伝統的金融商品を単一アプリで提供 欧州の暗号資産（仮想通貨）取引プラットフォーム「ビットパンダ（Bitpanda）」が、株式および上場投資信託（ETF）の取引機能を同社の規制対象アプリに統合する。 […]",
+          "link": "https://www.neweconomy.jp/posts/540090",
+          "publishedOn": "2026-01-22T03:43:39.000Z",
+          "wordCount": 766,
+          "title": "欧州ビットパンダ、株式・ETF取引を統合へ。暗号資産取引所のマルチアセット化進む",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22124305/3058ad7f5b0cb155c79c89adb4fe9fcb.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=540033",
           "author": "HitomotoToshikazu",
