@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=334489",
+          "author": "廣瀬 優香",
+          "description": "NFTプラットフォームのNifty Gatewayは1月23日、公式Xアカウントを通じて、2026年2月23日に閉鎖すると発表した。 Nifty Gateway ...\nNFTプラットフォームNifty Gateway、2月23日に閉鎖へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/334489/",
+          "publishedOn": "2026-01-26T21:30:00.000Z",
+          "wordCount": 1361,
+          "title": "NFTプラットフォームNifty Gateway、2月23日に閉鎖へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2083906807.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=334498",
           "author": "井上 俊彦",
           "description": "暗号資産（仮想通貨）運用会社のCoinShares（コインシェアーズ）は、先週、世界の暗号資産ETP（上場取引商品）から2025年11月以来最大となる約17億3 ...\n世界の暗号資産ETP、11月以来最大の週次資金流出：CoinSharesが報告 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -530,16 +540,6 @@
           "wordCount": 1345,
           "title": "KindlyMD、Nakamotoに社名変更──ビットコイン戦略への転換を反映",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_1008267670.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=334004",
-          "author": "井上 俊彦",
-          "description": "Ethereum（イーサリアム）共同創設者のVitalik Buterin（ヴィタリック・ブテリン）氏が、「分散型バリデータ技術（DVT）」をステーキングプロト ...\nブテリン氏、イーサリアムのステーキングに「分散型バリデータ技術」の統合を提案 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/334004/",
-          "publishedOn": "2026-01-22T09:11:54.000Z",
-          "wordCount": 1366,
-          "title": "ブテリン氏、イーサリアムのステーキングに「分散型バリデータ技術」の統合を提案",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/DSC_5581-1.jpg"
         }
       ]
     },
@@ -554,6 +554,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=683952",
+          "author": "菊谷ルイス",
+          "description": "米国初のAVAX投資商品米資産運用会社バンエックは26日、アバランチの現物上場投資信託（ETF）であるバンエック・アバランチETFの取引を開始したと発表した。米国で上場されたアバランチのネイティブトークンAVAXへの投資を提供する初のETP...",
+          "link": "https://coinpost.jp/?p=683952",
+          "publishedOn": "2026-01-26T21:20:25.000Z",
+          "wordCount": 3308,
+          "title": "米国初のアバランチ現物ETFが上場、バンエック提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/vaneck-avalanche.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/vaneck-avalanche.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=683950",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨投資企業ビットマインが過去1週間で4万ETH以上を追加購入し、総保有資産が128億ドルに達した。ETH保有量は総供給量の3.52%を占める。",
+          "link": "https://coinpost.jp/?p=683950",
+          "publishedOn": "2026-01-26T20:59:27.000Z",
+          "wordCount": 3312,
+          "title": "ビットマインが先週4万イーサリアム追加購入、総供給量の3.5%に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/bitmine1029-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=683939",
+          "author": "菊谷ルイス",
+          "description": "米上院農業委員会が大寒波により仮想通貨法案の採決を木曜日に延期した。民主党の支持が得られていない中、超党派での合意形成に向けた協議が続いている。",
+          "link": "https://coinpost.jp/?p=683939",
+          "publishedOn": "2026-01-26T20:45:34.000Z",
+          "wordCount": 3311,
+          "title": "大寒波で米上院農業委が仮想通貨法案採決を延期、超党派合意は不透明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/snow-storm-congress.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/snow-storm-congress.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=683938",
           "author": "菊谷ルイス",
@@ -1490,46 +1535,6 @@
           "wordCount": 778,
           "title": "【1/22話題】バイナンスにRLUSD上場へ、イラン中銀が制裁回避で5億USDT取得か、エイバックスワンがアバランチバリデータ立ち上げなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22204635/19f1ca92f5e000650a21b14f9ca6b44a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=540215",
-          "author": "HitomotoToshikazu",
-          "description": "SKRがローンチ Web3スマートフォン「ソラナシーカー（Solana Seeker）」展開のソラナモバイル（Solana Mobile）が、ネイティブトークン「SKR」のエアドロップ実施を1月21日にXで発表した。 今 […]",
-          "link": "https://www.neweconomy.jp/posts/540215",
-          "publishedOn": "2026-01-22T09:30:25.000Z",
-          "wordCount": 780,
-          "title": "Web3スマホ展開ソラナモバイル、ネイティブトークン「SKR」のエアドロ実施",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22173823/e377bc5fb8edeccc5c2b877449768c63.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=540260",
-          "author": "NewEconomy",
-          "description": "政治イベントを対象とした予測市場への規制判断 ポルトガルのゲーム規制・監察局（SRIJ）が、ブロックチェーン・暗号資産（仮想通貨）活用の予測市場プラットフォーム「ポリマーケット（Polymarket）」に対し、ポルトガル […]",
-          "link": "https://www.neweconomy.jp/posts/540260",
-          "publishedOn": "2026-01-22T09:28:06.000Z",
-          "wordCount": 749,
-          "title": "ポルトガル当局、予測市場「ポリマーケット」を違法賭博として遮断へ。大統領選賭けを問題視",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22182802/68adc80a7aa500b05fe5d48a7ba8bf86.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=540225",
-          "author": "NewEconomy",
-          "description": "金融商品か賭博か、予測市場カルシに州規制適用判断 米マサチューセッツ州の裁判所が、予測市場プラットフォームを運営する米カルシ（Kalshi）に対し、州内居住者向けにスポーツ関連の予測契約を提供することを州のライセンスなし […]",
-          "link": "https://www.neweconomy.jp/posts/540225",
-          "publishedOn": "2026-01-22T08:59:17.000Z",
-          "wordCount": 858,
-          "title": "米マサチューセッツ州、予測市場カルシのスポーツ提供を差し止める方針=報道",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22175914/a552c8533bb7bac8eefa2d2bcd47f32a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=540241",
-          "author": "gentosha_takahashi",
-          "description": "プライバシー通貨Zcashを支援 Zcashの創設者であるズーコ・ウィルコックス（Zooko Wilcox）氏も貢献者に名を連ねる独立系Zcash開発組織のシールデッド・ラボ（Shielded Labs）が、米暗号資産（ […]",
-          "link": "https://www.neweconomy.jp/posts/540241",
-          "publishedOn": "2026-01-22T08:53:04.000Z",
-          "wordCount": 755,
-          "title": "ウィンクルボス兄弟、Zcash開発組織「シールデッド・ラボ」に3221ZECの寄付",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/22175259/4c535024daa6c0221b9e020473772771.jpg"
         }
       ]
     }
