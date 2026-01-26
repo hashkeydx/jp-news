@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-26T19:33:28.311Z</updated>
+    <updated>2026-01-26T20:40:41.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラックロック、ビットコイン・プレミアム・インカムETFを申請]]></title>
+        <id>https://coinpost.jp/?p=683938</id>
+        <link href="https://coinpost.jp/?p=683938"/>
+        <updated>2026-01-26T20:30:30.000Z</updated>
+        <summary type="html"><![CDATA[米ブラックロックがビットコイン現物保有とカバードコール戦略を組み合わせた新ETFをSECに申請した。既存のIBITに次ぐ収益創出型のビットコイン投資商品となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界の暗号資産ETP、11月以来最大の週次資金流出：CoinSharesが報告]]></title>
         <id>https://www.nadanews.com/?p=334498</id>
@@ -1327,48 +1337,6 @@ KindlyMD、Nakamotoに社名変更──ビットコイン戦略への転換を�
         <summary type="html"><![CDATA[プライバシー通貨Zcashを支援 Zcashの創設者であるズーコ・ウィルコックス（Zooko Wilcox）氏も貢献者に名を連ねる独立系Zcash開発組織のシールデッド・ラボ（Shielded Labs）が、米暗号資産（ […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANAP、ビットコイン保有量で国内3位に──約10億円相当を追加購入]]></title>
-        <id>https://www.nadanews.com/?p=334009</id>
-        <link href="https://www.nadanews.com/334009/"/>
-        <updated>2026-01-22T08:37:33.000Z</updated>
-        <summary type="html"><![CDATA[女性・子ども向けのカジュアルファッションブランド「ANAP（アナップ）」を運営するANAPホールディングスは1月21日、子会社を通じてビットコイン（BTC）の追 ...
-ANAP、ビットコイン保有量で国内3位に──約10億円相当を追加購入 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港の暗号資産規制、業界と政府に温度差。ステーブルコイン免許はQ1にも発行か]]></title>
-        <id>https://www.neweconomy.jp/?p=540226</id>
-        <link href="https://www.neweconomy.jp/posts/540226"/>
-        <updated>2026-01-22T08:28:27.000Z</updated>
-        <summary type="html"><![CDATA[業界は参入障壁を懸念 香港証券先物専門家協会（HKSFPA）が、香港政府が進める暗号資産（仮想通貨）アドバイザリーおよび資産管理サービス事業者向けライセンス制度案に対し、「規制が過度に厳しく、市場発展を阻害しかねない」と […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitGo、IPO価格を想定上回る18ドルに設定　2026年初の仮想通貨企業上場へ]]></title>
-        <id>https://coinpost.jp/?p=683037</id>
-        <link href="https://coinpost.jp/?p=683037"/>
-        <updated>2026-01-22T07:52:43.000Z</updated>
-        <summary type="html"><![CDATA[BitGoが米国IPO価格を18ドルに設定、当初想定の15〜17ドルを上回った。調達額は2億1280万ドル、企業評価額は22億ドル。1月22日にニューヨーク証券取引所で取引開始。トランプ政権下での仮想通貨規制緩和を背景に、2026年初の仮想通貨企業上場として市場の注目を集める。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デラウェア生命、BlackRockのIBITを通じてビットコインへのエクスポージャーを年金商品に組み込み]]></title>
-        <id>https://www.nadanews.com/?p=333999</id>
-        <link href="https://www.nadanews.com/333999/"/>
-        <updated>2026-01-22T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカのDelaware Life（デラウェア生命）は、ビットコインへのエクスポージャーを組み込んだ業界初の固定インデックス年金（FIA）商品を発表した。これ ...
-デラウェア生命、BlackRockのIBITを通じてビットコインへのエクスポージャーを年金商品に組み込み first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
