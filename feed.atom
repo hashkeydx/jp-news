@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-27T13:12:50.082Z</updated>
+    <updated>2026-01-27T14:49:17.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【1/27話題】イオレのレンディング事業の申込金額が50億円突破、メタプラネットが12月期業績予想を上方修正、TORICO Ethereum設立など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=541802</id>
+        <link href="https://www.neweconomy.jp/posts/541802"/>
+        <updated>2026-01-27T14:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシア、ウクライナ支援を理由に取引所WhiteBITを「望ましくない組織」に指定]]></title>
         <id>https://www.nadanews.com/?p=334631</id>
@@ -1583,66 +1593,6 @@ Don’t Trust, Verify（信用するな、検証せよ）──女優・キャ�
 野村HD子会社のLaser Digital、ビットコイン利回りファンドをローンチ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TORICOが約1億円でイーサリアム追加購入、総取得数1,218ETH超に]]></title>
-        <id>https://www.neweconomy.jp/?p=540633</id>
-        <link href="https://www.neweconomy.jp/posts/540633"/>
-        <updated>2026-01-23T02:42:05.000Z</updated>
-        <summary type="html"><![CDATA[TORICOがイーサリアム追加購入 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を1月23日に発表した。 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybitが日本居住者向けサービスを段階的に終了へ、3月末から「クローズオンリー」に]]></title>
-        <id>https://coinpost.jp/?p=683222</id>
-        <link href="https://coinpost.jp/?p=683222"/>
-        <updated>2026-01-23T02:30:30.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイビットが日本居住者向けサービスの段階的終了を発表した。3月23日から「クローズオンリー」モードに移行し、7月22日に全ての未決済ポジションが強制決済される。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[露ルーブルのステーブルコイン「A7A5」、制裁回避を促進か　取引額が計約16兆円に＝Elliptic]]></title>
-        <id>https://coinpost.jp/?p=683253</id>
-        <link href="https://coinpost.jp/?p=683253"/>
-        <updated>2026-01-23T02:20:18.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨分析企業Ellipticは、ロシアのルーブルのステーブルコインA7A5に関するレポートを公開。A7A5は、欧米らが課している制裁の回避を促進していると分析した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOKIのクロスチェーンブリッジが1月末で停止へ、関係会社の財務監査問題で]]></title>
-        <id>https://www.neweconomy.jp/?p=540607</id>
-        <link href="https://www.neweconomy.jp/posts/540607"/>
-        <updated>2026-01-23T02:06:20.000Z</updated>
-        <summary type="html"><![CDATA[TOKIが財務監査問題で停止へ TOKI（トキ）がプロジェクトを終了し、提供するクロスチェーンブリッジを1月末でサービス終了することを1月22日に発表した。この決定は、TOKIのコア開発会社のデータチェーン（Datach […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歴史的な協力へ、米SECとCFTCが仮想通貨規制調和で共同イベント]]></title>
-        <id>https://coinpost.jp/?p=683278</id>
-        <link href="https://coinpost.jp/?p=683278"/>
-        <updated>2026-01-23T01:45:10.000Z</updated>
-        <summary type="html"><![CDATA[米SECのアトキンス委員長とCFTCのセリグ委員長が1月27日に共同イベントを開催し、両機関の調和と米国を世界の仮想通貨の中心地にするトランプ大統領の公約実現に向けた取り組みを議論する予定だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クロスチェーンブリッジ「TOKI」、1月末でサービス終了へ]]></title>
-        <id>https://coinpost.jp/?p=683283</id>
-        <link href="https://coinpost.jp/?p=683283"/>
-        <updated>2026-01-23T01:32:10.000Z</updated>
-        <summary type="html"><![CDATA[クロスチェーンブリッジ「TOKI」が1月末でサービス終了。トークン未発行もバイバックで補償実施へ。技術基盤はDatachainが継続開発する。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
 </feed>
