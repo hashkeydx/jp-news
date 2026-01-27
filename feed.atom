@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-01-27T08:49:15.473Z</updated>
+    <updated>2026-01-27T09:46:37.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HashPort、手数料無料のステーブルコイン決済サービスを28日開始]]></title>
+        <id>https://coinpost.jp/?p=684192</id>
+        <link href="https://coinpost.jp/?p=684192"/>
+        <updated>2026-01-27T09:18:39.000Z</updated>
+        <summary type="html"><![CDATA[HashPortが28日、店舗と消費者が手数料無料でステーブルコイン決済できるサービスを開始。大阪・関西万博で100万ダウンロードを達成したHashPort Walletを活用し、ブロックチェーン技術で決済コストを削減する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、「暗号資産・ステーブルコイン課」新設へ ──政府への再編要求が具体化]]></title>
+        <id>https://www.nadanews.com/?p=334611</id>
+        <link href="https://www.nadanews.com/334611/"/>
+        <updated>2026-01-27T09:10:39.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は26日、同庁の広報誌において2026年夏に実施する組織再編の概要を公表した。今回の再編計画では、暗号資産およびステーブルコインを所管する部署の設置が明記 ...
+金融庁、「暗号資産・ステーブルコイン課」新設へ ──政府への再編要求が具体化 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>栃山 直樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オーストラリア規制当局、暗号資産の急速な革新によるリスクを2026年の課題として警告]]></title>
         <id>https://www.nadanews.com/?p=334617</id>
@@ -1737,27 +1758,6 @@ BlackRock関連のウォレット、680億円超のBTCとETHをCoinbase Primeに
 トークン化企業Superstate、約130億円を調達──株式トークン化インフラを強化へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFiの未来──なぜ分散型金融は静かに拡張し続けているのか【エックスウィンリサーチ】]]></title>
-        <id>https://www.nadanews.com/?p=334059</id>
-        <link href="https://www.nadanews.com/334059/"/>
-        <updated>2026-01-22T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[● DeFiは価格主導ではなく、Ethereumのトランザクション増加に象徴される「利用主導」の拡張フェーズにある。● TVLや取引件数が高水準を維持しており、 ...
-DeFiの未来──なぜ分散型金融は静かに拡張し続けているのか【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>XWIN Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークルCEO、ステーブルコイン利息付与の脅威論を否定]]></title>
-        <id>https://coinpost.jp/?p=683219</id>
-        <link href="https://coinpost.jp/?p=683219"/>
-        <updated>2026-01-22T21:25:30.000Z</updated>
-        <summary type="html"><![CDATA[サークルのアレールCEOがダボス会議でステーブルコインの利息付与が銀行への脅威になるとの懸念を歴史的事例を挙げて否定した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
