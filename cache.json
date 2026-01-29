@@ -675,6 +675,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=684894",
+          "author": "Enzo",
+          "description": "ロシア中央銀行が2026年7月1日までに仮想通貨規制の法整備を完了へ。非適格投資家は年間30万ルーブル（約50万円）まで購入可能に。国内決済は引き続き禁止。",
+          "link": "https://coinpost.jp/?p=684894",
+          "publishedOn": "2026-01-29T06:38:16.000Z",
+          "wordCount": 3304,
+          "title": "ロシア、一般投資家の仮想通貨投資を条件付き容認へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/12/russia-crypto-sandbox.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/12/russia-crypto-sandbox.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=684874",
           "author": "Enzo",
           "description": "Meta Description: 金裏付け仮想通貨のPAXGとXAUTが時価総額で過去最高を更新。トークン化ゴールド市場全体は55億ドル（約8250億円）を突破し、投資家の安全資産への需要が高まっている。",
@@ -1731,6 +1746,66 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=542568",
+          "author": "OtsugaShinya",
+          "description": "ビットトレード豪ADGと提携 国内暗号資産交換業者のビットトレードが、豪州の不動産開発会社アヴァンタウス・デベロップメント・グループ（Avantaus Development Group：ADG）と戦略的提携に関する覚書 […]",
+          "link": "https://www.neweconomy.jp/posts/542568",
+          "publishedOn": "2026-01-29T07:03:46.000Z",
+          "wordCount": 733,
+          "title": "ビットトレード、豪不動産開発大手ADGと戦略的提携、RWAトークン化で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/29160327/b78942fed420d267fb745c74e1661d7c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542561",
+          "author": "OtsugaShinya",
+          "description": "コインベースが予測市場の提供を全米に拡大 米暗号資産（仮想通貨）取引所大手のコインベース（Coinbase）が、昨年12月後半から段階的に提供開始していた予測市場の機能を米国全50州で利用拡大したことを1月29日に発表し […]",
+          "link": "https://www.neweconomy.jp/posts/542561",
+          "publishedOn": "2026-01-29T06:57:52.000Z",
+          "wordCount": 781,
+          "title": "コインベース、予測市場の提供を全米50州に拡大",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/29155711/5c19ce73d19ee7603f01944dadeee910.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542551",
+          "author": "OtsugaShinya",
+          "description": "2028年までにステーブルコインが米銀行から5000億ドル引き出す可能性 米ドル建てのステーブルコインが、2028年末までに米国の銀行から約5,000億ドル（約76兆5,000億円）の預金を引き出す可能性があると、スタン […]",
+          "link": "https://www.neweconomy.jp/posts/542551",
+          "publishedOn": "2026-01-29T06:50:47.000Z",
+          "wordCount": 768,
+          "title": "スタンダードチャータード銀行、2028年までにステーブルコインが米銀行から5000億ドル引き出す可能性と推計",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/29155029/8c7bf631b4d6e6b6d7b28b5efc128e84.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542542",
+          "author": "NewEconomy",
+          "description": "大手資産運用大手が独自ステーブルコインをローンチ 米資産運用大手「フィデリティ・インベストメンツ（Fidelity Investments）」が、同社初となる米ドル建てステーブルコイン「フィデリティ・デジタル・ダラー（F […]",
+          "link": "https://www.neweconomy.jp/posts/542542",
+          "publishedOn": "2026-01-29T06:42:13.000Z",
+          "wordCount": 763,
+          "title": "フィデリティ、米ドル建てステーブルコイン「FIDD」発行へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/29154147/636628de497fb2cc60cfe2987ee36ce2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542507",
+          "author": "HitomotoToshikazu",
+          "description": "ValourのBTC・ETH現物ETPが小売向け提供開始 ヴァラーデジタルセキュリティーズ（Valour Digital Securities：以下、ヴァラー）発行のビットコイン（BTC）とイーサリアム（ETH）のステー […]",
+          "link": "https://www.neweconomy.jp/posts/542507",
+          "publishedOn": "2026-01-29T06:03:58.000Z",
+          "wordCount": 848,
+          "title": "ヴァラー、ビットコイン・イーサリアムの現物ステーキングETP、英LSEで個人投資家向けに提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/29150305/BTC-ETH-260129PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=542516",
+          "author": "OtsugaShinya",
+          "description": "コインチェックがTRX取扱開始 国内暗号資産（仮想通貨）取引所コインチェック（Coincheck）が、暗号資産トロン（TRX）の取り扱い開始を1月29日に発表した。 TRXは、2017年にローンチした、エンターテイメント […]",
+          "link": "https://www.neweconomy.jp/posts/542516",
+          "publishedOn": "2026-01-29T06:03:32.000Z",
+          "wordCount": 745,
+          "title": "コインチェックにトロン（TRX）上場",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/01/29150326/TRX-260129-Ninja-Studio.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=542467",
           "author": "OtsugaShinya",
