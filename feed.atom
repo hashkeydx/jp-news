@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-01T07:47:55.438Z</updated>
+    <updated>2026-02-01T08:48:25.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、9年間休眠のETHクジラの送金可能性やXRP大口ウォレットが増加傾向など]]></title>
+        <id>https://coinpost.jp/?p=685102</id>
+        <link href="https://coinpost.jp/?p=685102"/>
+        <updated>2026-02-01T04:55:25.000Z</updated>
+        <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナイジェリア、仮想通貨税務報告制度を施行 アフリカ全域に影響も]]></title>
         <id>https://coinpost.jp/?p=684599</id>
@@ -2127,26 +2137,6 @@ USDCに初の脅威か──Tether、米国向けステーブルコイン「USAT
 Tether、米国向け規制準拠ステーブルコイン「USAT」を正式ローンチ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アメリカン・ビットコイン、416BTC追加購入]]></title>
-        <id>https://coinpost.jp/?p=684280</id>
-        <link href="https://coinpost.jp/?p=684280"/>
-        <updated>2026-01-27T20:45:27.000Z</updated>
-        <summary type="html"><![CDATA[アメリカン・ビットコインが1月25日時点でビットコイン保有量約5843BTCに達したと発表した。ナスダック上場から約116%のBTC利回りを記録しているが、株価は年初来10%下落。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザーが米国向けステーブルコインUSATを正式ローンチ、ジーニアス法に準拠]]></title>
-        <id>https://coinpost.jp/?p=684279</id>
-        <link href="https://coinpost.jp/?p=684279"/>
-        <updated>2026-01-27T20:30:10.000Z</updated>
-        <summary type="html"><![CDATA[テザーが1月27日に米国市場専用のドル連動型ステーブルコインUSATを正式にローンチしたと発表した。ジーニアス法に基づく連邦規制の枠組み内で運用される。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
