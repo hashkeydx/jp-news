@@ -795,6 +795,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=685753",
+          "author": "幸田直子",
+          "description": "イーサリアム共同創設者ヴィタリック・ブテリン氏が、AI大量生成時代に適した新クリエーター収益モデルを提案した。クリエーターDAOと予測市場を組み合わせ、将来有望なガバナンスモデルを構築する。",
+          "link": "https://coinpost.jp/?p=685753",
+          "publishedOn": "2026-02-02T05:17:53.000Z",
+          "wordCount": 3403,
+          "title": "ヴィタリック、AI時代のクリエーター収益モデルを提唱　DAOと予測市場を融合",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/vitalik_20220926_061.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/vitalik_20220926_061.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=685757",
+          "author": "Enzo",
+          "description": "『金持ち父さん貧乏父さん』著者キヨサキ氏が金・銀・ビットコインの暴落を「セール」と表現し買い増しを表明。1月30日の歴史的急落の状況と同氏の投資哲学を解説。",
+          "link": "https://coinpost.jp/?p=685757",
+          "publishedOn": "2026-02-02T04:56:15.000Z",
+          "wordCount": 3308,
+          "title": "キヨサキ氏、金・銀・ビットコインの暴落で「買い増し」表明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/rich-dad-poor-dad-book-cover-kiyosaki.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/rich-dad-poor-dad-book-cover-kiyosaki.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=685682",
+          "author": "A.Yamada",
+          "description": "クリプトクアント創業者がビットコインは新規資金流入が枯渇しており売り圧力が継続していると指摘。調整局面が続くと予想した。ストラテジー社の動向も解説する。",
+          "link": "https://coinpost.jp/?p=685682",
+          "publishedOn": "2026-02-02T04:00:12.000Z",
+          "wordCount": 3396,
+          "title": "「ビットコインは横ばいの調整局面に突入の可能性」クリプトクアント創業者",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=685662",
           "author": "Enzo",
           "description": "WSJの報道によると、アブダビ王室関係者がトランプ大統領就任直前にトランプ一族の仮想通貨企業WLFIの株式49%を5億ドルで取得した。その後米政府がUAEへの最先端AIチップ輸出を承認し、利益相反への懸念が高まっている。上院で審議中のクラリティ法案でも倫理規定をめぐり対立が続いている。",
@@ -1686,6 +1731,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=543490",
+          "author": "NewEconomy",
+          "description": "ソラナ上で予測市場の利用範囲が拡大 ソラナ（Solana）上で分散型取引所（DEX）集約プロトコルを提供する「ジュピター（Jupiter）」が、分散型予測市場プラットフォーム「ポリマーケット（Polymarket）」が同 […]",
+          "link": "https://www.neweconomy.jp/posts/543490",
+          "publishedOn": "2026-02-02T04:45:07.000Z",
+          "wordCount": 798,
+          "title": "ジュピター、ポリマーケット対応を発表。ソラナ対応の拡大",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/02134448/2c401ee82e7c082db87724fcf69848dc.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=543485",
+          "author": "TanakaShuya",
+          "description": "イオレがBTC追加購入 暗号資産（仮想通貨）のトレジャリーとレンディングを推進する東証グロース上場企業のイオレが、ビットコイン（BTC）の追加取得を1月30日に発表した。 同社は今回、1月23日から1月30日までの期間に […]",
+          "link": "https://www.neweconomy.jp/posts/543485",
+          "publishedOn": "2026-02-02T03:57:51.000Z",
+          "wordCount": 739,
+          "title": "イオレが約1.6億円でビットコイン追加購入、総保有数は約160BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/02125738/aca372e7021b23577b95e1d2c37a783b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=543479",
+          "author": "NewEconomy",
+          "description": "クラーケン関連会社が増額後のIPOを完了 大手暗号資産（仮想通貨）取引所クラーケン（Kraken）の関連会社がスポンサーを務める「クラックアクイジション（KRAKacquisition Corp）」が、米国での新規株式公 […]",
+          "link": "https://www.neweconomy.jp/posts/543479",
+          "publishedOn": "2026-02-02T03:46:41.000Z",
+          "wordCount": 745,
+          "title": "クラーケンのSPAC「クラックアクイジション」、ナスダック上場完了",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/02124612/4f92c0b98928cd49941cd87182a59d14.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=543466",
           "author": "NewEconomy",
