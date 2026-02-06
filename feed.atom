@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-06T04:57:19.607Z</updated>
+    <updated>2026-02-06T06:06:29.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バージニア州、ビットコイン準備基金法案が上院委通過]]></title>
+        <id>https://coinpost.jp/?p=687238</id>
+        <link href="https://coinpost.jp/?p=687238"/>
+        <updated>2026-02-06T05:22:06.000Z</updated>
+        <summary type="html"><![CDATA[米バージニア州で仮想通貨準備基金法案SB557が上院委員会を通過。時価総額5,000億ドル以上の仮想通貨投資を認可。テキサス州など3州が既に法制化、全米の多数の州で検討中。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「コピペEVMチェーンは不要」、ヴィタリックが安易なL2乱立に苦言]]></title>
         <id>https://coinpost.jp/?p=687213</id>
