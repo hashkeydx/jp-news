@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-09T19:39:08.142Z</updated>
+    <updated>2026-02-09T20:57:11.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ビットコインマイニング企業が4451BTC売却済み、AI事業転換へ]]></title>
+        <id>https://coinpost.jp/?p=687951</id>
+        <link href="https://coinpost.jp/?p=687951"/>
+        <updated>2026-02-09T20:40:52.000Z</updated>
+        <summary type="html"><![CDATA[米ビットコインマイニング企業Cangoがビットコインを大量に売却し3億ドル以上を調達した。売却資金は担保ローンの返済に充て、財務基盤を強化してAI演算インフラ事業への戦略転換を加速させる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【2/9話題】韓国ビッサムが62万BTCを誤配布、中国が暗号資産規制を強化、ヴィタリックがShielded Labsに再寄付など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=545759</id>
@@ -1200,49 +1210,6 @@ Tron Inc.がTRXを買い増し──ジャスティン・サン氏も支持を�
         <summary type="html"><![CDATA[暗号資産取引所MEXCが金連動トークン先物の市場シェア拡大を発表。1月25日時点で47%に到達したという。金価格の最高値更新を背景に、銀先物でも取引が増加している。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの暴落にもかかわらず、TetherのUSDTは記録的なユーザー数増加を報告]]></title>
-        <id>https://www.nadanews.com/?p=335916</id>
-        <link href="https://www.nadanews.com/335916/"/>
-        <updated>2026-02-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tether（テザー）が公表した2025年第4四半期のマーケットレポートによると、ビットコイン（BTC）相場が大きく下落する中でも、米ドルペッグ型ステーブルコイ ...
-ビットコインの暴落にもかかわらず、TetherのUSDTは記録的なユーザー数増加を報告 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【国内初か】上場CRAVIA、ビットコイン全量損切り──ロスカット規定で]]></title>
-        <id>https://www.nadanews.com/?p=335922</id>
-        <link href="https://www.nadanews.com/335922/"/>
-        <updated>2026-02-05T07:59:21.000Z</updated>
-        <summary type="html"><![CDATA[アンバサダーマーケティング事業などを展開する、東証グロース上場のCRAVIAは3日、保有していたビットコイン（BTC）を全て売却し、暗号資産売却損を計上したと発 ...
-【国内初か】上場CRAVIA、ビットコイン全量損切り──ロスカット規定で first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secured Finance、UBSのトークン化MMF「uMINT」担保にUSDC・JPYC借入可能に。DigiFTと提携で]]></title>
-        <id>https://www.neweconomy.jp/?p=544693</id>
-        <link href="https://www.neweconomy.jp/posts/544693"/>
-        <updated>2026-02-05T07:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Secured FinanceでUBSのトークン化MMF担保にステーブルコイン借入可能に DeFi（分散型金融）固定金利レンディングプロトコル「セキュアードファイナンス（Secured Finance）」にて、UBSアセ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スペイン銀行大手BBVA、ユーロ建てステーブルコイン発行を目指す銀行コンソーシアムに参加]]></title>
-        <id>https://www.nadanews.com/?p=335876</id>
-        <link href="https://www.nadanews.com/335876/"/>
-        <updated>2026-02-05T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[スペイン大手銀行のBBVAは、合弁会社Qivalisを設立した欧州主要金融機関11行から成るコンソーシアムに参加したと発表した。 Qivalisは、デジタル資産 ...
-スペイン銀行大手BBVA、ユーロ建てステーブルコイン発行を目指す銀行コンソーシアムに参加 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>
