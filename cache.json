@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=336371",
+          "author": "Shoko Galaviz",
+          "description": "米国で急成長する予測市場を巡り、州政府と連邦政府の管轄権を問う法的対立が本格化している。暗号資産（仮想通貨）ベースの予測市場プラットフォームであるPolymar ...\nPolymarket、マサチューセッツ州を提訴 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/336371/",
+          "publishedOn": "2026-02-09T21:15:00.000Z",
+          "wordCount": 1391,
+          "title": "Polymarket、マサチューセッツ州を提訴",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2645249923.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=336360",
           "author": "井上 俊彦",
           "description": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ） のリサーチ責任者James Butterfill（ジェームズ・バターフィル）氏のブログ投稿 ...\n暗号資産ETPの流出が激減、直近の1週間は1億8700万ドル：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -450,26 +460,6 @@
           "wordCount": 1388,
           "title": "金融犯罪対策ソリューション提供のTRM Labs、7000万ドル調達でユニコーンに",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2095234528.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=335937",
-          "author": "増田隆幸",
-          "description": "トークン化RWAを担保にステーブルコインを調達 オンチェーン金融の拡張、あるいはTradFi（伝統的金融）とDeFi（分散型金融）の融合が加速している──トーク ...\nトークン化RWAを担保にJPYC/USDCの借入が可能に──Secured Finance、DigiFTと提携して実装 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/335937/",
-          "publishedOn": "2026-02-05T09:35:00.000Z",
-          "wordCount": 1433,
-          "title": "トークン化RWAを担保にJPYC/USDCの借入が可能に──Secured Finance、DigiFTと提携して実装",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-44.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=335931",
-          "author": "井上 俊彦",
-          "description": "オンチェーンデータ分析のArkham（アーカム）によると、ブータン政府の投資部門は、過去1週間で2度の大規模なビットコイン（BTC）の移動を行った。今回移された ...\nブータン、2200万ドル相当のビットコインを取引所などに移動 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/335931/",
-          "publishedOn": "2026-02-05T09:30:00.000Z",
-          "wordCount": 1349,
-          "title": "ブータン、2200万ドル相当のビットコインを取引所などに移動",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/09/shutterstock_2380092789.jpg"
         }
       ]
     },
@@ -484,6 +474,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=687952",
+          "author": "菊谷ルイス",
+          "description": "バーンスタインのアナリストが2026年末までのビットコイン価格15万ドルの予測を維持した。現在の下落は投資家心理を反映したもので、システム上の問題ではなく史上最も弱い弱気相場であると分析。",
+          "link": "https://coinpost.jp/?p=687952",
+          "publishedOn": "2026-02-09T21:30:54.000Z",
+          "wordCount": 3301,
+          "title": "「最も浅い調整局面」 、資産運用会社が年内15万ドルのビットコイン価格予測を維持",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/bull-and-bear.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/12/bull-and-bear.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=687956",
+          "author": "菊谷ルイス",
+          "description": "世界最大の仮想通貨取引所バイナンスがユーザー保護基金で3億ドル相当のビットコインを追加購入し保有高は1.04万BTCに達した。1月30日の発表から30日以内に10億ドルのステーブルコイン準備金をビットコインに転換する計画を加速中。",
+          "link": "https://coinpost.jp/?p=687956",
+          "publishedOn": "2026-02-09T21:00:52.000Z",
+          "wordCount": 3357,
+          "title": "バイナンスがSAFU基金で4225BTC追加購入、保有高は1.04万ビットコインに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance_2021a-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/binance_2021a-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=687951",
           "author": "菊谷ルイス",
@@ -1113,21 +1133,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/congress-stable-1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/congress-stable-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=686475",
-          "author": "Ritsuki.Kumazawa",
-          "description": "暗号資産取引所MEXCが金連動トークン先物の市場シェア拡大を発表。1月25日時点で47%に到達したという。金価格の最高値更新を背景に、銀先物でも取引が増加している。",
-          "link": "https://coinpost.jp/?p=686475",
-          "publishedOn": "2026-02-05T09:10:59.000Z",
-          "wordCount": 3312,
-          "title": "MEXC、金先物市場でシェア拡大　貴金属価格上昇を背景に取引増",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/mexc_thumbnail0204.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/mexc_thumbnail0204.png"
         }
       ]
     },
@@ -1395,16 +1400,6 @@
           "wordCount": 802,
           "title": "テザー、ビットコインマイニングOSをオープンソース化",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/05190715/c329101d7d142e790ffc783d87a9dc79-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=544718",
-          "author": "gentosha_shidara",
-          "description": "日本人起業のデジタル資産×伝統金融資産運用サービス企業、累計28億円調達 シンガポール拠点で暗号資産関連ビジネスを展開するペンギンセキュリティーズ・ホールディングス（Penguin Securities Holdings […]",
-          "link": "https://www.neweconomy.jp/posts/544718",
-          "publishedOn": "2026-02-05T09:19:41.000Z",
-          "wordCount": 775,
-          "title": "Penguin Securities HD が累計28億円調達、デジタル資産×伝統金融資産運用サービス拡大へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/05175625/Penguin_head260205v4.jpg"
         }
       ]
     }
