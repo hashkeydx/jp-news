@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-10T11:10:39.265Z</updated>
+    <updated>2026-02-10T13:51:41.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「リアルタイムブロックチェーン」のMegaETH、メインネットを公開]]></title>
+        <id>https://www.nadanews.com/?p=336496</id>
+        <link href="https://www.nadanews.com/336496/"/>
+        <updated>2026-02-10T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム（Ethereum）レイヤー2（L2）ブロックチェーンプロジェクトのMegaETH（メガイーサ） が、2026年2月9日にメインネットを正式公開した ...
+「リアルタイムブロックチェーン」のMegaETH、メインネットを公開 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産取引所Backpack、 IPOに向けて成長連動型のロック解除トークンを採用]]></title>
         <id>https://www.nadanews.com/?p=336491</id>
@@ -1415,88 +1426,6 @@ Tether、Gold.comに1億5000万ドルを投資──トークン化および現�
         <summary type="html"><![CDATA[ビットワイズが米国初のユニスワップETFをSECに申請。承認されればDeFi分野にとって重要な節目に。ユニスワップは2025年12月にフィースイッチを導入し、年間1億3000万ドル相当のUNI焼却が見込まれる。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファイアブロックス、ビットコインL2「スタックス」と統合、規制市場向け「カントン」とも連携]]></title>
-        <id>https://www.neweconomy.jp/?p=544767</id>
-        <link href="https://www.neweconomy.jp/posts/544767"/>
-        <updated>2026-02-06T01:33:46.000Z</updated>
-        <summary type="html"><![CDATA[ファイアブロックスがスタックスと統合 デジタル資産向け機関インフラを提供するファイアブロックス（Fireblocks）が、ビットコイン（Bitcoin）レイヤー2（L2）であるスタックス（Stacks）と統合し、機関投資 […]]]></summary>
-        <author>
-            <name>NewEconomy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン1年3か月ぶり1000万円割れ、金・米株下落連動で急落｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=687002</id>
-        <link href="https://coinpost.jp/?p=687002"/>
-        <updated>2026-02-06T01:30:21.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは5日から6日急落を見せ、1,000万円を1年3か月ぶりに下回った。ドルベースでは6万ドル付近まで下落した。貴金属市場が再び急激な下落を見せたことや、米ハイテク株を中心に下落したことなどが要因となった。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、ポリマーケットと提携　ネイティブUSDC導入へ]]></title>
-        <id>https://coinpost.jp/?p=687117</id>
-        <link href="https://coinpost.jp/?p=687117"/>
-        <updated>2026-02-06T01:20:20.000Z</updated>
-        <summary type="html"><![CDATA[サークルとポリマーケットが提携し、ブリッジ版USDCから規制準拠のネイティブUSDCへ移行。決済の信頼性向上とリスク排除を実現し、予測市場の機関投資家レベルへの成長を支援。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジル、アルゴリズム型ステーブルコインを禁止する法案審議　ENAなどに影響]]></title>
-        <id>https://coinpost.jp/?p=687104</id>
-        <link href="https://coinpost.jp/?p=687104"/>
-        <updated>2026-02-06T00:50:40.000Z</updated>
-        <summary type="html"><![CDATA[ブラジルが無担保型のステーブルコインを禁止する法案を審議中だ。準備金による担保義務化や海外発行コインへの対応などの内容も盛り込んでいる。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AAVE総供給量の2.3%を担保にした大口ローンが清算開始、価格急落で連鎖的処理]]></title>
-        <id>https://coinpost.jp/?p=687051</id>
-        <link href="https://coinpost.jp/?p=687051"/>
-        <updated>2026-02-06T00:10:24.000Z</updated>
-        <summary type="html"><![CDATA[DeFi融資大手Aaveで約35万5000トークンを担保にした大口ローンが市場急落により清算処理され、200万ドル相当のAAVEが押収された。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、HYPEなど3銘柄を新規上場]]></title>
-        <id>https://coinpost.jp/?p=687099</id>
-        <link href="https://coinpost.jp/?p=687099"/>
-        <updated>2026-02-05T23:45:38.000Z</updated>
-        <summary type="html"><![CDATA[米コインベースが仮想通貨ハイパーリキッド（HYPE）とRainbowとDoodlesの新規上場を実施した。HYPEは年初来30%上昇。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン急落、メタプラネット含み損2000億円超に──CEO「忍耐を試す」]]></title>
-        <id>https://www.nadanews.com/?p=336021</id>
-        <link href="https://www.nadanews.com/336021/"/>
-        <updated>2026-02-05T23:12:26.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）価格は6日、一時6万2000ドル（約974万円、1ドル=157円換算）台まで急落した。昨年10月の過去最高値12万6000ドル台から、わず ...
-ビットコイン急落、メタプラネット含み損2000億円超に──CEO「忍耐を試す」 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy、約1兆9220億円相当の損失──第4四半期決算、ビットコイン下落を受け]]></title>
-        <id>https://www.nadanews.com/?p=336001</id>
-        <link href="https://www.nadanews.com/336001/"/>
-        <updated>2026-02-05T23:12:18.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● Strategy（ストラテジー、MSTR）は、2025年第4四半期に124億ドル（1兆9220億円、1ドル=155円換 ...
-Strategy、約1兆9220億円相当の損失──第4四半期決算、ビットコイン下落を受け first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
         </author>
     </entry>
 </feed>
