@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-10T09:11:08.614Z</updated>
+    <updated>2026-02-10T11:10:39.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[暗号資産取引所Backpack、 IPOに向けて成長連動型のロック解除トークンを採用]]></title>
+        <id>https://www.nadanews.com/?p=336491</id>
+        <link href="https://www.nadanews.com/336491/"/>
+        <updated>2026-02-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所Backpackの創設者Armani Ferrante（アルマーニ・フェランテ）氏は、将来的なIPO（新規公開株）を見据えた独自性の高 ...
+暗号資産取引所Backpack、 IPOに向けて成長連動型のロック解除トークンを採用 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインシェアーズ、量子計算によるビットコイン脅威論を整理。実用リスクは限定的と分析]]></title>
+        <id>https://www.neweconomy.jp/?p=546159</id>
+        <link href="https://www.neweconomy.jp/posts/546159"/>
+        <updated>2026-02-10T09:15:30.000Z</updated>
+        <summary type="html"><![CDATA[量子リスクは「予見可能で管理可能」 暗号資産（仮想通貨）運用大手のコインシェアーズ（CoinShares）が、量子コンピュータが将来的にビットコインの暗号基盤へ与える影響について分析したレポートを2月6日に公開した。レポ […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインマイナーCango、AI事業への転換のため4451BTCを売却]]></title>
         <id>https://www.nadanews.com/?p=336458</id>
@@ -81,6 +102,26 @@ CME Group、Google Cloudと提携し「トークン化現金」発行へ──24
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ステーキング市場の寡占化が進む理由　機関投資家参入で標準戦略へ、HashKey Cloudの事例分析]]></title>
+        <id>https://coinpost.jp/?p=687262</id>
+        <link href="https://coinpost.jp/?p=687262"/>
+        <updated>2026-02-10T06:55:20.000Z</updated>
+        <summary type="html"><![CDATA[なぜステーキング市場で寡占化が進むのか。ETF・DAT時代を迎え、機関投資家にとってステーキングは標準戦略へ。香港上場のHashKey Cloud事例から、コンプライアンス・信頼性重視の市場構造と、先行優位が決定的となる理由を分析。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインチェック、ENJの取扱いを廃止　保有者は日本円に換金へ]]></title>
+        <id>https://coinpost.jp/?p=688185</id>
+        <link href="https://coinpost.jp/?p=688185"/>
+        <updated>2026-02-10T06:34:23.000Z</updated>
+        <summary type="html"><![CDATA[コインチェックは2026年2月9日にENJ（エンジン）の取扱いを廃止。保有ユーザーのENJは同社が売却し、2月下旬を目処に日本円でアカウントへ反映される予定。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[メガイーサ、パブリックメインネット公開。エコシステム入口「ラビットホール」提供開始]]></title>
         <id>https://www.neweconomy.jp/?p=546045</id>
         <link href="https://www.neweconomy.jp/posts/546045"/>
@@ -88,6 +129,16 @@ CME Group、Google Cloudと提携し「トークン化現金」発行へ──24
         <summary type="html"><![CDATA[メガイーサ、エコシステム用フロントエンドを公開 イーサリアム（Ethereum）レイヤー2ブロックチェーン「メガイーサ（MegaETH）」が、パブリックメインネットを公開した。メガイーサ公式Xより2月10日に発表された。 […]]]></summary>
         <author>
             <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子対策で凍結されるビットコイン、回収可能に　BitMEX Researchが提案]]></title>
+        <id>https://coinpost.jp/?p=688165</id>
+        <link href="https://coinpost.jp/?p=688165"/>
+        <updated>2026-02-10T06:08:19.000Z</updated>
+        <summary type="html"><![CDATA[BitMEX Researchが量子フリーズで凍結されたビットコインの回収方法を提案。コミットメント法やゼロ知識証明など複数の手法を解説し、理論上はほぼ全ての凍結コインが回収可能と説明している。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
@@ -1446,89 +1497,6 @@ Tether、Gold.comに1億5000万ドルを投資──トークン化および現�
 Strategy、約1兆9220億円相当の損失──第4四半期決算、ビットコイン下落を受け first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン現物ETF、4日は約855億円の資金が純流出　現状に肯定的な見方も]]></title>
-        <id>https://coinpost.jp/?p=687088</id>
-        <link href="https://coinpost.jp/?p=687088"/>
-        <updated>2026-02-05T23:00:15.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインの現物ETFは4日、約855億円の資金が純流出した。最近は純流出する日が増えているが、他のデータを評価する声も上がっている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether、Anchorage Digitalに約157億円出資]]></title>
-        <id>https://www.nadanews.com/?p=335999</id>
-        <link href="https://www.nadanews.com/335999/"/>
-        <updated>2026-02-05T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン最大手のTether（テザー）は、米国を代表する規制準拠型デジタル資産プラットフォームであるAnchorage Digital（アンカレッジ・デ ...
-Tether、Anchorage Digitalに約157億円出資 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインが6万3000ドルまで下落、分析家が全員弱気になる理由──エックスウィンが年初に描いたシナリオとの一致点【エックスウィンリサーチ】]]></title>
-        <id>https://www.nadanews.com/?p=336002</id>
-        <link href="https://www.nadanews.com/336002/"/>
-        <updated>2026-02-05T22:32:18.000Z</updated>
-        <summary type="html"><![CDATA[● 今回の下落は、米国経済の減速を背景としたマクロ主導の調整であり、突発的な暴落ではない。● 売りはレバレッジ解消に加え、米国投資家の現物需要低下が重なって発生 ...
-ビットコインが6万3000ドルまで下落、分析家が全員弱気になる理由──エックスウィンが年初に描いたシナリオとの一致点【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>XWIN Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン、ビットコインの長期目標価格を26.6万ドルに引き上げ　金との比較で]]></title>
-        <id>https://coinpost.jp/?p=687050</id>
-        <link href="https://coinpost.jp/?p=687050"/>
-        <updated>2026-02-05T22:10:22.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンのアナリストは、仮想通貨ビットコインが短期的な下落圧力を受けているものの、金に対する魅力度が高まっており、長期的には26.6万ドルに達する可能性があると予測した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジーの2025年通期決算、ビットコイン保有数が71万BTCに拡大]]></title>
-        <id>https://coinpost.jp/?p=687086</id>
-        <link href="https://coinpost.jp/?p=687086"/>
-        <updated>2026-02-05T21:40:44.000Z</updated>
-        <summary type="html"><![CDATA[マイケル・セイラー率いるストラテジーが2025年通期決算発表でビットコイン保有数が71.4万BTCに達したことを開示した。年間で253億ドルの資金を調達し、配当支払いに備えて22.5億ドルの現金準備金を確保。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国の11州年金基金、ストラテジー株投資で含み損550億円に上る]]></title>
-        <id>https://coinpost.jp/?p=687049</id>
-        <link href="https://coinpost.jp/?p=687049"/>
-        <updated>2026-02-05T21:15:20.000Z</updated>
-        <summary type="html"><![CDATA[米国の11州年金基金がマイケル・セイラー氏率いるストラテジー株への投資で約3.5億ドルの含み損を抱えていることが明らかになった。ビットコイン弱気相場により同社株価は過去1年で68%下落。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini、英国・EU・オーストラリアから撤退─米国と予測市場に集中へ]]></title>
-        <id>https://www.nadanews.com/?p=335995</id>
-        <link href="https://www.nadanews.com/335995/"/>
-        <updated>2026-02-05T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所Gemini（ジェミナイ）は、「Gemini 2.0」と題した公式ブログ投稿の中で、事業戦略の大きな転換を明らかにした。その中核にある ...
-Gemini、英国・EU・オーストラリアから撤退─米国と予測市場に集中へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務長官が仮想通貨法案の重要性を強調、「法案なしでは規制は不可能」]]></title>
-        <id>https://coinpost.jp/?p=687048</id>
-        <link href="https://coinpost.jp/?p=687048"/>
-        <updated>2026-02-05T20:50:18.000Z</updated>
-        <summary type="html"><![CDATA[ベッセント米財務長官が上院銀行委員会で、仮想通貨市場構造法案の成立なしには米国での規制は不可能と陳述。一方で、民主党上院議員は「仮想通貨地獄にいるような気分だ」と立法の行き詰まりに不満を表明。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
