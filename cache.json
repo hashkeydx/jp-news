@@ -660,26 +660,6 @@
           "wordCount": 1360,
           "title": "暗号資産ETPの流出が激減、直近の1週間は1億8700万ドル：CoinShares",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/shutterstock_1110470546.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336305",
-          "author": "廣瀬 優香",
-          "description": "世界最大規模のデジタル資産企業であるTether（テザー）は2月6日、USDTを活用した認可金融機関向け決済プラットフォーム「t-0 network」への戦略的 ...\nTether、金融機関向け決済プラットフォーム「t-0 Network」に投資──USDT活用の決済システムを支援 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336305/",
-          "publishedOn": "2026-02-09T09:45:00.000Z",
-          "wordCount": 1358,
-          "title": "Tether、金融機関向け決済プラットフォーム「t-0 Network」に投資──USDT活用の決済システムを支援",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2674255479-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336323",
-          "author": "井上 俊彦",
-          "description": "米大手暗号資産（仮想通貨）取引所Kraken（クラーケン）の機関投資家部門であるKraken Institutional（クラーケン・インスティテューショナル） ...\nKraken、機関投資家向けに暗号資産を保持したまま利回りが得られるサービスを提供 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336323/",
-          "publishedOn": "2026-02-09T09:30:00.000Z",
-          "wordCount": 1362,
-          "title": "Kraken、機関投資家向けに暗号資産を保持したまま利回りが得られるサービスを提供",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2611282275.jpg"
         }
       ]
     },
@@ -690,10 +670,55 @@
       "articles": []
     },
     {
-      "title": "NEM(NEM)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=689171",
+          "author": "菊谷ルイス",
+          "description": "新たな申請「TruthSocial」を運営するトランプメディア・アンド・テクノロジー・グループ（DJT）は2月13日、米証券取引委員会（SEC）に仮想通貨ビットコインとイーサリアムのETF登録届出書を提出したと発表した。同社はクロノス（CR...",
+          "link": "https://coinpost.jp/?p=689171",
+          "publishedOn": "2026-02-13T21:25:34.000Z",
+          "wordCount": 3335,
+          "title": "トランプメディア、ビットコインとイーサリアムのETFを再申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-token-truthfi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/trump-token-truthfi.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689170",
+          "author": "菊谷ルイス",
+          "description": "CZ氏がフォーチューン誌のバイナンス関連報道に反論。イラン関連取引を発見した調査員が解雇されたとする報道を「自己矛盾」と批判し複数のAMLツール使用を強調した。",
+          "link": "https://coinpost.jp/?p=689170",
+          "publishedOn": "2026-02-13T21:05:32.000Z",
+          "wordCount": 3329,
+          "title": "CZ氏、バイナンスのイラン関連調査員解雇報道に反論",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cz-binance3_0412.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/cz-binance3_0412.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689169",
+          "author": "菊谷ルイス",
+          "description": "ベセント米財務長官が今週CNBCの番組で、クラリティー法案の停滞が仮想通貨業界に悪影響を与えていると指摘。今春までの成立が市場回復の重要な要素になるとの見解を示した。",
+          "link": "https://coinpost.jp/?p=689169",
+          "publishedOn": "2026-02-13T20:40:20.000Z",
+          "wordCount": 3335,
+          "title": "仮想通貨市場構造法案の早期成立が「市場の安心材料」に、米財務長官発言",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-2026.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-2026.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=689105",
           "author": "Ritsuki.Kumazawa",
@@ -1803,21 +1828,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solo-mining-bitcoin.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solo-mining-bitcoin.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=686056",
-          "author": "A.Yoshida",
-          "description": "現金不要で仮想通貨投資を始められるポイント投資を徹底解説。PayPay・楽天・Vポイント・Ponta・メルカリの5サービスを比較し、それぞれの特徴、メリット、おすすめの人を具体的に紹介します。",
-          "link": "https://coinpost.jp/?p=686056",
-          "publishedOn": "2026-02-09T09:00:19.000Z",
-          "wordCount": 2611,
-          "title": "ポイ活で始める仮想通貨投資｜PayPay・楽天など対応サービス5選比較",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/pointinvest0205.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/pointinvest0205.png"
         }
       ]
     },
@@ -2345,16 +2355,6 @@
           "wordCount": 781,
           "title": "バイナンスがビットコイン3600枚購入、ユーザー資産保険基金「SAFU」向けに",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/09193904/2d84867bfde991463c7af7e4a1328064.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=545733",
-          "author": "HitomotoToshikazu",
-          "description": "Sberbankが暗号資産担保ローン展開へ ロシア最大手で政府が過半を保有する政府系銀行スベルバンク（Sberbank）が、暗号資産（仮想通貨）担保型ローンの発行準備を進めていると「ロイター（Reuters）」が2月5日 […]",
-          "link": "https://www.neweconomy.jp/posts/545733",
-          "publishedOn": "2026-02-09T08:58:48.000Z",
-          "wordCount": 734,
-          "title": "露スベルバンク、暗号資産担保ローンを発行準備中、中銀と連携へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/09175815/14f9730ef86c2ccd5d2bb933f252dba6.jpg"
         }
       ]
     }
