@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337221",
+          "author": "XWIN Research",
+          "description": "● ステーブルコイン供給量は歴史的高水準を維持しており、市場には再配分可能な流動性が蓄積されている。● GENIUS Actの実装は、暗号資産市場への制度的資本 ...\n2026年米国中間選挙が暗号資産市場に与える構造的影響──ステーブルコイン制度化と市場再評価の分岐点【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337221/",
+          "publishedOn": "2026-02-17T23:25:00.000Z",
+          "wordCount": 1401,
+          "title": "2026年米国中間選挙が暗号資産市場に与える構造的影響──ステーブルコイン制度化と市場再評価の分岐点【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-59-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337212",
           "author": "Shoko Galaviz",
           "description": "米商品先物取引委員会（CFTC）のMike Selig（マイク・セリグ）委員長が、予測市場を巡る州政府との法的対立に本格的に踏み込んだ。セリグ氏は、予測市場に対 ...\nCFTCセリグ委員長、予測市場を巡り州政府と対立　──「法廷で会おう」と強硬姿勢 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -390,16 +400,6 @@
           "wordCount": 1349,
           "title": "Glassnode、ビットコイン市場の構造的脆弱性を指摘",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2142704805.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=336953",
-          "author": "栃山 直樹",
-          "description": "SBIホールディングスは13日、シンガポールを拠点とする暗号資産（仮想通貨）取引所「Coinhako（コインハコ）」を運営するHoldbuild Pte. Lt ...\nSBI、シンガポール暗号資産取引所「Coinhako」買収へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/336953/",
-          "publishedOn": "2026-02-13T10:57:37.000Z",
-          "wordCount": 1386,
-          "title": "SBI、シンガポール暗号資産取引所「Coinhako」買収へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2592032249.jpg"
         }
       ]
     },
@@ -414,6 +414,96 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=689958",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨特化ベンチャーキャピタルのドラゴンフライ・キャピタルが第4号ファンドを6.5億ドルで最終クローズした。市場低迷期に調達してきた過去の実績を根拠に、ステーブルコインやDeFi、エージェント型決済など「金融系クリプト」の成長を見据えた投資を本格化させる。",
+          "link": "https://coinpost.jp/?p=689958",
+          "publishedOn": "2026-02-17T23:25:34.000Z",
+          "wordCount": 3308,
+          "title": "ドラゴンフライ、第4号ファンドで6.5億ドル調達　仮想通貨の冬での逆張り戦略を継続",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/vc-standard-crypto.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689965",
+          "author": "K.Kobayashi",
+          "description": "米ステーキ・アンド・シェイクは、2025年5月に仮想通貨ビットコインを決済に導入してから既存店売上高が大幅に増加したと発表。同社はビットコインを戦略的準備金として保有もしている。",
+          "link": "https://coinpost.jp/?p=689965",
+          "publishedOn": "2026-02-17T22:50:08.000Z",
+          "wordCount": 3391,
+          "title": "ビットコイン決済導入後に売上が大幅増　米ステーキ・アンド・シェイク、BTC準備金も活用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Steak-n-Shake.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Steak-n-Shake.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689952",
+          "author": "菊谷ルイス",
+          "description": "ブラックロックがステーキング報酬を得られる新ETF「iShares Staked Ethereum Trust ETF」をSECへ申請。合わせて4500万ドル相当のETHをCoinbase Primeへ送金するなど、資産蓄積の動きが加速。",
+          "link": "https://coinpost.jp/?p=689952",
+          "publishedOn": "2026-02-17T22:15:36.000Z",
+          "wordCount": 3394,
+          "title": "ブラックロック、ステーキング型イーサリアムETFを申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/blackrock-eth.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/blackrock-eth.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689951",
+          "author": "菊谷ルイス",
+          "description": "米仮想通貨取引所Geminiの主要経営陣3名が退任し、ウィンクルボス氏が経営を直轄する。巨額赤字を受けた構造改革により、再建に向けた「Gemini 2.0」への移行が進んでいる。",
+          "link": "https://coinpost.jp/?p=689951",
+          "publishedOn": "2026-02-17T21:50:34.000Z",
+          "wordCount": 3308,
+          "title": "米上場の仮想通貨Gemini、主要経営陣3名が同時退任　大幅な赤字見通しに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/gemini-deri-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/gemini-deri-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689950",
+          "author": "菊谷ルイス",
+          "description": "米CFTCのゼリグ委員長が予測市場の管轄権を巡り、過剰規制を進める州当局に対して「法廷で会おう」と表明。連邦政府による独占的管轄権を強力に擁護する姿勢を鮮明にした。",
+          "link": "https://coinpost.jp/?p=689950",
+          "publishedOn": "2026-02-17T21:20:32.000Z",
+          "wordCount": 3302,
+          "title": "米CFTC委員長、予測市場巡り州当局を牽制",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/sec-cftc_0509.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/sec-cftc_0509.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689949",
+          "author": "菊谷ルイス",
+          "description": "米上場のビットマインが先週約4.6万5759ETHのイーサリアムを追加購入し、総保有量を437万ETH超に拡大した。会長のトム・リー氏は2026年をイーサリアムにとっての転換点と位置づけ、ETH供給量の5%取得という目標に向けた買い増しを継続する方針を明示。",
+          "link": "https://coinpost.jp/?p=689949",
+          "publishedOn": "2026-02-17T20:55:30.000Z",
+          "wordCount": 3373,
+          "title": "トム・リー率いるビットマイン、先週140億円相当イーサリアムを追加取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=689948",
           "author": "菊谷ルイス",
@@ -1450,16 +1540,6 @@
           "wordCount": 784,
           "title": "ソラナ「Superteam Japan」共同代表に佐藤茂と卜部鉄平が就任、日本企業のトークン化プロジェクト支援強化へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/14160552/superteam20260216news-1024x576.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=547148",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/547148",
-          "publishedOn": "2026-02-13T10:54:29.000Z",
-          "wordCount": 791,
-          "title": "【2/13話題】金融庁が大手証券らのステーブルコインでの株式決済の実証支援、WLFIが送金プラットフォーム、ソニーがヨアケに5億円など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/13165734/ec274f7674ee290f053a263d0471a0c4.jpg"
         }
       ]
     }
