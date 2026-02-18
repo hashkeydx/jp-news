@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337352",
+          "author": "Shoko Galaviz",
+          "description": "World Liberty Financial（ワールド・リバティ・ファイナンシャル：WLFI）は、総額3兆5000億ドル（約540兆円、1ドル＝155円換算） ...\nWorld Liberty Financial、Apex Groupと戦略的協業──ステーブルコインの伝統的金融統合を模索 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337352/",
+          "publishedOn": "2026-02-18T22:30:00.000Z",
+          "wordCount": 1397,
+          "title": "World Liberty Financial、Apex Groupと戦略的協業──ステーブルコインの伝統的金融統合を模索",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2429741167.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337347",
           "author": "Shoko Galaviz",
           "description": "OpenAI（オープンAI）はParadigm（パラダイム）と共同で、ブロックチェーン上のスマートコントラクトの脆弱性に対するAIエージェントの能力を評価する新 ...\nOpenAIとParadigm、スマートコントラクトのセキュリティ向けAIエージェントツールを発表 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -494,6 +504,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=690209",
+          "author": "菊谷ルイス",
+          "description": "オープンAIがパラダイムと共同で、スマートコントラクトの脆弱性を検出・修正・悪用するAIエージェントの能力を測定するベンチマーク「EVMbench」を発表した。最新モデルがエクスプロイト成功率72%超を記録する中、AIをブロックチェーンセキュリティの防御側に活用する重要性が高まっている。",
+          "link": "https://coinpost.jp/?p=690209",
+          "publishedOn": "2026-02-18T22:30:17.000Z",
+          "wordCount": 3276,
+          "title": "オープンAIとパラダイム、スマートコントラクト脆弱性ベンチマーク「EVMbench」を共同公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/OpenAI_0315.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/OpenAI_0315.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690222",
+          "author": "K.Kobayashi",
+          "description": "ピーター・ティール氏は、仮想通貨イーサリアムの財務企業イーサジラの株式を2025年12月末までに全て売却。同氏が株式の7.5%を取得したことが明らかになったのは2025年8月である。",
+          "link": "https://coinpost.jp/?p=690222",
+          "publishedOn": "2026-02-18T22:17:35.000Z",
+          "wordCount": 3361,
+          "title": "著名投資家ピーター・ティール、イーサリアム財務企業イーサジラの全株式を売却",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/ethereum_0520.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690210",
+          "author": "菊谷ルイス",
+          "description": "BitMEX共同創設者のアーサー・ヘイズ氏は、AIの普及がホワイトカラーの雇用を奪い、銀行システムに壊滅的な打撃を与えると警告。また、仮想通貨ビットコインを市場の流動性を測る最良の指標と位置づけ、FRBによる最終的なマネー増刷の再開を予測。",
+          "link": "https://coinpost.jp/?p=690210",
+          "publishedOn": "2026-02-18T22:10:32.000Z",
+          "wordCount": 3353,
+          "title": "アーサー・ヘイズ、AIによる金融危機を警告　ビットコインは「流動性の火災報知器」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_B.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/0522_arthur_B.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690211",
+          "author": "菊谷ルイス",
+          "description": "クリプトクアントCEOが、量子コンピュータによるビットコイン秘密鍵解読リスクを分析し、サトシ・ナカモトの約100万BTCを含む約689万BTCが脆弱な状態にあると警告。",
+          "link": "https://coinpost.jp/?p=690211",
+          "publishedOn": "2026-02-18T21:32:40.000Z",
+          "wordCount": 3276,
+          "title": "サトシの100万BTCも対象に、量子コンピュータが脅かすビットコインをクリプトクアントが分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/who-is-satoshiii.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/10/who-is-satoshiii.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690212",
+          "author": "菊谷ルイス",
+          "description": "ゴールドマンのソロモンCEOがビットコインを個人で少量保有していることを公表し、米国での仮想通貨市場構造法案「クラリティー法」の早期成立を強く求めた。法案を巡る業界間の対立が続く中、3月1日の合意期限が迫っている。",
+          "link": "https://coinpost.jp/?p=690212",
+          "publishedOn": "2026-02-18T21:10:48.000Z",
+          "wordCount": 3276,
+          "title": "ゴールドマン・サックスCEO、ビットコインを少量保有と明かす",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/goldmansachsBTC.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/goldmansachsBTC.png"
+        },
         {
           "id": "https://coinpost.jp/?p=690208",
           "author": "菊谷ルイス",

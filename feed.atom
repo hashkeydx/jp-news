@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-18T21:48:42.451Z</updated>
+    <updated>2026-02-18T22:52:12.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オープンAIとパラダイム、スマートコントラクト脆弱性ベンチマーク「EVMbench」を共同公開]]></title>
+        <id>https://coinpost.jp/?p=690209</id>
+        <link href="https://coinpost.jp/?p=690209"/>
+        <updated>2026-02-18T22:30:17.000Z</updated>
+        <summary type="html"><![CDATA[オープンAIがパラダイムと共同で、スマートコントラクトの脆弱性を検出・修正・悪用するAIエージェントの能力を測定するベンチマーク「EVMbench」を発表した。最新モデルがエクスプロイト成功率72%超を記録する中、AIをブロックチェーンセキュリティの防御側に活用する重要性が高まっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Liberty Financial、Apex Groupと戦略的協業──ステーブルコインの伝統的金融統合を模索]]></title>
+        <id>https://www.nadanews.com/?p=337352</id>
+        <link href="https://www.nadanews.com/337352/"/>
+        <updated>2026-02-18T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[World Liberty Financial（ワールド・リバティ・ファイナンシャル：WLFI）は、総額3兆5000億ドル（約540兆円、1ドル＝155円換算） ...
+World Liberty Financial、Apex Groupと戦略的協業──ステーブルコインの伝統的金融統合を模索 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[著名投資家ピーター・ティール、イーサリアム財務企業イーサジラの全株式を売却]]></title>
+        <id>https://coinpost.jp/?p=690222</id>
+        <link href="https://coinpost.jp/?p=690222"/>
+        <updated>2026-02-18T22:17:35.000Z</updated>
+        <summary type="html"><![CDATA[ピーター・ティール氏は、仮想通貨イーサリアムの財務企業イーサジラの株式を2025年12月末までに全て売却。同氏が株式の7.5%を取得したことが明らかになったのは2025年8月である。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アーサー・ヘイズ、AIによる金融危機を警告　ビットコインは「流動性の火災報知器」]]></title>
+        <id>https://coinpost.jp/?p=690210</id>
+        <link href="https://coinpost.jp/?p=690210"/>
+        <updated>2026-02-18T22:10:32.000Z</updated>
+        <summary type="html"><![CDATA[BitMEX共同創設者のアーサー・ヘイズ氏は、AIの普及がホワイトカラーの雇用を奪い、銀行システムに壊滅的な打撃を与えると警告。また、仮想通貨ビットコインを市場の流動性を測る最良の指標と位置づけ、FRBによる最終的なマネー増刷の再開を予測。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サトシの100万BTCも対象に、量子コンピュータが脅かすビットコインをクリプトクアントが分析]]></title>
+        <id>https://coinpost.jp/?p=690211</id>
+        <link href="https://coinpost.jp/?p=690211"/>
+        <updated>2026-02-18T21:32:40.000Z</updated>
+        <summary type="html"><![CDATA[クリプトクアントCEOが、量子コンピュータによるビットコイン秘密鍵解読リスクを分析し、サトシ・ナカモトの約100万BTCを含む約689万BTCが脆弱な状態にあると警告。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAIとParadigm、スマートコントラクトのセキュリティ向けAIエージェントツールを発表]]></title>
         <id>https://www.nadanews.com/?p=337347</id>
@@ -15,6 +66,16 @@
 OpenAIとParadigm、スマートコントラクトのセキュリティ向けAIエージェントツールを発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゴールドマン・サックスCEO、ビットコインを少量保有と明かす]]></title>
+        <id>https://coinpost.jp/?p=690212</id>
+        <link href="https://coinpost.jp/?p=690212"/>
+        <updated>2026-02-18T21:10:48.000Z</updated>
+        <summary type="html"><![CDATA[ゴールドマンのソロモンCEOがビットコインを個人で少量保有していることを公表し、米国での仮想通貨市場構造法案「クラリティー法」の早期成立を強く求めた。法案を巡る業界間の対立が続く中、3月1日の合意期限が迫っている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
