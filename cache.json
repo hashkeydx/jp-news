@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337033",
+          "author": "橋本 祐樹",
+          "description": "デジタル通貨（CBDC）、暗号資産、ステーブルコイン——制度設計から社会実装へとフェーズが移る2026年。今、金融の未来を形作る重要な議論が求められています。  ...\n【2/24開催】金融庁主催ウィークの「オープニングイベント」──金融の未来を占う、現地参加必須の「デジタル通貨カンファレンス」 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337033/",
+          "publishedOn": "2026-02-18T03:43:45.000Z",
+          "wordCount": 2174,
+          "title": "【2/24開催】金融庁主催ウィークの「オープニングイベント」──金融の未来を占う、現地参加必須の「デジタル通貨カンファレンス」",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/カンファレンス告知用_129更新.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=337233",
+          "author": "廣瀬 優香",
+          "description": "ビットコイン（BTC）トレジャリー企業のNakamotoは2月17日、ビットコイン関連メディアおよびイベントの大手プロバイダーBTC Inc.と、資産運用会社U ...\nビットコイントレジャリー企業Nakamoto、BTC Inc.とUTXOを1億700万ドルで買収へ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337233/",
+          "publishedOn": "2026-02-18T03:35:00.000Z",
+          "wordCount": 1359,
+          "title": "ビットコイントレジャリー企業Nakamoto、BTC Inc.とUTXOを1億700万ドルで買収へ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2461804463.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337227",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ● ビットコイン（BTC）は米国時間2月17日の早朝取引で一時6万7000ドルを割った（日本時間18日8時30分頃には6万 ...\nビットコイン、一時6万7000ドル割れ──ソフトウェア株の下落と連動 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -404,6 +424,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=690095",
+          "author": "Enzo",
+          "description": "DeFiプロトコルMoonwellでAI共著コードのオラクル設定ミスが発覚し、約178万ドル（約2.6億円）の損失が発生。GitHubの記録にはAnthropicの最新モデル「Claude Opus 4.6との共著」と明記されており、AI活用開発のリスクに注目が集まっている。",
+          "link": "https://coinpost.jp/?p=690095",
+          "publishedOn": "2026-02-18T05:32:35.000Z",
+          "wordCount": 3310,
+          "title": "Moonwellでオラクル設定ミス、AI共著コードが関与し約2.6億円損失",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/yucho_thumbnail-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/yucho_thumbnail-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690080",
+          "author": "幸田直子",
+          "description": "サークルとOpenMindが、ロボット犬「Bits」によるUSDC自律決済のデモを公開し、人間の介入なしに充電料金を支払うマシン間決済を実証した。",
+          "link": "https://coinpost.jp/?p=690080",
+          "publishedOn": "2026-02-18T05:15:18.000Z",
+          "wordCount": 3314,
+          "title": "ロボット犬がUSDCで自律決済、サークルとOpenMindがマシン経済を実証",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/coinbase-usdc-big-yield.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/coinbase-usdc-big-yield.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689977",
+          "author": "菊谷ルイス",
+          "description": "SBI VCトレードは2月17日、東証スタンダード上場の北紡とビットコインの取引・保管・運用に関する連携を開始したと発表。法人向け大口サービス「SBIVC for Prime」を通じて、OTC取引や期末時価評価税の適用除外といった機関投資家向けインフラを中小上場企業にも提供。",
+          "link": "https://coinpost.jp/?p=689977",
+          "publishedOn": "2026-02-18T04:45:30.000Z",
+          "wordCount": 3309,
+          "title": "SBI VCトレードと北紡が連携開始、大口BTC取引や保管サービスを提供",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitwise-defi-aave-out-from-winter.webp"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitwise-defi-aave-out-from-winter.webp"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690003",
+          "author": "A.Yamada",
+          "description": "ビットワイズのマット・ホーガン氏がDeFiトークンの改革が仮想通貨弱気相場を脱却する上で重要だと論じた。Aaveの収益連動型トークン提案を事例に解説している。",
+          "link": "https://coinpost.jp/?p=690003",
+          "publishedOn": "2026-02-18T04:20:33.000Z",
+          "wordCount": 3399,
+          "title": "「DeFiのトークン改革が弱気相場脱却の鍵に」ビットワイズがAaveの事例を解説",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/aave.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/aave.png"
+        },
         {
           "id": "https://coinpost.jp/?p=690009",
           "author": "CoinPost編集部",
@@ -1386,6 +1466,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=548368",
+          "author": "NewEconomy",
+          "description": "機関向けオンチェーン金融でプライバシー対応を拡張 ブロックチェーン開発企業のスタークウェア（StarkWare）が、ゼロ知識プライバシーレイヤー「ナイトフォール（Nightfall）」を、同社が主要開発企業として関与する […]",
+          "link": "https://www.neweconomy.jp/posts/548368",
+          "publishedOn": "2026-02-18T05:02:29.000Z",
+          "wordCount": 785,
+          "title": "スタークウェア、EYのプライバシー技術「ナイトフォール」をスタークネットに統合",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18140212/1bc18e390dd3ac9574204ef9bed5497d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548355",
+          "author": "OtsugaShinya",
+          "description": "SBI VCトレードが北紡の支援開始 国内暗号資産（仮想通貨）取引所SBI VCトレードが、ビットコイン（BTC）保有戦略を進める東証スタンダード上場企業の北紡によるビットコイン取引・保管・運用について、各種サポートを開 […]",
+          "link": "https://www.neweconomy.jp/posts/548355",
+          "publishedOn": "2026-02-18T04:28:46.000Z",
+          "wordCount": 632,
+          "title": "SBI VCトレード、北紡のビットコイン取引・保管・運用の支援開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18132830/650b0fbd8ff6d22bc70fbfad995f2a66.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=548349",
+          "author": "TanakaShuya",
+          "description": "ストラテジーがビットコイン追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を発表した。 ストラテジーは2月9日から2月16日までに、2,486 […]",
+          "link": "https://www.neweconomy.jp/posts/548349",
+          "publishedOn": "2026-02-18T04:22:40.000Z",
+          "wordCount": 634,
+          "title": "ストラテジーがビットコイン追加購入、総保有数は約717,131BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/18132224/d493e3ba937e47d8270951e91f7aba31.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=548312",
           "author": "NewEconomy",
