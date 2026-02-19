@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337391",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ●トランプ氏関連企業ワールド・リバティ・ファイナンシャル（WLFI）のトークンは、3.5兆ドル規模の資産管理会社が同社のU ...\nWLFI、Apexステーブルコイン契約で10％急騰──BTC・ETH上回る first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337391/",
+          "publishedOn": "2026-02-19T03:49:56.000Z",
+          "wordCount": 1383,
+          "title": "WLFI、Apexステーブルコイン契約で10％急騰──BTC・ETH上回る",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2610680747-990x660-1.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=337387",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ●1250億ドル以上の資産を運用するスターウッド・キャピタルのバリー・スターンリヒト氏は、同社は現実世界の資産をトークン化 ...\n不動産王は資産のトークン化に前向きだが、米国の規制がそれを阻んでいると語る first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337387/",
+          "publishedOn": "2026-02-19T03:14:25.000Z",
+          "wordCount": 1387,
+          "title": "不動産王は資産のトークン化に前向きだが、米国の規制がそれを阻んでいると語る",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/image-4-scaled.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337383",
           "author": "NADA NEWS編集部",
           "description": "【CoinDesk Summary】 ●ビットコインは水曜日の午後に6万6000ドルまで下落し、最近の取引レンジの下限を試した。 ●暗号資産関連株は朝の上昇分を ...\nビットコインが6万6000ドルへ下落、米株も失速、FRB議事要旨の利上げ言及を受けて first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -544,6 +564,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=690371",
+          "author": "幸田直子",
+          "description": "コインベース支援のイーサリアムL2「Base」が、OptimismのOP Stackから独自統合スタックへの移行を発表した。開発サイクルの倍速化やコードベースの簡素化を目指す一方、OP仕様との互換性は当面維持する。",
+          "link": "https://coinpost.jp/?p=690371",
+          "publishedOn": "2026-02-19T05:05:24.000Z",
+          "wordCount": 3296,
+          "title": "コインベースのL2「Base」、OP Stackから独自統合スタックへ移行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/basesamune0815.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/basesamune0815.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=689529",
+          "author": "CoinPost編集部",
+          "description": "「仮想通貨は、トランプ大統領の多くの子供のうちの一人だ。私たちはその現実と向き合わなければならない」AnimocaBrandsのヤット・シウ（YatSiu）氏共同創業者兼会長はCoinPostの独占インタビューでこう言い切った。トランプ相場...",
+          "link": "https://coinpost.jp/?p=689529",
+          "publishedOn": "2026-02-19T05:04:15.000Z",
+          "wordCount": 3315,
+          "title": "「トランプ相場は終わった」Animoca Brandsのヤット・シウ会長、実用トークンへの回帰を訴える｜独占インタビュー",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/yatsiu_interview_cp.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/yatsiu_interview_cp.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690365",
+          "author": "Enzo",
+          "description": "FRBのスタッフ論文が予測市場カルシを高評価。2022年以降の全FOMC会合でFF金利予測が完全的中を達成し、CPI予測でもブルームバーグ・コンセンサスを上回るなど、ウォール街の専門家に匹敵する予測精度が示された。",
+          "link": "https://coinpost.jp/?p=690365",
+          "publishedOn": "2026-02-19T04:36:04.000Z",
+          "wordCount": 3273,
+          "title": "FRB論文、予測市場カルシの予測精度がウォール街の専門家に匹敵",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/kalshi-kalshi.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/kalshi-kalshi.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690307",
+          "author": "A.Yamada",
+          "description": "上場マイニング企業ライオットの株主スターボード・バリューがAI・HPC事業加速を要請。既存の電力インフラを活用することで大幅な利益創出が期待できると試算した。",
+          "link": "https://coinpost.jp/?p=690307",
+          "publishedOn": "2026-02-19T04:00:25.000Z",
+          "wordCount": 3286,
+          "title": "「AIデータセンター事業の迅速な拡大を」ライオット株主が要請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/ai-data-center-for-riot-btc.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/ai-data-center-for-riot-btc.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=690275",
           "author": "K.Kobayashi",
@@ -1623,21 +1703,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=689404",
-          "author": "菊谷ルイス",
-          "description": "Xが仮想通貨の直接取引機能「スマート・キャッシュタグ」を導入予定。アプリ内で売買が完結するスーパーアプリ化が加速。数週間以内に開始する見通しだ。",
-          "link": "https://coinpost.jp/?p=689404",
-          "publishedOn": "2026-02-14T15:45:09.000Z",
-          "wordCount": 3292,
-          "title": "X、仮想通貨・株取引機能を実装へ──イーロンのスーパーアプリ構想加速",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/X_twitter_0822.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/08/X_twitter_0822.jpg"
         }
       ]
     },
@@ -1646,6 +1711,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=548730",
+          "author": "HitomotoToshikazu",
+          "description": "ステーキング対応SUI現物ETF2本上場 米暗号資産（仮想通貨）投資企業カナリーキャピタル（Canary Capital）と、米暗号資産運用会社グレースケール（Grayscale）がそれぞれ組成した、ステーキング対応の暗 […]",
+          "link": "https://www.neweconomy.jp/posts/548730",
+          "publishedOn": "2026-02-19T04:35:41.000Z",
+          "wordCount": 837,
+          "title": "米国初、「スイ（SUI）」ステーキング現物ETFが2本上場。カナリーとグレースケールが組成",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/19133525/e37f0b69cefe89f8a89b97ab1b6ce49d.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=548709",
           "author": "NewEconomy",
