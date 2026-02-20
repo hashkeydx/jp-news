@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337589",
+          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
+          "description": "今週の市場は、ビットコインが67,000ドル前後（約1,040万円前後）を軸に振幅しながら、恐怖の極限と“売りの減速”が同時に観測された1週間だった。 価格は方 ...\n恐怖は“底温度”、しかし信頼は未回復── 反発の正体は清算か、資金回帰の兆しか【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337589/",
+          "publishedOn": "2026-02-20T23:25:00.000Z",
+          "wordCount": 1361,
+          "title": "恐怖は“底温度”、しかし信頼は未回復── 反発の正体は清算か、資金回帰の兆しか【BitTrade Market Weekly】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-51-2.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=333586",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● トランプ大統領の私邸「Mar-a-Lago（マール・ア・ラーゴ）」で開催されたWorld Liberty Financ ...\n大手金融、不動産、著名ラッパー──トランプ氏の超現実的な暗号資産サミット first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/333586/",
+          "publishedOn": "2026-02-20T23:06:07.000Z",
+          "wordCount": 1370,
+          "title": "大手金融、不動産、著名ラッパー──トランプ氏の超現実的な暗号資産サミット",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-53-2.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337658",
           "author": "XWIN Research",
           "description": "● IEEPA関税は違法判断も、返還は未確定で即時の流動性効果は限定的。● 関税の代替措置と財政懸念が金利・ドルを通じて市場心理を左右。● 暗号資産は安全資産よ ...\n米最高裁「IEEPA関税は違法」判決と暗号資産市場──流動性・金利・フローが決める次のシナリオ【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -680,16 +700,6 @@
           "wordCount": 1421,
           "title": "世界最大級のETHトレジャリー企業を率いるThomas Lee氏が緊急来日：JBWが特別セッション開催",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-56-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=337101",
-          "author": "井上 俊彦",
-          "description": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ） のリサーチ責任者James Butterfill（ジェームズ・バターフィル）氏のブログ投稿 ...\n世界の暗号資産ETP、流出が4週目に突入──過去4週間で37億ドルが流出：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/337101/",
-          "publishedOn": "2026-02-16T11:00:00.000Z",
-          "wordCount": 1426,
-          "title": "世界の暗号資産ETP、流出が4週目に突入──過去4週間で37億ドルが流出：CoinShares",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/10/THWADL6HLRAQXGDQHVVMM6BOOU.jpeg"
         }
       ]
     },
@@ -704,6 +714,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=690717",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの採掘難易度は144.4Tに上昇。ハッシュレートが冬の嵐の影響で一時下落したことが指摘されていたが最近は上昇傾向にあった。",
+          "link": "https://coinpost.jp/?p=690717",
+          "publishedOn": "2026-02-20T22:55:27.000Z",
+          "wordCount": 3429,
+          "title": "ビットコインの採掘難易度が約15%の大幅上昇、冬の嵐後のハッシュレート回復受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/bitcoin_mining1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690698",
+          "author": "菊谷ルイス",
+          "description": "USDTの供給量が2月に約15億ドル減少し、2022年のFTX崩壊後で最大の月間減少率を記録。欧州のMiCA規制本格化や市場の資金移動がUSDTの不動の地位に変化をもたらしている。",
+          "link": "https://coinpost.jp/?p=690698",
+          "publishedOn": "2026-02-20T22:45:39.000Z",
+          "wordCount": 3345,
+          "title": "テザーUSDT流通額が2022年弱気相場以来の最大減少を記録、欧州MiCA規制が影響か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=690697",
           "author": "菊谷ルイス",
