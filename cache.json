@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=337676",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● エックス・アール・ピー（XRP）は、ボラティリティが2024年の大幅上昇前に見られた水準まで低下するなか、1.42ドル ...\nXRPの次の展開は──ボラティリティは2024年の低水準に低下 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/337676/",
+          "publishedOn": "2026-02-21T00:05:00.000Z",
+          "wordCount": 1362,
+          "title": "XRPの次の展開は──ボラティリティは2024年の低水準に低下",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-54-2.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=337589",
           "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
           "description": "今週の市場は、ビットコインが67,000ドル前後（約1,040万円前後）を軸に振幅しながら、恐怖の極限と“売りの減速”が同時に観測された1週間だった。 価格は方 ...\n恐怖は“底温度”、しかし信頼は未回復── 反発の正体は清算か、資金回帰の兆しか【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -690,16 +700,6 @@
           "wordCount": 1357,
           "title": "ハーバード大基金、保有ビットコインETFを約21％削減──イーサリアムに初の投資",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2440907939.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=337106",
-          "author": "増田隆幸",
-          "description": "世界最大級のイーサリアム（ETH）トレジャリー企業BitMine（ビットマイン）を率いるThomas Lee（トーマス・リー）氏が来日、2月25日に「来日特別セ ...\n世界最大級のETHトレジャリー企業を率いるThomas Lee氏が緊急来日：JBWが特別セッション開催 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/337106/",
-          "publishedOn": "2026-02-16T12:33:07.000Z",
-          "wordCount": 1421,
-          "title": "世界最大級のETHトレジャリー企業を率いるThomas Lee氏が緊急来日：JBWが特別セッション開催",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/nadanews_top-56-1.jpg"
         }
       ]
     },
@@ -714,6 +714,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=690712",
+          "author": "菊谷ルイス",
+          "description": "大口投資家のGarrett Jin氏が今週再び5000BTCをバイナンスへ入金。価格の節目での大規模な資金移動を受け、市場では売却準備への警戒感が高まっている。",
+          "link": "https://coinpost.jp/?p=690712",
+          "publishedOn": "2026-02-21T00:05:08.000Z",
+          "wordCount": 3345,
+          "title": "ビットコインクジラのGarrett Jin、再びバイナンスへ5000BTC入金",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=690711",
+          "author": "菊谷ルイス",
+          "description": "韓国の仮想通貨取引所ビッサムが2月6日に約62兆ウォン相当のビットコインを誤配布した問題を受け、金融サービス委員会と金融監督院が計6回の検査を実施していながらも根本的なシステム欠陥を見逃していたことが国会審議で明らかになった。",
+          "link": "https://coinpost.jp/?p=690711",
+          "publishedOn": "2026-02-20T23:50:06.000Z",
+          "wordCount": 3337,
+          "title": "韓国ビッサムの「ゴーストコイン」事件、金融当局の監督体制欠陥を国会議員が追及",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/southkorealaw1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/southkorealaw1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=690717",
           "author": "K.Kobayashi",
@@ -2665,16 +2695,6 @@
           "wordCount": 740,
           "title": "TORICO、コインチェックの法人向けサービスでイーサリアムの取引・保管・運用を開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/17103133/ff8aace82899aa40926d104851bc89f8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=547619",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/547619",
-          "publishedOn": "2026-02-16T13:39:47.000Z",
-          "wordCount": 780,
-          "title": "【2/16話題】ソラナのSuperteam Japan共同代表に佐藤茂と卜部鉄平が就任、SBIがシンガポール暗号資産取引所Coinhako買収の意向など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/02/16183608/49a35d8cfa5b02a0bb4ac137beb10c0b.jpg"
         }
       ]
     }
