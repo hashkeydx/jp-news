@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-02-25T07:15:30.337Z</updated>
+    <updated>2026-02-25T09:05:43.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、昨年の財務戦略に基づき約7万ETHのステーキング開始]]></title>
+        <id>https://www.neweconomy.jp/?p=550509</id>
+        <link href="https://www.neweconomy.jp/posts/550509"/>
+        <updated>2026-02-25T09:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Dirk/Vouch採用で分散設計 イーサリアム財団（Ethereum Foundation：EF）が、昨年公表した財務方針に基づき、保有資産の一部をステーキングする取り組みを開始したことを2月24日に発表した。 EFは […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは歴史上のどの資産よりも早く普及している：調査報告]]></title>
+        <id>https://www.nadanews.com/?p=338167</id>
+        <link href="https://www.nadanews.com/338167/"/>
+        <updated>2026-02-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）専門の金融サービス企業であるRiver（リバー）は最新の報告書「Bitcoin Adoption Report 2026」を発表し、ビット ...
+ビットコインは歴史上のどの資産よりも早く普及している：調査報告 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBIのセキュリティートークン社債、ODX「START」で3/25から取引予定。二次流通を視野に]]></title>
+        <id>https://www.neweconomy.jp/?p=550502</id>
+        <link href="https://www.neweconomy.jp/posts/550502"/>
+        <updated>2026-02-25T08:38:04.000Z</updated>
+        <summary type="html"><![CDATA[ST社債が売買される段階へ SBIホールディングス発行のセキュリティ・トークン（ST）形式の社債を3月11日10:00から販売するとSBI証券が2月20日に発表した。あわせて同社債は、3月25日より大阪デジタルエクスチェ […]]]></summary>
+        <author>
+            <name>NewEconomy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASAHI EITO HD、ソラナ（SOL）とイーサリアム（ETH）の取得開始]]></title>
+        <id>https://www.neweconomy.jp/?p=550485</id>
+        <link href="https://www.neweconomy.jp/posts/550485"/>
+        <updated>2026-02-25T07:48:54.000Z</updated>
+        <summary type="html"><![CDATA[アサヒエイトHDがSOLとETH購入開始 大阪に本社を置く住宅設備機器メーカーの持株会社で東証スタンダード上場企業のASAHI EITOホールディングスが、暗号資産（仮想通貨）ソラナ（SOL）およびイーサリアム（ETH） […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米仮想通貨銀行Anchorage、ストラテジーの優先株保有を公表]]></title>
+        <id>https://coinpost.jp/?p=691231</id>
+        <link href="https://coinpost.jp/?p=691231"/>
+        <updated>2026-02-25T07:42:38.000Z</updated>
+        <summary type="html"><![CDATA[STRCを自社バランスシートに組み入れ米国初の連邦認可仮想通貨銀行であるAnchorageDigitalは25日、ビットコイン財務戦略で知られるストラテジーの永久優先株「STRC」を自社バランスシートに保有していることを明らかにした。同社の...]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KLab、2億円でビットコインとゴールドを追加購入]]></title>
+        <id>https://www.neweconomy.jp/?p=550472</id>
+        <link href="https://www.neweconomy.jp/posts/550472"/>
+        <updated>2026-02-25T07:24:04.000Z</updated>
+        <summary type="html"><![CDATA[KLabがビットコインとゴールド追加購入 ゲーム事業を展開する東証プライム上場企業クラブ（KLab）が、ビットコイン（BTC）とゴールドの追加購入を2月24日に発表した。 同社が今回購入に投じたのは2億円。ビットコインは […]]]></summary>
+        <author>
+            <name>TanakaShuya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JR九州、NFTサービスを刷新──行動履歴を蓄積する「Next Favorite Things」へ]]></title>
         <id>https://www.nadanews.com/?p=338155</id>
@@ -1277,16 +1338,6 @@ SEC、ブローカー向けステーブルコイン資本規制で新指針 firs
         <link href="https://coinpost.jp/?p=690695"/>
         <updated>2026-02-20T21:10:33.000Z</updated>
         <summary type="html"><![CDATA[米証券取引委員会（SEC）の取引・市場部門が2026年2月19日に新ガイダンスを発表し、ブローカー・ディーラーが保有するペイメント・ステーブルコインへの自己資本「ヘアカット」を事実上の100%から2%へ引き下げた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米最高裁がトランプ関税を「権限逸脱」と判断、ビットコインは一時6.8万ドル台へ反発]]></title>
-        <id>https://coinpost.jp/?p=690694</id>
-        <link href="https://coinpost.jp/?p=690694"/>
-        <updated>2026-02-20T20:45:25.000Z</updated>
-        <summary type="html"><![CDATA[議会の承認なき関税を無効化米最高裁判所は2月20日、ドナルド・トランプ大統領が国際緊急経済権限法（IEEPA）を通じて導入した広範な関税制度に対し、大統領に与えられた権限を逸脱しているとして違憲・無効とする判決を下した。この司法判断を貿易不...]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
