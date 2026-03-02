@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-02T11:00:27.092Z</updated>
+    <updated>2026-03-02T11:43:45.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港と上海が連携、貨物データをブロックチェーンで共有へ]]></title>
+        <id>https://www.nadanews.com/?p=339293</id>
+        <link href="https://www.nadanews.com/339293/"/>
+        <updated>2026-03-02T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[香港金融管理局（HKMA）は3月2日、中国本土の上海データ局および国家ブロックチェーン技術イノベーションセンターと覚書（MoU）を締結し、貨物データと電子船荷証 ...
+香港と上海が連携、貨物データをブロックチェーンで共有へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIによるデフレが金融緩和政策を促せば、ビットコインの追い風に：NYDIG]]></title>
         <id>https://www.nadanews.com/?p=339263</id>
@@ -1882,27 +1893,6 @@ SBI VCトレード、国際会議「BGIN」でUSDC決済を試験導入──国
         <summary type="html"><![CDATA[Progmatが Ava Labs・Datachainと協業し、ST基盤をCordaからAvalanche L1へ移行すると発表。クロスチェーン技術LCPによるDvP・PvP決済の商用化も進める。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「仮想通貨の価格にウォール街参入は織り込まれていない」ビットワイズ幹部が理由を分析]]></title>
-        <id>https://coinpost.jp/?p=691320</id>
-        <link href="https://coinpost.jp/?p=691320"/>
-        <updated>2026-02-25T23:35:20.000Z</updated>
-        <summary type="html"><![CDATA[ビットワイズの最高投資責任者は、現在は仮想通貨領域において投資家の認識と実際の構造的な変化に差があるとし、仮想通貨の価格にウォール街の参入は織り込まれていないと指摘。その理由を分析している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progmat、Corda5からAvalanche L1へ──「市場接続型」インフラへの転換]]></title>
-        <id>https://www.nadanews.com/?p=338404</id>
-        <link href="https://www.nadanews.com/338404/"/>
-        <updated>2026-02-25T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[3メガバンクグループなどが出資し、デジタル資産の発行・管理基盤を提供するProgmat（プログマ）が、セキュリティ・トークン（ST、デジタル証券）の基盤をR3の ...
-Progmat、Corda5からAvalanche L1へ──「市場接続型」インフラへの転換 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
         </author>
     </entry>
 </feed>
