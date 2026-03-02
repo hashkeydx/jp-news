@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-02T22:45:58.559Z</updated>
+    <updated>2026-03-02T23:40:01.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米金融大手ノーザントラスト、短期国債ファンドをトークン化]]></title>
+        <id>https://coinpost.jp/?p=692130</id>
+        <link href="https://coinpost.jp/?p=692130"/>
+        <updated>2026-03-02T23:25:52.000Z</updated>
+        <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CMEの先物取引、仮想通貨時価総額の75％超をカバー]]></title>
         <id>https://coinpost.jp/?p=692110</id>
@@ -1550,28 +1560,6 @@ Circleの株価、決算発表後に50％近く上昇──堅調な業績では
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask Perps、任意のトークンを直接証拠金として取引可能に]]></title>
-        <id>https://www.nadanews.com/?p=338554</id>
-        <link href="https://www.nadanews.com/338554/"/>
-        <updated>2026-02-26T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）ウォレット大手のMetaMask（メタマスク）は、分散型無期限先物取引所Hyperliquid（ハイパーリキッド）との連携機能「MetaMa ...
-MetaMask Perps、任意のトークンを直接証拠金として取引可能に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米通貨監督庁、GENIUS法の実施に向けた規則案を発表──パブリックコメントを募集]]></title>
-        <id>https://www.nadanews.com/?p=338528</id>
-        <link href="https://www.nadanews.com/338528/"/>
-        <updated>2026-02-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OCC（米通貨監督庁）は2月25日、GENIUS（ジーニアス）法を実施するための規則制定案を発表した。 ジーニアス法は、米国の決済用ステーブルコインを対象とした ...
-米通貨監督庁、GENIUS法の実施に向けた規則案を発表──パブリックコメントを募集 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
         </author>
     </entry>
 </feed>
