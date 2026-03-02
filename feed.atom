@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-02T04:58:46.974Z</updated>
+    <updated>2026-03-02T06:05:25.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、耐量子暗号・シールド送金含む長期構想「strawmap」公開]]></title>
+        <id>https://www.neweconomy.jp/?p=552007</id>
+        <link href="https://www.neweconomy.jp/posts/552007"/>
+        <updated>2026-03-02T05:53:25.000Z</updated>
+        <summary type="html"><![CDATA[最短8秒ファイナリティへ イーサリアム財団（Ethereum Foundation：EF）が、2029年までに7回のハードフォークを想定する長期ロードマップ「ストローマップ（strawmap）」を公開した。ベースレイヤー […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老舗アパレル企業ダイドーリミテッド、10億円でビットコイン購入へ]]></title>
+        <id>https://www.neweconomy.jp/?p=552006</id>
+        <link href="https://www.neweconomy.jp/posts/552006"/>
+        <updated>2026-03-02T05:52:04.000Z</updated>
+        <summary type="html"><![CDATA[ダイドーリミテッドがビットコイン取得へ 東証スタンダード上場の老舗アパレル企業ダイドーリミテッドが、ビットコインの購入予定を2月27日に発表した。同社は主要ブランドとして「ニューヨーカー」と「ブルックスブラザーズ」を展開 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「NEWYORKER」のダイドーリミテッド、10億円のビットコイン購入を決定──老舗企業のDAT参入続く]]></title>
+        <id>https://www.nadanews.com/?p=339231</id>
+        <link href="https://www.nadanews.com/339231/"/>
+        <updated>2026-03-02T05:51:48.000Z</updated>
+        <summary type="html"><![CDATA[「NEWYORKER」や「Brooks Brothers」を展開する1879年創業のアパレル老舗、ダイドーリミテッドが2月27日、最大10億円規模のビットコイン ...
+「NEWYORKER」のダイドーリミテッド、10億円のビットコイン購入を決定──老舗企業のDAT参入続く first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>栃山 直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ATMを全面禁止へ？米ミネソタ州が法案審議、高齢者詐欺被害が急増]]></title>
+        <id>https://coinpost.jp/?p=692031</id>
+        <link href="https://coinpost.jp/?p=692031"/>
+        <updated>2026-03-02T05:40:55.000Z</updated>
+        <summary type="html"><![CDATA[米ミネソタ州議会が仮想通貨ATMの全面禁止法案「HF 3642」を審議した。同州では2025年だけで70件超・54万ドルの詐欺被害が報告されており、被害者の大半が高齢者だ。業界側は禁止ではなく規制強化を主張している。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ステーブルコインを「入れておくだけ」──Secured Finance、オンチェーン金利インフラを抽象化する「Yield Vault」公開]]></title>
         <id>https://www.nadanews.com/?p=339216</id>
