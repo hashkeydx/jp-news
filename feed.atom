@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-02T20:50:28.382Z</updated>
+    <updated>2026-03-02T21:48:00.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イラン仮想通貨取引所からの資金流出が8倍急増、紛争の影響か]]></title>
+        <id>https://coinpost.jp/?p=692113</id>
+        <link href="https://coinpost.jp/?p=692113"/>
+        <updated>2026-03-02T21:20:37.000Z</updated>
+        <summary type="html"><![CDATA[イラン最大の仮想通貨取引所Nobitexで資金流出が700%急増し、1日で約300万ドルに達した。米イスラエルによる空爆と指導者暗殺報道を受け、既存金融システムを介さない資本逃避や海外送金が加速。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請]]></title>
+        <id>https://www.nadanews.com/?p=339320</id>
+        <link href="https://www.nadanews.com/339320/"/>
+        <updated>2026-03-02T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引所Nasdaq（ナスダック）は、主力株価指数であるナスダック100指数に連動した二者択一型（バイナリー）オプションを上場するため、米証券取引委員会（S ...
+Nasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットマイン、先週約6万ETHを追加購入　含み損拡大も毎週買い増し継続]]></title>
+        <id>https://coinpost.jp/?p=692114</id>
+        <link href="https://coinpost.jp/?p=692114"/>
+        <updated>2026-03-02T20:50:41.000Z</updated>
+        <summary type="html"><![CDATA[ビットマインが3月2日、直近1週間で5万928ETHを新たに取得したと公式発表した。累計保有量は447万ETHを超え、世界最大のイーサリアム財務企業として毎週戦略的な買い増しを継続。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ナスダック、ナスダック100指数対象のバイナリーオプション上場をSECに申請]]></title>
+        <id>https://coinpost.jp/?p=692115</id>
+        <link href="https://coinpost.jp/?p=692115"/>
+        <updated>2026-03-02T20:30:43.000Z</updated>
+        <summary type="html"><![CDATA[ナスダックがナスダック100指数を対象とするバイナリー形式のオプション取引をSECに申請した。予測市場型の金融商品に既存取引所が相次いで参入する動きが加速。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓国政府、差押え仮想通貨の管理状況を全面点検へ　国税庁の『復元フレーズ誤公開』を受け]]></title>
+        <id>https://coinpost.jp/?p=692090</id>
+        <link href="https://coinpost.jp/?p=692090"/>
+        <updated>2026-03-02T20:00:05.000Z</updated>
+        <summary type="html"><![CDATA[韓国国税庁が先週差し押さえたウォレットの復元キーを誤公開し、数億円相当のトークンが流出した事件を受け、韓国政府は関係機関と連携して全公的機関のデジタル資産管理実態を緊急点検へ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高市早苗首相、「SANAE TOKEN」発行に一切の関与を否定　ミームコイン巡り公式Xで声明]]></title>
         <id>https://coinpost.jp/?p=692092</id>
@@ -1502,16 +1553,6 @@ MetaMask Perps、任意のトークンを直接証拠金として取引可能に
 エージェント型コマースには毎秒10億件のトランザクションを処理するブロックチェーンが必要：Stripe first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[業界有識者に聞いた円建てステーブルコインの展望と課題｜MoneyX特集]]></title>
-        <id>https://coinpost.jp/?p=689551</id>
-        <link href="https://coinpost.jp/?p=689551"/>
-        <updated>2026-02-26T09:00:01.000Z</updated>
-        <summary type="html"><![CDATA[JPYC正式リリースやメガバンク参入で加速する円建てステーブルコイン。業界有識者5名に国内普及の展望と課題を聞いた。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
         </author>
     </entry>
 </feed>

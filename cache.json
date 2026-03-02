@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339320",
+          "author": "Shoko Galaviz",
+          "description": "米証券取引所Nasdaq（ナスダック）は、主力株価指数であるナスダック100指数に連動した二者択一型（バイナリー）オプションを上場するため、米証券取引委員会（S ...\nNasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339320/",
+          "publishedOn": "2026-03-02T21:00:00.000Z",
+          "wordCount": 1358,
+          "title": "Nasdaq、予測市場型の「二者択一オプション」上場へ向けSECに申請",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2348893371.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339313",
           "author": "栃山 直樹",
           "description": "高市早苗首相は2日、自身の名を冠した暗号資産（仮想通貨）「SANAE TOKEN（サナエトークン）」について、自身および事務所の関与を全面的に否定する声明をXで ...\n高市首相、SANAE TOKENへの関与を全面否定──「全く存じ上げません」 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -704,6 +714,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=692113",
+          "author": "菊谷ルイス",
+          "description": "イラン最大の仮想通貨取引所Nobitexで資金流出が700%急増し、1日で約300万ドルに達した。米イスラエルによる空爆と指導者暗殺報道を受け、既存金融システムを介さない資本逃避や海外送金が加速。",
+          "link": "https://coinpost.jp/?p=692113",
+          "publishedOn": "2026-03-02T21:20:37.000Z",
+          "wordCount": 3954,
+          "title": "イラン仮想通貨取引所からの資金流出が8倍急増、紛争の影響か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/us-iran-war-2026.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/us-iran-war-2026.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=692114",
+          "author": "菊谷ルイス",
+          "description": "ビットマインが3月2日、直近1週間で5万928ETHを新たに取得したと公式発表した。累計保有量は447万ETHを超え、世界最大のイーサリアム財務企業として毎週戦略的な買い増しを継続。",
+          "link": "https://coinpost.jp/?p=692114",
+          "publishedOn": "2026-03-02T20:50:41.000Z",
+          "wordCount": 4037,
+          "title": "ビットマイン、先週約6万ETHを追加購入　含み損拡大も毎週買い増し継続",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=692115",
+          "author": "菊谷ルイス",
+          "description": "ナスダックがナスダック100指数を対象とするバイナリー形式のオプション取引をSECに申請した。予測市場型の金融商品に既存取引所が相次いで参入する動きが加速。",
+          "link": "https://coinpost.jp/?p=692115",
+          "publishedOn": "2026-03-02T20:30:43.000Z",
+          "wordCount": 3960,
+          "title": "米ナスダック、ナスダック100指数対象のバイナリーオプション上場をSECに申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/nasdaq-diginex.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/nasdaq-diginex.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=692090",
+          "author": "菊谷ルイス",
+          "description": "韓国国税庁が先週差し押さえたウォレットの復元キーを誤公開し、数億円相当のトークンが流出した事件を受け、韓国政府は関係機関と連携して全公的機関のデジタル資産管理実態を緊急点検へ。",
+          "link": "https://coinpost.jp/?p=692090",
+          "publishedOn": "2026-03-02T20:00:05.000Z",
+          "wordCount": 3960,
+          "title": "韓国政府、差押え仮想通貨の管理状況を全面点検へ　国税庁の『復元フレーズ誤公開』を受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/koreafinance235872.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/koreafinance235872.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=692092",
           "author": "CoinPost編集部",
@@ -1483,21 +1553,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=689551",
-          "author": "Ritsuki.Kumazawa",
-          "description": "JPYC正式リリースやメガバンク参入で加速する円建てステーブルコイン。業界有識者5名に国内普及の展望と課題を聞いた。",
-          "link": "https://coinpost.jp/?p=689551",
-          "publishedOn": "2026-02-26T09:00:01.000Z",
-          "wordCount": 3877,
-          "title": "業界有識者に聞いた円建てステーブルコインの展望と課題｜MoneyX特集",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/stablecoin_jpy2-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/stablecoin_jpy2-1.jpg"
         }
       ]
     },
