@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-02T03:09:27.767Z</updated>
+    <updated>2026-03-02T04:58:46.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインを「入れておくだけ」──Secured Finance、オンチェーン金利インフラを抽象化する「Yield Vault」公開]]></title>
+        <id>https://www.nadanews.com/?p=339216</id>
+        <link href="https://www.nadanews.com/339216/"/>
+        <updated>2026-03-02T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインは、もはや決済や取引のための“通貨”ではない。トークン化MMFやトークン化国債の拡大を背景に、「金利を生む資産」として再定義されつつある。 Bl ...
+ステーブルコインを「入れておくだけ」──Secured Finance、オンチェーン金利インフラを抽象化する「Yield Vault」公開 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>増田隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZKシンク、5/4に「ZKsync Lite」完全廃止。ブロック生成停止と最終状態の凍結へ]]></title>
+        <id>https://www.neweconomy.jp/?p=551982</id>
+        <link href="https://www.neweconomy.jp/posts/551982"/>
+        <updated>2026-03-02T04:24:35.000Z</updated>
+        <summary type="html"><![CDATA[ZKシンクの初期ロールアップが5月4日に停止 イーサリアム（Ethereum）レイヤー2ネットワーク「ZKシンク（ZKsync）」の初期ロールアップ「ZKシンク・ライト（ZKsync Lite）」が、ブロック生成を5月4 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガン、仮想通貨市場構造法案が年央までに可決と予測]]></title>
+        <id>https://coinpost.jp/?p=692020</id>
+        <link href="https://coinpost.jp/?p=692020"/>
+        <updated>2026-03-02T04:19:01.000Z</updated>
+        <summary type="html"><![CDATA[JPモルガンは仮想通貨市場構造法案「クラリティ法案」が年央までに可決される可能性があり、下半期の仮想通貨市場にとってポジティブな触媒になると予測するリポートを公表した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本銀行、当座預金のトークン化を構想＝報道]]></title>
+        <id>https://coinpost.jp/?p=691996</id>
+        <link href="https://coinpost.jp/?p=691996"/>
+        <updated>2026-03-02T04:06:13.000Z</updated>
+        <summary type="html"><![CDATA[日銀が当座預金のブロックチェーン上でのトークン化を構想している。24時間365日の大口決済や、メガバンクのステーブルコインとの連携も期待される。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル、XRPLの支援モデルを分散型に移行で新体制へ]]></title>
+        <id>https://www.neweconomy.jp/?p=551952</id>
+        <link href="https://www.neweconomy.jp/posts/551952"/>
+        <updated>2026-03-02T03:17:50.000Z</updated>
+        <summary type="html"><![CDATA[リップルが2026年から分散型の支援体制へ 米リップル（Ripple）が、XRPレジャー（XRP Ledger：XRPL）におけるエコシステム支援モデルを2026年からより分散型の体制へ移行する方針を2月26日に発表した […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マウントゴックス元CEO、約8万BTC回収でビットコインハードフォーク提案。GitHubで一時クローズに]]></title>
         <id>https://www.neweconomy.jp/?p=551943</id>
