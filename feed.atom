@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-02T21:48:00.399Z</updated>
+    <updated>2026-03-02T22:45:58.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CMEの先物取引、仮想通貨時価総額の75％超をカバー]]></title>
+        <id>https://coinpost.jp/?p=692110</id>
+        <link href="https://coinpost.jp/?p=692110"/>
+        <updated>2026-03-02T22:35:26.000Z</updated>
+        <summary type="html"><![CDATA[米デリバティブ取引所大手CMEが、提供中の仮想通貨プロダクトで市場全体の時価総額75％超をカバーしたと発表。ADA、LINK、XLM先物の導入が寄与し、機関投資家による高度なポートフォリオ運用が加速。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨投資商品、6週ぶりに資金フローが純流入に転じる　クジラの購入再開などが要因か＝コインシェアーズ]]></title>
+        <id>https://coinpost.jp/?p=692125</id>
+        <link href="https://coinpost.jp/?p=692125"/>
+        <updated>2026-03-02T22:00:02.000Z</updated>
+        <summary type="html"><![CDATA[コインシェアーズの幹部は、仮想通貨投資商品全体の先週における資金フローは約1,668億円の純流入だったと報告。ビットコインやイーサリアムなどの投資商品に広くが資金が流入した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米・イスラエル空爆直後、イラン最大手取引所から暗号資産流出が700％急増：Elliptic]]></title>
+        <id>https://www.nadanews.com/?p=339323</id>
+        <link href="https://www.nadanews.com/339323/"/>
+        <updated>2026-03-02T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析企業Elliptic（エリプティック）は、米国とイスラエルによるイランへの空爆直後、イラン最大の暗号資産（仮想通貨）取引所Nobitex（ノ ...
+米・イスラエル空爆直後、イラン最大手取引所から暗号資産流出が700％急増：Elliptic first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポンプリアーノ率いるプロキャップ社、450BTCを追加取得]]></title>
+        <id>https://coinpost.jp/?p=692111</id>
+        <link href="https://coinpost.jp/?p=692111"/>
+        <updated>2026-03-02T21:50:32.000Z</updated>
+        <summary type="html"><![CDATA[アンソニー・ポンプリアーノ率いるプロキャップ・ファイナンシャルが2日、450ビットコインを新たに購入したと公式発表した。累計保有は5457BTCに達し株価NAVとの乖離縮小を目的とした自社株買いも同時進行。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イラン仮想通貨取引所からの資金流出が8倍急増、紛争の影響か]]></title>
         <id>https://coinpost.jp/?p=692113</id>
@@ -1531,28 +1572,6 @@ MetaMask Perps、任意のトークンを直接証拠金として取引可能に
 米通貨監督庁、GENIUS法の実施に向けた規則案を発表──パブリックコメントを募集 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜ANAP Brand Channel 連載＞給付金や支援金が増えるほど、家計が「苦しくなる」ってどういうこと!?]]></title>
-        <id>https://www.nadanews.com/?p=338521</id>
-        <link href="https://www.nadanews.com/338521/"/>
-        <updated>2026-02-26T10:23:04.000Z</updated>
-        <summary type="html"><![CDATA[最近ニュースで、国からの給付金や支援金がどんどん増えているのを目にします。 もらった瞬間の安心感って、本当に大きいですよね。 「これがあるだけで今月は助かる」  ...
-＜ANAP Brand Channel 連載＞給付金や支援金が増えるほど、家計が「苦しくなる」ってどういうこと!? first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エージェント型コマースには毎秒10億件のトランザクションを処理するブロックチェーンが必要：Stripe]]></title>
-        <id>https://www.nadanews.com/?p=338529</id>
-        <link href="https://www.nadanews.com/338529/"/>
-        <updated>2026-02-26T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[決済大手のStripe（ストライプ）は2025年の年次報告書を公開し、AIエージェントの普及がブロックチェーン取引の大幅な増加につながる可能性があるとの見通しを ...
-エージェント型コマースには毎秒10億件のトランザクションを処理するブロックチェーンが必要：Stripe first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
