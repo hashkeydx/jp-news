@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339463",
+          "author": "栃山 直樹",
+          "description": "金融庁が高市早苗首相の名前を冠した暗号資産（仮想通貨）「SANAE TOKEN」について、関連業者に対する調査を検討していると3日、共同通信が報じた。 同報道に ...\n金融庁、首相名の暗号資産「SANAE TOKEN」を調査へ：共同 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339463/",
+          "publishedOn": "2026-03-03T08:25:16.000Z",
+          "wordCount": 1353,
+          "title": "金融庁、首相名の暗号資産「SANAE TOKEN」を調査へ：共同",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/12/shutterstock_1685258881-1-710x45-1.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=339449",
+          "author": "橋本 祐樹",
+          "description": "開催中の「FIN/SUM 2026」で3日、金融庁と米証券取引委員会（SEC）による暗号資産（仮想通貨）とトークン化をテーマにしたパネルセッションが行われた。  ...\nSECマーク・ウエダ委員、規制は「事前の線引き」が必要──日米当局が対話【FIN/SUM 2026】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339449/",
+          "publishedOn": "2026-03-03T07:58:25.000Z",
+          "wordCount": 1405,
+          "title": "SECマーク・ウエダ委員、規制は「事前の線引き」が必要──日米当局が対話【FIN/SUM 2026】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/DSC_7914-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339366",
           "author": "廣瀬 優香",
           "description": "Michael Saylor（マイケル・セイラー）氏が率いるStrategy（ストラテジー）は3月2日、ビットコイン（BTC）の追加購入を発表した。 ストラテジ ...\nStrategy、2億ドル超相当のビットコインを追加購入──総保有量は72万737BTCに first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -814,6 +834,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=692264",
+          "author": "CoinPost編集部",
+          "description": "金融庁が仮想通貨「SANAE TOKEN」の関連業者への調査を検討していることが3日に判明。発行企業は必要な登録を行っておらず、高市首相本人も関与を全面否定している。",
+          "link": "https://coinpost.jp/?p=692264",
+          "publishedOn": "2026-03-03T08:24:41.000Z",
+          "wordCount": 3949,
+          "title": "金融庁、仮想通貨「SANAE TOKEN」の違法性めぐり調査を検討か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/%E9%87%91%E8%9E%8D%E5%BA%81-e15241238226816-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/%E9%87%91%E8%9E%8D%E5%BA%81-e15241238226816-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=691786",
+          "author": "hiroto.yoshii",
+          "description": "MoneyX2026でステーブルコインのリテール決済が議論された。Visa対応カード、羽田空港でのQRコード決済、手数料ゼロのウォレット決済など実装事例が報告され、通貨主権や普及戦略をめぐる議論が展開された。",
+          "link": "https://coinpost.jp/?p=691786",
+          "publishedOn": "2026-03-03T07:48:57.000Z",
+          "wordCount": 3752,
+          "title": "ステーブルコインで買い物する時代へ、3社が語るリテール実装の現在地｜MoneyX2026",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Moneyxstabelsamunail0303.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/Moneyxstabelsamunail0303.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=692258",
+          "author": "Enzo",
+          "description": "ヘイズ氏は中東介入の長期化が財政負担や景気不安を高め、FRBによる金融緩和を誘発する可能性があると分析。その結果、ドル流動性の拡大がビットコイン上昇につながるシナリオを示した。",
+          "link": "https://coinpost.jp/?p=692258",
+          "publishedOn": "2026-03-03T07:17:21.000Z",
+          "wordCount": 3945,
+          "title": "ヘイズ氏、中東介入長期化なら金融緩和でビットコイン上昇の可能性と指摘",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/global-south-by-arthur-hayes-scaled.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/global-south-by-arthur-hayes-scaled.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=692233",
           "author": "幸田直子",
@@ -1878,36 +1943,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/Citi-Group.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/Citi-Group.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=691537",
-          "author": "菊谷ルイス",
-          "description": "米現物ビットコインETFが2日間で7.5億ドル超の純流入を記録した。長らく流出が続いていたグレースケールのGBTCも異例の純流入に転じるなど、機関投資家の姿勢転換が鮮明に。",
-          "link": "https://coinpost.jp/?p=691537",
-          "publishedOn": "2026-02-26T20:45:47.000Z",
-          "wordCount": 4086,
-          "title": "ビットコインETFに7.5億ドルの流入、機関投資家が押し目買いへ転換",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-btc-etf-pic.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-btc-etf-pic.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=691521",
-          "author": "菊谷ルイス",
-          "description": "トランプ一族が関与する仮想通貨プロジェクトWLFIが、アンロック済みトークンの投票参加にステーキングを義務付ける新ガバナンス制度を提案。ノード・スーパーノードの階層構造によりUSD1の活用促進と長期保有者への利益還元を目指す。",
-          "link": "https://coinpost.jp/?p=691521",
-          "publishedOn": "2026-02-26T20:00:44.000Z",
-          "wordCount": 4093,
-          "title": "トランプ一族関与のワールド・リバティ、WLFIガバナンス・ステーキング制度を提案",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/world-liberty-ondo.jpeg"
         }
       ]
     },
@@ -1916,6 +1951,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=552477",
+          "author": "TanakaShuya",
+          "description": "KLabがビットコインとゴールド追加購入 ゲーム事業を展開する東証プライム上場企業クラブ（KLab）が、ビットコイン（BTC）とゴールドの追加購入を3月2日に発表した。 同社が今回購入に投じたのは1億1,000万円。ビッ […]",
+          "link": "https://www.neweconomy.jp/posts/552477",
+          "publishedOn": "2026-03-03T08:55:20.000Z",
+          "wordCount": 722,
+          "title": "KLab、1.1億円でビットコインとゴールドを追加購入",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/03175505/BTC9-250714-PIXTA-2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=552460",
+          "author": "OtsugaShinya",
+          "description": "金融庁がSANAETの調査検討か 金融庁が、高市早苗首相が関与を全面否定した暗号資産（仮想通貨）「SANAE TOKEN：サナエトークン（SANAET）」について、関連業者への調査を検討していると「共同通信」が3月3日に […]",
+          "link": "https://www.neweconomy.jp/posts/552460",
+          "publishedOn": "2026-03-03T08:23:58.000Z",
+          "wordCount": 737,
+          "title": "高市首相関与否定の「SANAE TOKEN」、金融庁が調査検討か＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/03172308/e3e660c2a7d3d405d528864217194ac5.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=552437",
           "author": "watanabeyousuke",

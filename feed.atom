@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-03T07:54:41.834Z</updated>
+    <updated>2026-03-03T08:58:31.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KLab、1.1億円でビットコインとゴールドを追加購入]]></title>
+        <id>https://www.neweconomy.jp/?p=552477</id>
+        <link href="https://www.neweconomy.jp/posts/552477"/>
+        <updated>2026-03-03T08:55:20.000Z</updated>
+        <summary type="html"><![CDATA[KLabがビットコインとゴールド追加購入 ゲーム事業を展開する東証プライム上場企業クラブ（KLab）が、ビットコイン（BTC）とゴールドの追加購入を3月2日に発表した。 同社が今回購入に投じたのは1億1,000万円。ビッ […]]]></summary>
+        <author>
+            <name>TanakaShuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、首相名の暗号資産「SANAE TOKEN」を調査へ：共同]]></title>
+        <id>https://www.nadanews.com/?p=339463</id>
+        <link href="https://www.nadanews.com/339463/"/>
+        <updated>2026-03-03T08:25:16.000Z</updated>
+        <summary type="html"><![CDATA[金融庁が高市早苗首相の名前を冠した暗号資産（仮想通貨）「SANAE TOKEN」について、関連業者に対する調査を検討していると3日、共同通信が報じた。 同報道に ...
+金融庁、首相名の暗号資産「SANAE TOKEN」を調査へ：共同 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>栃山 直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、仮想通貨「SANAE TOKEN」の違法性めぐり調査を検討か＝報道]]></title>
+        <id>https://coinpost.jp/?p=692264</id>
+        <link href="https://coinpost.jp/?p=692264"/>
+        <updated>2026-03-03T08:24:41.000Z</updated>
+        <summary type="html"><![CDATA[金融庁が仮想通貨「SANAE TOKEN」の関連業者への調査を検討していることが3日に判明。発行企業は必要な登録を行っておらず、高市首相本人も関与を全面否定している。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高市首相関与否定の「SANAE TOKEN」、金融庁が調査検討か＝報道]]></title>
+        <id>https://www.neweconomy.jp/?p=552460</id>
+        <link href="https://www.neweconomy.jp/posts/552460"/>
+        <updated>2026-03-03T08:23:58.000Z</updated>
+        <summary type="html"><![CDATA[金融庁がSANAETの調査検討か 金融庁が、高市早苗首相が関与を全面否定した暗号資産（仮想通貨）「SANAE TOKEN：サナエトークン（SANAET）」について、関連業者への調査を検討していると「共同通信」が3月3日に […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECマーク・ウエダ委員、規制は「事前の線引き」が必要──日米当局が対話【FIN/SUM 2026】]]></title>
+        <id>https://www.nadanews.com/?p=339449</id>
+        <link href="https://www.nadanews.com/339449/"/>
+        <updated>2026-03-03T07:58:25.000Z</updated>
+        <summary type="html"><![CDATA[開催中の「FIN/SUM 2026」で3日、金融庁と米証券取引委員会（SEC）による暗号資産（仮想通貨）とトークン化をテーマにしたパネルセッションが行われた。  ...
+SECマーク・ウエダ委員、規制は「事前の線引き」が必要──日米当局が対話【FIN/SUM 2026】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>橋本 祐樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインで買い物する時代へ、3社が語るリテール実装の現在地｜MoneyX2026]]></title>
+        <id>https://coinpost.jp/?p=691786</id>
+        <link href="https://coinpost.jp/?p=691786"/>
+        <updated>2026-03-03T07:48:57.000Z</updated>
+        <summary type="html"><![CDATA[MoneyX2026でステーブルコインのリテール決済が議論された。Visa対応カード、羽田空港でのQRコード決済、手数料ゼロのウォレット決済など実装事例が報告され、通貨主権や普及戦略をめぐる議論が展開された。]]></summary>
+        <author>
+            <name>hiroto.yoshii</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英バークレイズ、決済・預金向けブロックチェーン基盤を検討＝報道]]></title>
         <id>https://www.neweconomy.jp/?p=552437</id>
@@ -14,6 +76,16 @@
         <summary type="html"><![CDATA[英国でブロックチェーン基盤整備の動き広がる 英金融大手バークレイズ（Barclays）が、決済および預金管理向けの独自ブロックチェーン基盤の構築を検討していると「ブルームバーグ（Bloomberg）」が2月27日に報じた […]]]></summary>
         <author>
             <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヘイズ氏、中東介入長期化なら金融緩和でビットコイン上昇の可能性と指摘]]></title>
+        <id>https://coinpost.jp/?p=692258</id>
+        <link href="https://coinpost.jp/?p=692258"/>
+        <updated>2026-03-03T07:17:21.000Z</updated>
+        <summary type="html"><![CDATA[ヘイズ氏は中東介入の長期化が財政負担や景気不安を高め、FRBによる金融緩和を誘発する可能性があると分析。その結果、ドル流動性の拡大がビットコイン上昇につながるシナリオを示した。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
@@ -2001,26 +2073,6 @@ Circleの株価、決算発表後に50％近く上昇──堅調な業績では
         <link href="https://coinpost.jp/?p=691536"/>
         <updated>2026-02-26T21:00:36.000Z</updated>
         <summary type="html"><![CDATA[米金融大手シティバンクが2026年にビットコイン等のカストディサービスを開始予定。新たな戦略では、伝統的金融システムと仮想通貨をシームレスに繋ぐ「ブリッジ」機能の提供が柱となる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインETFに7.5億ドルの流入、機関投資家が押し目買いへ転換]]></title>
-        <id>https://coinpost.jp/?p=691537</id>
-        <link href="https://coinpost.jp/?p=691537"/>
-        <updated>2026-02-26T20:45:47.000Z</updated>
-        <summary type="html"><![CDATA[米現物ビットコインETFが2日間で7.5億ドル超の純流入を記録した。長らく流出が続いていたグレースケールのGBTCも異例の純流入に転じるなど、機関投資家の姿勢転換が鮮明に。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ一族関与のワールド・リバティ、WLFIガバナンス・ステーキング制度を提案]]></title>
-        <id>https://coinpost.jp/?p=691521</id>
-        <link href="https://coinpost.jp/?p=691521"/>
-        <updated>2026-02-26T20:00:44.000Z</updated>
-        <summary type="html"><![CDATA[トランプ一族が関与する仮想通貨プロジェクトWLFIが、アンロック済みトークンの投票参加にステーキングを義務付ける新ガバナンス制度を提案。ノード・スーパーノードの階層構造によりUSD1の活用促進と長期保有者への利益還元を目指す。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
