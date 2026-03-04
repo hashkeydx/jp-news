@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=339595",
+          "author": "井上 俊彦",
+          "description": "Ethereum（イーサリアム）共同創設者のVitalik Buterin（ヴィタリック・ブテリン）氏はXへの投稿で、現在の世界情勢とイーサリアムの役割について ...\nEthereumは「サンクチュアリ・テクノロジー」に──ブテリン氏が提唱 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/339595/",
+          "publishedOn": "2026-03-04T09:25:00.000Z",
+          "wordCount": 1333,
+          "title": "Ethereumは「サンクチュアリ・テクノロジー」に──ブテリン氏が提唱",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2659906139.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339582",
           "author": "増田隆幸",
           "description": "植田総裁の講演はわずか15分だった。だが、日本のオンチェーン金融の将来を考えるうえで、極めて重要なメッセージが含まれていた。 3日、「FIN/SUM 2026」 ...\n日銀・植田総裁「15分講演」の意味──中央銀行マネーはオンチェーン金融にどう接続するのか【FIN/SUM 2026】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -734,6 +744,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=692459",
+          "author": "Ritsuki.Kumazawa",
+          "description": "FIN/SUM 2026でブロードリッジCTOが講演。トークン化市場は2030年に最大16兆ドル規模に達すると予測し、日本のリテール投資家急増や規制整備の進展を評価。ファンド、不動産、レポ取引の具体的ユースケースと普及に向けた課題を語った。",
+          "link": "https://coinpost.jp/?p=692459",
+          "publishedOn": "2026-03-04T09:32:42.000Z",
+          "wordCount": 3244,
+          "title": "ブロードリッジCTO「トークン化市場は2030年に最大16兆ドル規模へ」日本の規制整備を高評価｜FIN/SUM 2026",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/finsum_0304_thumbnail.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/finsum_0304_thumbnail.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=692479",
+          "author": "幸田直子",
+          "description": "NYDIGは最新レポートで、AIが経済崩壊を招くとするシトリニ・リサーチのシナリオに歴史的観点から反論しつつ、AI時代にビットコインが強気・弱気・中立となる3つのマクロ経済シナリオを示した。鍵を握るのはAI自体の進化ではなく「政府の政策対応」と主張。",
+          "link": "https://coinpost.jp/?p=692479",
+          "publishedOn": "2026-03-04T09:00:41.000Z",
+          "wordCount": 3967,
+          "title": "人工知能時代の到来はビットコインの追い風となるか、鍵は「金利政策」＝NYDIGレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/AI-agent-new-world.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/AI-agent-new-world.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=692465",
           "author": "菊谷ルイス",
@@ -1738,51 +1778,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/more-bitcoin.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/more-bitcoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=691853",
-          "author": "菊谷ルイス",
-          "description": "英銀行大手バークレイズが、決済や預金管理のための独自ブロックチェーン基盤の構築を検討中。ステーブルコインやトークン化預金の活用を視野に入れ、既存の金融システムの近代化と効率化を加速させる狙いがある。",
-          "link": "https://coinpost.jp/?p=691853",
-          "publishedOn": "2026-02-27T21:35:21.000Z",
-          "wordCount": 4094,
-          "title": "英バークレイズ、決済と預金管理用の独自ブロックチェーン基盤の構築を検討",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/barclays-ban.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/barclays-ban.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=691860",
-          "author": "菊谷ルイス",
-          "description": "米連邦議会で「2026年ブロックチェーン開発イノベーション促進法」が提出された。トルネードキャッシュ事件などを背景に、顧客資産を管理しないソフト開発者が送金業者として刑事訴追されるリスクを排除し、国内のイノベーションを保護する目的。",
-          "link": "https://coinpost.jp/?p=691860",
-          "publishedOn": "2026-02-27T21:20:57.000Z",
-          "wordCount": 4095,
-          "title": "米超党派議員、仮想通貨開発者の刑事訴追を防ぐ新法案を提出",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=691852",
-          "author": "菊谷ルイス",
-          "description": "米金融大手モルガン・スタンレーが、ビットコインの自社カストディ技術の開発と、傘下E*Tradeでの現物仮想通貨取引の提供を計画。既存の金融サービスとデジタル資産の統合を加速。",
-          "link": "https://coinpost.jp/?p=691852",
-          "publishedOn": "2026-02-27T20:55:19.000Z",
-          "wordCount": 4099,
-          "title": "モルガン・スタンレー、仮想通貨の自社カストディとE*Tradeでの取引提供を計画",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/morgan_stanley1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/morgan_stanley1.png"
         }
       ]
     },
@@ -1791,6 +1786,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=552997",
+          "author": "watanabeyousuke",
+          "description": "Aave DAOのガバナンスを巡る対立 分散型金融（DeFi）プロトコル「アーベ（Aave）」の主要ガバナンス組織であるアーベ・チャン・イニシアティブ（Aave Chan Initiative：ACI）が、アーベDAO（ […]",
+          "link": "https://www.neweconomy.jp/posts/552997",
+          "publishedOn": "2026-03-04T09:21:27.000Z",
+          "wordCount": 786,
+          "title": "Aaveの主要ガバナンス組織ACI、DAO離脱へ。開発チームBGDラボの撤退に続き",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/04182105/97f7bd56589f4386ea55c48356a3d940.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=552977",
           "author": "HitomotoToshikazu",
