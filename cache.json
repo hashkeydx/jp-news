@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340062",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコイン（BTC）は主要株価指数との相関が高まっており（0.5付近）、ハイテク株に似た値動きを見せているが、価格変 ...\nビットコイン、ハイテク株に似た値動きでも分散投資先として有効 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340062/",
+          "publishedOn": "2026-03-09T04:45:44.000Z",
+          "wordCount": 1393,
+          "title": "ビットコイン、ハイテク株に似た値動きでも分散投資先として有効",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-51-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=339918",
           "author": "廣瀬 優香",
           "description": "ステーブルコイン最大手Tether（テザー）の独立投資部門であるTether Investments（テザー・インベストメンツ）は3月4日、睡眠テクノロジー企業 ...\nTether、睡眠テクノロジー企業Eight Sleepに戦略的投資 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -514,6 +524,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=693393",
+          "author": "Enzo",
+          "description": "中国最高裁の張軍院長は全人代工作報告で、仮想通貨を媒介としたマネーロンダリングや外貨逃避犯罪の厳罰化と、違法な国境を越えた資金移転の防止に取り組む方針を示した。",
+          "link": "https://coinpost.jp/?p=693393",
+          "publishedOn": "2026-03-09T05:08:53.000Z",
+          "wordCount": 3966,
+          "title": "中国最高裁、仮想通貨を媒介としたマネロン・不正外貨送金を厳罰化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/china-otc-blacklist-more.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/china-otc-blacklist-more.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=693385",
+          "author": "Enzo",
+          "description": "北朝鮮関連とみられるハッカー集団が仮想通貨企業を標的にサイバー攻撃を実施。クラウド認証情報の悪用や取引所ソフトウェアの窃取が確認され、将来的な大規模資産窃取への布石となる可能性がある。",
+          "link": "https://coinpost.jp/?p=693385",
+          "publishedOn": "2026-03-09T04:47:37.000Z",
+          "wordCount": 3964,
+          "title": "北朝鮮関連ハッカー、仮想通貨企業を標的に大規模サイバー攻撃か＝レポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/northkorea-hacking3_0405.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/northkorea-hacking3_0405.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=693354",
+          "author": "幸田直子",
+          "description": "AIが自律的に行う決済「AIエージェント決済」の基盤としてのステーブルコイン利用が、有力なユースケースとして注目され、サークルなどのステーブルコイン企業が巨額の投資を行っている。一方、現状の普及率との乖離も見られる。",
+          "link": "https://coinpost.jp/?p=693354",
+          "publishedOn": "2026-03-09T04:18:37.000Z",
+          "wordCount": 3998,
+          "title": "AIエージェント決済、ステーブルコインの次なる主戦場に　普及はまだ道半ば",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/circle2.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/circle2.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=693340",
+          "author": "A.Yamada",
+          "description": "自律型AIエージェント「ROME」がトレーニング中に無断で仮想通貨マイニングを実行した。開発チームは、学習の過程で不正な行動が自発的に発生したとして対策を講じている。",
+          "link": "https://coinpost.jp/?p=693340",
+          "publishedOn": "2026-03-09T04:03:03.000Z",
+          "wordCount": 3981,
+          "title": "AIエージェントが無断で仮想通貨マイニング　研究チームが報告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/AI-agent-new-world.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/AI-agent-new-world.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=693301",
           "author": "A.Yamada",
@@ -1526,6 +1596,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=554554",
+          "author": "OtsugaShinya",
+          "description": "アライドアーキテクツとPGLが提携 東証グロース上場でマーケティングAX（広告変革）支援事業を展開するアライドアーキテクツが、フェザントネットワーク（Pheasant Network）の開発を主導するPGL社（PG La […]",
+          "link": "https://www.neweconomy.jp/posts/554554",
+          "publishedOn": "2026-03-09T05:31:17.000Z",
+          "wordCount": 746,
+          "title": "アライドアーキテクツがPG Labsと提携、日本企業のオンチェーン実装事業を本格推進で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/09143050/d656eb0d4c443281a6aa8c9b4dcc64e1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=554556",
+          "author": "gentosha_takahashi",
+          "description": "規制整備進む 米フロリダ州議会が、決済用ステーブルコインの規制枠組みを定める法案を可決した。同州ブロックチェーン団体のフロリダ・ブロックチェーン・ビジネス協会の創業者サミュエル・アームズ（Samuel Armes）氏が3 […]",
+          "link": "https://www.neweconomy.jp/posts/554556",
+          "publishedOn": "2026-03-09T05:27:43.000Z",
+          "wordCount": 877,
+          "title": "米フロリダ州、ステーブルコイン規制枠組み法案を可決。インディアナ州では年金で暗号資産投資選択肢提供へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/09142725/d30a793c7d715e0739454aaba0be19ea.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=554533",
+          "author": "HitomotoToshikazu",
+          "description": "21shares Polkadot ETF上場 暗号資産（仮想通貨）ポルカドット（DOT）の現物ETF（上場投資信託）が、3月6日に米国で初めて上場した。同ETFを組成したスイスの資産運用会社21シェアーズ（21Shar […]",
+          "link": "https://www.neweconomy.jp/posts/554533",
+          "publishedOn": "2026-03-09T05:11:14.000Z",
+          "wordCount": 840,
+          "title": "米国初、ポルカドット（DOT）現物ETFがナスダックに上場、21シェアーズ組成",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/09141013/39795fb837858bf10f5f6acebc214eed.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=554499",
+          "author": "OtsugaShinya",
+          "description": "米連邦地裁がバイナンスとCZへのテロ資金訴訟を棄却 世界最大の暗号資産取引所バイナンス（Binance）と同社創業者のチャンポン・ジャオ（Changpeng Zhao：CZ）氏に対し、テロ組織による世界64件の攻撃を支え […]",
+          "link": "https://www.neweconomy.jp/posts/554499",
+          "publishedOn": "2026-03-09T04:10:11.000Z",
+          "wordCount": 757,
+          "title": "米連邦地裁、バイナンスとCZへのテロ資金訴訟を棄却",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/09130938/fb7c5bf604d298f67b1c2d6503088052.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=554485",
+          "author": "OtsugaShinya",
+          "description": "カザフスタン中銀が金・外貨準備から暗号資産関連投資へ カザフスタン中央銀行が、金・外貨準備から最大3億5,000万ドル（約555億4,300万円）を、暗号資産関連資産へ投資するためのポートフォリオとして組成した。同行ティ […]",
+          "link": "https://www.neweconomy.jp/posts/554485",
+          "publishedOn": "2026-03-09T03:37:35.000Z",
+          "wordCount": 619,
+          "title": "カザフスタン中銀、金・外貨準備から最大3.5億ドルを暗号資産関連投資へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/09123652/5e8976cc5f93cb39fda1862169df5623.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=554342",
           "author": "NewEconomyPodcast",
