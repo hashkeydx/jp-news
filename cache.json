@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340161",
+          "author": "Shoko Galaviz",
+          "description": "Nasdaq（ナスダック）は、株式のトークン化を目的とした新しい設計「Equity Token Design（エクイティ・トークン・デザイン）」を発表し、暗号資 ...\nNasdaqとKraken親会社、トークン化株式インフラ構築へ提携 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340161/",
+          "publishedOn": "2026-03-09T22:00:00.000Z",
+          "wordCount": 1414,
+          "title": "NasdaqとKraken親会社、トークン化株式インフラ構築へ提携",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2348893371-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340158",
           "author": "Shoko Galaviz",
           "description": "世界的な保険ブローカーであるAon（エーオン）は、米ドル連動型ステーブルコインを用いた保険料支払いの実証実験を実施したと発表した。主要なグローバル保険ブローカー ...\nAon、ステーブルコインでの保険料支払いを実証──Coinbase、Paxosが協力 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -460,16 +470,6 @@
           "wordCount": 1363,
           "title": "NYSE親会社のICE、暗号資産取引所OKXに出資",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2454781387.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339808",
-          "author": "井上 俊彦",
-          "description": "暗号資産（仮想通貨）取引所Kraken（クラーケン）の銀行部門「Kraken Financial（クラーケン・ファイナンシャル）」が、アメリカ連邦準備制度理事会 ...\nクラーケンのFRBマスターアカウント承認に銀行業界が「深い懸念」を表明 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339808/",
-          "publishedOn": "2026-03-05T10:35:00.000Z",
-          "wordCount": 1337,
-          "title": "クラーケンのFRBマスターアカウント承認に銀行業界が「深い懸念」を表明",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2409240315.jpg"
         }
       ]
     },
@@ -484,6 +484,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=693478",
+          "author": "K.Kobayashi",
+          "description": "コインシェアーズは、仮想通貨ETFなどのデジタル資産投資商品全体の先週における資金フローは約977億円の純流入だったと報告。原資産別ではビットコインが流入を主導した。",
+          "link": "https://coinpost.jp/?p=693478",
+          "publishedOn": "2026-03-09T22:40:47.000Z",
+          "wordCount": 3483,
+          "title": "仮想通貨投資商品、2週連続で資金が純流入　イラン情勢による原油高は重荷＝コインシェアーズ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/CryptoCurrency_1003-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/CryptoCurrency_1003-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=693470",
+          "author": "菊谷ルイス",
+          "description": "英米に拠点を置く保険ブローカー大手エーオン（Aon）が、業界初となるステーブルコインでの保険料決済を発表。米イラン紛争を背景としたロンドン市場での海上保険料の記録的高騰動向と合わせて解説。",
+          "link": "https://coinpost.jp/?p=693470",
+          "publishedOn": "2026-03-09T22:00:07.000Z",
+          "wordCount": 3978,
+          "title": "米保険分野で初、エーオンがステーブルコインによる保険料決済を導入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/aon-stablecoin-insurance.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/aon-stablecoin-insurance.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=693469",
           "author": "菊谷ルイス",
@@ -1308,21 +1338,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ice-nyse-moonpay.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/ice-nyse-moonpay.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=692769",
-          "author": "Ritsuki.Kumazawa",
-          "description": "三菱UFJ銀行の半沢淳一頭取がFIN/SUM 2026で講演。融資の暗黙知をAIに学習させる独自システムの開発や、3メガ銀行共同によるステーブルコイン発行の実証実験参加を明らかにした。",
-          "link": "https://coinpost.jp/?p=692769",
-          "publishedOn": "2026-03-05T10:20:25.000Z",
-          "wordCount": 3749,
-          "title": "三菱UFJ銀行頭取、融資審査へのAI活用と3メガ共同ステーブルコイン実証を表明｜FIN/SUM 2026",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/ufj_finsum_0305.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/ufj_finsum_0305.jpeg"
         }
       ]
     },
@@ -1580,16 +1595,6 @@
           "wordCount": 646,
           "title": "【3/5話題】クラーケンがFRBマスターアカウント取得、スイのUSDsui正式稼働、モブキャストがソラナ追加取得など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/05204610/f725611871d88cda86d73b2f78bf0eae-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=552794",
-          "author": "NewEconomy",
-          "description": "暗号資産 × 財務戦略 が学べる完全招待制イベント開催 SMBC日興証券、BitGo、幻冬舎（あたらしい経済）が共催で、暗号資産トレジャリー（DAT：Digital Asset Treasury）に関するセミナー「【徹底 […]",
-          "link": "https://www.neweconomy.jp/posts/552794",
-          "publishedOn": "2026-03-05T10:12:27.000Z",
-          "wordCount": 802,
-          "title": "【徹底解説】暗号資産 × 財務戦略セミナー by SMBC日興証券・BitGo・幻冬舎（完全招待制）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/04105852/3sha_event.jpg"
         }
       ]
     }
