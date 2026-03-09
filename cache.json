@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340158",
+          "author": "Shoko Galaviz",
+          "description": "世界的な保険ブローカーであるAon（エーオン）は、米ドル連動型ステーブルコインを用いた保険料支払いの実証実験を実施したと発表した。主要なグローバル保険ブローカー ...\nAon、ステーブルコインでの保険料支払いを実証──Coinbase、Paxosが協力 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340158/",
+          "publishedOn": "2026-03-09T21:00:00.000Z",
+          "wordCount": 1381,
+          "title": "Aon、ステーブルコインでの保険料支払いを実証──Coinbase、Paxosが協力",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2503236569.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340112",
           "author": "廣瀬 優香",
           "description": "世界有数の暗号資産（仮想通貨）ETF（上場投資信託）発行企業である21shares（21シェアーズ）は3月6日、ポルカドット（DOT）現物ETF「21share ...\n21Shares、ポルカドット現物ETFをナスダックに上場 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -460,26 +470,6 @@
           "wordCount": 1337,
           "title": "クラーケンのFRBマスターアカウント承認に銀行業界が「深い懸念」を表明",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2409240315.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339784",
-          "author": "井上 俊彦",
-          "description": "レイヤー1ブロックチェーン「Sui（スイ）」をサポートするスイ財団（Sui Foundation）は3月4日、Suiネットワーク上でネイティブステーブルコインの ...\nスイの独自ステーブルコイン「USDsui」がメインネットで稼働 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339784/",
-          "publishedOn": "2026-03-05T09:45:00.000Z",
-          "wordCount": 1350,
-          "title": "スイの独自ステーブルコイン「USDsui」がメインネットで稼働",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2520942305.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=339787",
-          "author": "橋本 祐樹",
-          "description": "開催中の「FIN/SUM 2026」で5日、三菱UFJ銀行取締役頭取執行役員の半沢淳一氏が「AI×ブロックチェーン時代に向けた銀行界の取組み」をテーマに講演した ...\n金融取引はオンチェーンへ──三菱UFJ半沢頭取、AI×ブロックチェーン時代の銀行像を語る first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/339787/",
-          "publishedOn": "2026-03-05T08:56:33.000Z",
-          "wordCount": 1383,
-          "title": "金融取引はオンチェーンへ──三菱UFJ半沢頭取、AI×ブロックチェーン時代の銀行像を語る",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/DSC_8077x-scaled.jpg"
         }
       ]
     },
@@ -494,6 +484,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=693469",
+          "author": "菊谷ルイス",
+          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
+          "link": "https://coinpost.jp/?p=693469",
+          "publishedOn": "2026-03-09T21:30:01.000Z",
+          "wordCount": 3987,
+          "title": "ETH保有企業シャープリンク、2025年通期に約1160億円の純損失を計上",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sharplink-new-thumb.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/sharplink-new-thumb.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=693467",
+          "author": "菊谷ルイス",
+          "description": "米ビットマインが過去1週間で約6万ETHの仮想通貨を買い増し、総保有量が453万ETHに達したと発表。一方、含み損は拡大している。",
+          "link": "https://coinpost.jp/?p=693467",
+          "publishedOn": "2026-03-09T21:10:58.000Z",
+          "wordCount": 4061,
+          "title": "米ビットマイン、先週6万ETHを買い増し　含み損は1.2兆円規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/tomlee3_0315.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/tomlee3_0315.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=693468",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコインのマイニング済み供給量が2000万BTCに達し、上限2100万枚の95.2%が発行された。残り約100万枚は半減期の仕組みにより、2140年ごろまで段階的に供給される。",
+          "link": "https://coinpost.jp/?p=693468",
+          "publishedOn": "2026-03-09T20:55:59.000Z",
+          "wordCount": 3987,
+          "title": "ビットコイン採掘済み数が2000万BTCを突破、残り100万BTCの発行に114年を要する見通し",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/more-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/more-bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=693466",
           "author": "菊谷ルイス",
