@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-10T10:58:43.974Z</updated>
+    <updated>2026-03-10T11:46:26.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、2000万BTCが採掘済みに、残り100万BTCは約114年で発行]]></title>
+        <id>https://www.neweconomy.jp/?p=555199</id>
+        <link href="https://www.neweconomy.jp/posts/555199"/>
+        <updated>2026-03-10T11:18:12.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの採掘済み供給量が2000万BTCを突破 ビットコイン（Bitcoin）の採掘済み供給量が2,000万BTCを突破した。2009年1月のジェネシスブロック誕生から約17年2カ月を経て、総発行上限である2,10 […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアムトレジャリー企業Sharplink、2025年に7億3400万ドルの純損失を計上──暗号資産相場下落で]]></title>
         <id>https://www.nadanews.com/?p=340255</id>
@@ -1619,16 +1629,6 @@ OKX、取引実績をアプリ上で開示できる機能「Orbit」発表──
         <link href="https://coinpost.jp/?p=692833"/>
         <updated>2026-03-06T00:20:29.000Z</updated>
         <summary type="html"><![CDATA[米FRBはOCCおよびFDICと連名で、トークン化証券に対する自己資本規制の取り扱いを定めたFAQを3月5日に公表。分散台帳技術の利用有無によって追加的な資本賦課は生じないとする「技術中立」の原則を公式に確認しており、銀行のトークン化証券参入環境が整備されつつある。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英Revolutが米銀行免許を新規申請、クラーケンのFRBマスター口座取得に続き金融統合加速]]></title>
-        <id>https://coinpost.jp/?p=692808</id>
-        <link href="https://coinpost.jp/?p=692808"/>
-        <updated>2026-03-05T23:23:48.000Z</updated>
-        <summary type="html"><![CDATA[英フィンテック大手Revolutが3月5日、米通貨監督庁に新規銀行免許を申請した。前日にはクラーケンが仮想通貨企業として初めてFRBマスター口座を取得しており、TD Cowenは今後さらに仮想通貨企業の伝統金融インフラへの参入が加速すると分析。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
