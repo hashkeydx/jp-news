@@ -2,10 +2,174 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-10T23:39:36.225Z</updated>
+    <updated>2026-03-11T02:48:10.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン100万ドル到達はなぜ可能なのか、ビットワイズ幹部が成長余地を考察]]></title>
+        <id>https://coinpost.jp/?p=693812</id>
+        <link href="https://coinpost.jp/?p=693812"/>
+        <updated>2026-03-11T02:45:21.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨運用企業ビットワイズの最高投資責任者は、ビットコインの価格が100万ドルに到達する可能性を考察。高いハードルではあるが、可能性はあるとの見方を示している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポリマーケット、パランティアらと提携。スポーツ予測市場の監視AI基盤を構築へ]]></title>
+        <id>https://www.neweconomy.jp/?p=555339</id>
+        <link href="https://www.neweconomy.jp/posts/555339"/>
+        <updated>2026-03-11T02:30:05.000Z</updated>
+        <summary type="html"><![CDATA[PolymarketがPalantirとTWG AIと提携 ブロックチェーン・暗号資産（仮想通貨）活用の予測市場プラットフォーム「ポリマーケット（Polymarket）」が、米データ分析企業パランティア・テクノロジーズ（ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIは仮想通貨を「不可避」にするのか、MITの経済論文が議論を呼ぶ]]></title>
+        <id>https://coinpost.jp/?p=693822</id>
+        <link href="https://coinpost.jp/?p=693822"/>
+        <updated>2026-03-11T02:21:10.000Z</updated>
+        <summary type="html"><![CDATA[マサチューセッツ工科大学（MIT）が発表した経済論文「Some Simple Economics of AGI」が波紋を呼んでいる。AIの「検証コスト」問題が仮想通貨の経済的必然性を示すと業界関係者が注目する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米銀行団体BPI、暗号資産企業向け銀行ライセンス巡りOCCへの提訴検討＝報道]]></title>
+        <id>https://www.neweconomy.jp/?p=555331</id>
+        <link href="https://www.neweconomy.jp/posts/555331"/>
+        <updated>2026-03-11T02:06:10.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産企業向け銀行ライセンス制度に反発 米国の大手銀行団体が、暗号資産（仮想通貨）やフィンテック企業向けの銀行ライセンス制度を巡り、規制当局の提訴を検討しているようだ。英紙「ガーディアン（The Guardian）」が […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFiのRWAレバレッジ戦略は「構造的に成立しにくい」と3F共同創業者が指摘]]></title>
+        <id>https://www.neweconomy.jp/?p=555303</id>
+        <link href="https://www.neweconomy.jp/posts/555303"/>
+        <updated>2026-03-11T01:59:32.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーンと伝統金融の決済構造が障壁に 現実資産（RWA）を担保にしたレバレッジ戦略の構造的な課題について、分散型金融（DeFi）プロジェクト「3F」の共同創業者ソニヤ・キム（Sonya Kim）氏が指摘した。3月8日 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zcash向けUI開発のZODL、25Mドル調達、サイファーパンクやa16zら出資]]></title>
+        <id>https://www.neweconomy.jp/?p=555309</id>
+        <link href="https://www.neweconomy.jp/posts/555309"/>
+        <updated>2026-03-11T01:49:19.000Z</updated>
+        <summary type="html"><![CDATA[ZODLが約39億円調達 プライバシーコイン「ジーキャッシュ（Zcash）」向けの主要UI（ユーザーインターフェース）を開発する「ジーキャッシュ・オープン・ディベロップメント・ラボ（Zcash Open Developm […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、AIエージェント向け信頼基盤「Agent Registry」公開]]></title>
+        <id>https://www.neweconomy.jp/?p=555290</id>
+        <link href="https://www.neweconomy.jp/posts/555290"/>
+        <updated>2026-03-11T01:25:24.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントの信頼形成をオンチェーンで管理 レイヤー1ブロックチェーン「ソラナ（Solana）」は、AIエージェント向けのプロトコル「エージェント・レジストリ（Agent Registry）」を導入した。ソラナ公式X […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】暗号資産取引所BTCBOX、全サービス停止から2カ月超──「担当者不明」窓口対応、ガバナンス不全か]]></title>
+        <id>https://www.nadanews.com/?p=340348</id>
+        <link href="https://www.nadanews.com/340348/"/>
+        <updated>2026-03-11T01:21:48.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所BTCBOXの全サービス停止が、すでに2カ月を超えて長期化している。 同所は今年2月5日を最後に公式サイト等でのアナウンスを行っておら ...
+【独自】暗号資産取引所BTCBOX、全サービス停止から2カ月超──「担当者不明」窓口対応、ガバナンス不全か first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>栃山 直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カーブファイナンス、パンケーキスワップにコード無断使用を指摘]]></title>
+        <id>https://www.neweconomy.jp/?p=555277</id>
+        <link href="https://www.neweconomy.jp/posts/555277"/>
+        <updated>2026-03-11T01:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Curve FinanceがPancakeSwapに対してコードの無断使用を指摘 分散型金融（DeFi）プラットフォームのカーブファイナンス（Curve Finance）開発チームが、分散型取引所（DEX）のパンケーキス […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコイン普及とAIエージェント金融でサークル株はさらに60％上昇余地：バーンスタイン]]></title>
+        <id>https://www.nadanews.com/?p=340351</id>
+        <link href="https://www.nadanews.com/340351/"/>
+        <updated>2026-03-11T01:12:11.000Z</updated>
+        <summary type="html"><![CDATA[【CoinDesk Summary】 ● 資産運用会社バーンスタイン（Bernstein）のアナリストは、サークル（Circle）の株価が190ドルまで上昇する ...
+ステーブルコイン普及とAIエージェント金融でサークル株はさらに60％上昇余地：バーンスタイン first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投資会社マルチコイン、「インターネット労働市場」が暗号資産普及の次の波を生むと予測]]></title>
+        <id>https://www.nadanews.com/?p=340350</id>
+        <link href="https://www.nadanews.com/340350/"/>
+        <updated>2026-03-11T00:53:43.000Z</updated>
+        <summary type="html"><![CDATA[【CoinDesk Summary】 ● これまで暗号資産の主なユースケースはトークンの購入や取引だったが、一部の投資家は次の普及の波は「稼ぐこと」から生まれる ...
+投資会社マルチコイン、「インターネット労働市場」が暗号資産普及の次の波を生むと予測 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFiレンディング「Aave」で約2700万ドルの清算──価格グリッチが原因の可能性]]></title>
+        <id>https://www.nadanews.com/?p=340349</id>
+        <link href="https://www.nadanews.com/340349/"/>
+        <updated>2026-03-11T00:38:09.000Z</updated>
+        <summary type="html"><![CDATA[【CoinDesk Summary】 ● DeFiレンディングプラットフォームAave（アーべ）で3月10日、借り手のポジション約2700万ドル相当が清算された ...
+DeFiレンディング「Aave」で約2700万ドルの清算──価格グリッチが原因の可能性 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カナン、ビットコインとイーサリアム保有量が過去最高に　仮想通貨蓄積戦略を維持]]></title>
+        <id>https://coinpost.jp/?p=693793</id>
+        <link href="https://coinpost.jp/?p=693793"/>
+        <updated>2026-03-11T00:35:26.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨マイニング機器大手カナンが、2026年2月の業績を発表。ビットコインとイーサリアムの保有量が過去最高に達しており、マイニング事業も拡大中だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス創業者CZ、純資産16兆円超で世界17位に　ビル・ゲイツを上回る＝フォーブス]]></title>
+        <id>https://coinpost.jp/?p=693800</id>
+        <link href="https://coinpost.jp/?p=693800"/>
+        <updated>2026-03-11T00:26:54.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス創業者チャンポン・ジャオ（CZ）の純資産が1,100億ドルに達し、フォーブスの世界長者番付で17位に浮上。ビル・ゲイツを上回り、仮想通貨長者として過去最高を更新した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポリマーケット、パランティアと提携　スポーツ予測市場の不正監視AIを共同開発]]></title>
+        <id>https://coinpost.jp/?p=693760</id>
+        <link href="https://coinpost.jp/?p=693760"/>
+        <updated>2026-03-11T00:26:39.000Z</updated>
+        <summary type="html"><![CDATA[予測市場大手ポリマーケットが3月10日、AI大手パランティアとTWG AIとの提携を公式発表した。スポーツ関連予測市場の不正取引監視を目的としたAIプラットフォームを共同開発するが、軍・諜報機関との深い関係で知られるパランティアの関与に対し、倫理面での議論も浮上。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米仮想通貨市場構造法案に妥協案、ステーブルコイン利回り制限へ]]></title>
+        <id>https://coinpost.jp/?p=693750</id>
+        <link href="https://coinpost.jp/?p=693750"/>
+        <updated>2026-03-10T23:35:13.000Z</updated>
+        <summary type="html"><![CDATA[米上院で停滞していた仮想通貨市場構造法案の妥協案が浮上。ステーブルコインの利回り制限により銀行の預金流出を防ぎつつ、規制の明確化とイノベーションの両立を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ethereumネットワークは拡大、なぜETH価格は上がらないのか：オンチェーンデータが示す資本流出【エックスウィンリサーチ】]]></title>
         <id>https://www.nadanews.com/?p=340337</id>
@@ -15,6 +179,16 @@
 Ethereumネットワークは拡大、なぜETH価格は上がらないのか：オンチェーンデータが示す資本流出【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>XWIN Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米CFTC委員長が宣言「米国は仮想通貨の首都」、規制方針にも言及]]></title>
+        <id>https://coinpost.jp/?p=693772</id>
+        <link href="https://coinpost.jp/?p=693772"/>
+        <updated>2026-03-10T22:45:05.000Z</updated>
+        <summary type="html"><![CDATA[米CFTCのマイク・セリグ委員長は、米国は世界における仮想通貨の首都であるとの認識を示した。SECとの連携など規制方針についても述べている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
@@ -1259,16 +1433,6 @@ Strike、ニューヨーク州でBitLicense取得 first appeared on NADA NEWS（
         <summary type="html"><![CDATA[カザフスタン中央銀行が外貨・金準備から最大3億5000万ドルを仮想通貨関連資産に投資する方針を明らかにした。直接保有にとどまらず、ハイテク株や指数ファンドも対象に含め、4月から5月にかけての運用開始を見込む。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【3/6話題】ジャスティン・サンのSEC訴訟和解へ、ICEがOKXに出資、米銀規制当局がトークン化証券の資本規制を明確化など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=554342</id>
-        <link href="https://www.neweconomy.jp/posts/554342"/>
-        <updated>2026-03-06T12:36:52.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
