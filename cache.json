@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340696",
+          "author": "Shoko Galaviz",
+          "description": "米金融大手JPMorgan Chase（JPモルガン・チェース）が、暗号資産（仮想通貨）関連の投資スキームを巡る集団訴訟に直面している。原告となった投資家らは、 ...\nJPMorgan、暗号資産投資詐欺疑惑を巡り集団訴訟に直面 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340696/",
+          "publishedOn": "2026-03-12T22:00:00.000Z",
+          "wordCount": 1405,
+          "title": "JPMorgan、暗号資産投資詐欺疑惑を巡り集団訴訟に直面",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2485250563.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340693",
           "author": "Shoko Galaviz",
           "description": "ステーブルコイン発行企業Tether（テザー）の投資部門であるTether Investments（テザー・インベストメンツ）は、ビットコイン（BTC）向けプロ ...\nTether、Ark Labsに戦略投資──ビットコイン上でのステーブルコイン基盤強化へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -680,10 +690,55 @@
       "articles": []
     },
     {
-      "title": "ハードフォーク  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=694299",
+          "author": "菊谷ルイス",
+          "description": "トランプ大統領のミームコイン「TRUMP」の運営チームが、フロリダ州マール・ア・ラーゴで開催する仮想通貨カンファレンスへの招待を上位保有者限定で告知した。昨年の類似イベントに続く第2弾で、大統領へのアクセスと仮想通貨保有を結びつける形態が再び政治的議論を呼んでいる。",
+          "link": "https://coinpost.jp/?p=694299",
+          "publishedOn": "2026-03-12T21:45:39.000Z",
+          "wordCount": 3988,
+          "title": "TRUMPミームコイン上位保有者を4月25日のマール・ア・ラーゴに招待、トランプ大統領も出席予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=694297",
+          "author": "菊谷ルイス",
+          "description": "米CFTCのマイク・セリグ議長は、急速に拡大する予測市場において明確な規制上の指針（ルール・オブ・ザ・ロード）を確立する方針を初めて発表した。操縦やインサイダー取引の防止に向け、取引所の責任を明確化する。",
+          "link": "https://coinpost.jp/?p=694297",
+          "publishedOn": "2026-03-12T21:15:06.000Z",
+          "wordCount": 3993,
+          "title": "米CFTC、予測市場の「明確な規制枠組み」確立へ　インサイダー取引の防止を義務化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=694296",
+          "author": "菊谷ルイス",
+          "description": "フロリダ州の仮想通貨投資会社ゴライアス・ベンチャーズによるポンジ詐欺で被害を受けた2000人超の投資家が、JPモルガン・チェースを相手取り集団訴訟を起こした。銀行が不審な取引を黙認し、詐欺の温床となったと主張。",
+          "link": "https://coinpost.jp/?p=694296",
+          "publishedOn": "2026-03-12T20:50:04.000Z",
+          "wordCount": 3995,
+          "title": "JPモルガンが集団訴訟に直面、500億円超の仮想通貨詐欺を助長した疑いで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=694295",
           "author": "菊谷ルイス",
