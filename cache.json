@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340732",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコイン（BTC）は協定世界時（UTC）午前0時以降に2％上昇し、7万2000ドルを超えた。ナスダック100先物や ...\nビットコイン、7万2000ドル台に上昇──ドル高でも株を上回る first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340732/",
+          "publishedOn": "2026-03-13T12:17:51.000Z",
+          "wordCount": 1379,
+          "title": "ビットコイン、7万2000ドル台に上昇──ドル高でも株を上回る",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-63-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340851",
           "author": "井上 俊彦",
           "description": "アメリカ財務省は3月12日、北朝鮮によるIT労働者詐欺に関与したとして、6人の個人と2つの団体に制裁を科したと発表した。対象には北朝鮮のほか、ベトナム、ラオス、 ...\n米財務省、北朝鮮のIT労働者詐欺の仲介者に制裁 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -784,6 +794,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=694648",
+          "author": "CoinPost編集部",
+          "description": "世界最大級のWeb3カンファレンス「TOKEN2049 Dubai」が、地域の安全保障や国際的な移動・物流への影響を理由に2027年4月21〜22日へ延期。登録済みチケットは自動移行、TOKEN2049 Singaporeへの振替も可能。",
+          "link": "https://coinpost.jp/?p=694648",
+          "publishedOn": "2026-03-13T12:20:59.000Z",
+          "wordCount": 3795,
+          "title": "TOKEN2049 Dubai、2027年4月に延期　地域情勢の不透明さ受け開催断念",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/token2049_-2026-03-13-21.11.42.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/token2049_-2026-03-13-21.11.42.png"
+        },
         {
           "id": "https://coinpost.jp/?p=694597",
           "author": "Ritsuki.Kumazawa",
@@ -2028,36 +2053,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/AI-agent-new-world.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/AI-agent-new-world.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=693301",
-          "author": "A.Yamada",
-          "description": "米財務省が仮想通貨の違法行為対策でレポートを公開した。不正対策に使用できる4つの技術を特定し、DeFiのマネロン対策や不正が疑われる資金の凍結に関しても提唱した。",
-          "link": "https://coinpost.jp/?p=693301",
-          "publishedOn": "2026-03-09T01:14:18.000Z",
-          "wordCount": 3987,
-          "title": "米財務省、仮想通貨の違法行為対策を議会に提案　DeFiへのマネロン規制も",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ustreasury1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/ustreasury1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=693295",
-          "author": "Enzo",
-          "description": "韓国金融当局が法人向け仮想通貨取引ガイドラインを策定中、USDTやUSDCなどのステーブルコインを投資許可対象から除外する方針が固まったとヘラルド経済が報じた。",
-          "link": "https://coinpost.jp/?p=693295",
-          "publishedOn": "2026-03-09T00:06:04.000Z",
-          "wordCount": 3967,
-          "title": "韓国、法人の仮想通貨投資にステーブルコイン含めず　金融当局がガイドライン策定",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/koreafinance235872.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/koreafinance235872.jpg"
         }
       ]
     },
