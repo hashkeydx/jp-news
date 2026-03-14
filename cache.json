@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=340938",
+          "author": "XWIN Research",
+          "description": "● ETF資金流入とCoinbase Premiumの回復が、米国現物需要の戻りを示唆● 取引所からのBTC流出が続き、短期的な売り供給は減少傾向● 72,00 ...\nビットコイン市場に変化の兆し──ETFフローとオンチェーンが示す3月13〜14日の分岐点【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340938/",
+          "publishedOn": "2026-03-14T01:40:03.000Z",
+          "wordCount": 1451,
+          "title": "ビットコイン市場に変化の兆し──ETFフローとオンチェーンが示す3月13〜14日の分岐点【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-68.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=340902",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● ビットコインマイニング関連サービスを手がけるLuxorによると、世界のビットコインネットワークの計算能力（ハッシュレー ...\n原油100ドル超えがビットコインネットワークに及ぼす影響とは first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/340902/",
+          "publishedOn": "2026-03-14T00:00:00.000Z",
+          "wordCount": 1375,
+          "title": "原油100ドル超えがビットコインネットワークに及ぼす影響とは",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-65-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340931",
           "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
           "description": "今週の市場は、悲観がなお深く残るなかで、売りの勢いそのものは徐々に吸収され始めた1週間だった。 ビットコインは週前半に一時67,000ドル近辺まで下値を試した後 ...\n恐怖の反動ではなく、疑念のなかの再評価──ビットコイン市場が試される「戻りの質」【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -704,6 +724,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=694702",
+          "author": "菊谷ルイス",
+          "description": "マイケル・セイラー率いるストラテジーが変動金利永久優先株「STRC」の売出を通じ、1週間で8億ドル超を調達して1.1万BTC以上を購入した可能性が浮上。既存株主の希薄化を防ぐ画期的な資金調達手法の詳細と、市場専門家の見解を最新推計と共に解説。",
+          "link": "https://coinpost.jp/?p=694702",
+          "publishedOn": "2026-03-14T01:49:51.000Z",
+          "wordCount": 4003,
+          "title": "ストラテジー、単週で1.1万BTCを追加取得か──「画期的」と評価される資金調達手法STRCの全貌",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/07/Microstrategy0730211.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=694697",
+          "author": "A.Yamada",
+          "description": "ユーロポールと米司法省が違法プロキシ「SocksEscort」を摘発。163か国36万台超のデバイスを乗っ取り、不正IPアドレス提供で仮想通貨詐欺などを助長していた。",
+          "link": "https://coinpost.jp/?p=694697",
+          "publishedOn": "2026-03-14T00:50:38.000Z",
+          "wordCount": 3998,
+          "title": "ユーロポールら、違法プロキシ摘発　5億円超の仮想通貨押収",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/euro-pol-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/06/euro-pol-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=694665",
+          "author": "菊谷ルイス",
+          "description": "シンガポールのメタコンプは3月にアリババが参加したプレA+ラウンドを完了し、3カ月間の累計調達額が3500万ドルに達したと発表した。",
+          "link": "https://coinpost.jp/?p=694665",
+          "publishedOn": "2026-03-14T00:20:39.000Z",
+          "wordCount": 3998,
+          "title": "メタコンプ、アリババ出資で累計55億円調達　ステーブルコイン決済基盤のアジア展開を加速",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/metacomp-alibaba.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/metacomp-alibaba.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=694688",
           "author": "K.Kobayashi",
@@ -2560,16 +2625,6 @@
           "wordCount": 740,
           "title": "イーサリアムJPがデジタルアセットWG設立、日本企業のEthereum採用促進で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/10112321/1044ba2a57660ba8bdbf8f33e3d855d0.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=554752",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/554752",
-          "publishedOn": "2026-03-09T12:10:51.000Z",
-          "wordCount": 782,
-          "title": "【3/9話題】アライドアーキテクツがPG Labsと提携、LINE NEXTのステーブルコインウォレット「Unifi」ローンチなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/09205831/e34cc9885913d26cb6640e3b15a6e7aa.jpg"
         }
       ]
     }
