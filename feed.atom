@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-14T10:45:59.878Z</updated>
+    <updated>2026-03-14T11:35:34.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[謎の投資家、TRUMPトークンに巨額投資──数時間で約4億円の含み益]]></title>
+        <id>https://www.nadanews.com/?p=340981</id>
+        <link href="https://www.nadanews.com/340981/"/>
+        <updated>2026-03-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【CoinDesk Summary】 ● 5カ月間まったく動きのなかった休眠ウォレットが12日、突然、約220万枚のTRUMPトークンを購入した。取得額は約70 ...
+謎の投資家、TRUMPトークンに巨額投資──数時間で約4億円の含み益 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[量子コンピュータがビットコインを破るのは10〜20年後で猶予あり、アークインベスト予測]]></title>
         <id>https://coinpost.jp/?p=694713</id>
@@ -2142,16 +2153,6 @@ Strategy、12億8000万ドル相当のビットコインを追加購入──総
 予測市場が示す米上院勢力図とビットコイン：政治イベントはBTC価格にどこまで影響するのか【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>XWIN Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、ETHステーキング運用を開始　ビットワイズ製インフラを採用]]></title>
-        <id>https://coinpost.jp/?p=693471</id>
-        <link href="https://coinpost.jp/?p=693471"/>
-        <updated>2026-03-09T23:20:09.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団がビットワイズ・オンチェーン・ソリューションズのオープンソース基盤を採用し、財務準備資産のETHステーキングを開始した。最大7万枚ETHの運用を通じ、ネットワーク安全性の強化と財団の財務自立を同時に図る方針。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
