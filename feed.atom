@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-16T07:46:24.813Z</updated>
+    <updated>2026-03-16T09:11:25.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Foundation、5000ETHをBitmineに売却へ]]></title>
+        <id>https://www.nadanews.com/?p=341100</id>
+        <link href="https://www.nadanews.com/341100/"/>
+        <updated>2026-03-16T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Foundation（イーサリアム財団）は3月14日、同財団が保有する5000ETHを相対取引（OTC）で売却する条件を確定したと発表した。  ...
+Ethereum Foundation、5000ETHをBitmineに売却へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産レンディングのBlockfillsが破産を申請]]></title>
+        <id>https://www.nadanews.com/?p=341123</id>
+        <link href="https://www.nadanews.com/341123/"/>
+        <updated>2026-03-16T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[機関投資家向けに暗号資産（仮想通貨）の取引や融資サービスを提供してきたBlockfills（ブロックフィルズ）が、アメリカ連邦破産法第11条（チャプター11）の ...
+暗号資産レンディングのBlockfillsが破産を申請 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POAPがメンテナンスモード移行へ、新たなオープンコレクティブル基盤の開発へ]]></title>
+        <id>https://www.neweconomy.jp/?p=556814</id>
+        <link href="https://www.neweconomy.jp/posts/556814"/>
+        <updated>2026-03-16T08:08:20.000Z</updated>
+        <summary type="html"><![CDATA[POAPが次世代コレクティブル基盤の開発へ デジタルコレクティブル発行プロトコルのPOAP（Proof of Attendance Protocol）が、3月16日から現行プラットフォームをメンテナンスモードへ移行する。 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、トークン関連処理の計算効率向上を狙う「p-token」提案が前進]]></title>
+        <id>https://www.neweconomy.jp/?p=556803</id>
+        <link href="https://www.neweconomy.jp/posts/556803"/>
+        <updated>2026-03-16T07:58:49.000Z</updated>
+        <summary type="html"><![CDATA[ソラナが「SIMD-0266」提案を承認し、トランザクション効率化へ ソラナ（Solana）向けインフラ開発企業アンザ（Anza）が昨年提出したプロトコル提案「SIMD-0266」が、3月14日に承認済みと伝えられた。こ […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TORICOがイーサリアム追加購入、総取得数2,156ETH超に]]></title>
+        <id>https://www.neweconomy.jp/?p=556793</id>
+        <link href="https://www.neweconomy.jp/posts/556793"/>
+        <updated>2026-03-16T07:52:42.000Z</updated>
+        <summary type="html"><![CDATA[TORICOがイーサリアム追加購入 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を3月13日に発表した。 […]]]></summary>
+        <author>
+            <name>mikajirikoka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインのプログラマブル金融インフラ構築のアークラボが5.2Mドル調達、テザーら参加]]></title>
+        <id>https://www.neweconomy.jp/?p=556783</id>
+        <link href="https://www.neweconomy.jp/posts/556783"/>
+        <updated>2026-03-16T07:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Ark Labsが520万ドルのシード調達を完了 ビットコイン（Bitcoin）上でプログラマブルな金融インフラを構築するアークラボ（Ark Labs）が、ステーブルコイン発行最大手のテザー（Tether）をはじめとする […]]]></summary>
+        <author>
+            <name>TamuraSeiji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バックパックのTGEが3/23に決定、ステーキングで企業株式への交換可能に]]></title>
         <id>https://www.neweconomy.jp/?p=556771</id>
@@ -1638,47 +1700,6 @@ Wells Fargo、「WFUSD」商標を出願──暗号資産取引やトークン�
         <link href="https://coinpost.jp/?p=694005"/>
         <updated>2026-03-11T21:20:25.000Z</updated>
         <summary type="html"><![CDATA[ブルームバーグ・インテリジェンスのマクグローン氏がビットコインの1万ドル割れ予測を改めて主張。昨年10月の高値からすでに44%超下落した局面でのさらなる弱気予測に対して、複数のアナリストは「核戦争でも起きなければ無理」と強く反論。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastercard、暗号資産企業85社超と新パートナープログラム開始]]></title>
-        <id>https://www.nadanews.com/?p=340472</id>
-        <link href="https://www.nadanews.com/340472/"/>
-        <updated>2026-03-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[決済大手Mastercard（マスターカード）は、暗号資産業（仮想通貨）界の企業や金融機関と連携する新たな取り組み「Mastercard Crypto Part ...
-Mastercard、暗号資産企業85社超と新パートナープログラム開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米銀大手ウェルズ・ファーゴ、仮想通貨関連の商標「WFUSD」を申請]]></title>
-        <id>https://coinpost.jp/?p=694004</id>
-        <link href="https://coinpost.jp/?p=694004"/>
-        <updated>2026-03-11T20:50:55.000Z</updated>
-        <summary type="html"><![CDATA[米銀大手ウェルズ・ファーゴが、仮想通貨取引やトークン化サービスを含む新商標「WFUSD」を米国特許商標庁に出願した。約300兆円の運用資産を抱える金融大手が、ブロックチェーンを活用した次世代の決済インフラ構築へ向けた布石を打った。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル、約1200億円の自社株買いを開始　企業評価額は8兆円に]]></title>
-        <id>https://coinpost.jp/?p=694008</id>
-        <link href="https://coinpost.jp/?p=694008"/>
-        <updated>2026-03-11T20:35:32.000Z</updated>
-        <summary type="html"><![CDATA[ブルームバーグは3月11日、リップルが評価額500億ドルで最大7億5,000万ドルの自社株買いを開始したと報じた。仮想通貨市場が低迷するなかでの強気な財務判断として、業界内外の注目を集めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米司法省、バイナンスを通じたイランの制裁回避疑惑を捜査]]></title>
-        <id>https://coinpost.jp/?p=693872</id>
-        <link href="https://coinpost.jp/?p=693872"/>
-        <updated>2026-03-11T20:00:50.000Z</updated>
-        <summary type="html"><![CDATA[米司法省がイランによるバイナンスを利用した制裁回避疑惑の捜査を開始した。内部調査の打ち切りや調査員の解雇疑惑も浮上しており、世界最大の仮想通貨取引所は再び法的な注目を集めている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
