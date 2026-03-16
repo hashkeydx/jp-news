@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-16T19:18:36.787Z</updated>
+    <updated>2026-03-16T20:56:04.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トム・リー率いるビットマイン社、約6.1万ETHを追加取得]]></title>
+        <id>https://coinpost.jp/?p=694888</id>
+        <link href="https://coinpost.jp/?p=694888"/>
+        <updated>2026-03-16T20:45:58.000Z</updated>
+        <summary type="html"><![CDATA[ビットマイン・イマージョン・テクノロジーズが3月15日時点で仮想通貨イーサリアム459.6万枚を保有し、仮想通貨・現金・投資の合計保有額が115億ドルに達したと公式発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ストラテジー、STRC活用で前週2500億円相当ビットコインを買い増し]]></title>
+        <id>https://coinpost.jp/?p=694887</id>
+        <link href="https://coinpost.jp/?p=694887"/>
+        <updated>2026-03-16T20:30:56.000Z</updated>
+        <summary type="html"><![CDATA[マイケル・セイラー率いるストラテジー社が3月9〜15日の1週間で2.2万ビットコインを約15.7億ドルで取得したとSEC提出書類で明らかになった。資金の約76%をSTRC優先株売却で賄い、累計保有数は761,068BTCに達した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨貸付企業ブロックフィルズ、米国で破産申請]]></title>
+        <id>https://coinpost.jp/?p=694869</id>
+        <link href="https://coinpost.jp/?p=694869"/>
+        <updated>2026-03-16T20:00:10.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引・貸付企業ブロックフィルズが米連邦破産裁判所にチャプター11を申請した。推定負債は最大5億ドルに上り、2月の出金停止や資産凍結命令を経て法的整理に踏み切った。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3/16話題】イーサリアム財団がビットマインに5,000ETH売却へ、アーベの取引で約50Mドル損失、コインベースとバイビットが提携協議かなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=557088</id>
@@ -1344,89 +1374,6 @@ AIエージェントの決済額は報告よりも少ないが、インフラは
 ビットコイントレジャリー企業Strive、Strategyの優先株STRCを5000万ドル分購入 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東海東京証券とブーストリー、国内初のST取次スキームを構築──十六TT証券で取り扱いへ]]></title>
-        <id>https://www.nadanews.com/?p=340568</id>
-        <link href="https://www.nadanews.com/340568/"/>
-        <updated>2026-03-12T08:42:05.000Z</updated>
-        <summary type="html"><![CDATA[東海東京証券とブロックチェーン技術開発を手掛けるブーストリー（BOOSTRY）は12日、十六TT証券（本社：岐阜県岐阜市）と協働し、セキュリティ・トークン（ST ...
-東海東京証券とブーストリー、国内初のST取次スキームを構築──十六TT証券で取り扱いへ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash向け機関投資家マイニングプール、大手ファウンドリーが4月開始へ]]></title>
-        <id>https://www.neweconomy.jp/?p=555871</id>
-        <link href="https://www.neweconomy.jp/posts/555871"/>
-        <updated>2026-03-12T08:29:03.000Z</updated>
-        <summary type="html"><![CDATA[機関投資家向けZcashマイニングインフラを提供 ビットコインマイニングプール運営企業ファウンドリー（Foundry Digital）が、プライバシー重視の暗号資産（仮想通貨）ジーキャッシュ：Zcash（ZEC）のマイニ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米メタ、AIエージェントSNS「モルトブック」買収、創業者2名はMSLへ]]></title>
-        <id>https://www.neweconomy.jp/?p=555861</id>
-        <link href="https://www.neweconomy.jp/posts/555861"/>
-        <updated>2026-03-12T08:12:10.000Z</updated>
-        <summary type="html"><![CDATA[米メタがモルトブック買収 フェイスブック（Facebook）親会社の米メタ・プラットフォームズ（Meta Platforms）が、AIエージェント向けソーシャルネットワーキングプラットフォーム「モルトブック（Moltbo […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマンサックス、開示ベースでXRP現物ETFの最大保有機関に]]></title>
-        <id>https://www.neweconomy.jp/?p=555835</id>
-        <link href="https://www.neweconomy.jp/posts/555835"/>
-        <updated>2026-03-12T08:02:35.000Z</updated>
-        <summary type="html"><![CDATA[Goldman SachsがXRP現物ETFの最大保有機関に 米大手投資銀行ゴールドマンサックス（Goldman Sachs）が、暗号資産（仮想通貨）エックスアールピー（XRP）の現物ETF（上場投資信託）において、最大 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ウェルズ・ファーゴ、「WFUSD」商標を出願。暗号資産取引やトークン化関連サービスを想定]]></title>
-        <id>https://www.neweconomy.jp/?p=555846</id>
-        <link href="https://www.neweconomy.jp/posts/555846"/>
-        <updated>2026-03-12T08:01:52.000Z</updated>
-        <summary type="html"><![CDATA[「WFUSD」商標をUSPTOに出願 米銀行大手のウェルズ・ファーゴ（Wells Fargo）が、「WFUSD」とする商標を「米国特許商標庁（USPTO）」に出願していたことが確認された。USPTOの公開データによると、 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国で高まるウォン建てステーブルコイン構想——DWF Labsが調査レポート公開]]></title>
-        <id>https://www.nadanews.com/?p=340517</id>
-        <link href="https://www.nadanews.com/340517/"/>
-        <updated>2026-03-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ドバイを拠点とする暗号資産（仮想通貨）マーケットメイカーのDWF Labsは12日、韓国でのウォン建てステーブルコインの可能性を分析した最新の調査レポートを発表 ...
-韓国で高まるウォン建てステーブルコイン構想——DWF Labsが調査レポート公開 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコインはアメリカの銀行預金を増やす──トランプ大統領の暗号資産顧問が発言]]></title>
-        <id>https://www.nadanews.com/?p=340516</id>
-        <link href="https://www.nadanews.com/340516/"/>
-        <updated>2026-03-12T07:45:00.000Z</updated>
-        <summary type="html"><![CDATA[トランプ大統領の暗号資産顧問であるPatrick Witt（パトリック・ウィット）氏はXへの投稿で、ステーブルコインがアメリカの銀行システムに新たな預金流入をも ...
-ステーブルコインはアメリカの銀行預金を増やす──トランプ大統領の暗号資産顧問が発言 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニックラボ、米ドル建てステーブルコイン「USSD」ローンチ、BUIDLなどを準備資産に]]></title>
-        <id>https://www.neweconomy.jp/?p=555815</id>
-        <link href="https://www.neweconomy.jp/posts/555815"/>
-        <updated>2026-03-12T07:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Sonic Labsがステーブルコインをローンチ EVM互換レイヤー1ブロックチェーン「ソニック（Sonic）」開発のソニックラボ（Sonic Labs）が、米ドル建てステーブルコイン「USソニックドル（US Sonic […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
