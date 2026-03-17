@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=341267",
+          "author": "井上 俊彦",
+          "description": "暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ） のリサーチ責任者James Butterfill（ジェームズ・バターフィル）氏は最新のブロ ...\n地政学的混乱の中でも暗号資産は回復力を発揮：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341267/",
+          "publishedOn": "2026-03-17T09:00:00.000Z",
+          "wordCount": 1482,
+          "title": "地政学的混乱の中でも暗号資産は回復力を発揮：CoinShares",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/04/shutterstock_1434643079.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=341254",
+          "author": "廣瀬 優香",
+          "description": "NFTマーケットプレイスOpenSea（オープンシー）の共同創業者兼CEOであるDevin Finzer（デヴィン・フィンザー）氏は3月17日、独自トークン「S ...\nOpenSea、独自トークン「SEA」のローンチを延期──暗号資産市場の厳しい状況を指摘 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341254/",
+          "publishedOn": "2026-03-17T08:15:00.000Z",
+          "wordCount": 1358,
+          "title": "OpenSea、独自トークン「SEA」のローンチを延期──暗号資産市場の厳しい状況を指摘",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2093312185.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=341255",
+          "author": "栃山 直樹",
+          "description": "人の能力評価サービスを展開するInstitution for a Global Society（IGS）は16日、予測市場プラットフォーム「Signals（シグ ...\n予測市場「Signals」ベータ版始動──IGS、「World ID」と連携 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341255/",
+          "publishedOn": "2026-03-17T07:58:41.000Z",
+          "wordCount": 1394,
+          "title": "予測市場「Signals」ベータ版始動──IGS、「World ID」と連携",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/c71f9a78557f0bf07db69a4728fb5d7a.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=340857",
           "author": "NADA NEWS編集部",
           "description": "ビットコインは「欲しがられて」広がるわけではない 「いつになったら、日本でビットコインは広がるのか」。 こうした問いに対して、劇的な転換点を想像する人は多い。し ...\n＜ビットコイン持ってますか？：第2回＞ブームは起きない、それでも広がる──「使えるから使う」がすべてを決める first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -550,16 +580,6 @@
           "wordCount": 1405,
           "title": "JPMorgan、暗号資産投資詐欺疑惑を巡り集団訴訟に直面",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2485250563.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340693",
-          "author": "Shoko Galaviz",
-          "description": "ステーブルコイン発行企業Tether（テザー）の投資部門であるTether Investments（テザー・インベストメンツ）は、ビットコイン（BTC）向けプロ ...\nTether、Ark Labsに戦略投資──ビットコイン上でのステーブルコイン基盤強化へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340693/",
-          "publishedOn": "2026-03-12T21:00:00.000Z",
-          "wordCount": 1367,
-          "title": "Tether、Ark Labsに戦略投資──ビットコイン上でのステーブルコイン基盤強化へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2666016469.jpg"
         }
       ]
     },
@@ -574,6 +594,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=695152",
+          "author": "Enzo",
+          "description": "韓国コスダック上場のビットマックスが保有する約550BTCを、開示なしに海外仮想通貨取引所へ全量送金していたことが毎日経済新聞の報道で明らかになった。",
+          "link": "https://coinpost.jp/?p=695152",
+          "publishedOn": "2026-03-17T08:44:27.000Z",
+          "wordCount": 3989,
+          "title": "韓国上場のビットマックス、保有ビットコイン全量を海外取引所に開示なく送金か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=695133",
           "author": "Enzo",
@@ -1488,51 +1523,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694296",
-          "author": "菊谷ルイス",
-          "description": "フロリダ州の仮想通貨投資会社ゴライアス・ベンチャーズによるポンジ詐欺で被害を受けた2000人超の投資家が、JPモルガン・チェースを相手取り集団訴訟を起こした。銀行が不審な取引を黙認し、詐欺の温床となったと主張。",
-          "link": "https://coinpost.jp/?p=694296",
-          "publishedOn": "2026-03-12T20:50:04.000Z",
-          "wordCount": 3995,
-          "title": "JPモルガンが集団訴訟に直面、500億円超の仮想通貨詐欺を助長した疑いで",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694295",
-          "author": "菊谷ルイス",
-          "description": "世界最大の資産運用会社ブラックロックが、ステーキング報酬を還元するイーサリアム現物ETF「ETHB」をナスダックに上場した。仮想通貨投資に「利回り」という新たな選択肢が加わり、機関マネーの流入加速が期待される。",
-          "link": "https://coinpost.jp/?p=694295",
-          "publishedOn": "2026-03-12T20:35:02.000Z",
-          "wordCount": 3988,
-          "title": "ブラックロックがステーキング対応のイーサリアム現物ETF上場、報酬の82%を還元",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/blackrock1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694283",
-          "author": "菊谷ルイス",
-          "description": "米グレースケールが、アバランチ（AVAX）の現物保有とステーキング報酬を組み合わせたETF「GAVA」をナスダックに上場した。同社の40本超のデジタル資産商品ラインアップに加わり、機関投資家向けのアクセス手段が広がっている。",
-          "link": "https://coinpost.jp/?p=694283",
-          "publishedOn": "2026-03-12T20:00:47.000Z",
-          "wordCount": 3988,
-          "title": "米グレースケール、アバランチステーキングETF「GAVA」をナスダックに上場",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/avalanche_logo1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/10/avalanche_logo1.jpg"
         }
       ]
     },
@@ -1541,6 +1531,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=557282",
+          "author": "HitomotoToshikazu",
+          "description": "MEXCが予測市場プラットフォーム提供開始 大手暗号資産（仮想通貨）取引所MEXCが、予測市場プラットフォームのローンチを3月16日に発表した。 MEXCによると、同社提供の予測市場プラットフォームでは、地政学イベント、 […]",
+          "link": "https://www.neweconomy.jp/posts/557282",
+          "publishedOn": "2026-03-17T07:55:47.000Z",
+          "wordCount": 780,
+          "title": "MEXC、予測市場プラットフォーム提供開始、取引・決済手数料は無料",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/17164639/091a5741e28dfc6c27053071e74650af.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=557272",
+          "author": "OtsugaShinya",
+          "description": "アブラがナスダック上場を計画 暗号資産の管理プラットフォームを手がけるアブラ（Abra）が、特別買収目的会社（SPAC）のニュー・プロビデンス・アクイジションIII（New Providence Acquisition  […]",
+          "link": "https://www.neweconomy.jp/posts/557272",
+          "publishedOn": "2026-03-17T07:18:38.000Z",
+          "wordCount": 767,
+          "title": "アブラ、SPACとの合併でナスダック上場を計画",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/17161834/d91b7aaaac4536f777f6c7e181c7c33d.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=557260",
           "author": "gentosha_takahashi",
