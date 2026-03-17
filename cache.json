@@ -550,36 +550,6 @@
           "wordCount": 1349,
           "title": "マイナーが生き残るためにはビットコインの運用が 不可欠 ：Wintermute",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/02/shutterstock_1938560239.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340829",
-          "author": "井上 俊彦",
-          "description": "米資産運用大手BlackRock（ブラックロック）が手がけるステーキング型イーサリアム（ETH）ETF（上場投資信託）「iShares Staked Ether ...\nBlackRockのステーキング型イーサリアムETF、初日の取引高1550万ドルと堅調なスタート first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340829/",
-          "publishedOn": "2026-03-13T08:15:00.000Z",
-          "wordCount": 1353,
-          "title": "BlackRockのステーキング型イーサリアムETF、初日の取引高1550万ドルと堅調なスタート",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2668308751-scaled.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340830",
-          "author": "松嶋 真倫 マネックス証券 フィナンシャル・インテリジェンス部 暗号資産アナリスト",
-          "description": "● 今週のビットコインは、中東情勢の緊迫化やスタグフレーション懸念の高まりを受けて一時下落したが、イラン戦争の早期終結観測や米国の規制整備期待、ETFへの資金流 ...\nBTC（ビットコイン）は米FOMCと中東情勢が焦点、資金シフトの可能性も【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340830/",
-          "publishedOn": "2026-03-13T08:09:22.000Z",
-          "wordCount": 1405,
-          "title": "BTC（ビットコイン）は米FOMCと中東情勢が焦点、資金シフトの可能性も【マネックス証券】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/img_295d090e5e1646c688a2d5512bba9774143776.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=340822",
-          "author": "松田康生",
-          "description": "本稿ではビットコイン相場を①パターン分析 ②移動平均線（9MA・25MA） ③一目均衡表 ④ボリンジャーバンド ⑤MACD ⑥RSIの代表的な6種類のテクニカル ...\nマトリックス法によるテクニカル分析（2026/3/13）ここは大事なところ【楽天ウォレット】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/340822/",
-          "publishedOn": "2026-03-13T07:46:41.000Z",
-          "wordCount": 1444,
-          "title": "マトリックス法によるテクニカル分析（2026/3/13）ここは大事なところ【楽天ウォレット】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/tr-thumb_260313.jpg"
         }
       ]
     },
@@ -594,6 +564,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=695183",
+          "author": "菊谷ルイス",
+          "description": "米SECとCFTCが68ページの共同解釈指針を発行し、デジタルコモディティやステーブルコインなど複数の仮想通貨カテゴリが有価証券に該当しないとの分類基準を初めて明文化した。",
+          "link": "https://coinpost.jp/?p=695183",
+          "publishedOn": "2026-03-17T20:45:55.000Z",
+          "wordCount": 3993,
+          "title": "「大半のトークンは有価証券に非該当」、米SECとCFTCが仮想通貨分類指針を公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/seccftc.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/seccftc.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=695182",
+          "author": "菊谷ルイス",
+          "description": "米CFTCの市場参加者部門が、ソラナ基盤の自己管理型仮想通貨ウォレット「ファントム」を運営するファントム・テクノロジーズに対し、ブローカー登録義務を問わないノーアクション・ポジションを発行した。",
+          "link": "https://coinpost.jp/?p=695182",
+          "publishedOn": "2026-03-17T20:30:49.000Z",
+          "wordCount": 4069,
+          "title": "米CFTC、ファントムに規制免除　仮想通貨ウォレットのデリバティブ参入を容認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/cftc-ooki-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/cftc-ooki-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=694965",
+          "author": "菊谷ルイス",
+          "description": "決済大手マスターカードが仮想通貨インフラ企業BVNKを最大18億ドルで買収すると発表。既存の法定通貨決済ネットワークとステーブルコインを接続し、130カ国以上で対応するオンチェーン決済基盤を自社ネットワークへ統合。",
+          "link": "https://coinpost.jp/?p=694965",
+          "publishedOn": "2026-03-17T20:00:47.000Z",
+          "wordCount": 3992,
+          "title": "マスターカードがBVNKを買収、ステーブルコイン決済基盤獲得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/mastercard-buying-bvnk-stablecoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/mastercard-buying-bvnk-stablecoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=695152",
           "author": "Enzo",
@@ -1268,36 +1283,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/asteria_thumbnail.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/asteria_thumbnail.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694601",
-          "author": "Enzo",
-          "description": "米上院のスーン院内総務は、仮想通貨市場構造法案「クラリティ法」が4月以前に上院銀行委員会を通過する可能性は低いと示唆。ステーブルコイン利回り問題をめぐる業界間の対立が審議の遅延に影響している。",
-          "link": "https://coinpost.jp/?p=694601",
-          "publishedOn": "2026-03-13T08:51:31.000Z",
-          "wordCount": 3977,
-          "title": "米上院院内総務、クラリティ法の4月以前の前進は困難と示唆＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": ""
-          },
-          "imageUrl": "https://coinpost.jp/wp-content/uploads/2021/06/SenateProtico1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=694582",
-          "author": "Austin Mwendia",
-          "description": "ガーナ証券取引委員会は仮想通貨取引プラットフォーム11社を規制サンドボックスに認定した。昨年12月に成立したVASP法に基づく初の実践的措置で、各社は12カ月間、監督下で運営を行う。",
-          "link": "https://coinpost.jp/?p=694582",
-          "publishedOn": "2026-03-13T07:44:18.000Z",
-          "wordCount": 3999,
-          "title": "ガーナが仮想通貨規制サンドボックスを始動　11社が参加",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/ghana-new-digital.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/ghana-new-digital.jpg"
         }
       ]
     },
@@ -1665,16 +1650,6 @@
           "wordCount": 608,
           "title": "米上院、住宅法案可決。FRBのCBDC発行を2030年まで禁止",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/13180056/6d4f1829b0a4ff08e3e9b8bfe6bcb723.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=556301",
-          "author": "OtsugaShinya",
-          "description": "コインチェックの法人口座数が1万件突破 国内暗号資産（仮想通貨）取引所コインチェックが、同取引所で開設された法人口座数が1万件を突破したと3月12日に発表した。 コインチェックでは、事業法人および機関投資家向けサービス「 […]",
-          "link": "https://www.neweconomy.jp/posts/556301",
-          "publishedOn": "2026-03-13T07:23:06.000Z",
-          "wordCount": 732,
-          "title": "コインチェック、法人口座数1万件を突破",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/13162255/05eafd1e955eb4b70affff5abeb4c5ca.jpg"
         }
       ]
     }
