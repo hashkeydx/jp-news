@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-18T11:10:18.218Z</updated>
+    <updated>2026-03-18T11:59:28.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/18話題】米SECとCFTCが暗号資産の証券該当性を整理、CFTCがファントムのウォレット機能にノーアクションなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=557671</id>
+        <link href="https://www.neweconomy.jp/posts/557671"/>
+        <updated>2026-03-18T11:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple、ブラジルでの大規模な事業拡大を発表──VASPライセンス申請へ]]></title>
         <id>https://www.nadanews.com/?p=341402</id>
@@ -1709,16 +1719,6 @@ XRP、ネットワーク利用拡大でもトークン価値は低迷 first appe
 原油100ドル超えがビットコインネットワークに及ぼす影響とは first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、北朝鮮IT労働者の不正活動で制裁措置　ビットコインなどのアドレスもSDNリストへ]]></title>
-        <id>https://coinpost.jp/?p=694688</id>
-        <link href="https://coinpost.jp/?p=694688"/>
-        <updated>2026-03-13T23:20:48.000Z</updated>
-        <summary type="html"><![CDATA[米財務省は、北朝鮮のIT労働者の不正活動に携わったとして6名の個人と2社に制裁措置をとったと発表。仮想通貨ビットコインなどのアドレスも制裁対象リストに追加されている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
         </author>
     </entry>
 </feed>
