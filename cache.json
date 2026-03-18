@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=341459",
+          "author": "Shoko Galaviz",
+          "description": "S&P Dow Jones Indices（S&P ダウ・ジョーンズ・インデックス）は、同社の代表的な株価指数であるS&P 500を、ブ ...\nS&P500、初の公式パーペチュアル契約としてHyperliquidで提供開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/341459/",
+          "publishedOn": "2026-03-18T21:00:00.000Z",
+          "wordCount": 1501,
+          "title": "S&P500、初の公式パーペチュアル契約としてHyperliquidで提供開始",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2712303667.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=341319",
           "author": "橋本 祐樹",
           "description": "暗号資産（仮想通貨）取引所OKXは18日、米国のアクティブトレーダー1000人を対象とした意識調査レポートを公開した。米政府がステーブルコインの利回り運用に関す ...\n米トレーダーの6割超、ステーブルコインで利回り運用——規制議論を先越す「現場の実態」が浮き彫りに：OKX調査 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -664,6 +674,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=695446",
+          "author": "菊谷ルイス",
+          "description": "米上院銀行委員会が4月後半にクラリティー法案のマークアップ審議を実施する方針を固めた。共和党モレノ議員は5月21日の議会休会前の可決が事実上の期限と警告しており、ステーブルコイン利回り妥協案の行方が法案成立の鍵を握っている。",
+          "link": "https://coinpost.jp/?p=695446",
+          "publishedOn": "2026-03-18T21:30:16.000Z",
+          "wordCount": 3975,
+          "title": "米クラリティー法案、4月採決へ「5月が事実上の期限」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/congress-house-hearing.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/congress-house-hearing.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=695445",
+          "author": "菊谷ルイス",
+          "description": "米証券取引委員会は初めて、ナスダックによる株式およびETFのトークン化決済を可能にする規則変更を承認した。Russell 1000指数の構成銘柄を対象に、オーダーフラグを用いた柔軟な決済選択が可能となった。",
+          "link": "https://coinpost.jp/?p=695445",
+          "publishedOn": "2026-03-18T21:05:14.000Z",
+          "wordCount": 3975,
+          "title": "ナスダックが株式トークン化決済を開始へ、米SECがDTCパイロット運用を承認",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/nasdaq-sec-token.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/nasdaq-sec-token.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=695444",
           "author": "菊谷ルイス",
