@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-18T05:40:08.226Z</updated>
+    <updated>2026-03-18T07:16:11.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スイスのデジタル資産銀行Sygnum、オフエクスチェンジ・カストディ資産が10億ドル突破——2025年に900%増の急成長]]></title>
+        <id>https://www.nadanews.com/?p=340442</id>
+        <link href="https://www.nadanews.com/340442/"/>
+        <updated>2026-03-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スイスとシンガポールに拠点を置くデジタル資産銀行Sygnum（シグナム）は12日、同社のオフエクスチェンジ・カストディ（取引所外保管）プラットフォーム「Sygn ...
+スイスのデジタル資産銀行Sygnum、オフエクスチェンジ・カストディ資産が10億ドル突破——2025年に900%増の急成長 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>橋本 祐樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福岡県田川市、国内初となるブロックチェーン上での地域包括連携協定を締結──キリフダ発表]]></title>
+        <id>https://www.nadanews.com/?p=341384</id>
+        <link href="https://www.nadanews.com/341384/"/>
+        <updated>2026-03-18T06:42:48.000Z</updated>
+        <summary type="html"><![CDATA[Web3ソリューションを展開するキリフダは18日、福岡県田川市と国内初となるブロックチェーン上での地域包括連携協定を締結したと発表した。調印式は17日に田川市役 ...
+福岡県田川市、国内初となるブロックチェーン上での地域包括連携協定を締結──キリフダ発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>栃山 直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEXアスター、独自L1「Aster Chain」メインネットローンチ。取引プライバシーを基盤レイヤーに実装]]></title>
+        <id>https://www.neweconomy.jp/?p=557661</id>
+        <link href="https://www.neweconomy.jp/posts/557661"/>
+        <updated>2026-03-18T06:19:09.000Z</updated>
+        <summary type="html"><![CDATA[ZK暗号化とステルスアドレスで取引の匿名性を確保 パーペチュアルDEX（分散型取引所）を展開するアスター（Aster）が、独自レイヤー1ブロックチェーン「アスターチェーン（Aster Chain）」のメインネットをローン […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ベトナム、国内運営の暗号資産取引所を試験導入へ]]></title>
+        <id>https://www.neweconomy.jp/?p=557654</id>
+        <link href="https://www.neweconomy.jp/posts/557654"/>
+        <updated>2026-03-18T06:09:05.000Z</updated>
+        <summary type="html"><![CDATA[ベトナムが国内運営の暗号資産取引所を試験導入へ ベトナムでは、政府が海外プラットフォームでの取引抑制に動くなか、同国初の認可を受けた暗号資産（仮想通貨）取引所の立ち上げを目指し、複数の企業が競争している。ベトナムは世界で […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venus Protocol、THE市場への価格操作で約215万ドルの不良債権発生]]></title>
         <id>https://www.neweconomy.jp/?p=557633</id>
@@ -48,6 +90,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ビットコイン現物ETF保有者、機関需要回復も平均約75万円の含み損＝分析]]></title>
+        <id>https://coinpost.jp/?p=695260</id>
+        <link href="https://coinpost.jp/?p=695260"/>
+        <updated>2026-03-18T04:51:04.000Z</updated>
+        <summary type="html"><![CDATA[CryptoQuantのAxel Adler Jr.氏は、ビットコインETF保有者の平均含み損が5,174ドルと指摘。3週連続の資金流入が続く中、80,000ドルが当面の重要な関門となっている。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック提案、イーサリアム高速確認が12秒へ　「Lean Ethereum」構想を推進]]></title>
+        <id>https://coinpost.jp/?p=695256</id>
+        <link href="https://coinpost.jp/?p=695256"/>
+        <updated>2026-03-18T04:50:10.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム共同創設者ヴィタリック・ブテリン氏が、1スロット（12秒）で取引の非リバート保証を得る新たな高速確認ルールを提案した。バリデータの誠実性とネットワーク遅延3秒未満が前提となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ヴィタリック、イーサリアムのビーコン・実行クライアント分離の見直しを提案]]></title>
         <id>https://www.neweconomy.jp/?p=557601</id>
         <link href="https://www.neweconomy.jp/posts/557601"/>
@@ -65,6 +127,16 @@
         <summary type="html"><![CDATA[ASTRの発行量減衰導入で供給構造を明確化 レイヤー1ブロックチェーン「アスターネットワーク（Astar Network）」が、トークンエコノミクスの新モデル「トークノミクス3.0（Tokenomics 3.0）」を導入 […]]]></summary>
         <author>
             <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米民主党、予測市場のインサイダー取引規制法案を提出　戦争・政府行動を禁止対象に]]></title>
+        <id>https://coinpost.jp/?p=695248</id>
+        <link href="https://coinpost.jp/?p=695248"/>
+        <updated>2026-03-18T04:20:11.000Z</updated>
+        <summary type="html"><![CDATA[米民主党のマーフィー上院議員らが予測市場を規制する「BETS OFF法」を提出した。政府の行動・戦争・暗殺など結果を事前に知る立場の人物が関与する予測市場への賭けを禁止する。ポリマーケットやカルシなどを念頭に、決済遮断や刑事罰で規制を執行する。]]></summary>
+        <author>
+            <name>幸田直子</name>
         </author>
     </entry>
     <entry>
@@ -120,6 +192,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ロビンフッドのベンチャーファンド、StripeとElevenLabsへの出資完了を発表]]></title>
+        <id>https://coinpost.jp/?p=695243</id>
+        <link href="https://coinpost.jp/?p=695243"/>
+        <updated>2026-03-18T02:50:05.000Z</updated>
+        <summary type="html"><![CDATA[ロビンフッドのベンチャーファンドRVIが、決済大手StripeとAI音声企業ElevenLabsへの出資完了を発表。StripeはステーブルコインのBridgeを傘下に持ち、仮想通貨分野とも深く関わる。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TORICOがイーサリアム追加購入、総取得数2227ETH超に]]></title>
         <id>https://www.neweconomy.jp/?p=557535</id>
         <link href="https://www.neweconomy.jp/posts/557535"/>
@@ -127,6 +209,46 @@
         <summary type="html"><![CDATA[TORICOがイーサリアム追加購入 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を3月17日に発表した。 […]]]></summary>
         <author>
             <name>TanakaShuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シティ銀、ビットコインとイーサリアムの一年後価格目標引き下げ]]></title>
+        <id>https://coinpost.jp/?p=695233</id>
+        <link href="https://coinpost.jp/?p=695233"/>
+        <updated>2026-03-18T02:25:22.000Z</updated>
+        <summary type="html"><![CDATA[シティグループがBTC・ETHの一年後価格目標を下方修正した。米クラリティ法案の停滞とETF需要鈍化が背景にある。強気・弱気シナリオも示している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPalのステーブルコインPYUSD、世界の70市場に拡大へ]]></title>
+        <id>https://coinpost.jp/?p=695218</id>
+        <link href="https://coinpost.jp/?p=695218"/>
+        <updated>2026-03-18T01:50:38.000Z</updated>
+        <summary type="html"><![CDATA[ペイパルは、ステーブルコインPYUSDを世界の70のマーケットで利用できるようにしていると発表。より包摂的でグローバルな商取引のエコシステムを構築していくと述べている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン・イーサリアム先物で強気姿勢拡大、売り圧リスクも＝クリプトクアント分析]]></title>
+        <id>https://coinpost.jp/?p=695212</id>
+        <link href="https://coinpost.jp/?p=695212"/>
+        <updated>2026-03-18T01:26:10.000Z</updated>
+        <summary type="html"><![CDATA[クリプトクアントのレポートによると、仮想通貨BTC・ETHの先物市場で短期的な上昇期待が観測されている。今後の抵抗線も分析している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サム・アルトマン支援のWorld、AIエージェント向け本人確認ツール「AgentKit」を発表]]></title>
+        <id>https://coinpost.jp/?p=695225</id>
+        <link href="https://coinpost.jp/?p=695225"/>
+        <updated>2026-03-18T00:47:04.000Z</updated>
+        <summary type="html"><![CDATA[サム・アルトマン共同創業のWorldが、AIエージェントに本人確認機能を付与する開発者ツールキット「AgentKit」のベータ版を公開。コインベースのAI決済プロトコル「x402」と統合し、ゼロ知識証明で個人情報を守りながら人間の存在を証明できる。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
