@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-19T13:40:56.002Z</updated>
+    <updated>2026-03-19T15:03:42.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aptosとは？HashPort Wallet採用のL1ブロックチェーンの特徴・将来性を解説]]></title>
+        <id>https://ec2-13-114-170-70.ap-northeast-1.compute.amazonaws.com/?p=695848</id>
+        <link href="https://coinpost.jp/?p=695848"/>
+        <updated>2026-03-19T15:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Aptosの特徴・技術・APTトークン・最新動向を解説。Move言語採用のL1ブロックチェーンで、50ms未満のブロックタイムや25,000TPSの高速処理を実現。日本市場への展開や機関投資家の参入も進む。]]></summary>
+        <author>
+            <name>Ritsuki.Kumazawa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【3/19話題】S＆P500連動無期限デリバティブがハイリキで24h取扱、国内初のUSDCレンディング、SECがナスダックのトークン化証券取引を承認など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=558217</id>
+        <link href="https://www.neweconomy.jp/posts/558217"/>
+        <updated>2026-03-19T14:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTX、第4回の弁済として3月末から債権者に22億ドルを分配]]></title>
         <id>https://www.nadanews.com/?p=341530</id>
@@ -2103,27 +2123,6 @@ USDC取引量、USDTを2019年以来初めて上回る──Circleの目標株�
         <updated>2026-03-15T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[【CoinDesk Summary】 ● ブロックチェーン関連プロジェクトの開発活動は2025年初め以降大きく減少しており、週間の暗号資産関連コードの更新数は約 ...
 暗号資産関連コードの更新数、75％減──開発者はAIプロジェクトに移行 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン底堅さも上値重く、FOMCとイラン情勢が焦点｜bitbankアナリスト寄稿]]></title>
-        <id>https://coinpost.jp/?p=694591</id>
-        <link href="https://coinpost.jp/?p=694591"/>
-        <updated>2026-03-15T02:30:22.000Z</updated>
-        <summary type="html"><![CDATA[今週のBTC円相場は1140万円台で底堅く推移。イラン紛争長期化による原油高・米金利上昇が上値を圧迫する一方、財政懸念の高まりはBTC支援材料となる可能性も。17〜18日のFOMCでのタカ派シフトリスクにも注目。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP、ネットワーク利用拡大でもトークン価値は低迷]]></title>
-        <id>https://www.nadanews.com/?p=340958</id>
-        <link href="https://www.nadanews.com/340958/"/>
-        <updated>2026-03-15T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[【CoinDesk Summary】 ● XRP Ledger（暗号資産XRPの基盤ブロックチェーン）のアクティビティは、1日あたりの決済件数が270万件超、A ...
-XRP、ネットワーク利用拡大でもトークン価値は低迷 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
         </author>
