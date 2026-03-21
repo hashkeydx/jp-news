@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-21T10:44:59.296Z</updated>
+    <updated>2026-03-21T11:34:14.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米トランプ政権、『国民が人工知能から恩恵を得られる』国家AI政策を発表]]></title>
+        <id>https://coinpost.jp/?p=695948</id>
+        <link href="https://coinpost.jp/?p=695948"/>
+        <updated>2026-03-21T11:02:30.000Z</updated>
+        <summary type="html"><![CDATA[米ホワイトハウスが国家AI政策の枠組みを発表した。子どもの保護、著作権の尊重、表現の自由、イノベーション促進など6つの主要目標を掲げ、議会との連携で立法化を目指す。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン長期保有者の売却減少も、警戒モード維持＝ヴァンエック]]></title>
+        <id>https://coinpost.jp/?p=695940</id>
+        <link href="https://coinpost.jp/?p=695940"/>
+        <updated>2026-03-21T10:55:25.000Z</updated>
+        <summary type="html"><![CDATA[ヴァンエックはビットコイン市場の最新レポートを発表。長期保有者の売り圧は低下傾向だが、依然として市場は調整局面の可能性があると解説した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clarity法案、ステーブルコイン利回りで妥協案──上院審議前進]]></title>
         <id>https://www.nadanews.com/?p=341770</id>
@@ -1807,28 +1827,6 @@ JPモルガンの融資担保解禁、Bitmineの5000ETH取得、ブラックロ�
         <summary type="html"><![CDATA[OpenSea（オープンシー）が3月30日に予定していた独自トークン「SEA」のローンチ延期を発表。厳しい市場環境を理由とし、3月31日から60日間の取引手数料0%化や、過去の手数料返還を伴うユーザー補償策を実施する。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIモデルの90%以上が法定通貨より暗号資産を選好──ブロックチェーンは自律型AIエージェントの決済インフラになり得るか【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=341188</id>
-        <link href="https://www.nadanews.com/341188/"/>
-        <updated>2026-03-16T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年3月3日、米国の超党派・非営利研究機関であるBitcoin Policy Institute（BPI）が、最先端のAIモデルが自律的な経済主体として機 ...
-AIモデルの90%以上が法定通貨より暗号資産を選好──ブロックチェーンは自律型AIエージェントの決済インフラになり得るか【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トップアナリストの見方が変化：unbiasとCryptoQuantが示すビットコイン回復の兆し【エックスウィンリサーチ】]]></title>
-        <id>https://www.nadanews.com/?p=341165</id>
-        <link href="https://www.nadanews.com/341165/"/>
-        <updated>2026-03-16T22:49:14.000Z</updated>
-        <summary type="html"><![CDATA[● unbiasの分析では、2026年3月に入りトップアナリストの市場センチメントが徐々に強気へ転換している。● CryptoQuantアナリストはNUPL回復 ...
-トップアナリストの見方が変化：unbiasとCryptoQuantが示すビットコイン回復の兆し【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>XWIN Research</name>
         </author>
     </entry>
 </feed>
