@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-23T11:54:32.467Z</updated>
+    <updated>2026-03-23T13:46:43.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【3/23話題】アニモカがアバラボへ戦略的投資、スイのBTC金融基盤Hashi、BTQがBIP360をテストネットで初実装など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=558796</id>
+        <link href="https://www.neweconomy.jp/posts/558796"/>
+        <updated>2026-03-23T12:18:45.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grayscale、HYPE現物ETFをSECに申請]]></title>
         <id>https://www.nadanews.com/?p=342048</id>
@@ -1078,56 +1088,6 @@ Flow Traders、トークン化資産に24時間365日の流動性を提供する
         <link href="https://coinpost.jp/?p=695552"/>
         <updated>2026-03-19T02:40:21.000Z</updated>
         <summary type="html"><![CDATA[2013年に332ドルでビットコインを取得したクジラが1000BTCを追加売却し、累計の実現益は約3.3億ドルに達した。一方、イーサリアム市場では7カ月間休眠していたクジラが1.1億ドル相当のETHを買い戻し、弱気相場における大口投資家の対照的な行動が注目を集めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォールド2025年決算、純損失110億円の背景　BTC報酬カードで成長狙う]]></title>
-        <id>https://coinpost.jp/?p=695483</id>
-        <link href="https://coinpost.jp/?p=695483"/>
-        <updated>2026-03-19T01:45:55.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインの金融企業フォールドが2025年通期決算を発表。純損失110億円の要因と、ビザ・ストライプ提携のBTC報酬クレジットカードなど新事業を解説する。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国トレーダー、ステーブルコインのイールド獲得経験が6割超＝OKX調査]]></title>
-        <id>https://coinpost.jp/?p=695530</id>
-        <link href="https://coinpost.jp/?p=695530"/>
-        <updated>2026-03-19T01:40:03.000Z</updated>
-        <summary type="html"><![CDATA[OKXが米国トレーダー1,000人を対象に実施した調査で、9割超がCeFi・DeFi統合モデルを「魅力的」と回答。セキュリティ不安を最大障壁としながらも、オンチェーン参入への強い関心が明らかになった。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決済向けL1「テンポ」がメインネットをローンチ、AIエージェント向け機能も提供]]></title>
-        <id>https://coinpost.jp/?p=695476</id>
-        <link href="https://coinpost.jp/?p=695476"/>
-        <updated>2026-03-19T01:12:31.000Z</updated>
-        <summary type="html"><![CDATA[決済向けL1ブロックチェーンのテンポがメインネットをローンチ。同時にAIエージェント向け機能の提供を開始しており、仮想通貨ビットコインにも利用されている。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン失速、パウエル発言と原油高が市場直撃｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=695490</id>
-        <link href="https://coinpost.jp/?p=695490"/>
-        <updated>2026-03-19T01:02:39.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは7万ドル台付近まで下落し、円建てでは一時60万円幅の下落となった。背景には、パウエルFRB議長が「原油価格の大幅な上昇を反映して、短期的なインフレ期待の指標が上昇している」と述べたことがある。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンスがHOOKなど8銘柄を上場廃止へ、4月1日に取引停止]]></title>
-        <id>https://coinpost.jp/?p=695475</id>
-        <link href="https://coinpost.jp/?p=695475"/>
-        <updated>2026-03-19T00:30:45.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスが、HOOK、RDNT、LRC、SXPを含む計8銘柄の上場廃止を決定した。4月1日に全通貨ペアの取引が停止予定であり、ユーザーは6月1日までの出金対応が必要となる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
