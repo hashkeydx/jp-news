@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-23T09:11:15.591Z</updated>
+    <updated>2026-03-23T11:07:24.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Morgan Stanley、ビットコインETFの修正届出書を提出]]></title>
+        <id>https://www.nadanews.com/?p=342039</id>
+        <link href="https://www.nadanews.com/342039/"/>
+        <updated>2026-03-23T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Morgan Stanley（モルガン・スタンレー）は、ビットコイン（BTC）現物ETF（上場投資信託）「Morgan Stanley Bitcoin Trus ...
+Morgan Stanley、ビットコインETFの修正届出書を提出 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンチェーン決済とAIエージェントは、広告依存のウェブを根本から変える：a16z Crypto]]></title>
+        <id>https://www.nadanews.com/?p=342032</id>
+        <link href="https://www.nadanews.com/342032/"/>
+        <updated>2026-03-23T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[a16z（アンドリーセン・ホロウィッツ）CryptoのSam Ragsdale（サム・ラグスデール）氏はブログ記事で、AIエージェントが購買行動を代替する「オー ...
+オンチェーン決済とAIエージェントは、広告依存のウェブを根本から変える：a16z Crypto first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デジタル証券社のST、SBI証券で販売へ──資本業務提携を発表]]></title>
         <id>https://www.nadanews.com/?p=342027</id>
@@ -1105,68 +1127,6 @@ Flow Traders、トークン化資産に24時間365日の流動性を提供する
         <link href="https://coinpost.jp/?p=695464"/>
         <updated>2026-03-18T23:30:12.000Z</updated>
         <summary type="html"><![CDATA[トランプ一族が関与するマイニング・財務企業アメリカン・ビットコインのビットコイン保有量が6899BTCに達し、マイク・ノボグラッツ氏率いるギャラクシー・デジタルを抜いて企業別保有ランキング16位に浮上した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインのハッシュレートが8%低下、エネルギー高騰とマイニング業界の依存度]]></title>
-        <id>https://coinpost.jp/?p=695457</id>
-        <link href="https://coinpost.jp/?p=695457"/>
-        <updated>2026-03-18T22:50:27.000Z</updated>
-        <summary type="html"><![CDATA[イラン紛争によるエネルギー市場の混乱と価格高騰を背景に、ビットコインのハッシュレートが1週間で8%低下した。難易度調整は過去5年で最大級の下方修正が見込まれる一方、ネットワークの安全性への影響は限定的との見解もある。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[パウエル議長発言後のビットコイン反応に見る市場構造──「期待先行相場」から「流動性検証フェーズ」へ【エックスウィンリサーチ】]]></title>
-        <id>https://www.nadanews.com/?p=341467</id>
-        <link href="https://www.nadanews.com/341467/"/>
-        <updated>2026-03-18T22:28:48.000Z</updated>
-        <summary type="html"><![CDATA[● パウエル議長発言で利下げ期待が後退し、ビットコインは短期的に下落● ETF保有増加と取引所残高減少が同時進行し、供給圧縮は継続● 短期はマクロ主導の調整局面 ...
-パウエル議長発言後のビットコイン反応に見る市場構造──「期待先行相場」から「流動性検証フェーズ」へ【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>XWIN Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米格付け大手ムーディーズ、オンチェーン信用分析を提供へ　最初はカントンネットワークに対応]]></title>
-        <id>https://coinpost.jp/?p=695459</id>
-        <link href="https://coinpost.jp/?p=695459"/>
-        <updated>2026-03-18T22:25:36.000Z</updated>
-        <summary type="html"><![CDATA[米格付け大手ムーディーズは、ネットワークにとらわれないソリューションをローンチし、オンチェーン信用分析を提供することを発表。まずはカントンネットワークに対応する。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ一族関連企業American Bitcoin、BTC保有量でGalaxy Digitalを上回る]]></title>
-        <id>https://www.nadanews.com/?p=341462</id>
-        <link href="https://www.nadanews.com/341462/"/>
-        <updated>2026-03-18T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[トランプ一族が関与するビットコイン（BTC）マイニング・トレジャリー企業American Bitcoin（アメリカン・ビットコイン）が、ビットコイン保有量で暗号 ...
-トランプ一族関連企業American Bitcoin、BTC保有量でGalaxy Digitalを上回る first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラーケンIPO無期限延期か、「仮想通貨の冬」が影響]]></title>
-        <id>https://coinpost.jp/?p=695448</id>
-        <link href="https://coinpost.jp/?p=695448"/>
-        <updated>2026-03-18T21:45:20.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所クラーケンが市場環境の悪化を理由にIPO計画を無期限延期した。2025年11月に評価額200億ドルで8億ドルを調達し上場準備を進めていたが、ビットコインがピーク比43%超下落する中、投資家需要の低迷を受けて上場時期を見直している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米クラリティー法案、4月採決へ「5月が事実上の期限」]]></title>
-        <id>https://coinpost.jp/?p=695446</id>
-        <link href="https://coinpost.jp/?p=695446"/>
-        <updated>2026-03-18T21:30:16.000Z</updated>
-        <summary type="html"><![CDATA[米上院銀行委員会が4月後半にクラリティー法案のマークアップ審議を実施する方針を固めた。共和党モレノ議員は5月21日の議会休会前の可決が事実上の期限と警告しており、ステーブルコイン利回り妥協案の行方が法案成立の鍵を握っている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
