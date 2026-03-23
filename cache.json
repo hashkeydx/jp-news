@@ -445,6 +445,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=696162",
+          "author": "Enzo",
+          "description": "先週の米国ビットコイン現物ETFは9,518万ドルの純流入を記録し、4週連続の純流入で2026年最長記録を更新した。ただし週後半は3日連続で流出し、3億ドル超が流出した。",
+          "link": "https://coinpost.jp/?p=696162",
+          "publishedOn": "2026-03-23T05:40:06.000Z",
+          "wordCount": 3968,
+          "title": "米ビットコイン現物ETF、先週は4週連続の純流入も週後半に失速",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-btc-etf-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-btc-etf-pic.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696127",
+          "author": "Enzo",
+          "description": "ビットコインのマイニング難易度が3月20日に7.76%下落し133.79Tとなった。2026年で2番目の大幅調整で、採掘コストと市場価格の逆ざやや中東情勢による電力コスト上昇が要因。",
+          "link": "https://coinpost.jp/?p=696127",
+          "publishedOn": "2026-03-23T04:57:37.000Z",
+          "wordCount": 3971,
+          "title": "ビットコインのマイニング難易度が7.76%下落、2026年2番目の大幅調整",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/ore-mining-pause-for-good.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/ore-mining-pause-for-good.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=696041",
           "author": "A.Yamada",
           "description": "インド大手仮想通貨取引所CoinDCXの共同創業者2名が逮捕された。同社は、なりすまし詐欺による犯行であり冤罪だと声明を出している。",
@@ -1126,6 +1156,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=558749",
+          "author": "watanabeyousuke",
+          "description": "BTQがBIP360をテストネットで初実装 量子対策技術企業のBTQテクノロジーズ（BTQ Technologies）が、ビットコイン（Bitcoin）の量子耐性に関する改善提案「BIP360」の初の動作実装を、同社の「 […]",
+          "link": "https://www.neweconomy.jp/posts/558749",
+          "publishedOn": "2026-03-23T06:17:39.000Z",
+          "wordCount": 810,
+          "title": "BTQテクノロジーズ、ビットコイン量子耐性提案「BIP360」をテストネットで初実装",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/23151732/2daa7ee0c9181e5baac2048f35d90ba1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=558730",
+          "author": "HitomotoToshikazu",
+          "description": "GSRがトークン立ち上げ支援の2社を買収 暗号資産（仮想通貨）マーケットメイカーのGSRが、トークン発行体の支援強化に向け、トークンの立ち上げと運営支援を担うオートノマス（Autonomous）と流動性戦略を手がけるアー […]",
+          "link": "https://www.neweconomy.jp/posts/558730",
+          "publishedOn": "2026-03-23T05:51:53.000Z",
+          "wordCount": 782,
+          "title": "GSR、オートノマスとアーキテックを57Mドルで買収、トークン発行体支援を強化へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/23145043/420769c0a37012542f61bff7e017d94f.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=558723",
           "author": "OtsugaShinya",
