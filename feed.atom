@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-24T11:09:45.789Z</updated>
+    <updated>2026-03-24T11:57:07.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TORICOがイーサリアム追加購入、総取得数2382ETH超に]]></title>
+        <id>https://www.neweconomy.jp/?p=559250</id>
+        <link href="https://www.neweconomy.jp/posts/559250"/>
+        <updated>2026-03-24T11:49:40.000Z</updated>
+        <summary type="html"><![CDATA[TORICOがイーサリアム追加購入 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を3月24日に発表した。 […]]]></summary>
+        <author>
+            <name>mikajirikoka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[暗号資産取引所Backpack、独自トークン「BP」を発行──総供給量の25%をエアドロップ]]></title>
         <id>https://www.nadanews.com/?p=342135</id>
@@ -1214,26 +1224,6 @@ Coinbaseのビットコイン利回りファンド、オンチェーン化へ─
 Clarity Act、上院公聴会に向け前進──法案修正をめぐる駆け引き続く first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所Gemini、2025年通年決算を発表　人員を年初から約30%削減]]></title>
-        <id>https://coinpost.jp/?p=695856</id>
-        <link href="https://coinpost.jp/?p=695856"/>
-        <updated>2026-03-19T23:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Geminiが2025年通年決算を発表。第4四半期売上高は3年ぶり最高となる6,030万ドルを記録した一方、AI活用を背景に年初から人員を約30%削減。幹部3名の退任や海外市場撤退など構造改革を加速させている。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLB、ポリマーケットを公式予測市場パートナーに指定]]></title>
-        <id>https://coinpost.jp/?p=695853</id>
-        <link href="https://coinpost.jp/?p=695853"/>
-        <updated>2026-03-19T23:14:46.000Z</updated>
-        <summary type="html"><![CDATA[MLBは予測市場プラットフォーム「ポリマーケット」を公式パートナーに指定し、CFTCとの覚書も締結。試合の健全性保護を軸とした包括的な枠組みを構築する。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
