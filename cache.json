@@ -545,6 +545,51 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=696724",
+          "author": "菊谷ルイス",
+          "description": "ブラックロックのラリー・フィンクCEOが2026年株主レターで仮想通貨事業の2030年5億ドル収益目標を表明。ビットコインETFの550億ドル超の運用残高を背景に、機関投資家のデジタル資産戦略が転換点を迎えている。",
+          "link": "https://coinpost.jp/?p=696724",
+          "publishedOn": "2026-03-25T04:55:02.000Z",
+          "wordCount": 4084,
+          "title": "ブラックロック、2030年までに仮想通貨収益800億円を目標に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/blackrock-bitcoin.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696699",
+          "author": "幸田直子",
+          "description": "イーサリアム財団が、8年以上にわたる研究成果を集約した量子耐性（PQ）セキュリティの専用ポータルを開設した。量子リスクは差し迫った脅威ではないが、分散型グローバルプロトコルの移行には数年の準備と徹底的な検証が必要であるため、イーサリアムはPQ転換への取り組みを進めている。",
+          "link": "https://coinpost.jp/?p=696699",
+          "publishedOn": "2026-03-25T04:30:32.000Z",
+          "wordCount": 3596,
+          "title": "イーサリアム、量子時代に備え8年超の研究成果公開　2029年完全移行へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=696674",
+          "author": "A.Yamada",
+          "description": "ビットゴーとサスケハナ・クリプトが提携し、機関投資家が仮想通貨などを担保に予測市場イベント契約を取引できる新サービスを開始する。",
+          "link": "https://coinpost.jp/?p=696674",
+          "publishedOn": "2026-03-25T04:05:10.000Z",
+          "wordCount": 3995,
+          "title": "保有資産をそのまま予測市場で運用、大手ビットゴーが機関投資家向け新サービス開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/bitgo-ny-trust-license.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/bitgo-ny-trust-license.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=696684",
           "author": "Enzo",
           "description": "SBI VCトレードが国内初のカントンコイン（CANTON）・ベラ（BERA）取扱いを開始。取扱い銘柄は40銘柄に拡大。総額1,000万円相当、最大10万円が当たるキャンペーンも4月30日まで開催中。",
@@ -1286,6 +1331,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=559572",
+          "author": "gentosha_takahashi",
+          "description": "CFTCがタスクフォース始動 米商品先物取引委員会（CFTC）のマイケル・S・セリグ（Michael Selig）委員長が、「イノベーション・タスクフォース（Innovation Task Force）」の設立を3月24 […]",
+          "link": "https://www.neweconomy.jp/posts/559572",
+          "publishedOn": "2026-03-25T05:33:54.000Z",
+          "wordCount": 608,
+          "title": "CFTCがイノベーション・タスクフォース設立。予測市場やAIの規制整備を加速",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25143341/2952bc0d0e8e93648157c26f42b03071.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559541",
+          "author": "HitomotoToshikazu",
+          "description": "イーサリアム財団がMorphoにETH追加預入 イーサリアム財団（Ethereum Foundation）が、分散型レンディングプロトコル「モルフォ（Morpho）」への、暗号資産（仮想通貨）イーサリアム（ETH）の追加 […]",
+          "link": "https://www.neweconomy.jp/posts/559541",
+          "publishedOn": "2026-03-25T03:28:23.000Z",
+          "wordCount": 785,
+          "title": "イーサリアム財団、DeFi「モルフォ」に3400ETH追加預け入れ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25122724/d9f0f5498fa9182951119978ba89d3a4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=559536",
+          "author": "HitomotoToshikazu",
+          "description": "ビットゴーMCPサーバーが提供開始 デジタル資産インフラ企業ビットゴーホールディングス（BitGo Holdings）が、開発者向けリソースを自然言語で参照できる「ビットゴーMCPサーバー（BitGo Model Con […]",
+          "link": "https://www.neweconomy.jp/posts/559536",
+          "publishedOn": "2026-03-25T03:26:01.000Z",
+          "wordCount": 741,
+          "title": "ビットゴー、開発者向けリソースを自然言語で参照できるMCPサーバー提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25122534/3dce7a538ae42f706ce36c40d5f5654a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=559527",
           "author": "watanabeyousuke",
