@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-26T05:48:36.012Z</updated>
+    <updated>2026-03-26T07:35:24.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ripple、シンガポール中銀のイニシアチブに参加──貿易決済でRLUSD活用へ]]></title>
+        <id>https://www.nadanews.com/?p=342437</id>
+        <link href="https://www.nadanews.com/342437/"/>
+        <updated>2026-03-26T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Ripple（リップル）は3月25日、シンガポールの中央銀行にあたるシンガポール金融管理局（MAS）が主導するイニシアチブ「BLOOM」に参加すると発表した。  ...
+Ripple、シンガポール中銀のイニシアチブに参加──貿易決済でRLUSD活用へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビザ、カントンのスーパーバリデーターに参画。金融機関のオンチェーン決済を支援]]></title>
+        <id>https://www.neweconomy.jp/?p=559946</id>
+        <link href="https://www.neweconomy.jp/posts/559946"/>
+        <updated>2026-03-26T06:38:22.000Z</updated>
+        <summary type="html"><![CDATA[ビザがカントンでスーパーバリデーターに参画 決済大手のビザ（Visa）が、ブロックチェーンネットワーク「カントン（Canton Network）」においてスーパーバリデーターとして参加すると3月25日に発表した。ビザは、 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ財団プレジデント、「ブロックチェーン上のゲームは戻ってこない」と言及]]></title>
+        <id>https://www.neweconomy.jp/?p=559924</id>
+        <link href="https://www.neweconomy.jp/posts/559924"/>
+        <updated>2026-03-26T06:12:52.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ財団リウが「ブロックチェーン上のゲームは戻ってこない」と言及 ソラナ財団（Solana Foundation）のプレジデントであるリリー・リウ（Lily Liu）氏が、「ブロックチェーン上のゲームは戻ってこない」と […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーサリアム系研究開発組織、ウォレット復旧機能「ソーシャルリカバリーSDK」公開]]></title>
         <id>https://www.neweconomy.jp/?p=559909</id>
