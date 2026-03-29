@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=342868",
+          "author": "NADA NEWS編集部",
+          "description": "【CoinDesk Summary】 ● Morgan Stanley（モルガン・スタンレー）は、手数料14ベーシスポイントのビットコイン現物ETFの立ち上げを ...\nモルガン・スタンレー、14bpの低手数料でビットコインETF参入──手数料競争が再燃か first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/342868/",
+          "publishedOn": "2026-03-29T00:00:00.000Z",
+          "wordCount": 1618,
+          "title": "モルガン・スタンレー、14bpの低手数料でビットコインETF参入──手数料競争が再燃か",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/nadanews_top-73-2.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=342826",
           "author": "橋本 祐樹",
           "description": "自民党のデジタル社会推進本部（平井卓也本部長）の下に、新たなプロジェクトチーム「次世代のAI・オンチェーン金融構想PT」が発足した。発起人は前デジタル大臣で、A ...\n【独占】「金融庁や財務省に緊張感」──自民党「次世代のAI・オンチェーン金融構想PT」が発足、発起人・平将明議員が語る狙い／OKX、米国株「マグニフィセント・セブン」の無期限先物を提供開始【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -690,16 +700,6 @@
           "wordCount": 1618,
           "title": "NYSEとSecuritize、トークン化証券市場の開発で提携",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2452656115.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342217",
-          "author": "橋本 祐樹",
-          "description": "暗号資産（仮想通貨）取引所OKXはは24日、株式を対象とした無期限先物（パーペチュアル）取引の提供を開始したと発表した。トレーダーは暗号資産を担保に、主要株式や ...\nOKX、米国株「マグニフィセント・セブン」の無期限先物を提供開始——暗号資産担保に主要銘柄へ24時間アクセス first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342217/",
-          "publishedOn": "2026-03-24T12:06:07.000Z",
-          "wordCount": 1599,
-          "title": "OKX、米国株「マグニフィセント・セブン」の無期限先物を提供開始——暗号資産担保に主要銘柄へ24時間アクセス",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2454781387.jpg"
         }
       ]
     },
@@ -714,6 +714,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=697419",
+          "author": "CoinPost編集部",
+          "description": "米・イラン間の停戦協議をめぐる不透明感が続くなか、BTCは1,100万円近辺で推移。ナスダックが調整入りするなかでも底堅さを維持しており、消去法的な逃避需要が意識され始めている。戦争の長期化懸念と協議の行方が、今後の方向感を左右する鍵となろう。",
+          "link": "https://coinpost.jp/?p=697419",
+          "publishedOn": "2026-03-29T02:30:43.000Z",
+          "wordCount": 4484,
+          "title": "ビットコイン地政学リスク下でも底堅さ維持、停戦協議の行方が焦点｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=697184",
+          "author": "CoinPost編集部",
+          "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+          "link": "https://coinpost.jp/?p=697184",
+          "publishedOn": "2026-03-29T00:30:58.000Z",
+          "wordCount": 3634,
+          "title": "今週の主要仮想通貨材料まとめ、ビットコイン底打ちの兆候やリップルのBLOOM参加など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=697217",
+          "author": "CoinPost編集部",
+          "description": "今週は、堀江貴文氏の仮想通貨イーサリアムの復旧成功、イーロン・マスク氏率いる宇宙開発企業SpaceXのIPO計画、グーグルの量子リスクに対する見解に関する記事が関心を集めた。",
+          "link": "https://coinpost.jp/?p=697217",
+          "publishedOn": "2026-03-29T00:25:29.000Z",
+          "wordCount": 3327,
+          "title": "週刊仮想通貨ニュース｜堀江貴文氏の400ETH復旧成功やグーグルの量子リスクへの見解に高い関心",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=697631",
           "author": "菊谷ルイス",
@@ -2355,26 +2400,6 @@
           "wordCount": 787,
           "title": "国内初、SBI VCトレードにカントンコイン（CANTON）とベラ（BERA）上場",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/25113333/626649358f33173b8ba7074a4b105e99.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=559471",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/559471",
-          "publishedOn": "2026-03-24T12:36:08.000Z",
-          "wordCount": 636,
-          "title": "【3/24話題】自民党に次世代AI・オンチェーン金融構想PT設置、バックパックの独自トークン「BP」ローンチ、ビットトレードにHBAR上場へなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/24205903/f353e10bcc2cb48af24faf8bc95c4ec7.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=559250",
-          "author": "mikajirikoka",
-          "description": "TORICOがイーサリアム追加購入 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を3月24日に発表した。 […]",
-          "link": "https://www.neweconomy.jp/posts/559250",
-          "publishedOn": "2026-03-24T11:49:40.000Z",
-          "wordCount": 734,
-          "title": "TORICOがイーサリアム追加購入、総取得数2382ETH超に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/24204933/7b9b98df53181742faf9514afe1471c2.jpg"
         }
       ]
     }
