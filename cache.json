@@ -550,16 +550,6 @@
           "wordCount": 1632,
           "title": "英国、暗号資産による政治献金を一時禁止",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2524974399.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342341",
-          "author": "橋本 祐樹",
-          "description": "Startale Group（スターテイル・グループ）は米時間25日、シリーズAラウンドの2ndクローズとして、SBIホールディングスから約80億円の資金調達を ...\nスターテイル、SBIグループから80億円調達──シリーズA総額100億円に、金融・エンタメのオンチェーン化を加速 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342341/",
-          "publishedOn": "2026-03-25T17:00:00.000Z",
-          "wordCount": 1608,
-          "title": "スターテイル、SBIグループから80億円調達──シリーズA総額100億円に、金融・エンタメのオンチェーン化を加速",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/4d99762a23014461f1ee31007954f9a9.jpg"
         }
       ]
     },
@@ -574,6 +564,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=697720",
+          "author": "A.Yamada",
+          "description": "ゴールドマン・サックスのアナリストがビットコインなど仮想通貨市場の底打ち可能性を指摘した。一方で取引量の減少は今後も続く可能性があると分析している。",
+          "link": "https://coinpost.jp/?p=697720",
+          "publishedOn": "2026-03-30T04:11:57.000Z",
+          "wordCount": 4015,
+          "title": "ゴールドマン・サックス「ビットコイン市場は底打ちした可能性」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/goldmansachsBTC.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/goldmansachsBTC.png"
+        },
         {
           "id": "https://coinpost.jp/?p=697706",
           "author": "Enzo",
@@ -1601,6 +1606,76 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=560851",
+          "author": "HitomotoToshikazu",
+          "description": "Anchorage DigitalがTRON対応へ 暗号資産（仮想通貨）カストディ（保管）企業アンカレッジデジタル（Anchorage Digital）が、トロン（TRON）ブロックチェーンへの対応予定を3月26日に発表 […]",
+          "link": "https://www.neweconomy.jp/posts/560851",
+          "publishedOn": "2026-03-30T05:50:13.000Z",
+          "wordCount": 658,
+          "title": "アンカレッジデジタルがトロン対応へ、TRX保管とステーキング機能提供に向け",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/30144942/0fbb93faddf5f694a6c2af78dbe36992.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560839",
+          "author": "HitomotoToshikazu",
+          "description": "NonagonがJPYSCの実証と事業開発へ 東証グロース上場ホットリンクのグループ企業ノナゴンキャピタル（Nonagon Capital）と、日本円建て信託型ステーブルコイン「JPYSC」の開発を進めるスターテイルグル […]",
+          "link": "https://www.neweconomy.jp/posts/560839",
+          "publishedOn": "2026-03-30T05:43:55.000Z",
+          "wordCount": 635,
+          "title": "ホットリンクG傘下のNonagon Capitalとスターテイルが提携、円ステーブルコイン「JPYSC」の実証と事業開発へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/30144339/71047ae3da347053a7a9eb9b0f12b240.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560827",
+          "author": "watanabeyousuke",
+          "description": "XRPL、AI活用で脆弱性検知を強化 米リップル（Ripple）が、分散型台帳「XRPレジャー（XRP Ledger：XRPL）」のセキュリティ強化に向けた、AI活用の新たな取り組みを3月26日に発表した。 発表によると […]",
+          "link": "https://www.neweconomy.jp/posts/560827",
+          "publishedOn": "2026-03-30T05:27:53.000Z",
+          "wordCount": 611,
+          "title": "リップル、XRPLのセキュリティ強化にAI導入。次回リリースは不具合修正に専念",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/30142731/5c18f669053dc83af1c94ad2300d861c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560781",
+          "author": "HitomotoToshikazu",
+          "description": "日本チェーンドラッグストア協会でDCJPY活用へ デジタル通貨事業を手がけるディーカレットDCP（DeCurret DCP）が、日本チェーンドラッグストア協会（JACDS）会員向けに、トークン化預金「DCJPY」の利用検 […]",
+          "link": "https://www.neweconomy.jp/posts/560781",
+          "publishedOn": "2026-03-30T05:06:18.000Z",
+          "wordCount": 744,
+          "title": "ディーカレットDCPと日本チェーンドラッグストア協会、会員向けにトークン化預金「DCJPY」の活用検討開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/30140519/63d6bb5688f34e7239a20546de9f82e4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560758",
+          "author": "HitomotoToshikazu",
+          "description": "MetaMaskがハイパーEVMに対応 暗号資産（仮想通貨）ウォレットのメタマスク（MetaMask）のハイパーEVM（HyperEVM）への対応開始が3月27日に発表された。 今回の対応により、ハイパーEVMをメタマス […]",
+          "link": "https://www.neweconomy.jp/posts/560758",
+          "publishedOn": "2026-03-30T04:56:13.000Z",
+          "wordCount": 760,
+          "title": "Web3ウォレット「メタマスク」、ハイパーEVMのサポート開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/30135557/5a1cc489fc6ce2b538d1196294e78aa0.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560746",
+          "author": "HitomotoToshikazu",
+          "description": "TempoでUSDT0が展開 オムニチェーン対応ステーブルコイン「USDT0」が、米決済大手ストライプ（Stripe）と暗号資産（仮想通貨）VCパラダイム（Paradigm）がインキュベートする、レイヤー1ブロックチェー […]",
+          "link": "https://www.neweconomy.jp/posts/560746",
+          "publishedOn": "2026-03-30T04:49:32.000Z",
+          "wordCount": 777,
+          "title": "オムニチェーン対応ステーブルコイン「USDT0」、ストライプとパラダイム関与の「テンポ」で展開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/30134846/b9de93eb8631f02dee5c4d413a8a1204.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=560736",
+          "author": "HitomotoToshikazu",
+          "description": "Pacific MetaがAIエージェントプロダクト運用開始 パシフィックメタ（Pacific Meta）が、AIエージェントを用いてブロックチェーン上の取引を自律実行するアセットマネジメントプロダクト「オートファンド（ […]",
+          "link": "https://www.neweconomy.jp/posts/560736",
+          "publishedOn": "2026-03-30T04:32:25.000Z",
+          "wordCount": 759,
+          "title": "パシフィックメタ、AIエージェントでブロックチェーン上の取引を自律実行する「オートファンド」をテスト運用開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/30133204/c3983b0eabe54912c2ca665c64e098a0.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=560689",
           "author": "watanabeyousuke",
