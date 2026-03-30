@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-30T21:55:51.232Z</updated>
+    <updated>2026-03-30T22:55:03.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カルダノ創業者が4世代型ブロックチェーン「ミッドナイト」をローンチ、グーグル・クラウドなどが初期ノード参加]]></title>
+        <id>https://coinpost.jp/?p=697982</id>
+        <link href="https://coinpost.jp/?p=697982"/>
+        <updated>2026-03-30T22:15:09.000Z</updated>
+        <summary type="html"><![CDATA[カルダノ創業者チャールズ・ホスキンソン氏が主導するプライバシー特化ブロックチェーン「ミッドナイト」が本番稼働を開始。グーグル・クラウドやマネーグラムなど大手機関が初期ノードオペレーターとして参加し、現実資産のオンチェーン化に向けた新たな基盤が整った。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドル高でも耐えるビットコイン──裏で起きている資金の変化【エックスウィンリサーチ】]]></title>
+        <id>https://www.nadanews.com/?p=343012</id>
+        <link href="https://www.nadanews.com/343012/"/>
+        <updated>2026-03-30T22:07:50.000Z</updated>
+        <summary type="html"><![CDATA[● DXYは地政学リスクと金利上昇を背景に100超へ急回復● 従来の「ドル高＝BTC安」の逆相関は弱まりつつある● ETFとステーブル流動性が新たな下支え構造を ...
+ドル高でも耐えるビットコイン──裏で起きている資金の変化【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>XWIN Research</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square、米国数百万の事業者でビットコイン決済を自動有効化]]></title>
+        <id>https://www.nadanews.com/?p=343009</id>
+        <link href="https://www.nadanews.com/343009/"/>
+        <updated>2026-03-30T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Block（ブロック）傘下の決済サービスSquare（スクエア）は、米国内の対象となる数百万の中小事業者に対し、ビットコイン（BTC）決済機能を自動的に有効化 ...
+Square、米国数百万の事業者でビットコイン決済を自動有効化 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ビットコイン現物ETF、4週ぶり純流出に転換　イラン情勢緊迫とインフレ再燃を警戒]]></title>
+        <id>https://coinpost.jp/?p=697981</id>
+        <link href="https://coinpost.jp/?p=697981"/>
+        <updated>2026-03-30T21:35:07.000Z</updated>
+        <summary type="html"><![CDATA[米国のビットコイン現物ETFが直近1カ月の流入傾向を逆転させ、週間で約3億ドルの純流出を記録。イラン紛争の長期化とFRBの利上げ再開懸念を受け、業界No.1のブラックロックのIBITも大幅流出に見舞われた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストライブとタトル、ビットコイン優先株連動のレバレッジETF「DGCR」を米SECに申請]]></title>
+        <id>https://coinpost.jp/?p=697980</id>
+        <link href="https://coinpost.jp/?p=697980"/>
+        <updated>2026-03-30T21:10:05.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン財務会社ストライブとタトル・キャピタル・マネジメントが、ストラテジーとストライブの優先株に連動するレバレッジETF「DGCR」をSECに申請。低ボラ・高利回りの「デジタルクレジット」として個人投資家の需要を取り込む新商品に。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitmine、約7万1200ETHを追加購入──2026年最多の週間取得数]]></title>
         <id>https://www.nadanews.com/?p=343006</id>
@@ -1337,17 +1389,6 @@ Circleは2030年までに時価総額750億ドルに：Bitwise first appeared on
 Solana Foundation、企業向け開発プラットフォームを発表──Mastercardが導入 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、ポスト量子暗号への移行期限を2029年に設定]]></title>
-        <id>https://www.nadanews.com/?p=342577</id>
-        <link href="https://www.nadanews.com/342577/"/>
-        <updated>2026-03-26T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Google（グーグル）は、ポスト量子暗号（PQC）への移行を2029年までに完了する計画を発表した。量子コンピューターの進展が想定以上に速いことを背景に、既存 ...
-Google、ポスト量子暗号への移行期限を2029年に設定 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
