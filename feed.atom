@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-03-31T05:51:53.658Z</updated>
+    <updated>2026-03-31T07:42:56.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グラスノード、ハイパーリキッドのレイテンシー可視化ツール公開、東京が最も低遅延に]]></title>
+        <id>https://www.neweconomy.jp/?p=561222</id>
+        <link href="https://www.neweconomy.jp/posts/561222"/>
+        <updated>2026-03-31T07:35:22.000Z</updated>
+        <summary type="html"><![CDATA[ハイパーリキッドのバリデータは東京に集中 オンチェーン分析プラットフォームのグラスノード（Glassnode）が、分散型デリバティブ取引所ハイパーリキッド（Hyperliquid）に対する接続遅延（レイテンシー）を可視化 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットバンク、きらぼし銀行と5億円のコミットメントライン契約]]></title>
+        <id>https://www.neweconomy.jp/?p=561209</id>
+        <link href="https://www.neweconomy.jp/posts/561209"/>
+        <updated>2026-03-31T07:12:47.000Z</updated>
+        <summary type="html"><![CDATA[ビットバンクがきらぼし銀行とコミットメントライン契約 国内暗号資産交換業者のビットバンクが、総額5億円のコミットメントライン契約を、きらぼし銀行と締結したと3月31日に発表した。 コミットメントラインは、金融機関とその顧 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルダノ創業者構想のプライバシー対応ブロックチェーン「Midnight」稼働開始]]></title>
+        <id>https://www.neweconomy.jp/?p=561182</id>
+        <link href="https://www.neweconomy.jp/posts/561182"/>
+        <updated>2026-03-31T06:13:01.000Z</updated>
+        <summary type="html"><![CDATA[公開・非公開データを1つの取引で扱うハイブリッド台帳を採用 カルダノ（Cardano）の開発元であるインプット・アウトプット（Input Output）の創業者チャールズ・ホスキンソン（Charles Hoskinson […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スクエア、米対象事業者にビットコイン（BTC）決済を順次提供開始]]></title>
+        <id>https://www.neweconomy.jp/?p=561180</id>
+        <link href="https://www.neweconomy.jp/posts/561180"/>
+        <updated>2026-03-31T06:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Squareが対象事業者にBTC決済を順次提供 米決済ブランドのスクエア（Square）が、米国の対象事業者向けに、ビットコイン（BTC）決済機能の提供を順次開始した。スクエアが3月31日に公式Xで発表した。 この機能は […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KuCoin運営会社が米国から追放──司法省の2億9700万ドル巨額訴訟に続きCFTCが命令]]></title>
         <id>https://www.nadanews.com/?p=343052</id>

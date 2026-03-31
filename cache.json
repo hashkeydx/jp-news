@@ -530,7 +530,7 @@
       "articles": []
     },
     {
-      "title": "ハッキング  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1456,6 +1456,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=561222",
+          "author": "watanabeyousuke",
+          "description": "ハイパーリキッドのバリデータは東京に集中 オンチェーン分析プラットフォームのグラスノード（Glassnode）が、分散型デリバティブ取引所ハイパーリキッド（Hyperliquid）に対する接続遅延（レイテンシー）を可視化 […]",
+          "link": "https://www.neweconomy.jp/posts/561222",
+          "publishedOn": "2026-03-31T07:35:22.000Z",
+          "wordCount": 666,
+          "title": "グラスノード、ハイパーリキッドのレイテンシー可視化ツール公開、東京が最も低遅延に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/31163508/faf3c0eb93a89e288127d41bbed14fce.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=561209",
+          "author": "OtsugaShinya",
+          "description": "ビットバンクがきらぼし銀行とコミットメントライン契約 国内暗号資産交換業者のビットバンクが、総額5億円のコミットメントライン契約を、きらぼし銀行と締結したと3月31日に発表した。 コミットメントラインは、金融機関とその顧 […]",
+          "link": "https://www.neweconomy.jp/posts/561209",
+          "publishedOn": "2026-03-31T07:12:47.000Z",
+          "wordCount": 622,
+          "title": "ビットバンク、きらぼし銀行と5億円のコミットメントライン契約",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/31161243/d00c6fd91f51fac6c1df02fcf23b3f33.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=561182",
+          "author": "watanabeyousuke",
+          "description": "公開・非公開データを1つの取引で扱うハイブリッド台帳を採用 カルダノ（Cardano）の開発元であるインプット・アウトプット（Input Output）の創業者チャールズ・ホスキンソン（Charles Hoskinson […]",
+          "link": "https://www.neweconomy.jp/posts/561182",
+          "publishedOn": "2026-03-31T06:13:01.000Z",
+          "wordCount": 661,
+          "title": "カルダノ創業者構想のプライバシー対応ブロックチェーン「Midnight」稼働開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/31151254/c7ed368babc499bf00271ab9ac53b10f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=561180",
+          "author": "HitomotoToshikazu",
+          "description": "Squareが対象事業者にBTC決済を順次提供 米決済ブランドのスクエア（Square）が、米国の対象事業者向けに、ビットコイン（BTC）決済機能の提供を順次開始した。スクエアが3月31日に公式Xで発表した。 この機能は […]",
+          "link": "https://www.neweconomy.jp/posts/561180",
+          "publishedOn": "2026-03-31T06:07:22.000Z",
+          "wordCount": 798,
+          "title": "スクエア、米対象事業者にビットコイン（BTC）決済を順次提供開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/03/31150717/459ac6e0e14cac9432d120c1d94049fb.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=561161",
           "author": "gentosha_takahashi",
