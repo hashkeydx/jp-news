@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343106",
+          "author": "Shoko Galaviz",
+          "description": "ブータン王国政府が保有するビットコイン（BTC）の移動が加速している。オンチェーン分析プラットフォームArkham（アーカム）のデータによると、同国政府は直近で ...\nブータン政府、約39億円相当のビットコインを移動 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343106/",
+          "publishedOn": "2026-03-31T21:00:00.000Z",
+          "wordCount": 1612,
+          "title": "ブータン政府、約39億円相当のビットコインを移動",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2108544968.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343097",
           "author": "井上 俊彦",
           "description": "アメリカ労働省の従業員給付保障局（EBSA）は2026年3月30日、確定拠出年金「401(k)プラン」において、暗号資産を含む代替資産（オルタナティブ資産）への ...\n数兆ドル規模の401(k)プラン、暗号資産への投資「解禁」へ──米労働省が規則案を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -370,16 +380,6 @@
           "wordCount": 1661,
           "title": "BTC（ビットコイン）はイラン情勢と米雇用統計に左右され、不安定な展開が続くか【マネックス証券】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/97f79abe23f33a17946780abd713f92f.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342796",
-          "author": "井上 俊彦",
-          "description": "ビットコイン（BTC）は6万70000ドル台まで下落したが、クジラやサメ（大口保有者）は蓄積（買い増し）を続けている。 オンチェーン分析企業のSantiment ...\nマクロ経済の先行きが不透明な中、ビットコインのクジラは1カ月で6万BTC以上を蓄積 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342796/",
-          "publishedOn": "2026-03-27T09:45:00.000Z",
-          "wordCount": 1582,
-          "title": "マクロ経済の先行きが不透明な中、ビットコインのクジラは1カ月で6万BTC以上を蓄積",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/04/shutterstock_776180275.jpg"
         }
       ]
     },
@@ -394,6 +394,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=698281",
+          "author": "菊谷ルイス",
+          "description": "米投資銀行TDコーウェンが仮想通貨市場構造法案「クラリティー法」の今年可決確率を3分の1と警告。コインベースと銀行業界の対立が続く中、8月の議会休会前が事実上の最終局面となる。",
+          "link": "https://coinpost.jp/?p=698281",
+          "publishedOn": "2026-03-31T21:35:52.000Z",
+          "wordCount": 4018,
+          "title": "仮想通貨規制のクラリティー法、今年可決の確率は3分の1か　米投資銀行TDコーウェン警告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/stablecoin-congress-vote-next-week.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=698282",
+          "author": "菊谷ルイス",
+          "description": "スタンダードチャータード銀行は、ステーブルコインの流通速度が2年間で倍増したと発表。USDCが既存の金融インフラの置き換えやAI決済で新たな用途を開拓しており、2028年までに時価総額2兆ドルに達するとの強気予測を維持。",
+          "link": "https://coinpost.jp/?p=698282",
+          "publishedOn": "2026-03-31T21:04:31.000Z",
+          "wordCount": 4018,
+          "title": "ステーブルコインの流通速度が2年間で倍増、英大手銀が報告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/sc-eea.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/11/sc-eea.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=698280",
+          "author": "菊谷ルイス",
+          "description": "リップルとコンベラが31日に戦略提携を発表。ステーブルコインを決済中継に用いる「サンドイッチモデル」で、140通貨・約200カ国をカバーする企業向け国際送金の高速化・低コスト化を目指す。",
+          "link": "https://coinpost.jp/?p=698280",
+          "publishedOn": "2026-03-31T20:40:40.000Z",
+          "wordCount": 4022,
+          "title": "リップルとコンベラ、RLUSD活用で200カ国対応の送金基盤を強化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=698265",
+          "author": "菊谷ルイス",
+          "description": "ブータン王国政府が今週374.9BTC（40億円相当）を移動させたことがオンチェーンデータで判明。先週来の累計移動量は1000BTCを超え、ギャラクシー・デジタルへの売却観測が強まっている。",
+          "link": "https://coinpost.jp/?p=698265",
+          "publishedOn": "2026-03-31T20:00:59.000Z",
+          "wordCount": 4029,
+          "title": "ブータン政府、ビットコイン売却加速か　今週も40億円相当BTCを移動",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/even-more-bitcoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=698173",
           "author": "Ritsuki.Kumazawa",
