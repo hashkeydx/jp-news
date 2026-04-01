@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-01T06:02:48.162Z</updated>
+    <updated>2026-04-01T07:52:19.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイントレジャリー企業Nakamoto、2000万ドル相当のBTC売却]]></title>
+        <id>https://www.nadanews.com/?p=343164</id>
+        <link href="https://www.nadanews.com/343164/"/>
+        <updated>2026-04-01T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）トレジャリー企業のNakamotoは、SEC（米証券取引委員会）に提出した年次報告書（10-K）　で、2026年3月に約284BTCを20 ...
+ビットコイントレジャリー企業Nakamoto、2000万ドル相当のBTC売却 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>廣瀬 優香</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアムL1・L2間の同期処理フレームワーク「EEZ」構想を提示]]></title>
+        <id>https://www.neweconomy.jp/?p=561742</id>
+        <link href="https://www.neweconomy.jp/posts/561742"/>
+        <updated>2026-04-01T07:38:05.000Z</updated>
+        <summary type="html"><![CDATA[L2とメインネットを単一トランザクションで接続する枠組み イーサリアム（Ethereum）のレイヤー2（L2）間およびメインネット（L1）との処理を、単一トランザクションで実行可能にする新たなフレームワーク「イーサリアム […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERC8183、サークルの「Arc」テストネットで稼働。AIエージェントのジョブ実行をオンチェーン化]]></title>
+        <id>https://www.neweconomy.jp/?p=561744</id>
+        <link href="https://www.neweconomy.jp/posts/561744"/>
+        <updated>2026-04-01T07:31:45.000Z</updated>
+        <summary type="html"><![CDATA[ERC-8183がArcテストネット上で稼働 AIエージェント同士の商取引を想定したイーサリアム改善提案（Ethereum Improvement Proposal：EIP）のドラフト「ERC-8183（Agentic  […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アメリカンビットコイン、上場7カ月足らずで保有量7,000BTC超に]]></title>
+        <id>https://www.neweconomy.jp/?p=561674</id>
+        <link href="https://www.neweconomy.jp/posts/561674"/>
+        <updated>2026-04-01T07:09:15.000Z</updated>
+        <summary type="html"><![CDATA[American Bitcoinが7,000BTC保有 ビットコインマイニング企業アメリカン・ビットコイン（American Bitcoin）のビットコイン（BTC）保有量が7,000BTC超に到達した。同社の公式Xで3 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨4社の幹部ら10人を米国で起訴、仮装売買で相場操縦か＝報道]]></title>
+        <id>https://coinpost.jp/?p=698441</id>
+        <link href="https://coinpost.jp/?p=698441"/>
+        <updated>2026-04-01T06:59:59.000Z</updated>
+        <summary type="html"><![CDATA[米司法省が仮想通貨マーケットメイキング4社の幹部ら10人を起訴。仮装売買による相場操縦の疑いで、シンガポールから身柄引き渡しされた3人がオークランド連邦裁判所に初出廷した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、トークン化資産時価総額の61.4%を占有。分野別ではファンド・コモディティで高シェア]]></title>
+        <id>https://www.neweconomy.jp/?p=561693</id>
+        <link href="https://www.neweconomy.jp/posts/561693"/>
+        <updated>2026-04-01T06:12:21.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム、トークン化資産の61.4%を占有 ステーブルコインを含むトークン化資産市場のチェーンごとの時価総額において、イーサリアム（Ethereum）が全体の61.4%を占めていることが明らかになった。ブロックチェー […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バフェット氏、銀行システムの脆弱性に警告　FRBに安定維持を最優先するよう求める]]></title>
+        <id>https://coinpost.jp/?p=698405</id>
+        <link href="https://coinpost.jp/?p=698405"/>
+        <updated>2026-04-01T06:03:15.000Z</updated>
+        <summary type="html"><![CDATA[バフェット氏が銀行システムの脆弱性に警告。FRBはインフレより金融安定を最優先すべきと訴え、プライベートクレジット市場のリスク拡大にも懸念を示した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ナスダック上場ナカモト、20Mドル相当のビットコイン売却。医療事業から段階的に撤退]]></title>
+        <id>https://www.neweconomy.jp/?p=561685</id>
+        <link href="https://www.neweconomy.jp/posts/561685"/>
+        <updated>2026-04-01T06:02:42.000Z</updated>
+        <summary type="html"><![CDATA[NakamotoがBTC売却 米ナスダック（Nasdaq）上場のビットコイン関連企業ナカモト（Nakamoto）が、2025年第4四半期および通期の財務・事業運営の結果と、ビットコイン（BTC）戦略の直近の進展を3月30 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミダスがシリーズAで50Mドル調達、オンチェーン投資商品向け即時流動性レイヤー構築へ]]></title>
         <id>https://www.neweconomy.jp/?p=561677</id>

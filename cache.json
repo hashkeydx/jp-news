@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343164",
+          "author": "廣瀬 優香",
+          "description": "ビットコイン（BTC）トレジャリー企業のNakamotoは、SEC（米証券取引委員会）に提出した年次報告書（10-K）　で、2026年3月に約284BTCを20 ...\nビットコイントレジャリー企業Nakamoto、2000万ドル相当のBTC売却 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343164/",
+          "publishedOn": "2026-04-01T07:45:00.000Z",
+          "wordCount": 1586,
+          "title": "ビットコイントレジャリー企業Nakamoto、2000万ドル相当のBTC売却",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1023322507.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343157",
           "author": "栃山 直樹",
           "description": "三菱商事が2026年度にも、米金融大手JPモルガン・チェースのブロックチェーン基盤を活用し、デジタル預金口座を介した国際送金を開始すると3月31日、日経新聞が報 ...\n三菱商事、JPモルガンのブロックチェーン基盤でドル建て即時送金へ──日系企業初：報道 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -454,6 +464,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=698441",
+          "author": "Enzo",
+          "description": "米司法省が仮想通貨マーケットメイキング4社の幹部ら10人を起訴。仮装売買による相場操縦の疑いで、シンガポールから身柄引き渡しされた3人がオークランド連邦裁判所に初出廷した。",
+          "link": "https://coinpost.jp/?p=698441",
+          "publishedOn": "2026-04-01T06:59:59.000Z",
+          "wordCount": 4007,
+          "title": "仮想通貨4社の幹部ら10人を米国で起訴、仮装売買で相場操縦か＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/usdt-doj-docu.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/usdt-doj-docu.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=698405",
+          "author": "Enzo",
+          "description": "バフェット氏が銀行システムの脆弱性に警告。FRBはインフレより金融安定を最優先すべきと訴え、プライベートクレジット市場のリスク拡大にも懸念を示した。",
+          "link": "https://coinpost.jp/?p=698405",
+          "publishedOn": "2026-04-01T06:03:15.000Z",
+          "wordCount": 4010,
+          "title": "バフェット氏、銀行システムの脆弱性に警告　FRBに安定維持を最優先するよう求める",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/shutterstock_2687757597.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/shutterstock_2687757597.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=698372",
           "author": "幸田直子",
@@ -1316,6 +1356,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=561742",
+          "author": "watanabeyousuke",
+          "description": "L2とメインネットを単一トランザクションで接続する枠組み イーサリアム（Ethereum）のレイヤー2（L2）間およびメインネット（L1）との処理を、単一トランザクションで実行可能にする新たなフレームワーク「イーサリアム […]",
+          "link": "https://www.neweconomy.jp/posts/561742",
+          "publishedOn": "2026-04-01T07:38:05.000Z",
+          "wordCount": 803,
+          "title": "イーサリアムL1・L2間の同期処理フレームワーク「EEZ」構想を提示",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/01163752/b71213dca03ce23c391c2beebf8b227d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=561744",
+          "author": "watanabeyousuke",
+          "description": "ERC-8183がArcテストネット上で稼働 AIエージェント同士の商取引を想定したイーサリアム改善提案（Ethereum Improvement Proposal：EIP）のドラフト「ERC-8183（Agentic  […]",
+          "link": "https://www.neweconomy.jp/posts/561744",
+          "publishedOn": "2026-04-01T07:31:45.000Z",
+          "wordCount": 793,
+          "title": "ERC8183、サークルの「Arc」テストネットで稼働。AIエージェントのジョブ実行をオンチェーン化",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/01163126/c38b9c67cff4c2cef30e17a42fa6bbed.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=561674",
+          "author": "HitomotoToshikazu",
+          "description": "American Bitcoinが7,000BTC保有 ビットコインマイニング企業アメリカン・ビットコイン（American Bitcoin）のビットコイン（BTC）保有量が7,000BTC超に到達した。同社の公式Xで3 […]",
+          "link": "https://www.neweconomy.jp/posts/561674",
+          "publishedOn": "2026-04-01T07:09:15.000Z",
+          "wordCount": 845,
+          "title": "アメリカンビットコイン、上場7カ月足らずで保有量7,000BTC超に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/01160852/e0682517c62e423099707e0871be206f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=561693",
+          "author": "watanabeyousuke",
+          "description": "イーサリアム、トークン化資産の61.4%を占有 ステーブルコインを含むトークン化資産市場のチェーンごとの時価総額において、イーサリアム（Ethereum）が全体の61.4%を占めていることが明らかになった。ブロックチェー […]",
+          "link": "https://www.neweconomy.jp/posts/561693",
+          "publishedOn": "2026-04-01T06:12:21.000Z",
+          "wordCount": 797,
+          "title": "イーサリアム、トークン化資産時価総額の61.4%を占有。分野別ではファンド・コモディティで高シェア",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/01151159/3a1b1e9443d32280c6fe68c252bd34d3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=561685",
+          "author": "HitomotoToshikazu",
+          "description": "NakamotoがBTC売却 米ナスダック（Nasdaq）上場のビットコイン関連企業ナカモト（Nakamoto）が、2025年第4四半期および通期の財務・事業運営の結果と、ビットコイン（BTC）戦略の直近の進展を3月30 […]",
+          "link": "https://www.neweconomy.jp/posts/561685",
+          "publishedOn": "2026-04-01T06:02:42.000Z",
+          "wordCount": 781,
+          "title": "ナスダック上場ナカモト、20Mドル相当のビットコイン売却。医療事業から段階的に撤退",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/01150154/f342c89662ad7b511238d7bd22693253.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=561677",
           "author": "HitomotoToshikazu",
