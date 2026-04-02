@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343302",
+          "author": "井上 俊彦",
+          "description": "オンチェーンデータ分析大手のGlassnode（グラスノード）は4月1日、最新の週次レポートを発表し、ビットコイン（BTC）市場について「明確な触媒が欠如してお ...\nビットコインには明確な触媒がなく、ブレイクアウトには時間がかかる：Glassnode first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343302/",
+          "publishedOn": "2026-04-02T08:35:00.000Z",
+          "wordCount": 1587,
+          "title": "ビットコインには明確な触媒がなく、ブレイクアウトには時間がかかる：Glassnode",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2142581461.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=343303",
+          "author": "栃山 直樹",
+          "description": "メタプラネットは2日、2026年12月期第1四半期において5075BTCを追加購入し、累計保有枚数が4万177BTCに達したことを発表した。 世界のビットコイン ...\n【速報】メタプラネット、ビットコイン保有量4万枚を突破──世界3位に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343303/",
+          "publishedOn": "2026-04-02T07:51:29.000Z",
+          "wordCount": 1624,
+          "title": "【速報】メタプラネット、ビットコイン保有量4万枚を突破──世界3位に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/09/メタプラネット-2025-05-07-16.45.47-990x660-1-990x660-1-990x660-1-990x660-1-990x660-1-990x660-1.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=343282",
+          "author": "井上 俊彦",
+          "description": "JPMorgan Chase（JPモルガン・チェース）のJamie Daimon（ジェイミー・ダイモン）CEOが、CBSの番組インタビューにおいて、分散型予測市 ...\nJPMorganのダイモンCEO、予測市場に参入する可能性を示唆 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343282/",
+          "publishedOn": "2026-04-02T07:45:00.000Z",
+          "wordCount": 1591,
+          "title": "JPMorganのダイモンCEO、予測市場に参入する可能性を示唆",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2023/08/4V3PLAJWKND5ZJLKFCDRGFKAHA.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343263",
           "author": "廣瀬 優香",
           "description": "米商品先物取引委員会（CFTC）は3月30日、ニューヨーク州南部地区連邦地方裁判所が、暗号資産（仮想通貨）取引所KuCoinを運営するPeken Global  ...\n米CFTC、KuCoin運営会社の米市場へのアクセスを禁止 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -544,6 +574,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=698954",
+          "author": "Enzo",
+          "description": "コインベースCEOのアームストロング氏がビットコインの量子耐性対応に個人的に関与すると宣言。同社は諮問委員会設立に続き、業界横断ワーキンググループの結成も主導する。",
+          "link": "https://coinpost.jp/?p=698954",
+          "publishedOn": "2026-04-02T08:53:37.000Z",
+          "wordCount": 4000,
+          "title": "コインベースCEO、ビットコインの量子耐性対応に「自ら時間を割く」と表明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/shutterstock_1956153142.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/shutterstock_1956153142.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=698902",
+          "author": "Enzo",
+          "description": "メタプラネットが2026年第1四半期に5,075BTCを追加取得し、累積保有が4万177BTCに。インカム事業収益を活用した実質純取得単価は約1,196万円と四半期VWAPと概ね同水準。",
+          "link": "https://coinpost.jp/?p=698902",
+          "publishedOn": "2026-04-02T08:08:37.000Z",
+          "wordCount": 4003,
+          "title": "メタプラネット、5075BTCを追加取得　累積保有4万突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetC.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/0605_metaplanetC.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=698706",
+          "author": "Enzo",
+          "description": "米国の仮想通貨市場構造法「クラリティー法案」が上院で難航。ステーブルコイン利回り問題でCoinbaseが支持を撤回し、DeFi規制・倫理条項も対立。中間選挙前の成立を目指すが、道筋は依然不透明だ。",
+          "link": "https://coinpost.jp/?p=698706",
+          "publishedOn": "2026-04-02T08:00:52.000Z",
+          "wordCount": 4021,
+          "title": "米クラリティー法案、成立は実現可能か？上院を阻む3つの対立点",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/SenateProtico1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/SenateProtico1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=698843",
           "author": "Enzo",
@@ -1511,6 +1586,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=562076",
+          "author": "HitomotoToshikazu",
+          "description": "Galaxy DigitalがSOLステーキング提供 暗号資産（仮想通貨）関連サービスを手がけるギャラクシーデジタル（Galaxy Digital）が、個人投資家向けステーキング機能「ギャラクシーワンステーキング（Gal […]",
+          "link": "https://www.neweconomy.jp/posts/562076",
+          "publishedOn": "2026-04-02T07:51:05.000Z",
+          "wordCount": 654,
+          "title": "ギャラクシーデジタル、個人投資家向けステーキング提供開始、ソラナから対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/02165051/faaff379b18a5f92cb54185db741d5b1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=562062",
+          "author": "OtsugaShinya",
+          "description": "メタプラがビットコイン追加取得 国内の上場企業で最もビットコイン（BTC）を保有する東証スタンダード上場企業メタプラネットが、ビットコインの追加取得実施を4月2日に発表した。 なおメタプラネットによるビットコイン追加取得 […]",
+          "link": "https://www.neweconomy.jp/posts/562062",
+          "publishedOn": "2026-04-02T07:43:41.000Z",
+          "wordCount": 757,
+          "title": "メタプラネットがビットコイン追加購入を報告、四半期で約636億円分取得で総保有数4万BTC超に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/02164315/BTC32-250714-PIXTA.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=562042",
           "author": "watanabeyousuke",
