@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-02T22:50:06.574Z</updated>
+    <updated>2026-04-02T23:49:04.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サークルがラップドBTCに参入、「cirBTC」をイーサリアム・Arcで先行展開]]></title>
+        <id>https://coinpost.jp/?p=699057</id>
+        <link href="https://coinpost.jp/?p=699057"/>
+        <updated>2026-04-02T23:35:09.000Z</updated>
+        <summary type="html"><![CDATA[USDCの発行元サークルが機関投資家向けラップドビットコイン「cirBTC」を発表した。BTCと1:1の完全オンチェーン検証に対応し、DeFi市場における中立的な標準規格を目指す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレグラムウォレットが永久先物をローンチ、仮想通貨や原油などの取引が可能に]]></title>
+        <id>https://coinpost.jp/?p=699068</id>
+        <link href="https://coinpost.jp/?p=699068"/>
+        <updated>2026-04-02T22:55:32.000Z</updated>
+        <summary type="html"><![CDATA[テレグラムのソリューション「ウォレット・イン・テレグラム」は、永久先物取引機能をローンチしたことを発表。仮想通貨や株式、原油など50超の資産を最大50倍のレバレッジで取引できる。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CFTC、予測市場の管轄権を巡り3州を反訴]]></title>
         <id>https://coinpost.jp/?p=699056</id>
