@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-03T11:51:36.791Z</updated>
+    <updated>2026-04-03T13:37:21.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/3話題】金融庁がトークン化預金の実証実験を支援、リナックス財団がx402財団設立へ、サークルのラップドビットコインcirBTCなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=562347</id>
+        <link href="https://www.neweconomy.jp/posts/562347"/>
+        <updated>2026-04-03T13:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X、暗号資産関連の初回投稿時に自動ロック導入へ。詐欺対策で]]></title>
         <id>https://www.neweconomy.jp/?p=562400</id>
@@ -2337,26 +2347,6 @@ Aave、OKXのレイヤー2ネットワーク「X Layer」でサービスを開�
         <summary type="html"><![CDATA[SSV Labs参画で連携体制を4社に拡大 暗号資産（仮想通貨）取引所ビットポイントジャパン（BITPOINT）が、分散バリデーター技術（DVT）プロトコル「SSVネットワーク（SSV Network）」を法人向けのイー […]]]></summary>
         <author>
             <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カナダ、政治献金への仮想通貨利用を禁止する法案を提出]]></title>
-        <id>https://coinpost.jp/?p=697687</id>
-        <link href="https://coinpost.jp/?p=697687"/>
-        <updated>2026-03-30T01:34:16.000Z</updated>
-        <summary type="html"><![CDATA[カナダ政府が仮想通貨による政治献金を全面禁止する法案「ビルC-25」を下院に提出。匿名性による外国勢力の介入リスクを遮断する目的で、英国も同日に同様の措置を発表した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エルサルバドルの保有ビットコイン、800億円突破　IMFとの協議も蓄積継続か]]></title>
-        <id>https://coinpost.jp/?p=697665</id>
-        <link href="https://coinpost.jp/?p=697665"/>
-        <updated>2026-03-30T00:51:27.000Z</updated>
-        <summary type="html"><![CDATA[エルサルバドルのビットコイン保有量が7,600BTCを超えた。IMFは購入制限を融資条件としていたが同国の発表によると購入を継続している可能性がある。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
