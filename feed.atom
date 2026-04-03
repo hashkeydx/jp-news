@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-03T21:47:56.382Z</updated>
+    <updated>2026-04-03T22:51:50.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HypurrFi、ドメイン乗っ取りの可能性で警告]]></title>
+        <id>https://www.nadanews.com/?p=343481</id>
+        <link href="https://www.nadanews.com/343481/"/>
+        <updated>2026-04-03T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[DeFiレンディングプロトコル「HypurrFi」は、ドメインが乗っ取られた可能性があるとして、ユーザーに対しプラットフォームの利用を控えるよう警告した。現在、 ...
+HypurrFi、ドメイン乗っ取りの可能性で警告 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米大手証券チャールズ・シュワブ、仮想通貨現物取引に本格参入　コインベースに競争圧力]]></title>
+        <id>https://coinpost.jp/?p=699388</id>
+        <link href="https://coinpost.jp/?p=699388"/>
+        <updated>2026-04-03T22:10:49.000Z</updated>
+        <summary type="html"><![CDATA[米大手証券チャールズ・シュワブが2026年前半にビットコインとイーサリアムの現物取引サービス開始予定が確認された。約12兆ドルの顧客資産を抱える同社の参入は、コインベースなど既存の仮想通貨取引所に直接的な競争圧力をかけることになる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle、USDCの凍結対応で批判に直面]]></title>
+        <id>https://www.nadanews.com/?p=343477</id>
+        <link href="https://www.nadanews.com/343477/"/>
+        <updated>2026-04-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）調査で知られるZachXBTが、ステーブルコインUSDコイン（USDC）の発行元であるCircle（サークル）のコンプライアンス対応について ...
+Circle、USDCの凍結対応で批判に直面 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETFが支配するビットコイン市場──流動性と価格形成の主戦場はどこか【エックスウィンリサーチ】]]></title>
         <id>https://www.nadanews.com/?p=343489</id>
@@ -2134,28 +2166,6 @@ Bitmine、約7万1200ETHを追加購入──2026年最多の週間取得数 fir
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、過去最多の4600万ドル相当のETHをステーキング]]></title>
-        <id>https://www.nadanews.com/?p=342991</id>
-        <link href="https://www.nadanews.com/342991/"/>
-        <updated>2026-03-30T10:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Ethereum Foundation（イーサリアム財団）が、財務資産の運用方針をさらに一歩進めた。オンチェーン分析企業Arkham Intelligence（ ...
-イーサリアム財団、過去最多の4600万ドル相当のETHをステーキング first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LDOが市場最安値に下落──Lido DAO、2000万ドル相当の買い戻しを提案]]></title>
-        <id>https://www.nadanews.com/?p=342950</id>
-        <link href="https://www.nadanews.com/342950/"/>
-        <updated>2026-03-30T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Lido DAOは、ガバナンストークンLDOの歴史的な割安状態を是正するため、最大1万stETHを使った一時的な買い戻し案を提示した。元手はDAOの財務（トレジ ...
-LDOが市場最安値に下落──Lido DAO、2000万ドル相当の買い戻しを提案 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343481",
+          "author": "Shoko Galaviz",
+          "description": "DeFiレンディングプロトコル「HypurrFi」は、ドメインが乗っ取られた可能性があるとして、ユーザーに対しプラットフォームの利用を控えるよう警告した。現在、 ...\nHypurrFi、ドメイン乗っ取りの可能性で警告 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343481/",
+          "publishedOn": "2026-04-03T22:30:00.000Z",
+          "wordCount": 1587,
+          "title": "HypurrFi、ドメイン乗っ取りの可能性で警告",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2374866843.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=343477",
+          "author": "Shoko Galaviz",
+          "description": "暗号資産（仮想通貨）調査で知られるZachXBTが、ステーブルコインUSDコイン（USDC）の発行元であるCircle（サークル）のコンプライアンス対応について ...\nCircle、USDCの凍結対応で批判に直面 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343477/",
+          "publishedOn": "2026-04-03T22:00:00.000Z",
+          "wordCount": 1597,
+          "title": "Circle、USDCの凍結対応で批判に直面",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2666015667.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343489",
           "author": "XWIN Research",
           "description": "● ETFが価格発見と流動性の中心となり、市場構造が取引所主導から転換● IBIT主導の資金流入により供給がロックされ、需給の逼迫が進行● 日本でのETF承認は ...\nETFが支配するビットコイン市場──流動性と価格形成の主戦場はどこか【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -710,26 +730,6 @@
           "wordCount": 1600,
           "title": "Bitmine、約7万1200ETHを追加購入──2026年最多の週間取得数",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2670924417-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342991",
-          "author": "井上 俊彦",
-          "description": "Ethereum Foundation（イーサリアム財団）が、財務資産の運用方針をさらに一歩進めた。オンチェーン分析企業Arkham Intelligence（ ...\nイーサリアム財団、過去最多の4600万ドル相当のETHをステーキング first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342991/",
-          "publishedOn": "2026-03-30T10:46:27.000Z",
-          "wordCount": 1594,
-          "title": "イーサリアム財団、過去最多の4600万ドル相当のETHをステーキング",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/10/shutterstock_776426233-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=342950",
-          "author": "井上 俊彦",
-          "description": "Lido DAOは、ガバナンストークンLDOの歴史的な割安状態を是正するため、最大1万stETHを使った一時的な買い戻し案を提示した。元手はDAOの財務（トレジ ...\nLDOが市場最安値に下落──Lido DAO、2000万ドル相当の買い戻しを提案 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/342950/",
-          "publishedOn": "2026-03-30T09:55:00.000Z",
-          "wordCount": 1598,
-          "title": "LDOが市場最安値に下落──Lido DAO、2000万ドル相当の買い戻しを提案",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2208600479.jpg"
         }
       ]
     },
@@ -744,6 +744,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=699388",
+          "author": "菊谷ルイス",
+          "description": "米大手証券チャールズ・シュワブが2026年前半にビットコインとイーサリアムの現物取引サービス開始予定が確認された。約12兆ドルの顧客資産を抱える同社の参入は、コインベースなど既存の仮想通貨取引所に直接的な競争圧力をかけることになる。",
+          "link": "https://coinpost.jp/?p=699388",
+          "publishedOn": "2026-04-03T22:10:49.000Z",
+          "wordCount": 3996,
+          "title": "米大手証券チャールズ・シュワブ、仮想通貨現物取引に本格参入　コインベースに競争圧力",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/charles-schwab-crypto-look.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/charles-schwab-crypto-look.png"
+        },
         {
           "id": "https://coinpost.jp/?p=699387",
           "author": "菊谷ルイス",
