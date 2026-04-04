@@ -765,6 +765,96 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=699428",
+          "author": "菊谷ルイス",
+          "description": "ジャック・ドーシー率いるブロック社が、4月6日にビットコインを無料で配布する「フォーセット」を復活させると発表した。2010年に誕生した普及促進ツールの現代版復活は、仮想通貨の新規ユーザー獲得戦略として注目を集めている。",
+          "link": "https://coinpost.jp/?p=699428",
+          "publishedOn": "2026-04-04T06:00:16.000Z",
+          "wordCount": 3996,
+          "title": "ジャック・ドーシーのブロック社、「ビットコイン蛇口」を復活予定　普及拡大へ歴史的ツールを現代に再現",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/block-bitcoin-sales.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/block-bitcoin-sales.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=699429",
+          "author": "A.Yamada",
+          "description": "ZachXBT氏が、ステーブルコインUSDCを提供するサークル社を批判。2022年以降670億円超の不正資金を凍結できなかった可能性があるとして改善を呼びかけている。",
+          "link": "https://coinpost.jp/?p=699429",
+          "publishedOn": "2026-04-04T05:15:48.000Z",
+          "wordCount": 4001,
+          "title": "「670億円超の不正USDCを凍結できなかった可能性」ZachXBT氏がサークル社批判",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/clrcle-usdc-mizuho.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/clrcle-usdc-mizuho.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=699391",
+          "author": "菊谷ルイス",
+          "description": "グーグルによる主要仮想通貨の耐量子計算機暗号（PQC）への移行ステータスおよび脆弱性評価を解明。ブロック生成時間が長いビットコイン特有のリスクや、1500億ドル規模に及び現実資産市場に対する潜在的な被害が、同社の最新研究データとともに定量化されている。",
+          "link": "https://coinpost.jp/?p=699391",
+          "publishedOn": "2026-04-04T04:30:56.000Z",
+          "wordCount": 4004,
+          "title": "量子コンピュータ時代の仮想通貨、グーグルが主要チェーンの対応度を分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/google-dapper-labs-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/09/google-dapper-labs-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=699415",
+          "author": "A.Yamada",
+          "description": "グーグルの人工知能研究チームが、自律型AIエージェントを不正操作する「敵対的コンテンツ」の脅威を6種類に分類した。攻撃手法と防御策を解説している。",
+          "link": "https://coinpost.jp/?p=699415",
+          "publishedOn": "2026-04-04T02:20:09.000Z",
+          "wordCount": 4008,
+          "title": "「AIエージェントを狙う6つの罠」、グーグルが敵対的コンテンツの脅威を分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/ai-agent.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/01/ai-agent.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=699390",
+          "author": "菊谷ルイス",
+          "description": "米ナスダック上場の大手ビットコインマイナーMARAが従業員の約15%を削減したと報じられた。11億ドル規模のビットコイン売却と転換社債の圧縮に続く今回の決断は、純粋なマイニング事業からAI・デジタルインフラ企業への転換を加速させるものだ。",
+          "link": "https://coinpost.jp/?p=699390",
+          "publishedOn": "2026-04-04T01:15:54.000Z",
+          "wordCount": 3993,
+          "title": "MARAが従業員15%削減を実施か、AI・インフラ企業への戦略転換へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/marathon-mining-new-site.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/marathon-mining-new-site.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=699389",
+          "author": "菊谷ルイス",
+          "description": "マイクロストラテジーのマイケル・セイラー会長は4日、ビットコインの購入を示唆するメッセージを投稿した。独自の資金調達手段であるSTRC優先株が額面を回復したことで、一時停止していた13週連続の大量取得プロセスが再始動した可能性が高まってきた。",
+          "link": "https://coinpost.jp/?p=699389",
+          "publishedOn": "2026-04-04T00:20:51.000Z",
+          "wordCount": 4002,
+          "title": "マイケル・セイラー、ビットコイン追加購入を示唆　優先株回復で買い増し再開か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/microstrategy-bitcoin-converted-note.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/microstrategy-bitcoin-converted-note.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=699397",
           "author": "K.Kobayashi",
           "description": "日本取引所グループは、仮想通貨を主たる資産として保有する企業の株式をTOPIXなどの指数に新規で追加することを当分の間見送る方針を示した。まずは意見を募集してからルールを適用する。",

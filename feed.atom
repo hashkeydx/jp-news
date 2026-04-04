@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-04T05:33:59.568Z</updated>
+    <updated>2026-04-04T07:15:36.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジャック・ドーシーのブロック社、「ビットコイン蛇口」を復活予定　普及拡大へ歴史的ツールを現代に再現]]></title>
+        <id>https://coinpost.jp/?p=699428</id>
+        <link href="https://coinpost.jp/?p=699428"/>
+        <updated>2026-04-04T06:00:16.000Z</updated>
+        <summary type="html"><![CDATA[ジャック・ドーシー率いるブロック社が、4月6日にビットコインを無料で配布する「フォーセット」を復活させると発表した。2010年に誕生した普及促進ツールの現代版復活は、仮想通貨の新規ユーザー獲得戦略として注目を集めている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「670億円超の不正USDCを凍結できなかった可能性」ZachXBT氏がサークル社批判]]></title>
+        <id>https://coinpost.jp/?p=699429</id>
+        <link href="https://coinpost.jp/?p=699429"/>
+        <updated>2026-04-04T05:15:48.000Z</updated>
+        <summary type="html"><![CDATA[ZachXBT氏が、ステーブルコインUSDCを提供するサークル社を批判。2022年以降670億円超の不正資金を凍結できなかった可能性があるとして改善を呼びかけている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子コンピュータ時代の仮想通貨、グーグルが主要チェーンの対応度を分析]]></title>
+        <id>https://coinpost.jp/?p=699391</id>
+        <link href="https://coinpost.jp/?p=699391"/>
+        <updated>2026-04-04T04:30:56.000Z</updated>
+        <summary type="html"><![CDATA[グーグルによる主要仮想通貨の耐量子計算機暗号（PQC）への移行ステータスおよび脆弱性評価を解明。ブロック生成時間が長いビットコイン特有のリスクや、1500億ドル規模に及び現実資産市場に対する潜在的な被害が、同社の最新研究データとともに定量化されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AIエージェントを狙う6つの罠」、グーグルが敵対的コンテンツの脅威を分析]]></title>
+        <id>https://coinpost.jp/?p=699415</id>
+        <link href="https://coinpost.jp/?p=699415"/>
+        <updated>2026-04-04T02:20:09.000Z</updated>
+        <summary type="html"><![CDATA[グーグルの人工知能研究チームが、自律型AIエージェントを不正操作する「敵対的コンテンツ」の脅威を6種類に分類した。攻撃手法と防御策を解説している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARAが従業員15%削減を実施か、AI・インフラ企業への戦略転換へ]]></title>
+        <id>https://coinpost.jp/?p=699390</id>
+        <link href="https://coinpost.jp/?p=699390"/>
+        <updated>2026-04-04T01:15:54.000Z</updated>
+        <summary type="html"><![CDATA[米ナスダック上場の大手ビットコインマイナーMARAが従業員の約15%を削減したと報じられた。11億ドル規模のビットコイン売却と転換社債の圧縮に続く今回の決断は、純粋なマイニング事業からAI・デジタルインフラ企業への転換を加速させるものだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイケル・セイラー、ビットコイン追加購入を示唆　優先株回復で買い増し再開か]]></title>
+        <id>https://coinpost.jp/?p=699389</id>
+        <link href="https://coinpost.jp/?p=699389"/>
+        <updated>2026-04-04T00:20:51.000Z</updated>
+        <summary type="html"><![CDATA[マイクロストラテジーのマイケル・セイラー会長は4日、ビットコインの購入を示唆するメッセージを投稿した。独自の資金調達手段であるSTRC優先株が額面を回復したことで、一時停止していた13週連続の大量取得プロセスが再始動した可能性が高まってきた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「トークン化＝効率化」は誤解だ──IMFが示した金融の再設計【編集長コラム】]]></title>
         <id>https://www.nadanews.com/?p=343503</id>
