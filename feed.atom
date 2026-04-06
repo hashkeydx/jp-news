@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-06T09:39:45.013Z</updated>
+    <updated>2026-04-06T11:11:04.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米証券大手Charles Schwab、BTCとETH現物取引の事前登録を開始]]></title>
+        <id>https://www.nadanews.com/?p=343716</id>
+        <link href="https://www.nadanews.com/343716/"/>
+        <updated>2026-04-06T10:05:00.000Z</updated>
+        <summary type="html"><![CDATA[大手証券会社Charles Schwab（チャールズ・シュワブ）が、ビットコイン（BTC）とイーサリアム（ETH）の現物取引サービスの提供に向け、事前登録の受付 ...
+米証券大手Charles Schwab、BTCとETH現物取引の事前登録を開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Circle、レイヤー1ブロックチェーン「Arc」の量子耐性ロードマップを発表]]></title>
         <id>https://www.nadanews.com/?p=343707</id>
@@ -1558,58 +1569,6 @@ BTCは過去8年で最悪の第1四半期：ムーディーズのジャンク格
         <link href="https://coinpost.jp/?p=698616"/>
         <updated>2026-04-01T23:40:26.000Z</updated>
         <summary type="html"><![CDATA[米財務省がジーニアス法に基づく規則案を公表し、発行残高100億ドル未満のステーブルコイン発行者が州規制を選択できる条件の明確化に乗り出した。規制の輪郭が定まるにつれ、3100億ドル規模の市場への影響が注目される。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、第1四半期は2018年以来の下落率　ショートETF残高急増も底打ちの兆候か]]></title>
-        <id>https://coinpost.jp/?p=698598</id>
-        <link href="https://coinpost.jp/?p=698598"/>
-        <updated>2026-04-01T22:50:35.000Z</updated>
-        <summary type="html"><![CDATA[026年第1四半期のビットコインは23.8％安となり、年初として2018年以来最悪の下落率を記録した。中東情勢やETF流出が重石となる中、K33リサーチはショート残高の過密と資金調達率の推移から相場の底打ちが近い可能性を指摘。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルト市場の異変──40%が最安値圏にある意味【エックスウィンリサーチ】]]></title>
-        <id>https://www.nadanews.com/?p=343212</id>
-        <link href="https://www.nadanews.com/343212/"/>
-        <updated>2026-04-01T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[● アルト取引量は低迷し、資金はBTCへ集中している● 約40%のアルトがATL付近にあり、需給は売り圧消化局面● 回復には取引量と資金流入の同時改善が必要 暗 ...
-アルト市場の異変──40%が最安値圏にある意味【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>XWIN Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、ステーブルコイン規制の具体化へ──GENIUS法実施に向けた規則案を公表]]></title>
-        <id>https://www.nadanews.com/?p=343208</id>
-        <link href="https://www.nadanews.com/343208/"/>
-        <updated>2026-04-01T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米財務省は、ステーブルコインの発行および利用に関する包括的な枠組みを定めた「GENIUS（ジーニアス）法」の実施に向け、初となる規則案（Notice of Pr ...
-米財務省、ステーブルコイン規制の具体化へ──GENIUS法実施に向けた規則案を公表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラックロックのビットコイン利回りETF、数週間以内に上場か　SEC修正届出で現実味]]></title>
-        <id>https://coinpost.jp/?p=698597</id>
-        <link href="https://coinpost.jp/?p=698597"/>
-        <updated>2026-04-01T21:55:17.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックが仮想通貨市場向けに準備するカバードコール型ビットコインETF「BITA」の上場が数週間以内に迫っている。利回り追求型の新商品は機関投資家の需要を取り込む可能性があり、ビットコインETF市場の競争激化が予想される。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史上最大のIPOへ、イーロン・マスク率いるスペースXがSECへ上場申請]]></title>
-        <id>https://coinpost.jp/?p=698599</id>
-        <link href="https://coinpost.jp/?p=698599"/>
-        <updated>2026-04-01T21:40:43.000Z</updated>
-        <summary type="html"><![CDATA[米スペースXがSECに対し非公開でIPOを申請。評価額1.75兆ドル、調達額750億ドルという史上空前の規模が見込まれる。財務開示プロセスを通じ、同社の資産保有状況や最新の財務実態が明らかになる見通し。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
