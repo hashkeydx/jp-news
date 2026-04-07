@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343865",
+          "author": "Shoko Galaviz",
+          "description": "米連邦預金保険公社（FDIC）は、ステーブルコイン発行体に対する新たな規制枠組みの提案を承認し、パブリックコメントの募集を開始した。今回のルール案は、昨年成立し ...\nFDIC、ステーブルコイン規制案を提示 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343865/",
+          "publishedOn": "2026-04-07T22:00:00.000Z",
+          "wordCount": 1594,
+          "title": "FDIC、ステーブルコイン規制案を提示",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1274652649.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343862",
           "author": "Shoko Galaviz",
           "description": "Fox Corporation（フォックス・コーポレーション）と予測市場大手Kalshi（カルシ）は、カルシの予測データをFOX News Channel（フォ ...\nFOX、Kalshi予測データをニュース・配信基盤に統合へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -460,26 +470,6 @@
           "wordCount": 1613,
           "title": "暗号資産トレジャリー企業、TOPIXに新規追加せず──JPX要領改定",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1460991443.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=343408",
-          "author": "NADA NEWS編集部",
-          "description": "日本最大級のブロックチェーン専門展「ブロックチェーンEXPO【春】」が、2026年4月15日から17日まで、東京ビッグサイトで開催される。 本イベントは、Web ...\n日本最大級のブロックチェーン専門展「ブロックチェーンEXPO 春」4月15〜17日開催──社会実装フェーズの最前線が集結 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/343408/",
-          "publishedOn": "2026-04-03T10:30:09.000Z",
-          "wordCount": 1641,
-          "title": "日本最大級のブロックチェーン専門展「ブロックチェーンEXPO 春」4月15〜17日開催──社会実装フェーズの最前線が集結",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/a8cada83072478a10bcfed2b8442fd2c.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=343450",
-          "author": "井上 俊彦",
-          "description": "Linux Foundation（リナックス財団）は2026年4月2日、Coinbase（コインベース）からx402プロトコルの提供を受け、「x402 Foun ...\nリナックス財団、「x402財団」を立ち上げ──ビッグテックも参加の意向 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/343450/",
-          "publishedOn": "2026-04-03T10:26:39.000Z",
-          "wordCount": 1605,
-          "title": "リナックス財団、「x402財団」を立ち上げ──ビッグテックも参加の意向",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2673568627.jpg"
         }
       ]
     },
@@ -494,6 +484,111 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=700146",
+          "author": "菊谷ルイス",
+          "description": "東芝が疑似量子コンピューターの計算速度を最大100倍に高める新アルゴリズムを発表した。量子技術の進化が加速する中、グレースケールはビットコインへの脅威の本質はコミュニティの合意形成にあると警鐘を鳴らしている。",
+          "link": "https://coinpost.jp/?p=700146",
+          "publishedOn": "2026-04-07T22:50:09.000Z",
+          "wordCount": 4035,
+          "title": "東芝の疑似量子計算機が100倍高速化、創薬や金融への実用化が1〜2年以内に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/quantum-chip-google.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700153",
+          "author": "K.Kobayashi",
+          "description": "コインシェアーズは、仮想通貨投資商品全体の先週における資金フローは約357億円の純流入だったと報告。銘柄別ではXRPの投資商品に最も多くの資金が流入し、ビットコインが続いた。",
+          "link": "https://coinpost.jp/?p=700153",
+          "publishedOn": "2026-04-07T22:05:18.000Z",
+          "wordCount": 4038,
+          "title": "XRPの商品が主導　仮想通貨ETFなど、先週は350億円超が純流入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/CryptoCurrency_1003-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/CryptoCurrency_1003-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700145",
+          "author": "菊谷ルイス",
+          "description": "米大手銀行モルガン・スタンレーによる初の現物ビットコインETF「MSBT」が、NYSEアーカで米国時間8日に取引開始される見通しだ。約6.2兆ドルの顧客資産を背景とした大規模な資金流入が注目されている。",
+          "link": "https://coinpost.jp/?p=700145",
+          "publishedOn": "2026-04-07T21:50:01.000Z",
+          "wordCount": 4023,
+          "title": "米モルガン・スタンレー、独自の現物ビットコインETF「MSBT」を8日上場へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/morgan_stanley1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/08/morgan_stanley1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700144",
+          "author": "菊谷ルイス",
+          "description": "米民主党議員7名がCFTC委員長に書簡を送付し、軍事作戦を対象とした予測市場の規制強化を要求した。イランやベネズエラへの攻撃を賭けの対象とした取引が横行する中、議会と規制当局の緊張が高まっている。",
+          "link": "https://coinpost.jp/?p=700144",
+          "publishedOn": "2026-04-07T21:30:49.000Z",
+          "wordCount": 4019,
+          "title": "ポリマーケットなど予測市場に米議会が規制圧力　CFTC、4月15日までに対応迫られる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/snow-storm-congress.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/snow-storm-congress.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700143",
+          "author": "菊谷ルイス",
+          "description": "米連邦預金保険公社（FDIC）は、ジーニアス法に基づくステーブルコイン規制案の第2弾を公式発表した。資本要件やリスク管理に加え、カストディ業務やパススルー保険の適用方針を明確にしている。",
+          "link": "https://coinpost.jp/?p=700143",
+          "publishedOn": "2026-04-07T20:55:21.000Z",
+          "wordCount": 4017,
+          "title": "米FDIC、ステーブルコイン発行体の規制枠組み案を発表",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/fdic-crypto-no-insurance.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/07/fdic-crypto-no-insurance.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700149",
+          "author": "菊谷ルイス",
+          "description": "CMEは5月4日、アバランチおよびスイの先物取引を新たに開始すると発表した。規制された仮想通貨デリバティブ市場の拡大が加速する中、機関投資家のリスク管理手段がさらに広がることになる。",
+          "link": "https://coinpost.jp/?p=700149",
+          "publishedOn": "2026-04-07T20:35:37.000Z",
+          "wordCount": 4012,
+          "title": "米CMEがAVAX・SUI先物を5月上場へ、機関投資家向け規制デリバティブをさらに拡充",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/cme-group-new-token.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/cme-group-new-token.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700113",
+          "author": "菊谷ルイス",
+          "description": "アークハムのデータによると、仮想通貨クジラのウォレットの1つが約300BTCをバイナンスへ移送。平均取得単価を大きく下回る現状価格で、大口投資家の損切り売りが現実味を帯びている。",
+          "link": "https://coinpost.jp/?p=700113",
+          "publishedOn": "2026-04-07T20:00:19.000Z",
+          "wordCount": 4023,
+          "title": "ビットコインクジラ、32億円相当BTCをバイナンスへ　含み損下で売却の可能性",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=700055",
           "author": "Enzo",
