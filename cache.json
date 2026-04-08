@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=343823",
+          "author": "NADA NEWS編集部",
+          "description": "Web3活用を検討する企業にとって、「どのブロックチェーンを採択すべきか」は、事業の拡張性やコスト、エコシステムの広がりを左右する極めて重要な意思決定です。 4 ...\n【4/10無料セッション・東京開催】「今、選ぶべきチェーンとは？」ユーザー企業のためのブロックチェーン基盤選定──Avalanche、Base、 Solana、Suiの関係者と探る first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/343823/",
+          "publishedOn": "2026-04-08T00:30:00.000Z",
+          "wordCount": 2282,
+          "title": "【4/10無料セッション・東京開催】「今、選ぶべきチェーンとは？」ユーザー企業のためのブロックチェーン基盤選定──Avalanche、Base、 Solana、Suiの関係者と探る",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/1200x800_eyecatch-8.png"
+        },
+        {
           "id": "https://www.nadanews.com/?p=343876",
           "author": "増田隆幸",
           "description": "「政府の方針からWeb3が消えた。政府はもう、Web3に力を入れないのではないかという誤解がある。まずは、その誤解を解きたい」 4月7日、都内で開催されたWeb ...\n「Web3が消えた」は誤解──川崎政務官が示した“オンチェーン金融”へのシフト first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -480,16 +490,6 @@
           "wordCount": 1706,
           "title": "ETFが支配するビットコイン市場──流動性と価格形成の主戦場はどこか【エックスウィンリサーチ】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-77-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=343473",
-          "author": "栃山 直樹",
-          "description": "日本取引所グループ（JPX）傘下で株価指数の算出などを担うJPX総研は3日、「特別注意銘柄等の取扱いについて」と題する指数のルール見直し案を公表し、東証株価指数 ...\n暗号資産トレジャリー企業、TOPIXに新規追加せず──JPX要領改定 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/343473/",
-          "publishedOn": "2026-04-03T13:54:21.000Z",
-          "wordCount": 1613,
-          "title": "暗号資産トレジャリー企業、TOPIXに新規追加せず──JPX要領改定",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1460991443.jpg"
         }
       ]
     },
@@ -504,6 +504,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=700176",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ソラナのブロックチェーン基盤のstabbleは、全てのユーザーに対し一時的に流動性を引き出すように呼びかけた。北朝鮮IT労働者とされる人物がstabbleに関与していた模様だ。",
+          "link": "https://coinpost.jp/?p=700176",
+          "publishedOn": "2026-04-08T01:30:49.000Z",
+          "wordCount": 4027,
+          "title": "ソラナ基盤のDEX「stabble」、資産の出金を呼びかけ　北朝鮮IT労働者がプロジェクトに関与か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/northkorea-hacking3_0405.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/northkorea-hacking3_0405.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700190",
+          "author": "Enzo",
+          "description": "SECが2025年度執行結果を発表。「執行による規制」を見直し、仮想通貨詐欺・市場操作対策へ優先順位を転換。関連7件の訴訟取り下げも正式認定した。",
+          "link": "https://coinpost.jp/?p=700190",
+          "publishedOn": "2026-04-08T00:48:17.000Z",
+          "wordCount": 4007,
+          "title": "SEC、執行方針を転換　「執行による規制」見直し詐欺・操作行為に集中",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=700173",
+          "author": "A.Yamada",
+          "description": "FBIの2025年インターネット犯罪レポートによると、米国で仮想通貨関連犯罪の被害額が1.8兆円に到達した。AI生成の偽動画・音声を悪用した投資詐欺も報告されている。",
+          "link": "https://coinpost.jp/?p=700173",
+          "publishedOn": "2026-04-08T00:35:10.000Z",
+          "wordCount": 4016,
+          "title": "仮想通貨犯罪で年間1.8兆円の被害　AI詐欺の現状も＝FBI統計",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/fbi24835462-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/07/fbi24835462-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=700148",
           "author": "菊谷ルイス",
@@ -1307,6 +1352,26 @@
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
         {
+          "id": "https://www.neweconomy.jp/?p=563511",
+          "author": "HitomotoToshikazu",
+          "description": "CMEがAVAXとSUIの先物提供へ 金融・商品デリバティブ取引市場運営の米CMEグループ（CME Group）が、暗号資産（仮想通貨）アバランチ（AVAX）、スイ（SUI）の2銘柄を対象とする先物取引を5月4日に提供開 […]",
+          "link": "https://www.neweconomy.jp/posts/563511",
+          "publishedOn": "2026-04-08T03:10:32.000Z",
+          "wordCount": 769,
+          "title": "米CMEグループ、アバランチ（AVAX）とスイ（SUI）の先物取引を5/4提供へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/08120955/CME-251114PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=563499",
+          "author": "OtsugaShinya",
+          "description": "SBIリップルアジアがXRPL活用のトークン発行基盤を開発 SBIリップルアジア（SBI Ripple Asia）が、パブリックブロックチェーン「XRPレジャー（XRP Ledger：XRPL）」活用のトークン発行基盤シ […]",
+          "link": "https://www.neweconomy.jp/posts/563499",
+          "publishedOn": "2026-04-08T02:27:16.000Z",
+          "wordCount": 728,
+          "title": "SBIリップルアジア、XRPL活用のトークン発行基盤を開発。「前払式支払手段発行者」登録も完了",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/08112759/ee0f778c848080637f8bbb10f0cc5338.jpg"
+        },
+        {
           "id": "https://www.neweconomy.jp/?p=563320",
           "author": "NewEconomyPodcast",
           "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
@@ -1555,16 +1620,6 @@
           "wordCount": 799,
           "title": "KBRA、リップル・プライム関連2社に発行体格付け「BBB」付与",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/06130222/13d52b91977d2b58a404fe242decff89.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=562347",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/562347",
-          "publishedOn": "2026-04-03T13:07:22.000Z",
-          "wordCount": 773,
-          "title": "【4/3話題】金融庁がトークン化預金の実証実験を支援、リナックス財団がx402財団設立へ、サークルのラップドビットコインcirBTCなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/03163858/56544d3d508f9bedb9211d1568cd3e4f.jpg"
         }
       ]
     }
