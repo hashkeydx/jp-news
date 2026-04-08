@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-08T14:00:19.230Z</updated>
+    <updated>2026-04-08T15:40:42.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/8話題】米FDICがGENIUS法に基づくステーブルコイン規制の提案規則を承認、Stabbleが指摘を受けユーザーへ流動性引き出しを案内（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=563712</id>
+        <link href="https://www.neweconomy.jp/posts/563712"/>
+        <updated>2026-04-08T15:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインのクジラ、34億円相当のBTCをバイナンスに移動]]></title>
         <id>https://www.nadanews.com/?p=343965</id>
@@ -1501,16 +1511,6 @@ JPYCとJPYSCは“競合”なのか──円ステーブルコインをめぐ�
         <summary type="html"><![CDATA[グーグルによる主要仮想通貨の耐量子計算機暗号（PQC）への移行ステータスおよび脆弱性評価を解明。ブロック生成時間が長いビットコイン特有のリスクや、1500億ドル規模に及び現実資産市場に対する潜在的な被害が、同社の最新研究データとともに定量化されている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「AIエージェントを狙う6つの罠」、グーグルが敵対的コンテンツの脅威を分析]]></title>
-        <id>https://coinpost.jp/?p=699415</id>
-        <link href="https://coinpost.jp/?p=699415"/>
-        <updated>2026-04-04T02:20:09.000Z</updated>
-        <summary type="html"><![CDATA[グーグルの人工知能研究チームが、自律型AIエージェントを不正操作する「敵対的コンテンツ」の脅威を6種類に分類した。攻撃手法と防御策を解説している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
