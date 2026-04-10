@@ -780,26 +780,6 @@
           "wordCount": 1591,
           "title": "ジャック・ドーシー氏のBlock、ビットコイン無料配布を再開へ",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_1930531490.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=343648",
-          "author": "井上 俊彦",
-          "description": "ビットコイン（Bitcoin）ネットワークにおいて、小規模な個人マイナーが天文学的な確率を突破し、巨額の報酬を手にするという出来事が起きた。 2026年4月2日 ...\n幸運なソロマイナーが、21万ドルのブロック報酬を獲得 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/343648/",
-          "publishedOn": "2026-04-06T08:05:00.000Z",
-          "wordCount": 1588,
-          "title": "幸運なソロマイナーが、21万ドルのブロック報酬を獲得",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/03/shutterstock_1022617045.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=343513",
-          "author": "宮本航歩",
-          "description": "2026年3月31日、Google Quantum AIは、将来の量子コンピューターが従来の見積もりより少ない計算リソースで暗号資産のセキュリティを解読する可能 ...\nGoogle、暗号資産の量子脆弱性に関するホワイトペーパーを公開──耐量子暗号移行への技術的課題と主要ブロックチェーンの動向【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/343513/",
-          "publishedOn": "2026-04-06T08:00:00.000Z",
-          "wordCount": 1643,
-          "title": "Google、暗号資産の量子脆弱性に関するホワイトペーパーを公開──耐量子暗号移行への技術的課題と主要ブロックチェーンの動向【MCB FinTechカタログ通信】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/Safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly.jpg"
         }
       ]
     },
@@ -814,6 +794,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=701195",
+          "author": "菊谷ルイス",
+          "description": "コインベースのアームストロングCEOが、米仮想通貨市場構造法案への支持を表明。報酬禁止条項を巡る従来の反対姿勢から一転し、スコット・ベッセント財務長官が求める早期の法制化に賛同した。",
+          "link": "https://coinpost.jp/?p=701195",
+          "publishedOn": "2026-04-10T20:00:05.000Z",
+          "wordCount": 4008,
+          "title": "コインベースCEO、財務長官の「クラリティー法案」可決要請に賛同",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/congress.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/congress.png"
+        },
         {
           "id": "https://coinpost.jp/?p=701086",
           "author": "Ritsuki.Kumazawa",
@@ -1908,21 +1903,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/strategy-after-13-days.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/strategy-after-13-days.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=698792",
-          "author": "CoinPost編集部",
-          "description": "羽田空港でのUSDC決済実証を主導したWEA JAPAN代表・番所嘉基氏が、既存決済インフラの構造的課題とステーブルコインによる社会実装の設計思想を語る。",
-          "link": "https://coinpost.jp/?p=698792",
-          "publishedOn": "2026-04-06T08:00:55.000Z",
-          "wordCount": 3885,
-          "title": "「リアル店舗からWeb3を動かす」 WEA JAPAN代表が語るステーブルコイン決済の社会実装",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/wea_japan_thumbnail0403-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/wea_japan_thumbnail0403-1.png"
         }
       ]
     },
