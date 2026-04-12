@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-12T22:53:54.226Z</updated>
+    <updated>2026-04-12T23:49:59.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットディア、週間採掘165BTCを全売却　ゼロ保有戦略を継続]]></title>
+        <id>https://coinpost.jp/?p=701365</id>
+        <link href="https://coinpost.jp/?p=701365"/>
+        <updated>2026-04-12T23:23:39.000Z</updated>
+        <summary type="html"><![CDATA[ビットディアが4月10日時点の週次データを公開。採掘した165BTCを全量売却し、ゼロ保有戦略を継続。稼働ハッシュレートは68EH/sに達している。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イラン、ホルムズ海峡の通航料にビットコイン要求か　ギャラクシー研究責任者が真偽を分析]]></title>
+        <id>https://coinpost.jp/?p=701360</id>
+        <link href="https://coinpost.jp/?p=701360"/>
+        <updated>2026-04-12T23:05:24.000Z</updated>
+        <summary type="html"><![CDATA[ギャラクシーのリサーチ責任者がイランのホルムズ海峡BTC通航料報道を分析。情報の矛盾点と技術的疑問を整理しつつ、オンチェーン検証を進めていることを明らかにした。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JPYCとHashPort 切り開くDeFi──新しい日本型金融構造【エックスウィンリサーチ】]]></title>
         <id>https://www.nadanews.com/?p=344375</id>
