@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=344491",
+          "author": "Shoko Galaviz",
+          "description": "米証券取引委員会（SEC）のトレーディング・マーケッツ部門スタッフは、暗号資産（仮想通貨）の取引準備に用いられるユーザーインターフェース（UI）に関する見解を公 ...\n米SEC、暗号資産向けUIに関する見解を公表──条件付きでブローカー登録不要の可能性 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344491/",
+          "publishedOn": "2026-04-13T21:00:00.000Z",
+          "wordCount": 1588,
+          "title": "米SEC、暗号資産向けUIに関する見解を公表──条件付きでブローカー登録不要の可能性",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2426097137.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344465",
           "author": "橋本 祐樹",
           "description": "QRコード決済ゲートウェイを手がけるネットスターズは13日、米ドル連動型ステーブルコイン「USDC」を発行するサークル（Circle）の関連会社、Circle  ...\nネットスターズ、サークルのクロスチェーン基盤「Gateway」を活用した技術開発を開始──「StarPay-X」の実現へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -510,26 +520,6 @@
           "wordCount": 1591,
           "title": "ブータン政府、2300万ドル分のBTCを移動──保有数はピークから70％減",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2024/09/shutterstock_2380092789.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344058",
-          "author": "井上 俊彦",
-          "description": "Morgan Stanley（モルガン・スタンレー）は4月8日、アメリカの大手銀行としては初めてのビットコイン（BTC）現物ETFとなる「Morgan Stan ...\nMorgan Stanleyのビットコイン現物ETF、上場初日に3400万ドルを集める first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344058/",
-          "publishedOn": "2026-04-09T08:40:00.000Z",
-          "wordCount": 1632,
-          "title": "Morgan Stanleyのビットコイン現物ETF、上場初日に3400万ドルを集める",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/10/shutterstock_2180234701.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344053",
-          "author": "廣瀬 優香",
-          "description": "デジタル資産投資会社であるCanary Capital（カナリー・キャピタル）は4月8日、ミームコイン「ペペ（PEPE）」に連動する現物ETF（上場投資信託）の ...\nCanary Capital、PEPE現物ETFをSECに申請 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344053/",
-          "publishedOn": "2026-04-09T08:25:00.000Z",
-          "wordCount": 1602,
-          "title": "Canary Capital、PEPE現物ETFをSECに申請",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2516972907.jpg"
         }
       ]
     },
@@ -544,6 +534,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=701626",
+          "author": "菊谷ルイス",
+          "description": "トランプ米大統領の仮想通貨顧問が停滞していた「クラリティー法案」の合意が極めて近いとの認識を示した。全米銀行協会がステーブルコインの利回り提供による預金流出リスクを警告しロビー活動を強める中、米上院での法制化に向けた最終調整が重大な局面を迎えている。",
+          "link": "https://coinpost.jp/?p=701626",
+          "publishedOn": "2026-04-13T20:45:39.000Z",
+          "wordCount": 4000,
+          "title": "米クラリティー法案、最終合意に向け前進か　トランプ大統領顧問「主要課題を解消」",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701603",
+          "author": "菊谷ルイス",
+          "description": "米ストラテジーが先週13927BTCのビットコインを約10億ドルで購入。保有総量は780897 BTCに達しており、2週間連続の買い増しとなった。",
+          "link": "https://coinpost.jp/?p=701603",
+          "publishedOn": "2026-04-13T20:00:13.000Z",
+          "wordCount": 4210,
+          "title": "マイケル・セイラーのストラテジーが1600億円相当ビットコインを追加購入、保有量78万BTC突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/Microstrategy_0711.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=697702",
           "author": "CoinPost編集部",
@@ -1188,21 +1208,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz2026-1.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz2026-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=700580",
-          "author": "M.Gelacio",
-          "description": "4月7日、東京・八芳園で開催された「XRP TOKYO 2026」のレポート。XRPL Japan代表の古川舞氏が世界初のプロトコルレベルDEXや量子耐性対応など技術的優位性を解説。国内NFT市場が前年比最大3.7倍に拡大するなど、日本発XRPLエコシステムの成長が鮮明に。",
-          "link": "https://coinpost.jp/?p=700580",
-          "publishedOn": "2026-04-09T08:12:49.000Z",
-          "wordCount": 3491,
-          "title": "XRPL Japanが発足一年の歩みと技術的優位性を解説｜TEAMZ SUMMIT 2026",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/xrp-tokyo-2026-20260409-1c-1.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/xrp-tokyo-2026-20260409-1c-1.jpeg"
         }
       ]
     },
@@ -1470,56 +1475,6 @@
           "wordCount": 767,
           "title": "【4/9話題】バイナンスジャパンでPayPayマネーでの即時入出金、モルガンスタンレーのビットコインETF上場、韓国が暗号資産規制を全面強化など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/09184733/ee4a19147145d7d9f5faeb66b461605a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=563914",
-          "author": "HitomotoToshikazu",
-          "description": "Coinbaseが豪州でAFSL取得 米暗号資産取引所大手コインベース（Coinbase）が、豪州での金融サービスライセンス取得を4月7日に発表した。同取引所の豪州法人コインベース・オーストラリア（Coinbase Au […]",
-          "link": "https://www.neweconomy.jp/posts/563914",
-          "publishedOn": "2026-04-09T08:08:04.000Z",
-          "wordCount": 789,
-          "title": "コインベース、豪州で金融サービスライセンス取得",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/09170739/7b2261a65cf4e63c453e02187bf3e6db.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=563908",
-          "author": "OtsugaShinya",
-          "description": "バイナンスジャパンでPayPayマネーでの即時入出金が可能に 国内暗号資産（仮想通貨）取引所バイナンスジャパン（Binance Japan）提供の暗号資産現物取引において、PayPayマネーを通じてあらかじめ同取引所アカ […]",
-          "link": "https://www.neweconomy.jp/posts/563908",
-          "publishedOn": "2026-04-09T08:07:18.000Z",
-          "wordCount": 744,
-          "title": "バイナンスジャパン、PayPayマネーでの即時入出金が可能に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/09170703/e77ee7c3d35d9f75cd2c88de27db4c8f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=563895",
-          "author": "OtsugaShinya",
-          "description": "マツモトが株主優待でSOL進呈へ 東証スタンダード上場企業マツモトが、暗号資産（仮想通貨）ソラナ（SOL）を進呈する株主優待を実施すると4月6日に発表した。 この優待の対象は、2026年4月30日現在の株主名簿に記載また […]",
-          "link": "https://www.neweconomy.jp/posts/563895",
-          "publishedOn": "2026-04-09T07:53:09.000Z",
-          "wordCount": 741,
-          "title": "マツモト、株主優待で「ソラナ（SOL）」進呈へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/09165245/56b08e4c87c0e6437049160aa1e9fa32.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=563883",
-          "author": "watanabeyousuke",
-          "description": "理論進展とハードウェアの乖離、関係者は冷静な評価 ブロックストリーム（Blockstream）のCEOであり暗号学者のアダム・バック（Adam Back）氏が、グーグル（Google）の量子コンピュータ研究を受けて再燃し […]",
-          "link": "https://www.neweconomy.jp/posts/563883",
-          "publishedOn": "2026-04-09T07:45:20.000Z",
-          "wordCount": 846,
-          "title": "グーグル論文で再燃したビットコイン量子リスク、アダムバックは「差し迫った脅威ではない」と指摘",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/09164502/52fe159a9256937e6330e1d12c21ef08.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=563830",
-          "author": "watanabeyousuke",
-          "description": "イーサリアムの次世代設計に対応したクライアントを開発 イーサリアム（Ethereum）に特化した研究機関「一般社団法人ニックス・ファウンデーション（Nyx Foundation：以下、Nyx）」が、イーサリアム（Ethe […]",
-          "link": "https://www.neweconomy.jp/posts/563830",
-          "publishedOn": "2026-04-09T07:38:39.000Z",
-          "wordCount": 812,
-          "title": "ニックスファウンデーション、イーサリアム次世代クライアント「Verity」開発開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/09163802/ceb94a511777fbd5df70291fb32e339d.jpg"
         }
       ]
     }
