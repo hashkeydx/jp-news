@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-13T10:55:57.740Z</updated>
+    <updated>2026-04-13T12:09:24.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ネットスターズ、サークルのクロスチェーン基盤「Gateway」を活用した技術開発を開始──「StarPay-X」の実現へ]]></title>
+        <id>https://www.nadanews.com/?p=344465</id>
+        <link href="https://www.nadanews.com/344465/"/>
+        <updated>2026-04-13T10:56:55.000Z</updated>
+        <summary type="html"><![CDATA[QRコード決済ゲートウェイを手がけるネットスターズは13日、米ドル連動型ステーブルコイン「USDC」を発行するサークル（Circle）の関連会社、Circle  ...
+ネットスターズ、サークルのクロスチェーン基盤「Gateway」を活用した技術開発を開始──「StarPay-X」の実現へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>橋本 祐樹</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[機関投資家はこれまでになく強気なのに、個人投資家は撤退している]]></title>
         <id>https://www.nadanews.com/?p=344457</id>
@@ -1539,36 +1550,6 @@ Binance JapanとPayPayの連携サービス拡張——PayPayマネーで事前�
         <link href="https://coinpost.jp/?p=700487"/>
         <updated>2026-04-09T00:15:53.000Z</updated>
         <summary type="html"><![CDATA[米国財務省傘下のFinCENとOFACが、ステーブルコインに対する新たな共同規則案を発表。ジーニアス法に基づく不正資金対策として、発行体にマネーロンダリング対策と制裁遵守プログラムの導入を義務付ける方針だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮ITワーカーの内部決済サーバーが流出、月100万ドル規模の不正スキームが判明＝ZachXBT]]></title>
-        <id>https://coinpost.jp/?p=700512</id>
-        <link href="https://coinpost.jp/?p=700512"/>
-        <updated>2026-04-08T23:59:09.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン調査員ZachXBTが北朝鮮の内部決済サーバー流出データを分析。390口座・チャットログから月100万ドル規模の偽造身元・仮想通貨換金スキームが明らかに。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインATM大手Bitcoin Depotにサイバー攻撃、6億円弱相当のBTCが不正流出]]></title>
-        <id>https://coinpost.jp/?p=700505</id>
-        <link href="https://coinpost.jp/?p=700505"/>
-        <updated>2026-04-08T23:36:50.000Z</updated>
-        <summary type="html"><![CDATA[米BTCATMのBitcoin Depotがサイバー攻撃を受け、2026年3月23日に約51BTCが不正流出したとSECへ開示。顧客データへの影響はなく、調査を継続中。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインへの量子脅威は「管理可能」　バーンスタイン、3～5年の移行期間を提示]]></title>
-        <id>https://coinpost.jp/?p=700486</id>
-        <link href="https://coinpost.jp/?p=700486"/>
-        <updated>2026-04-08T23:10:22.000Z</updated>
-        <summary type="html"><![CDATA[投資銀行バーンスタインが8日、ビットコインの量子コンピュータ脅威は「存亡の危機」ではなく、3～5年の段階的アップグレード周期であると分析。古いウォレットの170万BTC以外は対応可能だと指摘。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
