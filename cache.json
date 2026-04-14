@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=344698",
+          "author": "Shoko Galaviz",
+          "description": "ステーブルコインUSDTの発行元であるTether（テザー）は、新たなセルフカストディ型デジタルウォレット「tether.wallet」のローンチを発表した。こ ...\nTether、セルフカストディ型ウォレット「tether.wallet」をローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344698/",
+          "publishedOn": "2026-04-14T22:00:00.000Z",
+          "wordCount": 1593,
+          "title": "Tether、セルフカストディ型ウォレット「tether.wallet」をローンチ",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2666016469-1.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=344500",
+          "author": "XWIN Research",
+          "description": "● SECのDeFi関連声明が規制リスク後退を示唆し、ETHに構造的追い風● ETF流入・アクティブアドレス増加・機関買いが同時進行● 価格上昇は短期ではなく「 ...\nイーサリアム回復の本質──DeFi規制緩和とオンチェーン強化が重なる構造変化【エックスウィンリサーチ】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344500/",
+          "publishedOn": "2026-04-14T21:44:19.000Z",
+          "wordCount": 1694,
+          "title": "イーサリアム回復の本質──DeFi規制緩和とオンチェーン強化が重なる構造変化【エックスウィンリサーチ】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/nadanews_top-2026-04-15T064125.509.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=344695",
+          "author": "Shoko Galaviz",
+          "description": "暗号資産（仮想通貨）ウォレット「Ledger（レジャー）」を装った偽アプリがApple（アップル）のApp Store上で配布され、約950万ドル（約15億円、 ...\n偽Ledgerアプリで約15億円流出——Apple App Store経由で50人以上が被害 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344695/",
+          "publishedOn": "2026-04-14T21:30:00.000Z",
+          "wordCount": 1596,
+          "title": "偽Ledgerアプリで約15億円流出——Apple App Store経由で50人以上が被害",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2415998581.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344692",
           "author": "Shoko Galaviz",
           "description": "米大手投資銀行Goldman Sachs（ゴールドマン・サックス）が、ビットコイン（BTC）への間接的なエクスポージャーとインカム収益を組み合わせた新たなETF ...\nGoldman Sachs、ビットコインインカム型ETFを申請 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -454,6 +484,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=701972",
+          "author": "菊谷ルイス",
+          "description": "アップルのApp Storeに掲載された偽の「Ledger Live」アプリにより、約950万ドルの仮想通貨が盗難被害。ZachXBTによる調査で、50人以上の被害者や大規模なマネーロンダリングの実態が判明。",
+          "link": "https://coinpost.jp/?p=701972",
+          "publishedOn": "2026-04-14T21:50:30.000Z",
+          "wordCount": 3981,
+          "title": "アップルのApp Storeに偽のレジャーアプリ、950万ドルの盗難被害が発生",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/grayscale-fraud-warning.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/grayscale-fraud-warning.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=701973",
+          "author": "菊谷ルイス",
+          "description": "FRB議長候補のケビン・ウォーシュが4月14日に財務公開。ポリマーケットなど含む20超の仮想通貨関連企業に投資、総資産1.3億ドル以上を保有。15日の指名公聴会を控える。",
+          "link": "https://coinpost.jp/?p=701973",
+          "publishedOn": "2026-04-14T21:15:44.000Z",
+          "wordCount": 3988,
+          "title": "米FRB議長候補ウォーシュ氏、ポリマーケットやスペースX含む数十社に投資　倫理協定で一部売却予定",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/04/FRB0429211.png"
+        },
         {
           "id": "https://coinpost.jp/?p=701969",
           "author": "菊谷ルイス",
@@ -1188,21 +1248,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz_cbdc_stablecoin_0410.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz_cbdc_stablecoin_0410.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=699970",
-          "author": "Ritsuki.Kumazawa",
-          "description": "TEAMZ SUMMIT 2026のXRP Tokyoパネルで、楽天ウォレットがXRPを含む5銘柄の現物取引を来週から開始すると表明。SBI VCトレードはRLUSDを今年中に取り扱い開始する方針を示した。",
-          "link": "https://coinpost.jp/?p=699970",
-          "publishedOn": "2026-04-10T09:40:32.000Z",
-          "wordCount": 3352,
-          "title": "業界キーパーソンがステーブルコインとAI決済の未来を議論｜TEAMZ WEB3/AI SUMMIT 2026",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz_day1_10407.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/teamz_day1_10407.jpeg"
         }
       ]
     },
@@ -1510,16 +1555,6 @@
           "wordCount": 720,
           "title": "TORICOがイーサリアム追加購入、総取得数2561ETH超に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/13104937/363c67c824ddcf4df655c127ee607c79.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=564296",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/564296",
-          "publishedOn": "2026-04-10T09:47:23.000Z",
-          "wordCount": 757,
-          "title": "【4/10話題】金商法改正案が閣議決定、OKJにステップンのGMT上場へ、TONのアップグレード、暗号資産関連YouTubeが大量削除など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/10173434/c6399583d127fae1261175dbfaa77042.jpg"
         }
       ]
     }
