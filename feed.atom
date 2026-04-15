@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-15T08:03:47.503Z</updated>
+    <updated>2026-04-15T09:48:29.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[株式のトークン化が切り拓く資本市場の新時代｜Four Pillars寄稿]]></title>
+        <id>https://coinpost.jp/?p=702171</id>
+        <link href="https://coinpost.jp/?p=702171"/>
+        <updated>2026-04-15T09:45:38.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン・米国債に続く2026年の最注目テーマ、トークン化株式をFour Pillars寄稿レポートで徹底解説。直接・間接トークン化など4つのモデルから主要プラットフォーム、各国規制、ビジネス機会まで網羅。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBI Chiliz、東京ヴェルディとファントークンのMOU締結　Jリーグ初]]></title>
+        <id>https://coinpost.jp/?p=702303</id>
+        <link href="https://coinpost.jp/?p=702303"/>
+        <updated>2026-04-15T09:25:59.000Z</updated>
+        <summary type="html"><![CDATA[東京ヴェルディがSBI ChilizとファントークンMOUを締結。Jリーグ初の取り組みとして、ファン投票やデジタル特典の導入を共同検討。法規制対応も進める。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子脆弱なビットコインの凍結計画、BIP-361が3段階移行を提案]]></title>
+        <id>https://coinpost.jp/?p=702238</id>
+        <link href="https://coinpost.jp/?p=702238"/>
+        <updated>2026-04-15T08:42:12.000Z</updated>
+        <summary type="html"><![CDATA[BIP-361を公開。量子脆弱な約170万BTC（約11兆8,000億円）を段階的に凍結する計画で、サトシ推定保有分も対象。コミュニティは強く反発している。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle、レイヤー1ブロックチェーン「Arc」のネイティブトークン発行やPoSモデルへの移行を計画]]></title>
+        <id>https://www.nadanews.com/?p=344824</id>
+        <link href="https://www.nadanews.com/344824/"/>
+        <updated>2026-04-15T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[USDコイン（USDC）発行元のCircle（サークル）が、独自のレイヤー1ブロックチェーン「Arc Network」でネイティブトークンの発行を検討しているこ ...
+Circle、レイヤー1ブロックチェーン「Arc」のネイティブトークン発行やPoSモデルへの移行を計画 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFiは規制されるのか？ 答えは「設計」次第──SEC見解が示した“設計ベース規制”【専門家解説】]]></title>
         <id>https://www.nadanews.com/?p=344816</id>
@@ -1621,26 +1662,6 @@ World、WLDトークンのアンロック速度を43％削減へ first appeared 
 Securitize、TRONと統合──トークン化資産の流通基盤を拡張 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ワールド（WLD）、7月からトークンのアンロックを大幅減速へ]]></title>
-        <id>https://coinpost.jp/?p=701233</id>
-        <link href="https://coinpost.jp/?p=701233"/>
-        <updated>2026-04-10T21:15:47.000Z</updated>
-        <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブータン政府が新たに250BTC移動、今週550BTC以上のビットコインを送金]]></title>
-        <id>https://coinpost.jp/?p=701238</id>
-        <link href="https://coinpost.jp/?p=701238"/>
-        <updated>2026-04-10T20:50:53.000Z</updated>
-        <summary type="html"><![CDATA[ブータン王国政府が10日に250BTCのビットコインを新規ウォレットに移動。オンチェーンデータから売却意図の可能性が指摘される中、今年の送出総額は2.3億ドルを超えている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=344824",
+          "author": "井上 俊彦",
+          "description": "USDコイン（USDC）発行元のCircle（サークル）が、独自のレイヤー1ブロックチェーン「Arc Network」でネイティブトークンの発行を検討しているこ ...\nCircle、レイヤー1ブロックチェーン「Arc」のネイティブトークン発行やPoSモデルへの移行を計画 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/344824/",
+          "publishedOn": "2026-04-15T08:40:00.000Z",
+          "wordCount": 1594,
+          "title": "Circle、レイヤー1ブロックチェーン「Arc」のネイティブトークン発行やPoSモデルへの移行を計画",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2643246187.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=344816",
           "author": "増田隆幸",
           "description": "SEC（米証券取引委員会）は4月13日、DeFiに関連するフロントエンドやウォレットなどのユーザーインターフェース（UI）に関する見解を公表した。 見解は法的拘 ...\nDeFiは規制されるのか？ 答えは「設計」次第──SEC見解が示した“設計ベース規制”【専門家解説】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -594,6 +604,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=702171",
+          "author": "CoinPost編集部",
+          "description": "ステーブルコイン・米国債に続く2026年の最注目テーマ、トークン化株式をFour Pillars寄稿レポートで徹底解説。直接・間接トークン化など4つのモデルから主要プラットフォーム、各国規制、ビジネス機会まで網羅。",
+          "link": "https://coinpost.jp/?p=702171",
+          "publishedOn": "2026-04-15T09:45:38.000Z",
+          "wordCount": 4682,
+          "title": "株式のトークン化が切り拓く資本市場の新時代｜Four Pillars寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/fourpillars_moneyx_thumbnail_0316.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/fourpillars_moneyx_thumbnail_0316.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=702303",
+          "author": "Enzo",
+          "description": "東京ヴェルディがSBI ChilizとファントークンMOUを締結。Jリーグ初の取り組みとして、ファン投票やデジタル特典の導入を共同検討。法規制対応も進める。",
+          "link": "https://coinpost.jp/?p=702303",
+          "publishedOn": "2026-04-15T09:25:59.000Z",
+          "wordCount": 3987,
+          "title": "SBI Chiliz、東京ヴェルディとファントークンのMOU締結　Jリーグ初",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/80006_1200x675_69ddc341179ae.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/80006_1200x675_69ddc341179ae.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=702238",
+          "author": "Enzo",
+          "description": "BIP-361を公開。量子脆弱な約170万BTC（約11兆8,000億円）を段階的に凍結する計画で、サトシ推定保有分も対象。コミュニティは強く反発している。",
+          "link": "https://coinpost.jp/?p=702238",
+          "publishedOn": "2026-04-15T08:42:12.000Z",
+          "wordCount": 3987,
+          "title": "量子脆弱なビットコインの凍結計画、BIP-361が3段階移行を提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=702126",
           "author": "Enzo",
@@ -1448,36 +1503,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701233",
-          "author": "菊谷ルイス",
-          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
-          "link": "https://coinpost.jp/?p=701233",
-          "publishedOn": "2026-04-10T21:15:47.000Z",
-          "wordCount": 4003,
-          "title": "ワールド（WLD）、7月からトークンのアンロックを大幅減速へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Worldcoin1128.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/Worldcoin1128.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=701238",
-          "author": "菊谷ルイス",
-          "description": "ブータン王国政府が10日に250BTCのビットコインを新規ウォレットに移動。オンチェーンデータから売却意図の可能性が指摘される中、今年の送出総額は2.3億ドルを超えている。",
-          "link": "https://coinpost.jp/?p=701238",
-          "publishedOn": "2026-04-10T20:50:53.000Z",
-          "wordCount": 4020,
-          "title": "ブータン政府が新たに250BTC移動、今週550BTC以上のビットコインを送金",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
         }
       ]
     },
