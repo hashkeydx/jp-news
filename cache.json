@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345068",
+          "author": "Shoko Galaviz",
+          "description": "Polkadot（ポルカドット）基盤のクロスチェーンプロトコル「Hyperbridge（ハイパーブリッジ）」は、4月13日に発生したトークンブリッジ「Token ...\nHyperbridge、エクスプロイト被害額を約3億9000万円に上方修正──クロスチェーン攻撃で初期推定の約10倍 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345068/",
+          "publishedOn": "2026-04-16T21:30:00.000Z",
+          "wordCount": 1591,
+          "title": "Hyperbridge、エクスプロイト被害額を約3億9000万円に上方修正──クロスチェーン攻撃で初期推定の約10倍",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2415998581.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=345066",
           "author": "Shoko Galaviz",
           "description": "AIエージェント向け決済インフラを提供するCrossmin（クロスミント）tは、同社の「Lobster.cash」がMastercard（マスターカード）と提携 ...\nMastercardとLobster.cashが提携──AIエージェントがカード決済を代行へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -714,6 +724,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=702724",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨XRP価格が過去1週間で7%上昇しビットコインやイーサリアムのパフォーマンスを上回った。XRPの現物ETFが4月15日に27億円超の純流入を記録し機関投資家の復帰を示唆している。",
+          "link": "https://coinpost.jp/?p=702724",
+          "publishedOn": "2026-04-16T21:45:53.000Z",
+          "wordCount": 3646,
+          "title": "XRP現物ETF、15日に27億円以上純流入　過去2番目の規模",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/xrp-goldman-sol-as-well-big-position.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/xrp-goldman-sol-as-well-big-position.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=702725",
+          "author": "菊谷ルイス",
+          "description": "決済大手のマスターカードが、AIエージェント向け決済ソリューション「Lobster.cash」との連携を発表。「エージェント型コマース」の普及を加速させ、投資家が注目する新たな成長市場を牽引していく狙いだ。",
+          "link": "https://coinpost.jp/?p=702725",
+          "publishedOn": "2026-04-16T20:55:02.000Z",
+          "wordCount": 4156,
+          "title": "マスターカード、AIエージェント決済に本格参入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/mastercard-buying-bvnk-stablecoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/mastercard-buying-bvnk-stablecoin.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=702726",
           "author": "菊谷ルイス",
