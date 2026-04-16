@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-16T12:07:27.326Z</updated>
+    <updated>2026-04-16T14:11:49.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/16話題】東京ヴェルディとSBI Chilizが国内ファントークン導入検討、ビットコインの量子耐性移行案「BIP361」のドラフト提案など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=565796</id>
+        <link href="https://www.neweconomy.jp/posts/565796"/>
+        <updated>2026-04-16T13:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFiでAIエージェント活用が拡大──「Grok 4.20」が主要モデルで最高成績]]></title>
+        <id>https://www.nadanews.com/?p=344850</id>
+        <link href="https://www.nadanews.com/344850/"/>
+        <updated>2026-04-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドバイを拠点とする暗号資産（仮想通貨）マーケットメイカーのDWF Labsは16日、DeFi（分散型金融）におけるAIエージェントの現状と課題をまとめたレポート ...
+DeFiでAIエージェント活用が拡大──「Grok 4.20」が主要モデルで最高成績 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットマイン、イーサリアム保有数487万ETHに。評価損は37.7億ドル]]></title>
         <id>https://www.neweconomy.jp/?p=565640</id>
@@ -1969,37 +1990,6 @@ JPYCとHashPort 切り開くDeFi──新しい日本型金融構造【エック
         <link href="https://coinpost.jp/?p=701062"/>
         <updated>2026-04-12T02:30:04.000Z</updated>
         <summary type="html"><![CDATA[今週のBTCは米・イラン停戦合意を受け1150万円台まで回復。目先はイスラマバードでの和平交渉の行方と米インフレ指標が注目材料。交渉継続＋インフレ予想通りなら3月高値1200万円周辺を試す展開も。bitbankアナリスト長谷川氏が解説。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不動産会社による証券会社買収、トークン化株式、AI×DeFi──今週の注目トピック3選【編集長 Re: チェック】]]></title>
-        <id>https://www.nadanews.com/?p=344334</id>
-        <link href="https://www.nadanews.com/344334/"/>
-        <updated>2026-04-12T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今週は印象的なニュースが続いた。NADA NEWSでは、暗号資産の分離課税や金商法移行、RLUSDが「100万円制限」回避を狙うという記事が注目を集めたが、その ...
-不動産会社による証券会社買収、トークン化株式、AI×DeFi──今週の注目トピック3選【編集長 Re: チェック】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今週の主要仮想通貨材料まとめ、BTC創造者サトシの正体調査やETH財団のステーブルコイン変換計画など]]></title>
-        <id>https://coinpost.jp/?p=700900</id>
-        <link href="https://coinpost.jp/?p=700900"/>
-        <updated>2026-04-12T00:30:24.000Z</updated>
-        <summary type="html"><![CDATA[前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナといった主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週刊ニュース｜ホルムズ海峡通行料の仮想通貨での徴収方針やグーグルによる量子リスク対応度分析に高い関心]]></title>
-        <id>https://coinpost.jp/?p=700924</id>
-        <link href="https://coinpost.jp/?p=700924"/>
-        <updated>2026-04-12T00:25:30.000Z</updated>
-        <summary type="html"><![CDATA[今週は、量子コンピュータリスクに関する論文、JPXによる仮想通貨主体企業のTOPIX新規組み入れ見送り方針に対するメタプラネットの見解、ホルムズ海峡通行料の仮想通貨による徴収方針に関する記事が関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
         </author>
