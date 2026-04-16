@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-16T23:00:28.699Z</updated>
+    <updated>2026-04-16T23:56:07.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米大手証券会社チャールズ・シュワブ、仮想通貨現物取引を提供開始　ビットコインとイーサリアムから]]></title>
+        <id>https://coinpost.jp/?p=702721</id>
+        <link href="https://coinpost.jp/?p=702721"/>
+        <updated>2026-04-16T23:45:21.000Z</updated>
+        <summary type="html"><![CDATA[チャールズ・シュワブが仮想通貨現物取引「Schwab Crypto」サービス展開を発表。ビットコイン・イーサリアムの現物取引を数週間以内に段階的開始。12兆ドル運用で仮想通貨の主流化を推進する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハック被害のソラナ基盤ドリフト、テザーなどから最大230億円超の支援]]></title>
+        <id>https://coinpost.jp/?p=702737</id>
+        <link href="https://coinpost.jp/?p=702737"/>
+        <updated>2026-04-16T23:15:17.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナのブロックチェーン基盤のドリフトは、不正流出被害について現状を報告し、テザーなどから最大230億円超を支援してもらうことを発表。ユーザーへの補償計画などについて説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アダム・バック、ビットコインの量子耐性移行に慎重姿勢]]></title>
         <id>https://coinpost.jp/?p=702723</id>
