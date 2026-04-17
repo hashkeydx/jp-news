@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345292",
+          "author": "Shoko Galaviz",
+          "description": "米テキサス州の男性が、名画や金を裏付け資産と偽った暗号資産（仮想通貨）詐欺で約2000万ドル（約31億円、1ドル＝155円換算）を不正に集めたとして、有罪判決を ...\n米国の暗号資産詐欺、被告に懲役23年──ピカソやゴッホの名画で裏付けと虚偽 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345292/",
+          "publishedOn": "2026-04-17T22:30:00.000Z",
+          "wordCount": 1591,
+          "title": "米国の暗号資産詐欺、被告に懲役23年──ピカソやゴッホの名画で裏付けと虚偽",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_222588499.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=345289",
+          "author": "Shoko Galaviz",
+          "description": "4月1日に発生した約2億8000万ドル（約430億円、1ドル＝155円換算）規模のDrift Protocol（ドリフト・プロトコル）ハッキングをめぐり、ステー ...\nDriftハッキング巡りCircleに集団訴訟──約430億円流出で対応の遅れが焦点に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345289/",
+          "publishedOn": "2026-04-17T22:00:00.000Z",
+          "wordCount": 1585,
+          "title": "Driftハッキング巡りCircleに集団訴訟──約430億円流出で対応の遅れが焦点に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2666015667-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=345266",
           "author": "NADA NEWS編集部",
           "description": "三井物産デジタルコモディティーズは17日、金・銀・プラチナ価格への連動を目指す暗号資産「ジパングコイン（ZPG）」シリーズについて、マルチチェーン展開を開始する ...\nジパングコイン、マルチチェーン展開へ──OP Mainnet対応、Solanaも視野 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -740,26 +760,6 @@
           "wordCount": 1588,
           "title": "米SEC、暗号資産向けUIに関する見解を公表──条件付きでブローカー登録不要の可能性",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2426097137.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344465",
-          "author": "橋本 祐樹",
-          "description": "QRコード決済ゲートウェイを手がけるネットスターズは13日、米ドル連動型ステーブルコイン「USDC」を発行するサークル（Circle）の関連会社、Circle  ...\nネットスターズ、サークルのクロスチェーン基盤「Gateway」を活用した技術開発を開始──「StarPay-X」の実現へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344465/",
-          "publishedOn": "2026-04-13T10:56:55.000Z",
-          "wordCount": 1604,
-          "title": "ネットスターズ、サークルのクロスチェーン基盤「Gateway」を活用した技術開発を開始──「StarPay-X」の実現へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/DSC_8683x-scaled.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=344457",
-          "author": "井上 俊彦",
-          "description": "暗号資産（仮想通貨）ウォレット企業Exodus（エクソダス）のCEO、JP Richardson（JP・リチャードソン）氏は自身のXへの投稿で、金融機関が暗号資 ...\n機関投資家はこれまでになく強気なのに、個人投資家は撤退している first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/344457/",
-          "publishedOn": "2026-04-13T10:35:00.000Z",
-          "wordCount": 1592,
-          "title": "機関投資家はこれまでになく強気なのに、個人投資家は撤退している",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/02/shutterstock_2557198861.jpg"
         }
       ]
     },
@@ -774,6 +774,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=703029",
+          "author": "菊谷ルイス",
+          "description": "イーサリアムが2026年第1四半期に過去最高の2億40万通のトランザクションを処理。底値だった2023年の9000万件から3年で2倍以上に回復。現在のETH価格は2430ドル、過去1ヶ月で11%上昇。",
+          "link": "https://coinpost.jp/?p=703029",
+          "publishedOn": "2026-04-17T21:55:49.000Z",
+          "wordCount": 3633,
+          "title": "イーサリアム、第1四半期取引2億件　3年ぶりに回復し過去最高に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/ethereum254.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=703030",
           "author": "菊谷ルイス",
