@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-19T22:54:22.981Z</updated>
+    <updated>2026-04-19T23:51:10.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米アルミ大手、休止中の製錬所をビットコインマイナーに売却へ]]></title>
+        <id>https://coinpost.jp/?p=703139</id>
+        <link href="https://coinpost.jp/?p=703139"/>
+        <updated>2026-04-19T23:15:12.000Z</updated>
+        <summary type="html"><![CDATA[米アルミ大手アルコアが、休止中のニューヨーク州製錬所サイトをビットコインマイニング企業NYDIGに売却する交渉が大詰めを迎えている。産業インフラの仮想通貨転用が加速。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米国制裁アドレスに930億円超のビットコインが今も滞留]]></title>
         <id>https://coinpost.jp/?p=703135</id>
@@ -1406,27 +1416,6 @@ Rippleと韓国・教保生命、国債トークン化で提携──ブロッ�
         <summary type="html"><![CDATA[リップル社が4月15日韓国の大手生命保険会社Kyobo Life Insuranceと戦略的パートナーシップを締結。韓国初となるトークン化政府債券のブロックチェーン決済を実現。決済サイクルを従来の2日から数秒に短縮し、機関投資家向けデジタル資産インフラを構築する。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/15話題】GMOコインにジパングコインシリーズ3銘柄が上場へ、パシメタがBaseの日本展開支援、カウスワップでDNSハイジャックなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=565429</id>
-        <link href="https://www.neweconomy.jp/posts/565429"/>
-        <updated>2026-04-15T11:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBI Chilizと東京ヴェルディ、ファントークン導入で提携──Jリーグクラブ初]]></title>
-        <id>https://www.nadanews.com/?p=344839</id>
-        <link href="https://www.nadanews.com/344839/"/>
-        <updated>2026-04-15T11:33:41.000Z</updated>
-        <summary type="html"><![CDATA[SBI Chilizは15日、サッカーJリーグの東京ヴェルディと、日本国内でのファントークン導入に向けた共同研究に関する基本合意書（MOU）を締結したと発表した ...
-SBI Chilizと東京ヴェルディ、ファントークン導入で提携──Jリーグクラブ初 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
         </author>
     </entry>
 </feed>
