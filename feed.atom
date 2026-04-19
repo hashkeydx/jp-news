@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-19T21:50:46.467Z</updated>
+    <updated>2026-04-19T22:54:22.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米国制裁アドレスに930億円超のビットコインが今も滞留]]></title>
+        <id>https://coinpost.jp/?p=703135</id>
+        <link href="https://coinpost.jp/?p=703135"/>
+        <updated>2026-04-19T22:40:59.000Z</updated>
+        <summary type="html"><![CDATA[米財務省OFACの制裁対象ビットコインアドレス518件が過去に約25万BTCを受領し、現在も9,306BTC（約930億円）が残存していることが判明した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン和平交渉期待で底堅く、中東情勢と米金融政策が焦点に｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=702961</id>
@@ -1417,17 +1427,6 @@ Rippleと韓国・教保生命、国債トークン化で提携──ブロッ�
 SBI Chilizと東京ヴェルディ、ファントークン導入で提携──Jリーグクラブ初 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21Shares、HYPE現物ETFの第2次修正届出書をSECに提出]]></title>
-        <id>https://www.nadanews.com/?p=344829</id>
-        <link href="https://www.nadanews.com/344829/"/>
-        <updated>2026-04-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産運用会社21Shares（21シェアーズ）は4月14日、分散型取引所（DEX）Hyperliquid（ハイパーリキッド）のネイティブトークン「HYPE」 ...
-21Shares、HYPE現物ETFの第2次修正届出書をSECに提出 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
