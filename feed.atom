@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-20T14:08:40.895Z</updated>
+    <updated>2026-04-20T15:43:19.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/20話題】USDC決済可能なSlashCardが日本で開始、スターテイルが中東事業展開へ、ケルプDAOからrsETH不正流出、JPYCが28億円調達など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=566788</id>
+        <link href="https://www.neweconomy.jp/posts/566788"/>
+        <updated>2026-04-20T14:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OKJ、ステップン（GMT）の取り扱いを開始、キャンペーンも開催]]></title>
         <id>https://www.nadanews.com/?p=345547</id>
@@ -1648,67 +1658,6 @@ TORICO、ETHを追加取得──累計保有数量は世界20位相当に first
         <summary type="html"><![CDATA[トランプ大統領一族の仮想通貨プロジェクト「WLFI」が初期投資家などのトークン解放を最大4年延長することを提案。投資家からは不満の声も上がっている。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X、投稿内で「キャッシュタグ」機能を提供開始。株式・暗号資産の価格確認可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=565514</id>
-        <link href="https://www.neweconomy.jp/posts/565514"/>
-        <updated>2026-04-16T03:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Xのタイムライン上で価格チャートを表示 ソーシャルメディア「X」のプロダクト責任者であるニキータ・ビア（Nikita Bier）氏が、投稿内で株式や暗号資産（仮想通貨）の価格情報を確認できる新機能「キャッシュタグ（Cas […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CFTCがイラン停戦前の石油先物取引を調査、インサイダー疑惑]]></title>
-        <id>https://coinpost.jp/?p=702467</id>
-        <link href="https://coinpost.jp/?p=702467"/>
-        <updated>2026-04-16T03:29:30.000Z</updated>
-        <summary type="html"><![CDATA[ブルームバーグらが報じた米CFTCによる石油先物取引調査。イラン停戦発表前の不審な大規模取引を巡り、カルシやポリマーケットなど予測市場にも規制強化の波が及んでいる。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決済大手ビザが「Tempo」でバリデーターノード運用開始、ストライプらと参画]]></title>
-        <id>https://www.neweconomy.jp/?p=565507</id>
-        <link href="https://www.neweconomy.jp/posts/565507"/>
-        <updated>2026-04-16T02:54:11.000Z</updated>
-        <summary type="html"><![CDATA[ビザがTempoにアンカーバリデーターとして参画 デジタル決済大手ビザ（Visa）が、テンポ（Tempo）ネットワークのバリデーターノードの運用を開始したと4月14日に発表した。同社はトランザクション検証に参加し、オンチ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団が1Mドル規模の監査費用補助プログラム開始、開発者支援へ]]></title>
-        <id>https://www.neweconomy.jp/?p=565500</id>
-        <link href="https://www.neweconomy.jp/posts/565500"/>
-        <updated>2026-04-16T02:44:36.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団が監査費用補助プログラム開始 イーサリアム財団（Ethereum Foundation）が、イーサリアム（Ethereum）上の開発者向けにセキュリティ監査費用を補助するプログラム「イーサリアムセキュリテ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise、ステーキング型アバランチETFを上場]]></title>
-        <id>https://www.nadanews.com/?p=344933</id>
-        <link href="https://www.nadanews.com/344933/"/>
-        <updated>2026-04-16T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）運用会社Bitwise Asset Management（ビットワイズ・アセット・マネジメント）は4月15日、アバランチ（AVAX）現物ET ...
-Bitwise、ステーキング型アバランチETFを上場 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トータリスがUSDCで50万ドル調達、Yコンビネーター初の全額ステーブルコイン投資]]></title>
-        <id>https://www.neweconomy.jp/?p=565493</id>
-        <link href="https://www.neweconomy.jp/posts/565493"/>
-        <updated>2026-04-16T02:23:13.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ上で資金提供、オンチェーンで数秒決済 予測市場向けプロダクトを開発するトータリス（Totalis）が、Yコンビネーター（Y Combinator）から50万ドル（約7,945万円）をステーブルコインで調達したと4月 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
         </author>
     </entry>
 </feed>
