@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-20T22:00:39.222Z</updated>
+    <updated>2026-04-20T23:01:39.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[みずほ・野村など4社、カントンネットワークで日本国債の担保管理を実証実験]]></title>
+        <id>https://coinpost.jp/?p=703466</id>
+        <link href="https://coinpost.jp/?p=703466"/>
+        <updated>2026-04-20T22:45:25.000Z</updated>
+        <summary type="html"><![CDATA[みずほFGや野村HDなど4社は、日本国債を活用したデジタル担保管理の実証実験を開始する。活用するブロックチェーンにはカントンネットワークを採用した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether、マイニング金融企業Antalphaに出資──投資領域拡大を加速]]></title>
+        <id>https://www.nadanews.com/?p=345560</id>
+        <link href="https://www.nadanews.com/345560/"/>
+        <updated>2026-04-20T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコインUSDTの発行元として知られるTether（テザー）は、ビットコイン（BTC）マイニング関連の金融サービス企業Antalpha（アンタルファ）に ...
+Tether、マイニング金融企業Antalphaに出資──投資領域拡大を加速 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[円ステーブルコイン「JPYC」が28億円追加調達、メタプラネットや住友生命なども参加]]></title>
+        <id>https://coinpost.jp/?p=703451</id>
+        <link href="https://coinpost.jp/?p=703451"/>
+        <updated>2026-04-20T22:10:32.000Z</updated>
+        <summary type="html"><![CDATA[日本円ステーブルコイン発行のJPYC株式会社がシリーズBセカンドクローズで28億円を調達した。累計調達額は46億円に達し、実店舗決済やAI間（M2M）決済、デジタル給与払いを見据えた次世代金融インフラの構築を加速させる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RWAトークン化企業KAIO、Tether主導で追加資金調達]]></title>
+        <id>https://www.nadanews.com/?p=345557</id>
+        <link href="https://www.nadanews.com/345557/"/>
+        <updated>2026-04-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RWA（現実資産）トークン化プラットフォームKAIOは、Tether（テザー）をはじめとする投資家の参加により、800万ドル（約12億円、1ドル＝155円換算） ...
+RWAトークン化企業KAIO、Tether主導で追加資金調達 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グレースケールのHYPE現物ETF申請、カストディアンをアンカレッジに変更　コインベースから切り替えの理由と影響]]></title>
+        <id>https://coinpost.jp/?p=703450</id>
+        <link href="https://coinpost.jp/?p=703450"/>
+        <updated>2026-04-20T21:35:23.000Z</updated>
+        <summary type="html"><![CDATA[グレースケールがハイパーリキッド連動ETFの修正申請書を提出し、カストディアンをコインベースからアンカレッジ・デジタル・バンクに変更した。承認されればナスダックに「GHYP」として上場される見通しだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase、英国で暗号資産担保ローンを開始──BTCやETHを売却せずUSDC調達可能に]]></title>
         <id>https://www.nadanews.com/?p=345555</id>
@@ -15,6 +67,16 @@
 Coinbase、英国で暗号資産担保ローンを開始──BTCやETHを売却せずUSDC調達可能に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リップル、2028年までのXRPレジャー量子耐性移行を目指す　グーグルの分析受け]]></title>
+        <id>https://coinpost.jp/?p=703449</id>
+        <link href="https://coinpost.jp/?p=703449"/>
+        <updated>2026-04-20T21:10:15.000Z</updated>
+        <summary type="html"><![CDATA[米リップル社は、XRPレジャー（XRPL）を量子量子コンピュータの脅威から保護する4段階のロードマップを策定した。グーグルが仮想通貨の脆弱性を広範に指摘する中、2028年までの完全移行を目指し、長期的な資産価値の保護とインフラの堅牢性を強化する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1429,16 +1491,6 @@ MastercardとLobster.cashが提携──AIエージェントがカード決済�
 DeFiでAIエージェント活用が拡大──「Grok 4.20」が主要モデルで最高成績 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、イーサリアム保有数487万ETHに。評価損は37.7億ドル]]></title>
-        <id>https://www.neweconomy.jp/?p=565640</id>
-        <link href="https://www.neweconomy.jp/posts/565640"/>
-        <updated>2026-04-16T10:13:07.000Z</updated>
-        <summary type="html"><![CDATA[ビットマインがトレジャリー戦略とステーキング基盤を強化 ビットマイン・イマージョン・テクノロジーズ（Bitmine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）と現金などを含 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
         </author>
     </entry>
 </feed>

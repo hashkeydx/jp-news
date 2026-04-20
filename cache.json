@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345560",
+          "author": "Shoko Galaviz",
+          "description": "ステーブルコインUSDTの発行元として知られるTether（テザー）は、ビットコイン（BTC）マイニング関連の金融サービス企業Antalpha（アンタルファ）に ...\nTether、マイニング金融企業Antalphaに出資──投資領域拡大を加速 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345560/",
+          "publishedOn": "2026-04-20T22:30:00.000Z",
+          "wordCount": 1606,
+          "title": "Tether、マイニング金融企業Antalphaに出資──投資領域拡大を加速",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2666016469.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=345557",
+          "author": "Shoko Galaviz",
+          "description": "RWA（現実資産）トークン化プラットフォームKAIOは、Tether（テザー）をはじめとする投資家の参加により、800万ドル（約12億円、1ドル＝155円換算） ...\nRWAトークン化企業KAIO、Tether主導で追加資金調達 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345557/",
+          "publishedOn": "2026-04-20T22:00:00.000Z",
+          "wordCount": 1541,
+          "title": "RWAトークン化企業KAIO、Tether主導で追加資金調達",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2762670113.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=345555",
           "author": "Shoko Galaviz",
           "description": "暗号資産（仮想通貨）取引所Coinbase（コインベース）は、英国のユーザー向けに暗号資産担保ローンサービスを開始した。これにより、ビットコイン（BTC）やイー ...\nCoinbase、英国で暗号資産担保ローンを開始──BTCやETHを売却せずUSDC調達可能に first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -574,6 +594,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=703466",
+          "author": "K.Kobayashi",
+          "description": "みずほFGや野村HDなど4社は、日本国債を活用したデジタル担保管理の実証実験を開始する。活用するブロックチェーンにはカントンネットワークを採用した。",
+          "link": "https://coinpost.jp/?p=703466",
+          "publishedOn": "2026-04-20T22:45:25.000Z",
+          "wordCount": 3642,
+          "title": "みずほ・野村など4社、カントンネットワークで日本国債の担保管理を実証実験",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/Japan_628259534.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=703451",
+          "author": "菊谷ルイス",
+          "description": "日本円ステーブルコイン発行のJPYC株式会社がシリーズBセカンドクローズで28億円を調達した。累計調達額は46億円に達し、実店舗決済やAI間（M2M）決済、デジタル給与払いを見据えた次世代金融インフラの構築を加速させる。",
+          "link": "https://coinpost.jp/?p=703451",
+          "publishedOn": "2026-04-20T22:10:32.000Z",
+          "wordCount": 4160,
+          "title": "円ステーブルコイン「JPYC」が28億円追加調達、メタプラネットや住友生命なども参加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/jpyc-metaplanet-new-rai.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/jpyc-metaplanet-new-rai.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=703450",
+          "author": "菊谷ルイス",
+          "description": "グレースケールがハイパーリキッド連動ETFの修正申請書を提出し、カストディアンをコインベースからアンカレッジ・デジタル・バンクに変更した。承認されればナスダックに「GHYP」として上場される見通しだ。",
+          "link": "https://coinpost.jp/?p=703450",
+          "publishedOn": "2026-04-20T21:35:23.000Z",
+          "wordCount": 4158,
+          "title": "グレースケールのHYPE現物ETF申請、カストディアンをアンカレッジに変更　コインベースから切り替えの理由と影響",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/hyperliquid-etf-new-filing.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/hyperliquid-etf-new-filing.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=703449",
+          "author": "菊谷ルイス",
+          "description": "米リップル社は、XRPレジャー（XRPL）を量子量子コンピュータの脅威から保護する4段階のロードマップを策定した。グーグルが仮想通貨の脆弱性を広範に指摘する中、2028年までの完全移行を目指し、長期的な資産価値の保護とインフラの堅牢性を強化する。",
+          "link": "https://coinpost.jp/?p=703449",
+          "publishedOn": "2026-04-20T21:10:15.000Z",
+          "wordCount": 3653,
+          "title": "リップル、2028年までのXRPレジャー量子耐性移行を目指す　グーグルの分析受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=703448",
           "author": "菊谷ルイス",
@@ -1630,16 +1710,6 @@
           "wordCount": 780,
           "title": "【4/16話題】東京ヴェルディとSBI Chilizが国内ファントークン導入検討、ビットコインの量子耐性移行案「BIP361」のドラフト提案など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/16201046/5462b33ba3b9df385e16678b6acfa7a0.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=565640",
-          "author": "watanabeyousuke",
-          "description": "ビットマインがトレジャリー戦略とステーキング基盤を強化 ビットマイン・イマージョン・テクノロジーズ（Bitmine Immersion Technologies：以下、ビットマイン）が、暗号資産（仮想通貨）と現金などを含 […]",
-          "link": "https://www.neweconomy.jp/posts/565640",
-          "publishedOn": "2026-04-16T10:13:07.000Z",
-          "wordCount": 802,
-          "title": "ビットマイン、イーサリアム保有数487万ETHに。評価損は37.7億ドル",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/16191249/58154d9afa54696f84840594017da807.jpg"
         }
       ]
     }
