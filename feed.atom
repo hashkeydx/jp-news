@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-24T19:11:29.615Z</updated>
+    <updated>2026-04-24T21:04:04.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米財務省、イラン関連の仮想通貨ウォレットを制裁]]></title>
+        <id>https://coinpost.jp/?p=705101</id>
+        <link href="https://coinpost.jp/?p=705101"/>
+        <updated>2026-04-24T20:55:27.000Z</updated>
+        <summary type="html"><![CDATA[米財務省のスコット・ベッセント長官は25日、イランに関連する複数の仮想通貨ウォレットに制裁を科したと発表した。テザー社は米当局と協力し、イラン革命防衛隊（IRGC）との関連が指摘される550億円相当のUSDTを凍結した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットマイン、イーサリアム財団から1万ETH購入]]></title>
+        <id>https://coinpost.jp/?p=705096</id>
+        <link href="https://coinpost.jp/?p=705096"/>
+        <updated>2026-04-24T20:45:06.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム財団が平均単価2387ドルで1万ETHをビットマインにOTC売却したと発表した。調達した約2400万ドルはプロトコル研究・エコシステム開発・コミュニティ助成などの運営資金に充当される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米州がカルシ・コインベースなど5社を提訴、予測市場は「違法スポーツ賭博」と主張]]></title>
+        <id>https://coinpost.jp/?p=705078</id>
+        <link href="https://coinpost.jp/?p=705078"/>
+        <updated>2026-04-24T20:00:12.000Z</updated>
+        <summary type="html"><![CDATA[米ウィスコンシン州司法省が4月23日、カルシ、ロビンフッド、コインベース、ポリマーケット、クリプトドットコムを違法スポーツ賭博を理由に提訴した。ニューヨーク州に続く提訴で、州と連邦CFTCの管轄権争いが本格化している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/24話題】メタプラが80億円の社債発行、リミポが2日連続でBTC追加購入、Lido DAOがrsETH救済の資金拠出を提案など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=568231</id>
@@ -2207,141 +2237,6 @@ JPYC、メタプラネットらから28億円の追加資金調達へ──シ�
 Strategyのセイラー氏、「さらに大規模な」BTC購入を示唆──配当金の月2回支払いを提案した直後 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バーセル、内部システムへの不正アクセス確認。一部顧客に影響]]></title>
-        <id>https://www.neweconomy.jp/?p=566531</id>
-        <link href="https://www.neweconomy.jp/posts/566531"/>
-        <updated>2026-04-20T08:42:35.000Z</updated>
-        <summary type="html"><![CDATA[CEOがAIツール経由で侵入との報告 クラウド開発プラットフォームのバーセル（Vercel）が、同社の内部システムへの不正アクセスを伴うセキュリティインシデントを確認したと4月19日に発表した。 バーセルはWebサービス […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クレディセゾンとコインチェック、 暗号資産領域で業務提携]]></title>
-        <id>https://www.neweconomy.jp/?p=566539</id>
-        <link href="https://www.neweconomy.jp/posts/566539"/>
-        <updated>2026-04-20T08:40:52.000Z</updated>
-        <summary type="html"><![CDATA[クレディセゾンとコインチェックが提携 日本のクレジットカード会社クレディセゾンと国内暗号資産（仮想通貨）交換業者のコインチェックが、国内暗号資産市場のさらなる拡大および新サービスの創出に向け、業務提携したことを4月20日 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle、「USDC Bridge」を発表──ネイティブなクロスチェーン送金を実現]]></title>
-        <id>https://www.nadanews.com/?p=345462</id>
-        <link href="https://www.nadanews.com/345462/"/>
-        <updated>2026-04-20T08:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Circle（サークル）が発行するステーブルコインUSDコイン（USDC）の公式Xアカウントは、USDCを異なるチェーン間で移動させるための新機能「USDC B ...
-Circle、「USDC Bridge」を発表──ネイティブなクロスチェーン送金を実現 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セゾンカード会員に暗号資産へのアクセス機会創出へ──コインチェックとクレディセゾンが業務提携契約を締結]]></title>
-        <id>https://www.nadanews.com/?p=345471</id>
-        <link href="https://www.nadanews.com/345471/"/>
-        <updated>2026-04-20T08:05:27.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のコインチェックと「セゾンカード」を展開するクレディセゾンは20日、暗号資産領域における業務提携契約を締結したと発表した。セゾンカード ...
-セゾンカード会員に暗号資産へのアクセス機会創出へ──コインチェックとクレディセゾンが業務提携契約を締結 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero、エクスプロイトは北朝鮮のハッカー集団が関与と説明]]></title>
-        <id>https://www.nadanews.com/?p=345487</id>
-        <link href="https://www.nadanews.com/345487/"/>
-        <updated>2026-04-20T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[クロスチェーンメッセージングプロトコルのLayerZeroは4月20日、Kelp DAOから約2億9000万ドル（約464億円、1ドル=160円換算）相当の資産 ...
-LayerZero、エクスプロイトは北朝鮮のハッカー集団が関与と説明 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPYC、シリーズB2ndクローズで28億円を追加調達へ]]></title>
-        <id>https://www.neweconomy.jp/?p=566523</id>
-        <link href="https://www.neweconomy.jp/posts/566523"/>
-        <updated>2026-04-20T08:03:40.000Z</updated>
-        <summary type="html"><![CDATA[JPYCが28億円を追加調達へ 日本円ステーブルコイン「JPYC」を発行・運営するJPYC社が、シリーズBラウンドのセカンドクローズにおいて、28億円の追加資金調達を完了する予定だと4月20日に発表した。 これにより同社 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa、Stripe主導のL1「Tempo」でアンカーバリデーターを運用──カード決済網とMachine Payments Protocolの接続【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=345387</id>
-        <link href="https://www.nadanews.com/345387/"/>
-        <updated>2026-04-20T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月14日、カード決済大手のVisaが、Stripeが主導するブロックチェーン「Tempo」において、自社でバリデーターノードの運用を開始したと発表し ...
-Visa、Stripe主導のL1「Tempo」でアンカーバリデーターを運用──カード決済網とMachine Payments Protocolの接続【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcashで4件の脆弱性が発覚し修正、開発チームが協調対応]]></title>
-        <id>https://www.neweconomy.jp/?p=566516</id>
-        <link href="https://www.neweconomy.jp/posts/566516"/>
-        <updated>2026-04-20T07:48:38.000Z</updated>
-        <summary type="html"><![CDATA[ユーザー資金への影響なし Zcash開発の独立組織であるZcashオープンディベロップメントラボ（Zcash Open Development Lab：ZODL）とZcash財団（Zcash Foundation）が、Z […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米NSA、国防総省の供給網リスク指定後もアンソロピックの「Mythos Preview」利用か＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=566503</id>
-        <link href="https://www.neweconomy.jp/posts/566503"/>
-        <updated>2026-04-20T07:36:48.000Z</updated>
-        <summary type="html"><![CDATA[NSAがアンソロピックのAIツール使用か 米国家安全保障局（NSA）が、米国防総省による正式なサプライチェーンリスク指定を受けた後も、アンソロピック（Anthropic）のAIツール「ミトス・プレビュー（Mythos P […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サークル、USDCのクロスチェーン転送基盤「USDC Bridge」提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=566483</id>
-        <link href="https://www.neweconomy.jp/posts/566483"/>
-        <updated>2026-04-20T07:28:18.000Z</updated>
-        <summary type="html"><![CDATA[サークルがラップ不要のUSDC転送基盤を提供開始 米ドル連動型ステーブルコイン「USDC」の発行元サークル（Circle）が、USDCを複数のブロックチェーン間で移動するための新機能「USDCブリッジ（USDC Brid […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博多駅のマルシェイベントの顧客行動データをブロックチェーンに記録、コネクティブが技術支援]]></title>
-        <id>https://www.neweconomy.jp/?p=566481</id>
-        <link href="https://www.neweconomy.jp/posts/566481"/>
-        <updated>2026-04-20T07:20:15.000Z</updated>
-        <summary type="html"><![CDATA[博多駅のマルシェイベントでブロックチェーン活用の顧客行動データ記録 ブロックチェーン関連事業を展開する日本企業のコネクティブ（Connectiv）が、福岡・博多駅で開催されたマルシェイベント「からまりマルシェ」において、 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年からのBTCサイクルは過去の半減を「劇的に」下回る：Galaxy Research]]></title>
-        <id>https://www.nadanews.com/?p=345466</id>
-        <link href="https://www.nadanews.com/345466/"/>
-        <updated>2026-04-20T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy Research（ギャラクシー・リサーチ）のリサーチ責任者アレックス・ソーン（Alex Thorn）氏は4月19日、Xの投稿で、2024年4月の半 ...
-2024年からのBTCサイクルは過去の半減を「劇的に」下回る：Galaxy Research first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮ハッカーがKelpDAOハックか、DeFi預かり資産総額が2兆円超急減]]></title>
-        <id>https://coinpost.jp/?p=703383</id>
-        <link href="https://coinpost.jp/?p=703383"/>
-        <updated>2026-04-20T07:13:40.000Z</updated>
-        <summary type="html"><![CDATA[レイヤーゼロが北朝鮮系ハッカー集団の関与を示唆。KelpDAOエクスプロイトの余波でDeFi全体のTVL（預かり資産総額）が約132億ドル（約2兆1,000億円）減少し、アーベなど主要プロトコルに深刻な被害が波及した。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
