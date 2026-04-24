@@ -2163,36 +2163,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/shutterstock_2741004511.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/shutterstock_2741004511.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=703146",
-          "author": "A.Yamada",
-          "description": "仮想通貨イーサリアムのリステーキング「KelpDAO」がブリッジの脆弱性を突かれ、rsETH推定440億円相当が不正流出した。原因やAaveなどの対応状況を解説する。",
-          "link": "https://coinpost.jp/?p=703146",
-          "publishedOn": "2026-04-20T01:15:39.000Z",
-          "wordCount": 4177,
-          "title": "ETHリステーキング「KelpDAO」攻撃で440億円以上が不正流出か　被害の原因は？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/cyber-hack-bzb-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/11/cyber-hack-bzb-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=703155",
-          "author": "Enzo",
-          "description": "クラウド開発基盤のVercelが不正アクセス被害を確認。AIツール経由のOAuth攻撃が発端で、DeFiプロジェクトのAPIキーや認証情報の漏えいリスクとサプライチェーン攻撃への波及が懸念されている。",
-          "link": "https://coinpost.jp/?p=703155",
-          "publishedOn": "2026-04-20T00:57:09.000Z",
-          "wordCount": 4153,
-          "title": "クラウド基盤バーセルに不正アクセス、仮想通貨プロジェクトも警戒",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/09/hacking.jpg"
         }
       ]
     },
@@ -2201,6 +2171,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=568231",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/568231",
+          "publishedOn": "2026-04-24T14:02:54.000Z",
+          "wordCount": 782,
+          "title": "【4/24話題】メタプラが80億円の社債発行、リミポが2日連続でBTC追加購入、Lido DAOがrsETH救済の資金拠出を提案など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/24230247/8eebffcff8b9d0021e59b3e7d21e7486.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=568063",
           "author": "OtsugaShinya",

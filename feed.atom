@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-24T12:04:15.559Z</updated>
+    <updated>2026-04-24T14:04:41.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【4/24話題】メタプラが80億円の社債発行、リミポが2日連続でBTC追加購入、Lido DAOがrsETH救済の資金拠出を提案など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=568231</id>
+        <link href="https://www.neweconomy.jp/posts/568231"/>
+        <updated>2026-04-24T14:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マトリックス法によるテクニカル分析（2026/4/24）本格上昇入りだが、一時的な調整も【楽天ウォレット】]]></title>
         <id>https://www.nadanews.com/?p=346216</id>
@@ -2591,26 +2601,6 @@ wXRP、Solana上で稼働開始──DeFiへのアクセスを拡大 first appea
         <summary type="html"><![CDATA[イラン停戦が4月21日に期限を迎える中、ビットコインは75,000ドル超を維持。ホルムズ海峡の通行制限が原油価格と仮想通貨市場を大きく揺さぶっている。]]></summary>
         <author>
             <name>Austin Mwendia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETHリステーキング「KelpDAO」攻撃で440億円以上が不正流出か　被害の原因は？]]></title>
-        <id>https://coinpost.jp/?p=703146</id>
-        <link href="https://coinpost.jp/?p=703146"/>
-        <updated>2026-04-20T01:15:39.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムのリステーキング「KelpDAO」がブリッジの脆弱性を突かれ、rsETH推定440億円相当が不正流出した。原因やAaveなどの対応状況を解説する。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラウド基盤バーセルに不正アクセス、仮想通貨プロジェクトも警戒]]></title>
-        <id>https://coinpost.jp/?p=703155</id>
-        <link href="https://coinpost.jp/?p=703155"/>
-        <updated>2026-04-20T00:57:09.000Z</updated>
-        <summary type="html"><![CDATA[クラウド開発基盤のVercelが不正アクセス被害を確認。AIツール経由のOAuth攻撃が発端で、DeFiプロジェクトのAPIキーや認証情報の漏えいリスクとサプライチェーン攻撃への波及が懸念されている。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
