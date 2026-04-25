@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=345870",
+          "author": "Shoko Galaviz",
+          "description": "予測市場プラットフォームKalshi（カルシ）は、コモディティ関連の新たな取引セクション「Commodities Hub」において、価格決定のデータソースとして ...\nKalshi、コモディティ予測市場でPythを価格決定基盤に採用──リアルタイムデータ連携を強化 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/345870/",
+          "publishedOn": "2026-04-25T08:55:00.000Z",
+          "wordCount": 1641,
+          "title": "Kalshi、コモディティ予測市場でPythを価格決定基盤に採用──リアルタイムデータ連携を強化",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2737153675.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=346119",
           "author": "平木 昌宏",
           "description": "・ジーキャッシュ（Zcash）は4月23日木曜日、オンライン証券大手ロビンフッド（Robinhood）への正式上場を受けて8％上昇し、344ドル近辺で取引された ...\nZcash、Robinhood上場で9％上昇──米当局による7億ドル超の暗号資産差し押さえも追い風に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -870,16 +880,6 @@
           "wordCount": 1516,
           "title": "Coinbase、英国で暗号資産担保ローンを開始──BTCやETHを売却せずUSDC調達可能に",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2572706533.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=345552",
-          "author": "井上 俊彦",
-          "description": "Michael Saylor（マイケル・セイラー）氏率いるStrategy（ストラテジー）は4月20日、先週4月13日から19日の間に3万4164BTCを約25 ...\nStrategy、先週は3万4164ビットコインを25億ドルで購入──過去3番目に大きな購入額 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/345552/",
-          "publishedOn": "2026-04-20T21:00:00.000Z",
-          "wordCount": 1523,
-          "title": "Strategy、先週は3万4164ビットコインを25億ドルで購入──過去3番目に大きな購入額",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2699104615.jpg"
         }
       ]
     },
@@ -2123,36 +2123,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/XRP_0809.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=703448",
-          "author": "菊谷ルイス",
-          "description": "米上場のビットマインが先週約10万ETHを追加取得し、累計保有は497.6万トークンに拡大した。イーサリアム総供給量の4.12%を占め、目標5%まで達成率82%に達している。",
-          "link": "https://coinpost.jp/?p=703448",
-          "publishedOn": "2026-04-20T20:50:49.000Z",
-          "wordCount": 3632,
-          "title": "トム・リー率いるビットマイン、先週10万以上のイーサリアムを追加購入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/eth-accumu.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=703443",
-          "author": "菊谷ルイス",
-          "description": "世界最大のビットコイン保有上場企業であるストラテジーが4月19日までの1週間で4000億円超のビットコインを買い増しした。これは2026年における同社の週次購入として過去最大の規模であり、累計保有数は81万BTCを超えた。",
-          "link": "https://coinpost.jp/?p=703443",
-          "publishedOn": "2026-04-20T20:00:06.000Z",
-          "wordCount": 3640,
-          "title": "ストラテジーが1週間で3.4万BTC超ビットコインを取得、今年最大の週次購入に",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin.jpg"
         }
       ]
     },
