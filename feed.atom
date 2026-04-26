@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-26T22:57:30.128Z</updated>
+    <updated>2026-04-26T23:54:37.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[資金調達率とハッシュレート低下、ビットコインに強気シグナルか＝ヴァンエック]]></title>
+        <id>https://coinpost.jp/?p=705183</id>
+        <link href="https://coinpost.jp/?p=705183"/>
+        <updated>2026-04-26T23:15:25.000Z</updated>
+        <summary type="html"><![CDATA[ヴァンエックが4月中旬レポートを公開。ファンディングレートとハッシュレートの2つの強気シグナルを指摘し、ビットコインの上昇余地を分析した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFiプロトコルScallopのサイドコントラクトでエクスプロイト、約15万SUI流出]]></title>
         <id>https://coinpost.jp/?p=705180</id>
@@ -1481,27 +1491,6 @@ Gensyn、分散型情報市場「Delphi」ローンチ──AIが決済する新
         <summary type="html"><![CDATA[ロシア国家院が仮想通貨の流通を規制する法案を第1読会で可決した。仮想通貨を財産と定義し国内決済を禁止する一方、対外取引での使用は認める内容で、2026年7月1日の施行を目指している。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【4/22話題】ANAPが今月3度目のビットコイン追加購入、Volo Protocolから約3.5Mドルの不正流出、アービトラムが約3万766ETH凍結など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=567447</id>
-        <link href="https://www.neweconomy.jp/posts/567447"/>
-        <updated>2026-04-22T11:28:06.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[またもやDeFiプロトコルがハッキング被害──SuiベースのVoloが350万ドル盗まれる]]></title>
-        <id>https://www.nadanews.com/?p=345846</id>
-        <link href="https://www.nadanews.com/345846/"/>
-        <updated>2026-04-22T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Suiブロックチェーン上のリキッドステーキングプロトコルのVoloは4月22日、セキュリティ侵害により約350万ドル（約5億6000万円、1ドル=160円換算） ...
-またもやDeFiプロトコルがハッキング被害──SuiベースのVoloが350万ドル盗まれる first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
