@@ -12,6 +12,46 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=346473",
+          "author": "井上 俊彦",
+          "description": "Aave Labs（アーベ・ラボ）は4月26日、Arbitrum（アービトラム）DAOに対し、Kelp DAO攻撃に関連して凍結された約7350万ドル（約117 ...\nAave、Kelp悪用者の3万ETHを「DeFi United」へ送金するようArbitrumに提案 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/346473/",
+          "publishedOn": "2026-04-27T09:25:00.000Z",
+          "wordCount": 1655,
+          "title": "Aave、Kelp悪用者の3万ETHを「DeFi United」へ送金するようArbitrumに提案",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2485844277.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=346463",
+          "author": "平木 昌宏",
+          "description": "ビットバンク（bitbank）は27日、丸井グループのカード会社であるエポスカードと提携したクレジットカード「EPOS CRYPTOカード for bitban ...\n最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/346463/",
+          "publishedOn": "2026-04-27T08:33:07.000Z",
+          "wordCount": 1661,
+          "title": "最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/main-10_1200x800.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=346462",
+          "author": "井上 俊彦",
+          "description": "ロンドン・ビジネス・スクールとイェール大学の研究チームが、予測市場の精度の源泉に関する通説を覆す論文を発表した。予測市場プラットフォームが事象を正確に予測できる ...\n予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/346462/",
+          "publishedOn": "2026-04-27T08:20:00.000Z",
+          "wordCount": 1638,
+          "title": "予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2645249923.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=346447",
+          "author": "廣瀬 優香",
+          "description": "ステーブルコイン取引および決済プラットフォームを提供する香港のOSL Group（OSLグループ）は4月22日、Circle Internet Group（サー ...\nCircleと香港の暗号資産企業OSL、USDCのグローバルアクセス拡大に向け提携 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/346447/",
+          "publishedOn": "2026-04-27T07:25:00.000Z",
+          "wordCount": 1632,
+          "title": "Circleと香港の暗号資産企業OSL、USDCのグローバルアクセス拡大に向け提携",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2653907899.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=346202",
           "author": "松田康生",
           "description": "ポイント ・今朝方7.9万ドル台半ばまで上昇・アラグチ外相がパキスタンを2度訪問、外交交渉が大詰めに・今朝方AXIOSがイランの新提案と報じ、7.9万ドル台へ・ ...\nビットコイン7.9万ドル台回復　イラン「新提案」で8万ドルトライへ【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -629,6 +669,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=705311",
+          "author": "Enzo",
+          "description": "韓国のインターネット銀行Kバンクがリップルと提携し、UAEとタイ向けオンチェーン送金の技術検証を開始。ブロックチェーンを活用した海外送金の速度・コスト改善を段階的に検証する。",
+          "link": "https://coinpost.jp/?p=705311",
+          "publishedOn": "2026-04-27T07:12:41.000Z",
+          "wordCount": 3956,
+          "title": "リップルと韓国Kバンク、海外送金のオンチェーン送金実証で提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/ripple2020103002.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=705296",
           "author": "Enzo",
@@ -1483,66 +1538,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/insider-trading-kalshi-punishement.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/insider-trading-kalshi-punishement.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=704301",
-          "author": "菊谷ルイス",
-          "description": "マネーグラムとステラ開発財団が2021年から続いてきた提携を複数年延長した。USDC建てのステーブルコイン残高機能をエルサルバドルに拡大し、中南米全域への展開を進める。送金依存層への金融包摂が加速する。",
-          "link": "https://coinpost.jp/?p=704301",
-          "publishedOn": "2026-04-22T21:15:16.000Z",
-          "wordCount": 3679,
-          "title": "マネーグラムとステラが提携を複数年延長、ステーブルコイン送金を南米全域に拡大",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/moneygram-stellar.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/04/moneygram-stellar.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=704303",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨マーケットメーカーのGSRは22日、ビットコイン、イーサリアム、ソラナを対象としたアクティブ管理型ETF「BESO」をナスダックに上場した。ステーキング報酬を還元する米国初のマルチアセット型商品として投資家の選択肢を拡大させた。",
-          "link": "https://coinpost.jp/?p=704303",
-          "publishedOn": "2026-04-22T21:00:32.000Z",
-          "wordCount": 3686,
-          "title": "GSR、米国初のアクティブ型仮想通貨ETF「BESO」を上場",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-etf-outflow-big-iran-war-.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-etf-outflow-big-iran-war-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=704302",
-          "author": "菊谷ルイス",
-          "description": "米上院銀行委員会のティリス議員が4月中の採決を否定し、5月以降の開催を求めた。ステーブルコイン利回りをめぐる銀行業界と仮想通貨業界の対立が続いており、法案成立の見通しは依然不透明だ。",
-          "link": "https://coinpost.jp/?p=704302",
-          "publishedOn": "2026-04-22T20:45:23.000Z",
-          "wordCount": 4188,
-          "title": "米クラリティー法案、上院採決が5月以降にずれ込む見通し＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=704288",
-          "author": "菊谷ルイス",
-          "description": "ロシア国家院が仮想通貨の流通を規制する法案を第1読会で可決した。仮想通貨を財産と定義し国内決済を禁止する一方、対外取引での使用は認める内容で、2026年7月1日の施行を目指している。",
-          "link": "https://coinpost.jp/?p=704288",
-          "publishedOn": "2026-04-22T20:00:57.000Z",
-          "wordCount": 3685,
-          "title": "ロシアが仮想通貨規制法案を審議入り、国内決済禁止・対外取引容認",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/russia34593-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/russia34593-1.jpg"
         }
       ]
     },
@@ -1551,6 +1546,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=568770",
+          "author": "watanabeyousuke",
+          "description": "インシデント時の価格歪みに関連する資金の回収が進展 ポルカドット（Polkadot）エコシステムのクロスチェーンブリッジ「ハイパーブリッジ（Hyperbridge）」が、4月13日に発生したエクスプロイトに関する資金回収 […]",
+          "link": "https://www.neweconomy.jp/posts/568770",
+          "publishedOn": "2026-04-27T09:07:27.000Z",
+          "wordCount": 793,
+          "title": "ハイパーブリッジ、任意返還期間で初の資金返還を確認",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/27180708/d639b80d1f430ec20408d599bd55e99d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=568751",
+          "author": "HitomotoToshikazu",
+          "description": "OKXが米国でBitGoのOES統合 海外暗号資産（仮想通貨）取引所OKXによる米国の機関投資家向けサービスに、暗号資産カストディ企業ビットゴー（BitGo）提供のオフエクスチェンジ決済（Off-Exchange Set […]",
+          "link": "https://www.neweconomy.jp/posts/568751",
+          "publishedOn": "2026-04-27T09:00:18.000Z",
+          "wordCount": 777,
+          "title": "OKX、米機関投資家向けにビットゴーのオフエクスチェンジ決済統合へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/27174929/c57c8f50d0d60c04b051689d4efbfd0b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=568754",
+          "author": "HitomotoToshikazu",
+          "description": "MEGAのTGEが4/30実施へ イーサリアム（Ethereum）レイヤー2ブロックチェーン「メガイーサ（MegaETH）」のネイティブトークン「MEGA」のTGE（トークン生成イベント）が、4月30日に実施される予定だ […]",
+          "link": "https://www.neweconomy.jp/posts/568754",
+          "publishedOn": "2026-04-27T08:53:02.000Z",
+          "wordCount": 615,
+          "title": "メガイーサ、「MEGA」のTGEを4/30実施へ、10アプリのKPI達成で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/27175254/02f8b5d42ae4501ec8ededb26acf0c48.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=568656",
+          "author": "gentosha_takahashi",
+          "description": "税免除は2035年まで ウズベキスタン共和国のシャフカット・ミルジヨエフ（Shavkat Mirziyoyev）大統領が、「ベスカラ・マイニング・バレー（Besqala Mining Valley）」と呼ばれる特別暗号資 […]",
+          "link": "https://www.neweconomy.jp/posts/568656",
+          "publishedOn": "2026-04-27T06:48:02.000Z",
+          "wordCount": 740,
+          "title": "ウズベキスタン、大統領決定でマイニング特区設立。電力制限撤廃と長期免税",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/27151017/25eb501cef03485b345c6c29e6e8c013.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=568684",
           "author": "HitomotoToshikazu",
