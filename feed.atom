@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-29T04:00:34.031Z</updated>
+    <updated>2026-04-29T06:35:30.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ライトコインのゼロデイ脆弱性に攻撃、NEAR Intentsで9600万円相当がリスクに]]></title>
+        <id>https://coinpost.jp/?p=705732</id>
+        <link href="https://coinpost.jp/?p=705732"/>
+        <updated>2026-04-29T05:30:22.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ライトコインのゼロデイ脆弱性が攻撃された。チェーン再編が行われたが、NEAR Intentsで約60万ドルが損失の可能性にさらされている。開発者が詳細を解説した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「レイヤー2は終わった」のか──ヴィタリックのL2懐疑論に、ライトコイン創設者が見た勝機【価格分析】]]></title>
+        <id>https://www.nadanews.com/?p=346775</id>
+        <link href="https://www.nadanews.com/346775/"/>
+        <updated>2026-04-29T04:23:27.000Z</updated>
+        <summary type="html"><![CDATA[・ライトコイン（LTC）のドミナンスは過去2年で31%低下した。ビットコイン（BTC）のドミナンス拡大に加え、現実資産（RWA）やAI関連トークンが市場シェアを ...
+「レイヤー2は終わった」のか──ヴィタリックのL2懐疑論に、ライトコイン創設者が見た勝機【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【墨汁うまい氏寄稿】ライトコインのゼロデイバグは何が起きたのか？Reorgはなぜ必要なのかを理解する]]></title>
         <id>https://www.nadanews.com/?p=346766</id>
