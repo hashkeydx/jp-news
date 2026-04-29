@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-29T06:35:30.809Z</updated>
+    <updated>2026-04-29T09:22:43.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チリーズ、ファントークンをソラナとベースに展開へ]]></title>
+        <id>https://www.neweconomy.jp/?p=569470</id>
+        <link href="https://www.neweconomy.jp/posts/569470"/>
+        <updated>2026-04-29T07:37:04.000Z</updated>
+        <summary type="html"><![CDATA[ChilizのFan TokensがSolanaとBase展開へ スポーツ・エンターテインメント業界向けブロックチェーン企業大手のチリーズグループ（Chiliz Group）が、同社のデジタルスポーツ資産「ファントークン […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ライトコインのゼロデイ脆弱性に攻撃、NEAR Intentsで9600万円相当がリスクに]]></title>
         <id>https://coinpost.jp/?p=705732</id>
@@ -1181,46 +1191,6 @@ DeFiプロトコル、rsETHの裏付けを回復するために合計4万3000ETH
 2026年第1四半期の個人暗号資産取引は11％減少：TRM Labs first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブラジルが予測市場を全面禁止、ポリマーケット・カルシにアクセス遮断]]></title>
-        <id>https://coinpost.jp/?p=705100</id>
-        <link href="https://coinpost.jp/?p=705100"/>
-        <updated>2026-04-24T21:20:18.000Z</updated>
-        <summary type="html"><![CDATA[ブラジル中央銀行が28の予測市場プラットフォームを禁止し、ポリマーケットとカルシへのアクセスを遮断した。米国でもウィスコンシン州が新たに提訴し、予測市場への規制圧力が国際的に強まっている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、イラン関連の仮想通貨ウォレットを制裁]]></title>
-        <id>https://coinpost.jp/?p=705101</id>
-        <link href="https://coinpost.jp/?p=705101"/>
-        <updated>2026-04-24T20:55:27.000Z</updated>
-        <summary type="html"><![CDATA[米財務省のスコット・ベッセント長官は25日、イランに関連する複数の仮想通貨ウォレットに制裁を科したと発表した。テザー社は米当局と協力し、イラン革命防衛隊（IRGC）との関連が指摘される550億円相当のUSDTを凍結した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、イーサリアム財団から1万ETH購入]]></title>
-        <id>https://coinpost.jp/?p=705096</id>
-        <link href="https://coinpost.jp/?p=705096"/>
-        <updated>2026-04-24T20:45:06.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団が平均単価2387ドルで1万ETHをビットマインにOTC売却したと発表した。調達した約2400万ドルはプロトコル研究・エコシステム開発・コミュニティ助成などの運営資金に充当される。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米州がカルシ・コインベースなど5社を提訴、予測市場は「違法スポーツ賭博」と主張]]></title>
-        <id>https://coinpost.jp/?p=705078</id>
-        <link href="https://coinpost.jp/?p=705078"/>
-        <updated>2026-04-24T20:00:12.000Z</updated>
-        <summary type="html"><![CDATA[米ウィスコンシン州司法省が4月23日、カルシ、ロビンフッド、コインベース、ポリマーケット、クリプトドットコムを違法スポーツ賭博を理由に提訴した。ニューヨーク州に続く提訴で、州と連邦CFTCの管轄権争いが本格化している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
