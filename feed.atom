@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-04-30T18:43:14.814Z</updated>
+    <updated>2026-04-30T20:18:13.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国クレジットカード大手がソラナ財団と提携、ステーブルコイン決済の実証実験を開始]]></title>
+        <id>https://coinpost.jp/?p=706213</id>
+        <link href="https://coinpost.jp/?p=706213"/>
+        <updated>2026-04-30T20:00:25.000Z</updated>
+        <summary type="html"><![CDATA[韓国大手クレジットカード会社の新韓カードがソラナ財団とMOUを締結し、ソラナのテストネットを活用したステーブルコイン決済の実証実験を開始。非カストディアル型ウォレットの安全性検証と独自DeFiサービス環境の構築も進める。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【4/30話題】ゼータチェーンが攻撃受け一時停止、リミポ・ビットマイン・ストラテジーの追加購入、ビットコイン支援のMARA財団設立など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=570158</id>
@@ -1585,17 +1595,6 @@ Ondo Finance幹部に聞く、米国債トークン化の仕組みとDCJPYへの
         <summary type="html"><![CDATA[2年間休眠していたビットコインクジラが300BTCをバイナンスへ入金。3年前に取得した際から約28億円の含み益が発生しているとLookonchainが報告した。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x402 FoundationがLinux Foundation傘下で発足──22社参加とAgentic.Market公開が示すエージェント決済の標準化【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=346297</id>
-        <link href="https://www.nadanews.com/346297/"/>
-        <updated>2026-04-26T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年4月2日、Linux Foundationがx402 Foundationの発足を発表しました。x402は、HTTP上でステーブルコイン決済を完結させ ...
-x402 FoundationがLinux Foundation傘下で発足──22社参加とAgentic.Market公開が示すエージェント決済の標準化【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
         </author>
     </entry>
 </feed>
