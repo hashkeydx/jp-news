@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-01T19:36:08.577Z</updated>
+    <updated>2026-05-01T21:05:56.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[量子コンピュータの脅威から休眠ビットコインを守る新提案「PACTs」、サトシの資産も対象]]></title>
+        <id>https://coinpost.jp/?p=706560</id>
+        <link href="https://coinpost.jp/?p=706560"/>
+        <updated>2026-05-01T20:55:38.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨大手VCパラダイム社の研究者が、量子コンピュータの脅威からビットコインの休眠資金を保護する新モデル「PACTs」を提案した。オンチェーン取引を伴わずに所有権を証明し、プライバシーを保ちながら資産を保護する仕組みである。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団が2週連続でビットマインに1万ETHを売却、累計約73億円]]></title>
+        <id>https://coinpost.jp/?p=706562</id>
+        <link href="https://coinpost.jp/?p=706562"/>
+        <updated>2026-05-01T20:40:54.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアム財団が5月2日、平均単価2292ドルで1万ETHをビットマインにOTC売却した。先週に続く2週連続の取引で累計約4700万ドル相当を売却。ビットマインのステーク済みETHはステーキング総供給量の10.5%に達している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テザー、2026年Q1に約10.4億ドルの純利益を計上　余剰準備金も拡大]]></title>
+        <id>https://coinpost.jp/?p=706547</id>
+        <link href="https://coinpost.jp/?p=706547"/>
+        <updated>2026-05-01T20:00:30.000Z</updated>
+        <summary type="html"><![CDATA[テザーが2026年第1四半期の財務報告を公開し、純利益が約10.4億ドル、余剰準備金が過去最高の82.3億ドルに達したことを明らかにした。USDTの流通総額は約1830億ドルに上り、米国債保有額は世界17位の規模となっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/1話題】SBIがビットバンク子会社化の協議開始、SBI VCトレードの暗号資産貯まるクレカ、4月の暗号資産ハック件数が過去最多になど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=570544</id>
@@ -1828,48 +1858,6 @@ Aave、Kelp悪用者の3万ETHを「DeFi United」へ送金するようArbitrum�
         <summary type="html"><![CDATA[インシデント時の価格歪みに関連する資金の回収が進展 ポルカドット（Polkadot）エコシステムのクロスチェーンブリッジ「ハイパーブリッジ（Hyperbridge）」が、4月13日に発生したエクスプロイトに関する資金回収 […]]]></summary>
         <author>
             <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX、米機関投資家向けにビットゴーのオフエクスチェンジ決済統合へ]]></title>
-        <id>https://www.neweconomy.jp/?p=568751</id>
-        <link href="https://www.neweconomy.jp/posts/568751"/>
-        <updated>2026-04-27T09:00:18.000Z</updated>
-        <summary type="html"><![CDATA[OKXが米国でBitGoのOES統合 海外暗号資産（仮想通貨）取引所OKXによる米国の機関投資家向けサービスに、暗号資産カストディ企業ビットゴー（BitGo）提供のオフエクスチェンジ決済（Off-Exchange Set […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メガイーサ、「MEGA」のTGEを4/30実施へ、10アプリのKPI達成で]]></title>
-        <id>https://www.neweconomy.jp/?p=568754</id>
-        <link href="https://www.neweconomy.jp/posts/568754"/>
-        <updated>2026-04-27T08:53:02.000Z</updated>
-        <summary type="html"><![CDATA[MEGAのTGEが4/30実施へ イーサリアム（Ethereum）レイヤー2ブロックチェーン「メガイーサ（MegaETH）」のネイティブトークン「MEGA」のTGE（トークン生成イベント）が、4月30日に実施される予定だ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施]]></title>
-        <id>https://www.nadanews.com/?p=346463</id>
-        <link href="https://www.nadanews.com/346463/"/>
-        <updated>2026-04-27T08:33:07.000Z</updated>
-        <summary type="html"><![CDATA[ビットバンク（bitbank）は27日、丸井グループのカード会社であるエポスカードと提携したクレジットカード「EPOS CRYPTOカード for bitban ...
-最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文]]></title>
-        <id>https://www.nadanews.com/?p=346462</id>
-        <link href="https://www.nadanews.com/346462/"/>
-        <updated>2026-04-27T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ロンドン・ビジネス・スクールとイェール大学の研究チームが、予測市場の精度の源泉に関する通説を覆す論文を発表した。予測市場プラットフォームが事象を正確に予測できる ...
-予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>

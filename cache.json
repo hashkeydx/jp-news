@@ -650,26 +650,6 @@
           "wordCount": 1655,
           "title": "Aave、Kelp悪用者の3万ETHを「DeFi United」へ送金するようArbitrumに提案",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2485844277.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=346463",
-          "author": "平木 昌宏",
-          "description": "ビットバンク（bitbank）は27日、丸井グループのカード会社であるエポスカードと提携したクレジットカード「EPOS CRYPTOカード for bitban ...\n最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/346463/",
-          "publishedOn": "2026-04-27T08:33:07.000Z",
-          "wordCount": 1661,
-          "title": "最大4000円相当の暗号資産を付与──ビットバンク、エポスカード提携クレカで発行記念キャンペーン実施",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/main-10_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=346462",
-          "author": "井上 俊彦",
-          "description": "ロンドン・ビジネス・スクールとイェール大学の研究チームが、予測市場の精度の源泉に関する通説を覆す論文を発表した。予測市場プラットフォームが事象を正確に予測できる ...\n予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/346462/",
-          "publishedOn": "2026-04-27T08:20:00.000Z",
-          "wordCount": 1638,
-          "title": "予測市場は「群衆の知恵」ではなく「少数の情報通の知恵」を反映している：研究論文",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2645249923.jpg"
         }
       ]
     },
@@ -684,6 +664,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=706560",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨大手VCパラダイム社の研究者が、量子コンピュータの脅威からビットコインの休眠資金を保護する新モデル「PACTs」を提案した。オンチェーン取引を伴わずに所有権を証明し、プライバシーを保ちながら資産を保護する仕組みである。",
+          "link": "https://coinpost.jp/?p=706560",
+          "publishedOn": "2026-05-01T20:55:38.000Z",
+          "wordCount": 3879,
+          "title": "量子コンピュータの脅威から休眠ビットコインを守る新提案「PACTs」、サトシの資産も対象",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/quantum-bitcoin-new-proposal.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/quantum-bitcoin-new-proposal.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706562",
+          "author": "菊谷ルイス",
+          "description": "イーサリアム財団が5月2日、平均単価2292ドルで1万ETHをビットマインにOTC売却した。先週に続く2週連続の取引で累計約4700万ドル相当を売却。ビットマインのステーク済みETHはステーキング総供給量の10.5%に達している。",
+          "link": "https://coinpost.jp/?p=706562",
+          "publishedOn": "2026-05-01T20:40:54.000Z",
+          "wordCount": 3351,
+          "title": "イーサリアム財団が2週連続でビットマインに1万ETHを売却、累計約73億円",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bitmine-eth-down-bad.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/11/bitmine-eth-down-bad.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706547",
+          "author": "菊谷ルイス",
+          "description": "テザーが2026年第1四半期の財務報告を公開し、純利益が約10.4億ドル、余剰準備金が過去最高の82.3億ドルに達したことを明らかにした。USDTの流通総額は約1830億ドルに上り、米国債保有額は世界17位の規模となっている。",
+          "link": "https://coinpost.jp/?p=706547",
+          "publishedOn": "2026-05-01T20:00:30.000Z",
+          "wordCount": 3882,
+          "title": "テザー、2026年Q1に約10.4億ドルの純利益を計上　余剰準備金も拡大",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=706476",
           "author": "Enzo",
@@ -2105,26 +2130,6 @@
           "wordCount": 793,
           "title": "ハイパーブリッジ、任意返還期間で初の資金返還を確認",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/27180708/d639b80d1f430ec20408d599bd55e99d.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=568751",
-          "author": "HitomotoToshikazu",
-          "description": "OKXが米国でBitGoのOES統合 海外暗号資産（仮想通貨）取引所OKXによる米国の機関投資家向けサービスに、暗号資産カストディ企業ビットゴー（BitGo）提供のオフエクスチェンジ決済（Off-Exchange Set […]",
-          "link": "https://www.neweconomy.jp/posts/568751",
-          "publishedOn": "2026-04-27T09:00:18.000Z",
-          "wordCount": 777,
-          "title": "OKX、米機関投資家向けにビットゴーのオフエクスチェンジ決済統合へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/27174929/c57c8f50d0d60c04b051689d4efbfd0b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=568754",
-          "author": "HitomotoToshikazu",
-          "description": "MEGAのTGEが4/30実施へ イーサリアム（Ethereum）レイヤー2ブロックチェーン「メガイーサ（MegaETH）」のネイティブトークン「MEGA」のTGE（トークン生成イベント）が、4月30日に実施される予定だ […]",
-          "link": "https://www.neweconomy.jp/posts/568754",
-          "publishedOn": "2026-04-27T08:53:02.000Z",
-          "wordCount": 615,
-          "title": "メガイーサ、「MEGA」のTGEを4/30実施へ、10アプリのKPI達成で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/27175254/02f8b5d42ae4501ec8ededb26acf0c48.jpg"
         }
       ]
     }
