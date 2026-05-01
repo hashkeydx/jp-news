@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-01T11:21:23.295Z</updated>
+    <updated>2026-05-01T13:52:38.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【5/1話題】SBIがビットバンク子会社化の協議開始、SBI VCトレードの暗号資産貯まるクレカ、4月の暗号資産ハック件数が過去最多になど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=570544</id>
+        <link href="https://www.neweconomy.jp/posts/570544"/>
+        <updated>2026-05-01T13:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スイのDeFiプロトコル「アフターマス」で資金流出、手数料ロジックの脆弱性突かれ約113万ドル被害]]></title>
         <id>https://www.neweconomy.jp/?p=570532</id>
@@ -2083,37 +2093,6 @@ Ondo Finance幹部に聞く、米国債トークン化の仕組みとDCJPYへの
         <summary type="html"><![CDATA[MoneyGramがStellar開発財団と提携延長 国際決済ネットワーク提供マネーグラム（MoneyGram）が、ステラ（Stellar）ブロックチェーンを支援する非営利組織のステラ開発財団（Stellar Devel […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予測市場ポリマーケット、日本を利用制限対象に　金融庁は慎重姿勢]]></title>
-        <id>https://coinpost.jp/?p=705199</id>
-        <link href="https://coinpost.jp/?p=705199"/>
-        <updated>2026-04-27T00:49:57.000Z</updated>
-        <summary type="html"><![CDATA[予測市場ポリマーケットが日本をアクセス制限国に追加した。国会では国民民主党議員が活用を提言する一方、金融庁は賭博性などを理由に慎重な姿勢を示している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丸井のエポスカード、“暗号資産での引き落とし”対応クレカ発行──ビットバンクと提携]]></title>
-        <id>https://www.nadanews.com/?p=346406</id>
-        <link href="https://www.nadanews.com/346406/"/>
-        <updated>2026-04-27T00:28:57.000Z</updated>
-        <summary type="html"><![CDATA[丸井グループのカード会社であるエポスカードと、暗号資産（仮想通貨）取引所bitbankを運営するビットバンクは4月27日、bitbankの口座から暗号資産での引 ...
-丸井のエポスカード、“暗号資産での引き落とし”対応クレカ発行──ビットバンクと提携 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポリマーケット取引の価格形成、わずか3%の熟練トレーダーが主導＝論文]]></title>
-        <id>https://coinpost.jp/?p=705194</id>
-        <link href="https://coinpost.jp/?p=705194"/>
-        <updated>2026-04-27T00:00:35.000Z</updated>
-        <summary type="html"><![CDATA[ロンドン・ビジネス・スクール等の研究チームが、ポリマーケット172万アカウントを分析。価格形成を主導するのはわずか3.14%の熟練トレーダーで、残り97%は損失側に回ると結論付けた。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
