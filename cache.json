@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347142",
+          "author": "Delia Rojo",
+          "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、現在の米国暗号資産市場の最重要テーマであるCLARITY法の進行状 ...\nサンフランシスコ市場レポート──CLARITY法、最終局面とビットコインの分岐点 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347142/",
+          "publishedOn": "2026-05-03T00:58:49.000Z",
+          "wordCount": 1859,
+          "title": "サンフランシスコ市場レポート──CLARITY法、最終局面とビットコインの分岐点",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/nadanews_top-2026-05-03T095731.284.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347135",
           "author": "エックスウィン",
           "description": "● Digital Asset Market Clarity Act of 2025は下院可決済みだが、SECとCFTCの権限調整で上院審議が停滞● 最大の争点 ...\n規制の霧は晴れるのか──CLARITY法とビットコインの分岐点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -550,16 +560,6 @@
           "wordCount": 1642,
           "title": "Core Scientific、1.5GWのデータセンター建設でAI分野に注力",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/10/shutterstock_772693789.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=346627",
-          "author": "平木 昌宏",
-          "description": "ノンカストディアル型デジタルウォレットを提供するTopNod（トップノッド）は28日、ブロックチェーンプロジェクト「Pharos（ファロス）」のローンチに合わせ ...\nAIを説得できなければ賞金ゼロ──TopNod、1600万円相当のL1トークン「PROS」配布キャンペーン実施へ first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/346627/",
-          "publishedOn": "2026-04-28T12:00:00.000Z",
-          "wordCount": 1645,
-          "title": "AIを説得できなければ賞金ゼロ──TopNod、1600万円相当のL1トークン「PROS」配布キャンペーン実施へ",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/b8459d266147c4dbbc982af1f3a58df6.jpg"
         }
       ]
     },
@@ -574,6 +574,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=706431",
+          "author": "CoinPost編集部",
+          "description": "今週のビットコイン（BTC）はFOMCや日銀為替介入の影響で上値重く推移したが、1200万円近辺での底堅さを維持。先物市場ではショートが蓄積しており、上方向への余地も。来週の米雇用統計の結果が相場の方向感を左右する。bitbankアナリスト長谷川氏が今後の展望を解説。",
+          "link": "https://coinpost.jp/?p=706431",
+          "publishedOn": "2026-05-03T02:30:02.000Z",
+          "wordCount": 3799,
+          "title": "ビットコインFOMC通過後も1200万円台で推移、来週の米雇用統計に注目｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706296",
+          "author": "CoinPost編集部",
+          "description": "前週比で振り返る仮想通貨市場の最新動向。ビットコインやイーサリアム、XRP、ソラナなど主要銘柄の騰落率や注目材料を一挙紹介。市場トレンドと関連ニュースを詳しく解説する。",
+          "link": "https://coinpost.jp/?p=706296",
+          "publishedOn": "2026-05-03T00:30:06.000Z",
+          "wordCount": 3463,
+          "title": "今週の主要仮想通貨材料まとめ、チューダー・ジョーンズのBTC評価やリップル幹部のXRPLの展望など",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/altcoin-materials-new-buy-sell.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706326",
+          "author": "CoinPost編集部",
+          "description": "今週は、米トランプ政権の仮想通貨顧問によるビットコイン準備金に関する重大発表予告、米クラリティー法案の進展、JPXのCEOによる仮想通貨ETF上場検討表明に関する記事が関心を集めた。",
+          "link": "https://coinpost.jp/?p=706326",
+          "publishedOn": "2026-05-03T00:25:41.000Z",
+          "wordCount": 3136,
+          "title": "週刊仮想通貨ニュース｜米ビットコイン準備金の重大発表予告や米クラリティー法案の進展に高い関心",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=706613",
           "author": "菊谷ルイス",
@@ -1860,16 +1905,6 @@
           "wordCount": 783,
           "title": "チリーズ、ファントークンをソラナとベースに展開へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/29163631/f5fead75430b74d06d3051a958ef2251.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=569264",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/569264",
-          "publishedOn": "2026-04-28T13:06:42.000Z",
-          "wordCount": 765,
-          "title": "【4/28話題】ゼータチェーンが攻撃受け一時停止、リミポ・ビットマイン・ストラテジーの追加購入、ビットコイン支援のMARA財団設立など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/04/28193630/f69d7b4e574c47b47b2a72c4bdaa7aab.jpg"
         }
       ]
     }
