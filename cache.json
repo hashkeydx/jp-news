@@ -12,6 +12,36 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=347476",
+          "author": "Shoko Galaviz",
+          "description": "暗号資産（仮想通貨）取引所Kraken（クラーケン）は、米国の個人トレーダー向けに、Kraken Pro（クラーケン・プロ）上で規制下のスポット証拠金取引の提供 ...\nKraken Pro、米個人向けにCFTC規制下のスポット証拠金取引を開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347476/",
+          "publishedOn": "2026-05-06T22:00:00.000Z",
+          "wordCount": 1839,
+          "title": "Kraken Pro、米個人向けにCFTC規制下のスポット証拠金取引を開始",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2611282275.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=347474",
+          "author": "Shoko Galaviz",
+          "description": "世界的なデリバティブ市場運営会社CME Group（CMEグループ）は、デジタル資産関連商品の拡充として、ビットコイン（BTC）ボラティリティ先物を6月1日にロ ...\nCME Group、BTCボラティリティ先物を6月1日にローンチへ──価格ではなく変動率を取引対象に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347474/",
+          "publishedOn": "2026-05-06T21:30:00.000Z",
+          "wordCount": 1867,
+          "title": "CME Group、BTCボラティリティ先物を6月1日にローンチへ──価格ではなく変動率を取引対象に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2546655961.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=347470",
+          "author": "Shoko Galaviz",
+          "description": "Ripple（リップル）、JPMorgan（JPモルガン）、Mastercard（マスターカード）、Ondo Finance（オンド・ファイナンス）は、トークン ...\nRipple、JPMorgan、Mastercard、Ondoが連携──XRP Ledgerでトークン化米国債ファンドを国際決済 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/347470/",
+          "publishedOn": "2026-05-06T21:00:00.000Z",
+          "wordCount": 1860,
+          "title": "Ripple、JPMorgan、Mastercard、Ondoが連携──XRP Ledgerでトークン化米国債ファンドを国際決済",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2652494647.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=347458",
           "author": "平木 昌宏",
           "description": "スイスを拠点とするフィンテック企業Taurus（トーラス）は5月6日、キプロス証券取引委員会（CySEC）から、EUの金融商品規制であるMiFID II（ミフィ ...\nTaurus、EU加盟27カ国でトークン化証券展開へ──MiFID IIライセンス取得 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -234,6 +264,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=706831",
+          "author": "菊谷ルイス",
+          "description": "分散型貸付プロトコルのAaveは5月7日、Kelp DAO攻撃者のrsETHポジションを清算したと発表した。DeFi United主導の救済計画に基づき、確保された約3.2億ドルの資金を用いて被害を受けたユーザーへの補償と市場の安定化が進められている。",
+          "link": "https://coinpost.jp/?p=706831",
+          "publishedOn": "2026-05-06T21:50:39.000Z",
+          "wordCount": 3364,
+          "title": "アーベがケルプDAO攻撃者の資産を強制清算、2.9億ドルの被害回復が前進",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/uni-aave-bitwise-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/uni-aave-bitwise-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706832",
+          "author": "菊谷ルイス",
+          "description": "ホワイトハウスの仮想通貨顧問パトリック・ウィット氏が7月4日の独立記念日を法案成立の目標日に設定した。倫理条項をめぐる民主党との交渉は進展しており、上院銀行委員会の採決は来週にも行われる可能性がある。",
+          "link": "https://coinpost.jp/?p=706832",
+          "publishedOn": "2026-05-06T21:20:47.000Z",
+          "wordCount": 3881,
+          "title": "ホワイトハウスがクラリティー法案の7月4日成立を目標設定、来週にも上院委員会の採決へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/trump-101.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/trump-101.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=706833",
+          "author": "菊谷ルイス",
+          "description": "ソラナ財団は5月6日、Google Cloudと提携しAIエージェント向け決済ゲートウェイ「Pay.sh」を立ち上げた。ソラナ基盤のステーブルコインを使用し、アカウント不要でGeminiやBigQueryなどのAPIをリクエストごとに支払える革新的な仕組みを提供。",
+          "link": "https://coinpost.jp/?p=706833",
+          "publishedOn": "2026-05-06T20:55:55.000Z",
+          "wordCount": 3388,
+          "title": "ソラナとGoogle CloudがAI決済「Pay.sh」発表、x402でAPI利用を自律化",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/06/solana-2.0-new.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=706834",
           "author": "菊谷ルイス",
