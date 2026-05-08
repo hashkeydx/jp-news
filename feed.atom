@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-08T11:43:54.498Z</updated>
+    <updated>2026-05-08T14:14:37.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【5/8話題】プログマらのトークン化国債WG設置、リミポのビットコイン運用状況、韓国の暗号資産課税は1月からなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=572397</id>
+        <link href="https://www.neweconomy.jp/posts/572397"/>
+        <updated>2026-05-08T13:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ケルプDAO、rsETH不正流出巡りレイヤーゼロへ反論。「設定ミス」巡る責任論争に発展]]></title>
         <id>https://www.neweconomy.jp/?p=572175</id>
@@ -1563,16 +1573,6 @@ Anthropic評価額、BTC時価総額超えの可能性──マスク氏対OpenA
 日本の予測市場を予測する【記者コラム】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムL1処理能力、次期大型アップグレード「グラムステルダム」で3倍超に届く可能性]]></title>
-        <id>https://coinpost.jp/?p=706659</id>
-        <link href="https://coinpost.jp/?p=706659"/>
-        <updated>2026-05-04T01:05:08.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアムのコア開発者約100人が次期大型アップグレード「グラムステルダム」で集中作業を行った。ガス上限大幅引き上げで合意などスケーリングに向けた主要成果を報告している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
