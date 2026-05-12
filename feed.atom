@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-12T13:14:28.220Z</updated>
+    <updated>2026-05-12T16:30:24.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【5/12話題】コインチェックGがKDDIと資本提携で100億円調達へ、イーサリアム財団がプロトコル開発体制を再編など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=572961</id>
+        <link href="https://www.neweconomy.jp/posts/572961"/>
+        <updated>2026-05-12T14:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDDIがCoincheck Groupと資本提携を締結　合弁設立し仮想通貨ウォレット事業へ参入]]></title>
         <id>https://coinpost.jp/?p=708226</id>
@@ -1453,118 +1463,6 @@ Bitwise、Superstateのトークン化ファンドの運用を引き継ぎへ fi
         <summary type="html"><![CDATA[ポリゴンはブロック生成時間を1.75秒に短縮し、毎秒3,260件超の取引処理を実現した。「Hinkal」との連携で機関投資家向けプライベート決済にも対応している。]]></summary>
         <author>
             <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リミックスポイントがビットコインの運用実績と保有状況を報告、レンディングで約5BTC取得]]></title>
-        <id>https://www.neweconomy.jp/?p=572021</id>
-        <link href="https://www.neweconomy.jp/posts/572021"/>
-        <updated>2026-05-08T04:12:57.000Z</updated>
-        <summary type="html"><![CDATA[リミポのビットコイン運用・保有の状況 東証スタンダード上場企業のリミックスポイントが、ビットコインレンディング取引の運用実績および2026年4月末時点におけるビットコインの保有状況を5月8日に報告した。 リミックスポイン […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネットスターズ、アプトスとWeb3決済普及に向け協業へ]]></title>
-        <id>https://www.neweconomy.jp/?p=571998</id>
-        <link href="https://www.neweconomy.jp/posts/571998"/>
-        <updated>2026-05-08T03:18:33.000Z</updated>
-        <summary type="html"><![CDATA[ネットスターズがアプトスとMoU 決済ゲートウェイサービス「StarPay」提供のネットスターズが、ステーブルコインをはじめとするWeb3型決済の普及に向けた協業について、アプトス（Aptos）とMoUを締結したと5月8 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、AIエージェント向け決済機能を提供へ。コインベースとストライプと連携で]]></title>
-        <id>https://www.neweconomy.jp/?p=571991</id>
-        <link href="https://www.neweconomy.jp/posts/571991"/>
-        <updated>2026-05-08T03:04:56.000Z</updated>
-        <summary type="html"><![CDATA[AIエージェントの自律決済基盤を提供へ アマゾン・ウェブ・サービス（Amazon Web Services：AWS）が、AIエージェント向け決済機能「アマゾン・ベッドロック・エージェントコア・ペイメンツ（Amazon B […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本JCBAがステーキング事業の運営指針を策定、業界の健全化と利用者保護を推進]]></title>
-        <id>https://coinpost.jp/?p=707339</id>
-        <link href="https://coinpost.jp/?p=707339"/>
-        <updated>2026-05-08T03:00:29.000Z</updated>
-        <summary type="html"><![CDATA[一般社団法人日本暗号資産ビジネス協会（JCBA）は、国内で拡大するステーキング市場の健全な発展を目的とした「ベストプラクティス」を公表した。手数料体系の透明性や資産管理のあり方など、事業者が実務で参照すべき指針を明文化し、利用者保護の強化を図る。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ekuboでセキュリティインシデント発生、約140万ドル流出報告]]></title>
-        <id>https://www.neweconomy.jp/?p=571983</id>
-        <link href="https://www.neweconomy.jp/posts/571983"/>
-        <updated>2026-05-08T02:51:52.000Z</updated>
-        <summary type="html"><![CDATA[Ekuboでセキュリティインシデント発生 分散型金融（DeFi）プロトコル「エクボ（Ekubo）」のEVMチェーン上のスワップルーターコントラクトでセキュリティインシデントが発生した。5月6日に同プロトコル公式Xアカウン […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ氏一族関与のアメリカン・ビットコイン、26年1Qは約128億円の純損失　BTC採掘量は最高水準に]]></title>
-        <id>https://coinpost.jp/?p=707291</id>
-        <link href="https://coinpost.jp/?p=707291"/>
-        <updated>2026-05-08T02:45:12.000Z</updated>
-        <summary type="html"><![CDATA[トランプ一族関与の仮想通貨ビットコインマイニング企業のアメリカン・ビットコインは、2026年1Qの決算を発表。ビットコインの採掘量が過去最高だったことなどを報告した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21Shares、米国初のCanton Network ETFをナスダックに上場]]></title>
-        <id>https://www.nadanews.com/?p=347777</id>
-        <link href="https://www.nadanews.com/347777/"/>
-        <updated>2026-05-08T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）ETP（上場取引型金融商品）発行大手の21shares（21シェアーズ）は5月7日、Canton Network（カントン・ネットワーク）の ...
-21Shares、米国初のCanton Network ETFをナスダックに上場 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上場企業HSI、仮想通貨HYPE保有でQ3に1.5億ドルの純利益　アーサー・ヘイズの150ドル強気予測も]]></title>
-        <id>https://coinpost.jp/?p=707295</id>
-        <link href="https://coinpost.jp/?p=707295"/>
-        <updated>2026-05-08T02:15:35.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場のハイパーリキッド・ストラテジーズは、HYPEトークンの保有により2026年Q3に約230億円の純利益を計上。アーサー・ヘイズ氏による将来的な150ドル到達予測や耐量子インフラへの投資など、エコシステムの急成長が投資家の注目を集めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progmatが描く日本国債のオンチェーン化、24時間365日レポ取引の実現へ]]></title>
-        <id>https://coinpost.jp/?p=707258</id>
-        <link href="https://coinpost.jp/?p=707258"/>
-        <updated>2026-05-08T02:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Progmatが共同検討を開始したトークン化国債とオンチェーン・レポ取引について、「振替国債に紐づく権利」方式の仕組みと、24時間取引・当日決済が機関投資家にもたらす価値を解説する。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、3か月ぶり高値も弱気相場の反発である可能性＝クリプトクアント]]></title>
-        <id>https://coinpost.jp/?p=707257</id>
-        <link href="https://coinpost.jp/?p=707257"/>
-        <updated>2026-05-08T01:50:02.000Z</updated>
-        <summary type="html"><![CDATA[クリプトクアントが仮想通貨ビットコイン市場を分析。3か月ぶりの高値を更新したものの、弱気相場における一時的な上昇局面の可能性があるとの見方を示した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【墨汁うまい氏寄稿】イーサリアムでの463億円ハッキング被害はDeFiをより強固にするきっかけとなる]]></title>
-        <id>https://www.nadanews.com/?p=347145</id>
-        <link href="https://www.nadanews.com/347145/"/>
-        <updated>2026-05-08T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）専業11年目の墨汁うまい（@bokujyuumai）です。イーサリアム（Ethereum: ETH）及びL2展開を行うアービトラム（Arbi ...
-【墨汁うまい氏寄稿】イーサリアムでの463億円ハッキング被害はDeFiをより強固にするきっかけとなる first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>墨汁うまい</name>
         </author>
     </entry>
 </feed>
