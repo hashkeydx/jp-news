@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-13T22:36:18.227Z</updated>
+    <updated>2026-05-14T00:13:20.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新興ブロックチェーンの資金調達の3つの示唆、ビットワイズの幹部が提示]]></title>
+        <id>https://coinpost.jp/?p=708465</id>
+        <link href="https://coinpost.jp/?p=708465"/>
+        <updated>2026-05-13T23:50:59.000Z</updated>
+        <summary type="html"><![CDATA[ビットワイズの幹部は、アークとカントンネットワークとテンポの新興チェーンを取り上げて仮想通貨の3つの示唆を提示。それぞれの資金調達や大手企業との協業が同時期に明らかになったことに注目している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アンソロピックとOpenAIの未公開株連動トークンが40%以上急落、無効警告を受け]]></title>
+        <id>https://coinpost.jp/?p=708445</id>
+        <link href="https://coinpost.jp/?p=708445"/>
+        <updated>2026-05-13T23:15:41.000Z</updated>
+        <summary type="html"><![CDATA[ソラナ基盤のPreStocksが発行するアンソロピックとOpenAI連動トークンが暴落。両社がSPVやトークン経由の株式譲渡を無効と警告したことが背景にある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人工知能Claudeが11年間紛失のビットコイン復元に成功、6200万円超資産を救出]]></title>
         <id>https://coinpost.jp/?p=708446</id>
