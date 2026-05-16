@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=348909",
+          "author": "栃山 直樹",
+          "description": "金融庁が解禁に向けて法整備を進める暗号資産（仮想通貨）を組み入れた投資信託について、SBI証券および楽天証券が販売する方針だと16日、日経新聞が報じた。 同紙が ...\n暗号資産投信をSBI・楽天が販売へ、28年解禁へ野村らも検討──日経 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/348909/",
+          "publishedOn": "2026-05-16T13:49:19.000Z",
+          "wordCount": 1877,
+          "title": "暗号資産投信をSBI・楽天が販売へ、28年解禁へ野村らも検討──日経",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/shutterstock_2104178783.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=348864",
           "author": "平木 昌宏",
           "description": "・ビットコイン（BTC）は、米国のCLARITY法案をめぐるマークアップ審議と、ナスダックおよびS&P500の過去最高値更新を受けて市場全体のリスク選好 ...\nビットコイン、ETF資金流出でも8万ドル台を維持──米クラリティ法案と株高が支えに【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -800,16 +810,6 @@
           "wordCount": 2076,
           "title": "Bitmine株が4％上昇、ETH購入ペース減速へ──ステーキング収益は年3.2億ドル規模に【価格分析】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/image1_1200x800-2.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=347381",
-          "author": "橋本 祐樹",
-          "description": "「Web3を実社会に根づかせたい」 ネットスターズ代表取締役社長CEOの李剛氏がこう語ったのは4月8日、Web3とAIに特化した国際テクノロジーカンファレンス「 ...\nステーブルコイン決済は”日常”になるか──ネットスターズ×ソラナが示した使われる条件【取材】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/347381/",
-          "publishedOn": "2026-05-12T01:00:00.000Z",
-          "wordCount": 2122,
-          "title": "ステーブルコイン決済は”日常”になるか──ネットスターズ×ソラナが示した使われる条件【取材】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/DSC_8789-scaled.jpg"
         }
       ]
     },
@@ -1918,51 +1918,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/mercari_0424.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/mercari_0424.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=708007",
-          "author": "菊谷ルイス",
-          "description": "Anthropicが未承認の株式譲渡を「無効」と警告。SPVやトークン化証券、先渡契約を対象とし、HiiveやForgeなどを名指しした。二次市場の評価額は1兆ドル超え規模に達している。",
-          "link": "https://coinpost.jp/?p=708007",
-          "publishedOn": "2026-05-12T01:46:06.000Z",
-          "wordCount": 4396,
-          "title": "アンソロピック、トークン化された自社株に警告　権利は認めず「無効」を明言",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/anthropic-mythos-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=707989",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨取引所バイナンスは、2025年1月から15カ月間にAIを活用して詐欺による潜在的被害から合計で約1.7兆円を保護したと公表。取り組みの成果に加え、ユーザー保護策を説明している。",
-          "link": "https://coinpost.jp/?p=707989",
-          "publishedOn": "2026-05-12T01:44:55.000Z",
-          "wordCount": 3337,
-          "title": "バイナンスがユーザー保護にAI活用、15カ月間で計約1.7兆円の潜在的被害を阻止",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/Binance-AI-Versus-AI.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/Binance-AI-Versus-AI.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=707984",
-          "author": "A.Yamada",
-          "description": "ビットコインマイニング企業クリーンスパークが2026年1〜3月期決算を発表。ビットコイン評価損で純損失を計上。AI・HPC関連の事業開発を進めている。",
-          "link": "https://coinpost.jp/?p=707984",
-          "publishedOn": "2026-05-12T00:50:21.000Z",
-          "wordCount": 3356,
-          "title": "クリーンスパーク、1～3月期に590億円超の損失　保有ビットコインが大きく影響",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/bitcoinminer332525-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/bitcoinminer332525-1.jpg"
         }
       ]
     },
