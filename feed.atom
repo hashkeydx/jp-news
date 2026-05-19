@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-18T22:12:09.025Z</updated>
+    <updated>2026-05-19T00:17:04.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、今週にも企業同意不要の株式トークン取引枠組みを発表する見通し＝報道]]></title>
+        <id>https://coinpost.jp/?p=709384</id>
+        <link href="https://coinpost.jp/?p=709384"/>
+        <updated>2026-05-18T23:40:24.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会（SEC）は、発行企業の同意を得ずに第三者が発行する米国株のトークン化資産について、DeFiなどでの取引を許可する「イノベーション免除」制度を間もなく発表する見通しだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨ETFなど、先週は約1700億円が純流出　XRPやソラナなどの商品は純流入]]></title>
+        <id>https://coinpost.jp/?p=709397</id>
+        <link href="https://coinpost.jp/?p=709397"/>
+        <updated>2026-05-18T22:50:11.000Z</updated>
+        <summary type="html"><![CDATA[コインシェアーズは、仮想通貨投資商品全体の先週の資金フローは約1,700億円の純流出だったと報告。ビットコインとイーサリアムの商品からは純流出、XRPとソラナなどの商品には純流入した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンチェーン分析で見る2026年ビットコイン市場──「待機資金」と「先物主導」の正体【エックスウィン】]]></title>
+        <id>https://www.nadanews.com/?p=349076</id>
+        <link href="https://www.nadanews.com/349076/"/>
+        <updated>2026-05-18T22:31:00.000Z</updated>
+        <summary type="html"><![CDATA[● 取引所残高は減少を続け、中長期ではBTC供給圧縮構造が継続している。● 一方で、Open InterestとFunding Rateからは、依然として先物主 ...
+オンチェーン分析で見る2026年ビットコイン市場──「待機資金」と「先物主導」の正体【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>エックスウィン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米政府のビットコイン準備金法整備に進展、新規購入の可能性は低いか]]></title>
+        <id>https://coinpost.jp/?p=709385</id>
+        <link href="https://coinpost.jp/?p=709385"/>
+        <updated>2026-05-18T22:25:31.000Z</updated>
+        <summary type="html"><![CDATA[米トランプ政権のデジタル資産諮問委員会は、戦略的ビットコイン準備金の設立に向けた法的ハードルをクリアしたと表明した。市場では政府による新規購入への期待があるものの、関連法案の成立可能性は低く、既存資産の保全が中心となる見込みだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジーの先週のビットコイン購入状況、STRCから調達した3100億円で2.4万BTCを追加取得]]></title>
         <id>https://coinpost.jp/?p=709386</id>
@@ -1378,28 +1419,6 @@ CME Group、Nasdaq CME Crypto Index先物をローンチへ first appeared on NA
         <summary type="html"><![CDATA[フィスコが仮想通貨FSCCのステーキング・決済など全サービスの停止を発表。2025年12月期分のバーンも中止する。FSCCの即時消滅や取引所対応への影響はないとしている。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フィスコ、暗号資産事業から撤退]]></title>
-        <id>https://www.nadanews.com/?p=348582</id>
-        <link href="https://www.nadanews.com/348582/"/>
-        <updated>2026-05-14T11:22:40.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）発行業者としても知られる東証グロース市場上場企業のフィスコは14日、暗号資産・ブロックチェーン事業を事業内容から外し、2026年12月期第1 ...
-フィスコ、暗号資産事業から撤退 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、価格調整が進めば7万ドルまで下落する可能性も：CryptoQuant]]></title>
-        <id>https://www.nadanews.com/?p=348583</id>
-        <link href="https://www.nadanews.com/348583/"/>
-        <updated>2026-05-14T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーンデータ分析企業CryptoQuant（クリプトクワント）は5月13日に公開したレポートで、利益確定売りとアメリカの投資家需要の低迷がビットコイン（B ...
-ビットコイン、価格調整が進めば7万ドルまで下落する可能性も：CryptoQuant first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
