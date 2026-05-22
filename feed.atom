@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-22T18:02:04.493Z</updated>
+    <updated>2026-05-22T20:05:24.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ICEとOKXが原油の永久先物を共同提供、1.2億人規模の仮想通貨ユーザーにアクセス開放]]></title>
+        <id>https://coinpost.jp/?p=710411</id>
+        <link href="https://coinpost.jp/?p=710411"/>
+        <updated>2026-05-22T20:00:11.000Z</updated>
+        <summary type="html"><![CDATA[ニューヨーク証券取引所を傘下に持つインターコンチネンタル取引所（ICE）と仮想通貨取引所OKXが、ICEのブレント原油・WTI価格を基準とした永久先物契約を共同提供すると発表した。OKXが許認可を持つ地域で順次展開へ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/22話題】ポリマーケットが日本市場での認可取得目指す、JPYCのシリーズBは50億円、ブロックチェーンドットコムが米IPO準備など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=575805</id>
@@ -2097,162 +2107,6 @@ JPYC、LINE上のステーブルコインウォレット「Unifi」で5月22日�
 クラリティ法案は8月までに可決されなければ成立が困難に：NYDIG first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLARITY法、上院銀行委員会を15対9で通過──ネットワーク・トークン定義とステーブルコイン報酬を巡る最終調整【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=348787</id>
-        <link href="https://www.nadanews.com/348787/"/>
-        <updated>2026-05-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年5月14日、米上院銀行委員会が、デジタル資産市場の規制枠組みを定める「Digital Asset Market Clarity Act（CLARITY ...
-CLARITY法、上院銀行委員会を15対9で通過──ネットワーク・トークン定義とステーブルコイン報酬を巡る最終調整【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国KB国民銀行、ウォン建てステーブルコインの決済・精算・海外送金の技術検証を完了──Kaia DLT Foundationらと共同で]]></title>
-        <id>https://www.nadanews.com/?p=348990</id>
-        <link href="https://www.nadanews.com/348990/"/>
-        <updated>2026-05-18T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国4大市中銀行（メガバンク）の一行であるKB国民銀行は、決済専門企業KG INICIS（KGイニシス）、デジタル資産ソリューション企業OpenAsset（オー ...
-韓国KB国民銀行、ウォン建てステーブルコインの決済・精算・海外送金の技術検証を完了──Kaia DLT Foundationらと共同で first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CMEグループとICE、パーペチュアルDEX「ハイパーリキッド」の規制強化を米政府に要請]]></title>
-        <id>https://www.neweconomy.jp/?p=574262</id>
-        <link href="https://www.neweconomy.jp/posts/574262"/>
-        <updated>2026-05-18T07:53:26.000Z</updated>
-        <summary type="html"><![CDATA[原油価格への影響力拡大で警戒感 世界最大の先物取引所であるCMEグループと、ニューヨーク証券取引所（New York Stock Exchange：NYSE）運営のインターコンチネンタル・エクスチェンジ（Intercon […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[決済特化型L1「Tempo」、コインベースのcbBTC導入。CCIP活用で]]></title>
-        <id>https://www.neweconomy.jp/?p=574248</id>
-        <link href="https://www.neweconomy.jp/posts/574248"/>
-        <updated>2026-05-18T07:46:14.000Z</updated>
-        <summary type="html"><![CDATA[cbBTCが「テンポ」で利用可能に 暗号資産（仮想通貨）取引所コインベース（Coinbase）のラップドビットコイン「コインベース・ラップドBTC（Coinbase Wrapped BTC：cbBTC）」が、決済特化型レ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国ハナ銀行、アップビット運営元ドゥナムの株式1000億円相当を取得へ、持分比率6.55%に]]></title>
-        <id>https://www.neweconomy.jp/?p=574172</id>
-        <link href="https://www.neweconomy.jp/posts/574172"/>
-        <updated>2026-05-18T07:22:40.000Z</updated>
-        <summary type="html"><![CDATA[ハナ銀行がドゥナムの株式一部取得 韓国大手商業銀行のハナ銀行が、同国最大の暗号資産（仮想通貨）取引所アップビット（Upbit）運営会社のドゥナム（Dunamu）の株式を1,000億円相当取得する予定だ。 ハナ銀行親会社の […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原油価格の高騰がETHの売り圧力につながっている：Bitmineのトム・リー氏]]></title>
-        <id>https://www.nadanews.com/?p=349001</id>
-        <link href="https://www.nadanews.com/349001/"/>
-        <updated>2026-05-18T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財務戦略企業Bitmine（ビットマイン）の会長で、Fundstrat（ファンドストラット）共同創設者のTom Lee（トム・リー）氏は5月18日、 ...
-原油価格の高騰がETHの売り圧力につながっている：Bitmineのトム・リー氏 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[らくらくちょコイン、USDCの取り扱いを開始]]></title>
-        <id>https://www.nadanews.com/?p=348992</id>
-        <link href="https://www.nadanews.com/348992/"/>
-        <updated>2026-05-18T06:56:37.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産レンディングサービス「らくらくちょコイン」は、本日より「ユーエスディーシー（USDC）」の取り扱い開始を発表した。 ユーエスディーシー（USDC）は、米 ...
-らくらくちょコイン、USDCの取り扱いを開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>大谷 惇途</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ビットコインATM大手ビットコイン・デポが経営破綻、規制強化で事業継続断念]]></title>
-        <id>https://coinpost.jp/?p=709272</id>
-        <link href="https://coinpost.jp/?p=709272"/>
-        <updated>2026-05-18T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[米ビットコインATM最大手ビットコイン・デポがチャプター11を申請。規制強化と訴訟リスクにより事業清算と資産売却を決定、全ATMをオフライン化。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イランがビットコイン決済の海上保険プラットフォーム「Hormuz Safe」を立ち上げ＝報道]]></title>
-        <id>https://coinpost.jp/?p=709266</id>
-        <link href="https://coinpost.jp/?p=709266"/>
-        <updated>2026-05-18T06:45:36.000Z</updated>
-        <summary type="html"><![CDATA[イランが経済省後援の仮想通貨決済型海上保険「Hormuz Safe」を始動。ビットコインでSWIFTを迂回し、ペルシャ湾航路の保険市場参入を狙う。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産トレジャリーへの視線厳しく──ReYuu Japan、150億円の融資枠合意を解消]]></title>
-        <id>https://www.nadanews.com/?p=348979</id>
-        <link href="https://www.nadanews.com/348979/"/>
-        <updated>2026-05-18T06:45:23.000Z</updated>
-        <summary type="html"><![CDATA[東証スタンダード上場企業で暗号資産トレジャリー（DAT）戦略を進めるReYuu Japanは18日、カナダの投資会社であるUniversal Digital I ...
-暗号資産トレジャリーへの視線厳しく──ReYuu Japan、150億円の融資枠合意を解消 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THORChainが取引一時停止、約1070万ドル被害か。署名システム脆弱性の可能性浮上]]></title>
-        <id>https://www.neweconomy.jp/?p=574151</id>
-        <link href="https://www.neweconomy.jp/posts/574151"/>
-        <updated>2026-05-18T06:43:51.000Z</updated>
-        <summary type="html"><![CDATA[ソーチェーンでボールト侵害 クロスチェーン流動性プロトコル「ソーチェーン（THORChain）」が、侵害を受けたとして同チェーンの取引を一時停止した。オンチェーン調査者ザックXBT（ZachXBT）が自身のテレグラムグル […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケールとヴァンエック、「ビルドアンドビルド（BNB）」現物ETFの修正版提出]]></title>
-        <id>https://www.neweconomy.jp/?p=574160</id>
-        <link href="https://www.neweconomy.jp/posts/574160"/>
-        <updated>2026-05-18T06:41:41.000Z</updated>
-        <summary type="html"><![CDATA[GrayscaleとVanEckがBNB ETFの修正版提出 米資産運用会社グレースケール（Grayscale）とヴァンエック（VanEck）が、BNBチェーン（BNB Chain）のネイティブトークンBNBを対象とする […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国KB国民銀行、ウォンステーブルコインの決済・精算・海外送金の技術検証を完了。カイアDLT財団らと共同で]]></title>
-        <id>https://www.neweconomy.jp/?p=574138</id>
-        <link href="https://www.neweconomy.jp/posts/574138"/>
-        <updated>2026-05-18T06:13:08.000Z</updated>
-        <summary type="html"><![CDATA[KB国民銀行がウォン建てステーブルコインの発行・決済・精算・海外送金のPoC 韓国4大市中銀行（メガバンク）のうちの一行であるKB国民銀行（KB Kookmin Bank）が、ウォン建てステーブルコインの発行・決済・精算 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale、BNB現物ETFの第2次修正届出書をSECに提出──米国初承認に一歩前進]]></title>
-        <id>https://www.nadanews.com/?p=348964</id>
-        <link href="https://www.nadanews.com/348964/"/>
-        <updated>2026-05-18T06:05:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）運用会社Grayscale（グレイスケール）は5月15日、BNB現物ETF（上場投資信託）「Grayscale BNB ETF（ティッカー： ...
-Grayscale、BNB現物ETFの第2次修正届出書をSECに提出──米国初承認に一歩前進 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[au PAY ポイント運用、ビットコイン連動コース開始]]></title>
-        <id>https://coinpost.jp/?p=709257</id>
-        <link href="https://coinpost.jp/?p=709257"/>
-        <updated>2026-05-18T06:01:58.000Z</updated>
-        <summary type="html"><![CDATA[au Coincheck Digital AssetsとKDDIは5月18日、「au PAY ポイント運用」にビットコイン価格連動の新コースを追加した。Pontaポイント100ポイントから利用でき、口座開設不要で仮想通貨の値動きを体験できる。追加・引き出し時の手数料はそれぞれ4.5％。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
         </author>
     </entry>
 </feed>
