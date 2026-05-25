@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=352076",
+          "author": "井上 俊彦",
+          "description": "暗号資産（仮想通貨）投資会社のKeyrock（キーロック）は22日、AI（人工知能）エージェントによる決済処理が過去12カ月で構想段階から現実のものへと移行し、 ...\nAIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/352076/",
+          "publishedOn": "2026-05-25T21:00:00.000Z",
+          "wordCount": 1833,
+          "title": "AIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2644331155.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=352073",
           "author": "井上 俊彦",
           "description": "オンチェーン分析プラットフォームのOnchain Lens（オンチェーン・レンズ）は25日、Xへの投稿で、ビットコイン（BTC）のサトシ・ナカモト氏の活動時期に ...\nサトシ時代のビットコインクジラ、2億ドル以上のBTCを移動 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -570,16 +580,6 @@
           "wordCount": 1840,
           "title": "Securitize、第1四半期の売上高が過去最高を記録",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/12/Securitize-Home-page-4.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=351490",
-          "author": "井上 俊彦",
-          "description": "ナスダック上場のビットコイン関連企業ナカモトは5月20日、1対40の株式併合（リバース・スプリット）を実施すると発表した。アメリカ東部時間5月22日午前0時1分 ...\nビットコイン財務企業ナカモト、株価99％急落を受けて1対40の株式併合を発表 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/351490/",
-          "publishedOn": "2026-05-21T08:20:00.000Z",
-          "wordCount": 1848,
-          "title": "ビットコイン財務企業ナカモト、株価99％急落を受けて1対40の株式併合を発表",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/04/shutterstock_2540840221-scaled.jpg"
         }
       ]
     },
@@ -594,6 +594,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=710993",
+          "author": "菊谷ルイス",
+          "description": "インドネシア通信デジタル省は5月22日、予測市場プラットフォームのPolymarketへのアクセスを正式に遮断した。仮想通貨やブロックチェーンを用いた予測市場も賭博と判断し、関連SNSアカウントの追跡も進めている。",
+          "link": "https://coinpost.jp/?p=710993",
+          "publishedOn": "2026-05-25T20:45:38.000Z",
+          "wordCount": 3884,
+          "title": "インドネシアがポリマーケットを遮断、予測市場を「オンライン賭博」とみなす",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=710965",
+          "author": "菊谷ルイス",
+          "description": "オンチェーン分析のOnchain Lensは25日、サトシ・ナカモト時代から活動するビットコインOGマイナーが2650 BTCをFalconXとCumberlandに入金したと報告した。クジラはなお6000BTCを保有。",
+          "link": "https://coinpost.jp/?p=710965",
+          "publishedOn": "2026-05-25T20:00:30.000Z",
+          "wordCount": 3384,
+          "title": "サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/bitcoin-whale-making-more-purchase-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=710866",
           "author": "Ritsuki.Kumazawa",
@@ -1268,21 +1298,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Hyperliquid-Logo.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/Hyperliquid-Logo.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=710228",
-          "author": "Enzo",
-          "description": "「中国のバフェット」と称される段永平氏が2026年Q1の13F申告でCircle（CRCL）株20万株を初取得。約1,908万ドル相当のポジションを開示し、ステーブルコイン市場への関心転換として注目される。",
-          "link": "https://coinpost.jp/?p=710228",
-          "publishedOn": "2026-05-21T08:29:16.000Z",
-          "wordCount": 3340,
-          "title": "「中国のバフェット」段永平氏、サークル株20万株を初取得",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/usdc-circle-stock-up-big.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/usdc-circle-stock-up-big.jpg"
         }
       ]
     },
@@ -1600,16 +1615,6 @@
           "wordCount": 809,
           "title": "レイヤーゼロ、KelpDAO「rsETH」インシデント詳細レポート公開。単独DVN構成での署名拒否へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/21184335/e58e4f916f93efcf613879abc533edbb.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=575452",
-          "author": "gentosha_takahashi",
-          "description": "WLFI保有と内部統制の重大欠陥を開示 ドナルド・トランプ（Donald Trump）米大統領とその家族が関わる暗号資産（仮想通貨）プロジェクト「ワールド・リバティ・ファイナンシャル（World Liberty Fina […]",
-          "link": "https://www.neweconomy.jp/posts/575452",
-          "publishedOn": "2026-05-21T07:56:46.000Z",
-          "wordCount": 763,
-          "title": "AI Financial、トランプ関連「WLFI」72億枚超保有。現金化に制約、事業継続に懸念",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/21165624/8388983ae7bf8afffab7f1fae6c45bf5.jpg"
         }
       ]
     }

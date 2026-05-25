@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-25T19:56:42.499Z</updated>
+    <updated>2026-05-25T21:21:15.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書]]></title>
+        <id>https://www.nadanews.com/?p=352076</id>
+        <link href="https://www.nadanews.com/352076/"/>
+        <updated>2026-05-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）投資会社のKeyrock（キーロック）は22日、AI（人工知能）エージェントによる決済処理が過去12カ月で構想段階から現実のものへと移行し、 ...
+AIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インドネシアがポリマーケットを遮断、予測市場を「オンライン賭博」とみなす]]></title>
+        <id>https://coinpost.jp/?p=710993</id>
+        <link href="https://coinpost.jp/?p=710993"/>
+        <updated>2026-05-25T20:45:38.000Z</updated>
+        <summary type="html"><![CDATA[インドネシア通信デジタル省は5月22日、予測市場プラットフォームのPolymarketへのアクセスを正式に遮断した。仮想通貨やブロックチェーンを用いた予測市場も賭博と判断し、関連SNSアカウントの追跡も進めている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サトシ時代のビットコインマイナー、325億円相当BTCをブローカーへ入金]]></title>
+        <id>https://coinpost.jp/?p=710965</id>
+        <link href="https://coinpost.jp/?p=710965"/>
+        <updated>2026-05-25T20:00:30.000Z</updated>
+        <summary type="html"><![CDATA[オンチェーン分析のOnchain Lensは25日、サトシ・ナカモト時代から活動するビットコインOGマイナーが2650 BTCをFalconXとCumberlandに入金したと報告した。クジラはなお6000BTCを保有。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【5/25話題】バイナンス共同CEOがイラン制裁回避報道を否定、ECBがユーロ建てステーブルコイン拡大に警鐘など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=576185</id>
@@ -1380,37 +1411,6 @@ OrdinalsやBRC-20が所得隠しに使われ始めている：Chainalysis first 
 Securitize、第1四半期の売上高が過去最高を記録 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「中国のバフェット」段永平氏、サークル株20万株を初取得]]></title>
-        <id>https://coinpost.jp/?p=710228</id>
-        <link href="https://coinpost.jp/?p=710228"/>
-        <updated>2026-05-21T08:29:16.000Z</updated>
-        <summary type="html"><![CDATA[「中国のバフェット」と称される段永平氏が2026年Q1の13F申告でCircle（CRCL）株20万株を初取得。約1,908万ドル相当のポジションを開示し、ステーブルコイン市場への関心転換として注目される。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン財務企業ナカモト、株価99％急落を受けて1対40の株式併合を発表]]></title>
-        <id>https://www.nadanews.com/?p=351490</id>
-        <link href="https://www.nadanews.com/351490/"/>
-        <updated>2026-05-21T08:20:00.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場のビットコイン関連企業ナカモトは5月20日、1対40の株式併合（リバース・スプリット）を実施すると発表した。アメリカ東部時間5月22日午前0時1分 ...
-ビットコイン財務企業ナカモト、株価99％急落を受けて1対40の株式併合を発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Financial、トランプ関連「WLFI」72億枚超保有。現金化に制約、事業継続に懸念]]></title>
-        <id>https://www.neweconomy.jp/?p=575452</id>
-        <link href="https://www.neweconomy.jp/posts/575452"/>
-        <updated>2026-05-21T07:56:46.000Z</updated>
-        <summary type="html"><![CDATA[WLFI保有と内部統制の重大欠陥を開示 ドナルド・トランプ（Donald Trump）米大統領とその家族が関わる暗号資産（仮想通貨）プロジェクト「ワールド・リバティ・ファイナンシャル（World Liberty Fina […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
         </author>
     </entry>
 </feed>
