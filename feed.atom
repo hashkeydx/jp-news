@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-05-29T22:04:13.457Z</updated>
+    <updated>2026-05-29T23:40:33.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、予測市場のビットコイン無期限先物を承認　コインベースもDeribit経由提供へ]]></title>
+        <id>https://coinpost.jp/?p=712704</id>
+        <link href="https://coinpost.jp/?p=712704"/>
+        <updated>2026-05-29T23:30:17.000Z</updated>
+        <summary type="html"><![CDATA[米CFTCは29日、KalshiEXのビットコイン無期限先物（BTCPERP）を先物契約として承認した。CoinbaseもDeribit経由の仮想通貨デリバティブ提供でノーアクションレターを取得し米国内でのパーペチュアル取引が正式に解禁された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベースL2のBase、Azulアップグレードをメインネットで実施　処理速度や安全性が向上]]></title>
+        <id>https://coinpost.jp/?p=712711</id>
+        <link href="https://coinpost.jp/?p=712711"/>
+        <updated>2026-05-29T23:00:06.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所コインベース支援のイーサリアムL2のBaseは、アップグレードBase Azulをメインネットで実行したことを発表。処理速度や安全性が向上した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恐怖と蓄積が交錯する市場── ビットコインが試される「需要確認フェーズ」【BitTrade Market Weekly】]]></title>
+        <id>https://www.nadanews.com/?p=352988</id>
+        <link href="https://www.nadanews.com/352988/"/>
+        <updated>2026-05-29T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週の市場は、「弱気相場への移行」ではなく、「需要の有無を見極める検証局面」と表現するのが最も適切な1週間だった。 ビットコインは週前半に75,000ドル台で推 ...
+恐怖と蓄積が交錯する市場── ビットコインが試される「需要確認フェーズ」【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米財務省、イラン関連仮想通貨の押収累計額が1600億円相当に]]></title>
+        <id>https://coinpost.jp/?p=712700</id>
+        <link href="https://coinpost.jp/?p=712700"/>
+        <updated>2026-05-29T22:30:08.000Z</updated>
+        <summary type="html"><![CDATA[米財務省ベッセント長官は、イラン政権に関連する仮想通貨の押収総額が約10億ドルに達したと明らかにした。4月末時点の約5億ドルから倍増しており、ウォレットを直接差し押さえた事例もある。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イランの通行料BTC決済が「ドル中心システムからの脱却」進行を示唆：Fidelity]]></title>
         <id>https://www.nadanews.com/?p=352943</id>
@@ -2128,17 +2169,6 @@ AIエージェント向けに暗号資産を基盤とした「高度なエコシ
         <summary type="html"><![CDATA[トレーダムが22日、海外からのステーブルコイン支払いを日本企業が日本円で受け取れる決済サービスを開始。改正資金決済法の経過措置を踏まえた収納代行スキームを採用し、SWIFTより低コストな越境決済を狙う。]]></summary>
         <author>
             <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サトシ時代のビットコインクジラ、2億ドル以上のBTCを移動]]></title>
-        <id>https://www.nadanews.com/?p=352073</id>
-        <link href="https://www.nadanews.com/352073/"/>
-        <updated>2026-05-25T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーン分析プラットフォームのOnchain Lens（オンチェーン・レンズ）は25日、Xへの投稿で、ビットコイン（BTC）のサトシ・ナカモト氏の活動時期に ...
-サトシ時代のビットコインクジラ、2億ドル以上のBTCを移動 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>

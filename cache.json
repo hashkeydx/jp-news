@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=352988",
+          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
+          "description": "今週の市場は、「弱気相場への移行」ではなく、「需要の有無を見極める検証局面」と表現するのが最も適切な1週間だった。 ビットコインは週前半に75,000ドル台で推 ...\n恐怖と蓄積が交錯する市場── ビットコインが試される「需要確認フェーズ」【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/352988/",
+          "publishedOn": "2026-05-29T23:00:00.000Z",
+          "wordCount": 1857,
+          "title": "恐怖と蓄積が交錯する市場── ビットコインが試される「需要確認フェーズ」【BitTrade Market Weekly】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/nadanews_top-2026-05-30T065232.065.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=352943",
           "author": "井上 俊彦",
           "description": "米資産運用大手Fidelity（フィデリティ）のデジタル資産部門のFidelity Digital Assetsは5月28日、2026年上半期を振り返るレポート ...\nイランの通行料BTC決済が「ドル中心システムからの脱却」進行を示唆：Fidelity first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -840,16 +850,6 @@
           "wordCount": 1833,
           "title": "AIエージェント向けに暗号資産を基盤とした「高度なエコシステム」が出現：報告書",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/shutterstock_2644331155.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=352073",
-          "author": "井上 俊彦",
-          "description": "オンチェーン分析プラットフォームのOnchain Lens（オンチェーン・レンズ）は25日、Xへの投稿で、ビットコイン（BTC）のサトシ・ナカモト氏の活動時期に ...\nサトシ時代のビットコインクジラ、2億ドル以上のBTCを移動 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/352073/",
-          "publishedOn": "2026-05-25T10:10:00.000Z",
-          "wordCount": 1841,
-          "title": "サトシ時代のビットコインクジラ、2億ドル以上のBTCを移動",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2022/06/shutterstock_2118178433.jpg"
         }
       ]
     },
@@ -864,6 +864,51 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=712704",
+          "author": "菊谷ルイス",
+          "description": "米CFTCは29日、KalshiEXのビットコイン無期限先物（BTCPERP）を先物契約として承認した。CoinbaseもDeribit経由の仮想通貨デリバティブ提供でノーアクションレターを取得し米国内でのパーペチュアル取引が正式に解禁された。",
+          "link": "https://coinpost.jp/?p=712704",
+          "publishedOn": "2026-05-29T23:30:17.000Z",
+          "wordCount": 3954,
+          "title": "米CFTC、予測市場のビットコイン無期限先物を承認　コインベースもDeribit経由提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=712711",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所コインベース支援のイーサリアムL2のBaseは、アップグレードBase Azulをメインネットで実行したことを発表。処理速度や安全性が向上した。",
+          "link": "https://coinpost.jp/?p=712711",
+          "publishedOn": "2026-05-29T23:00:06.000Z",
+          "wordCount": 3958,
+          "title": "コインベースL2のBase、Azulアップグレードをメインネットで実施　処理速度や安全性が向上",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/Base-Azul.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/Base-Azul.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=712700",
+          "author": "菊谷ルイス",
+          "description": "米財務省ベッセント長官は、イラン政権に関連する仮想通貨の押収総額が約10億ドルに達したと明らかにした。4月末時点の約5億ドルから倍増しており、ウォレットを直接差し押さえた事例もある。",
+          "link": "https://coinpost.jp/?p=712700",
+          "publishedOn": "2026-05-29T22:30:08.000Z",
+          "wordCount": 3941,
+          "title": "米財務省、イラン関連仮想通貨の押収累計額が1600億円相当に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/us-iran-war-2026.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/us-iran-war-2026.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=712699",
           "author": "菊谷ルイス",
