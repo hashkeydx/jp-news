@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=354104",
+          "author": "井上 俊彦",
+          "description": "暗号資産取引所のCoinbase（コインベース）は6月3日、上場前（IPO前）の非公開企業の価格変動にアクセスできる永久先物取引の提供を開始したと発表した。「あ ...\nCoinbaseがIPO前の先物取引の提供開始──まずはスペースXから first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/354104/",
+          "publishedOn": "2026-06-04T21:30:00.000Z",
+          "wordCount": 1828,
+          "title": "CoinbaseがIPO前の先物取引の提供開始──まずはスペースXから",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2583331569.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=354101",
+          "author": "井上 俊彦",
+          "description": "暗号資産（仮想通貨）取引所BitMEX（ビットメックス）の共同創設者であるArthur Hayes（アーサー・ヘイズ）氏は6月4日、ハイパーリキッド（HYPE） ...\nアーサー・ヘイズ氏、HYPEとNEARを売却──AI企業のIPOラッシュを警戒 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/354101/",
+          "publishedOn": "2026-06-04T21:00:00.000Z",
+          "wordCount": 1835,
+          "title": "アーサー・ヘイズ氏、HYPEとNEARを売却──AI企業のIPOラッシュを警戒",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/04/shutterstock_2646164401.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=354049",
           "author": "Shoko Galaviz",
           "description": "暗号資産ベンチャーキャピタルのVariant Fund（バリアント・ファンド）は、新たに2億2200万ドル（約344億円、1ドル=155円換算）規模のファンド「 ...\nVariant、2億2200万ドルの新ファンド立ち上げ──暗号資産とAIで「自律性」拡張へ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -804,6 +824,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=714537",
+          "author": "菊谷ルイス",
+          "description": "コインベースとベターが米国初のビットコイン担保ファニーメイ保証住宅ローンを実行した。ミシガン州の家庭が第一号で、今夏の全国展開を予定。想定融資額は2億5,000万ドル。",
+          "link": "https://coinpost.jp/?p=714537",
+          "publishedOn": "2026-06-04T21:35:21.000Z",
+          "wordCount": 3737,
+          "title": "米国初のビットコイン担保住宅ローン実行、コインベースとベター提携",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/Better-Coinbase-mortgage.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/Better-Coinbase-mortgage.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=714522",
+          "author": "菊谷ルイス",
+          "description": "アジア系食品企業のDDC Enterpriseが今週90BTCを追加取得し、保有総数を2,804BTCとした。同週にはStriveも2,500BTCを購入しており、企業のビットコイン積み増しが続いている。",
+          "link": "https://coinpost.jp/?p=714522",
+          "publishedOn": "2026-06-04T21:05:50.000Z",
+          "wordCount": 3744,
+          "title": "DDCエンタープライズが9億円相当BTC追加購入、ビットコイン保有総数2804BTCに",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/ddc-bitcoin-buy.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/ddc-bitcoin-buy.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=714510",
+          "author": "菊谷ルイス",
+          "description": "JPモルガンのアナリストは、米中間選挙の接近とステーブルコイン利回りをめぐる論争を背景に、仮想通貨市場構造法案の今年中の成立余地が縮まっているとの見方を示した。",
+          "link": "https://coinpost.jp/?p=714510",
+          "publishedOn": "2026-06-04T20:40:03.000Z",
+          "wordCount": 3725,
+          "title": "JPモルガン「クラリティー法案の成立余地縮小」、中間選挙前の成立を疑問視",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=714480",
+          "author": "菊谷ルイス",
+          "description": "スタンダードチャータード銀のアナリストは4日、仮想通貨ビットコインは底値圏に近い水準と分析。現物ETF保有の安定とストラテジーによる大規模買戻しの可能性を根拠に挙げ、年末の目標価格を10万ドルとする。",
+          "link": "https://coinpost.jp/?p=714480",
+          "publishedOn": "2026-06-04T20:00:58.000Z",
+          "wordCount": 3744,
+          "title": "「ビットコインは底打ちの兆候」、ストラテジーのBTC買戻しを予測＝スタンダードチャータード分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=714322",
           "author": "Enzo",
