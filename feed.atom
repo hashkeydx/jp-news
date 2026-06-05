@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-05T18:06:54.269Z</updated>
+    <updated>2026-06-05T20:12:02.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グレースケール「ビットコイン底値形成には新たな買い手が必要」]]></title>
+        <id>https://coinpost.jp/?p=714961</id>
+        <link href="https://coinpost.jp/?p=714961"/>
+        <updated>2026-06-05T20:00:31.000Z</updated>
+        <summary type="html"><![CDATA[グレースケール・リサーチがストラテジーのBTC売却を受けた市場変動を分析。レバレッジ型保有の集中リスクを指摘し、多様な買い手の参入なくして持続的な底値形成は難しいとの見解を示した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/5話題】NECとクリプトガレージがデジタル資産カストディシステム開発へ、Zcash脆弱性で無制限のZEC生成が可能だったと判明など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=580260</id>
@@ -2209,99 +2219,6 @@ Coinbase、インドでINR直接入出金に対応──現物・無期限先物
 自民党ブロックチェーン議連、片山さつき財務相に提言──暗号資産税制やオンチェーン金融の進展要望 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=352994</id>
-        <link href="https://www.nadanews.com/352994/"/>
-        <updated>2026-06-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年5月25日、マルタ金融サービス庁（MFSA）の監督下でステーブルコインを発行するStablRが、自社システムへの不正アクセスを公表しました。発行ウォレ ...
-StablR、MiCA準拠ステーブルコインが署名鍵の侵害で無裏付け1,350万ドルを増発──「規制準拠」と鍵管理のギャップ【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野村HD子会社レーザーデジタル、米OCCから信託銀行設立の条件付き承認取得]]></title>
-        <id>https://www.neweconomy.jp/?p=578359</id>
-        <link href="https://www.neweconomy.jp/posts/578359"/>
-        <updated>2026-06-01T07:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Laser Digitalが信託銀行設立の条件付き承認取得 野村ホールディングスのデジタル資産関連子会社レーザーデジタル（Laser Digital）が、米通貨監督庁（OCC）から、連邦信託銀行（ナショナルトラストバンク […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI、国際詐欺組織への大規模摘発で80億ドル超の暗号資産を押収＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=578353</id>
-        <link href="https://www.neweconomy.jp/posts/578353"/>
-        <updated>2026-06-01T07:33:15.000Z</updated>
-        <summary type="html"><![CDATA[カンボジア財閥創業者から12.7万BTC超を押収 米連邦捜査局（FBI）が、アジア、アフリカ、中東などに広がる国際詐欺組織への大規模摘発「オペレーション・ブラックアウト（Operation Blackout）」を実施し、 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、暗号資産サービス仲介業の新制度を本日施行]]></title>
-        <id>https://www.nadanews.com/?p=353535</id>
-        <link href="https://www.nadanews.com/353535/"/>
-        <updated>2026-06-01T07:32:41.000Z</updated>
-        <summary type="html"><![CDATA[金融庁は6月1日、「電子決済手段・暗号資産サービス仲介業」に関する新制度を開始した。 同制度では、暗号資産交換業者や電子決済手段等取引業者から委託を受け、暗号資 ...
-金融庁、暗号資産サービス仲介業の新制度を本日施行 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5月の暗号資産関連エクスプロイト被害額、前月比90%減の6800万ドル：CertiK]]></title>
-        <id>https://www.nadanews.com/?p=353532</id>
-        <link href="https://www.nadanews.com/353532/"/>
-        <updated>2026-06-01T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）プラットフォームのエクスプロイトにより、2026年5月に6830万ドル（約105億9000万円、1ドル155円換算）の被害が発生したと、暗号 ...
-5月の暗号資産関連エクスプロイト被害額、前月比90%減の6800万ドル：CertiK first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野村傘下レーザーデジタル、米通貨監督庁から信託銀行設立の条件付き承認を取得]]></title>
-        <id>https://coinpost.jp/?p=712861</id>
-        <link href="https://coinpost.jp/?p=712861"/>
-        <updated>2026-06-01T06:45:44.000Z</updated>
-        <summary type="html"><![CDATA[野村ホールディングス傘下のデジタル資産企業レーザーデジタルが、米通貨監督庁（OCC）から条件付きで、国法信託銀行設立の暫定承認を取得した。機関投資家向けにデジタル資産と従来型資産を統合したカストディ・担保管理・決済サービスの提供を計画している。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRB理事は「米金融政策の影響拡大」、英中銀委員は「トークン化預金が主流に」、デジタルマネー巡り見解分かれる＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=578292</id>
-        <link href="https://www.neweconomy.jp/posts/578292"/>
-        <updated>2026-06-01T06:34:52.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコイン巡り米英の中銀関係者の見解分かれる 米連邦準備制度理事会（FRB）のクリストファー・ウォラー（Christopher Waller）理事が、ステーブルコインの普及によって米国の金融政策の影響力が拡大する可 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBIネオメディアHD、電通と業務提携　Web3・ステーブルコインで広告取引網を構築へ]]></title>
-        <id>https://coinpost.jp/?p=712931</id>
-        <link href="https://coinpost.jp/?p=712931"/>
-        <updated>2026-06-01T06:15:16.000Z</updated>
-        <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインジャパン、イーロン・マスクのスペースX株取得を目指すファンドに出資、総額約20.4億円]]></title>
-        <id>https://www.neweconomy.jp/?p=578297</id>
-        <link href="https://www.neweconomy.jp/posts/578297"/>
-        <updated>2026-06-01T06:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin JapanがSpaceX株取得を目指すファンドに出資 ビットコインジャパン（Bitcoin Japan）が、スペースエックス（SpaceX）の株式取得を目的とする投資ファンドへ5月27日に出資した。ビット […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
