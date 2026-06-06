@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-06T08:01:11.711Z</updated>
+    <updated>2026-06-06T10:19:29.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米SEC、トークン化証券枠組みを策定中]]></title>
+        <id>https://coinpost.jp/?p=715024</id>
+        <link href="https://coinpost.jp/?p=715024"/>
+        <updated>2026-06-06T05:00:40.000Z</updated>
+        <summary type="html"><![CDATA[米証券取引委員会の取引・市場担当ディレクターがニューヨークで講演。トークン化証券の枠組み策定やCFTCとの規制協調、無期限先物の法的地位など最新の取り組みを説明した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ストラテジーと現物ETFがなければビットコインは2.2万ドルまで下落していた」Cryptoquant創設者が反論]]></title>
+        <id>https://coinpost.jp/?p=715035</id>
+        <link href="https://coinpost.jp/?p=715035"/>
+        <updated>2026-06-06T04:40:38.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨分析プラットフォームCryptoquantのKi創設者は6日、ストラテジーと現物ETFが古参クジラの売却した124万BTCを吸収しなければ、ビットコインは現在も2.2万2,000ドル付近まで下落していた可能性があるとの見解を示した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米雇用統計が予想を上回る、BTCは6万ドルを維持できるか──ビットコインETFの44億ドル流出に一服【価格分析】]]></title>
         <id>https://www.nadanews.com/?p=354433</id>
@@ -26,6 +46,46 @@
 Zcashが48％急落──偽造ZECを無制限に作成できる重大脆弱性、Claude AIが発見支援【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Ibrahim Ajibade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スペースXがxStocks初のトークン化IPO銘柄に、クラーケンで参加受付開始]]></title>
+        <id>https://coinpost.jp/?p=714994</id>
+        <link href="https://coinpost.jp/?p=714994"/>
+        <updated>2026-06-06T02:45:51.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所クラーケンのトークン化株式プラットフォーム「xStocks」を通じてSpaceXのIPO参加受付が始まった。EEAを含む110超の市場で利用可能で、割り当てを受けた投資家は公募価格で1:1裏付けのトークン化株式（SPCXx）を取得できる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所で金銀や株式など伝統資産の先物が成長＝クリプトクアント]]></title>
+        <id>https://coinpost.jp/?p=715008</id>
+        <link href="https://coinpost.jp/?p=715008"/>
+        <updated>2026-06-06T01:50:35.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所における現物取引高が縮小する一方、金・銀・原油などTradFi資産の永久先物が急拡大している。クリプトクアントが最新レポートで分析した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米仮想通貨政策団体CCI、ヴォールト規制明確化連合を発足　ギャラクシーとモルフォが主導]]></title>
+        <id>https://coinpost.jp/?p=714976</id>
+        <link href="https://coinpost.jp/?p=714976"/>
+        <updated>2026-06-06T00:45:40.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨業界団体CCIが5日、仮想通貨金庫の規制枠組み整備を目的とした「ヴォールト・コアリション」を設立。ギャラクシーとモルフォが中核を担い、a16zやビットゴーも参加する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPモルガン証券などが参加、香港金融管理局がトークン化債券の専門家グループを結成]]></title>
+        <id>https://coinpost.jp/?p=714986</id>
+        <link href="https://coinpost.jp/?p=714986"/>
+        <updated>2026-06-06T00:30:45.000Z</updated>
+        <summary type="html"><![CDATA[香港金融管理局は、トークン化債券の専門家グループを結成したことを発表。JPモルガン証券など香港のトークン化債券市場の発展に寄与する経験や関心を持つ専門家を集結した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
         </author>
     </entry>
     <entry>
@@ -2132,90 +2192,6 @@ Michael Saylorは弱気になったのか？──32ビットコイン売却の�
         <summary type="html"><![CDATA[米シカゴ・マーカンタイル取引所（CME）が5月29日、ビットコインなど仮想通貨先物・オプションの24時間7日取引を開始した。初週末だけで7,200枚超、想定元本約5,000万ドルの取引が成立した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ETFなど、3週連続で資金が純流出　XRP・HYPEなどの商品は純流入]]></title>
-        <id>https://coinpost.jp/?p=713168</id>
-        <link href="https://coinpost.jp/?p=713168"/>
-        <updated>2026-06-01T22:02:29.000Z</updated>
-        <summary type="html"><![CDATA[コインシェアーズは、仮想通貨投資商品全体の先週の資金フローは約2,666億円の純流出だったと報告。ビットコイン商品などから資金が純流出する一方で、XRP・HYPEなどの商品は純流入した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance、米国株取引を提供開始──トークン化株式の展開も準備]]></title>
-        <id>https://www.nadanews.com/?p=353628</id>
-        <link href="https://www.nadanews.com/353628/"/>
-        <updated>2026-06-01T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所Binance（バイナンス）は6月1日、7000銘柄以上の米国株とETF（上場投資信託）の取引の提供を開始し、ユーザーがそれらの株式を ...
-Binance、米国株取引を提供開始──トークン化株式の展開も準備 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケールのHYPE現物ETF、上場近づく　競合2社に続き3本目実現へ]]></title>
-        <id>https://coinpost.jp/?p=713162</id>
-        <link href="https://coinpost.jp/?p=713162"/>
-        <updated>2026-06-01T21:55:43.000Z</updated>
-        <summary type="html"><![CDATA[グレースケールのHYPE現物ETF「グレースケール・ハイパーリキッド・ステーキングETF（HYPG）」の年間手数料が0.29%と判明した。ブルームバーグのETF専門家が今週中の上場を見込んでいる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitMine、5300万ドル相当のイーサリアム購入──総供給量の4.49%に]]></title>
-        <id>https://www.nadanews.com/?p=353624</id>
-        <link href="https://www.nadanews.com/353624/"/>
-        <updated>2026-06-01T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（ETH）財務企業のBitmine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は6月1日、過去1週間 ...
-BitMine、5300万ドル相当のイーサリアム購入──総供給量の4.49%に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、イーサリアム取得ペースが急減速]]></title>
-        <id>https://coinpost.jp/?p=713163</id>
-        <link href="https://coinpost.jp/?p=713163"/>
-        <updated>2026-06-01T21:20:45.000Z</updated>
-        <summary type="html"><![CDATA[米イーサリアム・トレジャリー企業ビットマインが保有ETH総数541万6,901ETH（総供給量の4.49%）を達成したと発表。ただし直近1週間の取得量は26,497枚にとどまり、前週の111,942枚から大幅に減速した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインETP、2026年最大の流出を記録：CoinShares]]></title>
-        <id>https://www.nadanews.com/?p=353620</id>
-        <link href="https://www.nadanews.com/353620/"/>
-        <updated>2026-06-01T21:10:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）運用大手CoinShares（コインシェアーズ）が6月1日に公表した最新のレポートによると、先週の暗号資産ETP（上場取引型金融商品）全体か ...
-ビットコインETP、2026年最大の流出を記録：CoinShares first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンスが7000銘柄の米国株取引を開始、トークン化株式「bStocks」も数週間以内に公開へ]]></title>
-        <id>https://coinpost.jp/?p=713157</id>
-        <link href="https://coinpost.jp/?p=713157"/>
-        <updated>2026-06-01T20:55:40.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスは6月1日、非米国ユーザー向けに7,000銘柄超の米国株・ETF取引を開始した。BNBチェーン上で株式をトークン化する「bStocks」も数週間以内に提供予定で仮想通貨と伝統金融の融合が加速。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy、32BTCを売却──2022年以来初めて]]></title>
-        <id>https://www.nadanews.com/?p=353615</id>
-        <link href="https://www.nadanews.com/353615/"/>
-        <updated>2026-06-01T20:40:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）財務企業Strategy（ストラテジー）が先週、32BTCを売却していたことがわかった。 同社がアメリカ証券取引委員会（SEC）へ提出した ...
-Strategy、32BTCを売却──2022年以来初めて first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
