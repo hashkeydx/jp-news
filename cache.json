@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=354504",
+          "author": "井上 俊彦",
+          "description": "暗号資産（仮想通貨）取引所Kraken（クラーケン）は6月6日、親会社のPayward（ペイワード）が提供するトークン化株式プラットフォーム「xStocks」を ...\nKraken、xStocksでスペースXのIPOへのアクセスを提供 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/354504/",
+          "publishedOn": "2026-06-07T22:30:00.000Z",
+          "wordCount": 1858,
+          "title": "Kraken、xStocksでスペースXのIPOへのアクセスを提供",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/02/shutterstock_2409240315.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=354490",
           "author": "井上 俊彦",
           "description": "米下院共和党は6月5日、同9日に開催される歳入委員会（Ways and Means Committee）の公聴会で審議する暗号資産課税に関する7つの法案（討議草 ...\n米議会、暗号資産課税を審議へ──ステーキング非課税やガス代の少額免除を提案 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -550,16 +560,6 @@
           "wordCount": 1849,
           "title": "英規制当局、無許可の暗号資産企業とのスポンサー契約について警告──プレミアリーグのクラブに書簡を送付",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2021/06/FCA.jpeg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=353911",
-          "author": "平木 昌宏",
-          "description": "マーケティング支援事業を展開する上場企業のアライドアーキテクツは3日、オンチェーン金融プロジェクト「Apyx（エイペックス）」を活用した資産運用を、6月中に開始 ...\nアライド、目標利回り13%の「Apyx」運用開始へ──DAT企業の優先株配当を原資に first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/353911/",
-          "publishedOn": "2026-06-03T10:56:42.000Z",
-          "wordCount": 2193,
-          "title": "アライド、目標利回り13%の「Apyx」運用開始へ──DAT企業の優先株配当を原資に",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/main_1200x800-2.jpg"
         }
       ]
     },
@@ -574,6 +574,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=715063",
+          "author": "Enzo",
+          "description": "Glassnodeの共同創業者Rafaelが複数の市場指標を用いてビットコインの底値ゾーンを分析。CVDDと実現価格が示す4.6万から5.4万ドルを高確率ゾーン、3.5万から4万ドルは過去3％未満の極端局面と指摘。上方では7.5万から7.9万ドルの奪還が回復の第一関門となる。",
+          "link": "https://coinpost.jp/?p=715063",
+          "publishedOn": "2026-06-07T23:35:00.000Z",
+          "wordCount": 3717,
+          "title": "ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=714840",
           "author": "CoinPost編集部",
@@ -1540,16 +1555,6 @@
           "wordCount": 729,
           "title": "ネットスターズ、ビットゲットウォレットとWeb3決済普及に向けMOU。アプトスに続き",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/04120617/945b43209b1c888917af222937869517.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=579239",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/579239",
-          "publishedOn": "2026-06-03T11:10:56.000Z",
-          "wordCount": 763,
-          "title": "【6/3話題】バックパックの証券プラットフォーム、英議員がステーブルコイン規制案の緩和要請、ヴィタリックの清算不要「指数連動型合成資産」設計案など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/03190046/25d736ca91568f873de7cc3435775ddd.jpg"
         }
       ]
     }
