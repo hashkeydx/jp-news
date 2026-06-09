@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-09T08:39:30.607Z</updated>
+    <updated>2026-06-09T12:13:54.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[enish、保有ビットコインを全売却]]></title>
+        <id>https://www.nadanews.com/?p=354842</id>
+        <link href="https://www.nadanews.com/354842/"/>
+        <updated>2026-06-09T11:26:39.000Z</updated>
+        <summary type="html"><![CDATA[ゲームアプリの企画・開発・運営などを手がけるenishは6月9日、保有するビットコイン（BTC）全てを売却したと発表した。 売却したビットコインは8.063BT ...
+enish、保有ビットコインを全売却 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本版予測市場は“ポイ活”から広がるか──gumi、無料予測サービス「ヨソクヒロバ」開始]]></title>
+        <id>https://www.nadanews.com/?p=354817</id>
+        <link href="https://www.nadanews.com/354817/"/>
+        <updated>2026-06-09T10:16:17.000Z</updated>
+        <summary type="html"><![CDATA[モバイルオンラインゲームやブロックチェーン等事業を展開するgumiは6月9日、完全無料の予測エンタメサービス「ヨソクヒロバ」の提供を開始した。 政治、経済、スポ ...
+日本版予測市場は“ポイ活”から広がるか──gumi、無料予測サービス「ヨソクヒロバ」開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zcash、Ironwoodアップグレード計画を固める]]></title>
+        <id>https://www.nadanews.com/?p=354827</id>
+        <link href="https://www.nadanews.com/354827/"/>
+        <updated>2026-06-09T09:50:26.000Z</updated>
+        <summary type="html"><![CDATA[ジーキャッシュ（ZEC）の開発者らは、次期アップグレード「Ironwood」に向けたコンセンサスルール変更で合意した。今回の対応は、ジーキャッシュのOrchar ...
+Zcash、Ironwoodアップグレード計画を固める first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シティ、トークン化資産170億ドルから5.5兆ドルへ　2030年試算]]></title>
+        <id>https://coinpost.jp/?p=715759</id>
+        <link href="https://coinpost.jp/?p=715759"/>
+        <updated>2026-06-09T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[シティ・インスティテュートが6月公表のレポートで、トークン化資産市場が2030年にベースケースで5.5兆ドルに達すると試算。DTCCやNYSEなど主要インフラが本格整備に動き出した背景と、ステーブルコイン規制整備が果たす役割を読む。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーがビットコイン追加購入、総保有数は84万5256BTCに]]></title>
+        <id>https://www.neweconomy.jp/?p=581046</id>
+        <link href="https://www.neweconomy.jp/posts/581046"/>
+        <updated>2026-06-09T08:48:37.000Z</updated>
+        <summary type="html"><![CDATA[StrategyがBTC追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を6月8日に発表した。 今回ストラテジーは6月1日から6月7日までに、 […]]]></summary>
+        <author>
+            <name>TanakaShuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユガラボ、Flooring Protocol脆弱性でNFT68点を保全。BAYCやCryptoPunksも攻撃リスクに]]></title>
+        <id>https://www.neweconomy.jp/?p=581038</id>
+        <link href="https://www.neweconomy.jp/posts/581038"/>
+        <updated>2026-06-09T08:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Flooring Protocolで資金流出、ホワイトハットがNFTを保全 NFT流動性プロトコル「フローリング・プロトコル（Flooring Protocol）」で脆弱性が悪用され、一部プールから資産が流出したことが明 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジーキャッシュ、Ironwoodのコンセンサスルール確定　7月有効化へ前進]]></title>
         <id>https://coinpost.jp/?p=715715</id>
@@ -1518,121 +1581,6 @@ CoinbaseとBetter、米国初のビットコイン担保住宅ローン実行─
         <summary type="html"><![CDATA[南アフリカ高裁が、ビットコインは同国の外国為替管理規制における「資金」かつ「資本」に当たると判断。海外取引所への無承認移転は資本輸出に該当するとして、約1,680BTCの没収命令を支持。2025年の相反する高裁判決との矛盾が上位審判断を迫る。]]></summary>
         <author>
             <name>Austin Mwendia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイケル・セイラー「ビットコイン急落の原因は資本ローテーション」　市場の見通しは？]]></title>
-        <id>https://coinpost.jp/?p=714538</id>
-        <link href="https://coinpost.jp/?p=714538"/>
-        <updated>2026-06-04T23:40:23.000Z</updated>
-        <summary type="html"><![CDATA[マイケル・セイラー氏がビットコイン急落についてAI関連への資本シフトと分析。米国ETFは13営業日連続流出で累計43.7億ドルに達し、スタンダードチャータードは底値圏との見方を示している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6億円相当の仮想通貨を凍結、詐欺の官民連携による阻止にアップルやグーグルなどが参加]]></title>
-        <id>https://coinpost.jp/?p=714547</id>
-        <link href="https://coinpost.jp/?p=714547"/>
-        <updated>2026-06-04T22:45:58.000Z</updated>
-        <summary type="html"><![CDATA[米司法省は、官民連携で仮想通貨詐欺を阻止する取り組みの結果を発表。この取り組みにはアップルやグーグル、メタ、マイクロソフト、スペースX、コインベースなどが参加している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホワイトハウス暗号通貨顧問のウィット氏、クラリティ法案を「法執行機関寄り」と擁護]]></title>
-        <id>https://www.nadanews.com/?p=354123</id>
-        <link href="https://www.nadanews.com/354123/"/>
-        <updated>2026-06-04T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Blockchain Association（ブロックチェーン協会）が6月4日に開催したオンラインのタウンホールミーティングでホワイトハウスの暗号資産（仮想通貨 ...
-ホワイトハウス暗号通貨顧問のウィット氏、クラリティ法案を「法執行機関寄り」と擁護 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年6月のビットコイン急落はなぜ起きたのか──CryptoQuantデータから読む「買い手不在の市場」【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=354117</id>
-        <link href="https://www.nadanews.com/354117/"/>
-        <updated>2026-06-04T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[● 2026年5月下旬から6月上旬にかけて、ビットコインは約75,000ドルから61,000ドル台まで急落した。● 下落の主因は「売り圧力の増加」ではなく、「現 ...
-2026年6月のビットコイン急落はなぜ起きたのか──CryptoQuantデータから読む「買い手不在の市場」【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、スペースXのプレIPO無期限先物を提供開始]]></title>
-        <id>https://coinpost.jp/?p=714539</id>
-        <link href="https://coinpost.jp/?p=714539"/>
-        <updated>2026-06-04T22:10:26.000Z</updated>
-        <summary type="html"><![CDATA[コインベースが3日、SpaceXのIPO前先物取引「SpaceX Pre-IPO Perpetual Future」を提供開始した。USDC決済の永久先物形式で、IPO時には公開株の先物へ自動移行。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プロの投資家は第1四半期に5万2000BTC相当のビットコインETFを売却 ＝ CoinShares]]></title>
-        <id>https://www.nadanews.com/?p=354111</id>
-        <link href="https://www.nadanews.com/354111/"/>
-        <updated>2026-06-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタル資産運用大手のCoinShares（コインシェアーズ）は6月3日、「Bitcoin 13F Q1 2026 report（ビットコイン13F 2026年 ...
-プロの投資家は第1四半期に5万2000BTC相当のビットコインETFを売却 ＝ CoinShares first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国初のビットコイン担保住宅ローン実行、コインベースとベター提携]]></title>
-        <id>https://coinpost.jp/?p=714537</id>
-        <link href="https://coinpost.jp/?p=714537"/>
-        <updated>2026-06-04T21:35:21.000Z</updated>
-        <summary type="html"><![CDATA[コインベースとベターが米国初のビットコイン担保ファニーメイ保証住宅ローンを実行した。ミシガン州の家庭が第一号で、今夏の全国展開を予定。想定融資額は2億5,000万ドル。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinbaseがIPO前の先物取引の提供開始──まずはスペースXから]]></title>
-        <id>https://www.nadanews.com/?p=354104</id>
-        <link href="https://www.nadanews.com/354104/"/>
-        <updated>2026-06-04T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所のCoinbase（コインベース）は6月3日、上場前（IPO前）の非公開企業の価格変動にアクセスできる永久先物取引の提供を開始したと発表した。「あ ...
-CoinbaseがIPO前の先物取引の提供開始──まずはスペースXから first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDCエンタープライズが9億円相当BTC追加購入、ビットコイン保有総数2804BTCに]]></title>
-        <id>https://coinpost.jp/?p=714522</id>
-        <link href="https://coinpost.jp/?p=714522"/>
-        <updated>2026-06-04T21:05:50.000Z</updated>
-        <summary type="html"><![CDATA[アジア系食品企業のDDC Enterpriseが今週90BTCを追加取得し、保有総数を2,804BTCとした。同週にはStriveも2,500BTCを購入しており、企業のビットコイン積み増しが続いている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アーサー・ヘイズ氏、HYPEとNEARを売却──AI企業のIPOラッシュを警戒]]></title>
-        <id>https://www.nadanews.com/?p=354101</id>
-        <link href="https://www.nadanews.com/354101/"/>
-        <updated>2026-06-04T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所BitMEX（ビットメックス）の共同創設者であるArthur Hayes（アーサー・ヘイズ）氏は6月4日、ハイパーリキッド（HYPE） ...
-アーサー・ヘイズ氏、HYPEとNEARを売却──AI企業のIPOラッシュを警戒 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン「クラリティー法案の成立余地縮小」、中間選挙前の成立を疑問視]]></title>
-        <id>https://coinpost.jp/?p=714510</id>
-        <link href="https://coinpost.jp/?p=714510"/>
-        <updated>2026-06-04T20:40:03.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンのアナリストは、米中間選挙の接近とステーブルコイン利回りをめぐる論争を背景に、仮想通貨市場構造法案の今年中の成立余地が縮まっているとの見方を示した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
