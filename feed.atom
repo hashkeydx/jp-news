@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-09T21:57:41.252Z</updated>
+    <updated>2026-06-09T23:41:16.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バックパック、トークン化株式と仮想通貨を統合した証券プラットフォームをベータ版開始]]></title>
+        <id>https://coinpost.jp/?p=715817</id>
+        <link href="https://coinpost.jp/?p=715817"/>
+        <updated>2026-06-09T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バックパックは9日、米国株・ETFと仮想通貨・無期限先物・利回りを単一口座で扱える「バックパック・セキュリティーズ」の公開ベータを開始した。株式の保有権はニューヨーク州法に基づき確立される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[（自身の日経新聞コメントを解説）本当に売っているのは誰なのか──ビットコインETFから47億ドル流出【エックスウィン】]]></title>
+        <id>https://www.nadanews.com/?p=354496</id>
+        <link href="https://www.nadanews.com/354496/"/>
+        <updated>2026-06-09T22:40:00.000Z</updated>
+        <summary type="html"><![CDATA[● 2026年5月15日以降、米国現物ビットコインETFから約47億ドルが流出したが、その中心は長期投資家ではなくヘッジファンドやブローカーなどの戦術的資金とみ ...
+（自身の日経新聞コメントを解説）本当に売っているのは誰なのか──ビットコインETFから47億ドル流出【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>エックスウィン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3メガ銀、2026年度中に共同でステーブルコイン発行の方針　金融機関の連携拡大も視野＝報道]]></title>
+        <id>https://coinpost.jp/?p=715821</id>
+        <link href="https://coinpost.jp/?p=715821"/>
+        <updated>2026-06-09T22:30:26.000Z</updated>
+        <summary type="html"><![CDATA[三菱UFJ銀行、三井住友銀行、みずほ銀行の3メガバンクは、2026年度中にステーブルコインを共同発行する方針であることがわかった。他の金融機関との連携拡大も視野に入れている。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産を保有するAIエージェントが制御不能になる可能性＝研究報告]]></title>
+        <id>https://www.nadanews.com/?p=354881</id>
+        <link href="https://www.nadanews.com/354881/"/>
+        <updated>2026-06-09T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）のウォレットに自律的にアクセスできるAIエージェントは、悪用されたり、サンドボックスから脱走したりすれば「制御不能」になりかねない。 アメリ ...
+暗号資産を保有するAIエージェントが制御不能になる可能性＝研究報告 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken、FIFAワールドカップの公式暗号資産取引所に]]></title>
+        <id>https://www.nadanews.com/?p=354877</id>
+        <link href="https://www.nadanews.com/354877/"/>
+        <updated>2026-06-09T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のKraken（クラーケン）は6月9日、6月11日に開幕する「FIFAワールドカップ2026」の公式暗号資産取引所サポーターに就任した ...
+Kraken、FIFAワールドカップの公式暗号資産取引所に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国ビットコイン現物ETF、6月8日に146億円の純流出　流出続くも複数ファンドで流入分散]]></title>
+        <id>https://coinpost.jp/?p=715818</id>
+        <link href="https://coinpost.jp/?p=715818"/>
+        <updated>2026-06-09T21:55:07.000Z</updated>
+        <summary type="html"><![CDATA[米国のビットコイン現物ETFは6月8日、9,137万ドルの純流出を記録した。ブラックロックのIBITが2億3,300万ドルの流出を主導した一方、アーク・インベストメントとフィデリティの各ファンドは流入を確保した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トークン化資産市場、2030年に5.5兆ドル規模＝シティ]]></title>
         <id>https://www.nadanews.com/?p=354873</id>
@@ -18,6 +81,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ウォーレン米議員がCFTC議長に書簡、仮想通貨規制後退と政治介入を追及]]></title>
+        <id>https://coinpost.jp/?p=715819</id>
+        <link href="https://coinpost.jp/?p=715819"/>
+        <updated>2026-06-09T21:20:09.000Z</updated>
+        <summary type="html"><![CDATA[ウォーレン上院議員は6月5日、CFTC議長セリグ氏に書簡を送付し、人員削減や執行件数の急減、トランプ一族と規制対象企業の利益相反について詳細な説明を求めた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ソラナ・インスティテュートCEO、クラリティ法案の開発者保護維持を要請]]></title>
         <id>https://www.nadanews.com/?p=354868</id>
         <link href="https://www.nadanews.com/354868/"/>
@@ -26,6 +99,26 @@
 ソラナ・インスティテュートCEO、クラリティ法案の開発者保護維持を要請 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米下院歳入委が仮想通貨課税公聴会を開催中、6本の税制法案を審議]]></title>
+        <id>https://coinpost.jp/?p=715810</id>
+        <link href="https://coinpost.jp/?p=715810"/>
+        <updated>2026-06-09T20:40:54.000Z</updated>
+        <summary type="html"><![CDATA[米下院歳入委員会が9日、仮想通貨課税に関する立法公聴会を開催し、マイニング・ステーキングの課税繰延やウォッシュセール規制の適用など6本の法案草案を審議。クラリティー法の上院協議と並行して、米国の仮想通貨税制の枠組みが本格的に議論されている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[enishがビットコイン全量売却、ソラナ戦略強化でSOLプラネットと協議開始]]></title>
+        <id>https://coinpost.jp/?p=715801</id>
+        <link href="https://coinpost.jp/?p=715801"/>
+        <updated>2026-06-09T20:00:48.000Z</updated>
+        <summary type="html"><![CDATA[東証上場のゲーム会社enishは9日、保有する8.063BTCを全量売却したと発表した。得た資金をソラナを活用したアクティブ・トレジャリー事業に充て、国内ソラナ支援企業のSOLプラネットとの協議も開始。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1262,17 +1355,6 @@ SOL、18カ月ぶり安値に急落──ソラナ最大のDAT企業が3190万�
 香港金融管理局、トークン化債券の専門家グループ設立──JPモルガンやHSBCら参加 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StrategyのBTC売却めぐりPolymarket契約が物議──3億ドル市場で判定論争【価格分析】]]></title>
-        <id>https://www.nadanews.com/?p=354322</id>
-        <link href="https://www.nadanews.com/354322/"/>
-        <updated>2026-06-05T11:28:32.000Z</updated>
-        <summary type="html"><![CDATA[・Strategyによる2022年以来初のビットコイン（BTC）売却をきっかけに、ポリマーケット（Polymarket）の3億100万ドル規模の予測市場契約をめ ...
-StrategyのBTC売却めぐりPolymarket契約が物議──3億ドル市場で判定論争【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
         </author>
     </entry>
 </feed>
