@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=355402",
+          "author": "NADA NEWS編集部",
+          "description": "※当サイト内のリンクから各暗号資産交換業者の口座開設を行うと、当社は対価として広告収入を得ることがあります。 暗号資産（仮想通貨）取引所のSBI VCトレードは ...\n【7/10まで】全員に500円＆抽選で5万円相当のBTCが当たる！SBI VCトレードがキャンペーン実施 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/355402/",
+          "publishedOn": "2026-06-12T11:35:45.000Z",
+          "wordCount": 1850,
+          "title": "【7/10まで】全員に500円＆抽選で5万円相当のBTCが当たる！SBI VCトレードがキャンペーン実施",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/9fb9294a0d2129eb07f9b3993f993579.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=355390",
           "author": "平木 昌宏",
           "description": "メタプラネットは6月12日、Siiibo証券の発行済株式を取得し、完全子会社化すると発表した。 取得価額は21億円。株式譲渡の実行日は7月13日、完全子会社化に ...\n「メタプラネット証券」誕生へ──Siiibo証券を21億円で買収 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -870,16 +880,6 @@
           "wordCount": 1958,
           "title": "Securitize、SPAC上場へ前進──SECが登録届出書を承認",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/Securitize-Home-page-4-990x660-1.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=354520",
-          "author": "Ibrahim Ajibade",
-          "description": "・ビットコイン（BTC）は一時6万3,000ドルを突破し、週末のショートスクイーズによって弱気ポジション5億3,700万ドル相当が一掃された。・Coinbase ...\nBTCが6万3000ドル突破、週末の薄商いでショート5億4000万ドル清算──Strategyのマイケル・セイラー氏投稿で買い増し観測【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/354520/",
-          "publishedOn": "2026-06-08T01:55:36.000Z",
-          "wordCount": 2416,
-          "title": "BTCが6万3000ドル突破、週末の薄商いでショート5億4000万ドル清算──Strategyのマイケル・セイラー氏投稿で買い増し観測【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/image3_1200x800-1.jpg"
         }
       ]
     },
@@ -2018,66 +2018,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/jpmorgan_bitcoin1.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/jpmorgan_bitcoin1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=715141",
-          "author": "Enzo",
-          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
-          "link": "https://coinpost.jp/?p=715141",
-          "publishedOn": "2026-06-08T01:58:20.000Z",
-          "wordCount": 3723,
-          "title": "AI競合・大型IPO・量子リスクなど　ビットコインを圧迫する5つの逆風＝NYDIG",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-down-but-not-that-bad-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-down-but-not-that-bad-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=715071",
-          "author": "A.Yamada",
-          "description": "ストラテジーのセイラー会長が仮想通貨ビットコイン買い増しを示唆した。リーCEOも「純BTC保有量と1株当たりBTC保有量を増やす方針は変わらない」と表明している。",
-          "link": "https://coinpost.jp/?p=715071",
-          "publishedOn": "2026-06-08T01:15:37.000Z",
-          "wordCount": 3721,
-          "title": "ストラテジーが新たなビットコイン購入を示唆　「純BTC保有量増やす」方針を強調",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/05/strategy-lawsuit.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=715087",
-          "author": "Enzo",
-          "description": "CryptoQuantのアナリストDarkfost氏が、2025年10月の高値起点から累計約1,740億ドルの実現損失が発生したと指摘。前回調整局面の2,110億ドルには未達で、さらなる下押し圧力が続く可能性を示唆した。",
-          "link": "https://coinpost.jp/?p=715087",
-          "publishedOn": "2026-06-08T00:35:02.000Z",
-          "wordCount": 3715,
-          "title": "ビットコイン調整局面の実現損失、累計1740億ドルに　前回超えには至らず＝アナリスト",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=715063",
-          "author": "Enzo",
-          "description": "Glassnodeの共同創業者Rafaelが複数の市場指標を用いてビットコインの底値ゾーンを分析。CVDDと実現価格が示す4.6万から5.4万ドルを高確率ゾーン、3.5万から4万ドルは過去3％未満の極端局面と指摘。上方では7.5万から7.9万ドルの奪還が回復の第一関門となる。",
-          "link": "https://coinpost.jp/?p=715063",
-          "publishedOn": "2026-06-07T23:35:00.000Z",
-          "wordCount": 3717,
-          "title": "ビットコイン、高確率とされる底値ゾーンは4.6万から5.4万ドル＝Glassnode共同創業者",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/bitcoin-world-marketcap-out-of-10.jpg"
         }
       ]
     },
@@ -2805,26 +2745,6 @@
           "wordCount": 763,
           "title": "メルカリが12銘柄の暗号資産を取扱追加、コインチェックのCaaSと連携で",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/08121345/a4c44cd1c4a43c217b59a89908d05a9a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=580436",
-          "author": "HitomotoToshikazu",
-          "description": "Robinhoodが暗号資産サービスでカナダ市場参入 米金融サービス企業ロビンフッド・マーケッツ（Robinhood Markets）が、カナダの暗号資産プラットフォーム運営企業ワンダーファイ（WonderFi）の買収を […]",
-          "link": "https://www.neweconomy.jp/posts/580436",
-          "publishedOn": "2026-06-08T01:52:13.000Z",
-          "wordCount": 758,
-          "title": "ロビンフッド、WonderFi買収完了。カナダ暗号資産市場に参入",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/08105123/d8c9d9b6f7c97cf9011aed477148e95b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=580429",
-          "author": "watanabeyousuke",
-          "description": "米国初のビットコイン担保 ファニーメイ適格住宅ローン ・住宅ローンプラットフォームのベター・ホーム＆ファイナンス・ホールディング（Better Home & Finance Holding Company）と暗号 […]",
-          "link": "https://www.neweconomy.jp/posts/580429",
-          "publishedOn": "2026-06-08T01:45:35.000Z",
-          "wordCount": 842,
-          "title": "ビットコイン担保で住宅購入、米国初のファニーメイ裏付け住宅ローン実行",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/08104520/a406f32e790267d13b49423d84d9eee0.jpg"
         }
       ]
     }
