@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=349092",
+          "author": "橋本 史郎",
+          "description": "2026年4月25日、東京・四谷駅から徒歩5分にある「東京ビットコインベース（TBB）」で、開業1周年記念イベント「この碑なんの碑サトシの碑」が開催された。 T ...\n東京ビットコインベースが開業1周年──「この碑なんの碑サトシの碑」当日レポート first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/349092/",
+          "publishedOn": "2026-06-19T00:20:17.000Z",
+          "wordCount": 6325,
+          "title": "東京ビットコインベースが開業1周年──「この碑なんの碑サトシの碑」当日レポート",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/DSC00874-scaled.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=356052",
+          "author": "NADA NEWS編集部",
+          "description": "ステーブルコイン、トークン化された金融商品、オンチェーン金融──。デジタル技術の進化によって、「お金」のあり方そのものが大きく変わろうとしています。 7月1日（ ...\n【7/1〜3開催、IVS2026クリプト・ゾーン】オンチェーン金融、ウォレット、金商法移行…注目セッション迫る first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/356052/",
+          "publishedOn": "2026-06-19T00:00:00.000Z",
+          "wordCount": 3176,
+          "title": "【7/1〜3開催、IVS2026クリプト・ゾーン】オンチェーン金融、ウォレット、金商法移行…注目セッション迫る",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/03/854479f65fa9c8f253e411836dfb729e.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=356132",
           "author": "井上 俊彦",
           "description": "オンチェーン分析企業CryptoQuantの報告書によると、0.01BTC未満の少額のビットコイン（BTC）取引が、現在1日の全取引の約80%を占めている。 2 ...\nビットコインの少額取引が急増──全取引の80％を占める first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -794,6 +814,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=718361",
+          "author": "Enzo",
+          "description": "イーサリアムの次期アップグレード「Glamsterdam」が最終devnet段階に入った。ePBS導入とブロックレベルアクセスリスト追加を柱に、ガス上限2億・最大1万TPSを目指す。",
+          "link": "https://coinpost.jp/?p=718361",
+          "publishedOn": "2026-06-19T01:44:05.000Z",
+          "wordCount": 3723,
+          "title": "イーサリアム「Glamsterdam」、最終開発段階へ　ガス上限2億を目標に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/eth-fusaka-new-gas-limit.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/10/eth-fusaka-new-gas-limit.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=718302",
+          "author": "A.Yamada",
+          "description": "クリプトクアントが仮想通貨市場週間レポートでビットコインの少額取引急増を指摘した。Ordinalsなどデータ書き込みプロトコルの再活発化を背景にしている。",
+          "link": "https://coinpost.jp/?p=718302",
+          "publishedOn": "2026-06-19T01:20:11.000Z",
+          "wordCount": 3721,
+          "title": "ビットコイン上の少額トランザクションが過去最高水準に迫る＝クリプトクアント",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/binance-ordinals.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/binance-ordinals.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=718291",
+          "author": "K.Kobayashi",
+          "description": "FRBは、決済向けステーブルコインの発行体を対象にした規制案を他の当局と共同で公開。ジーニアス法の施行で銀行と同水準の本人確認を要請する方針であることを示した。",
+          "link": "https://coinpost.jp/?p=718291",
+          "publishedOn": "2026-06-19T00:55:46.000Z",
+          "wordCount": 3724,
+          "title": "米当局、ステーブルコイン発行体の規制案を公開　ジーニアス法施行で銀行と同水準の本人確認要請の方針",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/usa-America_1400822942.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/usa-America_1400822942.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=718316",
+          "author": "Enzo",
+          "description": "モルガン・スタンレーがイーサリアム・ソラナETFの申請書を修正し、ステーキング条項を追加した。年率0.14％のスポンサー手数料を設定し、ステーキング報酬の95％をファンド内に留保する構造を採用。ETHのバリデーター待機列やスラッシングリスクの詳細も開示。",
+          "link": "https://coinpost.jp/?p=718316",
+          "publishedOn": "2026-06-19T00:44:19.000Z",
+          "wordCount": 3222,
+          "title": "モルガン・スタンレー、イーサリアム・ソラナETF申請を修正　ステーキングで報酬留保へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/morgan-stanley-gbtc.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/06/morgan-stanley-gbtc.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=718270",
+          "author": "菊谷ルイス",
+          "description": "ビットコイン採掘企業ハイブの子会社バズHPCが、ベル・カナダおよびコヒアと総額約2億2000万ドルの3年間GPU契約を締結。カナダ国内に2304基のNVIDIA Grace Blackwell GPUを展開し、企業・政府向け主権AIインフラを構築する。",
+          "link": "https://coinpost.jp/?p=718270",
+          "publishedOn": "2026-06-18T23:50:51.000Z",
+          "wordCount": 3737,
+          "title": "ビットコインマイナーハイブ、ベル・カナダと354億円規模の主権AI契約を締結",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/AI-data-iren.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/AI-data-iren.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=718271",
           "author": "菊谷ルイス",
