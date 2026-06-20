@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=356297",
+          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
+          "description": "今週の市場は、「恐怖が後退し、期待が戻り始めたものの、その期待を裏付ける実需がまだ確認できない一週間」だった。 ビットコインは週前半に67,000ドル（約1,0 ...\n期待は戻り始めたが、確信はまだない──ビットコイン市場が試される「需要回復」の条件【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/356297/",
+          "publishedOn": "2026-06-19T23:00:00.000Z",
+          "wordCount": 1971,
+          "title": "期待は戻り始めたが、確信はまだない──ビットコイン市場が試される「需要回復」の条件【BitTrade Market Weekly】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/nadanews_top-2026-06-20T070042.064.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=356288",
           "author": "エックスウィン",
           "description": "● CryptoQuantによると、ビットコインのネットワーク活動は2026年3月以降、長期トレンドを上回る状態が続いており、価格下落とは逆行する動きが見られて ...\nビットコインは静かに成長している──CryptoQuantが示すオンチェーン利用の急拡大【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -774,6 +784,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=718599",
+          "author": "菊谷ルイス",
+          "description": "米CFTCとSECは18日、無期限先物やイベント契約を含む派生商品定義の明確化に向けた共同パブリックコメントを要請した。CMEグループが同日、カルシの無期限先物承認をめぐりCFTCを提訴しており、定義をめぐる法的・行政双方の争いが同時進行する形となった。",
+          "link": "https://coinpost.jp/?p=718599",
+          "publishedOn": "2026-06-19T23:25:31.000Z",
+          "wordCount": 3692,
+          "title": "米CFTC・SECが派生商品定義の見直しでパブコメ募集、CME提訴と同日",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/cftc-new-leader.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=718598",
+          "author": "菊谷ルイス",
+          "description": "米大手証券のチャールズ・シュワブがCboeと組み、S&P500の値動きに連動する二者択一型オプション契約（予測イベント契約）を数カ月以内に提供する。WSJが報じた。",
+          "link": "https://coinpost.jp/?p=718598",
+          "publishedOn": "2026-06-19T22:15:29.000Z",
+          "wordCount": 3707,
+          "title": "米チャールズ・シュワブが予測市場に参入、S&P500連動の二者択一型オプションを数カ月以内に提供へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/charlesschwab030821.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/charlesschwab030821.png"
+        },
         {
           "id": "https://coinpost.jp/?p=718597",
           "author": "菊谷ルイス",
@@ -1913,21 +1953,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=717284",
-          "author": "菊谷ルイス",
-          "description": "ストラテジーは15日、1587BTCのビットコインを1億ドルで追加取得し累計保有量が846842BTCになったと発表。5月末の売却後、2週連続で約1億ドル規模の購入を実施。",
-          "link": "https://coinpost.jp/?p=717284",
-          "publishedOn": "2026-06-15T12:15:49.000Z",
-          "wordCount": 3708,
-          "title": "ストラテジーが1587BTCのビットコインを追加購入、2週間連続で買い増し実施",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/strategy-bitcoin.jpg"
         }
       ]
     },
