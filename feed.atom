@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-21T00:19:49.522Z</updated>
+    <updated>2026-06-21T06:16:43.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携]]></title>
+        <id>https://coinpost.jp/?p=718670</id>
+        <link href="https://coinpost.jp/?p=718670"/>
+        <updated>2026-06-21T05:50:35.000Z</updated>
+        <summary type="html"><![CDATA[コインハブはJR西日本SC開発と契約を締結し、大阪の商業施設「天王寺ミオ」に西日本初の仮想通貨ATMを設置する。現金と仮想通貨の双方向取引が可能で、3000台規模の全国展開を目指す方針。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[週刊仮想通貨ニュース（6/19）｜米FOMCのタカ派シフト・BTC大口保有が過去最高・リップル投資の動向まとめ]]></title>
+        <id>https://coinpost.jp/?p=718319</id>
+        <link href="https://coinpost.jp/?p=718319"/>
+        <updated>2026-06-21T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[今週は、米FOMCタカ派シフトによる仮想通貨相場下落、ビットコイン大口保有者の保有量の過去最高更新、リップルのアフリカ最大決済インフラへの戦略投資に関する記事が関心を集めた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「お金」の主役は入れ替わるのか──IVS2026 CRYPTO ZONEが映し出す次の競争領域【編集長コラム】]]></title>
         <id>https://www.nadanews.com/?p=356304</id>
@@ -1736,16 +1756,6 @@ Coinbase、AIアドバイザーや株取引などを統合する「システム�
         <summary type="html"><![CDATA[ブラックロックは16日、ビットコインへの現物エクスポージャーとオプションプレミアム収益を組み合わせたETF「BITA」をナスダックに新たに上場した。毎月インカムを分配する設計だ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【6/16話題】北陸銀行とディーカレットDCPがDCJPY決済事業の商用化へ、KuraPrivacyローンチプログラム開始、ストラテジーとビットマインの追加取得など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=583340</id>
-        <link href="https://www.neweconomy.jp/posts/583340"/>
-        <updated>2026-06-16T14:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
