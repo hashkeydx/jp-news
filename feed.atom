@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-24T15:04:50.878Z</updated>
+    <updated>2026-06-24T17:16:14.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【6/24話題】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始、SBI VCトレードはリップルの「RLUSD」取扱開始、イーサリアム財団の新体制など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=586348</id>
+        <link href="https://www.neweconomy.jp/posts/586348"/>
+        <updated>2026-06-24T16:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット、株主優待で最大10万JPYCを付与へ]]></title>
         <id>https://www.nadanews.com/?p=356784</id>
@@ -1456,26 +1466,6 @@ Kalshi、IPOに向け投資銀行と初期協議か＝The Information first appe
 ウォーシュFRB改革はビットコインを変えるのか──「金融緩和期待相場」から「流動性相場」への転換点【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団の元メンバー、ETH開発の資金面のリスクを指摘]]></title>
-        <id>https://coinpost.jp/?p=718644</id>
-        <link href="https://coinpost.jp/?p=718644"/>
-        <updated>2026-06-20T04:45:47.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団の元メンバーであるトレントン・ヴァン・エップス氏は、イーサリアム財団に関する自身の考えをXで共有。仮想通貨イーサリアムの開発の資金についてリスクを指摘した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ壁紙マルウェアに注意、仮想通貨も標的　Steamで数万回DL＝カスペルスキー]]></title>
-        <id>https://coinpost.jp/?p=718630</id>
-        <link href="https://coinpost.jp/?p=718630"/>
-        <updated>2026-06-20T04:30:46.000Z</updated>
-        <summary type="html"><![CDATA[カスペルスキーがSteamワークショップで発見したマルウェア入り壁紙について注意喚起した。情報窃盗マルウェアによるゲームアカウント乗っ取りなどが確認されている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
