@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-06-25T17:23:01.632Z</updated>
+    <updated>2026-06-25T20:20:30.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所コインエックス、イラン制裁回避の主要経路と判明　38億ドル超]]></title>
+        <id>https://coinpost.jp/?p=720130</id>
+        <link href="https://coinpost.jp/?p=720130"/>
+        <updated>2026-06-25T20:00:06.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン分析会社のTRMラボは、仮想通貨取引所コインエックスと米国制裁対象のイラン関連事業者との間に7年超で38.4億ドル超の資金フローを明らかにした。イラン最大手のノビテックスとは1日平均約100万ドルが移動し、コインエックスがイランの仮想通貨エコシステムの主要な国際窓口となっていたことが明らかになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【6/25話題】SBIがビットバンクを467億円で完全子会社化へ、KDDIとセキュリタイズJPが共同事業検討、バイナンスがEUライセンス取得難航など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=586820</id>
@@ -1868,16 +1878,6 @@ CFTCとSEC、スワップ定義の明確化で意見募集 first appeared on NAD
 AAVEに従来の金融モデルを適用すれば、今は割安＝Grayscale first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪JR天王寺駅直結の大型商業施設に仮想通貨ATM、COINHUBとJR西日本SC開発が提携]]></title>
-        <id>https://coinpost.jp/?p=718670</id>
-        <link href="https://coinpost.jp/?p=718670"/>
-        <updated>2026-06-21T05:50:35.000Z</updated>
-        <summary type="html"><![CDATA[コインハブはJR西日本SC開発と契約を締結し、大阪の商業施設「天王寺ミオ」に西日本初の仮想通貨ATMを設置する。現金と仮想通貨の双方向取引が可能で、3000台規模の全国展開を目指す方針。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
