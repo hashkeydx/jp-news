@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=357216",
+          "author": "エックスウィン",
+          "description": "● CryptoQuant CEOのKi Young Ju氏は、「ビットコインはまだサイクル底ではない可能性が高い」との見解を示し、その根拠としてRealize ...\nビットコインはまだ底ではないのか──Ki Young Ju氏が示す「Realized Price」と市場の現在地【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/357216/",
+          "publishedOn": "2026-06-26T22:00:57.000Z",
+          "wordCount": 2359,
+          "title": "ビットコインはまだ底ではないのか──Ki Young Ju氏が示す「Realized Price」と市場の現在地【エックスウィン】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/nadanews_top-2026-06-27T064324076.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=357127",
           "author": "Ibrahim Ajibade",
           "description": "・SharpLinkは8カ月ぶりにイーサリアム（ETH）の購入を再開し、5000ETHを取得した。これにより、同社のETH保有量は87万6000ETH超に拡大し ...\nSharpLink株が4％下落──8カ月ぶりETH購入再開も含み損懸念が重荷に【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -720,16 +730,6 @@
           "wordCount": 1898,
           "title": "LINE上のステーブルコインウォレット「Unifi」がミニアプリに──個別アプリ不要で利用可能",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/75ebb6ea13276d462b159d02450171cb.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=356444",
-          "author": "宮本航歩",
-          "description": "2026年6月15日、Amazon Web Services（AWS）が、コンテンツ配信サービスのCloudFrontとセキュリティ機能のAWS WAFに、Co ...\nAWS、CloudFrontとWAFにCoinbaseのx402を統合──AIエージェントへのコンテンツ課金が「ブロック」から「課金」へ【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/356444/",
-          "publishedOn": "2026-06-22T09:27:11.000Z",
-          "wordCount": 1891,
-          "title": "AWS、CloudFrontとWAFにCoinbaseのx402を統合──AIエージェントへのコンテンツ課金が「ブロック」から「課金」へ【MCB FinTechカタログ通信】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2716694577_1200x800.jpg"
         }
       ]
     },
@@ -744,6 +744,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=720448",
+          "author": "菊谷ルイス",
+          "description": "リップルのガーリングハウスCEOがCNBCで、ストラテジーのビットコイン購入を支える『金融工学手法』を批判した。優先株STRCは26日に過去最安値を更新し、クリプトクアントはBTC購入停止と現金準備金の回復を提言している。",
+          "link": "https://coinpost.jp/?p=720448",
+          "publishedOn": "2026-06-26T21:45:12.000Z",
+          "wordCount": 3824,
+          "title": "リップルCEO、ストラテジーのビットコイン購入手法を疑問視",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=720449",
+          "author": "菊谷ルイス",
+          "description": "米上院の超党派議員2人が商品先物取引委員会（CFTC）委員長に書簡を送り、予測市場ポリマーケットによる欺瞞的マーケティングの調査と7月10日までの回答を求めた。",
+          "link": "https://coinpost.jp/?p=720449",
+          "publishedOn": "2026-06-26T21:14:14.000Z",
+          "wordCount": 3811,
+          "title": "米上院議員、CFTCにポリマーケット調査を要求　架空動画問題受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/09/polymarket-valuation.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=720450",
+          "author": "菊谷ルイス",
+          "description": "2018年から8年間イーサリアムを保有し続けてきた4つのウォレットが売却を開始。1億5,000万ドル超のピーク時含み益から約2,740万ドルに大幅縮小。",
+          "link": "https://coinpost.jp/?p=720450",
+          "publishedOn": "2026-06-26T20:50:17.000Z",
+          "wordCount": 3809,
+          "title": "イーサリアムクジラ、8年ぶり売却　2025年高値から利益8割超減",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum3_0418.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/ethereum3_0418.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=720438",
+          "author": "菊谷ルイス",
+          "description": "シンガポール金融管理局（MAS）は26日、投資家警告リストにDeFi大手ハイパーリキッドを追加した。違法認定ではなく、MASの規制対象でないことを投資家に周知する措置で、ハイパーリキッドは同日に声明を発表した。",
+          "link": "https://coinpost.jp/?p=720438",
+          "publishedOn": "2026-06-26T20:00:56.000Z",
+          "wordCount": 3809,
+          "title": "ハイパーリキッド、シンガポール金融管理局の投資家警告リストに掲載",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/coinbase-singapore.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/10/coinbase-singapore.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=720404",
           "author": "Enzo",
@@ -2350,36 +2410,6 @@
           "wordCount": 644,
           "title": "【6/22話題】イーサL2「Taiko」でチェーン状態検証機構の侵害、フェンタニル不正輸出組織が日本拠点で暗号資産詐欺に関与かなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/22203027/96209cba4405e92215d65c0a5a9bb910.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=585206",
-          "author": "watanabeyousuke",
-          "description": "パンケーキスワップ上の特定流動性プールで約110万ドル流出 BNBチェーン（BNB Chain）上の分散型取引所（DEX）パンケーキスワップ（PancakeSwap）上に展開された「OLPC/LABUBU」ペアの流動性プ […]",
-          "link": "https://www.neweconomy.jp/posts/585206",
-          "publishedOn": "2026-06-22T09:27:20.000Z",
-          "wordCount": 915,
-          "title": "パンケーキスワップのOLPC/LABUBUプールで約110万ドル被害、OLPCトークン機能悪用か",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/22182700/713eff347d68cf614ab9cabe1cb8a22c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=585201",
-          "author": "HitomotoToshikazu",
-          "description": "株式配当をBTCに再投資する指数連動ETFが2本申請 米大手資産運用会社フランクリン・テンプルトン（Franklin Templeton）系のフランクリン・テンプルトンETFトラスト（Franklin Templeton […]",
-          "link": "https://www.neweconomy.jp/posts/585201",
-          "publishedOn": "2026-06-22T09:23:04.000Z",
-          "wordCount": 803,
-          "title": "フランクリンテンプルトン、株式配当をビットコイン関連投資に再投資する指数連動ETF2本を申請",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/22181600/158fcf5969928e1bb34a774cc6123245.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=584979",
-          "author": "OtsugaShinya",
-          "description": "Unifi miniが日本で提供開始 ラインネクスト（LINE NEXT）が、ステーブルコイン基盤のフィンテックサービス「ユニファイミニ（Unifi mini）」をLINEミニアプリ（MINI App）として日本国内向け […]",
-          "link": "https://www.neweconomy.jp/posts/584979",
-          "publishedOn": "2026-06-22T09:10:59.000Z",
-          "wordCount": 811,
-          "title": "LINEミニアプリ版ステーブルコイン基盤サービス「Unifi mini」、LINE NEXTが日本で提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/22181055/LINE-260622-PIXTA.jpg"
         }
       ]
     }
