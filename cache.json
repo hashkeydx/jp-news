@@ -12,6 +12,46 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=357440",
+          "author": "Ibrahim Ajibade",
+          "description": "・マイケル・セイラー氏は、Strategyの評価額が数カ月ぶりに同社のビットコイン（BTC）保有額を下回るなか、新たなBTC購入を示唆した。・Strategyの ...\nStrategyの100万BTC保有に黄信号──ポリマーケット予想は15％に低下【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/357440/",
+          "publishedOn": "2026-06-29T22:03:07.000Z",
+          "wordCount": 2297,
+          "title": "Strategyの100万BTC保有に黄信号──ポリマーケット予想は15％に低下【価格分析】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/image3_1200x800-5.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=357433",
+          "author": "Ibrahim Ajibade",
+          "description": "・イーサリアム共同創設者ヴィタリック・ブテリン氏に関連するとされるウォレットが、7000イーサリアム（ETH）、約1100万ドル相当を新たに作成されたアドレスへ ...\nヴィタリック関連ウォレット、1100万ドル相当のETH移動──売却観測も取引所送金は確認されず【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/357433/",
+          "publishedOn": "2026-06-29T21:45:47.000Z",
+          "wordCount": 2272,
+          "title": "ヴィタリック関連ウォレット、1100万ドル相当のETH移動──売却観測も取引所送金は確認されず【価格分析】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/image2_1200x800-7.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=357460",
+          "author": "Shoko Galaviz",
+          "description": "米金融大手BNY（バンク・オブ・ニューヨーク・メロン）は6月29日、Circle Internet Group（サークル）との提携を拡大し、機関投資家向けのステ ...\nBNY、Circleとの提携拡大──USDC関連サービスを機関投資家向けに提供 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/357460/",
+          "publishedOn": "2026-06-29T21:30:00.000Z",
+          "wordCount": 1911,
+          "title": "BNY、Circleとの提携拡大──USDC関連サービスを機関投資家向けに提供",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2751931695.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=357457",
+          "author": "Shoko Galaviz",
+          "description": "オンチェーン分析プラットフォームArkham Intelligence（アーカム・インテリジェンス）は、予測市場トレーダーの成績を評価する新たなランキングシステ ...\nArkham、予測市場トレーダー向けランキング開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/357457/",
+          "publishedOn": "2026-06-29T21:00:00.000Z",
+          "wordCount": 1938,
+          "title": "Arkham、予測市場トレーダー向けランキング開始",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2593859761.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=357381",
           "author": "平木 昌宏",
           "description": "金塊（金インゴット）取引プラットフォームを開発するアウラムは6月29日、金塊を金庫内に保管したまま、売買に伴う所有権移転の過程をブロックチェーン上に記録する技術 ...\n金塊の所有権をオンチェーンで記録へ──金庫に保管したまま売買する仕組みを検証 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -450,16 +490,6 @@
           "wordCount": 1934,
           "title": "Circle、野村とUSDC活用の外貨即時決済へ──日本企業向けに2027年にも開始か＝日経",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2643246187_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=356932",
-          "author": "NADA NEWS編集部",
-          "description": "SBIホールディングスは6月25日、暗号資産（仮想通貨）取引所「bitbank」を運営するビットバンクの完全子会社化に向けた一連の取引について、取得価額合計が4 ...\n買収続くSBI、暗号資産預かり残高1兆円超に first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/356932/",
-          "publishedOn": "2026-06-25T09:40:42.000Z",
-          "wordCount": 1903,
-          "title": "買収続くSBI、暗号資産預かり残高1兆円超に",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2049781958_1200x800-1.jpg"
         }
       ]
     },
@@ -470,10 +500,55 @@
       "articles": []
     },
     {
-      "title": "中国  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=720855",
+          "author": "菊谷ルイス",
+          "description": "米上院が7月13日まで休会に入る中、仮想通貨市場構造法「クラリティー法案」の採決に向けた裏交渉は続いている。倫理条項や法執行当局の懸念が残るなか、8月の夏季休会前の成立を目指す。",
+          "link": "https://coinpost.jp/?p=720855",
+          "publishedOn": "2026-06-29T21:35:17.000Z",
+          "wordCount": 3835,
+          "title": "クラリティー法案、米上院休会の2週間が採決の分岐点",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=720856",
+          "author": "菊谷ルイス",
+          "description": "米メガバンクJPモルガンは6月29日、仮想通貨規制の枠組みに関するレポートを公開し、利回り型ステーブルコインには従来の預金と同等の監督基準が必要だと主張。",
+          "link": "https://coinpost.jp/?p=720856",
+          "publishedOn": "2026-06-29T20:55:19.000Z",
+          "wordCount": 3826,
+          "title": "JPモルガン、ステーブルコインの「影の銀行化」警告　規制枠組みで提言",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/jpmorgan-stablecoin-prediction.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=720857",
+          "author": "菊谷ルイス",
+          "description": "米イーサリアム・トレジャリー企業のビットマインは29日、ETH保有量が570万トークンに達したと発表した。先週1週間で2.7万ETHを取得し、ETH総供給量の4.7%を保有。",
+          "link": "https://coinpost.jp/?p=720857",
+          "publishedOn": "2026-06-29T20:45:21.000Z",
+          "wordCount": 3815,
+          "title": "トム・リー率いるビットマイン、先週2.7万イーサリアム追加取得",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=720834",
           "author": "菊谷ルイス",
@@ -1103,21 +1178,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/iran-new-.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/iran-new-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=720071",
-          "author": "Enzo",
-          "description": "米サークルが野村HDと組み、USDCを活用した外貨即時決済を2027年にも日本企業向けに開始すると日経が報じた。従来半日程度かかっていた大規模為替取引の即時化で、企業の資金効率向上を狙う。",
-          "link": "https://coinpost.jp/?p=720071",
-          "publishedOn": "2026-06-25T09:32:32.000Z",
-          "wordCount": 3741,
-          "title": "サークル、野村HDと組みUSDCで外貨即時決済　2027年にも開始＝日経",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/clrcle-usdc-mizuho.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/clrcle-usdc-mizuho.jpg"
         }
       ]
     },
