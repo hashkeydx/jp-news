@@ -740,26 +740,6 @@
           "wordCount": 1928,
           "title": "CLARITY法案、運命の4週間へ。アメリカはオンチェーン金融を選ぶのか【サンフランシスコ レポート】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/05/sanfrancisco_market_report.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=357168",
-          "author": "橋本 祐樹",
-          "description": "暗号資産取引所ビットバンク（bitbank）は6月25日、SBIグループの完全子会社となることを発表した。 ──先週の土曜日から一昨日の金曜日までに公開した記事 ...\n【速報】ビットバンク、SBIグループの完全子会社に／メタプラネット、株主優待で最大10万JPYCを付与へ【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/357168/",
-          "publishedOn": "2026-06-27T23:00:00.000Z",
-          "wordCount": 2102,
-          "title": "【速報】ビットバンク、SBIグループの完全子会社に／メタプラネット、株主優待で最大10万JPYCを付与へ【日曜日に読みたい厳選10本】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2025/07/日曜日に読みたい10選.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=357267",
-          "author": "エックスウィン",
-          "description": "● ブラックロックの米国現物ビットコインETFであるIBITは、5月中旬以降、7週連続で週次純流出となり、累計流出額は約53億ドルに達した。● 今回の流出はIB ...\nブラックロックのビットコインETFから資金流出──IBITの7週連続流出が示す市場の変化【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/357267/",
-          "publishedOn": "2026-06-27T22:00:00.000Z",
-          "wordCount": 2301,
-          "title": "ブラックロックのビットコインETFから資金流出──IBITの7週連続流出が示す市場の変化【エックスウィン】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/nadanews_top-2026-06-28T064340810.jpg"
         }
       ]
     },
@@ -774,6 +754,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=721751",
+          "author": "Enzo",
+          "description": "オンチェーンアナリストのDarkfost氏が、バイナンスにおける1BTC未満の小口流入を分析。1日平均329BTCとなり過去最低水準に、2021年の2690BTC、2018年の3700BTCから大幅減少。リテール層減少の背景を読む。",
+          "link": "https://coinpost.jp/?p=721751",
+          "publishedOn": "2026-07-02T08:43:54.000Z",
+          "wordCount": 3176,
+          "title": "バイナンス小口ビットコイン流入、1日平均329BTCで過去最低に＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/04/bitcoin-2025-new-2.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=721740",
           "author": "Enzo",
@@ -1831,6 +1826,46 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=588855",
+          "author": "watanabeyousuke",
+          "description": "メタプラがビットコイン追加購入 ビットコイン（BTC）の購入を積極的に進めている東証スタンダード上場企業メタプラネット（Metaplanet）が、ビットコインの追加購入を7月2日に発表した。 今回メタプラネットが追加購入 […]",
+          "link": "https://www.neweconomy.jp/posts/588855",
+          "publishedOn": "2026-07-02T09:33:42.000Z",
+          "wordCount": 769,
+          "title": "メタプラネットがビットコイン追加購入、総保有数4万3000BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/02183331/BTC45-250714-PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=588845",
+          "author": "watanabeyousuke",
+          "description": "政府・機関向けガイドを公開 イーサリアム（Ethereum）を支援するイーサリアム財団（Ethereum Foundation）が、政府や機関向けのガイド「イーサリアム・ベーシックス・フォー・ガバメンツ・アンド・インステ […]",
+          "link": "https://www.neweconomy.jp/posts/588845",
+          "publishedOn": "2026-07-02T09:06:25.000Z",
+          "wordCount": 805,
+          "title": "イーサリアム財団、政府・機関向け基礎ガイド公開、「中立的なデジタル公共インフラ」としてイーサリアムを説明",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/02180605/391c9d0dd44ef2f756b563945f4c60ef.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=588834",
+          "author": "OtsugaShinya",
+          "description": "15株を1株にまとめる株式併合へ ビットコインマイニング企業のアメリカン・ビットコイン（American Bitcoin）が、同社の普通株式を15対1で併合する株式併合を実施すると7月1日に発表した。同社によると、株式併 […]",
+          "link": "https://www.neweconomy.jp/posts/588834",
+          "publishedOn": "2026-07-02T09:00:05.000Z",
+          "wordCount": 751,
+          "title": "アメリカン・ビットコイン、15対1の株式併合へ。ナスダック上場維持要件への対応で",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/02175943/9555a607c9175d5327aee4879a148d1b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=588826",
+          "author": "TanakaShuya",
+          "description": "SharplinkがETH取得と自社株買い 米ナスダック（Nasdaq）上場のイーサリアム（ETH）トレジャリー企業シャープリンク（Sharplink）が、暗号資産（仮想通貨）ETH取得と自社株買いを6月30日に発表した […]",
+          "link": "https://www.neweconomy.jp/posts/588826",
+          "publishedOn": "2026-07-02T08:53:30.000Z",
+          "wordCount": 759,
+          "title": "シャープリンクが1万ETH取得、保有数88万ETH超に。自社株買いも実施",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/02175318/5fd61e0b87a7844209c504fbde24d1b1.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=588775",
           "author": "HitomotoToshikazu",
