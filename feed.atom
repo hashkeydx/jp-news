@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-04T00:15:39.821Z</updated>
+    <updated>2026-07-04T04:48:28.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ当局、詐欺の仮想通貨両替ネットワークを摘発　7000万円以上押収]]></title>
+        <id>https://coinpost.jp/?p=722108</id>
+        <link href="https://coinpost.jp/?p=722108"/>
+        <updated>2026-07-04T04:35:06.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ当局は、仮想通貨の両替を装った詐欺網を摘発したと発表。40件超の家宅捜索で現金7,000万円相当を押収した。同国における仮想通貨規制の議論動向も併せて紹介する。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トロン、量子コンピュータ耐性署名をテストネットで試験導入]]></title>
+        <id>https://coinpost.jp/?p=722098</id>
+        <link href="https://coinpost.jp/?p=722098"/>
+        <updated>2026-07-04T01:30:37.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨トロンのDAOが、テストネットで耐量子（PQ）署名の試験運用を開始したと発表。将来の量子コンピュータによる暗号解読リスクに備える取り組みだ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[悲観の後半戦と、反発確認の入り口── ビットコイン市場が見極めるべき次の条件【BitTrade Market Weekly】]]></title>
+        <id>https://www.nadanews.com/?p=358148</id>
+        <link href="https://www.nadanews.com/358148/"/>
+        <updated>2026-07-04T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週の市場は、「極端な悲観が続く中で短期反発は見られたものの、投資家がまだ確信を持てない一週間」だった。 ビットコインは週前半に58,000〜60,000ドル（ ...
+悲観の後半戦と、反発確認の入り口── ビットコイン市場が見極めるべき次の条件【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジーキャッシュ『Ironwood』アップグレード、延期含む3案をシールデッドラボが提示]]></title>
+        <id>https://coinpost.jp/?p=722077</id>
+        <link href="https://coinpost.jp/?p=722077"/>
+        <updated>2026-07-04T00:50:22.000Z</updated>
+        <summary type="html"><![CDATA[ジーキャッシュ開発組織シールデッドラボの事務局長が、IronwoodアップグレードとZ3スタック移行の同時完了は困難との見解を示し、延期を含む3つのリスク低減策を検討する価値があると提言。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインは再び大きく動くのか──CryptoQuantが警戒する「取引所流入急増」が示す次の局面【エックスウィン】]]></title>
         <id>https://www.nadanews.com/?p=358141</id>
@@ -2139,16 +2180,6 @@ Arkham、予測市場トレーダー向けランキング開始 first appeared o
         <summary type="html"><![CDATA[米イーサリアム・トレジャリー企業のビットマインは29日、ETH保有量が570万トークンに達したと発表した。先週1週間で2.7万ETHを取得し、ETH総供給量の4.7%を保有。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【6/29話題】スクエニとエネチェンジが脱炭素系新サービスにOasys採用、Baseが2日連続でブロック生成停止、ストラテジーのmNAVが1倍割れなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=587811</id>
-        <link href="https://www.neweconomy.jp/posts/587811"/>
-        <updated>2026-06-29T13:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
