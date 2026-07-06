@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-06T09:09:00.158Z</updated>
+    <updated>2026-07-06T12:58:22.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、350億円相当BTCを売却　ビットコイン急落]]></title>
+        <id>https://coinpost.jp/?p=722439</id>
+        <link href="https://coinpost.jp/?p=722439"/>
+        <updated>2026-07-06T12:25:56.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイントレジャリー企業最大手のストラテジーが6月29日〜7月5日の期間に3,588BTCを計350億円で売却した。先週承認したBTC収益化プログラムに基づく措置で、優先株配当の支払いに充当した。仮想通貨ビットコインはこの動きを受けて急落。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binanceから12億ドルの資金流出──前週比約3倍に増加]]></title>
         <id>https://www.nadanews.com/?p=358258</id>
@@ -1370,175 +1380,6 @@ Binance、英国投資家約1700人から集団提訴 first appeared on NADA NEW
 6月の暗号資産ハッキング被害は121億円超＝PeckShield first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム財団、政府・機関向けガイド公開　中立性を強調]]></title>
-        <id>https://coinpost.jp/?p=721542</id>
-        <link href="https://coinpost.jp/?p=721542"/>
-        <updated>2026-07-02T00:48:31.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団が政府・機関向けに、中立なインフラとしてのイーサリアムを解説する報告書を公開。稼働実績や経済的セキュリティなどOpenZeppelinの客観的指標をもとに他ブロックチェーンとの違いを示している。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、買い集め広がるもリスク残存　底打ちの確証なし＝グラスノード]]></title>
-        <id>https://coinpost.jp/?p=721524</id>
-        <link href="https://coinpost.jp/?p=721524"/>
-        <updated>2026-07-02T00:45:46.000Z</updated>
-        <summary type="html"><![CDATA[グラスノードが仮想通貨市場週間レポートを発表。ビットコイン下落局面でも買い集める層が広がる一方、ETF資金流出やレバレッジロング積み上がりなど不安要素も残ると分析した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bitFlyerがMiCA認可、日本勢で初──EU27カ国で暗号資産サービス提供へ]]></title>
-        <id>https://www.nadanews.com/?p=357661</id>
-        <link href="https://www.nadanews.com/357661/"/>
-        <updated>2026-07-02T00:43:56.000Z</updated>
-        <summary type="html"><![CDATA[bitFlyer Holdings（ビットフライヤーホールディングス）は6月30日、ルクセンブルク子会社のbitFlyer EUROPE S.A.が、欧州連合（ ...
-bitFlyerがMiCA認可、日本勢で初──EU27カ国で暗号資産サービス提供へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ]]></title>
-        <id>https://www.nadanews.com/?p=357715</id>
-        <link href="https://www.nadanews.com/357715/"/>
-        <updated>2026-07-02T00:41:27.000Z</updated>
-        <summary type="html"><![CDATA[日本暗号資産ビジネス協会（JCBA）は7月1日、新たに「ウォレット・AI部会」を設立したと発表した。 同部会では、ノンカストディアルウォレットやAI統合ウォレッ ...
-JCBA、ウォレット・AI部会を設立──ノンカストディアルウォレットの自主基準策定へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表]]></title>
-        <id>https://www.nadanews.com/?p=357825</id>
-        <link href="https://www.nadanews.com/357825/"/>
-        <updated>2026-07-02T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[フランス金融大手Crédit Agricole（クレディ・アグリコル）は、ユーロ連動型ステーブルコイン「EURXT（EURO eXchange Token）」を ...
-仏銀Crédit Agricole、ユーロ建てステーブルコインEURXT発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トルコ大手取引所がハイパーリキッドとポリマーケットを統合、規制取引所として初事例]]></title>
-        <id>https://coinpost.jp/?p=721494</id>
-        <link href="https://coinpost.jp/?p=721494"/>
-        <updated>2026-07-02T00:15:42.000Z</updated>
-        <summary type="html"><![CDATA[トルコの大手仮想通貨取引所パリブが1日、ハイパーリキッドの無期限先物とポリマーケットの予測市場をアプリ内に統合した。規制済み取引所として世界初の事例とされ、NYSE・ナスダック株の取引ウェイトリストも開設した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは再び大相場を迎えるのか【前編】──CryptoQuant CEOが示した「市場構造の変化」とは【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=357828</id>
-        <link href="https://www.nadanews.com/357828/"/>
-        <updated>2026-07-02T00:11:14.000Z</updated>
-        <summary type="html"><![CDATA[● CryptoQuant CEOのKi Young Ju氏は、「ビットコインは今後もパラボリック（放物線状）の上昇相場を迎える可能性がある」との見解を示した。 ...
-ビットコインは再び大相場を迎えるのか【前編】──CryptoQuant CEOが示した「市場構造の変化」とは【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム支持者ら、機関投資家との連携を担う非営利団体を設立]]></title>
-        <id>https://www.nadanews.com/?p=357819</id>
-        <link href="https://www.nadanews.com/357819/"/>
-        <updated>2026-07-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム（Ethereum）の機関投資家向け普及を主導する非営利団体「Ethereum Institutional（イーサリアム・インスティテューショナル） ...
-イーサリアム支持者ら、機関投資家との連携を担う非営利団体を設立 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ]]></title>
-        <id>https://www.nadanews.com/?p=357809</id>
-        <link href="https://www.nadanews.com/357809/"/>
-        <updated>2026-07-01T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[台湾の立法院は6月30日、暗号資産（仮想通貨）業界の規制枠組みを定める「Virtual Asset Service Act（仮想資産サービス法）」を三読通過した ...
-台湾、暗号資産規制を本格整備──VASP許可制とステーブルコイン規制導入へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムに新たな独立組織が誕生、機関向けの採用を促進へ]]></title>
-        <id>https://coinpost.jp/?p=721512</id>
-        <link href="https://coinpost.jp/?p=721512"/>
-        <updated>2026-07-01T23:25:12.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨イーサリアムでイーサリアム・インスティテューショナルという独立組織が新たに誕生。L2を含めたイーサリアムのエコシステム全体の機関・企業への普及を加速させる。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solanaベースの予測市場「World」、Phantomウォレット上でリリース]]></title>
-        <id>https://www.nadanews.com/?p=357811</id>
-        <link href="https://www.nadanews.com/357811/"/>
-        <updated>2026-07-01T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「World（ワールド）」と呼ばれるSolana（ソラナ）基盤の予測市場が7月1日にローンチした。市場最大手のPolymarket（ポリマーケット）やKalsh ...
-Solanaベースの予測市場「World」、Phantomウォレット上でリリース first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタンダードチャータード、DeFi拡大でモルフォに強気見通し]]></title>
-        <id>https://coinpost.jp/?p=721492</id>
-        <link href="https://coinpost.jp/?p=721492"/>
-        <updated>2026-07-01T22:35:37.000Z</updated>
-        <summary type="html"><![CDATA[スタンダードチャータードはDeFi貸し借りプロトコルのモルフォ（Morpho）の分析カバレッジを開始、2030年末の目標価格を60ドルに設定した。ビットコインとイーサリアムを上回るリターンを見込み、DeFi資産の37倍拡大を原動力とする。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood、イーサリアムL2ネットワーク「Robinhood Chain」をローンチ]]></title>
-        <id>https://www.nadanews.com/?p=357804</id>
-        <link href="https://www.nadanews.com/357804/"/>
-        <updated>2026-07-01T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Robinhood（ロビンフッド）は7月1日、イーサリアムのレイヤー2ネットワーク「Robinhood Chain（ロビンフッド・チェーン）」のパブリックメイン ...
-Robinhood、イーサリアムL2ネットワーク「Robinhood Chain」をローンチ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロビンフッドチェーン正式公開、トークン化株式を120カ国超に提供]]></title>
-        <id>https://coinpost.jp/?p=721493</id>
-        <link href="https://coinpost.jp/?p=721493"/>
-        <updated>2026-07-01T21:55:39.000Z</updated>
-        <summary type="html"><![CDATA[ロビンフッドが独自L2チェーン「ロビンフッドチェーン」のメインネットを正式公開。チェーンリンクをオラクルに採用し、NVDAやAAPL等のトークン化株を120カ国超のユーザーに提供。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CircleのアレールCEO、USDコインのOpen USDに対する優位性を強調]]></title>
-        <id>https://www.nadanews.com/?p=357801</id>
-        <link href="https://www.nadanews.com/357801/"/>
-        <updated>2026-07-01T21:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Circle（サークル）のJeremy Allaire（ジェレミー・アレール）CEOは7月1日、Xへの投稿を通じて、自社のUSDコイン（USDC）が約10年かけ ...
-CircleのアレールCEO、USDコインのOpen USDに対する優位性を強調 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ版予測市場『ワールド』がリリース、ファントムウォレットと統合]]></title>
-        <id>https://coinpost.jp/?p=721491</id>
-        <link href="https://coinpost.jp/?p=721491"/>
-        <updated>2026-07-01T21:20:35.000Z</updated>
-        <summary type="html"><![CDATA[ソラナネイティブの予測市場プラットフォーム「ワールド」が7月1日に正式公開。ファントムウォレットに統合され、ビットコイン価格予測や2026年FIFAワールドカップの試合結果を予測取引できる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
