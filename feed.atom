@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-07T12:08:01.466Z</updated>
+    <updated>2026-07-07T15:13:45.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SBI証券と大和証券、海外から日本のSTに投資できる仕組みを構築へ──2027年にも開始＝日経]]></title>
+        <id>https://www.nadanews.com/?p=358471</id>
+        <link href="https://www.nadanews.com/358471/"/>
+        <updated>2026-07-07T13:32:37.000Z</updated>
+        <summary type="html"><![CDATA[SBI証券と大和証券が、海外投資家が日本のセキュリティ・トークン（ST）に投資できる仕組みを構築すると、日本経済新聞が7月7日に報じた。 早ければ2027年の取 ...
+SBI証券と大和証券、海外から日本のSTに投資できる仕組みを構築へ──2027年にも開始＝日経 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、英国で投資サービス認可を取得　株式・先物取引解禁へ]]></title>
+        <id>https://coinpost.jp/?p=722780</id>
+        <link href="https://coinpost.jp/?p=722780"/>
+        <updated>2026-07-07T12:50:15.000Z</updated>
+        <summary type="html"><![CDATA[米大手仮想通貨取引所コインベースが英国金融行動監視機構（FCA）から投資サービスライセンスを取得した。英国ユーザーは株式や無期限先物など伝統金融商品を仮想通貨と同一プラットフォームで取引できるようになる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金融庁、トラベルルール対象に5法域追加──8月3日から適用]]></title>
         <id>https://www.nadanews.com/?p=358461</id>
@@ -1329,117 +1350,6 @@ BTC（ビットコイン）はFOMC議事要旨とAI株調整リスクを警戒�
 トランプ一族支援のAmerican Bitcoin、15対1の株式併合を実施──ナスダック上場維持へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>廣瀬 優香</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF、トークン化で金融の構造変化　政策次第で強化も分断も]]></title>
-        <id>https://coinpost.jp/?p=721904</id>
-        <link href="https://coinpost.jp/?p=721904"/>
-        <updated>2026-07-03T03:00:30.000Z</updated>
-        <summary type="html"><![CDATA[IMFのアドリアン金融顧問兼MCM局長は7月2日、トークン化が金融システムの構造を変えると分析するブログを公開。トークン化銀行預金・ステーブルコイン・トークン化準備金という3類型の決済資産の特性と、政策選択が強化・分断を左右する論点を解説する。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セキュリタイズがNYSE上場初日に自社株をトークン化、ソラナとアバランチで提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=589121</id>
-        <link href="https://www.neweconomy.jp/posts/589121"/>
-        <updated>2026-07-03T02:46:13.000Z</updated>
-        <summary type="html"><![CDATA[上場初日に自社株をトークン化 現実資産（RWA）トークン化インフラを提供するセキュリタイズ（Securitize）が、ニューヨーク証券取引所（New York Stock Exchange：NYSE）への上場初日に、ティ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ上の予測市場「World」、暗号資産ウォレットのファントム内で正式公開]]></title>
-        <id>https://www.neweconomy.jp/?p=589105</id>
-        <link href="https://www.neweconomy.jp/posts/589105"/>
-        <updated>2026-07-03T02:42:35.000Z</updated>
-        <summary type="html"><![CDATA[Phantomでソラナ上の予測市場World正式公開 ソラナ（Solana）基盤のオンチェーン予測市場プロジェクト「ワールド（World／World Prediction Markets）」が、暗号資産（仮想通貨）ウォレ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBIクリプト、マイニングプールサービスを7月末で終了へ]]></title>
-        <id>https://www.neweconomy.jp/?p=589115</id>
-        <link href="https://www.neweconomy.jp/posts/589115"/>
-        <updated>2026-07-03T02:41:23.000Z</updated>
-        <summary type="html"><![CDATA[移行先として3つのマイニングプールを案内 SBIグループ傘下でマイニングプール事業を展開するSBIクリプト（SBI Crypto）が、マイニングプールサービスを終了すると発表した。同社は公式サイトで、2026年7月31日 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪府、ブロックチェーンやAI活用の金融実証実験を支援。補助上限は1000万円]]></title>
-        <id>https://www.neweconomy.jp/?p=589099</id>
-        <link href="https://www.neweconomy.jp/posts/589099"/>
-        <updated>2026-07-03T02:31:50.000Z</updated>
-        <summary type="html"><![CDATA[フィンテック・金融・非金融事業者など対象に補助上限は1,000万円 大阪府が、ブロックチェーンやAIなどの先端技術を活用した新たな金融サービスの実証実験を支援する「先駆的金融市場等形成支援事業補助金」の公募を7月1日に開 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CFTC委員長、イリノイ州仮想通貨取引税を批判　「技術への罰税」と非難]]></title>
-        <id>https://coinpost.jp/?p=721790</id>
-        <link href="https://coinpost.jp/?p=721790"/>
-        <updated>2026-07-03T02:25:43.000Z</updated>
-        <summary type="html"><![CDATA[米CFTC委員長はイリノイ州の仮想通貨取引税を「ブロックチェーンへの罰税」と批判する論説を発表。0.2%課税は2027年1月に施行され、業界団体も一斉に反発している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、ISIS-K関連の仮想通貨アドレス134件を制裁　テザー凍結]]></title>
-        <id>https://coinpost.jp/?p=721894</id>
-        <link href="https://coinpost.jp/?p=721894"/>
-        <updated>2026-07-03T02:09:51.000Z</updated>
-        <summary type="html"><![CDATA[米財務省OFACが2026年7月1日、ISIS-K関連の仮想通貨アドレス134件を新たに制裁指定した。トロン131件はテザーが即時凍結、モネロ3件は技術的に凍結不可能。Chainalysisの分析で資金の流れを追う。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシア、対外貿易での仮想通貨決済を正式解禁　7月1日施行]]></title>
-        <id>https://coinpost.jp/?p=721880</id>
-        <link href="https://coinpost.jp/?p=721880"/>
-        <updated>2026-07-03T01:35:35.000Z</updated>
-        <summary type="html"><![CDATA[ロシアは7月1日、ビットコインとステーブルコインを対外貿易決済に正式解禁した。認可プラットフォーム8社経由に限定され、中国・インド・トルコとの取引が主な対象。国内決済は引き続きルーブル専用となる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC幹部、過去の仮想通貨ETF対応の失敗認める　予測市場ETFは意見募集へ]]></title>
-        <id>https://coinpost.jp/?p=721871</id>
-        <link href="https://coinpost.jp/?p=721871"/>
-        <updated>2026-07-03T01:13:49.000Z</updated>
-        <summary type="html"><![CDATA[米SEC投資管理局長ブライアン・デイリー氏がブルームバーグの番組で、ビットコインETF対応の失敗を認めた発言が明らかに。予測市場ETFなど新型ETFは近く意見募集（RFC）を実施する方針も示した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン・イーサリアムの取引所流入急増、ボラティリティ拡大の兆候か＝クリプトクアント]]></title>
-        <id>https://coinpost.jp/?p=721829</id>
-        <link href="https://coinpost.jp/?p=721829"/>
-        <updated>2026-07-03T00:45:55.000Z</updated>
-        <summary type="html"><![CDATA[クリプトクアントの仮想通貨市場週間レポートによると、BTC・ETHの大口保有者による取引所入金が急増している。過去にはボラティリティ拡大に先行していた状況だ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシア中銀総裁、9月1日のデジタルルーブル導入に向けて順調と発言＝報道]]></title>
-        <id>https://www.nadanews.com/?p=358002</id>
-        <link href="https://www.nadanews.com/358002/"/>
-        <updated>2026-07-03T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[ロシア国営メディアのRIA Novosti（リア・ノーボスチ）が7月2日に報じたところによると、ロシア中央銀行のElvira Nabiullina（エリヴィラ・ ...
-ロシア中銀総裁、9月1日のデジタルルーブル導入に向けて順調と発言＝報道 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
         </author>
     </entry>
 </feed>
