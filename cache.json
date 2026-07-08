@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=358644",
+          "author": "平木 昌宏",
+          "description": "SBI証券、大和証券、SBI Digital Markets（SBIデジタルマーケッツ）、Penguin Securities（ペンギン・セキュリティーズ）、B ...\nSBI証券・大和証券ら5社、STのクロスボーダー取引を実証──イーサリアム上で即時決済を目指す first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/358644/",
+          "publishedOn": "2026-07-08T09:28:52.000Z",
+          "wordCount": 2182,
+          "title": "SBI証券・大和証券ら5社、STのクロスボーダー取引を実証──イーサリアム上で即時決済を目指す",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/main_1200x800-3-1.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=358588",
           "author": "廣瀬 優香",
           "description": "現実資産（RWA）のトークン化を手がけるOndo Finance（オンド・ファイナンス）は7月7日、トークン化株式を取引の担保として利用できる無期限先物プラット ...\nOndo Finance、トークン化株式を担保にできる無期限先物プラットフォームをローンチ first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -564,6 +574,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=723067",
+          "author": "Enzo",
+          "description": "ストラテジーのセイラー会長が試算を公表した。ビットコインが年率3.3%を超えて上昇すれば、その売却益だけで優先株STRCの配当を無期限に賄えるとする内容で、資本構成が変わらないことを前提として示された。",
+          "link": "https://coinpost.jp/?p=723067",
+          "publishedOn": "2026-07-08T09:08:13.000Z",
+          "wordCount": 3789,
+          "title": "セイラー会長、ビットコイン年3.3%超上昇ならSTRC配当永久化と試算",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/strategy-new-bitcoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=723042",
+          "author": "Enzo",
+          "description": "南アフリカ歳入庁（SARS）が仮想通貨の税務指針草案を公表した。売却や交換、決済利用を「処分」とみなし所得税や譲渡益課税の対象となり得ると説明。新税の導入ではなく既存法の解釈明確化と位置づけ、8月31日まで意見公募を行う。",
+          "link": "https://coinpost.jp/?p=723042",
+          "publishedOn": "2026-07-08T08:30:41.000Z",
+          "wordCount": 3771,
+          "title": "南アフリカ歳入庁、仮想通貨売却・交換に課税明記の指針案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/southafrica389457-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/12/southafrica389457-1.png"
+        },
         {
           "id": "https://coinpost.jp/?p=722918",
           "author": "幸田直子",
@@ -1343,51 +1383,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/congress-house-hearing.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/congress-house-hearing.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=722080",
-          "author": "菊谷ルイス",
-          "description": "6月の米非農業部門雇用者数が予想の約半分となる5.7万人増にとどまり、FRB議長が利上げリスクの低下を示唆。リスク資産への圧力が和らぎ、米ビットコイン現物ETFは10日ぶりに純流入へ転じて2億ドル以上を記録した。",
-          "link": "https://coinpost.jp/?p=722080",
-          "publishedOn": "2026-07-03T21:20:57.000Z",
-          "wordCount": 3690,
-          "title": "ビットコイン現物ETFに10日ぶり純流入、米雇用統計下振れ受け利上げ観測後退",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-etf-sosovalue-.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-etf-sosovalue-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=722071",
-          "author": "菊谷ルイス",
-          "description": "米民主党のキルステン・ジリブランド上院議員は3日、トランプ大統領の2025年最大収入源がミームコインと判明したことを受け、公職者とその配偶者による仮想通貨発行禁止法案の成立を改めて議会に求めた。",
-          "link": "https://coinpost.jp/?p=722071",
-          "publishedOn": "2026-07-03T20:45:12.000Z",
-          "wordCount": 3672,
-          "title": "米上院議員、大統領含む公職者のミームコイン発行禁止法案を改めて推進",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=722061",
-          "author": "菊谷ルイス",
-          "description": "ドルステーブルコインOUSDのコンソーシアムにパートナーとして名前が掲載されたサムスン電子や新韓フィナンシャルグループなど韓国企業の多くが、正式な合意なしに掲載されたと表明し困惑していると報じられた。",
-          "link": "https://coinpost.jp/?p=722061",
-          "publishedOn": "2026-07-03T20:00:54.000Z",
-          "wordCount": 3689,
-          "title": "サムスン電子など韓国複数社、OUSDのパートナー無断掲載に異議",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/open-standard-OUSD.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/open-standard-OUSD.jpg"
         }
       ]
     },
@@ -1396,6 +1391,36 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=590551",
+          "author": "watanabeyousuke",
+          "description": "SBIがEDXマーケッツへ戦略出資 SBIホールディングスが、機関投資家向けデジタルアセット市場インフラを提供するEDXマーケッツ（EDX Markets）が実施した総額7,600万ドル（約123.4億円）のシリーズC資 […]",
+          "link": "https://www.neweconomy.jp/posts/590551",
+          "publishedOn": "2026-07-08T08:25:28.000Z",
+          "wordCount": 743,
+          "title": "SBIホールディングス、EDXマーケッツへ出資。機関投資家向けデジタルアセット市場インフラ強化へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/08172105/8cf268ffe8277220de36a3ad5bb15d6c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=590542",
+          "author": "OtsugaShinya",
+          "description": "Kaiaが韓国BNK釜山銀行のPoCに参加 韓国の地方銀行BNK釜山銀行（BNK Busan Bank）が推進したブロックチェーン基盤の決済・精算インフラに関する概念実証（PoC）が完了した。レイヤー1ブロックチェーン「 […]",
+          "link": "https://www.neweconomy.jp/posts/590542",
+          "publishedOn": "2026-07-08T07:20:27.000Z",
+          "wordCount": 641,
+          "title": "Kaia、韓国最大の地銀BNK釜山銀行とのデジタル地域通貨実証を完了",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/08162023/6613af76e71f3fdaf87fae22d75651af.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=590536",
+          "author": "OtsugaShinya",
+          "description": "WIZEのSOL取得金額が累計9億円規模に 東証グロース上場のワイズ（WIZE：旧モブキャストホールディングス）が、暗号資産（仮想通貨）ソラナ（SOL）の追加取得を7月8日に発表した。 発表によるとワイズは7月7日、9, […]",
+          "link": "https://www.neweconomy.jp/posts/590536",
+          "publishedOn": "2026-07-08T07:00:45.000Z",
+          "wordCount": 758,
+          "title": "WIZEが1億円でソラナ追加取得、累計約9億円で保有量約5.8万SOLに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/08164919/24897606093e2f1ff29a6240d77d5c48.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=590526",
           "author": "gentosha_takahashi",
