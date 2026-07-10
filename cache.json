@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=359135",
+          "author": "平木 昌宏",
+          "description": "HashPort（ハッシュポート）は7月10日、AIエージェントとノンカストディアルウォレット「HashPort Wallet」を接続する「HashPort W ...\nHashPort Wallet、AIエージェントから操作可能に──複数チェーンの資産をJPYCへ集約 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/359135/",
+          "publishedOn": "2026-07-10T12:08:22.000Z",
+          "wordCount": 2031,
+          "title": "HashPort Wallet、AIエージェントから操作可能に──複数チェーンの資産をJPYCへ集約",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/main_1200x800-3-2.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=359116",
           "author": "平木 昌宏",
           "description": "SWIFT（スイフト：国際銀行間通信協会）は7月9日、ブロックチェーンを基盤とする共有台帳が初期利用可能な段階に入ったと発表した。 リリースによると、三菱UFJ ...\nSWIFT、トークン化預金の国際決済を実証へ──三菱UFJなど世界17行が共有台帳を活用 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -2023,36 +2033,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/strc-strategy-bitcoin-bottom-this-fall.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/strc-strategy-bitcoin-bottom-this-fall.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=722227",
-          "author": "Enzo",
-          "description": "ニューヨーク・タイムズの報道によると、トランプ氏の仮想通貨購入者の3分の2にあたる98万8905ウォレットが損失を計上、総額38億1000万ドルに達したことが分析会社ナンセンの調査で判明。トランプ氏本人は同コイン取引で6億3600万ドルの利益を得た。",
-          "link": "https://coinpost.jp/?p=722227",
-          "publishedOn": "2026-07-06T02:08:47.000Z",
-          "wordCount": 3755,
-          "title": "トランプコイン購入者98万人に38億ドル損失＝報道",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/02/trumpcoin-pic.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=722185",
-          "author": "Enzo",
-          "description": "マイナー収益ストレスを示す複合指標が2026年入り最安値を更新、過去の周期的な底値圏水準に沈んだとアナリストが分析。ゼロ到達は2015年、BTCが1週間で300ドル台から160ドル台へ急落した局面以来。",
-          "link": "https://coinpost.jp/?p=722185",
-          "publishedOn": "2026-07-06T00:41:55.000Z",
-          "wordCount": 3780,
-          "title": "ビットコインマイナー指標、2026年最安値を更新　割安ゾーンに突入",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bitcoin-halving-buy-from-miners.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/bitcoin-halving-buy-from-miners.jpeg"
         }
       ]
     },
@@ -2061,6 +2041,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=591358",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/591358",
+          "publishedOn": "2026-07-10T13:01:00.000Z",
+          "wordCount": 778,
+          "title": "【7/10話題】NECが顔認証とアバランチ活用のオンチェーン取引基盤検討、ビットバンクのAIエージェント向けMCPサーバ、Swiftの共有台帳が初期利用へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/10214306/de7baaf13d473af88b7f9df8e2d54617.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=591202",
           "author": "watanabeyousuke",
@@ -2710,46 +2700,6 @@
           "wordCount": 696,
           "title": "アンカレッジ・デジタル、Lido統合で機関投資家向けwstETH対応開始",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/06135940/1cf1eab3a097179a21d1c43ecc5e0482.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=589476",
-          "author": "watanabeyousuke",
-          "description": "Move VM実行レイヤーに重大な脆弱性 ブロックチェーンセキュリティ企業のヘクセンズ（Hexens）が、レイヤー1ブロックチェーン「アプトス（Aptos）」の実行環境「Move VMランタイム（Move VM Runt […]",
-          "link": "https://www.neweconomy.jp/posts/589476",
-          "publishedOn": "2026-07-06T02:42:32.000Z",
-          "wordCount": 772,
-          "title": "アプトスのMove VMに重大脆弱性、ヘクセンズ報告。修正済みで被害確認されず",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/06114220/f88e3b2026580631572141487cf92c6d.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=589470",
-          "author": "mikajirikoka",
-          "description": "国内アプリ初、JPYC発行・償還が可能に ハッシュポート（HashPort）が、国産Web3ウォレットアプリ 「ハッシュポートウォレット（HashPort Wallet）」内で日本円ステーブルコイン「JPYC」の発行・償 […]",
-          "link": "https://www.neweconomy.jp/posts/589470",
-          "publishedOn": "2026-07-06T02:15:04.000Z",
-          "wordCount": 762,
-          "title": "ハッシュポートのHashPort Wallet、「JPYC」の発行・償還可能に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/06111452/c2893c9122aeccf087620ab849be33cc.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=589462",
-          "author": "watanabeyousuke",
-          "description": "CryptoQuantが市場のボラティリティ拡大を警戒 オンチェーン分析企業クリプトクアント（CryptoQuant）が、ビットコイン（BTC）やイーサリアム（ETH）、アルトコインの取引所流入が急増しているとの分析レポ […]",
-          "link": "https://www.neweconomy.jp/posts/589462",
-          "publishedOn": "2026-07-06T02:08:54.000Z",
-          "wordCount": 791,
-          "title": "BTC・ETH・アルトコインが取引所流入急増、クリプトクアントが市場のボラティリティ拡大を警戒",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/06110841/af9c9a38c26a20e2e1e990f910ade6bd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=589441",
-          "author": "watanabeyousuke",
-          "description": "「リーン・イーサリアム」をザ・マージに続く「第3の主要な進化段階」と位置付け イーサリアム（Ethereum）共同創設者のヴィタリック・ブテリン（Vitalik Buterin）氏が、イーサリアムの長期開発構想「リーン・ […]",
-          "link": "https://www.neweconomy.jp/posts/589441",
-          "publishedOn": "2026-07-06T01:59:38.000Z",
-          "wordCount": 802,
-          "title": "ヴィタリック、「リーン・イーサリアム」をザ・マージに続く「第3の主要な進化段階」と位置付け",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/06105310/bdf3990c277a24ef6c15d38359ec59fc.jpg"
         }
       ]
     }
