@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-15T11:46:13.334Z</updated>
+    <updated>2026-07-15T14:07:02.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米DTCC、マイクロソフト株など有価証券トークン化の本番稼働を開始]]></title>
+        <id>https://coinpost.jp/?p=725223</id>
+        <link href="https://coinpost.jp/?p=725223"/>
+        <updated>2026-07-15T13:00:46.000Z</updated>
+        <summary type="html"><![CDATA[米証券決済機関DTCCは15日、マイクロソフト株や米国債を含む有価証券のトークン化サービスを本番稼働させた。JPモルガンなど約40社が参加し、担保移転やレポ取引をブロックチェーン上で処理する。10月に全面提供を予定する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBIとのDigiFT、日本株運用をオンチェーン化──「JXトークン」]]></title>
         <id>https://www.nadanews.com/?p=359774</id>
@@ -1755,58 +1765,6 @@ BTCが6万3000ドルを回復、暗号資産のショート約1億800万ドル�
 上場企業によるBTC保有量、6月に7314BTC純増──StrategyとStriveが購入量の約80％を占める【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Ibrahim Ajibade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン6.4万ドル台へ上昇、現物主導の買いと原油安が追い風｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=723907</id>
-        <link href="https://coinpost.jp/?p=723907"/>
-        <updated>2026-07-11T01:20:24.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ビットコインは7月10日から11日朝にかけて上昇した。7月初旬には一時5万7,000ドルまで下落し、年初来安値を更新していたが、足元では6万4,000ドル台まで回復。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジーキャッシュ、ZEC偽造脆弱性対応の「Ironwood」アップグレードで実施日程公開]]></title>
-        <id>https://coinpost.jp/?p=723939</id>
-        <link href="https://coinpost.jp/?p=723939"/>
-        <updated>2026-07-11T01:05:55.000Z</updated>
-        <summary type="html"><![CDATA[プライバシー仮想通貨ジーキャッシュがOrchardプールの脆弱性に対応する『Ironwood』アップグレードの実施日程を発表。フルノードのZebra移行も並行して進む。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悪材料を吸収する市場へ──ビットコインが試す「慎重な楽観」の持続力【BitTrade Market Weekly】]]></title>
-        <id>https://www.nadanews.com/?p=359175</id>
-        <link href="https://www.nadanews.com/359175/"/>
-        <updated>2026-07-11T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今週の市場は、「悲観一色だった相場から、慎重な楽観へと移行し始めた一週間」だった。 ビットコインは週前半に63,000ドル前後（約1,020万〜1,030万円） ...
-悪材料を吸収する市場へ──ビットコインが試す「慎重な楽観」の持続力【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米住宅法、CBDC禁止条項含み自動発効へ　トランプ大統領署名拒否]]></title>
-        <id>https://coinpost.jp/?p=723908</id>
-        <link href="https://coinpost.jp/?p=723908"/>
-        <updated>2026-07-11T00:40:26.000Z</updated>
-        <summary type="html"><![CDATA[トランプ大統領が米住宅法への署名拒否を表明した。法案は11日深夜に自動的に法律となり、連邦準備制度理事会によるCBDC発行を2030年末まで禁止する条項も発効する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界のお金はどう動いているのか──SWIFTからステーブルコインへ： 国際送金の未来①【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=359168</id>
-        <link href="https://www.nadanews.com/359168/"/>
-        <updated>2026-07-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[● 世界で行われる国際送金の多くは、個人ではなく企業間（B2B）の決済であり、世界経済を支える重要なインフラとなっている。● 現在の国際送金は、SWIFTによる ...
-世界のお金はどう動いているのか──SWIFTからステーブルコインへ： 国際送金の未来①【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
         </author>
     </entry>
 </feed>
