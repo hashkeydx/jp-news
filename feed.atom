@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-15T19:33:59.385Z</updated>
+    <updated>2026-07-15T21:13:03.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DTCC、トークン化証券の本番取引開始]]></title>
+        <id>https://www.nadanews.com/?p=359787</id>
+        <link href="https://www.nadanews.com/359787/"/>
+        <updated>2026-07-15T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米証券清算・決済大手のDTCC（The Depository Trust & Clearing Corporation）は、トークン化された株式や米国債 ...
+DTCC、トークン化証券の本番取引開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Shoko Galaviz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、クラリティー法の倫理条項めぐり上院議員と協議へ]]></title>
+        <id>https://coinpost.jp/?p=725231</id>
+        <link href="https://coinpost.jp/?p=725231"/>
+        <updated>2026-07-15T20:55:48.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領は16日、仮想通貨市場規制法「クラリティー法」の最大の懸案である倫理条項をめぐり上院議員らと会談する予定だ。法案可決に向けた倫理条項の合意形成が焦点となる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米DTCC、マイクロソフト株など有価証券トークン化の本番稼働を開始]]></title>
         <id>https://coinpost.jp/?p=725223</id>
@@ -1690,28 +1711,6 @@ Visa、Mastercard、Stripeはなぜステーブルコインへ向かうのか─
 【独自】暗号資産の金商法改正案、14日参院委採決へ 17日会期末までの成立確実に──秋先送り回避／全米郡保安官協会、クラリティ法案への反対を取り下げ【日曜日に読みたい厳選10本】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米住宅法のCBDC発行禁止条項、トランプ氏の署名なしで成立──ニューハンプシャー州は1億ドルのBTC担保債券案を否決【価格分析】]]></title>
-        <id>https://www.nadanews.com/?p=359209</id>
-        <link href="https://www.nadanews.com/359209/"/>
-        <updated>2026-07-11T08:42:47.000Z</updated>
-        <summary type="html"><![CDATA[・米国の中央銀行デジタル通貨（CBDC）を2030年12月31日まで禁止する超党派の住宅関連法案が、ドナルド・トランプ大統領の署名なしで法律として成立した。・ト ...
-米住宅法のCBDC発行禁止条項、トランプ氏の署名なしで成立──ニューハンプシャー州は1億ドルのBTC担保債券案を否決【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムの年間消費電力量、PoS移行後に99.9％超減──ケンブリッジ大報告]]></title>
-        <id>https://www.nadanews.com/?p=359202</id>
-        <link href="https://www.nadanews.com/359202/"/>
-        <updated>2026-07-11T08:16:47.000Z</updated>
-        <summary type="html"><![CDATA[・イーサリアムの年間消費電力量は7.87GWhまで減少し、マージ以前と比べて99.9％以上削減された。・ケンブリッジ代替金融センターの推計によると、イーサリアム ...
-イーサリアムの年間消費電力量、PoS移行後に99.9％超減──ケンブリッジ大報告 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
         </author>
     </entry>
 </feed>
