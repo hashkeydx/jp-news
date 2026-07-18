@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-18T03:29:23.533Z</updated>
+    <updated>2026-07-18T06:15:55.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[量子脅威が現実となる『Qデイ』後でもビットコイン所有権を証明、Project Elevenが技術開発]]></title>
+        <id>https://coinpost.jp/?p=725901</id>
+        <link href="https://coinpost.jp/?p=725901"/>
+        <updated>2026-07-18T05:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Project Elevenが、量子コンピュータ登場後もビットコインウォレットの所有権を証明できるゼロ知識証明技術を開発。移行期限を逃したユーザーにも対応するとしている。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セキュリタイズとキャンター、企業IPOにトークン化技術を活用する提携を発表]]></title>
+        <id>https://coinpost.jp/?p=725855</id>
+        <link href="https://coinpost.jp/?p=725855"/>
+        <updated>2026-07-18T04:10:50.000Z</updated>
+        <summary type="html"><![CDATA[RWAトークン化企業セキュリタイズと世界的金融サービス企業キャンターは今週、企業がIPOや追加株式発行をブロックチェーン上で実施できるようにする業務提携を発表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米グレースケール、ソラナETFのステーキング報酬を四半期現金分配へ]]></title>
         <id>https://coinpost.jp/?p=725899</id>
