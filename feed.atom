@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-19T22:07:25.106Z</updated>
+    <updated>2026-07-19T23:10:31.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国政府、ウォン建てステーブルコイン発行の法的根拠整備へ]]></title>
+        <id>https://coinpost.jp/?p=725962</id>
+        <link href="https://coinpost.jp/?p=725962"/>
+        <updated>2026-07-19T23:07:19.000Z</updated>
+        <summary type="html"><![CDATA[韓国政府がウォン国際化ロードマップを発表。デジタル資産基本法制定に合わせ、ウォン建てステーブルコインの発行・流通根拠を整備するほか、CBDC連動の国債トークン化実証やBIS主導プロジェクトへの参加も打ち出した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ギャラクシーCEO「3条件揃えば」ビットコイン10万ドルも]]></title>
+        <id>https://coinpost.jp/?p=725956</id>
+        <link href="https://coinpost.jp/?p=725956"/>
+        <updated>2026-07-19T22:30:22.000Z</updated>
+        <summary type="html"><![CDATA[ギャラクシーデジタルのノボグラッツCEOが、クラリティー法可決とFRBの利下げが条件になるとの見方を番組で示した。基本シナリオは6万から8万ドルのレンジとし、ストラテジー社の含み損リスクにも言及した。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインCPI下振れで持ち直すも上値重く、米株決算と中東情勢が焦点｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=725786</id>
@@ -1285,38 +1305,6 @@ DTCC、トークン化証券の本番取引開始 first appeared on NADA NEWS（
 SBIとのDigiFT、日本株運用をオンチェーン化──「JXトークン」 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トークン化証券の最前線、JPモルガン・Alpaca・Chainlinkが語る資本市場の未来｜WebX2026]]></title>
-        <id>https://coinpost.jp/?p=724209</id>
-        <link href="https://coinpost.jp/?p=724209"/>
-        <updated>2026-07-15T11:00:45.000Z</updated>
-        <summary type="html"><![CDATA[トークン化証券は実験段階を終え、実市場で稼働する段階に入った。JPモルガンKinexys・Alpaca・Chainlink Labs 3社がWebX2026で語った流動性・ユーティリティ・レガシー共存の現在地と、24時間365日スマートファイナンスへの道筋をレポート。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】]]></title>
-        <id>https://www.nadanews.com/?p=359705</id>
-        <link href="https://www.nadanews.com/359705/"/>
-        <updated>2026-07-15T10:36:58.000Z</updated>
-        <summary type="html"><![CDATA[・中国の検察関係者らが、暗号資産ミキサーや匿名取引への厳格な対応を研究論文で提言したなか、プライバシーコインは暗号資産市場全体を上回る上昇を見せた。・中国の検察 ...
-中国の検察関係者ら、暗号資産ミキサーへの対応強化を提言──Zcashは10.5％上昇【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英米、国際決済・証券・商品市場でのステーブルコイン活用を支持──ETHは7％上昇【価格分析】]]></title>
-        <id>https://www.nadanews.com/?p=359675</id>
-        <link href="https://www.nadanews.com/359675/"/>
-        <updated>2026-07-15T10:31:15.000Z</updated>
-        <summary type="html"><![CDATA[・英国と米国は、国境を越えた決済やトークン化証券の決済手段として、規制下にあるステーブルコインを共同で支持した。・共同声明は、準備資産による1対1の裏付け、国境 ...
-英米、国際決済・証券・商品市場でのステーブルコイン活用を支持──ETHは7％上昇【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
         </author>
     </entry>
 </feed>
