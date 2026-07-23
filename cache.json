@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=360887",
+          "author": "Shoko Galaviz",
+          "description": "米ステーブルコイン発行企業Circle（サークル）は7月23日、韓国のIT大手Kakao Group（カカオグループ）と、ブロックチェーンを活用した決済インフラ ...\nCircle、韓国Kakaoと提携──USDC活用の決済基盤を共同検討 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/360887/",
+          "publishedOn": "2026-07-23T21:00:00.000Z",
+          "wordCount": 2128,
+          "title": "Circle、韓国Kakaoと提携──USDC活用の決済基盤を共同検討",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2666015667.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=360855",
           "author": "平木 昌宏",
           "description": "分散型取引所（DEX）のAFX（エーエフエックス）は7月23日、Arbitrum（アービトラム）上で運営する独自のUSDCブリッジでインシデントが発生したと公式 ...\nアービトラム上の独自ブリッジから約39億円相当のUSDC流出──新興DEXがハッキング被害 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -554,6 +564,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=726926",
+          "author": "菊谷ルイス",
+          "description": "ゴールドマン・サックスのソロモンCEOが米「クラリティー法案」への支持を表明した。JPモルガンなど大手銀行がステーブルコイン規定への反対を続ける中、業界内立場の違いが鮮明になっている。",
+          "link": "https://coinpost.jp/?p=726926",
+          "publishedOn": "2026-07-23T20:40:59.000Z",
+          "wordCount": 3198,
+          "title": "ゴールドマン・サックスCEOがクラリティー法案支持、銀行業界と対立か",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/goldman-sachs-ark-etf-notes.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/goldman-sachs-ark-etf-notes.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=726918",
+          "author": "菊谷ルイス",
+          "description": "ブラックロックやコインベースなど大手9社が23日、ビットコインの長期的安全保障を支援するコンソーシアムを設立した。量子コンピュータへの耐性強化を最初の重点課題に掲げ、3年間で計24億円の拠出を表明している。",
+          "link": "https://coinpost.jp/?p=726918",
+          "publishedOn": "2026-07-23T20:00:04.000Z",
+          "wordCount": 3192,
+          "title": "ストラテジーやブラックロックなど9社、ビットコイン安全保障団体を設立",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/strategy-bitcoin-consortium.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/strategy-bitcoin-consortium.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=726862",
           "author": "Enzo",
