@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-27T08:45:13.844Z</updated>
+    <updated>2026-07-27T12:34:54.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、ビットコイン購入を再度見送り　新たに883億円調達]]></title>
+        <id>https://coinpost.jp/?p=727900</id>
+        <link href="https://coinpost.jp/?p=727900"/>
+        <updated>2026-07-27T12:25:19.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン保有大手ストラテジーが7月20〜26日の週にもビットコインを新規購入せず、84.3万BTCの保有を維持したと発表した。同時に普通株式を5.4億ドル売却し、資金調達を続けている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】]]></title>
         <id>https://www.nadanews.com/?p=361050</id>
@@ -1404,144 +1414,6 @@ ETH長期保有者の売り圧力低下──ETF流入3.8億ドル、ブラッ�
 JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[みずほ証券、クラリティー法でサークルのUSDC競合加速を懸念]]></title>
-        <id>https://coinpost.jp/?p=726604</id>
-        <link href="https://coinpost.jp/?p=726604"/>
-        <updated>2026-07-23T00:15:56.000Z</updated>
-        <summary type="html"><![CDATA[みずほ証券のアナリストがUSDC発行企業サークルへの投資評価を「アンダーパフォーム」に引き下げた。クラリティー法の成立でステーブルコイン競合が加速し、収益基盤が侵食されるとの見解を示した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地域をともにつくる Web3×関係人口の挑戦｜WebX2026]]></title>
-        <id>https://coinpost.jp/?p=725024</id>
-        <link href="https://coinpost.jp/?p=725024"/>
-        <updated>2026-07-23T00:00:41.000Z</updated>
-        <summary type="html"><![CDATA[HIS・SNPIT・ジパングDAO・海士町AmanowaDAO。関係人口の可視化、貢献型クラウドファンディング、写真×トークンによる地域PR。Web3で地域をともにつくる実践者4名の議論をWebX 2026からレポートする。]]></summary>
-        <author>
-            <name>M.Gelacio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国の暗号資産取引が激減。個人投資家の関心は株式へ＝報道]]></title>
-        <id>https://www.nadanews.com/?p=360751</id>
-        <link href="https://www.nadanews.com/360751/"/>
-        <updated>2026-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国で、暗号資産（仮想通貨）市場への個人投資家の関心が薄れている。 ZDNet Koreaは、CoinGeckoのデータを基に、韓国の5大取引所の1日あたりの取 ...
-韓国の暗号資産取引が激減。個人投資家の関心は株式へ＝報道 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIエージェントはブロックチェーンの「キラーユースケース」になる＝Franklin Templeton]]></title>
-        <id>https://www.nadanews.com/?p=360743</id>
-        <link href="https://www.nadanews.com/360743/"/>
-        <updated>2026-07-22T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Franklin Templeton（フランクリン・テンプルトン）でデジタル資産・イノベーション責任者を務めるSandy Kaul（サンディ・カウル）氏は、Xに ...
-AIエージェントはブロックチェーンの「キラーユースケース」になる＝Franklin Templeton first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=360730</id>
-        <link href="https://www.nadanews.com/360730/"/>
-        <updated>2026-07-22T23:15:00.000Z</updated>
-        <summary type="html"><![CDATA[● ビットコインは約66,500ドルまで回復し、市場を取り巻く環境は6月と比べて大きく改善している。ETFへの資金流入の再開、制度整備への期待、長期保有者による ...
-ビットコインは回復局面へ、それでも強気相場とは言い切れない理由──3つのオンチェーン指標が示す市場の現在地【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&Pとパンテラ、ファンダ重視の仮想通貨指数をローンチ　ETHやBNBなど18銘柄で構成]]></title>
-        <id>https://coinpost.jp/?p=726609</id>
-        <link href="https://coinpost.jp/?p=726609"/>
-        <updated>2026-07-22T23:02:52.000Z</updated>
-        <summary type="html"><![CDATA[S&Pとパンテラキャピタルが、仮想通貨の新たなインデックスをローンチ。イーサリアムやBNB、ソラナなどで構成されており、ファンダメンタルズを重視している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P Dow JonesとPantera、プロトコル収益基準の暗号資産指数をローンチ]]></title>
-        <id>https://www.nadanews.com/?p=360724</id>
-        <link href="https://www.nadanews.com/360724/"/>
-        <updated>2026-07-22T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[S&P Dow Jones Indices（S&Pダウ・ジョーンズ・インデックス）とPantera Capital（パンテラ・キャピタル）は7月 ...
-S&P Dow JonesとPantera、プロトコル収益基準の暗号資産指数をローンチ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効]]></title>
-        <id>https://www.nadanews.com/?p=360718</id>
-        <link href="https://www.nadanews.com/360718/"/>
-        <updated>2026-07-22T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米上院共和党は7月22日、暗号資産（仮想通貨）の市場構造を包括的に規制する「CLARITY法案（クラリティ法案）」の最新草案を公表した。 616ページに及ぶ本文 ...
-米上院共和党、クラリティ法案の最新草案を公表──倫理規定は2029年に失効 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベースの情報公開訴訟、米SECが15万ドル賠償で和解]]></title>
-        <id>https://coinpost.jp/?p=726602</id>
-        <link href="https://coinpost.jp/?p=726602"/>
-        <updated>2026-07-22T22:02:46.000Z</updated>
-        <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米暗号資産業界、直接雇用3万4000人・経済効果550億ドル＝NCA報告書]]></title>
-        <id>https://www.nadanews.com/?p=360719</id>
-        <link href="https://www.nadanews.com/360719/"/>
-        <updated>2026-07-22T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米国の暗号資産（仮想通貨）業界が直接雇用する人数は3万4000人にのぼり、サプライヤー産業や従業員の消費支出による波及効果を含めると、支える雇用は総計23万20 ...
-米暗号資産業界、直接雇用3万4000人・経済効果550億ドル＝NCA報告書 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken親会社Payward、トークン化対象を香港・英国・韓国株へ拡大]]></title>
-        <id>https://www.nadanews.com/?p=360716</id>
-        <link href="https://www.nadanews.com/360716/"/>
-        <updated>2026-07-22T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所Kraken（クラーケン）の親会社Payward（ペイワード）が、トークン化株式サービス「xStocks」の対象を米国株以外にも広げると発表した。 ...
-Kraken親会社Payward、トークン化対象を香港・英国・韓国株へ拡大  first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨の利回りツールに米証券法適用可能性、パースSEC委員が声明]]></title>
-        <id>https://coinpost.jp/?p=726596</id>
-        <link href="https://coinpost.jp/?p=726596"/>
-        <updated>2026-07-22T21:20:20.000Z</updated>
-        <summary type="html"><![CDATA[米SECのパース委員は22日、仮想通貨のオンチェーンレンディングにSECの連邦証券法が適用される可能性があるとする声明を発表した。金利設定者などは証券法の適用可否を分析するよう促している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalshi、11月米中間選挙に向け「Midterms Hub」始動]]></title>
-        <id>https://www.nadanews.com/?p=360714</id>
-        <link href="https://www.nadanews.com/360714/"/>
-        <updated>2026-07-22T21:00:53.000Z</updated>
-        <summary type="html"><![CDATA[予測市場プラットフォームのKalshi（カルシ）が、米国の選挙予想における主要な情報源としての地位を確立すべく、新機能「Midterms Hub（中間選挙ハブ） ...
-Kalshi、11月米中間選挙に向け「Midterms Hub」始動 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
         </author>
     </entry>
 </feed>
