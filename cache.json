@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=361692",
+          "author": "Ibrahim Ajibade",
+          "description": "・米連邦準備制度理事会（FRB）が政策金利を据え置いた後、XRP（エックス・アール・ピー）は日中安値から3％上昇し、時価総額上位10銘柄のすべてを上回った。同じ ...\nXRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修正アメンドメント有効化【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/361692/",
+          "publishedOn": "2026-07-30T03:10:59.000Z",
+          "wordCount": 2521,
+          "title": "XRP、FRB据え置き後に主要10銘柄で上昇率トップ──XRPLで修正アメンドメント有効化【価格分析】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/image1_1200x800-16.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=361682",
+          "author": "井上 俊彦",
+          "description": "CoinGecko（コインゲッコー）が7月29日に公開した調査レポート「Exchanges Reshaping Traditional Asset Tradin ...\nトークン化資産の時価総額が66億ドルに急成長＝CoinGecko first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/361682/",
+          "publishedOn": "2026-07-29T23:30:00.000Z",
+          "wordCount": 2128,
+          "title": "トークン化資産の時価総額が66億ドルに急成長＝CoinGecko",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/AdobeStock_1406257769.jpeg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=361679",
           "author": "井上 俊彦",
           "description": "アメリカ証券取引委員会（SEC）のPaul Atkins（ポール・アトキンス）委員長は7月27日、CNBCのインタビューで、議会が暗号資産（仮想通貨）市場構造法 ...\n米SEC委員長、クラリティ法案が可決されない場合「規則を策定する準備はできている」＝報道 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -514,6 +534,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=728596",
+          "author": "Enzo",
+          "description": "日立が金融機関・暗号資産事業者など17社と実施したAML実証で実務適用可能性を確認。2026年10月からデジタルアセット取引向けAMLモニタリングサービスの提供を開始する。金融庁支援案件としての取り組みの中身を解説する。",
+          "link": "https://coinpost.jp/?p=728596",
+          "publishedOn": "2026-07-30T02:30:37.000Z",
+          "wordCount": 3173,
+          "title": "日立、暗号資産AML実証で実用性確認　10月新サービス",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/%E6%97%A5%E7%AB%8B.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/%E6%97%A5%E7%AB%8B.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=728581",
+          "author": "Enzo",
+          "description": "米SECのアトキンス委員長は27日、仮想通貨の市場構造法案「クラリティ法」が上院で成立しなければ、SEC自ら仮想通貨規則を策定する用意があるとCNBCに述べた。法案の現状と、規制枠組みが政権交代で覆るリスクをどう見ているかを解説する。",
+          "link": "https://coinpost.jp/?p=728581",
+          "publishedOn": "2026-07-30T02:02:32.000Z",
+          "wordCount": 3185,
+          "title": "SEC議長、クラリティー法不成立なら独自ルール策定へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/07/sec-gensler-new-ask-for-budget.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=728546",
+          "author": "A.Yamada",
+          "description": "米44州の司法長官がCFTCのスポーツ予測市場規制案に対して、本来の規制権限を超えていると反対する意見書を提出。スポーツ業界からはNFLも規則案の不備を指摘している。",
+          "link": "https://coinpost.jp/?p=728546",
+          "publishedOn": "2026-07-30T00:04:17.000Z",
+          "wordCount": 3181,
+          "title": "米国44州の司法長官「スポーツ関連予測市場の規制権限はCFTCにない」と主張",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/prediction-market-orb.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/prediction-market-orb.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=728539",
+          "author": "K.Kobayashi",
+          "description": "BNYは、トークン化ファンド向けに新しいデジタル・トランスファー・エージェンシー機能をローンチしたと発表。機能の目的やブラックロックなどの利用計画を説明している。",
+          "link": "https://coinpost.jp/?p=728539",
+          "publishedOn": "2026-07-29T22:34:53.000Z",
+          "wordCount": 3193,
+          "title": "金融大手BNY、トークン化ファンド向けの新機能をローンチ　ブラックロックも利用を計画",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/BNY-Digital-Transfer-Agency.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/BNY-Digital-Transfer-Agency.jpeg"
+        },
         {
           "id": "https://coinpost.jp/?p=728472",
           "author": "Enzo",
