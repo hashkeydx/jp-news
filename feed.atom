@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-07-31T19:49:20.411Z</updated>
+    <updated>2026-07-31T21:19:52.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テザー財務報告書、ビットコイン冬相場でステーブルコインの超過準備金が半減]]></title>
+        <id>https://coinpost.jp/?p=729186</id>
+        <link href="https://coinpost.jp/?p=729186"/>
+        <updated>2026-07-31T21:15:34.000Z</updated>
+        <summary type="html"><![CDATA[#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン専門ウォレット『コールドカード』流出被害が110億円相当に、ギャラクシーが算出]]></title>
+        <id>https://coinpost.jp/?p=729181</id>
+        <link href="https://coinpost.jp/?p=729181"/>
+        <updated>2026-07-31T20:50:13.000Z</updated>
+        <summary type="html"><![CDATA[ギャラクシー・リサーチは、コールドカードの脆弱性に関連する流出被害が1196件のアドレスから1082.65BTC、110億円相当に達したと分析。自己管理型の利用者への影響が大きいことが明らかになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC発行企業サークル、ニューヨーク州から信託免許を取得]]></title>
+        <id>https://coinpost.jp/?p=729175</id>
+        <link href="https://coinpost.jp/?p=729175"/>
+        <updated>2026-07-31T20:00:30.000Z</updated>
+        <summary type="html"><![CDATA[サークルがニューヨーク州金融サービス局から限定目的信託免許を取得したと発表した。ステーブルコインUSDCの発行体制強化に向け、規制対応をさらに深める。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【7/31話題】ケネディクスら4社が不動産STとステーブルコインのクロスチェーンDvP実証、ストラテジーのQ2決算は83億ドルの営業損失など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=596853</id>
@@ -2013,27 +2043,6 @@ Binanceに集まるビットコイン──BitMEX・BitMart閉鎖で加速する
         <summary type="html"><![CDATA[ビットコイン保有大手ストラテジーが7月20〜26日の週にもビットコインを新規購入せず、84.3万BTCの保有を維持したと発表した。同時に普通株式を5.4億ドル売却し、資金調達を続けている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=361050</id>
-        <link href="https://www.nadanews.com/361050/"/>
-        <updated>2026-07-27T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月23日（米国時間）、分散型取引所（DEX）を運営するUniswap Labsが、規制対象資産向けの新しい取引標準「Permissioned Poo ...
-Uniswap、v4に「Permissioned Pools」を導入──プールが投資家の適格性を検証する仕組みと、日本のDeFi法整備【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaif、保有BTCのレンディング新サービス検討、ミライキャピタルHDと]]></title>
-        <id>https://www.neweconomy.jp/?p=595162</id>
-        <link href="https://www.neweconomy.jp/posts/595162"/>
-        <updated>2026-07-27T07:50:50.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインを売却せず貸し出し、貸借料獲得を目指す 国内暗号資産（仮想通貨）取引所ザイフ（Zaif）が、AIフュージョンキャピタルグループ子会社のミライキャピタルホールディングス（MCH）と、暗号資産レンディング領域での […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
 </feed>
