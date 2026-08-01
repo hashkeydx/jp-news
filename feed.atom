@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-01T03:46:35.138Z</updated>
+    <updated>2026-08-01T06:39:11.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハイパーリキッドHIP-4、パーミッションレス予測市場をテストネットで有効化]]></title>
+        <id>https://coinpost.jp/?p=729236</id>
+        <link href="https://coinpost.jp/?p=729236"/>
+        <updated>2026-08-01T04:15:08.000Z</updated>
+        <summary type="html"><![CDATA[分散型取引所ハイパーリキッドは、誰でも予測市場を作成できる機能をHIP-4のテストネット上で有効化したと発表した。ポリマーケットやカルシとの建玉規模の違いも解説する。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価]]></title>
         <id>https://coinpost.jp/?p=729182</id>
