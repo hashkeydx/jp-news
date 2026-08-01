@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=362057",
+          "author": "荒澤 文寛（あらさわ ふみひろ） ビットトレード リサーチアナリスト",
+          "description": "今週の市場は、「政策イベントを通過しても方向感が定まらず、短期的な安心と中期的な警戒が交錯した一週間」だった。 ビットコインは週前半、63,000〜65,000 ...\n期待と警戒が交差するFOMC後の市場── ビットコインは「反発の質」を試す局面へ【BitTrade Market Weekly】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/362057/",
+          "publishedOn": "2026-08-01T00:00:00.000Z",
+          "wordCount": 2194,
+          "title": "期待と警戒が交差するFOMC後の市場── ビットコインは「反発の質」を試す局面へ【BitTrade Market Weekly】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/759279842_1388273280066237_2750957031519623231_n_1200x800.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=361965",
           "author": "NADA NEWS編集部",
           "description": "みなさん、今週もお疲れ様でした！ 暗号資産規制の金融商品取引法（金商法）への移行や、与党が推進する「AIオンチェーン金融」の進展など、いまWeb3は私たちの日常 ...\n今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.6】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -634,6 +644,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=729182",
+          "author": "菊谷ルイス",
+          "description": "ストラテジーがビットコイン一辺倒の資金配分から現金積み増しへ転換したことを、TDカーウェンやベンチマークが評価。両社は優先株の額面回復が経営の最優先事項だと分析している。",
+          "link": "https://coinpost.jp/?p=729182",
+          "publishedOn": "2026-08-01T02:12:26.000Z",
+          "wordCount": 3197,
+          "title": "ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/strategy-bitcoin-new-image.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/strategy-bitcoin-new-image.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=729183",
+          "author": "菊谷ルイス",
+          "description": "イタリア中央銀行がステーブルコイン送金の実証実験結果を公表。伝統的な送金手段と比べ体系的なコスト優位性は確認できなかったとしている。",
+          "link": "https://coinpost.jp/?p=729183",
+          "publishedOn": "2026-08-01T01:15:28.000Z",
+          "wordCount": 3186,
+          "title": "イタリア中央銀行、ステーブルコイン送金にコスト優位性なしと結論",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin_2020c-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin_2020c-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=729214",
+          "author": "A.Yamada",
+          "description": "チェイナリシスが2026年W杯が予測市場にもたらしたインパクトを分析。取引総額200億ドル規模となった。FIFA公式NFTプラットフォームでは10万人超がチケット購入権を取得した。",
+          "link": "https://coinpost.jp/?p=729214",
+          "publishedOn": "2026-08-01T00:45:28.000Z",
+          "wordCount": 3189,
+          "title": "FIFAワールドカップ、予測市場での取引が3兆円規模に　公式NFTも盛況",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/fifa-world-cup-2026-2657999637.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/fifa-world-cup-2026-2657999637.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=729205",
+          "author": "K.Kobayashi",
+          "description": "米財務省は、イラン関連の新たな制裁措置を発表。今回のホルムズ海峡における制裁の要因となった活動には、デジタル資産の決済による制裁回避も含まれるとしている。",
+          "link": "https://coinpost.jp/?p=729205",
+          "publishedOn": "2026-07-31T23:15:25.000Z",
+          "wordCount": 3201,
+          "title": "米財務省がイラン企業2社に制裁措置、デジタル資産決済による制裁回避も主張",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/treasury-department-secretary.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/treasury-department-secretary.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=729184",
           "author": "菊谷ルイス",
@@ -1713,21 +1783,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/circle-ibm.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/circle-ibm.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=727900",
-          "author": "菊谷ルイス",
-          "description": "ビットコイン保有大手ストラテジーが7月20〜26日の週にもビットコインを新規購入せず、84.3万BTCの保有を維持したと発表した。同時に普通株式を5.4億ドル売却し、資金調達を続けている。",
-          "link": "https://coinpost.jp/?p=727900",
-          "publishedOn": "2026-07-27T12:25:19.000Z",
-          "wordCount": 3200,
-          "title": "ストラテジー、ビットコイン購入を再度見送り　新たに883億円調達",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/strategy-not-buying-again-july-27th.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/strategy-not-buying-again-july-27th.jpeg"
         }
       ]
     },
@@ -2405,16 +2460,6 @@
           "wordCount": 751,
           "title": "韓国Google Play、海外暗号資産取引所29社のアプリが新規DLが不可に＝報道",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/28102853/d4d55532883af2c61bccf59bbfe53c89.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=595211",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/595211",
-          "publishedOn": "2026-07-27T13:52:59.000Z",
-          "wordCount": 644,
-          "title": "【7/27話題】Zaifが保有BTCのレンディング新サービス検討、ビットマートが来年1月に運営終了、ワールド財団がWLD売却で約86億円調達など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/27184353/1c2a68ebb8c643cf9ad0f8beec12ab8a.jpg"
         }
       ]
     }
