@@ -480,7 +480,7 @@
       "articles": []
     },
     {
-      "title": "政府  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
@@ -1203,21 +1203,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/bitcoin-new-new-new-2026-march.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=728721",
-          "author": "Enzo",
-          "description": "WebX2026のファイヤーサイドチャットで、台湾のオードリー・タン氏が「信頼は土壌」という統治哲学からAIエージェント時代の安全設計まで語った内容をレポート。",
-          "link": "https://coinpost.jp/?p=728721",
-          "publishedOn": "2026-07-30T07:53:42.000Z",
-          "wordCount": 3645,
-          "title": "台湾モデルとAIエージェント、オードリー・タン氏の視座｜WebX2026",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX-2026-Limitless-Stage-173350-0015_web2k.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/WebX-2026-Limitless-Stage-173350-0015_web2k.jpg"
         }
       ]
     },
@@ -1605,66 +1590,6 @@
           "wordCount": 807,
           "title": "ビットセーフ、カントン向け分散化基盤「Decentralization Manager」公開",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/30170048/a16d5924003b0357df81850a3d039343.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=596314",
-          "author": "OtsugaShinya",
-          "description": "イーサリアムメインネット以外で初の展開 テザー（Tether）が支援する米国市場向け米ドル建てステーブルコイン「USAT」が、イーサリアム（Ethereum）のレイヤー2ブロックチェーン「セロ（Celo）」で稼働を開始し […]",
-          "link": "https://www.neweconomy.jp/posts/596314",
-          "publishedOn": "2026-07-30T07:50:50.000Z",
-          "wordCount": 816,
-          "title": "テザー支援の米国向けステーブルコイン「USAT」、セロで稼働開始。ガス代支払いにも対応",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/30165022/8825e8aa7b631a27c91a066aced768ba.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=596308",
-          "author": "TanakaShuya",
-          "description": "日立がセキュリティ検証プロセスを加速 日立製作所が、米アンソロピック（Anthropic PBC）が推進するAI活用セキュリティプログラム「プロジェクト・グラスウィング（Project Glasswing）」において、先 […]",
-          "link": "https://www.neweconomy.jp/posts/596308",
-          "publishedOn": "2026-07-30T07:42:50.000Z",
-          "wordCount": 755,
-          "title": "日立、アンソロピックのAIで重要インフラのセキュリティ検証を加速",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/30164208/11c790629883e957b749752af66a3d05.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=596272",
-          "author": "gentosha_takahashi",
-          "description": "「非中央集権」でも実態をもとに判断 マネーロンダリング（資金洗浄）などへの対策に関する国際基準を策定する金融活動作業部会（FATF）が、分散型金融（DeFi）に関する報告書「DeFiに係る規制上の課題に関する報告書（Ta […]",
-          "link": "https://www.neweconomy.jp/posts/596272",
-          "publishedOn": "2026-07-30T07:19:35.000Z",
-          "wordCount": 782,
-          "title": "FATF、DeFi規制に関する報告書を公表、リスク低減策など提示",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/30161841/ee7a75a5a0824be12785012200e5ebad.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=596266",
-          "author": "watanabeyousuke",
-          "description": "SWIATの既存ネットワークを金融機関共同の市場インフラへ 欧州の金融機関10社が、共同所有する規制対象の金融市場向け分散型台帳技術（DLT）ネットワーク「レギュレーテッド・レイヤー・ワン（Regulated Layer […]",
-          "link": "https://www.neweconomy.jp/posts/596266",
-          "publishedOn": "2026-07-30T07:09:23.000Z",
-          "wordCount": 636,
-          "title": "欧州金融機関など10社、共同DLT基盤「RL1」始動。SWIATネットワークを共同所有",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/30160850/82df6ca58f9e18df7dbc6d6837ca0af0.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=596247",
-          "author": "watanabeyousuke",
-          "description": "購入リンクの生成から、AIによる取引実行へ 暗号資産（仮想通貨）決済インフラ企業のムーンペイ（MoonPay）が、ChatGPTおよびClaude向けのAI決済保管庫「ペイボックス（PayBox）」を提供開始したと7月2 […]",
-          "link": "https://www.neweconomy.jp/posts/596247",
-          "publishedOn": "2026-07-30T06:52:45.000Z",
-          "wordCount": 801,
-          "title": "ムーンペイ、ChatGPT・Claude向けAI決済保管庫「PayBox」提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/30155123/fd949d2f84e118761f8778f366b1a058.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=596241",
-          "author": "TanakaShuya",
-          "description": "富士通が金融機関向けに専有型AIプラットフォームの開発を開始 富士通が、AI活用を支援する専有環境のAIプラットフォーム「ユーバンスフォーファイナンスAIトランスフォーメーションプラットフォーム（Uvance for F […]",
-          "link": "https://www.neweconomy.jp/posts/596241",
-          "publishedOn": "2026-07-30T06:45:23.000Z",
-          "wordCount": 755,
-          "title": "富士通、金融機関向け専有型AIプラットフォームの開発開始へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/07/30154454/e10511329162520345f9d734f8805b69.jpg"
         }
       ]
     }
