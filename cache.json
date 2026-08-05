@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=362629",
+          "author": "NADA NEWS編集部",
+          "description": "暗号資産（仮想通貨）のモナコイン（MONA）でブロック生成が長時間滞り、bitFlyer（ビットフライヤー）、Coincheck（コインチェック）、Zaif（ザ ...\nモナコイン、「ブロック生成されず」送受金停止 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/362629/",
+          "publishedOn": "2026-08-05T13:13:00.000Z",
+          "wordCount": 2358,
+          "title": "モナコイン、「ブロック生成されず」送受金停止",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_327660698_Editorial_Use_Only_1200x800.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=362608",
           "author": "NADA NEWS編集部",
           "description": "マネックスグループは8月5日、オンチェーン金融の研究と社会実装を進める「マネックス・オンチェーン金融研究所」を創設したと発表した。 オンチェーン金融とは、証券や ...\nマネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -644,6 +654,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=730015",
+          "author": "菊谷ルイス",
+          "description": "サークルは9月16日のArcチェーンメインネット開始を前に、ブラックロックやマスターカードなど11社を創設バリデーターに指定したと発表した。ブラックロックはBUIDLトークンをArcに展開する計画だ。",
+          "link": "https://coinpost.jp/?p=730015",
+          "publishedOn": "2026-08-05T12:45:42.000Z",
+          "wordCount": 3210,
+          "title": "サークル、Arc創設バリデーターにブラックロックやSBIが参加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/usdc-circle-stock-up-big.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/usdc-circle-stock-up-big.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=729995",
           "author": "Enzo",
@@ -1438,51 +1463,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/hype-etf-hyperliquid.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/hype-etf-hyperliquid.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=729182",
-          "author": "菊谷ルイス",
-          "description": "ストラテジーがビットコイン一辺倒の資金配分から現金積み増しへ転換したことを、TDカーウェンやベンチマークが評価。両社は優先株の額面回復が経営の最優先事項だと分析している。",
-          "link": "https://coinpost.jp/?p=729182",
-          "publishedOn": "2026-08-01T02:12:26.000Z",
-          "wordCount": 3197,
-          "title": "ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/strategy-bitcoin-new-image.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/strategy-bitcoin-new-image.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=729183",
-          "author": "菊谷ルイス",
-          "description": "イタリア中央銀行がステーブルコイン送金の実証実験結果を公表。伝統的な送金手段と比べ体系的なコスト優位性は確認できなかったとしている。",
-          "link": "https://coinpost.jp/?p=729183",
-          "publishedOn": "2026-08-01T01:15:28.000Z",
-          "wordCount": 3186,
-          "title": "イタリア中央銀行、ステーブルコイン送金にコスト優位性なしと結論",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin_2020c-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/stablecoin_2020c-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=729214",
-          "author": "A.Yamada",
-          "description": "チェイナリシスが2026年W杯が予測市場にもたらしたインパクトを分析。取引総額200億ドル規模となった。FIFA公式NFTプラットフォームでは10万人超がチケット購入権を取得した。",
-          "link": "https://coinpost.jp/?p=729214",
-          "publishedOn": "2026-08-01T00:45:28.000Z",
-          "wordCount": 3189,
-          "title": "FIFAワールドカップ、予測市場での取引が3兆円規模に　公式NFTも盛況",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/fifa-world-cup-2026-2657999637.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/fifa-world-cup-2026-2657999637.jpeg"
         }
       ]
     },
@@ -1491,6 +1471,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=598225",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/598225",
+          "publishedOn": "2026-08-05T13:49:32.000Z",
+          "wordCount": 776,
+          "title": "【8/5話題】ドラゴンフライのハシーブ・クレシがAI脆弱性の「発見コスト」報告提案、BNYが暗号資産カストディにステーキング機能追加へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/05165124/970fdf66860b35d5265c3f542707ced8.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=598239",
           "author": "HitomotoToshikazu",

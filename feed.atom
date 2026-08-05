@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-05T12:13:57.220Z</updated>
+    <updated>2026-08-05T15:25:14.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【8/5話題】ドラゴンフライのハシーブ・クレシがAI脆弱性の「発見コスト」報告提案、BNYが暗号資産カストディにステーキング機能追加へなど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=598225</id>
+        <link href="https://www.neweconomy.jp/posts/598225"/>
+        <updated>2026-08-05T13:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モナコイン、「ブロック生成されず」送受金停止]]></title>
+        <id>https://www.nadanews.com/?p=362629</id>
+        <link href="https://www.nadanews.com/362629/"/>
+        <updated>2026-08-05T13:13:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）のモナコイン（MONA）でブロック生成が長時間滞り、bitFlyer（ビットフライヤー）、Coincheck（コインチェック）、Zaif（ザ ...
+モナコイン、「ブロック生成されず」送受金停止 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークル、Arc創設バリデーターにブラックロックやSBIが参加]]></title>
+        <id>https://coinpost.jp/?p=730015</id>
+        <link href="https://coinpost.jp/?p=730015"/>
+        <updated>2026-08-05T12:45:42.000Z</updated>
+        <summary type="html"><![CDATA[サークルは9月16日のArcチェーンメインネット開始を前に、ブラックロックやマスターカードなど11社を創設バリデーターに指定したと発表した。ブラックロックはBUIDLトークンをArcに展開する計画だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マネックス、オンチェーン金融研究所を創設──RWA・ステーブルコインの事業化を支援]]></title>
         <id>https://www.nadanews.com/?p=362608</id>
@@ -1614,36 +1645,6 @@ ETH、7月は20％上昇──ステーキングに20億ドル流入もシグナ
         <link href="https://coinpost.jp/?p=729236"/>
         <updated>2026-08-01T04:15:08.000Z</updated>
         <summary type="html"><![CDATA[分散型取引所ハイパーリキッドは、誰でも予測市場を作成できる機能をHIP-4のテストネット上で有効化したと発表した。ポリマーケットやカルシとの建玉規模の違いも解説する。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン中心から転換したストラテジー、みずほなど複数証券会社が評価]]></title>
-        <id>https://coinpost.jp/?p=729182</id>
-        <link href="https://coinpost.jp/?p=729182"/>
-        <updated>2026-08-01T02:12:26.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジーがビットコイン一辺倒の資金配分から現金積み増しへ転換したことを、TDカーウェンやベンチマークが評価。両社は優先株の額面回復が経営の最優先事項だと分析している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イタリア中央銀行、ステーブルコイン送金にコスト優位性なしと結論]]></title>
-        <id>https://coinpost.jp/?p=729183</id>
-        <link href="https://coinpost.jp/?p=729183"/>
-        <updated>2026-08-01T01:15:28.000Z</updated>
-        <summary type="html"><![CDATA[イタリア中央銀行がステーブルコイン送金の実証実験結果を公表。伝統的な送金手段と比べ体系的なコスト優位性は確認できなかったとしている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFAワールドカップ、予測市場での取引が3兆円規模に　公式NFTも盛況]]></title>
-        <id>https://coinpost.jp/?p=729214</id>
-        <link href="https://coinpost.jp/?p=729214"/>
-        <updated>2026-08-01T00:45:28.000Z</updated>
-        <summary type="html"><![CDATA[チェイナリシスが2026年W杯が予測市場にもたらしたインパクトを分析。取引総額200億ドル規模となった。FIFA公式NFTプラットフォームでは10万人超がチケット購入権を取得した。]]></summary>
         <author>
             <name>A.Yamada</name>
         </author>
