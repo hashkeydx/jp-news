@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-05T03:28:57.971Z</updated>
+    <updated>2026-08-05T06:39:29.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web3ゲームのProof of Play、事業終了へ　a16z出資]]></title>
+        <id>https://coinpost.jp/?p=729971</id>
+        <link href="https://coinpost.jp/?p=729971"/>
+        <updated>2026-08-05T06:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Web3ゲーム企業Proof of Playが5日、事業終了を発表した。2023年にa16z等から3300万ドルを調達していたが、事業継続を断念。ゲームのコードはGitHubで公開、NFT・アート・IP・ロゴ一式はCC0ライセンスで公開。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、bStocks10銘柄追加　ASML・Netflix等上場]]></title>
+        <id>https://coinpost.jp/?p=729965</id>
+        <link href="https://coinpost.jp/?p=729965"/>
+        <updated>2026-08-05T06:11:23.000Z</updated>
+        <summary type="html"><![CDATA[バイナンス取引所は5日、ASMLやNetflixなど10銘柄のトークン化株式bStocksを現物市場に追加。ゼロメーカー手数料キャンペーンや自動売買ボット対応、株式との1対1コンバートも解禁する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロック、トークン化MMF2商品を提供開始]]></title>
+        <id>https://www.neweconomy.jp/?p=598190</id>
+        <link href="https://www.neweconomy.jp/posts/598190"/>
+        <updated>2026-08-05T05:49:13.000Z</updated>
+        <summary type="html"><![CDATA[BlackRockがトークン化MMF関連商品を提供 米資産運用大手ブラックロック（BlackRock）が、トークン化MMF（マネーマーケットファンド）関連2商品の提供開始を8月3日に発表した。 今回提供開始された商品は、 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスターカード、ステーブルコイン決済基盤BVNKの買収完了。法定通貨との接続強化へ]]></title>
+        <id>https://www.neweconomy.jp/?p=598179</id>
+        <link href="https://www.neweconomy.jp/posts/598179"/>
+        <updated>2026-08-05T04:31:58.000Z</updated>
+        <summary type="html"><![CDATA[法定通貨とデジタル通貨の相互運用性を強化 米決済大手マスターカード（Mastercard）が、ステーブルコイン決済インフラ企業BVNKの買収を完了したと8月3日に発表した。 マスターカードは3月17日、BVNKを最大18 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、海峡開放期待で米株史上最高値、Clarity法案は大詰め【楽天ウォレットDaily Report】]]></title>
+        <id>https://www.nadanews.com/?p=343273</id>
+        <link href="https://www.nadanews.com/343273/"/>
+        <updated>2026-08-05T04:27:12.000Z</updated>
+        <summary type="html"><![CDATA[ポイント ・6.4万ドル台で底堅い・ホルムズ和平期待で原油安・米株史上最高値更新・Clarity法案は休会延期も視野 昨日のBTC市場 昨日のBTC市場は底堅い ...
+ビットコイン、海峡開放期待で米株史上最高値、Clarity法案は大詰め【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>松田康生</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン採掘企業ハット8決算報告、売上高は事前予想わずかに下回る]]></title>
+        <id>https://coinpost.jp/?p=729913</id>
+        <link href="https://coinpost.jp/?p=729913"/>
+        <updated>2026-08-05T04:22:20.000Z</updated>
+        <summary type="html"><![CDATA[ハット8が2026年4～6月期決算を発表。売上高は市場予想をやや下回り、ビットコイン評価損等で純損失を計上した。AIデータセンター事業は拡大を継続している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融庁、暗号資産・ステーブルコイン課を新設　8月7日組織再編]]></title>
+        <id>https://coinpost.jp/?p=729927</id>
+        <link href="https://coinpost.jp/?p=729927"/>
+        <updated>2026-08-05T04:17:17.000Z</updated>
+        <summary type="html"><![CDATA[金融庁は8月7日、組織再編を実施し暗号資産とステーブルコインを専管する「暗号資産・ステーブルコイン課」を新設する。従来はリスク分析総括課内の参事官室だった体制を、資産運用・保険監督局直下の独立した課に格上げする。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フランクリン・テンプルトン、カントンのスーパーバリデーターに。ナスダックやVisaに続き]]></title>
+        <id>https://www.neweconomy.jp/?p=598171</id>
+        <link href="https://www.neweconomy.jp/posts/598171"/>
+        <updated>2026-08-05T04:05:03.000Z</updated>
+        <summary type="html"><![CDATA[トークン化ファンドの24時間設定・解約などを計画 米大手資産運用会社フランクリン・テンプルトン（Franklin Templeton）が、機関金融向けブロックチェーン「カントン・ネットワーク（Canton Network […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI支援攻撃への対応追いつかず──Boltz、スワップサービスを無期限停止]]></title>
+        <id>https://www.nadanews.com/?p=362539</id>
+        <link href="https://www.nadanews.com/362539/"/>
+        <updated>2026-08-05T03:53:11.000Z</updated>
+        <summary type="html"><![CDATA[非カストディアル型ビットコイン（BTC）ブリッジを提供するBoltz（ボルツ）は8月4日、スワップサービスを停止すると公式Xで発表した。再開時期は未定としている ...
+AI支援攻撃への対応追いつかず──Boltz、スワップサービスを無期限停止 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBIトレーサビリティの「SHIMENAWA」、清里フィールドバレエの来場者施策に活用]]></title>
+        <id>https://www.neweconomy.jp/?p=598162</id>
+        <link href="https://www.neweconomy.jp/posts/598162"/>
+        <updated>2026-08-05T03:38:34.000Z</updated>
+        <summary type="html"><![CDATA[SHIMENAWAが野外バレエ公演で活用 SBIトレーサビリティが、山梨県北杜市で開催中の清里フィールドバレエにおいて、同社が提供するブロックチェーン技術を活用したトレーサビリティサービス「SHIMENAWA（しめなわ） […]]]></summary>
+        <author>
+            <name>TanakaShuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットゴーCEO、アンソロピックに「100BTCを奪ってみろ」と挑発。Claudeの不正アクセス発表を皮肉る]]></title>
+        <id>https://www.neweconomy.jp/?p=598154</id>
+        <link href="https://www.neweconomy.jp/posts/598154"/>
+        <updated>2026-08-05T03:32:17.000Z</updated>
+        <summary type="html"><![CDATA[BitGo CEOが100BTC入りウォレットを公開しアンソロピックを挑発 暗号資産（仮想通貨）カストディ企業ビットゴー（BitGo）のCEOであるマイク・ベルシェ（Mike Belshe）氏が、アンソロピック（Anth […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム利回りの大幅削減提案、アーベ創設者が反論]]></title>
+        <id>https://coinpost.jp/?p=729846</id>
+        <link href="https://coinpost.jp/?p=729846"/>
+        <updated>2026-08-05T03:30:58.000Z</updated>
+        <summary type="html"><![CDATA[イーサリアムの発行量を抑える新提案に対し、Aave創設者のスタニ氏が反論を投稿した。個人ステーカーや仮想通貨市場への影響を懸念する声が上がっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[バイビット欧州決済法人、オーストリアで電子マネー機関ライセンス取得。Bybit euで決済サービス提供へ]]></title>
         <id>https://www.neweconomy.jp/?p=598133</id>
