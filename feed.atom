@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-07T19:12:20.245Z</updated>
+    <updated>2026-08-07T20:56:03.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領発言、「仮想通貨主導権は中国に渡さない」]]></title>
+        <id>https://coinpost.jp/?p=730554</id>
+        <link href="https://coinpost.jp/?p=730554"/>
+        <updated>2026-08-07T20:00:06.000Z</updated>
+        <summary type="html"><![CDATA[トランプ米大統領は仮想通貨分野で米国が中国などに主導権を譲らない姿勢を示すとともに、家族の仮想通貨事業に対する倫理規定案に反論した。クラリティー法案の上院採決は9月に持ち越される見通しだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【8/7話題】 金融庁と警察庁が暗号資産交換業者に出庫制限要請、ロシアが暗号資産包括規制法が成立など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=599129</id>
@@ -2352,37 +2362,6 @@ Coldcard攻撃、ビットコイン流出「第4波」発生か──被害額17
         <summary type="html"><![CDATA[コスト優位は「ルート次第」 イタリア銀行（バンカ・ディタリア）が、ステーブルコインを使った国際送金の実態を検証したレポート「Are Stablecoins Efficient for Remittances? Evide […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood、予測市場による収益が暗号資産と株式を上回る──取引所の取得と、連邦・州で割れる規制【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=362061</id>
-        <link href="https://www.nadanews.com/362061/"/>
-        <updated>2026-08-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年7月29日、米国のネット証券Robinhood Marketsが2026年第2四半期の決算を発表しました。取引で得た収益のうち、イベント契約（even ...
-Robinhood、予測市場による収益が暗号資産と株式を上回る──取引所の取得と、連邦・州で割れる規制【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNBチェーン、元従業員に法的措置。チュートリアル用ウォレットでミームトークン発行か]]></title>
-        <id>https://www.neweconomy.jp/?p=597288</id>
-        <link href="https://www.neweconomy.jp/posts/597288"/>
-        <updated>2026-08-03T07:41:38.000Z</updated>
-        <summary type="html"><![CDATA[CZ氏「実質的には詐欺師だ」と批判 元従業員が無許可で教材用ウォレットのシードフレーズを利用しミームトークンを発行した疑いがあるとして、元従業員に対する法的措置を進めているとBNBチェーン（BNB Chain）が8月1日 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップルの米ドルステーブルコイン「RLUSD」、韓国4取引所で取引可能に。アップビット・ビッサムなど]]></title>
-        <id>https://www.neweconomy.jp/?p=597274</id>
-        <link href="https://www.neweconomy.jp/posts/597274"/>
-        <updated>2026-08-03T07:31:42.000Z</updated>
-        <summary type="html"><![CDATA[RLUSDが韓国の4取引所で取引可能に 米ドル裏付け型ステーブルコイン「リップルUSD（RLUSD）」が、韓国の暗号資産（仮想通貨）取引所アップビット（Upbit）、ビッサム（Bithumb）、コインワン（Coinone […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>
