@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-07T21:52:53.640Z</updated>
+    <updated>2026-08-07T22:54:17.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米財務省、イラン仮想通貨取引所2社を制裁]]></title>
+        <id>https://coinpost.jp/?p=730560</id>
+        <link href="https://coinpost.jp/?p=730560"/>
+        <updated>2026-08-07T22:20:53.000Z</updated>
+        <summary type="html"><![CDATA[米財務省がイラン関連の仮想通貨取引所シェルビットとアバンテザー、創設者のカイヴァンプール氏を制裁した。IRGCへの資金供与や制裁回避への関与が理由で、関連取引所との取引には注意が求められる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恐怖は後退したが、確信には届かない── ETF流入と先物依存が交差するビットコイン市場【BitTrade Market Weekly】]]></title>
         <id>https://www.nadanews.com/?p=363104</id>
@@ -2330,37 +2340,6 @@ Coldcard事件でビットコインのアクティブアドレスが急増──
         <summary type="html"><![CDATA[ストラテジーが7月27日から8月2日の間に1,638BTCのビットコインを売却し、約1億473万ドルを確保したと発表した。売却益は優先株配当とSTRC株買戻しに充当し、ドル準備金は40億ドルに達した。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシア政府、モスクワ市・州などで暗号資産マイニング禁止へ]]></title>
-        <id>https://www.neweconomy.jp/?p=597351</id>
-        <link href="https://www.neweconomy.jp/posts/597351"/>
-        <updated>2026-08-03T10:18:04.000Z</updated>
-        <summary type="html"><![CDATA[ロシア政府がモスクワ市・州などで暗号資産マイニング禁止へ ロシア政府が、モスクワ市、モスクワ州、クルスク州の一部地域における暗号資産（仮想通貨）のマイニングを禁止することを決定した。7月25日付の政府決定第936号が、7 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス創業者CZ、「ハードウェアウォレットにもバグがある」と発言。コールドカード問題受け]]></title>
-        <id>https://www.neweconomy.jp/?p=597321</id>
-        <link href="https://www.neweconomy.jp/posts/597321"/>
-        <updated>2026-08-03T10:06:55.000Z</updated>
-        <summary type="html"><![CDATA[COLDCARD問題受けセルフカストディの課題に言及 バイナンス（Binance）創業者のチャンポン・ジャオ（Changpeng Zhao：CZ）氏が、ビットコイン（Bitcoin）向けハードウェアウォレット「コールドカ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、ETH保有率5％に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】]]></title>
-        <id>https://www.nadanews.com/?p=362211</id>
-        <link href="https://www.nadanews.com/362211/"/>
-        <updated>2026-08-03T09:52:56.000Z</updated>
-        <summary type="html"><![CDATA[・米国の現物イーサリアム上場投資信託（ETF）には7月、3億6517万ドルの資金が流入し、ビットコインETFの1億7242万ドルの2倍を超えた。これにより、8週 ...
-ビットマイン、ETH保有率5％に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
         </author>
     </entry>
 </feed>

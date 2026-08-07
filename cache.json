@@ -870,16 +870,6 @@
           "wordCount": 2454,
           "title": "Coldcard事件でビットコインのアクティブアドレスが急増──「利用拡大」ではなく資金退避だった可能性【エックスウィン】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/761304901_1047507207876940_6060575953041274590_n_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=362211",
-          "author": "Ibrahim Ajibade",
-          "description": "・米国の現物イーサリアム上場投資信託（ETF）には7月、3億6517万ドルの資金が流入し、ビットコインETFの1億7242万ドルの2倍を超えた。これにより、8週 ...\nビットマイン、ETH保有率5％に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/362211/",
-          "publishedOn": "2026-08-03T09:52:56.000Z",
-          "wordCount": 2546,
-          "title": "ビットマイン、ETH保有率5％に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/image3_1200x800.jpg"
         }
       ]
     },
@@ -894,6 +884,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=730560",
+          "author": "菊谷ルイス",
+          "description": "米財務省がイラン関連の仮想通貨取引所シェルビットとアバンテザー、創設者のカイヴァンプール氏を制裁した。IRGCへの資金供与や制裁回避への関与が理由で、関連取引所との取引には注意が求められる。",
+          "link": "https://coinpost.jp/?p=730560",
+          "publishedOn": "2026-08-07T22:20:53.000Z",
+          "wordCount": 3172,
+          "title": "米財務省、イラン仮想通貨取引所2社を制裁",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/iran-new-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/iran-new-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=730561",
           "author": "菊谷ルイス",
@@ -2705,26 +2710,6 @@
           "wordCount": 645,
           "title": "【8/3話題】ビットゲットが日本居住者向けサービス終了へ、コールドカード脆弱性への攻撃は現在も継続、BNBチェーン元従業員に法的措置など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/03175924/5fdb370521275a5e77fd973fe108dd18.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=597351",
-          "author": "HitomotoToshikazu",
-          "description": "ロシア政府がモスクワ市・州などで暗号資産マイニング禁止へ ロシア政府が、モスクワ市、モスクワ州、クルスク州の一部地域における暗号資産（仮想通貨）のマイニングを禁止することを決定した。7月25日付の政府決定第936号が、7 […]",
-          "link": "https://www.neweconomy.jp/posts/597351",
-          "publishedOn": "2026-08-03T10:18:04.000Z",
-          "wordCount": 737,
-          "title": "ロシア政府、モスクワ市・州などで暗号資産マイニング禁止へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/03191745/0a3b8f634662937771becff74111e512.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=597321",
-          "author": "watanabeyousuke",
-          "description": "COLDCARD問題受けセルフカストディの課題に言及 バイナンス（Binance）創業者のチャンポン・ジャオ（Changpeng Zhao：CZ）氏が、ビットコイン（Bitcoin）向けハードウェアウォレット「コールドカ […]",
-          "link": "https://www.neweconomy.jp/posts/597321",
-          "publishedOn": "2026-08-03T10:06:55.000Z",
-          "wordCount": 961,
-          "title": "バイナンス創業者CZ、「ハードウェアウォレットにもバグがある」と発言。コールドカード問題受け",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/03190643/CZ-260803-Reuters.jpg"
         }
       ]
     }
