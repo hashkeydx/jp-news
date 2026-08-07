@@ -2,10 +2,237 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-07T00:13:03.993Z</updated>
+    <updated>2026-08-07T04:03:07.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Move」開発者サム・ブラックシア、Sui開発元ミステンラボCTO退任、アンソロピックへ]]></title>
+        <id>https://www.neweconomy.jp/?p=598839</id>
+        <link href="https://www.neweconomy.jp/posts/598839"/>
+        <updated>2026-08-07T03:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Move考案者がAnthropicへ レイヤー1ブロックチェーン「スイ（Sui）」の開発元ミステン・ラボ（Mysten Labs）の共同創業者兼最高技術責任者（CTO）であるサム・ブラックシア（Sam Blackshea […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaMask、AIエージェント向けウォレットを一般公開]]></title>
+        <id>https://www.nadanews.com/?p=362937</id>
+        <link href="https://www.nadanews.com/362937/"/>
+        <updated>2026-08-07T03:57:05.000Z</updated>
+        <summary type="html"><![CDATA[MetaMask（メタマスク）は8月6日、AIエージェントが利用者に代わってオンチェーン取引を実行できるセルフカストディ型ウォレット「MetaMask Agen ...
+MetaMask、AIエージェント向けウォレットを一般公開 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットトレードとスタンデージ、貿易領域で暗号資産活用の共同実証へ]]></title>
+        <id>https://www.neweconomy.jp/?p=598841</id>
+        <link href="https://www.neweconomy.jp/posts/598841"/>
+        <updated>2026-08-07T03:54:45.000Z</updated>
+        <summary type="html"><![CDATA[ビットトレードとSTANDAGEが共同実証実験 国内暗号資産（仮想通貨）交換業者のビットトレードが、ブロックチェーンとステーブルコインを活用した新貿易決済システムの開発を行うスタンデージ（STANDAGE）と、貿易領域に […]]]></summary>
+        <author>
+            <name>TanakaShuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DTCCのRWAトークン化サービスを支援へ、プルームがワーキンググループ参加]]></title>
+        <id>https://coinpost.jp/?p=730366</id>
+        <link href="https://coinpost.jp/?p=730366"/>
+        <updated>2026-08-07T03:45:09.000Z</updated>
+        <summary type="html"><![CDATA[プルームは、DTCCのRWAトークン化サービスを支援するワーキンググループに参加すると発表。コンプライアンス基準に関するプルームの専門的な知識や技術を提供する。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sui、耐量子署名2方式を導入へ。既存アドレスを維持したまま移行可能に]]></title>
+        <id>https://www.neweconomy.jp/?p=598829</id>
+        <link href="https://www.neweconomy.jp/posts/598829"/>
+        <updated>2026-08-07T03:40:26.000Z</updated>
+        <summary type="html"><![CDATA[スイが耐量子暗号への対応計画、NIST標準2方式を採用へ レイヤー1ブロックチェーン「スイ（Sui）」を支援するスイ財団（Sui Foundation）が、量子コンピューター時代を見据えた耐量子暗号（ポスト量子暗号）への […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラティウム、ビルダーフィーを原資とする抽選プログラム「The Pot」開始]]></title>
+        <id>https://www.neweconomy.jp/?p=598823</id>
+        <link href="https://www.neweconomy.jp/posts/598823"/>
+        <updated>2026-08-07T03:28:42.000Z</updated>
+        <summary type="html"><![CDATA[ビルダーフィーを原資とする抽選プログラム「The Pot」開始 ハイパーリキッド（Hyperliquid）のHIP-3を利用するデリバティブプロトコル「ストラティウム（Stratium）」が、取引時に徴収するビルダーフィ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[野村HD傘下レーザーデジタル、L1ジグチェーンの「ZIG」に戦略投資]]></title>
+        <id>https://www.neweconomy.jp/?p=598816</id>
+        <link href="https://www.neweconomy.jp/posts/598816"/>
+        <updated>2026-08-07T03:22:08.000Z</updated>
+        <summary type="html"><![CDATA[機関投資家向けオンチェーン金融基盤を共同構築へ 野村ホールディングス傘下のデジタル資産事業会社レーザー・デジタル（Laser Digital）が、レイヤー1ブロックチェーン「ジグチェーン（ZIGChain）」のネイティブ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東証、大幅な事業転換企業への再審査制度を検討──暗号資産トレジャリー企業にも影響か]]></title>
+        <id>https://www.nadanews.com/?p=362912</id>
+        <link href="https://www.nadanews.com/362912/"/>
+        <updated>2026-08-07T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[東京証券取引所は8月6日、上場後の大幅な事業転換によって上場適格性に懸念が生じる事例を、2月に続いて会議資料で再掲した。 2月の資料では、既存事業とは全く関連の ...
+東証、大幅な事業転換企業への再審査制度を検討──暗号資産トレジャリー企業にも影響か first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARAとCleanSpark、売上高が約3割減──AI転換だけでは株価上昇続かず【価格分析】]]></title>
+        <id>https://www.nadanews.com/?p=362877</id>
+        <link href="https://www.nadanews.com/362877/"/>
+        <updated>2026-08-07T03:08:16.000Z</updated>
+        <summary type="html"><![CDATA[・ビットコインマイニングの採算悪化が4〜6月期の業績を圧迫し、MARAとCleanSparkはいずれも売上高が前年同期比で2桁減となった。・両社は、データセンタ ...
+MARAとCleanSpark、売上高が約3割減──AI転換だけでは株価上昇続かず【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Ibrahim Ajibade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LN Trends 2026年7月]]></title>
+        <id>https://www.nadanews.com/?p=362370</id>
+        <link href="https://www.nadanews.com/362370/"/>
+        <updated>2026-08-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所bitbankを運営するビットバンクが公開した「LN Trends」最新号を転載してお届けします（LN：Lightning Netwo ...
+LN Trends 2026年7月 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>bitbank Ventures</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローソンPOSレジでステーブルコイン「JPYC」決済──関係者が明かす「変わらなかった」舞台裏]]></title>
+        <id>https://www.nadanews.com/?p=362880</id>
+        <link href="https://www.nadanews.com/362880/"/>
+        <updated>2026-08-07T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[「ローソンでステーブルコイン決済」と聞くと、新しい決済端末や大掛かりなシステム改修を思い浮かべるかもしれない。 しかし、ローソンが8月6日に実施した国内初のPO ...
+ローソンPOSレジでステーブルコイン「JPYC」決済──関係者が明かす「変わらなかった」舞台裏 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>増田隆幸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア、非適格投資家の暗号資産購入を年57万円に制限]]></title>
+        <id>https://www.nadanews.com/?p=362872</id>
+        <link href="https://www.nadanews.com/362872/"/>
+        <updated>2026-08-07T02:44:26.000Z</updated>
+        <summary type="html"><![CDATA[・ロシアのウラジーミル・プーチン大統領は、2026年9月1日の施行に先立ち、暗号資産取引所、カストディアン、ブローカーに対するライセンス規則を定めた画期的な暗号 ...
+ロシア、非適格投資家の暗号資産購入を年57万円に制限 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>Ibrahim Ajibade</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗号資産「クラリティ法」の米上院採決、9月へ持ち越しと報道]]></title>
+        <id>https://www.nadanews.com/?p=362946</id>
+        <link href="https://www.nadanews.com/362946/"/>
+        <updated>2026-08-07T02:44:21.000Z</updated>
+        <summary type="html"><![CDATA[米上院が暗号資産の規制枠組みを定める市場構造法案「クラリティ法（CLARITY Act）」の採決を9月まで見送る方針であると、米政治メディアのPoliticoが ...
+暗号資産「クラリティ法」の米上院採決、9月へ持ち越しと報道 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>栃山 直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米クラリティー法案、上院採決が9月まで延期＝報道]]></title>
+        <id>https://coinpost.jp/?p=730422</id>
+        <link href="https://coinpost.jp/?p=730422"/>
+        <updated>2026-08-07T02:28:20.000Z</updated>
+        <summary type="html"><![CDATA[米上院は仮想通貨市場構造法案「クラリティー法」の採決を9月まで先送りする方針を固めた。共和党のチューン院内総務が方針を確認しており、倫理規定・資金洗浄対策・ステーブルコイン収益を巡る与野党対立が続いている。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮ハッカー、コインベースも標的　1640社侵入＝報道]]></title>
+        <id>https://coinpost.jp/?p=730403</id>
+        <link href="https://coinpost.jp/?p=730403"/>
+        <updated>2026-08-07T02:15:30.000Z</updated>
+        <summary type="html"><![CDATA[米WIRED誌が独自入手した内部証拠によると、研究者が北朝鮮ハッカー集団のサーバーに22カ月潜入し、コインベースなど世界1640社の被害を確認した。標的は仮想通貨の鍵やウォレットに集中していたという。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビザ、「Visa Direct」でステーブルコイン送金対応拡大。zerohashが基盤提供]]></title>
+        <id>https://www.neweconomy.jp/?p=598768</id>
+        <link href="https://www.neweconomy.jp/posts/598768"/>
+        <updated>2026-08-07T01:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Visa Directでステーブルコイン送金・事前資金供給に対応へ 米決済大手のビザ（Visa）と金融機関向けにステーブルコイン対応の規制・技術基盤を提供するゼロハッシュ（zerohash）が、ビザの送金サービス「ビザ・ […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブラックロックの「イーサリアム（ETH）」現物ETF、3口を1口へ併合]]></title>
+        <id>https://www.neweconomy.jp/?p=598780</id>
+        <link href="https://www.neweconomy.jp/posts/598780"/>
+        <updated>2026-08-07T01:50:38.000Z</updated>
+        <summary type="html"><![CDATA[ETHAが3口を1口に併合 米資産運用大手ブラックロック（BlackRock）の暗号資産（仮想通貨）イーサリアム（ETH）の現物ETFが、10月5日を基準日として、翌6日の営業開始時に3口を1口にまとめるシェア併合を実施 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、クラリティー法成立なら仮想通貨売却益の納税延期も]]></title>
+        <id>https://coinpost.jp/?p=730333</id>
+        <link href="https://coinpost.jp/?p=730333"/>
+        <updated>2026-08-07T01:45:32.000Z</updated>
+        <summary type="html"><![CDATA[米上院のトム・ティリス議員とルーベン・ガレゴ議員が提出した仮想通貨規制法の倫理条項により、トランプ大統領が資産売却時の税負担を軽減できる可能性が浮上した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットゴー、複数取引所口座の資金管理を一元化する「BitGo Link」提供開始]]></title>
+        <id>https://www.neweconomy.jp/?p=598773</id>
+        <link href="https://www.neweconomy.jp/posts/598773"/>
+        <updated>2026-08-07T01:44:56.000Z</updated>
+        <summary type="html"><![CDATA[BitGoが接続済み取引所口座の一元管理サービスを提供 暗号資産（仮想通貨）カストディ企業ビットゴー（BitGo）が、接続済みの複数取引所口座を一元的に可視化・管理できるサービス「ビットゴーリンク（BitGo Link） […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブロック、四半期決算で増収増益　人員大幅削減も営業費用増加]]></title>
+        <id>https://coinpost.jp/?p=730349</id>
+        <link href="https://coinpost.jp/?p=730349"/>
+        <updated>2026-08-07T01:30:31.000Z</updated>
+        <summary type="html"><![CDATA[ブロックが2026年4-6月期決算を発表。売上総利益が増加するなど好調だったが、アナリストからは人員40%削減にもかかわらず営業費用が前年から増加しているとの指摘も上がった。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルシ、ネットフリックス予測市場番組に抗議]]></title>
+        <id>https://coinpost.jp/?p=730372</id>
+        <link href="https://coinpost.jp/?p=730372"/>
+        <updated>2026-08-07T00:59:59.000Z</updated>
+        <summary type="html"><![CDATA[予測市場運営会社カルシが、ネットフリックスの新作ドキュメンタリー「Instadocs」のトレーラー映像を巡り、削除と訂正を求める抗議文を送付した。ネバダ州で禁止された取引が行われたかのような誤解を招くとしている。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondo創業者死去で経営権争いに、母親がCEOを提訴]]></title>
+        <id>https://coinpost.jp/?p=730334</id>
+        <link href="https://coinpost.jp/?p=730334"/>
+        <updated>2026-08-07T00:32:35.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨企業オンドの創業者ネイサン・オールマン氏の死後、母親のキャスリーン氏がCEOイアン・デボード氏の解任と会社の支配権確保を求め、米デラウェア州裁判所に訴えを起こした。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI転換というだけでマイニング株が急騰する時代は終わった]]></title>
         <id>https://www.nadanews.com/?p=362869</id>
