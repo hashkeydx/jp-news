@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=363114",
+          "author": "NADA NEWS編集部",
+          "description": "ビットコイン決済ソフトのBTCPay Server（ビーティーシーペイ・サーバー）は8月8日、二要素認証（2FA）を迂回できる重大な脆弱性が悪用されているとして ...\nビットコイン決済BTCpayに重大な脆弱性 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/363114/",
+          "publishedOn": "2026-08-08T02:29:00.000Z",
+          "wordCount": 2190,
+          "title": "ビットコイン決済BTCpayに重大な脆弱性",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/07/image3_1200x800-5.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=363011",
           "author": "NADA NEWS編集部",
           "description": "みなさん、今週もお疲れ様でした！ 暗号資産規制の金融商品取引法（金商法）への移行や、与党が推進する「AIオンチェーン金融」の進展など、いまWeb3は私たちの日常 ...\n今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.7】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -894,6 +904,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=730609",
+          "author": "A.Yamada",
+          "description": "ロシア当局がモスクワ・シティで違法な仮想通貨交換所9カ所を摘発し20人超を拘束した。ウクライナ拠点の詐欺で盗まれた資金の送金に利用されていた。",
+          "link": "https://coinpost.jp/?p=730609",
+          "publishedOn": "2026-08-08T04:00:12.000Z",
+          "wordCount": 3182,
+          "title": "ロシア当局、ウクライナ発詐欺に関与した違法仮想通貨交換所を摘発　20人超拘束",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/Russia_329808026.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/08/Russia_329808026.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=730607",
+          "author": "菊谷ルイス",
+          "description": "ステーブルコイン発行企業サークルが、USDCと相互運用プロトコルCCTPをOKXのXレイヤーに導入したと発表した。仮想通貨取引所OKXの利用者はドル建て資産のクロスチェーン移動や分散型金融での活用が可能になる。",
+          "link": "https://coinpost.jp/?p=730607",
+          "publishedOn": "2026-08-08T02:20:33.000Z",
+          "wordCount": 3172,
+          "title": "サークル、USDCとCCTPをXレイヤーに導入",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/circle-cctp-okx.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/circle-cctp-okx.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=730586",
           "author": "菊谷ルイス",
