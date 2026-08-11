@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=363436",
+          "author": "Ibrahim Ajibade",
+          "description": "・MITとスタンフォード大学の研究者は、GPTが生成した金融アドバイスに従うことで、大半の回答者の金融行動が、現在の行動よりもライフサイクル理論の推奨に近づくと ...\nMIT・スタンフォード大研究、AIの金融アドバイスで家計資産が増加──一方でプロンプトの質が新たな格差に first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/363436/",
+          "publishedOn": "2026-08-11T07:54:34.000Z",
+          "wordCount": 2742,
+          "title": "MIT・スタンフォード大研究、AIの金融アドバイスで家計資産が増加──一方でプロンプトの質が新たな格差に",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/image5_1200x800.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=363428",
           "author": "Ibrahim Ajibade",
           "description": "・AnthropicはRiot Platformsと20年間で91億ドル規模のコンピューティング契約を締結したと報じられた。ビットコインマイニングに使われてきた ...\nAnthropic、BTCマイニング大手ライオットと20年・91億ドル規模の契約──AI需要の高まりを浮き彫りに【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -600,16 +610,6 @@
           "wordCount": 2161,
           "title": "クラリティ法案、夏季休会目前で正念場──今後のシナリオを整理＝CoinDesk",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_301958786.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=362841",
-          "author": "エックスウィン",
-          "description": "●米国のビットコイン現物ETFには、8月3日から5日までの3取引日で合計約6億2,600万ドルが純流入した。8月5日の流入額は約2億4,440万ドルで、Blac ...\nビットコイン現物ETFに6.26億ドル流入──資金はどこから来たのか【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/362841/",
-          "publishedOn": "2026-08-06T21:00:00.000Z",
-          "wordCount": 2712,
-          "title": "ビットコイン現物ETFに6.26億ドル流入──資金はどこから来たのか【エックスウィン】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/761828913_1814340623280495_2231722157197942935_n_1200x800.jpg"
         }
       ]
     },
@@ -1358,51 +1358,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/US-congress-another-day-2728639525.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/US-congress-another-day-2728639525.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=730318",
-          "author": "菊谷ルイス",
-          "description": "JPモルガンのアナリストが、ハイパーリキッドのHYPE現物ETFへの資金流入が7月以降停滞し、米規制下の無期限先物取引所や予測市場との競争が激化していると指摘した。",
-          "link": "https://coinpost.jp/?p=730318",
-          "publishedOn": "2026-08-06T21:10:36.000Z",
-          "wordCount": 3185,
-          "title": "JPモルガン、ハイパーリキッドの市場シェア低下リスクを指摘",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/JPMorgan-Logo.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=730319",
-          "author": "菊谷ルイス",
-          "description": "米グレースケールが傘下3ファンドの構成銘柄比率を四半期見直し、DeFiファンドはUNI売却、スマートコントラクトファンドはBNB購入で資産配分を更新した。",
-          "link": "https://coinpost.jp/?p=730319",
-          "publishedOn": "2026-08-06T20:45:59.000Z",
-          "wordCount": 3183,
-          "title": "米グレースケール、3ファンドの構成銘柄比率を見直し",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/grayscalebitcoin1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/10/grayscalebitcoin1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=730304",
-          "author": "菊谷ルイス",
-          "description": "米サークルはコインベースとのUSDC提携を既存条件で更新し、2029年まで契約を延長した。四半期配当の導入を見送る方針を示し、投資家は資本配分の行方を注視。",
-          "link": "https://coinpost.jp/?p=730304",
-          "publishedOn": "2026-08-06T20:00:00.000Z",
-          "wordCount": 3192,
-          "title": "米サークル、コインベースとのUSDC提携を既存条件で更新　四半期配当導入見送る",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/circle3.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/12/circle3.png"
         }
       ]
     },
