@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-14T21:37:09.591Z</updated>
+    <updated>2026-08-14T22:37:36.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ノルウェー政府系ファンド、ビットコイン間接保有が過去最高に]]></title>
+        <id>https://coinpost.jp/?p=731028</id>
+        <link href="https://coinpost.jp/?p=731028"/>
+        <updated>2026-08-14T22:15:34.000Z</updated>
+        <summary type="html"><![CDATA[ノルウェー中央銀行投資管理部門（NBIM）の間接的ビットコイン保有量が過去最高の1万1,549BTCに達したと、K33のデータで判明。イーサリアムの間接保有やスペースX株の初開示も明らかになった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、証券トークン化特例規則の公表を再度延期]]></title>
+        <id>https://coinpost.jp/?p=731029</id>
+        <link href="https://coinpost.jp/?p=731029"/>
+        <updated>2026-08-14T21:30:38.000Z</updated>
+        <summary type="html"><![CDATA[米SECが準備するトークン化証券の特例措置公表が再び延期された。クラリティー法案の条項調整が影響しており、関連する仮想通貨規則の公開会合も中止となった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米Cboe、ビットコインなど3倍レバレッジETFを申請]]></title>
+        <id>https://coinpost.jp/?p=731026</id>
+        <link href="https://coinpost.jp/?p=731026"/>
+        <updated>2026-08-14T21:05:04.000Z</updated>
+        <summary type="html"><![CDATA[米Cboe BZXが仮想通貨や貴金属を対象とした3倍レバレッジ型ETF6本の上場をSECに申請し、投資家はより大きなリスクとリターンを伴う先物型商品への関心を強めている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン古参勢は再び強気に傾くのか──ETF後の市場構造とデレバレッジ【エックスウィン】]]></title>
         <id>https://www.nadanews.com/?p=363991</id>
@@ -15,6 +45,16 @@
 ビットコイン古参勢は再び強気に傾くのか──ETF後の市場構造とデレバレッジ【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>エックスウィン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米SEC、仮想通貨規則案の採決会合を延期]]></title>
+        <id>https://coinpost.jp/?p=731030</id>
+        <link href="https://coinpost.jp/?p=731030"/>
+        <updated>2026-08-14T20:50:39.000Z</updated>
+        <summary type="html"><![CDATA[米SECが14日開催予定だった仮想通貨規則の会合をを延期した。異例の日程変更の背景には、クラリティー法が上院で停滞している事情があり、規制整備の行方に不透明感が広がっている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
@@ -1059,17 +1099,6 @@ AIは“お金”を使い始めるのか──エージェント時代の決済
 CMEのヘッジファンドに変化──ビットコイン先物の「ネットロング」が注目される理由【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bitFlyer、ビットコインの分岐計画で対応発表]]></title>
-        <id>https://www.nadanews.com/?p=363373</id>
-        <link href="https://www.nadanews.com/363373/"/>
-        <updated>2026-08-10T10:16:46.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産（仮想通貨）取引所のbitFlyer（ビットフライヤー）は8月10日、ビットコイン（BTC）のブロックチェーンから新たな暗号資産「eCash（ECX）」 ...
-bitFlyer、ビットコインの分岐計画で対応発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
         </author>
     </entry>
 </feed>
