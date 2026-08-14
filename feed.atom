@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-14T19:11:29.403Z</updated>
+    <updated>2026-08-14T20:42:56.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米MSCI、ストラテジーとメタプラネットの株価指数除外を協議]]></title>
+        <id>https://coinpost.jp/?p=731018</id>
+        <link href="https://coinpost.jp/?p=731018"/>
+        <updated>2026-08-14T20:00:43.000Z</updated>
+        <summary type="html"><![CDATA[米指数大手MSCIは非事業会社を除外する新基準を協議中。5月データでの想定では、ビットコイン保有のストラテジーとメタプラネットを含む3社が削除の対象になり得るとされ、投資家は資金流出圧力を注視している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix、破綻した暗号資産取引所「FTX」の盛衰をドラマ化──11月19日配信]]></title>
         <id>https://www.nadanews.com/?p=364036</id>
@@ -1049,17 +1059,6 @@ CMEのヘッジファンドに変化──ビットコイン先物の「ネッ�
 bitFlyer、ビットコインの分岐計画で対応発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタルガレージ、ステーブルコイン決済基盤を商用展開──JCBなどへ先行提供予定]]></title>
-        <id>https://www.nadanews.com/?p=363359</id>
-        <link href="https://www.nadanews.com/363359/"/>
-        <updated>2026-08-10T07:58:56.000Z</updated>
-        <summary type="html"><![CDATA[デジタルガレージは8月10日、ステーブルコイン決済基盤「DG Stablecoin Payment Service（DG SPS）」の商用展開を開始したと発表し ...
-デジタルガレージ、ステーブルコイン決済基盤を商用展開──JCBなどへ先行提供予定 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
         </author>
     </entry>
 </feed>
