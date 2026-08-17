@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-17T14:42:36.512Z</updated>
+    <updated>2026-08-17T15:37:17.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -28,6 +28,16 @@ Lido、ステーキング報酬抑制案への批判強める──イーサリ�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ストラテジー、ビットコイン購入停止継続　MSTR株売却で530億円調達]]></title>
+        <id>https://coinpost.jp/?p=731405</id>
+        <link href="https://coinpost.jp/?p=731405"/>
+        <updated>2026-08-17T12:30:10.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーは8月10日から16日、ビットコインの購入・売却を見送り保有量840,447BTCを維持。同期間のMSTR株売却による3億3370万ドルは、STRC買い戻しや配当原資、米ドル準備金の積み増しに充てられた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【8/17話題】 セーフパルが不正アクセス被害、SBI VCトレードがBTC/JPYレバレッジ取引の標準スプレッド3333円になど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=600248</id>
         <link href="https://www.neweconomy.jp/posts/600248"/>
@@ -35,6 +45,16 @@ Lido、ステーキング報酬抑制案への批判強める──イーサリ�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADVASA、ナスダック上場承認　8月18日にADBTで取引開始]]></title>
+        <id>https://coinpost.jp/?p=731349</id>
+        <link href="https://coinpost.jp/?p=731349"/>
+        <updated>2026-08-17T11:50:42.000Z</updated>
+        <summary type="html"><![CDATA[フィンテック企業のAdvasa Holdingsが登録届出書の効力発生とNasdaq Global Marketへの上場承認を発表した。普通株式は8月18日、ティッカー「ADBT」で取引を開始する予定。]]></summary>
+        <author>
+            <name>Enzo</name>
         </author>
     </entry>
     <entry>
@@ -1428,37 +1448,6 @@ L1チェーン「Harmony」でトークン大量不正発行か first appeared o
 香港、初認可ステーブルコイン「HKDAP」の提供を開始 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマン、ネオス買収合意　ビットコイン・イーサリアムETFも獲得]]></title>
-        <id>https://coinpost.jp/?p=730906</id>
-        <link href="https://coinpost.jp/?p=730906"/>
-        <updated>2026-08-13T02:53:49.000Z</updated>
-        <summary type="html"><![CDATA[ゴールドマン・サックスがオプション運用ETF大手ネオスを最大22.5億ドルで買収へ。BTCIなどの仮想通貨インカムETFも取得し、世界有数のアクティブETF運用会社となる見通しだ、]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国、暗号資産企業の銀行参入を後押し──規制当局が方針表明]]></title>
-        <id>https://www.nadanews.com/?p=363662</id>
-        <link href="https://www.nadanews.com/363662/"/>
-        <updated>2026-08-13T02:49:59.000Z</updated>
-        <summary type="html"><![CDATA[米通貨監督庁（OCC）は8月11日、暗号資産（仮想通貨）企業の銀行参入を後押しする方針を発表した。 新規銀行の設立を促し、米銀行業界への新規参入を活性化する取り ...
-米国、暗号資産企業の銀行参入を後押し──規制当局が方針表明 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネットCEO、ビットコイン移動は売却でないと説明]]></title>
-        <id>https://coinpost.jp/?p=730916</id>
-        <link href="https://coinpost.jp/?p=730916"/>
-        <updated>2026-08-13T02:43:34.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットのサイモン・ゲロヴィッチCEOは13日、過去24時間でカストディ用アドレス間において5,014BTCを移動したと明らかにした。売却ではなく通常のカストディ運用と説明し、保有量は43,000BTCで変わらないとしている。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
 </feed>
