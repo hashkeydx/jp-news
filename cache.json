@@ -12,6 +12,26 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=363921",
+          "author": "宮本航歩",
+          "description": "2026年8月13日、株式会社三菱UFJフィナンシャル・グループ（MUFG）と傘下3社が、日本国債（JGB）のレポ取引をブロックチェーン上で扱う実証実験を始める ...\n三菱UFJ、日本国債レポのオンチェーン化を実証へ──振替口座簿を更新する設計と、翌日物に偏る国内レポ市場【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/363921/",
+          "publishedOn": "2026-08-17T08:00:00.000Z",
+          "wordCount": 2137,
+          "title": "三菱UFJ、日本国債レポのオンチェーン化を実証へ──振替口座簿を更新する設計と、翌日物に偏る国内レポ市場【MCB FinTechカタログ通信】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_574624145_Editorial_Use_Only_1200x800.jpg"
+        },
+        {
+          "id": "https://www.nadanews.com/?p=364289",
+          "author": "栃山 直樹",
+          "description": "ノルウェー政府年金基金による間接的なビットコイン（BTC）保有量が、2026年上半期末時点で過去最高の1万1549BTCに達したことが、データ分析機関K33リサ ...\nノルウェー年金基金のビットコイン間接保有が過去最高──メタプラネット株など経由 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/364289/",
+          "publishedOn": "2026-08-17T07:31:47.000Z",
+          "wordCount": 2383,
+          "title": "ノルウェー年金基金のビットコイン間接保有が過去最高──メタプラネット株など経由",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_1885957997-scaled.jpeg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=364271",
           "author": "平木 昌宏",
           "description": "米暗号資産メディアCoinDeskは8月16日、米証券取引委員会（SEC）が予定していた暗号資産規制に関する公開会合の中止について、米議会で審議中の「クラリティ ...\nクラリティ法案の交渉難航、SECの暗号資産規制にも影響か＝CoinDesk first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -685,6 +705,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=731262",
+          "author": "Enzo",
+          "description": "オンチェーン分析のグラスノードは17日、米消費者信頼感が過去最低水準に落ち込む一方で株式市場が最高値を更新していると指摘した。資金は株式・AI関連銘柄・コモディティへ向かい、ビットコイン（BTC）はこの流れの外に置かれているという。",
+          "link": "https://coinpost.jp/?p=731262",
+          "publishedOn": "2026-08-17T07:24:16.000Z",
+          "wordCount": 3170,
+          "title": "米消費者信頼感が最低水準、ビットコインは資金流入蚊帳の外＝グラスノード",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=731182",
           "author": "幸田直子",
           "description": "イスラエル最大手の仮想通貨ブローカーBits of Goldで、外部委託システムへの不正アクセスにより顧客の氏名・連絡先・本人確認情報などが流出した恐れがある。資金や仮想通貨、秘密鍵への影響はないが、漏洩したデータを利用したフィッシング詐欺などへの注意を呼びかけている。",
@@ -1231,6 +1266,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=600158",
+          "author": "watanabeyousuke",
+          "description": "一部ユーザー資金盗難受け追加対応を発表 ビットコイン（Bitcoin）決済ソフトウェア「BTCペイサーバー（BTCPay Server）」の脆弱性が悪用され、一部ユーザーのLNDウォレットから資金が盗まれたと、BTCペイ […]",
+          "link": "https://www.neweconomy.jp/posts/600158",
+          "publishedOn": "2026-08-17T07:45:43.000Z",
+          "wordCount": 859,
+          "title": "BTCペイサーバーの脆弱性悪用でLNDウォレット資金盗難、最大3BTCの回収報奨金",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17164434/b8eec705a6a889c54d0b66d7e0f38a18.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600149",
+          "author": "watanabeyousuke",
+          "description": "ECXハードフォークへの対応を第一報として公表 国内暗号資産（仮想通貨）取引所ビットフライヤー（bitFlyer）が、ビットコイン（Bitcoin）から新たなブロックチェーンを分岐させ、暗号資産「イーキャッシュ（eCas […]",
+          "link": "https://www.neweconomy.jp/posts/600149",
+          "publishedOn": "2026-08-17T07:36:57.000Z",
+          "wordCount": 628,
+          "title": "ビットフライヤー、ビットコインの「ECX」ハードフォークへの対応方針公表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17163631/ffda6c0baa53c51fae4be33d04be6aca.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600139",
+          "author": "watanabeyousuke",
+          "description": "2023年版からの優先順位の変化を説明 イーサリアム（Ethereum）共同創設者のヴィタリック・ブテリン（Vitalik Buterin）氏が、2023年に公表したロードマップ図と、イーサリアムL1プロトコルの草案ロー […]",
+          "link": "https://www.neweconomy.jp/posts/600139",
+          "publishedOn": "2026-08-17T07:29:34.000Z",
+          "wordCount": 688,
+          "title": "ヴィタリック、イーサリアム開発方針の変化を説明。量子耐性やAI支援の形式検証を重視",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17162910/6ed434f553aeb83e9132e6656c4069bd.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600132",
+          "author": "OtsugaShinya",
+          "description": "WIZEバリデータの運用規模が約2.3倍に 東証グロース上場のWIZE（ワイズ）が、SBI VCトレードに保管する暗号資産（仮想通貨）ソラナ（SOL）を、自社の「WIZEバリデータ」で運用する体制を構築し、運用を開始した […]",
+          "link": "https://www.neweconomy.jp/posts/600132",
+          "publishedOn": "2026-08-17T07:22:29.000Z",
+          "wordCount": 749,
+          "title": "WIZE、SBI VCトレードで保管する約6.6万SOLを自社バリデータで運用開始。規模約21万SOLに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17162213/39998552ce4967f4aedbcb46b95e5509.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600081",
+          "author": "OtsugaShinya",
+          "description": "株主優待分と担保提供中の分は除外 東証グロース上場のコンヴァノが、同社および連結子会社が保有する暗号資産（仮想通貨）の売却を8月10日に完了したと、8月13日に発表した。 今回売却したのは、株主優待制度に基づく優待品の交 […]",
+          "link": "https://www.neweconomy.jp/posts/600081",
+          "publishedOn": "2026-08-17T07:15:24.000Z",
+          "wordCount": 607,
+          "title": "コンヴァノ、保有暗号資産の売却完了。約2.98億円の売却損",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17161450/c36e7a3195902b2e3556df95ecb8a09a.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=600115",
           "author": "TanakaShuya",
