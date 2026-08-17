@@ -665,6 +665,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=731169",
+          "author": "A.Yamada",
+          "description": "2026年4～6月期の開示で、ハーバード大学基金がビットコイン現物ETF売却を停止したことが判明。UAE政府系ファンドやポール・チューダー・ジョーンズ氏のファンドの動向も解説する。",
+          "link": "https://coinpost.jp/?p=731169",
+          "publishedOn": "2026-08-17T03:52:24.000Z",
+          "wordCount": 3181,
+          "title": "ハーバード大学、ビットコインETF「IBIT」の売却停止　チューダー氏ファンドは増加",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-btc-etf-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/05/new-btc-etf-pic.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=731162",
           "author": "Enzo",
           "description": "仮想通貨ウォレットのSafePalが、注文追跡プラグインの認可不備で顧客情報に不正アクセスがあったと公表した。影響は約39,798人で、氏名や住所、電話番号などが流出したという。シードフレーズや秘密鍵は無事としている。",
@@ -1181,6 +1196,106 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=600035",
+          "author": "watanabeyousuke",
+          "description": "HyperCoreで5銘柄の現物市場を開始 株式トークン化フレームワーク「xストックス（xStocks）」が、分散型取引プラットフォーム「ハイパーリキッド（Hyperliquid）」で提供開始されたと、xストックスが公式 […]",
+          "link": "https://www.neweconomy.jp/posts/600035",
+          "publishedOn": "2026-08-17T04:53:37.000Z",
+          "wordCount": 664,
+          "title": "xストックスがハイパーリキッドで現物取引開始、HIP-3人気銘柄含む5銘柄をハイパーコアに展開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17135316/ab3b58a231991d7ed2f383a67243308d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600018",
+          "author": "watanabeyousuke",
+          "description": "国外事業者やセルフカストディ向け送金が対象 ブラジル中央銀行（Banco Central do Brasil：BCB）が、決済サービス向けの詐欺防止規制を暗号資産（仮想通貨）サービスへ拡張する「BCB決議第584号」を8 […]",
+          "link": "https://www.neweconomy.jp/posts/600018",
+          "publishedOn": "2026-08-17T04:19:31.000Z",
+          "wordCount": 735,
+          "title": "ブラジル中銀、一部の暗号資産送金を最大24時間保留へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17131858/3c929a5c2fc8d20189488b44c6d1da4b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600013",
+          "author": "watanabeyousuke",
+          "description": "創業者死去後のCEO就任巡り対立 現実資産（RWA）のトークン化サービスを手掛けるオンド・ファイナンス（Ondo Finance）で、経営権を巡る対立が表面化している。同社の故創業者ネイサン・オールマン（Nathan A […]",
+          "link": "https://www.neweconomy.jp/posts/600013",
+          "publishedOn": "2026-08-17T04:14:11.000Z",
+          "wordCount": 803,
+          "title": "オンドで経営権争い、故創業者の母親が現CEO解任求め提訴=報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17131349/0d8a4b1a1cc6ea98657a86fb18aa195a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600005",
+          "author": "watanabeyousuke",
+          "description": "法的手続きへの対応でデータ空欄化を一時停止 ビットコイン（Bitcoin）のハードウェアウォレット「コールドカード（COLDCARD）」を開発するコインカイト（Coinkite）が、7月30日に公表したセキュリティインシ […]",
+          "link": "https://www.neweconomy.jp/posts/600005",
+          "publishedOn": "2026-08-17T04:06:44.000Z",
+          "wordCount": 845,
+          "title": "コールドカード開発元、セキュリティ事案受け顧客データの保持方針を一時変更",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17130627/3451b05556f28617ebf7055c5d7ad856.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600000",
+          "author": "watanabeyousuke",
+          "description": "金融庁が暗号資産・ステーブルコイン課を新設 金融庁が、「暗号資産・ステーブルコイン課」を8月7日付で新設した。金融庁は8月5日、同課の新設を含む組織再編を発表していた。今回の再編は、資産運用立国の推進や金融分野のデジタル […]",
+          "link": "https://www.neweconomy.jp/posts/600000",
+          "publishedOn": "2026-08-17T03:59:37.000Z",
+          "wordCount": 601,
+          "title": "金融庁、「暗号資産・ステーブルコイン課」を新設。参事官室を前身に設置",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17125910/2f4fbe5c9d9cf8ff3c66b6459cae6f7b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=599973",
+          "author": "watanabeyousuke",
+          "description": "約15年間動かなかった約50BTCが移動 2011年に同一のビットコイン（Bitcoin）アドレスが受け取り、その後使用されていなかった4件の未使用残高（UTXO）計49.97BTCが、別のアドレスへ移動した。デジタル資 […]",
+          "link": "https://www.neweconomy.jp/posts/599973",
+          "publishedOn": "2026-08-17T03:55:12.000Z",
+          "wordCount": 648,
+          "title": "2011年から動かなかった約50BTCが移動、現在価値5億円超",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17125449/73db2ad573f4462870c81e19826ba8e4.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=599966",
+          "author": "watanabeyousuke",
+          "description": "BIP110適用ノードが少数派チェーンへ分岐 ビットコイン（Bitcoin）の改善提案「BIP110」を実装し、その強制シグナリング規則を適用する一部のノードとマイナーが、日本時間8月9日、ブロック高961,632でメイ […]",
+          "link": "https://www.neweconomy.jp/posts/599966",
+          "publishedOn": "2026-08-17T03:47:36.000Z",
+          "wordCount": 868,
+          "title": "ビットコイン「BIP110」適用ノードが少数派チェーンへ分岐、メインチェーンは従来ルール維持",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17124318/7261cef2d524580358f5417a586fafd3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=599822",
+          "author": "OtsugaShinya",
+          "description": "セーフパルが不正アクセス被害 暗号資産（仮想通貨）ウォレット提供企業のセーフパル（SafePal）が、顧客約3万9,798人の注文情報が不正に閲覧されたデータ侵害を8月16日に公表した。対象となった情報には、氏名、住所、 […]",
+          "link": "https://www.neweconomy.jp/posts/599822",
+          "publishedOn": "2026-08-17T03:44:33.000Z",
+          "wordCount": 756,
+          "title": "セーフパルが不正アクセス被害、顧客約4万人の注文情報に影響",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17124419/3ff3a2fd3f4480366e96b22fa5843844.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=599961",
+          "author": "watanabeyousuke",
+          "description": "9月15日に審議入り巡る採決 米上院多数党院内総務のジョン・スーン（John Thune）議員が米東部時間8月8日、暗号資産（仮想通貨）市場の包括的な規制枠組みを整備する「クラリティ法案（CLARITY Act、H.R. […]",
+          "link": "https://www.neweconomy.jp/posts/599961",
+          "publishedOn": "2026-08-17T03:24:37.000Z",
+          "wordCount": 809,
+          "title": "米上院、クラリティ法案の審議入りへ前進。9/15に手続き採決へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17122404/5d5f881c5344f84b9a9754af31c6e59a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=599954",
+          "author": "watanabeyousuke",
+          "description": "暗号資産取引から米規制証券市場へ事業拡大 暗号資産（仮想通貨）のアルゴリズム取引やマーケットメイキングを手がけるウィンターミュート（Wintermute）の関連会社「ウィンターミュートUSA（Wintermute USA […]",
+          "link": "https://www.neweconomy.jp/posts/599954",
+          "publishedOn": "2026-08-17T03:13:04.000Z",
+          "wordCount": 831,
+          "title": "ウィンターミュートUSA、SEC登録ブローカーディーラーに。トークン化証券市場見据え",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17121236/5f86a97599f4816a1ef1c5cace5e82e2.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=599941",
           "author": "watanabeyousuke",
