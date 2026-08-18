@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-18T22:38:49.167Z</updated>
+    <updated>2026-08-18T23:33:25.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハードウェアウォレットのBitBox、深刻な脆弱性を報告]]></title>
+        <id>https://www.nadanews.com/?p=364551</id>
+        <link href="https://www.nadanews.com/364551/"/>
+        <updated>2026-08-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スイスのハードウェアウォレットメーカー、BitBox（ビットボックス）は8月17日、ファームウェアの最新版を公開し、社内監査で見つけた2件の深刻な脆弱性を修正し ...
+ハードウェアウォレットのBitBox、深刻な脆弱性を報告 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15年間眠っていたビットコインが移動──当時の価格は14ドル]]></title>
         <id>https://www.nadanews.com/?p=364540</id>
@@ -1713,17 +1724,6 @@ SharpLink、Lidoを通じて2億ドル相当のETHをステーキングへ──
 Netflix、破綻した暗号資産取引所「FTX」の盛衰をドラマ化──11月19日配信 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC（ビットコイン）はFOMC議事要旨と米イラン情勢をにらみ神経質な展開か【マネックス証券】]]></title>
-        <id>https://www.nadanews.com/?p=364031</id>
-        <link href="https://www.nadanews.com/364031/"/>
-        <updated>2026-08-14T11:14:43.000Z</updated>
-        <summary type="html"><![CDATA[● 今週のビットコインは、軟調な米雇用統計や米消費者物価指数（CPI）の鈍化を受けた利上げ観測の後退が支えとなった一方、企業によるビットコイン売却や中東情勢の不 ...
-BTC（ビットコイン）はFOMC議事要旨と米イラン情勢をにらみ神経質な展開か【マネックス証券】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>松嶋 真倫 マネックス証券 フィナンシャル・インテリジェンス部 暗号資産アナリスト</name>
         </author>
     </entry>
 </feed>
