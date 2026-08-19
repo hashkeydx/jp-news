@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-19T09:46:53.815Z</updated>
+    <updated>2026-08-19T10:44:06.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UPBOND、アパホテル宿泊者向け観光予約にJPYC決済を検討]]></title>
+        <id>https://coinpost.jp/?p=731818</id>
+        <link href="https://coinpost.jp/?p=731818"/>
+        <updated>2026-08-19T10:33:58.000Z</updated>
+        <summary type="html"><![CDATA[UPBONDがアパホテル宿泊者向けにJapanTicketの観光体験・飲食店予約を案内するテスト運用を6月に開始した。円建てステーブルコインJPYCを使った決済の実装も視野に入れる。約100万人のウォレット基盤を持つ同社の狙いを整理した。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BCCC、年会費支払いにJPYC導入]]></title>
+        <id>https://coinpost.jp/?p=731808</id>
+        <link href="https://coinpost.jp/?p=731808"/>
+        <updated>2026-08-19T09:30:21.000Z</updated>
+        <summary type="html"><![CDATA[ブロックチェーン推進協会（BCCC）が2026年7月、年会費の支払いに日本円建て電子決済手段型ステーブルコイン「JPYC」を追加した。unWallet等で受付。JPYC社の岡部典孝代表も歓迎のコメントを寄せた。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】国内初、スラッシュの「Slash Vision Labs（SVL）」がコイントレードに上場]]></title>
         <id>https://www.neweconomy.jp/?p=600751</id>
@@ -2071,16 +2091,6 @@ SharpLink、Lidoを通じて2億ドル相当のETHをステーキングへ──
 今週のWeb3ニュースをおさらい！【毎週土曜日はNADAクイズ_Vol.8】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>NADA NEWS編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ノルウェー政府系ファンド、ビットコイン間接保有が過去最高に]]></title>
-        <id>https://coinpost.jp/?p=731028</id>
-        <link href="https://coinpost.jp/?p=731028"/>
-        <updated>2026-08-14T22:15:34.000Z</updated>
-        <summary type="html"><![CDATA[ノルウェー中央銀行投資管理部門（NBIM）の間接的ビットコイン保有量が過去最高の1万1,549BTCに達したと、K33のデータで判明。イーサリアムの間接保有やスペースX株の初開示も明らかになった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
