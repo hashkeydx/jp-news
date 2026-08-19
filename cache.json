@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=364556",
+          "author": "井上 俊彦",
+          "description": "暗号資産取引所Kraken（クラーケン）は8月18日、欧州経済領域（EEA）の対象顧客向けに米国上場株式の取引を開始したと発表した。 EU（欧州連合）のMiFI ...\nKraken、欧州で米国上場株式の取引を提供開始 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/364556/",
+          "publishedOn": "2026-08-18T23:30:00.000Z",
+          "wordCount": 1990,
+          "title": "Kraken、欧州で米国上場株式の取引を提供開始",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/01/shutterstock_2611282275.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=364551",
           "author": "井上 俊彦",
           "description": "スイスのハードウェアウォレットメーカー、BitBox（ビットボックス）は8月17日、ファームウェアの最新版を公開し、社内監査で見つけた2件の深刻な脆弱性を修正し ...\nハードウェアウォレットのBitBox、深刻な脆弱性を報告 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -600,16 +610,6 @@
           "wordCount": 2701,
           "title": "ビットコイン古参勢は再び強気に傾くのか──ETF後の市場構造とデレバレッジ【エックスウィン】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/771967981_1791624051833891_6532359038239306740_n_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=364036",
-          "author": "平木 昌宏",
-          "description": "動画配信大手Netflix（ネットフリックス）は8月13日、2022年に経営破綻した暗号資産（仮想通貨）取引所FTXの盛衰を描くドラマ「The Altruist ...\nNetflix、破綻した暗号資産取引所「FTX」の盛衰をドラマ化──11月19日配信 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/364036/",
-          "publishedOn": "2026-08-14T12:40:04.000Z",
-          "wordCount": 2189,
-          "title": "Netflix、破綻した暗号資産取引所「FTX」の盛衰をドラマ化──11月19日配信",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_545798265_Editorial_Use_Only_1200x800.jpg"
         }
       ]
     },
@@ -624,6 +624,66 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=731663",
+          "author": "菊谷ルイス",
+          "description": "米ワイオミング州の公式ステーブルコインが、相互運用基盤をレイヤーゼロからチェーンリンクCCIPへ完全移行した。複数年契約でセキュリティを強化し、他州や金融機関の規制対応資産展開の先行例となる。",
+          "link": "https://coinpost.jp/?p=731663",
+          "publishedOn": "2026-08-19T01:45:19.000Z",
+          "wordCount": 3184,
+          "title": "米ワイオミング州、ステーブルコインの相互運用基盤をチェーンリンクへ移行",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/wyomingbuffalo1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/05/wyomingbuffalo1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=731676",
+          "author": "K.Kobayashi",
+          "description": "サイファーパンクは、仮想通貨ジーキャッシュのマイニング設備をローンチしたことを発表。ハッシュレートは全体の約18%を占めると説明している。",
+          "link": "https://coinpost.jp/?p=731676",
+          "publishedOn": "2026-08-19T01:10:59.000Z",
+          "wordCount": 3177,
+          "title": "サイファーパンク、ジーキャッシュのマイニング設備を米国で展開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/zcash-shield-gemini.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/zcash-shield-gemini.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=731691",
+          "author": "Enzo",
+          "description": "ヴァンエックが8月18日、ビットコイン相場分析リポートを公開。投資家の投げ売りが集中する局面を示す降伏指標は12項目中8項目が点灯した。長期保有者の売却動向とデリバティブ市場、マイナー収益の最新状況を解説する。",
+          "link": "https://coinpost.jp/?p=731691",
+          "publishedOn": "2026-08-19T01:03:46.000Z",
+          "wordCount": 3179,
+          "title": "ヴァンエック、ビットコインの降伏指標12中8点灯と分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=731662",
+          "author": "菊谷ルイス",
+          "description": "ソラナ政策研究所CEOが、クラリティー法の中間選挙前の成立確率を10%程度とみている。上院は9月15日に採決入りの動議を検討しており、規制当局も独自の規制整備を進めている。",
+          "link": "https://coinpost.jp/?p=731662",
+          "publishedOn": "2026-08-18T22:45:17.000Z",
+          "wordCount": 3170,
+          "title": "ソラナ政策研究所CEO、クラリティー法案成立確率わずか10%と予想",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/US-congress-another-day-2728639525.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/US-congress-another-day-2728639525.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=731661",
           "author": "菊谷ルイス",
@@ -1366,6 +1426,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=600583",
+          "author": "watanabeyousuke",
+          "description": "MARSCOINバーンと同時に購入、元本回収後は段階的に売却 オンチェーン分析サービス「ルックオンチェーン（Lookonchain）」が、暗号資産（仮想通貨）取引所バイナンス（Binance）の共同創業者チャンポン・ジャ […]",
+          "link": "https://www.neweconomy.jp/posts/600583",
+          "publishedOn": "2026-08-19T01:44:43.000Z",
+          "wordCount": 648,
+          "title": "CZ公開ウォレット監視で約28.2万ドル利益、ルックオンチェーンが取引事例紹介",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/19104341/1a39b69c4ba802e5653864809d783853.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=600545",
           "author": "NewEconomyPodcast",
