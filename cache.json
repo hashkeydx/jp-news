@@ -665,6 +665,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=731778",
+          "author": "Enzo",
+          "description": "カルシは8月18日、米国株500指数に連動する無期限先物「US500」の上場をCFTCに申請した。ビットコイン無期限先物の承認を先例に位置付け、CMEが起こした訴訟への反論も申請書内で展開している。",
+          "link": "https://coinpost.jp/?p=731778",
+          "publishedOn": "2026-08-19T06:26:38.000Z",
+          "wordCount": 3163,
+          "title": "カルシ、CFTCに米国株指数「US500」の無期限先物を申請",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/new-prediction-market-vc-kalshi-poly.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=731757",
+          "author": "Enzo",
+          "description": "オンチェーンアナリストのDarkfost氏は19日、CryptoQuantとAxel Adler Jr氏のデータをもとに、BTCの小口投資家需要が過去2年で最高水準に近づいていると指摘。局所的な相場高値との相関にも言及した。",
+          "link": "https://coinpost.jp/?p=731757",
+          "publishedOn": "2026-08-19T05:51:44.000Z",
+          "wordCount": 3159,
+          "title": "ビットコイン小口投資家の需要、2年ぶり高水準に接近＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-new-2026-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=731721",
           "author": "幸田直子",
           "description": "スイスのハードウェアウォレットBitBoxが、内部監査で発見した2件の脆弱性を修正する最新ファームウェア「Dixence」を公開した。実害の報告はないが、すべてのユーザーに更新を推奨している。",
@@ -1556,6 +1586,76 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=600725",
+          "author": "watanabeyousuke",
+          "description": "AIエージェントの収益化と資金管理機能を強化 ブロックチェーンエコシステム「BNBチェーン（BNB Chain）」が、AIエージェント開発基盤「BNBエージェント・スタジオ（BNB Agent Studio）」のアップデ […]",
+          "link": "https://www.neweconomy.jp/posts/600725",
+          "publishedOn": "2026-08-19T06:57:38.000Z",
+          "wordCount": 804,
+          "title": "BNBチェーン、「BNBエージェント・スタジオV2」公開、AIエージェントの報酬受け取りが可能に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/19155705/706282ef3696e957b333e9ad1a8c1875.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600714",
+          "author": "OtsugaShinya",
+          "description": "米国事業拡大に向け運転資金などに充当 ブロックチェーンを活用した法人向け金融ソリューションを提供するリップル（Ripple）傘下のノンバンク・プライムブローカー「リップル・プライム（Ripple Prime）」が、無担保 […]",
+          "link": "https://www.neweconomy.jp/posts/600714",
+          "publishedOn": "2026-08-19T06:44:59.000Z",
+          "wordCount": 771,
+          "title": "リップル傘下「Ripple Prime」、無担保シニア債の私募で275Mドル調達",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/19154423/c2883d1ed04ff4096e94e2698e8b8bf1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600708",
+          "author": "OtsugaShinya",
+          "description": "複数の資産残高を組み合わせて決済可能 米暗号資産（仮想通貨）取引所クラーケン（Kraken）の運営会社ペイワード（Payward）が提供するグローバルマネーアプリ「クラーク（Krak）」より、米国ユーザー向けのマルチアセ […]",
+          "link": "https://www.neweconomy.jp/posts/600708",
+          "publishedOn": "2026-08-19T06:28:41.000Z",
+          "wordCount": 758,
+          "title": "クラーケンの「Krak」、米国で暗号資産対応デビットカード提供開始。600超の資産、最大2％還元",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/19152755/a26b59a6409121a4f45dc860d5e14a05.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600697",
+          "author": "watanabeyousuke",
+          "description": "EEA全域へ株式サービスを拡大 暗号資産（仮想通貨）取引所クラーケン（Kraken）が、欧州経済領域（European Economic Area：EEA）の適格顧客向けに米国株取引を開始した。クラーケンが8月18日に発 […]",
+          "link": "https://www.neweconomy.jp/posts/600697",
+          "publishedOn": "2026-08-19T06:15:30.000Z",
+          "wordCount": 785,
+          "title": "クラーケン、EEAで米国株取引開始。xストックスと同一アカウントで提供",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/19151419/6f5723ebaa7f605458e0e65969f84970.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600688",
+          "author": "OtsugaShinya",
+          "description": "Uniswap v4がArcメインネット公開時から利用可能に DEX（分散型取引所）ユニスワップ（Uniswap）の最新プロトコル「ユニスワップv4（Uniswap v4）」が、米ドル建てステーブルコイン「USDC」発行 […]",
+          "link": "https://www.neweconomy.jp/posts/600688",
+          "publishedOn": "2026-08-19T06:06:52.000Z",
+          "wordCount": 760,
+          "title": "ユニスワップ、サークル開発L1「Arc」でv4展開へ。9/16のメインネット公開時から",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/19150556/4c1140543c9b7df9c7f5f4d0007168d7.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600683",
+          "author": "OtsugaShinya",
+          "description": "IBIT保有口数は前四半期末から約4.2倍に 米大手クオンツ取引会社兼マーケットメーカーのジェーン・ストリート・グループ（Jane Street Group）が、6月30日時点で米国上場のビットコイン（BTC）現物ETF […]",
+          "link": "https://www.neweconomy.jp/posts/600683",
+          "publishedOn": "2026-08-19T05:57:00.000Z",
+          "wordCount": 762,
+          "title": "ジェーン・ストリート、ビットコイン現物ETF約9.9億ドル保有。IBITが8割超",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/19145628/2e6a522e4ebc04507d95f870145cf73a.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=600674",
+          "author": "HitomotoToshikazu",
+          "description": "韓国の地方銀行として初のRipple Payments導入へ 韓国の地方銀行である全北（チョンブク）銀行（Jeonbuk Bank）が、リップル（Ripple）の企業向け決済ソリューション「リップル・ペイメンツ（Ripp […]",
+          "link": "https://www.neweconomy.jp/posts/600674",
+          "publishedOn": "2026-08-19T05:50:05.000Z",
+          "wordCount": 812,
+          "title": "韓国地銀の全北銀行、リップルの企業向け越境決済ソリューション「Ripple Payments」導入へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/19144948/144bf81a22b029aa804f66751160edab.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=600668",
           "author": "OtsugaShinya",
