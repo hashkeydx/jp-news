@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-20T04:50:32.238Z</updated>
+    <updated>2026-08-20T05:44:10.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アーサー・ヘイズ氏、AI経済圏向け新トークンFLOP構想発表]]></title>
+        <id>https://coinpost.jp/?p=732049</id>
+        <link href="https://coinpost.jp/?p=732049"/>
+        <updated>2026-08-20T05:33:50.000Z</updated>
+        <summary type="html"><![CDATA[元BitMEX創業者のアーサー・ヘイズ氏が、AIエージェント向け分散型コンピュート網「Flopネットワーク」の構想をブログで発表した。プレセールを行わず自己資金で運営し、テストネット参加者へ供給量の一部を配布する計画を明らかにした。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapid7、88万件超の電話番号検証から始まる仮想通貨詐欺「Operation ASTERIX」の全容を公開]]></title>
+        <id>https://coinpost.jp/?p=732025</id>
+        <link href="https://coinpost.jp/?p=732025"/>
+        <updated>2026-08-20T05:15:13.000Z</updated>
+        <summary type="html"><![CDATA[米サイバーセキュリティ企業Rapid7が、電話番号88.5万件を悪用した仮想通貨詐欺キャンペーン「Operation ASTERIX」の全容を公開した。ターゲットを精密に絞り、巧妙なフィッシングメールや電話で信頼させ、偽ウォレットアプリでリカバリーフレーズを窃取するスキームが、AIを広範に活用して構築されていた。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トランプ大統領がHyperliquidの米国導入を表明──HYPE20%高騰]]></title>
         <id>https://www.nadanews.com/?p=364742</id>
