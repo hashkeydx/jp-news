@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-21T01:55:14.705Z</updated>
+    <updated>2026-08-21T03:14:34.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、AIエージェント向け「Agent OS」発表。取引や市場データに接続]]></title>
+        <id>https://www.neweconomy.jp/?p=601077</id>
+        <link href="https://www.neweconomy.jp/posts/601077"/>
+        <updated>2026-08-21T02:39:39.000Z</updated>
+        <summary type="html"><![CDATA[AIエージェントをバイナンスの金融機能に接続 暗号資産（仮想通貨）取引所バイナンス（Binance）が、AIエージェントを同社の取引や市場データ、ウォレット、決済などの機能に接続する開発基盤「バイナンス・エージェントOS […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、仮想通貨3銘柄を9月3日上場廃止]]></title>
+        <id>https://coinpost.jp/?p=732335</id>
+        <link href="https://coinpost.jp/?p=732335"/>
+        <updated>2026-08-21T02:24:56.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスは、ICX（ICON）・SCRT（Secret）・STORJ（Storj）の現物取引を2026年9月3日3時（UTC）に終了すると発表した。先物やSimple Earn等も段階的に停止し、出金停止は11月3日3時（UTC）予定。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォーティチュード、ジーキャッシュ採掘好調も設備減損で四半期赤字　ナスダック上場目指す]]></title>
         <id>https://coinpost.jp/?p=732247</id>
