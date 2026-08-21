@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-21T20:37:59.249Z</updated>
+    <updated>2026-08-21T21:36:03.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なぜBitcoinは上がり、米国株は下がったのか──市場で起きた「異例のダイバージェンス」を読み解く【エックスウィン】]]></title>
+        <id>https://www.nadanews.com/?p=364893</id>
+        <link href="https://www.nadanews.com/364893/"/>
+        <updated>2026-08-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米国市場で、興味深い現象が起きている。Bitcoinが7万ドルを突破して上昇する一方、S&P 500やNasdaqは下落。特にAI・半導体を中心としたテ ...
+なぜBitcoinは上がり、米国株は下がったのか──市場で起きた「異例のダイバージェンス」を読み解く【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>エックスウィン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英大手銀アナリスト分析、ビットコインが10万ドルを上回る可能性]]></title>
+        <id>https://coinpost.jp/?p=732554</id>
+        <link href="https://coinpost.jp/?p=732554"/>
+        <updated>2026-08-21T20:55:41.000Z</updated>
+        <summary type="html"><![CDATA[英大手銀行スタンダードチャータードのアナリストが、ビットコインが過去最高値12万6,000ドルまで上昇する可能性を示し、年末目標10万ドルが低すぎるかもしれないと述べた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ストラテジーの84万ビットコイン、含み損から一転し2420億円超の含み益に]]></title>
         <id>https://coinpost.jp/?p=732545</id>
@@ -2425,17 +2446,6 @@ CZ氏、公開ウォレット運用停止──便乗トレードが過熱 first
         <summary type="html"><![CDATA[LombardがLBTC利回りをBitwiseのオプション戦略へ移行 ビットコイン（BTC）金融プロトコルのロンバード（Lombard）が、BTCをDeFi（分散型金融）で活用できるトークン「LBTC」の利回り源泉を、機 […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIエージェントに銀行口座をどこまで任せるか──金トークン化のスタートアップが15ケースで検証、「実行可否はルールで」]]></title>
-        <id>https://www.nadanews.com/?p=364322</id>
-        <link href="https://www.nadanews.com/364322/"/>
-        <updated>2026-08-17T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[AIエージェントが銀行APIを操作し、残高確認や振込まで行う──そんな仕組みが現実になり始めるなか、AIにどこまで資金移動を任せるべきなのか。 金インゴットなど ...
-AIエージェントに銀行口座をどこまで任せるか──金トークン化のスタートアップが15ケースで検証、「実行可否はルールで」 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
         </author>
     </entry>
 </feed>
