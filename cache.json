@@ -830,16 +830,6 @@
           "wordCount": 2214,
           "title": "AIエージェントに銀行口座をどこまで任せるか──金トークン化のスタートアップが15ケースで検証、「実行可否はルールで」",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/nadanews_top-2026-08-17T180336.758.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=363921",
-          "author": "宮本航歩",
-          "description": "2026年8月13日、株式会社三菱UFJフィナンシャル・グループ（MUFG）と傘下3社が、日本国債（JGB）のレポ取引をブロックチェーン上で扱う実証実験を始める ...\n三菱UFJ、日本国債レポのオンチェーン化を実証へ──振替口座簿を更新する設計と、翌日物に偏る国内レポ市場【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/363921/",
-          "publishedOn": "2026-08-17T08:00:00.000Z",
-          "wordCount": 2137,
-          "title": "三菱UFJ、日本国債レポのオンチェーン化を実証へ──振替口座簿を更新する設計と、翌日物に偏る国内レポ市場【MCB FinTechカタログ通信】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_574624145_Editorial_Use_Only_1200x800.jpg"
         }
       ]
     },
@@ -854,6 +844,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=732545",
+          "author": "菊谷ルイス",
+          "description": "ストラテジーが保有する84万BTCの含み損益が、ビットコイン高騰でプラスに転じ、13億ドル規模の含み益となった。1週間前は含み損だった状況から急速に好転し、メタプラネットの含み損も縮小している。",
+          "link": "https://coinpost.jp/?p=732545",
+          "publishedOn": "2026-08-21T20:00:15.000Z",
+          "wordCount": 3173,
+          "title": "ストラテジーの84万ビットコイン、含み損から一転し2420億円超の含み益に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/strategy-bitcoin-new-image.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/strategy-bitcoin-new-image.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=732536",
           "author": "S.Ninomiya",
@@ -2790,26 +2795,6 @@
           "wordCount": 785,
           "title": "ロンバード、LBTC利回り源泉を変更へ、ビットワイズがオプション運用",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17183600/2f91a25485456dd8ad636d547589e514.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=600158",
-          "author": "watanabeyousuke",
-          "description": "一部ユーザー資金盗難受け追加対応を発表 ビットコイン（Bitcoin）決済ソフトウェア「BTCペイサーバー（BTCPay Server）」の脆弱性が悪用され、一部ユーザーのLNDウォレットから資金が盗まれたと、BTCペイ […]",
-          "link": "https://www.neweconomy.jp/posts/600158",
-          "publishedOn": "2026-08-17T07:45:43.000Z",
-          "wordCount": 859,
-          "title": "BTCペイサーバーの脆弱性悪用でLNDウォレット資金盗難、最大3BTCの回収報奨金",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17164434/b8eec705a6a889c54d0b66d7e0f38a18.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=600149",
-          "author": "watanabeyousuke",
-          "description": "ECXハードフォークへの対応を第一報として公表 国内暗号資産（仮想通貨）取引所ビットフライヤー（bitFlyer）が、ビットコイン（Bitcoin）から新たなブロックチェーンを分岐させ、暗号資産「イーキャッシュ（eCas […]",
-          "link": "https://www.neweconomy.jp/posts/600149",
-          "publishedOn": "2026-08-17T07:36:57.000Z",
-          "wordCount": 628,
-          "title": "ビットフライヤー、ビットコインの「ECX」ハードフォークへの対応方針公表",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/17163631/ffda6c0baa53c51fae4be33d04be6aca.jpg"
         }
       ]
     }

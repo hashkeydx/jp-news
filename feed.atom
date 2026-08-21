@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-21T19:35:03.431Z</updated>
+    <updated>2026-08-21T20:37:59.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーの84万ビットコイン、含み損から一転し2420億円超の含み益に]]></title>
+        <id>https://coinpost.jp/?p=732545</id>
+        <link href="https://coinpost.jp/?p=732545"/>
+        <updated>2026-08-21T20:00:15.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーが保有する84万BTCの含み損益が、ビットコイン高騰でプラスに転じ、13億ドル規模の含み益となった。1週間前は含み損だった状況から急速に好転し、メタプラネットの含み損も縮小している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野村HD傘下レーザーデジタルジャパン、暗号資産交換業者に登録]]></title>
         <id>https://www.neweconomy.jp/?p=601322</id>
@@ -2426,37 +2436,6 @@ CZ氏、公開ウォレット運用停止──便乗トレードが過熱 first
 AIエージェントに銀行口座をどこまで任せるか──金トークン化のスタートアップが15ケースで検証、「実行可否はルールで」 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三菱UFJ、日本国債レポのオンチェーン化を実証へ──振替口座簿を更新する設計と、翌日物に偏る国内レポ市場【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=363921</id>
-        <link href="https://www.nadanews.com/363921/"/>
-        <updated>2026-08-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年8月13日、株式会社三菱UFJフィナンシャル・グループ（MUFG）と傘下3社が、日本国債（JGB）のレポ取引をブロックチェーン上で扱う実証実験を始める ...
-三菱UFJ、日本国債レポのオンチェーン化を実証へ──振替口座簿を更新する設計と、翌日物に偏る国内レポ市場【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTCペイサーバーの脆弱性悪用でLNDウォレット資金盗難、最大3BTCの回収報奨金]]></title>
-        <id>https://www.neweconomy.jp/?p=600158</id>
-        <link href="https://www.neweconomy.jp/posts/600158"/>
-        <updated>2026-08-17T07:45:43.000Z</updated>
-        <summary type="html"><![CDATA[一部ユーザー資金盗難受け追加対応を発表 ビットコイン（Bitcoin）決済ソフトウェア「BTCペイサーバー（BTCPay Server）」の脆弱性が悪用され、一部ユーザーのLNDウォレットから資金が盗まれたと、BTCペイ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットフライヤー、ビットコインの「ECX」ハードフォークへの対応方針公表]]></title>
-        <id>https://www.neweconomy.jp/?p=600149</id>
-        <link href="https://www.neweconomy.jp/posts/600149"/>
-        <updated>2026-08-17T07:36:57.000Z</updated>
-        <summary type="html"><![CDATA[ECXハードフォークへの対応を第一報として公表 国内暗号資産（仮想通貨）取引所ビットフライヤー（bitFlyer）が、ビットコイン（Bitcoin）から新たなブロックチェーンを分岐させ、暗号資産「イーキャッシュ（eCas […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
         </author>
     </entry>
 </feed>
