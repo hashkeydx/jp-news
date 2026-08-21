@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=364857",
+          "author": "栃山 直樹",
+          "description": "東証スタンダード上場のunbankedは8月20日、取引に利用する主要な銀行から出金停止の措置を受けたと発表した。 同社によると、前代表取締役の胡燕（こえん）氏 ...\n金地金トークン展開のunbanked、銀行が出金停止──社長解任トラブルで first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/364857/",
+          "publishedOn": "2026-08-21T01:34:46.000Z",
+          "wordCount": 2036,
+          "title": "金地金トークン展開のunbanked、銀行が出金停止──社長解任トラブルで",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/08/AdobeStock_668220602.jpeg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=364852",
           "author": "井上 俊彦",
           "description": "チャート作成プラットフォームのBarchart（バーチャート）は8月20日、ビットコイン（BTC）の価格が2025年11月以来初めて200日単純移動平均線（SM ...\nビットコイン、7万2000ドル超え──200日移動平均線を突破 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -854,6 +864,81 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=732247",
+          "author": "A.Yamada",
+          "description": "DCG傘下のジーキャッシュ採掘企業フォーティチュードが2026年4-6月期決算を発表し売上高33億円を報告。AI医療技術企業との事業統合でナスダック上場を目指している。",
+          "link": "https://coinpost.jp/?p=732247",
+          "publishedOn": "2026-08-21T01:40:44.000Z",
+          "wordCount": 3171,
+          "title": "フォーティチュード、ジーキャッシュ採掘好調も設備減損で四半期赤字　ナスダック上場目指す",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/zcash-first-halving-pic.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/11/zcash-first-halving-pic.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=732243",
+          "author": "CoinPost編集部",
+          "description": "仮想通貨ビットコインは8月21日も上昇し3日続伸で7万3,000ドルを突破した。円建てでも過去24時間で約70万円幅の上昇となっている。",
+          "link": "https://coinpost.jp/?p=732243",
+          "publishedOn": "2026-08-21T01:12:30.000Z",
+          "wordCount": 2992,
+          "title": "ビットコイン7.3万ドル突破、米規制進展とショート清算が上昇を加速｜仮想NISHI",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/12/IMG_0555.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=732257",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨ビットコインの米国の現物ETFは19日、約822億円が純流入した。この純流入額は、1日の額として2026年5月5日以降で最大規模である。",
+          "link": "https://coinpost.jp/?p=732257",
+          "publishedOn": "2026-08-21T00:45:48.000Z",
+          "wordCount": 3180,
+          "title": "ビットコイン現物ETF、19日に820億円超が純流入　5月5日以降最大規模",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/leverage-etf-bitcoin-sec-first.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/06/leverage-etf-bitcoin-sec-first.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=732216",
+          "author": "菊谷ルイス",
+          "description": "ロイターとイプソスの共同世論調査で、63%の米国民がトランプ一族の仮想通貨利益を「不適切」と答えた。トランプ大統領は2025年に14億ドル超を得ており、一族の推定利益は投資家の損失規模とほぼ同水準に上るとみられている。",
+          "link": "https://coinpost.jp/?p=732216",
+          "publishedOn": "2026-08-21T00:30:47.000Z",
+          "wordCount": 3174,
+          "title": "約6割の米国民、トランプ大統領の仮想通貨利益を「不適切」と回答＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-genius-act-pure-genius.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/06/trump-genius-act-pure-genius.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=732217",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨ビットコインの含み益にあるUTXO移動が過去最大規模に達したとクリプトクアントの分析が示した。短期保有者の取得コスト水準を巡る需給バランスが今後の相場を左右する。",
+          "link": "https://coinpost.jp/?p=732217",
+          "publishedOn": "2026-08-20T23:10:49.000Z",
+          "wordCount": 3180,
+          "title": "ビットコイン反発、利益確定が最高値時上回る規模に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bitcoin-new-high-after-big-correction-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/08/bitcoin-new-high-after-big-correction-.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=732233",
           "author": "K.Kobayashi",
