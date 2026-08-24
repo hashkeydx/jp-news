@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-24T03:14:50.367Z</updated>
+    <updated>2026-08-24T04:58:44.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハッシュポート、NFTマーケット「PLT Place」を刷新、JPYC決済対応の「HashPort Market | αU」に]]></title>
+        <id>https://www.neweconomy.jp/?p=601446</id>
+        <link href="https://www.neweconomy.jp/posts/601446"/>
+        <updated>2026-08-24T04:46:41.000Z</updated>
+        <summary type="html"><![CDATA[NFTマーケットPLT Placeを刷新、JPYC決済に対応 ブロックチェーン関連事業を展開する国内企業ハッシュポート（HashPort）が、日本円ステーブルコイン対応NFTマーケットプレイス「HashPort Mark […]]]></summary>
+        <author>
+            <name>TanakaShuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米3州の福祉給付実証にカントンネットワーク採用へ、2027年Q1開始予定]]></title>
+        <id>https://www.neweconomy.jp/?p=601435</id>
+        <link href="https://www.neweconomy.jp/posts/601435"/>
+        <updated>2026-08-24T04:40:03.000Z</updated>
+        <summary type="html"><![CDATA[複数の給付の配布・管理を一体化 米国の非営利団体アメリカン・アイディア財団（American Idea Foundation：AIF）と、ブロックチェーン技術企業デジタルアセット（Digital Asset）が、州が運営 […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、ブロック生成時間を350ミリ秒に短縮　段階的に200ミリ秒目指す]]></title>
+        <id>https://coinpost.jp/?p=732728</id>
+        <link href="https://coinpost.jp/?p=732728"/>
+        <updated>2026-08-24T04:34:54.000Z</updated>
+        <summary type="html"><![CDATA[ソラナのメインネットでブロック生成時間（スロット時間）が400ミリ秒から350ミリ秒に短縮された。SIMD-0525に基づき、段階的に200ミリ秒まで縮める計画で、DAppや決済におけるユーザー体感速度向上が期待される。]]></summary>
+        <author>
+            <name>幸田直子</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナ、目標スロット時間を350msに短縮。200ms目指す「SIMD-0525」の第1段階]]></title>
+        <id>https://www.neweconomy.jp/?p=601415</id>
+        <link href="https://www.neweconomy.jp/posts/601415"/>
+        <updated>2026-08-24T04:12:43.000Z</updated>
+        <summary type="html"><![CDATA[ソラナが目標スロット時間を350msに短縮 レイヤー1ブロックチェーン「ソラナ（Solana）」のメインネットで目標スロット時間が従来の400ミリ秒（ms）から350ミリ秒へ短縮された。ソラナの公式Xアカウントが8月22 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開]]></title>
+        <id>https://www.nadanews.com/?p=365196</id>
+        <link href="https://www.nadanews.com/365196/"/>
+        <updated>2026-08-24T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」がNADA NEWSで公開されました。 本ペーパーは、アカデミアと金融・法律・V ...
+「デジタル資産の在るべき産業構造 ディスカッション・ペーパー 2026年最終版」公開 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>NADA NEWS編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Term Financeから13億円以上が不正流出　ガバナンス機能の乗っ取りが原因か]]></title>
+        <id>https://coinpost.jp/?p=732717</id>
+        <link href="https://coinpost.jp/?p=732717"/>
+        <updated>2026-08-24T03:50:07.000Z</updated>
+        <summary type="html"><![CDATA[DeFiレンディングのTerm Financeで、ガバナンス投票権の乗っ取りにより資産運用ボルトから約13.6億円相当が流出した。Termのレンディング市場は無事と報告される。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゴールドマン・サックス、XRP ETF投資を再開]]></title>
+        <id>https://www.nadanews.com/?p=365202</id>
+        <link href="https://www.nadanews.com/365202/"/>
+        <updated>2026-08-24T03:45:46.000Z</updated>
+        <summary type="html"><![CDATA[米金融大手Goldman Sachs（ゴールドマン・サックス）が、暗号資産（仮想通貨）エックス・アール・ピー（XRP）の現物ETFの保有を再開したことが、米証券 ...
+ゴールドマン・サックス、XRP ETF投資を再開 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3ウォレット「ファントム」、Suiネットワークのサポート終了へ]]></title>
         <id>https://www.neweconomy.jp/?p=601403</id>
