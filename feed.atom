@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-25T08:57:15.408Z</updated>
+    <updated>2026-08-25T09:49:11.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】]]></title>
+        <id>https://www.nadanews.com/?p=365450</id>
+        <link href="https://www.nadanews.com/365450/"/>
+        <updated>2026-08-25T09:36:13.000Z</updated>
+        <summary type="html"><![CDATA[消費者庁が8月24日、Webサイトやアプリの画面デザインなどで消費者を巧妙に誘導する「ダークパターン」の包括的な規制に向け、中間取りまとめ案を公表した。 特定商 ...
+消費者庁がダークパターン規制強化へ──暗号資産業界に及ぶ影響とは【取材】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>栃山 直樹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハイパーリキッド政策団体、SECとCFTCにパーペチュアルの統一分類を提言]]></title>
+        <id>https://www.neweconomy.jp/?p=602106</id>
+        <link href="https://www.neweconomy.jp/posts/602106"/>
+        <updated>2026-08-25T09:02:44.000Z</updated>
+        <summary type="html"><![CDATA[パーペチュアルの規制分類統一をSECとCFTCへ提言 ハイパーリキッド・ポリシー・センター（Hyperliquid Policy Center：HPC）が、パーペチュアル（無期限先物）の規制上の分類について、米証券取引委 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コスモスラボ、コスモスEVMのセキュリティ問題で関連チェーンに停止を助言。KiiChainで約1.48億KII流出]]></title>
         <id>https://www.neweconomy.jp/?p=602086</id>
@@ -14,6 +35,16 @@
         <summary type="html"><![CDATA[コスモスEVMでセキュリティ・インシデント、関連チェーンに停止を助言 コスモス・ラボ（Cosmos Labs）が、ブロックチェーン開発基盤「コスモスEVM（Cosmos EVM）」のユーザーに影響するセキュリティ・インシ […]]]></summary>
         <author>
             <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットバンク、ETHステーキングサービスの提供を開始]]></title>
+        <id>https://coinpost.jp/?p=733149</id>
+        <link href="https://coinpost.jp/?p=733149"/>
+        <updated>2026-08-25T08:50:59.000Z</updated>
+        <summary type="html"><![CDATA[ビットバンクが ETH ステーキングサービスを開始。顧客利回り年率 1.78%、ロック期間なしで毎週報酬を受け取れる。受取設定をONにするだけで開始可能。]]></summary>
+        <author>
+            <name>hiroto.yoshii</name>
         </author>
     </entry>
     <entry>
@@ -1835,27 +1866,6 @@ Binance、AIエージェント統合のための開発プラットフォーム�
 CFTC委員長、クラリティ法案停滞なら独自の暗号資産市場規則を策定へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米フランクリン、トークン化資産を伝統型ファンドに組み入れへ＝報道]]></title>
-        <id>https://coinpost.jp/?p=732219</id>
-        <link href="https://coinpost.jp/?p=732219"/>
-        <updated>2026-08-20T21:15:55.000Z</updated>
-        <summary type="html"><![CDATA[米フランクリン・テンプルトンがトークン化マネー・マーケット・ファンドをETFや投資信託に組み入れる計画を示した。米SECが伝統的ファンドでのデジタルネイティブ商品活用を初めて認め、投資家が意図せずトークン化資産を保有し得る状況が生まれる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECが暗号資産規制を大転換へ──「Regulation Crypto Assets」が米国のトークン市場を変える理由【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=364825</id>
-        <link href="https://www.nadanews.com/364825/"/>
-        <updated>2026-08-20T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米国の暗号資産規制が、大きな転換点を迎えようとしている。 米証券取引委員会（SEC）は8月18日、暗号資産を対象とした新たな規則案「Regulation Cry ...
-SECが暗号資産規制を大転換へ──「Regulation Crypto Assets」が米国のトークン市場を変える理由【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
         </author>
     </entry>
 </feed>
