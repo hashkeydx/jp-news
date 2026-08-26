@@ -755,6 +755,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=733424",
+          "author": "Enzo",
+          "description": "みずほ証券のアナリスト、ダン・ドレブ氏がビットコイン反発の質を分析した。コイン建て未決済建玉の低下傾向から現物・ETF資金が主導していると分析し、ロビンフッドなど仮想通貨関連株の選好銘柄も提示している。",
+          "link": "https://coinpost.jp/?p=733424",
+          "publishedOn": "2026-08-26T07:19:00.000Z",
+          "wordCount": 3183,
+          "title": "みずほ、仮想通貨反発の質を分析　現物・ETF主導でレバ低水準",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/shutterstock_2065222178.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/shutterstock_2065222178.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=733386",
           "author": "Enzo",
           "description": "金融庁「FinTech実証実験ハブ」の支援案件、トークン化預金の銀行間決済実証にりそな・横浜銀行など43社が参加。8月20日に本格検証を開始し、24時間365日のオンチェーン決済を目指す。ステーブルコインを使う連携方式も比較検証する。",
@@ -1676,6 +1691,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=602443",
+          "author": "HitomotoToshikazu",
+          "description": "BitwiseがCoinbaseのトークン化株式活用モデル公開へ 暗号資産（仮想通貨）運用会社ビットワイズ（Bitwise）が、トークン化株式を活用したルールベースのモデルポートフォリオ群「オートメイテッド・トークン・ポ […]",
+          "link": "https://www.neweconomy.jp/posts/602443",
+          "publishedOn": "2026-08-26T07:37:42.000Z",
+          "wordCount": 802,
+          "title": "ビットワイズ、コインベースのトークン化株式活用モデルポートフォリオ公開へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26163727/81560ed1c6dd595d14c8914e8cb0b0b2-1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=602394",
+          "author": "HitomotoToshikazu",
+          "description": "The Zcash ETF上場 ジーキャッシュ（Zcash）のネイティブトークンZECに現物で投資するETF（上場投資商品：ETP）「The Zcash ETF」が、8月25日に米NYSEアーカ（NYSE Arca）で取 […]",
+          "link": "https://www.neweconomy.jp/posts/602394",
+          "publishedOn": "2026-08-26T07:33:52.000Z",
+          "wordCount": 802,
+          "title": "世界初、「ジーキャッシュ（ZEC）」現物ETFがNYSEアーカ上場、グレースケール組成",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26163334/b64c9d50829c3d5bc817d482152fb1be.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=602416",
+          "author": "TanakaShuya",
+          "description": "TORICOがイーサリアム追加取得 全巻セット専門ネット書店の「漫画全巻ドットコム」などを展開する東証グロース上場企業トリコ（TORICO）が、暗号資産（仮想通貨）イーサリアム（ETH）の追加取得を8月26日に発表した。 […]",
+          "link": "https://www.neweconomy.jp/posts/602416",
+          "publishedOn": "2026-08-26T07:28:35.000Z",
+          "wordCount": 615,
+          "title": "TORICOが2日連続でイーサリアム追加取得、総取得数2894ETH超に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26162816/faa572fb81ac10113d1e2f7246209873.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=602438",
+          "author": "OtsugaShinya",
+          "description": "7月に月間最高の10億ドル突破 世界のステーブルコインカードによる決済額は、2028年までに現在の4倍となる年間500億ドル（約7兆9,500億円）へ拡大する見通しだ。ステーブルコイン決済企業レドットペイ（RedotPa […]",
+          "link": "https://www.neweconomy.jp/posts/602438",
+          "publishedOn": "2026-08-26T07:16:58.000Z",
+          "wordCount": 764,
+          "title": "ステーブルコインカード決済額、2028年に年500億ドルへ＝レドットペイ予測",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26161641/Reuters-2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=602430",
+          "author": "watanabeyousuke",
+          "description": "ハイパーリキッドの現物取引強化も狙う ハイパーリキッド（Hyperliquid）エコシステムのリキッドステーキングプロトコル「キネティック（Kinetiq）」が、新たなL2ネットワーク「エリュシオン（Elysium）」の […]",
+          "link": "https://www.neweconomy.jp/posts/602430",
+          "publishedOn": "2026-08-26T07:10:26.000Z",
+          "wordCount": 627,
+          "title": "キネティック、ハイパーリキッド向けL2「Elysium」発表。ハイパーEVMより高性能なEVM環境目指す",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26160901/f5b3320109027e6c7225572f3378dd3c.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=602423",
           "author": "gentosha_takahashi",
