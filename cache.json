@@ -755,6 +755,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=733386",
+          "author": "Enzo",
+          "description": "金融庁「FinTech実証実験ハブ」の支援案件、トークン化預金の銀行間決済実証にりそな・横浜銀行など43社が参加。8月20日に本格検証を開始し、24時間365日のオンチェーン決済を目指す。ステーブルコインを使う連携方式も比較検証する。",
+          "link": "https://coinpost.jp/?p=733386",
+          "publishedOn": "2026-08-26T06:53:33.000Z",
+          "wordCount": 3167,
+          "title": "トークン化預金の銀行間決済実証に43社参加、8月20日に本格検証",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/fintech2342362-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/fintech2342362-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=733359",
           "author": "Enzo",
           "description": "政府・日銀が国債・株式の即時決済に向けたブロックチェーン基盤整備を検討会で進める。金融庁・財務省と2027年初に整備計画をまとめる方針で、日銀当座預金のトークン化構想やMUFGの実証実験も含めて経緯を整理する。",
@@ -1661,6 +1676,56 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=602423",
+          "author": "gentosha_takahashi",
+          "description": "「5%の壁」を警戒する米財務省 暗号資産（仮想通貨）取引所ビットメックス（BitMEX）共同創業者で、AIエージェント向けプロジェクト「フロップラボ（Flop Labs）」のCEOを務めるアーサー・ヘイズ（Arthur  […]",
+          "link": "https://www.neweconomy.jp/posts/602423",
+          "publishedOn": "2026-08-26T07:02:15.000Z",
+          "wordCount": 784,
+          "title": "アーサー・ヘイズ、ビットコイン上昇継続を予測。米財務省の国債バイバックに注目",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26160139/92debc6dd8a9298bb96ddd4512109b5f.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=602411",
+          "author": "TanakaShuya",
+          "description": "USD1がカントンでネイティブ発行開始 米ワールドリバティ・ファイナンシャル（World Liberty Financial：WLFI）が手がけ、ビットゴー・バンク＆トラスト（BitGo Bank & Trust […]",
+          "link": "https://www.neweconomy.jp/posts/602411",
+          "publishedOn": "2026-08-26T06:36:07.000Z",
+          "wordCount": 653,
+          "title": "ワールドリバティの米ドルステーブルコイン「USD1」、カントンでネイティブ発行開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26153533/2b348400dd6d2689a6b94d6079f2e96d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=602404",
+          "author": "watanabeyousuke",
+          "description": "全国約40行、トークン化預金の銀行間決済を実証へ GMOあおぞらネット銀行とアビームコンサルティング（ABeam Consulting）、DCP（旧ディーカレットDCP）が、トークン化預金を活用した銀行間決済の実証を8月 […]",
+          "link": "https://www.neweconomy.jp/posts/602404",
+          "publishedOn": "2026-08-26T06:30:10.000Z",
+          "wordCount": 615,
+          "title": "GMOあおぞらネット銀行ら、トークン化預金の銀行間決済を実証へ。全国約40行が参加=報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26152950/cce270950e09544460b7d059c003313b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=602389",
+          "author": "HitomotoToshikazu",
+          "description": "Striveが1,110BTCを追加取得 米ナスダック上場のストライブ（Strive）が、ビットコイン（BTC）の追加購入を8月24日に発表した。 ストライブは、8月17日から21日までに1,110BTCを追加取得した。 […]",
+          "link": "https://www.neweconomy.jp/posts/602389",
+          "publishedOn": "2026-08-26T06:12:56.000Z",
+          "wordCount": 611,
+          "title": "ストライブがビットコイン追加購入、総保有量2万1,356BTCに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26151239/5ae1c91445762924d94e0333727c0b44.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=602357",
+          "author": "gentosha_takahashi",
+          "description": "当初はBTCとETHを対象に タイ証券取引委員会（SEC）が、タイ国内での暗号資産ETF（上場投資信託）の設立・運用に関する規制案を公表し、パブリックコメントを募集していると8月24日に発表した。 あわせて、投資信託（M […]",
+          "link": "https://www.neweconomy.jp/posts/602357",
+          "publishedOn": "2026-08-26T06:07:36.000Z",
+          "wordCount": 621,
+          "title": "タイSEC、暗号資産ETFの規制案公表。当初はBTC・ETHを対象に",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/08/26150716/1dd2db4b3670091bcc10544001d6d054.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=602317",
           "author": "watanabeyousuke",
