@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-08-26T07:57:14.151Z</updated>
+    <updated>2026-08-26T09:00:26.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lisk、ブロックチェーン事業を終了　金融ソフト企業に転身]]></title>
+        <id>https://coinpost.jp/?p=733465</id>
+        <link href="https://coinpost.jp/?p=733465"/>
+        <updated>2026-08-26T08:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Liskが独自ブロックチェーン「Liskチェーン」を10月31日に終了し、企業向け資金管理プラットフォームへ完全転換すると発表した。Lisk DAOの解散も提案し、1億LSKをバーンして供給量を4億LSKから3億LSKに減少させる。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットワイズ、コインベースのトークン化株式活用モデルポートフォリオ公開へ]]></title>
         <id>https://www.neweconomy.jp/?p=602443</id>
@@ -1857,26 +1867,6 @@ HyperliquidのHYPE、過去最高値更新──80ドル突破 first appeared on
 なぜBitcoinは上がり、米国株は下がったのか──市場で起きた「異例のダイバージェンス」を読み解く【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英大手銀アナリスト分析、ビットコインが10万ドルを上回る可能性]]></title>
-        <id>https://coinpost.jp/?p=732554</id>
-        <link href="https://coinpost.jp/?p=732554"/>
-        <updated>2026-08-21T20:55:41.000Z</updated>
-        <summary type="html"><![CDATA[英大手銀行スタンダードチャータードのアナリストが、ビットコインが過去最高値12万6,000ドルまで上昇する可能性を示し、年末目標10万ドルが低すぎるかもしれないと述べた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジーの84万ビットコイン、含み損から一転し2420億円超の含み益に]]></title>
-        <id>https://coinpost.jp/?p=732545</id>
-        <link href="https://coinpost.jp/?p=732545"/>
-        <updated>2026-08-21T20:00:15.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジーが保有する84万BTCの含み損益が、ビットコイン高騰でプラスに転じ、13億ドル規模の含み益となった。1週間前は含み損だった状況から急速に好転し、メタプラネットの含み損も縮小している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
