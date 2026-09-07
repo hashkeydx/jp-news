@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-09-07T20:33:03.943Z</updated>
+    <updated>2026-09-07T23:28:48.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シティとDBSが週末に国際決済を実施、トークン化預金を活用]]></title>
+        <id>https://coinpost.jp/?p=736088</id>
+        <link href="https://coinpost.jp/?p=736088"/>
+        <updated>2026-09-07T23:20:49.000Z</updated>
+        <summary type="html"><![CDATA[シンガポール大手銀行DBSは、週末にシティとの米ドルの国際決済に成功したと発表。Swiftのデジタル台帳とトークン化預金を使って取引を行ったと説明している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBIグループ、JPYSCの裏付け資産の一部を国債で運用]]></title>
+        <id>https://coinpost.jp/?p=736076</id>
+        <link href="https://coinpost.jp/?p=736076"/>
+        <updated>2026-09-07T23:00:02.000Z</updated>
+        <summary type="html"><![CDATA[SBI新生信託銀行とSBI VCトレードは、円建てステーブルコインJPYSCの裏付け資産の一部を国債で運用開始したと発表した。デジタル金融と伝統的金融をつなぐ新たな資金循環の創出を目指す取り組みで、資産の信用力向上にもつながる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、「Hegotá」で実装すべき2提案を指定──検閲耐性と耐量子への布石]]></title>
+        <id>https://www.nadanews.com/?p=367261</id>
+        <link href="https://www.nadanews.com/367261/"/>
+        <updated>2026-09-07T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum Foundation（イーサリアム財団）のプロトコル部門は9月7日、次期アップグレード「Hegotá（ヘゴタ）」で「必ず実装すべき」提案2件を ...
+イーサリアム財団、「Hegotá」で実装すべき2提案を指定──検閲耐性と耐量子への布石 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン財務企業Capital B、約45億円で376BTCを追加購入]]></title>
+        <id>https://www.nadanews.com/?p=367257</id>
+        <link href="https://www.nadanews.com/367257/"/>
+        <updated>2026-09-07T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[フランスのビットコイン（BTC）財務企業Capital B（キャピタルB）は9月7日、376BTCを2530万ユーロ（約45億5400万円、1ユーロ=180円換 ...
+ビットコイン財務企業Capital B、約45億円で376BTCを追加購入 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英当局、予測市場の個人投資家向け解禁を検討]]></title>
+        <id>https://coinpost.jp/?p=736077</id>
+        <link href="https://coinpost.jp/?p=736077"/>
+        <updated>2026-09-07T22:20:04.000Z</updated>
+        <summary type="html"><![CDATA[英FCAは個人投資家向け予測市場の禁止について緩和を検討していることが分かった。カルシやポリマーケットなど海外プラットフォームの利用拡大を受けた動きだ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム、ETHガス代をトークン払いにする新提案が前進]]></title>
+        <id>https://coinpost.jp/?p=736079</id>
+        <link href="https://coinpost.jp/?p=736079"/>
+        <updated>2026-09-07T21:40:13.000Z</updated>
+        <summary type="html"><![CDATA[ヴィタリック・ブテリン氏が進展を明かしたイーサリアム提案「EIP-8141」は、ガス代をETH以外のトークンで払える仕組みを導入するものだ。2027年予定の次期アップグレードへの搭載も決まり、手数料体系の設計に影響する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リキッドのビットコイン流出事件、自称ホワイトハットが3400BTC返還]]></title>
+        <id>https://coinpost.jp/?p=736080</id>
+        <link href="https://coinpost.jp/?p=736080"/>
+        <updated>2026-09-07T21:15:16.000Z</updated>
+        <summary type="html"><![CDATA[リキッドネットワークのビットコイン流出事件で、自称ホワイトハットが3400BTCを返還し600BTCを保有継続。流出原因はエレメンツのバグと判明。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIエージェントは「自分でお金を使う」時代へ──ステーブルコインが機械経済の決済インフラになる理由【エックスウィン】]]></title>
+        <id>https://www.nadanews.com/?p=367175</id>
+        <link href="https://www.nadanews.com/367175/"/>
+        <updated>2026-09-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[生成AIの次の大きなテーマとして、「AIエージェント」が急速に注目されている。これまでの生成AIは、人間から質問を受け、情報を調べ、文章や画像を作る存在だった。 ...
+AIエージェントは「自分でお金を使う」時代へ──ステーブルコインが機械経済の決済インフラになる理由【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>エックスウィン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイデン前大統領の息子がミームコイン発行へ、トランプコイン保有者にも配布]]></title>
+        <id>https://coinpost.jp/?p=736075</id>
+        <link href="https://coinpost.jp/?p=736075"/>
+        <updated>2026-09-07T20:55:55.000Z</updated>
+        <summary type="html"><![CDATA[バイデン前大統領の息子ハンターが9日、ミームコイン「LAPTOP」を発行する予定。トランプ大統領の「TRUMPコイン」による損失投資家にもトークンを配布する計画だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キャピタルB、46億円相当ビットコインを追加取得　1年ぶりの大型購入に]]></title>
         <id>https://coinpost.jp/?p=736068</id>
@@ -1329,58 +1422,6 @@ Bitget、BlackRockなど金融大手と協議──アジア市場での協業�
 ドバイ拠点のDWF Labs、英領バージン諸島でVASP認可取得 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップルとセトルミント、APAC金融機関向けにカストディ・トークン化の統合ソリューション提供]]></title>
-        <id>https://www.neweconomy.jp/?p=605001</id>
-        <link href="https://www.neweconomy.jp/posts/605001"/>
-        <updated>2026-09-03T10:00:06.000Z</updated>
-        <summary type="html"><![CDATA[RippleとSettleMintが提携 リップル（Ripple）とデジタル資産基盤を手掛けるセトルミント（SettleMint）が、アジア太平洋（APAC）の規制対象金融機関向けデジタル資産事業で戦略的パートナーシップ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米コインベース、カナダで暗号資産の無期限先物など提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=604995</id>
-        <link href="https://www.neweconomy.jp/posts/604995"/>
-        <updated>2026-09-03T09:48:08.000Z</updated>
-        <summary type="html"><![CDATA[カナダの対象投資家に米CFTC規制下のデリバティブを提供 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、一定の要件を満たすカナダの投資家向けに、暗号資産の無期限先物や期限付き先物などのデリバティブ商品の […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偽のトークン化株式に市場熱狂、本物の米国株も一時4倍に]]></title>
-        <id>https://www.nadanews.com/?p=366739</id>
-        <link href="https://www.nadanews.com/366739/"/>
-        <updated>2026-09-03T09:28:54.000Z</updated>
-        <summary type="html"><![CDATA[中国の農産物企業Farmmi（ファーミ）の株式を装った非公式トークンを巡って投機が過熱し、本物のナスダック上場株も一時約4倍に急騰する騒動が起きた。 暗号資産市 ...
-偽のトークン化株式に市場熱狂、本物の米国株も一時4倍に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヘイズ氏、仏銀行の信用不安でFRB資金供給拡大へ　仮想通貨市場に追い風と予測]]></title>
-        <id>https://coinpost.jp/?p=735445</id>
-        <link href="https://coinpost.jp/?p=735445"/>
-        <updated>2026-09-03T08:59:41.000Z</updated>
-        <summary type="html"><![CDATA[アーサー・ヘイズ氏は最新エッセイで、ユーロ円の下落と仏銀行の信用不安がFRBの資金供給拡大を招き、仮想通貨相場の追い風になるとの見方を示した。イーサリアムの価格目標にも言及している。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COLDCARD流出犯、盗難ビットコインを初移動──DEX経由で資金洗浄か]]></title>
-        <id>https://www.nadanews.com/?p=366733</id>
-        <link href="https://www.nadanews.com/366733/"/>
-        <updated>2026-09-03T08:43:28.000Z</updated>
-        <summary type="html"><![CDATA[Galaxy Digital（ギャラクシー・デジタル）の全社リサーチ責任者Alex Thorn（アレックス・ソーン）氏は9月3日、暗号資産（仮想通貨）のハードウ ...
-COLDCARD流出犯、盗難ビットコインを初移動──DEX経由で資金洗浄か first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
         </author>
     </entry>
 </feed>
