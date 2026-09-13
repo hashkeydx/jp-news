@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-09-13T19:26:38.930Z</updated>
+    <updated>2026-09-13T22:23:00.850Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メキシコ当局、山中の秘密マイニング施設を摘発──電力窃盗と資金洗浄の疑い＝報道]]></title>
+        <id>https://www.nadanews.com/?p=367953</id>
+        <link href="https://www.nadanews.com/367953/"/>
+        <updated>2026-09-13T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[メキシコの連邦・州当局が、同国プエブラ州シエラノルテ地域の山中で稼働していた秘密の暗号資産（仮想通貨）マイニング施設を摘発した。ロイターが9月12日に報じた。  ...
+メキシコ当局、山中の秘密マイニング施設を摘発──電力窃盗と資金洗浄の疑い＝報道 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>井上 俊彦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今週、ビットコインは金融政策の山場へ──FOMCと日銀、相次ぐ利上げ判断が試す市場の耐久力【エックスウィン】]]></title>
+        <id>https://www.nadanews.com/?p=367907</id>
+        <link href="https://www.nadanews.com/367907/"/>
+        <updated>2026-09-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[●米国と日本の金融政策判断が、同じ週に重なる。ビットコインにとって重要なのは、利上げの有無に加え、両中央銀行が示す今後の引き締め姿勢だ。●米長期金利の上昇と急速 ...
+今週、ビットコインは金融政策の山場へ──FOMCと日銀、相次ぐ利上げ判断が試す市場の耐久力【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>エックスウィン</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[メタプラネット、香港に完全子会社設立へ──金融事業で新たな収益源を開拓]]></title>
         <id>https://www.nadanews.com/?p=367943</id>
@@ -1429,126 +1451,6 @@ Consensys、MetaMask事業を分離──機関向け事業と独立2社体制�
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFiデベロップメント、優先株発行で17億円調達　大部分はソラナ取得へ]]></title>
-        <id>https://coinpost.jp/?p=736412</id>
-        <link href="https://coinpost.jp/?p=736412"/>
-        <updated>2026-09-09T10:20:08.000Z</updated>
-        <summary type="html"><![CDATA[デファイ・デベロップメントが優先株CHADの発行を完了し、約1,100万ドルを調達。資金の大部分をソラナ取得に充て、1株当たりSOL保有量の増加を目指す予定だとしている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック、「AIでBTCが50%以上暴落」予想に反論]]></title>
-        <id>https://www.neweconomy.jp/?p=606583</id>
-        <link href="https://www.neweconomy.jp/posts/606583"/>
-        <updated>2026-09-09T10:18:04.000Z</updated>
-        <summary type="html"><![CDATA[「BTCは社会的コンセンサスを必要としない問題に対処できる」 イーサリアム（Ethereum）共同創業者のヴィタリック・ブテリン（Vitalik Buterin）氏が、人工知能（AI）によってビットコイン（Bitcoin […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZKsync開発元、「プリビディウム」中核をオープンソース化。独連銀が初のセルフホスト導入]]></title>
-        <id>https://www.neweconomy.jp/?p=606575</id>
-        <link href="https://www.neweconomy.jp/posts/606575"/>
-        <updated>2026-09-09T10:14:25.000Z</updated>
-        <summary type="html"><![CDATA[金融機関が自社環境でパーミッション型チェーンを運用可能に イーサリアム（Ethereum）L2「ジーケーシンク（ZKsync）」の開発元であるマターラボ（Matter Labs）が、金融機関向けブロックチェーン基盤「プリ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンチェーン金融サミット10月開催　登壇者第1弾に三井住友FGら12名]]></title>
-        <id>https://coinpost.jp/?p=736508</id>
-        <link href="https://coinpost.jp/?p=736508"/>
-        <updated>2026-09-09T08:40:06.000Z</updated>
-        <summary type="html"><![CDATA[Pacific Metaは10月5日、ブロックチェーンと金融をテーマにしたカンファレンス「Blockchain Summit 2026 Autumn」を東京・大手町で開く。登壇者第1弾は三井住友FGやa16z cryptoの担当者ら12名。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ジュピターの「Jupiter Gacha」、鑑定済みポケモンカードのパック開封がアプリ内で可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=606549</id>
-        <link href="https://www.neweconomy.jp/posts/606549"/>
-        <updated>2026-09-09T08:13:47.000Z</updated>
-        <summary type="html"><![CDATA[Jupiter MobileにJupiter Gachaが統合 ジュピター（Jupiter）のモバイルアプリ「ジュピターモバイル（Jupiter Mobile）」に、実物TCG（トレーディングカードゲーム）カード連動のオ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロビンフッドチェーン、約1.68万ETHを収益分配。90日換算でロビンフッドQ2純収益の約6%相当]]></title>
-        <id>https://www.neweconomy.jp/?p=606540</id>
-        <link href="https://www.neweconomy.jp/posts/606540"/>
-        <updated>2026-09-09T08:01:51.000Z</updated>
-        <summary type="html"><![CDATA[約1.68万ETHを90対10で分配 米金融サービス企業ロビンフッド・マーケッツ（Robinhood Markets）が展開するイーサリアム（Ethereum）レイヤー2「ロビンフッド・チェーン（Robinhood Ch […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジー、ビットコイン柄ジョーダン即完売　決済は仮想通貨非対応]]></title>
-        <id>https://coinpost.jp/?p=736534</id>
-        <link href="https://coinpost.jp/?p=736534"/>
-        <updated>2026-09-09T08:00:27.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジーが250ドルのBTC柄ナイキ製ジョーダンを自社ストアで発売し即完売した。決済はカード・Apple Payのみでビットコイン非対応のため、海外の仮想通貨コミュニティから皮肉交じりの批判が相次いでいる。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャピタルBがビットコイン追加購入、保有量3521BTCに]]></title>
-        <id>https://www.neweconomy.jp/?p=606480</id>
-        <link href="https://www.neweconomy.jp/posts/606480"/>
-        <updated>2026-09-09T07:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Capital Bが376BTC追加取得 ビットコイン（BTC）トレジャリー企業の仏キャピタルB（Capital B）が、BTCの追加取得を9月7日に発表した。 同社は376BTCを追加取得した。平均取得価格は1BTCあ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国ハンファ投資証券、アバランチ対応のトークン証券プラットフォーム構築＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=606483</id>
-        <link href="https://www.neweconomy.jp/posts/606483"/>
-        <updated>2026-09-09T07:36:45.000Z</updated>
-        <summary type="html"><![CDATA[HanwhaがAvalanche対応のトークン証券基盤構築 韓国のハンファ投資証券（Hanwha Investment & Securities）が、アバランチ（Avalanche）を含む複数のネットワークに対応 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサスキャン、オンチェーンの資金移動可視化機能を公開]]></title>
-        <id>https://www.neweconomy.jp/?p=606478</id>
-        <link href="https://www.neweconomy.jp/posts/606478"/>
-        <updated>2026-09-09T07:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Etherscan Flow公開 イーサリアム（Ethereum）のブロックチェーンエクスプローラー「イーサスキャン（Etherscan）」の運営チームが、ブロックチェーン上の資金移動をマップ化する新機能「イーサスキャン […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クーコイン、ステーブルコイン活用の利回り商品「KCUSD」ローンチ]]></title>
-        <id>https://www.neweconomy.jp/?p=606476</id>
-        <link href="https://www.neweconomy.jp/posts/606476"/>
-        <updated>2026-09-09T07:30:12.000Z</updated>
-        <summary type="html"><![CDATA[KuCoinがステーブルコイン活用の利回り商品公開 暗号資産（仮想通貨）取引所クーコイン（KuCoin）が、ステーブルコインを活用した利回り商品「KCUSD」のローンチを9月7日に発表した。 KCUSDは、取引口座などで […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ブロック、全米信託銀行「Builders Bank」設立をOCCに申請]]></title>
-        <id>https://www.neweconomy.jp/?p=606489</id>
-        <link href="https://www.neweconomy.jp/posts/606489"/>
-        <updated>2026-09-09T07:27:31.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインやステーブルコインのカストディ提供へ 米決済大手ブロック（Block）が、全米信託銀行「ビルダーズ・バンク・アンド・トラスト（Builders Bank & Trust, N.A.：Builders  […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
         </author>
     </entry>
 </feed>
