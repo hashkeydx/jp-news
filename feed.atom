@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-09-18T18:25:39.724Z</updated>
+    <updated>2026-09-18T21:39:09.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、8万ドル台定着は年内困難か｜コインシェアーズ分析]]></title>
+        <id>https://coinpost.jp/?p=738617</id>
+        <link href="https://coinpost.jp/?p=738617"/>
+        <updated>2026-09-18T21:15:14.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨運用会社コインシェアーズは18日、FRBの利下げ観測後退とクラリティー法案の停滞を受け、ビットコインが年内に8万ドルを決定的に突破する可能性は低いとの見方を示した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコインは「下落転換」ではなく「強気相場の冷却」か──米国需要の減速とアルトコイン売り圧力に警戒【エックスウィン】]]></title>
+        <id>https://www.nadanews.com/?p=368678</id>
+        <link href="https://www.nadanews.com/368678/"/>
+        <updated>2026-09-18T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[●ビットコインは7万6,000～8万2,000ドルのレンジで推移し、上昇モメンタムは鈍化しているものの、取引所への継続的な流入は確認されていない。●米国の現物需 ...
+ビットコインは「下落転換」ではなく「強気相場の冷却」か──米国需要の減速とアルトコイン売り圧力に警戒【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>エックスウィン</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米CFTC、仮想通貨規則案2件をホワイトハウスに提出｜セリグ委員長方針を実行]]></title>
+        <id>https://coinpost.jp/?p=738611</id>
+        <link href="https://coinpost.jp/?p=738611"/>
+        <updated>2026-09-18T20:50:33.000Z</updated>
+        <summary type="html"><![CDATA[米CFTCが仮想通貨関連の規則案2件を、規則案を事前審査する米政府機関に提出した。上院でのクラリティー法案不成立から2日後の動きで、セリグ委員長がかねて示していた「準備は整っている」という姿勢を行動で裏付けた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハイパーリキッドがUSDC・USDT手動借入機能を導入、初日の借入額2.65億ドル超]]></title>
+        <id>https://coinpost.jp/?p=738601</id>
+        <link href="https://coinpost.jp/?p=738601"/>
+        <updated>2026-09-18T20:00:37.000Z</updated>
+        <summary type="html"><![CDATA[DEX大手ハイパーリキッドは担保資産を用いてUSDCおよびUSDTを借り入れる手動借入機能の提供を開始した。初日の借入総額は2.5億ドルを超えており担保需要の拡大がうかがえる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【9/18話題】米SECがトークン化株式のオンチェーン取引に条件付き適用除外、JPYCが韓国アップビット上場直後に価格乖離、Bitcoin Japanが初のBTC購入へ（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=609203</id>
@@ -2324,79 +2365,6 @@ Bitmine、2万7180ETHを追加取得──年間ステーキング収益は3億�
         <summary type="html"><![CDATA[債務を照合・相殺、最終決済は既存システムで シンガポールのDBS銀行（DBS Bank）、OCBC銀行（OCBC Bank）、UOB（United Overseas Bank）が、国際銀行間通信協会スウィフト（Swift […]]]></summary>
         <author>
             <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米Circleの独自L1「Arc」、9月16日のローンチ初日からUniswapに対応]]></title>
-        <id>https://www.nadanews.com/?p=368025</id>
-        <link href="https://www.nadanews.com/368025/"/>
-        <updated>2026-09-14T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[分散型取引所（DEX）のUniswap（ユニスワップ）は9月14日、米Circle（サークル）の独自ブロックチェーン「Arc（アーク）」に公開初日から対応する方 ...
-米Circleの独自L1「Arc」、9月16日のローンチ初日からUniswapに対応 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットバンク、エンジンコイン（ENJ）取扱廃止へ。ネットワーク間の価格乖離で]]></title>
-        <id>https://www.neweconomy.jp/?p=607679</id>
-        <link href="https://www.neweconomy.jp/posts/607679"/>
-        <updated>2026-09-14T08:23:04.000Z</updated>
-        <summary type="html"><![CDATA[保有分は原則として日本円へ換金 国内暗号資産（仮想通貨）取引所ビットバンク（bitbank）が、暗号資産「エンジンコイン（ENJ）」の取扱廃止予定を9月14日に発表した。廃止予定日時は、10月16日10:00とのこと。  […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サカナAI、複数AI連携「Fugu Ultra v2」公開。コーディング性能試験でGPT-6 Astra上回る]]></title>
-        <id>https://www.neweconomy.jp/?p=607665</id>
-        <link href="https://www.neweconomy.jp/posts/607665"/>
-        <updated>2026-09-14T08:09:19.000Z</updated>
-        <summary type="html"><![CDATA[性能試験5種で首位 AI開発企業サカナAI（Sakana AI）が、複数のAIモデルを連携させるAIシステム「サカナ・フグ（Sakana Fugu）」の最新版「フグウルトラv2（Fugu Ultra v2）」と、新モデル […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasdaq、Kraken親会社に1億ドル出資──上場企業が関与するトークン化株式「NET」と、まだ示されていない議決権の扱い【MCB FinTechカタログ通信】]]></title>
-        <id>https://www.nadanews.com/?p=367718</id>
-        <link href="https://www.nadanews.com/367718/"/>
-        <updated>2026-09-14T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年9月10日、米Nasdaqと、暗号資産取引所Krakenの親会社であるPaywardが、トークン化株式を巡る提携の拡大を発表しました。今回の発表は、N ...
- Nasdaq、Kraken親会社に1億ドル出資──上場企業が関与するトークン化株式「NET」と、まだ示されていない議決権の扱い【MCB FinTechカタログ通信】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>宮本航歩</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンソロピックCEO、最先端AI開発の減速を提言。アルトマンとマスクも賛同]]></title>
-        <id>https://www.neweconomy.jp/?p=607626</id>
-        <link href="https://www.neweconomy.jp/posts/607626"/>
-        <updated>2026-09-14T07:29:23.000Z</updated>
-        <summary type="html"><![CDATA[外部評価者に「従業員並み」のアクセス権、OpenAIも導入へ 米AI企業アンソロピック（Anthropic）の共同創業者兼CEOダリオ・アモデイ（Dario Amodei）氏が、安全対策が能力向上に追いつく時間を確保する […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンソロピック元安全研究者、「AI事故が公表されない恐れ」指摘]]></title>
-        <id>https://www.neweconomy.jp/?p=607617</id>
-        <link href="https://www.neweconomy.jp/posts/607617"/>
-        <updated>2026-09-14T07:18:07.000Z</updated>
-        <summary type="html"><![CDATA[AI企業の安全投資不足と透明性を問題視 生成AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）の安全研究チームを離れたジョー・ベントン（Joe Benton）氏が、退職理由を9月11日（現地 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットバンク、価格の乖離でエンジンコインの取扱い廃止]]></title>
-        <id>https://www.nadanews.com/?p=368011</id>
-        <link href="https://www.nadanews.com/368011/"/>
-        <updated>2026-09-14T06:40:28.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所のビットバンクは9月14日、取り扱う暗号資産のうちエンジンコイン（ENJ）について、10月16日付で取扱いを廃止すると発表した。 同社が扱うEth ...
-ビットバンク、価格の乖離でエンジンコインの取扱い廃止 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
         </author>
     </entry>
 </feed>
