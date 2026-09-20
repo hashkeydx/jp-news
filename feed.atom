@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-09-20T01:04:54.668Z</updated>
+    <updated>2026-09-20T06:11:48.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインFOMC通過後も底堅く、米金利と中東情勢が焦点｜bitbankアナリスト寄稿]]></title>
+        <id>https://coinpost.jp/?p=738574</id>
+        <link href="https://coinpost.jp/?p=738574"/>
+        <updated>2026-09-20T02:30:52.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は25bpの利上げを決定したFOMCを通過後も1210万円台で底堅く推移している。目先は米金利の動向と中東情勢による原油価格の変動が焦点で、高値レンジ内での方向感を模索する展開が続きそうだ。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ブロックチェーンゲーム」は、どこへ行った？──東京ゲームショウで見た“夢の跡”【編集長コラム】]]></title>
         <id>https://www.nadanews.com/?p=368798</id>
@@ -2021,16 +2031,6 @@ X、キャッシュタグから暗号資産取引可能に first appeared on NAD
         <summary type="html"><![CDATA[米上院は16日未明（日本時間）、クラリティー法案の審議入りに向けた手続き採決（討論終結投票）を通過させられなかった。トランプ大統領の資産を巡る倫理条項への懸念が背景にあり、法案の今後の先行きは不透明感が強まっている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9/15話題】CLARITY法案、米18司法長官が反対表明、米上院共和党が最終案を提示、メルカリポイントでBTC・ETH自動購入になど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=608171</id>
-        <link href="https://www.neweconomy.jp/posts/608171"/>
-        <updated>2026-09-15T13:44:08.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
