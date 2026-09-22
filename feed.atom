@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-09-22T04:50:20.339Z</updated>
+    <updated>2026-09-22T09:54:58.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ondo、保有する現物株をそのまま株式トークンへ交換可能に──Alpacaと新機能]]></title>
+        <id>https://www.nadanews.com/?p=369085</id>
+        <link href="https://www.nadanews.com/369085/"/>
+        <updated>2026-09-22T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ondo Finance（オンド・ファイナンス）は9月21日、金融機関などが保有する現物の米国株や上場投資信託（ETF）を、対応するトークン化商品へ直接交換でき ...
+Ondo、保有する現物株をそのまま株式トークンへ交換可能に──Alpacaと新機能 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米司法省、Binanceをイラン制裁違反の疑いで捜査＝Bloomberg]]></title>
+        <id>https://www.nadanews.com/?p=369079</id>
+        <link href="https://www.nadanews.com/369079/"/>
+        <updated>2026-09-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米司法省（DOJ）が、世界最大の暗号資産（仮想通貨）取引所Binance（バイナンス）によるイラン制裁違反の可能性を捜査していることが分かった。Bloomber ...
+米司法省、Binanceをイラン制裁違反の疑いで捜査＝Bloomberg first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットマイン、イーサリアム保有量598万ETHに　「5％取得目標」まであとわずか]]></title>
         <id>https://coinpost.jp/?p=738807</id>
@@ -1259,68 +1281,6 @@ CFTC、ソフトウェア提供者にノーアクション方針 first appeared 
 「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>橋本 祐樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米格付け大手S&Pグローバル、オンチェーン金融のリスク評価に参入]]></title>
-        <id>https://coinpost.jp/?p=738244</id>
-        <link href="https://coinpost.jp/?p=738244"/>
-        <updated>2026-09-17T21:40:01.000Z</updated>
-        <summary type="html"><![CDATA[米大手格付け会社S&Pグローバルが、オンチェーン金融のセキュリティー基準を担うオープンゼッペリンの買収に合意したと発表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC、トークン化米国株のオンチェーン取引に道──条件付き免除を導入]]></title>
-        <id>https://www.nadanews.com/?p=368558</id>
-        <link href="https://www.nadanews.com/368558/"/>
-        <updated>2026-09-17T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）は9月17日、トークン化された米国株式のオンチェーン取引を促進する「イノベーション免除」を公表した。 一定の条件を満たす取引プラットフ ...
-SEC、トークン化米国株のオンチェーン取引に道──条件付き免除を導入 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CFTC、仮想通貨ウォレットの仲介ブローカー登録を免除]]></title>
-        <id>https://coinpost.jp/?p=738247</id>
-        <link href="https://coinpost.jp/?p=738247"/>
-        <updated>2026-09-17T21:20:12.000Z</updated>
-        <summary type="html"><![CDATA[米CFTCは17日、パッシブソフトウェア提供者への規制免除措置を発表した。仮想通貨ウォレット等が無期限先物や予測市場へのアクセスを提供しやすくなる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本日、日銀は追加利上げか──円高は再開するのか、FOMC後のビットコインを待つ「二重の価格変動」【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=368512</id>
-        <link href="https://www.nadanews.com/368512/"/>
-        <updated>2026-09-17T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[●FRBに続き、日銀も本日9月18日、政策金利を1.00％から1.25％へ引き上げる可能性が高い。ただし、日米がともに0.25％利上げすれば、単純計算では金利差 ...
-本日、日銀は追加利上げか──円高は再開するのか、FOMC後のビットコインを待つ「二重の価格変動」【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国で株式トークン化普及を推進、SECがプラットフォームに5年時限で証券取引所規制免除]]></title>
-        <id>https://coinpost.jp/?p=738248</id>
-        <link href="https://coinpost.jp/?p=738248"/>
-        <updated>2026-09-17T20:50:14.000Z</updated>
-        <summary type="html"><![CDATA[米証券取引委員会（SEC）は17日、許可制のAMM流動性プールを通じたトークン化された米国株式の取引を暫定的に認める適用除外を発表した。対象銘柄数や取引参加者には制限が課される。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モスクワ証券取引所、仮想通貨5銘柄の無期限先物を22日より提供開始]]></title>
-        <id>https://coinpost.jp/?p=738230</id>
-        <link href="https://coinpost.jp/?p=738230"/>
-        <updated>2026-09-17T20:00:26.000Z</updated>
-        <summary type="html"><![CDATA[モスクワ証券取引所が9月22日、ビットコインなど5銘柄に連動する無期限先物を上場する。対象は適格投資者に限定され、個人投資家の参加は当面できない見通しだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
