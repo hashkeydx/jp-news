@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-09-22T09:54:58.239Z</updated>
+    <updated>2026-09-22T14:49:53.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[グレースケールの「ジーキャッシュ（ZEC）」現物ETF、3対1の口数分割へ]]></title>
+        <id>https://www.neweconomy.jp/?p=609911</id>
+        <link href="https://www.neweconomy.jp/posts/609911"/>
+        <updated>2026-09-22T13:28:42.000Z</updated>
+        <summary type="html"><![CDATA[ZCSHが3対1の口数分割へ ジーキャッシュ（Zcash）のネイティブトークン「ZEC」に現物で投資するETP（上場投資商品）「The Zcash ETF（ZCSH）」が、保有口数を3倍にする3対1の分割を実施する予定だ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハナ銀行、ユーロクリアのブロックチェーン基盤で1億ドルのデジタル債券発行。当日決済実現]]></title>
+        <id>https://www.neweconomy.jp/?p=609906</id>
+        <link href="https://www.neweconomy.jp/posts/609906"/>
+        <updated>2026-09-22T13:21:31.000Z</updated>
+        <summary type="html"><![CDATA[ハナ銀行がEuroclear基盤でデジタル債券発行 韓国のハナ銀行（Hana Bank）が、国際証券決済機関ユーロクリア（Euroclear）のブロックチェーン基盤「D-FMI（Digital Financial Mar […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サークル、機関向けにビットコイン担保のUSDC借入機能を提供開始]]></title>
+        <id>https://www.neweconomy.jp/?p=609901</id>
+        <link href="https://www.neweconomy.jp/posts/609901"/>
+        <updated>2026-09-22T13:17:02.000Z</updated>
+        <summary type="html"><![CDATA[CircleがBTC担保のUSDC借入機能を提供 米サークル（Circle）が、ビットコイン（BTC）を担保に、同社発行の米ドル建てステーブルコイン「USDC」を借り入れられる機能を提供開始したと9月21日に発表した。  […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジー、2週間の見送り後にBTC購入再開。保有84.6万BTCに]]></title>
+        <id>https://www.neweconomy.jp/?p=609894</id>
+        <link href="https://www.neweconomy.jp/posts/609894"/>
+        <updated>2026-09-22T12:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Strategyが950BTCを追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を9月21日に発表した。 同社は8月31日から9月13日までの […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスウォレット、パンケーキスワップの「プレアクセス」に対応。未上場企業へ間接投資]]></title>
+        <id>https://www.neweconomy.jp/?p=609885</id>
+        <link href="https://www.neweconomy.jp/posts/609885"/>
+        <updated>2026-09-22T12:35:24.000Z</updated>
+        <summary type="html"><![CDATA[PancakeSwap主催のトークン申込プログラムに対応 海外大手暗号資産（仮想通貨）取引所バイナンス（Binance）提供のウォレット「バイナンスウォレット（Binance Wallet）」が、トークン申込プログラム「 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼータチェーン、L1終了とZETAのソラナ移行方針が可決]]></title>
+        <id>https://www.neweconomy.jp/?p=609878</id>
+        <link href="https://www.neweconomy.jp/posts/609878"/>
+        <updated>2026-09-22T12:25:11.000Z</updated>
+        <summary type="html"><![CDATA[ZetaChainのL1終了とZETAのSolana移行が可決 ゼータチェーン（ZetaChain）の独自ネットワーク終了とネイティブトークン「ZETA」のソラナ（Solana）への移行方針が、9月20日に終了したガバナ […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ondo、保有する現物株をそのまま株式トークンへ交換可能に──Alpacaと新機能]]></title>
         <id>https://www.nadanews.com/?p=369085</id>
@@ -1052,235 +1112,6 @@ JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫�
         <summary type="html"><![CDATA[買収後もOpenZeppelinの名称と現CEOによる事業運営を継続へ 金融情報サービス大手のS&Pグローバル（S&P Global）が、ブロックチェーンセキュリティ企業オープンゼッペリン（OpenZep […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステラ、アップグレード「Adapter」をメインネットで稼働開始]]></title>
-        <id>https://coinpost.jp/?p=738374</id>
-        <link href="https://coinpost.jp/?p=738374"/>
-        <updated>2026-09-18T02:35:54.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ステラがプロトコルアップグレード「Adapter」（Protocol 28）のメインネット稼働開始を発表。コンセンサス高速化など開発者向け機能を強化している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サム・アルトマンの『ワールド』、金融スーパーアプリを150カ国超で展開]]></title>
-        <id>https://coinpost.jp/?p=738339</id>
-        <link href="https://coinpost.jp/?p=738339"/>
-        <updated>2026-09-18T02:20:19.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI創業者のアルトマン氏が共同創業した『ワールド（旧ワールドコイン）』が、金融アプリ「ワールドマネー」を150カ国以上で展開開始した。ステーブルコイン管理や資金追加の手段が広がり、利用者の資産運用の選択肢が増える。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、イラン暗号資産取引所「BitBank」を制裁指定]]></title>
-        <id>https://www.nadanews.com/?p=368607</id>
-        <link href="https://www.nadanews.com/368607/"/>
-        <updated>2026-09-18T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[米財務省外国資産管理室（OFAC）は9月17日、イランの暗号資産（仮想通貨）取引所BitBankを制裁対象に指定したと発表した。米財務省によると、同取引所はイラ ...
-米財務省、イラン暗号資産取引所「BitBank」を制裁指定 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、地銀の仮想通貨取引サービス提供を支援]]></title>
-        <id>https://coinpost.jp/?p=738263</id>
-        <link href="https://coinpost.jp/?p=738263"/>
-        <updated>2026-09-18T01:50:55.000Z</updated>
-        <summary type="html"><![CDATA[米コインベースは地銀・信用組合向けにステーブルコアと提携し、既存の銀行システムを通じて仮想通貨サービスを提供できる体制を整えた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に]]></title>
-        <id>https://www.nadanews.com/?p=368584</id>
-        <link href="https://www.nadanews.com/368584/"/>
-        <updated>2026-09-18T01:50:00.000Z</updated>
-        <summary type="html"><![CDATA[日本円連動型ステーブルコイン「JPYC」の総流通量が、40億JPYCを超えたことが、オンチェーンデータをまとめる「JPYC info」の最新データで明らかになっ ...
-Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴィタリック氏「セキュリティは防御側が有利」、AIハッキング悲観論に反論]]></title>
-        <id>https://coinpost.jp/?p=738342</id>
-        <link href="https://coinpost.jp/?p=738342"/>
-        <updated>2026-09-18T01:45:52.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム共同創設者のヴィタリック・ブテリン氏は9月17日、AIハッキング増加でサイバーセキュリティが崩壊するとの悲観論にXで反論。形式検証への期待と資産の9割を仮想通貨で保有する理由を解説する。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、イラン仮想通貨取引所BitBankを制裁]]></title>
-        <id>https://coinpost.jp/?p=738326</id>
-        <link href="https://coinpost.jp/?p=738326"/>
-        <updated>2026-09-18T01:30:21.000Z</updated>
-        <summary type="html"><![CDATA[米財務省OFACは9月17日、イラン人金融家ザンジャニ系の仮想通貨取引所BitBankを制裁指定した。同取引所は6月以降、数億ドル相当のビットコインをIRGCに送金したとされる。開発元と側近3人も同時に制裁対象となった。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁、暗号資産「販売所」への誘導を問題提起。JVCEAに利用者保護強化求める]]></title>
-        <id>https://www.neweconomy.jp/?p=608988</id>
-        <link href="https://www.neweconomy.jp/posts/608988"/>
-        <updated>2026-09-18T01:29:29.000Z</updated>
-        <summary type="html"><![CDATA[販売所・取引所の画面上の導線も議論へ 金融庁が、日本暗号資産等取引業協会（JVCEA）との7月15日の意見交換会で、暗号資産（仮想通貨）交換業者の利用者保護や自主規制機能の強化を求めた。同庁が9月17日に公表した意見交換 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOMC後の利上げ観測と、イーサリアム「クジラ」の3つの買い水準【価格分析】]]></title>
-        <id>https://www.nadanews.com/?p=368596</id>
-        <link href="https://www.nadanews.com/368596/"/>
-        <updated>2026-09-18T01:18:08.000Z</updated>
-        <summary type="html"><![CDATA[FRBがさらなる利上げを示唆する中、イーサリアムは反発 イーサリアム価格は火曜日に5%急落して2週間ぶりの安値となる2,358ドルを付けた後、米連邦準備制度理事 ...
-FOMC後の利上げ観測と、イーサリアム「クジラ」の3つの買い水準【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインETFのヘッジ減れば、需要が金超えに＝JPモルガン]]></title>
-        <id>https://coinpost.jp/?p=738242</id>
-        <link href="https://coinpost.jp/?p=738242"/>
-        <updated>2026-09-18T01:15:54.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンは、ETFのヘッジ需要が緩和されればビットコインがゴールドより需要を得やすくなるとの見方を示した。IBITの空売り比率はGLDより高く、投資家のポジション動向が今後を左右しそうだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SECとCFTC、暗号資産規制を既存権限で推進へ。クラリティ法案は前進せず]]></title>
-        <id>https://www.neweconomy.jp/?p=608981</id>
-        <link href="https://www.neweconomy.jp/posts/608981"/>
-        <updated>2026-09-18T01:15:33.000Z</updated>
-        <summary type="html"><![CDATA[法案成立を待たず既存権限で規制整備へ 米商品先物取引委員会（CFTC）のマイケル・セリグ（Michael Selig）委員長と米証券取引委員会（SEC）のポール・アトキンス（Paul Atkins）委員長が、両機関に現在 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グレースケール「米利上げは中期調整」ビットコインへの影響限定的]]></title>
-        <id>https://coinpost.jp/?p=738295</id>
-        <link href="https://coinpost.jp/?p=738295"/>
-        <updated>2026-09-18T00:45:22.000Z</updated>
-        <summary type="html"><![CDATA[米FRBは17日、政策金利を3.75％から4.00％に引き上げた。グレースケールの調査部門は「循環的な変化ではなく中期調整」との見解を示し、想定される追加利上げが仮想通貨市場の資金配分に与える影響は限定的と分析した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコインは依然として強気圏内も勢い鈍化」＝クリプトクアント]]></title>
-        <id>https://coinpost.jp/?p=738273</id>
-        <link href="https://coinpost.jp/?p=738273"/>
-        <updated>2026-09-18T00:30:18.000Z</updated>
-        <summary type="html"><![CDATA[クリプトクアントの仮想通貨週次レポートによると、ビットコインは強気圏を維持しつつも勢いが鈍化。クラリティー法案審議停滞とFRBの利上げ観測が目先の重しとなっている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World、金融スーパーアプリ「World Money」発表]]></title>
-        <id>https://www.nadanews.com/?p=368563</id>
-        <link href="https://www.nadanews.com/368563/"/>
-        <updated>2026-09-18T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタルIDプロジェクトのWorldは9月17日、ステーブルコインや投資、資産運用、国際的な資産送受などの金融機能を統合した「World Money」の提供を開 ...
-World、金融スーパーアプリ「World Money」発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPとRLUSDの利用拡大へ、XRPLのAIエージェント決済向け開発ツールの新版ローンチ]]></title>
-        <id>https://coinpost.jp/?p=738270</id>
-        <link href="https://coinpost.jp/?p=738270"/>
-        <updated>2026-09-18T00:25:19.000Z</updated>
-        <summary type="html"><![CDATA[XRPLのAIエージェント向けの開発ツールの新バージョンがローンチ。開発では、仮想通貨XRPとステーブルコインRLUSDがエージェント決済における最高水準の選択肢になることを目指している。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P Global、ブロックチェーンセキュリティ企業買収へ──オンチェーンのリスク評価を強化]]></title>
-        <id>https://www.nadanews.com/?p=368576</id>
-        <link href="https://www.nadanews.com/368576/"/>
-        <updated>2026-09-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[S&P Global（S&Pグローバル）は9月17日、ブロックチェーンセキュリティ企業のOpenZeppelin（オープンゼッペリン）を買収する ...
-S&P Global、ブロックチェーンセキュリティ企業買収へ──オンチェーンのリスク評価を強化 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国警察、Polymarket利用者26人を立件──18人を送検＝報道]]></title>
-        <id>https://www.nadanews.com/?p=368570</id>
-        <link href="https://www.nadanews.com/368570/"/>
-        <updated>2026-09-17T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国警察が、予測市場プラットフォームPolymarket（ポリマーケット）の国内利用者26人を違法賭博の疑いで立件し、うち18人を検察に送致していたことがわかっ ...
-韓国警察、Polymarket利用者26人を立件──18人を送検＝報道 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クリプトドットコム系Nadex、米SEC登録で個別株先物提供が可能に]]></title>
-        <id>https://coinpost.jp/?p=738243</id>
-        <link href="https://coinpost.jp/?p=738243"/>
-        <updated>2026-09-17T23:12:56.000Z</updated>
-        <summary type="html"><![CDATA[Crypto.com系のNadexが米SECに証券先物取引所として登録され、個別株先物の提供が可能になった。同社は単一株式の無期限先物についても規制当局と協議を進めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大]]></title>
-        <id>https://www.nadanews.com/?p=368565</id>
-        <link href="https://www.nadanews.com/368565/"/>
-        <updated>2026-09-17T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WisdomTree（ウィズダムツリー）とMoonPay（ムーンペイ）は9月17日、アメリカでのトークン化ファンドへのアクセス拡大とステーブルコイン準備金の管理 ...
-WisdomTree、トークン化ファンドでMoonPayと提携──米国投資家へのアクセス拡大 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CFTC、ソフトウェア提供者にノーアクション方針]]></title>
-        <id>https://www.nadanews.com/?p=368560</id>
-        <link href="https://www.nadanews.com/368560/"/>
-        <updated>2026-09-17T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米商品先物取引委員会（CFTC）は9月17日、一定の条件を満たす「受動的ソフトウェア（passive software）」の提供者について、商品取引法上の「In ...
-CFTC、ソフトウェア提供者にノーアクション方針 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国教保生命とSBI、ドルを介さない日韓資金移転を実証　カントンネットワーク活用]]></title>
-        <id>https://coinpost.jp/?p=738245</id>
-        <link href="https://coinpost.jp/?p=738245"/>
-        <updated>2026-09-17T22:05:07.000Z</updated>
-        <summary type="html"><![CDATA[韓国教保生命保険とSBIグループが、ドルを介さず円とウォンのステーブルコインを直接両替し、日本から韓国へ機関資金を移転する構造を検証した。韓国内保険業界初の実証で、国際送金の効率化や透明性向上への活用が見込まれている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来]]></title>
-        <id>https://www.nadanews.com/?p=368010</id>
-        <link href="https://www.nadanews.com/368010/"/>
-        <updated>2026-09-17T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[7月に公表された高市政権の「経済財政運営と改革の基本方針2026（骨太の方針2026）」には、資産運用立国の項目に「オンチェーン金融の推進」との文言が初めて盛り ...
-「方向性は正しかった」——自民・平将明議員が語った米国視察と「オンチェーン金融」の未来 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>橋本 祐樹</name>
         </author>
     </entry>
 </feed>
