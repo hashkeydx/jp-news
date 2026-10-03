@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-03T06:35:11.022Z</updated>
+    <updated>2026-10-03T12:30:00.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USDT、10月中にビットコイン上で発行へ＝CoinDesk]]></title>
+        <id>https://www.nadanews.com/?p=370676</id>
+        <link href="https://www.nadanews.com/370676/"/>
+        <updated>2026-10-03T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Tether（テザー）が支援するUtexoが、米ドル連動型ステーブルコイン「USDT」を10月中にビットコインネットワーク上で発行する計画だ。CoinDeskが ...
+USDT、10月中にビットコイン上で発行へ＝CoinDesk first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>平木 昌宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米SEC、ビットコインなど6資産の3倍レバレッジETFの上場を承認]]></title>
         <id>https://coinpost.jp/?p=740844</id>
@@ -2182,163 +2193,6 @@ JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入�
 米シティとコインベース、大企業顧客向けにステーブルコイン決済を提供へ＝WSJ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink、「CCIP 2.0」で金融機関の独自検証を可能に──Kelp DAOハッキングから5カ月]]></title>
-        <id>https://www.nadanews.com/?p=369928</id>
-        <link href="https://www.nadanews.com/369928/"/>
-        <updated>2026-09-28T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Chainlink（チェーンリンク）は9月28日、クロスチェーン相互運用プロトコルの新版「CCIP 2.0」の提供を開始した。金融機関やトークン発行体が、Cha ...
-Chainlink、「CCIP 2.0」で金融機関の独自検証を可能に──Kelp DAOハッキングから5カ月 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strive、BTC保有量2万7000に到達──資金の85％は優先株で調達]]></title>
-        <id>https://www.nadanews.com/?p=369931</id>
-        <link href="https://www.nadanews.com/369931/"/>
-        <updated>2026-09-28T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン（BTC）財務企業のStrive（ストライブ）は9月28日、アメリカ証券取引委員会（SEC）への提出書類で、9月21日から25日にかけて1107BT ...
-Strive、BTC保有量2万7000に到達──資金の85％は優先株で調達 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan Smart Chainが改称、ステーブルコイン決済インフラ事業へ転換]]></title>
-        <id>https://coinpost.jp/?p=739686</id>
-        <link href="https://coinpost.jp/?p=739686"/>
-        <updated>2026-09-28T23:25:29.000Z</updated>
-        <summary type="html"><![CDATA[AltX Research株式会社は「Japan Smart Chain」をMIZUHIKIに改称し、ステーブルコイン決済インフラ事業へ転換すると発表した。メインネットも公開し、複数自治体で給付金基盤のPOCが決定した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シティとコインベースが決済事業で協業拡大、ステーブルコインと法定通貨の両替を自動化]]></title>
-        <id>https://coinpost.jp/?p=739677</id>
-        <link href="https://coinpost.jp/?p=739677"/>
-        <updated>2026-09-28T23:10:42.000Z</updated>
-        <summary type="html"><![CDATA[金融大手シティと仮想通貨取引所コインベースは、決済事業の協業拡大を発表。ステーブルコインと法定通貨の両替を自動化する機能を提供することなどを説明した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit、フランクリン発行のトークン化ファンドを機関担保資産に採用]]></title>
-        <id>https://coinpost.jp/?p=739672</id>
-        <link href="https://coinpost.jp/?p=739672"/>
-        <updated>2026-09-28T23:05:11.000Z</updated>
-        <summary type="html"><![CDATA[バイビットとフランクリン・テンプルトンが戦略的提携を発表した。機関投資家はフランクリン発行のトークン化ファンド株式をBybitの取引担保資産として活用できるようになる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy、1665BTCを追加取得──保有量84万7666BTCで過去最高に]]></title>
-        <id>https://www.nadanews.com/?p=369923</id>
-        <link href="https://www.nadanews.com/369923/"/>
-        <updated>2026-09-28T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Michael Saylor（マイケル・セイラー）氏が率いるStrategy（ストラテジー）は9月28日、アメリカ証券取引委員会（SEC）に提出したフォーム8- ...
-Strategy、1665BTCを追加取得──保有量84万7666BTCで過去最高に first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>井上 俊彦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院報告書、イランの制裁回避でUSDTが主要手段と指摘]]></title>
-        <id>https://www.nadanews.com/?p=369922</id>
-        <link href="https://www.nadanews.com/369922/"/>
-        <updated>2026-09-28T22:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米上院国土安全保障・政府活動委員会の常設調査小委員会（PSI）の民主党側スタッフは9月28日、イランの制裁回避などにおける暗号資産（仮想通貨）の利用を調査した報 ...
-米上院報告書、イランの制裁回避でUSDTが主要手段と指摘 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BitMineのイーサリアム保有数、600万枚の大台突破]]></title>
-        <id>https://www.nadanews.com/?p=369919</id>
-        <link href="https://www.nadanews.com/369919/"/>
-        <updated>2026-09-28T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tom Lee（トム・リー）氏が会長を務めるBitMine Immersion Technologies（ビットマイン・イマージョン・テクノロジーズ）は9月28 ...
-BitMineのイーサリアム保有数、600万枚の大台突破 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デファイ・デベロップメント、ソラナ保有量254万に到達　6週で約10%増加]]></title>
-        <id>https://coinpost.jp/?p=739673</id>
-        <link href="https://coinpost.jp/?p=739673"/>
-        <updated>2026-09-28T21:55:13.000Z</updated>
-        <summary type="html"><![CDATA[デファイ・デベロップメントは9月28日、仮想通貨ソラナ保有量が253万8010SOLに達したと発表した。8月12日の決算発表以降、6週間で約10%増加している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老舗ブロックチェーンドットコム、IPOで5億ドル調達検討]]></title>
-        <id>https://coinpost.jp/?p=739659</id>
-        <link href="https://coinpost.jp/?p=739659"/>
-        <updated>2026-09-28T21:40:02.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨大手ブロックチェーンドットコムが新規株式公開（IPO）を検討しており、5億ドルの調達を目指す。評価額は40億〜60億ドルとされ、ビットコイン相場の回復を背景に上場機運が再び高まった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goldman Sachs、1000億ドル規模のファンドをLynqで提供へ]]></title>
-        <id>https://www.nadanews.com/?p=369915</id>
-        <link href="https://www.nadanews.com/369915/"/>
-        <updated>2026-09-28T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米金融大手Goldman Sachs（ゴールドマン・サックス）の約1000億ドル（約15兆7000億円、1ドル＝157円換算）規模のマネー・マーケット・ファンド ...
-Goldman Sachs、1000億ドル規模のファンドをLynqで提供へ first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Shoko Galaviz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国税庁の新システム『KSK2』稼働、AI分析で仮想通貨の申告漏れ把握へ]]></title>
-        <id>https://coinpost.jp/?p=739661</id>
-        <link href="https://coinpost.jp/?p=739661"/>
-        <updated>2026-09-28T21:20:06.000Z</updated>
-        <summary type="html"><![CDATA[国税庁の次世代システム『KSK2』が稼働を開始し、仮想通貨取引データもAI分析の対象に含まれやすくなった。投資家は年間取引報告書の管理と正確な申告が一段と重要になる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン市場は強気優勢、それでも油断できない──CryptoQuant認定アナリストが読み解くオンチェーンデータの重要な変化【エックスウィン】]]></title>
-        <id>https://www.nadanews.com/?p=369851</id>
-        <link href="https://www.nadanews.com/369851/"/>
-        <updated>2026-09-28T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[●CryptoQuantの直近30本の分析を整理すると、強気47％、弱気17％、中立・混合36％となり、ビットコイン市場では需給改善を評価する見方が優勢となって ...
-ビットコイン市場は強気優勢、それでも油断できない──CryptoQuant認定アナリストが読み解くオンチェーンデータの重要な変化【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>エックスウィン</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマン・サックス、1000億ドル規模の国債ファンドを仮想通貨決済網に開放]]></title>
-        <id>https://coinpost.jp/?p=739660</id>
-        <link href="https://coinpost.jp/?p=739660"/>
-        <updated>2026-09-28T20:50:04.000Z</updated>
-        <summary type="html"><![CDATA[金融大手ゴールドマン・サックスの国債ファンド「FTIXX」が仮想通貨決済網Lynqで提供開始。SEC登録のtZEROが取引を担い、機関投資家は現金を効率的に運用できるようになる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、イーサリアム保有数600万ETH突破]]></title>
-        <id>https://coinpost.jp/?p=739662</id>
-        <link href="https://coinpost.jp/?p=739662"/>
-        <updated>2026-09-28T20:30:08.000Z</updated>
-        <summary type="html"><![CDATA[ビットマインの保有イーサリアムが600万ETHを突破。直近1週間で1万7,362ETHを購入し、供給量5%目標への進捗は98%に到達している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
 </feed>
