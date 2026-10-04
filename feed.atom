@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-04T00:35:35.261Z</updated>
+    <updated>2026-10-04T06:48:53.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は｜bitbankアナリスト寄稿]]></title>
+        <id>https://coinpost.jp/?p=740798</id>
+        <link href="https://coinpost.jp/?p=740798"/>
+        <updated>2026-10-04T02:30:55.000Z</updated>
+        <summary type="html"><![CDATA[bitbankアナリスト長谷川友哉氏の週次レポート。ビットコインは米雇用統計を前にドル建て8万5000ドルの上抜けに成功。同水準を維持すれば9万ドルが視野に入る一方、日足RSIの弱気ダイバージェンスも出現。下値目途と金利市場の注目点を読む。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステーブルコインはカードを壊すのか──決済レールが変わっても「信用」は残る【編集長コラム】]]></title>
+        <id>https://www.nadanews.com/?p=370709</id>
+        <link href="https://www.nadanews.com/370709/"/>
+        <updated>2026-10-04T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今週、HashPort主催の「AI・オンチェーン金融サミット」に参加した。 いくつかのセッションの中で特に気になったのが、クレジットカードのセッションとステーブ ...
+ステーブルコインはカードを壊すのか──決済レールが変わっても「信用」は残る【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>増田隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース（10/2）｜国税庁の新システム稼働・相場分析・DAT企業の動向まとめ]]></title>
         <id>https://coinpost.jp/?p=740608</id>
@@ -1887,26 +1908,6 @@ Coinbase、CFTCからデリバティブ清算機関の認可取得 first appeare
         <summary type="html"><![CDATA[モルガン・スタンレーは、ステーブルコインやトークン化、分散型金融関連技術を検証する「デジタル資産ラボ」を設置した。分散型金融保管庫の検証にも取り組んでおり、大手金融機関による仮想通貨分野への関与拡大を示す動きとなっている。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=612076</id>
-        <link href="https://www.neweconomy.jp/posts/612076"/>
-        <updated>2026-09-29T12:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマンの約100Bドル米国債MMF、アバランチ基盤の機関向け決済網「リンク」で提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=612020</id>
-        <link href="https://www.neweconomy.jp/posts/612020"/>
-        <updated>2026-09-29T12:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Goldmanの米国債MMFがLynqで提供 米金融大手ゴールドマン・サックス（Goldman Sachs）の米国債MMF（マネー・マーケット・ファンド）が、機関向け決済ネットワーク「リンク（Lynq）」を通じて利用可能 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
 </feed>

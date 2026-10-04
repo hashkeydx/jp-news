@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=370709",
+          "author": "増田隆幸",
+          "description": "今週、HashPort主催の「AI・オンチェーン金融サミット」に参加した。 いくつかのセッションの中で特に気になったのが、クレジットカードのセッションとステーブ ...\nステーブルコインはカードを壊すのか──決済レールが変わっても「信用」は残る【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/370709/",
+          "publishedOn": "2026-10-04T01:00:00.000Z",
+          "wordCount": 2292,
+          "title": "ステーブルコインはカードを壊すのか──決済レールが変わっても「信用」は残る【編集長コラム】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/nadanews_top-2026-10-04T082152.021.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=370691",
           "author": "Delia Rojo",
           "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。サンフランシスコから、今回は「経済指標では見えにくい、今のアメリカの暮らし」についてお伝 ...\n数字では見えない「今のアメリカ」　雇用減速と物価高、その裏で上がるビットコイン【サンフランシスコレポート】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -754,6 +764,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=740798",
+          "author": "CoinPost編集部",
+          "description": "bitbankアナリスト長谷川友哉氏の週次レポート。ビットコインは米雇用統計を前にドル建て8万5000ドルの上抜けに成功。同水準を維持すれば9万ドルが視野に入る一方、日足RSIの弱気ダイバージェンスも出現。下値目途と金利市場の注目点を読む。",
+          "link": "https://coinpost.jp/?p=740798",
+          "publishedOn": "2026-10-04T02:30:55.000Z",
+          "wordCount": 2958,
+          "title": "ビットコイン、8万5000ドルが分岐点　雇用統計後の焦点は｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=740608",
           "author": "CoinPost編集部",
@@ -2155,26 +2180,6 @@
           "wordCount": 711,
           "title": "米国初の「ニア（NEAR）」現物ETF、NYSEアーカ上場。ビットワイズ組成",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/30121416/56b1cc683c1a428cfe9c227ca251ed0d.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=612076",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/612076",
-          "publishedOn": "2026-09-29T12:39:05.000Z",
-          "wordCount": 792,
-          "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/29192026/6ddd7be30c6483d9b80bf3c7962782ee.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=612020",
-          "author": "HitomotoToshikazu",
-          "description": "Goldmanの米国債MMFがLynqで提供 米金融大手ゴールドマン・サックス（Goldman Sachs）の米国債MMF（マネー・マーケット・ファンド）が、機関向け決済ネットワーク「リンク（Lynq）」を通じて利用可能 […]",
-          "link": "https://www.neweconomy.jp/posts/612020",
-          "publishedOn": "2026-09-29T12:37:50.000Z",
-          "wordCount": 656,
-          "title": "ゴールドマンの約100Bドル米国債MMF、アバランチ基盤の機関向け決済網「リンク」で提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/09/29171557/b84de17457ddaaa52e1813f9672d1a59.jpg"
         }
       ]
     }
