@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-16T12:23:37.082Z</updated>
+    <updated>2026-10-16T17:22:19.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【10/16話題】3メガバンク円建てステーブルコインの共同発行が実証完了、SBIとスターテイルがOpen Standard参画、レジャーのAndroid搭載端末など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=617540</id>
+        <link href="https://www.neweconomy.jp/posts/617540"/>
+        <updated>2026-10-16T13:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金地金トークン展開のunbanked、暗号資産事業から撤退へ]]></title>
         <id>https://www.nadanews.com/?p=372758</id>
@@ -2094,78 +2104,6 @@ Papertradeで約2億円の利益記録──ETH価格参照の仕組みを利用
 韓国の全北銀行、国内銀行初のビットコイン担保ウォン融資を実施＝報道 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>平木 昌宏</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルシ、トランプ次期報道官の起用を的中させた取引を調査　確率1％]]></title>
-        <id>https://coinpost.jp/?p=742393</id>
-        <link href="https://coinpost.jp/?p=742393"/>
-        <updated>2026-10-12T03:54:54.000Z</updated>
-        <summary type="html"><![CDATA[米予測市場カルシは、トランプ大統領の新報道官にケイティ・ザカリア氏が指名される直前の不審な取引を調査中だ。確率約1%の予想が的中し、約173ドルが約9,600ドルになる見込み。指名報道の20分前に行われた取引もある。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインが8万4000ドル手前で反発一服──トランプ氏の「エネルギー停戦」、LedgerとColdcardのハッキング懸念を上回るか【価格分析】]]></title>
-        <id>https://www.nadanews.com/?p=372094</id>
-        <link href="https://www.nadanews.com/372094/"/>
-        <updated>2026-10-12T03:53:41.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは10月11日、トランプ大統領の「エネルギー停戦」発表を受け8万3935ドルまで反発した。一方でLedger関連ウォレットから9290万ドル相当が流出したと報じられ、Coldcardの公式Xアカウントも乗っ取られるなど、ハードウェアウォレットを巡るセキュリティ懸念が広がっている。
-ビットコインが8万4000ドル手前で反発一服──トランプ氏の「エネルギー停戦」、LedgerとColdcardのハッキング懸念を上回るか【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX元幹部、ネットフリックスによる事件の「ラブストーリー」化を批判]]></title>
-        <id>https://coinpost.jp/?p=742382</id>
-        <link href="https://coinpost.jp/?p=742382"/>
-        <updated>2026-10-12T03:05:44.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所FTX元COOのコンスタンス・ワン氏が、ネットフリックスの新ドラマ「The Altruists」の予告編について、職場や人物像の描写は実態と異なると批判している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパーリキッド系1000倍DEX、価格操作でトレーダーが約2億円利益か]]></title>
-        <id>https://coinpost.jp/?p=742378</id>
-        <link href="https://coinpost.jp/?p=742378"/>
-        <updated>2026-10-12T02:35:17.000Z</updated>
-        <summary type="html"><![CDATA[ハイパーリキッド上で10日に取引を始めた最大1,000倍レバレッジのDEX「Papertrade」で、あるウォレットが参照価格を動かす取引を繰り返し、約128万ドルの利益を得た。運営は建玉上限の緩さが原因と説明し、引き締めに動いた。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP不正生成の脆弱性、悪用防止で投票経ず修正　XRPL財団が説明]]></title>
-        <id>https://coinpost.jp/?p=742370</id>
-        <link href="https://coinpost.jp/?p=742370"/>
-        <updated>2026-10-12T01:32:43.000Z</updated>
-        <summary type="html"><![CDATA[XRPレジャーで新たなXRPを生み出せる脆弱性が見つかった問題で、XRPL財団が12日に経緯を説明した。同財団によると、XRPは生成されておらず、悪用の形跡もない。修正版をアメンドメント投票を経ずに適用した理由も示した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[企業ではSAP、個人ではGalaxy──ステーブルコインが“いつもの場所”に入り始めた【編集長コラム】]]></title>
-        <id>https://www.nadanews.com/?p=372051</id>
-        <link href="https://www.nadanews.com/372051/"/>
-        <updated>2026-10-12T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[祝日なので、昨日に続いて、編集長コラムをもう1本。 今回は、USDCをめぐって先週伝えた2つのニュースから、ステーブルコインの普及について考えてみたい。 1つは ...
-企業ではSAP、個人ではGalaxy──ステーブルコインが“いつもの場所”に入り始めた【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>増田隆幸</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨ウォレット大手レジャー、被害デバイス内に不正ハードウェアを確認]]></title>
-        <id>https://coinpost.jp/?p=742358</id>
-        <link href="https://coinpost.jp/?p=742358"/>
-        <updated>2026-10-12T00:23:39.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ウォレット大手レジャーは販売店クリプトビリス経由の被害者端末に不正ハードウェアを確認した。流出額は分析企業により約9,320万ドルとも推計されているところだ。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
 </feed>
