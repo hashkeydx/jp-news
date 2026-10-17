@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=372880",
+          "author": "平木 昌宏",
+          "description": "グーグルは10月15日、量子チップ「Willow（ウィロー）」を使い、量子計算に必要な特殊な状態を準備する際のエラーを約40分の1に減らしたと発表した。成果は同 ...\nGoogleの量子コンピューター研究で新成果──初期のビットコインに将来的な脅威＝CoinDesk first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/372880/",
+          "publishedOn": "2026-10-17T08:00:00.000Z",
+          "wordCount": 2537,
+          "title": "Googleの量子コンピューター研究で新成果──初期のビットコインに将来的な脅威＝CoinDesk",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/AdobeStock_890178941_Editorial_Use_Only_1200x800.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=372763",
           "author": "平木 昌宏",
           "description": "テスラのイーロン・マスク最高経営責任者（CEO）が10月15日に「空飛ぶロードスター」を披露した後、暗号資産（仮想通貨）取引所Hyperliquid（ハイパーリ ...\n米株閉場中、ブロックチェーン上でテスラ先物取引急増──「空飛ぶロードスター」披露受け＝CoinDesk first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -740,16 +750,6 @@
           "wordCount": 2186,
           "title": "Papertradeで約2億円の利益記録──ETH価格参照の仕組みを利用か＝The Block",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/AdobeStock_2204449181.jpeg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=372107",
-          "author": "エックスウィン",
-          "description": "10月は、ビットコインが上昇しやすい月として「アップトーバー（Uptober）」と呼ばれる。しかし、今年の10月前半は、期待どおりの一直線の上昇とはならなかった ...\nビットコイン、10月の底固めに兆し──「アップトーバー」を支える需給の変化と中間選挙【エックスウィン】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/372107/",
-          "publishedOn": "2026-10-12T21:00:00.000Z",
-          "wordCount": 2559,
-          "title": "ビットコイン、10月の底固めに兆し──「アップトーバー」を支える需給の変化と中間選挙【エックスウィン】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/845738220_1514532247063614_4048961074373778511_n_1200x800.jpg"
         }
       ]
     },
@@ -764,6 +764,36 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=743447",
+          "author": "菊谷ルイス",
+          "description": "ビザは15日、ビザ・ダイレクトで国際送金の資金をUSDCで事前入金できる機能の商用運用を始めた。従来の資金調達の時間枠に頼らず、インヨ・グローバル経由で24時間利用できる。",
+          "link": "https://coinpost.jp/?p=743447",
+          "publishedOn": "2026-10-17T04:50:33.000Z",
+          "wordCount": 3150,
+          "title": "ビザ、ステーブルコインUSDCの事前入金を商用化　国際送金で24時間利用可",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/visa-stable-ousd.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/visa-stable-ousd.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=743450",
+          "author": "A.Yamada",
+          "description": "IMFは世界金融安定報告書で、トークン化株式価値の7割超をオンドとバックドが占めると指摘。24時間取引や少額取引での需要を確認した一方、流動性の低さと高い変動率を課題に挙げた。",
+          "link": "https://coinpost.jp/?p=743450",
+          "publishedOn": "2026-10-17T04:20:54.000Z",
+          "wordCount": 3138,
+          "title": "トークン化株式市場の70%超、オンドとバックド2社が支配＝IMFレポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/shutterstock_529964503-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/10/shutterstock_529964503-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=743421",
           "author": "菊谷ルイス",
