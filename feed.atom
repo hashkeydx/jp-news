@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-17T17:07:05.758Z</updated>
+    <updated>2026-10-17T19:22:53.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
@@ -2037,107 +2037,6 @@ Ledger、不正装置の仕組みを説明 first appeared on NADA NEWS（ナダ�
         <link href="https://www.neweconomy.jp/posts/616051"/>
         <updated>2026-10-13T07:27:47.000Z</updated>
         <summary type="html"><![CDATA[OKJがNIGHT取扱へ 国内暗号資産（仮想通貨）取引所OKJが、暗号資産「ミッドナイト（NIGHT）」の取り扱い予定を10月10日に発表した。取扱い開始は10月13日17:00の予定だ。 なおNIGHTが国内暗号資産取 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPレジャーで権限委任機能が有効化、秘密鍵を共有せず操作を分担]]></title>
-        <id>https://www.neweconomy.jp/?p=616034</id>
-        <link href="https://www.neweconomy.jp/posts/616034"/>
-        <updated>2026-10-13T07:17:58.000Z</updated>
-        <summary type="html"><![CDATA[送金やトークン利用者の承認を別アカウントに委任可能に XRPレジャー（XRP Ledger：XRPL）のメインネットで、権限委任機能「パーミッション・デリゲーションV1_1（PermissionDelegationV1_ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT取引所Blur、事実上のサービス終了へ──取引サイトを11月閉鎖]]></title>
-        <id>https://www.nadanews.com/?p=372222</id>
-        <link href="https://www.nadanews.com/372222/"/>
-        <updated>2026-10-13T07:07:19.000Z</updated>
-        <summary type="html"><![CDATA[NFT取引所のBlur（ブラー）は10月13日、取引サイト「blur.io」を11月12日に閉じると公式Xで発表した。 同社によると、閉じるのは利用者が操作する ...
-NFT取引所Blur、事実上のサービス終了へ──取引サイトを11月閉鎖 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタ、新AI「Muse Wonder」提供開始、上位版は第三者評価で「Claude Sonnet 5.5」と同スコア]]></title>
-        <id>https://www.neweconomy.jp/?p=616017</id>
-        <link href="https://www.neweconomy.jp/posts/616017"/>
-        <updated>2026-10-13T07:01:39.000Z</updated>
-        <summary type="html"><![CDATA[個人・業務向けAIエージェントとコーディングの性能を前面に 米メタ（Meta）で最も高性能と位置づける新たなAIモデル「ミューズ・ワンダー（Muse Wonder）」と「ミューズ・ワンダー・フル（Muse Wonder  […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP保有企業エバーノースがナスダック上場、元コインベース幹部をCIOに]]></title>
-        <id>https://www.neweconomy.jp/?p=616006</id>
-        <link href="https://www.neweconomy.jp/posts/616006"/>
-        <updated>2026-10-13T06:48:41.000Z</updated>
-        <summary type="html"><![CDATA[約4億7,300万XRP保有、1株当たりの保有量拡大を目指す 暗号資産（仮想通貨）「XRP」の保有・運用を手がける米エバーノース・ホールディングス（Evernorth Holdings：以下、エバーノース）が、米ナスダッ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPレジャーでXRP不正生成の脆弱性を修正、通常の投票手続きを省略し緊急対応]]></title>
-        <id>https://www.neweconomy.jp/?p=615997</id>
-        <link href="https://www.neweconomy.jp/posts/615997"/>
-        <updated>2026-10-13T06:40:38.000Z</updated>
-        <summary type="html"><![CDATA[固定供給量を超えるXRPの生成リスク、悪用の証拠なし XRPレジャー（XRP Ledger：XRPL）のサーバーソフトウェア「xrpld」で、暗号資産（仮想通貨）「XRP」を不正生成できる脆弱性が修正された。修正の詳細は […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンソロピックの「Claude」、テスト中に殺人事件の架空の目撃情報を警察に通報]]></title>
-        <id>https://www.neweconomy.jp/?p=615976</id>
-        <link href="https://www.neweconomy.jp/posts/615976"/>
-        <updated>2026-10-13T06:20:58.000Z</updated>
-        <summary type="html"><![CDATA[未解決殺人事件の情報提供フォームに送信、捜査には回らず 生成AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）が、同社のAIモデルが米フィラデルフィア警察に架空の目撃情報を通報した事例を10 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンAIとアンソロピック、AI重大事故後の反発への対応検討＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=615967</id>
-        <link href="https://www.neweconomy.jp/posts/615967"/>
-        <updated>2026-10-13T06:12:51.000Z</updated>
-        <summary type="html"><![CDATA[事故後の社会的・政治的反発への備えを検討 AI開発を手がける米オープンAI（OpenAI）と米アンソロピック（Anthropic）の各社幹部が、AIによる重大事故後の社会的・政治的反発への対応を検討していると、米メディア […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ユニチェーン、OPエンタープライズへ移行。OPスタックチェーン間の相互運用に向け]]></title>
-        <id>https://www.neweconomy.jp/?p=615951</id>
-        <link href="https://www.neweconomy.jp/posts/615951"/>
-        <updated>2026-10-13T06:02:06.000Z</updated>
-        <summary type="html"><![CDATA[ユニチェーンのメインネットは10月29日に移行予定 分散型取引所（DEX）「ユニスワップ（Uniswap）」の開発を手がけるユニスワップラボ（Uniswap Labs）が、同社開発の「ユニチェーン（Unichain）」を […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジーがビットコイン追加購入、総保有数は84万8250BTCに]]></title>
-        <id>https://www.neweconomy.jp/?p=615935</id>
-        <link href="https://www.neweconomy.jp/posts/615935"/>
-        <updated>2026-10-13T05:54:57.000Z</updated>
-        <summary type="html"><![CDATA[Strategyが250BTCを追加購入 上場企業によるビットコイン（BTC）の保有数で世界第1位のストラテジー（Strategy）が、ビットコインの追加購入を10月12日に発表した。 今回ストラテジーは10月5日から1 […]]]></summary>
-        <author>
-            <name>TanakaShuya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、「Binance Pool」と関連サービスを11/10に終了へ]]></title>
-        <id>https://www.neweconomy.jp/?p=615923</id>
-        <link href="https://www.neweconomy.jp/posts/615923"/>
-        <updated>2026-10-13T05:42:34.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスがマイニング関連サービスを終了 海外大手暗号資産（仮想通貨）取引所バイナンス（Binance）が、マイニングサービス「バイナンスプール（Binance Pool）」および関連サービスの終了予定を10月13日に発 […]]]></summary>
         <author>
             <name>OtsugaShinya</name>
         </author>
