@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=372836",
+          "author": "増田隆幸",
+          "description": "「660万分の1」になってしまった。 タイムズカーから、不正アクセスによって漏れた個人情報に私の情報も含まれていたというメールが届いた。 漏れたのは、氏名、住所 ...\n私の個人情報も漏れた──タイムズカー660万件で考えた「預けすぎる社会」【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/372836/",
+          "publishedOn": "2026-10-18T01:00:00.000Z",
+          "wordCount": 2380,
+          "title": "私の個人情報も漏れた──タイムズカー660万件で考えた「預けすぎる社会」【編集長コラム】",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/nadanews_top-2026-10-17T085350.056.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=372796",
           "author": "Delia Rojo",
           "description": "エックスウィン アメリカマーケットリサーチアナリストのデリア・ロホです。 サンフランシスコから、今回は少し個人的なお話をしたいと思います。 最近、アメリカで暮ら ...\nアメリカは自由を失ったのではない。「希望」を失いかけているのかもしれない【サンフランシスコレポート】 first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -660,16 +670,6 @@
           "wordCount": 2362,
           "title": "CEXとDEXの取引高が同時に回復──暗号資産市場で進む「取引の場」の変化【エックスウィン】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/844889068_1797157121329610_431990610191505190_n_1200x800.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=372264",
-          "author": "Ibrahim Ajibade",
-          "description": "ビットコインは10月13日、Ledgerのサプライチェーン懸念と米インフレ指標待ちの中、8万1130ドルから8万3200ドルまで反発した。現物ETFは10月の累計純流出が拡大する一方、Polymarketでは月末までに8万5000ドル到達の確率が78%に上昇した。\nビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/372264/",
-          "publishedOn": "2026-10-13T14:09:46.000Z",
-          "wordCount": 2617,
-          "title": "ビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/image1-9.jpg"
         }
       ]
     },
@@ -684,6 +684,21 @@
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=743353",
+          "author": "CoinPost編集部",
+          "description": "ビットコイン（BTC）はCPI・PPI上振れを受け一時下落するも、8万ドル水準を維持し底堅さを示した。目先はFOMC金利観測の行方と8万ドルのサポート継続が焦点となる。",
+          "link": "https://coinpost.jp/?p=743353",
+          "publishedOn": "2026-10-18T02:30:53.000Z",
+          "wordCount": 2940,
+          "title": "ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点｜bitbankアナリスト寄稿",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=743294",
           "author": "CoinPost編集部",
@@ -2215,16 +2230,6 @@
           "wordCount": 728,
           "title": "韓国、未申告の暗号資産取引所など27サイトのアクセス遮断決定。KuCoinやMEXCも対象に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14135350/f44b3cc41fcd70259c900afc28c2d8cf.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616125",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/616125",
-          "publishedOn": "2026-10-13T13:20:44.000Z",
-          "wordCount": 781,
-          "title": "【10/13話題】SBIらがAIエージェント活用の日韓金融・決済で基本合意、エバーノースがナスダック上場、XRP不正生成の脆弱性を修正など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/13191037/3528bd574cffc27c3aacf1342a00e812.jpg"
         }
       ]
     }

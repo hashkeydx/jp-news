@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-18T00:59:48.061Z</updated>
+    <updated>2026-10-18T05:51:25.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインCPI・PPI上振れも8万ドル維持、FOMC金利観測が焦点｜bitbankアナリスト寄稿]]></title>
+        <id>https://coinpost.jp/?p=743353</id>
+        <link href="https://coinpost.jp/?p=743353"/>
+        <updated>2026-10-18T02:30:53.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）はCPI・PPI上振れを受け一時下落するも、8万ドル水準を維持し底堅さを示した。目先はFOMC金利観測の行方と8万ドルのサポート継続が焦点となる。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私の個人情報も漏れた──タイムズカー660万件で考えた「預けすぎる社会」【編集長コラム】]]></title>
+        <id>https://www.nadanews.com/?p=372836</id>
+        <link href="https://www.nadanews.com/372836/"/>
+        <updated>2026-10-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「660万分の1」になってしまった。 タイムズカーから、不正アクセスによって漏れた個人情報に私の情報も含まれていたというメールが届いた。 漏れたのは、氏名、住所 ...
+私の個人情報も漏れた──タイムズカー660万件で考えた「預けすぎる社会」【編集長コラム】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
+        <author>
+            <name>増田隆幸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース（10/16）｜英国の押収BTC・レジャー関連の資産流出・6年超休眠のBTCの動向まとめ]]></title>
         <id>https://coinpost.jp/?p=743294</id>
@@ -1909,27 +1930,6 @@ CEXとDEXの取引高が同時に回復──暗号資産市場で進む「取�
         <summary type="html"><![CDATA[仮想通貨ウォレット大手レジャーは13日、東南アジアの販売店クリプトビリス経由の製品に仕込まれた不正部品が、画面表示のリカバリーフレーズを読み取りLTEで送信する手口を明らかにした。確認済みの損失はすべてクリプトビリス経由だという。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】]]></title>
-        <id>https://www.nadanews.com/?p=372264</id>
-        <link href="https://www.nadanews.com/372264/"/>
-        <updated>2026-10-13T14:09:46.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは10月13日、Ledgerのサプライチェーン懸念と米インフレ指標待ちの中、8万1130ドルから8万3200ドルまで反発した。現物ETFは10月の累計純流出が拡大する一方、Polymarketでは月末までに8万5000ドル到達の確率が78%に上昇した。
-ビットコインの9万ドル再挑戦、米CPIとタイでのIMF総会が鍵【価格分析】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
-        <author>
-            <name>Ibrahim Ajibade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/13話題】SBIらがAIエージェント活用の日韓金融・決済で基本合意、エバーノースがナスダック上場、XRP不正生成の脆弱性を修正など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=616125</id>
-        <link href="https://www.neweconomy.jp/posts/616125"/>
-        <updated>2026-10-13T13:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
 </feed>
