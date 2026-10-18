@@ -12,6 +12,16 @@
       "siteUrl": "https://www.nadanews.com",
       "articles": [
         {
+          "id": "https://www.nadanews.com/?p=373030",
+          "author": "Shoko Galaviz",
+          "description": "ビットコイン（BTC）は10月19日早朝、8万1000ドル前後で軟調に推移している。 前週に一時8万ドルを割り込んだ後、8万2000ドル台まで反発したものの、米 ...\nビットコイン8.1万ドル前後、米株安と現物ETFの資金流出が重荷 first appeared on NADA NEWS（ナダ・ニュース）.",
+          "link": "https://www.nadanews.com/373030/",
+          "publishedOn": "2026-10-18T20:23:36.000Z",
+          "wordCount": 2255,
+          "title": "ビットコイン8.1万ドル前後、米株安と現物ETFの資金流出が重荷",
+          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/06/shutterstock_2458412937.jpg"
+        },
+        {
           "id": "https://www.nadanews.com/?p=373001",
           "author": "平木 昌宏",
           "description": "暗号資産（仮想通貨）データ分析のCoin Metrics（コインメトリクス）は10月6日、ミームコインの半数が、取引開始から約17日以内に観測期間中の最高値を付 ...\nミームコイン、半数が取引開始から17日以内に価格のピーク＝Coin Metrics first appeared on NADA NEWS（ナダ・ニュース）.",
@@ -560,16 +570,6 @@
           "wordCount": 2733,
           "title": "1カ月で7万超のウォレットがETHステーキングから退出、価格への影響は？【価格分析】",
           "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/bd3943be87ad18ec6fcd0eec82462859.jpg"
-        },
-        {
-          "id": "https://www.nadanews.com/?p=371967",
-          "author": "NADA NEWS編集部",
-          "description": "SBIホールディングスは10月13日、韓国のKB国民カードなどと、日韓間の金融・決済サービスに関する基本合意書を締結したと発表した。利用者に代わって予約や決済な ...\nSBI、韓国大手カード会社と提携──ステーブルコイン決済も検討 first appeared on NADA NEWS（ナダ・ニュース）.",
-          "link": "https://www.nadanews.com/371967/",
-          "publishedOn": "2026-10-14T06:30:00.000Z",
-          "wordCount": 2259,
-          "title": "SBI、韓国大手カード会社と提携──ステーブルコイン決済も検討",
-          "imageUrl": "https://www.nadanews.com/wp-content/uploads/2026/10/AdobeStock_511491482_Editorial_Use_Only_1200x800-990x660_1200x800.jpg"
         }
       ]
     },
@@ -1303,21 +1303,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/ledger-postpone.jpeg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/05/ledger-postpone.jpeg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=742891",
-          "author": "Enzo",
-          "description": "SBIホールディングスは14日、吉本興業HDとエンタメ領域で戦略的業務提携に向け基本合意したと発表した。合弁会社を設立するほか、セキュリティトークン基盤を活用し、IP・コンテンツ領域で新たな資金調達手法の創出に取り組む。",
-          "link": "https://coinpost.jp/?p=742891",
-          "publishedOn": "2026-10-14T07:24:12.000Z",
-          "wordCount": 3120,
-          "title": "SBIと吉本興業が合弁へ　デジタル証券でコンテンツ資金調達の新手法めざす",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/SBI-YOSHIMOTO.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/SBI-YOSHIMOTO.png"
         }
       ]
     },
@@ -1705,96 +1690,6 @@
           "wordCount": 774,
           "title": "【10/14話題】レジャーの不正部品による復元フレーズ窃取の手口公表、メタプラネットがユーロ円建て転換社債を初発行へなど（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14191020/915871ce0622201b80db566c2a1783b9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616605",
-          "author": "HitomotoToshikazu",
-          "description": "21SharesがAnthropicの評価額連動ETP提供開始 スイスの資産運用会社21シェアーズ（21Shares）が、生成AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）の市場で推定さ […]",
-          "link": "https://www.neweconomy.jp/posts/616605",
-          "publishedOn": "2026-10-14T08:36:39.000Z",
-          "wordCount": 807,
-          "title": "21シェアーズ、アンソロピックの推定評価額に連動する合成ETP「CLAU」を欧州で提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14165645/501e32e9ac3472e8fe04ae15e11ea833.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616619",
-          "author": "OtsugaShinya",
-          "description": "企業・金融機関によるUSDT・USATの活用拡大を支援 米ドル建てステーブルコイン「USDT」を発行するテザー（Tether）が、金融インフラ企業EFYファイナンス（EFY Finance）への出資を10月13日に発表し […]",
-          "link": "https://www.neweconomy.jp/posts/616619",
-          "publishedOn": "2026-10-14T08:14:40.000Z",
-          "wordCount": 601,
-          "title": "テザー、EFYファイナンスに出資。中南米でステーブルコイン利用基盤の強化へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14170815/eb3d75613f497ce81739f604fa6c31ca.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616613",
-          "author": "OtsugaShinya",
-          "description": "米国債の購入・精算から短期資金調達までを連携 米大手金融機関BNY（バンク・オブ・ニューヨーク・メロン）が、米マーケットメーカーのシタデル・セキュリティーズ（Citadel Securities）と、トークン化した米国債 […]",
-          "link": "https://www.neweconomy.jp/posts/616613",
-          "publishedOn": "2026-10-14T08:08:20.000Z",
-          "wordCount": 727,
-          "title": "BNYとシタデル・セキュリティーズ、トークン化米国債のレポ取引を実施",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14170815/00be3a6a124e7568130289407d2a071f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616595",
-          "author": "watanabeyousuke",
-          "description": "ソラナ「Alpenglow」が10月21日にメインネット稼働へ レイヤー1ブロックチェーン「ソラナ（Solana）」の次期コンセンサスアップグレード「アルペングロー（Alpenglow）」を、約1週間後にメインネットベー […]",
-          "link": "https://www.neweconomy.jp/posts/616595",
-          "publishedOn": "2026-10-14T07:47:38.000Z",
-          "wordCount": 783,
-          "title": "ソラナ「Alpenglow」、10/21にメインネット稼働へ。ファイナリティ約150ミリ秒目指す",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14164734/af1c8fdeae430222a9829897cd367230.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616575",
-          "author": "watanabeyousuke",
-          "description": "アプトスで暗号化メモリプールがメインネット稼働 レイヤー1ブロックチェーン「アプトス（Aptos）」のメインネットで「暗号化メモリプール（Encrypted Mempool）」が稼働を開始した。同チェーンを支援するアプト […]",
-          "link": "https://www.neweconomy.jp/posts/616575",
-          "publishedOn": "2026-10-14T07:21:01.000Z",
-          "wordCount": 615,
-          "title": "アプトス、メインネットで「暗号化メモリプール」稼働。フロントランニング対策に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14162056/c284f29bb2aeaf69b5c9c74ac23d2864.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616572",
-          "author": "HitomotoToshikazu",
-          "description": "Binance AIが正式リリース 海外大手暗号資産（仮想通貨）取引所バイナンス（Binance）が、「バイナンスAI（Binance AI）」の正式リリースを10月12日に発表した。 バイナンスAIは、利用者の保有資産 […]",
-          "link": "https://www.neweconomy.jp/posts/616572",
-          "publishedOn": "2026-10-14T07:10:20.000Z",
-          "wordCount": 787,
-          "title": "バイナンスAIが正式リリース、対象ユーザーへ順次提供",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14160650/5e030aea79d7551a4211d52a718ff9dd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616567",
-          "author": "OtsugaShinya",
-          "description": "S&P DJIの指数をKaikoがトークン化 トレーディング企業のDRWと金融サービス企業のマレックス（Marex）が、ブロックチェーン「カントンネットワーク（Canton Network）」上で店頭（OTC）ス […]",
-          "link": "https://www.neweconomy.jp/posts/616567",
-          "publishedOn": "2026-10-14T06:45:54.000Z",
-          "wordCount": 747,
-          "title": "DRWとマレックスがOTCスワップ取引を実行、カントン上で初の事例に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14154412/b994fd0dfc7b1f82e0d82c9e21eda461.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616547",
-          "author": "HitomotoToshikazu",
-          "description": "Bybitが米国株・ETFの取引サービス開始 海外大手暗号資産（仮想通貨）取引所バイビット（Bybit）が、1,000銘柄以上の米国上場株式とETF（上場投資信託）を取引できるサービスの提供開始を10月12日に発表した。 […]",
-          "link": "https://www.neweconomy.jp/posts/616547",
-          "publishedOn": "2026-10-14T06:09:22.000Z",
-          "wordCount": 732,
-          "title": "バイビット、米国株・ETFの取引サービス開始、1000銘柄超がUSDCで取引可能に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14150915/5834642c6c473745b39f3285674ea09c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=616548",
-          "author": "OtsugaShinya",
-          "description": "アプリ内の決済やAIエージェントによる商取引に対応 米決済大手ストライプ（Stripe）傘下でウォレット基盤を提供するプリヴィ（Privy）が、米リップル（Ripple）と提携し、XRPレジャー（XRP Ledger：X […]",
-          "link": "https://www.neweconomy.jp/posts/616548",
-          "publishedOn": "2026-10-14T06:08:13.000Z",
-          "wordCount": 837,
-          "title": "リップルとストライプ傘下プリヴィが提携、XRPL向けウォレット基盤を提供へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/14145835/0b9c78ba96a808568afd6c51fad46e01.jpg"
         }
       ]
     }
