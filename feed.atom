@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-20T16:58:40.037Z</updated>
+    <updated>2026-10-20T20:33:16.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スイス、ビットコイン現物ETFを初承認　一般投資家向け]]></title>
+        <id>https://coinpost.jp/?p=744035</id>
+        <link href="https://coinpost.jp/?p=744035"/>
+        <updated>2026-10-20T20:00:44.000Z</updated>
+        <summary type="html"><![CDATA[スイス金融市場監督機構（FINMA）は20日、仮想通貨ビットコインに直接投資する一般投資家向けの現物ETFを初承認した。分散投資規則の例外を認めたうえで、リスク低減策の実施を求め、高リスクだとも警告。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【10/20話題】ビットトレードがUPCの実店舗決済を実証へ、JPM Coinがイーサリアムで提供開始、マスターカードのステーブルコイン決済リスク分析ツールなど（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=618708</id>
@@ -1301,26 +1311,6 @@ BTC（ビットコイン）はFOMC前に底堅い展開か、米企業決算と�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ANAP、ビットコイン評価損43.7億円を計上　前期の評価益12億円から反転]]></title>
-        <id>https://coinpost.jp/?p=743366</id>
-        <link href="https://coinpost.jp/?p=743366"/>
-        <updated>2026-10-16T08:24:38.000Z</updated>
-        <summary type="html"><![CDATA[ANAPホールディングスは15日、2026年8月期に保有ビットコインの評価損43億7,466万円を計上したと発表。最終損失は73億2,300万円に拡大した。前期の評価益からの反転と、期中に開示した評価損の推移をまとめる。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3メガバンクら、円建てステーブルコイン共同発行の実証完了。国際送金への活用も検証]]></title>
-        <id>https://www.neweconomy.jp/?p=617525</id>
-        <link href="https://www.neweconomy.jp/posts/617525"/>
-        <updated>2026-10-16T08:05:40.000Z</updated>
-        <summary type="html"><![CDATA[3メガバンクが共同発行モデルとクロスボーダー決済を検証 みずほ銀行、三菱UFJ銀行、三井住友銀行、三菱UFJ信託銀行、TISIの5社が、複数銀行によるステーブルコインの共同発行とクロスボーダー決済の高度化に関する実証実験 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3メガ銀、ステーブルコイン共同発行の実現性を確認と発表]]></title>
         <id>https://www.nadanews.com/?p=372715</id>
         <link href="https://www.nadanews.com/372715/"/>
@@ -1329,46 +1319,6 @@ BTC（ビットコイン）はFOMC前に底堅い展開か、米企業決算と�
 3メガ銀、ステーブルコイン共同発行の実現性を確認と発表 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>栃山 直樹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンソロピック、米国防総省の排除措置を支持した判決に再審理請求]]></title>
-        <id>https://www.neweconomy.jp/?p=617501</id>
-        <link href="https://www.neweconomy.jp/posts/617501"/>
-        <updated>2026-10-16T07:54:20.000Z</updated>
-        <summary type="html"><![CDATA[AIの軍事利用制限を巡る対立で 米AI開発企業アンソロピック（Anthropic）が、米国防総省による同社の「安全保障上のサプライチェーンリスク」指定を支持した判決について、再審理を10月13日に申し立てた。米コロンビア […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英上場スマーター・ウェブ、83BTCのビットコインを追加取得　保有2830BTCに]]></title>
-        <id>https://coinpost.jp/?p=743362</id>
-        <link href="https://coinpost.jp/?p=743362"/>
-        <updated>2026-10-16T07:51:25.000Z</updated>
-        <summary type="html"><![CDATA[英上場のスマーター・ウェブ・カンパニーが83BTCを約520万ポンドで追加取得し、ビットコイン保有量は2,830BTCに。優先株の調達資金でコインベースからの借入を圧縮したほか、累計のBTC売却額も開示した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンソロピック、シンガポールにオフィス開設。政府とAI安全性・導入促進で覚書締結]]></title>
-        <id>https://www.neweconomy.jp/?p=617493</id>
-        <link href="https://www.neweconomy.jp/posts/617493"/>
-        <updated>2026-10-16T07:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Anthropicがシンガポール政府とMOU締結 生成AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）が、シンガポールにオフィスを開設し、同国のデジタル開発情報省（MDDI）と覚書（MOU […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー、AIエージェント向け決済基盤「AIsa」に戦略的出資]]></title>
-        <id>https://www.neweconomy.jp/?p=617486</id>
-        <link href="https://www.neweconomy.jp/posts/617486"/>
-        <updated>2026-10-16T07:43:43.000Z</updated>
-        <summary type="html"><![CDATA[TetherがAIsaに戦略的出資 ステーブルコイン事業を展開するテザー（Tether）の独立投資部門テザー・キャピタル（Tether Capital）が、AIエージェント向け決済基盤を提供する米AIsaに戦略的出資した […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
     <entry>
@@ -1383,66 +1333,6 @@ ANAP、ビットコイン評価損43.7億円を計上──株価11%超下落 fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[スタートバーン、「Startrail」をアートから物理資産全般へ拡張。GPU事業も始動]]></title>
-        <id>https://www.neweconomy.jp/?p=617468</id>
-        <link href="https://www.neweconomy.jp/posts/617468"/>
-        <updated>2026-10-16T07:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Startrailの対象拡大、第一弾でGPU事業を立ち上げ 国内アートテック企業のスタートバーン（Startbahn）が、ブロックチェーンインフラ「スタートレイル（Startrail）」の事業領域を拡張し、第一弾としてG […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSCI、「非事業会社」除外の新基準採用を決定。ストラテジーやメタプラなどに影響も、11月末適用へ]]></title>
-        <id>https://www.neweconomy.jp/?p=617460</id>
-        <link href="https://www.neweconomy.jp/posts/617460"/>
-        <updated>2026-10-16T07:09:37.000Z</updated>
-        <summary type="html"><![CDATA[8月の提案を採用、対象銘柄は11月11日に公表へ 米指数算出会社MSCIが、8月に公表していた「非事業会社（Non-Operating Companies）」を指数の採用対象外とする基準案の導入を決定した。同社が10月1 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マスターカードとBVNK、法定通貨とステーブルコイン対応の決済基盤を提供開始。銀行送金やカード決済も統合]]></title>
-        <id>https://www.neweconomy.jp/?p=617453</id>
-        <link href="https://www.neweconomy.jp/posts/617453"/>
-        <updated>2026-10-16T06:49:03.000Z</updated>
-        <summary type="html"><![CDATA[マスターカードとBVNKが企業向け決済基盤を提供開始 米決済大手マスターカード（Mastercard）と、ステーブルコイン決済インフラを提供するBVNKが、企業向け決済基盤「マスターカード・グローバル・マネー・プラットフ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リップル社、株式や金属などに連動する無期限スワップを機関向けに開始]]></title>
-        <id>https://coinpost.jp/?p=743347</id>
-        <link href="https://coinpost.jp/?p=743347"/>
-        <updated>2026-10-16T06:45:42.000Z</updated>
-        <summary type="html"><![CDATA[リップル社の機関投資家向けプライムブローカー「リップルプライム」が、株式やETF、金属、為替など100超の市場を参照するRWA無期限スワップの提供を始めた。ハイパーリキッド上の先物を参照し、24時間取引できる。担保にはRLUSDも使える（法域により異なる）。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ヴァンエック、Lidoの「stETH」保有型ETFの登録届出書撤回を米SECに申請]]></title>
-        <id>https://www.neweconomy.jp/?p=617445</id>
-        <link href="https://www.neweconomy.jp/posts/617445"/>
-        <updated>2026-10-16T06:42:57.000Z</updated>
-        <summary type="html"><![CDATA[VanEck Lido Staked Ethereum ETFが撤回 米資産運用会社ヴァンエック（VanEck）が計画していた、リキッドステーキングトークン（LST）「stETH」保有のETF（上場投資信託）について、登 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スタークネット、耐量子L1への移行調査の是非を問う投票開始。イーサリアムからの独立検討で]]></title>
-        <id>https://www.neweconomy.jp/?p=617433</id>
-        <link href="https://www.neweconomy.jp/posts/617433"/>
-        <updated>2026-10-16T06:35:18.000Z</updated>
-        <summary type="html"><![CDATA[スタークネットの独立L1移行に向けた調査の是非を問う投票開始 イーサリアム（Ethereum）のレイヤー2（L2）ネットワーク「スタークネット（Starknet）」のガバナンスで、量子コンピューターへの耐性を備えた独立し […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[米エバーノース、保有XRP運用へ──リップルなど4社と連携、約970億円相当]]></title>
         <id>https://www.nadanews.com/?p=372678</id>
         <link href="https://www.nadanews.com/372678/"/>
@@ -1454,76 +1344,6 @@ ANAP、ビットコイン評価損43.7億円を計上──株価11%超下落 fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[米インタラクティブ・ブローカーズ、zerohashを通じETHステーキング提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=617423</id>
-        <link href="https://www.neweconomy.jp/posts/617423"/>
-        <updated>2026-10-16T06:29:48.000Z</updated>
-        <summary type="html"><![CDATA[対象顧客は保有ETHで報酬獲得、報酬もステーキング残高に加算 米オンライン証券会社インタラクティブ・ブローカーズ（Interactive Brokers：IBKR）が、暗号資産（仮想通貨）「イーサリアム（Ethereum […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米フェデレーテッド・ハーミーズと米プロメテウム、トークン化ファンド提供へ]]></title>
-        <id>https://www.neweconomy.jp/?p=617414</id>
-        <link href="https://www.neweconomy.jp/posts/617414"/>
-        <updated>2026-10-16T06:12:49.000Z</updated>
-        <summary type="html"><![CDATA[今回の提携に基づく初商品は2027年第1四半期に投入予定 米資産運用会社フェデレーテッド・ハーミーズ（Federated Hermes）と、米デジタル資産インフラ企業プロメテウム（Prometheum）が、トークン化ファ […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットフライヤー、ビットコインから分岐予定の「eCash（ECX）」付与・取扱い予定なし]]></title>
-        <id>https://www.neweconomy.jp/?p=617405</id>
-        <link href="https://www.neweconomy.jp/posts/617405"/>
-        <updated>2026-10-16T06:05:30.000Z</updated>
-        <summary type="html"><![CDATA[BTCの売買・送受取は継続する方針 国内暗号資産（仮想通貨）取引所ビットフライヤー（bitFlyer）が、ビットコイン（BTC）から分岐予定の新たな暗号資産「イーキャッシュ（eCash：ECX）」への対応方針を10月15 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBIら、ドル建てOUSD連合に参画　円建てJPYSCと相互運用を検討]]></title>
-        <id>https://coinpost.jp/?p=743339</id>
-        <link href="https://coinpost.jp/?p=743339"/>
-        <updated>2026-10-16T05:53:09.000Z</updated>
-        <summary type="html"><![CDATA[SBIホールディングスとスターテイルが、米ドル建てステーブルコインOUSDを推進するオープンスタンダードに参画した。ビザやコインベースなど140社超が加わる枠組みで、円建てステーブルコインJPYSCとの相互運用に向けた実証実験を検討する。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[レジャー、ウォレット改ざん攻撃の調査結果と再発防止策を公表。販売店の製品管理を厳格化]]></title>
-        <id>https://www.neweconomy.jp/?p=617379</id>
-        <link href="https://www.neweconomy.jp/posts/617379"/>
-        <updated>2026-10-16T05:46:23.000Z</updated>
-        <summary type="html"><![CDATA[レジャーがウォレット改ざん攻撃への対応策を発表 暗号資産（仮想通貨）のハードウェアウォレットを開発する仏レジャー（Ledger）が、同社製品への不正部品組み込み攻撃に関する調査結果と再発防止策を10月15日に公表した。  […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米クロスリバー銀行、リップルの「RLUSD」を銀行基幹システムに統合]]></title>
-        <id>https://www.neweconomy.jp/?p=617373</id>
-        <link href="https://www.neweconomy.jp/posts/617373"/>
-        <updated>2026-10-16T05:40:04.000Z</updated>
-        <summary type="html"><![CDATA[XRPL上のRLUSDを従来の銀行サービスと一体提供 米クロスリバー銀行（Cross River Bank）が、米リップル（Ripple）との提携により、米ドル連動ステーブルコイン「リップルUSD（RLUSD）」を独自の […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグル、量子コンピュータ「20年の壁」に前進　必須工程でエラー40分の1に]]></title>
-        <id>https://coinpost.jp/?p=743320</id>
-        <link href="https://coinpost.jp/?p=743320"/>
-        <updated>2026-10-16T05:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Google Quantum AIは、量子プロセッサ「Willow」で「マジック状態の培養」を実証したと発表した。エラーを約40分の1に低減し、T状態の論理忠実度99.99%を達成。成果は科学誌Scienceに掲載された。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ビットコイン、PPIで8万ドル割れも反発、議長発言に注目【楽天ウォレットDaily Report】]]></title>
         <id>https://www.nadanews.com/?p=372655</id>
         <link href="https://www.nadanews.com/372655/"/>
@@ -1532,16 +1352,6 @@ ANAP、ビットコイン評価損43.7億円を計上──株価11%超下落 fi
 ビットコイン、PPIで8万ドル割れも反発、議長発言に注目【楽天ウォレットDaily Report】 first appeared on NADA NEWS（ナダ・ニュース）.]]></summary>
         <author>
             <name>松田康生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オープンAIの研究モデル、イーサリアムのテストネットで他者の資金を無断使用]]></title>
-        <id>https://coinpost.jp/?p=743326</id>
-        <link href="https://coinpost.jp/?p=743326"/>
-        <updated>2026-10-16T05:01:09.000Z</updated>
-        <summary type="html"><![CDATA[オープンAIは15日付の報告で、社内研究モデルがイーサリアムのテストネットSepoliaで、公開シードフレーズから第三者のウォレット鍵を導出し、無断で手数料を支払っていたことを明らかにした。モデルは許可を自問しつつ実行し、最終報告でも開示しなかった。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
     <entry>
