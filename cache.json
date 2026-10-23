@@ -635,6 +635,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=744103",
+          "author": "Ritsuki.Kumazawa",
+          "description": "Progmat主催のDCCが、トークン化国債とオンチェーンレポの中間整理を公表。国債の法的性質を変えずに管理をオンチェーン化する方式を主案とし、11月の開始を目標にカントン・ネットワーク上で実機検証に移る。",
+          "link": "https://coinpost.jp/?p=744103",
+          "publishedOn": "2026-10-23T03:00:54.000Z",
+          "wordCount": 3210,
+          "title": "国債トークン化、実機で「経済合理性」検証へ　Progmat齊藤氏",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/progmat_1023_thumbnail-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/progmat_1023_thumbnail-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744293",
+          "author": "Enzo",
+          "description": "自民党の国家サイバーセキュリティ戦略本部による提言が22日、党政調審議会で了承された。官邸主導の対処本部設置を柱に、不正取得された仮想通貨の追跡や、ビットコインにも関わる耐量子計算機暗号（PQC）への移行加速を盛り込んだ。",
+          "link": "https://coinpost.jp/?p=744293",
+          "publishedOn": "2026-10-23T01:30:01.000Z",
+          "wordCount": 3195,
+          "title": "自民党、「サイバー有事前夜」と提言　暗号資産の追跡や耐量子暗号を明記",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/jimin_.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/jimin_.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=744131",
           "author": "幸田直子",
           "description": "米ブロックチェーン協会（BA）は1、ジーニアス法第3条の施行規則案について米財務省に意見書を提出した。DASPの定義、違法発行への「認識ある関与」、海外発行ステーブルコインの扱いなどの修正を求めている。",
@@ -1271,6 +1301,86 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=619797",
+          "author": "OtsugaShinya",
+          "description": "国債と決済手段をオンチェーンで連携、レポ取引の効率化へ プログマ（Progmat）が主催する「デジタルアセット共創コンソーシアム（DCC）」が、日本国債のトークン化とオンチェーンでのレポ取引に関する共同検討の「中間整理」 […]",
+          "link": "https://www.neweconomy.jp/posts/619797",
+          "publishedOn": "2026-10-23T02:04:25.000Z",
+          "wordCount": 629,
+          "title": "プログマ主催DCC、日本国債トークン化の実機検証へ。カントンで11月開始目指す",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23110405/867722f71c17ea376a0d2cf6fe7a52eb.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619788",
+          "author": "watanabeyousuke",
+          "description": "脆弱性2件の修正版が公開、クラウドフレアは攻撃を試みる通信を観測 暗号資産（仮想通貨）取引所バイナンス（Binance）の共同創業者チャンポン・ジャオ（Changpeng Zhao：CZ）氏が、ウェブサイトの閲覧に普段以 […]",
+          "link": "https://www.neweconomy.jp/posts/619788",
+          "publishedOn": "2026-10-23T01:54:52.000Z",
+          "wordCount": 722,
+          "title": "バイナンス共同創業者CZ、PHPの重大な脆弱性を警告。ウェブサイト閲覧に注意喚起",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23105202/820342826539a094f39633637049ff31.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619780",
+          "author": "OtsugaShinya",
+          "description": "BTC・ETHなどを売却せずに米ドルを借り入れ 米予測市場運営企業カルシ（Kalshi）傘下のカルシプライム（Kalshi Prime）と、デジタル資産インフラ企業ビットゴー（BitGo Holdings）が、「ホドルマ […]",
+          "link": "https://www.neweconomy.jp/posts/619780",
+          "publishedOn": "2026-10-23T01:46:52.000Z",
+          "wordCount": 628,
+          "title": "カルシとビットゴー、暗号資産担保の証拠金融資「HODL Margining」開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23104437/66bb395b02f8bf88df1c55cdc370022b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619763",
+          "author": "OtsugaShinya",
+          "description": "プロトコルの審査・監視や認証制度を提案 フランス財務総局と金融市場庁（AMF）、フランス銀行、健全性監督破綻処理機構（ACPR）が、欧州連合（EU）の暗号資産（仮想通貨）市場規則「MiCA」の見直しに向けた共同提言を公表 […]",
+          "link": "https://www.neweconomy.jp/posts/619763",
+          "publishedOn": "2026-10-23T01:40:58.000Z",
+          "wordCount": 622,
+          "title": "フランス当局、DeFiアクセス規制などを明記したEUの暗号資産規制「MiCA」の改正案を公表",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23103818/c1ee1adbfc86fcc5f1acd0366ae99bf1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619754",
+          "author": "OtsugaShinya",
+          "description": "ABAが間接的な利回り提供への規制を問題視 米国銀行協会（ABA）と全米独立地域銀行協会（ICBA）が、米通貨監督庁（OCC）によるステーブルコイン規制の最終規則について、利回り規制や地域融資への影響を懸念する声明を10 […]",
+          "link": "https://www.neweconomy.jp/posts/619754",
+          "publishedOn": "2026-10-23T01:34:51.000Z",
+          "wordCount": 627,
+          "title": "米銀行団体、OCCのステーブルコイン最終規則に懸念。預金流出と融資減少を警戒",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23103144/d0da4258cd71688db4f17e2afb8d726b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619738",
+          "author": "OtsugaShinya",
+          "description": "Fireblocksが買収交渉報道に否定コメント デジタル資産インフラ企業ファイアブロックス（Fireblocks）が、米決済大手ビザ（Visa）による約25億ドル（約3,925億円）での買収交渉報道を否定した。「ザ・ブ […]",
+          "link": "https://www.neweconomy.jp/posts/619738",
+          "publishedOn": "2026-10-23T01:25:41.000Z",
+          "wordCount": 617,
+          "title": "ファイアブロックス、Visaによる約25億ドルの買収交渉報道を否定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23102311/6567f679c6eb2a583c4711bf2c213678.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619725",
+          "author": "watanabeyousuke",
+          "description": "ハードフォーク後に段階的に有効化、メインネットでの検証結果に応じて処理能力を引き上げ カルダノ（Cardano）の開発を手がけるインプット・アウトプット・グループ（Input Output Group：IOG）が、同ブロ […]",
+          "link": "https://www.neweconomy.jp/posts/619725",
+          "publishedOn": "2026-10-23T01:13:55.000Z",
+          "wordCount": 684,
+          "title": "カルダノ「レイオス」、次期ハードフォーク「ダイクストラ」で導入へ。処理能力15倍への拡大目指す",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23101105/53b9eac6f4b34190108e499349afcf14.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=619716",
+          "author": "OtsugaShinya",
+          "description": "暗号資産分野への投資は継続 米ベンチャーキャピタルのアンドリーセン・ホロウィッツ（Andreessen Horowitz：a16z）の暗号資産（仮想通貨）投資部門「a16zクリプト（a16z Crypto）」の名称が、「 […]",
+          "link": "https://www.neweconomy.jp/posts/619716",
+          "publishedOn": "2026-10-23T01:07:30.000Z",
+          "wordCount": 960,
+          "title": "a16z Crypto、「a16z Frontier」に改称。AIなどへ投資対象を拡大",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/23100447/3e5794cc31c337bef6bc45391228f2f1.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=619680",
           "author": "NewEconomyPodcast",
