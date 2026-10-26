@@ -635,6 +635,66 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=744713",
+          "author": "Enzo",
+          "description": "アルゼンチン連邦裁判所は23日、ミームコイン「LIBRA」をめぐる事件でミレイ大統領ら11人の訴追を棄却。犯罪に該当しないと判断したが、裁定は確定しておらず、投資家側の上訴が続いている。",
+          "link": "https://coinpost.jp/?p=744713",
+          "publishedOn": "2026-10-26T05:19:31.000Z",
+          "wordCount": 3202,
+          "title": "ミレイ大統領のLIBRAミームコイン事件、アルゼンチン裁判所が棄却　詐欺の証拠不十分",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/Argentina0901.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/Argentina0901.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744710",
+          "author": "Enzo",
+          "description": "クリプトクアントのアナリストによると、個人投資家によるバイナンスへのビットコイン入金額（30日累計）が107.5億ドルと約6カ月ぶりの高水準に達した。一方、クジラの入金額は2カ月で59億ドルから38億ドルへ減少している。",
+          "link": "https://coinpost.jp/?p=744710",
+          "publishedOn": "2026-10-26T04:43:15.000Z",
+          "wordCount": 3258,
+          "title": "バイナンスへの個人ビットコイン入金が半年ぶり高水準　クジラは流入減＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744652",
+          "author": "A.Yamada",
+          "description": "韓国大統領府が2027年1月開始予定の仮想通貨課税を延期する方向で検討している。実現すれば4回目の先送りとなる。最終判断は与党との協議と国会審議を経て決まる見通しだ。",
+          "link": "https://coinpost.jp/?p=744652",
+          "publishedOn": "2026-10-26T03:55:48.000Z",
+          "wordCount": 3202,
+          "title": "韓国の大統領府、またも仮想通貨課税の延期を検討　実現なら4回目",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/korea-bitcoin_0422.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/korea-bitcoin_0422.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=744662",
+          "author": "Enzo",
+          "description": "iOSの脆弱性を突く攻撃ツール「DarkSword」に関連するフィッシングサイトが1,500件以上見つかった。スローミストが10月24日に警告し、iOSの更新を呼びかけた。攻撃の仕組みと対策をまとめる。",
+          "link": "https://coinpost.jp/?p=744662",
+          "publishedOn": "2026-10-26T02:26:53.000Z",
+          "wordCount": 3197,
+          "title": "仮想通貨狙うiPhone攻撃、関連偽サイト1500件超＝スローミスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/shutterstock_764994454.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/shutterstock_764994454.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=744620",
           "author": "A.Yamada",
           "description": "ギャラクシーリサーチが、仮想通貨ビットコインのブロックチェーンに連日書き込まれる「暗号風の文」を分析。ツールのテストの可能性があると指摘した。",
@@ -1151,6 +1211,26 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=620282",
+          "author": "OtsugaShinya",
+          "description": "脆弱性が残るiOSが対象、OS更新と不審なリンクへの警戒呼びかけ ブロックチェーンセキュリティ企業スローミスト（SlowMist）が、iPhoneを狙う攻撃手法「ダークソード（DarkSword）」を悪用した攻撃基盤の調 […]",
+          "link": "https://www.neweconomy.jp/posts/620282",
+          "publishedOn": "2026-10-26T05:15:10.000Z",
+          "wordCount": 885,
+          "title": "iPhone、サイト閲覧で暗号資産盗難の恐れ。SlowMistが「DarkSword」悪用を調査",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/26130409/826a060e11e06e1b42c51c1b71aa1d61.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=620270",
+          "author": "OtsugaShinya",
+          "description": "レドットペイの日本向けの現行サービスは順次終了 ステーブルコインを活用した決済・送金サービスを手がけるレドットペイ（RedotPay）グループが、国内の暗号資産（仮想通貨）交換業者であるBTCボックスを買収したと、10月 […]",
+          "link": "https://www.neweconomy.jp/posts/620270",
+          "publishedOn": "2026-10-26T05:02:56.000Z",
+          "wordCount": 627,
+          "title": "香港レドットペイ、日本の暗号資産取引所BTCBOX買収",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/26140232/3a41372ef2775860430075ef8f706934.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=620025",
           "author": "NewEconomyPodcast",
