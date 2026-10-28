@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-27T22:56:00.457Z</updated>
+    <updated>2026-10-28T02:11:25.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジャックドーシーの「bitchat」、仏アップストアのSNS部門で首位に。デモや通信障害で注目]]></title>
+        <id>https://www.neweconomy.jp/?p=621344</id>
+        <link href="https://www.neweconomy.jp/posts/621344"/>
+        <updated>2026-10-28T02:02:21.000Z</updated>
+        <summary type="html"><![CDATA[bitchatが仏アップストアのSNS部門で首位に 分散型P2P（ピアツーピア）メッセージングアプリ「ビットチャット（bitchat）」が、アップル（Apple）のフランス向けアップストア（App Store）のiPho […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナウォレット『Solflare』、ステーキング事業者のセキュリティ事故で報酬生成停止]]></title>
+        <id>https://coinpost.jp/?p=745089</id>
+        <link href="https://coinpost.jp/?p=745089"/>
+        <updated>2026-10-28T01:20:03.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ソラナの主要ウォレットのソルフレアは28日、ステーキング事業者のセキュリティ事故でバリデータの報酬が停止したと発表した。利用者のSOLに被害はないとし、ステーキング中のSOLは新バリデータへの移行が必要になる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ギャラクシーデジタル、7～9月期は510億円の黒字　前四半期の赤字から転換]]></title>
+        <id>https://coinpost.jp/?p=745078</id>
+        <link href="https://coinpost.jp/?p=745078"/>
+        <updated>2026-10-28T00:45:41.000Z</updated>
+        <summary type="html"><![CDATA[米ギャラクシーデジタルが7～9月期決算を発表。純利益は3億2,300万ドルで前四半期の赤字から黒字転換した。投資の評価益に加え、データセンター事業の利益も拡大した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アーサー・ヘイズ、AI計算資源の先物設計図を公開　FLOPで算出する価格が基準]]></title>
+        <id>https://coinpost.jp/?p=745039</id>
+        <link href="https://coinpost.jp/?p=745039"/>
+        <updated>2026-10-28T00:40:46.000Z</updated>
+        <summary type="html"><![CDATA[アーサー・ヘイズ氏が、AIの計算資源を対象とする先物と無期限先物の設計図を公開した。同氏主導の仮想通貨FLOPのネットワークで算出する価格を基準とし、証拠金と損益をドル建てとする仕様案だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ジーキャッシュ共同創設者、ブロック報酬の配分方法で新提案　「8％分をNSMへ」]]></title>
+        <id>https://coinpost.jp/?p=745066</id>
+        <link href="https://coinpost.jp/?p=745066"/>
+        <updated>2026-10-27T23:22:01.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ジーキャッシュの共同創設者は、ブロック報酬の8％のコミュニティ向け助成金（ZCG）への配分を終了することを提案。提案の背景などを説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ヴァンエック、ビットコイン2％組み入れの複数資産ETFを提供開始]]></title>
+        <id>https://coinpost.jp/?p=745067</id>
+        <link href="https://coinpost.jp/?p=745067"/>
+        <updated>2026-10-27T22:55:02.000Z</updated>
+        <summary type="html"><![CDATA[米資産運用会社ヴァンエックが27日、株式や債券、実物資産にビットコインを組み合わせたアクティブ運用型ETFを立ち上げた。ビットコインの目標配分は2％で、上場投資商品（ETP）を通じて投資する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米CFTC、ポリマーケットを再調査　米国ユーザー排除の遵守を疑問視か]]></title>
         <id>https://coinpost.jp/?p=745040</id>
@@ -882,36 +942,6 @@
         <link href="https://coinpost.jp/?p=744491"/>
         <updated>2026-10-23T20:00:59.000Z</updated>
         <summary type="html"><![CDATA[モルガン・スタンレー系3社が22日、メタプラネット株を5.25％共同保有したとする大量保有報告書を提出した。BofA系4社も5.31％を報告しており、外資系金融大手の保有状況が明らかになった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【10/23話題】a16z Cryptoがa16z Frontierに改称、経産省がオフホワイトハッカーチーム設立へ、自民党が暗号資産の追跡強化提言など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=620025</id>
-        <link href="https://www.neweconomy.jp/posts/620025"/>
-        <updated>2026-10-23T13:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バンク・オブ・アメリカ傘下4社、メタプラネット株5.31％保有]]></title>
-        <id>https://coinpost.jp/?p=744483</id>
-        <link href="https://coinpost.jp/?p=744483"/>
-        <updated>2026-10-23T12:55:08.000Z</updated>
-        <summary type="html"><![CDATA[バンク・オブ・アメリカ傘下の4社は22日、ビットコインを財務資産として保有するメタプラネット株の大量保有報告書を提出した。保有割合は合計5.31％で、新規報告にあたるものだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPモルガン、クラリティー法案が前進しなかった悪影響を規制当局が一部相殺と分析　今後の課題は？]]></title>
-        <id>https://coinpost.jp/?p=744481</id>
-        <link href="https://coinpost.jp/?p=744481"/>
-        <updated>2026-10-23T12:45:37.000Z</updated>
-        <summary type="html"><![CDATA[JPモルガンのアナリストは22日のリポートで、クラリティー法案が上院で頓挫した悪影響を、規制当局の最近の措置が一部相殺しているとの見方を示した。ただ、仮想通貨の市場構造法がなければ政治・法的リスクは残るという。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
