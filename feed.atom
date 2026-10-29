@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-29T08:24:56.451Z</updated>
+    <updated>2026-10-29T16:04:37.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レジャー製ウォレットの不正部品で約4.3億円被害、シンガポール警察が報告]]></title>
+        <id>https://coinpost.jp/?p=745446</id>
+        <link href="https://coinpost.jp/?p=745446"/>
+        <updated>2026-10-29T12:55:59.000Z</updated>
+        <summary type="html"><![CDATA[シンガポール警察は28日、小売店で購入されたレジャー（Ledger）製ハードウェアの仮想通貨ウォレットに、リカバリーフレーズや秘密鍵を取得できる不正部品が含まれていたと発表した。9月10日以降に少なくとも2件、約4.3億円の被害が出ているという。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【10/29話題】グーグルクラウドの金融機関向け暗号資産カストディ基盤「MPC」、DTCCが証券トークン化サービス開始、JPYCによる免税還付11/1開始など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=622038</id>
+        <link href="https://www.neweconomy.jp/posts/622038"/>
+        <updated>2026-10-29T12:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[コインベース、外部分析会社のセキュリティ事故で一部顧客情報に影響。取引データも対象]]></title>
         <id>https://www.neweconomy.jp/?p=621996</id>
@@ -1114,26 +1134,6 @@
         <summary type="html"><![CDATA[クリプトクアントのアナリストによると、イーサリアム（ETH）の先物建玉は全取引所合計で115億ドルまで縮小した。最大手バイナンスでは1カ月で約2割減少。7月の同様の局面では、その後ETH価格が32％超反発していた。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、8.5万ドル手前で失速　FOMCが最大の焦点｜bitbankアナリスト寄稿]]></title>
-        <id>https://coinpost.jp/?p=744399</id>
-        <link href="https://coinpost.jp/?p=744399"/>
-        <updated>2026-10-25T02:30:17.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインは8.5万ドル手前で失速、AI・半導体株安に連れて1300万円を割り込んだ。8万ドル周辺では下げ止まり底堅さを維持。最大の注目イベントFOMCとGDP・PCEを控え、通過後の相場をbitbankアナリストが解説。]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『投機』がこの10年のテーマ、注目すべきは予測市場・無期限先物取引所＝Delphi Digital]]></title>
-        <id>https://coinpost.jp/?p=744542</id>
-        <link href="https://coinpost.jp/?p=744542"/>
-        <updated>2026-10-25T00:00:19.000Z</updated>
-        <summary type="html"><![CDATA[ブロックチェーン調査企業Delphi Digitalが、投機を「建設型」と「宝くじ型」に分類し、両方が同時に加速する現状を分析した。投機の対象ではなく、取引所や決済インフラといった「胴元」に注目すべきと主張。]]></summary>
-        <author>
-            <name>幸田直子</name>
         </author>
     </entry>
     <entry>
