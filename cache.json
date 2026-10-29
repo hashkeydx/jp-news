@@ -630,10 +630,145 @@
       "articles": []
     },
     {
-      "title": "Monero(XMR)  |  CoinPost｜仮想通貨ビットコインニュース・投資情報",
+      "title": "CoinPost｜仮想通貨ビットコインニュース・投資情報",
       "feedUrl": "https://coinpost.jp/?feed=rss2",
       "siteUrl": "https://coinpost.jp",
       "articles": [
+        {
+          "id": "https://coinpost.jp/?p=745421",
+          "author": "Enzo",
+          "description": "米ビザの2026年度第4四半期決算で、ステーブルコインによる精算額が年換算3.9兆円を超え、前年比10倍に拡大した。精算対応チェーンは10に倍増。ビザも参加するOUSDの流通量は約1,260億円を超えた。通期純収益は過去最高の7兆円超。",
+          "link": "https://coinpost.jp/?p=745421",
+          "publishedOn": "2026-10-29T07:26:16.000Z",
+          "wordCount": 3233,
+          "title": "ビザ、ステーブルコイン精算が10倍に　年換算約3.9兆円突破",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/visa-tokenized-fiat-bank-eth.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/visa-tokenized-fiat-bank-eth.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745397",
+          "author": "Enzo",
+          "description": "日本免税は11月1日から、訪日客の免税還付金を円建てステーブルコインJPYCで受け取れるサービスを始める。同日開始の免税制度「リファンド方式」に合わせ、UPBONDのウォレット基盤とAvalancheを使って送付する。",
+          "link": "https://coinpost.jp/?p=745397",
+          "publishedOn": "2026-10-29T06:37:25.000Z",
+          "wordCount": 3221,
+          "title": "日本免税とUPBOND、JPYCで訪日客に免税還付　11月1日開始",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/JPYC-Taxfree.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/JPYC-Taxfree.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745356",
+          "author": "幸田直子",
+          "description": "Glassnodeの週次レポートによると、今年4度押し戻された8万5,000ドルが価格の壁となっている。 ビットコインETF需要は後退する一方、保有者による損失確定売りは縮小。価格はレンジ内で推移し、ボラティリティも大きく低下している。",
+          "link": "https://coinpost.jp/?p=745356",
+          "publishedOn": "2026-10-29T05:47:25.000Z",
+          "wordCount": 3284,
+          "title": "ビットコイン、8万5000ドルの壁に阻まれレンジ相場続く＝グラスノード分析",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745308",
+          "author": "A.Yamada",
+          "description": "米DTCC傘下のDTCがトークン化証券サービス「DTS」を開始した。JPモルガンなど20社が利用契約を結んでいる。対象は大型株やETF、米国債でSEC無措置書簡が根拠となる。",
+          "link": "https://coinpost.jp/?p=745308",
+          "publishedOn": "2026-10-29T04:55:50.000Z",
+          "wordCount": 3216,
+          "title": "米大手清算・決済機関DTCC、トークン化サービスを開始　金融20社が利用契約",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/201204_Tokenization3.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/201204_Tokenization3.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745335",
+          "author": "Enzo",
+          "description": "ビットワイズは、ビットコインが2036年に159万9,766ドルに達するとの試算を公表した。年率34.3％で前年の28.3％から上方修正。機関投資家の1から5％配分で最大7.4兆ドルの資金流入を想定し、量子コンピュータなどのリスクも挙げた。",
+          "link": "https://coinpost.jp/?p=745335",
+          "publishedOn": "2026-10-29T02:49:40.000Z",
+          "wordCount": 3271,
+          "title": "ビットワイズ予測「ビットコインは10年後160万ドルに到達」　年率34.3％増で",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745316",
+          "author": "Enzo",
+          "description": "SBIホールディングスが米クロスリバー銀行の親会社CRBグループと、日本での合弁会社設立に向け基本合意。融資債権のRWAトークン化やクロスボーダー決済、AIエージェント向け決済を検討し、円建てステーブルコインJPYSCの導入も検討する。",
+          "link": "https://coinpost.jp/?p=745316",
+          "publishedOn": "2026-10-29T02:25:09.000Z",
+          "wordCount": 3224,
+          "title": "SBI、米クロスリバー親会社と日本合弁へ　RWAトークン化やAI決済",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/payment343424-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/payment343424-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745271",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨業界大手のリップルとコインベースがパートナーシップを締結。コインベースが段階的にRLUSDに対応することやXRPLなど3チェーンで入出金可能になることなどを発表した。",
+          "link": "https://coinpost.jp/?p=745271",
+          "publishedOn": "2026-10-29T01:44:40.000Z",
+          "wordCount": 3225,
+          "title": "リップルとコインベースが提携、ステーブルコインRLUSDのアクセス拡大へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/Ripple-and-Coinbase-RLUSD.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/Ripple-and-Coinbase-RLUSD.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745262",
+          "author": "A.Yamada",
+          "description": "グーグルが金融機関向けの仮想通貨保護サービスを限定公開した。MPCで秘密鍵を分散管理する仕組みで、複数の金融機関が試験中。商用提供は2027年初頭の予定だ。",
+          "link": "https://coinpost.jp/?p=745262",
+          "publishedOn": "2026-10-29T01:12:34.000Z",
+          "wordCount": 3207,
+          "title": "グーグル、金融機関向けの仮想通貨・トークン化資産セキュリティツールを限定公開",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/google0206.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/google0206.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745257",
+          "author": "K.Kobayashi",
+          "description": "リップルは、2026年の年間プロダクト収益のランレートを算出し、約1,420億円に近づいていると発表。多様なソリューションを利用している顧客やパートナー企業の数が3倍になったとも公表した。",
+          "link": "https://coinpost.jp/?p=745257",
+          "publishedOn": "2026-10-29T00:10:33.000Z",
+          "wordCount": 3273,
+          "title": "リップル「2026年は成功の年」、年間プロダクト収益のランレートは1400億円超へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ripple0312.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ripple0312.jpg"
+        },
         {
           "id": "https://coinpost.jp/?p=745149",
           "author": "幸田直子",
@@ -1391,6 +1526,106 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=621996",
+          "author": "watanabeyousuke",
+          "description": "コインベースは顧客資金への影響を否定 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、外部の分析サービス事業者アンプリチュード（Amplitude）で発生したセキュリティインシデントにより、一部の顧客の連 […]",
+          "link": "https://www.neweconomy.jp/posts/621996",
+          "publishedOn": "2026-10-29T08:01:34.000Z",
+          "wordCount": 807,
+          "title": "コインベース、外部分析会社のセキュリティ事故で一部顧客情報に影響。取引データも対象",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29170113/1df7efafa68d14cccee2b926dc383fc9.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621981",
+          "author": "HitomotoToshikazu",
+          "description": "XRPL開発者がXRP残高ゼロでのアカウント作成を提案 分散型パブリックブロックチェーン「XRPレジャー（XRP Ledger：XRPL）」で、XRP残高がゼロの状態でも新規アカウントを作成できる機能が提案された。XRP […]",
+          "link": "https://www.neweconomy.jp/posts/621981",
+          "publishedOn": "2026-10-29T07:18:14.000Z",
+          "wordCount": 746,
+          "title": "XRPレジャー開発者、XRP残高ゼロでのアカウント作成を提案、準備金は第三者が負担",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29161759/8be9a7204f93ec81c6ead38c495db574.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621976",
+          "author": "OtsugaShinya",
+          "description": "訪日外国人が還付金をウォレットで受け取り可能に 免税手続き・還付サービスを提供する日本免税と、ウォレット基盤などを開発するアップボンド（UPBOND）が、日本円建てステーブルコイン「JPYC」による免税還付サービスを11 […]",
+          "link": "https://www.neweconomy.jp/posts/621976",
+          "publishedOn": "2026-10-29T07:03:49.000Z",
+          "wordCount": 751,
+          "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29162551/a589a784ba0753eb3310dafc80ef397c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621965",
+          "author": "gentosha_takahashi",
+          "description": "ステーブルコインやRWA、AI関連など6分野を重視 米スタートアップアクセラレーターのYコンビネーター（Y Combinator：YC）が10月、暗号資産（仮想通貨）分野で出資を希望する事業テーマをまとめた「Crypto […]",
+          "link": "https://www.neweconomy.jp/posts/621965",
+          "publishedOn": "2026-10-29T06:51:32.000Z",
+          "wordCount": 794,
+          "title": "Yコンビネーター、暗号資産スタートアップの重点6分野を公表。「機関主導」の市場拡大を指摘",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29155057/0c14ef085d02dbf6f7f4e3081a8cd0b5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621956",
+          "author": "watanabeyousuke",
+          "description": "ストラテジーの優先株4銘柄、日次配当への変更が承認 米ナスダック上場のビットコイントレジャリー企業ストラテジー（Strategy）が、優先株4銘柄の配当を日次化するための条件変更について、株主承認を得たと10月28日に発 […]",
+          "link": "https://www.neweconomy.jp/posts/621956",
+          "publishedOn": "2026-10-29T06:42:05.000Z",
+          "wordCount": 796,
+          "title": "ストラテジー、優先株4銘柄の日次配当への変更を株主承認。STRCは11月から適用予定",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29154146/d6218c55c9a999887020e169f9f33ad2.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621946",
+          "author": "watanabeyousuke",
+          "description": "Solflareの旧バリデーターで報酬停止、新バリデーターへの移行開始 ソラナ（Solana）対応の暗号資産（仮想通貨）ウォレット「ソルフレア（Solflare）」の運営元が、外部のステーキング事業者でセキュリティインシ […]",
+          "link": "https://www.neweconomy.jp/posts/621946",
+          "publishedOn": "2026-10-29T06:34:40.000Z",
+          "wordCount": 835,
+          "title": "ソラナウォレット「Solflare」のステーキング事業者でセキュリティ事故、新バリデーター稼働で報酬補償へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29153413/0a9897322181ec59450ac4f04bec6879.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621939",
+          "author": "OtsugaShinya",
+          "description": "スタートアップやクリエイターの事業化を支援、12月まで募集 ソニーグループが、ブロックチェーン「ソニューム（Soneium）」を活用したエンタテインメント分野の事業育成プログラムを開始したと10月29日に発表した。 プロ […]",
+          "link": "https://www.neweconomy.jp/posts/621939",
+          "publishedOn": "2026-10-29T06:28:18.000Z",
+          "wordCount": 767,
+          "title": "ソニー、ソニューム活用のエンタメ事業育成プログラム開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29152759/b0c5f0079a074b952a1974258d71f421.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621927",
+          "author": "gentosha_takahashi",
+          "description": "Webアプリと拡張機能による二層構成 プライバシー重視の暗号資産ジーキャッシュ（Zcash：ZEC）向けの新たなブラウザウォレット「ジリオンズ（Zillions）」が10月27日に公開された。アノマ（Anoma）の技術を […]",
+          "link": "https://www.neweconomy.jp/posts/621927",
+          "publishedOn": "2026-10-29T06:18:58.000Z",
+          "wordCount": 775,
+          "title": "Zcash向けブラウザウォレット「Zillions」公開、Anoma基盤でLedgerに初日対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29151814/dd8d3948f9e76f58956e1602300b94f5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621915",
+          "author": "OtsugaShinya",
+          "description": "既存の暗号資産サービスをブラジルの新規制に適合 ブラジル最大の民間銀行イタウ・ウニバンコ（Itaú Unibanco）が、暗号資産（仮想通貨）の取引仲介・保管業務について、10月27日にブラジル中央銀行（BCB）へ正式な […]",
+          "link": "https://www.neweconomy.jp/posts/621915",
+          "publishedOn": "2026-10-29T06:06:39.000Z",
+          "wordCount": 745,
+          "title": "ブラジル最大の民間銀行イタウ、暗号資産の取引・保管業務を中央銀行に正式届出",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29150624/08a7e82a8f8a726c416231439fb098bc.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=621900",
+          "author": "OtsugaShinya",
+          "description": "RWAトークン化や国際決済、AIエージェント向け決済基盤で協業へ SBIホールディングスが、米クロスリバー・バンク（Cross River Bank）を傘下に持つCRBグループ（CRB Group）と、戦略的業務提携およ […]",
+          "link": "https://www.neweconomy.jp/posts/621900",
+          "publishedOn": "2026-10-29T05:54:34.000Z",
+          "wordCount": 757,
+          "title": "SBI、米クロスリバー親会社と日本で合弁設立へ基本合意、JPYSC導入も検討",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29145359/3f9b81a0208e65702bac9171eac1fcc9.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=620903",
           "author": "HitomotoToshikazu",
