@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-10-30T19:18:24.468Z</updated>
+    <updated>2026-10-30T23:42:58.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米CFTC委員長、バイナンス被害の事案受け仮想通貨取引所に連邦登録を提供へ]]></title>
+        <id>https://coinpost.jp/?p=745772</id>
+        <link href="https://coinpost.jp/?p=745772"/>
+        <updated>2026-10-30T22:32:52.000Z</updated>
+        <summary type="html"><![CDATA[米商品先物取引委員会（CFTC）のセリグ委員長は30日、バイナンスで29日に起きたハッキングを受け、仮想通貨取引所が任意で連邦登録できる選択肢を設ける考えを示した。米国のデリバティブ市場と同じサイバー対策などが適用される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米仮想通貨関連株が全面安、1兆円規模のハッキングも市場全体への脅威は限定的とアナリストが見解]]></title>
+        <id>https://coinpost.jp/?p=745773</id>
+        <link href="https://coinpost.jp/?p=745773"/>
+        <updated>2026-10-30T22:05:00.000Z</updated>
+        <summary type="html"><![CDATA[30日の米国株式市場ではバイナンスの1兆円不正流出事件を受けて、コインベースが10.62%、サークルが9.3％下落した。ウォール街の3社は市場全体の脅威になる根拠は乏しいとみている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ大統領、仮想通貨取引所バイナンスのハッキングめぐり北朝鮮の関与を調査と発言]]></title>
+        <id>https://coinpost.jp/?p=745774</id>
+        <link href="https://coinpost.jp/?p=745774"/>
+        <updated>2026-10-30T21:20:03.000Z</updated>
+        <summary type="html"><![CDATA[トランプ大統領は30日、仮想通貨取引所バイナンスのハッキングに北朝鮮のハッカー集団が関与したか調べていると話した。チェイナリシスは1兆円近くのハッキングは北朝鮮によるものだと強く確信している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、ハッキング被害の補償に約1兆円を確保]]></title>
+        <id>https://coinpost.jp/?p=745769</id>
+        <link href="https://coinpost.jp/?p=745769"/>
+        <updated>2026-10-30T21:05:39.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスは31日、ハッキング被害の補償に自社資金63億4000万ドル超を確保したと明らかにした。被害額の約80％分は流出と同じトークンで保有しており、残りも買い付けを進めている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SBI VCトレードとビットバンク、バイナンスの暗号資産流出で顧客資産に影響なし]]></title>
         <id>https://coinpost.jp/?p=745755</id>
@@ -1394,106 +1434,6 @@
         <summary type="html"><![CDATA[米ナスダック上場のStriveが10月17日から23日に6,182BTCの仮想通貨ビットコインを追加購入し、保有量は43,000BTCに増えた。一方、ストラテジーは5週連続の購入が途切れ、保有量は848,517BTCのままとなった。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エンタメ系L2「Soneium」、独自トークン発行を計画]]></title>
-        <id>https://coinpost.jp/?p=744397</id>
-        <link href="https://coinpost.jp/?p=744397"/>
-        <updated>2026-10-26T08:35:11.000Z</updated>
-        <summary type="html"><![CDATA[Soneiumが独自トークン「SONEIUM」の発行計画を発表した。発行は正式決定前で、国内での流通も未定。ファンが作品を支援するトークン化IPも始め、第1弾はキャラクター「もりうさ」となる。]]></summary>
-        <author>
-            <name>Ritsuki.Kumazawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【速報】ソニューム、独自トークン「SONEIUM」発行を計画。IP活用の資金調達も支援へ]]></title>
-        <id>https://www.neweconomy.jp/?p=620351</id>
-        <link href="https://www.neweconomy.jp/posts/620351"/>
-        <updated>2026-10-26T08:30:30.000Z</updated>
-        <summary type="html"><![CDATA[作品ごとの「IPトークン」も発行予定、第一弾は「もりうさ」 イーサリアム（Ethereum）のレイヤー2（L2）ブロックチェーン「ソニューム（Soneium）」の独自エコシステムトークン「SONEIUM」の発行計画が10 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ファントム、米国でカルシの予測市場を提供開始。CFTCのノーアクション措置を活用]]></title>
-        <id>https://www.neweconomy.jp/?p=620346</id>
-        <link href="https://www.neweconomy.jp/posts/620346"/>
-        <updated>2026-10-26T08:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Phantomアプリ内でKalshiの予測市場を取引可能に 暗号資産（仮想通貨）ウォレット「ファントム（Phantom）」が、米国ユーザー向けに予測市場機能の提供を段階的に開始したと10月23日に発表した。米国向けとして […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国、国家ブロックチェーンネットワークを2030年までに基本構築へ。地域ハブ整備や貿易・行政での活用推進]]></title>
-        <id>https://www.neweconomy.jp/?p=620342</id>
-        <link href="https://www.neweconomy.jp/posts/620342"/>
-        <updated>2026-10-26T08:06:29.000Z</updated>
-        <summary type="html"><![CDATA[国家情報化第15次5カ年計画で整備目標を明示 中国の中央ネットワーク安全・情報化委員会が、国家ブロックチェーンネットワークを2030年までに基本的に構築する目標を盛り込んだ「国家情報化第15次5カ年計画」を発出したと10 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HSBC、香港ドル建てステーブルコイン「RedCoin」提供開始。PayMeで送金・決済に対応]]></title>
-        <id>https://www.neweconomy.jp/?p=620336</id>
-        <link href="https://www.neweconomy.jp/posts/620336"/>
-        <updated>2026-10-26T07:57:17.000Z</updated>
-        <summary type="html"><![CDATA[330万人超のユーザーを抱える決済アプリに導入、今後はトークン化MMFの購入にも対応へ 香港の大手銀行である香港上海銀行（The Hongkong and Shanghai Banking Corporation Lim […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チェーンリンク、韓国LG CNSと戦略的提携。金融機関向けデジタル資産基盤を強化]]></title>
-        <id>https://www.neweconomy.jp/?p=620332</id>
-        <link href="https://www.neweconomy.jp/posts/620332"/>
-        <updated>2026-10-26T07:51:33.000Z</updated>
-        <summary type="html"><![CDATA[クロスチェーンやデータ連携技術を活用、デジタル資産の技術標準整備でも協力 ブロックチェーン向けオラクルサービスを提供するチェーンリンク（Chainlink）が、韓国LGグループ傘下のITサービス企業LG CNSと戦略的提 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ミッドナイト、複数チェーン対応のプライバシー機能「Nightmode」の詳細を公開]]></title>
-        <id>https://www.neweconomy.jp/?p=620325</id>
-        <link href="https://www.neweconomy.jp/posts/620325"/>
-        <updated>2026-10-26T07:43:41.000Z</updated>
-        <summary type="html"><![CDATA[既存チェーンに資産を保持したまま取引時の個人情報を秘匿、ステージネットで実装 プライバシー保護に特化したブロックチェーン「ミッドナイト（Midnight）」の公式ブログより、複数のブロックチェーンで取引時の個人情報を秘匿 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arfとリップルが提携、XRPLでRLUSD活用の国際決済向け流動性を提供へ]]></title>
-        <id>https://www.neweconomy.jp/?p=620322</id>
-        <link href="https://www.neweconomy.jp/posts/620322"/>
-        <updated>2026-10-26T07:36:23.000Z</updated>
-        <summary type="html"><![CDATA[国際決済企業に短期運転資金を提供、将来的にはXRPLのレンディング機能を活用 スイスの金融機関アーフ（Arf）が、XRPレジャー（XRP Ledger：XRPL）上でリップル発行の米ドル建てステーブルコイン「RLUSD」 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊中銀副総裁、銀行にデジタル技術への投資促す。「先送りにもコスト」]]></title>
-        <id>https://www.neweconomy.jp/?p=620317</id>
-        <link href="https://www.neweconomy.jp/posts/620317"/>
-        <updated>2026-10-26T07:25:42.000Z</updated>
-        <summary type="html"><![CDATA[伊中銀副総裁がトークン化の普及はなお不透明も銀行に行動促す 金融システムのデジタル化が一段と進む中、銀行は、どの技術が主流になるかが明らかになるまで投資を先送りしようとする誘惑に抗う必要がある。イタリア中央銀行の高官が1 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルゼンチンの「LIBRA」騒動、ミレイ大統領と妹への刑事捜査打ち切り]]></title>
-        <id>https://www.neweconomy.jp/?p=620311</id>
-        <link href="https://www.neweconomy.jp/posts/620311"/>
-        <updated>2026-10-26T07:19:14.000Z</updated>
-        <summary type="html"><![CDATA[ミレイ大統領らへの「LIBRA」刑事捜査打ち切り 裁判所の記録によると、アルゼンチンの連邦判事は10月23日、ミームコインを巡る騒動に関連し、ハビエル・ミレイ（Javier Milei）大統領と妹のカリナ・ミレイ（Kar […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
     <entry>
