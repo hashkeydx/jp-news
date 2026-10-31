@@ -635,6 +635,96 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=745824",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨分析大手チェイナリシスが30日、顧客のユーザーIDや氏名などへの不正アクセスを公表した。10月には日本の佐川急便や米国のオラクル・ヘルスを含む10件の個人情報漏えいも確認されている。",
+          "link": "https://coinpost.jp/?p=745824",
+          "publishedOn": "2026-10-31T05:02:04.000Z",
+          "wordCount": 3209,
+          "title": "ブロックチェーン分析大手チェイナリシスに不正アクセス、10月の日本での漏えい報告は9月の約3倍",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/chainalysis-zec-dash.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/chainalysis-zec-dash.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745789",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨取引所バイナンスで約63億ドル（1兆円超）の被害が出たハッキングを受け、ルミス上院議員は、クラリティー法案が成立していれば不審な取引を凍結できたと主張した。これに反論も出ており、業界団体は取引所の連邦監督を議会に求めている。",
+          "link": "https://coinpost.jp/?p=745789",
+          "publishedOn": "2026-10-31T04:45:50.000Z",
+          "wordCount": 3221,
+          "title": "米クラリティー法案が再び焦点に、バイナンス被害で資産凍結の法的保護めぐり論争広がる",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/US-congress-another-day-2728639525.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/US-congress-another-day-2728639525.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745813",
+          "author": "A.Yamada",
+          "description": "ステーブルコインUSDTを提供するテザー社は、7～9月期の準備金保証報告書を公表した。9月末の超過準備金は79.5億ドルで6月末から約2倍になっている。",
+          "link": "https://coinpost.jp/?p=745813",
+          "publishedOn": "2026-10-31T04:10:53.000Z",
+          "wordCount": 3234,
+          "title": "テザー社、USDT準備金の超過分が1兆円超えに回復　6月末から約2倍に",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/07/tether-usdt-reenter-the-US.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745794",
+          "author": "A.Yamada",
+          "description": "グレースケールによると、ハイパーリキッドのコア取引手数料は9割超から約6割に低下し、HIP3や準備金利回りなど様々な部門からの収益が前年から倍増している。",
+          "link": "https://coinpost.jp/?p=745794",
+          "publishedOn": "2026-10-31T02:02:39.000Z",
+          "wordCount": 3232,
+          "title": "ハイパーリキッドの収益源多角化、USDC準備金利回りなどの割合増加＝レポート",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/hype-etf-hyperliquid.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/hype-etf-hyperliquid.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745770",
+          "author": "菊谷ルイス",
+          "description": "東証上場のイオレは30日、ビットコイン151.21BTCの全量売却を決議した。売却見込額は18億3,100万円、売却損は約2億5,400万円の見込みで、代金はAIデータセンター事業関連投資に先行して充てる。",
+          "link": "https://coinpost.jp/?p=745770",
+          "publishedOn": "2026-10-31T01:20:48.000Z",
+          "wordCount": 3223,
+          "title": "東証上場イオレ、保有151.21ビットコインを全量売却へ　AIデータセンター投資に充当",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745771",
+          "author": "菊谷ルイス",
+          "description": "バイナンスで1兆円相当の資産が流出し、大半が約20分に集中したことが判明。分析会社は秘密鍵の盗難・漏洩ではなく署名の仕組みへの侵害と指摘し、EIP-7702が悪用された手口を踏まえ、承認ルールの独立判定などの対策を挙げた。",
+          "link": "https://coinpost.jp/?p=745771",
+          "publishedOn": "2026-10-31T00:20:45.000Z",
+          "wordCount": 3230,
+          "title": "北朝鮮ハッカー、バイナンス1兆円窃盗の大半をわずか約20分で実行　秘密鍵に頼らず署名悪用",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/northkoreahack021821.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/02/northkoreahack021821.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=745772",
           "author": "菊谷ルイス",
           "description": "米商品先物取引委員会（CFTC）のセリグ委員長は30日、バイナンスで29日に起きたハッキングを受け、仮想通貨取引所が任意で連邦登録できる選択肢を設ける考えを示した。米国のデリバティブ市場と同じサイバー対策などが適用される。",
@@ -1803,21 +1893,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/05/tomlee2_0530.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=744763",
-          "author": "菊谷ルイス",
-          "description": "米ナスダック上場のStriveが10月17日から23日に6,182BTCの仮想通貨ビットコインを追加購入し、保有量は43,000BTCに増えた。一方、ストラテジーは5週連続の購入が途切れ、保有量は848,517BTCのままとなった。",
-          "link": "https://coinpost.jp/?p=744763",
-          "publishedOn": "2026-10-26T12:40:31.000Z",
-          "wordCount": 3201,
-          "title": "米上場ストライブ、780億円相当ビットコインを追加購入　保有量4.3万BTCに",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/strive-new-btc-buy.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/strive-new-btc-buy.jpeg"
         }
       ]
     },
@@ -2455,16 +2530,6 @@
           "wordCount": 725,
           "title": "ビットマインがイーサリアムを1万452ETH追加取得、総保有量605万ETH超に",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/27123818/989574ce36686f729f620f4297bc4cd1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=620374",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/620374",
-          "publishedOn": "2026-10-26T13:19:08.000Z",
-          "wordCount": 788,
-          "title": "【10/26話題】ソニューム独自トークン「SONEIUM」発行計画、HSBCがRedCoin提供開始、中国の国家ブロックチェーン基本構築は2030年までになど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/26191350/fcb18add079fd9cabe8f7eb1a8659e72.jpg"
         }
       ]
     }
