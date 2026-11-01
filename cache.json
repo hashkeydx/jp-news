@@ -635,6 +635,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=745872",
+          "author": "Enzo",
+          "description": "バイナンスから60億ドル超が流出した事件を受け、北朝鮮ラザルスによる仮想通貨の累計窃取額は118.7億ドルに達したとアナリストが試算した。北朝鮮のGDPの45％に相当する。FBIは今回の事件を北朝鮮の犯行と発表している。",
+          "link": "https://coinpost.jp/?p=745872",
+          "publishedOn": "2026-11-01T23:31:51.000Z",
+          "wordCount": 3233,
+          "title": "北朝鮮の仮想通貨窃取累計118.7億ドル、GDP45％相当＝アナリスト",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/liquid-global-hack-report-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/liquid-global-hack-report-1.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=745866",
+          "author": "Enzo",
+          "description": "バイナンスは、ハッキング被害で停止していた出金を11月1日から段階的に再開した。約9時間半で出金は約46億ドル、入金は約10億ドルで、純流出は預かり資産の2.1％にあたる。新たなプルーフ・オブ・リザーブ（PoR）は近く公開される見込み。",
+          "link": "https://coinpost.jp/?p=745866",
+          "publishedOn": "2026-11-01T22:44:18.000Z",
+          "wordCount": 3237,
+          "title": "バイナンス出金再開、9時間半で純流出約5700億円　預かり資産の2.1％",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=745685",
           "author": "CoinPost編集部",
           "description": "ビットコイン（BTC）は、AI投資採算性への懸念とバイナンスからの大規模不正流出が重なり、1200万円台まで急落した。目先はAI関連企業の決算ラッシュと米雇用統計が相場の方向感を左右する焦点となる。",
@@ -1353,51 +1383,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ripple0312.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ripple0312.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745149",
-          "author": "幸田直子",
-          "description": "米DeFi教育財団（DEF）とIpsosが米国の成人1,545人に実施した調査で、現在の金融システムを安全と考える人は19%で、63%が刷新を求めた。一方、仮想通貨取引所への信頼は4%、DeFiは5%と低く、認知の壁も明らかになった。",
-          "link": "https://coinpost.jp/?p=745149",
-          "publishedOn": "2026-10-28T10:27:26.000Z",
-          "wordCount": 3209,
-          "title": "米国人の63%「金融システムの刷新が必要」　仮想通貨は認知に壁＝米DEF調査",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/crypto_20240807-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/08/crypto_20240807-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745233",
-          "author": "Enzo",
-          "description": "ビットコイン決済事業の日本ビットコイン産業は28日、ビットコインの現物出資による約8億円の第三者割当増資を発表した。ANAP子会社とはライトニングネットワークのルーティング事業で提携し、カード決済に頼らない越境決済の基盤づくりを進める。",
-          "link": "https://coinpost.jp/?p=745233",
-          "publishedOn": "2026-10-28T09:06:02.000Z",
-          "wordCount": 3209,
-          "title": "日本ビットコイン産業、BTC現物出資で約8億円調達へ　ANAP系と提携",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E7%94%A3%E6%A5%AD.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E7%94%A3%E6%A5%AD.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745226",
-          "author": "Enzo",
-          "description": "サンティメントによると、1,000万XRP以上を持つウォレットの保有量が468.7億XRPに達し、供給量の約68.5％と2022年11月以来の水準に。価格低迷下での買い増しと、同社が示す節目をまとめた。",
-          "link": "https://coinpost.jp/?p=745226",
-          "publishedOn": "2026-10-28T08:35:29.000Z",
-          "wordCount": 3257,
-          "title": "XRPクジラの保有比率68.5％、約4年ぶり高水準＝サンティメント",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/xrp-goldman-sol-as-well-big-position.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/03/xrp-goldman-sol-as-well-big-position.jpg"
         }
       ]
     },
@@ -1735,106 +1720,6 @@
           "wordCount": 798,
           "title": "【10/28話題】商工中金が「DCJPY」活用の貿易決済基盤を検討、トヨタファイナンスの自己募集デジタル社債申込額が発行予定額10倍超など（音声ニュース）",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28190735/ea1ca3d23a9df3c7b881305b5db508b4.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621589",
-          "author": "watanabeyousuke",
-          "description": "Predict.funで約40万USDTの不正送金、全額補償へ 予測市場プラットフォーム「プレディクト・ファン（Predict[.]fun）」の運営チームが、一部ユーザーのウォレットから合計約40万USDT（約6,318 […]",
-          "link": "https://www.neweconomy.jp/posts/621589",
-          "publishedOn": "2026-10-28T08:47:33.000Z",
-          "wordCount": 944,
-          "title": "予測市場Predict[.]funで約40万USDTの不正送金、運営チームが全額補償を表明",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28174729/Predict.fun-261028-PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621578",
-          "author": "watanabeyousuke",
-          "description": "バイナンスが北朝鮮関連のサイバー攻撃を阻止 暗号資産（仮想通貨）取引所バイナンス（Binance）が、過去1週間に北朝鮮に関連する複数のサイバー攻撃を検知し、阻止したと10月27日に明らかにした。今回の攻撃による社内シス […]",
-          "link": "https://www.neweconomy.jp/posts/621578",
-          "publishedOn": "2026-10-28T08:25:07.000Z",
-          "wordCount": 750,
-          "title": "バイナンス、北朝鮮関連の複数のサイバー攻撃を阻止。資産損失なし",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28172354/c513519b3de107f48c0540a62b43aa61.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621573",
-          "author": "watanabeyousuke",
-          "description": "MiCA非準拠の14銘柄が対象、期限後の入金は反映されず 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、欧州経済領域（EEA）の個人顧客が保有するUSDTなど14銘柄の暗号資産を、10月30日にUSDC […]",
-          "link": "https://www.neweconomy.jp/posts/621573",
-          "publishedOn": "2026-10-28T08:20:17.000Z",
-          "wordCount": 754,
-          "title": "コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28171901/80ddfeb9564e80e6d1aa3c037af13733.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621567",
-          "author": "watanabeyousuke",
-          "description": "Bloomが被害者への全額補償を表明、全システムを停止 暗号資産取引ボット「ブルーム（Bloom）」のセキュリティインシデントによってソラナ（Solana）のネイティブトークン「SOL」が約9,408SOL流出した。ブル […]",
-          "link": "https://www.neweconomy.jp/posts/621567",
-          "publishedOn": "2026-10-28T08:14:23.000Z",
-          "wordCount": 1016,
-          "title": "暗号資産取引ボット「Bloom」で約9400SOL流出、9人に被害。全額補償へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28171327/7b309103f9fbf9bdb5965a7a175af378.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621493",
-          "author": "HitomotoToshikazu",
-          "description": "Ondo StocksがRobinhood Chainに対応 トークン化米国株・ETF（上場投資信託）などを提供するオンド・ストックス（Ondo Stocks）の15銘柄が、ロビンフッドチェーン（Robinhood Ch […]",
-          "link": "https://www.neweconomy.jp/posts/621493",
-          "publishedOn": "2026-10-28T08:10:05.000Z",
-          "wordCount": 856,
-          "title": "オンド・ストックス15銘柄、ロビンフッドチェーンで利用可能に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28155025/a6421e14836aef78bb7cb7460dd77bc9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621553",
-          "author": "watanabeyousuke",
-          "description": "ChainSecurityが影響事例13件を確認、開発者に点検呼びかけ イーサリアム（Ethereum）の次期大型アップグレード「グラムステルダム（Glamsterdam）」に伴う仕様変更について、既存のスマートコントラ […]",
-          "link": "https://www.neweconomy.jp/posts/621553",
-          "publishedOn": "2026-10-28T08:06:29.000Z",
-          "wordCount": 1018,
-          "title": "イーサリアムアップグレード「グラムステルダム」、コントラクトに影響の可能性。チェーンセキュリティが13事例を確認",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28170552/18c56bb9ac41aa235fc5bcfa7ef9f084.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621548",
-          "author": "gentosha_takahashi",
-          "description": "純資産は約198億円と試算 プライバシー重視の暗号資産ジーキャッシュ（Zcash：ZEC）の共同創設者ショーン・ボウ（Sean Bowe）氏が、開発助成プログラム「ジーキャッシュ・コミュニティ・グランツ（Zcash Co […]",
-          "link": "https://www.neweconomy.jp/posts/621548",
-          "publishedOn": "2026-10-28T08:05:00.000Z",
-          "wordCount": 775,
-          "title": "Zcash共同創設者、開発助成プログラム「ZCG」への8%配分打ち切り提案",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28170451/0a9a8e0714be739b751eb6c16297a50a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621547",
-          "author": "OtsugaShinya",
-          "description": "Genie 4を限定テスター向けに提供開始 グーグル・ディープマインド（Google DeepMind）が、世界モデル「ジーニー4（Genie 4）」を限定テスター向けに研究プレビューとして提供を開始したと10月27日に […]",
-          "link": "https://www.neweconomy.jp/posts/621547",
-          "publishedOn": "2026-10-28T08:01:09.000Z",
-          "wordCount": 773,
-          "title": "グーグルDeepMind、世界モデル「Genie 4」の研究プレビュー提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28170105/cc55920ec2fe674b633cb2a5d25d8f38.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621542",
-          "author": "OtsugaShinya",
-          "description": "農業の脱炭素化と金融サービスへのアクセス向上を目指す ブロックチェーンを活用した中央銀行デジタル通貨（CBDC）システムなどの開発を手がけるソラミツCBDCが、バングラデシュでCBDCを含むデジタル通貨の活用可能性に関す […]",
-          "link": "https://www.neweconomy.jp/posts/621542",
-          "publishedOn": "2026-10-28T07:54:56.000Z",
-          "wordCount": 752,
-          "title": "ソラミツCBDC、バングラデシュでデジタル通貨活用を調査。農家への環境価値還元で",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28165303/12899906b97e1846b4e9ea13d05c7005.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=621536",
-          "author": "OtsugaShinya",
-          "description": "ビッサムが役職員情報流出の形跡を報告 韓国の暗号資産（仮想通貨）取引所ビッサム（Bithumb）が、社内システムへの不正アクセスにより役職員情報が流出した形跡を確認したと当局に報告した。韓国金融委員会（FSC）が10月2 […]",
-          "link": "https://www.neweconomy.jp/posts/621536",
-          "publishedOn": "2026-10-28T07:45:17.000Z",
-          "wordCount": 747,
-          "title": "韓国ビッサムにハッキング、役職員情報流出の形跡を確認＝金融委員会",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/28164512/0fabc6828730bde34e61dbec7864f942.jpg"
         }
       ]
     }

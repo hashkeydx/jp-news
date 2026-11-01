@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-01T19:37:38.174Z</updated>
+    <updated>2026-11-01T23:33:02.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮の仮想通貨窃取累計118.7億ドル、GDP45％相当＝アナリスト]]></title>
+        <id>https://coinpost.jp/?p=745872</id>
+        <link href="https://coinpost.jp/?p=745872"/>
+        <updated>2026-11-01T23:31:51.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスから60億ドル超が流出した事件を受け、北朝鮮ラザルスによる仮想通貨の累計窃取額は118.7億ドルに達したとアナリストが試算した。北朝鮮のGDPの45％に相当する。FBIは今回の事件を北朝鮮の犯行と発表している。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス出金再開、9時間半で純流出約5700億円　預かり資産の2.1％]]></title>
+        <id>https://coinpost.jp/?p=745866</id>
+        <link href="https://coinpost.jp/?p=745866"/>
+        <updated>2026-11-01T22:44:18.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスは、ハッキング被害で停止していた出金を11月1日から段階的に再開した。約9時間半で出金は約46億ドル、入金は約10億ドルで、純流出は預かり資産の2.1％にあたる。新たなプルーフ・オブ・リザーブ（PoR）は近く公開される見込み。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、急落し1200万円台に　AI関連決算と雇用統計が焦点｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=745685</id>
@@ -814,136 +834,6 @@
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国人の63%「金融システムの刷新が必要」　仮想通貨は認知に壁＝米DEF調査]]></title>
-        <id>https://coinpost.jp/?p=745149</id>
-        <link href="https://coinpost.jp/?p=745149"/>
-        <updated>2026-10-28T10:27:26.000Z</updated>
-        <summary type="html"><![CDATA[米DeFi教育財団（DEF）とIpsosが米国の成人1,545人に実施した調査で、現在の金融システムを安全と考える人は19%で、63%が刷新を求めた。一方、仮想通貨取引所への信頼は4%、DeFiは5%と低く、認知の壁も明らかになった。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本ビットコイン産業、BTC現物出資で約8億円調達へ　ANAP系と提携]]></title>
-        <id>https://coinpost.jp/?p=745233</id>
-        <link href="https://coinpost.jp/?p=745233"/>
-        <updated>2026-10-28T09:06:02.000Z</updated>
-        <summary type="html"><![CDATA[ビットコイン決済事業の日本ビットコイン産業は28日、ビットコインの現物出資による約8億円の第三者割当増資を発表した。ANAP子会社とはライトニングネットワークのルーティング事業で提携し、カード決済に頼らない越境決済の基盤づくりを進める。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[予測市場Predict[.]funで約40万USDTの不正送金、運営チームが全額補償を表明]]></title>
-        <id>https://www.neweconomy.jp/?p=621589</id>
-        <link href="https://www.neweconomy.jp/posts/621589"/>
-        <updated>2026-10-28T08:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Predict.funで約40万USDTの不正送金、全額補償へ 予測市場プラットフォーム「プレディクト・ファン（Predict[.]fun）」の運営チームが、一部ユーザーのウォレットから合計約40万USDT（約6,318 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRPクジラの保有比率68.5％、約4年ぶり高水準＝サンティメント]]></title>
-        <id>https://coinpost.jp/?p=745226</id>
-        <link href="https://coinpost.jp/?p=745226"/>
-        <updated>2026-10-28T08:35:29.000Z</updated>
-        <summary type="html"><![CDATA[サンティメントによると、1,000万XRP以上を持つウォレットの保有量が468.7億XRPに達し、供給量の約68.5％と2022年11月以来の水準に。価格低迷下での買い増しと、同社が示す節目をまとめた。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、北朝鮮関連の複数のサイバー攻撃を阻止。資産損失なし]]></title>
-        <id>https://www.neweconomy.jp/?p=621578</id>
-        <link href="https://www.neweconomy.jp/posts/621578"/>
-        <updated>2026-10-28T08:25:07.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスが北朝鮮関連のサイバー攻撃を阻止 暗号資産（仮想通貨）取引所バイナンス（Binance）が、過去1週間に北朝鮮に関連する複数のサイバー攻撃を検知し、阻止したと10月27日に明らかにした。今回の攻撃による社内シス […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、欧州でUSDTなど14銘柄を10/30にUSDCに自動変換へ]]></title>
-        <id>https://www.neweconomy.jp/?p=621573</id>
-        <link href="https://www.neweconomy.jp/posts/621573"/>
-        <updated>2026-10-28T08:20:17.000Z</updated>
-        <summary type="html"><![CDATA[MiCA非準拠の14銘柄が対象、期限後の入金は反映されず 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が、欧州経済領域（EEA）の個人顧客が保有するUSDTなど14銘柄の暗号資産を、10月30日にUSDC […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗号資産取引ボット「Bloom」で約9400SOL流出、9人に被害。全額補償へ]]></title>
-        <id>https://www.neweconomy.jp/?p=621567</id>
-        <link href="https://www.neweconomy.jp/posts/621567"/>
-        <updated>2026-10-28T08:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Bloomが被害者への全額補償を表明、全システムを停止 暗号資産取引ボット「ブルーム（Bloom）」のセキュリティインシデントによってソラナ（Solana）のネイティブトークン「SOL」が約9,408SOL流出した。ブル […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンド・ストックス15銘柄、ロビンフッドチェーンで利用可能に]]></title>
-        <id>https://www.neweconomy.jp/?p=621493</id>
-        <link href="https://www.neweconomy.jp/posts/621493"/>
-        <updated>2026-10-28T08:10:05.000Z</updated>
-        <summary type="html"><![CDATA[Ondo StocksがRobinhood Chainに対応 トークン化米国株・ETF（上場投資信託）などを提供するオンド・ストックス（Ondo Stocks）の15銘柄が、ロビンフッドチェーン（Robinhood Ch […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアムアップグレード「グラムステルダム」、コントラクトに影響の可能性。チェーンセキュリティが13事例を確認]]></title>
-        <id>https://www.neweconomy.jp/?p=621553</id>
-        <link href="https://www.neweconomy.jp/posts/621553"/>
-        <updated>2026-10-28T08:06:29.000Z</updated>
-        <summary type="html"><![CDATA[ChainSecurityが影響事例13件を確認、開発者に点検呼びかけ イーサリアム（Ethereum）の次期大型アップグレード「グラムステルダム（Glamsterdam）」に伴う仕様変更について、既存のスマートコントラ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zcash共同創設者、開発助成プログラム「ZCG」への8%配分打ち切り提案]]></title>
-        <id>https://www.neweconomy.jp/?p=621548</id>
-        <link href="https://www.neweconomy.jp/posts/621548"/>
-        <updated>2026-10-28T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[純資産は約198億円と試算 プライバシー重視の暗号資産ジーキャッシュ（Zcash：ZEC）の共同創設者ショーン・ボウ（Sean Bowe）氏が、開発助成プログラム「ジーキャッシュ・コミュニティ・グランツ（Zcash Co […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグルDeepMind、世界モデル「Genie 4」の研究プレビュー提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=621547</id>
-        <link href="https://www.neweconomy.jp/posts/621547"/>
-        <updated>2026-10-28T08:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Genie 4を限定テスター向けに提供開始 グーグル・ディープマインド（Google DeepMind）が、世界モデル「ジーニー4（Genie 4）」を限定テスター向けに研究プレビューとして提供を開始したと10月27日に […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラミツCBDC、バングラデシュでデジタル通貨活用を調査。農家への環境価値還元で]]></title>
-        <id>https://www.neweconomy.jp/?p=621542</id>
-        <link href="https://www.neweconomy.jp/posts/621542"/>
-        <updated>2026-10-28T07:54:56.000Z</updated>
-        <summary type="html"><![CDATA[農業の脱炭素化と金融サービスへのアクセス向上を目指す ブロックチェーンを活用した中央銀行デジタル通貨（CBDC）システムなどの開発を手がけるソラミツCBDCが、バングラデシュでCBDCを含むデジタル通貨の活用可能性に関す […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓国ビッサムにハッキング、役職員情報流出の形跡を確認＝金融委員会]]></title>
-        <id>https://www.neweconomy.jp/?p=621536</id>
-        <link href="https://www.neweconomy.jp/posts/621536"/>
-        <updated>2026-10-28T07:45:17.000Z</updated>
-        <summary type="html"><![CDATA[ビッサムが役職員情報流出の形跡を報告 韓国の暗号資産（仮想通貨）取引所ビッサム（Bithumb）が、社内システムへの不正アクセスにより役職員情報が流出した形跡を確認したと当局に報告した。韓国金融委員会（FSC）が10月2 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
     <entry>
