@@ -635,6 +635,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=746032",
+          "author": "Enzo",
+          "description": "金融庁は2日、デジタル・分散型金融に関する研究会の第2回会合を開き、ステーブルコインの100万円上限やレンディング規制を議論した。JPYCとSBI VCトレードが上限の見直しを求めた一方、全銀協は慎重な検討を求めた。",
+          "link": "https://coinpost.jp/?p=746032",
+          "publishedOn": "2026-11-02T10:21:32.000Z",
+          "wordCount": 3254,
+          "title": "ステーブルコインの100万円上限、金融庁研究会で議論　全銀協は慎重",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=745949",
           "author": "幸田直子",
           "description": "米ナスダック上場のネクスト・テクノロジーが、保有する約5,833BTCの売却または担保設定を取締役会で承認した。バイナンスの不正流出事件を受け、カストディリスクの高まりを理由に挙げている。",
@@ -1398,81 +1413,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/201204_Tokenization3.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/12/201204_Tokenization3.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745335",
-          "author": "Enzo",
-          "description": "ビットワイズは、ビットコインが2036年に159万9,766ドルに達するとの試算を公表した。年率34.3％で前年の28.3％から上方修正。機関投資家の1から5％配分で最大7.4兆ドルの資金流入を想定し、量子コンピュータなどのリスクも挙げた。",
-          "link": "https://coinpost.jp/?p=745335",
-          "publishedOn": "2026-10-29T02:49:40.000Z",
-          "wordCount": 3271,
-          "title": "ビットワイズ予測「ビットコインは10年後160万ドルに到達」　年率34.3％増で",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745316",
-          "author": "Enzo",
-          "description": "SBIホールディングスが米クロスリバー銀行の親会社CRBグループと、日本での合弁会社設立に向け基本合意。融資債権のRWAトークン化やクロスボーダー決済、AIエージェント向け決済を検討し、円建てステーブルコインJPYSCの導入も検討する。",
-          "link": "https://coinpost.jp/?p=745316",
-          "publishedOn": "2026-10-29T02:25:09.000Z",
-          "wordCount": 3224,
-          "title": "SBI、米クロスリバー親会社と日本合弁へ　RWAトークン化やAI決済",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/payment343424-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/03/payment343424-1.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745271",
-          "author": "K.Kobayashi",
-          "description": "仮想通貨業界大手のリップルとコインベースがパートナーシップを締結。コインベースが段階的にRLUSDに対応することやXRPLなど3チェーンで入出金可能になることなどを発表した。",
-          "link": "https://coinpost.jp/?p=745271",
-          "publishedOn": "2026-10-29T01:44:40.000Z",
-          "wordCount": 3225,
-          "title": "リップルとコインベースが提携、ステーブルコインRLUSDのアクセス拡大へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/Ripple-and-Coinbase-RLUSD.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/Ripple-and-Coinbase-RLUSD.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745262",
-          "author": "A.Yamada",
-          "description": "グーグルが金融機関向けの仮想通貨保護サービスを限定公開した。MPCで秘密鍵を分散管理する仕組みで、複数の金融機関が試験中。商用提供は2027年初頭の予定だ。",
-          "link": "https://coinpost.jp/?p=745262",
-          "publishedOn": "2026-10-29T01:12:34.000Z",
-          "wordCount": 3207,
-          "title": "グーグル、金融機関向けの仮想通貨・トークン化資産セキュリティツールを限定公開",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/google0206.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/02/google0206.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745257",
-          "author": "K.Kobayashi",
-          "description": "リップルは、2026年の年間プロダクト収益のランレートを算出し、約1,420億円に近づいていると発表。多様なソリューションを利用している顧客やパートナー企業の数が3倍になったとも公表した。",
-          "link": "https://coinpost.jp/?p=745257",
-          "publishedOn": "2026-10-29T00:10:33.000Z",
-          "wordCount": 3273,
-          "title": "リップル「2026年は成功の年」、年間プロダクト収益のランレートは1400億円超へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ripple0312.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/03/ripple0312.jpg"
         }
       ]
     },
@@ -1481,6 +1421,106 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=623203",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/623203",
+          "publishedOn": "2026-11-02T15:18:16.000Z",
+          "wordCount": 802,
+          "title": "【11/2話題】SBI VCトレードのJPYSCレンディング残高100億円突破、アンソロピックが日本で最大約5529億円の株式募集へ、バイナンス出金再開など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02191132/53341cebd2e0635e5e3369b91da28492.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623154",
+          "author": "OtsugaShinya",
+          "description": "Anthropicが日本の投資家向けに株式募集へ 対話型AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）が、米国での新規株式公開（IPO）に伴う日本の投資家向け株式募集に関する有価証券届出 […]",
+          "link": "https://www.neweconomy.jp/posts/623154",
+          "publishedOn": "2026-11-02T08:15:36.000Z",
+          "wordCount": 748,
+          "title": "アンソロピック、日本で最大約5529億円の株式募集へ。米ナスダック上場に伴い",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02171320/Anthropic-261102-PIXTA.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623130",
+          "author": "watanabeyousuke",
+          "description": "古いiPhoneのシードフレーズ保管に注意喚起 暗号資産（仮想通貨）ウォレットを開発するワンキー（OneKey）の創業者イーシー（Yishi）氏が、古いiPhoneをシードフレーズの保管に使用する危険性について、10月3 […]",
+          "link": "https://www.neweconomy.jp/posts/623130",
+          "publishedOn": "2026-11-02T08:05:30.000Z",
+          "wordCount": 1758,
+          "title": "OneKey創業者、古いiPhoneでのシードフレーズ保管に警鐘。機内モードでも攻撃リスク",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02170259/f6ede59b6eef7867d9b45b4c0bfe144d.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623120",
+          "author": "watanabeyousuke",
+          "description": "FBI、北朝鮮の関与を発表し関連アドレスの取引阻止を要請 米連邦捜査局（FBI）が、暗号資産（仮想通貨）取引所バイナンス（Binance）から60億ドル（約9,468億円）以上の暗号資産が盗まれた事件について、北朝鮮によ […]",
+          "link": "https://www.neweconomy.jp/posts/623120",
+          "publishedOn": "2026-11-02T08:01:07.000Z",
+          "wordCount": 807,
+          "title": "バイナンス60億ドル超流出事件は北朝鮮の関与、資金洗浄阻止へ協力要請＝FBI",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02165701/a5ad530ca7ae1761608f23a9def5f06a-1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623113",
+          "author": "OtsugaShinya",
+          "description": "対応ブロックチェーンは10に拡大 米決済大手ビザ（Visa）のステーブルコインによる精算額が、年換算で250億ドル（約3.9兆円）を超えた。ビザのライアン・マキナニー（Ryan McInerney）CEOが、10月27日 […]",
+          "link": "https://www.neweconomy.jp/posts/623113",
+          "publishedOn": "2026-11-02T07:55:02.000Z",
+          "wordCount": 748,
+          "title": "Visa、ステーブルコイン精算額が年換算250億ドル超に、前年同期比10倍",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02165237/902da9bbaee4bb24991a741935148cbd.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623105",
+          "author": "HitomotoToshikazu",
+          "description": "KuCoinがロシア・ベラルーシ向けサービス終了へ 暗号資産（仮想通貨）取引所クーコイン（KuCoin）は10月29日、ロシアとベラルーシの利用者に対するサービス提供を即時終了すると発表した。 今回の措置は、クーコインが […]",
+          "link": "https://www.neweconomy.jp/posts/623105",
+          "publishedOn": "2026-11-02T07:50:59.000Z",
+          "wordCount": 743,
+          "title": "クーコイン、ロシア・ベラルーシ向けサービスを即時終了へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02164846/1a55ab2394596a0dde7f98d596d813c3.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623098",
+          "author": "HitomotoToshikazu",
+          "description": "KalshiがシリーズGで10億ドル調達 米予測市場運営企業カルシ（Kalshi）が、シリーズGの資金調達ラウンドで10億ドル（約1,578億円）を調達し、調達後の企業評価額が400億ドル（約6.3兆円）になったと10月 […]",
+          "link": "https://www.neweconomy.jp/posts/623098",
+          "publishedOn": "2026-11-02T07:46:24.000Z",
+          "wordCount": 1642,
+          "title": "米予測市場カルシ、シリーズGで1Bドル調達。評価額40Bドルに",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02170813/a97b34f89106a3d9f81ea124e86fc0c1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623071",
+          "author": "OtsugaShinya",
+          "description": "人間を装う応答や自傷助長を禁止、事業者に年齢確認を要求 米ニューヨーク州のキャシー・ホークル（Kathy Hochul）知事が、州内の18歳未満の利用者に対し、AIチャットボットの有害な機能を提供することを禁じる法案に1 […]",
+          "link": "https://www.neweconomy.jp/posts/623071",
+          "publishedOn": "2026-11-02T07:10:09.000Z",
+          "wordCount": 751,
+          "title": "NY州知事、AIチャットボット規制法に署名。未成年者への有害な機能提供を禁止へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02160623/16f9200d45b83f60ea9b7d1b198e9056.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623048",
+          "author": "OtsugaShinya",
+          "description": "7〜9月期の全社売上高の約11％、収益分配などを含む 米マイクロソフト（Microsoft）が、オープンAI（OpenAI）との商取引により、2027会計年度第1四半期（2026年7〜9月）に100億ドル（約1兆5,80 […]",
+          "link": "https://www.neweconomy.jp/posts/623048",
+          "publishedOn": "2026-11-02T06:49:58.000Z",
+          "wordCount": 836,
+          "title": "マイクロソフトのOpenAI関連売上高、四半期100億ドルに。Xbox事業を上回る",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02160241/93530cf8cd1bfb5c6f3b9194c46180b8.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=623032",
+          "author": "HitomotoToshikazu",
+          "description": "SBIが米デジタル銀行Erebor Bankに出資へ SBIホールディングスが、米国拠点のSBIホールディングスUSA（SBI Holdings USA）を通じて、米デジタル銀行のエレボール・バンク（Erebor Ban […]",
+          "link": "https://www.neweconomy.jp/posts/623032",
+          "publishedOn": "2026-11-02T06:30:54.000Z",
+          "wordCount": 753,
+          "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02161206/f50f3db27e25de9c8a131eed6c037888.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=623012",
           "author": "HitomotoToshikazu",
@@ -1870,16 +1910,6 @@
           "wordCount": 757,
           "title": "SBI、米クロスリバー親会社と日本で合弁設立へ基本合意、JPYSC導入も検討",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/10/29145359/3f9b81a0208e65702bac9171eac1fcc9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=620903",
-          "author": "HitomotoToshikazu",
-          "description": "Nasdaq100連動のトークン化ファンドがStellar展開へ 資産運用会社ジャナスヘンダーソン（Janus Henderson）と、資産トークン化基盤を提供するセントリフュージ（Centrifuge）が、ナスダック1 […]",
-          "link": "https://www.neweconomy.jp/posts/620903",
-          "publishedOn": "2026-10-29T01:20:18.000Z",
-          "wordCount": 756,
-          "title": "ジャナスとセントリフュージ、ナスダック100連動のトークン化ファンド立ち上げ、ステラ展開へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/05/14120520/1afb2979719f3d6695cf4797763d93f6.jpg"
         }
       ]
     }
