@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-04T09:05:02.593Z</updated>
+    <updated>2026-11-04T17:10:34.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇]]></title>
+        <id>https://coinpost.jp/?p=746369</id>
+        <link href="https://coinpost.jp/?p=746369"/>
+        <updated>2026-11-04T13:00:37.000Z</updated>
+        <summary type="html"><![CDATA[米中間選挙で民主党が上下両院の多数派を確保した。仮想通貨業界は1.7億ドル超を投じたが、業界に懐疑的なブラウン氏が当選する結果となった。一方で、ビットコインは7万8000ドル台で取引され、昨日の警戒から1.2%反発した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【11/4話題】zERC20 v2がメインネット公開、バイナンスが巨額流出の初期調査公表、個別株の無期限先物が米登録取引所で取引可能になど（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=623770</id>
+        <link href="https://www.neweconomy.jp/posts/623770"/>
+        <updated>2026-11-04T10:28:22.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン売り手に枯渇の兆し　需要はなお不足＝アナリスト]]></title>
         <id>https://coinpost.jp/?p=746347</id>
@@ -744,106 +764,6 @@
         <summary type="html"><![CDATA[今週は、リップルによる年間プロダクト収益のランレート発表、グーグルのセキュリティツール限定公開、ビットワイズによる仮想通貨ビットコインの価格予測、バイナンスの不正流出に関する記事が関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブロックチェーン分析大手チェイナリシスに不正アクセス、10月の日本での漏えい報告は9月の約3倍]]></title>
-        <id>https://coinpost.jp/?p=745824</id>
-        <link href="https://coinpost.jp/?p=745824"/>
-        <updated>2026-10-31T05:02:04.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨分析大手チェイナリシスが30日、顧客のユーザーIDや氏名などへの不正アクセスを公表した。10月には日本の佐川急便や米国のオラクル・ヘルスを含む10件の個人情報漏えいも確認されている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米クラリティー法案が再び焦点に、バイナンス被害で資産凍結の法的保護めぐり論争広がる]]></title>
-        <id>https://coinpost.jp/?p=745789</id>
-        <link href="https://coinpost.jp/?p=745789"/>
-        <updated>2026-10-31T04:45:50.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所バイナンスで約63億ドル（1兆円超）の被害が出たハッキングを受け、ルミス上院議員は、クラリティー法案が成立していれば不審な取引を凍結できたと主張した。これに反論も出ており、業界団体は取引所の連邦監督を議会に求めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー社、USDT準備金の超過分が1兆円超えに回復　6月末から約2倍に]]></title>
-        <id>https://coinpost.jp/?p=745813</id>
-        <link href="https://coinpost.jp/?p=745813"/>
-        <updated>2026-10-31T04:10:53.000Z</updated>
-        <summary type="html"><![CDATA[ステーブルコインUSDTを提供するテザー社は、7～9月期の準備金保証報告書を公表した。9月末の超過準備金は79.5億ドルで6月末から約2倍になっている。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハイパーリキッドの収益源多角化、USDC準備金利回りなどの割合増加＝レポート]]></title>
-        <id>https://coinpost.jp/?p=745794</id>
-        <link href="https://coinpost.jp/?p=745794"/>
-        <updated>2026-10-31T02:02:39.000Z</updated>
-        <summary type="html"><![CDATA[グレースケールによると、ハイパーリキッドのコア取引手数料は9割超から約6割に低下し、HIP3や準備金利回りなど様々な部門からの収益が前年から倍増している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東証上場イオレ、保有151.21ビットコインを全量売却へ　AIデータセンター投資に充当]]></title>
-        <id>https://coinpost.jp/?p=745770</id>
-        <link href="https://coinpost.jp/?p=745770"/>
-        <updated>2026-10-31T01:20:48.000Z</updated>
-        <summary type="html"><![CDATA[東証上場のイオレは30日、ビットコイン151.21BTCの全量売却を決議した。売却見込額は18億3,100万円、売却損は約2億5,400万円の見込みで、代金はAIデータセンター事業関連投資に先行して充てる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮ハッカー、バイナンス1兆円窃盗の大半をわずか約20分で実行　秘密鍵に頼らず署名悪用]]></title>
-        <id>https://coinpost.jp/?p=745771</id>
-        <link href="https://coinpost.jp/?p=745771"/>
-        <updated>2026-10-31T00:20:45.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスで1兆円相当の資産が流出し、大半が約20分に集中したことが判明。分析会社は秘密鍵の盗難・漏洩ではなく署名の仕組みへの侵害と指摘し、EIP-7702が悪用された手口を踏まえ、承認ルールの独立判定などの対策を挙げた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米CFTC委員長、バイナンス被害の事案受け仮想通貨取引所に連邦登録を提供へ]]></title>
-        <id>https://coinpost.jp/?p=745772</id>
-        <link href="https://coinpost.jp/?p=745772"/>
-        <updated>2026-10-30T22:32:52.000Z</updated>
-        <summary type="html"><![CDATA[米商品先物取引委員会（CFTC）のセリグ委員長は30日、バイナンスで29日に起きたハッキングを受け、仮想通貨取引所が任意で連邦登録できる選択肢を設ける考えを示した。米国のデリバティブ市場と同じサイバー対策などが適用される。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米仮想通貨関連株が全面安、1兆円規模のハッキングも市場全体への脅威は限定的とアナリストが見解]]></title>
-        <id>https://coinpost.jp/?p=745773</id>
-        <link href="https://coinpost.jp/?p=745773"/>
-        <updated>2026-10-30T22:05:00.000Z</updated>
-        <summary type="html"><![CDATA[30日の米国株式市場ではバイナンスの1兆円不正流出事件を受けて、コインベースが10.62%、サークルが9.3％下落した。ウォール街の3社は市場全体の脅威になる根拠は乏しいとみている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トランプ大統領、仮想通貨取引所バイナンスのハッキングめぐり北朝鮮の関与を調査と発言]]></title>
-        <id>https://coinpost.jp/?p=745774</id>
-        <link href="https://coinpost.jp/?p=745774"/>
-        <updated>2026-10-30T21:20:03.000Z</updated>
-        <summary type="html"><![CDATA[トランプ大統領は30日、仮想通貨取引所バイナンスのハッキングに北朝鮮のハッカー集団が関与したか調べていると話した。チェイナリシスは1兆円近くのハッキングは北朝鮮によるものだと強く確信している。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス、ハッキング被害の補償に約1兆円を確保]]></title>
-        <id>https://coinpost.jp/?p=745769</id>
-        <link href="https://coinpost.jp/?p=745769"/>
-        <updated>2026-10-30T21:05:39.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスは31日、ハッキング被害の補償に自社資金63億4000万ドル超を確保したと明らかにした。被害額の約80％分は流出と同じトークンで保有しており、残りも買い付けを進めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
