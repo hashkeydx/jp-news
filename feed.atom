@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-04T17:10:34.803Z</updated>
+    <updated>2026-11-04T23:37:28.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米ステーブルコイン大手サークル、26年3Qの総収益は1370億円超　前年比＋17％]]></title>
+        <id>https://coinpost.jp/?p=746396</id>
+        <link href="https://coinpost.jp/?p=746396"/>
+        <updated>2026-11-04T23:10:02.000Z</updated>
+        <summary type="html"><![CDATA[USDC発行元のサークルは、2026年3Qの決算を発表。事業収益とステーブルコインの準備金運用益の合計は約1,371億円で前年比プラス17％だったことなどを説明した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米民主党勝利でAIデータセンターに規制懸念、マイニング企業のAI事業で不確実性高まる]]></title>
+        <id>https://coinpost.jp/?p=746380</id>
+        <link href="https://coinpost.jp/?p=746380"/>
+        <updated>2026-11-04T23:05:57.000Z</updated>
+        <summary type="html"><![CDATA[米中間選挙で民主党が議会とテキサス州知事の座を握ることになった。投資銀行バーンスタインはAI向けデータセンター事業に乗り出す仮想通貨マイニング企業7社の目標株価を最大54％引き下げ、テキサス州を巡る不確実性を理由に挙げた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ストラテジーの優先株、約半年ぶりに一時100ドル回復　BTC買い増しの資金調達が再び可能に]]></title>
+        <id>https://coinpost.jp/?p=746385</id>
+        <link href="https://coinpost.jp/?p=746385"/>
+        <updated>2026-11-04T22:35:15.000Z</updated>
+        <summary type="html"><![CDATA[ストラテジーの優先株ストレッチ（STRC）が5日、5月以来の額面100ドルに一時回復した。買い戻しとビットコインの8万ドル回復が重なり、新規発行によるビットコイン購入資金の調達を再開できる水準に戻った。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zaif、メール配信の委託先から38万超のメールアドレス流出を確認]]></title>
+        <id>https://coinpost.jp/?p=746393</id>
+        <link href="https://coinpost.jp/?p=746393"/>
+        <updated>2026-11-04T22:15:21.000Z</updated>
+        <summary type="html"><![CDATA[暗号資産取引所Zaifは4日、メール配信の委託先アララへの不正アクセスで、登録していたメールアドレス38万536件の流出を確認したと発表した。パスワードの流出はなく、二次被害も確認されていないという。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中間選挙で圧勝した民主党、トランプ一族の仮想通貨事業を調査へ＝報道]]></title>
+        <id>https://coinpost.jp/?p=746382</id>
+        <link href="https://coinpost.jp/?p=746382"/>
+        <updated>2026-11-04T21:45:01.000Z</updated>
+        <summary type="html"><![CDATA[米中間選挙で民主党が下院の過半数を確保し、トランプ大統領一族の仮想通貨事業が議会調査の対象となる見通しだ。選挙後にはトランプ大統領関連のトークンが下落した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コインベース、バイナンスハッキングの影響を受けず　資産の99％超をオフライン保管]]></title>
+        <id>https://coinpost.jp/?p=746381</id>
+        <link href="https://coinpost.jp/?p=746381"/>
+        <updated>2026-11-04T21:25:58.000Z</updated>
+        <summary type="html"><![CDATA[米仮想通貨取引所大手コインベースは、バイナンスのハッキングの影響を受けておらず、顧客資産の99％超をコールドウォレットで保管していることを強調した。秘密鍵の分割や緊急停止の仕組みなど、資産管理の体制も公表した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米下院民主党、クラリティー法案を協議　SEC監督権限の拡大案も]]></title>
+        <id>https://coinpost.jp/?p=746383</id>
+        <link href="https://coinpost.jp/?p=746383"/>
+        <updated>2026-11-04T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[米下院民主党が、ウォーターズ下院議員の修正案を仮想通貨のクラリティー法案に拡大する案を協議している。検討案にはSECの監督拡大やCFTCの役割限定が含まれるとされ、トランプ大統領らへの倫理条項の追加も見込まれる。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[民主党が圧勝で米議会を奪還、ビットコインは前日比1.2%上昇]]></title>
         <id>https://coinpost.jp/?p=746369</id>
