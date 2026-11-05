@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-05T15:25:50.951Z</updated>
+    <updated>2026-11-05T21:57:55.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラジルMercado Bitcoin 、ハッキング「封じ込め」発表後も不正流出が4時間続いた]]></title>
+        <id>https://coinpost.jp/?p=746669</id>
+        <link href="https://coinpost.jp/?p=746669"/>
+        <updated>2026-11-05T21:45:45.000Z</updated>
+        <summary type="html"><![CDATA[ブラジル大手の仮想通貨取引所メルカド・ビットコインは、ハッキングを「封じ込めた」と発表した後も、約4時間にわたり顧客の入金用アドレスから資産を流出させられていた。分析企業ビットクエリーは全体被害額を4,860万ドル（76億円）と推計している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約8200万台の対応ギャラクシー端末、米国でソラナ上USDC送金可能に]]></title>
+        <id>https://coinpost.jp/?p=746670</id>
+        <link href="https://coinpost.jp/?p=746670"/>
+        <updated>2026-11-05T21:15:47.000Z</updated>
+        <summary type="html"><![CDATA[サムスン電子が米国で、サムスンウォレットのステーブルコインアカウントの提供を開始した。対象は約8200万台のギャラクシーで、USDCの保有や送金、60カ国超の対象銀行口座への送金に対応する。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン急落、一時7.6万割れ　AI規制懸念で米ナスダック5％超安]]></title>
+        <id>https://coinpost.jp/?p=746671</id>
+        <link href="https://coinpost.jp/?p=746671"/>
+        <updated>2026-11-05T20:55:49.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインが日本時間5日夜、一時75,642万ドルまで急落し、米中間選挙後の上昇分を消した。米国のAI関連株の急落が波及し、強制清算は24時間で10億ドルを超えた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【11/5話題】農中信託銀行がデジタル証券の信託業務に参入へ、ビットコインが6週間ぶり安値から反発など（音声ニュース）]]></title>
         <id>https://www.neweconomy.jp/?p=624151</id>
