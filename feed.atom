@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-06T17:55:55.411Z</updated>
+    <updated>2026-11-06T23:04:24.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米当局、仮想通貨含む国際送金の本人情報収集を拡大する案を撤回]]></title>
+        <id>https://coinpost.jp/?p=746941</id>
+        <link href="https://coinpost.jp/?p=746941"/>
+        <updated>2026-11-06T22:15:55.000Z</updated>
+        <summary type="html"><![CDATA[米金融犯罪取締ネットワークと連邦準備制度理事会は、仮想通貨も対象とする国際送金の基準額を3,000ドルから250ドルに下げる規則案を撤回すると発表した。撤回は9日に発効し、現行の基準額が維持される。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米ストライブ、第3四半期に8136ビットコイン純増　ストラテジーとメタプラネットを上回る]]></title>
+        <id>https://coinpost.jp/?p=746926</id>
+        <link href="https://coinpost.jp/?p=746926"/>
+        <updated>2026-11-06T21:50:13.000Z</updated>
+        <summary type="html"><![CDATA[米ビットコインDAT企業Striveは6日、第3四半期の純利益が5.09億ドルだったと発表した。10月は15,124BTCのビットコインを買い増し、2位のメタプラネットとの差は876BTCとなった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米労働省、仮想通貨含む確定拠出年金の代替資産規則を審査に提出]]></title>
+        <id>https://coinpost.jp/?p=746928</id>
+        <link href="https://coinpost.jp/?p=746928"/>
+        <updated>2026-11-06T21:22:21.000Z</updated>
+        <summary type="html"><![CDATA[米労働省は今週、仮想通貨を含む代替資産を組み入れたファンドを401kで提供する際の受託者の義務を明確にする規則を、ホワイトハウスの情報規制問題室に提出した。費用の見積もりは作成中という。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gnosis Pay、不正アクセスで顧客情報流出　顧客資金に影響なし]]></title>
+        <id>https://coinpost.jp/?p=746929</id>
+        <link href="https://coinpost.jp/?p=746929"/>
+        <updated>2026-11-06T21:10:27.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨決済カード事業者のGnosis Payは、旧システムへの不正アクセスで顧客の一部情報が流出したと公表した。顧客資金への影響はなく、オンライン決済に追加の本人確認を必須にするなどの対策を講じた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米財務省、仮想通貨取引所MEXCを米金融システムから排除]]></title>
+        <id>https://coinpost.jp/?p=746930</id>
+        <link href="https://coinpost.jp/?p=746930"/>
+        <updated>2026-11-06T20:55:29.000Z</updated>
+        <summary type="html"><![CDATA[米財務省は現地時間6日、仮想通貨取引所MEXCグローバルとの送金を米金融機関に禁じる命令を出した。160億ドル以上の違法取引への関与を理由に、米金融システムへのアクセスを事実上遮断した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米アンソロピックの上場前予想株価連動オプション、ハイパーコールが9日に提供開始へ]]></title>
         <id>https://coinpost.jp/?p=746918</id>
@@ -1304,106 +1354,6 @@
         <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
         <author>
             <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ステーブルコインの100万円上限、金融庁研究会で議論　全銀協は慎重]]></title>
-        <id>https://coinpost.jp/?p=746032</id>
-        <link href="https://coinpost.jp/?p=746032"/>
-        <updated>2026-11-02T10:21:32.000Z</updated>
-        <summary type="html"><![CDATA[金融庁は2日、デジタル・分散型金融に関する研究会の第2回会合を開き、ステーブルコインの100万円上限やレンディング規制を議論した。JPYCとSBI VCトレードが上限の見直しを求めた一方、全銀協は慎重な検討を求めた。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンソロピック、日本で最大約5529億円の株式募集へ。米ナスダック上場に伴い]]></title>
-        <id>https://www.neweconomy.jp/?p=623154</id>
-        <link href="https://www.neweconomy.jp/posts/623154"/>
-        <updated>2026-11-02T08:15:36.000Z</updated>
-        <summary type="html"><![CDATA[Anthropicが日本の投資家向けに株式募集へ 対話型AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）が、米国での新規株式公開（IPO）に伴う日本の投資家向け株式募集に関する有価証券届出 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneKey創業者、古いiPhoneでのシードフレーズ保管に警鐘。機内モードでも攻撃リスク]]></title>
-        <id>https://www.neweconomy.jp/?p=623130</id>
-        <link href="https://www.neweconomy.jp/posts/623130"/>
-        <updated>2026-11-02T08:05:30.000Z</updated>
-        <summary type="html"><![CDATA[古いiPhoneのシードフレーズ保管に注意喚起 暗号資産（仮想通貨）ウォレットを開発するワンキー（OneKey）の創業者イーシー（Yishi）氏が、古いiPhoneをシードフレーズの保管に使用する危険性について、10月3 […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス60億ドル超流出事件は北朝鮮の関与、資金洗浄阻止へ協力要請＝FBI]]></title>
-        <id>https://www.neweconomy.jp/?p=623120</id>
-        <link href="https://www.neweconomy.jp/posts/623120"/>
-        <updated>2026-11-02T08:01:07.000Z</updated>
-        <summary type="html"><![CDATA[FBI、北朝鮮の関与を発表し関連アドレスの取引阻止を要請 米連邦捜査局（FBI）が、暗号資産（仮想通貨）取引所バイナンス（Binance）から60億ドル（約9,468億円）以上の暗号資産が盗まれた事件について、北朝鮮によ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa、ステーブルコイン精算額が年換算250億ドル超に、前年同期比10倍]]></title>
-        <id>https://www.neweconomy.jp/?p=623113</id>
-        <link href="https://www.neweconomy.jp/posts/623113"/>
-        <updated>2026-11-02T07:55:02.000Z</updated>
-        <summary type="html"><![CDATA[対応ブロックチェーンは10に拡大 米決済大手ビザ（Visa）のステーブルコインによる精算額が、年換算で250億ドル（約3.9兆円）を超えた。ビザのライアン・マキナニー（Ryan McInerney）CEOが、10月27日 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クーコイン、ロシア・ベラルーシ向けサービスを即時終了へ]]></title>
-        <id>https://www.neweconomy.jp/?p=623105</id>
-        <link href="https://www.neweconomy.jp/posts/623105"/>
-        <updated>2026-11-02T07:50:59.000Z</updated>
-        <summary type="html"><![CDATA[KuCoinがロシア・ベラルーシ向けサービス終了へ 暗号資産（仮想通貨）取引所クーコイン（KuCoin）は10月29日、ロシアとベラルーシの利用者に対するサービス提供を即時終了すると発表した。 今回の措置は、クーコインが […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米予測市場カルシ、シリーズGで1Bドル調達。評価額40Bドルに]]></title>
-        <id>https://www.neweconomy.jp/?p=623098</id>
-        <link href="https://www.neweconomy.jp/posts/623098"/>
-        <updated>2026-11-02T07:46:24.000Z</updated>
-        <summary type="html"><![CDATA[KalshiがシリーズGで10億ドル調達 米予測市場運営企業カルシ（Kalshi）が、シリーズGの資金調達ラウンドで10億ドル（約1,578億円）を調達し、調達後の企業評価額が400億ドル（約6.3兆円）になったと10月 […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NY州知事、AIチャットボット規制法に署名。未成年者への有害な機能提供を禁止へ]]></title>
-        <id>https://www.neweconomy.jp/?p=623071</id>
-        <link href="https://www.neweconomy.jp/posts/623071"/>
-        <updated>2026-11-02T07:10:09.000Z</updated>
-        <summary type="html"><![CDATA[人間を装う応答や自傷助長を禁止、事業者に年齢確認を要求 米ニューヨーク州のキャシー・ホークル（Kathy Hochul）知事が、州内の18歳未満の利用者に対し、AIチャットボットの有害な機能を提供することを禁じる法案に1 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マイクロソフトのOpenAI関連売上高、四半期100億ドルに。Xbox事業を上回る]]></title>
-        <id>https://www.neweconomy.jp/?p=623048</id>
-        <link href="https://www.neweconomy.jp/posts/623048"/>
-        <updated>2026-11-02T06:49:58.000Z</updated>
-        <summary type="html"><![CDATA[7〜9月期の全社売上高の約11％、収益分配などを含む 米マイクロソフト（Microsoft）が、オープンAI（OpenAI）との商取引により、2027会計年度第1四半期（2026年7〜9月）に100億ドル（約1兆5,80 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応]]></title>
-        <id>https://www.neweconomy.jp/?p=623032</id>
-        <link href="https://www.neweconomy.jp/posts/623032"/>
-        <updated>2026-11-02T06:30:54.000Z</updated>
-        <summary type="html"><![CDATA[SBIが米デジタル銀行Erebor Bankに出資へ SBIホールディングスが、米国拠点のSBIホールディングスUSA（SBI Holdings USA）を通じて、米デジタル銀行のエレボール・バンク（Erebor Ban […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
     <entry>
