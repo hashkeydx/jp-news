@@ -635,6 +635,36 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=746918",
+          "author": "菊谷ルイス",
+          "description": "ハイパーコールが、IPO前のアンソロピックの予想株価を追跡するオプション市場を9日に開始する見通し。同社は初の市場と説明した。現金精算型で株式は得られず、米国の顧客は利用できない。アンソロピックのIPOは延期の可能性もある。",
+          "link": "https://coinpost.jp/?p=746918",
+          "publishedOn": "2026-11-06T13:20:10.000Z",
+          "wordCount": 3234,
+          "title": "米アンソロピックの上場前予想株価連動オプション、ハイパーコールが9日に提供開始へ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/anthropic-IPO-s-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/anthropic-IPO-s-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746914",
+          "author": "菊谷ルイス",
+          "description": "ビットバンクは6日、外部サービスの障害により、一部の顧客で暗号資産の出金と入金反映の遅延が続いていると発表した。顧客資産への影響はないという。",
+          "link": "https://coinpost.jp/?p=746914",
+          "publishedOn": "2026-11-06T12:50:57.000Z",
+          "wordCount": 3217,
+          "title": "ビットバンク、外部サービスの障害で暗号資産の入出金遅延が継続　顧客資産に影響なし",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/bitbank-new-announcement.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/bitbank-new-announcement.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=746889",
           "author": "Enzo",
           "description": "iOS 18.4から18.7を狙う攻撃キットDarkSwordが仮想通貨窃盗に悪用された疑い。Bitqueryは関連が疑われるネットワークで約406万ドル相当のUSDT移動を確認、全件の関連は未確定とする。修正版iOSと対策をまとめる。",
@@ -1863,111 +1893,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/07/fsa-new.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745949",
-          "author": "幸田直子",
-          "description": "米ナスダック上場のネクスト・テクノロジーが、保有する約5,833BTCの売却または担保設定を取締役会で承認した。バイナンスの不正流出事件を受け、カストディリスクの高まりを理由に挙げている。",
-          "link": "https://coinpost.jp/?p=745949",
-          "publishedOn": "2026-11-02T05:55:04.000Z",
-          "wordCount": 3253,
-          "title": "米上場企業、5833BTCのビットコイン売却か担保化を検討　バイナンス事件受け",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/bitcoin_usd-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745924",
-          "author": "A.Yamada",
-          "description": "Name.comは顧客ドメイン15件が不正にリダイレクトされたと発表した。DeFiサイトでのEVM系流出額は約13.8万〜20.2万ドルと推計されている。",
-          "link": "https://coinpost.jp/?p=745924",
-          "publishedOn": "2026-11-02T05:10:56.000Z",
-          "wordCount": 3248,
-          "title": "DeFiサイトなど15ドメインに不正リダイレクト　訪問者の資金抜き取り",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/hacking2_0402.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745959",
-          "author": "Enzo",
-          "description": "#cp-summary-2025{all:revert;box-sizing:border-box;width:100%;background:#f8f9fb;border-left:3pxsolid#0d2d4f;border-radiu...",
-          "link": "https://coinpost.jp/?p=745959",
-          "publishedOn": "2026-11-02T04:05:04.000Z",
-          "wordCount": 3256,
-          "title": "SBI VCトレード、JPYSCレンディング残高が100億円突破",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/JPYSC-VC.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/JPYSC-VC.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745917",
-          "author": "Enzo",
-          "description": "カルダノのガバナンス組織インターセクトが、Linuxカーネルの重大な脆弱性についてステークプール運営者（SPO）に更新と再起動を要請した。深刻度は10点満点中9.8。委任されたADAへの影響と主要ディストリビューションの修正状況をまとめた。",
-          "link": "https://coinpost.jp/?p=745917",
-          "publishedOn": "2026-11-02T02:40:14.000Z",
-          "wordCount": 3236,
-          "title": "カルダノ団体、Linuxの重大欠陥でプール運営者に更新呼びかけ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/cardano-ada-upgrade.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/02/cardano-ada-upgrade.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745881",
-          "author": "A.Yamada",
-          "description": "米FBIはバイナンスから63億ドル規模の仮想通貨が流出した件は北朝鮮系ハッキング集団の犯行だと発表した。トランプ大統領は関与が確認されれば北朝鮮と協議する意向を示した。",
-          "link": "https://coinpost.jp/?p=745881",
-          "publishedOn": "2026-11-02T01:10:00.000Z",
-          "wordCount": 3239,
-          "title": "トランプ氏、北朝鮮関与なら対話の意向　バイナンス攻撃でFBIが関与発表",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/trump-2026-new-02.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/07/trump-2026-new-02.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745885",
-          "author": "Enzo",
-          "description": "ビットコイン決済ソフトBTCPay Serverは2日、複数のサーバーでホットウォレットの資金が不正に抜き取られているとの報告を受け、運営者にサーバー停止を呼びかけた。原因や被害規模は明らかにしていない。",
-          "link": "https://coinpost.jp/?p=745885",
-          "publishedOn": "2026-11-02T00:35:32.000Z",
-          "wordCount": 3248,
-          "title": "BTCPay Server、ホットウォレット不正流出の報告受けサーバー停止を要請",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/crypto-hack-kucoin.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/crypto-hack-kucoin.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745872",
-          "author": "Enzo",
-          "description": "バイナンスから60億ドル超が流出した事件を受け、北朝鮮ラザルスによる仮想通貨の累計窃取額は118.7億ドルに達したとアナリストが試算した。北朝鮮のGDPの45％に相当する。FBIは今回の事件を北朝鮮の犯行と発表している。",
-          "link": "https://coinpost.jp/?p=745872",
-          "publishedOn": "2026-11-01T23:31:51.000Z",
-          "wordCount": 3233,
-          "title": "北朝鮮の仮想通貨窃取累計118.7億ドル、GDP45％相当＝アナリスト",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/liquid-global-hack-report-1.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/liquid-global-hack-report-1.png"
         }
       ]
     },
@@ -1976,6 +1901,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=624744",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/624744",
+          "publishedOn": "2026-11-06T12:04:47.000Z",
+          "wordCount": 799,
+          "title": "【11/6話題】FRBとOCCがバイナンスの巨額流出受け米銀行に照会、Baseが「デニム」アップグレード実施、NACのNOTAが東証グロース上場へなど（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/06185443/474ee64fad30dfcddd684a1e2689a788.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=624724",
           "author": "OtsugaShinya",
@@ -2525,86 +2460,6 @@
           "wordCount": 753,
           "title": "SBI、米デジタル銀行エレボールに1億ドル出資へ。ステーブルコイン入出金や24時間精算に対応",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02161206/f50f3db27e25de9c8a131eed6c037888.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623012",
-          "author": "HitomotoToshikazu",
-          "description": "ブラジルで暗号資産事業者の認可申請期限が終了 ブラジルで営業する既存の暗号資産（仮想通貨）サービス提供事業者のうち、認可申請が必要な事業者を対象とした、認可申請の第1段階の書類提出期限が10月30日に終了した。ブラジル中 […]",
-          "link": "https://www.neweconomy.jp/posts/623012",
-          "publishedOn": "2026-11-02T05:54:31.000Z",
-          "wordCount": 744,
-          "title": "ブラジル、既存の暗号資産事業者の認可申請期限が終了。未申請業者は30日以内にサービス終了へ",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02145235/bbeebee511e56df821c5c1dd33b5847a.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=623002",
-          "author": "OtsugaShinya",
-          "description": "10月30日付公告で12社追加、前回の38社から拡大 取引プラットフォーム「OKXICE TSV」での自社株のトークン化版の取り扱いに異議を通知した企業が計50社となった。運営会社のOKXICEが10月30日付の公式公告 […]",
-          "link": "https://www.neweconomy.jp/posts/623002",
-          "publishedOn": "2026-11-02T05:47:10.000Z",
-          "wordCount": 673,
-          "title": "エヌビディアやナイキも、OKX・ICEのトークン化株式取引計画に異議。計50社に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02144313/0378e8eddb71fbeedc03025790fe9214.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=622986",
-          "author": "OtsugaShinya",
-          "description": "BTC売却代金をAIデータセンター関連投資に充当へ 東証グロース上場のイオレ（eole）が、保有する暗号資産（仮想通貨）ビットコイン（BTC）151.21BTCの全量売却と、新株予約権による調達資金の使途変更を10月30 […]",
-          "link": "https://www.neweconomy.jp/posts/622986",
-          "publishedOn": "2026-11-02T05:17:17.000Z",
-          "wordCount": 765,
-          "title": "イオレ、保有ビットコイン全量売却へ、約2.5億円の売却損見込む。レンディングとHYPE保有は継続",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02141504/0f261e24f7671fa9f230effd613b5a4f.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=622974",
-          "author": "OtsugaShinya",
-          "description": "USDTの準備資産と財務数値を公表 米ドル建てステーブルコイン「USDT」を発行するテザー（Tether）が、2026年第3四半期（7～9月）の純営業利益が15億ドル（約2,363億円）となったと10月30日に発表した。 […]",
-          "link": "https://www.neweconomy.jp/posts/622974",
-          "publishedOn": "2026-11-02T05:03:49.000Z",
-          "wordCount": 753,
-          "title": "テザー、Q3純営業利益15億ドル、超過準備金は79.5億ドルにほぼ倍増",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02140134/1ea4d79847a7a4bc76a3743f398a2068-1.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=622965",
-          "author": "OtsugaShinya",
-          "description": "トークン化預金とMMFで24時間対応の資金管理を検証 配車サービス大手ウーバー（Uber）が、トークン化預金とトークン化マネー・マーケット・ファンド（MMF）を活用した資金管理の実証実験を完了した。米HSBCバンクUSA […]",
-          "link": "https://www.neweconomy.jp/posts/622965",
-          "publishedOn": "2026-11-02T04:59:34.000Z",
-          "wordCount": 625,
-          "title": "配車大手Uber、カントンでトークン化MMF活用の資金管理実証を完了。HSBCらと週末の換金も検証",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02135715/5ba7b70a8e5741fb4c7b8389ccf34747.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=622937",
-          "author": "watanabeyousuke",
-          "description": "バイナンス、15ネットワークで出金サービスを再開 暗号資産（仮想通貨）取引所バイナンス（Binance）が、ハッキングによる約63億ドル（約9,946億円）の資産不正流出事件を受けて停止していた出金サービスを11月1日に […]",
-          "link": "https://www.neweconomy.jp/posts/622937",
-          "publishedOn": "2026-11-02T04:41:00.000Z",
-          "wordCount": 1060,
-          "title": "バイナンス、15ネットワークで出金再開。約36億ドルの純流出、資産補填率は95%に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02133344/bd9f360cd1073f3e1a7c1a8f32da7cb3.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=622922",
-          "author": "watanabeyousuke",
-          "description": "トレザー製ウォレットに不正部品組み込みの疑い 暗号資産（仮想通貨）のハードウェアウォレットを開発するトレザー（Trezor）が、販売代理店クリプトビリス（CryptoBilis）を通じて販売された同社製品「トレザー・セー […]",
-          "link": "https://www.neweconomy.jp/posts/622922",
-          "publishedOn": "2026-11-02T04:18:23.000Z",
-          "wordCount": 1086,
-          "title": "トレザー製ウォレットにも不正部品の組込み疑い、CryptoBilis購入者に資金移動を要請",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02131552/79d49313046201fec6cc04c7cb1599fd.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=622911",
-          "author": "OtsugaShinya",
-          "description": "JPYSCの貸出残高が100億円を突破 SBIホールディングス傘下で暗号資産（仮想通貨）交換業等を営むSBI VCトレードが、円建てステーブルコイン「ジェイピーワイエスシー（JPYSC）」を活用した「JPYSCレンディン […]",
-          "link": "https://www.neweconomy.jp/posts/622911",
-          "publishedOn": "2026-11-02T04:07:43.000Z",
-          "wordCount": 790,
-          "title": "SBI VCトレード、「JPYSCレンディング」残高100億円突破。取扱残高は300億円超に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/02130730/417f1e67920b1425ee93e6dc7a7575be.jpg"
         }
       ]
     }
