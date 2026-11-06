@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-05T21:57:55.771Z</updated>
+    <updated>2026-11-06T02:22:19.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[香港ハッシュキー、SBI運用の日本株戦略トークン「JX」取り扱い開始]]></title>
+        <id>https://coinpost.jp/?p=746752</id>
+        <link href="https://coinpost.jp/?p=746752"/>
+        <updated>2026-11-06T02:00:49.000Z</updated>
+        <summary type="html"><![CDATA[香港のHashKey Exchangeは5日、SBIアセットマネジメントが運用する日本株高配当戦略のトークン「JX」の取り扱い開始を発表した。RWA商品として専門投資家に限り提供し、USDCで申込・解約できる。分配金は現時点で出ない成長型だ。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス流出後のビットコイン最大下落は5.7％、過去例では中程度＝クリプトクアント]]></title>
+        <id>https://coinpost.jp/?p=746715</id>
+        <link href="https://coinpost.jp/?p=746715"/>
+        <updated>2026-11-06T01:25:55.000Z</updated>
+        <summary type="html"><![CDATA[バイナンスのハッキング後112時間でBTCの最大下落率は5.7%と、過去38件の取引所ハッキングの中位だったとクリプトクアントが分析。出金増加の動向や下値目処も解説した。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル、ビットコイン採掘企業のAI拠点を支援　アンソロピックの不払いに備え]]></title>
+        <id>https://coinpost.jp/?p=746730</id>
+        <link href="https://coinpost.jp/?p=746730"/>
+        <updated>2026-11-06T01:15:32.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン採掘からAIインフラに転換するテラウルフが、アンソロピック向けデータセンターのリースでグーグルと信用補完契約を結んだ。不払い時の支払いをグーグルが支える仕組みで、約190億ドル規模の契約を裏付けとする借入を後押しする。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XRPレジャー、権限外トークン発行の欠陥を修正]]></title>
+        <id>https://coinpost.jp/?p=746689</id>
+        <link href="https://coinpost.jp/?p=746689"/>
+        <updated>2026-11-06T00:45:02.000Z</updated>
+        <summary type="html"><![CDATA[XRPレジャー（XRPL）で4日、トークンを消す権限だけを持つアカウントが条件次第で新たなトークンを発行できる欠陥への修正が有効になった。XRP自体は対象外で、悪用は確認されていない。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コア・サイエンティフィック、ビットコインマイニング完全撤退へ　AIデータセンター特化]]></title>
+        <id>https://coinpost.jp/?p=746690</id>
+        <link href="https://coinpost.jp/?p=746690"/>
+        <updated>2026-11-06T00:25:04.000Z</updated>
+        <summary type="html"><![CDATA[米コア・サイエンティフィックは5日の決算説明会で、ビットコインマイニングからの撤退を年末までに完了する見通しを示した。第3四半期はデータセンター設備の貸し出しが売上の約92％を占めた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨懐疑派ブラウン氏の上院選勝利が「最も不利な結果」、業界団体が指摘]]></title>
+        <id>https://coinpost.jp/?p=746666</id>
+        <link href="https://coinpost.jp/?p=746666"/>
+        <updated>2026-11-05T23:20:39.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨業界団体のデジタル・チェンバーは、クリプト懐疑派のブラウン氏の上院選勝利を最も影響の大きい不利な結果と評価した。民主党が上下両院の多数派となる中、同団体はクラリティー法案を巡る課題も指摘した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[農林中央⾦庫、グループ初のデジタル証券（ST）事業参入へ　不動産ST組成を計画]]></title>
+        <id>https://coinpost.jp/?p=746691</id>
+        <link href="https://coinpost.jp/?p=746691"/>
+        <updated>2026-11-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[農林中央⾦庫は、グループとして初めてデジタル証券（ST）事業に参入すると発表。SBI証券やプログマ社などと協業し、不動産STを組成することを計画している。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米下院民主党の仮想通貨法案構想、業界関係者から否定的な見方＝報道]]></title>
+        <id>https://coinpost.jp/?p=746667</id>
+        <link href="https://coinpost.jp/?p=746667"/>
+        <updated>2026-11-05T22:30:41.000Z</updated>
+        <summary type="html"><![CDATA[米下院民主党が協議する新たな仮想通貨市場構造法案について、業界関係者は「業界は好まないだろう」との見方を示した。一方、トランプ大統領は今後2年間、拒否権を保持しており、先行きが不透明だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン100万円幅急落、共和党敗北でトランプ氏の暗号資産政策に不透明感｜仮想NISHI]]></title>
+        <id>https://coinpost.jp/?p=746668</id>
+        <link href="https://coinpost.jp/?p=746668"/>
+        <updated>2026-11-05T22:05:43.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインは5日夜から6日未明にかけて、約100万円幅の急落を記録した。背景には、米中間選挙で圧勝した民主党が米SECの権限を強化する法案の検討を始めたとの報道に加え、トランプ・メディアが保有するビットコインの大半を売却したと報じられたことがある。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラジルMercado Bitcoin 、ハッキング「封じ込め」発表後も不正流出が4時間続いた]]></title>
         <id>https://coinpost.jp/?p=746669</id>
