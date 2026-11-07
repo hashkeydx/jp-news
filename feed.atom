@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-07T02:45:40.811Z</updated>
+    <updated>2026-11-07T09:59:37.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジーキャッシュ、手数料の60％を将来の報酬に再発行する仕組みが稼働]]></title>
+        <id>https://coinpost.jp/?p=746996</id>
+        <link href="https://coinpost.jp/?p=746996"/>
+        <updated>2026-11-07T05:00:48.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨ジーキャッシュでアップグレード「NU7」が有効化され、取引手数料の60％を流通から取り除き将来のブロック報酬として再発行する新仕組みが稼働した。ブロック生成間隔は75秒から25秒に短縮された。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テラウルフ決算　HPC事業拡大進み、BTC採掘収益は7割減]]></title>
+        <id>https://coinpost.jp/?p=746987</id>
+        <link href="https://coinpost.jp/?p=746987"/>
+        <updated>2026-11-07T03:55:39.000Z</updated>
+        <summary type="html"><![CDATA[米テラウルフが2026年7～9月期決算を発表。HPCリース収益が拡大し売上の83%を占めた。一方で仮想通貨ビットコイン採掘収益は前年比で約69%減少している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米IREN決算、ビットコイン採掘から年内に実質撤退見込み　AI事業へ移行]]></title>
+        <id>https://coinpost.jp/?p=746965</id>
+        <link href="https://coinpost.jp/?p=746965"/>
+        <updated>2026-11-07T03:50:46.000Z</updated>
+        <summary type="html"><![CDATA[IRENが7〜9月期決算を発表。AIクラウド売上が前期比で急成長しており、仮想通貨ビットコイン採掘事業からAI事業への移行を年末までにほぼ完了することを目指している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国取引所ゴパックス（GOPAX）、ハッキング脅迫メールで入出金・売買を停止　攻撃は未発生]]></title>
         <id>https://coinpost.jp/?p=746949</id>
@@ -1404,16 +1434,6 @@
         <summary type="html"><![CDATA[ブラジルの大手仮想通貨取引所Mercado Bitcoinが2日、セキュリティ事案を受けて入出金を停止した。Hypernativeの推計では63億円超相当が流出。同社は顧客被害やデータ流出はないとし、5ネットワークの送金先アドレスを公開した。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/2話題】SBI VCトレードのJPYSCレンディング残高100億円突破、アンソロピックが日本で最大約5529億円の株式募集へ、バイナンス出金再開など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=623203</id>
-        <link href="https://www.neweconomy.jp/posts/623203"/>
-        <updated>2026-11-02T15:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
         </author>
     </entry>
     <entry>
