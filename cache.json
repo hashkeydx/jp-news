@@ -635,6 +635,96 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=746949",
+          "author": "菊谷ルイス",
+          "description": "韓国の仮想通貨取引所GOPAXは6日、ハッキング脅迫メールを受けて入出金と売買を停止した。同社は攻撃や資産を奪う試みはまだないと説明しており、再開時期は示していない。",
+          "link": "https://coinpost.jp/?p=746949",
+          "publishedOn": "2026-11-07T02:10:44.000Z",
+          "wordCount": 3225,
+          "title": "韓国取引所ゴパックス（GOPAX）、ハッキング脅迫メールで入出金・売買を停止　攻撃は未発生",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/hack-warning-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/hack-warning-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746927",
+          "author": "菊谷ルイス",
+          "description": "仮想通貨イーサリアムのコア開発者は、次期アップグレード「グラムスターダム」のフーディ・テストネットでのフォークを、問題が解消するまで見送ると決めた。アップグレード後に脆弱となるプロジェクトが複数見つかり、財団は開発者に点検を求めた。",
+          "link": "https://coinpost.jp/?p=746927",
+          "publishedOn": "2026-11-07T01:40:15.000Z",
+          "wordCount": 3237,
+          "title": "イーサリアム『グラムスターダム』、テスト稼働保留　脆弱性の恐れで",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/02/Ethereum-grantee-022522.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746968",
+          "author": "菊谷ルイス",
+          "description": "仏報道によると、バイナンス・フランスは12月31日に全口座を閉鎖する。EUの認可を得られず、11月29日からは月額手数料を課す。",
+          "link": "https://coinpost.jp/?p=746968",
+          "publishedOn": "2026-11-07T01:22:00.000Z",
+          "wordCount": 3227,
+          "title": "バイナンスのフランス法人、12月31日に全口座を閉鎖　EU認可得られず",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/binance-france-shut-down-.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/binance-france-shut-down-.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746967",
+          "author": "菊谷ルイス",
+          "description": "セキュリティ企業ビットディフェンダーは、バイナンスの流出事案に便乗したフィッシングメール2種類を確認した。日本を含む5カ国が標的となり、ビットコインの先払いを求める手口もある。バイナンスジャパンは出庫を順次再開した。",
+          "link": "https://coinpost.jp/?p=746967",
+          "publishedOn": "2026-11-07T01:12:58.000Z",
+          "wordCount": 3225,
+          "title": "バイナンスのハッキングに便乗、補償装うフィッシングメールが日本も標的",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/cyber-crime-binance-prevention-joined-1.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/01/cyber-crime-binance-prevention-joined-1.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746963",
+          "author": "菊谷ルイス",
+          "description": "ビットコインコアの開発者コーリー・フィールズ氏が、量子コンピュータによる盗難に備え、旧形式の資金を動かす攻撃者に同額の担保を求める3案を提案した。持ち主や第三者が担保を得る仕組みで、実装は今後の課題という。",
+          "link": "https://coinpost.jp/?p=746963",
+          "publishedOn": "2026-11-07T00:35:48.000Z",
+          "wordCount": 3240,
+          "title": "量子コンピュータによるBTC盗難に担保で対抗、ビットコインコア開発者が3案提案",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/quantum-bitcoin-new-proposal.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/quantum-bitcoin-new-proposal.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=746955",
+          "author": "菊谷ルイス",
+          "description": "米時間5日、米上場のビットコイン現物ETFは4.30億ドル、イーサリアム現物ETFは9,997万ドルの純流出となった。中間選挙直後米テック株が続落する中、ビットコイン現物ETFは12本すべてで純流入がなかった。",
+          "link": "https://coinpost.jp/?p=746955",
+          "publishedOn": "2026-11-06T23:05:57.000Z",
+          "wordCount": 3238,
+          "title": "米中間選挙後投資家の資金引き上げ加速、BTC・ETH現物ETFから合計840億円流出",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/bitcoin-new-burn.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=746941",
           "author": "菊谷ルイス",
           "description": "米金融犯罪取締ネットワークと連邦準備制度理事会は、仮想通貨も対象とする国際送金の基準額を3,000ドルから250ドルに下げる規則案を撤回すると発表した。撤回は9日に発効し、現行の基準額が維持される。",

@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-06T23:04:24.373Z</updated>
+    <updated>2026-11-07T02:45:40.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国取引所ゴパックス（GOPAX）、ハッキング脅迫メールで入出金・売買を停止　攻撃は未発生]]></title>
+        <id>https://coinpost.jp/?p=746949</id>
+        <link href="https://coinpost.jp/?p=746949"/>
+        <updated>2026-11-07T02:10:44.000Z</updated>
+        <summary type="html"><![CDATA[韓国の仮想通貨取引所GOPAXは6日、ハッキング脅迫メールを受けて入出金と売買を停止した。同社は攻撃や資産を奪う試みはまだないと説明しており、再開時期は示していない。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム『グラムスターダム』、テスト稼働保留　脆弱性の恐れで]]></title>
+        <id>https://coinpost.jp/?p=746927</id>
+        <link href="https://coinpost.jp/?p=746927"/>
+        <updated>2026-11-07T01:40:15.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨イーサリアムのコア開発者は、次期アップグレード「グラムスターダム」のフーディ・テストネットでのフォークを、問題が解消するまで見送ると決めた。アップグレード後に脆弱となるプロジェクトが複数見つかり、財団は開発者に点検を求めた。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスのフランス法人、12月31日に全口座を閉鎖　EU認可得られず]]></title>
+        <id>https://coinpost.jp/?p=746968</id>
+        <link href="https://coinpost.jp/?p=746968"/>
+        <updated>2026-11-07T01:22:00.000Z</updated>
+        <summary type="html"><![CDATA[仏報道によると、バイナンス・フランスは12月31日に全口座を閉鎖する。EUの認可を得られず、11月29日からは月額手数料を課す。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンスのハッキングに便乗、補償装うフィッシングメールが日本も標的]]></title>
+        <id>https://coinpost.jp/?p=746967</id>
+        <link href="https://coinpost.jp/?p=746967"/>
+        <updated>2026-11-07T01:12:58.000Z</updated>
+        <summary type="html"><![CDATA[セキュリティ企業ビットディフェンダーは、バイナンスの流出事案に便乗したフィッシングメール2種類を確認した。日本を含む5カ国が標的となり、ビットコインの先払いを求める手口もある。バイナンスジャパンは出庫を順次再開した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子コンピュータによるBTC盗難に担保で対抗、ビットコインコア開発者が3案提案]]></title>
+        <id>https://coinpost.jp/?p=746963</id>
+        <link href="https://coinpost.jp/?p=746963"/>
+        <updated>2026-11-07T00:35:48.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインコアの開発者コーリー・フィールズ氏が、量子コンピュータによる盗難に備え、旧形式の資金を動かす攻撃者に同額の担保を求める3案を提案した。持ち主や第三者が担保を得る仕組みで、実装は今後の課題という。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米中間選挙後投資家の資金引き上げ加速、BTC・ETH現物ETFから合計840億円流出]]></title>
+        <id>https://coinpost.jp/?p=746955</id>
+        <link href="https://coinpost.jp/?p=746955"/>
+        <updated>2026-11-06T23:05:57.000Z</updated>
+        <summary type="html"><![CDATA[米時間5日、米上場のビットコイン現物ETFは4.30億ドル、イーサリアム現物ETFは9,997万ドルの純流出となった。中間選挙直後米テック株が続落する中、ビットコイン現物ETFは12本すべてで純流入がなかった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米当局、仮想通貨含む国際送金の本人情報収集を拡大する案を撤回]]></title>
         <id>https://coinpost.jp/?p=746941</id>
