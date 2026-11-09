@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-09T06:16:31.211Z</updated>
+    <updated>2026-11-09T17:26:28.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【11/9話題】プログマがカントンで日本国債トークン化へ、ヴィタリックがETHの価値保存機能を重視すべきと主張など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=625052</id>
+        <link href="https://www.neweconomy.jp/posts/625052"/>
+        <updated>2026-11-09T13:06:34.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログマ、米デジタルアセットとMOU。カントンでの日本国債トークン化目指す]]></title>
+        <id>https://www.neweconomy.jp/?p=625036</id>
+        <link href="https://www.neweconomy.jp/posts/625036"/>
+        <updated>2026-11-09T08:36:21.000Z</updated>
+        <summary type="html"><![CDATA[振替口座簿と連携し、24時間365日の決済を目指す プログマ（Progmat）と米デジタルアセット・ホールディングス（Digital Asset Holdings）が、日本国債（JGB）を含む実在資産（RWA）の取引・決 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーサリアム財団、グラムステルダムの仕様変更リスクで開発者に影響確認を要請]]></title>
+        <id>https://www.neweconomy.jp/?p=625031</id>
+        <link href="https://www.neweconomy.jp/posts/625031"/>
+        <updated>2026-11-09T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[EIP-8037と8038の影響調査を拡大、Hoodiでの実施延期は継続 イーサリアム財団（Ethereum Foundation）が、イーサリアム（Ethereum）の次期大型アップグレード「グラムステルダム（Glam […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヴィタリック、「ETHの価値評価は手数料バーンより価値保存機能を重視すべき」と主張]]></title>
+        <id>https://www.neweconomy.jp/?p=625011</id>
+        <link href="https://www.neweconomy.jp/posts/625011"/>
+        <updated>2026-11-09T07:22:08.000Z</updated>
+        <summary type="html"><![CDATA[ブテリン氏、ETHの価値保存機能を重視すべきと主張 イーサリアム（Ethereum）の共同創設者ヴィタリック・ブテリン（Vitalik Buterin）氏が、暗号資産（仮想通貨）ETHの価値を評価するうえで、「取引手数料 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米FinCENとFRB、暗号資産含む国際送金のトラベルルール基準額引き下げ案を撤回]]></title>
+        <id>https://www.neweconomy.jp/?p=625007</id>
+        <link href="https://www.neweconomy.jp/posts/625007"/>
+        <updated>2026-11-09T06:37:19.000Z</updated>
+        <summary type="html"><![CDATA[国際送金の基準額は3000ドルを維持 米財務省の金融犯罪取締ネットワーク（FinCEN）が、暗号資産（仮想通貨）を含む送金に関する記録保存ルールとトラベルルールの改正案を撤回すると11月6日に発表した。米連邦準備制度理事 […]]]></summary>
+        <author>
+            <name>gentosha_takahashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシア中銀、一般投資家向け暗号資産取引の規則公布。11/17施行へ]]></title>
+        <id>https://www.neweconomy.jp/?p=625002</id>
+        <link href="https://www.neweconomy.jp/posts/625002"/>
+        <updated>2026-11-09T06:25:22.000Z</updated>
+        <summary type="html"><![CDATA[仲介業者1社あたりの購入上限は年30万ルーブル ロシア中央銀行（Bank of Russia）が、ロシア法上の居住者に当たる非適格投資家を対象に、国内の仲介業者を利用して購入できる暗号資産（仮想通貨）を3銘柄に定めたと1 […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヴィタリック、イーサリアムは手数料バーンより価値の保存を重視すべきと主張]]></title>
         <id>https://coinpost.jp/?p=747054</id>
@@ -884,226 +944,6 @@
         <summary type="html"><![CDATA[韓国与党が暗号資産課税の延期を政府に提案 韓国の与党「共に民主党」のキム・ミンソク（Kim Min-seok）代表が11月4日、2027年1月から開始予定の暗号資産（仮想通貨）所得への課税について、延期を政府に正式提案し […]]]></summary>
         <author>
             <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム研究者、ポスト量子・ポストAI移行を2028年末までに完了目指す]]></title>
-        <id>https://www.neweconomy.jp/?p=624011</id>
-        <link href="https://www.neweconomy.jp/posts/624011"/>
-        <updated>2026-11-05T05:12:35.000Z</updated>
-        <summary type="html"><![CDATA[量子耐性確保の公式目標より1年早い移行完了に言及 イーサリアム財団（Ethereum Foundation）の研究者ジャスティン・ドレイク（Justin Drake）氏が、イーサリアム（Ethereum）のポスト量子・ポ […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英資産運用大手シュローダー、新興国債券ファンドをソラナでトークン化]]></title>
-        <id>https://coinpost.jp/?p=746537</id>
-        <link href="https://coinpost.jp/?p=746537"/>
-        <updated>2026-11-05T05:10:35.000Z</updated>
-        <summary type="html"><![CDATA[英資産運用大手シュローダーは4日、新興国債券ファンドのトークン化持分をソラナ上で提供開始した。RWA基盤のセントリフュージと連携し、同社初のソラナ展開となる。現金や短期国債が中心だったトークン化がアクティブ運用の債券戦略へ広がる。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米中間選挙、民主党が上下両院を奪還へ。トランプ一族の暗号資産事業に調査及ぶか＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=623999</id>
-        <link href="https://www.neweconomy.jp/posts/623999"/>
-        <updated>2026-11-05T04:52:21.000Z</updated>
-        <summary type="html"><![CDATA[民主党、激戦区で勝利重ね下院奪還 米国で11月3日に投開票された中間選挙で、野党・民主党が連邦議会下院の過半数を奪還する見通しとなった。NBCニュースなどが同日夜に報じた。翌4日には上院でも民主党の過半数獲得が報じられた […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スシトップ、五反田おかね食堂にNFT技術提供。スタンプラリーや特典配布に活用]]></title>
-        <id>https://www.neweconomy.jp/?p=623993</id>
-        <link href="https://www.neweconomy.jp/posts/623993"/>
-        <updated>2026-11-05T04:45:03.000Z</updated>
-        <summary type="html"><![CDATA[五反田おかね食堂のスタンプラリーにNFT活用 日本郵政不動産により10月4日に開催された「五反田おかね食堂」にて、スシトップマーケティング（SUSHI TOP MARKETING：以下、スシトップ）が、NFTを活用したス […]]]></summary>
-        <author>
-            <name>TanakaShuya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[リキッド・ネットワークのBTC準備資産が完全回復、9月の不正流出による不足解消]]></title>
-        <id>https://www.neweconomy.jp/?p=623985</id>
-        <link href="https://www.neweconomy.jp/posts/623985"/>
-        <updated>2026-11-05T04:36:34.000Z</updated>
-        <summary type="html"><![CDATA[リキッド・ネットワークのBTC準備資産が完全回復 ビットコイン（Bitcoin）のサイドチェーン「リキッド・ネットワーク（Liquid Network）」を運営するリキッド・フェデレーション（Liquid Federat […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仏銀行アルケア、ハッキング被害で自社口座から不正送金と発表、仮想通貨に換金の可能性]]></title>
-        <id>https://coinpost.jp/?p=746528</id>
-        <link href="https://coinpost.jp/?p=746528"/>
-        <updated>2026-11-05T04:35:59.000Z</updated>
-        <summary type="html"><![CDATA[仏銀行グループのクレディ・ミュチュエル・アルケアは、ハッキングで攻撃者が自社口座から他行へ送金し、仮想通貨に換金した可能性があると説明した。顧客資産への影響はないとしている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SECイノベーション免除制度下で初のトークン化米国株取引、TSV LLC上で実施]]></title>
-        <id>https://coinpost.jp/?p=746485</id>
-        <link href="https://coinpost.jp/?p=746485"/>
-        <updated>2026-11-05T04:05:34.000Z</updated>
-        <summary type="html"><![CDATA[ナスダック上場のカントン・ストラテジックは、SECのイノベーション免除の下でトークン化株式の初取引が成立したと発表した。取引はTSV LLC上で実施された。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーサリアム耐量子化、EF研究者が2028年完了を目標に]]></title>
-        <id>https://coinpost.jp/?p=746500</id>
-        <link href="https://coinpost.jp/?p=746500"/>
-        <updated>2026-11-05T03:08:56.000Z</updated>
-        <summary type="html"><![CDATA[イーサリアム財団の研究者ドレイク氏がDevcon 8で、耐量子・ポストAI移行を2028年12月までに完了させたいとの目標を示した。EF公式期限より1年早い。Glamsterdam後の24カ月で3回のハードフォークを想定する。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニー銀行、デジタル証券の委託先に不正アクセス　顧客621人分の情報漏洩]]></title>
-        <id>https://coinpost.jp/?p=746467</id>
-        <link href="https://coinpost.jp/?p=746467"/>
-        <updated>2026-11-05T02:30:32.000Z</updated>
-        <summary type="html"><![CDATA[ソニー銀行は、セキュリティトークン（ST）事業の委託先セキュリタイズ・ジャパンへの不正アクセスで、顧客621人分の情報が漏洩したと発表した。デジタル証券の取引は停止中。同じ委託先を使う丸井グループやNTTデータも漏洩を公表している。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス流出被害後のセキュリティ需要高まる、Blockaidに63億円投資確約]]></title>
-        <id>https://coinpost.jp/?p=746488</id>
-        <link href="https://coinpost.jp/?p=746488"/>
-        <updated>2026-11-05T02:30:14.000Z</updated>
-        <summary type="html"><![CDATA[メタディスクリプション（120文字以内）：セキュリティ企業のブロックエイドが4000万ドルの投資確約を取り付けた。バイナンスで63億ドル規模のハッキングが起きたことで、クリプトセキュリティへの投資需要が高まっている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン急反発、米中間選挙が転機に　原油安と米金利低下が上昇を後押し｜仮想NISHI]]></title>
-        <id>https://coinpost.jp/?p=746413</id>
-        <link href="https://coinpost.jp/?p=746413"/>
-        <updated>2026-11-05T02:00:49.000Z</updated>
-        <summary type="html"><![CDATA[*本レポートは、クリプトアナリストである仮想NISHI（@Nishi8maru）氏が、CoinPostに寄稿した記事です。クリプト市場マーケットレポート（11/5AM10時執筆）寄稿者：仮想NISHI仮想NISHIクリプトアナリスト。BTC...]]></summary>
-        <author>
-            <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モルガン・スタンレー、米国株と米国債のトークン化を開始　DTCCのサービス活用]]></title>
-        <id>https://coinpost.jp/?p=746442</id>
-        <link href="https://coinpost.jp/?p=746442"/>
-        <updated>2026-11-05T01:40:43.000Z</updated>
-        <summary type="html"><![CDATA[モルガン・スタンレーは、DTCCのトークン化サービスのローンチ後にRWAをトークン化し始めたことを発表。対象の資産は米国株と米国債であることなどを説明した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコインの過熱感に健全なリセット、米中間選挙後の状況は？＝グラスノード]]></title>
-        <id>https://coinpost.jp/?p=746414</id>
-        <link href="https://coinpost.jp/?p=746414"/>
-        <updated>2026-11-05T01:02:48.000Z</updated>
-        <summary type="html"><![CDATA[グラスノードは4日の仮想通貨市場レポートで、ビットコインの約10%調整を過熱解消と分析した。バイナンスのハッキング事件や米中間選挙後の動向にも言及した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米団体、仮想通貨支持派と評価した当選者を下院222人・上院19人と集計]]></title>
-        <id>https://coinpost.jp/?p=746384</id>
-        <link href="https://coinpost.jp/?p=746384"/>
-        <updated>2026-11-05T00:15:13.000Z</updated>
-        <summary type="html"><![CDATA[米国の仮想通貨の政策提言団体スタンド・ウィズ・クリプトは、中間選挙でクリプト支持派と評価した当選者を下院222人、上院19人と集計した。評価は同団体独自のもので、クラリティー法案への賛否を示すものではない。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップル、従業員による予測市場での機密情報利用を禁止]]></title>
-        <id>https://coinpost.jp/?p=746379</id>
-        <link href="https://coinpost.jp/?p=746379"/>
-        <updated>2026-11-05T00:05:52.000Z</updated>
-        <summary type="html"><![CDATA[米アップルが年次報告書で、従業員による機密情報を使った予測市場での取引や情報提供の禁止を明記した。証券取引に当たらない場合も禁止の対象とした。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米ステーブルコイン大手サークル、26年3Qの総収益は1370億円超　前年比＋17％]]></title>
-        <id>https://coinpost.jp/?p=746396</id>
-        <link href="https://coinpost.jp/?p=746396"/>
-        <updated>2026-11-04T23:10:02.000Z</updated>
-        <summary type="html"><![CDATA[USDC発行元のサークルは、2026年3Qの決算を発表。事業収益とステーブルコインの準備金運用益の合計は約1,371億円で前年比プラス17％だったことなどを説明した。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米民主党勝利でAIデータセンターに規制懸念、マイニング企業のAI事業で不確実性高まる]]></title>
-        <id>https://coinpost.jp/?p=746380</id>
-        <link href="https://coinpost.jp/?p=746380"/>
-        <updated>2026-11-04T23:05:57.000Z</updated>
-        <summary type="html"><![CDATA[米中間選挙で民主党が議会とテキサス州知事の座を握ることになった。投資銀行バーンスタインはAI向けデータセンター事業に乗り出す仮想通貨マイニング企業7社の目標株価を最大54％引き下げ、テキサス州を巡る不確実性を理由に挙げた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストラテジーの優先株、約半年ぶりに一時100ドル回復　BTC買い増しの資金調達が再び可能に]]></title>
-        <id>https://coinpost.jp/?p=746385</id>
-        <link href="https://coinpost.jp/?p=746385"/>
-        <updated>2026-11-04T22:35:15.000Z</updated>
-        <summary type="html"><![CDATA[ストラテジーの優先株ストレッチ（STRC）が5日、5月以来の額面100ドルに一時回復した。買い戻しとビットコインの8万ドル回復が重なり、新規発行によるビットコイン購入資金の調達を再開できる水準に戻った。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zaif、メール配信の委託先から38万超のメールアドレス流出を確認]]></title>
-        <id>https://coinpost.jp/?p=746393</id>
-        <link href="https://coinpost.jp/?p=746393"/>
-        <updated>2026-11-04T22:15:21.000Z</updated>
-        <summary type="html"><![CDATA[暗号資産取引所Zaifは4日、メール配信の委託先アララへの不正アクセスで、登録していたメールアドレス38万536件の流出を確認したと発表した。パスワードの流出はなく、二次被害も確認されていないという。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中間選挙で圧勝した民主党、トランプ一族の仮想通貨事業を調査へ＝報道]]></title>
-        <id>https://coinpost.jp/?p=746382</id>
-        <link href="https://coinpost.jp/?p=746382"/>
-        <updated>2026-11-04T21:45:01.000Z</updated>
-        <summary type="html"><![CDATA[米中間選挙で民主党が下院の過半数を確保し、トランプ大統領一族の仮想通貨事業が議会調査の対象となる見通しだ。選挙後にはトランプ大統領関連のトークンが下落した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、バイナンスハッキングの影響を受けず　資産の99％超をオフライン保管]]></title>
-        <id>https://coinpost.jp/?p=746381</id>
-        <link href="https://coinpost.jp/?p=746381"/>
-        <updated>2026-11-04T21:25:58.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨取引所大手コインベースは、バイナンスのハッキングの影響を受けておらず、顧客資産の99％超をコールドウォレットで保管していることを強調した。秘密鍵の分割や緊急停止の仕組みなど、資産管理の体制も公表した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米下院民主党、クラリティー法案を協議　SEC監督権限の拡大案も]]></title>
-        <id>https://coinpost.jp/?p=746383</id>
-        <link href="https://coinpost.jp/?p=746383"/>
-        <updated>2026-11-04T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[米下院民主党が、ウォーターズ下院議員の修正案を仮想通貨のクラリティー法案に拡大する案を協議している。検討案にはSECの監督拡大やCFTCの役割限定が含まれるとされ、トランプ大統領らへの倫理条項の追加も見込まれる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
         </author>
     </entry>
     <entry>
