@@ -635,6 +635,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=747690",
+          "author": "菊谷ルイス",
+          "description": "みんなの銀行とTrek Labs Japanが基本合意書を締結した。暗号資産交換業の登録を前提に、日本円の入出金などの銀行機能の組み込みや、将来的なトークン化預金の活用を検討する。",
+          "link": "https://coinpost.jp/?p=747690",
+          "publishedOn": "2026-11-12T12:25:22.000Z",
+          "wordCount": 3211,
+          "title": "Backpack日本法人がみんなの銀行と提携へ、円の入出金やトークン化預金の活用を検討",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/backpack-minabank.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/backpack-minabank.jpeg"
+        },
+        {
           "id": "https://coinpost.jp/?p=747683",
           "author": "CoinPost編集部",
           "description": "ポイントサイト「モッピー」を運営するセレスは12日、SBIホールディングスとの資本業務提携を発表した。SBIが発行済株式の最大1％を取得し、セレスはSBIのコンテンツファンドに3億円を出資する。仮想通貨を含む金融事業でも連携する。",
@@ -1863,36 +1878,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/gold-up-klab-buying-bitcoin-too.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/gold-up-klab-buying-bitcoin-too.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=746873",
-          "author": "CoinPost編集部",
-          "description": "米中間選挙で民主党が躍進し、AI規制懸念からハイテク株が急落。ビットコインは1200万円台に軟化し、100日移動平均線を割り込んだ。CPI・PPIとAIインフラ企業の決算が焦点。bitbankアナリスト長谷川氏が週次レポートで解説。",
-          "link": "https://coinpost.jp/?p=746873",
-          "publishedOn": "2026-11-08T02:30:23.000Z",
-          "wordCount": 3046,
-          "title": "ビットコイン、ハイテク株急落で1200万円台に軟化　AI規制議論とCPIが焦点｜bitbankアナリスト寄稿",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/bitcoin_0331-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=746797",
-          "author": "CoinPost編集部",
-          "description": "今週は、バイナンスに対する攻撃の手口、米中間選挙の結果と影響、米下院民主党による仮想通貨の新たな市場構造法案協議に関する記事が関心を集めた。",
-          "link": "https://coinpost.jp/?p=746797",
-          "publishedOn": "2026-11-08T00:25:25.000Z",
-          "wordCount": 3078,
-          "title": "週刊仮想通貨ニュース（11/6）｜米中間選挙・米市場構造法案協議・バイナンス攻撃のまとめ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
         }
       ]
     },
@@ -1901,6 +1886,16 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=626211",
+          "author": "NewEconomyPodcast",
+          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
+          "link": "https://www.neweconomy.jp/posts/626211",
+          "publishedOn": "2026-11-12T17:50:03.000Z",
+          "wordCount": 791,
+          "title": "【11/12話題】みんなの銀行とBackpack日本法人がサービス連携へ、TOPPANとビットゴーの分散鍵管理実証、米MSCIがストラテジーとメタプラの指数除外など（音声ニュース）",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/12182740/3cba9086180eed63422d2a5f60dfb3c4.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=626199",
           "author": "HitomotoToshikazu",
