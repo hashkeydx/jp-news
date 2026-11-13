@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-13T07:53:07.416Z</updated>
+    <updated>2026-11-13T16:15:52.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[メタプラネット決算、通期営業利益予想を73.7％下方修正]]></title>
+        <id>https://coinpost.jp/?p=747904</id>
+        <link href="https://coinpost.jp/?p=747904"/>
+        <updated>2026-11-13T13:02:20.000Z</updated>
+        <summary type="html"><![CDATA[東証スタンダード上場のメタプラネットが、10月14日から11月12日に累計約283億円の自社株買いを実施した。決算では1月から9月は純損失約272億円で、米スーパー・リーグ・エンタープライズへの戦略投資も予定している。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト大規模障害、複数の株式取引所でメール不具合も売買は継続]]></title>
+        <id>https://coinpost.jp/?p=747905</id>
+        <link href="https://coinpost.jp/?p=747905"/>
+        <updated>2026-11-13T12:30:18.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロソフトの「マイクロソフト365」で日本時間13日未明に始まった大規模障害で、ユーロネクストとナスダックがメールの不具合を明らかにした。株式市場の取引関係者は電話やFAXに切り替え、主要取引所の中核の取引は止まらなかった。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【11/13話題】DTCCがトークン化サービスをソラナに接続へ、SBIがセレスと資本業務提携、エヌビディアのフアンCEOが辞任など（音声ニュース）]]></title>
+        <id>https://www.neweconomy.jp/?p=626666</id>
+        <link href="https://www.neweconomy.jp/posts/626666"/>
+        <updated>2026-11-13T10:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
+        <author>
+            <name>NewEconomyPodcast</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テザーゴールド、初のKPMG監査で「最良評価」　金地金を現物確認]]></title>
         <id>https://coinpost.jp/?p=747795</id>
@@ -1664,86 +1694,6 @@
         <summary type="html"><![CDATA[ハードフォークによるPOLの回収を提案 ポリゴン（Polygon）のコミュニティフォーラムで、予測市場プラットフォーム「ポリマーケット（Polymarket）」と暗号資産取引所バイナンス（Binance）のセキュリティイ […]]]></summary>
         <author>
             <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI、110億ドル調達、ソフトバンクとMGXが参加＝関係者]]></title>
-        <id>https://www.neweconomy.jp/?p=624981</id>
-        <link href="https://www.neweconomy.jp/posts/624981"/>
-        <updated>2026-11-09T03:48:24.000Z</updated>
-        <summary type="html"><![CDATA[評価額は1.25兆ドルで当初目標下回る オープンAI（OpenAI）が新たに110億ドル（約1兆7,403億円）の資金調達を完了したと、事情に詳しい関係者1人が11月6日に明らかにした。今回の調達は、同社の企業評価額を1 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゼータチェーン、独自L1を12/9頃に停止へ。ZETAのソラナ移行案が可決]]></title>
-        <id>https://www.neweconomy.jp/?p=624974</id>
-        <link href="https://www.neweconomy.jp/posts/624974"/>
-        <updated>2026-11-09T03:37:34.000Z</updated>
-        <summary type="html"><![CDATA[独自L1上のZETAを1対1で交換へ ブロックチェーンプロジェクト「ゼータチェーン（ZetaChain）」の開発チームが、独自レイヤー1（L1）ブロックチェーンの停止と、同チェーン上の独自トークン「ZETA」のソラナ（S […]]]></summary>
-        <author>
-            <name>watanabeyousuke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、暗号資産取引所MEXCの米金融システム利用を遮断へ。167億ドルの不正関連取引を指摘]]></title>
-        <id>https://www.neweconomy.jp/?p=624968</id>
-        <link href="https://www.neweconomy.jp/posts/624968"/>
-        <updated>2026-11-09T03:00:20.000Z</updated>
-        <summary type="html"><![CDATA[命令は米官報掲載の30日後に発効 米財務省の金融犯罪取締ネットワーク（FinCEN）が、暗号資産（仮想通貨）取引所MEXC Global（MEXC）の米金融システムへのアクセスを事実上遮断する命令を11月6日に発出した。 […]]]></summary>
-        <author>
-            <name>gentosha_takahashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[トークン化預金、利点の一方で規制・流動性に課題＝米連銀専門家]]></title>
-        <id>https://coinpost.jp/?p=747042</id>
-        <link href="https://coinpost.jp/?p=747042"/>
-        <updated>2026-11-09T01:30:48.000Z</updated>
-        <summary type="html"><![CDATA[米カンザスシティ連銀が、預金トークンとトークン化預金を多面的に分析するレポートを公表。米大手銀の決済ネットワーク計画や、規制上の課題を指摘した。]]></summary>
-        <author>
-            <name>A.Yamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上院議員、バイナンスとテザーなど4社に記録提出を再要求　期限は1月4日]]></title>
-        <id>https://coinpost.jp/?p=747033</id>
-        <link href="https://coinpost.jp/?p=747033"/>
-        <updated>2026-11-08T23:56:30.000Z</updated>
-        <summary type="html"><![CDATA[米上院常設調査小委員会の民主党筆頭委員ブルーメンソール議員が、バイナンスとテザー、トランプ一族関連のWLFIなど4社に記録提出を改めて要求した。11月30日までの提出開始を求め、2027年1月4日を最終期限とした。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米財務省、カナダの両替業者8社を制裁　イランの仮想通貨取引を仲介]]></title>
-        <id>https://coinpost.jp/?p=747029</id>
-        <link href="https://coinpost.jp/?p=747029"/>
-        <updated>2026-11-08T23:27:03.000Z</updated>
-        <summary type="html"><![CDATA[米財務省OFACは6日、イラン政権の制裁逃れを支援したとして、カナダの送金・両替業者8社を制裁対象に指定した。イランリアルと仮想通貨の交換を仲介し、一部は革命防衛隊関連アドレスとも取引していたという。麻薬組織の資金洗浄への関与も指摘した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融庁と欧州委員会、ステーブルコインやトークン化で意見交換]]></title>
-        <id>https://coinpost.jp/?p=747025</id>
-        <link href="https://coinpost.jp/?p=747025"/>
-        <updated>2026-11-08T23:15:57.000Z</updated>
-        <summary type="html"><![CDATA[金融庁は6日、欧州委員会と東京で開いた日EU合同金融規制フォーラム第7回会合の共同声明を公表した。暗号資産やステーブルコイン、トークン化の進展を議論し、欧州委はMiCAの実施状況と公開協議の主要論点を報告した。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[バイナンス金現物、週約515億円超で開始直後除き最高＝アナリスト]]></title>
-        <id>https://coinpost.jp/?p=747021</id>
-        <link href="https://coinpost.jp/?p=747021"/>
-        <updated>2026-11-08T22:39:45.000Z</updated>
-        <summary type="html"><![CDATA[バイナンスで金を裏付けとするトークンの取引が再燃している。クリプトクアントのアナリストによると、累計取引高は80億ドル（約1.27兆円）を超え、直近7日間は初動期を除き過去最高の3億2,500万ドル（約515億円）超に。金価格の調整と仮想通貨安が重なる中での動きだ。]]></summary>
-        <author>
-            <name>Enzo</name>
         </author>
     </entry>
     <entry>
