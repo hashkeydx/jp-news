@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-14T03:09:49.054Z</updated>
+    <updated>2026-11-14T10:29:44.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[タイ当局、マネロン対策でステーブルコイン送金に1日約2300万円の上限案]]></title>
+        <id>https://coinpost.jp/?p=747963</id>
+        <link href="https://coinpost.jp/?p=747963"/>
+        <updated>2026-11-14T06:00:02.000Z</updated>
+        <summary type="html"><![CDATA[タイ証券取引委員会は12日、ステーブルコイン取引の告示案を公表した。顧客の入金と出金をそれぞれ事業者ごとに1日500万バーツまでとし、送金元・先を本人名義の口座に限る内容で、26日まで意見を募っている。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上場ナカモト、ビットコイン評価益で黒字も調整後営業損益は赤字]]></title>
+        <id>https://coinpost.jp/?p=747970</id>
+        <link href="https://coinpost.jp/?p=747970"/>
+        <updated>2026-11-14T04:45:37.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン・トレジャリー企業ナカモトが2026年7〜9月期の決算を発表。BTC評価益により純利益8,550万ドルの黒字となった。営業収益はマイナス190万ドルだった。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBIとカンボジア中銀、国債にカントン・送金にJPYSCを使う2つの実証へ]]></title>
+        <id>https://coinpost.jp/?p=747969</id>
+        <link href="https://coinpost.jp/?p=747969"/>
+        <updated>2026-11-14T04:20:02.000Z</updated>
+        <summary type="html"><![CDATA[SBIホールディングスは13日、カンボジア国立銀行と国債のトークン化、円建てステーブルコインによる日本・カンボジア間送金の実証に向けた基本合意書を締結した。中間成果は15日・16日に公表する予定だ。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「個人マイニング重視」ヘイズ氏主導のFLOP、テストネットとエアドロップを11月24日に開始へ]]></title>
         <id>https://coinpost.jp/?p=747951</id>
@@ -1632,56 +1662,6 @@
         <link href="https://coinpost.jp/?p=747139"/>
         <updated>2026-11-09T22:35:13.000Z</updated>
         <summary type="html"><![CDATA[トークン化大手セキュリタイズが第3四半期決算を発表した。売上は13％増の1,860万ドル、純損失は6,630万ドル。リバーワンの買収契約を結び、資産担保型金融へ事業を広げる見通しだ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米証券大手シュワブ、個人取引向けにソラナ・アバランチ・チェーンリンクを追加]]></title>
-        <id>https://coinpost.jp/?p=747129</id>
-        <link href="https://coinpost.jp/?p=747129"/>
-        <updated>2026-11-09T22:02:42.000Z</updated>
-        <summary type="html"><![CDATA[米証券大手チャールズ・シュワブは9日、個人向け仮想通貨取引サービス「シュワブ・クリプト」でソラナ、アバランチ、チェーンリンクの売買を可能にした。ビットコイン、イーサリアムと合わせて計5銘柄となり、今後も取扱銘柄を増やす方針だ。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、32億円相当のイーサリアムを追加購入　供給量の5％目標に99％到達]]></title>
-        <id>https://coinpost.jp/?p=747128</id>
-        <link href="https://coinpost.jp/?p=747128"/>
-        <updated>2026-11-09T21:40:40.000Z</updated>
-        <summary type="html"><![CDATA[ビットマインは直近1週間で9,587ETHのイーサリアムを購入し、保有量がETH供給量の4.97％に到達した。5％取得の目標に99％まで到達し、保有資産は合計143億ドルに上る。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストライブ、29BTCのビットコインを追加購入]]></title>
-        <id>https://coinpost.jp/?p=747127</id>
-        <link href="https://coinpost.jp/?p=747127"/>
-        <updated>2026-11-09T21:25:38.000Z</updated>
-        <summary type="html"><![CDATA[ビットコインを財務資産に持つ米ナスダック上場のストライブ（Strive）は9日、10月31日から11月6日に29BTCを購入したと発表した。保有量は43,153BTCとなり、ビットコイン・トレジャリーズのデータでは上場企業で4位に位置する。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モルガン・スタンレー、トークン化事業に備え株主名簿管理のVinyl Equityを買収へ]]></title>
-        <id>https://coinpost.jp/?p=747126</id>
-        <link href="https://coinpost.jp/?p=747126"/>
-        <updated>2026-11-09T21:05:36.000Z</updated>
-        <summary type="html"><![CDATA[米金融大手モルガン・スタンレーが、株主名簿を管理するバイナル・エクイティ（Vinyl Equity）の買収で合意した。今後のトークン化の基盤と位置付けており、完了は2027年1〜3月期を見込む。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォーメーション、本物の株式と同じ権利のトークン化株の取引所をソラナ上で運営へ]]></title>
-        <id>https://coinpost.jp/?p=747125</id>
-        <link href="https://coinpost.jp/?p=747125"/>
-        <updated>2026-11-09T20:50:33.000Z</updated>
-        <summary type="html"><![CDATA[米フォーメーション・セキュリティーズは9日、ソラナ上でトークン化株を24時間取引できる市場の運営意向をSECに通知した。2027年初頭の取引開始を見込み、認証済み投資家は議決権・配当権を伴う「本物の株」を取引できる。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
