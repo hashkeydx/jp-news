@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-15T01:51:15.437Z</updated>
+    <updated>2026-11-15T09:17:11.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコイン、200日線割れ1100万円台　エヌビディア決算とアンソロピックIPOが焦点｜bitbankアナリスト寄稿]]></title>
+        <id>https://coinpost.jp/?p=747846</id>
+        <link href="https://coinpost.jp/?p=747846"/>
+        <updated>2026-11-15T02:30:25.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン（BTC）は200日移動平均線を下抜け、1100万円近辺まで値を下げた。エヌビディア決算とアンソロピックIPOが相場のカギを握るなか、売られ過ぎからの反発が注目される。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[週刊仮想通貨ニュース（11/13）｜上場企業のBTC売却・米BTC準備金・DAT企業の指数除外のまとめ]]></title>
         <id>https://coinpost.jp/?p=747789</id>
@@ -1262,26 +1272,6 @@
         <link href="https://coinpost.jp/?p=747324"/>
         <updated>2026-11-10T21:25:51.000Z</updated>
         <summary type="html"><![CDATA[仮想通貨取引所大手バイナンスは10日、iOSの一部バージョンの脆弱性により、悪意あるアプリが他アプリのファイルを読み取り、秘密鍵などが危険にさらされると警告した。信頼できない提供元のアプリ削除やiOSの更新を求めている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米フィデリティ、ストラテジー株の保有数が第3四半期に2.3倍に]]></title>
-        <id>https://coinpost.jp/?p=747325</id>
-        <link href="https://coinpost.jp/?p=747325"/>
-        <updated>2026-11-10T21:15:53.000Z</updated>
-        <summary type="html"><![CDATA[フィデリティの親会社FMRのストラテジー株保有が、第3四半期末に102万株と6月末の2.3倍に増えたことが13Fで明らかになった。アムンディも約44％増やしたが、保有増は運用会社の強気な見方を示すとは限らない。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ゴールドマンやシティ、共同ステーブルコイン会社に約428億円出資へ＝報道]]></title>
-        <id>https://coinpost.jp/?p=747326</id>
-        <link href="https://coinpost.jp/?p=747326"/>
-        <updated>2026-11-10T20:50:55.000Z</updated>
-        <summary type="html"><![CDATA[ブルームバーグは11日、ゴールドマン・サックスやシティグループなどが共同ステーブルコイン会社に約2.7億ドルの拠出を約束したと伝えた。資金は5年分の運営費に充てる想定で、2027年前半のステーブルコイン発行計画を進めるものだ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
