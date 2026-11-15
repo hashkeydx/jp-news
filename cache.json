@@ -635,6 +635,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=747789",
+          "author": "CoinPost編集部",
+          "description": "今週は、米上場企業の仮想通貨ビットコインの売却規模、トランプ大統領の戦略的ビットコイン準備金購入に対する意欲、米MSCIによるストラテジー・メタプラネットの指数除外に関する記事が関心を集めた。",
+          "link": "https://coinpost.jp/?p=747789",
+          "publishedOn": "2026-11-15T00:25:54.000Z",
+          "wordCount": 3071,
+          "title": "週刊仮想通貨ニュース（11/13）｜上場企業のBTC売却・米BTC準備金・DAT企業の指数除外のまとめ",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=747963",
           "author": "菊谷ルイス",
           "description": "タイ証券取引委員会は12日、ステーブルコイン取引の告示案を公表した。顧客の入金と出金をそれぞれ事業者ごとに1日500万バーツまでとし、送金元・先を本人名義の口座に限る内容で、26日まで意見を募っている。",
@@ -1818,21 +1833,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/goldman-sacks-new-holdings.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/goldman-sacks-new-holdings.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=747315",
-          "author": "菊谷ルイス",
-          "description": "オンチェーン分析のLookonchainは10日、上場企業14社が2026年に10万8,247BTCのビットコイン（1.2兆円相当）を売却したと明らかにした。マラとライオットで全体の約56.2％を占めるという。",
-          "link": "https://coinpost.jp/?p=747315",
-          "publishedOn": "2026-11-10T12:35:24.000Z",
-          "wordCount": 3234,
-          "title": "米上場企業14社、2026年に1.2兆円相当ビットコインを売却",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/02/bitcoin-mining-13-nations.jpg"
         }
       ]
     },
@@ -2320,76 +2320,6 @@
           "wordCount": 939,
           "title": "MARA、13597BTCを約11億ドルで売却。今後も追加売却へ",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/11122448/b314eae75c6c7f0b8488f7a537404aad.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=625607",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/625607",
-          "publishedOn": "2026-11-10T13:11:09.000Z",
-          "wordCount": 803,
-          "title": "【11/10話題】NYSE関連のトークン化証券基盤にアバランチ、デジガレの決済基盤がアーク上のUSDCに対応、バイナンス流出資産を北朝鮮が自作ミームコインで洗浄かなど（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/10191555/0220cac2138f556d3ffc16d5e84e1af4.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=625652",
-          "author": "TanakaShuya",
-          "description": "証券会社パートナーとしてDTSのローンチに参画 証券基盤を開発・提供するフィンテック企業アルパカ（Alpaca）が、米証券市場の決済・保管インフラを担うDTCC（Depository Trust & Cleari […]",
-          "link": "https://www.neweconomy.jp/posts/625652",
-          "publishedOn": "2026-11-10T10:29:01.000Z",
-          "wordCount": 760,
-          "title": "アルパカ、DTCCの証券トークン化サービス「DTS」に参画",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/10192838/76e9f30ed33e55022c28ff4bd98c71c9.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=625644",
-          "author": "HitomotoToshikazu",
-          "description": "Tetherが増資権限の付与に賛成 テザー（Tether）のグループ会社テザー・インベストメンツ（Tether Investments）が、イタリアのサッカークラブ「ユヴェントス・フットボール・クラブ（Juventus  […]",
-          "link": "https://www.neweconomy.jp/posts/625644",
-          "publishedOn": "2026-11-10T10:18:53.000Z",
-          "wordCount": 626,
-          "title": "テザー、ユヴェントスの増資に参加へ。満額なら約51億円拠出＝報道",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/25172541/2ce0690b4e0c8f97fdffadf076467ce3.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=625636",
-          "author": "HitomotoToshikazu",
-          "description": "Animoca Brands共同創業者Yat SiuがCEO就任へ Web3関連事業や投資を手がけるアニモカブランズ（Animoca Brands）が、共同創業者兼エグゼクティブチェアマンのヤット・シウ（Yat Siu） […]",
-          "link": "https://www.neweconomy.jp/posts/625636",
-          "publishedOn": "2026-11-10T10:12:45.000Z",
-          "wordCount": 797,
-          "title": "アニモカブランズ共同創業者ヤット・シウがCEO就任へ、AIエージェント事業を推進",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/10191036/6024f60406c2a95653ece301d01d016c.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=625621",
-          "author": "OtsugaShinya",
-          "description": "ロビンフッドは自社株トークンの取り扱いに異議を申し立てず＝報道 トークン化株式の取引基盤「OKXICE TSV」を準備するOKXICEが、メタ・プラットフォームズ（Meta Platforms）など5社から異議通知を受け […]",
-          "link": "https://www.neweconomy.jp/posts/625621",
-          "publishedOn": "2026-11-10T10:06:57.000Z",
-          "wordCount": 821,
-          "title": "OKX・ICEのトークン化株式取引計画、マグニフィセント7全社が異議。計67社に",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/10190420/c9e1aabec2cfa239b5cf53503b011860.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=625599",
-          "author": "TanakaShuya",
-          "description": "購入数量を前回の2倍に、16BTC追加取得 米ナスダック上場のスーパーリーグ・エンタープライズ（Super League Enterprise）が、暗号資産（仮想通貨）ビットコイン（BTC）を16BTC追加購入した。11 […]",
-          "link": "https://www.neweconomy.jp/posts/625599",
-          "publishedOn": "2026-11-10T09:57:41.000Z",
-          "wordCount": 759,
-          "title": "メタプラ出資予定の米スーパーリーグ、ビットコイン追加購入。累計取得量31BTCに",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/10185823/BTC-261110-PIXTA.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=625592",
-          "author": "HitomotoToshikazu",
-          "description": "2027年2月10日のブロック生成停止を計画 DeFi（分散型金融）ネットワーク「アカラ（Acala）」の開発チームが、アカラとその姉妹ネットワーク「カルラ（Karura）」の運用終了案を11月9日に公表した。両ネットワ […]",
-          "link": "https://www.neweconomy.jp/posts/625592",
-          "publishedOn": "2026-11-10T09:49:50.000Z",
-          "wordCount": 779,
-          "title": "ポルカドット系DeFiのAcalaとKarura、ネットワーク終了案の投票開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/10184712/7e45133d0c77f3f6941e45ed22906711.jpg"
         }
       ]
     }

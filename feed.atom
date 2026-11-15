@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-14T21:26:24.103Z</updated>
+    <updated>2026-11-15T01:51:15.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[週刊仮想通貨ニュース（11/13）｜上場企業のBTC売却・米BTC準備金・DAT企業の指数除外のまとめ]]></title>
+        <id>https://coinpost.jp/?p=747789</id>
+        <link href="https://coinpost.jp/?p=747789"/>
+        <updated>2026-11-15T00:25:54.000Z</updated>
+        <summary type="html"><![CDATA[今週は、米上場企業の仮想通貨ビットコインの売却規模、トランプ大統領の戦略的ビットコイン準備金購入に対する意欲、米MSCIによるストラテジー・メタプラネットの指数除外に関する記事が関心を集めた。]]></summary>
+        <author>
+            <name>CoinPost編集部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[タイ当局、マネロン対策でステーブルコイン送金に1日約2300万円の上限案]]></title>
         <id>https://coinpost.jp/?p=747963</id>
@@ -1274,86 +1284,6 @@
         <summary type="html"><![CDATA[ブルームバーグは11日、ゴールドマン・サックスやシティグループなどが共同ステーブルコイン会社に約2.7億ドルの拠出を約束したと伝えた。資金は5年分の運営費に充てる想定で、2027年前半のステーブルコイン発行計画を進めるものだ。]]></summary>
         <author>
             <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/10話題】NYSE関連のトークン化証券基盤にアバランチ、デジガレの決済基盤がアーク上のUSDCに対応、バイナンス流出資産を北朝鮮が自作ミームコインで洗浄かなど（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=625607</id>
-        <link href="https://www.neweconomy.jp/posts/625607"/>
-        <updated>2026-11-10T13:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米上場企業14社、2026年に1.2兆円相当ビットコインを売却]]></title>
-        <id>https://coinpost.jp/?p=747315</id>
-        <link href="https://coinpost.jp/?p=747315"/>
-        <updated>2026-11-10T12:35:24.000Z</updated>
-        <summary type="html"><![CDATA[オンチェーン分析のLookonchainは10日、上場企業14社が2026年に10万8,247BTCのビットコイン（1.2兆円相当）を売却したと明らかにした。マラとライオットで全体の約56.2％を占めるという。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルパカ、DTCCの証券トークン化サービス「DTS」に参画]]></title>
-        <id>https://www.neweconomy.jp/?p=625652</id>
-        <link href="https://www.neweconomy.jp/posts/625652"/>
-        <updated>2026-11-10T10:29:01.000Z</updated>
-        <summary type="html"><![CDATA[証券会社パートナーとしてDTSのローンチに参画 証券基盤を開発・提供するフィンテック企業アルパカ（Alpaca）が、米証券市場の決済・保管インフラを担うDTCC（Depository Trust & Cleari […]]]></summary>
-        <author>
-            <name>TanakaShuya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[テザー、ユヴェントスの増資に参加へ。満額なら約51億円拠出＝報道]]></title>
-        <id>https://www.neweconomy.jp/?p=625644</id>
-        <link href="https://www.neweconomy.jp/posts/625644"/>
-        <updated>2026-11-10T10:18:53.000Z</updated>
-        <summary type="html"><![CDATA[Tetherが増資権限の付与に賛成 テザー（Tether）のグループ会社テザー・インベストメンツ（Tether Investments）が、イタリアのサッカークラブ「ユヴェントス・フットボール・クラブ（Juventus  […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニモカブランズ共同創業者ヤット・シウがCEO就任へ、AIエージェント事業を推進]]></title>
-        <id>https://www.neweconomy.jp/?p=625636</id>
-        <link href="https://www.neweconomy.jp/posts/625636"/>
-        <updated>2026-11-10T10:12:45.000Z</updated>
-        <summary type="html"><![CDATA[Animoca Brands共同創業者Yat SiuがCEO就任へ Web3関連事業や投資を手がけるアニモカブランズ（Animoca Brands）が、共同創業者兼エグゼクティブチェアマンのヤット・シウ（Yat Siu） […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX・ICEのトークン化株式取引計画、マグニフィセント7全社が異議。計67社に]]></title>
-        <id>https://www.neweconomy.jp/?p=625621</id>
-        <link href="https://www.neweconomy.jp/posts/625621"/>
-        <updated>2026-11-10T10:06:57.000Z</updated>
-        <summary type="html"><![CDATA[ロビンフッドは自社株トークンの取り扱いに異議を申し立てず＝報道 トークン化株式の取引基盤「OKXICE TSV」を準備するOKXICEが、メタ・プラットフォームズ（Meta Platforms）など5社から異議通知を受け […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラ出資予定の米スーパーリーグ、ビットコイン追加購入。累計取得量31BTCに]]></title>
-        <id>https://www.neweconomy.jp/?p=625599</id>
-        <link href="https://www.neweconomy.jp/posts/625599"/>
-        <updated>2026-11-10T09:57:41.000Z</updated>
-        <summary type="html"><![CDATA[購入数量を前回の2倍に、16BTC追加取得 米ナスダック上場のスーパーリーグ・エンタープライズ（Super League Enterprise）が、暗号資産（仮想通貨）ビットコイン（BTC）を16BTC追加購入した。11 […]]]></summary>
-        <author>
-            <name>TanakaShuya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ポルカドット系DeFiのAcalaとKarura、ネットワーク終了案の投票開始]]></title>
-        <id>https://www.neweconomy.jp/?p=625592</id>
-        <link href="https://www.neweconomy.jp/posts/625592"/>
-        <updated>2026-11-10T09:49:50.000Z</updated>
-        <summary type="html"><![CDATA[2027年2月10日のブロック生成停止を計画 DeFi（分散型金融）ネットワーク「アカラ（Acala）」の開発チームが、アカラとその姉妹ネットワーク「カルラ（Karura）」の運用終了案を11月9日に公表した。両ネットワ […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
         </author>
     </entry>
     <entry>
