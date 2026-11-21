@@ -635,6 +635,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=749050",
+          "author": "A.Yamada",
+          "description": "コインベースの仮想通貨市場週間レポートによるとビットコインは約12%下落し200週移動平均線を割り込んだ。過去の事例や、BTCとETHのサポート・レジスタンス水準を解説している。",
+          "link": "https://coinpost.jp/?p=749050",
+          "publishedOn": "2026-11-21T12:00:24.000Z",
+          "wordCount": 3201,
+          "title": "ビットコイン、「5.8万ドル割り込めば2022年型の下落リスクも」＝コインベース",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-down-but-not-that-bad-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-down-but-not-that-bad-1.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=749037",
           "author": "A.Yamada",
           "description": "サンティメントは20日、アンソロピックIPOに伴う株式トークンが複数チェーンで登場したと報告した。株式トークンに伴う権利や流動性の課題も指摘している。",
@@ -1698,246 +1713,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/bitcoin-market-1984524992.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=745188",
-          "author": "CoinPost編集部",
-          "description": "グラフィックから会場の空間デザイン、発注までを担うCoinPost制作部のデザイナーに、入社の決め手と日々の仕事の進め方を聞いた。WebXやMoneyXの制作現場で求められる発想力と実行力とは。",
-          "link": "https://coinpost.jp/?p=745188",
-          "publishedOn": "2026-11-17T04:30:06.000Z",
-          "wordCount": 4297,
-          "title": "発想力だけでは足りない　CoinPostデザイナーが語る「実行力」の中身",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/designer_coinpost_interview_2026_11_17_thumbnail.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/10/designer_coinpost_interview_2026_11_17_thumbnail.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748275",
-          "author": "A.Yamada",
-          "description": "米商品先物取引委員会は、仮想通貨サービス企業バックパックの米国事業にデリバティブ取引所と清算機関の資格を付与した。同社は無期限先物などの提供を計画している。",
-          "link": "https://coinpost.jp/?p=748275",
-          "publishedOn": "2026-11-17T04:12:25.000Z",
-          "wordCount": 3213,
-          "title": "米CFTC、Backpackの仮想通貨デリバティブ取引所・清算機関を承認",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/BackPack_1223_thumbnail.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/12/BackPack_1223_thumbnail.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748317",
-          "author": "Enzo",
-          "description": "ドイツ連邦議会は12日、出所の合法性に疑いがある高額資産を、刑事手続きを経ずに関税当局が差し押さえられる法案を可決した。EUのMiCA規則が定める暗号資産も対象と明記。施行には連邦参議院の同意が必要となる。",
-          "link": "https://coinpost.jp/?p=748317",
-          "publishedOn": "2026-11-17T04:00:31.000Z",
-          "wordCount": 3206,
-          "title": "ドイツ連邦議会、出所不明資産の差し押さえ法案可決　仮想通貨も対象",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/Germany2020-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/10/Germany2020-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748280",
-          "author": "K.Kobayashi",
-          "description": "米最高裁判所は、ブロックチェーンインフラ企業カストディアバンクがFRBのマスター口座開設を巡って起こした訴訟について上訴を受理しないことを公表。コメントや意見は述べていない。",
-          "link": "https://coinpost.jp/?p=748280",
-          "publishedOn": "2026-11-17T03:40:31.000Z",
-          "wordCount": 3204,
-          "title": "米最高裁、カストディアバンクの対FRB裁判の上訴を受理せず　マスター口座巡る係争",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/08/frb.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/08/frb.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748286",
-          "author": "Enzo",
-          "description": "イーサリアム共同創設者のブテリン氏が、量子耐性署名や証明を集約する改善提案EIP-8288の実装方式としてleanPCSの支持に転じた。署名データが最大6KBに膨らむ課題への対応策で、leanSTARKより早く実装できる可能性があるという。",
-          "link": "https://coinpost.jp/?p=748286",
-          "publishedOn": "2026-11-17T03:00:46.000Z",
-          "wordCount": 3214,
-          "title": "イーサリアムの量子対策、ヴィタリックが早期実装を狙える新方式を支持",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/vitalik_20220926_041.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/09/vitalik_20220926_041.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748223",
-          "author": "菊谷ルイス",
-          "description": "予測市場プラットフォームのカルシが、ニューヨーク拠点の小規模な証券会社を7月に買収し、2カ月以内に株式取引を始める計画だと米紙ウォール・ストリート・ジャーナルが報じた。無期限先物に続き、複数の資産を扱う金融取引所の構築を進める。",
-          "link": "https://coinpost.jp/?p=748223",
-          "publishedOn": "2026-11-17T02:30:44.000Z",
-          "wordCount": 3197,
-          "title": "予測市場に止まらず　カルシ、2カ月以内に株取引を提供開始へ",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/kalshi-new-funding-.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/kalshi-new-funding-.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748211",
-          "author": "菊谷ルイス",
-          "description": "9名の上院民主党議員が16日、米CFTCに予測市場の地理的制限撤廃命令の撤回と、規制権限を主張する取り組みの停止を求める書簡を送った。",
-          "link": "https://coinpost.jp/?p=748211",
-          "publishedOn": "2026-11-17T02:00:50.000Z",
-          "wordCount": 3192,
-          "title": "管轄権争い激化　米上院民主党議員9名、予測市場の地理的制限撤廃を命じたCFTCに撤回要求",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/01/congress-working-night.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748260",
-          "author": "Enzo",
-          "description": "ジーキャッシュ（ZEC）財務企業のサイファーパンク・テクノロジーズが2026年3Q決算を発表。8月に始めたマイニングで990万ドルを計上し、初の営業黒字に転じた。1ZEC当たりの採掘原価は104ドル、保有量は流通供給量の2.01％に達した。",
-          "link": "https://coinpost.jp/?p=748260",
-          "publishedOn": "2026-11-17T01:40:43.000Z",
-          "wordCount": 3211,
-          "title": "ジーキャッシュ財務企業サイファーパンク初の営業黒字　8967ZECを採掘",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/zec-new-wallet.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/zec-new-wallet.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748235",
-          "author": "菊谷ルイス",
-          "description": "英銀大手スタンダードチャータードは16日、日本国債のトークン化が現実資産のトークン化市場の2028年末2兆ドル予想を後押しするとの見方を示した。現在の市場規模は約450億ドルで、日本の動きが他国に広がる可能性にも触れた。",
-          "link": "https://coinpost.jp/?p=748235",
-          "publishedOn": "2026-11-17T01:00:08.000Z",
-          "wordCount": 3194,
-          "title": "「日本長期国債トークン化が現実資産市場の2兆ドル到達を後押し」スタンダードチャータード",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/japan-jcba-new-etf-staking.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/japan-jcba-new-etf-staking.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748242",
-          "author": "Enzo",
-          "description": "ソラナ（SOL）を財務資産として保有するナスダック上場のデファイ・デベロップメントが、保有量の10週連続増加を発表した。優先株CHADは31営業日連続で配当し、現在の配当率は年14％。1株当たりSOL保有量の拡大を狙う同社の戦略を整理する。",
-          "link": "https://coinpost.jp/?p=748242",
-          "publishedOn": "2026-11-17T00:40:23.000Z",
-          "wordCount": 3282,
-          "title": "ソラナ財務企業DFDV、9482SOLを買い増し　10週連続で保有増",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/09/solana-google-cloud.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748212",
-          "author": "菊谷ルイス",
-          "description": "NYSE親会社のインターコンチネンタル取引所が、ソラナのバリデーター運営を検討している。ICEクリア・ヨーロッパ社長が明らかにし、NYSEの代替取引システムはソラナで発行された株式トークンを受け入れる設定が済んでいる。",
-          "link": "https://coinpost.jp/?p=748212",
-          "publishedOn": "2026-11-17T00:00:54.000Z",
-          "wordCount": 3203,
-          "title": "NYSE親会社、ソラナのバリデーター運用を検討",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/nyse-okx.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/nyse-okx.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748195",
-          "author": "菊谷ルイス",
-          "description": "ハーバード・マネジメント・カンパニーは13日、9月末時点のビットコイン現物ETF「IBIT」の保有株数が6月末と同じ304万4,612株だったと開示した。評価額は1億4,413万ドルで、6月末から約42.2％増加した。",
-          "link": "https://coinpost.jp/?p=748195",
-          "publishedOn": "2026-11-16T23:45:35.000Z",
-          "wordCount": 3207,
-          "title": "米ハーバード大、ビットコイン現物ETFの保有株数を据え置き、評価額は42.2％増",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/Harvard%E3%80%80Univer.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2019/04/Harvard%E3%80%80Univer.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748215",
-          "author": "K.Kobayashi",
-          "description": "JPモルガンとDBSは、トークン化預金の国際送金サービスを開始。米国とシンガポールの口座間で許可型ブロックチェーンを使って即座に米ドルを移動できるようになった。",
-          "link": "https://coinpost.jp/?p=748215",
-          "publishedOn": "2026-11-16T23:02:48.000Z",
-          "wordCount": 3208,
-          "title": "JPモルガンとDBS、トークン化預金の国際送金サービスを開始　許可型ブロックチェーンに対応",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/tokenized-deposit-shutterstock_2665247575.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/08/tokenized-deposit-shutterstock_2665247575.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748196",
-          "author": "菊谷ルイス",
-          "description": "セキュリティ研究者は17日、仮想通貨を盗むマルウェアが少なくとも186のウェブサイトで確認されたと明らかにした。送金先アドレスのすり替えで、ビットコインなど4種類で計約7,000ドルの盗難を確認したという。",
-          "link": "https://coinpost.jp/?p=748196",
-          "publishedOn": "2026-11-16T22:55:38.000Z",
-          "wordCount": 3190,
-          "title": "仮想通貨を盗むマルウェア、CNNやBBCも被害か　少なくとも186サイトで確認",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/hack-warning-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/hack-warning-1.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748197",
-          "author": "菊谷ルイス",
-          "description": "米資産運用会社ビットワイズが、仮想通貨ソラナの2031年の価格を強気シナリオで1,100ドル、基本シナリオで385ドルと予測した。主な上昇要因を株式のトークン化の拡大としている。",
-          "link": "https://coinpost.jp/?p=748197",
-          "publishedOn": "2026-11-16T22:25:31.000Z",
-          "wordCount": 3211,
-          "title": "ビットワイズ強気予測「ソラナ価格は5年後に15倍上昇」　その条件は？",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/solana-new-2026-upgrade.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/05/solana-new-2026-upgrade.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748198",
-          "author": "菊谷ルイス",
-          "description": "仮想通貨ハードウェアウォレット大手のトレザーは16日、配送パートナーのSkladonで不正アクセスがあり、約2万7,000件の注文の氏名や住所、電話番号などが持ち出されたとみていると発表した。端末への影響はないとしている。",
-          "link": "https://coinpost.jp/?p=748198",
-          "publishedOn": "2026-11-16T21:45:42.000Z",
-          "wordCount": 3191,
-          "title": "仮想通貨ウォレット『トレザー』、配送パートナーの不正アクセスで2万件超の注文の個人情報が流出",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/trezor-new-cip.jpeg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/02/trezor-new-cip.jpeg"
         }
       ]
     },
@@ -2455,56 +2230,6 @@
           "wordCount": 743,
           "title": "コインチェック、詐欺被害者保護に向け規約改定へ。暗号資産の全売却などを規定",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/17152226/10b1f536ed2c372e16d1b50783a38826.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627180",
-          "author": "watanabeyousuke",
-          "description": "ライターでAPIキーの秘密鍵漏洩による不正出金 分散型デリバティブ取引所（DEX）「ライター（Lighter）」を展開するエリオット・テクノロジーズ（Elliot Technologies）が、11月16日に発生したセキ […]",
-          "link": "https://www.neweconomy.jp/posts/627180",
-          "publishedOn": "2026-11-17T03:43:40.000Z",
-          "wordCount": 869,
-          "title": "ライターで約1040万USDC流出、APIキーの秘密鍵漏洩が原因。出金は再開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/17124028/cbbcd41011070bcd30a1761584875421.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627172",
-          "author": "watanabeyousuke",
-          "description": "トレザーが不正部品の調査結果と対策を公表 暗号資産（仮想通貨）のハードウェアウォレットを開発するトレザー（Trezor）が、販売代理店クリプトビリス（CryptoBilis）を通じて販売された同社製品「トレザー・セーフ5 […]",
-          "link": "https://www.neweconomy.jp/posts/627172",
-          "publishedOn": "2026-11-17T03:38:09.000Z",
-          "wordCount": 812,
-          "title": "トレザー、「Safe 5」の3台で不正部品を確認。販売代理店網を約80％削減",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/17123546/69ca8216fa9e6abe2a7b118c9c494c2b.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627132",
-          "author": "gentosha_takahashi",
-          "description": "民主党議員、裁判所命令や州・部族法との矛盾を指摘 米民主党の上院議員9人が、米商品先物取引委員会（CFTC）に対し、予測市場（プレディクション・マーケット）の地域制限撤廃を求める方針を撤回するよう要求した。米ウォール・ス […]",
-          "link": "https://www.neweconomy.jp/posts/627132",
-          "publishedOn": "2026-11-17T02:20:30.000Z",
-          "wordCount": 775,
-          "title": "米民主党上院議員9人、CFTCに予測市場の地域制限撤廃方針の撤回要求",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/17112001/56751606bd19070016fcde92fd44af6e.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627126",
-          "author": "watanabeyousuke",
-          "description": "カザフスタンがトークン化国債の発行を計画 カザフスタン国立銀行（National Bank of Kazakhstan）が、同国財務省と共同で2027年第1四半期にトークン化国債を発行する計画を11月13日に発表した。  […]",
-          "link": "https://www.neweconomy.jp/posts/627126",
-          "publishedOn": "2026-11-17T02:12:38.000Z",
-          "wordCount": 773,
-          "title": "カザフスタン、2027年Q1にトークン化国債発行を計画",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/17111217/086c5d04170bc3c1b6bcf31bc7523ade.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627115",
-          "author": "HitomotoToshikazu",
-          "description": "ASIAN STARがBNBの株主優待を導入へ 東証スタンダード上場で不動産事業を手がけるASIAN STAR（エイシアンスター）が、暗号資産（仮想通貨）「ビルドアンドビルド（BNB）」を活用した株主優待制度の導入を取締 […]",
-          "link": "https://www.neweconomy.jp/posts/627115",
-          "publishedOn": "2026-11-17T02:01:45.000Z",
-          "wordCount": 874,
-          "title": "東証スタンダード上場ASIAN STAR、「BNB」の株主優待を導入へ、総額800万円相当を配分",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/17110123/51b01c7a6d1aeec8e46557b4a82056da-1.jpg"
         }
       ]
     }
