@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-21T01:29:53.557Z</updated>
+    <updated>2026-11-21T09:42:52.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アンソロピックの史上最大級IPOで株トークンが複数のブロックチェーンに登場、取引高15億円超]]></title>
+        <id>https://coinpost.jp/?p=749037</id>
+        <link href="https://coinpost.jp/?p=749037"/>
+        <updated>2026-11-21T03:10:45.000Z</updated>
+        <summary type="html"><![CDATA[サンティメントは20日、アンソロピックIPOに伴う株式トークンが複数チェーンで登場したと報告した。株式トークンに伴う権利や流動性の課題も指摘している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン年初来最安値、米ハイテク株急落とマイナー売りが重荷｜仮想NISHI]]></title>
         <id>https://coinpost.jp/?p=749035</id>
@@ -1422,36 +1432,6 @@
         <link href="https://coinpost.jp/?p=748198"/>
         <updated>2026-11-16T21:45:42.000Z</updated>
         <summary type="html"><![CDATA[仮想通貨ハードウェアウォレット大手のトレザーは16日、配送パートナーのSkladonで不正アクセスがあり、約2万7,000件の注文の氏名や住所、電話番号などが持ち出されたとみていると発表した。端末への影響はないとしている。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ、約7年間続いた「ベータ」表記を廃止、プロトコル「1.0」を導入]]></title>
-        <id>https://coinpost.jp/?p=748204</id>
-        <link href="https://coinpost.jp/?p=748204"/>
-        <updated>2026-11-16T21:30:19.000Z</updated>
-        <summary type="html"><![CDATA[ソラナ財団は16日、メインネットの「ベータ」表記を約6年8カ月ぶりに廃止し、共通のプロトコルバージョン「1.0」を設けると発表した。利用者のSOLや口座に変更はない。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ビットコイン、経済悪化なら2018年のように一段安も長期的には強気」ビットワイズ幹部]]></title>
-        <id>https://coinpost.jp/?p=748199</id>
-        <link href="https://coinpost.jp/?p=748199"/>
-        <updated>2026-11-16T21:15:43.000Z</updated>
-        <summary type="html"><![CDATA[米仮想通貨運用会社ビットワイズの最高投資責任者は、経済状況が悪化すればビットコインが一段安となる可能性があると述べた。今後数週間の底堅さが続けば2027年は好調になりうるとの見通しも示し、長期では強気を維持した。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットマイン、22億円相当のイーサリアムを購入　保有量が総供給量の4.97％に]]></title>
-        <id>https://coinpost.jp/?p=748194</id>
-        <link href="https://coinpost.jp/?p=748194"/>
-        <updated>2026-11-16T20:50:33.000Z</updated>
-        <summary type="html"><![CDATA[米ビットマイン・イマージョン・テクノロジーズが直近1週間で7,653ETHのイーサリアムを購入した。保有量は総供給量の4.97％に当たり、保有資産は計118億ドルに上る。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
