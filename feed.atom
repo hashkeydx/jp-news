@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-22T03:11:06.083Z</updated>
+    <updated>2026-11-22T12:31:17.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[財務省研究会資料、国債トークン化の実機検証をカントンのブロックチェーンで実施へ]]></title>
+        <id>https://coinpost.jp/?p=749074</id>
+        <link href="https://coinpost.jp/?p=749074"/>
+        <updated>2026-11-22T06:45:29.000Z</updated>
+        <summary type="html"><![CDATA[プログマが事務局を務めるデジタルアセット共創コンソーシアムが、国債トークン化の実機検証を2026年11月から2027年3月まで、機関投資家向けブロックチェーンのカントン（Canton）・ネットワーク上で行う計画を、財務省の研究会資料で示した。]]></summary>
+        <author>
+            <name>菊谷ルイス</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン、1000万円割れ　25日PCEデフレーター発表が次の焦点｜bitbankアナリスト寄稿]]></title>
         <id>https://coinpost.jp/?p=748953</id>
@@ -992,86 +1002,6 @@
         <link href="https://coinpost.jp/?p=748493"/>
         <updated>2026-11-18T01:15:24.000Z</updated>
         <summary type="html"><![CDATA[アンカレッジ・デジタルがカルシ・プライムと提携し、機関投資家が保管中のビットコインとステーブルコインを証拠金として使えるようになった。資産の売却や送金をせず、保管先を変えずに取引できる。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン週間12％安、ビットワイズCIOは金利ショックを主因に]]></title>
-        <id>https://coinpost.jp/?p=748474</id>
-        <link href="https://coinpost.jp/?p=748474"/>
-        <updated>2026-11-18T00:29:12.000Z</updated>
-        <summary type="html"><![CDATA[ビットワイズのホーガンCIOは、前週のビットコイン12％安の主因を10月の米CPI上振れによる金利ショックと分析した。12月利上げ確率は100％に上昇し、週末には約20億ドルが清算。ショックは一巡したとみる根拠を伝える。]]></summary>
-        <author>
-            <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メタプラネット傘下入り予定の米スーパーリーグ、8ビットコインを追加購入]]></title>
-        <id>https://coinpost.jp/?p=748443</id>
-        <link href="https://coinpost.jp/?p=748443"/>
-        <updated>2026-11-17T22:50:56.000Z</updated>
-        <summary type="html"><![CDATA[メタプラネットの傘下入りを控える米スーパーリーグが16日、13日に8BTCのビットコインを平均約6万8,948.90ドルで購入したと開示した。購入量は前回の16BTCのビットコインの半分だった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米SEC前委員長、2028年大統領選前のAIバブル崩壊と景気後退の可能性を警告]]></title>
-        <id>https://coinpost.jp/?p=748442</id>
-        <link href="https://coinpost.jp/?p=748442"/>
-        <updated>2026-11-17T22:40:52.000Z</updated>
-        <summary type="html"><![CDATA[米SEC前委員長のゲンスラー氏が、AIバブルは2028年の米大統領選前に崩壊し景気後退を招く可能性が高いとCNNに語った。AIインフラ投資額は年間8,000億ドルに上り、最初に打撃を受ける分野としてネオクラウドを挙げた。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソラナ財団、コインゲッコーの次の成長段階を支援へ　過半数持分を取得]]></title>
-        <id>https://coinpost.jp/?p=748454</id>
-        <link href="https://coinpost.jp/?p=748454"/>
-        <updated>2026-11-17T22:40:24.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨ソラナのソラナ財団はコインゲッコーを支援する。これから注力していくことなど、支援の背景や今後の計画について両者が発表を行った。]]></summary>
-        <author>
-            <name>K.Kobayashi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIサイバー防衛に投資するETF『ZDAY』、米ビットワイズが新規上場]]></title>
-        <id>https://coinpost.jp/?p=748441</id>
-        <link href="https://coinpost.jp/?p=748441"/>
-        <updated>2026-11-17T22:00:48.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨特化の資産運用会社ビットワイズが17日、AIを使ったサイバー攻撃を防ぐ企業やAIシステムを守る企業に投資するETFを上場した。資産の80％以上を投資し、管理報酬は0.75％だ。AIセキュリティ分野への投資手段が加わった。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アップルのiCloud・Apple Payなど広範な障害が発生、仮想通貨購入にも影響]]></title>
-        <id>https://coinpost.jp/?p=748440</id>
-        <link href="https://coinpost.jp/?p=748440"/>
-        <updated>2026-11-17T21:40:46.000Z</updated>
-        <summary type="html"><![CDATA[米IT大手アップルが、社内更新を原因とする障害で、米国の仮想通貨購入に広く使われるApple Payなどに影響が出たと明らかにした。サイバー攻撃が原因ではないと説明。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米最大手ビットコイン現物ETF、11営業日続いた資金引き揚げから一転　慎重な見解も]]></title>
-        <id>https://coinpost.jp/?p=748439</id>
-        <link href="https://coinpost.jp/?p=748439"/>
-        <updated>2026-11-17T21:15:44.000Z</updated>
-        <summary type="html"><![CDATA[ブラックロックのビットコイン現物ETFが16日、11営業日続いた資金流出を食い止め、7,650万ドルの純流入となった。しかし、1日の流入だけで市場の回復とみるのは時期尚早との指摘も。]]></summary>
-        <author>
-            <name>菊谷ルイス</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ブロックチェーン金融が銀行に競争を強いている」米FRBウォラー理事]]></title>
-        <id>https://coinpost.jp/?p=748438</id>
-        <link href="https://coinpost.jp/?p=748438"/>
-        <updated>2026-11-17T20:50:42.000Z</updated>
-        <summary type="html"><![CDATA[FRBのウォラー理事は17日の講演で、ブロックチェーンが銀行を含む既存企業に競争を迫っているとの認識を示した。中央銀行マネーは決済の基盤に不可欠と述べ、バイナンスを巡る最近の出来事にも触れた。]]></summary>
         <author>
             <name>菊谷ルイス</name>
         </author>
