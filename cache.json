@@ -635,6 +635,21 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=749085",
+          "author": "A.Yamada",
+          "description": "東京国税局は昨年度、暗号資産の利用者91人を調査し、39億円余りの申告漏れを指摘した。国税当局は調査体制を強化し、海外当局との情報交換も始める予定だ。",
+          "link": "https://coinpost.jp/?p=749085",
+          "publishedOn": "2026-11-23T00:34:46.000Z",
+          "wordCount": 3196,
+          "title": "東京国税局、暗号資産の追徴税額12億円に　調査体制強化＝報道",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/Tax060930_shutterstock_2734039073-1.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/09/Tax060930_shutterstock_2734039073-1.png"
+        },
+        {
           "id": "https://coinpost.jp/?p=749074",
           "author": "菊谷ルイス",
           "description": "プログマが事務局を務めるデジタルアセット共創コンソーシアムが、国債トークン化の実機検証を2026年11月から2027年3月まで、機関投資家向けブロックチェーンのカントン（Canton）・ネットワーク上で行う計画を、財務省の研究会資料で示した。",
@@ -1323,21 +1338,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/USSenate0809211.png"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2021/08/USSenate0809211.png"
-        },
-        {
-          "id": "https://coinpost.jp/?p=748528",
-          "author": "幸田直子",
-          "description": "米グーグルのGTIGが、AIエージェントが脆弱性の発見から攻撃実行までを自動で行う事例を初めて確認したと報告した。北朝鮮関連とされるグループによる仮想通貨企業への攻撃や、Claude Codeの設定ファイル改ざんも明らかになった。",
-          "link": "https://coinpost.jp/?p=748528",
-          "publishedOn": "2026-11-18T08:30:22.000Z",
-          "wordCount": 3217,
-          "title": "グーグル、AIが脆弱性発見から攻撃まで自動化と警告　仮想通貨企業も標的",
-          "enclosure": {
-            "length": "0",
-            "type": "image/png",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Google-Logo-Web3.png"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2022/05/Google-Logo-Web3.png"
         }
       ]
     },
@@ -1635,46 +1635,6 @@
           "wordCount": 628,
           "title": "香港金融管理局、暗号資産のマネロン対策にAI活用を検討",
           "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/19135614/264b944dbfbdb97a023d6b0af25ad919.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627993",
-          "author": "NewEconomyPodcast",
-          "description": "Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]",
-          "link": "https://www.neweconomy.jp/posts/627993",
-          "publishedOn": "2026-11-18T12:36:27.000Z",
-          "wordCount": 660,
-          "title": "【11/18話題】国内初のマントル（MNT）上場、英モニュメント銀行がミッドナイトで個人向けトークン化預金を提供開始など（音声ニュース）",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/18184314/5c910c11ef0d57a5a0ff6be5b73b12d8.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627928",
-          "author": "HitomotoToshikazu",
-          "description": "Coinbaseが暗号資産担保融資をNY州でも開始 米暗号資産（仮想通貨）取引所コインベース（Coinbase）提供の暗号資産担保融資サービス「コインベースボロー（Coinbase Borrow）」が、米ニューヨーク州で […]",
-          "link": "https://www.neweconomy.jp/posts/627928",
-          "publishedOn": "2026-11-18T08:30:40.000Z",
-          "wordCount": 651,
-          "title": "コインベース、暗号資産担保融資をNY州でも開始。モルフォ活用で全米50州に展開",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/18160857/48c759194c26442984d6cf71a71e5bac.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627962",
-          "author": "OtsugaShinya",
-          "description": "英ポンド建ての定期預金、初期枠は約527億円 英デジタル銀行のモニュメント銀行（Monument Bank）が、パブリックブロックチェーン「ミッドナイト（Midnight）」を活用した個人向けトークン化預金の提供を開始し […]",
-          "link": "https://www.neweconomy.jp/posts/627962",
-          "publishedOn": "2026-11-18T08:29:29.000Z",
-          "wordCount": 730,
-          "title": "英モニュメント銀行、ミッドナイトで個人向けトークン化預金を提供開始",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/18172807/3a65e941b2d4c891a5432999d9995a77.jpg"
-        },
-        {
-          "id": "https://www.neweconomy.jp/?p=627954",
-          "author": "OtsugaShinya",
-          "description": "10月31日に2銘柄を追加、取扱銘柄は計23に 国内暗号資産（仮想通貨）取引所GMOコインが、暗号資産「マントル（MNT）」と「ビルドアンドビルド（BNB）」の2銘柄の取り扱いを10月31日の定期メンテナンス終了後に開始 […]",
-          "link": "https://www.neweconomy.jp/posts/627954",
-          "publishedOn": "2026-11-18T08:24:28.000Z",
-          "wordCount": 639,
-          "title": "国内初、マントル（MNT）がGMOコインに上場。BNBも",
-          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/18172243/0e49ea7146ead1bf0e2d0327f5f43270.jpg"
         }
       ]
     }

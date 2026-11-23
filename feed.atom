@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-22T20:18:17.907Z</updated>
+    <updated>2026-11-23T01:38:01.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[東京国税局、暗号資産の追徴税額12億円に　調査体制強化＝報道]]></title>
+        <id>https://coinpost.jp/?p=749085</id>
+        <link href="https://coinpost.jp/?p=749085"/>
+        <updated>2026-11-23T00:34:46.000Z</updated>
+        <summary type="html"><![CDATA[東京国税局は昨年度、暗号資産の利用者91人を調査し、39億円余りの申告漏れを指摘した。国税当局は調査体制を強化し、海外当局との情報交換も始める予定だ。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[財務省研究会資料、国債トークン化の実機検証をカントンのブロックチェーンで実施へ]]></title>
         <id>https://coinpost.jp/?p=749074</id>
@@ -754,56 +764,6 @@
         <summary type="html"><![CDATA[米上院の超党派6議員がベッセント財務長官に書簡を送り、ジーニアス法の施行で州規制下のステーブルコイン発行体にも連邦申請者と同等の猶予措置を設けるよう求めた。2027年1月の施行を前に、州と連邦の扱いの差が論点に浮上している。]]></summary>
         <author>
             <name>Enzo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【11/18話題】国内初のマントル（MNT）上場、英モニュメント銀行がミッドナイトで個人向けトークン化預金を提供開始など（音声ニュース）]]></title>
-        <id>https://www.neweconomy.jp/?p=627993</id>
-        <link href="https://www.neweconomy.jp/posts/627993"/>
-        <updated>2026-11-18T12:36:27.000Z</updated>
-        <summary type="html"><![CDATA[Web3ニュースをポッドキャストで！ ブロックチェーン・仮想通貨（暗号資産）・フィンテックについてのニュース解説を「あたらしい経済」編集部が、平日毎日ポッドキャストでお届けします。Apple Podcast、Spotif […]]]></summary>
-        <author>
-            <name>NewEconomyPodcast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コインベース、暗号資産担保融資をNY州でも開始。モルフォ活用で全米50州に展開]]></title>
-        <id>https://www.neweconomy.jp/?p=627928</id>
-        <link href="https://www.neweconomy.jp/posts/627928"/>
-        <updated>2026-11-18T08:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Coinbaseが暗号資産担保融資をNY州でも開始 米暗号資産（仮想通貨）取引所コインベース（Coinbase）提供の暗号資産担保融資サービス「コインベースボロー（Coinbase Borrow）」が、米ニューヨーク州で […]]]></summary>
-        <author>
-            <name>HitomotoToshikazu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[グーグル、AIが脆弱性発見から攻撃まで自動化と警告　仮想通貨企業も標的]]></title>
-        <id>https://coinpost.jp/?p=748528</id>
-        <link href="https://coinpost.jp/?p=748528"/>
-        <updated>2026-11-18T08:30:22.000Z</updated>
-        <summary type="html"><![CDATA[米グーグルのGTIGが、AIエージェントが脆弱性の発見から攻撃実行までを自動で行う事例を初めて確認したと報告した。北朝鮮関連とされるグループによる仮想通貨企業への攻撃や、Claude Codeの設定ファイル改ざんも明らかになった。]]></summary>
-        <author>
-            <name>幸田直子</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英モニュメント銀行、ミッドナイトで個人向けトークン化預金を提供開始]]></title>
-        <id>https://www.neweconomy.jp/?p=627962</id>
-        <link href="https://www.neweconomy.jp/posts/627962"/>
-        <updated>2026-11-18T08:29:29.000Z</updated>
-        <summary type="html"><![CDATA[英ポンド建ての定期預金、初期枠は約527億円 英デジタル銀行のモニュメント銀行（Monument Bank）が、パブリックブロックチェーン「ミッドナイト（Midnight）」を活用した個人向けトークン化預金の提供を開始し […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内初、マントル（MNT）がGMOコインに上場。BNBも]]></title>
-        <id>https://www.neweconomy.jp/?p=627954</id>
-        <link href="https://www.neweconomy.jp/posts/627954"/>
-        <updated>2026-11-18T08:24:28.000Z</updated>
-        <summary type="html"><![CDATA[10月31日に2銘柄を追加、取扱銘柄は計23に 国内暗号資産（仮想通貨）取引所GMOコインが、暗号資産「マントル（MNT）」と「ビルドアンドビルド（BNB）」の2銘柄の取り扱いを10月31日の定期メンテナンス終了後に開始 […]]]></summary>
-        <author>
-            <name>OtsugaShinya</name>
         </author>
     </entry>
     <entry>
