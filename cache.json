@@ -635,6 +635,111 @@
       "siteUrl": "https://coinpost.jp",
       "articles": [
         {
+          "id": "https://coinpost.jp/?p=749571",
+          "author": "Enzo",
+          "description": "パスワード管理大手1Passwordが、従業員のGitHubアカウント経由の不正侵入を公表した。一部ユーザーの氏名やメールアドレスが流出したが、保管庫の中身へのアクセスはないという。LastPassの侵害が仮想通貨盗難につながったと指摘される中、経緯と影響範囲を整理する。",
+          "link": "https://coinpost.jp/?p=749571",
+          "publishedOn": "2026-11-26T03:00:10.000Z",
+          "wordCount": 3222,
+          "title": "1Password、一部ユーザー情報流出　保管庫は影響なしと説明",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/elsal-leak.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2024/04/elsal-leak.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749551",
+          "author": "K.Kobayashi",
+          "description": "仮想通貨取引所バイナンスは、バイナンスウォレットがレナイスに対応したことを発表。レナイスにアクセスしてガチャ機能を使い、トレカを入手・所有できるようになった。",
+          "link": "https://coinpost.jp/?p=749551",
+          "publishedOn": "2026-11-26T02:30:39.000Z",
+          "wordCount": 3235,
+          "title": "バイナンス、トレカのガチャ機能をウォレットに導入　レナイスに対応",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2023/03/binance-rebuke.jpeg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749559",
+          "author": "Enzo",
+          "description": "bitFlyerは12月7日から、海外仮想通貨取引所MEXCとの送付・受取を停止する。米財務省FinCENがMEXCをマネー・ローンダリング上の主要な懸念先に指定したことを受けた措置。登録済みアドレスへの送付も止まる。",
+          "link": "https://coinpost.jp/?p=749559",
+          "publishedOn": "2026-11-26T01:54:18.000Z",
+          "wordCount": 3234,
+          "title": "bitFlyer、MEXCとの送受取を停止へ　米FinCEN命令受け",
+          "enclosure": {
+            "length": "0",
+            "type": "image/png",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/bitflyer-mexc.png"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/bitflyer-mexc.png"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749550",
+          "author": "Enzo",
+          "description": "米ギャラクシーのリサーチ部門は25日、ビットコインの弱気相場が6月に終わったとする10月の見解を撤回した。50週線を再び割り込み7週にわたり下落。6月安値5万8,525ドルの終値割れを大幅安への分岐点とみる。",
+          "link": "https://coinpost.jp/?p=749550",
+          "publishedOn": "2026-11-26T01:30:36.000Z",
+          "wordCount": 3228,
+          "title": "ギャラクシー、ビットコイン底打ち判断を撤回　6月安値割れを警戒",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2025/03/bitcoin-reserve-toly-against.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749541",
+          "author": "A.Yamada",
+          "description": "ビットコイン採掘プールを運営するブレインズは、暗号化されていないStratum V1接続を狙うマイナー計算能力の乗っ取りを警告した。手口や推奨される対策を説明している。",
+          "link": "https://coinpost.jp/?p=749541",
+          "publishedOn": "2026-11-26T01:15:36.000Z",
+          "wordCount": 3240,
+          "title": "ブレインズ、1000拠点以上でビットコイン採掘の乗っ取りを報告",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/crypto-hack-kucoin.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/09/crypto-hack-kucoin.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749545",
+          "author": "Enzo",
+          "description": "グーグル・リサーチが25日、AIで作成した数学論文6本を公開した。素因数分解の論文は既存手法の計算量を初めて厳密に証明したもので、専門家はRSA暗号を破るものではないと指摘する。ビットコインの楕円曲線暗号も対象外となる。",
+          "link": "https://coinpost.jp/?p=749545",
+          "publishedOn": "2026-11-26T00:46:18.000Z",
+          "wordCount": 3230,
+          "title": "グーグルのAI論文、RSAやビットコインの暗号に影響なし＝専門家",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/cryptography29374-1.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/04/cryptography29374-1.jpg"
+        },
+        {
+          "id": "https://coinpost.jp/?p=749534",
+          "author": "K.Kobayashi",
+          "description": "ビット・デジタルは、保有する仮想通貨イーサリアムの一部である2万9,825ETHを売却。その売却代金である約5,000万ドルをギャラクシー・デジタルからの担保付き融資の返済に充てたと発表した。",
+          "link": "https://coinpost.jp/?p=749534",
+          "publishedOn": "2026-11-26T00:00:30.000Z",
+          "wordCount": 3306,
+          "title": "米上場ビット・デジタル、約3万ETH売却で債務を一部返済　イーサリアム戦略は継続",
+          "enclosure": {
+            "length": "0",
+            "type": "image/jpeg",
+            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/Bit-Digital-Reduces-Secured-Borrowings-Through-Partial-Sale-of-Ethereum-Holdings_November-2026.jpg"
+          },
+          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/11/Bit-Digital-Reduces-Secured-Borrowings-Through-Partial-Sale-of-Ethereum-Holdings_November-2026.jpg"
+        },
+        {
           "id": "https://coinpost.jp/?p=749480",
           "author": "Enzo",
           "description": "チェコ国立銀行（CNB）がビットコインを含む100万ドルのテスト用ポートフォリオを公表して1年。取得価格や評価額、取引所名は非開示のままだ。情報公開請求への回答と2025年度財務諸表から、保有の扱いを整理する。",
@@ -1353,21 +1458,6 @@
             "url": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
           },
           "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2020/06/coinpost20200624_2.jpg"
-        },
-        {
-          "id": "https://coinpost.jp/?p=749050",
-          "author": "A.Yamada",
-          "description": "コインベースの仮想通貨市場週間レポートによるとビットコインは約12%下落し200週移動平均線を割り込んだ。過去の事例や、BTCとETHのサポート・レジスタンス水準を解説している。",
-          "link": "https://coinpost.jp/?p=749050",
-          "publishedOn": "2026-11-21T12:00:24.000Z",
-          "wordCount": 3201,
-          "title": "ビットコイン、「5.8万ドル割り込めば2022年型の下落リスクも」＝コインベース",
-          "enclosure": {
-            "length": "0",
-            "type": "image/jpeg",
-            "url": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-down-but-not-that-bad-1.jpg"
-          },
-          "imageUrl": "https://cdn.coinpost.jp/wp-content/uploads/2026/06/bitcoin-down-but-not-that-bad-1.jpg"
         }
       ]
     },
@@ -1376,6 +1466,106 @@
       "feedUrl": "https://www.neweconomy.jp/categories/news/feed",
       "siteUrl": "https://www.neweconomy.jp",
       "articles": [
+        {
+          "id": "https://www.neweconomy.jp/?p=630152",
+          "author": "HitomotoToshikazu",
+          "description": "Franklin Crypto Index ETFにHYPE組み入れへ 米資産運用会社フランクリン・テンプルトン（Franklin Templeton）の暗号資産インデックスETF「Franklin Crypto Ind […]",
+          "link": "https://www.neweconomy.jp/posts/630152",
+          "publishedOn": "2026-11-26T04:52:51.000Z",
+          "wordCount": 498,
+          "title": "フランクリンテンプルトンの暗号資産インデックスETF、「ハイパーリキッド（HYPE）」組み入れへ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/06/30142835/35035869bf81fc31b54b776bf5dd946c.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630145",
+          "author": "watanabeyousuke",
+          "description": "Agaveにブロック処理中止の新設計案 ソラナ（Solana）のバリデーターソフトウェア「アガベ（Agave）」に、最終的なブロックチェーンに採用されないことが確定したブロックの処理を中止する機能の追加が提案された。開発 […]",
+          "link": "https://www.neweconomy.jp/posts/630145",
+          "publishedOn": "2026-11-26T04:46:58.000Z",
+          "wordCount": 617,
+          "title": "ソラナのAgaveに不採用ブロック処理中止の新設計案、計算負荷の削減目指す",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26134438/6bb30b798daf3ed7ed88c3f9efaffc82.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630139",
+          "author": "watanabeyousuke",
+          "description": "Seiメインネットで大型アップグレード実施 レイヤー1ブロックチェーン「セイ（Sei）」のメインネットで、アップグレード「v6.8」が実施された。11月25日に公式Xアカウントで発表された。今回のアップグレードでは、従来 […]",
+          "link": "https://www.neweconomy.jp/posts/630139",
+          "publishedOn": "2026-11-26T04:36:48.000Z",
+          "wordCount": 644,
+          "title": "Seiメインネットで大型アップグレード「v6.8」実施、Gigaテストネットに向け最終段階へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26133445/19a2faedcb64159e4ed08ba0ae2ad680.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630125",
+          "author": "TanakaShuya",
+          "description": "Tetherがラテンアメリカでデジタル資産の活用拡大目指す 米ドル建てステーブルコインUSDTや金連動トークン「テザーゴールド（Tether Gold：XAUT）」を展開するテザー（Tether）が、アルゼンチンのフィン […]",
+          "link": "https://www.neweconomy.jp/posts/630125",
+          "publishedOn": "2026-11-26T04:18:29.000Z",
+          "wordCount": 680,
+          "title": "テザー、アルゼンチン企業レモンに投資。中南米でUSDT・XAUTの利用拡大へ",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26131619/c941f98da1243ff8f9e2409739b9d0d5.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630118",
+          "author": "OtsugaShinya",
+          "description": "ステーブルコイン決済や資産トークン化など4領域で事業展開へ SBIホールディングス、三井住友フィナンシャルグループ（SMFG）、ソラナ財団（Solana Foundation）が、合弁会社「SBI Solana Glob […]",
+          "link": "https://www.neweconomy.jp/posts/630118",
+          "publishedOn": "2026-11-26T04:03:38.000Z",
+          "wordCount": 563,
+          "title": "SBI・三井住友FG・ソラナ財団の合弁「SBI Solana Global」が本格始動",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26130128/11748d35322c413bd879c38bf69385a1.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630112",
+          "author": "OtsugaShinya",
+          "description": "顧客が管理するクラウドに入出力データを保存 生成AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）が、企業向けの安全対策機能「エンタープライズ・フロンティア・セーフガーズ（Enterpris […]",
+          "link": "https://www.neweconomy.jp/posts/630112",
+          "publishedOn": "2026-11-26T03:43:10.000Z",
+          "wordCount": 673,
+          "title": "アンソロピック、Claudeの悪用を検知する企業向け「EFS」の公開ベータ開始",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26124055/f73b1c8c401084925140da541c4dbb0e.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630105",
+          "author": "watanabeyousuke",
+          "description": "Visa CLIの新バージョンを米国向けに公開 米決済大手ビザ（Visa）が、AIエージェント向けウォレット「ビザCLI（Visa CLI）」の新バージョンを米国向けに公開した。同社のビザ・クリプト・ラボ（Visa Cr […]",
+          "link": "https://www.neweconomy.jp/posts/630105",
+          "publishedOn": "2026-11-26T03:33:07.000Z",
+          "wordCount": 700,
+          "title": "Visa、AIエージェントの有償タスクで利用者が報酬獲得できる「Visa CLI」新版公開",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26123107/4f63c4a807c8e40d3972b3e70efaf11b.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630097",
+          "author": "HitomotoToshikazu",
+          "description": "HSBCなど3社がPGIを売買、担保にも利用 現物金の持分「プールド・ゴールド・インタレスト（Pooled Gold Interests：PGI）」を使った初の実取引が、金の卸売市場で行われた。英国ロンドンに本部を置く金 […]",
+          "link": "https://www.neweconomy.jp/posts/630097",
+          "publishedOn": "2026-11-26T03:29:31.000Z",
+          "wordCount": 667,
+          "title": "HSBCやJPモルガンなど3社、現物金の持分「PGI」で初の実取引。担保にも活用",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26122730/70ff47c43783f467aad9dec8791bdf52.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630091",
+          "author": "watanabeyousuke",
+          "description": "Baseが2027年に耐量子セキュリティ対策を重点化へ 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が開発するイーサリアム（Ethereum）のレイヤー2ネットワーク「ベース（Base）」が、2027年に […]",
+          "link": "https://www.neweconomy.jp/posts/630091",
+          "publishedOn": "2026-11-26T03:25:20.000Z",
+          "wordCount": 606,
+          "title": "Base、2027年に耐量子セキュリティ対策を重点化へ＝報道",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26122333/3042146dff0369323cfd43ab9fe562db.jpg"
+        },
+        {
+          "id": "https://www.neweconomy.jp/?p=630085",
+          "author": "watanabeyousuke",
+          "description": "ステラの「Bell」がメインネットで有効化 ブロックチェーン「ステラ（Stellar）」のアップグレード「ベル（Bell）」の実施により、プロトコルがバージョン30（Protocol 30）に更新された。公式Xアカウント […]",
+          "link": "https://www.neweconomy.jp/posts/630085",
+          "publishedOn": "2026-11-26T03:21:35.000Z",
+          "wordCount": 651,
+          "title": "ステラのアップグレード「Bell」がメインネットで完了、耐量子電子署名の検証などに対応",
+          "imageUrl": "https://s3.ap-northeast-1.amazonaws.com/static.neweconomy.jp/content/uploads/2026/11/26121532/a626b097796d40ea19b7447773d9485c.jpg"
+        },
         {
           "id": "https://www.neweconomy.jp/?p=629947",
           "author": "NewEconomyPodcast",

@@ -2,10 +2,180 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hashkeydx.github.io/jp-news/index.html</id>
     <title>BlockChain::FlashNews</title>
-    <updated>2026-11-25T22:28:19.866Z</updated>
+    <updated>2026-11-26T04:58:48.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hashkeydx.github.io/jp-news/index.html"/>
     <link rel="self" href="https://hashkeydx.github.io/jp-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フランクリンテンプルトンの暗号資産インデックスETF、「ハイパーリキッド（HYPE）」組み入れへ]]></title>
+        <id>https://www.neweconomy.jp/?p=630152</id>
+        <link href="https://www.neweconomy.jp/posts/630152"/>
+        <updated>2026-11-26T04:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Franklin Crypto Index ETFにHYPE組み入れへ 米資産運用会社フランクリン・テンプルトン（Franklin Templeton）の暗号資産インデックスETF「Franklin Crypto Ind […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソラナのAgaveに不採用ブロック処理中止の新設計案、計算負荷の削減目指す]]></title>
+        <id>https://www.neweconomy.jp/?p=630145</id>
+        <link href="https://www.neweconomy.jp/posts/630145"/>
+        <updated>2026-11-26T04:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Agaveにブロック処理中止の新設計案 ソラナ（Solana）のバリデーターソフトウェア「アガベ（Agave）」に、最終的なブロックチェーンに採用されないことが確定したブロックの処理を中止する機能の追加が提案された。開発 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seiメインネットで大型アップグレード「v6.8」実施、Gigaテストネットに向け最終段階へ]]></title>
+        <id>https://www.neweconomy.jp/?p=630139</id>
+        <link href="https://www.neweconomy.jp/posts/630139"/>
+        <updated>2026-11-26T04:36:48.000Z</updated>
+        <summary type="html"><![CDATA[Seiメインネットで大型アップグレード実施 レイヤー1ブロックチェーン「セイ（Sei）」のメインネットで、アップグレード「v6.8」が実施された。11月25日に公式Xアカウントで発表された。今回のアップグレードでは、従来 […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テザー、アルゼンチン企業レモンに投資。中南米でUSDT・XAUTの利用拡大へ]]></title>
+        <id>https://www.neweconomy.jp/?p=630125</id>
+        <link href="https://www.neweconomy.jp/posts/630125"/>
+        <updated>2026-11-26T04:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Tetherがラテンアメリカでデジタル資産の活用拡大目指す 米ドル建てステーブルコインUSDTや金連動トークン「テザーゴールド（Tether Gold：XAUT）」を展開するテザー（Tether）が、アルゼンチンのフィン […]]]></summary>
+        <author>
+            <name>TanakaShuya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBI・三井住友FG・ソラナ財団の合弁「SBI Solana Global」が本格始動]]></title>
+        <id>https://www.neweconomy.jp/?p=630118</id>
+        <link href="https://www.neweconomy.jp/posts/630118"/>
+        <updated>2026-11-26T04:03:38.000Z</updated>
+        <summary type="html"><![CDATA[ステーブルコイン決済や資産トークン化など4領域で事業展開へ SBIホールディングス、三井住友フィナンシャルグループ（SMFG）、ソラナ財団（Solana Foundation）が、合弁会社「SBI Solana Glob […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アンソロピック、Claudeの悪用を検知する企業向け「EFS」の公開ベータ開始]]></title>
+        <id>https://www.neweconomy.jp/?p=630112</id>
+        <link href="https://www.neweconomy.jp/posts/630112"/>
+        <updated>2026-11-26T03:43:10.000Z</updated>
+        <summary type="html"><![CDATA[顧客が管理するクラウドに入出力データを保存 生成AI「クロード（Claude）」を開発する米アンソロピック（Anthropic）が、企業向けの安全対策機能「エンタープライズ・フロンティア・セーフガーズ（Enterpris […]]]></summary>
+        <author>
+            <name>OtsugaShinya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa、AIエージェントの有償タスクで利用者が報酬獲得できる「Visa CLI」新版公開]]></title>
+        <id>https://www.neweconomy.jp/?p=630105</id>
+        <link href="https://www.neweconomy.jp/posts/630105"/>
+        <updated>2026-11-26T03:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Visa CLIの新バージョンを米国向けに公開 米決済大手ビザ（Visa）が、AIエージェント向けウォレット「ビザCLI（Visa CLI）」の新バージョンを米国向けに公開した。同社のビザ・クリプト・ラボ（Visa Cr […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HSBCやJPモルガンなど3社、現物金の持分「PGI」で初の実取引。担保にも活用]]></title>
+        <id>https://www.neweconomy.jp/?p=630097</id>
+        <link href="https://www.neweconomy.jp/posts/630097"/>
+        <updated>2026-11-26T03:29:31.000Z</updated>
+        <summary type="html"><![CDATA[HSBCなど3社がPGIを売買、担保にも利用 現物金の持分「プールド・ゴールド・インタレスト（Pooled Gold Interests：PGI）」を使った初の実取引が、金の卸売市場で行われた。英国ロンドンに本部を置く金 […]]]></summary>
+        <author>
+            <name>HitomotoToshikazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Base、2027年に耐量子セキュリティ対策を重点化へ＝報道]]></title>
+        <id>https://www.neweconomy.jp/?p=630091</id>
+        <link href="https://www.neweconomy.jp/posts/630091"/>
+        <updated>2026-11-26T03:25:20.000Z</updated>
+        <summary type="html"><![CDATA[Baseが2027年に耐量子セキュリティ対策を重点化へ 米暗号資産（仮想通貨）取引所コインベース（Coinbase）が開発するイーサリアム（Ethereum）のレイヤー2ネットワーク「ベース（Base）」が、2027年に […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステラのアップグレード「Bell」がメインネットで完了、耐量子電子署名の検証などに対応]]></title>
+        <id>https://www.neweconomy.jp/?p=630085</id>
+        <link href="https://www.neweconomy.jp/posts/630085"/>
+        <updated>2026-11-26T03:21:35.000Z</updated>
+        <summary type="html"><![CDATA[ステラの「Bell」がメインネットで有効化 ブロックチェーン「ステラ（Stellar）」のアップグレード「ベル（Bell）」の実施により、プロトコルがバージョン30（Protocol 30）に更新された。公式Xアカウント […]]]></summary>
+        <author>
+            <name>watanabeyousuke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1Password、一部ユーザー情報流出　保管庫は影響なしと説明]]></title>
+        <id>https://coinpost.jp/?p=749571</id>
+        <link href="https://coinpost.jp/?p=749571"/>
+        <updated>2026-11-26T03:00:10.000Z</updated>
+        <summary type="html"><![CDATA[パスワード管理大手1Passwordが、従業員のGitHubアカウント経由の不正侵入を公表した。一部ユーザーの氏名やメールアドレスが流出したが、保管庫の中身へのアクセスはないという。LastPassの侵害が仮想通貨盗難につながったと指摘される中、経緯と影響範囲を整理する。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バイナンス、トレカのガチャ機能をウォレットに導入　レナイスに対応]]></title>
+        <id>https://coinpost.jp/?p=749551</id>
+        <link href="https://coinpost.jp/?p=749551"/>
+        <updated>2026-11-26T02:30:39.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨取引所バイナンスは、バイナンスウォレットがレナイスに対応したことを発表。レナイスにアクセスしてガチャ機能を使い、トレカを入手・所有できるようになった。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bitFlyer、MEXCとの送受取を停止へ　米FinCEN命令受け]]></title>
+        <id>https://coinpost.jp/?p=749559</id>
+        <link href="https://coinpost.jp/?p=749559"/>
+        <updated>2026-11-26T01:54:18.000Z</updated>
+        <summary type="html"><![CDATA[bitFlyerは12月7日から、海外仮想通貨取引所MEXCとの送付・受取を停止する。米財務省FinCENがMEXCをマネー・ローンダリング上の主要な懸念先に指定したことを受けた措置。登録済みアドレスへの送付も止まる。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ギャラクシー、ビットコイン底打ち判断を撤回　6月安値割れを警戒]]></title>
+        <id>https://coinpost.jp/?p=749550</id>
+        <link href="https://coinpost.jp/?p=749550"/>
+        <updated>2026-11-26T01:30:36.000Z</updated>
+        <summary type="html"><![CDATA[米ギャラクシーのリサーチ部門は25日、ビットコインの弱気相場が6月に終わったとする10月の見解を撤回した。50週線を再び割り込み7週にわたり下落。6月安値5万8,525ドルの終値割れを大幅安への分岐点とみる。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブレインズ、1000拠点以上でビットコイン採掘の乗っ取りを報告]]></title>
+        <id>https://coinpost.jp/?p=749541</id>
+        <link href="https://coinpost.jp/?p=749541"/>
+        <updated>2026-11-26T01:15:36.000Z</updated>
+        <summary type="html"><![CDATA[ビットコイン採掘プールを運営するブレインズは、暗号化されていないStratum V1接続を狙うマイナー計算能力の乗っ取りを警告した。手口や推奨される対策を説明している。]]></summary>
+        <author>
+            <name>A.Yamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルのAI論文、RSAやビットコインの暗号に影響なし＝専門家]]></title>
+        <id>https://coinpost.jp/?p=749545</id>
+        <link href="https://coinpost.jp/?p=749545"/>
+        <updated>2026-11-26T00:46:18.000Z</updated>
+        <summary type="html"><![CDATA[グーグル・リサーチが25日、AIで作成した数学論文6本を公開した。素因数分解の論文は既存手法の計算量を初めて厳密に証明したもので、専門家はRSA暗号を破るものではないと指摘する。ビットコインの楕円曲線暗号も対象外となる。]]></summary>
+        <author>
+            <name>Enzo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米上場ビット・デジタル、約3万ETH売却で債務を一部返済　イーサリアム戦略は継続]]></title>
+        <id>https://coinpost.jp/?p=749534</id>
+        <link href="https://coinpost.jp/?p=749534"/>
+        <updated>2026-11-26T00:00:30.000Z</updated>
+        <summary type="html"><![CDATA[ビット・デジタルは、保有する仮想通貨イーサリアムの一部である2万9,825ETHを売却。その売却代金である約5,000万ドルをギャラクシー・デジタルからの担保付き融資の返済に充てたと発表した。]]></summary>
+        <author>
+            <name>K.Kobayashi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チェコ中銀のビットコイン試験保有から1年　保有量・評価額は非開示]]></title>
         <id>https://coinpost.jp/?p=749480</id>
@@ -784,16 +954,6 @@
         <summary type="html"><![CDATA[今週は、ブロックストリームのアダム・バックCEOによる仮想通貨ビットコインの価格予測、ストライブのCEOによる相場分析、バンガードの指数ファンドによるメタプラネット株の保有に関する記事が関心を集めた。]]></summary>
         <author>
             <name>CoinPost編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビットコイン、「5.8万ドル割り込めば2022年型の下落リスクも」＝コインベース]]></title>
-        <id>https://coinpost.jp/?p=749050</id>
-        <link href="https://coinpost.jp/?p=749050"/>
-        <updated>2026-11-21T12:00:24.000Z</updated>
-        <summary type="html"><![CDATA[コインベースの仮想通貨市場週間レポートによるとビットコインは約12%下落し200週移動平均線を割り込んだ。過去の事例や、BTCとETHのサポート・レジスタンス水準を解説している。]]></summary>
-        <author>
-            <name>A.Yamada</name>
         </author>
     </entry>
     <entry>
